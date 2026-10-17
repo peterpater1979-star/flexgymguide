@@ -60,7 +60,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in andere Europese l
 | Kenmerk | ClassPass | Trainmore | Urban Sports Club |
 | --- | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
-| **Prijs per maand** | Vanaf [PRIJS] | Vanaf [PRIJS] | Vanaf [PRIJS] |
+| **Prijs per maand** | Vanaf €19 (11 credits) | Vanaf [PRIJS] | Vanaf [PRIJS] |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties |
 | **Locaties in Amsterdam** | [AANTAL] studio's en gyms | [AANTAL] clubs | [AANTAL] partners |
 | **Opzeggen** | Op elk moment aan te passen of op te zeggen | [VOORWAARDEN] | [VOORWAARDEN] |

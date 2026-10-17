@@ -108,7 +108,7 @@ Je kunt je abonnement op elk moment aanpassen, pauzeren of opzeggen.
 <details open>
 <summary>Wat kost ClassPass in Nederland?</summary>
 
-Dat hangt af van het aantal credits per maand. Kleinere abonnementen beginnen rond [PRIJS] per maand. Controleer de actuele prijzen bij ClassPass.
+Dat hangt af van het aantal credits per maand. Het kleinste abonnement kost €19 per maand voor 11 credits, het grootste €199 voor 140 credits (oktober 2026). Controleer de actuele prijzen bij ClassPass.
 
 </details>
 
