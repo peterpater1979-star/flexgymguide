@@ -93,7 +93,7 @@ Gym pass vs gym membership
 - **[Rotterdam](/nl/rotterdam/)** · Nederland
 - **[Utrecht](/nl/utrecht/)** · Nederland
 - **[Berlin](/de/berlin/)** · Deutschland
-- **München** · Deutschland
+- **[München](/de/muenchen/)** · Deutschland
 - **[London](/uk/london/)** · United Kingdom
 
 </div>
