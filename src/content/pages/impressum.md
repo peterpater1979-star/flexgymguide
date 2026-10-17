@@ -10,10 +10,10 @@ crumb: "Impressum"
 
 ## Angaben gemäß § 5 DDG
 
-[VOLLSTÄNDIGER NAME]<br>
-[STRASSE UND HAUSNUMMER]<br>
-[POSTLEITZAHL UND ORT]<br>
-[LAND]
+Peter Pater<br>
+Leuvenstraat 134<br>
+1066 HD Amsterdam<br>
+Niederlande
 
 ## Kontakt
 
@@ -22,7 +22,7 @@ E-Mail: [info@flexgymguide.com](mailto:info@flexgymguide.com)<br>
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
-[VOLLSTÄNDIGER NAME], Anschrift wie oben
+Peter Pater, Anschrift wie oben
 
 ## Hinweis zu Affiliate-Links
 

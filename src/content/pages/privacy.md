@@ -11,7 +11,7 @@ updated: "2026-10-17"
 
 ## Who is responsible
 
-[NAME], [ADDRESS], [info@flexgymguide.com](mailto:info@flexgymguide.com). See also the [Impressum](/impressum/).
+Peter Pater, Leuvenstraat 134, 1066 HD Amsterdam, the Netherlands, [info@flexgymguide.com](mailto:info@flexgymguide.com). See also the [Impressum](/impressum/).
 
 ## What we process
 
@@ -34,7 +34,7 @@ FlexGymGuide zelf plaatst geen cookies. De site draait bij Netlify, dat technisc
 
 <h2 id="de">Datenschutzerklärung (Deutsch)</h2>
 
-**Verantwortlicher:** [NAME], [ADRESSE], [info@flexgymguide.com](mailto:info@flexgymguide.com).
+**Verantwortlicher:** Peter Pater, Leuvenstraat 134, 1066 HD Amsterdam, Niederlande, [info@flexgymguide.com](mailto:info@flexgymguide.com).
 
 **Hosting:** Die Website wird bei Netlify gehostet. Dabei werden technische Daten wie IP-Adresse und Browser verarbeitet, um die Seiten auszuliefern und die Website zu schützen (Art. 6 Abs. 1 lit. f DSGVO).
 

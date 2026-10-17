@@ -6,7 +6,7 @@ lang: de
 land: de
 crumb: "Deutschland"
 kicker: "Länderguide Deutschland"
-byline: "Von [AUTOR] · Aktualisiert am 17. Oktober 2026"
+byline: "Von Peter Pater · Aktualisiert am 17. Oktober 2026"
 ---
 
 Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Bedingungen. Hier liest du, was zu dir passt und in welchen Städten.

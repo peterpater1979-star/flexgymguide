@@ -10,7 +10,7 @@ FlexGymGuide helps you work out without being tied to one gym. We compare fitnes
 
 ## Who we are
 
-FlexGymGuide is made by [NAME], based in [CITY]. [ONE OR TWO SENTENCES ABOUT YOURSELF AND WHY YOU STARTED THE SITE.]
+FlexGymGuide is made by Peter Pater, based in Amsterdam. [ONE OR TWO SENTENCES ABOUT YOURSELF AND WHY YOU STARTED THE SITE.]
 
 ## How we compare
 
@@ -24,8 +24,8 @@ Some links on this site are affiliate links. If you sign up through such a link,
 
 <h2 id="nl">Over ons (Nederlands)</h2>
 
-FlexGymGuide vergelijkt sportpassen zoals ClassPass en sportscholen met flexibele abonnementen, per land. De site wordt gemaakt door [NAAM]. Aanbieders kunnen niet betalen voor een plek of een betere beoordeling. Sommige links zijn affiliatelinks; daarover lees je meer in onze [advertentiemelding](/disclosure/#nl).
+FlexGymGuide vergelijkt sportpassen zoals ClassPass en sportscholen met flexibele abonnementen, per land. De site wordt gemaakt door Peter Pater. Aanbieders kunnen niet betalen voor een plek of een betere beoordeling. Sommige links zijn affiliatelinks; daarover lees je meer in onze [advertentiemelding](/disclosure/#nl).
 
 <h2 id="de">Über uns (Deutsch)</h2>
 
-FlexGymGuide vergleicht Sportpässe wie ClassPass und Fitnessstudios mit flexiblen Mitgliedschaften, Land für Land. Die Seite wird von [NAME] betrieben. Anbieter können nicht für eine Platzierung oder eine bessere Bewertung bezahlen. Einige Links sind Affiliate-Links; mehr dazu im [Werbehinweis](/disclosure/#de). Angaben zum Anbieter stehen im [Impressum](/impressum/).
+FlexGymGuide vergleicht Sportpässe wie ClassPass und Fitnessstudios mit flexiblen Mitgliedschaften, Land für Land. Die Seite wird von Peter Pater betrieben. Anbieter können nicht für eine Platzierung oder eine bessere Bewertung bezahlen. Einige Links sind Affiliate-Links; mehr dazu im [Werbehinweis](/disclosure/#de). Angaben zum Anbieter stehen im [Impressum](/impressum/).
