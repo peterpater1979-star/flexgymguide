@@ -125,7 +125,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 ## Fitness First in London
 
-Fitness First has 17 clubs across London. A membership gives you the gym floor, group classes and access to other clubs at your membership tier. Not sure yet? Try a club first with a guest pass.
+Fitness First has 26 clubs in the UK, 17 of them in London. A membership gives you the gym floor, group classes and access to other clubs at your membership tier. Not sure yet? Try a club first with a guest pass.
 
 ### What you get
 

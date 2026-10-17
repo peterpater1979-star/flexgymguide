@@ -44,7 +44,7 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 ### Regular gym
 
-A membership at one chain with a gym floor and classes. In the UK for example Fitness First, with clubs across London.
+A membership at one chain with a gym floor and classes. In the UK for example Fitness First, with 26 clubs, 17 of them in London.
 
 - Good if you train three times a week or more
 - Good if you want one fixed place
