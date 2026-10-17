@@ -57,7 +57,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Price per month** | From [PRICE] | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club |
 | **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below |
 | **Locations in London** | [NUMBER] studios and gyms | 17 clubs |
-| **Cancelling** | Change or cancel any time | [TERMS] |
+| **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost |
 | **Try it first** | Free trial | Guest pass |
 | **Abroad** | Yes, in 29 countries | No, UK clubs only |
 | **Find out more** | [Try for free](#classpass) | [Fitness First website](https://www.fitnessfirst.co.uk/) |
@@ -128,7 +128,7 @@ Fitness First has 26 clubs in the UK, 17 of them in London. A membership gives y
 
 - A single-club membership gives access to one club only
 - A cheaper tier does not get you into more expensive clubs
-- [CONTRACT TERMS]
+- Leaving before your minimum term ends means paying the rest of the term, or a settlement fee for the discount you had
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.fitnessfirst.co.uk/">Visit the Fitness First website</a>
