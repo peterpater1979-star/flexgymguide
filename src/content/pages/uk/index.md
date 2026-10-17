@@ -6,7 +6,6 @@ lang: en
 land: uk
 crumb: "United Kingdom"
 kicker: "Country guide United Kingdom"
-byline: "By Peter Pater · Updated 17 October 2026"
 ---
 
 Working out without a long contract at one gym comes down to two options: a fitness pass like ClassPass, or a gym chain with flexible terms. Here's what suits you, and in which cities.

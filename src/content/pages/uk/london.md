@@ -6,7 +6,6 @@ lang: en
 land: uk
 crumb: "London"
 kicker: "City guide London"
-byline: "By Peter Pater · Updated 17 October 2026 · 6 min read"
 ---
 
 Don't want to be tied to one gym? In London you can use a fitness pass at [NUMBER] studios, or join a gym chain with multi-club access. We compare your options.

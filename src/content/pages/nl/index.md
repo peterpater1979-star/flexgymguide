@@ -6,7 +6,6 @@ lang: nl
 land: nl
 crumb: "Nederland"
 kicker: "Landengids Nederland"
-byline: "Door Peter Pater · Bijgewerkt op 17 oktober 2026"
 ---
 
 Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een sportpas zoals ClassPass, of bij een sportschoolketen met flexibele voorwaarden. Hier lees je wat bij jou past, en in welke steden.
