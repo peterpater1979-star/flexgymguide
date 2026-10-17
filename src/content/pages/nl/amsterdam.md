@@ -4,6 +4,7 @@ path: "/nl/amsterdam/"
 description: "Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij meer dan 50 gyms en studio's terecht, of kiezen voor een sportschoolketen met ee"
 lang: nl
 land: nl
+byline: "Bijgewerkt in oktober 2026"
 crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
 ---

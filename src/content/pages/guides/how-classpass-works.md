@@ -4,6 +4,7 @@ path: "/guides/how-classpass-works/"
 description: "ClassPass gives you one membership for fitness classes, gym visits and wellness at thousands of studios. Here's how credits work, what to watch out for, and how"
 lang: en
 land: guides
+byline: "Updated October 2026"
 crumb: "How ClassPass works"
 kicker: "Guide"
 ---

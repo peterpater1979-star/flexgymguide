@@ -4,6 +4,7 @@ path: "/de/berlin/"
 description: "Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in über 400 Studios oder wählst ein Fitnessstudio mit koste"
 lang: de
 land: de
+byline: "Aktualisiert im Oktober 2026"
 crumb: "Berlin"
 kicker: "Stadtguide Berlin"
 ---

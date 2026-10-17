@@ -4,6 +4,7 @@ path: "/de/"
 description: "Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Beding"
 lang: de
 land: de
+byline: "Aktualisiert im Oktober 2026"
 crumb: "Deutschland"
 kicker: "Länderguide Deutschland"
 ---

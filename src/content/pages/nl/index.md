@@ -4,6 +4,7 @@ path: "/nl/"
 description: "Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een sportpas zoals ClassPass, of bij een sportschoolketen met flexibele voorwaarden. H"
 lang: nl
 land: nl
+byline: "Bijgewerkt in oktober 2026"
 crumb: "Nederland"
 kicker: "Landengids Nederland"
 ---
