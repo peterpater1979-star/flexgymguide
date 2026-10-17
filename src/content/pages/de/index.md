@@ -29,7 +29,7 @@ Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mi
 Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studios in der ganzen Stadt, auch im Ausland.
 
 - Gut, wenn du Abwechslung magst
-- Gut bei ein- bis zweimal Training pro Woche
+- Gut bei ein- bis dreimal Training pro Woche
 - Funktioniert auch in 28 anderen Ländern
 
 <div class="knoppen">
@@ -46,7 +46,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. In Deutschland zum Beispiel Fitness First mit über 200 Studios.
 
-- Gut, wenn du zweimal pro Woche oder öfter trainierst
+- Gut, wenn du dreimal pro Woche oder öfter trainierst
 - Gut, wenn du einen festen Ort willst
 - Meist nur in Deutschland
 
@@ -113,7 +113,7 @@ Das hängt von der Zahl der Credits pro Monat ab. Kleinere Abos beginnen bei etw
 <details>
 <summary>Ist ClassPass günstiger als ein Fitnessstudio?</summary>
 
-Wer zweimal pro Woche oder öfter ins Gym geht, fährt mit einem festen Studio meist günstiger. Wer zwischen Studios wechseln will, ist mit einem Sportpass besser bedient.
+Wer dreimal pro Woche oder öfter ins Gym geht, fährt mit einem festen Studio meist günstiger. Wer zwischen Studios wechseln will, ist mit einem Sportpass besser bedient.
 
 </details>
 

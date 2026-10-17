@@ -29,7 +29,7 @@ Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een 
 Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken bij studio's door de hele stad, en ook in het buitenland.
 
 - Goed als je graag afwisselt
-- Goed bij één of twee keer per week sporten
+- Goed bij één tot drie keer per week sporten
 - Werkt ook in 28 andere landen
 
 <div class="knoppen">
@@ -46,7 +46,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 Een lidmaatschap bij één keten met gym en groepslessen. In Nederland bijvoorbeeld Trainmore, met 53 clubs.
 
-- Goed als je twee keer per week of vaker traint
+- Goed als je drie keer per week of vaker traint
 - Goed als je één vaste plek wilt
 - Meestal alleen in Nederland
 
@@ -115,7 +115,7 @@ Dat hangt af van het aantal credits per maand. Het kleinste abonnement kost €1
 <details>
 <summary>Is ClassPass goedkoper dan een sportschool?</summary>
 
-Train je twee keer per week of vaker in de gym, dan is een vaste sportschool meestal voordeliger. Wil je afwisselen tussen studio's, dan past een sportpas beter.
+Train je drie keer per week of vaker in de gym, dan is een vaste sportschool meestal voordeliger. Wil je afwisselen tussen studio's, dan past een sportpas beter.
 
 </details>
 

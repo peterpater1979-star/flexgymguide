@@ -85,7 +85,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Gut für
 
 - Alle, die gern verschiedene Sportarten ausprobieren
-- Alle, die ein- bis zweimal pro Woche trainieren
+- Alle, die ein- bis dreimal pro Woche trainieren
 - Expats und Vielreisende
 
 ### Achte darauf
@@ -122,7 +122,7 @@ Bei Fitness First trainierst du in über 200 Studios in Deutschland, davon [ANZA
 
 ### Gut für
 
-- Alle, die zweimal pro Woche oder öfter trainieren
+- Alle, die dreimal pro Woche oder öfter trainieren
 - Alle, die Gym, Kurse und Wellness an einem Ort wollen
 
 ### Achte darauf
@@ -156,7 +156,7 @@ Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
 <div class="kolom">
 
-### Du trainierst zweimal pro Woche oder öfter
+### Du trainierst dreimal pro Woche oder öfter
 
 Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 

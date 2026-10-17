@@ -29,7 +29,7 @@ Working out without a long contract at one gym comes down to two options: a fitn
 One membership with credits for yoga, pilates, boxing, spin and gym visits at studios across the city, and abroad too.
 
 - Good if you like variety
-- Good if you train once or twice a week
+- Good if you train one to three times a week
 - Works in 28 other countries
 
 <div class="knoppen">
@@ -46,7 +46,7 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 A membership at one chain with a gym floor and classes. In the UK for example Fitness First, with 26 clubs, 17 of them in London.
 
-- Good if you train twice a week or more
+- Good if you train three times a week or more
 - Good if you want one fixed place
 - Usually UK only
 
@@ -116,7 +116,7 @@ It depends on the number of credits per month. Smaller plans start at around [PR
 <details>
 <summary>Is ClassPass cheaper than a gym?</summary>
 
-If you go to the gym twice a week or more, a regular gym is usually cheaper. If you like switching between studios, a fitness pass suits you better.
+If you go to the gym three times a week or more, a regular gym is usually cheaper. If you like switching between studios, a fitness pass suits you better.
 
 </details>
 

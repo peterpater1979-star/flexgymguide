@@ -58,7 +58,7 @@ Most people choose between a fitness pass and a gym chain. Which one suits you d
 Book classes and gym visits at different places in your city, and often abroad too. Example: ClassPass.
 
 - Good if you like variety
-- Good if you train once or twice a week
+- Good if you train one to three times a week
 - Good if you travel
 
 [How ClassPass works](/guides/how-classpass-works/)
@@ -73,7 +73,7 @@ Book classes and gym visits at different places in your city, and often abroad t
 
 A membership at one chain, with the gym floor and group classes, usually after a free trial. Examples: Trainmore in the Netherlands, Fitness First in Germany and the UK.
 
-- Good if you train twice a week or more
+- Good if you train three times a week or more
 - Good if you want one fixed place
 - Usually only in one country
 

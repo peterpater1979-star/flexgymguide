@@ -121,7 +121,7 @@ Read our full guide: Training abroad
 ### A good fit if you
 
 - Like to mix different workouts
-- Train once or twice a week
+- Train one to three times a week
 - Travel or move between cities
 
 </div>
