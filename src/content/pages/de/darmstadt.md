@@ -35,7 +35,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-220 Clubs in Deutschland, 10 in und um Darmstadt. Mit Kursen, Wellness und teils Schwimmbad.
+220 Clubs in Deutschland, 10 in Darmstadt. Mit Kursen, Wellness und teils Schwimmbad.
 
 <div class="knoppen">
 <a class="knop" href="#fitness-first">Fitness First ansehen</a>
@@ -56,7 +56,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
 | **Preis pro Monat** | Ab [PREIS] | Ab [PREIS] |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Darmstadt** | [ANZAHL] Studios und Gyms | 10 Clubs in und um Darmstadt |
+| **Standorte in Darmstadt** | [ANZAHL] Studios und Gyms | 10 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | [VERTRAGSBEDINGUNGEN] |
 | **Ausprobieren** | Kostenloser Testzeitraum | Kostenloses Probetraining |
 | **Im Ausland** | Ja, in 29 Ländern | Deutschland und 4 Clubs in und um Wien |
@@ -111,7 +111,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ## Fitness First in Darmstadt
 
-Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 10 in und um Darmstadt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 10 in Darmstadt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 ### Das bekommst du
 
