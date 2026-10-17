@@ -6,6 +6,7 @@ const t = teksten[lang];
 ---
 <p class="melding"><strong>{t.label}</strong> · {t.melding} <a href={t.meldingHref}>{t.meldingLink}</a></p>
 <style>
-  .melding { background: var(--surface); border-radius: var(--radius); padding: .75rem 1rem; font-size: .88rem; color: var(--muted); margin: 0 0 1.25rem; }
-  .melding strong { color: var(--text); }
+  .melding { font-size: .78rem; color: var(--muted); margin: 0 0 1rem; }
+  .melding strong { font-weight: 600; }
+  .melding a { color: inherit; }
 </style>
