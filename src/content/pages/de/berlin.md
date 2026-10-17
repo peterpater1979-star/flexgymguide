@@ -176,8 +176,6 @@ Lies: Training abroad (EN)
 
 </div>
 
-## Beliebte Sportarten in Berlin
-
 ## Häufige Fragen
 
 <details open>
@@ -209,10 +207,10 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 
 ### Andere Städte
 
-- Flexibel trainieren in Hamburg (bald)
+- [Flexibel trainieren in Hamburg](/de/hamburg/)
 - Flexibel trainieren in München (bald)
 - Flexibel trainieren in Köln (bald)
-- Flexibel trainieren in Frankfurt (bald)
+- [Flexibel trainieren in Frankfurt](/de/frankfurt/)
 - Flexibel trainieren in Wien (bald)
 
 </div>
