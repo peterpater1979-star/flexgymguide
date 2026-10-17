@@ -4,7 +4,7 @@ export type Lang = 'nl' | 'de' | 'en';
 export const teksten = {
   nl: {
     label: 'Advertentie',
-    melding: 'Bevat affiliatelinks: wij krijgen een vergoeding, jij betaalt niets extra.',
+    melding: 'Sommige links zijn affiliatelinks: daarvoor krijgen wij een vergoeding, jij betaalt niets extra.',
     meldingLink: 'Zo werken wij',
     meldingHref: '/disclosure/#nl',
     over: 'FlexGymGuide vergelijkt sportpassen en sportscholen met flexibele abonnementen, per land.',
@@ -19,7 +19,7 @@ export const teksten = {
   },
   de: {
     label: 'Anzeige',
-    melding: 'Enthält Affiliate-Links: Wir erhalten eine Provision, für dich ohne Mehrkosten.',
+    melding: 'Einige Links sind Affiliate-Links: Dafür erhalten wir eine Provision, für dich ohne Mehrkosten.',
     meldingLink: 'So arbeiten wir',
     meldingHref: '/disclosure/#de',
     over: 'FlexGymGuide vergleicht Sportpässe und Fitnessstudios mit flexiblen Mitgliedschaften, Land für Land.',
@@ -34,7 +34,7 @@ export const teksten = {
   },
   en: {
     label: 'Ad',
-    melding: 'Contains affiliate links: we may earn a commission at no extra cost to you.',
+    melding: 'Some links are affiliate links: we may earn a commission at no extra cost to you.',
     meldingLink: 'How we work',
     meldingHref: '/disclosure/',
     over: 'FlexGymGuide compares fitness passes and gyms with flexible memberships, country by country.',
