@@ -61,9 +61,9 @@ ClassPass of een vaste sportschool?
 ## Steden
 
 - **[Amsterdam](/nl/amsterdam/)**
-- **Rotterdam** · Binnenkort
-- **Utrecht** · Binnenkort
-- **Den Haag** · Binnenkort
+- **[Rotterdam](/nl/rotterdam/)**
+- **[Den Haag](/nl/den-haag/)**
+- **[Utrecht](/nl/utrecht/)**
 
 </div>
 

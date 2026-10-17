@@ -1,6 +1,6 @@
 {
   "main": [
-    { "label": "Nederland", "href": "/nl/", "land": "nl", "children": [{ "label": "Amsterdam", "href": "/nl/amsterdam/" }] },
+    { "label": "Nederland", "href": "/nl/", "land": "nl", "children": [{ "label": "Amsterdam", "href": "/nl/amsterdam/" }, { "label": "Rotterdam", "href": "/nl/rotterdam/" }, { "label": "Den Haag", "href": "/nl/den-haag/" }, { "label": "Utrecht", "href": "/nl/utrecht/" }] },
     { "label": "Deutschland", "href": "/de/", "land": "de", "children": [{ "label": "Berlin", "href": "/de/berlin/" }] },
     { "label": "United Kingdom", "href": "/uk/", "land": "uk", "children": [{ "label": "London", "href": "/uk/london/" }] },
     { "label": "Guides", "href": "/guides/how-classpass-works/", "land": "guides", "children": [{ "label": "How ClassPass works", "href": "/guides/how-classpass-works/" }] }

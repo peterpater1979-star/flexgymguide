@@ -242,9 +242,9 @@ Ja. Urban Sports Club werkt met een vast maandabonnement en check-ins bij partne
 
 ### Andere steden
 
-- Utrecht (binnenkort)
-- Rotterdam (binnenkort)
-- Den Haag (binnenkort)
+- [Rotterdam](/nl/rotterdam/)
+- [Den Haag](/nl/den-haag/)
+- [Utrecht](/nl/utrecht/)
 
 </div>
 
