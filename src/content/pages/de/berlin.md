@@ -125,7 +125,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ## Fitness First in Berlin
 
-Fitness First hat [ANZAHL] Clubs in Deutschland, davon [ANZAHL] in Berlin. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Fitness First hat 220 Clubs in Deutschland, davon [ANZAHL] in Berlin. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 ### Das bekommst du
 
