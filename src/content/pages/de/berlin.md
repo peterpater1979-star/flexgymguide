@@ -35,7 +35,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-Über 200 Studios in Deutschland, 15 in Berlin und 1 in Potsdam. Mit Kursen, Wellness und teils Schwimmbad.
+220 Clubs in Deutschland, 15 in Berlin und 1 in Potsdam. Mit Kursen, Wellness und teils Schwimmbad.
 
 <div class="knoppen">
 <a class="knop" href="#fitness-first">Fitness First ansehen</a>
@@ -111,7 +111,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ## Fitness First in Berlin
 
-Bei Fitness First trainierst du in über 200 Studios in Deutschland, davon 15 Clubs in Berlin und 1 in Potsdam. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 15 Clubs in Berlin und 1 in Potsdam. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 ### Das bekommst du
 
