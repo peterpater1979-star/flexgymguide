@@ -44,7 +44,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 ### Vaste sportschool
 
-Een lidmaatschap bij één keten met gym en groepslessen. In Nederland bijvoorbeeld Trainmore, met 53 clubs.
+Een lidmaatschap bij één keten met gym en groepslessen. In Nederland bijvoorbeeld Trainmore, met 53 clubs: 31 in Amsterdam, 7 in Rotterdam en 3 in zowel Den Haag als Utrecht.
 
 - Goed als je drie keer per week of vaker traint
 - Goed als je één vaste plek wilt
