@@ -142,7 +142,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaats
 
 ### Goed voor
 
-- Wie drie keer per week of vaker traint
+- Vaker dan één keer per week trainen: hoe vaker je gaat, hoe goedkoper
 - Kracht en cardio op een vaste plek
 
 </div>
