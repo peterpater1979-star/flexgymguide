@@ -30,7 +30,7 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 - Good if you like variety
 - Good if you train one to three times a week
-- Works in [NUMBER] other countries
+- Works in 28 other countries
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-land">Try ClassPass for free</a>
@@ -129,7 +129,7 @@ Yes. Your credits work in every country where ClassPass is active, at that count
 
 ## Training somewhere else?
 
-ClassPass works in [NUMBER] countries. Choose your country for the right prices and terms.
+ClassPass works in 29 countries. Choose your country for the right prices and terms.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/">Nederland</a>

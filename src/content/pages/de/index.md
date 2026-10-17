@@ -30,7 +30,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 - Gut, wenn du Abwechslung magst
 - Gut bei ein- bis dreimal Training pro Woche
-- Funktioniert auch in [ANZAHL] anderen Ländern
+- Funktioniert auch in 28 anderen Ländern
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-land">ClassPass kostenlos testen</a>
@@ -126,7 +126,7 @@ Ja. Deine Credits funktionieren in allen Ländern, in denen ClassPass aktiv ist,
 
 ## Trainierst du woanders?
 
-ClassPass gibt es in [ANZAHL] Ländern. Wähle dein Land für die passenden Preise und Bedingungen.
+ClassPass gibt es in 29 Ländern. Wähle dein Land für die passenden Preise und Bedingungen.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/">Nederland</a>

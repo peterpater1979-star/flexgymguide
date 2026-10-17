@@ -65,7 +65,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in 7 Europese landen
 | **Locaties in Amsterdam** | 50 gyms voor vrij trainen, plus studio's voor lessen | 31 clubs | Partners in heel Amsterdam (14.800 in Europa met Classic) |
 | **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app | Maandelijks opzegbaar tot 3 dagen voor de verlenging, of goedkoper met 1 of 2 jaar vast |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles | 14 dagen gratis (Essential, 3 check-ins) |
-| **In het buitenland** | Ja, in [AANTAL] landen | Nee, alleen Nederland | Ja, in 7 Europese landen |
+| **In het buitenland** | Ja, in 29 landen | Nee, alleen Nederland | Ja, in 7 Europese landen |
 | **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-amsterdam) | [Website Trainmore](https://trainmore.com/nl-NL/) | [Website Urban Sports Club](https://urbansportsclub.com/nl/prices/amsterdam) |
 
 <div id="classpass" class="aanbieder">
@@ -270,7 +270,7 @@ Ja. Urban Sports Club werkt met een vast maandabonnement en check-ins bij partne
 
 ## Train je ergens anders?
 
-ClassPass werkt in [AANTAL] landen. Kies je land voor de juiste prijzen en voorwaarden.
+ClassPass werkt in 29 landen. Kies je land voor de juiste prijzen en voorwaarden.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/">Deutschland</a>

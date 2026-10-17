@@ -30,7 +30,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 - Goed als je graag afwisselt
 - Goed bij één tot drie keer per week sporten
-- Werkt ook in [AANTAL] andere landen
+- Werkt ook in 28 andere landen
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-land">Probeer ClassPass gratis</a>
@@ -128,7 +128,7 @@ Ja. Je credits werken in alle landen waar ClassPass actief is, tegen de prijzen 
 
 ## Train je ergens anders?
 
-ClassPass werkt in [AANTAL] landen. Kies je land voor de juiste prijzen en voorwaarden.
+ClassPass werkt in 29 landen. Kies je land voor de juiste prijzen en voorwaarden.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/">Deutschland</a>

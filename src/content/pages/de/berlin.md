@@ -59,7 +59,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Standorte in Berlin** | [ANZAHL] Studios und Gyms | [ANZAHL] Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | [VERTRAGSBEDINGUNGEN] |
 | **Ausprobieren** | Kostenloser Testzeitraum | Kostenloses Probetraining |
-| **Im Ausland** | Ja, in [ANZAHL] Ländern | Deutschland und 4 Clubs in und um Wien |
+| **Im Ausland** | Ja, in 29 Ländern | Deutschland und 4 Clubs in und um Wien |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Website Fitness First](https://www.fitnessfirst.de/) |
 
 </div>
@@ -239,7 +239,7 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 
 ## Woanders unterwegs?
 
-ClassPass gibt es in [ANZAHL] Ländern. Wähle dein Land für die passenden Preise und Bedingungen.
+ClassPass gibt es in 29 Ländern. Wähle dein Land für die passenden Preise und Bedingungen.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/">Nederland</a>

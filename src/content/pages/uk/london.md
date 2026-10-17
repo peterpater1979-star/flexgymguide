@@ -59,7 +59,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Locations in London** | [NUMBER] studios and gyms | 17 clubs |
 | **Cancelling** | Change or cancel any time | [TERMS] |
 | **Try it first** | Free trial | Guest pass |
-| **Abroad** | Yes, in [NUMBER] countries | No, UK clubs only |
+| **Abroad** | Yes, in 29 countries | No, UK clubs only |
 | **Find out more** | [Try for free](#classpass) | [Fitness First website](https://www.fitnessfirst.co.uk/) |
 
 </div>
@@ -238,7 +238,7 @@ That depends on your membership. You can use any club at your membership tier or
 
 ## Training somewhere else?
 
-ClassPass is available in [NUMBER] countries. Choose your country for the right prices and terms.
+ClassPass is available in 29 countries. Choose your country for the right prices and terms.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/">Nederland</a>
