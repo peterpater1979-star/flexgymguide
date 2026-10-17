@@ -84,7 +84,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 - Maandelijkse credits voor lessen en gymbezoeken
 - Studio's door heel Amsterdam, van yoga tot boksen
-- Ook te gebruiken in andere steden en landen waar ClassPass actief is
+- Ook te gebruiken in meer dan 2.500 andere steden in 29 landen
 
 </div>
 

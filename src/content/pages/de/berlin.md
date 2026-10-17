@@ -80,7 +80,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 - Monatliche Credits für Kurse und Gym-Besuche
 - Studios in ganz Berlin, von Yoga bis Boxen
-- Auch in anderen Städten und Ländern nutzbar, in denen ClassPass aktiv ist
+- Auch in über 2.500 anderen Städten in 29 Ländern nutzbar
 
 ### Gut für
 

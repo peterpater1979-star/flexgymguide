@@ -80,7 +80,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 - Monthly credits for classes and gym visits
 - Studios all over London, from yoga to boxing
-- Use it in other cities and countries where ClassPass is available
+- Use it in more than 2,500 other cities in 29 countries
 
 ### Good for
 
