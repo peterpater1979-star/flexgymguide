@@ -35,24 +35,10 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-[ANZAHL] Clubs in Deutschland, [ANZAHL] in Berlin. Mit Kursen, Wellness und teils Schwimmbad.
+Über 200 Studios in Deutschland, [ANZAHL] in Berlin. Mit Kursen, Wellness und teils Schwimmbad.
 
 <div class="knoppen">
 <a class="knop" href="#fitness-first">Fitness First ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom">
-
-<p class="klein"><strong>Auch bekannt</strong></p>
-
-### Urban Sports Club
-
-Festes Monatsabo mit Check-ins bei Partnern. Das Unternehmen wurde in Berlin gegründet.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="#vergleich">Zum Vergleich</a>
 </div>
 
 </div>
@@ -61,20 +47,20 @@ Festes Monatsabo mit Check-ins bei Partnern. Das Unternehmen wurde in Berlin geg
 
 <div id="vergleich">
 
-## ClassPass, Fitness First und Urban Sports Club im Vergleich
+## ClassPass und Fitness First im Vergleich
 
 Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.
 
-| Merkmal | ClassPass | Fitness First | Urban Sports Club |
-| --- | --- | --- | --- |
-| **Art** | Sportpass mit Credits | Fitnessstudiokette | Sportpass mit festem Abo |
-| **Preis pro Monat** | Ab [PREIS] | Ab [PREIS] | Ab [PREIS] |
-| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Check-ins bei Partnerstandorten |
-| **Standorte in Berlin** | [ANZAHL] Studios und Gyms | [ANZAHL] Clubs | [ANZAHL] Partner |
-| **Kündigung** | Jederzeit anpassbar oder kündbar | [VERTRAGSBEDINGUNGEN] | [BEDINGUNGEN] |
-| **Ausprobieren** | Kostenloser Testzeitraum | Kostenloses Probetraining | [TESTZEITRAUM] |
-| **Im Ausland** | Ja, in [ANZAHL] Ländern | Deutschland und [ANZAHL] Clubs in Wien | Ja, in mehreren europäischen Ländern |
-| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Website Fitness First](https://www.fitnessfirst.de/) | Siehe Website von Urban Sports Club |
+| Merkmal | ClassPass | Fitness First |
+| --- | --- | --- |
+| **Art** | Sportpass mit Credits | Fitnessstudiokette |
+| **Preis pro Monat** | Ab [PREIS] | Ab [PREIS] |
+| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
+| **Standorte in Berlin** | [ANZAHL] Studios und Gyms | [ANZAHL] Clubs |
+| **Kündigung** | Jederzeit anpassbar oder kündbar | [VERTRAGSBEDINGUNGEN] |
+| **Ausprobieren** | Kostenloser Testzeitraum | Kostenloses Probetraining |
+| **Im Ausland** | Ja, in [ANZAHL] Ländern | Deutschland und 4 Clubs in und um Wien |
+| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Website Fitness First](https://www.fitnessfirst.de/) |
 
 </div>
 
@@ -215,13 +201,6 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 
 </details>
 
-<details>
-<summary>Ist Urban Sports Club eine Alternative?</summary>
-
-Ja. Urban Sports Club arbeitet mit einem festen Monatsabo und Check-ins bei Partnerstandorten. In ClassPass oder Urban Sports Club liest du die Unterschiede.
-
-</details>
-
 ## Weiterlesen
 
 <div class="kolommen">
@@ -242,7 +221,6 @@ Ja. Urban Sports Club arbeitet mit einem festen Monatsabo und Check-ins bei Part
 ### Vergleiche
 
 - ClassPass oder Fitness First? (bald)
-- ClassPass oder Urban Sports Club? (bald)
 - Fitnessstudio ohne Vertrag: alle Optionen (bald)
 
 </div>
