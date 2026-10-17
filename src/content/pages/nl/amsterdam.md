@@ -60,10 +60,10 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in andere Europese l
 | Kenmerk | ClassPass | Trainmore | Urban Sports Club |
 | --- | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
-| **Prijs per maand** | Vanaf €19 (11 credits) | Vanaf [PRIJS] | Vanaf [PRIJS] |
+| **Prijs per maand** | Vanaf €19 (11 credits) | Hangt af van club, looptijd en hoe vaak je traint | Vanaf [PRIJS] |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties |
 | **Locaties in Amsterdam** | [AANTAL] studio's en gyms | 31 clubs | [AANTAL] partners |
-| **Opzeggen** | Op elk moment aan te passen of op te zeggen | [VOORWAARDEN] | [VOORWAARDEN] |
+| **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flexibel, 1 jaar of 2 jaar | [VOORWAARDEN] |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles | [PROEFPERIODE] |
 | **In het buitenland** | Ja, in [AANTAL] landen | Nee, alleen Nederland | Ja, in meerdere Europese landen |
 | **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-amsterdam) | [Website Trainmore](https://trainmore.com/nl-NL/) | Zie de website van Urban Sports Club |
@@ -151,7 +151,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaats
 ### Let op
 
 - Alleen in Nederland
-- [CONTRACTVOORWAARDEN]
+- Prijs verschilt per club en per contract (flexibel, 1 of 2 jaar). Vaker trainen maakt het voordeliger
 
 </div>
 
