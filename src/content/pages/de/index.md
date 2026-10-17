@@ -44,7 +44,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 ### Festes Fitnessstudio
 
-Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. In Deutschland zum Beispiel Fitness First mit 220 Clubs.
+Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. In Deutschland zum Beispiel Fitness First mit über 200 Studios.
 
 - Gut, wenn du dreimal pro Woche oder öfter trainierst
 - Gut, wenn du einen festen Ort willst
