@@ -93,7 +93,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Goed voor
 
 - Wie graag verschillende sporten probeert
-- Wie één tot drie keer per week sport
+- Wie één of twee keer per week sport
 - Expats en mensen die vaak reizen
 
 </div>

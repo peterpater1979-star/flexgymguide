@@ -85,7 +85,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 ### Good for
 
 - People who like to try different workouts
-- Training one to three times a week
+- Training once or twice a week
 - Expats and frequent travellers
 
 ### Watch out for
@@ -121,7 +121,7 @@ Fitness First has 26 clubs in the UK, 17 of them in London. A membership gives y
 
 ### Good for
 
-- Training three times a week or more
+- Training twice a week or more
 - Living or working in London
 
 ### Watch out for
@@ -156,7 +156,7 @@ Go for ClassPass. Switch freely between yoga, Pilates, boxing and spin.
 
 <div class="kolom">
 
-### You train three times a week or more
+### You train twice a week or more
 
 Go for Fitness First. A gym with classes, plus other clubs at your tier.
 
