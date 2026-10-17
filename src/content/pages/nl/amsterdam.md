@@ -60,10 +60,10 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in andere Europese l
 | Kenmerk | ClassPass | Trainmore | Urban Sports Club |
 | --- | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
-| **Prijs per maand** | Vanaf €19 (11 credits) | Hangt af van club, looptijd en hoe vaak je traint | Vanaf [PRIJS] |
+| **Prijs per maand** | Vanaf €19 (11 credits) | €77 tot €104 per 4 weken, €1 korting per workout | Vanaf [PRIJS] |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties |
 | **Locaties in Amsterdam** | [AANTAL] studio's en gyms | 31 clubs | [AANTAL] partners |
-| **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flexibel, 1 jaar of 2 jaar | [VOORWAARDEN] |
+| **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flex maandelijks opzegbaar, of 1 of 2 jaar vast | [VOORWAARDEN] |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles | [PROEFPERIODE] |
 | **In het buitenland** | Ja, in [AANTAL] landen | Nee, alleen Nederland | Ja, in meerdere Europese landen |
 | **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-amsterdam) | [Website Trainmore](https://trainmore.com/nl-NL/) | Zie de website van Urban Sports Club |
@@ -133,6 +133,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaats
 
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 31 in Amsterdam
+- €1 korting per workout (maximaal 1 per dag): wie 3 keer per week traint met een jaarcontract, betaalt €72 per 4 weken
 - Een gratis proefles om eerst te testen
 
 </div>
@@ -151,7 +152,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaats
 ### Let op
 
 - Alleen in Nederland
-- Prijs verschilt per club en per contract (flexibel, 1 of 2 jaar). Vaker trainen maakt het voordeliger
+- Je betaalt per 4 weken: €77 (2 jaar), €84 (1 jaar) of €104 (Flex, maandelijks opzegbaar), vóór korting. Prijzen kunnen per club verschillen
 
 </div>
 
