@@ -66,7 +66,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in 7 Europese landen
 | **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app | Maandelijks opzegbaar tot 3 dagen voor de verlenging, of goedkoper met 1 of 2 jaar vast |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles | 14 dagen gratis (Essential, 3 check-ins) |
 | **In het buitenland** | Ja, in 29 landen | Nee, alleen Nederland | Ja, in 7 Europese landen |
-| **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-amsterdam) | [Website Trainmore](https://trainmore.com/nl-NL/) | [Website Urban Sports Club](https://urbansportsclub.com/nl/prices/amsterdam) |
+| **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-amsterdam) | [Website Trainmore](https://trainmore.com/nl-NL/) | [Website Urban Sports Club](https://urbansportsclub.com/nl/prices/amsterdam?duration=monthly) |
 
 <div id="classpass" class="aanbieder">
 
