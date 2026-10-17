@@ -33,7 +33,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 ### Trainmore
 
-Eigen clubs met gym en groepslessen: [AANTAL] in Amsterdam, [AANTAL] in heel Nederland.
+Eigen clubs met gym en groepslessen: 31 in Amsterdam, 53 in heel Nederland.
 
 [Bekijk Trainmore](#trainmore)
 
@@ -62,7 +62,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in andere Europese l
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
 | **Prijs per maand** | Vanaf €19 (11 credits) | Vanaf [PRIJS] | Vanaf [PRIJS] |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties |
-| **Locaties in Amsterdam** | [AANTAL] studio's en gyms | [AANTAL] clubs | [AANTAL] partners |
+| **Locaties in Amsterdam** | [AANTAL] studio's en gyms | 31 clubs | [AANTAL] partners |
 | **Opzeggen** | Op elk moment aan te passen of op te zeggen | [VOORWAARDEN] | [VOORWAARDEN] |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles | [PROEFPERIODE] |
 | **In het buitenland** | Ja, in [AANTAL] landen | Nee, alleen Nederland | Ja, in meerdere Europese landen |
@@ -123,7 +123,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 ## Trainmore in Amsterdam
 
-Trainmore heeft [AANTAL] clubs in Nederland, waarvan [AANTAL] in Amsterdam. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles.
+Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles.
 
 <div class="kolommen">
 
@@ -132,7 +132,7 @@ Trainmore heeft [AANTAL] clubs in Nederland, waarvan [AANTAL] in Amsterdam. Met 
 ### Wat je krijgt
 
 - Toegang tot de gym en groepslessen
-- [AANTAL] clubs in Nederland, [AANTAL] in Amsterdam
+- 53 clubs in Nederland, 31 in Amsterdam
 - Een gratis proefles om eerst te testen
 
 </div>
