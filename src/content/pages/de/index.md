@@ -65,6 +65,7 @@ ClassPass oder festes Studio?
 - **[Frankfurt](/de/frankfurt/)**
 - **[Köln](/de/koeln/)**
 - **[München](/de/muenchen/)**
+- **[Darmstadt](/de/darmstadt/)**
 
 </div>
 
