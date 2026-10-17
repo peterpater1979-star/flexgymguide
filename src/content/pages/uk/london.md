@@ -68,7 +68,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | Feature | ClassPass | Fitness First | Hussle |
 | --- | --- | --- | --- |
 | **Type** | Fitness pass with credits | Gym chain | Gym pass marketplace |
-| **Price per month** | From [PRICE] | From [PRICE] | From [PRICE] |
+| **Price per month** | From [PRICE] | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | From [PRICE] |
 | **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below | Day passes or a monthly pass for partner gyms |
 | **Locations in London** | [NUMBER] studios and gyms | [NUMBER] clubs | [NUMBER] gyms |
 | **Cancelling** | Change or cancel any time | [TERMS] | [TERMS] |
