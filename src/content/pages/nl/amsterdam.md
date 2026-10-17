@@ -152,7 +152,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaats
 ### Let op
 
 - Alleen in Nederland
-- De prijs hangt af van het label van de club: Black, Red of Regular. Je betaalt per 4 weken. Bij Trainmore Koningin Wilhelminaplein in Amsterdam, een Black Label-club waarmee je ook in alle Regular-clubs mag trainen, was dat in oktober 2026 €77 (2 jaar), €84 (1 jaar) of €104 (Flex, maandelijks opzegbaar), vóór korting. Bij 1 jaar betaal je eenmalig €29 voor het starterpakket, bij 2 jaar niets. Bekijk de prijs van jouw club op de site van Trainmore
+- De prijs hangt af van het label van de club: Black, Red of Regular. Je betaalt per 4 weken. Bij Trainmore Koningin Wilhelminaplein in Amsterdam, een Black Label-club waarmee je ook in alle Regular-clubs mag trainen, was dat in oktober 2026 €77 (2 jaar), €84 (1 jaar) of €104 (Flex, maandelijks opzegbaar), vóór korting. Bij 1 jaar en Flex betaal je eenmalig €29 voor het starterpakket, bij 2 jaar niets. Bekijk de prijs van jouw club op de site van Trainmore
 
 </div>
 
