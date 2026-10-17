@@ -66,7 +66,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in andere Europese l
 | **Opzeggen** | Op elk moment aan te passen of op te zeggen | [VOORWAARDEN] | [VOORWAARDEN] |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles | [PROEFPERIODE] |
 | **In het buitenland** | Ja, in [AANTAL] landen | Nee, alleen Nederland | Ja, in meerdere Europese landen |
-| **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-amsterdam) | [Website Trainmore](https://www.trainmore.nl/) | Zie de website van Urban Sports Club |
+| **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-amsterdam) | [Website Trainmore](https://trainmore.com/nl-NL/) | Zie de website van Urban Sports Club |
 
 <div id="classpass" class="aanbieder">
 
@@ -158,7 +158,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaats
 </div>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.trainmore.nl/">Naar de website van Trainmore</a>
+<a class="knop knop-rand" href="https://trainmore.com/nl-NL/">Naar de website van Trainmore</a>
 </div>
 
 </div>
