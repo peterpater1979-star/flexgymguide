@@ -17,8 +17,7 @@ Niederlande
 
 ## Kontakt
 
-E-Mail: [info@flexgymguide.com](mailto:info@flexgymguide.com)<br>
-[TELEFON (optional)]
+E-Mail: [info@flexgymguide.com](mailto:info@flexgymguide.com)
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
