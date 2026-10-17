@@ -10,7 +10,7 @@ FlexGymGuide helps you work out without being tied to one gym. We compare fitnes
 
 ## Who we are
 
-FlexGymGuide is made by Peter Pater, based in Amsterdam. [ONE OR TWO SENTENCES ABOUT YOURSELF AND WHY YOU STARTED THE SITE.]
+FlexGymGuide is made by Peter Pater, based in Amsterdam. I love mixing up my workouts: variety is what keeps me moving. That's why I wanted an easy way to train in different places without a long contract, and FlexGymGuide was born.
 
 ## How we compare
 
@@ -24,8 +24,8 @@ Some links on this site are affiliate links. If you sign up through such a link,
 
 <h2 id="nl">Over ons (Nederlands)</h2>
 
-FlexGymGuide vergelijkt sportpassen zoals ClassPass en sportscholen met flexibele abonnementen, per land. De site wordt gemaakt door Peter Pater. Aanbieders kunnen niet betalen voor een plek of een betere beoordeling. Sommige links zijn affiliatelinks; daarover lees je meer in onze [advertentiemelding](/disclosure/#nl).
+FlexGymGuide vergelijkt sportpassen zoals ClassPass en sportscholen met flexibele abonnementen, per land. De site wordt gemaakt door Peter Pater uit Amsterdam. Ik sport graag afwisselend, want juist die variatie houdt me in beweging. Daarom zocht ik een manier om zonder vast contract op verschillende plekken te trainen, en zo ontstond FlexGymGuide. Aanbieders kunnen niet betalen voor een plek of een betere beoordeling. Sommige links zijn affiliatelinks; daarover lees je meer in onze [advertentiemelding](/disclosure/#nl).
 
 <h2 id="de">Über uns (Deutsch)</h2>
 
-FlexGymGuide vergleicht Sportpässe wie ClassPass und Fitnessstudios mit flexiblen Mitgliedschaften, Land für Land. Die Seite wird von Peter Pater betrieben. Anbieter können nicht für eine Platzierung oder eine bessere Bewertung bezahlen. Einige Links sind Affiliate-Links; mehr dazu im [Werbehinweis](/disclosure/#de). Angaben zum Anbieter stehen im [Impressum](/impressum/).
+FlexGymGuide vergleicht Sportpässe wie ClassPass und Fitnessstudios mit flexiblen Mitgliedschaften, Land für Land. Die Seite wird von Peter Pater aus Amsterdam betrieben. Ich trainiere am liebsten abwechslungsreich, denn genau diese Vielfalt hält mich in Bewegung. Deshalb wollte ich ohne lange Vertragsbindung an verschiedenen Orten trainieren können, und so entstand FlexGymGuide. Anbieter können nicht für eine Platzierung oder eine bessere Bewertung bezahlen. Einige Links sind Affiliate-Links; mehr dazu im [Werbehinweis](/disclosure/#de). Angaben zum Anbieter stehen im [Impressum](/impressum/).
