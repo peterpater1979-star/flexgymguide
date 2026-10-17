@@ -61,7 +61,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in 7 Europese landen
 | --- | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
 | **Prijs per maand** | Vanaf €19 (11 credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104 per 4 weken, €1 korting per workout | Classic €75 per maand (10 check-ins), met jaarcontract €64 |
-| **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties. Elke locatie heeft eigen limieten per maand, bij grotere abonnementen meestal meer |
+| **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties. Elke locatie heeft eigen check-inlimiet, bij grotere abonnementen meestal meer |
 | **Locaties in Amsterdam** | 50 gyms voor vrij trainen, plus studio's voor lessen | 31 clubs | Partners in heel Amsterdam (14.800 in Europa met Classic) |
 | **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flex maandelijks opzegbaar, of 1 of 2 jaar vast | Maandelijks opzegbaar, of goedkoper met 1 of 2 jaar vast |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles | 14 dagen gratis (Essential, 3 check-ins) |
