@@ -4,10 +4,12 @@ import Base from '../layouts/Base.astro';
 import Advertentiemelding from './Advertentiemelding.astro';
 import Kruimelpad from './Kruimelpad.astro';
 import Delen from './Delen.astro';
+import TipFormulier from './TipFormulier.astro';
 
 const { page } = Astro.props as { page: CollectionEntry<'pages'> };
 const { Content } = await render(page);
 const d = page.data;
+const stad = /^\/(nl|de|uk)\/[^/]+\/$/.test(d.path);
 const affiliate = /\]\(\/go\/|href="\/go\//.test(page.body ?? '');
 const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : d.lang, { dateStyle: 'long' }).format(date);
 ---
@@ -24,6 +26,7 @@ const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : 
   </div>
   <article class="wrap prose">
     <Content />
+    {stad && <TipFormulier lang={d.lang} pagina={d.path} />}
     {!d.noindex && d.land !== 'global' && <Delen title={d.title} lang={d.lang} />}
   </article>
 </Base>
