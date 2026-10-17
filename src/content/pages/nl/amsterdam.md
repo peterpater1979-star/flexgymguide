@@ -6,7 +6,7 @@ lang: nl
 land: nl
 crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
-byline: "Door [AUTEUR] · Bijgewerkt op [DATUM] · 6 min lezen"
+byline: "Door [AUTEUR] · Bijgewerkt op 17 oktober 2026 · 6 min lezen"
 ---
 
 Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij [AANTAL] studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Wij zetten de opties naast elkaar.

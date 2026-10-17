@@ -16,8 +16,8 @@ updated: "2026-10-17"
 ## What we process
 
 - **Visiting the site.** The site is hosted by Netlify. Netlify processes technical data such as your IP address and browser to deliver the pages and protect the site ([Netlify privacy policy](https://www.netlify.com/privacy/)).
-- **Statistics.** [NONE / COOKIELESS STATISTICS VIA ...]. We do not use tracking cookies on this site.
-- **Contact form.** Your name, email address and message, only to answer you. Stored by Netlify Forms and deleted after [PERIOD].
+- **Statistics.** We currently use no statistics or analytics tools. We do not use tracking cookies on this site.
+- **Contact form.** Your name, email address and message, only to answer you. Stored by Netlify Forms and deleted within 12 months.
 - **Affiliate links.** Links that start with /go/ take you to a provider via an affiliate network (Tradedoubler, Impact or Awin). Those networks and the provider may set cookies on their own websites to record that you came from us. Their own privacy policies apply.
 
 ## Cookies

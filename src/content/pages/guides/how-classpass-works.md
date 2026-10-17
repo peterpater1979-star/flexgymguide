@@ -6,7 +6,7 @@ lang: en
 land: guides
 crumb: "How ClassPass works"
 kicker: "Guide"
-byline: "By [AUTHOR] · Updated [DATE] · 8 min read"
+byline: "By [AUTHOR] · Updated 17 October 2026 · 8 min read"
 ---
 
 ClassPass gives you one membership for fitness classes, gym visits and wellness at thousands of studios. Here's how credits work, what to watch out for, and how to use it when you travel.

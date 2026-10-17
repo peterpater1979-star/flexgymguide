@@ -6,7 +6,7 @@ lang: de
 land: de
 crumb: "Berlin"
 kicker: "Stadtguide Berlin"
-byline: "Von [AUTOR] · Aktualisiert am [DATUM] · 6 Min. Lesezeit"
+byline: "Von [AUTOR] · Aktualisiert am 17. Oktober 2026 · 6 Min. Lesezeit"
 ---
 
 Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in [ANZAHL] Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. Wir vergleichen die Optionen.
