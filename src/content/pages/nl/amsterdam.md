@@ -1,7 +1,7 @@
 ---
 title: "Flexibel sporten in Amsterdam: ClassPass, Trainmore en meer"
 path: "/nl/amsterdam/"
-description: "Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij [AANTAL] studio's terecht, of kiezen voor een sportschoolketen met ee"
+description: "Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij meer dan 50 gyms en studio's terecht, of kiezen voor een sportschoolketen met ee"
 lang: nl
 land: nl
 crumb: "Amsterdam"
@@ -9,7 +9,7 @@ kicker: "Stadsgids Amsterdam"
 byline: "Door Peter Pater · Bijgewerkt op 17 oktober 2026 · 6 min lezen"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij [AANTAL] studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Wij zetten de opties naast elkaar.
+Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij meer dan 50 gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Wij zetten de opties naast elkaar.
 
 <h2 id="kort">In het kort</h2>
 
@@ -62,7 +62,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in andere Europese l
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
 | **Prijs per maand** | Vanaf €19 (11 credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104 per 4 weken, €1 korting per workout | Vanaf [PRIJS] |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties |
-| **Locaties in Amsterdam** | [AANTAL] studio's en gyms | 31 clubs | [AANTAL] partners |
+| **Locaties in Amsterdam** | Meer dan 50 gyms en studio's | 31 clubs | [AANTAL] partners |
 | **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flex maandelijks opzegbaar, of 1 of 2 jaar vast | [VOORWAARDEN] |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles | [PROEFPERIODE] |
 | **In het buitenland** | Ja, in [AANTAL] landen | Nee, alleen Nederland | Ja, in meerdere Europese landen |
