@@ -35,7 +35,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### Fitness First
 
-[NUMBER] clubs in London, with group classes and multi-club access.
+17 clubs in London, with group classes and multi-club access.
 
 <div class="knoppen">
 <a class="knop" href="#fitness-first">See Fitness First</a>
@@ -70,7 +70,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Type** | Fitness pass with credits | Gym chain | Gym pass marketplace |
 | **Price per month** | From [PRICE] | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | From [PRICE] |
 | **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below | Day passes or a monthly pass for partner gyms |
-| **Locations in London** | [NUMBER] studios and gyms | [NUMBER] clubs | [NUMBER] gyms |
+| **Locations in London** | [NUMBER] studios and gyms | 17 clubs | [NUMBER] gyms |
 | **Cancelling** | Change or cancel any time | [TERMS] | [TERMS] |
 | **Try it first** | Free trial | Guest pass | Pay per visit |
 | **Abroad** | Yes, in [NUMBER] countries | No, UK clubs only | No, UK only |
@@ -125,7 +125,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 ## Fitness First in London
 
-Fitness First has [NUMBER] clubs across London. A membership gives you the gym floor, group classes and access to other clubs at your membership tier. Not sure yet? Try a club first with a guest pass.
+Fitness First has 17 clubs across London. A membership gives you the gym floor, group classes and access to other clubs at your membership tier. Not sure yet? Try a club first with a guest pass.
 
 ### What you get
 
@@ -141,6 +141,7 @@ Fitness First has [NUMBER] clubs across London. A membership gives you the gym f
 ### Watch out for
 
 - A single-club membership gives access to one club only
+- A cheaper tier does not get you into more expensive clubs
 - [CONTRACT TERMS]
 
 <div class="knoppen">
