@@ -60,7 +60,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in andere Europese l
 | Kenmerk | ClassPass | Trainmore | Urban Sports Club |
 | --- | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
-| **Prijs per maand** | Vanaf €19 (11 credits) | €77 tot €104 per 4 weken, €1 korting per workout | Vanaf [PRIJS] |
+| **Prijs per maand** | Vanaf €19 (11 credits) | Verschilt per club, bijvoorbeeld €77 tot €104 per 4 weken, €1 korting per workout | Vanaf [PRIJS] |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties |
 | **Locaties in Amsterdam** | [AANTAL] studio's en gyms | 31 clubs | [AANTAL] partners |
 | **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flex maandelijks opzegbaar, of 1 of 2 jaar vast | [VOORWAARDEN] |
@@ -133,7 +133,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaats
 
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 31 in Amsterdam
-- €1 korting per workout (maximaal 1 per dag): wie 3 keer per week traint met een jaarcontract, betaalt €72 per 4 weken
+- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt
 - Een gratis proefles om eerst te testen
 
 </div>
@@ -152,7 +152,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaats
 ### Let op
 
 - Alleen in Nederland
-- Je betaalt per 4 weken: €77 (2 jaar), €84 (1 jaar) of €104 (Flex, maandelijks opzegbaar), vóór korting. Prijzen kunnen per club verschillen
+- Elke club heeft eigen prijzen, per 4 weken. Bij één club zagen wij bijvoorbeeld €77 (2 jaar), €84 (1 jaar) of €104 (Flex, maandelijks opzegbaar), vóór korting. Bekijk de prijs van jouw club op de site van Trainmore
 
 </div>
 
