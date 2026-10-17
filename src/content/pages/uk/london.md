@@ -201,7 +201,8 @@ That depends on your membership. You can use any club at your membership tier or
 
 </details>
 
-## Keep reading
+<details class="verder">
+<summary>Keep reading and other countries</summary>
 
 <div class="kolommen">
 
@@ -236,7 +237,7 @@ That depends on your membership. You can use any club at your membership tier or
 
 </div>
 
-## Training somewhere else?
+### Training somewhere else?
 
 ClassPass is available in 29 countries. Choose your country for the right prices and terms.
 
@@ -245,3 +246,5 @@ ClassPass is available in 29 countries. Choose your country for the right prices
 <a class="knop knop-rand" href="/de/">Deutschland</a>
 <a class="knop knop-rand" href="/guides/how-classpass-works/">Other countries</a>
 </div>
+
+</details>
