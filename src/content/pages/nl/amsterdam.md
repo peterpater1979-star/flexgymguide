@@ -180,7 +180,7 @@ Kies ClassPass. Je wisselt vrij tussen yoga, pilates, boksen en spinning.
 
 <div class="kolom kaart">
 
-### Je traint drie keer per week of vaker
+### Je traint meerdere keren per week
 
 Kies Trainmore. Een vaste club met gym en lessen, dicht bij huis of werk.
 
