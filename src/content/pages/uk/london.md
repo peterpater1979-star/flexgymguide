@@ -43,38 +43,24 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 </div>
 
-<div class="kolom">
-
-<p class="klein"><strong>Also popular</strong></p>
-
-### Hussle
-
-Day passes and contract-free monthly passes for gyms across the UK.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="#comparison">See the comparison</a>
-</div>
-
-</div>
-
 </div>
 
 <div id="comparison">
 
-## ClassPass, Fitness First and Hussle compared
+## ClassPass and Fitness First compared
 
 Prices and terms change regularly. Always check the latest details with the provider.
 
-| Feature | ClassPass | Fitness First | Hussle |
-| --- | --- | --- | --- |
-| **Type** | Fitness pass with credits | Gym chain | Gym pass marketplace |
-| **Price per month** | From [PRICE] | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | From [PRICE] |
-| **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below | Day passes or a monthly pass for partner gyms |
-| **Locations in London** | [NUMBER] studios and gyms | 17 clubs | [NUMBER] gyms |
-| **Cancelling** | Change or cancel any time | [TERMS] | [TERMS] |
-| **Try it first** | Free trial | Guest pass | Pay per visit |
-| **Abroad** | Yes, in [NUMBER] countries | No, UK clubs only | No, UK only |
-| **Find out more** | [Try for free](#classpass) | [Fitness First website](https://www.fitnessfirst.co.uk/) | See the Hussle website |
+| Feature | ClassPass | Fitness First |
+| --- | --- | --- |
+| **Type** | Fitness pass with credits | Gym chain |
+| **Price per month** | From [PRICE] | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club |
+| **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below |
+| **Locations in London** | [NUMBER] studios and gyms | 17 clubs |
+| **Cancelling** | Change or cancel any time | [TERMS] |
+| **Try it first** | Free trial | Guest pass |
+| **Abroad** | Yes, in [NUMBER] countries | No, UK clubs only |
+| **Find out more** | [Try for free](#classpass) | [Fitness First website](https://www.fitnessfirst.co.uk/) |
 
 </div>
 
@@ -215,13 +201,6 @@ That depends on your membership. You can use any club at your membership tier or
 
 </details>
 
-<details>
-<summary>Is Hussle an alternative?</summary>
-
-Yes. Hussle sells day passes and monthly passes for gyms across the UK. Read ClassPass vs Hussle for the differences.
-
-</details>
-
 ## Keep reading
 
 <div class="kolommen">
@@ -241,7 +220,6 @@ Yes. Hussle sells day passes and monthly passes for gyms across the UK. Read Cla
 ### Comparisons
 
 - ClassPass vs Fitness First (coming soon)
-- ClassPass vs Hussle (coming soon)
 - Gyms without a contract: all options (coming soon)
 
 </div>
