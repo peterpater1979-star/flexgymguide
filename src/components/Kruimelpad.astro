@@ -1,0 +1,22 @@
+---
+// Kruimelpad uit de URL: Home › Nederland › Amsterdam. Namen komen uit `crumb` in de pagina's.
+import { getCollection } from 'astro:content';
+import { teksten, type Lang } from '../data/teksten';
+const { path, lang } = Astro.props as { path: string; lang: Lang };
+const pages = await getCollection('pages', (p) => !p.data.draft);
+const naam = (p: string) => { const e = pages.find((x) => x.data.path === p); return e?.data.crumb ?? e?.data.title; };
+const delen = path.split('/').filter(Boolean);
+const stappen = delen.map((_, i) => '/' + delen.slice(0, i + 1).join('/') + '/').filter((p) => naam(p));
+const items = [{ href: '/', label: teksten[lang].home }, ...stappen.map((p) => ({ href: p, label: naam(p)! }))];
+const ld = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: items.map((it, i) => ({ '@type': 'ListItem', position: i + 1, name: it.label, item: new URL(it.href, Astro.site).href })) };
+---
+{items.length > 1 && (
+  <nav class="kruimel" aria-label="Breadcrumb">
+    {items.map((it, i) => i < items.length - 1 ? <><a href={it.href}>{it.label}</a><span aria-hidden="true"> › </span></> : <span aria-current="page">{it.label}</span>)}
+    <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+  </nav>
+)}
+<style>
+  .kruimel { font-size: .85rem; color: var(--muted); margin-bottom: 1rem; }
+  .kruimel a { color: var(--muted); }
+</style>

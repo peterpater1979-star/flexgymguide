@@ -1,0 +1,34 @@
+---
+import { teksten, type Lang } from '../data/teksten';
+const { lang = 'en' } = Astro.props as { lang?: Lang };
+const t = teksten[lang];
+const year = new Date().getFullYear();
+---
+<footer>
+  <div class="wrap cols">
+    <div>
+      <strong>FlexGymGuide</strong>
+      <p>{t.over}</p>
+    </div>
+    <div>
+      <p>{t.melding} <a href={t.meldingHref}>{t.meldingLink}</a></p>
+    </div>
+  </div>
+  <nav class="balk" aria-label="Footer">
+    <div class="wrap balk-in">
+      <ul>{t.footer.map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul>
+      <span>© {year} flexgymguide.com</span>
+    </div>
+  </nav>
+</footer>
+<style>
+  footer { margin-top: 5rem; border-top: 1px solid var(--line); background: var(--surface); padding-top: 2.5rem; color: var(--muted); font-size: .92rem; }
+  .cols { display: grid; gap: 2rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+  strong { color: var(--text); font-size: 1.1rem; }
+  .balk { margin-top: 2rem; border-top: 1px solid var(--line); padding: 1rem 0; }
+  .balk-in { display: flex; flex-wrap: wrap; gap: .75rem 2rem; align-items: center; justify-content: space-between; }
+  .balk ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; }
+  .balk a { color: var(--text); font-weight: 600; text-decoration: none; }
+  .balk a:hover { text-decoration: underline; }
+  .balk span { font-size: .82rem; }
+</style>

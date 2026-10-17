@@ -1,0 +1,39 @@
+---
+import menu from '../data/menu.json';
+const { land = 'global' } = Astro.props;
+const huidig = menu.main.find((m) => m.land === land);
+const pad = Astro.url.pathname;
+---
+<header>
+  <div class="wrap bar">
+    <a class="logo" href="/">Flex<span>Gym</span>Guide</a>
+    <nav aria-label="Main">
+      <ul>
+        {menu.main.map((m) => <li><a href={m.href} aria-current={m.land === land ? 'true' : undefined}>{m.label}</a></li>)}
+      </ul>
+    </nav>
+  </div>
+  {huidig && huidig.children.length > 0 && (
+    <nav class="sub" aria-label={huidig.label}>
+      <div class="wrap">
+        <ul>
+          <li><a href={huidig.href} aria-current={pad === huidig.href ? 'page' : undefined}>{huidig.label}</a></li>
+          {huidig.children.filter((c) => c.href !== huidig.href).map((c) => <li><a href={c.href} aria-current={pad === c.href ? 'page' : undefined}>{c.label}</a></li>)}
+        </ul>
+      </div>
+    </nav>
+  )}
+</header>
+<style>
+  header { border-bottom: 1px solid var(--line); background: var(--bg); }
+  .bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem 2rem; padding-block: 1rem; }
+  .logo { font-weight: 800; font-size: 1.25rem; color: var(--text); text-decoration: none; letter-spacing: -.01em; }
+  .logo span { color: var(--accent); }
+  ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; }
+  nav a { color: var(--text); text-decoration: none; font-weight: 600; font-size: .95rem; }
+  nav a:hover, nav a[aria-current] { color: var(--accent); }
+  .sub { background: var(--surface); border-top: 1px solid var(--line); }
+  .sub ul { padding-block: .55rem; }
+  .sub a { font-weight: 500; font-size: .9rem; color: var(--muted); }
+  .sub a[aria-current='page'] { color: var(--text); font-weight: 700; }
+</style>

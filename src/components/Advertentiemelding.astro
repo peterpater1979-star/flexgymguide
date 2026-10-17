@@ -1,0 +1,11 @@
+---
+// Verschijnt bovenaan elke pagina met een /go/-link, in de taal van de pagina.
+import { teksten, type Lang } from '../data/teksten';
+const { lang } = Astro.props as { lang: Lang };
+const t = teksten[lang];
+---
+<p class="melding"><strong>{t.label}</strong> · {t.melding} <a href={t.meldingHref}>{t.meldingLink}</a></p>
+<style>
+  .melding { background: var(--surface); border-radius: var(--radius); padding: .75rem 1rem; font-size: .88rem; color: var(--muted); margin: 0 0 1.25rem; }
+  .melding strong { color: var(--text); }
+</style>

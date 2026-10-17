@@ -1,0 +1,137 @@
+---
+title: "Flexibel sporten in Nederland"
+path: "/nl/"
+description: "Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een sportpas zoals ClassPass, of bij een sportschoolketen met flexibele voorwaarden. H"
+lang: nl
+land: nl
+crumb: "Nederland"
+kicker: "Landengids Nederland"
+byline: "Door [AUTEUR] · Bijgewerkt op [DATUM]"
+---
+
+Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een sportpas zoals ClassPass, of bij een sportschoolketen met flexibele voorwaarden. Hier lees je wat bij jou past, en in welke steden.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-land">Probeer ClassPass gratis</a>
+<a class="knop knop-rand" href="#steden">Kies je stad</a>
+</div>
+
+<h2 id="opties">Twee manieren om flexibel te sporten</h2>
+
+<div class="kolommen">
+
+<div class="kolom">
+
+<p class="klein"><strong>Sportpas</strong></p>
+
+### ClassPass
+
+Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken bij studio's door de hele stad, en ook in het buitenland.
+
+- Goed als je graag afwisselt
+- Goed bij één tot drie keer per week sporten
+- Werkt ook in [AANTAL] andere landen
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-land">Probeer ClassPass gratis</a>
+</div>
+
+</div>
+
+<div class="kolom">
+
+<p class="klein"><strong>Sportschoolketen</strong></p>
+
+### Vaste sportschool
+
+Een lidmaatschap bij één keten met gym en groepslessen. In Nederland bijvoorbeeld Trainmore, met [AANTAL] clubs.
+
+- Goed als je drie keer per week of vaker traint
+- Goed als je één vaste plek wilt
+- Meestal alleen in Nederland
+
+ClassPass of een vaste sportschool?
+
+</div>
+
+</div>
+
+<div id="steden">
+
+## Steden
+
+- **[Amsterdam](/nl/amsterdam/)**
+- **Rotterdam** · Binnenkort
+- **Utrecht** · Binnenkort
+- **Den Haag** · Binnenkort
+
+</div>
+
+## Zo werkt ClassPass in Nederland
+
+<div class="kolommen">
+
+<div class="kolom">
+
+### Kies een abonnement
+
+Je krijgt elke maand credits. Hoe meer credits, hoe meer lessen.
+
+</div>
+
+<div class="kolom">
+
+### Boek een les of gymbezoek
+
+In de app zie je studio's bij jou in de buurt en hoeveel credits een les kost.
+
+</div>
+
+<div class="kolom">
+
+### Pas aan of zeg op
+
+Je kunt je abonnement op elk moment aanpassen, pauzeren of opzeggen.
+
+</div>
+
+</div>
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-land">Probeer ClassPass gratis</a>
+</div>
+
+[Lees de volledige uitleg (EN)](/guides/how-classpass-works/)
+
+## Veelgestelde vragen
+
+<details open>
+<summary>Wat kost ClassPass in Nederland?</summary>
+
+Dat hangt af van het aantal credits per maand. Kleinere abonnementen beginnen rond [PRIJS] per maand. Controleer de actuele prijzen bij ClassPass.
+
+</details>
+
+<details>
+<summary>Is ClassPass goedkoper dan een sportschool?</summary>
+
+Train je drie keer per week of vaker in de gym, dan is een vaste sportschool meestal voordeliger. Wil je afwisselen tussen studio's, dan past een sportpas beter.
+
+</details>
+
+<details>
+<summary>Kan ik ClassPass ook op vakantie gebruiken?</summary>
+
+Ja. Je credits werken in alle landen waar ClassPass actief is, tegen de prijzen van dat land.
+
+</details>
+
+## Train je ergens anders?
+
+ClassPass werkt in [AANTAL] landen. Kies je land voor de juiste prijzen en voorwaarden.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/">Deutschland</a>
+<a class="knop knop-rand" href="/uk/">United Kingdom</a>
+<a class="knop knop-rand" href="/guides/how-classpass-works/">Andere landen (EN)</a>
+</div>
