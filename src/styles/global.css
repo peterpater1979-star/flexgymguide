@@ -1,13 +1,9 @@
 :root {
   --bg: #fbfaf7;
   --white: #ffffff;
-  --surface: #fff4dc;
+  --surface: #f2eee7;
   --zon: #ffc94a;
   --zon-hover: #f5b81f;
-  --munt: #dff3ea;
-  --perzik: #ffe3d6;
-  --lila: #e9e4fb;
-  --koraal: #e8604c;
   --text: #1b2130;
   --muted: #5e6472;
   --line: #e4ded4;
@@ -30,12 +26,12 @@ img { max-width: 100%; height: auto; }
 main { padding-top: 0; }
 
 /* Tekst */
-.prose h1, .kop h1 { font-size: clamp(2rem, 5vw, 3.1rem); line-height: 1.1; letter-spacing: -.025em; font-weight: 700; margin: .35rem 0 .9rem; max-width: 22ch; }
-.prose h2 { font-size: clamp(1.45rem, 3vw, 1.95rem); line-height: 1.2; letter-spacing: -.015em; font-weight: 700; margin: 4rem 0 1rem; scroll-margin-top: 1rem; }
+.prose h1, .kop h1 { font-size: clamp(2rem, 5vw, 3.1rem); line-height: 1.1; letter-spacing: -.025em; font-weight: 600; margin: .35rem 0 .9rem; max-width: 22ch; }
+.prose h2 { font-size: clamp(1.45rem, 3vw, 1.95rem); line-height: 1.2; letter-spacing: -.015em; font-weight: 600; margin: 4rem 0 1rem; scroll-margin-top: 1rem; }
 .prose h3 { font-size: 1.15rem; font-weight: 600; margin: 1.5rem 0 .5rem; }
 .prose > p, .prose > ul, .prose > ol { max-width: 72ch; }
 .prose li { margin: .25rem 0; }
-.kicker { text-transform: uppercase; letter-spacing: .12em; font-size: .75rem; font-weight: 700; color: var(--koraal); margin: 0; }
+.kicker { text-transform: uppercase; letter-spacing: .12em; font-size: .75rem; font-weight: 600; color: var(--muted); margin: 0; }
 .prose h2::after { content: ''; display: block; width: 3rem; height: 5px; border-radius: 99px; background: var(--zon); margin-top: .6rem; }
 .aanbieder h2::after, .kaart h2::after, .tip h2::after { display: none; }
 .klein { font-size: .88rem; color: var(--muted); }
@@ -53,9 +49,7 @@ main { padding-top: 0; }
 /* Kolommen en kaarten */
 .kolommen { display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); margin: 1.5rem 0; }
 .kolom > :first-child { margin-top: 0; }
-.kaart { background: var(--white); border-radius: var(--radius); padding: 1.75rem; box-shadow: var(--shadow); border-top: 6px solid var(--munt); }
-.kolom.kaart:nth-child(3n+2) { border-top-color: var(--perzik); }
-.kolom.kaart:nth-child(3n) { border-top-color: var(--lila); }
+.kaart { background: var(--white); border-radius: var(--radius); padding: 1.75rem; box-shadow: var(--shadow); }
 .kaart h3 { margin-top: .25rem; }
 .aanbieder { background: var(--white); border-radius: var(--radius); padding: clamp(1.5rem, 4vw, 2.5rem); margin: 3rem 0; box-shadow: var(--shadow); scroll-margin-top: 1rem; }
 .aanbieder h2 { margin-top: .25rem; }
@@ -64,7 +58,7 @@ main { padding-top: 0; }
 /* Tabellen */
 .prose table { width: 100%; border-collapse: collapse; font-size: .95rem; margin: 1.5rem 0; display: block; overflow-x: auto; background: var(--white); border-radius: var(--radius); box-shadow: var(--shadow); }
 .prose th, .prose td { text-align: left; padding: .85rem 1rem; border-bottom: 1px solid var(--line); vertical-align: top; min-width: 9rem; }
-.prose thead th { background: var(--munt); color: var(--text); font-weight: 600; }
+.prose thead th { background: var(--surface); color: var(--text); font-weight: 600; }
 .prose tbody tr:last-child td { border-bottom: 0; }
 
 /* Veelgestelde vragen */
@@ -79,10 +73,5 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .verborgen { position: absolute; left: -9999px; }
 
 /* Paginakop */
-.kop { background:
-    radial-gradient(circle at 92% 18%, var(--perzik) 0 7rem, transparent 7.05rem),
-    radial-gradient(circle at 80% 105%, var(--munt) 0 5rem, transparent 5.05rem),
-    var(--surface);
-  padding: 2rem 0 3rem; margin-bottom: 1rem; }
-@media (max-width: 700px) { .kop { background: var(--surface); } }
+.kop { background: var(--surface); padding: 2rem 0 3rem; margin-bottom: 1rem; }
 .kop .meta { margin: 0; }
