@@ -60,7 +60,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in andere Europese l
 | Kenmerk | ClassPass | Trainmore | Urban Sports Club |
 | --- | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
-| **Prijs per maand** | Vanaf €19 (11 credits) | Verschilt per clublabel (Black, Red, Regular), bijvoorbeeld €77 tot €104 per 4 weken, €1 korting per workout | Vanaf [PRIJS] |
+| **Prijs per maand** | Vanaf €19 (11 credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104 per 4 weken, €1 korting per workout | Vanaf [PRIJS] |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties |
 | **Locaties in Amsterdam** | [AANTAL] studio's en gyms | 31 clubs | [AANTAL] partners |
 | **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flex maandelijks opzegbaar, of 1 of 2 jaar vast | [VOORWAARDEN] |
@@ -152,7 +152,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. Met een lidmaats
 ### Let op
 
 - Alleen in Nederland
-- De prijs hangt af van het label van de club: Black, Red of Regular. Je betaalt per 4 weken. Bij Trainmore Koningin Wilhelminaplein in Amsterdam was dat in oktober 2026 €77 (2 jaar), €84 (1 jaar) of €104 (Flex, maandelijks opzegbaar), vóór korting. Bekijk de prijs van jouw club op de site van Trainmore
+- De prijs hangt af van het label van de club: Black, Red of Regular. Je betaalt per 4 weken. Bij Trainmore Koningin Wilhelminaplein in Amsterdam, een Black Label-club waarmee je ook in alle Regular-clubs mag trainen, was dat in oktober 2026 €77 (2 jaar), €84 (1 jaar) of €104 (Flex, maandelijks opzegbaar), vóór korting. Bekijk de prijs van jouw club op de site van Trainmore
 
 </div>
 
