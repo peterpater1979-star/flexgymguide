@@ -1,15 +1,15 @@
 ---
-title: "Flexibel trainieren in Frankfurt: ClassPass, Fitness First und mehr"
+title: "Flexibel trainieren in Frankfurt am Main: ClassPass, Fitness First und mehr"
 path: "/de/frankfurt/"
-description: "Keine Lust, dich lange an ein einziges Studio zu binden? In Frankfurt trainierst du mit einem Sportpass in [ANZAHL] Studios oder wählst ein Fitnessstudio mit koste"
+description: "Keine Lust, dich lange an ein einziges Studio zu binden? In Frankfurt am Main trainierst du mit einem Sportpass in [ANZAHL] Studios oder wählst ein Fitnessstudio mit koste"
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
-crumb: "Frankfurt"
-kicker: "Stadtguide Frankfurt"
+crumb: "Frankfurt am Main"
+kicker: "Stadtguide Frankfurt am Main"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Frankfurt trainierst du mit einem Sportpass in [ANZAHL] Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. Wir vergleichen die Optionen.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Frankfurt am Main trainierst du mit einem Sportpass in [ANZAHL] Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. Wir vergleichen die Optionen.
 
 <h2 id="blick">Auf einen Blick</h2>
 

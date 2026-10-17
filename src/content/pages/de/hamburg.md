@@ -209,7 +209,7 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 ### Andere Städte
 
 - [Flexibel trainieren in Berlin](/de/berlin/)
-- [Flexibel trainieren in Frankfurt](/de/frankfurt/)
+- [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)
 - [Flexibel trainieren in Köln](/de/koeln/)
 - [Flexibel trainieren in München](/de/muenchen/)
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)

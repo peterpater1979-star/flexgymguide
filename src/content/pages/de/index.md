@@ -62,7 +62,7 @@ ClassPass oder festes Studio?
 
 - **[Berlin](/de/berlin/)**
 - **[Hamburg](/de/hamburg/)**
-- **[Frankfurt](/de/frankfurt/)**
+- **[Frankfurt am Main](/de/frankfurt/)**
 - **[Köln](/de/koeln/)**
 - **[München](/de/muenchen/)**
 - **[Darmstadt](/de/darmstadt/)**
