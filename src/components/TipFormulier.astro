@@ -1,12 +1,12 @@
 ---
-// Tip-formulier onder stadspagina's; komt via Netlify Forms (formulier "tips") in de mail.
+// Tip-formulier onder alle pagina's (behalve contact en bedankpagina's); komt via Netlify Forms (formulier "tips") in de mail.
 import { teksten, type Lang } from '../data/teksten';
-const { lang, pagina } = Astro.props as { lang: Lang; pagina: string };
+const { lang, pagina, stad = false } = Astro.props as { lang: Lang; pagina: string; stad?: boolean };
 const t = teksten[lang].tip;
 ---
 <details class="tip" id="tip">
   <summary>{t.titel}</summary>
-  <p>{t.intro}</p>
+  <p>{stad ? t.intro : t.introAlgemeen}</p>
   <form name="tips" method="POST" action={t.bedankt} data-netlify="true" netlify-honeypot="website">
     <input type="hidden" name="form-name" value="tips" />
     <input type="hidden" name="pagina" value={pagina} />

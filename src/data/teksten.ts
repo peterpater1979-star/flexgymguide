@@ -18,6 +18,7 @@ export const teksten = {
     tip: {
       titel: 'Tip of ervaring delen',
       intro: 'Train je zelf in deze stad, of klopt er iets niet meer? Laat het ons weten. Bruikbare tips verwerken we in deze pagina.',
+      introAlgemeen: 'Heb je een tip, een ervaring met een sportpas of sportschool, of klopt er iets niet? Laat het ons weten. Bruikbare tips verwerken we op de site.',
       veld: 'Je tip of ervaring',
       naam: 'Naam (niet verplicht)',
       email: 'E-mail (alleen als je antwoord wilt)',
@@ -45,6 +46,7 @@ export const teksten = {
     tip: {
       titel: 'Tipp oder Erfahrung teilen',
       intro: 'Trainierst du selbst in dieser Stadt, oder stimmt etwas nicht mehr? Sag uns Bescheid. Hilfreiche Tipps nehmen wir in diese Seite auf.',
+      introAlgemeen: 'Hast du einen Tipp, Erfahrungen mit einem Sportpass oder Fitnessstudio, oder stimmt etwas nicht? Sag uns Bescheid. Hilfreiche Tipps nehmen wir auf der Website auf.',
       veld: 'Dein Tipp oder deine Erfahrung',
       naam: 'Name (freiwillig)',
       email: 'E-Mail (nur wenn du eine Antwort möchtest)',
@@ -72,6 +74,7 @@ export const teksten = {
     tip: {
       titel: 'Share a tip or experience',
       intro: 'Do you train in this city, or is something out of date? Let us know. We add useful tips to this page.',
+      introAlgemeen: 'Got a tip, an experience with a fitness pass or gym, or spotted something out of date? Let us know. We add useful tips to the site.',
       veld: 'Your tip or experience',
       naam: 'Name (optional)',
       email: 'Email (only if you want a reply)',
