@@ -91,7 +91,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 ### Watch out for
 
 - Credits per class vary by studio and time of day
-- Unused credits only roll over up to a limit
+- Unused credits roll over for one month. If you still don't use them, they expire
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-london">Try ClassPass for free</a>
