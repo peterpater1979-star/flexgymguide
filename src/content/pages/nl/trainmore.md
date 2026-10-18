@@ -123,6 +123,7 @@ Wil je juist afwisselen tussen studio's? Kijk dan naar [ClassPass](/nl/classpass
 - [Groningen](/nl/groningen/): 2 clubs
 - [Haarlem](/nl/haarlem/): 1 club
 - [Leiden](/nl/leiden/): 1 club
+- Bilthoven, Leusden en Bussum: elk 1 club
 
 </div>
 
