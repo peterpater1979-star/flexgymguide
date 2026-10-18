@@ -66,7 +66,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in 7 Europese landen
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app | Maandelijks opzegbaar tot 3 dagen voor de verlenging, of goedkoper met 1 of 2 jaar vast |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis (Essential, 3 check-ins) |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="ja" aria-hidden="true">✓</span> Ja, in 7 Europese landen |
-| **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-amsterdam) | [Website Trainmore](https://trainmore.com/nl-NL/) | [Website Urban Sports Club](https://urbansportsclub.com/nl/prices/amsterdam?duration=monthly) |
+| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) | [Website Urban Sports Club](https://urbansportsclub.com/nl/prices/amsterdam?duration=monthly) |
 
 <div id="classpass" class="aanbieder">
 
@@ -111,10 +111,9 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-amsterdam">Probeer ClassPass gratis</a>
+<a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 </div>
 
-<p class="klein">Daarna op elk moment op te zeggen</p>
 
 </div>
 
@@ -161,7 +160,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. De nieuwste is T
 </div>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://trainmore.com/nl-NL/">Naar de website van Trainmore</a>
+<a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
 </div>
 
 </div>

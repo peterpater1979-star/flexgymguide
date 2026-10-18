@@ -12,7 +12,7 @@ kicker: "Landengids Nederland"
 Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een sportpas zoals ClassPass, of bij een sportschoolketen met flexibele voorwaarden. Hier lees je wat bij jou past, en in welke steden.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-land">Probeer ClassPass gratis</a>
+<a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 <a class="knop knop-rand" href="#steden">Kies je stad</a>
 </div>
 
@@ -33,10 +33,9 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 - Werkt ook in 28 andere landen
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-land">Probeer ClassPass gratis</a>
+<a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 </div>
 
-[Alles over ClassPass](/nl/classpass/)
 
 </div>
 
@@ -53,10 +52,9 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Je krijg
 - Alleen in Nederland
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://trainmore.com/nl-NL/">Naar de website van Trainmore</a>
+<a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
 </div>
 
-[Alles over Trainmore](/nl/trainmore/)
 
 </div>
 
@@ -110,7 +108,7 @@ Je kunt je abonnement op elk moment aanpassen, pauzeren of opzeggen.
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-land">Probeer ClassPass gratis</a>
+<a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 </div>
 
 [Lees de volledige uitleg (EN)](/guides/how-classpass-works/)
