@@ -60,12 +60,14 @@ ClassPass oder festes Studio?
 
 ## Städte
 
-- **[Berlin](/de/berlin/)**
-- **[Hamburg](/de/hamburg/)**
-- **[Frankfurt am Main](/de/frankfurt/)**
-- **[Köln](/de/koeln/)**
-- **[München](/de/muenchen/)**
-- **[Darmstadt](/de/darmstadt/)**
+<ul class="stedenlijst">
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">15 Fitness First Clubs</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">17 Fitness First Clubs</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">12 Fitness First Clubs</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">14 Fitness First Clubs</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">8 Fitness First Clubs</span></li>
+<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">10 Fitness First Clubs</span></li>
+</ul>
 
 </div>
 

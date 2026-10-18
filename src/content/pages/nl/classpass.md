@@ -24,8 +24,8 @@ ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credi
 | **Prijs per maand** | Vanaf €19 (11 credits) |
 | **Wat kun je doen** | Yoga, pilates, boksen, spinning, krachttraining, gymbezoeken en meer |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn |
-| **Uitproberen** | Gratis proefperiode |
-| **In het buitenland** | Ja, in meer dan 2.500 steden in 29 landen |
+| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in meer dan 2.500 steden in 29 landen |
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij ClassPass.</p>
 

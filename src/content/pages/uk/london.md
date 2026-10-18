@@ -58,8 +58,8 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below |
 | **Locations in London** | Studios and gyms across the city | 17 clubs |
 | **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost |
-| **Try it first** | Free trial | Guest pass |
-| **Abroad** | Yes, in 29 countries | No, UK clubs only |
+| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass |
+| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 29 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only |
 | **Find out more** | [Try for free](#classpass) | [Fitness First website](https://www.fitnessfirst.co.uk/) |
 
 </div>

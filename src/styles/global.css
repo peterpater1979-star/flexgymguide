@@ -78,3 +78,11 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .aanbiederkaart { display: flex; flex-direction: column; }
 .aanbiederkaart > .knoppen { margin-top: auto; padding-top: 1.25rem; margin-bottom: .75rem; }
 .aanbiederkaart > p:last-child { margin-bottom: 0; }
+.stedenlijst { list-style: none; padding: 0; margin: 1rem 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr)); column-gap: 2rem; }
+.stedenlijst li { margin: 0; padding: .5rem 0; border-bottom: 1px solid var(--line); }
+.stedenlijst a { text-decoration: none; }
+.stedenlijst a:hover strong { text-decoration: underline; }
+.stedenlijst .klein { display: block; line-height: 1.4; }
+.ja, .nee { font-weight: 700; margin-right: .15rem; }
+.ja { color: #2f6b45; }
+.nee { color: #9a3b32; }

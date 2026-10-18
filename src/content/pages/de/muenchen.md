@@ -58,8 +58,8 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
 | **Standorte in München** | Studios und Gyms in der ganzen Stadt | 8 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
-| **Ausprobieren** | Kostenloser Testzeitraum | Kostenloses Probetraining |
-| **Im Ausland** | Ja, in 29 Ländern | Deutschland und 4 Clubs in und um Wien |
+| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 Ländern | Deutschland und 4 Clubs in und um Wien |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Website Fitness First](https://www.fitnessfirst.de/) |
 
 </div>

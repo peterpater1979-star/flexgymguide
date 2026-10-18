@@ -60,11 +60,13 @@ ClassPass or a regular gym?
 
 ## Cities
 
-- **[London](/uk/london/)**
-- **Manchester** · Coming soon
-- **Bristol** · Coming soon
-- **Edinburgh** · Coming soon
-- **Brighton** · Coming soon
+<ul class="stedenlijst">
+<li><a href="/uk/london/"><strong>London</strong></a></li>
+<li><strong>Manchester</strong> <span class="klein">Coming soon</span></li>
+<li><strong>Bristol</strong> <span class="klein">Coming soon</span></li>
+<li><strong>Edinburgh</strong> <span class="klein">Coming soon</span></li>
+<li><strong>Brighton</strong> <span class="klein">Coming soon</span></li>
+</ul>
 
 </div>
 

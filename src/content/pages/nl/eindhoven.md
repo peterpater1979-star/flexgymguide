@@ -52,8 +52,8 @@ Eigen clubs met gym en groepslessen: 2 in Eindhoven, 53 in heel Nederland.
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
 | **Locaties in Eindhoven** | Gyms en studio's door de hele stad, van yoga tot fitness | 2 clubs (53 in heel Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
-| **Uitproberen** | Gratis proefperiode | Gratis proefles |
-| **In het buitenland** | Ja, in 29 landen | Nee, alleen Nederland |
+| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
 | **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-eindhoven) | [Website Trainmore](https://trainmore.com/nl-NL/) |
 
 <div id="classpass" class="aanbieder">
