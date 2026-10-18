@@ -114,7 +114,7 @@ Willst du lieber zwischen Studios wechseln? Dann schau dir [ClassPass](/de/class
 <li><strong>Detmold</strong> <span class="klein">1 Club</span></li>
 <li><strong>Dorsten</strong> <span class="klein">1 Club</span></li>
 <li><strong>Dresden</strong> <span class="klein">3 Clubs</span></li>
-<li><strong>Essen (Kettwig)</strong> <span class="klein">1 Club</span></li>
+<li><strong>Essen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Esslingen am Neckar</strong> <span class="klein">3 Clubs</span></li>
 <li><strong>Ettlingen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Fellbach</strong> <span class="klein">1 Club</span></li>
