@@ -62,7 +62,7 @@ Eigen clubs met gym en groepslessen: 2 in Groningen, 53 in heel Nederland.
 
 ## ClassPass in Groningen
 
-Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's door de hele stad. Handig als je graag afwisselt en je niet aan één locatie wilt binden.
+Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's door de hele stad. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
 
 <div class="kolommen">
 
@@ -112,7 +112,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 ## Trainmore in Groningen
 
-Trainmore heeft 53 clubs in Nederland, waarvan 2 in Groningen. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles.
+Trainmore heeft 53 clubs in Nederland, waarvan 2 in Groningen. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
 <div class="kolommen">
 
@@ -250,6 +250,8 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 
 ### Uitgelegd
 
+- [Alles over ClassPass](/nl/classpass/)
+- [Alles over Trainmore](/nl/trainmore/)
 - [How ClassPass works (EN)](/guides/how-classpass-works/)
 
 </div>

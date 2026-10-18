@@ -36,6 +36,8 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 <a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-land">Probeer ClassPass gratis</a>
 </div>
 
+[Alles over ClassPass](/nl/classpass/)
+
 </div>
 
 <div class="kolom">
@@ -53,6 +55,8 @@ Een lidmaatschap met gym en groepslessen in 53 clubs: 31 in Amsterdam, 7 in Rott
 <div class="knoppen">
 <a class="knop knop-rand" href="https://trainmore.com/nl-NL/">Naar de website van Trainmore</a>
 </div>
+
+[Alles over Trainmore](/nl/trainmore/)
 
 </div>
 
