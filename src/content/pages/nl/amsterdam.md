@@ -104,7 +104,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 - Het aantal credits per les verschilt per studio en tijdstip
 - Ongebruikte credits van een maand kun je één maand doorschuiven. Gebruik je ze dan nog niet, dan vervallen ze
-- Stop je, dan vervallen je resterende credits. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen
+- Alleen als je opzegt tijdens de gratis proefperiode, stopt je toegang meteen. Met een betaald abonnement train je door tot het einde van je maand. Daarna vervallen je resterende credits
 
 </div>
 
