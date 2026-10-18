@@ -86,3 +86,6 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .ja, .nee { font-weight: 700; margin-right: .15rem; }
 .ja { color: #2f6b45; }
 .nee { color: #9a3b32; }
+.portret { float: right; width: 160px; height: 160px; border-radius: 50%; object-fit: cover; margin: .25rem 0 1rem 1.5rem; box-shadow: var(--shadow); }
+@media (max-width: 520px) { .portret { float: none; display: block; margin: 0 0 1rem; width: 128px; height: 128px; } }
+.prose h2 { clear: both; }
