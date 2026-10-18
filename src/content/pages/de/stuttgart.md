@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Stuttgart: ClassPass, Fitness First und mehr"
 path: "/de/stuttgart/"
-description: "Flexibel trainieren in Stuttgart: mit ClassPass zwischen Studios wechseln oder bei Fitness First in [ANZAHL] Clubs trainieren. Wir vergleichen die Optionen."
+description: "Flexibel trainieren in Stuttgart: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 4 Clubs trainieren. Wir vergleichen die Optionen."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -35,7 +35,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-220 Clubs in Deutschland, [ANZAHL] in Stuttgart. Mit Kursen, Wellness und teils Schwimmbad.
+220 Clubs in Deutschland, 4 in Stuttgart. Mit Kursen, Wellness und teils Schwimmbad.
 
 <div class="knoppen">
 <a class="knop" href="#fitness-first">Fitness First ansehen</a>
@@ -56,7 +56,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
 | **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Stuttgart** | Studios und Gyms in der ganzen Stadt | [ANZAHL] Clubs |
+| **Standorte in Stuttgart** | Studios und Gyms in der ganzen Stadt | 4 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 Ländern | Deutschland und 4 Clubs in und um Wien |
@@ -110,7 +110,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ## Fitness First in Stuttgart
 
-Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon [ANZAHL] in Stuttgart. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 4 in Stuttgart. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 ### Das bekommst du
 
