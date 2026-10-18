@@ -50,7 +50,7 @@ Eigen clubs met gym en groepslessen: 2 in Eindhoven, 53 in heel Nederland.
 | **Soort** | Sportpas met credits | Sportschoolketen |
 | **Prijs per maand** | Vanaf €19 (11 credits) | Verschilt per clublabel (Black, Red, Regular), per 4 weken, €1 korting per workout |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
-| **Locaties in Eindhoven** | Gyms en studio's door de hele stad, van yoga tot fitness | 2 clubs |
+| **Locaties in Eindhoven** | Gyms en studio's door de hele stad, van yoga tot fitness | 2 clubs (53 in heel Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles |
 | **In het buitenland** | Ja, in 29 landen | Nee, alleen Nederland |
