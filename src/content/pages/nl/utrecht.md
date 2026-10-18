@@ -51,7 +51,7 @@ Eigen clubs met gym en groepslessen: 3 in Utrecht, 53 in heel Nederland.
 | **Prijs per maand** | Vanaf €19 (11 credits) | Verschilt per clublabel (Black, Red, Regular), per 4 weken, €1 korting per workout |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
 | **Locaties in Utrecht** | [AANTAL] gyms en studio's | 3 clubs |
-| **Opzeggen** | Op elk moment aan te passen of op te zeggen | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
+| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles |
 | **In het buitenland** | Ja, in 29 landen | Nee, alleen Nederland |
 | **Meer informatie** | [Probeer gratis](/go/classpass-nl/?epi=fgg-nl-utrecht) | [Website Trainmore](https://trainmore.com/nl-NL/) |
@@ -92,6 +92,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 - Het aantal credits per les verschilt per studio en tijdstip
 - Ongebruikte credits schuiven maar beperkt door naar de volgende maand
+- Stop je, dan vervallen je resterende credits. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen
 
 </div>
 
@@ -201,6 +202,13 @@ Dat hangt af van hoe vaak je sport en wat je wilt doen. Train je vooral in de gy
 <summary>Kan ik ClassPass ook buiten Utrecht gebruiken?</summary>
 
 Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden en in het buitenland, overal waar ClassPass actief is.
+
+</details>
+
+<details>
+<summary>Kan ik ClassPass op elk moment opzeggen?</summary>
+
+Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatum, dan betaal je niet voor een nieuwe maand. Bij een betaald abonnement kun je ClassPass gebruiken tot het einde van die maand. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen. Resterende credits vervallen als je stopt. Zie de [uitleg van ClassPass](https://help.classpass.com/hc/nl/articles/204578119-Hoe-kan-ik-mijn-ClassPass-lidmaatschap-opzeggen).
 
 </details>
 
