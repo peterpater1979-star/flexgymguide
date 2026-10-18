@@ -12,7 +12,7 @@ kicker: "Country guide United Kingdom"
 Working out without a long contract at one gym comes down to two options: a fitness pass like ClassPass, or a gym chain with flexible terms. Here's what suits you, and in which cities.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-land">Try ClassPass for free</a>
+<a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
 <a class="knop knop-rand" href="#steden">Choose your city</a>
 </div>
 
@@ -33,7 +33,7 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 - Works in 28 other countries
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-land">Try ClassPass for free</a>
+<a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
 </div>
 
 </div>
@@ -50,7 +50,9 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 - Good if you want one fixed place
 - Usually UK only
 
-ClassPass or a regular gym?
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
+</div>
 
 </div>
 
@@ -101,7 +103,7 @@ You can change, pause or cancel your plan at any time.
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-land">Try ClassPass for free</a>
+<a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
 </div>
 
 [Read the full guide](/guides/how-classpass-works/)

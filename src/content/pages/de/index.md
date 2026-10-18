@@ -12,7 +12,7 @@ kicker: "Länderguide Deutschland"
 Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Bedingungen. Hier liest du, was zu dir passt und in welchen Städten.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-land">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="#steden">Stadt wählen</a>
 </div>
 
@@ -33,7 +33,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 - Funktioniert auch in 28 anderen Ländern
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-land">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
 </div>
 
 </div>
@@ -50,7 +50,9 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 - Gut, wenn du einen festen Ort willst
 - Meist nur in Deutschland
 
-ClassPass oder festes Studio?
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
 
 </div>
 
@@ -102,7 +104,7 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-land">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
 </div>
 
 [Ausführliche Erklärung lesen (EN)](/guides/how-classpass-works/)

@@ -60,7 +60,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 Ländern | Deutschland und 4 Clubs in und um Wien |
-| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Website Fitness First](https://www.fitnessfirst.de/) |
+| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
 
 </div>
 
@@ -94,10 +94,9 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 - Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-frankfurt">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
 </div>
 
-<p class="klein"><strong>Danach jederzeit kündbar</strong></p>
 
 </div>
 
@@ -131,7 +130,7 @@ Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 12 in Frankfu
 - Nur in Deutschland und Wien
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.fitnessfirst.de/">Zur Website von Fitness First</a>
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 </div>
@@ -231,7 +230,7 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 ### Erklärt
 
 - Was kostet ClassPass in Deutschland? (bald)
-- [ClassPass kostenlos testen](/go/classpass-de/?epi=fgg-de-frankfurt)
+- [Alles über ClassPass](/de/classpass/)
 - [How ClassPass works (EN)](/guides/how-classpass-works/)
 
 </div>

@@ -60,7 +60,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 29 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only |
-| **Find out more** | [Try for free](#classpass) | [Fitness First website](https://www.fitnessfirst.co.uk/) |
+| **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) |
 
 </div>
 
@@ -94,10 +94,9 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 - Unused credits roll over for one month. If you still don't use them, they expire
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-london">Try ClassPass for free</a>
+<a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
 </div>
 
-<p class="klein"><strong>Cancel any time after the trial</strong></p>
 
 </div>
 
@@ -131,7 +130,7 @@ Fitness First has 26 clubs in the UK, 17 of them in London. A membership gives y
 - Leaving before your minimum term ends means paying the rest of the term, or a settlement fee for the discount you had
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.fitnessfirst.co.uk/">Visit the Fitness First website</a>
+<a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
 </div>
 
 </div>
@@ -230,7 +229,7 @@ That depends on your membership. You can use any club at your membership tier or
 ### Explained
 
 - How much does ClassPass cost in the UK? (coming soon)
-- [Try ClassPass for free](/go/classpass-uk/?epi=fgg-uk-london)
+- [All about ClassPass](/uk/classpass/)
 - [How ClassPass works](/guides/how-classpass-works/)
 
 </div>
