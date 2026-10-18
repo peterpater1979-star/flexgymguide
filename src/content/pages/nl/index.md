@@ -72,9 +72,9 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Je krijg
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · 3 Trainmore-clubs</span></li>
 <li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · 3 Trainmore-clubs</span></li>
 <li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · 1 Trainmore-club</span></li>
-<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">1 Trainmore-club</span></li>
+<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · 1 Trainmore-club</span></li>
 <li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · 2 Trainmore-clubs</span></li>
-<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">2 Trainmore-clubs</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · 2 Trainmore-clubs</span></li>
 </ul>
 
 </div>
