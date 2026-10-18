@@ -73,6 +73,8 @@ Je zegt op per einde contract. Daarna loopt het lidmaatschap door met een opzegt
 
 Zo'n tien jaar geleden had ik een abonnement bij Trainmore. Onlangs heb ik er weer getraind, dit keer via ClassPass. Wie wil afwisselen, kan een Trainmore-club dus ook met ClassPass-credits bezoeken in plaats van met een lidmaatschap.
 
+Wat me opvalt: bij Trainmore trainen veel gemotiveerde sporters, meer dan bij een basic sportschool. Dat werkt aanstekelijk.
+
 <p class="klein">Peter Pater, maker van FlexGymGuide</p>
 
 <h2 id="voor-wie">Voor wie is Trainmore?</h2>
