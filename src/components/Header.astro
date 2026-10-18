@@ -6,7 +6,7 @@ const pad = Astro.url.pathname;
 ---
 <header>
   <div class="wrap bar">
-    <a class="logo" href="/">Flex<span>Gym</span>Guide</a>
+    <a class="logo" href="/"><svg class="logo-icoon" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="currentColor"/><path d="M14 26h6v12h-6zM44 26h6v12h-6zM20 30h24v4H20z" fill="#fff"/></svg><span class="logo-tekst">Flex<span>Gym</span>Guide</span></a>
     <nav aria-label="Main">
       <ul>
         {menu.main.map((m) => <li><a href={m.href} aria-current={m.land === land ? 'true' : undefined}>{m.label}</a></li>)}
@@ -27,8 +27,9 @@ const pad = Astro.url.pathname;
 <style>
   header { border-bottom: 1px solid var(--line); background: var(--white); }
   .bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem 2rem; padding-block: 1.15rem; }
-  .logo { font-weight: 700; font-size: 1.3rem; color: var(--accent); text-decoration: none; letter-spacing: -.02em; }
-  .logo span { font-weight: 400; }
+  .logo { display: inline-flex; align-items: center; gap: .55rem; font-weight: 700; font-size: 1.3rem; color: var(--accent); text-decoration: none; letter-spacing: -.02em; }
+  .logo-tekst span { font-weight: 400; }
+  .logo-icoon { width: 1.9rem; height: 1.9rem; flex: none; }
   ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; }
   nav a { color: var(--text); text-decoration: none; font-weight: 500; font-size: .95rem; }
   nav a:hover, nav a[aria-current] { color: var(--accent); }
