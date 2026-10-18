@@ -112,7 +112,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 ## Trainmore in Rotterdam
 
-Trainmore heeft 53 clubs in Nederland, waarvan 7 in Rotterdam. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
+Trainmore heeft 53 clubs in Nederland, waarvan 7 in Rotterdam. De nieuwste is Trainmore Rijnhaven, die in oktober 2026 opent. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
 <div class="kolommen">
 
