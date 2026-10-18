@@ -47,6 +47,13 @@ Een voorbeeld: bij Trainmore Koningin Wilhelminaplein in Amsterdam, een Black La
 
 Voor elke workout krijg je €1 korting, met een maximum van 1 per dag. Train je bij de club hierboven 3 keer per week met een jaarcontract, dan betaal je €72 in plaats van €84 per 4 weken. Wie vaak traint, is dus goedkoper uit.
 
+<h2 id="extras">Gratis extra's bij Red en Black Label</h2>
+
+In alle clubs met een Red of Black Label krijg je er zonder bijbetalen iets bij:
+
+- **Proteïneshakes:** na je training tap je gratis een shake uit de machine van XXL Nutrition, handig voor je herstel
+- **Koffie en thee:** onbeperkt, voor of na je workout
+
 <h2 id="opzeggen">Contract en opzeggen</h2>
 
 <div class="kolommen">

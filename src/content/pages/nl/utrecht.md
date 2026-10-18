@@ -123,6 +123,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 3 in Utrecht. Met een lidmaatscha
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 3 in Utrecht
 - €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt
+- Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
 - Een gratis proefles om eerst te testen
 
 </div>

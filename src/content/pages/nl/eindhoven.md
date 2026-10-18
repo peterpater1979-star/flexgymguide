@@ -123,6 +123,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 2 in Eindhoven. Met een lidmaatsc
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 2 in Eindhoven
 - €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt
+- Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
 - Een gratis proefles om eerst te testen
 
 </div>
