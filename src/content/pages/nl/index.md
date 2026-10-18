@@ -44,7 +44,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 ### Trainmore
 
-Een lidmaatschap met gym en groepslessen in 53 clubs: 31 in Amsterdam, 7 in Rotterdam en 3 in zowel Den Haag als Utrecht. Je krijgt €1 korting per workout, dus hoe vaker je gaat, hoe minder je betaalt.
+Een lidmaatschap met gym en groepslessen in 53 clubs: 31 in Amsterdam, 7 in Rotterdam, 3 in Den Haag en Utrecht, 2 in Eindhoven en Groningen en 1 in Haarlem. Je krijgt €1 korting per workout, dus hoe vaker je gaat, hoe minder je betaalt.
 
 - Goed als je drie keer per week of vaker traint
 - Goed als je één vaste plek wilt
@@ -66,6 +66,9 @@ Een lidmaatschap met gym en groepslessen in 53 clubs: 31 in Amsterdam, 7 in Rott
 - **[Rotterdam](/nl/rotterdam/)**
 - **[Den Haag](/nl/den-haag/)**
 - **[Utrecht](/nl/utrecht/)**
+- **[Haarlem](/nl/haarlem/)**
+- **[Eindhoven](/nl/eindhoven/)**
+- **[Groningen](/nl/groningen/)**
 
 </div>
 

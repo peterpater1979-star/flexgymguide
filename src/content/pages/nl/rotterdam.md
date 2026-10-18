@@ -228,9 +228,12 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 
 ### Andere steden
 
+- [Amsterdam](/nl/amsterdam/)
 - [Den Haag](/nl/den-haag/)
 - [Utrecht](/nl/utrecht/)
-- [Amsterdam](/nl/amsterdam/)
+- [Haarlem](/nl/haarlem/)
+- [Eindhoven](/nl/eindhoven/)
+- [Groningen](/nl/groningen/)
 
 </div>
 

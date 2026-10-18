@@ -254,6 +254,9 @@ Ja. Urban Sports Club werkt met een vast maandabonnement en check-ins bij partne
 - [Rotterdam](/nl/rotterdam/)
 - [Den Haag](/nl/den-haag/)
 - [Utrecht](/nl/utrecht/)
+- [Haarlem](/nl/haarlem/)
+- [Eindhoven](/nl/eindhoven/)
+- [Groningen](/nl/groningen/)
 
 </div>
 
