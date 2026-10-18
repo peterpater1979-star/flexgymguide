@@ -37,4 +37,9 @@ const pad = Astro.url.pathname;
   .sub ul { padding-block: .55rem; }
   .sub a { font-weight: 500; font-size: .9rem; color: var(--muted); }
   .sub a[aria-current='page'] { color: var(--accent); font-weight: 600; }
+  @media (max-width: 40rem) {
+    .sub ul { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; gap: 1rem; -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); mask-image: linear-gradient(to right, #000 85%, transparent); }
+    .sub ul::-webkit-scrollbar { display: none; }
+    .sub li { flex: none; }
+  }
 </style>
