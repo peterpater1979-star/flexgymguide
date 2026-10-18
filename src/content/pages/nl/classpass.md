@@ -186,7 +186,7 @@ Ja, overal waar ClassPass actief is: in meer dan 2.500 steden in 29 landen.
 <details>
 <summary>Is ClassPass goedkoper dan een sportschool?</summary>
 
-Dat hangt af van hoe vaak je sport. Sport je één tot drie keer per week en wil je afwisselen, dan is ClassPass vaak een goede keus. Ga je vaker naar de gym, dan is een vaste sportschool zoals [Trainmore](/nl/trainmore/) meestal voordeliger.
+Dat hangt af van hoe vaak je sport. Sport je één tot drie keer per week en wil je afwisselen, dan is ClassPass vaak een goede keus. Ga je vaker naar de gym, dan is een vaste sportschool meestal voordeliger.
 
 </details>
 
