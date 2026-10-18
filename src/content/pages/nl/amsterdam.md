@@ -1,7 +1,7 @@
 ---
 title: "Flexibel sporten in Amsterdam: ClassPass, Trainmore en meer"
 path: "/nl/amsterdam/"
-description: "Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij meer dan 450 studio's en gyms terecht, of kiezen voor een sportschoolketen met ee"
+description: "Flexibel sporten in Amsterdam: ClassPass met meer dan 450 studio's en gyms, Trainmore met 31 clubs of Urban Sports Club. Wij zetten de opties naast elkaar."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

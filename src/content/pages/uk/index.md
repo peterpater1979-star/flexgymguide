@@ -1,7 +1,7 @@
 ---
 title: "Flexible fitness in the UK"
 path: "/uk/"
-description: "Working out without a long contract at one gym comes down to two options: a fitness pass like ClassPass, or a gym chain with flexible terms. Here's what suits y"
+description: "Working out without a long gym contract comes down to two options: a fitness pass like ClassPass, or a gym chain with flexible terms. Here's what suits you."
 lang: en
 land: uk
 byline: "Updated October 2026"
@@ -109,7 +109,7 @@ You can change, pause or cancel your plan at any time.
 <details open>
 <summary>How much does ClassPass cost in the UK?</summary>
 
-It depends on the number of credits per month. Smaller plans start at around [PRICE] a month. Check the current prices with ClassPass.
+It depends on the number of credits per month. Check the current prices with ClassPass.
 
 </details>
 

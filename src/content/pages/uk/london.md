@@ -1,7 +1,7 @@
 ---
 title: "Flexible fitness in London: ClassPass, Fitness First and more"
 path: "/uk/london/"
-description: "Don't want to be tied to one gym? In London you can use a fitness pass at [NUMBER] studios, or join a gym chain with multi-club access. We compare your options."
+description: "Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. We compare your options."
 lang: en
 land: uk
 byline: "Updated October 2026"
@@ -9,7 +9,7 @@ crumb: "London"
 kicker: "City guide London"
 ---
 
-Don't want to be tied to one gym? In London you can use a fitness pass at [NUMBER] studios, or join a gym chain with multi-club access. We compare your options.
+Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. We compare your options.
 
 <h2 id="glance">At a glance</h2>
 
@@ -54,9 +54,9 @@ Prices and terms change regularly. Always check the latest details with the prov
 | Feature | ClassPass | Fitness First |
 | --- | --- | --- |
 | **Type** | Fitness pass with credits | Gym chain |
-| **Price per month** | From [PRICE] | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club |
+| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club |
 | **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below |
-| **Locations in London** | [NUMBER] studios and gyms | 17 clubs |
+| **Locations in London** | Studios and gyms across the city | 17 clubs |
 | **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost |
 | **Try it first** | Free trial | Guest pass |
 | **Abroad** | Yes, in 29 countries | No, UK clubs only |
@@ -116,7 +116,7 @@ Fitness First has 26 clubs in the UK, 17 of them in London. A membership gives y
 ### What you get
 
 - Access to every club at your membership tier or below
-- [NUMBER] group classes a week across the network
+- Group classes across the network
 - Personal trainers on hand for coaching
 
 ### Good for

@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Berlin: ClassPass, Fitness First und mehr"
 path: "/de/berlin/"
-description: "Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in über 400 Studios oder wählst ein Fitnessstudio mit koste"
+description: "Flexibel trainieren in Berlin: ClassPass mit über 400 Studios oder Fitness First mit 15 Clubs und kostenlosem Probetraining. Wir vergleichen die Optionen."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -54,10 +54,10 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First |
 | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
-| **Preis pro Monat** | Ab [PREIS] | Ab [PREIS] |
+| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
 | **Standorte in Berlin** | Über 400 Studios und Gyms | 15 Clubs |
-| **Kündigung** | Jederzeit anpassbar oder kündbar | [VERTRAGSBEDINGUNGEN] |
+| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | Kostenloser Testzeitraum | Kostenloses Probetraining |
 | **Im Ausland** | Ja, in 29 Ländern | Deutschland und 4 Clubs in und um Wien |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Website Fitness First](https://www.fitnessfirst.de/) |
@@ -127,7 +127,7 @@ Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 15 in Berlin.
 
 ### Achte darauf
 
-- [VERTRAGSLAUFZEIT UND KÜNDIGUNG]
+- Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
 - Nur in Deutschland und Wien
 
 <div class="knoppen">

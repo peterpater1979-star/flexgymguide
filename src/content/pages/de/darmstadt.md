@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Darmstadt: ClassPass, Fitness First und mehr"
 path: "/de/darmstadt/"
-description: "Keine Lust, dich lange an ein einziges Studio zu binden? In Darmstadt trainierst du mit einem Sportpass in [ANZAHL] Studios oder wählst ein Fitnessstudio mit koste"
+description: "Flexibel trainieren in Darmstadt: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 10 Clubs trainieren. Wir vergleichen die Optionen."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -9,7 +9,7 @@ crumb: "Darmstadt"
 kicker: "Stadtguide Darmstadt"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Darmstadt trainierst du mit einem Sportpass in [ANZAHL] Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. Wir vergleichen die Optionen.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Darmstadt trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. Wir vergleichen die Optionen.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -54,10 +54,10 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First |
 | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
-| **Preis pro Monat** | Ab [PREIS] | Ab [PREIS] |
+| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Darmstadt** | [ANZAHL] Studios und Gyms | 10 Clubs |
-| **Kündigung** | Jederzeit anpassbar oder kündbar | [VERTRAGSBEDINGUNGEN] |
+| **Standorte in Darmstadt** | Studios und Gyms in der ganzen Stadt | 10 Clubs |
+| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | Kostenloser Testzeitraum | Kostenloses Probetraining |
 | **Im Ausland** | Ja, in 29 Ländern | Deutschland und 4 Clubs in und um Wien |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Website Fitness First](https://www.fitnessfirst.de/) |
@@ -127,7 +127,7 @@ Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 10 in Darmsta
 
 ### Achte darauf
 
-- [VERTRAGSLAUFZEIT UND KÜNDIGUNG]
+- Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
 - Nur in Deutschland und Wien
 
 <div class="knoppen">

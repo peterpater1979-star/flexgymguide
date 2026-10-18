@@ -9,7 +9,7 @@ crumb: "Den Haag"
 kicker: "Stadsgids Den Haag"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Den Haag kun je met een sportpas bij [AANTAL] gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Wij zetten de opties naast elkaar.
+Geen zin in een jaarcontract bij één sportschool? In Den Haag kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Wij zetten de opties naast elkaar.
 
 <h2 id="kort">In het kort</h2>
 
@@ -50,7 +50,7 @@ Eigen clubs met gym en groepslessen: 3 in Den Haag, 53 in heel Nederland.
 | **Soort** | Sportpas met credits | Sportschoolketen |
 | **Prijs per maand** | Vanaf €19 (11 credits) | Verschilt per clublabel (Black, Red, Regular), per 4 weken, €1 korting per workout |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
-| **Locaties in Den Haag** | [AANTAL] gyms en studio's | 3 clubs |
+| **Locaties in Den Haag** | Gyms en studio's door de hele stad, van yoga tot fitness | 3 clubs |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
 | **Uitproberen** | Gratis proefperiode | Gratis proefles |
 | **In het buitenland** | Ja, in 29 landen | Nee, alleen Nederland |

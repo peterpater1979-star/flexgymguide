@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Deutschland"
 path: "/de/"
-description: "Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Beding"
+description: "Ohne langen Vertrag trainieren: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Bedingungen. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -110,7 +110,7 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 <details open>
 <summary>Was kostet ClassPass in Deutschland?</summary>
 
-Das hängt von der Zahl der Credits pro Monat ab. Kleinere Abos beginnen bei etwa [PREIS] pro Monat. Prüfe die aktuellen Preise bei ClassPass.
+Das hängt von der Zahl der Credits pro Monat ab. Prüfe die aktuellen Preise bei ClassPass.
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
 title: "Flexibel sporten in Nederland"
 path: "/nl/"
-description: "Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een sportpas zoals ClassPass, of bij een sportschoolketen met flexibele voorwaarden. H"
+description: "Sporten zonder jaarcontract kan op twee manieren: met een sportpas zoals ClassPass of bij een sportschoolketen met flexibele voorwaarden. Zo kies je wat past."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
