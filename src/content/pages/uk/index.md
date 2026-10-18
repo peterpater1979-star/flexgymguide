@@ -20,7 +20,7 @@ Working out without a long contract at one gym comes down to two options: a fitn
 
 <div class="kolommen">
 
-<div class="kolom">
+<div class="kolom kaart aanbiederkaart">
 
 <p class="klein"><strong>Fitness pass</strong></p>
 
@@ -38,7 +38,7 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 </div>
 
-<div class="kolom">
+<div class="kolom kaart aanbiederkaart">
 
 <p class="klein"><strong>Gym chain</strong></p>
 

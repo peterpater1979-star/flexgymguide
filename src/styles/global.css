@@ -75,3 +75,6 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 /* Paginakop */
 .kop { background: var(--surface); padding: 2rem 0 3rem; margin-bottom: 1rem; }
 .kop .meta { margin: 0; }
+.aanbiederkaart { display: flex; flex-direction: column; }
+.aanbiederkaart > .knoppen { margin-top: auto; padding-top: 1.25rem; margin-bottom: .75rem; }
+.aanbiederkaart > p:last-child { margin-bottom: 0; }
