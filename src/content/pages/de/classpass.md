@@ -100,6 +100,7 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a></li>
 <li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a></li>
 <li><a href="/de/leipzig/"><strong>Leipzig</strong></a></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
 </ul>
 
 <h2 id="ausland">ClassPass im Ausland</h2>

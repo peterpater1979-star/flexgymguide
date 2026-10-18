@@ -215,6 +215,7 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
 - [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
 - [Flexibel trainieren in Leipzig](/de/leipzig/)
+- [Flexibel trainieren in Dortmund](/de/dortmund/)
 - Flexibel trainieren in Wien (bald)
 
 </div>

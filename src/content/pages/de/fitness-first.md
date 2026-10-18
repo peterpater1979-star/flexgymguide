@@ -83,6 +83,7 @@ Willst du lieber zwischen Studios wechseln? Dann schau dir [ClassPass](/de/class
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">4 Clubs</span></li>
 <li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">5 Clubs</span></li>
 <li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">2 Clubs</span></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">1 Club</span></li>
 </ul>
 
 <div class="aanbieder">
