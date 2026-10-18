@@ -69,6 +69,8 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 <li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · 14 Fitness First Clubs</span></li>
 <li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · 8 Fitness First Clubs</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · 10 Fitness First Clubs</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · [ANZAHL] Fitness First Clubs</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · [ANZAHL] Fitness First Clubs</span></li>
 </ul>
 
 </div>
