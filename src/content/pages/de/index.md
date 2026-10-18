@@ -63,12 +63,12 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 ## Städte
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">15 Fitness First Clubs</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">17 Fitness First Clubs</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">12 Fitness First Clubs</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">14 Fitness First Clubs</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">8 Fitness First Clubs</span></li>
-<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">10 Fitness First Clubs</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · 15 Fitness First Clubs</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · 17 Fitness First Clubs</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · 12 Fitness First Clubs</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · 14 Fitness First Clubs</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · 8 Fitness First Clubs</span></li>
+<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · 10 Fitness First Clubs</span></li>
 </ul>
 
 </div>
