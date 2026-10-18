@@ -42,15 +42,17 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 <p class="klein"><strong>Sportschoolketen</strong></p>
 
-### Vaste sportschool
+### Trainmore
 
-Een lidmaatschap bij één keten met gym en groepslessen. In Nederland bijvoorbeeld Trainmore, met 53 clubs: 31 in Amsterdam, 7 in Rotterdam en 3 in zowel Den Haag als Utrecht.
+Een lidmaatschap met gym en groepslessen in 53 clubs: 31 in Amsterdam, 7 in Rotterdam en 3 in zowel Den Haag als Utrecht. Je krijgt €1 korting per workout, dus hoe vaker je gaat, hoe minder je betaalt.
 
 - Goed als je drie keer per week of vaker traint
 - Goed als je één vaste plek wilt
-- Meestal alleen in Nederland
+- Alleen in Nederland
 
-ClassPass of een vaste sportschool?
+<div class="knoppen">
+<a class="knop knop-rand" href="https://trainmore.com/nl-NL/">Naar de website van Trainmore</a>
+</div>
 
 </div>
 
