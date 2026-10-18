@@ -60,6 +60,12 @@ ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credi
 
 </div>
 
+<h2 id="ervaring">Mijn ervaring met ClassPass</h2>
+
+Ik gebruik zelf ClassPass. Zo heb ik onlangs met mijn credits nog een keer bij een Trainmore-club getraind, waar ik zo'n tien jaar geleden lid was. Juist dat vind ik handig: je kunt bij verschillende soorten locaties terecht, van studio's tot sportscholen.
+
+<p class="klein">Peter Pater, maker van FlexGymGuide</p>
+
 <h2 id="voor-wie">Voor wie is ClassPass?</h2>
 
 <div class="kolommen">
