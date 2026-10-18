@@ -96,7 +96,7 @@ Train je vooral in de gym en meerdere keren per week? Kijk dan ook naar [Trainmo
 
 <h2 id="steden">ClassPass in jouw stad</h2>
 
-ClassPass werkt in heel Nederland. Per stad zetten we de opties naast elkaar:
+ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we de opties naast elkaar:
 
 <div class="kolommen">
 
