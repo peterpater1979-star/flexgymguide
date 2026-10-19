@@ -3,6 +3,8 @@ import menu from '../data/menu.json';
 const { land = 'global' } = Astro.props;
 const huidig = menu.main.find((m) => m.land === land);
 const pad = Astro.url.pathname;
+// De stedenbalk alleen op stadspagina's; op de landpagina staat de inhoud eerst.
+const toonSteden = huidig && huidig.children.length > 0 && pad !== huidig.href;
 ---
 <header>
   <div class="wrap bar">
@@ -13,7 +15,7 @@ const pad = Astro.url.pathname;
       </ul>
     </nav>
   </div>
-  {huidig && huidig.children.length > 0 && (
+  {toonSteden && (
     <nav class="sub" aria-label={huidig.label}>
       <div class="wrap">
         <ul>
