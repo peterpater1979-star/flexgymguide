@@ -1,0 +1,36 @@
+---
+// Tip-formulier onder alle pagina's (behalve contact en bedankpagina's); komt via Netlify Forms (formulier "tips") in de mail.
+import { teksten, type Lang } from '../data/teksten';
+const { lang, pagina, stad = false } = Astro.props as { lang: Lang; pagina: string; stad?: boolean };
+const t = teksten[lang].tip;
+---
+<details class="tip" id="tip">
+  <summary>{t.titel}</summary>
+  <p>{stad ? t.intro : t.introAlgemeen}</p>
+  <form name="tips" method="POST" action={t.bedankt} data-netlify="true" netlify-honeypot="website">
+    <input type="hidden" name="form-name" value="tips" />
+    <input type="hidden" name="pagina" value={pagina} />
+    <p class="verborgen"><label>Leave this field empty <input name="website" /></label></p>
+    <label for="tip-tekst">{t.veld}</label>
+    <textarea id="tip-tekst" name="tip" rows="4" required></textarea>
+    <div class="velden">
+      <div>
+        <label for="tip-naam">{t.naam}</label>
+        <input id="tip-naam" name="name" autocomplete="name" />
+      </div>
+      <div>
+        <label for="tip-email">{t.email}</label>
+        <input id="tip-email" name="email" type="email" autocomplete="email" />
+      </div>
+    </div>
+    <button class="knop" type="submit">{t.knop}</button>
+  </form>
+  <p class="klein">{t.privacy} <a href={t.privacyHref}>{t.privacyLink}</a>.</p>
+</details>
+<style>
+  .tip { background: var(--white); border-radius: 12px; padding: 1rem 1.25rem; margin: 1rem 0 2rem; box-shadow: var(--shadow); }
+  .tip summary { font-weight: 600; cursor: pointer; }
+  .tip[open] summary { margin-bottom: .5rem; }
+  .tip textarea, .tip input:not([type=hidden]) { max-width: none; background: var(--bg); }
+  .velden { display: grid; gap: 0 1.25rem; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+</style>

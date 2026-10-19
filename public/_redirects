@@ -1,0 +1,28 @@
+# Affiliatelinks (vervangt ThirstyAffiliates).
+# Het label in ?epi= gaat mee naar de bestemming. Zolang ClassPass bij Tradedoubler nog niet is
+# goedgekeurd, wijzen de links naar classpass.com. Na goedkeuring vervang je per land alleen de
+# bestemming door de Tradedoubler-link, met &epi=:epi aan het eind, bijvoorbeeld:
+#   /go/classpass-nl/  epi=:epi  https://clk.tradedoubler.com/click?p=[P]&a=[A]&epi=:epi  302
+# De regel zonder epi blijft als terugval (dan zonder &epi=).
+
+/go/classpass-nl/  epi=:epi  https://classpass.com/  302
+/go/classpass-nl/            https://classpass.com/  302
+/go/classpass-de/  epi=:epi  https://classpass.com/  302
+/go/classpass-de/            https://classpass.com/  302
+/go/classpass-uk/  epi=:epi  https://classpass.com/  302
+/go/classpass-uk/            https://classpass.com/  302
+
+# /go/classpass/ (voor /guides/) stuurt per land door; de rest naar classpass.com.
+# Later: overige landen via Impact (label in subId1).
+/go/classpass/  Country=nl  /go/classpass-nl/  302
+/go/classpass/  Country=de  /go/classpass-de/  302
+/go/classpass/  Country=gb  /go/classpass-uk/  302
+/go/classpass/              https://classpass.com/  302
+
+# Fase B (na goedkeuring bij Awin, label in clickref):
+# /go/trainmore/          clickref=:ref  https://www.awin1.com/cread.php?awinmid=[ID]&awinaffid=[ID]&clickref=:ref  302
+# /go/fitness-first-de/   clickref=:ref  https://www.awin1.com/cread.php?awinmid=15968&awinaffid=[ID]&clickref=:ref  302
+# /go/fitness-first-uk/   clickref=:ref  https://www.awin1.com/cread.php?awinmid=109520&awinaffid=[ID]&clickref=:ref  302
+
+# Netlify-adres en www naar het hoofddomein
+https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!

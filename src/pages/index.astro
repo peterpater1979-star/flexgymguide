@@ -1,0 +1,6 @@
+---
+import { getCollection } from 'astro:content';
+import Pagina from '../components/Pagina.astro';
+const [page] = await getCollection('pages', (p) => p.data.path === '/');
+---
+<Pagina page={page} />

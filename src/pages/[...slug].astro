@@ -1,0 +1,13 @@
+---
+import { getCollection } from 'astro:content';
+import Pagina from '../components/Pagina.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages', (p) => !p.data.draft);
+  return pages
+    .filter((p) => p.data.path !== '/')
+    .map((p) => ({ params: { slug: p.data.path.replace(/^\/|\/$/g, '') }, props: { page: p } }));
+}
+const { page } = Astro.props;
+---
+<Pagina page={page} />

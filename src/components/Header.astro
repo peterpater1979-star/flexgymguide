@@ -1,0 +1,47 @@
+---
+import menu from '../data/menu.json';
+const { land = 'global' } = Astro.props;
+const huidig = menu.main.find((m) => m.land === land);
+const pad = Astro.url.pathname;
+// De stedenbalk alleen op stadspagina's; op de landpagina staat de inhoud eerst.
+const toonSteden = huidig && huidig.children.length > 0 && pad !== huidig.href;
+---
+<header>
+  <div class="wrap bar">
+    <a class="logo" href="/"><svg class="logo-icoon" xmlns="http://www.w3.org/2000/svg" viewBox="2 6 44 44" aria-hidden="true"><rect x="2" y="6" width="44" height="44" rx="11" fill="currentColor"/><g transform="rotate(-30 24 28)" fill="#fff"><rect x="9" y="21" width="4" height="14" rx="1.5"/><rect x="13.5" y="23" width="4" height="10" rx="1.5"/><rect x="17" y="26.5" width="14" height="3" rx="1.5"/><rect x="30.5" y="23" width="4" height="10" rx="1.5"/><rect x="35" y="21" width="4" height="14" rx="1.5"/></g></svg><span class="logo-tekst">Flex<span>Gym</span>Guide</span></a>
+    <nav aria-label="Main">
+      <ul>
+        {menu.main.map((m) => <li><a href={m.href} aria-current={m.land === land ? 'true' : undefined}>{m.label}</a></li>)}
+      </ul>
+    </nav>
+  </div>
+  {toonSteden && (
+    <nav class="sub" aria-label={huidig.label}>
+      <div class="wrap">
+        <ul>
+          <li><a href={huidig.href} aria-current={pad === huidig.href ? 'page' : undefined}>{huidig.label}</a></li>
+          {huidig.children.filter((c) => c.href !== huidig.href).map((c) => <li><a href={c.href} aria-current={pad === c.href ? 'page' : undefined}>{c.label}</a></li>)}
+        </ul>
+      </div>
+    </nav>
+  )}
+</header>
+<style>
+  header { border-bottom: 1px solid var(--line); background: var(--white); }
+  .bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem 2rem; padding-block: 1.15rem; }
+  .logo { display: inline-flex; align-items: center; gap: .55rem; font-weight: 700; font-size: 1.3rem; color: var(--accent); text-decoration: none; letter-spacing: -.02em; }
+  .logo-tekst span { font-weight: 400; }
+  .logo-icoon { width: 1.9rem; height: 1.9rem; flex: none; }
+  ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; }
+  nav a { color: var(--text); text-decoration: none; font-weight: 500; font-size: .95rem; }
+  nav a:hover, nav a[aria-current] { color: var(--accent); }
+  .sub { background: var(--white); border-top: 1px solid var(--line); }
+  .sub ul { padding-block: .55rem; }
+  .sub a { font-weight: 500; font-size: .9rem; color: var(--muted); }
+  .sub a[aria-current='page'] { color: var(--accent); font-weight: 600; }
+  @media (max-width: 40rem) {
+    .sub ul { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; gap: 1rem; -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); mask-image: linear-gradient(to right, #000 85%, transparent); }
+    .sub ul::-webkit-scrollbar { display: none; }
+    .sub li { flex: none; }
+  }
+</style>

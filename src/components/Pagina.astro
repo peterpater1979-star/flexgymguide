@@ -1,0 +1,33 @@
+---
+import { render, type CollectionEntry } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Advertentiemelding from './Advertentiemelding.astro';
+import Kruimelpad from './Kruimelpad.astro';
+import Delen from './Delen.astro';
+import TipFormulier from './TipFormulier.astro';
+
+const { page } = Astro.props as { page: CollectionEntry<'pages'> };
+const { Content } = await render(page);
+const d = page.data;
+const stad = /^\/(nl|de|uk)\/[^/]+\/$/.test(d.path);
+const tip = !d.noindex && !d.path.startsWith('/contact/');
+const affiliate = /\]\(\/go\/|href="\/go\//.test(page.body ?? '');
+const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : d.lang, { dateStyle: 'long' }).format(date);
+---
+<Base title={d.title} description={d.description} lang={d.lang} land={d.land} noindex={d.noindex}>
+  <div class="kop">
+    <div class="wrap">
+      {affiliate && <Advertentiemelding lang={d.lang} />}
+      {d.path !== '/' && <Kruimelpad path={d.path} lang={d.lang} />}
+      {d.kicker && <p class="kicker">{d.kicker}</p>}
+      <h1>{d.title}</h1>
+      {d.byline && <p class="klein meta">{d.byline}</p>}
+      {!d.byline && d.updated && <p class="klein meta">{fmt(d.updated)}</p>}
+    </div>
+  </div>
+  <article class="wrap prose">
+    <Content />
+    {tip && <TipFormulier lang={d.lang} pagina={d.path} stad={stad} />}
+    {!d.noindex && d.land !== 'global' && <Delen title={d.title} lang={d.lang} />}
+  </article>
+</Base>
