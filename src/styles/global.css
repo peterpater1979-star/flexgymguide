@@ -1,14 +1,14 @@
 :root {
-  --bg: #fbfaf7;
+  --bg: #ffffff;
   --white: #ffffff;
-  --surface: #f2eee7;
-  --text: #1b2130;
+  --surface: #e6f8f7;
+  --text: #0e1e25;
   --muted: #5e6472;
-  --line: #e4ded4;
-  --accent: #23345e;
-  --accent-hover: #172340;
-  --cta: #23345e;
-  --cta-hover: #172340;
+  --line: #d5e7e6;
+  --accent: #017a78;
+  --accent-hover: #015a58;
+  --cta: #05bdba;
+  --cta-hover: #04a3a0;
   --radius: 16px;
   --shadow: 0 1px 2px rgba(27, 33, 48, .04), 0 8px 24px rgba(27, 33, 48, .06);
   --font: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
@@ -35,8 +35,8 @@ main { padding-top: 0; }
 
 /* Knoppen */
 .knoppen { display: flex; flex-wrap: wrap; gap: .75rem; margin: 1.25rem 0; }
-.knop { display: inline-block; padding: .8rem 1.5rem; border-radius: 999px; font-weight: 600; font-size: .98rem; text-decoration: none; background: var(--accent); color: #fff; border: 1.5px solid var(--accent); line-height: 1.3; transition: background .15s, border-color .15s, color .15s; }
-.knop:hover { background: var(--accent-hover); border-color: var(--accent-hover); color: #fff; }
+.knop { display: inline-block; padding: .8rem 1.5rem; border-radius: 999px; font-weight: 600; font-size: .98rem; text-decoration: none; background: var(--cta); color: var(--text); border: 1.5px solid var(--cta); line-height: 1.3; transition: background .15s, border-color .15s, color .15s; }
+.knop:hover { background: var(--cta-hover); border-color: var(--cta-hover); color: var(--text); }
 .knop-affiliate { background: var(--cta); border-color: var(--cta); }
 .knop-affiliate:hover { background: var(--cta-hover); border-color: var(--cta-hover); }
 .knop-rand { background: transparent; color: var(--accent); border-color: var(--accent); }
