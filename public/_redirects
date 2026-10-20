@@ -16,12 +16,24 @@
 /go/classpass-de/            https://classpass.com/  302
 /go/classpass-uk/  epi=:epi  https://classpass.com/  302
 /go/classpass-uk/            https://classpass.com/  302
+/go/classpass-be/  epi=:epi  https://classpass.com/  302
+/go/classpass-be/            https://classpass.com/  302
+/go/classpass-fr/  epi=:epi  https://classpass.com/  302
+/go/classpass-fr/            https://classpass.com/  302
+/go/classpass-es/  epi=:epi  https://classpass.com/  302
+/go/classpass-es/            https://classpass.com/  302
+/go/classpass-pt/  epi=:epi  https://classpass.com/  302
+/go/classpass-pt/            https://classpass.com/  302
 
 # /go/classpass/ (voor /guides/) stuurt per land door; de rest naar classpass.com.
 # Later: overige landen via Impact (label in subId1).
 /go/classpass/  Country=nl  /go/classpass-nl/  302
 /go/classpass/  Country=de  /go/classpass-de/  302
 /go/classpass/  Country=gb  /go/classpass-uk/  302
+/go/classpass/  Country=be  /go/classpass-be/  302
+/go/classpass/  Country=fr  /go/classpass-fr/  302
+/go/classpass/  Country=es  /go/classpass-es/  302
+/go/classpass/  Country=pt  /go/classpass-pt/  302
 /go/classpass/              https://classpass.com/  302
 
 # Fase B (na goedkeuring bij Awin, label in clickref):

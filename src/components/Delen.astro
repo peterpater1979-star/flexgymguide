@@ -3,7 +3,7 @@
 const { title, lang = 'en' } = Astro.props;
 const url = encodeURIComponent(new URL(Astro.url.pathname, Astro.site).href);
 const t = encodeURIComponent(title);
-const label = { nl: 'Delen', de: 'Teilen', en: 'Share' }[lang as 'nl' | 'de' | 'en'];
+const label = { nl: 'Delen', de: 'Teilen', en: 'Share', fr: 'Partager', es: 'Compartir', pt: 'Partilhar' }[lang as 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt'];
 ---
 <p class="delen">
   <span>{label}:</span>

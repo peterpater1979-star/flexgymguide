@@ -35,9 +35,13 @@ Each country has its own guide, in its own language, with local prices and provi
 - **[Nederland](/nl/)** · In Dutch · ClassPass · sportscholen vergeleken
 - **[Deutschland](/de/)** · In German · ClassPass · Fitnessstudios im Vergleich
 - **[United Kingdom](/uk/)** · In English · ClassPass · gyms compared
+- **[België](/be/)** · In Dutch · ClassPass
+- **[France](/fr/)** · In French · ClassPass
+- **[España](/es/)** · In Spanish · ClassPass
+- **[Portugal](/pt/)** · In Portuguese · ClassPass
 - **[Other countries](#guides)** · In English · ClassPass works in 29 countries
 
-<p class="klein">More countries coming: België, France, España, Portugal, Österreich, Schweiz and Ireland.</p>
+<p class="klein">More countries coming: Österreich, Schweiz and Ireland.</p>
 
 </div>
 
