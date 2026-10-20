@@ -9,6 +9,8 @@ crumb: "ClassPass"
 kicker: "Aanbieder: sportpas"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Groepsles"></div>
+
 ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credits. Die wissel je in voor lessen en gymbezoeken bij studio's en sportscholen die bij ClassPass zijn aangesloten. Je zit dus niet vast aan één locatie of één sport.
 
 <div class="knoppen">
@@ -21,7 +23,7 @@ ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credi
 | | ClassPass |
 | --- | --- |
 | **Soort** | Sportpas met credits |
-| **Prijs per maand** | Vanaf €19 (11 credits) |
+| **Prijs per maand** | Vanaf €19 (werkt met credits) |
 | **Wat kun je doen** | Yoga, pilates, boksen, spinning, krachttraining, gymbezoeken en meer |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode |

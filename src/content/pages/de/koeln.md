@@ -15,9 +15,9 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Köln trainierst du 
 
 <div class="kolommen">
 
-<div class="kolom">
+<div class="kolom kaart">
 
-<p class="klein"><strong>Am besten für Abwechslung</strong></p>
+<div class="fotokop foto-classpass"><span>Am besten für Abwechslung</span></div>
 
 ### ClassPass
 
@@ -29,9 +29,9 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 </div>
 
-<div class="kolom">
+<div class="kolom kaart">
 
-<p class="klein"><strong>Am besten für Vieltrainierer</strong></p>
+<div class="fotokop foto-fitness-first-de"><span>Am besten für Vieltrainierer</span></div>
 
 ### Fitness First
 
@@ -59,7 +59,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Standorte in Köln** | Studios und Gyms in der ganzen Stadt | 14 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 Ländern | Deutschland und 4 Clubs in und um Wien |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 Ländern | 220 Clubs in Deutschland und 4 in und um Wien |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
 
 </div>

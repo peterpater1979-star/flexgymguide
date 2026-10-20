@@ -22,7 +22,7 @@ Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mi
 
 <div class="kolom kaart aanbiederkaart">
 
-<p class="klein"><strong>Sportpass</strong></p>
+<div class="fotokop foto-classpass"><span>Sportpass</span></div>
 
 ### ClassPass
 
@@ -40,9 +40,9 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 <div class="kolom kaart aanbiederkaart">
 
-<p class="klein"><strong>Fitnesskette</strong></p>
+<div class="fotokop foto-fitness-first-de"><span>Fitnesskette</span></div>
 
-### Festes Fitnessstudio
+### Fitness First
 
 Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 220 Clubs in Deutschland und 4 in und um Wien.
 

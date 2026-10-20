@@ -1,14 +1,14 @@
 ---
 title: "Work out anywhere, without a long contract"
 path: "/"
-description: "FlexGymGuide compares fitness passes and gyms with flexible memberships in each country. Find the option that fits how often you train, and where."
+description: "FlexGymGuide is an independent guide to fitness passes and gyms with flexible memberships, country by country. Find the option that fits how often you train, and where."
 lang: en
 land: global
 crumb: "Home"
 kicker: "Fitness passes and gyms, country by country"
 ---
 
-FlexGymGuide compares fitness passes and gyms with flexible memberships in each country. Find the option that fits how often you train, and where.
+FlexGymGuide is an independent guide to fitness passes and gyms with flexible memberships, country by country. Find the option that fits how often you train, and where.
 
 <div class="knoppen">
 <a class="knop" href="#countries">Choose your country</a>
@@ -35,9 +35,11 @@ Each country has its own guide, in its own language, with local prices and provi
 - **[Nederland](/nl/)** · In Dutch · ClassPass · sportscholen vergeleken
 - **[Deutschland](/de/)** · In German · ClassPass · Fitnessstudios im Vergleich
 - **[United Kingdom](/uk/)** · In English · ClassPass · gyms compared
+- **[France](/fr/)** · In French · ClassPass
+- **[España](/es/)** · In Spanish · ClassPass
 - **[Other countries](#guides)** · In English · ClassPass works in 29 countries
 
-<p class="klein">More countries coming: België, France, España, Portugal, Österreich, Schweiz and Ireland.</p>
+<p class="klein">More countries coming: België, Portugal, Österreich, Schweiz and Ireland.</p>
 
 </div>
 
@@ -49,9 +51,9 @@ Most people choose between a fitness pass and a gym chain. Which one suits you d
 
 <div class="kolommen">
 
-<div class="kolom">
+<div class="kolom kaart">
 
-<p class="klein"><strong>Fitness pass</strong></p>
+<div class="fotokop foto-classpass"><span>Fitness pass</span></div>
 
 ### One membership, many studios
 
@@ -65,9 +67,9 @@ Book classes and gym visits at different places in your city, and often abroad t
 
 </div>
 
-<div class="kolom">
+<div class="kolom kaart">
 
-<p class="klein"><strong>Gym chain</strong></p>
+<div class="fotokop foto-gymketen"><span>Gym chain</span></div>
 
 ### One chain, all its clubs
 
@@ -126,7 +128,7 @@ Providers, prices and rules differ per country, so each country gets its own gui
 
 ### Side by side
 
-We compare passes and gyms on what matters: price, locations, cancelling and trying it first.
+For each pass and gym we look at what matters: price, locations, cancelling and trying it first.
 
 </div>
 

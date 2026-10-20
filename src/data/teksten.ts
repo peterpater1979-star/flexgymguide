@@ -1,5 +1,5 @@
 // Vaste teksten per taal: advertentiemelding, footer en kruimelpad.
-export type Lang = 'nl' | 'de' | 'en';
+export type Lang = 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt';
 
 export const teksten = {
   nl: {
@@ -7,7 +7,7 @@ export const teksten = {
     melding: 'Sommige links zijn affiliatelinks: daarvoor krijgen wij een vergoeding, jij betaalt niets extra.',
     meldingLink: 'Zo werken wij',
     meldingHref: '/disclosure/#nl',
-    over: 'FlexGymGuide vergelijkt sportpassen en sportscholen met flexibele abonnementen, per land.',
+    over: 'FlexGymGuide is een onafhankelijke gids over sportpassen en sportscholen met flexibele abonnementen, per land.',
     footer: [
       { label: 'Over ons', href: '/about/#nl' },
       { label: 'Contact', href: '/contact/' },
@@ -35,7 +35,7 @@ export const teksten = {
     melding: 'Einige Links sind Affiliate-Links: Dafür erhalten wir eine Provision, für dich ohne Mehrkosten.',
     meldingLink: 'So arbeiten wir',
     meldingHref: '/disclosure/#de',
-    over: 'FlexGymGuide vergleicht Sportpässe und Fitnessstudios mit flexiblen Mitgliedschaften, Land für Land.',
+    over: 'FlexGymGuide ist ein unabhängiger Ratgeber zu Sportpässen und Fitnessstudios mit flexiblen Mitgliedschaften, Land für Land.',
     footer: [
       { label: 'Über uns', href: '/about/#de' },
       { label: 'Kontakt', href: '/contact/' },
@@ -63,7 +63,7 @@ export const teksten = {
     melding: 'Some links are affiliate links: we may earn a commission at no extra cost to you.',
     meldingLink: 'How we work',
     meldingHref: '/disclosure/',
-    over: 'FlexGymGuide compares fitness passes and gyms with flexible memberships, country by country.',
+    over: 'FlexGymGuide is an independent guide to fitness passes and gyms with flexible memberships, country by country.',
     footer: [
       { label: 'About', href: '/about/' },
       { label: 'Contact', href: '/contact/' },
@@ -85,5 +85,90 @@ export const teksten = {
       bedankt: '/tip/thanks/',
     },
     home: 'Home',
+  },
+  // Frans, Spaans en Portugees: voorlopig alleen landpagina's; de vaste pagina's (Over ons, Privacy) zijn Engels.
+  fr: {
+    label: 'Publicité',
+    melding: 'Certains liens sont des liens d’affiliation : nous touchons une commission, sans frais supplémentaires pour toi.',
+    meldingLink: 'Notre fonctionnement',
+    meldingHref: '/disclosure/',
+    over: 'FlexGymGuide est un guide indépendant des pass sport et des salles de sport à abonnement flexible, pays par pays.',
+    footer: [
+      { label: 'À propos', href: '/about/' },
+      { label: 'Contact', href: '/contact/' },
+      { label: 'Confidentialité', href: '/privacy/' },
+      { label: 'Publicité', href: '/disclosure/' },
+      { label: 'Mentions légales', href: '/impressum/' },
+    ],
+    tip: {
+      titel: 'Partager un conseil ou une expérience',
+      intro: 'Tu t’entraînes dans cette ville, ou une information n’est plus à jour ? Dis-le-nous. Nous ajoutons les conseils utiles à cette page.',
+      introAlgemeen: 'Tu as un conseil, une expérience avec un pass sport ou une salle, ou une information n’est plus à jour ? Dis-le-nous. Nous ajoutons les conseils utiles au site.',
+      veld: 'Ton conseil ou ton expérience',
+      naam: 'Nom (facultatif)',
+      email: 'E-mail (seulement si tu veux une réponse)',
+      knop: 'Envoyer',
+      privacy: 'Nous utilisons tes données uniquement pour ce conseil. Voir notre',
+      privacyLink: 'politique de confidentialité',
+      privacyHref: '/privacy/',
+      bedankt: '/tip/thanks/',
+    },
+    home: 'Accueil',
+  },
+  es: {
+    label: 'Publicidad',
+    melding: 'Algunos enlaces son de afiliado: recibimos una comisión, sin coste adicional para ti.',
+    meldingLink: 'Cómo trabajamos',
+    meldingHref: '/disclosure/',
+    over: 'FlexGymGuide es una guía independiente de pases deportivos y gimnasios con cuotas flexibles, país por país.',
+    footer: [
+      { label: 'Sobre nosotros', href: '/about/' },
+      { label: 'Contacto', href: '/contact/' },
+      { label: 'Privacidad', href: '/privacy/' },
+      { label: 'Publicidad', href: '/disclosure/' },
+      { label: 'Aviso legal', href: '/impressum/' },
+    ],
+    tip: {
+      titel: 'Comparte un consejo o una experiencia',
+      intro: '¿Entrenas en esta ciudad o hay algo que ya no es correcto? Cuéntanoslo. Añadimos los consejos útiles a esta página.',
+      introAlgemeen: '¿Tienes un consejo, una experiencia con un pase deportivo o un gimnasio, o hay algo que ya no es correcto? Cuéntanoslo. Añadimos los consejos útiles a la web.',
+      veld: 'Tu consejo o experiencia',
+      naam: 'Nombre (opcional)',
+      email: 'Correo electrónico (solo si quieres respuesta)',
+      knop: 'Enviar',
+      privacy: 'Solo usamos tus datos para este consejo. Consulta nuestra',
+      privacyLink: 'política de privacidad',
+      privacyHref: '/privacy/',
+      bedankt: '/tip/thanks/',
+    },
+    home: 'Inicio',
+  },
+  pt: {
+    label: 'Publicidade',
+    melding: 'Alguns links são links de afiliado: recebemos uma comissão, sem custo adicional para ti.',
+    meldingLink: 'Como trabalhamos',
+    meldingHref: '/disclosure/',
+    over: 'O FlexGymGuide é um guia independente sobre passes desportivos e ginásios com mensalidades flexíveis, país a país.',
+    footer: [
+      { label: 'Sobre nós', href: '/about/' },
+      { label: 'Contacto', href: '/contact/' },
+      { label: 'Privacidade', href: '/privacy/' },
+      { label: 'Publicidade', href: '/disclosure/' },
+      { label: 'Aviso legal', href: '/impressum/' },
+    ],
+    tip: {
+      titel: 'Partilha uma dica ou experiência',
+      intro: 'Treinas nesta cidade ou há algo que já não está certo? Diz-nos. Acrescentamos as dicas úteis a esta página.',
+      introAlgemeen: 'Tens uma dica, uma experiência com um passe desportivo ou um ginásio, ou há algo que já não está certo? Diz-nos. Acrescentamos as dicas úteis ao site.',
+      veld: 'A tua dica ou experiência',
+      naam: 'Nome (opcional)',
+      email: 'E-mail (só se quiseres resposta)',
+      knop: 'Enviar',
+      privacy: 'Só usamos os teus dados para esta dica. Consulta a nossa',
+      privacyLink: 'política de privacidade',
+      privacyHref: '/privacy/',
+      bedankt: '/tip/thanks/',
+    },
+    home: 'Início',
   },
 } satisfies Record<Lang, unknown>;

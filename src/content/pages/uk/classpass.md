@@ -9,6 +9,8 @@ crumb: "ClassPass"
 kicker: "Provider: fitness pass"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Group class"></div>
+
 ClassPass is a fitness pass: you pay one monthly fee and get credits in return. You spend them on classes and gym visits at studios and gyms that partner with ClassPass. So you are not tied to one place or one type of workout.
 
 <div class="knoppen">

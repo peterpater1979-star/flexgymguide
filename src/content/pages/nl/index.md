@@ -22,7 +22,7 @@ Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een 
 
 <div class="kolom kaart aanbiederkaart">
 
-<p class="klein"><strong>Sportpas</strong></p>
+<div class="fotokop foto-classpass"><span>Sportpas</span></div>
 
 ### ClassPass
 
@@ -41,7 +41,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 <div class="kolom kaart aanbiederkaart">
 
-<p class="klein"><strong>Sportschoolketen</strong></p>
+<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
 
 ### Trainmore
 
@@ -65,14 +65,14 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Je krijg
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · 31 Trainmore-clubs</span></li>
-<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · 7 Trainmore-clubs</span></li>
-<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · 3 Trainmore-clubs</span></li>
-<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · 3 Trainmore-clubs</span></li>
-<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · 1 Trainmore-club</span></li>
-<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · 1 Trainmore-club</span></li>
-<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · 2 Trainmore-clubs</span></li>
-<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · 2 Trainmore-clubs</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
+<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
+<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore-club</span></li>
+<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore-club</span></li>
+<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
 </ul>
 
 </div>

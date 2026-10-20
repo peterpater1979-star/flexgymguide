@@ -22,7 +22,7 @@ Working out without a long contract at one gym comes down to two options: a fitn
 
 <div class="kolom kaart aanbiederkaart">
 
-<p class="klein"><strong>Fitness pass</strong></p>
+<div class="fotokop foto-classpass"><span>Fitness pass</span></div>
 
 ### ClassPass
 
@@ -40,9 +40,9 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 <div class="kolom kaart aanbiederkaart">
 
-<p class="klein"><strong>Gym chain</strong></p>
+<div class="fotokop foto-fitness-first-uk"><span>Gym chain</span></div>
 
-### Regular gym
+### Fitness First
 
 A membership at one chain with a gym floor and classes. In the UK for example Fitness First, with 26 clubs, 17 of them in London.
 
@@ -63,7 +63,7 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 ## Cities
 
 <ul class="stedenlijst">
-<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · 17 Fitness First clubs</span></li>
+<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First clubs</span></li>
 <li><strong>Manchester</strong> <span class="klein">Coming soon</span></li>
 <li><strong>Bristol</strong> <span class="klein">Coming soon</span></li>
 <li><strong>Edinburgh</strong> <span class="klein">Coming soon</span></li>
