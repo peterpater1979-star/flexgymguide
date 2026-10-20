@@ -42,7 +42,7 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 <div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=900&q=70&auto=format&fit=crop)"><span>Gym chain</span></div>
 
-### Regular gym
+### Fitness First
 
 A membership at one chain with a gym floor and classes. In the UK for example Fitness First, with 26 clubs, 17 of them in London.
 

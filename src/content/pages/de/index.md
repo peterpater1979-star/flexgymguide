@@ -42,7 +42,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 <div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=900&q=70&auto=format&fit=crop)"><span>Fitnesskette</span></div>
 
-### Festes Fitnessstudio
+### Fitness First
 
 Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 220 Clubs in Deutschland und 4 in und um Wien.
 
