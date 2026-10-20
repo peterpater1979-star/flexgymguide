@@ -22,7 +22,7 @@ Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mi
 
 <div class="kolom kaart aanbiederkaart">
 
-<p class="klein"><strong>Sportpass</strong></p>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=70&auto=format&fit=crop)"><span>Sportpass</span></div>
 
 ### ClassPass
 
@@ -40,7 +40,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 <div class="kolom kaart aanbiederkaart">
 
-<p class="klein"><strong>Fitnesskette</strong></p>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=70&auto=format&fit=crop)"><span>Fitnesskette</span></div>
 
 ### Festes Fitnessstudio
 

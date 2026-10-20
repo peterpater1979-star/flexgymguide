@@ -49,9 +49,9 @@ Most people choose between a fitness pass and a gym chain. Which one suits you d
 
 <div class="kolommen">
 
-<div class="kolom">
+<div class="kolom kaart">
 
-<p class="klein"><strong>Fitness pass</strong></p>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=70&auto=format&fit=crop)"><span>Fitness pass</span></div>
 
 ### One membership, many studios
 
@@ -65,9 +65,9 @@ Book classes and gym visits at different places in your city, and often abroad t
 
 </div>
 
-<div class="kolom">
+<div class="kolom kaart">
 
-<p class="klein"><strong>Gym chain</strong></p>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=70&auto=format&fit=crop)"><span>Gym chain</span></div>
 
 ### One chain, all its clubs
 
