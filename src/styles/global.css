@@ -94,8 +94,8 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .kaart > .fotokop, .kolom > .fotokop:first-child { display: flex; align-items: flex-end; height: 150px; margin: -1.75rem -1.75rem 1.25rem; padding: 1rem 1.75rem; border-radius: var(--radius) var(--radius) 0 0; background: linear-gradient(rgba(1, 122, 120, .45), rgba(1, 90, 88, .85)), var(--foto, none) center / cover, var(--accent); color: #fff; font-weight: 600; letter-spacing: .02em; }
 
 /* Foto's voor de fotokoppen: hier wisselen, dan verandert het op alle pagina's */
-.foto-classpass { --foto: url(https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=70&auto=format&fit=crop); }
-.foto-gymketen { --foto: url(https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=900&q=70&auto=format&fit=crop); }
-.foto-fitness-first-de { --foto: url(https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=900&q=70&auto=format&fit=crop); }
-.foto-fitness-first-uk { --foto: url(https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=900&q=70&auto=format&fit=crop); }
-.foto-urban-sports { --foto: url(https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=70&auto=format&fit=crop); }
+.foto-classpass { --foto: url(/img/foto/classpass.jpg); }
+.foto-gymketen { --foto: url(/img/foto/gymketen.jpg); }
+.foto-fitness-first-de { --foto: url(/img/foto/fitness-first-de.jpg); }
+.foto-fitness-first-uk { --foto: url(/img/foto/fitness-first-uk.jpg); }
+.foto-urban-sports { --foto: url(/img/foto/urban-sports.jpg); }
