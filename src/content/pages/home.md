@@ -67,7 +67,7 @@ Book classes and gym visits at different places in your city, and often abroad t
 
 <div class="kolom kaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=70&auto=format&fit=crop)"><span>Gym chain</span></div>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=900&q=70&auto=format&fit=crop)"><span>Gym chain</span></div>
 
 ### One chain, all its clubs
 
