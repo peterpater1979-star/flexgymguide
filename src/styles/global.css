@@ -91,4 +91,4 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .prose h2 { clear: both; }
 
 /* Fotokop boven een kaart: foto met turquoise laag, label erop */
-.kaart > .fotokop, .kolom > .fotokop:first-child { display: flex; align-items: flex-end; height: 150px; margin: -1.75rem -1.75rem 1.25rem; padding: 1rem 1.75rem; border-radius: var(--radius) var(--radius) 0 0; background: linear-gradient(rgba(1, 122, 120, .45), rgba(1, 90, 88, .85)), var(--foto, none) var(--foto-pos, center) / cover, var(--accent); color: #fff; font-weight: 600; letter-spacing: .02em; }
+.kaart > .fotokop, .kolom > .fotokop:first-child { display: flex; align-items: flex-end; height: 150px; margin: -1.75rem -1.75rem 1.25rem; padding: 1rem 1.75rem; border-radius: var(--radius) var(--radius) 0 0; background: linear-gradient(rgba(1, 122, 120, .45), rgba(1, 90, 88, .85)), var(--foto, none) center / cover, var(--accent); color: #fff; font-weight: 600; letter-spacing: .02em; }

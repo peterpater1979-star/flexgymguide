@@ -22,7 +22,7 @@ Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mi
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=70&auto=format&fit=crop);--foto-pos:center 15%"><span>Sportpass</span></div>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=70&auto=format&fit=crop)"><span>Sportpass</span></div>
 
 ### ClassPass
 
