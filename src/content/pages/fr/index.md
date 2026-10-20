@@ -12,7 +12,7 @@ kicker: "Guide pays France"
 Pas envie d’un long contrat dans une seule salle de sport ? Avec un pass sport comme ClassPass, un seul abonnement te donne accès à différents studios et salles. Voici comment ça marche en France, et dans quelles villes.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-land">Découvrir ClassPass</a>
+<a class="knop knop-affiliate" href="/fr/classpass/">Tout sur ClassPass</a>
 <a class="knop knop-rand" href="#villes">Choisir ta ville</a>
 </div>
 
@@ -33,7 +33,7 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 - Fonctionne aussi dans 28 autres pays
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-land">Découvrir ClassPass</a>
+<a class="knop knop-affiliate" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 
 </div>
@@ -50,7 +50,7 @@ Un abonnement mensuel fixe avec des check-ins chez des salles et studios partena
 - Idéal si tu t’entraînes souvent dans des lieux partenaires
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://urbansportsclub.com/fr">Site d’Urban Sports Club</a>
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>
@@ -96,7 +96,7 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-land">Découvrir ClassPass</a>
+<a class="knop knop-affiliate" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 
 [Lire le guide complet (en anglais)](/guides/how-classpass-works/)

@@ -12,7 +12,7 @@ kicker: "Guía de país España"
 ¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-land">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
 <a class="knop knop-rand" href="#ciudades">Elige tu ciudad</a>
 </div>
 
@@ -33,7 +33,7 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 - Funciona también en otros 28 países
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-land">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
 </div>
@@ -50,7 +50,7 @@ Una cuota mensual fija con check-ins en gimnasios y estudios asociados, para gim
 - Ideal si entrenas a menudo en centros asociados
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://urbansportsclub.com/es">Web de Urban Sports Club</a>
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 </div>
@@ -96,7 +96,7 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-land">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
 [Lee la guía completa (en inglés)](/guides/how-classpass-works/)
