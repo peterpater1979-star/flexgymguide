@@ -9,6 +9,8 @@ crumb: "Fitness First"
 kicker: "Provider: gym chain"
 ---
 
+<div class="fotobanner foto-fitness-first-uk" role="img" aria-label="Gym"></div>
+
 Fitness First has 26 clubs in the UK, 17 of them in London. A membership gives you the gym floor, group classes and, depending on your tier, access to other clubs. Not sure yet? Try a club first with a guest pass.
 
 <div class="knoppen">
