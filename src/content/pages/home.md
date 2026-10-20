@@ -1,14 +1,14 @@
 ---
 title: "Work out anywhere, without a long contract"
 path: "/"
-description: "FlexGymGuide compares fitness passes and gyms with flexible memberships in each country. Find the option that fits how often you train, and where."
+description: "FlexGymGuide is an independent guide to fitness passes and gyms with flexible memberships, country by country. Find the option that fits how often you train, and where."
 lang: en
 land: global
 crumb: "Home"
 kicker: "Fitness passes and gyms, country by country"
 ---
 
-FlexGymGuide compares fitness passes and gyms with flexible memberships in each country. Find the option that fits how often you train, and where.
+FlexGymGuide is an independent guide to fitness passes and gyms with flexible memberships, country by country. Find the option that fits how often you train, and where.
 
 <div class="knoppen">
 <a class="knop" href="#countries">Choose your country</a>
@@ -126,7 +126,7 @@ Providers, prices and rules differ per country, so each country gets its own gui
 
 ### Side by side
 
-We compare passes and gyms on what matters: price, locations, cancelling and trying it first.
+For each pass and gym we look at what matters: price, locations, cancelling and trying it first.
 
 </div>
 
