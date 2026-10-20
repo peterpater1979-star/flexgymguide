@@ -8,7 +8,7 @@ crumb: "Fotokeuze"
 noindex: true
 ---
 
-Tijdelijke proefpagina, alleen in deze voorbeeldlink. Foto A staat nu bij Trainmore, B op /de/ en C op /uk/. Alleen turquoise betekent: die foto bestaat niet.
+Tijdelijke proefpagina, alleen in deze voorbeeldlink. Nu in gebruik: foto 1 bij Trainmore en Gym chain, G bij Fitness First op /de/ en I op /uk/. Alleen turquoise betekent: die foto bestaat niet.
 
 <div class="kolommen">
 
@@ -77,5 +77,47 @@ Tijdelijke proefpagina, alleen in deze voorbeeldlink. Foto A staat nu bij Trainm
 <div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1580261450046-d0a30080dc9b?w=900&q=70&auto=format&fit=crop)"><span>Foto 15</span></div><p class="klein">photo-1580261450046-d0a30080dc9b</p></div>
 
 <div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?w=900&q=70&auto=format&fit=crop)"><span>Foto 16</span></div><p class="klein">photo-1599058945522-28d584b6f0ff</p></div>
+
+</div>
+
+## Reeks 3: nieuwe sportschoolfoto's
+
+<div class="kolommen">
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=900&q=70&auto=format&fit=crop)"><span>Foto 17</span></div><p class="klein">photo-1571019613454-1cb2f99b2d8b</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=900&q=70&auto=format&fit=crop)"><span>Foto 18</span></div><p class="klein">photo-1549060279-7e168fcee0c2</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=900&q=70&auto=format&fit=crop)"><span>Foto 19</span></div><p class="klein">photo-1534258936925-c58bed479fcb</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1546483875-ad9014c88eba?w=900&q=70&auto=format&fit=crop)"><span>Foto 20</span></div><p class="klein">photo-1546483875-ad9014c88eba</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1567598508481-65985588e295?w=900&q=70&auto=format&fit=crop)"><span>Foto 21</span></div><p class="klein">photo-1567598508481-65985588e295</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1570829460005-c840387bb1ca?w=900&q=70&auto=format&fit=crop)"><span>Foto 22</span></div><p class="klein">photo-1570829460005-c840387bb1ca</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1574680178050-55c6a6a96e0a?w=900&q=70&auto=format&fit=crop)"><span>Foto 23</span></div><p class="klein">photo-1574680178050-55c6a6a96e0a</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1584466977773-e625c37cdd50?w=900&q=70&auto=format&fit=crop)"><span>Foto 24</span></div><p class="klein">photo-1584466977773-e625c37cdd50</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=900&q=70&auto=format&fit=crop)"><span>Foto 25</span></div><p class="klein">photo-1599058917765-a780eda07a3e</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1581122584612-713f89daa8eb?w=900&q=70&auto=format&fit=crop)"><span>Foto 26</span></div><p class="klein">photo-1581122584612-713f89daa8eb</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1605296867424-35fc25c9212a?w=900&q=70&auto=format&fit=crop)"><span>Foto 27</span></div><p class="klein">photo-1605296867424-35fc25c9212a</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1534367507873-d2d7e24c797f?w=900&q=70&auto=format&fit=crop)"><span>Foto 28</span></div><p class="klein">photo-1534367507873-d2d7e24c797f</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1518310383802-640c2de311b2?w=900&q=70&auto=format&fit=crop)"><span>Foto 29</span></div><p class="klein">photo-1518310383802-640c2de311b2</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1530822847156-5df684ec5ee1?w=900&q=70&auto=format&fit=crop)"><span>Foto 30</span></div><p class="klein">photo-1530822847156-5df684ec5ee1</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1550259979-ed79b48d2a30?w=900&q=70&auto=format&fit=crop)"><span>Foto 31</span></div><p class="klein">photo-1550259979-ed79b48d2a30</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1594381898411-846e7d193883?w=900&q=70&auto=format&fit=crop)"><span>Foto 32</span></div><p class="klein">photo-1594381898411-846e7d193883</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1597347316205-36f6c451902a?w=900&q=70&auto=format&fit=crop)"><span>Foto 33</span></div><p class="klein">photo-1597347316205-36f6c451902a</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=900&q=70&auto=format&fit=crop)"><span>Foto 34</span></div><p class="klein">photo-1517838277536-f5f99be501cd</p></div>
 
 </div>
