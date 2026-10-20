@@ -93,6 +93,8 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 /* Fotokop boven een kaart: foto met turquoise laag, label erop */
 .kaart > .fotokop, .kolom > .fotokop:first-child { display: flex; align-items: flex-end; height: 150px; margin: -1.75rem -1.75rem 1.25rem; padding: 1rem 1.75rem; border-radius: var(--radius) var(--radius) 0 0; background: linear-gradient(rgba(1, 122, 120, .45), rgba(1, 90, 88, .85)), var(--foto, none) center / cover, var(--accent); color: #fff; font-weight: 600; letter-spacing: .02em; }
 
+.fotobanner { height: 240px; margin: 0 0 1.5rem; border-radius: var(--radius); background: linear-gradient(rgba(1, 122, 120, .1), rgba(1, 90, 88, .25)), var(--foto, none) center / cover, var(--accent); }
+@media (max-width: 640px) { .fotobanner { height: 180px; } }
 /* Foto's voor de fotokoppen: hier wisselen, dan verandert het op alle pagina's */
 .foto-classpass { --foto: url(/img/foto/classpass.jpg); }
 .foto-gymketen { --foto: url(/img/foto/gymketen.jpg); }

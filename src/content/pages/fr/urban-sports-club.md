@@ -9,6 +9,8 @@ crumb: "Urban Sports Club"
 kicker: "Pass sport"
 ---
 
+<div class="fotobanner foto-urban-sports" role="img" aria-label="Salle de sport"></div>
+
 Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnement, tu fais des check-ins dans les salles de sport et studios partenaires, pour la salle, les cours collectifs et d’autres activités. Il fonctionne aussi dans d’autres pays européens.
 
 <div class="knoppen">

@@ -9,6 +9,8 @@ crumb: "ClassPass"
 kicker: "Pass sport"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Cours collectif"></div>
+
 ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des crédits. Tu les utilises pour des cours et des séances dans les studios et salles de sport partenaires. Tu n’es donc pas lié à un seul lieu ni à un seul sport.
 
 <div class="knoppen">

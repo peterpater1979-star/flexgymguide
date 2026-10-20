@@ -9,6 +9,8 @@ crumb: "Urban Sports Club"
 kicker: "Pase deportivo"
 ---
 
+<div class="fotobanner foto-urban-sports" role="img" aria-label="Gimnasio"></div>
+
 Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscripción haces check-in en gimnasios y estudios asociados, para gimnasio, clases dirigidas y otras actividades. También funciona en otros países europeos.
 
 <div class="knoppen">
