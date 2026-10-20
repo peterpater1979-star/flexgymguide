@@ -5,7 +5,7 @@
 #   /go/classpass-nl/  epi=:epi  https://clk.tradedoubler.com/click?p=[P]&a=[A]&epi=:epi  302
 # De regel zonder epi blijft als terugval (dan zonder &epi=).
 
-# Homepage: bezoekers met een Nederlandse of Duitse browser naar hun landpagina.
+# Homepage: bezoekers met een Nederlandse, Duitse, Franse of Spaanse browser naar hun landpagina.
 # Alleen voor /; met ! omdat er een index.html op / staat. Google (zonder taal) ziet de homepage.
 /  /nl/  302!  Language=nl
 /  /de/  302!  Language=de
