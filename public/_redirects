@@ -9,6 +9,8 @@
 # Alleen voor /; met ! omdat er een index.html op / staat. Google (zonder taal) ziet de homepage.
 /  /nl/  302!  Language=nl
 /  /de/  302!  Language=de
+/  /fr/  302!  Language=fr
+/  /es/  302!  Language=es
 
 /go/classpass-nl/  epi=:epi  https://classpass.com/  302
 /go/classpass-nl/            https://classpass.com/  302
