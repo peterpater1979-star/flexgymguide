@@ -15,6 +15,8 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Awin: bewijs dat de site van ons is -->
+    <meta name="verification" content="d74d5d3dbbd2a861aa238f2b4bc1f80c" />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
