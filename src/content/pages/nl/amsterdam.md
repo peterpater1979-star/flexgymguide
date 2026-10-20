@@ -60,7 +60,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in 7 Europese landen
 | Kenmerk | ClassPass | Trainmore | Urban Sports Club |
 | --- | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
-| **Prijs per maand** | Vanaf €19 (11 credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104 per 4 weken, €1 korting per workout | Classic €75 per maand (10 check-ins), met jaarcontract €64 |
+| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104 per 4 weken, €1 korting per workout | Classic €75 per maand (10 check-ins), met jaarcontract €64 |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties. Per locatie dagelijks, 4 of 8 keer per kalendermaand, dat verschilt per locatie. Maximaal 1 check-in per locatie per dag |
 | **Locaties in Amsterdam** | Meer dan 450 studio's en gyms, van yoga tot fitness. Daarvan zijn er 50 gyms waar je zelf traint, zonder les | 31 clubs (53 in heel Nederland) | Partners in heel Amsterdam (14.800 in Europa met Classic) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app | Maandelijks opzegbaar tot 3 dagen voor de verlenging, of goedkoper met 1 of 2 jaar vast |
