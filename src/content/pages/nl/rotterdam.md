@@ -17,7 +17,7 @@ Geen zin in een jaarcontract bij één sportschool? In Rotterdam kun je met een 
 
 <div class="kolom kaart">
 
-<p class="klein"><strong>Beste voor afwisseling</strong></p>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=70&auto=format&fit=crop)"><span>Beste voor afwisseling</span></div>
 
 ### ClassPass
 
@@ -29,7 +29,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<p class="klein"><strong>Beste voor vaste gymgangers</strong></p>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=900&q=70&auto=format&fit=crop)"><span>Beste voor vaste gymgangers</span></div>
 
 ### Trainmore
 
