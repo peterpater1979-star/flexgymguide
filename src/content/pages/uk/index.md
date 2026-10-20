@@ -40,7 +40,7 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=70&auto=format&fit=crop)"><span>Gym chain</span></div>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=900&q=70&auto=format&fit=crop)"><span>Gym chain</span></div>
 
 ### Regular gym
 

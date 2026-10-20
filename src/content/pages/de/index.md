@@ -40,7 +40,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=900&q=70&auto=format&fit=crop)"><span>Fitnesskette</span></div>
+<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=900&q=70&auto=format&fit=crop)"><span>Fitnesskette</span></div>
 
 ### Festes Fitnessstudio
 
