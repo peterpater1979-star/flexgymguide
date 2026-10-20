@@ -38,20 +38,30 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 
 </div>
 
-<div class="kolom kaart" id="ciudades">
+<div class="kolom kaart">
 
-<div class="fotokop foto-urban-sports"><span>Ciudades</span></div>
+<div class="fotokop foto-urban-sports"><span>Otro pase deportivo</span></div>
 
-### ¿Dónde funciona?
+### Urban Sports Club
 
-ClassPass tiene estudios asociados en las grandes ciudades españolas, entre ellas:
+Una cuota mensual fija con check-ins en gimnasios y estudios asociados, para gimnasio, clases y más. También funciona en otros países europeos.
 
-- Madrid
-- Barcelona
+- Ideal si quieres un precio fijo al mes
+- Ideal si entrenas a menudo en centros asociados
 
-En la app ves qué estudios y gimnasios participan cerca de ti.
+<div class="knoppen">
+<a class="knop knop-rand" href="https://urbansportsclub.com/es">Web de Urban Sports Club</a>
+</div>
 
 </div>
+
+</div>
+
+<div id="ciudades">
+
+## ¿Dónde funciona?
+
+ClassPass tiene estudios asociados en las grandes ciudades españolas, entre ellas Madrid y Barcelona. En la app ves qué estudios y gimnasios participan cerca de ti.
 
 </div>
 

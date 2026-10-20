@@ -38,17 +38,30 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 
 </div>
 
-<div class="kolom kaart" id="villes">
+<div class="kolom kaart">
 
-<div class="fotokop foto-urban-sports"><span>Villes</span></div>
+<div class="fotokop foto-urban-sports"><span>Autre pass sport</span></div>
 
-### Où ça marche ?
+### Urban Sports Club
 
-ClassPass compte de nombreux studios partenaires à Paris, et aussi dans d’autres grandes villes françaises.
+Un abonnement mensuel fixe avec des check-ins chez des salles et studios partenaires, pour la salle de sport, les cours et plus encore. Il fonctionne aussi dans d’autres pays européens.
 
-Dans l’application, tu vois quels studios et salles participent près de chez toi.
+- Idéal si tu veux un prix fixe par mois
+- Idéal si tu t’entraînes souvent dans des lieux partenaires
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://urbansportsclub.com/fr">Site d’Urban Sports Club</a>
+</div>
 
 </div>
+
+</div>
+
+<div id="villes">
+
+## Où ça marche ?
+
+ClassPass compte de nombreux studios partenaires à Paris, et aussi dans d’autres grandes villes françaises. Dans l’application, tu vois quels studios et salles participent près de chez toi.
 
 </div>
 
