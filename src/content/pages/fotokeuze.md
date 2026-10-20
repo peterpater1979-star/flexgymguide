@@ -41,3 +41,41 @@ Tijdelijke proefpagina, alleen in deze voorbeeldlink. Foto A staat nu bij Trainm
 <div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1637666062717-1c6bcfa4a4df?w=900&q=70&auto=format&fit=crop)"><span>Foto N</span></div><p class="klein">photo-1637666062717-1c6bcfa4a4df</p></div>
 
 </div>
+
+## Nieuw: krachttraining met mensen
+
+<div class="kolommen">
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=900&q=70&auto=format&fit=crop)"><span>Foto 1</span></div><p class="klein">photo-1583454110551-21f2fa2afe61</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1594737625785-a6cbdabd333c?w=900&q=70&auto=format&fit=crop)"><span>Foto 2</span></div><p class="klein">photo-1594737625785-a6cbdabd333c</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=900&q=70&auto=format&fit=crop)"><span>Foto 3</span></div><p class="klein">photo-1571019614242-c5c5dee9f50b</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1517963879433-6ad2b056d712?w=900&q=70&auto=format&fit=crop)"><span>Foto 4</span></div><p class="klein">photo-1517963879433-6ad2b056d712</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=900&q=70&auto=format&fit=crop)"><span>Foto 5</span></div><p class="klein">photo-1526506118085-60ce8714f8c5</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?w=900&q=70&auto=format&fit=crop)"><span>Foto 6</span></div><p class="klein">photo-1541534741688-6078c6bfb5c5</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1550345332-09e3ac987658?w=900&q=70&auto=format&fit=crop)"><span>Foto 7</span></div><p class="klein">photo-1550345332-09e3ac987658</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1590487988256-9ed24133863e?w=900&q=70&auto=format&fit=crop)"><span>Foto 8</span></div><p class="klein">photo-1590487988256-9ed24133863e</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1597452485669-2c7bb5fef90d?w=900&q=70&auto=format&fit=crop)"><span>Foto 9</span></div><p class="klein">photo-1597452485669-2c7bb5fef90d</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1598971639058-fab3c3109a00?w=900&q=70&auto=format&fit=crop)"><span>Foto 10</span></div><p class="klein">photo-1598971639058-fab3c3109a00</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1532029837206-abbe2b7620e3?w=900&q=70&auto=format&fit=crop)"><span>Foto 11</span></div><p class="klein">photo-1532029837206-abbe2b7620e3</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1579758629938-03607ccdbaba?w=900&q=70&auto=format&fit=crop)"><span>Foto 12</span></div><p class="klein">photo-1579758629938-03607ccdbaba</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1544033527-b192daee1f5b?w=900&q=70&auto=format&fit=crop)"><span>Foto 13</span></div><p class="klein">photo-1544033527-b192daee1f5b</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1596357395217-80de13130e92?w=900&q=70&auto=format&fit=crop)"><span>Foto 14</span></div><p class="klein">photo-1596357395217-80de13130e92</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1580261450046-d0a30080dc9b?w=900&q=70&auto=format&fit=crop)"><span>Foto 15</span></div><p class="klein">photo-1580261450046-d0a30080dc9b</p></div>
+
+<div class="kolom kaart"><div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?w=900&q=70&auto=format&fit=crop)"><span>Foto 16</span></div><p class="klein">photo-1599058945522-28d584b6f0ff</p></div>
+
+</div>
