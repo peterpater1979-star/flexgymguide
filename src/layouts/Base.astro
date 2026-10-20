@@ -6,7 +6,7 @@ import Footer from '../components/Footer.astro';
 import type { Lang } from '../data/teksten';
 
 interface Props { title: string; description?: string; lang?: Lang; land?: string; noindex?: boolean; }
-const { title, description = 'Compare fitness passes and gyms with flexible memberships, country by country.', lang = 'en', land = 'global', noindex = false } = Astro.props;
+const { title, description = 'An independent guide to fitness passes and gyms with flexible memberships, country by country.', lang = 'en', land = 'global', noindex = false } = Astro.props;
 const fullTitle = title.includes('FlexGymGuide') ? title : `${title} | FlexGymGuide`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
