@@ -17,7 +17,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Hamburg trainierst d
 
 <div class="kolom kaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=70&auto=format&fit=crop)"><span>Am besten für Abwechslung</span></div>
+<div class="fotokop foto-classpass"><span>Am besten für Abwechslung</span></div>
 
 ### ClassPass
 
@@ -31,7 +31,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="kolom kaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=900&q=70&auto=format&fit=crop)"><span>Am besten für Vieltrainierer</span></div>
+<div class="fotokop foto-fitness-first-de"><span>Am besten für Vieltrainierer</span></div>
 
 ### Fitness First
 

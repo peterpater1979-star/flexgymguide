@@ -22,7 +22,7 @@ Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=70&auto=format&fit=crop)"><span>Sportpas</span></div>
+<div class="fotokop foto-classpass"><span>Sportpas</span></div>
 
 ### ClassPass
 
@@ -41,7 +41,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=900&q=70&auto=format&fit=crop)"><span>Sportschoolketen</span></div>
+<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
 
 ### Trainmore
 

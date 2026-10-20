@@ -17,7 +17,7 @@ Don't want to be tied to one gym? In London you can use a fitness pass at studio
 
 <div class="kolom kaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1518611012118-696072aa579a?w=900&q=70&auto=format&fit=crop)"><span>Best for variety</span></div>
+<div class="fotokop foto-classpass"><span>Best for variety</span></div>
 
 ### ClassPass
 
@@ -31,7 +31,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 <div class="kolom kaart">
 
-<div class="fotokop" style="--foto:url(https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=900&q=70&auto=format&fit=crop)"><span>Best for regular gym-goers</span></div>
+<div class="fotokop foto-fitness-first-uk"><span>Best for regular gym-goers</span></div>
 
 ### Fitness First
 
