@@ -56,7 +56,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Type** | Fitness pass with credits | Gym chain |
 | **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club |
 | **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below |
-| **Locations in London** | Studios and gyms across the city | 17 clubs |
+| **Locations in London** | Studios and gyms across the city | 17 clubs (26 in the UK) |
 | **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 29 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only |
