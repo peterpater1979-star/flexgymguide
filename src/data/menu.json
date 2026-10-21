@@ -5,6 +5,10 @@
     { "label": "United Kingdom", "href": "/uk/", "land": "uk", "children": [{ "label": "London", "href": "/uk/london/" }] },
     { "label": "France", "href": "/fr/", "land": "fr", "children": [{ "label": "ClassPass", "href": "/fr/classpass/" }, { "label": "Urban Sports Club", "href": "/fr/urban-sports-club/" }] },
     { "label": "España", "href": "/es/", "land": "es", "children": [{ "label": "ClassPass", "href": "/es/classpass/" }, { "label": "Urban Sports Club", "href": "/es/urban-sports-club/" }] },
+    { "label": "Österreich", "href": "/at/", "land": "at", "children": [{ "label": "ClassPass", "href": "/at/classpass/" }] },
+    { "label": "Schweiz", "href": "/ch/", "land": "ch", "children": [{ "label": "ClassPass", "href": "/ch/classpass/" }] },
+    { "label": "België", "href": "/be/", "land": "be", "children": [{ "label": "ClassPass", "href": "/be/classpass/" }] },
+    { "label": "Portugal", "href": "/pt/", "land": "pt", "children": [{ "label": "ClassPass", "href": "/pt/classpass/" }] },
     { "label": "Guides", "href": "/guides/how-classpass-works/", "land": "guides", "children": [{ "label": "How ClassPass works", "href": "/guides/how-classpass-works/" }] }
   ]
 }
