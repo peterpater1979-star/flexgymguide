@@ -9,6 +9,8 @@ crumb: "How ClassPass works"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Group class"></div>
+
 ClassPass gives you one membership for fitness classes, gym visits and wellness at thousands of studios. Here's how credits work, what to watch out for, and how to use it when you travel.
 
 <h2 id="try">Try ClassPass for free</h2>
