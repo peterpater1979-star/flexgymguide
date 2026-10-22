@@ -11,11 +11,6 @@ kicker: "Guía de país España"
 
 ¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
-<a class="knop knop-rand" href="#ciudades">Elige tu ciudad</a>
-</div>
-
 <h2 id="opciones">Entrenar con un pase deportivo</h2>
 
 <div class="kolommen">

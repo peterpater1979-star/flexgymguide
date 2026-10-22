@@ -11,11 +11,6 @@ kicker: "Landeguide Danmark"
 
 Har du ikke lyst til en lang kontrakt i ét fitnesscenter? Med et træningspas som ClassPass får du adgang til forskellige studier og fitnesscentre med ét medlemskab. Her kan du læse, hvordan det fungerer i Danmark, og i hvilke byer.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/dk/classpass/">Alt om ClassPass</a>
-<a class="knop knop-rand" href="#steden">Vælg din by</a>
-</div>
-
 <h2 id="opties">Træn fleksibelt med et træningspas</h2>
 
 <div class="kolommen">

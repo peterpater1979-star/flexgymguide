@@ -11,11 +11,6 @@ kicker: "Landguide Norge"
 
 Har du ikke lyst på en lang avtale på ett enkelt treningssenter? Med et treningspass som ClassPass får du tilgang til ulike studioer og treningssentre med ett medlemskap. Her kan du lese hvordan det fungerer i Norge, og i hvilke byer.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/no/classpass/">Alt om ClassPass</a>
-<a class="knop knop-rand" href="#steden">Velg by</a>
-</div>
-
 <h2 id="opties">Tren fleksibelt med et treningspass</h2>
 
 <div class="kolommen">

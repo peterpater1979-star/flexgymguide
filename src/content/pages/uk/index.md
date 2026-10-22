@@ -11,11 +11,6 @@ kicker: "Country guide United Kingdom"
 
 Working out without a long contract at one gym comes down to two options: a fitness pass like ClassPass, or a gym chain with flexible terms. Here's what suits you, and in which cities.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
-<a class="knop knop-rand" href="#steden">Choose your city</a>
-</div>
-
 <h2 id="opties">Two ways to train flexibly</h2>
 
 <div class="kolommen">

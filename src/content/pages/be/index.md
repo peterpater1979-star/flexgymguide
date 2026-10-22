@@ -11,11 +11,6 @@ kicker: "Landengids België"
 
 Geen zin in een lang contract bij één sportschool? Met een sportpas als ClassPass sport je met één abonnement bij verschillende studio's en gyms. Hier lees je hoe dat in België werkt en in welke steden.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/be/classpass/">Alles over ClassPass</a>
-<a class="knop knop-rand" href="#steden">Kies je stad</a>
-</div>
-
 <h2 id="opties">Flexibel sporten met een sportpas</h2>
 
 <div class="kolommen">

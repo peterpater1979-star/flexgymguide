@@ -11,11 +11,6 @@ kicker: "Länderguide Österreich"
 
 Keine Lust auf einen langen Vertrag in einem einzigen Studio? Mit einem Sportpass wie ClassPass trainierst du mit einem Abo in verschiedenen Studios und Gyms. Hier liest du, wie das in Österreich funktioniert und in welchen Städten.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/at/classpass/">Alles über ClassPass</a>
-<a class="knop knop-rand" href="#steden">Stadt wählen</a>
-</div>
-
 <h2 id="opties">Flexibel trainieren mit einem Sportpass</h2>
 
 <div class="kolommen">

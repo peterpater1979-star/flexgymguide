@@ -11,11 +11,6 @@ kicker: "Guide pays France"
 
 Pas envie d’un long contrat dans une seule salle de sport ? Avec un pass sport comme ClassPass, un seul abonnement te donne accès à différents studios et salles. Voici comment ça marche en France, et dans quelles villes.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/fr/classpass/">Tout sur ClassPass</a>
-<a class="knop knop-rand" href="#villes">Choisir ta ville</a>
-</div>
-
 <h2 id="options">Faire du sport avec un pass</h2>
 
 <div class="kolommen">

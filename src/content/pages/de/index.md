@@ -11,11 +11,6 @@ kicker: "Länderguide Deutschland"
 
 Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Bedingungen. Hier liest du, was zu dir passt und in welchen Städten.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
-<a class="knop knop-rand" href="#steden">Stadt wählen</a>
-</div>
-
 <h2 id="opties">Zwei Wege, flexibel zu trainieren</h2>
 
 <div class="kolommen">

@@ -11,11 +11,6 @@ kicker: "Maaopas Suomi"
 
 Eikö pitkä sopimus yhdellä kuntosalilla houkuttele? ClassPassin kaltaisella treenipassilla pääset yhdellä jäsenyydellä eri studioihin ja kuntosaleille. Tältä sivulta luet, miten se toimii Suomessa ja missä kaupungeissa.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
-<a class="knop knop-rand" href="#steden">Valitse kaupunki</a>
-</div>
-
 <h2 id="opties">Treenaa joustavasti treenipassilla</h2>
 
 <div class="kolommen">

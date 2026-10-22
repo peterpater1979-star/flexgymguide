@@ -11,11 +11,6 @@ kicker: "Country guide Ireland"
 
 Don't want a long contract at a single gym? With a fitness pass like ClassPass, one membership gets you into different studios and gyms. Here's how it works in Ireland, and in which cities.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/ie/classpass/">All about ClassPass</a>
-<a class="knop knop-rand" href="#steden">Choose your city</a>
-</div>
-
 <h2 id="opties">Train flexibly with a fitness pass</h2>
 
 <div class="kolommen">

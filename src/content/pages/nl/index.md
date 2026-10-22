@@ -11,11 +11,6 @@ kicker: "Landengids Nederland"
 
 Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een sportpas zoals ClassPass, of bij een sportschoolketen met flexibele voorwaarden. Hier lees je wat bij jou past, en in welke steden.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
-<a class="knop knop-rand" href="#steden">Kies je stad</a>
-</div>
-
 <h2 id="opties">Twee manieren om flexibel te sporten</h2>
 
 <div class="kolommen">

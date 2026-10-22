@@ -11,11 +11,6 @@ kicker: "Guia do país Portugal"
 
 Não te apetece um contrato longo num só ginásio? Com um passe desportivo como o ClassPass, uma única subscrição dá-te acesso a vários estúdios e ginásios. Aqui explicamos como funciona em Portugal e em que cidades.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/pt/classpass/">Tudo sobre o ClassPass</a>
-<a class="knop knop-rand" href="#cidades">Escolhe a tua cidade</a>
-</div>
-
 <h2 id="opcoes">Treinar com um passe desportivo</h2>
 
 <div class="kolommen">

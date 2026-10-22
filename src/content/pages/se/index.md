@@ -11,11 +11,6 @@ kicker: "Landguide Sverige"
 
 Har du ingen lust med ett långt avtal på ett enda gym? Med ett träningspass som ClassPass får du tillgång till olika studior och gym med ett och samma medlemskap. Här kan du läsa hur det fungerar i Sverige och i vilka städer.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
-<a class="knop knop-rand" href="#steden">Välj din stad</a>
-</div>
-
 <h2 id="opties">Träna flexibelt med ett träningspass</h2>
 
 <div class="kolommen">
