@@ -102,7 +102,7 @@ Read more for your city:
 <li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">Studios in Clifton, Bedminster and Harbourside</span></li>
 <li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">Studios in the city centre and Kelham Island</span></li>
 <li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">Studios in the Lace Market and West Bridgford</span></li>
-<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">Studios and gyms in the city centre and Gosforth</span></li>
+<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">Studios on the Quayside, in Gosforth and Gateshead</span></li>
 </ul>
 
 <h2 id="abroad">ClassPass abroad</h2>
