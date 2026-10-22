@@ -58,6 +58,17 @@ ClassPass es un pase deportivo: pagas una cuota mensual y recibes créditos. Los
 
 </div>
 
+<h2 id="ciudades">Dónde usar ClassPass en España</h2>
+
+ClassPass está sobre todo en estas ciudades e islas:
+
+- Madrid
+- Barcelona
+- Ibiza
+- Mallorca
+
+En la app ves qué estudios y gimnasios participan cerca de ti.
+
 <div class="aanbieder">
 
 <p class="kicker">Probar</p>

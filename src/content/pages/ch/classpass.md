@@ -58,6 +58,16 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 
 </div>
 
+<h2 id="staedte">Wo du ClassPass in der Schweiz nutzen kannst</h2>
+
+ClassPass ist vor allem in diesen Städten aktiv:
+
+- Zürich
+- Genf
+- Basel
+
+In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
+
 <div class="aanbieder">
 
 <p class="kicker">Ausprobieren</p>

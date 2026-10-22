@@ -58,6 +58,17 @@ ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des c
 
 </div>
 
+<h2 id="villes">Où utiliser ClassPass en France</h2>
+
+ClassPass est surtout présent dans ces villes :
+
+- Paris
+- Lyon
+- Marseille
+- Toulouse
+
+Dans l’application, tu vois quels studios et salles participent près de chez toi.
+
 <div class="aanbieder">
 
 <p class="kicker">Essayer</p>

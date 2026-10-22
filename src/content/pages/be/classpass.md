@@ -58,6 +58,16 @@ ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credi
 
 </div>
 
+<h2 id="steden">Waar je ClassPass in België kunt gebruiken</h2>
+
+ClassPass is vooral actief in deze steden:
+
+- Brussel
+- Antwerpen
+- Gent
+
+In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
+
 <div class="aanbieder">
 
 <p class="kicker">Uitproberen</p>
