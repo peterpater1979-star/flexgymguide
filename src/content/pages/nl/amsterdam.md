@@ -45,7 +45,7 @@ Eigen clubs met gym en groepslessen: 31 in Amsterdam, 53 in heel Nederland.
 
 ### Urban Sports Club
 
-Vast maandabonnement met check-ins bij partnerlocaties, ook in 7 Europese landen. Classic kost €75 per maand en is maandelijks opzegbaar.
+Vast maandabonnement met check-ins bij partnerlocaties. Classic kost €75 per maand en is maandelijks opzegbaar.
 
 [Bekijk de opties op een rij](#op-een-rij)
 
