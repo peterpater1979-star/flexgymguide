@@ -1,7 +1,7 @@
 ---
 title: "Entrenar sin permanencia en España"
 path: "/es/"
-description: "¿Quieres hacer deporte sin un contrato largo en un solo gimnasio? Con ClassPass, una sola suscripción te da acceso a estudios y gimnasios en Madrid y Barcelona. Así funciona."
+description: "¿Quieres hacer deporte sin un contrato largo en un solo gimnasio? Con ClassPass, una sola suscripción te da acceso a estudios y gimnasios en Madrid, Barcelona, Ibiza y Mallorca. Así funciona."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -61,7 +61,7 @@ Una cuota mensual fija con check-ins en gimnasios y estudios asociados, para gim
 
 ## ¿Dónde funciona?
 
-ClassPass tiene estudios asociados en las grandes ciudades españolas, entre ellas Madrid y Barcelona. En la app ves qué estudios y gimnasios participan cerca de ti.
+ClassPass tiene estudios asociados en las grandes ciudades españolas y en las islas, entre ellas Madrid, Barcelona, Ibiza y Mallorca. En la app ves qué estudios y gimnasios participan cerca de ti.
 
 </div>
 
