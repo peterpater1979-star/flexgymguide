@@ -36,7 +36,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta name="twitter:card" content="summary_large_image" />
   </head>
   <body>
-    <Header land={land} />
+    <Header land={land} lang={lang} />
     <main><slot /></main>
     <Footer lang={lang} />
   </body>
