@@ -43,24 +43,36 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gymketen"><span>Also worth knowing</span></div>
+
+### The Gym Group
+
+Low-cost gyms without a contract, most of them open 24/7.
+
+[See the overview](#overview)
+
+</div>
+
 </div>
 
 <div id="overview">
 
-## ClassPass and Fitness First at a glance
+## ClassPass, Fitness First and The Gym Group at a glance
 
 Prices and terms change regularly. Always check the latest details with the provider.
 
-| Feature | ClassPass | Fitness First |
-| --- | --- | --- |
-| **Type** | Fitness pass with credits | Gym chain |
-| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club |
-| **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below |
-| **Locations in London** | Studios and gyms across the city | 17 clubs (26 in the UK) |
-| **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost |
-| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only |
-| **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) |
+| Feature | ClassPass | Fitness First | The Gym Group |
+| --- | --- | --- | --- |
+| **Type** | Fitness pass with credits | Gym chain | Low-cost gym chain |
+| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | From [PRICE] a month (Off-peak, Standard or Ultimate) |
+| **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below | Membership at your home gym, classes included. Ultimate adds access to other gyms |
+| **Locations in London** | Studios and gyms across the city | 17 clubs (26 in the UK) | [NUMBER] gyms ([NUMBER] in the UK) |
+| **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost | No contract on monthly plans. Saver plans run 9 or 12 months |
+| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass | Day pass |
+| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only |
+| **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) | [Website The Gym Group](https://www.thegymgroup.com/) |
 
 </div>
 

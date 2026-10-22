@@ -25,7 +25,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 - Gut, wenn du Abwechslung magst
 - Gut bei ein- bis dreimal Training pro Woche
-- Funktioniert auch in 28 anderen Ländern
+- Funktioniert auch in 30 anderen Ländern
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/ch/classpass/">Alles über ClassPass</a>

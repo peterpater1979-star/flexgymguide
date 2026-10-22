@@ -25,7 +25,7 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 - Good if you like variety
 - Good if you train one to three times a week
-- Works in 28 other countries
+- Works in 30 other countries
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
@@ -51,6 +51,18 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gymketen"><span>Also worth knowing</span></div>
+
+### The Gym Group
+
+Low-cost gyms without a contract, most of them open 24/7. [NUMBER] gyms across the UK, with classes included.
+
+[Visit The Gym Group](https://www.thegymgroup.com/)
+
+</div>
+
 </div>
 
 <div id="steden">
@@ -58,7 +70,7 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 ## Cities
 
 <ul class="stedenlijst">
-<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First clubs</span></li>
+<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group</span></li>
 <li><strong>Manchester</strong> <span class="klein">Coming soon</span></li>
 <li><strong>Bristol</strong> <span class="klein">Coming soon</span></li>
 <li><strong>Edinburgh</strong> <span class="klein">Coming soon</span></li>

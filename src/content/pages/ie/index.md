@@ -25,7 +25,7 @@ A membership with credits for yoga, Pilates, boxing, spinning and gym visits at 
 
 - Good if you like variety
 - Good if you train one to three times a week
-- Also works in 28 other countries
+- Also works in 30 other countries
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/ie/classpass/">All about ClassPass</a>

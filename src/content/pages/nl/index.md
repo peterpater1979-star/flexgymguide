@@ -25,7 +25,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 - Goed als je graag afwisselt
 - Goed bij één tot drie keer per week sporten
-- Werkt ook in 28 andere landen
+- Werkt ook in 30 andere landen
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>

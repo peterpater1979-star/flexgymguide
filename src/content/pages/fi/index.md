@@ -25,7 +25,7 @@ Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningii
 
 - Sopii, jos pidät vaihtelusta
 - Sopii, jos treenaat yhdestä kolmeen kertaan viikossa
-- Toimii myös 28 muussa maassa
+- Toimii myös 30 muussa maassa
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>

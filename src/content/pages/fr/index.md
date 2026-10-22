@@ -25,7 +25,7 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 
 - Idéal si tu aimes varier
 - Idéal pour une à trois séances par semaine
-- Fonctionne aussi dans 28 autres pays
+- Fonctionne aussi dans 30 autres pays
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/fr/classpass/">Tout sur ClassPass</a>

@@ -25,7 +25,7 @@ Et medlemskab med credits til yoga, pilates, boksning, spinning og fitness i stu
 
 - God, hvis du kan lide variation
 - God, hvis du træner én til tre gange om ugen
-- Fungerer også i 28 andre lande
+- Fungerer også i 30 andre lande
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/dk/classpass/">Alt om ClassPass</a>

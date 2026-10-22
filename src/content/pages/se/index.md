@@ -25,7 +25,7 @@ Ett medlemskap med krediter för yoga, pilates, boxning, spinning och gymbesök 
 
 - Passar dig som gillar variation
 - Passar dig som tränar en till tre gånger i veckan
-- Fungerar även i 28 andra länder
+- Fungerar även i 30 andra länder
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>

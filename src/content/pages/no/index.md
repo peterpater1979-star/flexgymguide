@@ -25,7 +25,7 @@ Et medlemskap med kreditter til yoga, pilates, boksing, spinning og treningssent
 
 - Bra hvis du liker variasjon
 - Bra hvis du trener én til tre ganger i uken
-- Fungerer også i 28 andre land
+- Fungerer også i 30 andre land
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/no/classpass/">Alt om ClassPass</a>

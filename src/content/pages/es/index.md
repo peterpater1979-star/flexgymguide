@@ -25,7 +25,7 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 
 - Ideal si te gusta variar
 - Ideal si entrenas de una a tres veces por semana
-- Funciona también en otros 28 países
+- Funciona también en otros 30 países
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
