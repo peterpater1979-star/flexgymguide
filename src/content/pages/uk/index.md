@@ -57,7 +57,7 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 
 ### The Gym Group
 
-Low-cost gyms without a contract, most of them open 24/7, with gyms across the UK and classes included.
+Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across the UK, with classes included.
 
 [Visit The Gym Group](https://www.thegymgroup.com/)
 
