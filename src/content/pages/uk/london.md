@@ -181,7 +181,7 @@ Go for Fitness First. A gym with classes, plus other clubs at your tier.
 
 Go for ClassPass. Your membership also works in other countries where ClassPass is available.
 
-Read: Training abroad
+[ClassPass abroad](/uk/classpass/#abroad)
 
 </div>
 

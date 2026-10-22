@@ -106,8 +106,6 @@ United States · Canada · Australia · New Zealand · Japan · Singapore · Hon
 
 <p class="klein">Based on ClassPass's own country list. Availability can change.</p>
 
-Read our full guide: Training abroad
-
 </div>
 
 <div id="worth">
