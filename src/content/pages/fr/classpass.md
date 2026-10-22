@@ -65,12 +65,16 @@ ClassPass est surtout présent dans ces villes :
 - Paris
 - Lyon
 - Marseille
-- Nice
 - Bordeaux
+- Nice
+- Aix-en-Provence
 - Toulouse
 - Nantes
 - Lille
+- Strasbourg
 - Montpellier
+- Rennes
+- Cannes
 
 On trouve aussi des studios dans de plus petites villes et en périphérie. Dans l’application, tu vois quels studios et salles participent près de chez toi.
 
