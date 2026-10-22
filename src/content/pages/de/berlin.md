@@ -169,7 +169,7 @@ Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
 Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPass aktiv ist.
 
-Lies: Training abroad (EN)
+[ClassPass im Ausland](/de/classpass/#ausland)
 
 </div>
 
