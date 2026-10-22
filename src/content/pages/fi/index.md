@@ -1,127 +1,127 @@
 ---
-title: "Flexible fitness in Finland"
+title: "Joustava treenaaminen Suomessa"
 path: "/fi/"
-description: "Don't want to be tied to one gym? With ClassPass you use one membership at studios and gyms in Helsinki, Espoo and Turku. Here's how it works in Finland."
-lang: en
+description: "Ettekö halua sitoutua yhteen kuntosaliin? ClassPassilla käytätte yhtä jäsenyyttä studioissa ja kuntosaleilla Helsingissä, Espoossa ja Turussa. Näin se toimii."
+lang: fi
 land: fi
-byline: "Updated October 2026"
-crumb: "Finland"
-kicker: "Country guide Finland"
+byline: "Päivitetty lokakuussa 2026"
+crumb: "Suomi"
+kicker: "Maaopas Suomi"
 ---
 
-Don't want a long contract at a single gym? With a fitness pass like ClassPass, one membership gets you into different studios and gyms. Here's how it works in Finland, and in which cities.
+Eikö pitkä sopimus yhdellä kuntosalilla houkuttele? ClassPassin kaltaisella treenipassilla pääsette yhdellä jäsenyydellä eri studioihin ja kuntosaleille. Tältä sivulta luette, miten se toimii Suomessa ja missä kaupungeissa.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/fi/classpass/">All about ClassPass</a>
-<a class="knop knop-rand" href="#steden">Choose your city</a>
+<a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
+<a class="knop knop-rand" href="#steden">Valitkaa kaupunki</a>
 </div>
 
-<h2 id="opties">Train flexibly with a fitness pass</h2>
+<h2 id="opties">Treenatkaa joustavasti treenipassilla</h2>
 
 <div class="kolommen">
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-classpass"><span>Fitness pass</span></div>
+<div class="fotokop foto-classpass"><span>Treenipassi</span></div>
 
 ### ClassPass
 
-A membership with credits for yoga, Pilates, boxing, spinning and gym visits at studios across the city, and abroad too.
+Jäsenyys, jolla saatte krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningiin ja kuntosalikäynteihin studioissa ympäri kaupunkia, myös ulkomailla.
 
-- Good if you like variety
-- Good if you train one to three times a week
-- Also works in 28 other countries
+- Sopii, jos pidätte vaihtelusta
+- Sopii, jos treenaatte yhdestä kolmeen kertaan viikossa
+- Toimii myös 28 muussa maassa
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/fi/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
 </div>
 
 </div>
 
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Cities</span></div>
+<div class="fotokop foto-gymketen"><span>Kaupungit</span></div>
 
-### Where does it work?
+### Missä se toimii?
 
-ClassPass has partner studios in several cities, including:
+ClassPassilla on yhteistyöstudioita useissa kaupungeissa, muun muassa:
 
 - Helsinki
 - Espoo
 - Turku
 
-The app shows which studios and gyms near you take part.
+Sovelluksesta näette, mitkä lähistön studiot ja kuntosalit ovat mukana.
 
 </div>
 
 </div>
 
-## How ClassPass works in Finland
+## Näin ClassPass toimii Suomessa
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Choose a plan
+### Valitkaa jäsenyys
 
-You get credits every month. More credits means more workouts.
-
-</div>
-
-<div class="kolom">
-
-### Book a class or gym
-
-The app shows studios near you and how many credits each class costs.
+Saatte krediittejä joka kuukausi. Mitä enemmän krediittejä, sitä useammin voitte treenata.
 
 </div>
 
 <div class="kolom">
 
-### Change or cancel
+### Varatkaa tunti tai kuntosalikäynti
 
-You can change, pause or cancel your plan at any time.
+Sovelluksesta näette lähistön studiot ja sen, montako krediittiä tunti maksaa.
+
+</div>
+
+<div class="kolom">
+
+### Muuttakaa tai irtisanokaa
+
+Voitte muuttaa, keskeyttää tai irtisanoa jäsenyytenne milloin tahansa.
 
 </div>
 
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/fi/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
 </div>
 
-[Read the full guide](/guides/how-classpass-works/)
+[Lukekaa koko opas (englanniksi)](/guides/how-classpass-works/)
 
-## Frequently asked questions
+## Usein kysyttyä
 
 <details open>
-<summary>How much does ClassPass cost in Finland?</summary>
+<summary>Mitä ClassPass maksaa Suomessa?</summary>
 
-It depends on how many credits you get each month. You'll find the current prices at ClassPass.
-
-</details>
-
-<details>
-<summary>Is ClassPass cheaper than a gym membership?</summary>
-
-If you go to the same gym three times a week or more, a regular membership is usually cheaper. If you like switching between studios, a fitness pass suits you better.
+Se riippuu siitä, montako krediittiä saatte kuukaudessa. Ajankohtaiset hinnat löydätte ClassPassin sivuilta.
 
 </details>
 
 <details>
-<summary>Can I use ClassPass on holiday?</summary>
+<summary>Onko ClassPass edullisempi kuin kuntosalijäsenyys?</summary>
 
-Yes. Your credits work in every country where ClassPass is available, at that country's rates.
+Jos treenaatte samalla salilla kolme kertaa viikossa tai useammin, tavallinen jäsenyys on yleensä edullisempi. Jos vaihdatte mielellänne studiosta toiseen, treenipassi sopii paremmin.
 
 </details>
 
-## Training somewhere else?
+<details>
+<summary>Voinko käyttää ClassPassia lomalla?</summary>
 
-ClassPass is available in 29 countries. Choose your country for the right prices and terms.
+Kyllä. Krediittinne toimivat kaikissa maissa, joissa ClassPass on saatavilla, kunkin maan hinnoin.
+
+</details>
+
+## Treenaatteko muualla?
+
+ClassPass toimii 29 maassa. Valitkaa maanne, niin näette oikeat hinnat ja ehdot.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/se/">Sweden</a>
-<a class="knop knop-rand" href="/no/">Norway</a>
-<a class="knop knop-rand" href="/dk/">Denmark</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Other countries</a>
+<a class="knop knop-rand" href="/se/">Sverige</a>
+<a class="knop knop-rand" href="/no/">Norge</a>
+<a class="knop knop-rand" href="/dk/">Danmark</a>
+<a class="knop knop-rand" href="/guides/how-classpass-works/">Muut maat</a>
 </div>

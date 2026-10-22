@@ -1,126 +1,126 @@
 ---
-title: "Flexible fitness in Denmark"
+title: "Fleksibel træning i Danmark"
 path: "/dk/"
-description: "Don't want to be tied to one gym? With ClassPass you use one membership at studios and gyms in Copenhagen and Aarhus. Here's how it works in Denmark."
-lang: en
+description: "Vil du ikke bindes til ét fitnesscenter? Med ClassPass bruger du ét medlemskab i studier og fitnesscentre i København og Aarhus. Sådan fungerer det."
+lang: da
 land: dk
-byline: "Updated October 2026"
-crumb: "Denmark"
-kicker: "Country guide Denmark"
+byline: "Opdateret oktober 2026"
+crumb: "Danmark"
+kicker: "Landeguide Danmark"
 ---
 
-Don't want a long contract at a single gym? With a fitness pass like ClassPass, one membership gets you into different studios and gyms. Here's how it works in Denmark, and in which cities.
+Har du ikke lyst til en lang kontrakt i ét fitnesscenter? Med et træningspas som ClassPass får du adgang til forskellige studier og fitnesscentre med ét medlemskab. Her kan du læse, hvordan det fungerer i Danmark, og i hvilke byer.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/dk/classpass/">All about ClassPass</a>
-<a class="knop knop-rand" href="#steden">Choose your city</a>
+<a class="knop knop-affiliate" href="/dk/classpass/">Alt om ClassPass</a>
+<a class="knop knop-rand" href="#steden">Vælg din by</a>
 </div>
 
-<h2 id="opties">Train flexibly with a fitness pass</h2>
+<h2 id="opties">Træn fleksibelt med et træningspas</h2>
 
 <div class="kolommen">
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-classpass"><span>Fitness pass</span></div>
+<div class="fotokop foto-classpass"><span>Træningspas</span></div>
 
 ### ClassPass
 
-A membership with credits for yoga, Pilates, boxing, spinning and gym visits at studios across the city, and abroad too.
+Et medlemskab med credits til yoga, pilates, boksning, spinning og fitness i studier over hele byen, også i udlandet.
 
-- Good if you like variety
-- Good if you train one to three times a week
-- Also works in 28 other countries
+- God, hvis du kan lide variation
+- God, hvis du træner én til tre gange om ugen
+- Fungerer også i 28 andre lande
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/dk/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/dk/classpass/">Alt om ClassPass</a>
 </div>
 
 </div>
 
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Cities</span></div>
+<div class="fotokop foto-gymketen"><span>Byer</span></div>
 
-### Where does it work?
+### Hvor fungerer det?
 
-ClassPass has partner studios in several cities, including:
+ClassPass har partnerstudier i flere byer, blandt andet:
 
-- Copenhagen
+- København
 - Aarhus
 
-The app shows which studios and gyms near you take part.
+I appen kan du se, hvilke studier og fitnesscentre i nærheden der er med.
 
 </div>
 
 </div>
 
-## How ClassPass works in Denmark
+## Sådan fungerer ClassPass i Danmark
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Choose a plan
+### Vælg et abonnement
 
-You get credits every month. More credits means more workouts.
-
-</div>
-
-<div class="kolom">
-
-### Book a class or gym
-
-The app shows studios near you and how many credits each class costs.
+Du får credits hver måned. Flere credits betyder flere træninger.
 
 </div>
 
 <div class="kolom">
 
-### Change or cancel
+### Book et hold eller fitness
 
-You can change, pause or cancel your plan at any time.
+I appen ser du studier i nærheden, og hvor mange credits et hold koster.
+
+</div>
+
+<div class="kolom">
+
+### Skift eller opsig
+
+Du kan ændre, sætte på pause eller opsige dit abonnement når som helst.
 
 </div>
 
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/dk/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/dk/classpass/">Alt om ClassPass</a>
 </div>
 
-[Read the full guide](/guides/how-classpass-works/)
+[Læs hele guiden (engelsk)](/guides/how-classpass-works/)
 
-## Frequently asked questions
+## Ofte stillede spørgsmål
 
 <details open>
-<summary>How much does ClassPass cost in Denmark?</summary>
+<summary>Hvad koster ClassPass i Danmark?</summary>
 
-It depends on how many credits you get each month. You'll find the current prices at ClassPass.
-
-</details>
-
-<details>
-<summary>Is ClassPass cheaper than a gym membership?</summary>
-
-If you go to the same gym three times a week or more, a regular membership is usually cheaper. If you like switching between studios, a fitness pass suits you better.
+Det afhænger af, hvor mange credits du får om måneden. De aktuelle priser finder du hos ClassPass.
 
 </details>
 
 <details>
-<summary>Can I use ClassPass on holiday?</summary>
+<summary>Er ClassPass billigere end et fitnessmedlemskab?</summary>
 
-Yes. Your credits work in every country where ClassPass is available, at that country's rates.
+Hvis du træner i det samme center tre gange om ugen eller mere, er et almindeligt medlemskab som regel billigere. Kan du lide at skifte mellem studier, passer et træningspas bedre.
 
 </details>
 
-## Training somewhere else?
+<details>
+<summary>Kan jeg bruge ClassPass på ferie?</summary>
 
-ClassPass is available in 29 countries. Choose your country for the right prices and terms.
+Ja. Dine credits fungerer i alle lande, hvor ClassPass findes, til det enkelte lands priser.
+
+</details>
+
+## Træne et andet sted?
+
+ClassPass findes i 29 lande. Vælg dit land for at se de rigtige priser og vilkår.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/se/">Sweden</a>
-<a class="knop knop-rand" href="/no/">Norway</a>
+<a class="knop knop-rand" href="/se/">Sverige</a>
+<a class="knop knop-rand" href="/no/">Norge</a>
 <a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Other countries</a>
+<a class="knop knop-rand" href="/guides/how-classpass-works/">Andre lande</a>
 </div>

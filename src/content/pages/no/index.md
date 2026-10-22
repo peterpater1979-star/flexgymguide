@@ -1,125 +1,125 @@
 ---
-title: "Flexible fitness in Norway"
+title: "Fleksibel trening i Norge"
 path: "/no/"
-description: "Don't want to be tied to one gym? With ClassPass you use one membership at studios and gyms in Oslo. Here's how it works in Norway."
-lang: en
+description: "Vil du ikke binde deg til ett treningssenter? Med ClassPass bruker du ett medlemskap på studioer og treningssentre i Oslo. Slik fungerer det."
+lang: nb
 land: no
-byline: "Updated October 2026"
-crumb: "Norway"
-kicker: "Country guide Norway"
+byline: "Oppdatert oktober 2026"
+crumb: "Norge"
+kicker: "Landguide Norge"
 ---
 
-Don't want a long contract at a single gym? With a fitness pass like ClassPass, one membership gets you into different studios and gyms. Here's how it works in Norway, and in which cities.
+Har du ikke lyst på en lang avtale på ett enkelt treningssenter? Med et treningspass som ClassPass får du tilgang til ulike studioer og treningssentre med ett medlemskap. Her kan du lese hvordan det fungerer i Norge, og i hvilke byer.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/no/classpass/">All about ClassPass</a>
-<a class="knop knop-rand" href="#steden">Choose your city</a>
+<a class="knop knop-affiliate" href="/no/classpass/">Alt om ClassPass</a>
+<a class="knop knop-rand" href="#steden">Velg by</a>
 </div>
 
-<h2 id="opties">Train flexibly with a fitness pass</h2>
+<h2 id="opties">Tren fleksibelt med et treningspass</h2>
 
 <div class="kolommen">
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-classpass"><span>Fitness pass</span></div>
+<div class="fotokop foto-classpass"><span>Treningspass</span></div>
 
 ### ClassPass
 
-A membership with credits for yoga, Pilates, boxing, spinning and gym visits at studios across the city, and abroad too.
+Et medlemskap med kreditter til yoga, pilates, boksing, spinning og treningssenterbesøk på studioer i hele byen, også i utlandet.
 
-- Good if you like variety
-- Good if you train one to three times a week
-- Also works in 28 other countries
+- Bra hvis du liker variasjon
+- Bra hvis du trener én til tre ganger i uken
+- Fungerer også i 28 andre land
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/no/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/no/classpass/">Alt om ClassPass</a>
 </div>
 
 </div>
 
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Cities</span></div>
+<div class="fotokop foto-gymketen"><span>Byer</span></div>
 
-### Where does it work?
+### Hvor fungerer det?
 
-ClassPass has partner studios in and around:
+ClassPass har partnerstudioer i og rundt:
 
 - Oslo
 
-The app shows which studios and gyms near you take part.
+I appen ser du hvilke studioer og treningssentre i nærheten som er med.
 
 </div>
 
 </div>
 
-## How ClassPass works in Norway
+## Slik fungerer ClassPass i Norge
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Choose a plan
+### Velg et abonnement
 
-You get credits every month. More credits means more workouts.
-
-</div>
-
-<div class="kolom">
-
-### Book a class or gym
-
-The app shows studios near you and how many credits each class costs.
+Du får kreditter hver måned. Flere kreditter betyr flere treningsøkter.
 
 </div>
 
 <div class="kolom">
 
-### Change or cancel
+### Book en time eller treningssenter
 
-You can change, pause or cancel your plan at any time.
+I appen ser du studioer i nærheten og hvor mange kreditter en time koster.
+
+</div>
+
+<div class="kolom">
+
+### Endre eller si opp
+
+Du kan endre, pause eller si opp abonnementet ditt når som helst.
 
 </div>
 
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/no/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/no/classpass/">Alt om ClassPass</a>
 </div>
 
-[Read the full guide](/guides/how-classpass-works/)
+[Les hele guiden (engelsk)](/guides/how-classpass-works/)
 
-## Frequently asked questions
+## Ofte stilte spørsmål
 
 <details open>
-<summary>How much does ClassPass cost in Norway?</summary>
+<summary>Hva koster ClassPass i Norge?</summary>
 
-It depends on how many credits you get each month. You'll find the current prices at ClassPass.
-
-</details>
-
-<details>
-<summary>Is ClassPass cheaper than a gym membership?</summary>
-
-If you go to the same gym three times a week or more, a regular membership is usually cheaper. If you like switching between studios, a fitness pass suits you better.
+Det avhenger av hvor mange kreditter du får per måned. Du finner de aktuelle prisene hos ClassPass.
 
 </details>
 
 <details>
-<summary>Can I use ClassPass on holiday?</summary>
+<summary>Er ClassPass billigere enn et treningssentermedlemskap?</summary>
 
-Yes. Your credits work in every country where ClassPass is available, at that country's rates.
+Hvis du trener på samme senter tre ganger i uken eller oftere, er et vanlig medlemskap som regel billigere. Liker du å bytte mellom studioer, passer et treningspass bedre.
 
 </details>
 
-## Training somewhere else?
+<details>
+<summary>Kan jeg bruke ClassPass på ferie?</summary>
 
-ClassPass is available in 29 countries. Choose your country for the right prices and terms.
+Ja. Kredittene dine fungerer i alle land der ClassPass finnes, til prisene i det aktuelle landet.
+
+</details>
+
+## Trene et annet sted?
+
+ClassPass finnes i 29 land. Velg landet ditt for riktige priser og vilkår.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/se/">Sweden</a>
-<a class="knop knop-rand" href="/dk/">Denmark</a>
-<a class="knop knop-rand" href="/fi/">Finland</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Other countries</a>
+<a class="knop knop-rand" href="/se/">Sverige</a>
+<a class="knop knop-rand" href="/dk/">Danmark</a>
+<a class="knop knop-rand" href="/fi/">Suomi</a>
+<a class="knop knop-rand" href="/guides/how-classpass-works/">Andre land</a>
 </div>

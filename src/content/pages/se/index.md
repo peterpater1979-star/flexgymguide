@@ -1,127 +1,127 @@
 ---
-title: "Flexible fitness in Sweden"
+title: "Flexibel träning i Sverige"
 path: "/se/"
-description: "Don't want to be tied to one gym? With ClassPass you use one membership at studios and gyms in Stockholm, Gothenburg and Malmö. Here's how it works in Sweden."
-lang: en
+description: "Vill du inte binda dig till ett enda gym? Med ClassPass använder du ett medlemskap på studior och gym i Stockholm, Göteborg och Malmö. Så fungerar det."
+lang: sv
 land: se
-byline: "Updated October 2026"
-crumb: "Sweden"
-kicker: "Country guide Sweden"
+byline: "Uppdaterad oktober 2026"
+crumb: "Sverige"
+kicker: "Landguide Sverige"
 ---
 
-Don't want a long contract at a single gym? With a fitness pass like ClassPass, one membership gets you into different studios and gyms. Here's how it works in Sweden, and in which cities.
+Har du ingen lust med ett långt avtal på ett enda gym? Med ett träningspass som ClassPass får du tillgång till olika studior och gym med ett och samma medlemskap. Här kan du läsa hur det fungerar i Sverige och i vilka städer.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/se/classpass/">All about ClassPass</a>
-<a class="knop knop-rand" href="#steden">Choose your city</a>
+<a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
+<a class="knop knop-rand" href="#steden">Välj din stad</a>
 </div>
 
-<h2 id="opties">Train flexibly with a fitness pass</h2>
+<h2 id="opties">Träna flexibelt med ett träningspass</h2>
 
 <div class="kolommen">
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-classpass"><span>Fitness pass</span></div>
+<div class="fotokop foto-classpass"><span>Träningspass</span></div>
 
 ### ClassPass
 
-A membership with credits for yoga, Pilates, boxing, spinning and gym visits at studios across the city, and abroad too.
+Ett medlemskap med krediter för yoga, pilates, boxning, spinning och gymbesök på studior i hela staden, även utomlands.
 
-- Good if you like variety
-- Good if you train one to three times a week
-- Also works in 28 other countries
+- Passar dig som gillar variation
+- Passar dig som tränar en till tre gånger i veckan
+- Fungerar även i 28 andra länder
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/se/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
 </div>
 
 </div>
 
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Cities</span></div>
+<div class="fotokop foto-gymketen"><span>Städer</span></div>
 
-### Where does it work?
+### Var fungerar det?
 
-ClassPass has partner studios in several cities, including:
+ClassPass har partnerstudior i flera städer, bland annat:
 
 - Stockholm
-- Gothenburg
+- Göteborg
 - Malmö
 
-The app shows which studios and gyms near you take part.
+I appen ser du vilka studior och gym i närheten som är med.
 
 </div>
 
 </div>
 
-## How ClassPass works in Sweden
+## Så fungerar ClassPass i Sverige
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Choose a plan
+### Välj ett abonnemang
 
-You get credits every month. More credits means more workouts.
-
-</div>
-
-<div class="kolom">
-
-### Book a class or gym
-
-The app shows studios near you and how many credits each class costs.
+Du får krediter varje månad. Fler krediter betyder fler träningspass.
 
 </div>
 
 <div class="kolom">
 
-### Change or cancel
+### Boka ett pass eller gym
 
-You can change, pause or cancel your plan at any time.
+I appen ser du studior i närheten och hur många krediter ett pass kostar.
+
+</div>
+
+<div class="kolom">
+
+### Ändra eller säg upp
+
+Du kan ändra, pausa eller säga upp ditt abonnemang när som helst.
 
 </div>
 
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/se/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
 </div>
 
-[Read the full guide](/guides/how-classpass-works/)
+[Läs hela guiden (engelska)](/guides/how-classpass-works/)
 
-## Frequently asked questions
+## Vanliga frågor
 
 <details open>
-<summary>How much does ClassPass cost in Sweden?</summary>
+<summary>Vad kostar ClassPass i Sverige?</summary>
 
-It depends on how many credits you get each month. You'll find the current prices at ClassPass.
-
-</details>
-
-<details>
-<summary>Is ClassPass cheaper than a gym membership?</summary>
-
-If you go to the same gym three times a week or more, a regular membership is usually cheaper. If you like switching between studios, a fitness pass suits you better.
+Det beror på hur många krediter du får per månad. Aktuella priser hittar du hos ClassPass.
 
 </details>
 
 <details>
-<summary>Can I use ClassPass on holiday?</summary>
+<summary>Är ClassPass billigare än ett gymkort?</summary>
 
-Yes. Your credits work in every country where ClassPass is available, at that country's rates.
+Om du tränar på samma gym tre gånger i veckan eller oftare är ett vanligt gymkort oftast billigare. Gillar du att växla mellan studior passar ett träningspass bättre.
 
 </details>
 
-## Training somewhere else?
+<details>
+<summary>Kan jag använda ClassPass på semestern?</summary>
 
-ClassPass is available in 29 countries. Choose your country for the right prices and terms.
+Ja. Dina krediter fungerar i alla länder där ClassPass finns, till respektive lands priser.
+
+</details>
+
+## Träna någon annanstans?
+
+ClassPass finns i 29 länder. Välj ditt land för rätt priser och villkor.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/dk/">Denmark</a>
-<a class="knop knop-rand" href="/no/">Norway</a>
-<a class="knop knop-rand" href="/fi/">Finland</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Other countries</a>
+<a class="knop knop-rand" href="/dk/">Danmark</a>
+<a class="knop knop-rand" href="/no/">Norge</a>
+<a class="knop knop-rand" href="/fi/">Suomi</a>
+<a class="knop knop-rand" href="/guides/how-classpass-works/">Andra länder</a>
 </div>

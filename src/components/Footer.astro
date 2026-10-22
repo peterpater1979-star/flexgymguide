@@ -3,7 +3,7 @@ import { teksten, type Lang } from '../data/teksten';
 import menu from '../data/menu.json';
 const { lang = 'en' } = Astro.props as { lang?: Lang };
 const t = teksten[lang];
-const landenKop = { nl: 'Landen', de: 'Länder', en: 'Countries', fr: 'Pays', es: 'Países', pt: 'Países' }[lang];
+const landenKop = { nl: 'Landen', de: 'Länder', en: 'Countries', fr: 'Pays', es: 'Países', pt: 'Países', da: 'Lande', sv: 'Länder', nb: 'Land', fi: 'Maat' }[lang];
 const year = new Date().getFullYear();
 ---
 <footer>

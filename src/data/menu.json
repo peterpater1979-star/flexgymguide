@@ -10,10 +10,10 @@
     { "label": "België", "href": "/be/", "land": "be", "children": [{ "label": "ClassPass", "href": "/be/classpass/" }] },
     { "label": "Portugal", "href": "/pt/", "land": "pt", "children": [{ "label": "ClassPass", "href": "/pt/classpass/" }] },
     { "label": "Ireland", "href": "/ie/", "land": "ie", "children": [{ "label": "ClassPass", "href": "/ie/classpass/" }] },
-    { "label": "Denmark", "href": "/dk/", "land": "dk", "children": [{ "label": "ClassPass", "href": "/dk/classpass/" }] },
-    { "label": "Sweden", "href": "/se/", "land": "se", "children": [{ "label": "ClassPass", "href": "/se/classpass/" }] },
-    { "label": "Norway", "href": "/no/", "land": "no", "children": [{ "label": "ClassPass", "href": "/no/classpass/" }] },
-    { "label": "Finland", "href": "/fi/", "land": "fi", "children": [{ "label": "ClassPass", "href": "/fi/classpass/" }] },
+    { "label": "Danmark", "href": "/dk/", "land": "dk", "children": [{ "label": "ClassPass", "href": "/dk/classpass/" }] },
+    { "label": "Sverige", "href": "/se/", "land": "se", "children": [{ "label": "ClassPass", "href": "/se/classpass/" }] },
+    { "label": "Norge", "href": "/no/", "land": "no", "children": [{ "label": "ClassPass", "href": "/no/classpass/" }] },
+    { "label": "Suomi", "href": "/fi/", "land": "fi", "children": [{ "label": "ClassPass", "href": "/fi/classpass/" }] },
     { "label": "Guides", "href": "/guides/how-classpass-works/", "land": "guides", "children": [{ "label": "How ClassPass works", "href": "/guides/how-classpass-works/" }] }
   ]
 }

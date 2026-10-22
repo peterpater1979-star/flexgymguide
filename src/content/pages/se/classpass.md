@@ -1,108 +1,108 @@
 ---
-title: "ClassPass in Sweden: how it works, credits and cancelling"
+title: "ClassPass i Sverige: så fungerar det, krediter och uppsägning"
 path: "/se/classpass/"
-description: "What is ClassPass, how do the credits work and how do you cancel? Everything about the fitness pass in Sweden."
-lang: en
+description: "Vad är ClassPass, hur fungerar krediterna och hur säger du upp? Allt om träningspasset i Sverige."
+lang: sv
 land: se
-byline: "Updated October 2026"
+byline: "Uppdaterad oktober 2026"
 crumb: "ClassPass"
-kicker: "Fitness pass"
+kicker: "Träningspass"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Group class"></div>
+<div class="fotobanner foto-classpass" role="img" aria-label="Gruppträning"></div>
 
-ClassPass is a fitness pass: you pay a monthly fee and get credits in return. You use them for classes and gym visits at partner studios and gyms. That way you're not tied to one place or one sport.
+ClassPass är ett träningspass: du betalar en månadsavgift och får krediter i gengäld. Dem använder du för pass och gymbesök hos partnerstudior och gym. På så sätt är du inte bunden till ett ställe eller en sport.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-classpass">View ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-classpass">Se ClassPass</a>
 </div>
 
-<h2 id="in-short">In short</h2>
+<h2 id="kort">I korthet</h2>
 
 | | ClassPass |
 | --- | --- |
-| **Type** | Fitness pass with credits |
-| **What you can do** | Yoga, Pilates, boxing, spinning, strength training, gym visits and more |
-| **Cancelling** | Any time, before your renewal date |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in over 2,500 cities in 29 countries |
+| **Typ** | Träningspass med krediter |
+| **Det här kan du göra** | Yoga, pilates, boxning, spinning, styrketräning, gymbesök och mycket mer |
+| **Uppsägning** | När som helst, före ditt förnyelsedatum |
+| **Utomlands** | <span class="ja" aria-hidden="true">✓</span> Ja, i över 2 500 städer i 29 länder |
 
-<p class="klein">Prices and terms change regularly. Always check the latest at ClassPass.</p>
+<p class="klein">Priser och villkor ändras regelbundet. Kontrollera alltid aktuell information hos ClassPass.</p>
 
-<h2 id="how-it-works">How ClassPass works</h2>
+<h2 id="werking">Så fungerar ClassPass</h2>
 
-1. You choose a plan with a fixed number of credits per month.
-2. In the app or on the website, you look for a class or gym near you.
-3. You book with your credits. You see how many credits a class costs before you book.
-4. You get new credits every month.
+1. Du väljer ett abonnemang med ett fast antal krediter per månad.
+2. I appen eller på webbplatsen letar du upp ett pass eller ett gym i närheten.
+3. Du bokar med dina krediter. Du ser hur många krediter ett pass kostar innan du bokar.
+4. Varje månad får du nya krediter.
 
 <div class="kolommen">
 
 <div class="kolom kaart">
 
-### Good for
+### Passar bra för
 
-- People who like to try different workouts
-- People who train one to three times a week
-- People who travel a lot
+- Dig som gillar att prova olika träningsformer
+- Dig som tränar en till tre gånger i veckan
+- Dig som reser mycket
 
 </div>
 
 <div class="kolom kaart">
 
-### Less suitable for
+### Passar mindre bra för
 
-- If you go to the gym more than three times a week: a regular gym is often cheaper
-- If you always want the same popular class at the same time: it often costs more credits
-
-</div>
+- Dig som går till gymmet oftare än tre gånger i veckan: då är ett vanligt gymkort ofta billigare
+- Dig som alltid vill ha samma populära pass vid samma tid: det kostar ofta fler krediter
 
 </div>
 
-<h2 id="cities">Where you can use it in Sweden</h2>
+</div>
 
-ClassPass has partner studios in several cities, including:
+<h2 id="steden">Här kan du använda det i Sverige</h2>
+
+ClassPass har partnerstudior i flera städer, bland annat:
 
 - Stockholm
-- Gothenburg
+- Göteborg
 - Malmö
 
 <div class="aanbieder">
 
-<p class="kicker">Try it</p>
+<p class="kicker">Testa</p>
 
-## View ClassPass
+## Se ClassPass
 
-See which studios and gyms near you take part and what the plans cost in Sweden.
+Se vilka studior och gym i närheten som är med och vad abonnemangen kostar i Sverige.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-classpass">View ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-classpass">Se ClassPass</a>
 </div>
 
 </div>
 
-## Frequently asked questions
+## Vanliga frågor
 
 <details open>
-<summary>How much does ClassPass cost in Sweden?</summary>
+<summary>Vad kostar ClassPass i Sverige?</summary>
 
-It depends on how many credits you get each month. You'll find the current prices at ClassPass.
-
-</details>
-
-<details>
-<summary>What happens to credits I don't use?</summary>
-
-You can roll over unused credits for one month. If you don't use them then, they expire.
+Det beror på hur många krediter du får per månad. Aktuella priser hittar du hos ClassPass.
 
 </details>
 
 <details>
-<summary>Can I cancel at any time?</summary>
+<summary>Vad händer med krediter som jag inte använder?</summary>
 
-Yes. Cancel before your next renewal date and you won't pay for a new month.
+Oanvända krediter kan du ta med till nästa månad. Använder du dem inte då heller går de ut.
+
+</details>
+
+<details>
+<summary>Kan jag säga upp när som helst?</summary>
+
+Ja. Säg upp före ditt nästa förnyelsedatum, så betalar du inte för en ny månad.
 
 </details>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/se/">Back to Sweden</a>
+<a class="knop knop-rand" href="/se/">Tillbaka till Sverige</a>
 </div>

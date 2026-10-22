@@ -2,7 +2,7 @@
 import menu from '../data/menu.json';
 const { land = 'global', lang = 'en' } = Astro.props;
 // Geen landenlijst in de kop: bezoekers komen op hun eigen land binnen. Andere landen staan op de homepage en onderaan elke pagina.
-const landenLabel = { nl: 'Andere landen', de: 'Andere Länder', en: 'Other countries', fr: 'Autres pays', es: 'Otros países', pt: 'Outros países' }[lang as 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt'];
+const landenLabel = { nl: 'Andere landen', de: 'Andere Länder', en: 'Other countries', fr: 'Autres pays', es: 'Otros países', pt: 'Outros países', da: 'Andre lande', sv: 'Andra länder', nb: 'Andre land', fi: 'Muut maat' }[lang as 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt' | 'da' | 'sv' | 'nb' | 'fi'];
 const huidig = menu.main.find((m) => m.land === land);
 const pad = Astro.url.pathname;
 // De stedenbalk alleen op stadspagina's; op de landpagina staat de inhoud eerst.
