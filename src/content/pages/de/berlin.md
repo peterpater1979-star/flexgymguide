@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Berlin: ClassPass, Fitness First und mehr"
 path: "/de/berlin/"
-description: "Flexibel trainieren in Berlin: ClassPass mit über 400 Studios oder Fitness First mit 15 Clubs und kostenlosem Probetraining. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Berlin: ClassPass mit Studios in der ganzen Stadt oder Fitness First mit 15 Clubs und kostenlosem Probetraining. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -9,7 +9,7 @@ crumb: "Berlin"
 kicker: "Stadtguide Berlin"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in über 400 Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in Studios in der ganzen Stadt oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -56,7 +56,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
 | **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Berlin** | Über 400 Studios und Gyms | 15 Clubs |
+| **Standorte in Berlin** | Studios und Gyms in der ganzen Stadt | 15 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 Ländern | 220 Clubs in Deutschland und 4 in und um Wien |

@@ -104,7 +104,7 @@ ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we d
 
 <div class="kolom">
 
-- [Amsterdam](/nl/amsterdam/): meer dan 450 studio's en gyms
+- [Amsterdam](/nl/amsterdam/)
 - [Rotterdam](/nl/rotterdam/)
 - [Den Haag](/nl/den-haag/)
 - [Utrecht](/nl/utrecht/)

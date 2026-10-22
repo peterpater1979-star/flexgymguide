@@ -93,7 +93,7 @@ Trainierst du vor allem im Gym und mehrmals pro Woche? Dann schau dir auch [Fitn
 Pro Stadt stellen wir die Optionen nebeneinander:
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">Über 400 Studios und Gyms</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a></li>
 <li><a href="/de/hamburg/"><strong>Hamburg</strong></a></li>
 <li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a></li>
 <li><a href="/de/koeln/"><strong>Köln</strong></a></li>

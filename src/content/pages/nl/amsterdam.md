@@ -1,7 +1,7 @@
 ---
 title: "Flexibel sporten in Amsterdam: ClassPass, Trainmore en meer"
 path: "/nl/amsterdam/"
-description: "Flexibel sporten in Amsterdam: ClassPass met meer dan 450 studio's en gyms, Trainmore met 31 clubs of Urban Sports Club. Zo kies je wat bij je past."
+description: "Flexibel sporten in Amsterdam: ClassPass met studio's en gyms in de hele stad, Trainmore met 31 clubs of Urban Sports Club. Zo kies je wat bij je past."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
@@ -9,7 +9,7 @@ crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij meer dan 450 studio's en gyms terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
+Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij studio's en gyms in de hele stad terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
 
 <h2 id="kort">In het kort</h2>
 
@@ -62,7 +62,7 @@ Vast maandabonnement met check-ins bij partnerlocaties, ook in 7 Europese landen
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
 | **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104 per 4 weken, €1 korting per workout | Classic €75 per maand (10 check-ins), met jaarcontract €64 |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties. Per locatie dagelijks, 4 of 8 keer per kalendermaand, dat verschilt per locatie. Maximaal 1 check-in per locatie per dag |
-| **Locaties in Amsterdam** | Meer dan 450 studio's en gyms, van yoga tot fitness. Daarvan zijn er 50 gyms waar je zelf traint, zonder les | 31 clubs (53 in heel Nederland) | Partners in heel Amsterdam (14.800 in Europa met Classic) |
+| **Locaties in Amsterdam** | Studio's en gyms in de hele stad, van yoga tot fitness, ook gyms waar je zelf traint, zonder les | 31 clubs (53 in heel Nederland) | Partners in heel Amsterdam (14.800 in Europa met Classic) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app | Maandelijks opzegbaar tot 3 dagen voor de verlenging, of goedkoper met 1 of 2 jaar vast |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis (Essential, 3 check-ins) |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="ja" aria-hidden="true">✓</span> Ja, in 7 Europese landen |
