@@ -65,6 +65,7 @@ ClassPass est surtout présent dans ces villes :
 - Paris
 - Lyon
 - Marseille
+- Nice
 - Toulouse
 - Montpellier
 
