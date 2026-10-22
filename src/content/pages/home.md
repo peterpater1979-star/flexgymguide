@@ -33,8 +33,8 @@ Choose where you train to see your options.
 Each country has its own guide, in its own language, with local prices and providers.
 
 - **[Nederland](/nl/)** · In Dutch · ClassPass · sportscholen vergeleken
-- **[Deutschland](/de/)** · In German · ClassPass · Fitnessstudios im Vergleich
-- **[United Kingdom](/uk/)** · In English · ClassPass · gyms compared
+- **[Deutschland](/de/)** · In German · ClassPass · Fitness First
+- **[United Kingdom](/uk/)** · In English · ClassPass · Fitness First
 - **[France](/fr/)** · In French · ClassPass
 - **[España](/es/)** · In Spanish · ClassPass
 - **[Österreich](/at/)** · In German · ClassPass
@@ -83,7 +83,7 @@ A membership at one chain, with the gym floor and group classes, usually after a
 - Good if you want one fixed place
 - Usually only in one country
 
-Gym pass vs gym membership
+Gym pass or gym membership?
 
 </div>
 
@@ -112,7 +112,7 @@ All guides
 
 - **[How ClassPass works](/guides/how-classpass-works/)** · Credits, plans, and what to watch out for.
 - **Training abroad** · Which memberships work in other countries.
-- **Gym pass vs gym membership** · Which one saves you money?
+- **Gym pass or gym membership?** · What suits how you train.
 
 </div>
 

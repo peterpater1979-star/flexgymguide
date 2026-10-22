@@ -1,7 +1,7 @@
 ---
 title: "Flexibel sporten in Amsterdam: ClassPass, Trainmore en meer"
 path: "/nl/amsterdam/"
-description: "Flexibel sporten in Amsterdam: ClassPass met meer dan 450 studio's en gyms, Trainmore met 31 clubs of Urban Sports Club. Wij zetten de opties naast elkaar."
+description: "Flexibel sporten in Amsterdam: ClassPass met meer dan 450 studio's en gyms, Trainmore met 31 clubs of Urban Sports Club. Zo kies je wat bij je past."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
@@ -9,7 +9,7 @@ crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij meer dan 450 studio's en gyms terecht, of kiezen voor een sportschoolketen met een gratis proefles. Wij zetten de opties naast elkaar.
+Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij meer dan 450 studio's en gyms terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
 
 <h2 id="kort">In het kort</h2>
 
@@ -17,7 +17,7 @@ Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een 
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-classpass"><span>Beste voor afwisseling</span></div>
+<div class="fotokop foto-classpass"><span>Voor afwisseling</span></div>
 
 ### ClassPass
 
@@ -29,7 +29,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Beste voor vaste gymgangers</span></div>
+<div class="fotokop foto-gymketen"><span>Voor vaste gymgangers</span></div>
 
 ### Trainmore
 
@@ -47,13 +47,13 @@ Eigen clubs met gym en groepslessen: 31 in Amsterdam, 53 in heel Nederland.
 
 Vast maandabonnement met check-ins bij partnerlocaties, ook in 7 Europese landen. Classic kost €75 per maand en is maandelijks opzegbaar.
 
-[Lees de vergelijking](#vergelijking)
+[Bekijk de opties op een rij](#op-een-rij)
 
 </div>
 
 </div>
 
-<h2 id="vergelijking">ClassPass, Trainmore en Urban Sports Club vergeleken</h2>
+<h2 id="op-een-rij">ClassPass, Trainmore en Urban Sports Club op een rij</h2>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
 
@@ -238,7 +238,7 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 <details>
 <summary>Is Urban Sports Club een alternatief?</summary>
 
-Ja. Urban Sports Club werkt met een vast maandabonnement en check-ins bij partnerlocaties. Kijk in de [vergelijking hierboven](#vergelijking) voor de verschillen.
+Ja. Urban Sports Club werkt met een vast maandabonnement en check-ins bij partnerlocaties. Kijk in het [overzicht hierboven](#op-een-rij) voor de verschillen.
 
 </details>
 

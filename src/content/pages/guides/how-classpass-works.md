@@ -137,7 +137,7 @@ Read our full guide: Training abroad
 
 </div>
 
-Compare: Gym pass vs gym membership
+Gym pass or gym membership? (coming soon)
 
 </div>
 
@@ -184,5 +184,5 @@ We'll take you to the ClassPass offer for your country.
 ## More guides
 
 - **Training abroad** · Staying fit while you travel
-- **Gym pass vs gym membership** · Which one saves you money?
+- **Gym pass or gym membership?** · What suits how you train.
 - **ClassPass credits explained** · Getting the most from your plan

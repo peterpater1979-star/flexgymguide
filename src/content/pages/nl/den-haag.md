@@ -9,7 +9,7 @@ crumb: "Den Haag"
 kicker: "Stadsgids Den Haag"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Den Haag kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Wij zetten de opties naast elkaar.
+Geen zin in een jaarcontract bij één sportschool? In Den Haag kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
 
 <h2 id="kort">In het kort</h2>
 
@@ -17,7 +17,7 @@ Geen zin in een jaarcontract bij één sportschool? In Den Haag kun je met een s
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-classpass"><span>Beste voor afwisseling</span></div>
+<div class="fotokop foto-classpass"><span>Voor afwisseling</span></div>
 
 ### ClassPass
 
@@ -29,7 +29,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Beste voor vaste gymgangers</span></div>
+<div class="fotokop foto-gymketen"><span>Voor vaste gymgangers</span></div>
 
 ### Trainmore
 
@@ -41,7 +41,7 @@ Eigen clubs met gym en groepslessen: 3 in Den Haag, 53 in heel Nederland.
 
 </div>
 
-<h2 id="vergelijking">ClassPass en Trainmore vergeleken</h2>
+<h2 id="op-een-rij">ClassPass en Trainmore op een rij</h2>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
 

@@ -90,7 +90,7 @@ Mostly training in the gym, several times a week? Then also take a look at [Fitn
 
 <h2 id="cities">ClassPass in your city</h2>
 
-We compare the options city by city:
+Read more for your city:
 
 <ul class="stedenlijst">
 <li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">Studios and gyms across the city</span></li>

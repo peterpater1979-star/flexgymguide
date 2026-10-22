@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Berlin: ClassPass, Fitness First und mehr"
 path: "/de/berlin/"
-description: "Flexibel trainieren in Berlin: ClassPass mit über 400 Studios oder Fitness First mit 15 Clubs und kostenlosem Probetraining. Wir vergleichen die Optionen."
+description: "Flexibel trainieren in Berlin: ClassPass mit über 400 Studios oder Fitness First mit 15 Clubs und kostenlosem Probetraining. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -9,7 +9,7 @@ crumb: "Berlin"
 kicker: "Stadtguide Berlin"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in über 400 Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. Wir vergleichen die Optionen.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in über 400 Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -17,7 +17,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-classpass"><span>Am besten für Abwechslung</span></div>
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
 
 ### ClassPass
 
@@ -31,7 +31,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-fitness-first-de"><span>Am besten für Vieltrainierer</span></div>
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
 
 ### Fitness First
 
@@ -45,9 +45,9 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 </div>
 
-<div id="vergleich">
+<div id="ueberblick">
 
-## ClassPass und Fitness First im Vergleich
+## ClassPass und Fitness First auf einen Blick
 
 Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.
 
@@ -216,16 +216,7 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 - [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
 - [Flexibel trainieren in Leipzig](/de/leipzig/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
-- Flexibel trainieren in Wien (bald)
-
-</div>
-
-<div class="kolom">
-
-### Vergleiche
-
-- ClassPass oder Fitness First? (bald)
-- Fitnessstudio ohne Vertrag: alle Optionen (bald)
+- [Flexibel trainieren in Österreich](/at/)
 
 </div>
 

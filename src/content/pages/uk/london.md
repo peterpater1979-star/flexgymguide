@@ -1,7 +1,7 @@
 ---
 title: "Flexible fitness in London: ClassPass, Fitness First and more"
 path: "/uk/london/"
-description: "Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. We compare your options."
+description: "Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. Here's what suits you."
 lang: en
 land: uk
 byline: "Updated October 2026"
@@ -9,7 +9,7 @@ crumb: "London"
 kicker: "City guide London"
 ---
 
-Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. We compare your options.
+Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. Here's what suits you.
 
 <h2 id="glance">At a glance</h2>
 
@@ -17,7 +17,7 @@ Don't want to be tied to one gym? In London you can use a fitness pass at studio
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-classpass"><span>Best for variety</span></div>
+<div class="fotokop foto-classpass"><span>For variety</span></div>
 
 ### ClassPass
 
@@ -31,7 +31,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-fitness-first-uk"><span>Best for regular gym-goers</span></div>
+<div class="fotokop foto-fitness-first-uk"><span>For regular gym-goers</span></div>
 
 ### Fitness First
 
@@ -45,9 +45,9 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 </div>
 
-<div id="comparison">
+<div id="overview">
 
-## ClassPass and Fitness First compared
+## ClassPass and Fitness First at a glance
 
 Prices and terms change regularly. Always check the latest details with the provider.
 
@@ -212,15 +212,6 @@ That depends on your membership. You can use any club at your membership tier or
 - Flexible fitness in Manchester (coming soon)
 - Flexible fitness in Bristol (coming soon)
 - Flexible fitness in Edinburgh (coming soon)
-
-</div>
-
-<div class="kolom">
-
-### Comparisons
-
-- ClassPass vs Fitness First (coming soon)
-- Gyms without a contract: all options (coming soon)
 
 </div>
 

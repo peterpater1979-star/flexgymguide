@@ -47,7 +47,7 @@ Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscrip
 
 <h2 id="classpass">¿Urban Sports Club o ClassPass?</h2>
 
-Urban Sports Club funciona con un precio fijo al mes. [ClassPass](/es/classpass/) funciona con créditos: pagas según cuántas sesiones quieras hacer. Compara los dos según cuántas veces entrenas y qué centros tienes cerca.
+Urban Sports Club funciona con un precio fijo al mes. [ClassPass](/es/classpass/) funciona con créditos: pagas según cuántas sesiones quieras hacer. Elige según cuántas veces entrenas y qué centros tienes cerca.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://urbansportsclub.com/es">Web de Urban Sports Club</a>
