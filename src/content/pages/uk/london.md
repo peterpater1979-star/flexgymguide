@@ -66,7 +66,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | Feature | ClassPass | Fitness First | The Gym Group |
 | --- | --- | --- | --- |
 | **Type** | Fitness pass with credits | Gym chain | Low-cost gym chain |
-| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | From [PRICE] a month (Off-peak, Standard or Ultimate) |
+| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate |
 | **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below | Membership at your home gym, classes included. Ultimate adds access to other gyms |
 | **Locations in London** | Studios and gyms across the city | 17 clubs (26 in the UK) | 87 gyms (over 260 in the UK) |
 | **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost | No contract on monthly plans. Saver plans run 9 or 12 months |
