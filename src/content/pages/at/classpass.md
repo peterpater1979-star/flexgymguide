@@ -60,7 +60,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 
 <h2 id="staedte">Wo du ClassPass in Österreich nutzen kannst</h2>
 
-ClassPass hat in Österreich Partnerstudios in:
+In Österreich findest du die Studios von ClassPass in:
 
 - Wien
 

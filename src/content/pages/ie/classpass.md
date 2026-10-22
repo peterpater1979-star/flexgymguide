@@ -60,7 +60,7 @@ ClassPass is a fitness pass: you pay a monthly fee and get credits in return. Yo
 
 <h2 id="cities">Where you can use it in Ireland</h2>
 
-ClassPass has partner studios in several cities, including:
+These are the cities where you get the most choice with ClassPass:
 
 - Dublin
 - Cork

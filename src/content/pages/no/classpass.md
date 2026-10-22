@@ -60,7 +60,7 @@ ClassPass er et treningspass: Du betaler en månedspris og får kreditter i bytt
 
 <h2 id="steden">Her kan du bruke det i Norge</h2>
 
-ClassPass har partnerstudioer i og rundt:
+Med ClassPass har du mest å velge mellom i og rundt:
 
 - Oslo
 

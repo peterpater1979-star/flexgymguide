@@ -60,7 +60,7 @@ ClassPass on treenipassi: maksat kuukausimaksun ja saat sen vastineeksi krediitt
 
 <h2 id="steden">Missä sitä voi käyttää Suomessa</h2>
 
-ClassPassilla on yhteistyöstudioita useissa kaupungeissa, muun muassa:
+Näissä kaupungeissa sinulla on ClassPassin kanssa eniten valinnanvaraa:
 
 - Helsinki
 - Espoo

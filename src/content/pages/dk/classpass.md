@@ -60,7 +60,7 @@ ClassPass er et træningspas: Du betaler et månedligt beløb og får credits ti
 
 <h2 id="steden">Her kan du bruge det i Danmark</h2>
 
-ClassPass har partnerstudier i flere byer, blandt andet:
+Det er i disse byer, du har mest at vælge imellem med ClassPass:
 
 - København
 - Aarhus

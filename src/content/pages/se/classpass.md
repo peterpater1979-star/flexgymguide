@@ -60,7 +60,7 @@ ClassPass är ett träningspass: du betalar en månadsavgift och får krediter i
 
 <h2 id="steden">Här kan du använda det i Sverige</h2>
 
-ClassPass har partnerstudior i flera städer, bland annat:
+Det är i de här städerna du har störst utbud med ClassPass:
 
 - Stockholm
 - Göteborg
