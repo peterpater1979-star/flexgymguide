@@ -24,7 +24,7 @@ ClassPass is a fitness pass: you pay a monthly fee and get credits in return. Yo
 | **Type** | Fitness pass with credits |
 | **What you can do** | Yoga, Pilates, boxing, spinning, strength training, gym visits and more |
 | **Cancelling** | Any time, before your renewal date |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in over 2,500 cities in 29 countries |
+| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in over 2,500 cities in 31 countries |
 
 <p class="klein">Prices and terms change regularly. Always check the latest at ClassPass.</p>
 
@@ -64,6 +64,16 @@ These are the cities where you get the most choice with ClassPass:
 
 - Dublin
 - Cork
+
+<h2 id="abroad">ClassPass abroad</h2>
+
+Your plan also works outside Ireland, in more than 2,500 cities in 31 countries. So when you travel, you simply book a class with your credits. Prices and choice vary by country.
+
+**In Europe:** Austria · Belgium · Denmark · Finland · France · Germany · Ireland · Netherlands · Norway · Portugal · Spain · Sweden · Switzerland · United Kingdom
+
+**Outside Europe:** United States · Australia · Brazil · Canada · Chile · Hong Kong · India · Indonesia · Japan · Kuwait · Malaysia · New Zealand · Philippines · Qatar · Singapore · Thailand · United Arab Emirates
+
+<p class="klein">Based on ClassPass's own country list. Availability can change.</p>
 
 <div class="aanbieder">
 

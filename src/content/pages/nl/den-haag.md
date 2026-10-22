@@ -53,7 +53,7 @@ Eigen clubs met gym en groepslessen: 3 in Den Haag, 53 in heel Nederland.
 | **Locaties in Den Haag** | Gyms en studio's door de hele stad, van yoga tot fitness | 3 clubs (53 in heel Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
 | **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) |
 
 <div id="classpass" class="aanbieder">
@@ -72,7 +72,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 - Maandelijkse credits voor lessen en gymbezoeken
 - Studio's door heel Den Haag, van yoga tot boksen
-- Ook te gebruiken in meer dan 2.500 andere steden in 29 landen
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 

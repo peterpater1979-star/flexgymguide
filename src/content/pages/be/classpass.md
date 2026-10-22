@@ -24,7 +24,7 @@ ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credi
 | **Soort** | Sportpas met credits |
 | **Wat kun je doen** | Yoga, pilates, boksen, spinning, krachttraining, gymbezoeken en meer |
 | **Opzeggen** | Op elk moment, vóór je verlengingsdatum |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in meer dan 2.500 steden in 29 landen |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in meer dan 2.500 steden in 31 landen |
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij ClassPass.</p>
 
@@ -67,6 +67,16 @@ In deze steden heb je met ClassPass de meeste keuze:
 - Gent
 
 In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
+
+<h2 id="buitenland">ClassPass in het buitenland</h2>
+
+Je abonnement werkt ook buiten België, in meer dan 2.500 steden in 31 landen. Op reis boek je dus gewoon een les met je credits. Prijzen en aanbod verschillen per land.
+
+**In Europa:** Oostenrijk · België · Denemarken · Finland · Frankrijk · Duitsland · Ierland · Nederland · Noorwegen · Portugal · Spanje · Zweden · Zwitserland · Verenigd Koninkrijk
+
+**Buiten Europa:** Verenigde Staten · Australië · Brazilië · Canada · Chili · Hongkong · India · Indonesië · Japan · Koeweit · Maleisië · Nieuw-Zeeland · Filipijnen · Qatar · Singapore · Thailand · Verenigde Arabische Emiraten
+
+<p class="klein">Gebaseerd op de landenlijst van ClassPass. Het aanbod kan veranderen.</p>
 
 <div class="aanbieder">
 

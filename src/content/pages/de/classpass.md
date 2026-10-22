@@ -27,7 +27,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 | **Was du machen kannst** | Yoga, Pilates, Boxen, Spinning, Krafttraining, Gym-Besuche und mehr |
 | **Kündigung** | Jederzeit anpassbar, pausierbar oder kündbar |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 29 Ländern |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 31 Ländern |
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei ClassPass.</p>
 
@@ -107,7 +107,13 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 
 <h2 id="ausland">ClassPass im Ausland</h2>
 
-Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten in 29 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
+Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten in 31 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
+
+**In Europa:** Österreich · Belgien · Dänemark · Finnland · Frankreich · Deutschland · Irland · Niederlande · Norwegen · Portugal · Spanien · Schweden · Schweiz · Vereinigtes Königreich
+
+**Außerhalb Europas:** USA · Australien · Brasilien · Kanada · Chile · Hongkong · Indien · Indonesien · Japan · Kuwait · Malaysia · Neuseeland · Philippinen · Katar · Singapur · Thailand · Vereinigte Arabische Emirate
+
+<p class="klein">Laut der Länderliste von ClassPass. Das Angebot kann sich ändern.</p>
 
 <div class="aanbieder">
 
@@ -158,7 +164,7 @@ Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie in diesem M
 <details>
 <summary>Kann ich ClassPass im Ausland nutzen?</summary>
 
-Ja, überall dort, wo ClassPass aktiv ist: in über 2.500 Städten in 29 Ländern, zu den Preisen des jeweiligen Landes.
+Ja, überall dort, wo ClassPass aktiv ist: in über 2.500 Städten in 31 Ländern, zu den Preisen des jeweiligen Landes.
 
 </details>
 

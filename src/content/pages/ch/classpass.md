@@ -24,7 +24,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 | **Art** | Sportpass mit Credits |
 | **Was du machen kannst** | Yoga, Pilates, Boxen, Spinning, Krafttraining, Gym-Besuche und mehr |
 | **Kündigung** | Jederzeit, vor deinem Verlängerungsdatum |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 29 Ländern |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 31 Ländern |
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe den aktuellen Stand immer bei ClassPass.</p>
 
@@ -68,6 +68,16 @@ Die grösste Auswahl hast du mit ClassPass in diesen Städten:
 - Lausanne
 
 In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
+
+<h2 id="ausland">ClassPass im Ausland</h2>
+
+Dein Abo funktioniert auch ausserhalb der Schweiz, in über 2.500 Städten in 31 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
+
+**In Europa:** Österreich · Belgien · Dänemark · Finnland · Frankreich · Deutschland · Irland · Niederlande · Norwegen · Portugal · Spanien · Schweden · Schweiz · Vereinigtes Königreich
+
+**Ausserhalb Europas:** USA · Australien · Brasilien · Kanada · Chile · Hongkong · Indien · Indonesien · Japan · Kuwait · Malaysia · Neuseeland · Philippinen · Katar · Singapur · Thailand · Vereinigte Arabische Emirate
+
+<p class="klein">Laut der Länderliste von ClassPass. Das Angebot kann sich ändern.</p>
 
 <div class="aanbieder">
 

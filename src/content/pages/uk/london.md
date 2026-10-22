@@ -59,7 +59,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Locations in London** | Studios and gyms across the city | 17 clubs (26 in the UK) |
 | **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 29 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only |
+| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only |
 | **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) |
 
 </div>
@@ -80,7 +80,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 - Monthly credits for classes and gym visits
 - Studios all over London, from yoga to boxing
-- Use it in more than 2,500 other cities in 29 countries
+- Use it in more than 2,500 other cities in 31 countries
 
 ### Good for
 

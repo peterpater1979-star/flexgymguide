@@ -102,7 +102,7 @@ United Kingdom · Ireland · Netherlands · Belgium · Germany · Austria · Swi
 
 ### Rest of the world
 
-United States · Canada · Australia · New Zealand · Japan · Singapore · Hong Kong · Malaysia · Thailand · Indonesia · Philippines · India · United Arab Emirates · Brazil · Chile
+United States · Canada · Australia · New Zealand · Japan · Singapore · Hong Kong · Malaysia · Thailand · Indonesia · Philippines · India · United Arab Emirates · Qatar · Kuwait · Brazil · Chile
 
 <p class="klein">Based on ClassPass's own country list. Availability can change.</p>
 

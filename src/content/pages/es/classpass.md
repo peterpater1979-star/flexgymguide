@@ -24,7 +24,7 @@ ClassPass es un pase deportivo: pagas una cuota mensual y recibes créditos. Los
 | **Tipo** | Pase deportivo con créditos |
 | **Actividades** | Yoga, pilates, boxeo, spinning, fuerza, gimnasio y más |
 | **Baja** | En cualquier momento, antes de la fecha de renovación |
-| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en más de 2.500 ciudades de 29 países |
+| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en más de 2.500 ciudades de 31 países |
 
 <p class="klein">Los precios y condiciones cambian con frecuencia. Consulta siempre la información actual en la web de ClassPass.</p>
 
@@ -74,6 +74,16 @@ Donde más opciones tienes con ClassPass es en estas ciudades:
 - Palma de Mallorca
 
 En la app ves qué estudios y gimnasios participan cerca de ti.
+
+<h2 id="extranjero">ClassPass en el extranjero</h2>
+
+Tu suscripción también funciona fuera de España, en más de 2.500 ciudades de 31 países. De viaje, reservas una clase con tus créditos sin más. Los precios y la oferta varían según el país.
+
+**En Europa:** Austria · Bélgica · Dinamarca · Finlandia · Francia · Alemania · Irlanda · Países Bajos · Noruega · Portugal · España · Suecia · Suiza · Reino Unido
+
+**Fuera de Europa:** Estados Unidos · Australia · Brasil · Canadá · Chile · Hong Kong · India · Indonesia · Japón · Kuwait · Malasia · Nueva Zelanda · Filipinas · Catar · Singapur · Tailandia · Emiratos Árabes Unidos
+
+<p class="klein">Según la lista de países de ClassPass. La oferta puede cambiar.</p>
 
 <div class="aanbieder">
 

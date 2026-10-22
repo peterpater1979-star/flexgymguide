@@ -24,7 +24,7 @@ ClassPass är ett träningspass: du betalar en månadsavgift och får krediter i
 | **Typ** | Träningspass med krediter |
 | **Det här kan du göra** | Yoga, pilates, boxning, spinning, styrketräning, gymbesök och mycket mer |
 | **Uppsägning** | När som helst, före ditt förnyelsedatum |
-| **Utomlands** | <span class="ja" aria-hidden="true">✓</span> Ja, i över 2 500 städer i 29 länder |
+| **Utomlands** | <span class="ja" aria-hidden="true">✓</span> Ja, i över 2 500 städer i 31 länder |
 
 <p class="klein">Priser och villkor ändras regelbundet. Kontrollera alltid aktuell information hos ClassPass.</p>
 
@@ -65,6 +65,16 @@ Det är i de här städerna du har störst utbud med ClassPass:
 - Stockholm
 - Göteborg
 - Malmö
+
+<h2 id="utomlands">ClassPass utomlands</h2>
+
+Ditt abonnemang fungerar även utanför Sverige, i över 2 500 städer i 31 länder. På resan bokar du bara ett pass med dina krediter. Priser och utbud varierar mellan länderna.
+
+**I Europa:** Österrike · Belgien · Danmark · Finland · Frankrike · Tyskland · Irland · Nederländerna · Norge · Portugal · Spanien · Sverige · Schweiz · Storbritannien
+
+**Utanför Europa:** USA · Australien · Brasilien · Kanada · Chile · Hongkong · Indien · Indonesien · Japan · Kuwait · Malaysia · Nya Zeeland · Filippinerna · Qatar · Singapore · Thailand · Förenade Arabemiraten
+
+<p class="klein">Baserat på ClassPass egen landslista. Utbudet kan ändras.</p>
 
 <div class="aanbieder">
 

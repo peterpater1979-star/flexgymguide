@@ -65,7 +65,7 @@ Vast maandabonnement met check-ins bij partnerlocaties. Classic kost €75 per m
 | **Locaties in Amsterdam** | Studio's en gyms in de hele stad, van yoga tot fitness, ook gyms waar je zelf traint, zonder les | 31 clubs (53 in heel Nederland) | Partners in heel Amsterdam |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app | Maandelijks opzegbaar tot 3 dagen voor de verlenging, of goedkoper met 1 of 2 jaar vast |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis (Essential, 3 check-ins) |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="ja" aria-hidden="true">✓</span> Ja, in 7 Europese landen |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="ja" aria-hidden="true">✓</span> Ja, in 7 Europese landen |
 | **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) | [Website Urban Sports Club](https://urbansportsclub.com/nl/prices/amsterdam?duration=monthly) |
 
 <div id="classpass" class="aanbieder">
@@ -84,7 +84,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 - Maandelijkse credits voor lessen en gymbezoeken
 - Studio's door heel Amsterdam, van yoga tot boksen
-- Ook te gebruiken in meer dan 2.500 andere steden in 29 landen
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 

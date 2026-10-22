@@ -24,7 +24,7 @@ ClassPass er et træningspas: Du betaler et månedligt beløb og får credits ti
 | **Type** | Træningspas med credits |
 | **Det kan du** | Yoga, pilates, boksning, spinning, styrketræning, fitness og meget mere |
 | **Opsigelse** | Når som helst, før din fornyelsesdato |
-| **I udlandet** | <span class="ja" aria-hidden="true">✓</span> Ja, i over 2.500 byer i 29 lande |
+| **I udlandet** | <span class="ja" aria-hidden="true">✓</span> Ja, i over 2.500 byer i 31 lande |
 
 <p class="klein">Priser og vilkår ændres jævnligt. Tjek altid de aktuelle oplysninger hos ClassPass.</p>
 
@@ -64,6 +64,16 @@ Det er i disse byer, du har mest at vælge imellem med ClassPass:
 
 - København
 - Aarhus
+
+<h2 id="udlandet">ClassPass i udlandet</h2>
+
+Dit abonnement virker også uden for Danmark, i over 2.500 byer i 31 lande. På rejsen booker du bare en time med dine credits. Priser og udvalg varierer fra land til land.
+
+**I Europa:** Østrig · Belgien · Danmark · Finland · Frankrig · Tyskland · Irland · Holland · Norge · Portugal · Spanien · Sverige · Schweiz · Storbritannien
+
+**Uden for Europa:** USA · Australien · Brasilien · Canada · Chile · Hongkong · Indien · Indonesien · Japan · Kuwait · Malaysia · New Zealand · Filippinerne · Qatar · Singapore · Thailand · De Forenede Arabiske Emirater
+
+<p class="klein">Baseret på ClassPass' egen landeliste. Udvalget kan ændre sig.</p>
 
 <div class="aanbieder">
 

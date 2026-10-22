@@ -59,7 +59,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Standorte in München** | Studios und Gyms in der ganzen Stadt | 8 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 Ländern | 220 Clubs in Deutschland und 4 in und um Wien |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 4 in und um Wien |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
 
 </div>
@@ -80,7 +80,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 - Monatliche Credits für Kurse und Gym-Besuche
 - Studios in ganz München, von Yoga bis Boxen
-- Auch in über 2.500 anderen Städten in 29 Ländern nutzbar
+- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für
 

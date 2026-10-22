@@ -24,7 +24,7 @@ ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des c
 | **Type** | Pass sport avec crédits |
 | **Activités** | Yoga, pilates, boxe, spinning, musculation, salle de sport et plus |
 | **Résiliation** | À tout moment, avant la date de renouvellement |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans plus de 2 500 villes et 29 pays |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans plus de 2 500 villes et 31 pays |
 
 <p class="klein">Les prix et conditions changent régulièrement. Vérifie toujours la situation actuelle sur le site de ClassPass.</p>
 
@@ -77,6 +77,16 @@ C’est dans ces villes que tu as le plus de choix avec ClassPass :
 - Cannes
 
 On trouve aussi des studios dans de plus petites villes et en périphérie. Dans l’application, tu vois quels studios et salles participent près de chez toi.
+
+<h2 id="etranger">ClassPass à l’étranger</h2>
+
+Ton abonnement fonctionne aussi hors de France, dans plus de 2 500 villes et 31 pays. En voyage, tu réserves simplement un cours avec tes crédits. Les prix et l’offre varient selon le pays.
+
+**En Europe :** Autriche · Belgique · Danemark · Finlande · France · Allemagne · Irlande · Pays-Bas · Norvège · Portugal · Espagne · Suède · Suisse · Royaume-Uni
+
+**Hors d’Europe :** États-Unis · Australie · Brésil · Canada · Chili · Hong Kong · Inde · Indonésie · Japon · Koweït · Malaisie · Nouvelle-Zélande · Philippines · Qatar · Singapour · Thaïlande · Émirats arabes unis
+
+<p class="klein">D’après la liste des pays de ClassPass. L’offre peut évoluer.</p>
 
 <div class="aanbieder">
 
