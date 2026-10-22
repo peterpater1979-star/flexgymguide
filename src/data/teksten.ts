@@ -13,7 +13,6 @@ export const teksten = {
       { label: 'Contact', href: '/contact/' },
       { label: 'Privacy', href: '/privacy/#nl' },
       { label: 'Advertentiemelding', href: '/disclosure/#nl' },
-      { label: 'Impressum', href: '/impressum/' },
     ],
     tip: {
       titel: 'Tip of ervaring delen',
