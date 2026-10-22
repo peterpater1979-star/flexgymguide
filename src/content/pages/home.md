@@ -48,7 +48,7 @@ Each country has its own guide, in its own language, with local prices and provi
 - **[Suomi](/fi/)** · In Finnish · ClassPass
 - **[Other countries](#guides)** · In English · ClassPass works in 31 countries
 
-<p class="klein">ClassPass also works outside Europe, in United States, Canada, Brazil, Chile, Australia, New Zealand, Japan, Hong Kong, Singapore, Thailand, Malaysia, the Philippines, Indonesia, India, the United Arab Emirates, Qatar and Kuwait.</p>
+<p class="klein">ClassPass also works outside Europe, in the United States, Canada, Brazil, Chile, Australia, New Zealand, Japan, Hong Kong, Singapore, Thailand, Malaysia, the Philippines, Indonesia, India, the United Arab Emirates, Qatar and Kuwait.</p>
 
 </div>
 
