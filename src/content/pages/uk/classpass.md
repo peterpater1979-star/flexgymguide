@@ -95,6 +95,10 @@ Read more for your city:
 <ul class="stedenlijst">
 <li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">Studios and gyms across the city</span></li>
 <li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">Studios in the city centre, Chorlton and Salford</span></li>
+<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">Studios in the city centre, Finnieston and the Southside</span></li>
+<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">Studios in the city centre, Chapel Allerton and Kirkstall</span></li>
+<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">Studios in the city and on the Wirral</span></li>
+<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">A smaller choice, for example in Harborne and Edgbaston</span></li>
 </ul>
 
 <h2 id="abroad">ClassPass abroad</h2>

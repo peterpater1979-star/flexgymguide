@@ -72,6 +72,10 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 <ul class="stedenlijst">
 <li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group</span></li>
 <li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
 <li><strong>Bristol</strong> <span class="klein">Coming soon</span></li>
 <li><strong>Edinburgh</strong> <span class="klein">Coming soon</span></li>
 <li><strong>Brighton</strong> <span class="klein">Coming soon</span></li>

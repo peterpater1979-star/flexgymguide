@@ -222,8 +222,8 @@ That depends on your membership. You can use any club at your membership tier or
 ### Other cities
 
 - [Flexible fitness in Manchester](/uk/manchester/)
-- Flexible fitness in Bristol (coming soon)
-- Flexible fitness in Edinburgh (coming soon)
+- [Flexible fitness in Birmingham](/uk/birmingham/)
+- [Flexible fitness in Glasgow](/uk/glasgow/)
 
 </div>
 
