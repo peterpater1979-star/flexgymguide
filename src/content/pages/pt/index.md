@@ -1,7 +1,7 @@
 ---
 title: "Treinar sem fidelização em Portugal"
 path: "/pt/"
-description: "Queres fazer desporto sem um contrato longo num só ginásio? Com o ClassPass, uma única subscrição dá acesso a estúdios e ginásios em Lisboa. Vê como funciona."
+description: "Queres fazer desporto sem um contrato longo num só ginásio? Com o ClassPass, uma única subscrição dá acesso a estúdios e ginásios em Lisboa e no Porto. Vê como funciona."
 lang: pt
 land: pt
 byline: "Atualizado em outubro de 2026"
@@ -44,7 +44,7 @@ Uma subscrição com créditos para ioga, pilates, boxe, spinning e ginásio, em
 
 ### Onde funciona?
 
-O ClassPass tem estúdios parceiros em Lisboa e noutras cidades portuguesas.
+O ClassPass tem estúdios parceiros em Lisboa, no Porto e noutras cidades portuguesas.
 
 Na app vês que estúdios e ginásios participam perto de ti.
 
