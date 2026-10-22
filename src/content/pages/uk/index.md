@@ -53,13 +53,15 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Also worth knowing</span></div>
+<div class="fotokop foto-gymketen"><span>Low-cost gym</span></div>
 
 ### The Gym Group
 
 Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across the UK, with classes included.
 
-[Visit The Gym Group](https://www.thegymgroup.com/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
+</div>
 
 </div>
 

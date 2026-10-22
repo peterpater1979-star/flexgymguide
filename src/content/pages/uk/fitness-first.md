@@ -160,6 +160,7 @@ Yes, with a guest pass you can visit a club first.
 
 - [Flexible fitness in the UK](/uk/)
 - [ClassPass](/uk/classpass/)
+- [The Gym Group](/uk/the-gym-group/)
 
 </div>
 

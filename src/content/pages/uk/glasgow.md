@@ -60,7 +60,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Cancelling** | Change or cancel any time | No contract on monthly plans. Saver plans run 9 or 12 months |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Day pass |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only |
-| **Find out more** | [All about ClassPass](/uk/classpass/) | [Website The Gym Group](https://www.thegymgroup.com/) |
+| **Find out more** | [All about ClassPass](/uk/classpass/) | [All about The Gym Group](/uk/the-gym-group/) |
 
 </div>
 
@@ -128,7 +128,7 @@ The Gym Group has 7 gyms in Glasgow, including Glasgow City, Bothwell Street, An
 - 24/7 access is not available at every gym
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.thegymgroup.com/">Website The Gym Group</a>
+<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>
 
 </div>
