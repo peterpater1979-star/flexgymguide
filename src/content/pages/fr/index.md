@@ -44,7 +44,7 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 
 ### Urban Sports Club
 
-Un abonnement mensuel fixe avec des check-ins chez des salles et studios partenaires, pour la salle de sport, les cours et plus encore. Il fonctionne aussi dans d’autres pays européens.
+Un abonnement mensuel fixe avec des check-ins chez des salles et studios partenaires, pour la salle de sport, les cours et plus encore.
 
 - Idéal si tu veux un prix fixe par mois
 - Idéal si tu t’entraînes souvent dans des lieux partenaires
