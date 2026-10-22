@@ -70,8 +70,8 @@ ClassPass está sobre todo en estas ciudades e islas:
 - Marbella
 - Alicante
 - Bilbao
-- Ibiza
-- Mallorca
+- Ibiza ciudad
+- Palma de Mallorca
 
 En la app ves qué estudios y gimnasios participan cerca de ti.
 

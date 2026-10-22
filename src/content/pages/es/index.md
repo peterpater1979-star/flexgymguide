@@ -61,7 +61,7 @@ Una cuota mensual fija con check-ins en gimnasios y estudios asociados, para gim
 
 ## ¿Dónde funciona?
 
-ClassPass tiene estudios asociados en las grandes ciudades españolas y en las islas, entre ellas Madrid, Barcelona, Valencia, Sevilla, Málaga, Marbella, Alicante, Bilbao, Ibiza y Mallorca. En la app ves qué estudios y gimnasios participan cerca de ti.
+ClassPass tiene estudios asociados en las grandes ciudades españolas y en las islas, entre ellas Madrid, Barcelona, Valencia, Sevilla, Málaga, Marbella, Alicante, Bilbao, Ibiza ciudad y Palma de Mallorca. En la app ves qué estudios y gimnasios participan cerca de ti.
 
 </div>
 
