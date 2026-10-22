@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Österreich"
 path: "/at/"
-description: "Ohne langen Vertrag in einem einzigen Studio trainieren? Mit ClassPass trainierst du mit einem Abo in Studios und Gyms in Wien. So funktioniert es."
+description: "Ohne langen Vertrag in einem einzigen Studio trainieren? Mit ClassPass trainierst du mit einem Abo in Studios und Gyms in Wien, Graz, Salzburg und Innsbruck. So funktioniert es."
 lang: de
 land: at
 byline: "Aktualisiert im Oktober 2026"
@@ -44,9 +44,12 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 ### Wo funktioniert es?
 
-ClassPass hat Partnerstudios in Wien, unter anderem:
+ClassPass hat Partnerstudios in mehreren Städten, unter anderem:
 
 - Wien
+- Graz
+- Salzburg
+- Innsbruck
 
 In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 

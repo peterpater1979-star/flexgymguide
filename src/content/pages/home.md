@@ -32,7 +32,7 @@ Choose where you train to see your options.
 
 Each country has its own guide, in its own language, with local prices and providers.
 
-- **[Nederland](/nl/)** · In Dutch · ClassPass · sportscholen vergeleken
+- **[Nederland](/nl/)** · In Dutch · ClassPass · Trainmore
 - **[Deutschland](/de/)** · In German · ClassPass · Fitness First
 - **[United Kingdom](/uk/)** · In English · ClassPass · Fitness First
 - **[France](/fr/)** · In French · ClassPass
@@ -41,9 +41,14 @@ Each country has its own guide, in its own language, with local prices and provi
 - **[Schweiz](/ch/)** · In German · ClassPass
 - **[België](/be/)** · In Dutch · ClassPass
 - **[Portugal](/pt/)** · In Portuguese · ClassPass
+- **[Ireland](/ie/)** · In English · ClassPass
+- **[Denmark](/dk/)** · In English · ClassPass
+- **[Sweden](/se/)** · In English · ClassPass
+- **[Norway](/no/)** · In English · ClassPass
+- **[Finland](/fi/)** · In English · ClassPass
 - **[Other countries](#guides)** · In English · ClassPass works in 29 countries
 
-<p class="klein">More countries coming: Ireland.</p>
+<p class="klein">Coming soon, outside Europe: United States, Canada, Brazil, Chile, Australia, New Zealand, Japan, Hong Kong, Singapore, Thailand, Malaysia, the Philippines, Indonesia, India, the United Arab Emirates, Qatar and Kuwait.</p>
 
 </div>
 
