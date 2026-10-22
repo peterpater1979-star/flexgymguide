@@ -60,7 +60,7 @@ ClassPass es un pase deportivo: pagas una cuota mensual y recibes créditos. Los
 
 <h2 id="ciudades">Dónde usar ClassPass en España</h2>
 
-ClassPass está sobre todo en estas ciudades e islas:
+ClassPass está sobre todo en estas ciudades:
 
 - Madrid
 - Barcelona
