@@ -56,7 +56,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Type** | Fitness pass with credits | Low-cost gym chain |
 | **Price per month** | Depends on the number of credits | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate |
 | **How it works** | Monthly credits for classes and gym visits | Membership at your home gym, classes included. Ultimate adds access to other gyms |
-| **Locations in Birmingham** | A smaller choice of studios, for example in Harborne and Edgbaston | 9 gyms (over 260 in the UK) |
+| **Locations in Birmingham** | Studios and gyms in the city centre, the Jewellery Quarter, Digbeth, Edgbaston, Harborne and beyond | 9 gyms (over 260 in the UK) |
 | **Cancelling** | Change or cancel any time | No contract on monthly plans. Saver plans run 9 or 12 months |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Day pass |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only |
@@ -74,12 +74,13 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 ## ClassPass in Birmingham
 
-With ClassPass you get monthly credits to book classes and gym visits. The choice in Birmingham is still smaller than in London or Birmingham, so check the app for studios near you before you sign up.
+With ClassPass you get monthly credits to book classes and gym visits at studios and gyms across the city. Ideal if you like variety and don't want to commit to one place.
 
 ### What you get
 
 - Monthly credits for classes and gym visits
-- Studios in Harborne, Edgbaston and a few other areas
+- Reformer Pilates, yoga, boxing and gyms in the city centre, the Jewellery Quarter, Digbeth, Edgbaston and Harborne
+- Also studios in Solihull, Sutton Coldfield and the wider West Midlands
 - Use it in more than 2,500 other cities in 31 countries
 
 ### Good for
