@@ -56,7 +56,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Type** | Fitness pass with credits | Low-cost gym chain |
 | **Price per month** | Depends on the number of credits | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate |
 | **How it works** | Monthly credits for classes and gym visits | Membership at your home gym, classes included. Ultimate adds access to other gyms |
-| **Locations in Nottingham** | Studios and gyms in the Lace Market, West Bridgford and beyond | 5 gyms (over 260 in the UK) |
+| **Locations in Nottingham** | Studios and gyms in the Lace Market, West Bridgford, Lenton, Mapperley and beyond | 5 gyms (over 260 in the UK) |
 | **Cancelling** | Change or cancel any time | No contract on monthly plans. Saver plans run 9 or 12 months |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Day pass |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only |
@@ -79,7 +79,8 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 ### What you get
 
 - Monthly credits for classes and gym visits
-- Studios and gyms in the city centre, the Lace Market and West Bridgford
+- Reformer Pilates in West Bridgford and the Lace Market, F45 at the Waterside and pole fitness in the city
+- Also gyms in Lenton, Mapperley, Colwick and the rest of Nottingham
 - Use it in more than 2,500 other cities in 31 countries
 
 ### Good for
