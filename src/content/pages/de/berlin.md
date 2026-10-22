@@ -232,14 +232,5 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 
 </div>
 
-### Woanders unterwegs?
-
-ClassPass gibt es in 29 Ländern. Wähle dein Land für die passenden Preise und Bedingungen.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/">Nederland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Andere Länder (EN)</a>
-</div>
 
 </details>

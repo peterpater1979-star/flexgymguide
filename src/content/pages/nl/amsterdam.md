@@ -281,14 +281,5 @@ Ja. Urban Sports Club werkt met een vast maandabonnement en check-ins bij partne
 
 </div>
 
-### Train je ergens anders?
-
-ClassPass werkt in 29 landen. Kies je land voor de juiste prijzen en voorwaarden.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Andere landen (EN)</a>
-</div>
 
 </details>

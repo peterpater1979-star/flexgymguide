@@ -109,12 +109,6 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 
 Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten in 29 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
 
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/">Nederland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works (EN)</a>
-</div>
-
 <div class="aanbieder">
 
 <p class="kicker">Ausprobieren</p>

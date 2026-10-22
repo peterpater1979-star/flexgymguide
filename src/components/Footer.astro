@@ -16,7 +16,7 @@ const year = new Date().getFullYear();
       <p>{t.melding} <a href={t.meldingHref}>{t.meldingLink}</a></p>
     </div>
   </div>
-  <nav class="wrap landen" aria-label={landenKop}>
+  <nav class="wrap landen" id="landen" aria-label={landenKop}>
     <strong>{landenKop}</strong>
     <ul>{menu.main.map((m) => <li><a href={m.href}>{m.label}</a></li>)}</ul>
   </nav>

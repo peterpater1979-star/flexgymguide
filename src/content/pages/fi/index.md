@@ -115,13 +115,3 @@ Kyllä. Krediittisi toimivat kaikissa maissa, joissa ClassPass on saatavilla, ku
 
 </details>
 
-## Treenaatko muualla?
-
-ClassPass toimii 29 maassa. Valitse maasi, niin näet oikeat hinnat ja ehdot.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/se/">Sverige</a>
-<a class="knop knop-rand" href="/no/">Norge</a>
-<a class="knop knop-rand" href="/dk/">Danmark</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Muut maat</a>
-</div>

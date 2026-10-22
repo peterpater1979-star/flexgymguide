@@ -115,13 +115,3 @@ Ja. Je credits werken in elk land waar ClassPass actief is, tegen de prijzen van
 
 </details>
 
-## Ergens anders sporten?
-
-ClassPass werkt in 29 landen. Kies je land voor de juiste prijzen en voorwaarden.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/">Nederland</a>
-<a class="knop knop-rand" href="/fr/">France</a>
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Andere landen</a>
-</div>

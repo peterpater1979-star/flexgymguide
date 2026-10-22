@@ -126,12 +126,6 @@ ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we d
 
 Je abonnement werkt ook buiten Nederland, in meer dan 2.500 steden in 29 landen. Op reis kun je dus gewoon een les boeken met je credits. Prijzen en het aanbod verschillen per land.
 
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works (EN)</a>
-</div>
-
 <div class="aanbieder">
 
 <p class="kicker">Uitproberen</p>

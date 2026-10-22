@@ -131,12 +131,3 @@ Yes. Your credits work in every country where ClassPass is active, at that count
 
 </details>
 
-## Training somewhere else?
-
-ClassPass works in 29 countries. Choose your country for the right prices and terms.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/">Nederland</a>
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Other countries</a>
-</div>

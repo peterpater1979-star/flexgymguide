@@ -114,13 +114,3 @@ Ja. Dine credits fungerer i alle lande, hvor ClassPass findes, til det enkelte l
 
 </details>
 
-## Træne et andet sted?
-
-ClassPass findes i 29 lande. Vælg dit land for at se de rigtige priser og vilkår.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/se/">Sverige</a>
-<a class="knop knop-rand" href="/no/">Norge</a>
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Andre lande</a>
-</div>

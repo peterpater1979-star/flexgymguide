@@ -1,7 +1,7 @@
 ---
 import menu from '../data/menu.json';
 const { land = 'global', lang = 'en' } = Astro.props;
-// Geen landenlijst in de kop: bezoekers komen op hun eigen land binnen. Andere landen staan op de homepage en onderaan elke pagina.
+// Geen landenlijst in de kop: bezoekers komen op hun eigen land binnen. "Andere landen" springt naar de landenlijst in de footer (de homepage zou de browser doorsturen naar het eigen land).
 const landenLabel = { nl: 'Andere landen', de: 'Andere Länder', en: 'Other countries', fr: 'Autres pays', es: 'Otros países', pt: 'Outros países', da: 'Andre lande', sv: 'Andra länder', nb: 'Andre land', fi: 'Muut maat' }[lang as 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt' | 'da' | 'sv' | 'nb' | 'fi'];
 const huidig = menu.main.find((m) => m.land === land);
 const pad = Astro.url.pathname;
@@ -14,7 +14,7 @@ const toonSteden = huidig && huidig.children.length > 0 && pad !== huidig.href;
     <nav aria-label="Main">
       <ul>
         {huidig && <li><a href={huidig.href} aria-current="true">{huidig.label}</a></li>}
-        <li><a class="landen" href="/#countries">{landenLabel}</a></li>
+        <li><a class="landen" href="#landen">{landenLabel}</a></li>
       </ul>
     </nav>
   </div>

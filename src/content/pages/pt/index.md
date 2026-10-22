@@ -111,13 +111,3 @@ Sim. Os teus créditos funcionam em todos os países onde o ClassPass está pres
 
 </details>
 
-## Treinas noutro lado?
-
-O ClassPass está presente em 29 países. Escolhe o teu país para ver os preços e condições certos.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/">España</a>
-<a class="knop knop-rand" href="/fr/">France</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Outros países</a>
-</div>
