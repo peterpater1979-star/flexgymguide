@@ -65,6 +65,7 @@ ClassPass ist vor allem in diesen Städten aktiv:
 - Zürich
 - Genf
 - Basel
+- Lausanne
 
 In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 

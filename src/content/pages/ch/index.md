@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in der Schweiz"
 path: "/ch/"
-description: "Ohne langen Vertrag in einem einzigen Studio trainieren? Mit ClassPass trainierst du mit einem Abo in Studios und Gyms in Zürich, Genf und Basel. So funktioniert es."
+description: "Ohne langen Vertrag in einem einzigen Studio trainieren? Mit ClassPass trainierst du mit einem Abo in Studios und Gyms in Genf, Zürich, Basel und Lausanne. So funktioniert es."
 lang: de
 land: ch
 byline: "Aktualisiert im Oktober 2026"
@@ -49,6 +49,7 @@ ClassPass hat Partnerstudios in den größeren Schweizer Städten, unter anderem
 - Zürich
 - Genf
 - Basel
+- Lausanne
 
 In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 
