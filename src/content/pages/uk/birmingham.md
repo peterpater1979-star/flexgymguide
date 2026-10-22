@@ -202,6 +202,7 @@ Not on monthly plans. Saver plans run for 9 or 12 months in exchange for a lower
 
 - [Flexible fitness in London](/uk/london/)
 - [Flexible fitness in Manchester](/uk/manchester/)
+- [Flexible fitness in Nottingham](/uk/nottingham/)
 - [All about ClassPass](/uk/classpass/)
 - [How ClassPass works](/guides/how-classpass-works/)
 
