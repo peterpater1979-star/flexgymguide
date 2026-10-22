@@ -64,6 +64,12 @@ ClassPass está sobre todo en estas ciudades e islas:
 
 - Madrid
 - Barcelona
+- Valencia
+- Sevilla
+- Málaga
+- Marbella
+- Alicante
+- Bilbao
 - Ibiza
 - Mallorca
 
