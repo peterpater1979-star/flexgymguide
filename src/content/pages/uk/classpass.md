@@ -94,6 +94,7 @@ Read more for your city:
 
 <ul class="stedenlijst">
 <li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">Studios and gyms across the city</span></li>
+<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">Studios in the city centre, Chorlton and Salford</span></li>
 </ul>
 
 <h2 id="abroad">ClassPass abroad</h2>
