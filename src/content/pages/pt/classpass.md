@@ -60,7 +60,7 @@ O ClassPass é um passe desportivo: pagas uma mensalidade e recebes créditos. U
 
 <h2 id="cidades">Onde usar o ClassPass em Portugal</h2>
 
-O ClassPass está sobretudo presente nestas cidades:
+É nestas cidades que tens mais escolha com o ClassPass:
 
 - Lisboa
 - Porto

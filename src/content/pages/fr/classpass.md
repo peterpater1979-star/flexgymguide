@@ -60,7 +60,7 @@ ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des c
 
 <h2 id="villes">Où utiliser ClassPass en France</h2>
 
-ClassPass est surtout présent dans ces villes :
+C’est dans ces villes que tu as le plus de choix avec ClassPass :
 
 - Paris
 - Lyon
