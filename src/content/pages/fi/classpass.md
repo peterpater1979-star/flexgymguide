@@ -11,10 +11,10 @@ kicker: "Treenipassi"
 
 <div class="fotobanner foto-classpass" role="img" aria-label="Ryhmäliikuntatunti"></div>
 
-ClassPass on treenipassi: maksatte kuukausimaksun ja saatte sen vastineeksi krediittejä. Niillä varaatte tunteja ja kuntosalikäyntejä yhteistyöstudioissa ja -kuntosaleilla. Näin ette ole sidottuja yhteen paikkaan tai lajiin.
+ClassPass on treenipassi: maksat kuukausimaksun ja saat sen vastineeksi krediittejä. Niillä varaat tunteja ja kuntosalikäyntejä yhteistyöstudioissa ja -kuntosaleilla. Näin et ole sidottu yhteen paikkaan tai lajiin.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-classpass">Tutustukaa ClassPassiin</a>
+<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-classpass">Tutustu ClassPassiin</a>
 </div>
 
 <h2 id="kort">Lyhyesti</h2>
@@ -22,18 +22,18 @@ ClassPass on treenipassi: maksatte kuukausimaksun ja saatte sen vastineeksi kred
 | | ClassPass |
 | --- | --- |
 | **Tyyppi** | Treenipassi krediiteillä |
-| **Mitä voitte tehdä** | Joogaa, pilatesta, nyrkkeilyä, spinningiä, voimaharjoittelua, kuntosalikäyntejä ja paljon muuta |
+| **Mitä voit tehdä** | Joogaa, pilatesta, nyrkkeilyä, spinningiä, voimaharjoittelua, kuntosalikäyntejä ja paljon muuta |
 | **Irtisanominen** | Milloin tahansa ennen uusiutumispäivää |
 | **Ulkomailla** | <span class="ja" aria-hidden="true">✓</span> Kyllä, yli 2 500 kaupungissa 29 maassa |
 
-<p class="klein">Hinnat ja ehdot muuttuvat säännöllisesti. Tarkistakaa ajankohtaiset tiedot aina ClassPassilta.</p>
+<p class="klein">Hinnat ja ehdot muuttuvat säännöllisesti. Tarkista ajankohtaiset tiedot aina ClassPassilta.</p>
 
 <h2 id="werking">Näin ClassPass toimii</h2>
 
-1. Valitsette jäsenyyden, jossa on kiinteä määrä krediittejä kuukaudessa.
-2. Sovelluksesta tai verkkosivuilta etsitte tunnin tai kuntosalin läheltänne.
-3. Varaatte krediiteillänne. Näette ennen varausta, montako krediittiä tunti maksaa.
-4. Saatte uudet krediitit joka kuukausi.
+1. Valitset jäsenyyden, jossa on kiinteä määrä krediittejä kuukaudessa.
+2. Sovelluksesta tai verkkosivuilta etsit tunnin tai kuntosalin läheltäsi.
+3. Varaat krediiteilläsi. Näet ennen varausta, montako krediittiä tunti maksaa.
+4. Saat uudet krediitit joka kuukausi.
 
 <div class="kolommen">
 
@@ -41,9 +41,9 @@ ClassPass on treenipassi: maksatte kuukausimaksun ja saatte sen vastineeksi kred
 
 ### Sopii hyvin
 
-- Teille, jotka haluatte kokeilla eri lajeja
-- Teille, jotka treenaatte yhdestä kolmeen kertaan viikossa
-- Teille, jotka matkustatte paljon
+- Sinulle, joka haluat kokeilla eri lajeja
+- Sinulle, joka treenaat yhdestä kolmeen kertaan viikossa
+- Sinulle, joka matkustat paljon
 
 </div>
 
@@ -51,8 +51,8 @@ ClassPass on treenipassi: maksatte kuukausimaksun ja saatte sen vastineeksi kred
 
 ### Sopii huonommin
 
-- Jos käytte salilla useammin kuin kolme kertaa viikossa: silloin tavallinen kuntosalijäsenyys on usein edullisempi
-- Jos haluatte aina saman suositun tunnin samaan aikaan: se maksaa usein enemmän krediittejä
+- Jos käyt salilla useammin kuin kolme kertaa viikossa: silloin tavallinen kuntosalijäsenyys on usein edullisempi
+- Jos haluat aina saman suositun tunnin samaan aikaan: se maksaa usein enemmän krediittejä
 
 </div>
 
@@ -68,14 +68,14 @@ ClassPassilla on yhteistyöstudioita useissa kaupungeissa, muun muassa:
 
 <div class="aanbieder">
 
-<p class="kicker">Kokeilkaa</p>
+<p class="kicker">Kokeile</p>
 
-## Tutustukaa ClassPassiin
+## Tutustu ClassPassiin
 
-Katsokaa, mitkä lähistön studiot ja kuntosalit ovat mukana ja mitä jäsenyydet maksavat Suomessa.
+Katso, mitkä lähistön studiot ja kuntosalit ovat mukana ja mitä jäsenyydet maksavat Suomessa.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-classpass">Tutustukaa ClassPassiin</a>
+<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-classpass">Tutustu ClassPassiin</a>
 </div>
 
 </div>
@@ -85,21 +85,21 @@ Katsokaa, mitkä lähistön studiot ja kuntosalit ovat mukana ja mitä jäsenyyd
 <details open>
 <summary>Mitä ClassPass maksaa Suomessa?</summary>
 
-Se riippuu siitä, montako krediittiä saatte kuukaudessa. Ajankohtaiset hinnat löydätte ClassPassin sivuilta.
+Se riippuu siitä, montako krediittiä saat kuukaudessa. Ajankohtaiset hinnat löydät ClassPassin sivuilta.
 
 </details>
 
 <details>
 <summary>Mitä käyttämättömille krediiteille tapahtuu?</summary>
 
-Käyttämättömät krediitit voitte siirtää seuraavaan kuukauteen. Jos ette käytä niitä silloinkaan, ne vanhenevat.
+Käyttämättömät krediitit voit siirtää seuraavaan kuukauteen. Jos et käytä niitä silloinkaan, ne vanhenevat.
 
 </details>
 
 <details>
 <summary>Voinko irtisanoa milloin tahansa?</summary>
 
-Kyllä. Irtisanokaa ennen seuraavaa uusiutumispäivää, niin ette maksa uudesta kuukaudesta.
+Kyllä. Irtisano ennen seuraavaa uusiutumispäivää, niin et maksa uudesta kuukaudesta.
 
 </details>
 

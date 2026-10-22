@@ -1,7 +1,7 @@
 ---
 title: "Joustava treenaaminen Suomessa"
 path: "/fi/"
-description: "Ettekö halua sitoutua yhteen kuntosaliin? ClassPassilla käytätte yhtä jäsenyyttä studioissa ja kuntosaleilla Helsingissä, Espoossa ja Turussa. Näin se toimii."
+description: "Etkö halua sitoutua yhteen kuntosaliin? ClassPassilla käytät yhtä jäsenyyttä studioissa ja kuntosaleilla Helsingissä, Espoossa ja Turussa. Näin se toimii."
 lang: fi
 land: fi
 byline: "Päivitetty lokakuussa 2026"
@@ -9,14 +9,14 @@ crumb: "Suomi"
 kicker: "Maaopas Suomi"
 ---
 
-Eikö pitkä sopimus yhdellä kuntosalilla houkuttele? ClassPassin kaltaisella treenipassilla pääsette yhdellä jäsenyydellä eri studioihin ja kuntosaleille. Tältä sivulta luette, miten se toimii Suomessa ja missä kaupungeissa.
+Eikö pitkä sopimus yhdellä kuntosalilla houkuttele? ClassPassin kaltaisella treenipassilla pääset yhdellä jäsenyydellä eri studioihin ja kuntosaleille. Tältä sivulta luet, miten se toimii Suomessa ja missä kaupungeissa.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
-<a class="knop knop-rand" href="#steden">Valitkaa kaupunki</a>
+<a class="knop knop-rand" href="#steden">Valitse kaupunki</a>
 </div>
 
-<h2 id="opties">Treenatkaa joustavasti treenipassilla</h2>
+<h2 id="opties">Treenaa joustavasti treenipassilla</h2>
 
 <div class="kolommen">
 
@@ -26,10 +26,10 @@ Eikö pitkä sopimus yhdellä kuntosalilla houkuttele? ClassPassin kaltaisella t
 
 ### ClassPass
 
-Jäsenyys, jolla saatte krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningiin ja kuntosalikäynteihin studioissa ympäri kaupunkia, myös ulkomailla.
+Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningiin ja kuntosalikäynteihin studioissa ympäri kaupunkia, myös ulkomailla.
 
-- Sopii, jos pidätte vaihtelusta
-- Sopii, jos treenaatte yhdestä kolmeen kertaan viikossa
+- Sopii, jos pidät vaihtelusta
+- Sopii, jos treenaat yhdestä kolmeen kertaan viikossa
 - Toimii myös 28 muussa maassa
 
 <div class="knoppen">
@@ -50,7 +50,7 @@ ClassPassilla on yhteistyöstudioita useissa kaupungeissa, muun muassa:
 - Espoo
 - Turku
 
-Sovelluksesta näette, mitkä lähistön studiot ja kuntosalit ovat mukana.
+Sovelluksesta näet, mitkä lähistön studiot ja kuntosalit ovat mukana.
 
 </div>
 
@@ -62,25 +62,25 @@ Sovelluksesta näette, mitkä lähistön studiot ja kuntosalit ovat mukana.
 
 <div class="kolom">
 
-### Valitkaa jäsenyys
+### Valitse jäsenyys
 
-Saatte krediittejä joka kuukausi. Mitä enemmän krediittejä, sitä useammin voitte treenata.
-
-</div>
-
-<div class="kolom">
-
-### Varatkaa tunti tai kuntosalikäynti
-
-Sovelluksesta näette lähistön studiot ja sen, montako krediittiä tunti maksaa.
+Saat krediittejä joka kuukausi. Mitä enemmän krediittejä, sitä useammin voit treenata.
 
 </div>
 
 <div class="kolom">
 
-### Muuttakaa tai irtisanokaa
+### Varaa tunti tai kuntosalikäynti
 
-Voitte muuttaa, keskeyttää tai irtisanoa jäsenyytenne milloin tahansa.
+Sovelluksesta näet lähistön studiot ja sen, montako krediittiä tunti maksaa.
+
+</div>
+
+<div class="kolom">
+
+### Muuta tai irtisano
+
+Voit muuttaa, keskeyttää tai irtisanoa jäsenyytesi milloin tahansa.
 
 </div>
 
@@ -90,34 +90,34 @@ Voitte muuttaa, keskeyttää tai irtisanoa jäsenyytenne milloin tahansa.
 <a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
 </div>
 
-[Lukekaa koko opas (englanniksi)](/guides/how-classpass-works/)
+[Lue koko opas (englanniksi)](/guides/how-classpass-works/)
 
 ## Usein kysyttyä
 
 <details open>
 <summary>Mitä ClassPass maksaa Suomessa?</summary>
 
-Se riippuu siitä, montako krediittiä saatte kuukaudessa. Ajankohtaiset hinnat löydätte ClassPassin sivuilta.
+Se riippuu siitä, montako krediittiä saat kuukaudessa. Ajankohtaiset hinnat löydät ClassPassin sivuilta.
 
 </details>
 
 <details>
 <summary>Onko ClassPass edullisempi kuin kuntosalijäsenyys?</summary>
 
-Jos treenaatte samalla salilla kolme kertaa viikossa tai useammin, tavallinen jäsenyys on yleensä edullisempi. Jos vaihdatte mielellänne studiosta toiseen, treenipassi sopii paremmin.
+Jos treenaat samalla salilla kolme kertaa viikossa tai useammin, tavallinen jäsenyys on yleensä edullisempi. Jos vaihdat mielelläsi studiosta toiseen, treenipassi sopii paremmin.
 
 </details>
 
 <details>
 <summary>Voinko käyttää ClassPassia lomalla?</summary>
 
-Kyllä. Krediittinne toimivat kaikissa maissa, joissa ClassPass on saatavilla, kunkin maan hinnoin.
+Kyllä. Krediittisi toimivat kaikissa maissa, joissa ClassPass on saatavilla, kunkin maan hinnoin.
 
 </details>
 
-## Treenaatteko muualla?
+## Treenaatko muualla?
 
-ClassPass toimii 29 maassa. Valitkaa maanne, niin näette oikeat hinnat ja ehdot.
+ClassPass toimii 29 maassa. Valitse maasi, niin näet oikeat hinnat ja ehdot.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/se/">Sverige</a>
