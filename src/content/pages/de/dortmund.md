@@ -56,7 +56,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
 | **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Dortmund** | Studios und Gyms in der ganzen Stadt | 1 Club |
+| **Standorte in Dortmund** | Ein kleineres Angebot, unter anderem in der Innenstadt und am Westpark | 1 Club |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 4 in und um Wien |
@@ -79,7 +79,9 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
-- Studios in ganz Dortmund, von Yoga bis Boxen
+- Ein kleineres Angebot, unter anderem in der Innenstadt, am Westpark und in Oespel
+- Vor allem Yoga und Pilates (auch Lagree), dazu Tanz und Bootcamp
+- Auch Studios in Bochum und Holzwickede
 - Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für
