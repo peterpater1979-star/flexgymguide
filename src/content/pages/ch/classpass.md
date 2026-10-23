@@ -64,7 +64,7 @@ Die grösste Auswahl hast du mit ClassPass in diesen Städten:
 
 - **Zürich**: Kreis 4 und 5, Seefeld, Wiedikon und Unterstrass. Vor allem Yoga, auch in Dübendorf, Schlieren und Wallisellen
 - **Genf**: Plainpalais, Eaux-Vives, Champel und Pâquis. Yoga und Pilates, auch in Carouge, Lancy und Onex
-- Basel
+- **Basel**: vor allem in der Innenstadt, dazu St. Johann und Clara. Pilates, Yoga und Krafttraining
 - Lausanne
 
 In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
