@@ -231,7 +231,6 @@ That depends on your membership. You can use any club at your membership tier or
 
 ### Explained
 
-- How much does ClassPass cost in the UK? (coming soon)
 - [All about ClassPass](/uk/classpass/)
 - [How ClassPass works](/guides/how-classpass-works/)
 

@@ -124,8 +124,6 @@ Your membership works wherever ClassPass is available. Credit values, availabili
 
 </div>
 
-Gym pass or gym membership? (coming soon)
-
 </div>
 
 <div id="faq">
@@ -190,9 +188,3 @@ You're never locked in: you can change or cancel your plan at any time. Prices a
 We'll take you to the ClassPass offer for your country.
 
 [Start your free trial](/go/classpass/?epi=fgg-guides-how-classpass-works&subId1=fgg-guides-how-classpass-works)
-
-## More guides
-
-- **Training abroad** · Staying fit while you travel
-- **Gym pass or gym membership?** · What suits how you train.
-- **ClassPass credits explained** · Getting the most from your plan

@@ -88,8 +88,6 @@ A membership at one chain, with the gym floor and group classes, usually after a
 - Good if you want one fixed place
 - Usually only in one country
 
-Gym pass or gym membership?
-
 </div>
 
 </div>
@@ -113,11 +111,7 @@ Gym pass or gym membership?
 
 ## Guides
 
-All guides
-
 - **[How ClassPass works](/guides/how-classpass-works/)** · Credits, plans, and what to watch out for.
-- **Training abroad** · Which memberships work in other countries.
-- **Gym pass or gym membership?** · What suits how you train.
 
 </div>
 
