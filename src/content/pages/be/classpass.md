@@ -63,8 +63,8 @@ ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credi
 In deze steden heb je met ClassPass de meeste keuze:
 
 - **Brussel**: Elsene, Etterbeek, Sint-Joost-ten-Node, Sint-Gillis en Vorst. Vooral yoga en pilates
-- Antwerpen
-- Gent
+- **Antwerpen**: centrum, het Zuid, Eilandje, Berchem en Linkeroever. Vooral pilates en krachttraining, en ook in Mechelen, Sint-Niklaas en Brasschaat
+- **Gent**: centrum, Dok-Noord en Sint-Denijs-Westrem. Pilates, krachttraining, yoga en spinning, en ook in Merelbeke
 
 In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
 
