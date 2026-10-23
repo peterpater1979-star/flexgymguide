@@ -9,7 +9,7 @@ crumb: "Österreich"
 kicker: "Länderguide Österreich"
 ---
 
-Keine Lust auf einen langen Vertrag in einem einzigen Studio? In Österreich trainierst du vor allem in Wien flexibel: mit einem Sportpass wie ClassPass in verschiedenen Studios oder bei Fitness First mit eigenen Clubs. So findest du, was zu dir passt.
+Keine Lust auf einen langen Vertrag in einem einzigen Studio? In Österreich trainierst du vor allem in Wien flexibel: mit einem Sportpass wie ClassPass in verschiedenen Studios oder bei Fitness First mit kostenlosem Probetraining. So findest du, was zu dir passt.
 
 <h2 id="opties">Deine Möglichkeiten in Wien</h2>
 
@@ -45,7 +45,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 - Gut bei dreimal Training pro Woche oder öfter
 - Gym, Kurse und Wellness an einem Ort
-- Auch in Deutschland trainieren
+- Kostenloses Probetraining
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
