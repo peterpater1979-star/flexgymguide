@@ -62,7 +62,7 @@ ClassPass er et træningspas: Du betaler et månedligt beløb og får credits ti
 
 Det er i disse byer, du har mest at vælge imellem med ClassPass:
 
-- København
+- **København**: Indre By, Østerbro, Frederiksberg, Vesterbro, Nørrebro, Nordhavn, Sydhavn og Christianshavn. Mest yoga og pilates, også sauna, og også i Hellerup, Gentofte og Lyngby
 - Aarhus
 
 <h2 id="udlandet">ClassPass i udlandet</h2>

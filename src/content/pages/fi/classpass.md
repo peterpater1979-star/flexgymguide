@@ -62,8 +62,8 @@ ClassPass on treenipassi: maksat kuukausimaksun ja saat sen vastineeksi krediitt
 
 Näissä kaupungeissa sinulla on ClassPassin kanssa eniten valinnanvaraa:
 
-- Helsinki
-- Espoo
+- **Helsinki**: keskusta (Kamppi, Kluuvi, Punavuori), Eira, Lauttasaari ja Pasila. Enimmäkseen joogaa ja pilatesta
+- **Espoo**: joogastudioita, ja myös Vantaalla ja Kirkkonummella
 - Turku
 
 <h2 id="ulkomailla">ClassPass ulkomailla</h2>

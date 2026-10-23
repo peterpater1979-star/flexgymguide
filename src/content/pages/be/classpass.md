@@ -62,7 +62,7 @@ ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credi
 
 In deze steden heb je met ClassPass de meeste keuze:
 
-- Brussel
+- **Brussel**: Elsene, Etterbeek, Sint-Joost-ten-Node, Sint-Gillis en Vorst. Vooral yoga en pilates
 - Antwerpen
 - Gent
 

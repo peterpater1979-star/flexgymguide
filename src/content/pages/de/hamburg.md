@@ -56,7 +56,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
 | **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Hamburg** | Studios und Gyms in der ganzen Stadt | 17 Clubs |
+| **Standorte in Hamburg** | Studios in Eimsbüttel, Ottensen, St. Pauli, Winterhude, Eppendorf und mehr | 17 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 4 in und um Wien |
@@ -79,7 +79,8 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
-- Studios in ganz Hamburg, von Yoga bis Boxen
+- Studios in ganz Hamburg: Eimsbüttel, Ottensen, Rotherbaum, St. Pauli, Uhlenhorst, Winterhude, Eppendorf und HafenCity
+- Vor allem Yoga und Pilates, dazu Krafttraining, Meditation, Barre und Massage
 - Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für

@@ -62,7 +62,7 @@ ClassPass är ett träningspass: du betalar en månadsavgift och får krediter i
 
 Det är i de här städerna du har störst utbud med ClassPass:
 
-- Stockholm
+- **Stockholm**: Södermalm, Vasastan, Norrmalm, Kungsholmen och Östermalm. Mest yoga, även pilates och meditation, och även i Täby och Nacka
 - Göteborg
 - Malmö
 

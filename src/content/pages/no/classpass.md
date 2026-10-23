@@ -62,7 +62,7 @@ ClassPass er et treningspass: Du betaler en månedspris og får kreditter i bytt
 
 Med ClassPass har du mest å velge mellom i og rundt:
 
-- Oslo
+- **Oslo**: Sentrum, Grünerløkka, Sagene og Frogner. Yoga og pilates, og også på Fornebu
 
 <h2 id="utlandet">ClassPass i utlandet</h2>
 

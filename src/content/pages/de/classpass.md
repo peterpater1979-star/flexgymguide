@@ -93,14 +93,14 @@ Trainierst du vor allem im Gym und mehrmals pro Woche? Dann schau dir auch [Fitn
 Pro Stadt stellen wir die Optionen nebeneinander:
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg und Friedrichshain</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">Eimsbüttel, Ottensen, St. Pauli, Winterhude und Eppendorf</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">Innenstadt, Sachsenhausen, Westend und Nordend</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">Innenstadt, Belgisches Viertel, Ehrenfeld und Nippes</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">Maxvorstadt, Schwabing, Glockenbachviertel und Neuhausen, viel Pilates</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">Stadtmitte, Carlstadt, Pempelfort und Bilk</span></li>
 <li><a href="/de/leipzig/"><strong>Leipzig</strong></a></li>
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
 </ul>

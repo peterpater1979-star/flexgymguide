@@ -62,8 +62,8 @@ ClassPass es un pase deportivo: pagas una cuota mensual y recibes créditos. Los
 
 Donde más opciones tienes con ClassPass es en estas ciudades:
 
-- Madrid
-- Barcelona
+- **Madrid**: Chamberí, Salamanca, Centro, Chamartín y Retiro. Yoga, Pilates, fuerza y barre, y también en Las Rozas y Móstoles
+- **Barcelona**: Eixample, Poblenou, Sarrià-Sant Gervasi, Gràcia, Ciutat Vella y Sants. Yoga, Pilates, fuerza y barre, y también en Badalona
 - Valencia
 - Sevilla
 - Málaga
