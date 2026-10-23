@@ -64,7 +64,7 @@ Näissä kaupungeissa sinulla on ClassPassin kanssa eniten valinnanvaraa:
 
 - **Helsinki**: keskusta (Kamppi, Kluuvi, Punavuori), Eira, Lauttasaari ja Pasila. Enimmäkseen joogaa ja pilatesta
 - **Espoo**: joogastudioita, ja myös Vantaalla ja Kirkkonummella
-- Turku
+- **Turku**: pieni valikoima, muutama studio keskustassa ja Uittamolla. Joogaa, pilatesta, voimaharjoittelua ja nyrkkeilyä
 
 <h2 id="ulkomailla">ClassPass ulkomailla</h2>
 
