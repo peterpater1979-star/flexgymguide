@@ -27,7 +27,7 @@ ClassPass is a fitness pass: you pay one monthly fee and get credits in return. 
 | **What you can do** | Yoga, Pilates, boxing, spin, strength training, gym visits and more |
 | **Cancelling** | Change, pause or cancel any time |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in more than 2,500 cities in 29 countries |
+| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in more than 2,500 cities in 31 countries |
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with ClassPass.</p>
 
@@ -90,15 +90,35 @@ Mostly training in the gym, several times a week? Then also take a look at [Fitn
 
 <h2 id="cities">ClassPass in your city</h2>
 
-We compare the options city by city:
+Read more for your city:
 
 <ul class="stedenlijst">
 <li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">Studios and gyms across the city</span></li>
+<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">Studios in the city centre, Chorlton and Salford</span></li>
+<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">Studios in the city centre, Finnieston and the Southside</span></li>
+<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">Studios in the city centre, Chapel Allerton and Kirkstall</span></li>
+<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">Studios in the city and on the Wirral</span></li>
+<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">Studios in the city centre, the Jewellery Quarter and Digbeth</span></li>
+<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">Studios in Clifton, Harbourside, Bedminster and Bishopston</span></li>
+<li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">Studios in the city centre and Kelham Island</span></li>
+<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">Studios in the Lace Market and West Bridgford</span></li>
+<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">Studios on the Quayside, in Gosforth and Gateshead</span></li>
 </ul>
 
 <h2 id="abroad">ClassPass abroad</h2>
 
-Your plan also works outside the UK, in more than 2,500 cities in 29 countries. So when you travel, you simply book a class with your credits. Prices and choice vary by country.
+Your plan also works outside the UK, in more than 2,500 cities in 31 countries. So when you travel, you simply book a class with your credits. Prices and choice vary by country.
+
+<ul class="continenten">
+<li class="breed"><strong>Europe</strong> Austria · Belgium · Denmark · Finland · France · Germany · Ireland · Netherlands · Norway · Portugal · Spain · Sweden · Switzerland · United Kingdom</li>
+<li><strong>North America</strong> United States · Canada</li>
+<li><strong>South America</strong> Brazil · Chile</li>
+<li><strong>Asia</strong> Japan · Hong Kong · Singapore · Thailand · Malaysia · Philippines · Indonesia · India</li>
+<li><strong>Middle East</strong> United Arab Emirates · Qatar · Kuwait</li>
+<li><strong>Oceania</strong> Australia · New Zealand</li>
+</ul>
+
+<p class="klein">Based on ClassPass's own country list. Availability can change.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/">Nederland</a>
@@ -155,7 +175,7 @@ Unused credits roll over for one month. If you don't use them that month, they e
 <details>
 <summary>Can I use ClassPass abroad?</summary>
 
-Yes, wherever ClassPass is active: in more than 2,500 cities in 29 countries, at that country's prices.
+Yes, wherever ClassPass is active: in more than 2,500 cities in 31 countries, at that country's prices.
 
 </details>
 

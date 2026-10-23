@@ -11,11 +11,6 @@ kicker: "Landengids Nederland"
 
 Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een sportpas zoals ClassPass, of bij een sportschoolketen met flexibele voorwaarden. Hier lees je wat bij jou past, en in welke steden.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
-<a class="knop knop-rand" href="#steden">Kies je stad</a>
-</div>
-
 <h2 id="opties">Twee manieren om flexibel te sporten</h2>
 
 <div class="kolommen">
@@ -30,7 +25,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 - Goed als je graag afwisselt
 - Goed bij één tot drie keer per week sporten
-- Werkt ook in 28 andere landen
+- Werkt ook in 30 andere landen
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
@@ -136,12 +131,3 @@ Ja. Je credits werken in alle landen waar ClassPass actief is, tegen de prijzen 
 
 </details>
 
-## Train je ergens anders?
-
-ClassPass werkt in 29 landen. Kies je land voor de juiste prijzen en voorwaarden.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Andere landen (EN)</a>
-</div>

@@ -5,12 +5,13 @@
 #   /go/classpass-nl/  epi=:epi  https://clk.tradedoubler.com/click?p=[P]&a=[A]&epi=:epi  302
 # De regel zonder epi blijft als terugval (dan zonder &epi=).
 
-# Homepage: bezoekers met een Nederlandse, Duitse, Franse of Spaanse browser naar hun landpagina.
+# Homepage: bezoekers met een Nederlandse, Duitse, Franse, Spaanse of Portugese browser naar hun landpagina.
 # Alleen voor /; met ! omdat er een index.html op / staat. Google (zonder taal) ziet de homepage.
 /  /nl/  302!  Language=nl
 /  /de/  302!  Language=de
 /  /fr/  302!  Language=fr
 /  /es/  302!  Language=es
+/  /pt/  302!  Language=pt
 
 /go/classpass-nl/  epi=:epi  https://classpass.com/  302
 /go/classpass-nl/            https://classpass.com/  302
@@ -23,12 +24,42 @@
 /go/classpass-es/  epi=:epi  https://classpass.com/  302
 /go/classpass-es/            https://classpass.com/  302
 
+# België, Portugal, Oostenrijk, Zwitserland, Ierland en Scandinavië: alleen via Impact (label in subId1).
+/go/classpass-be/  subId1=:sub  https://classpass.com/  302
+/go/classpass-be/               https://classpass.com/  302
+/go/classpass-pt/  subId1=:sub  https://classpass.com/  302
+/go/classpass-pt/               https://classpass.com/  302
+/go/classpass-at/  subId1=:sub  https://classpass.com/  302
+/go/classpass-at/               https://classpass.com/  302
+/go/classpass-ch/  subId1=:sub  https://classpass.com/  302
+/go/classpass-ch/               https://classpass.com/  302
+/go/classpass-ie/  subId1=:sub  https://classpass.com/  302
+/go/classpass-ie/               https://classpass.com/  302
+/go/classpass-dk/  subId1=:sub  https://classpass.com/  302
+/go/classpass-dk/               https://classpass.com/  302
+/go/classpass-se/  subId1=:sub  https://classpass.com/  302
+/go/classpass-se/               https://classpass.com/  302
+/go/classpass-no/  subId1=:sub  https://classpass.com/  302
+/go/classpass-no/               https://classpass.com/  302
+/go/classpass-fi/  subId1=:sub  https://classpass.com/  302
+/go/classpass-fi/               https://classpass.com/  302
+
 # /go/classpass/ (voor /guides/) stuurt per land door; de rest naar classpass.com.
 # Later: overige landen via Impact (label in subId1).
 /go/classpass/  Country=nl  /go/classpass-nl/  302
 /go/classpass/  Country=de  /go/classpass-de/  302
 /go/classpass/  Country=gb  /go/classpass-uk/  302
+/go/classpass/  Country=fr  /go/classpass-fr/  302
 /go/classpass/  Country=es  /go/classpass-es/  302
+/go/classpass/  Country=be  /go/classpass-be/  302
+/go/classpass/  Country=pt  /go/classpass-pt/  302
+/go/classpass/  Country=at  /go/classpass-at/  302
+/go/classpass/  Country=ch  /go/classpass-ch/  302
+/go/classpass/  Country=ie  /go/classpass-ie/  302
+/go/classpass/  Country=dk  /go/classpass-dk/  302
+/go/classpass/  Country=se  /go/classpass-se/  302
+/go/classpass/  Country=no  /go/classpass-no/  302
+/go/classpass/  Country=fi  /go/classpass-fi/  302
 
 # Fase B (na goedkeuring bij Awin, label in clickref):
 # /go/trainmore/          clickref=:ref  https://www.awin1.com/cread.php?awinmid=[ID]&awinaffid=[ID]&clickref=:ref  302

@@ -1,7 +1,7 @@
 ---
 title: "Entrenar sin permanencia en España"
 path: "/es/"
-description: "¿Quieres hacer deporte sin un contrato largo en un solo gimnasio? Con ClassPass, una sola suscripción te da acceso a estudios y gimnasios en Madrid y Barcelona. Así funciona."
+description: "¿Quieres hacer deporte sin un contrato largo en un solo gimnasio? Con ClassPass, una sola suscripción te da acceso a estudios y gimnasios en Madrid, Barcelona, Valencia, Sevilla, Málaga y otras ciudades. Así funciona."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -10,11 +10,6 @@ kicker: "Guía de país España"
 ---
 
 ¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
-<a class="knop knop-rand" href="#ciudades">Elige tu ciudad</a>
-</div>
 
 <h2 id="opciones">Entrenar con un pase deportivo</h2>
 
@@ -30,27 +25,10 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 
 - Ideal si te gusta variar
 - Ideal si entrenas de una a tres veces por semana
-- Funciona también en otros 28 países
+- Funciona también en otros 30 países
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-urban-sports"><span>Otro pase deportivo</span></div>
-
-### Urban Sports Club
-
-Una cuota mensual fija con check-ins en gimnasios y estudios asociados, para gimnasio, clases y más. También funciona en otros países europeos.
-
-- Ideal si quieres un precio fijo al mes
-- Ideal si entrenas a menudo en centros asociados
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 </div>
@@ -61,7 +39,7 @@ Una cuota mensual fija con check-ins en gimnasios y estudios asociados, para gim
 
 ## ¿Dónde funciona?
 
-ClassPass tiene estudios asociados en las grandes ciudades españolas, entre ellas Madrid y Barcelona. En la app ves qué estudios y gimnasios participan cerca de ti.
+ClassPass tiene estudios asociados en las grandes ciudades españolas y en las islas, entre ellas Madrid, Barcelona, Valencia, Sevilla, Málaga, Marbella, Alicante, Bilbao, Ibiza ciudad y Palma de Mallorca. En la app ves qué estudios y gimnasios participan cerca de ti.
 
 </div>
 
@@ -124,13 +102,3 @@ Sí. Tus créditos funcionan en todos los países donde está ClassPass, con los
 
 </details>
 
-## ¿Entrenas en otro sitio?
-
-ClassPass está en 29 países. Elige tu país para ver los precios y condiciones correctos.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/fr/">France</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Otros países</a>
-</div>

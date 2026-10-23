@@ -27,7 +27,7 @@ ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credi
 | **Wat kun je doen** | Yoga, pilates, boksen, spinning, krachttraining, gymbezoeken en meer |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in meer dan 2.500 steden in 29 landen |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in meer dan 2.500 steden in 31 landen |
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij ClassPass.</p>
 
@@ -100,37 +100,31 @@ Train je vooral in de gym en meerdere keren per week? Kijk dan ook naar [Trainmo
 
 ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we de opties naast elkaar:
 
-<div class="kolommen">
-
-<div class="kolom">
-
-- [Amsterdam](/nl/amsterdam/): meer dan 450 studio's en gyms
-- [Rotterdam](/nl/rotterdam/)
-- [Den Haag](/nl/den-haag/)
-- [Utrecht](/nl/utrecht/)
-
-</div>
-
-<div class="kolom">
-
-- [Haarlem](/nl/haarlem/)
-- [Leiden](/nl/leiden/)
-- [Eindhoven](/nl/eindhoven/)
-- [Groningen](/nl/groningen/)
-
-</div>
-
-</div>
+<ul class="stedenlijst">
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Oud-West, Centrum, de Jordaan, De Pijp, Oost, Zuid en Noord</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Centrum, Kralingen, Hillegersberg, Noord en Zuid</span></li>
+<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Centrum, Zeeheldenkwartier, Bezuidenhout en Scheveningen</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Binnenstad, Lombok, Oost en Leidsche Rijn</span></li>
+<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">Kleiner aanbod, veel meer keuze in Amsterdam</span></li>
+<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">Centrum, Rooseveltstraat en Leiderdorp</span></li>
+<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">Centrum, Strijp-S en Stratum, veel pilates</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">Binnenstad, veel krachttraining</span></li>
+</ul>
 
 <h2 id="buitenland">ClassPass in het buitenland</h2>
 
-Je abonnement werkt ook buiten Nederland, in meer dan 2.500 steden in 29 landen. Op reis kun je dus gewoon een les boeken met je credits. Prijzen en het aanbod verschillen per land.
+Je abonnement werkt ook buiten Nederland, in meer dan 2.500 steden in 31 landen. Op reis kun je dus gewoon een les boeken met je credits. Prijzen en het aanbod verschillen per land.
 
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works (EN)</a>
-</div>
+<ul class="continenten">
+<li class="breed"><strong>Europa</strong> Oostenrijk · België · Denemarken · Finland · Frankrijk · Duitsland · Ierland · Nederland · Noorwegen · Portugal · Spanje · Zweden · Zwitserland · Verenigd Koninkrijk</li>
+<li><strong>Noord-Amerika</strong> Verenigde Staten · Canada</li>
+<li><strong>Zuid-Amerika</strong> Brazilië · Chili</li>
+<li><strong>Azië</strong> Japan · Hongkong · Singapore · Thailand · Maleisië · Filipijnen · Indonesië · India</li>
+<li><strong>Midden-Oosten</strong> Verenigde Arabische Emiraten · Qatar · Koeweit</li>
+<li><strong>Oceanië</strong> Australië · Nieuw-Zeeland</li>
+</ul>
+
+<p class="klein">Gebaseerd op de landenlijst van ClassPass. Het aanbod kan veranderen.</p>
 
 <div class="aanbieder">
 
@@ -181,7 +175,7 @@ Ongebruikte credits kun je één maand doorschuiven. Gebruik je ze in die maand 
 <details>
 <summary>Kan ik ClassPass in het buitenland gebruiken?</summary>
 
-Ja, overal waar ClassPass actief is: in meer dan 2.500 steden in 29 landen.
+Ja, overal waar ClassPass actief is: in meer dan 2.500 steden in 31 landen.
 
 </details>
 

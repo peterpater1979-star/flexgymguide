@@ -9,7 +9,7 @@ crumb: "Utrecht"
 kicker: "Stadsgids Utrecht"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Utrecht kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Wij zetten de opties naast elkaar.
+Geen zin in een jaarcontract bij één sportschool? In Utrecht kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
 
 <h2 id="kort">In het kort</h2>
 
@@ -17,7 +17,7 @@ Geen zin in een jaarcontract bij één sportschool? In Utrecht kun je met een sp
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-classpass"><span>Beste voor afwisseling</span></div>
+<div class="fotokop foto-classpass"><span>Voor afwisseling</span></div>
 
 ### ClassPass
 
@@ -29,7 +29,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Beste voor vaste gymgangers</span></div>
+<div class="fotokop foto-gymketen"><span>Voor vaste gymgangers</span></div>
 
 ### Trainmore
 
@@ -41,7 +41,7 @@ Eigen clubs met gym en groepslessen: 3 in Utrecht, 53 in heel Nederland.
 
 </div>
 
-<h2 id="vergelijking">ClassPass en Trainmore vergeleken</h2>
+<h2 id="op-een-rij">ClassPass en Trainmore op een rij</h2>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
 
@@ -50,10 +50,10 @@ Eigen clubs met gym en groepslessen: 3 in Utrecht, 53 in heel Nederland.
 | **Soort** | Sportpas met credits | Sportschoolketen |
 | **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 weken, €1 korting per workout |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
-| **Locaties in Utrecht** | Gyms en studio's door de hele stad, van yoga tot fitness | 3 clubs (53 in heel Nederland) |
+| **Locaties in Utrecht** | Studio's in de binnenstad, Lombok, Oost, Zuilen, Rivierenwijk en Leidsche Rijn | 3 clubs (53 in heel Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
 | **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) |
 
 <div id="classpass" class="aanbieder">
@@ -71,8 +71,10 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Wat je krijgt
 
 - Maandelijkse credits voor lessen en gymbezoeken
-- Studio's door heel Utrecht, van yoga tot boksen
-- Ook te gebruiken in meer dan 2.500 andere steden in 29 landen
+- Studio's door heel Utrecht: de binnenstad (vooral rond de Oudegracht), Lombok, Oost, Zuilen, Rivierenwijk en Leidsche Rijn
+- Vooral veel yoga (ook hot yoga) en pilates, maar ook krachttraining en boksen
+- Ook studio's in De Meern, Maarssen en Bilthoven
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 
@@ -258,14 +260,5 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 
 </div>
 
-### Train je ergens anders?
-
-ClassPass werkt in 29 landen. Kies je land voor de juiste prijzen en voorwaarden.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Andere landen (EN)</a>
-</div>
 
 </details>

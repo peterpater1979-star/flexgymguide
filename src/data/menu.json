@@ -2,9 +2,18 @@
   "main": [
     { "label": "Nederland", "href": "/nl/", "land": "nl", "children": [{ "label": "Amsterdam", "href": "/nl/amsterdam/" }, { "label": "Rotterdam", "href": "/nl/rotterdam/" }, { "label": "Den Haag", "href": "/nl/den-haag/" }, { "label": "Utrecht", "href": "/nl/utrecht/" }, { "label": "Haarlem", "href": "/nl/haarlem/" }, { "label": "Leiden", "href": "/nl/leiden/" }, { "label": "Eindhoven", "href": "/nl/eindhoven/" }, { "label": "Groningen", "href": "/nl/groningen/" }] },
     { "label": "Deutschland", "href": "/de/", "land": "de", "children": [{ "label": "Berlin", "href": "/de/berlin/" }, { "label": "Hamburg", "href": "/de/hamburg/" }, { "label": "Frankfurt", "href": "/de/frankfurt/" }, { "label": "Köln", "href": "/de/koeln/" }, { "label": "München", "href": "/de/muenchen/" }, { "label": "Darmstadt", "href": "/de/darmstadt/" }, { "label": "Stuttgart", "href": "/de/stuttgart/" }, { "label": "Düsseldorf", "href": "/de/duesseldorf/" }, { "label": "Leipzig", "href": "/de/leipzig/" }, { "label": "Dortmund", "href": "/de/dortmund/" }] },
-    { "label": "United Kingdom", "href": "/uk/", "land": "uk", "children": [{ "label": "London", "href": "/uk/london/" }] },
-    { "label": "France", "href": "/fr/", "land": "fr", "children": [{ "label": "ClassPass", "href": "/fr/classpass/" }, { "label": "Urban Sports Club", "href": "/fr/urban-sports-club/" }] },
-    { "label": "España", "href": "/es/", "land": "es", "children": [{ "label": "ClassPass", "href": "/es/classpass/" }, { "label": "Urban Sports Club", "href": "/es/urban-sports-club/" }] },
+    { "label": "United Kingdom", "href": "/uk/", "land": "uk", "children": [{ "label": "London", "href": "/uk/london/" }, { "label": "Manchester", "href": "/uk/manchester/" }, { "label": "Birmingham", "href": "/uk/birmingham/" }, { "label": "Liverpool", "href": "/uk/liverpool/" }, { "label": "Leeds", "href": "/uk/leeds/" }, { "label": "Glasgow", "href": "/uk/glasgow/" }, { "label": "Newcastle", "href": "/uk/newcastle/" }, { "label": "Nottingham", "href": "/uk/nottingham/" }, { "label": "Bristol", "href": "/uk/bristol/" }, { "label": "Sheffield", "href": "/uk/sheffield/" }] },
+    { "label": "France", "href": "/fr/", "land": "fr", "children": [{ "label": "ClassPass", "href": "/fr/classpass/" }] },
+    { "label": "España", "href": "/es/", "land": "es", "children": [{ "label": "ClassPass", "href": "/es/classpass/" }] },
+    { "label": "Österreich", "href": "/at/", "land": "at", "children": [{ "label": "Wien", "href": "/at/wien/" }, { "label": "ClassPass", "href": "/at/classpass/" }] },
+    { "label": "Schweiz", "href": "/ch/", "land": "ch", "children": [{ "label": "ClassPass", "href": "/ch/classpass/" }] },
+    { "label": "België", "href": "/be/", "land": "be", "children": [{ "label": "ClassPass", "href": "/be/classpass/" }] },
+    { "label": "Portugal", "href": "/pt/", "land": "pt", "children": [{ "label": "ClassPass", "href": "/pt/classpass/" }] },
+    { "label": "Ireland", "href": "/ie/", "land": "ie", "children": [{ "label": "ClassPass", "href": "/ie/classpass/" }] },
+    { "label": "Danmark", "href": "/dk/", "land": "dk", "children": [{ "label": "ClassPass", "href": "/dk/classpass/" }] },
+    { "label": "Sverige", "href": "/se/", "land": "se", "children": [{ "label": "ClassPass", "href": "/se/classpass/" }] },
+    { "label": "Norge", "href": "/no/", "land": "no", "children": [{ "label": "ClassPass", "href": "/no/classpass/" }] },
+    { "label": "Suomi", "href": "/fi/", "land": "fi", "children": [{ "label": "ClassPass", "href": "/fi/classpass/" }] },
     { "label": "Guides", "href": "/guides/how-classpass-works/", "land": "guides", "children": [{ "label": "How ClassPass works", "href": "/guides/how-classpass-works/" }] }
   ]
 }

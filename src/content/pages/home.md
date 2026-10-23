@@ -32,14 +32,23 @@ Choose where you train to see your options.
 
 Each country has its own guide, in its own language, with local prices and providers.
 
-- **[Nederland](/nl/)** · In Dutch · ClassPass · sportscholen vergeleken
-- **[Deutschland](/de/)** · In German · ClassPass · Fitnessstudios im Vergleich
-- **[United Kingdom](/uk/)** · In English · ClassPass · gyms compared
+- **[Nederland](/nl/)** · In Dutch · ClassPass · Trainmore
+- **[Deutschland](/de/)** · In German · ClassPass · Fitness First
+- **[United Kingdom](/uk/)** · In English · ClassPass · Fitness First
 - **[France](/fr/)** · In French · ClassPass
 - **[España](/es/)** · In Spanish · ClassPass
-- **[Other countries](#guides)** · In English · ClassPass works in 29 countries
+- **[Österreich](/at/)** · In German · ClassPass
+- **[Schweiz](/ch/)** · In German · ClassPass
+- **[België](/be/)** · In Dutch · ClassPass
+- **[Portugal](/pt/)** · In Portuguese · ClassPass
+- **[Ireland](/ie/)** · In English · ClassPass
+- **[Danmark](/dk/)** · In Danish · ClassPass
+- **[Sverige](/se/)** · In Swedish · ClassPass
+- **[Norge](/no/)** · In Norwegian · ClassPass
+- **[Suomi](/fi/)** · In Finnish · ClassPass
+- **[Other countries](#guides)** · In English · ClassPass works in 31 countries
 
-<p class="klein">More countries coming: België, Portugal, Österreich, Schweiz and Ireland.</p>
+<p class="klein">ClassPass also works outside Europe, in the United States, Canada, Brazil, Chile, Australia, New Zealand, Japan, Hong Kong, Singapore, Thailand, Malaysia, the Philippines, Indonesia, India, the United Arab Emirates, Qatar and Kuwait.</p>
 
 </div>
 
@@ -79,8 +88,6 @@ A membership at one chain, with the gym floor and group classes, usually after a
 - Good if you want one fixed place
 - Usually only in one country
 
-Gym pass vs gym membership
-
 </div>
 
 </div>
@@ -104,11 +111,7 @@ Gym pass vs gym membership
 
 ## Guides
 
-All guides
-
 - **[How ClassPass works](/guides/how-classpass-works/)** · Credits, plans, and what to watch out for.
-- **Training abroad** · Which memberships work in other countries.
-- **Gym pass vs gym membership** · Which one saves you money?
 
 </div>
 

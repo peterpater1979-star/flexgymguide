@@ -9,6 +9,8 @@ crumb: "How ClassPass works"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Group class"></div>
+
 ClassPass gives you one membership for fitness classes, gym visits and wellness at thousands of studios. Here's how credits work, what to watch out for, and how to use it when you travel.
 
 <h2 id="try">Try ClassPass for free</h2>
@@ -76,37 +78,22 @@ Unused credits roll over, up to the number of credits in your next month's plan.
 
 </div>
 
-<div id="plans">
-
-## Plans and cancelling
-
-You're never locked in: you can change or cancel your plan at any time. Prices and credit amounts differ per country, so check the details for where you live.
-
-- **[ClassPass in the UK](/uk/)** · Prices in £, English
-- **[ClassPass in Nederland](/nl/)** · Prijzen in €, Nederlands
-- **[ClassPass in Deutschland](/de/)** · Preise in €, Deutsch
-- **ClassPass in Österreich** · Preise in €, Deutsch
-- **ClassPass in der Schweiz** · Preise in CHF, Deutsch
-
-</div>
-
 <div id="abroad">
 
 ## Using ClassPass abroad
 
 Your membership works wherever ClassPass is available. Credit values, availability and cancellation fees can differ per city, and different rules may apply while you're on a trial.
 
-### Europe
-
-United Kingdom · Ireland · Netherlands · Belgium · Germany · Austria · Switzerland · France · Spain · Portugal · Denmark · Sweden · Norway · Finland
-
-### Rest of the world
-
-United States · Canada · Australia · New Zealand · Japan · Singapore · Hong Kong · Malaysia · Thailand · Indonesia · Philippines · India · United Arab Emirates · Brazil · Chile
+<ul class="continenten">
+<li class="breed"><strong>Europe</strong> United Kingdom · Ireland · Netherlands · Belgium · Germany · Austria · Switzerland · France · Spain · Portugal · Denmark · Sweden · Norway · Finland</li>
+<li><strong>North America</strong> United States · Canada</li>
+<li><strong>South America</strong> Brazil · Chile</li>
+<li><strong>Asia</strong> Japan · Hong Kong · Singapore · Thailand · Malaysia · Philippines · Indonesia · India</li>
+<li><strong>Middle East</strong> United Arab Emirates · Qatar · Kuwait</li>
+<li><strong>Oceania</strong> Australia · New Zealand</li>
+</ul>
 
 <p class="klein">Based on ClassPass's own country list. Availability can change.</p>
-
-Read our full guide: Training abroad
 
 </div>
 
@@ -136,8 +123,6 @@ Read our full guide: Training abroad
 </div>
 
 </div>
-
-Compare: Gym pass vs gym membership
 
 </div>
 
@@ -175,14 +160,31 @@ Yes. Besides classes such as yoga and Pilates, you can book gym visits at partic
 
 </div>
 
+<div id="plans">
+
+## Plans and cancelling
+
+You're never locked in: you can change or cancel your plan at any time. Prices and credit amounts differ per country, so check the details for where you live.
+
+- **[ClassPass in the UK](/uk/classpass/)** · Prices in £, English
+- **[ClassPass in Ireland](/ie/classpass/)** · Prices in €, English
+- **[ClassPass in Nederland](/nl/classpass/)** · Prijzen in €, Nederlands
+- **[ClassPass in België](/be/classpass/)** · Prijzen in €, Nederlands
+- **[ClassPass in Deutschland](/de/classpass/)** · Preise in €, Deutsch
+- **[ClassPass in Österreich](/at/classpass/)** · Preise in €, Deutsch
+- **[ClassPass in der Schweiz](/ch/classpass/)** · Preise in CHF, Deutsch
+- **[ClassPass en France](/fr/classpass/)** · Prix en €, français
+- **[ClassPass en España](/es/classpass/)** · Precios en €, español
+- **[ClassPass em Portugal](/pt/classpass/)** · Preços em €, português
+- **[ClassPass i Danmark](/dk/classpass/)** · Priser i DKK, dansk
+- **[ClassPass i Sverige](/se/classpass/)** · Priser i SEK, svenska
+- **[ClassPass i Norge](/no/classpass/)** · Priser i NOK, norsk
+- **[ClassPass Suomessa](/fi/classpass/)** · Hinnat euroina, suomi
+
+</div>
+
 ## Ready to try it?
 
 We'll take you to the ClassPass offer for your country.
 
 [Start your free trial](/go/classpass/?epi=fgg-guides-how-classpass-works&subId1=fgg-guides-how-classpass-works)
-
-## More guides
-
-- **Training abroad** · Staying fit while you travel
-- **Gym pass vs gym membership** · Which one saves you money?
-- **ClassPass credits explained** · Getting the most from your plan

@@ -6,11 +6,11 @@ lang: en
 crumb: "About"
 ---
 
+<div class="fotobanner foto-sporttas" role="img" aria-label="Someone heading out with a sports bag"></div>
+
 FlexGymGuide is an independent guide that helps you work out without being tied to one gym. We explain fitness passes such as ClassPass and gym chains with flexible memberships, country by country, in the language of that country.
 
 ## Who we are
-
-<img class="portret" src="/img/peter-pater.jpg" alt="Peter Pater, maker of FlexGymGuide, with his dog" width="160" height="160" loading="lazy" />
 
 FlexGymGuide is made by Peter Pater, based in Amsterdam. I love mixing up my workouts: variety is what keeps me moving. So I went looking for the best option: a gym that offers everything, or a handy fitness pass that lets you train anywhere? That's how FlexGymGuide was born. Both have their strengths: if you train often, a good gym chain is hard to beat; if you love variety, a fitness pass is ideal. On FlexGymGuide you can see, per country and city, which option suits you.
 

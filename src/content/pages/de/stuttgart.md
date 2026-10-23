@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Stuttgart: ClassPass, Fitness First und mehr"
 path: "/de/stuttgart/"
-description: "Flexibel trainieren in Stuttgart: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 4 Clubs trainieren. Wir vergleichen die Optionen."
+description: "Flexibel trainieren in Stuttgart: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 4 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -9,7 +9,7 @@ crumb: "Stuttgart"
 kicker: "Stadtguide Stuttgart"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Stuttgart trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. Wir vergleichen die Optionen.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Stuttgart trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -17,7 +17,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Stuttgart trainierst
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-classpass"><span>Am besten für Abwechslung</span></div>
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
 
 ### ClassPass
 
@@ -31,7 +31,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-fitness-first-de"><span>Am besten für Vieltrainierer</span></div>
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
 
 ### Fitness First
 
@@ -45,9 +45,9 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 </div>
 
-<div id="vergleich">
+<div id="ueberblick">
 
-## ClassPass und Fitness First im Vergleich
+## ClassPass und Fitness First auf einen Blick
 
 Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.
 
@@ -56,10 +56,10 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
 | **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Stuttgart** | Studios und Gyms in der ganzen Stadt | 4 Clubs |
+| **Standorte in Stuttgart** | Studios in Stuttgart-Mitte, im Westen, Süden und Osten | 4 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 29 Ländern | 220 Clubs in Deutschland und 4 in und um Wien |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
 
 </div>
@@ -79,8 +79,10 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
-- Studios in ganz Stuttgart, von Yoga bis Boxen
-- Auch in über 2.500 anderen Städten in 29 Ländern nutzbar
+- Studios in Stuttgart-Mitte, Stuttgart-West, -Süd und -Ost
+- Vor allem Pilates und Yoga, dazu Barre, Krafttraining, Indoor-Cycling und Tanz
+- Auch Studios in Fellbach und Remseck am Neckar
+- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für
 
@@ -127,7 +129,7 @@ Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 4 in Stuttgar
 ### Achte darauf
 
 - Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- Nur in Deutschland und Wien
+- Nur in Deutschland und Österreich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -169,7 +171,7 @@ Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
 Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPass aktiv ist.
 
-Lies: Training abroad (EN)
+[ClassPass im Ausland](/de/classpass/#ausland)
 
 </div>
 
@@ -216,16 +218,7 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 - [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
 - [Flexibel trainieren in Leipzig](/de/leipzig/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
-- Flexibel trainieren in Wien (bald)
-
-</div>
-
-<div class="kolom">
-
-### Vergleiche
-
-- ClassPass oder Fitness First? (bald)
-- Fitnessstudio ohne Vertrag: alle Optionen (bald)
+- [Flexibel trainieren in Österreich](/at/)
 
 </div>
 
@@ -241,14 +234,5 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 
 </div>
 
-### Woanders unterwegs?
-
-ClassPass gibt es in 29 Ländern. Wähle dein Land für die passenden Preise und Bedingungen.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/">Nederland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Andere Länder (EN)</a>
-</div>
 
 </details>

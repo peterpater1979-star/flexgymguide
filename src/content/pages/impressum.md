@@ -6,8 +6,6 @@ lang: de
 crumb: "Impressum"
 ---
 
-*Vorlage, keine Rechtsberatung. Bitte vor dem Livegang prüfen lassen.*
-
 ## Angaben gemäß § 5 DDG
 
 Peter Pater<br>

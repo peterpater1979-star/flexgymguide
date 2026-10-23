@@ -24,7 +24,7 @@ ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des c
 | **Type** | Pass sport avec crédits |
 | **Activités** | Yoga, pilates, boxe, spinning, musculation, salle de sport et plus |
 | **Résiliation** | À tout moment, avant la date de renouvellement |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans plus de 2 500 villes et 29 pays |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans plus de 2 500 villes et 31 pays |
 
 <p class="klein">Les prix et conditions changent régulièrement. Vérifie toujours la situation actuelle sur le site de ClassPass.</p>
 
@@ -57,6 +57,41 @@ ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des c
 </div>
 
 </div>
+
+<h2 id="villes">Où utiliser ClassPass en France</h2>
+
+C’est dans ces villes que tu as le plus de choix avec ClassPass :
+
+- **Paris** : surtout le 2e, le 10e et le 16e, mais aussi le Marais, Saint-Germain et Montmartre. Beaucoup de Pilates, du yoga et du renforcement musculaire, et aussi à Neuilly-sur-Seine et Vincennes
+- **Lyon** : Presqu’île, Croix-Rousse, la Part-Dieu, les Brotteaux et la Guillotière. Surtout du yoga et du Pilates, et aussi à Villeurbanne et Caluire
+- **Marseille** : Vieux-Port, Castellane, Longchamp et Château-Gombert. Yoga, Pilates et renforcement musculaire, et aussi à Cassis
+- **Bordeaux** : Chartrons, Saint-Pierre, Saint-Genès, Pey-Berland et la Bastide. Surtout du yoga et du Pilates, et aussi à Talence, Pessac, Mérignac et au Bouscat
+- **Nice** : surtout le centre et le Carré d’Or, mais aussi le Port et Cimiez. Beaucoup de Pilates, du renforcement musculaire et du yoga
+- **Aix-en-Provence** : surtout dans le centre historique, autour du cours Mirabeau, et aussi aux Milles. Beaucoup de Pilates, du renforcement musculaire et de la boxe, et aussi à Éguilles et Venelles
+- **Toulouse** : surtout dans le centre. Yoga, Pilates et renforcement musculaire, et aussi à Balma et L’Union
+- **Nantes** : Bouffay, Madeleine, Coudray et Jamet. Yoga, Pilates et renforcement musculaire, et aussi à Saint-Herblain
+- **Lille** : une petite offre en ville, davantage à Marcq-en-Barœul et Wattignies. Yoga et Pilates (dont Reformer)
+- **Strasbourg** : une offre plus petite, dont Neudorf, et aussi au nord de la ville (Lampertheim, Souffelweyersheim, Mundolsheim). Pilates, renforcement musculaire, yoga et boxe
+- **Montpellier** : une petite offre, dont les Arceaux. Pilates, yoga et salles de sport
+- **Rennes** : une petite offre dans le centre. Pilates et renforcement musculaire
+- **Cannes** : une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu, et beaucoup plus à Nice. Surtout du Pilates
+
+On trouve aussi des studios dans de plus petites villes et en périphérie. Dans l’application, tu vois quels studios et salles participent près de chez toi.
+
+<h2 id="etranger">ClassPass à l’étranger</h2>
+
+Ton abonnement fonctionne aussi hors de France, dans plus de 2 500 villes et 31 pays. En voyage, tu réserves simplement un cours avec tes crédits. Les prix et l’offre varient selon le pays.
+
+<ul class="continenten">
+<li class="breed"><strong>Europe</strong> Autriche · Belgique · Danemark · Finlande · France · Allemagne · Irlande · Pays-Bas · Norvège · Portugal · Espagne · Suède · Suisse · Royaume-Uni</li>
+<li><strong>Amérique du Nord</strong> États-Unis · Canada</li>
+<li><strong>Amérique du Sud</strong> Brésil · Chili</li>
+<li><strong>Asie</strong> Japon · Hong Kong · Singapour · Thaïlande · Malaisie · Philippines · Indonésie · Inde</li>
+<li><strong>Moyen-Orient</strong> Émirats arabes unis · Qatar · Koweït</li>
+<li><strong>Océanie</strong> Australie · Nouvelle-Zélande</li>
+</ul>
+
+<p class="klein">D’après la liste des pays de ClassPass. L’offre peut évoluer.</p>
 
 <div class="aanbieder">
 
@@ -95,14 +130,6 @@ Oui. Résilie avant ta prochaine date de renouvellement et tu ne paies pas le mo
 
 </details>
 
-<details>
-<summary>Quelle différence avec Urban Sports Club ?</summary>
-
-ClassPass fonctionne avec des crédits, Urban Sports Club avec un prix fixe par mois. Lis aussi [notre page sur Urban Sports Club](/fr/urban-sports-club/).
-
-</details>
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/">Retour au guide France</a>
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Urban Sports Club</a>
 </div>

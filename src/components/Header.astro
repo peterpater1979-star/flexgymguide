@@ -1,6 +1,8 @@
 ---
 import menu from '../data/menu.json';
-const { land = 'global' } = Astro.props;
+const { land = 'global', lang = 'en' } = Astro.props;
+// Geen landenlijst in de kop: bezoekers komen op hun eigen land binnen. "Andere landen" springt naar de landenlijst in de footer (de homepage zou de browser doorsturen naar het eigen land).
+const landenLabel = { nl: 'Andere landen', de: 'Andere Länder', en: 'Other countries', fr: 'Autres pays', es: 'Otros países', pt: 'Outros países', da: 'Andre lande', sv: 'Andra länder', nb: 'Andre land', fi: 'Muut maat' }[lang as 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt' | 'da' | 'sv' | 'nb' | 'fi'];
 const huidig = menu.main.find((m) => m.land === land);
 const pad = Astro.url.pathname;
 // De stedenbalk alleen op stadspagina's; op de landpagina staat de inhoud eerst.
@@ -11,7 +13,8 @@ const toonSteden = huidig && huidig.children.length > 0 && pad !== huidig.href;
     <a class="logo" href="/"><svg class="logo-icoon" xmlns="http://www.w3.org/2000/svg" viewBox="2 6 44 44" aria-hidden="true"><rect x="2" y="6" width="44" height="44" rx="11" fill="currentColor"/><g transform="rotate(-30 24 28)" fill="#fff"><rect x="9" y="21" width="4" height="14" rx="1.5"/><rect x="13.5" y="23" width="4" height="10" rx="1.5"/><rect x="17" y="26.5" width="14" height="3" rx="1.5"/><rect x="30.5" y="23" width="4" height="10" rx="1.5"/><rect x="35" y="21" width="4" height="14" rx="1.5"/></g></svg><span class="logo-tekst">Flex<span>Gym</span>Guide</span></a>
     <nav aria-label="Main">
       <ul>
-        {menu.main.map((m) => <li><a href={m.href} aria-current={m.land === land ? 'true' : undefined}>{m.label}</a></li>)}
+        {huidig && <li><a href={huidig.href} aria-current="true">{huidig.label}</a></li>}
+        <li><a class="landen" href="#landen">{landenLabel}</a></li>
       </ul>
     </nav>
   </div>
@@ -35,6 +38,7 @@ const toonSteden = huidig && huidig.children.length > 0 && pad !== huidig.href;
   ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; }
   nav a { color: var(--text); text-decoration: none; font-weight: 500; font-size: .95rem; }
   nav a:hover, nav a[aria-current] { color: var(--accent); }
+  .landen { color: var(--muted); font-weight: 400; }
   .sub { background: var(--white); border-top: 1px solid var(--line); }
   .sub ul { padding-block: .55rem; }
   .sub a { font-weight: 500; font-size: .9rem; color: var(--muted); }

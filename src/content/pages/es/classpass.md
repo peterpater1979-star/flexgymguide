@@ -24,7 +24,7 @@ ClassPass es un pase deportivo: pagas una cuota mensual y recibes créditos. Los
 | **Tipo** | Pase deportivo con créditos |
 | **Actividades** | Yoga, pilates, boxeo, spinning, fuerza, gimnasio y más |
 | **Baja** | En cualquier momento, antes de la fecha de renovación |
-| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en más de 2.500 ciudades de 29 países |
+| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en más de 2.500 ciudades de 31 países |
 
 <p class="klein">Los precios y condiciones cambian con frecuencia. Consulta siempre la información actual en la web de ClassPass.</p>
 
@@ -57,6 +57,38 @@ ClassPass es un pase deportivo: pagas una cuota mensual y recibes créditos. Los
 </div>
 
 </div>
+
+<h2 id="ciudades">Dónde usar ClassPass en España</h2>
+
+Donde más opciones tienes con ClassPass es en estas ciudades:
+
+- **Madrid**: Chamberí, Salamanca, Centro, Chamartín y Retiro. Yoga, Pilates, fuerza y barre, y también en Las Rozas y Móstoles
+- **Barcelona**: Eixample, Poblenou, Sarrià-Sant Gervasi, Gràcia, Ciutat Vella y Sants. Yoga, Pilates, fuerza y barre, y también en Badalona
+- **Valencia**: sobre todo Ruzafa, y también Ciutat Vella, El Carmen, L’Eixample, Benimaclet y el Cabanyal. Pilates, fuerza, yoga y barre
+- **Sevilla**: Triana, Casco Antiguo, Los Remedios y San Bernardo. Yoga, fuerza y Pilates, y también en Dos Hermanas, Tomares y Alcalá de Guadaíra
+- **Málaga**: Teatinos, Centro, El Perchel y Pedregalejo. Pilates, fuerza, barre y yoga, y también en Torremolinos, Benalmádena y Rincón de la Victoria
+- **Marbella**: una oferta más pequeña, en el centro, la Milla de Oro y Nueva Andalucía. Yoga, Pilates, barre y CrossFit
+- **Alicante**: estudios repartidos por la ciudad, entre otros en el PAU 1. Pilates, fuerza y yoga, y también en Sant Joan d’Alacant, Elche, Altea y Jávea
+- **Bilbao**: una oferta más pequeña, sobre todo en Abando. Sobre todo entrenamiento de fuerza, además de Pilates y barre, y también en Barakaldo
+- **Ibiza ciudad**: una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre todo Pilates (también Lagree), fuerza y barre
+- **Palma de Mallorca**: el centro, Santa Catalina, Ponent y Llevant. Pilates, fuerza, yoga y barre, y también en Portals Nous y Palmanova
+
+En la app ves qué estudios y gimnasios participan cerca de ti.
+
+<h2 id="extranjero">ClassPass en el extranjero</h2>
+
+Tu suscripción también funciona fuera de España, en más de 2.500 ciudades de 31 países. De viaje, reservas una clase con tus créditos sin más. Los precios y la oferta varían según el país.
+
+<ul class="continenten">
+<li class="breed"><strong>Europa</strong> Austria · Bélgica · Dinamarca · Finlandia · Francia · Alemania · Irlanda · Países Bajos · Noruega · Portugal · España · Suecia · Suiza · Reino Unido</li>
+<li><strong>Norteamérica</strong> Estados Unidos · Canadá</li>
+<li><strong>Sudamérica</strong> Brasil · Chile</li>
+<li><strong>Asia</strong> Japón · Hong Kong · Singapur · Tailandia · Malasia · Filipinas · Indonesia · India</li>
+<li><strong>Oriente Medio</strong> Emiratos Árabes Unidos · Catar · Kuwait</li>
+<li><strong>Oceanía</strong> Australia · Nueva Zelanda</li>
+</ul>
+
+<p class="klein">Según la lista de países de ClassPass. La oferta puede cambiar.</p>
 
 <div class="aanbieder">
 
@@ -95,14 +127,6 @@ Sí. Date de baja antes de tu próxima fecha de renovación y no pagarás el mes
 
 </details>
 
-<details>
-<summary>¿Qué diferencia hay con Urban Sports Club?</summary>
-
-ClassPass funciona con créditos; Urban Sports Club con un precio fijo al mes. Lee también [nuestra página sobre Urban Sports Club](/es/urban-sports-club/).
-
-</details>
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/">Volver a la guía de España</a>
-<a class="knop knop-rand" href="/es/urban-sports-club/">Urban Sports Club</a>
 </div>

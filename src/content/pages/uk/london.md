@@ -1,7 +1,7 @@
 ---
 title: "Flexible fitness in London: ClassPass, Fitness First and more"
 path: "/uk/london/"
-description: "Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. We compare your options."
+description: "Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. Here's what suits you."
 lang: en
 land: uk
 byline: "Updated October 2026"
@@ -9,7 +9,7 @@ crumb: "London"
 kicker: "City guide London"
 ---
 
-Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. We compare your options.
+Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. Here's what suits you.
 
 <h2 id="glance">At a glance</h2>
 
@@ -17,7 +17,7 @@ Don't want to be tied to one gym? In London you can use a fitness pass at studio
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-classpass"><span>Best for variety</span></div>
+<div class="fotokop foto-classpass"><span>For variety</span></div>
 
 ### ClassPass
 
@@ -31,7 +31,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-fitness-first-uk"><span>Best for regular gym-goers</span></div>
+<div class="fotokop foto-fitness-first-uk"><span>For regular gym-goers</span></div>
 
 ### Fitness First
 
@@ -43,24 +43,36 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gymketen"><span>Also worth knowing</span></div>
+
+### The Gym Group
+
+Low-cost gyms without a contract, most of them open 24/7.
+
+[See the overview](#overview)
+
 </div>
 
-<div id="comparison">
+</div>
 
-## ClassPass and Fitness First compared
+<div id="overview">
+
+## ClassPass, Fitness First and The Gym Group at a glance
 
 Prices and terms change regularly. Always check the latest details with the provider.
 
-| Feature | ClassPass | Fitness First |
-| --- | --- | --- |
-| **Type** | Fitness pass with credits | Gym chain |
-| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club |
-| **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below |
-| **Locations in London** | Studios and gyms across the city | 17 clubs (26 in the UK) |
-| **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost |
-| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 29 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only |
-| **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) |
+| Feature | ClassPass | Fitness First | The Gym Group |
+| --- | --- | --- | --- |
+| **Type** | Fitness pass with credits | Gym chain | Low-cost gym chain |
+| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate |
+| **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below | Membership at your home gym, classes included. Ultimate adds access to other gyms |
+| **Locations in London** | Studios and gyms across the city | 17 clubs (25 in total) | 87 gyms (over 260 in the UK) |
+| **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost | No contract on monthly plans. Saver plans run 9 or 12 months |
+| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass | Day pass |
+| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only |
+| **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) | [All about The Gym Group](/uk/the-gym-group/) |
 
 </div>
 
@@ -80,7 +92,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 - Monthly credits for classes and gym visits
 - Studios all over London, from yoga to boxing
-- Use it in more than 2,500 other cities in 29 countries
+- Use it in more than 2,500 other cities in 31 countries
 
 ### Good for
 
@@ -110,7 +122,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 ## Fitness First in London
 
-Fitness First has 26 clubs in the UK, 17 of them in London. A membership gives you the gym floor, group classes and access to other clubs at your membership tier. Not sure yet? Try a club first with a guest pass.
+Fitness First has 25 clubs, 17 of them in London. A membership gives you the gym floor, group classes and access to other clubs at your membership tier. Not sure yet? Try a club first with a guest pass.
 
 ### What you get
 
@@ -169,7 +181,7 @@ Go for Fitness First. A gym with classes, plus other clubs at your tier.
 
 Go for ClassPass. Your membership also works in other countries where ClassPass is available.
 
-Read: Training abroad
+[ClassPass abroad](/uk/classpass/#abroad)
 
 </div>
 
@@ -209,18 +221,9 @@ That depends on your membership. You can use any club at your membership tier or
 
 ### Other cities
 
-- Flexible fitness in Manchester (coming soon)
-- Flexible fitness in Bristol (coming soon)
-- Flexible fitness in Edinburgh (coming soon)
-
-</div>
-
-<div class="kolom">
-
-### Comparisons
-
-- ClassPass vs Fitness First (coming soon)
-- Gyms without a contract: all options (coming soon)
+- [Flexible fitness in Manchester](/uk/manchester/)
+- [Flexible fitness in Birmingham](/uk/birmingham/)
+- [Flexible fitness in Glasgow](/uk/glasgow/)
 
 </div>
 
@@ -228,7 +231,6 @@ That depends on your membership. You can use any club at your membership tier or
 
 ### Explained
 
-- How much does ClassPass cost in the UK? (coming soon)
 - [All about ClassPass](/uk/classpass/)
 - [How ClassPass works](/guides/how-classpass-works/)
 
@@ -236,14 +238,5 @@ That depends on your membership. You can use any club at your membership tier or
 
 </div>
 
-### Training somewhere else?
-
-ClassPass is available in 29 countries. Choose your country for the right prices and terms.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/">Nederland</a>
-<a class="knop knop-rand" href="/de/">Deutschland</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Other countries</a>
-</div>
 
 </details>

@@ -11,11 +11,6 @@ kicker: "Länderguide Deutschland"
 
 Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Bedingungen. Hier liest du, was zu dir passt und in welchen Städten.
 
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
-<a class="knop knop-rand" href="#steden">Stadt wählen</a>
-</div>
-
 <h2 id="opties">Zwei Wege, flexibel zu trainieren</h2>
 
 <div class="kolommen">
@@ -30,7 +25,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 - Gut, wenn du Abwechslung magst
 - Gut bei ein- bis dreimal Training pro Woche
-- Funktioniert auch in 28 anderen Ländern
+- Funktioniert auch in 30 anderen Ländern
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
@@ -44,7 +39,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 ### Fitness First
 
-Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 220 Clubs in Deutschland und 4 in und um Wien.
+Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 220 Clubs in Deutschland und 5 in Österreich.
 
 - Gut, wenn du dreimal pro Woche oder öfter trainierst
 - Gut, wenn du einen festen Ort willst
@@ -136,12 +131,3 @@ Ja. Deine Credits funktionieren in allen Ländern, in denen ClassPass aktiv ist,
 
 </details>
 
-## Trainierst du woanders?
-
-ClassPass gibt es in 29 Ländern. Wähle dein Land für die passenden Preise und Bedingungen.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/">Nederland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">Andere Länder (EN)</a>
-</div>

@@ -27,7 +27,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 | **Was du machen kannst** | Yoga, Pilates, Boxen, Spinning, Krafttraining, Gym-Besuche und mehr |
 | **Kündigung** | Jederzeit anpassbar, pausierbar oder kündbar |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 29 Ländern |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 31 Ländern |
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei ClassPass.</p>
 
@@ -93,27 +93,32 @@ Trainierst du vor allem im Gym und mehrmals pro Woche? Dann schau dir auch [Fitn
 Pro Stadt stellen wir die Optionen nebeneinander:
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">Über 400 Studios und Gyms</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a></li>
-<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
-<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a></li>
-<li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg und Friedrichshain</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">Eimsbüttel, Ottensen, St. Pauli, Winterhude und Eppendorf</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">Innenstadt, Sachsenhausen, Bornheim und Westend, viel Pilates</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">Innenstadt, Belgisches Viertel, Ehrenfeld und Nippes</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">Maxvorstadt, Schwabing, Glockenbachviertel und Neuhausen, viel Pilates</span></li>
+<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">Kleines Angebot, mehr Auswahl in Frankfurt</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">Mitte und West, viel Pilates</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">Stadtmitte, Carlstadt, Pempelfort und Bilk</span></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">Kleineres Angebot, vor allem im Zentrum</span></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">Kleineres Angebot, auch in Bochum</span></li>
 </ul>
 
 <h2 id="ausland">ClassPass im Ausland</h2>
 
-Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten in 29 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
+Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten in 31 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
 
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/">Nederland</a>
-<a class="knop knop-rand" href="/uk/">United Kingdom</a>
-<a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works (EN)</a>
-</div>
+<ul class="continenten">
+<li class="breed"><strong>Europa</strong> Österreich · Belgien · Dänemark · Finnland · Frankreich · Deutschland · Irland · Niederlande · Norwegen · Portugal · Spanien · Schweden · Schweiz · Vereinigtes Königreich</li>
+<li><strong>Nordamerika</strong> USA · Kanada</li>
+<li><strong>Südamerika</strong> Brasilien · Chile</li>
+<li><strong>Asien</strong> Japan · Hongkong · Singapur · Thailand · Malaysia · Philippinen · Indonesien · Indien</li>
+<li><strong>Naher Osten</strong> Vereinigte Arabische Emirate · Katar · Kuwait</li>
+<li><strong>Ozeanien</strong> Australien · Neuseeland</li>
+</ul>
+
+<p class="klein">Laut der Länderliste von ClassPass. Das Angebot kann sich ändern.</p>
 
 <div class="aanbieder">
 
@@ -164,7 +169,7 @@ Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie in diesem M
 <details>
 <summary>Kann ich ClassPass im Ausland nutzen?</summary>
 
-Ja, überall dort, wo ClassPass aktiv ist: in über 2.500 Städten in 29 Ländern, zu den Preisen des jeweiligen Landes.
+Ja, überall dort, wo ClassPass aktiv ist: in über 2.500 Städten in 31 Ländern, zu den Preisen des jeweiligen Landes.
 
 </details>
 
