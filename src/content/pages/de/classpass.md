@@ -101,7 +101,7 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">Mitte und West, viel Pilates</span></li>
 <li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">Stadtmitte, Carlstadt, Pempelfort und Bilk</span></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">Kleineres Angebot, vor allem im Zentrum</span></li>
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
 </ul>
 
