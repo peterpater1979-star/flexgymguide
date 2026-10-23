@@ -73,7 +73,7 @@ C’est dans ces villes que tu as le plus de choix avec ClassPass :
 - **Lille** : une petite offre en ville, davantage à Marcq-en-Barœul et Wattignies. Yoga et Pilates (dont Reformer)
 - **Strasbourg** : une offre plus petite, dont Neudorf, et aussi au nord de la ville (Lampertheim, Souffelweyersheim, Mundolsheim). Pilates, renforcement musculaire, yoga et boxe
 - **Montpellier** : une petite offre, dont les Arceaux. Pilates, yoga et salles de sport
-- Rennes
+- **Rennes** : une petite offre dans le centre. Pilates et renforcement musculaire
 - Cannes
 
 On trouve aussi des studios dans de plus petites villes et en périphérie. Dans l’application, tu vois quels studios et salles participent près de chez toi.
