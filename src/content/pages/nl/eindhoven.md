@@ -50,7 +50,7 @@ Eigen clubs met gym en groepslessen: 2 in Eindhoven, 53 in heel Nederland.
 | **Soort** | Sportpas met credits | Sportschoolketen |
 | **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 weken, €1 korting per workout |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
-| **Locaties in Eindhoven** | Studio's in het centrum (onder meer bij de Lichttoren), Stratum en daarbuiten | 2 clubs (53 in heel Nederland) |
+| **Locaties in Eindhoven** | Studio's in het centrum, op Strijp-S, in Stratum en daarbuiten | 2 clubs (53 in heel Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
@@ -71,8 +71,9 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Wat je krijgt
 
 - Maandelijkse credits voor lessen en gymbezoeken
-- Studio's in het centrum (onder meer bij de Lichttoren), Stratum en daarbuiten
-- Vooral veel (reformer) pilates en yoga, maar ook krachttraining, boksen en dans
+- Studio's in het centrum (onder meer bij de Lichttoren), op Strijp-S, in Stratum en daarbuiten
+- Vooral veel (reformer) pilates en krachttraining, maar ook yoga, kickboksen, karate en dans
+- Ook studio's in Nuenen, Valkenswaard en Oirschot
 - Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>

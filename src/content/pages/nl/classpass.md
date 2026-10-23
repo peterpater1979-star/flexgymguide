@@ -107,7 +107,7 @@ ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we d
 <li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Binnenstad, Lombok, Oost en Leidsche Rijn</span></li>
 <li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">Kleiner aanbod, veel meer keuze in Amsterdam</span></li>
 <li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">Centrum, Rooseveltstraat en Leiderdorp</span></li>
-<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">Centrum en Stratum, veel pilates</span></li>
+<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">Centrum, Strijp-S en Stratum, veel pilates</span></li>
 <li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">Binnenstad, veel krachttraining</span></li>
 </ul>
 
