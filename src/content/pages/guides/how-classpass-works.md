@@ -78,20 +78,6 @@ Unused credits roll over, up to the number of credits in your next month's plan.
 
 </div>
 
-<div id="plans">
-
-## Plans and cancelling
-
-You're never locked in: you can change or cancel your plan at any time. Prices and credit amounts differ per country, so check the details for where you live.
-
-- **[ClassPass in the UK](/uk/)** · Prices in £, English
-- **[ClassPass in Nederland](/nl/)** · Prijzen in €, Nederlands
-- **[ClassPass in Deutschland](/de/)** · Preise in €, Deutsch
-- **ClassPass in Österreich** · Preise in €, Deutsch
-- **ClassPass in der Schweiz** · Preise in CHF, Deutsch
-
-</div>
-
 <div id="abroad">
 
 ## Using ClassPass abroad
@@ -172,6 +158,29 @@ They roll over to the next month, up to the number of credits in your next month
 Yes. Besides classes such as yoga and Pilates, you can book gym visits at participating gyms.
 
 </details>
+
+</div>
+
+<div id="plans">
+
+## Plans and cancelling
+
+You're never locked in: you can change or cancel your plan at any time. Prices and credit amounts differ per country, so check the details for where you live.
+
+- **[ClassPass in the UK](/uk/classpass/)** · Prices in £, English
+- **[ClassPass in Ireland](/ie/classpass/)** · Prices in €, English
+- **[ClassPass in Nederland](/nl/classpass/)** · Prijzen in €, Nederlands
+- **[ClassPass in België](/be/classpass/)** · Prijzen in €, Nederlands
+- **[ClassPass in Deutschland](/de/classpass/)** · Preise in €, Deutsch
+- **[ClassPass in Österreich](/at/classpass/)** · Preise in €, Deutsch
+- **[ClassPass in der Schweiz](/ch/classpass/)** · Preise in CHF, Deutsch
+- **[ClassPass en France](/fr/classpass/)** · Prix en €, français
+- **[ClassPass en España](/es/classpass/)** · Precios en €, español
+- **[ClassPass em Portugal](/pt/classpass/)** · Preços em €, português
+- **[ClassPass i Danmark](/dk/classpass/)** · Priser i DKK, dansk
+- **[ClassPass i Sverige](/se/classpass/)** · Priser i SEK, svenska
+- **[ClassPass i Norge](/no/classpass/)** · Priser i NOK, norsk
+- **[ClassPass Suomessa](/fi/classpass/)** · Hinnat euroina, suomi
 
 </div>
 
