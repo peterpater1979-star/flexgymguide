@@ -122,14 +122,6 @@ Sí. Date de baja antes de tu próxima fecha de renovación y no pagarás el mes
 
 </details>
 
-<details>
-<summary>¿Qué diferencia hay con Urban Sports Club?</summary>
-
-ClassPass funciona con créditos; Urban Sports Club con un precio fijo al mes. Lee también [nuestra página sobre Urban Sports Club](/es/urban-sports-club/).
-
-</details>
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/">Volver a la guía de España</a>
-<a class="knop knop-rand" href="/es/urban-sports-club/">Urban Sports Club</a>
 </div>

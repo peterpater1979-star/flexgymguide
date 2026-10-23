@@ -125,14 +125,6 @@ Oui. Résilie avant ta prochaine date de renouvellement et tu ne paies pas le mo
 
 </details>
 
-<details>
-<summary>Quelle différence avec Urban Sports Club ?</summary>
-
-ClassPass fonctionne avec des crédits, Urban Sports Club avec un prix fixe par mois. Lis aussi [notre page sur Urban Sports Club](/fr/urban-sports-club/).
-
-</details>
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/">Retour au guide France</a>
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Urban Sports Club</a>
 </div>

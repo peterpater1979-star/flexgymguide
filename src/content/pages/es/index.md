@@ -33,23 +33,6 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 
 </div>
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-urban-sports"><span>Otro pase deportivo</span></div>
-
-### Urban Sports Club
-
-Una cuota mensual fija con check-ins en gimnasios y estudios asociados, para gimnasio, clases y más.
-
-- Ideal si quieres un precio fijo al mes
-- Ideal si entrenas a menudo en centros asociados
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
 </div>
 
 <div id="ciudades">

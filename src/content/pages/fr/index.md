@@ -33,23 +33,6 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 
 </div>
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-urban-sports"><span>Autre pass sport</span></div>
-
-### Urban Sports Club
-
-Un abonnement mensuel fixe avec des check-ins chez des salles et studios partenaires, pour la salle de sport, les cours et plus encore.
-
-- Idéal si tu veux un prix fixe par mois
-- Idéal si tu t’entraînes souvent dans des lieux partenaires
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
-</div>
-
-</div>
-
 </div>
 
 <div id="villes">

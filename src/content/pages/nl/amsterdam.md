@@ -1,7 +1,7 @@
 ---
-title: "Flexibel sporten in Amsterdam: ClassPass, Trainmore en meer"
+title: "Flexibel sporten in Amsterdam: ClassPass en Trainmore"
 path: "/nl/amsterdam/"
-description: "Flexibel sporten in Amsterdam: ClassPass met studio's en gyms in de hele stad, Trainmore met 31 clubs of Urban Sports Club. Zo kies je wat bij je past."
+description: "Flexibel sporten in Amsterdam: ClassPass met studio's en gyms in de hele stad of Trainmore met 31 clubs. Zo kies je wat bij je past."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
@@ -39,34 +39,22 @@ Eigen clubs met gym en groepslessen: 31 in Amsterdam, 53 in heel Nederland.
 
 </div>
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-urban-sports"><span>Ook bekend</span></div>
-
-### Urban Sports Club
-
-Vast maandabonnement met check-ins bij partnerlocaties. Classic kost €75 per maand en is maandelijks opzegbaar.
-
-[Bekijk de opties op een rij](#op-een-rij)
-
 </div>
 
-</div>
-
-<h2 id="op-een-rij">ClassPass, Trainmore en Urban Sports Club op een rij</h2>
+<h2 id="op-een-rij">ClassPass en Trainmore op een rij</h2>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
 
-| Kenmerk | ClassPass | Trainmore | Urban Sports Club |
-| --- | --- | --- | --- |
-| **Soort** | Sportpas met credits | Sportschoolketen | Sportpas met vast abonnement |
-| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104 per 4 weken, €1 korting per workout | Classic €75 per maand (10 check-ins), met jaarcontract €64 |
-| **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | Check-ins bij partnerlocaties. Per locatie dagelijks, 4 of 8 keer per kalendermaand, dat verschilt per locatie. Maximaal 1 check-in per locatie per dag |
-| **Locaties in Amsterdam** | Studio's en gyms in de hele stad, van yoga tot fitness, ook gyms waar je zelf traint, zonder les | 31 clubs (53 in heel Nederland) | Partners in heel Amsterdam |
-| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app | Maandelijks opzegbaar tot 3 dagen voor de verlenging, of goedkoper met 1 of 2 jaar vast |
-| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis (Essential, 3 check-ins) |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="ja" aria-hidden="true">✓</span> Ja, in 7 Europese landen |
-| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) | [Website Urban Sports Club](https://urbansportsclub.com/nl/prices/amsterdam?duration=monthly) |
+| Kenmerk | ClassPass | Trainmore |
+| --- | --- | --- |
+| **Soort** | Sportpas met credits | Sportschoolketen |
+| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104 per 4 weken, €1 korting per workout |
+| **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
+| **Locaties in Amsterdam** | Studio's en gyms in de hele stad, van yoga tot fitness, ook gyms waar je zelf traint, zonder les | 31 clubs (53 in heel Nederland) |
+| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
+| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
+| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) |
 
 <div id="classpass" class="aanbieder">
 
@@ -232,13 +220,6 @@ Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatu
 <summary>Heeft Trainmore een gratis proefles?</summary>
 
 Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
-
-</details>
-
-<details>
-<summary>Is Urban Sports Club een alternatief?</summary>
-
-Ja. Urban Sports Club werkt met een vast maandabonnement en check-ins bij partnerlocaties. Kijk in het [overzicht hierboven](#op-een-rij) voor de verschillen.
 
 </details>
 
