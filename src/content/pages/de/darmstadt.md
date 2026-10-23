@@ -9,7 +9,7 @@ crumb: "Darmstadt"
 kicker: "Stadtguide Darmstadt"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Darmstadt trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In und um Darmstadt trainierst du mit einem Sportpass in Studios in der Region oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -56,7 +56,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
 | **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Darmstadt** | Studios und Gyms in der ganzen Stadt | 10 Clubs |
+| **Standorte in Darmstadt** | Wenige Studios in Darmstadt selbst, mehr Auswahl in Frankfurt, Mainz und Wiesbaden | 10 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 4 in und um Wien |
@@ -74,12 +74,14 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 ## ClassPass in Darmstadt
 
-Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
+Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der Region einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
 
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
-- Studios in ganz Darmstadt, von Yoga bis Boxen
+- In Darmstadt selbst ist das Angebot klein
+- Viel mehr Auswahl in Frankfurt (etwa 30 Minuten mit der S-Bahn), dazu Studios in Mainz, Wiesbaden, Heidelberg und Mannheim
+- Vor allem Pilates, dazu Yoga, Krafttraining und Barre
 - Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für
