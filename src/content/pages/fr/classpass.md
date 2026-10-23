@@ -71,7 +71,7 @@ C’est dans ces villes que tu as le plus de choix avec ClassPass :
 - **Toulouse** : surtout dans le centre. Yoga, Pilates et renforcement musculaire, et aussi à Balma et L’Union
 - **Nantes** : Bouffay, Madeleine, Coudray et Jamet. Yoga, Pilates et renforcement musculaire, et aussi à Saint-Herblain
 - **Lille** : une petite offre en ville, davantage à Marcq-en-Barœul et Wattignies. Yoga et Pilates (dont Reformer)
-- Strasbourg
+- **Strasbourg** : une offre plus petite, dont Neudorf, et aussi au nord de la ville (Lampertheim, Souffelweyersheim, Mundolsheim). Pilates, renforcement musculaire, yoga et boxe
 - Montpellier
 - Rennes
 - Cannes
