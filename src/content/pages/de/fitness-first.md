@@ -198,7 +198,7 @@ Willst du lieber zwischen Studios wechseln? Dann schau dir [ClassPass](/de/class
 
 </details>
 
-<p class="klein">Österreich: 3 Clubs in Wien, 1 in Vösendorf und 1 in Gleisdorf bei Graz. Stand: Oktober 2026, laut fitnessfirst.de.</p>
+<p class="klein">Österreich: 4 Clubs in und um Wien (darunter Vösendorf) und 1 in Gleisdorf bei Graz. Stand: Oktober 2026, laut fitnessfirst.de.</p>
 
 <div class="aanbieder">
 

@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Österreich"
 path: "/at/"
-description: "Flexibel trainieren in Wien: mit ClassPass in Studios in der ganzen Stadt oder bei Fitness First mit 3 Clubs in Wien und 1 in Vösendorf. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Wien: mit ClassPass in Studios in der ganzen Stadt oder bei Fitness First mit 4 Clubs in und um Wien. So findest du, was zu dir passt."
 lang: de
 land: at
 byline: "Aktualisiert im Oktober 2026"
@@ -41,7 +41,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 ### Fitness First
 
-3 Clubs in Wien, 1 in Vösendorf und 1 in Gleisdorf bei Graz, mit Geräten, Kursen und Wellness. Dazu kommen 220 Clubs in Deutschland.
+4 Clubs in und um Wien und 1 in Gleisdorf bei Graz, mit Geräten, Kursen und Wellness. Dazu kommen 220 Clubs in Deutschland.
 
 - Gut bei dreimal Training pro Woche oder öfter
 - Gym, Kurse und Wellness an einem Ort

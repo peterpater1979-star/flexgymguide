@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Wien: ClassPass und Fitness First"
 path: "/at/wien/"
-description: "Flexibel trainieren in Wien: ClassPass mit Studios in vielen Bezirken oder Fitness First mit 3 Clubs in Wien und 1 in Vösendorf. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Wien: ClassPass mit Studios in vielen Bezirken oder Fitness First mit 4 Clubs in und um Wien. So findest du, was zu dir passt."
 lang: de
 land: at
 byline: "Aktualisiert im Oktober 2026"
@@ -35,7 +35,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-3 Clubs in Wien und 1 in Vösendorf. Mit Geräten, Kursen und Wellness.
+4 Clubs in und um Wien. Mit Geräten, Kursen und Wellness.
 
 <div class="knoppen">
 <a class="knop" href="#fitness-first">Fitness First ansehen</a>
@@ -56,7 +56,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
 | **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Wien** | Studios in Mariahilf, der Inneren Stadt, Landstraße, Neubau, Wieden und mehr | 3 Clubs in Wien, 1 in Vösendorf |
+| **Standorte in Wien** | Studios in Mariahilf, der Inneren Stadt, Landstraße, Neubau, Wieden und mehr | 4 Clubs in und um Wien, darunter Vösendorf |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | Auch 220 Clubs in Deutschland |
@@ -112,7 +112,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ## Fitness First in Wien
 
-Fitness First hat 3 Clubs in Wien und 1 in Vösendorf, dazu 220 Clubs in Deutschland. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich mit Sauna und Dampfbad. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Fitness First hat 4 Clubs in und um Wien, darunter Vösendorf, dazu 220 Clubs in Deutschland. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich mit Sauna und Dampfbad. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 ### Das bekommst du
 
@@ -198,7 +198,7 @@ Ja. Du kannst deine Credits auch in der Umgebung, etwa in Klosterneuburg, Mödli
 <details>
 <summary>Bietet Fitness First in Wien ein kostenloses Probetraining an?</summary>
 
-Ja. Du kannst online ein kostenloses und unverbindliches Probetraining in einem der Clubs in Wien oder Vösendorf buchen.
+Ja. Du kannst online ein kostenloses und unverbindliches Probetraining in einem der Clubs in und um Wien buchen.
 
 </details>
 
