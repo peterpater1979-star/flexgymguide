@@ -63,7 +63,7 @@ ClassPass is a fitness pass: you pay a monthly fee and get credits in return. Yo
 These are the cities where you get the most choice with ClassPass:
 
 - **Dublin**: City centre, Portobello, Rathmines, Ranelagh, Ballsbridge, Clontarf and Sandyford. Mostly yoga and Pilates, also in Dún Laoghaire, Blackrock, Malahide and Swords
-- Cork
+- **Cork**: a small choice, in the city centre, Shandon, Ballintemple and Douglas. Mostly strength training and gyms, also boxing
 
 <h2 id="abroad">ClassPass abroad</h2>
 
