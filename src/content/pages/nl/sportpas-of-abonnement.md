@@ -106,3 +106,8 @@ Ja. ClassPass heeft een gratis proefperiode en bij Trainmore plan je een gratis 
 Een ClassPass-abonnement wijzig of stop je vóór de volgende verlengdatum. Een sportschoolabonnement heeft vaak een minimale looptijd en een opzegtermijn, dus kijk daar goed naar voordat je tekent.
 
 </details>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/classpass-credits/">ClassPass-credits uitgelegd</a>
+<a class="knop knop-rand" href="/nl/eerste-les/">Je eerste les</a>
+</div>

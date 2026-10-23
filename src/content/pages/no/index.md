@@ -85,6 +85,12 @@ Du kan endre, pause eller si opp abonnementet ditt når som helst.
 
 [Les hele guiden (engelsk)](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Guider</h2>
+
+- **[Treningspass eller senter?](/no/treningspass-eller-treningssenter/)** · det som passer deg
+- **[ClassPass-kreditter forklart](/no/classpass-kreditter/)** · flere timer ut av abonnementet
+- **[Din første time](/no/din-forste-time/)** · hva du skal ta med
+
 ## Ofte stilte spørsmål
 
 <details open>

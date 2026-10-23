@@ -87,6 +87,12 @@ Je kunt je abonnement altijd aanpassen, pauzeren of opzeggen.
 
 [Lees de volledige uitleg (Engels)](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Gidsen</h2>
+
+- **[Sportpas of abonnement?](/nl/sportpas-of-abonnement/)** · wat past bij hoe jij traint
+- **[ClassPass-credits uitgelegd](/nl/classpass-credits/)** · meer lessen uit je abonnement
+- **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
+
 ## Veelgestelde vragen
 
 <details open>

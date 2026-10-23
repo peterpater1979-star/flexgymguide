@@ -107,3 +107,8 @@ Yes. ClassPass has a free trial, and most gym chains offer a free trial session 
 You can change or cancel a ClassPass plan before your next renewal date. Gym memberships often have a minimum term and a notice period, so check this before you sign.
 
 </details>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/guides/classpass-credits/">ClassPass credits explained</a>
+<a class="knop knop-rand" href="/guides/first-class/">Your first class</a>
+</div>

@@ -122,6 +122,12 @@ You can change, pause or cancel your plan at any time.
 
 [Read the full guide](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Guides</h2>
+
+- **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · what suits how you train
+- **[ClassPass credits explained](/guides/classpass-credits/)** · more classes from your plan
+- **[Your first class](/guides/first-class/)** · what to bring
+
 ## Frequently asked questions
 
 <details open>

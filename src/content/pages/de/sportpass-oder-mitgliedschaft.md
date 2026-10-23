@@ -106,3 +106,8 @@ Ja. ClassPass hat einen kostenlosen Testzeitraum und bei Fitness First buchst du
 Ein ClassPass-Abo änderst oder kündigst du vor dem nächsten Verlängerungsdatum. Eine Fitnessstudio-Mitgliedschaft hat oft eine Mindestlaufzeit und eine Kündigungsfrist, also schau dir das vor dem Abschluss genau an.
 
 </details>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
+<a class="knop knop-rand" href="/de/erstes-training/">Dein erstes Training</a>
+</div>

@@ -87,6 +87,12 @@ Du kan ändra, pausa eller säga upp ditt abonnemang när som helst.
 
 [Läs hela guiden (engelska)](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Guider</h2>
+
+- **[Träningspass eller gym?](/se/traningspass-eller-gym/)** · det som passar dig
+- **[ClassPass-krediter förklarade](/se/classpass-krediter/)** · fler klasser av ditt abonnemang
+- **[Ditt första pass](/se/ditt-forsta-pass/)** · vad du ska ta med
+
 ## Vanliga frågor
 
 <details open>

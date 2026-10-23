@@ -108,6 +108,12 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 
 [Ausführliche Erklärung lesen (EN)](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Ratgeber</h2>
+
+- **[Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)** · was zu deinem Training passt
+- **[ClassPass-Credits erklärt](/de/classpass-credits/)** · mehr Kurse aus deinem Abo
+- **[Dein erstes Training](/de/erstes-training/)** · was du mitnimmst
+
 ## Häufige Fragen
 
 <details open>
