@@ -1,7 +1,7 @@
 ---
 title: "Fitness First UK: clubs, membership prices and cancelling"
 path: "/uk/fitness-first/"
-description: "Everything about Fitness First in the UK: 26 clubs, Single Club and Classic memberships, multi-club access, the minimum term, cancelling and guest passes."
+description: "Everything about Fitness First in the UK: 25 clubs, Single Club and Classic memberships, multi-club access, the minimum term, cancelling and guest passes."
 lang: en
 land: uk
 byline: "Updated October 2026"
@@ -11,7 +11,7 @@ kicker: "Provider: gym chain"
 
 <div class="fotobanner foto-fitness-first-uk" role="img" aria-label="Gym"></div>
 
-Fitness First has 26 clubs in the UK, 17 of them in London. A membership gives you the gym floor, group classes and, depending on your tier, access to other clubs. Not sure yet? Try a club first with a guest pass.
+Fitness First has 25 clubs, 17 of them in London and the others in towns such as Bath, Bedford, Milton Keynes and St Albans. A membership gives you the gym floor, group classes and, depending on your tier, access to other clubs. Not sure yet? Try a club first with a guest pass.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.fitnessfirst.co.uk/">Visit the Fitness First website</a>
@@ -23,7 +23,7 @@ Fitness First has 26 clubs in the UK, 17 of them in London. A membership gives y
 | | Fitness First |
 | --- | --- |
 | **Type** | Gym chain with its own clubs |
-| **Clubs** | 26 in the UK, 17 in London |
+| **Clubs** | 25, of which 17 in London |
 | **Price** | Varies by club and membership tier |
 | **Membership** | Single Club or Classic (multi-club access) |
 | **Try it first** | Guest pass |
@@ -102,8 +102,18 @@ Would you rather switch between studios? Then take a look at [ClassPass](/uk/cla
 <h2 id="cities">Fitness First in your city</h2>
 
 <ul class="stedenlijst">
-<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">17 clubs</span></li>
+<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">17 clubs: Baker Street, Balham, Bishopsgate, Brixton, Clapham Junction, Fenchurch Street, Hammersmith, Highbury, Liverpool Street, London Bridge, Marylebone, Oxford Circus, Queen Victoria Street, Queen's Park, Streatham, The Strand and Wapping</span></li>
+<li><strong>Bangor</strong> <span class="klein">Wales, 1 club</span></li>
+<li><strong>Bath</strong> <span class="klein">1 club</span></li>
+<li><strong>Bedford</strong> <span class="klein">1 club</span></li>
+<li><strong>Jersey</strong> <span class="klein">St Helier, 1 club</span></li>
+<li><strong>Milton Keynes</strong> <span class="klein">1 club</span></li>
+<li><strong>Solihull</strong> <span class="klein">near Birmingham, 1 club</span></li>
+<li><strong>St Albans</strong> <span class="klein">1 club</span></li>
+<li><strong>Wigan</strong> <span class="klein">near Manchester, 1 club</span></li>
 </ul>
+
+<p class="klein">Based on the Fitness First club finder, October 2026.</p>
 
 <div class="aanbieder">
 
