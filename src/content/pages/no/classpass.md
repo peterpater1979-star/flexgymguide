@@ -68,17 +68,14 @@ Med ClassPass har du mest å velge mellom i og rundt:
 
 Abonnementet ditt fungerer også utenfor Norge, i over 2 500 byer i 31 land. På reise booker du bare en time med kredittene dine. Priser og utvalg varierer fra land til land.
 
-**Europa:** Østerrike · Belgia · Danmark · Finland · Frankrike · Tyskland · Irland · Nederland · Norge · Portugal · Spania · Sverige · Sveits · Storbritannia
-
-**Nord-Amerika:** USA · Canada
-
-**Sør-Amerika:** Brasil · Chile
-
-**Asia:** Japan · Hongkong · Singapore · Thailand · Malaysia · Filippinene · Indonesia · India
-
-**Midtøsten:** De forente arabiske emirater · Qatar · Kuwait
-
-**Oseania:** Australia · New Zealand
+<ul class="continenten">
+<li class="breed"><strong>Europa</strong> Østerrike · Belgia · Danmark · Finland · Frankrike · Tyskland · Irland · Nederland · Norge · Portugal · Spania · Sverige · Sveits · Storbritannia</li>
+<li><strong>Nord-Amerika</strong> USA · Canada</li>
+<li><strong>Sør-Amerika</strong> Brasil · Chile</li>
+<li><strong>Asia</strong> Japan · Hongkong · Singapore · Thailand · Malaysia · Filippinene · Indonesia · India</li>
+<li><strong>Midtøsten</strong> De forente arabiske emirater · Qatar · Kuwait</li>
+<li><strong>Oseania</strong> Australia · New Zealand</li>
+</ul>
 
 <p class="klein">Basert på ClassPass' egen landliste. Utvalget kan endre seg.</p>
 

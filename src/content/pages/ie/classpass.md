@@ -69,17 +69,14 @@ These are the cities where you get the most choice with ClassPass:
 
 Your plan also works outside Ireland, in more than 2,500 cities in 31 countries. So when you travel, you simply book a class with your credits. Prices and choice vary by country.
 
-**Europe:** Austria · Belgium · Denmark · Finland · France · Germany · Ireland · Netherlands · Norway · Portugal · Spain · Sweden · Switzerland · United Kingdom
-
-**North America:** United States · Canada
-
-**South America:** Brazil · Chile
-
-**Asia:** Japan · Hong Kong · Singapore · Thailand · Malaysia · Philippines · Indonesia · India
-
-**Middle East:** United Arab Emirates · Qatar · Kuwait
-
-**Oceania:** Australia · New Zealand
+<ul class="continenten">
+<li class="breed"><strong>Europe</strong> Austria · Belgium · Denmark · Finland · France · Germany · Ireland · Netherlands · Norway · Portugal · Spain · Sweden · Switzerland · United Kingdom</li>
+<li><strong>North America</strong> United States · Canada</li>
+<li><strong>South America</strong> Brazil · Chile</li>
+<li><strong>Asia</strong> Japan · Hong Kong · Singapore · Thailand · Malaysia · Philippines · Indonesia · India</li>
+<li><strong>Middle East</strong> United Arab Emirates · Qatar · Kuwait</li>
+<li><strong>Oceania</strong> Australia · New Zealand</li>
+</ul>
 
 <p class="klein">Based on ClassPass's own country list. Availability can change.</p>
 

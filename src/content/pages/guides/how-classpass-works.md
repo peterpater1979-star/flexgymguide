@@ -84,29 +84,14 @@ Unused credits roll over, up to the number of credits in your next month's plan.
 
 Your membership works wherever ClassPass is available. Credit values, availability and cancellation fees can differ per city, and different rules may apply while you're on a trial.
 
-### Europe
-
-United Kingdom · Ireland · Netherlands · Belgium · Germany · Austria · Switzerland · France · Spain · Portugal · Denmark · Sweden · Norway · Finland
-
-### North America
-
-United States · Canada
-
-### South America
-
-Brazil · Chile
-
-### Asia
-
-Japan · Hong Kong · Singapore · Thailand · Malaysia · Philippines · Indonesia · India
-
-### Middle East
-
-United Arab Emirates · Qatar · Kuwait
-
-### Oceania
-
-Australia · New Zealand
+<ul class="continenten">
+<li class="breed"><strong>Europe</strong> United Kingdom · Ireland · Netherlands · Belgium · Germany · Austria · Switzerland · France · Spain · Portugal · Denmark · Sweden · Norway · Finland</li>
+<li><strong>North America</strong> United States · Canada</li>
+<li><strong>South America</strong> Brazil · Chile</li>
+<li><strong>Asia</strong> Japan · Hong Kong · Singapore · Thailand · Malaysia · Philippines · Indonesia · India</li>
+<li><strong>Middle East</strong> United Arab Emirates · Qatar · Kuwait</li>
+<li><strong>Oceania</strong> Australia · New Zealand</li>
+</ul>
 
 <p class="klein">Based on ClassPass's own country list. Availability can change.</p>
 
