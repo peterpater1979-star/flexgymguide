@@ -71,7 +71,7 @@ Donde más opciones tienes con ClassPass es en estas ciudades:
 - **Alicante**: estudios repartidos por la ciudad, entre otros en el PAU 1. Pilates, fuerza y yoga, y también en Sant Joan d’Alacant, Elche, Altea y Jávea
 - **Bilbao**: una oferta más pequeña, sobre todo en Abando. Sobre todo entrenamiento de fuerza, además de Pilates y barre, y también en Barakaldo
 - **Ibiza ciudad**: una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre todo Pilates (también Lagree), fuerza y barre
-- Palma de Mallorca
+- **Palma de Mallorca**: el centro, Santa Catalina, Ponent y Llevant. Pilates, fuerza, yoga y barre, y también en Portals Nous y Palmanova
 
 En la app ves qué estudios y gimnasios participan cerca de ti.
 
