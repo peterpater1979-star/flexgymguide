@@ -67,7 +67,7 @@ Donde más opciones tienes con ClassPass es en estas ciudades:
 - **Valencia**: sobre todo Ruzafa, y también Ciutat Vella, El Carmen, L’Eixample, Benimaclet y el Cabanyal. Pilates, fuerza, yoga y barre
 - **Sevilla**: Triana, Casco Antiguo, Los Remedios y San Bernardo. Yoga, fuerza y Pilates, y también en Dos Hermanas, Tomares y Alcalá de Guadaíra
 - **Málaga**: Teatinos, Centro, El Perchel y Pedregalejo. Pilates, fuerza, barre y yoga, y también en Torremolinos, Benalmádena y Rincón de la Victoria
-- Marbella
+- **Marbella**: una oferta más pequeña, en el centro, la Milla de Oro y Nueva Andalucía. Yoga, Pilates, barre y CrossFit
 - Alicante
 - Bilbao
 - Ibiza ciudad
