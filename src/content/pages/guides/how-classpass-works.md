@@ -65,6 +65,8 @@ Unused credits roll over, up to the number of credits in your next month's plan.
 
 </div>
 
+More tips in [ClassPass credits explained](/guides/classpass-credits/).
+
 </div>
 
 <div id="steps">

@@ -113,6 +113,8 @@ A membership at one chain, with the gym floor and group classes, usually after a
 
 - **[How ClassPass works](/guides/how-classpass-works/)** · Credits, plans, and what to watch out for.
 - **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · What suits how you train.
+- **[ClassPass credits explained](/guides/classpass-credits/)** · Getting more classes out of your plan.
+- **[Your first class](/guides/first-class/)** · What to bring and what to expect.
 
 </div>
 
