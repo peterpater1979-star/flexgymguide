@@ -64,7 +64,7 @@ Det är i de här städerna du har störst utbud med ClassPass:
 
 - **Stockholm**: Södermalm, Vasastan, Norrmalm, Kungsholmen och Östermalm. Mest yoga, även pilates och meditation, och även i Täby och Nacka
 - **Göteborg**: centrum, Linné, Majorna, Johanneberg, Gårda och Eriksberg. Mest gym, även yoga och styrketräning
-- Malmö
+- **Malmö**: centrum, Västra Hamnen, Limhamn och Hyllie. Pilates, gym och yoga, bland annat hos Friskis&Svettis
 
 <h2 id="utomlands">ClassPass utomlands</h2>
 
