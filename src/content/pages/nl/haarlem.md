@@ -50,7 +50,7 @@ Eigen clubs met gym en groepslessen: 1 in Haarlem, 53 in heel Nederland.
 | **Soort** | Sportpas met credits | Sportschoolketen |
 | **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 weken, €1 korting per workout |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
-| **Locaties in Haarlem** | Gyms en studio's door de hele stad, van yoga tot fitness | 1 club (53 in heel Nederland) |
+| **Locaties in Haarlem** | Een kleiner aanbod in de stad, met veel meer keuze in Amsterdam | 1 club (53 in heel Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
@@ -62,7 +62,7 @@ Eigen clubs met gym en groepslessen: 1 in Haarlem, 53 in heel Nederland.
 
 ## ClassPass in Haarlem
 
-Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's door de hele stad. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
+Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's in Haarlem, in de regio en in Amsterdam. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
 
 <div class="kolommen">
 
@@ -71,7 +71,9 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Wat je krijgt
 
 - Maandelijkse credits voor lessen en gymbezoeken
-- Studio's door heel Haarlem, van yoga tot boksen
+- Een kleiner aanbod in Haarlem zelf, zoals yoga en pilates in het centrum en dansles
+- Werk of woon je ook in Amsterdam? Daar heb je met hetzelfde abonnement veel meer keuze
+- Ook studio's in Beverwijk, Aalsmeer en Sassenheim
 - Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>

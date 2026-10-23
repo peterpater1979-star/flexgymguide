@@ -105,10 +105,10 @@ ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we d
 <li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Centrum, Kralingen, Hillegersberg, Noord en Zuid</span></li>
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Centrum, Zeeheldenkwartier, Bezuidenhout en Scheveningen</span></li>
 <li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Binnenstad, Lombok, Oost en Leidsche Rijn</span></li>
-<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">Studio's in en rond de stad</span></li>
-<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">Studio's in en rond de stad</span></li>
+<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">Kleiner aanbod, veel meer keuze in Amsterdam</span></li>
+<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">Centrum, Rooseveltstraat en Leiderdorp</span></li>
 <li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">Centrum en Stratum, veel pilates</span></li>
-<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">Studio's in en rond de stad</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">Binnenstad, veel krachttraining</span></li>
 </ul>
 
 <h2 id="buitenland">ClassPass in het buitenland</h2>
