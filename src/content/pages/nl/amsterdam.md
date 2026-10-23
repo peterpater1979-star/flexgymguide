@@ -71,7 +71,9 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Wat je krijgt
 
 - Maandelijkse credits voor lessen en gymbezoeken
-- Studio's door heel Amsterdam, van yoga tot boksen
+- Studio's door heel Amsterdam: Oud-West, Centrum, de Jordaan, De Pijp, Oost, Oud-Zuid en Noord
+- Vooral veel pilates, maar ook yoga, spinning, krachttraining, boksen en open gym
+- Ook studio's in Amstelveen en Weesp
 - Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
