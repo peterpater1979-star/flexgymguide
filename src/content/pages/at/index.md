@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Österreich"
 path: "/at/"
-description: "Ohne langen Vertrag in einem einzigen Studio trainieren? Mit ClassPass trainierst du mit einem Abo in Studios und Gyms in Wien. So funktioniert es."
+description: "Flexibel trainieren in Wien: mit ClassPass in Studios in der ganzen Stadt oder bei Fitness First mit 3 Clubs in Wien und 1 in Vösendorf. So findest du, was zu dir passt."
 lang: de
 land: at
 byline: "Aktualisiert im Oktober 2026"
@@ -9,9 +9,11 @@ crumb: "Österreich"
 kicker: "Länderguide Österreich"
 ---
 
-Keine Lust auf einen langen Vertrag in einem einzigen Studio? Mit einem Sportpass wie ClassPass trainierst du mit einem Abo in verschiedenen Studios und Gyms. Hier liest du, wie das in Österreich funktioniert und in welchen Städten.
+Keine Lust auf einen langen Vertrag in einem einzigen Studio? In Österreich trainierst du vor allem in Wien flexibel: mit einem Sportpass wie ClassPass in verschiedenen Studios oder bei Fitness First mit eigenen Clubs. So findest du, was zu dir passt.
 
-<h2 id="opties">Flexibel trainieren mit einem Sportpass</h2>
+<h2 id="opties">Deine Möglichkeiten in Wien</h2>
+
+Ausführlich im [Stadtguide Wien](/at/wien/).
 
 <div class="kolommen">
 
@@ -33,21 +35,29 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 </div>
 
-<div class="kolom kaart" id="steden">
+<div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Städte</span></div>
+<div class="fotokop foto-fitness-first-de"><span>Fitnessstudiokette</span></div>
 
-### Wo funktioniert es?
+### Fitness First
 
-ClassPass hat in Österreich Partnerstudios in:
+3 Clubs in Wien und 1 in Vösendorf, mit Geräten, Kursen und Wellness. Dazu kommen 220 Clubs in Deutschland.
 
-- Wien
+- Gut bei dreimal Training pro Woche oder öfter
+- Gym, Kurse und Wellness an einem Ort
+- Auch in Deutschland trainieren
 
-In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
-
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 </div>
+
+</div>
+
+<h2 id="steden">Wo funktioniert ClassPass?</h2>
+
+ClassPass gibt es in Österreich vor allem in Wien, mit Studios unter anderem in Mariahilf, der Inneren Stadt, Landstraße, Neubau und Wieden. Dazu kommen einige Studios in der Umgebung, etwa in Klosterneuburg, Mödling und Baden. Alles über ClassPass und Fitness First in der Hauptstadt liest du im [Stadtguide Wien](/at/wien/). In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 
 ## So funktioniert ClassPass in Österreich
 
@@ -97,7 +107,7 @@ Das hängt von der Anzahl Credits pro Monat ab. Die aktuellen Preise findest du 
 <details>
 <summary>Ist ClassPass günstiger als ein Fitnessstudio?</summary>
 
-Wenn du dreimal pro Woche oder öfter ins selbe Studio gehst, ist eine normale Mitgliedschaft meist günstiger. Wenn du gern zwischen Studios wechselst, passt ein Sportpass besser.
+Wenn du dreimal pro Woche oder öfter ins selbe Studio gehst, ist eine normale Mitgliedschaft, etwa bei [Fitness First](/de/fitness-first/), meist günstiger. Wenn du gern zwischen Studios wechselst, passt ein Sportpass besser.
 
 </details>
 

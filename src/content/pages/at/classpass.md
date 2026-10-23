@@ -62,7 +62,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 
 In Österreich findest du die Studios von ClassPass in:
 
-- **Wien**: Innere Stadt, Neubau, Mariahilf, Landstraße, Hietzing und Penzing. Vor allem Yoga und Pilates
+- **[Wien](/at/wien/)**: Mariahilf, Innere Stadt, Landstraße, Neubau und Wieden. Krafttraining, Pilates und Yoga, auch in Klosterneuburg, Mödling und Baden
 
 In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 

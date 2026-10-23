@@ -5,7 +5,7 @@
     { "label": "United Kingdom", "href": "/uk/", "land": "uk", "children": [{ "label": "London", "href": "/uk/london/" }, { "label": "Manchester", "href": "/uk/manchester/" }, { "label": "Birmingham", "href": "/uk/birmingham/" }, { "label": "Liverpool", "href": "/uk/liverpool/" }, { "label": "Leeds", "href": "/uk/leeds/" }, { "label": "Glasgow", "href": "/uk/glasgow/" }, { "label": "Newcastle", "href": "/uk/newcastle/" }, { "label": "Nottingham", "href": "/uk/nottingham/" }, { "label": "Bristol", "href": "/uk/bristol/" }, { "label": "Sheffield", "href": "/uk/sheffield/" }] },
     { "label": "France", "href": "/fr/", "land": "fr", "children": [{ "label": "ClassPass", "href": "/fr/classpass/" }] },
     { "label": "España", "href": "/es/", "land": "es", "children": [{ "label": "ClassPass", "href": "/es/classpass/" }] },
-    { "label": "Österreich", "href": "/at/", "land": "at", "children": [{ "label": "ClassPass", "href": "/at/classpass/" }] },
+    { "label": "Österreich", "href": "/at/", "land": "at", "children": [{ "label": "Wien", "href": "/at/wien/" }, { "label": "ClassPass", "href": "/at/classpass/" }] },
     { "label": "Schweiz", "href": "/ch/", "land": "ch", "children": [{ "label": "ClassPass", "href": "/ch/classpass/" }] },
     { "label": "België", "href": "/be/", "land": "be", "children": [{ "label": "ClassPass", "href": "/be/classpass/" }] },
     { "label": "Portugal", "href": "/pt/", "land": "pt", "children": [{ "label": "ClassPass", "href": "/pt/classpass/" }] },
