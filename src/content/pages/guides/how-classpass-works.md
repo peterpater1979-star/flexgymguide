@@ -88,9 +88,25 @@ Your membership works wherever ClassPass is available. Credit values, availabili
 
 United Kingdom · Ireland · Netherlands · Belgium · Germany · Austria · Switzerland · France · Spain · Portugal · Denmark · Sweden · Norway · Finland
 
-### Rest of the world
+### North America
 
-United States · Canada · Australia · New Zealand · Japan · Singapore · Hong Kong · Malaysia · Thailand · Indonesia · Philippines · India · United Arab Emirates · Qatar · Kuwait · Brazil · Chile
+United States · Canada
+
+### South America
+
+Brazil · Chile
+
+### Asia
+
+Japan · Hong Kong · Singapore · Thailand · Malaysia · Philippines · Indonesia · India
+
+### Middle East
+
+United Arab Emirates · Qatar · Kuwait
+
+### Oceania
+
+Australia · New Zealand
 
 <p class="klein">Based on ClassPass's own country list. Availability can change.</p>
 

@@ -82,9 +82,17 @@ On trouve aussi des studios dans de plus petites villes et en périphérie. Dans
 
 Ton abonnement fonctionne aussi hors de France, dans plus de 2 500 villes et 31 pays. En voyage, tu réserves simplement un cours avec tes crédits. Les prix et l’offre varient selon le pays.
 
-**En Europe :** Autriche · Belgique · Danemark · Finlande · France · Allemagne · Irlande · Pays-Bas · Norvège · Portugal · Espagne · Suède · Suisse · Royaume-Uni
+**Europe :** Autriche · Belgique · Danemark · Finlande · France · Allemagne · Irlande · Pays-Bas · Norvège · Portugal · Espagne · Suède · Suisse · Royaume-Uni
 
-**Hors d’Europe :** États-Unis · Australie · Brésil · Canada · Chili · Hong Kong · Inde · Indonésie · Japon · Koweït · Malaisie · Nouvelle-Zélande · Philippines · Qatar · Singapour · Thaïlande · Émirats arabes unis
+**Amérique du Nord :** États-Unis · Canada
+
+**Amérique du Sud :** Brésil · Chili
+
+**Asie :** Japon · Hong Kong · Singapour · Thaïlande · Malaisie · Philippines · Indonésie · Inde
+
+**Moyen-Orient :** Émirats arabes unis · Qatar · Koweït
+
+**Océanie :** Australie · Nouvelle-Zélande
 
 <p class="klein">D’après la liste des pays de ClassPass. L’offre peut évoluer.</p>
 

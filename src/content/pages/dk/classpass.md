@@ -69,9 +69,17 @@ Det er i disse byer, du har mest at vælge imellem med ClassPass:
 
 Dit abonnement virker også uden for Danmark, i over 2.500 byer i 31 lande. På rejsen booker du bare en time med dine credits. Priser og udvalg varierer fra land til land.
 
-**I Europa:** Østrig · Belgien · Danmark · Finland · Frankrig · Tyskland · Irland · Holland · Norge · Portugal · Spanien · Sverige · Schweiz · Storbritannien
+**Europa:** Østrig · Belgien · Danmark · Finland · Frankrig · Tyskland · Irland · Holland · Norge · Portugal · Spanien · Sverige · Schweiz · Storbritannien
 
-**Uden for Europa:** USA · Australien · Brasilien · Canada · Chile · Hongkong · Indien · Indonesien · Japan · Kuwait · Malaysia · New Zealand · Filippinerne · Qatar · Singapore · Thailand · De Forenede Arabiske Emirater
+**Nordamerika:** USA · Canada
+
+**Sydamerika:** Brasilien · Chile
+
+**Asien:** Japan · Hongkong · Singapore · Thailand · Malaysia · Filippinerne · Indonesien · Indien
+
+**Mellemøsten:** De Forenede Arabiske Emirater · Qatar · Kuwait
+
+**Oceanien:** Australien · New Zealand
 
 <p class="klein">Baseret på ClassPass' egen landeliste. Udvalget kan ændre sig.</p>
 

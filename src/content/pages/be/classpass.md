@@ -72,9 +72,17 @@ In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
 
 Je abonnement werkt ook buiten België, in meer dan 2.500 steden in 31 landen. Op reis boek je dus gewoon een les met je credits. Prijzen en aanbod verschillen per land.
 
-**In Europa:** Oostenrijk · België · Denemarken · Finland · Frankrijk · Duitsland · Ierland · Nederland · Noorwegen · Portugal · Spanje · Zweden · Zwitserland · Verenigd Koninkrijk
+**Europa:** Oostenrijk · België · Denemarken · Finland · Frankrijk · Duitsland · Ierland · Nederland · Noorwegen · Portugal · Spanje · Zweden · Zwitserland · Verenigd Koninkrijk
 
-**Buiten Europa:** Verenigde Staten · Australië · Brazilië · Canada · Chili · Hongkong · India · Indonesië · Japan · Koeweit · Maleisië · Nieuw-Zeeland · Filipijnen · Qatar · Singapore · Thailand · Verenigde Arabische Emiraten
+**Noord-Amerika:** Verenigde Staten · Canada
+
+**Zuid-Amerika:** Brazilië · Chili
+
+**Azië:** Japan · Hongkong · Singapore · Thailand · Maleisië · Filipijnen · Indonesië · India
+
+**Midden-Oosten:** Verenigde Arabische Emiraten · Qatar · Koeweit
+
+**Oceanië:** Australië · Nieuw-Zeeland
 
 <p class="klein">Gebaseerd op de landenlijst van ClassPass. Het aanbod kan veranderen.</p>
 

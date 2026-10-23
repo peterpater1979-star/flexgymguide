@@ -71,9 +71,17 @@ Na app vês que estúdios e ginásios participam perto de ti.
 
 A tua subscrição também funciona fora de Portugal, em mais de 2.500 cidades de 31 países. Em viagem, reservas simplesmente uma aula com os teus créditos. Os preços e a oferta variam de país para país.
 
-**Na Europa:** Áustria · Bélgica · Dinamarca · Finlândia · França · Alemanha · Irlanda · Países Baixos · Noruega · Portugal · Espanha · Suécia · Suíça · Reino Unido
+**Europa:** Áustria · Bélgica · Dinamarca · Finlândia · França · Alemanha · Irlanda · Países Baixos · Noruega · Portugal · Espanha · Suécia · Suíça · Reino Unido
 
-**Fora da Europa:** Estados Unidos · Austrália · Brasil · Canadá · Chile · Hong Kong · Índia · Indonésia · Japão · Kuwait · Malásia · Nova Zelândia · Filipinas · Catar · Singapura · Tailândia · Emirados Árabes Unidos
+**América do Norte:** Estados Unidos · Canadá
+
+**América do Sul:** Brasil · Chile
+
+**Ásia:** Japão · Hong Kong · Singapura · Tailândia · Malásia · Filipinas · Indonésia · Índia
+
+**Médio Oriente:** Emirados Árabes Unidos · Catar · Kuwait
+
+**Oceânia:** Austrália · Nova Zelândia
 
 <p class="klein">Com base na lista de países do ClassPass. A oferta pode mudar.</p>
 

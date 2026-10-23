@@ -70,9 +70,17 @@ Det är i de här städerna du har störst utbud med ClassPass:
 
 Ditt abonnemang fungerar även utanför Sverige, i över 2 500 städer i 31 länder. På resan bokar du bara ett pass med dina krediter. Priser och utbud varierar mellan länderna.
 
-**I Europa:** Österrike · Belgien · Danmark · Finland · Frankrike · Tyskland · Irland · Nederländerna · Norge · Portugal · Spanien · Sverige · Schweiz · Storbritannien
+**Europa:** Österrike · Belgien · Danmark · Finland · Frankrike · Tyskland · Irland · Nederländerna · Norge · Portugal · Spanien · Sverige · Schweiz · Storbritannien
 
-**Utanför Europa:** USA · Australien · Brasilien · Kanada · Chile · Hongkong · Indien · Indonesien · Japan · Kuwait · Malaysia · Nya Zeeland · Filippinerna · Qatar · Singapore · Thailand · Förenade Arabemiraten
+**Nordamerika:** USA · Kanada
+
+**Sydamerika:** Brasilien · Chile
+
+**Asien:** Japan · Hongkong · Singapore · Thailand · Malaysia · Filippinerna · Indonesien · Indien
+
+**Mellanöstern:** Förenade Arabemiraten · Qatar · Kuwait
+
+**Oceanien:** Australien · Nya Zeeland
 
 <p class="klein">Baserat på ClassPass egen landslista. Utbudet kan ändras.</p>
 

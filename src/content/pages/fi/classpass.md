@@ -70,9 +70,17 @@ Näissä kaupungeissa sinulla on ClassPassin kanssa eniten valinnanvaraa:
 
 Jäsenyytesi toimii myös Suomen ulkopuolella, yli 2 500 kaupungissa 31 maassa. Matkoilla varaat tunnin tavalliseen tapaan krediiteilläsi. Hinnat ja tarjonta vaihtelevat maittain.
 
-**Euroopassa:** Itävalta · Belgia · Tanska · Suomi · Ranska · Saksa · Irlanti · Alankomaat · Norja · Portugali · Espanja · Ruotsi · Sveitsi · Iso-Britannia
+**Eurooppa:** Itävalta · Belgia · Tanska · Suomi · Ranska · Saksa · Irlanti · Alankomaat · Norja · Portugali · Espanja · Ruotsi · Sveitsi · Iso-Britannia
 
-**Euroopan ulkopuolella:** Yhdysvallat · Australia · Brasilia · Kanada · Chile · Hongkong · Intia · Indonesia · Japani · Kuwait · Malesia · Uusi-Seelanti · Filippiinit · Qatar · Singapore · Thaimaa · Arabiemiirikunnat
+**Pohjois-Amerikka:** Yhdysvallat · Kanada
+
+**Etelä-Amerikka:** Brasilia · Chile
+
+**Aasia:** Japani · Hongkong · Singapore · Thaimaa · Malesia · Filippiinit · Indonesia · Intia
+
+**Lähi-itä:** Arabiemiirikunnat · Qatar · Kuwait
+
+**Oseania:** Australia · Uusi-Seelanti
 
 <p class="klein">Perustuu ClassPassin omaan maaluetteloon. Tarjonta voi muuttua.</p>
 

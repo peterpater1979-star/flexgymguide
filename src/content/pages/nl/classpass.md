@@ -115,9 +115,17 @@ ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we d
 
 Je abonnement werkt ook buiten Nederland, in meer dan 2.500 steden in 31 landen. Op reis kun je dus gewoon een les boeken met je credits. Prijzen en het aanbod verschillen per land.
 
-**In Europa:** Oostenrijk · België · Denemarken · Finland · Frankrijk · Duitsland · Ierland · Nederland · Noorwegen · Portugal · Spanje · Zweden · Zwitserland · Verenigd Koninkrijk
+**Europa:** Oostenrijk · België · Denemarken · Finland · Frankrijk · Duitsland · Ierland · Nederland · Noorwegen · Portugal · Spanje · Zweden · Zwitserland · Verenigd Koninkrijk
 
-**Buiten Europa:** Verenigde Staten · Australië · Brazilië · Canada · Chili · Hongkong · India · Indonesië · Japan · Koeweit · Maleisië · Nieuw-Zeeland · Filipijnen · Qatar · Singapore · Thailand · Verenigde Arabische Emiraten
+**Noord-Amerika:** Verenigde Staten · Canada
+
+**Zuid-Amerika:** Brazilië · Chili
+
+**Azië:** Japan · Hongkong · Singapore · Thailand · Maleisië · Filipijnen · Indonesië · India
+
+**Midden-Oosten:** Verenigde Arabische Emiraten · Qatar · Koeweit
+
+**Oceanië:** Australië · Nieuw-Zeeland
 
 <p class="klein">Gebaseerd op de landenlijst van ClassPass. Het aanbod kan veranderen.</p>
 

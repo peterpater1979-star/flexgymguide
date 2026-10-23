@@ -109,9 +109,17 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 
 Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten in 31 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
 
-**In Europa:** Österreich · Belgien · Dänemark · Finnland · Frankreich · Deutschland · Irland · Niederlande · Norwegen · Portugal · Spanien · Schweden · Schweiz · Vereinigtes Königreich
+**Europa:** Österreich · Belgien · Dänemark · Finnland · Frankreich · Deutschland · Irland · Niederlande · Norwegen · Portugal · Spanien · Schweden · Schweiz · Vereinigtes Königreich
 
-**Außerhalb Europas:** USA · Australien · Brasilien · Kanada · Chile · Hongkong · Indien · Indonesien · Japan · Kuwait · Malaysia · Neuseeland · Philippinen · Katar · Singapur · Thailand · Vereinigte Arabische Emirate
+**Nordamerika:** USA · Kanada
+
+**Südamerika:** Brasilien · Chile
+
+**Asien:** Japan · Hongkong · Singapur · Thailand · Malaysia · Philippinen · Indonesien · Indien
+
+**Naher Osten:** Vereinigte Arabische Emirate · Katar · Kuwait
+
+**Ozeanien:** Australien · Neuseeland
 
 <p class="klein">Laut der Länderliste von ClassPass. Das Angebot kann sich ändern.</p>
 
