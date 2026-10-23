@@ -50,7 +50,7 @@ Eigen clubs met gym en groepslessen: 3 in Utrecht, 53 in heel Nederland.
 | **Soort** | Sportpas met credits | Sportschoolketen |
 | **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 weken, €1 korting per workout |
 | **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
-| **Locaties in Utrecht** | Gyms en studio's door de hele stad, van yoga tot fitness | 3 clubs (53 in heel Nederland) |
+| **Locaties in Utrecht** | Studio's in de binnenstad, Lombok, Oost, Zuilen, Rivierenwijk en Leidsche Rijn | 3 clubs (53 in heel Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
@@ -71,7 +71,9 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Wat je krijgt
 
 - Maandelijkse credits voor lessen en gymbezoeken
-- Studio's door heel Utrecht, van yoga tot boksen
+- Studio's door heel Utrecht: de binnenstad (vooral rond de Oudegracht), Lombok, Oost, Zuilen, Rivierenwijk en Leidsche Rijn
+- Vooral veel yoga (ook hot yoga) en pilates, maar ook krachttraining en boksen
+- Ook studio's in De Meern, Maarssen en Bilthoven
 - Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
