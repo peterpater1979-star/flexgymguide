@@ -67,7 +67,7 @@ C’est dans ces villes que tu as le plus de choix avec ClassPass :
 - **Marseille** : Vieux-Port, Castellane, Longchamp et Château-Gombert. Yoga, Pilates et renforcement musculaire, et aussi à Cassis
 - **Bordeaux** : Chartrons, Saint-Pierre, Saint-Genès, Pey-Berland et la Bastide. Surtout du yoga et du Pilates, et aussi à Talence, Pessac, Mérignac et au Bouscat
 - **Nice** : surtout le centre et le Carré d’Or, mais aussi le Port et Cimiez. Beaucoup de Pilates, du renforcement musculaire et du yoga
-- Aix-en-Provence
+- **Aix-en-Provence** : surtout dans le centre historique, autour du cours Mirabeau, et aussi aux Milles. Beaucoup de Pilates, du renforcement musculaire et de la boxe, et aussi à Éguilles et Venelles
 - **Toulouse** : surtout dans le centre. Yoga, Pilates et renforcement musculaire, et aussi à Balma et L’Union
 - **Nantes** : Bouffay, Madeleine, Coudray et Jamet. Yoga, Pilates et renforcement musculaire, et aussi à Saint-Herblain
 - **Lille** : une petite offre en ville, davantage à Marcq-en-Barœul et Wattignies. Yoga et Pilates (dont Reformer)
