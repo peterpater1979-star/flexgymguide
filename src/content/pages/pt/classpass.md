@@ -63,7 +63,7 @@ O ClassPass é um passe desportivo: pagas uma mensalidade e recebes créditos. U
 É nestas cidades que tens mais escolha com o ClassPass:
 
 - **Lisboa**: Santos, Príncipe Real, Chiado, Campo de Ourique, Saldanha, Belém e Restelo. Sobretudo yoga e Pilates, e também em Algés e Amadora
-- Porto
+- **Porto**: por enquanto uma oferta pequena, sobretudo ginásios e treino de força. Vê na app o que há perto de ti
 
 Na app vês que estúdios e ginásios participam perto de ti.
 
