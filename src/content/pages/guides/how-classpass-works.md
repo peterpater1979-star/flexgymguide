@@ -71,10 +71,10 @@ Unused credits roll over, up to the number of credits in your next month's plan.
 
 ## Step by step
 
-1.  1 Start your free trialSign up and get trial credits to try classes and gym visits.
-2.  2 Find classes near youSearch by city, neighbourhood or postcode, and filter by activity and time.
-3.  3 Book with creditsReserve your spot in the app. No separate account at the studio needed.
-4.  4 Pick a plan after the trialChoose the number of credits that fits how often you train.
+1. **Start your free trial.** Sign up and get trial credits to try classes and gym visits.
+2. **Find classes near you.** Search by city, neighbourhood or postcode, and filter by activity and time.
+3. **Book with credits.** Reserve your spot in the app. No separate account at the studio needed.
+4. **Pick a plan after the trial.** Choose the number of credits that fits how often you train.
 
 </div>
 
@@ -119,6 +119,8 @@ Your membership works wherever ClassPass is available. Credit values, availabili
 
 - Use the same gym four or more times a week
 - Want unlimited visits to one club
+
+Not sure? Read [Gym pass or gym membership?](/guides/gym-pass-or-membership/)
 
 </div>
 

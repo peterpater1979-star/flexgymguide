@@ -120,7 +120,7 @@ Dat hangt af van het aantal credits per maand. Het kleinste abonnement kost €1
 <details>
 <summary>Is ClassPass goedkoper dan een sportschool?</summary>
 
-Train je drie keer per week of vaker in de gym, dan is een vaste sportschool meestal voordeliger. Wil je afwisselen tussen studio's, dan past een sportpas beter.
+Train je drie keer per week of vaker in de gym, dan is een vaste sportschool meestal voordeliger. Wil je afwisselen tussen studio's, dan past een sportpas beter. Meer hierover in [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
 
 </details>
 

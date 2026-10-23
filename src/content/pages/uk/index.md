@@ -134,7 +134,7 @@ It depends on the number of credits per month. Check the current prices with Cla
 <details>
 <summary>Is ClassPass cheaper than a gym?</summary>
 
-If you go to the gym three times a week or more, a regular gym is usually cheaper. If you like switching between studios, a fitness pass suits you better.
+If you go to the gym three times a week or more, a regular gym is usually cheaper. If you like switching between studios, a fitness pass suits you better. More in [Gym pass or gym membership?](/guides/gym-pass-or-membership/)
 
 </details>
 

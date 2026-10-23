@@ -120,7 +120,7 @@ Das hängt von der Zahl der Credits pro Monat ab. Prüfe die aktuellen Preise be
 <details>
 <summary>Ist ClassPass günstiger als ein Fitnessstudio?</summary>
 
-Wer dreimal pro Woche oder öfter ins Gym geht, fährt mit einem festen Studio meist günstiger. Wer zwischen Studios wechseln will, ist mit einem Sportpass besser bedient.
+Wer dreimal pro Woche oder öfter ins Gym geht, fährt mit einem festen Studio meist günstiger. Wer zwischen Studios wechseln will, ist mit einem Sportpass besser bedient. Mehr dazu im Ratgeber [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
 </details>
 
