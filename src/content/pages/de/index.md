@@ -39,7 +39,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 ### Fitness First
 
-Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 220 Clubs in Deutschland und 4 in und um Wien.
+Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 220 Clubs in Deutschland und 5 in Österreich.
 
 - Gut, wenn du dreimal pro Woche oder öfter trainierst
 - Gut, wenn du einen festen Ort willst

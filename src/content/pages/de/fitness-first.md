@@ -11,7 +11,7 @@ kicker: "Anbieter: Fitnessstudiokette"
 
 <div class="fotobanner foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
 
-Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 4 Clubs in und um Wien. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
+Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clubs in Österreich. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.fitnessfirst.de/">Zur Website von Fitness First</a>
@@ -23,11 +23,11 @@ Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 4 Clu
 | | Fitness First |
 | --- | --- |
 | **Art** | Fitnessstudiokette mit eigenen Clubs |
-| **Clubs** | 220 in Deutschland, 4 in und um Wien |
+| **Clubs** | 220 in Deutschland, 5 in Österreich |
 | **Preis** | Je nach Club und Mitgliedschaft |
 | **Mitgliedschaft** | RED oder BLACK |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
-| **Im Ausland** | Nur Deutschland und Wien |
+| **Im Ausland** | Nur Deutschland und Österreich |
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei Fitness First.</p>
 
@@ -65,7 +65,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 ### Weniger geeignet für
 
 - Alle, die jede Woche etwas anderes machen wollen, zum Beispiel Yoga, Boxen oder Pilates in verschiedenen Studios
-- Alle, die oft im Ausland trainieren: Fitness First gibt es nur in Deutschland und Wien
+- Alle, die oft im Ausland trainieren: Fitness First gibt es nur in Deutschland und Österreich
 
 </div>
 
@@ -198,7 +198,7 @@ Willst du lieber zwischen Studios wechseln? Dann schau dir [ClassPass](/de/class
 
 </details>
 
-<p class="klein">Österreich: 3 Clubs in Wien und 1 in Vösendorf. Stand: Oktober 2026, laut fitnessfirst.de.</p>
+<p class="klein">Österreich: 3 Clubs in Wien, 1 in Vösendorf und 1 in Gleisdorf bei Graz. Stand: Oktober 2026, laut fitnessfirst.de.</p>
 
 <div class="aanbieder">
 
@@ -247,7 +247,7 @@ Das hängt von deiner Mitgliedschaft ab: Je nach Mitgliedschaft trainierst du in
 <details>
 <summary>Gibt es Fitness First auch im Ausland?</summary>
 
-Außerhalb von Deutschland gibt es 4 Clubs in und um Wien. Trainierst du oft in anderen Ländern, passt ein Sportpass wie [ClassPass](/de/classpass/) besser.
+Außerhalb von Deutschland gibt es 5 Clubs in Österreich, vor allem in und um Wien. Trainierst du oft in anderen Ländern, passt ein Sportpass wie [ClassPass](/de/classpass/) besser.
 
 </details>
 

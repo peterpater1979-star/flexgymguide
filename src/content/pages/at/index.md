@@ -41,7 +41,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 ### Fitness First
 
-3 Clubs in Wien und 1 in Vösendorf, mit Geräten, Kursen und Wellness. Dazu kommen 220 Clubs in Deutschland.
+3 Clubs in Wien, 1 in Vösendorf und 1 in Gleisdorf bei Graz, mit Geräten, Kursen und Wellness. Dazu kommen 220 Clubs in Deutschland.
 
 - Gut bei dreimal Training pro Woche oder öfter
 - Gym, Kurse und Wellness an einem Ort

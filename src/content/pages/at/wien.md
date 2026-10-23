@@ -130,7 +130,7 @@ Fitness First hat 3 Clubs in Wien und 1 in Vösendorf, dazu 220 Clubs in Deutsch
 ### Achte darauf
 
 - Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- In Österreich nur in Wien und Vösendorf
+- In Österreich nur in Wien, Vösendorf und Gleisdorf bei Graz
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

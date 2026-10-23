@@ -59,7 +59,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Standorte in München** | Studios in Maxvorstadt, Schwabing, Glockenbachviertel, Neuhausen und mehr | 8 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 4 in und um Wien |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
 
 </div>
@@ -128,7 +128,7 @@ Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 8 in München
 ### Achte darauf
 
 - Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- Nur in Deutschland und Wien
+- Nur in Deutschland und Österreich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
