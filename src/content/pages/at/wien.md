@@ -117,7 +117,8 @@ Fitness First hat 3 Clubs in Wien und 1 in Vösendorf, dazu 220 Clubs in Deutsch
 ### Das bekommst du
 
 - Zugang zu allen oder ausgewählten Clubs, je nach Mitgliedschaft
-- Großes Kursprogramm, unter anderem HYROX, Les Mills, Yoga und Aqua
+- Kurse in Wien, unter anderem Indoor Cycling, Les Mills und Pilates
+- Freihantelbereich mit Squat Racks, Cardio- und Gerätetraining und Functional Training
 - Wellnessbereich mit Sauna und Dampfbad
 - Der Club in Vösendorf ist täglich von 6 bis 24 Uhr geöffnet und hat einen eigenen Frauenbereich
 - Freunde kostenlos zum Training mitbringen
