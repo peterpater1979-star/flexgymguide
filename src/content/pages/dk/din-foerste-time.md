@@ -60,7 +60,7 @@ Sko med en flad, fast sål til squats og løft. Et håndklæde til bænkene og t
 
 <h2 id="tips">Fem tips til dit første besøg</h2>
 
-1. **Kom ti minutter før.** Så har du tid til at finde omklædningsrummet, udfylde en formular eller få en kort introduktion.
+1. **Kom ti minutter før.** Så har du tid til at finde omklædningsrummet, udfylde en formular eller få en kort introduktion. Ved indgangen tjekker du ind: i receptionen, hvor en medarbejder registrerer dig, på en skærm eller med en QR-kode, du har fået på mail.
 2. **Sig, at du er ny.** Instruktøren kan vise dig det grundlæggende og foreslå lettere varianter.
 3. **Nævn skader.** Et ømt knæ eller en øm ryg er godt for instruktøren at vide, før du starter.
 4. **Start på dit eget niveau.** Ingen forventer, at du kan følge med de faste deltagere på din første time.

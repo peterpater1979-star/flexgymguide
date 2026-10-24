@@ -60,7 +60,7 @@ Schuhe mit flacher, fester Sohle für Kniebeugen und Heben. Ein Handtuch für di
 
 <h2 id="tipps">Fünf Tipps für deinen ersten Besuch</h2>
 
-1. **Komm zehn Minuten früher.** So hast du Zeit, die Umkleide zu finden, ein Formular auszufüllen oder eine kurze Einweisung zu bekommen.
+1. **Komm zehn Minuten früher.** So hast du Zeit, die Umkleide zu finden, ein Formular auszufüllen oder eine kurze Einweisung zu bekommen. Am Eingang meldest du dich an: am Empfang, wo dich jemand als anwesend einträgt, an einem Bildschirm oder mit einem QR-Code, den du per E-Mail bekommen hast.
 2. **Sag, dass du neu bist.** Der Trainer kann dir die Grundlagen zeigen und leichtere Varianten vorschlagen.
 3. **Erwähne Verletzungen.** Ein schmerzendes Knie oder ein empfindlicher Rücken ist gut vorher zu wissen.
 4. **Starte auf deinem Niveau.** Niemand erwartet, dass du im ersten Kurs mit den Stammgästen mithältst.

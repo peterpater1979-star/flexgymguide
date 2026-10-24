@@ -60,7 +60,7 @@ Skor med platt, stadig sula för knäböj och lyft. En handduk till bänkarna oc
 
 <h2 id="tips">Fem tips för ditt första besök</h2>
 
-1. **Kom tio minuter tidigare.** Då hinner du hitta omklädningsrummet, fylla i ett formulär eller få en kort introduktion.
+1. **Kom tio minuter tidigare.** Då hinner du hitta omklädningsrummet, fylla i ett formulär eller få en kort introduktion. Vid entrén checkar du in: i receptionen, där någon registrerar dig, på en skärm eller med en QR-kod som du fått via mejl.
 2. **Säg att du är ny.** Instruktören kan visa dig grunderna och föreslå enklare varianter.
 3. **Berätta om skador.** Ett ömt knä eller en öm rygg är bra för instruktören att veta innan du börjar.
 4. **Börja på din egen nivå.** Ingen förväntar sig att du ska hänga med de vana deltagarna på din första klass.

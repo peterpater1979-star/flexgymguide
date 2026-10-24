@@ -60,7 +60,7 @@ Kengät, joissa on tasainen ja tukeva pohja kyykkyihin ja nostoihin. Pyyhe penke
 
 <h2 id="vinkit">Viisi vinkkiä ensimmäiselle käynnille</h2>
 
-1. **Tule kymmenen minuuttia etuajassa.** Ehdit löytää pukuhuoneen, täyttää lomakkeen tai saada lyhyen perehdytyksen.
+1. **Tule kymmenen minuuttia etuajassa.** Ehdit löytää pukuhuoneen, täyttää lomakkeen tai saada lyhyen perehdytyksen. Sisäänkäynnillä ilmoittaudut: vastaanotossa, jossa työntekijä merkitsee sinut paikalle, näytöllä tai sähköpostiin saamallasi QR-koodilla.
 2. **Kerro, että olet uusi.** Ohjaaja voi näyttää perusteet ja ehdottaa helpompia vaihtoehtoja.
 3. **Mainitse vammat.** Kipeä polvi tai selkä on hyvä kertoa ohjaajalle ennen aloitusta.
 4. **Aloita omalta tasoltasi.** Kukaan ei odota, että pysyt vakiokävijöiden tahdissa ensimmäisellä tunnillasi.

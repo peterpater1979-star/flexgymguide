@@ -60,7 +60,7 @@ Des chaussures à semelle plate et ferme pour les squats et les levées. Une ser
 
 <h2 id="conseils">Cinq conseils pour ta première visite</h2>
 
-1. **Arrive dix minutes en avance.** Tu as le temps de trouver le vestiaire, de remplir un formulaire ou d’avoir une petite présentation.
+1. **Arrive dix minutes en avance.** Tu as le temps de trouver le vestiaire, de remplir un formulaire ou d’avoir une petite présentation. À l’entrée, tu t’enregistres : à l’accueil, où quelqu’un note ta présence, sur un écran, ou avec un QR code reçu par e-mail.
 2. **Dis que tu es nouveau.** Le coach peut te montrer les bases et proposer des variantes plus faciles.
 3. **Signale tes blessures.** Un genou ou un dos sensible, c’est bon à savoir avant de commencer.
 4. **Commence à ton niveau.** Personne ne s’attend à ce que tu suives les habitués dès ton premier cours.

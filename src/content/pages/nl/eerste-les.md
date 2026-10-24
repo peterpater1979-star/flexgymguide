@@ -60,7 +60,7 @@ Schoenen met een vlakke, stevige zool voor squats en tillen. Een handdoek voor o
 
 <h2 id="tips">Vijf tips voor je eerste bezoek</h2>
 
-1. **Kom tien minuten eerder.** Dan heb je tijd om de kleedkamer te vinden, een formulier in te vullen of een korte uitleg te krijgen.
+1. **Kom tien minuten eerder.** Dan heb je tijd om de kleedkamer te vinden, een formulier in te vullen of een korte uitleg te krijgen. Bij de ingang meld je je aan: bij de balie, waar een medewerker je aanwezig zet, op een scherm, of met een QR-code die je per e-mail hebt gekregen.
 2. **Zeg dat je nieuw bent.** De instructeur kan je de basis laten zien en makkelijkere varianten voorstellen.
 3. **Meld blessures.** Een pijnlijke knie of rug is goed om vooraf te vertellen.
 4. **Begin op je eigen niveau.** Niemand verwacht dat je in je eerste les de vaste deelnemers bijhoudt.
