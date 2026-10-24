@@ -9,7 +9,7 @@ crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij studio's en gyms in de hele stad terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
+Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij studio's en gyms in de hele stad terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Amsterdam](/nl/sporten-zonder-contract-amsterdam/).
 
 <h2 id="kort">In het kort</h2>
 
