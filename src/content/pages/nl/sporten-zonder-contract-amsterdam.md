@@ -16,12 +16,12 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Amsterdam kun je o
 | | Opzeggen | Prijs | Goed voor |
 | --- | --- | --- | --- |
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Vanaf € 19 per maand (11 credits) | Afwisseling bij studio's en gyms in de hele stad |
-| **Trainmore Flex** | Maandelijks | € 104 per 4 weken in een Black Label-club, plus € 29 eenmalig | Premium sportschool met groepslessen, voor wie vaak traint |
+| **Trainmore Flex** | Maandelijks | € 74 tot € 116 per 4 weken, afhankelijk van de club | Premium sportschool met groepslessen, voor wie vaak traint |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Lijnbaansgracht (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
-<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Amsterdam. Trainmore: club Koningin Wilhelminaplein, vóór korting. Basic-Fit: landelijke prijzen. SportCity: club Lijnbaansgracht. Controleer de actuele prijs altijd bij de aanbieder.</p>
+<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Amsterdam. Trainmore: clubs Bos en Lommer, Koningin Wilhelminaplein en Amstelveenseweg, vóór korting. Basic-Fit: landelijke prijzen. SportCity: club Lijnbaansgracht. Controleer de actuele prijs altijd bij de aanbieder.</p>
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
@@ -37,7 +37,15 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 <h2 id="trainmore">Trainmore Flex: maandelijks opzegbaar</h2>
 
-Trainmore is een premium sportschoolketen met groepslessen en clubs in het centrum van de stad. Er zijn 31 clubs in Amsterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. Bij Trainmore Koningin Wilhelminaplein (Black Label) was dat in oktober 2026 € 104 per 4 weken, plus € 29 eenmalig voor het starterpakket. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
+Trainmore is een premium sportschoolketen met groepslessen en clubs in het centrum van de stad. Er zijn 31 clubs in Amsterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. De prijs hangt af van het label van de club. Zo zagen de prijzen er in oktober 2026 uit, per 4 weken:
+
+| Looptijd | Regular (Bos en Lommer) | Black Label (Koningin Wilhelminaplein) | Red Label (Amstelveenseweg) |
+| --- | --- | --- | --- |
+| Flex | € 74 | € 104 | € 116 |
+| 1 jaar | € 54 | € 84 | € 96 |
+| 2 jaar | € 47 | zie site | € 89 |
+
+Bij een Regular-club train je alleen in je eigen club. Met een Red Label-lidmaatschap (Premium) kun je ook in alle Black Label- en Regular-clubs trainen. Bij Flex betaal je eenmalig € 29 voor het starterpakket; bij een contract van 1 of 2 jaar krijg je de eerste maanden vaak 50% korting. Studenten betalen bij Bos en Lommer € 40 per 4 weken, met een jaarcontract. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
