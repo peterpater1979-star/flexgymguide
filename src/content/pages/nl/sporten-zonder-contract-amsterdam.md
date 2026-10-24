@@ -72,7 +72,7 @@ Zo zagen de prijzen er in oktober 2026 uit bij SportCity Amsterdam Lijnbaansgrac
 
 Bij Flex betaal je € 4,99 inschrijfgeld, in plaats van de gewone € 9,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. De prijs verschilt flink per club: bij Amsterdam Weteringdwarsstraat, een paar minuten verderop, begon City One bij € 52,99 per 4 weken. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
 
-<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> , de clubpagina Weteringdwarsstraat en de inschrijfpagina voor Lijnbaansgracht (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
+<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a>, de clubpagina Weteringdwarsstraat en de inschrijfpagina voor Lijnbaansgracht (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 

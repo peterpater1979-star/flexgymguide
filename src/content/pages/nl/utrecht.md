@@ -9,7 +9,7 @@ crumb: "Utrecht"
 kicker: "Stadsgids Utrecht"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Utrecht kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
+Geen zin in een jaarcontract bij één sportschool? In Utrecht kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Utrecht](/nl/sporten-zonder-contract-utrecht/).
 
 <h2 id="kort">In het kort</h2>
 
