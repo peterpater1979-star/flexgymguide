@@ -37,7 +37,7 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 <h2 id="trainmore">Trainmore Flex: maandelijks opzegbaar</h2>
 
-Trainmore heeft 31 clubs in Amsterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. Bij Trainmore Koningin Wilhelminaplein (Black Label) was dat in oktober 2026 € 104 per 4 weken, plus € 29 eenmalig voor het starterpakket. Je krijgt € 1 korting per workout, maximaal één per dag. Opzeggen kan in de app.
+Trainmore heeft 31 clubs in Amsterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. Bij Trainmore Koningin Wilhelminaplein (Black Label) was dat in oktober 2026 € 104 per 4 weken, plus € 29 eenmalig voor het starterpakket. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
