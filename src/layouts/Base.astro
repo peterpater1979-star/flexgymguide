@@ -10,7 +10,7 @@ const { title, description = 'An independent guide to fitness passes and gyms wi
 const fullTitle = title.includes('FlexGymGuide') ? title : `${title} | FlexGymGuide`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 // Cloudflare Web Analytics: cookieloze bezoekersteller. Leeg = uit.
-const cfToken = '';
+const cfToken = 'd03672559fa34150b63595ef88767899';
 ---
 <!doctype html>
 <html lang={lang === 'en' ? 'en' : lang}>
@@ -36,11 +36,11 @@ const cfToken = '';
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
-    {cfToken && <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={JSON.stringify({ token: cfToken })}></script>}
   </head>
   <body>
     <Header land={land} lang={lang} />
     <main><slot /></main>
     <Footer lang={lang} />
+    {cfToken && <script is:inline type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={JSON.stringify({ token: cfToken })}></script>}
   </body>
 </html>
