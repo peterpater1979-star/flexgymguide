@@ -66,6 +66,23 @@ Des chaussures à semelle plate et ferme pour les squats et les levées. Une ser
 4. **Commence à ton niveau.** Personne ne s’attend à ce que tu suives les habitués dès ton premier cours.
 5. **Vérifie les règles d’annulation.** Avec un pass sport ou une séance d’essai, une annulation tardive peut coûter des crédits ou des frais.
 
+<h2 id="equipement">Il te manque quelque chose ?</h2>
+
+Ces liens t’emmènent directement sur Amazon.de. Le site est en allemand, mais tu peux choisir l’anglais en haut de la page.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Vêtements de sport</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Chaussures de sport</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Gourde</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Serviette de sport</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Cadenas pour le casier</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Chaussettes antidérapantes pour yoga et pilates</a></li>
+<li class="i-bandage"><a href="/go/amazon-de-boxbandagen/">Bandes de boxe</a></li>
+<li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Gants de boxe</a></li>
+</ul>
+
+<p class="klein">En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Le prix reste le même pour toi.</p>
+
 <h2 id="essayer">Essayer plusieurs studios</h2>
 
 Tu ne sais pas encore quel sport te convient ? Avec un pass sport comme ClassPass, tu essaies le yoga, la boxe et le spinning dans différents studios avant de te décider.
