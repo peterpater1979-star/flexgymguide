@@ -47,7 +47,7 @@ Een voorbeeld: bij Trainmore Koningin Wilhelminaplein in Amsterdam, een Black La
 
 <h2 id="korting">Korting per workout</h2>
 
-Voor elke workout krijg je €1 korting, met een maximum van 1 per dag. Train je bij de club hierboven 3 keer per week met een jaarcontract, dan betaal je €72 in plaats van €84 per 4 weken. Wie vaak traint, is dus goedkoper uit.
+Voor elke workout krijg je €1 korting, met een maximum van 1 per dag. Train je bij de club hierboven 3 keer per week met een jaarcontract, dan betaal je €72 in plaats van €84 per 4 weken. Dat werkt bij elke club en elk contract, ook bij Flex: drie keer per week trainen scheelt zo'n €12 per 4 weken. Wie vaak traint, is dus goedkoper uit. Bij een studentenlidmaatschap geldt deze korting niet.
 
 <h2 id="extras">Gratis extra's bij Red en Black Label</h2>
 

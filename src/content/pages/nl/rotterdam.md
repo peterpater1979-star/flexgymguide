@@ -123,7 +123,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 7 in Rotterdam. De nieuwste is Tr
 
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 7 in Rotterdam
-- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt
+- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt. Drie keer per week scheelt zo'n €12 per 4 weken
 - Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
 - Een gratis proefles om eerst te testen
 
