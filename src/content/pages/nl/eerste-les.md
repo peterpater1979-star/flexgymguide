@@ -70,11 +70,16 @@ Schoenen met een vlakke, stevige zool voor squats en tillen. Een handdoek voor o
 
 Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
 
-- [Sportkleding](/go/amazon-nl-sportkleding/) en [sportschoenen](/go/amazon-nl-sportschoenen/)
-- [Een waterfles](/go/amazon-nl-waterfles/) en [een sporthanddoek](/go/amazon-nl-handdoek/)
-- [Een hangslot voor het kluisje](/go/amazon-nl-hangslot/)
-- Voor yoga en pilates: [antislipsokken](/go/amazon-nl-yogasokken/)
-- Voor boksen: [bandages](/go/amazon-nl-boksbandages/) en [bokshandschoenen](/go/amazon-nl-bokshandschoenen/)
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding/">Sportkleding</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen/">Sportschoenen</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/amazon-nl-yogasokken/">Antislipsokken voor yoga en pilates</a></li>
+<li class="i-bandage"><a href="/go/amazon-nl-boksbandages/">Boksbandages</a></li>
+<li class="i-handschoen"><a href="/go/amazon-nl-bokshandschoenen/">Bokshandschoenen</a></li>
+</ul>
 
 <p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
 

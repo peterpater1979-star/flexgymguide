@@ -70,11 +70,16 @@ Schuhe mit flacher, fester Sohle für Kniebeugen und Heben. Ein Handtuch für di
 
 Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de:
 
-- [Sportbekleidung](/go/amazon-de-sportbekleidung/) und [Sportschuhe](/go/amazon-de-sportschuhe/)
-- [Eine Trinkflasche](/go/amazon-de-trinkflasche/) und [ein Sporthandtuch](/go/amazon-de-handtuch/)
-- [Ein Vorhängeschloss für den Spind](/go/amazon-de-schloss/)
-- Für Yoga und Pilates: [rutschfeste Socken](/go/amazon-de-yogasocken/)
-- Fürs Boxen: [Bandagen](/go/amazon-de-boxbandagen/) und [Boxhandschuhe](/go/amazon-de-boxhandschuhe/)
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Sportbekleidung</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Sportschuhe</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Rutschfeste Socken für Yoga und Pilates</a></li>
+<li class="i-bandage"><a href="/go/amazon-de-boxbandagen/">Boxbandagen</a></li>
+<li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Boxhandschuhe</a></li>
+</ul>
 
 <p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
 
