@@ -104,4 +104,5 @@ Voit muuttaa tai lopettaa ClassPassin ennen seuraavaa uusimispäivää. Salijäs
 <div class="knoppen">
 <a class="knop knop-rand" href="/fi/classpass-krediitit/">ClassPass-krediitit</a>
 <a class="knop knop-rand" href="/fi/ensimmainen-tunti/">Ensimmäinen tuntisi</a>
+<a class="knop knop-rand" href="/fi/opiskelijaliikunta/">Liikunta opiskelijana</a>
 </div>

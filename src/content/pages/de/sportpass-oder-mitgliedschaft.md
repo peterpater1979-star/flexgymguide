@@ -110,4 +110,5 @@ Ein ClassPass-Abo änderst oder kündigst du vor dem nächsten Verlängerungsdat
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
 <a class="knop knop-rand" href="/de/erstes-training/">Dein erstes Training</a>
+<a class="knop knop-rand" href="/de/sport-im-studium/">Sport im Studium</a>
 </div>

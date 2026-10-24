@@ -104,4 +104,5 @@ Tu peux modifier ou arrêter un abonnement ClassPass avant la prochaine date de 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass</a>
 <a class="knop knop-rand" href="/fr/premier-cours/">Ton premier cours</a>
+<a class="knop knop-rand" href="/fr/sport-etudiant/">Sport étudiant</a>
 </div>

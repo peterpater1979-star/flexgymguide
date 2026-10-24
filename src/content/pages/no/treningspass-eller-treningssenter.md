@@ -104,4 +104,5 @@ Du kan endre eller avslutte ClassPass før neste fornyelsesdato. Et medlemskap p
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/classpass-kreditter/">ClassPass-kreditter</a>
 <a class="knop knop-rand" href="/no/din-forste-time/">Din første time</a>
+<a class="knop knop-rand" href="/no/trening-som-student/">Trening som student</a>
 </div>

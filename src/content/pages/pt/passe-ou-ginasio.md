@@ -104,4 +104,5 @@ Podes alterar ou cancelar o ClassPass antes da próxima data de renovação. Uma
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/creditos-classpass/">Os créditos do ClassPass</a>
 <a class="knop knop-rand" href="/pt/primeira-aula/">A tua primeira aula</a>
+<a class="knop knop-rand" href="/pt/desporto-estudante/">Desporto para estudantes</a>
 </div>

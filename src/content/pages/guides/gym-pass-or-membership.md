@@ -111,4 +111,5 @@ You can change or cancel a ClassPass plan before your next renewal date. Gym mem
 <div class="knoppen">
 <a class="knop knop-rand" href="/guides/classpass-credits/">ClassPass credits explained</a>
 <a class="knop knop-rand" href="/guides/first-class/">Your first class</a>
+<a class="knop knop-rand" href="/guides/working-out-as-a-student/">Working out as a student</a>
 </div>

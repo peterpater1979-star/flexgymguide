@@ -104,4 +104,5 @@ Du kan ändra eller avsluta ClassPass före nästa förnyelsedatum. Ett gymkort 
 <div class="knoppen">
 <a class="knop knop-rand" href="/se/classpass-krediter/">ClassPass-krediter</a>
 <a class="knop knop-rand" href="/se/ditt-forsta-pass/">Ditt första pass</a>
+<a class="knop knop-rand" href="/se/traning-som-student/">Träna som student</a>
 </div>

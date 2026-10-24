@@ -104,4 +104,5 @@ Du kan ændre eller stoppe ClassPass før næste fornyelsesdato. Et fitnessmedle
 <div class="knoppen">
 <a class="knop knop-rand" href="/dk/classpass-credits/">ClassPass-credits</a>
 <a class="knop knop-rand" href="/dk/din-foerste-time/">Din første time</a>
+<a class="knop knop-rand" href="/dk/traening-som-studerende/">Træning som studerende</a>
 </div>

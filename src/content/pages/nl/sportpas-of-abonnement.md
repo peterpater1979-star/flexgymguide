@@ -110,4 +110,5 @@ Een ClassPass-abonnement wijzig of stop je vóór de volgende verlengdatum. Een 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/classpass-credits/">ClassPass-credits uitgelegd</a>
 <a class="knop knop-rand" href="/nl/eerste-les/">Je eerste les</a>
+<a class="knop knop-rand" href="/nl/sporten-als-student/">Sporten als student</a>
 </div>
