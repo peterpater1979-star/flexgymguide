@@ -58,7 +58,7 @@ Le nombre de crédits d’un cours n’est pas fixe. Il dépend :
 2. **Regarde des cours similaires.** Cherche par activité, comme le yoga ou le spinning, et regarde les crédits par cours dans quelques studios près de chez toi.
 3. **Ajoute des séances en salle.** Une séance en salle entre deux cours est souvent une façon moins chère de continuer.
 4. **Annule à temps.** Une annulation tardive ou une absence peut te coûter des crédits ou des frais. Vérifie le délai d’annulation avant de réserver.
-5. **Profite du report.** Un mois calme ? Tes crédits non utilisés passent au mois suivant, dans la limite de ton abonnement.
+5. **Profite du report.** Un mois calme ? Tes crédits non utilisés passent au mois suivant, dans la limite de ton abonnement. Pas le temps de faire du sport ? Tu peux aussi utiliser tes crédits pour un massage, le coiffeur ou un spa.
 6. **Choisis le bon abonnement.** Si tu manques souvent de crédits, un abonnement plus grand peut être plus avantageux. S’il t’en reste toujours, un plus petit te fait économiser.
 7. **Vérifie avant de voyager.** La valeur des crédits à l’étranger peut être différente de chez toi.
 

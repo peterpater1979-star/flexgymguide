@@ -73,7 +73,7 @@ Het loont dus om een paar opties te bekijken voordat je boekt.
 2. **Bekijk soortgelijke lessen.** Zoek op activiteit, zoals yoga of spinning, en kijk naar de credits per les bij een paar studio's in de buurt.
 3. **Wissel af met gymbezoeken.** Een gymbezoek tussen de lessen door is vaak een voordeliger manier om te blijven trainen.
 4. **Zeg op tijd af.** Te laat afzeggen of niet komen kan je credits of een boete kosten. Kijk voor het boeken naar de annuleringstermijn.
-5. **Gebruik wat je meeneemt.** Rustige maand gehad? Je ongebruikte credits gaan mee naar de volgende maand, binnen de grens van je abonnement.
+5. **Gebruik wat je meeneemt.** Rustige maand gehad? Je ongebruikte credits gaan mee naar de volgende maand, binnen de grens van je abonnement. Kom je niet aan sporten toe? Je kunt credits ook uitgeven aan een massage, de kapper of de spa.
 6. **Kies een abonnement dat past.** Kom je vaak credits tekort, dan is een groter abonnement voordeliger. Houd je altijd over, dan bespaart een kleiner abonnement geld.
 7. **Kijk voordat je op reis gaat.** De waarde van credits in het buitenland kan anders zijn dan thuis.
 

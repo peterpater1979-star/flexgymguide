@@ -58,7 +58,7 @@ Es lohnt sich also, vor dem Buchen ein paar Optionen anzuschauen.
 2. **Schau dir ähnliche Kurse an.** Suche nach Aktivität, etwa Yoga oder Spinning, und achte auf die Credits pro Kurs in ein paar Studios in deiner Nähe.
 3. **Mische Gym-Besuche dazu.** Ein Gym-Besuch zwischen den Kursen ist oft eine günstigere Art, dranzubleiben.
 4. **Sag rechtzeitig ab.** Späte Absagen und Nichterscheinen können dich Credits oder eine Gebühr kosten. Prüfe vor dem Buchen die Stornierungsfrist.
-5. **Nutze dein Übertragsguthaben.** Ruhiger Monat? Deine ungenutzten Credits gehen in den nächsten Monat über, im Rahmen deines Abos.
+5. **Nutze dein Übertragsguthaben.** Ruhiger Monat? Deine ungenutzten Credits gehen in den nächsten Monat über, im Rahmen deines Abos. Kommst du nicht zum Sport? Du kannst Credits auch für eine Massage, den Friseur oder das Spa ausgeben.
 6. **Wähle ein passendes Abo.** Gehen dir oft die Credits aus, kann ein größeres Abo günstiger sein. Bleiben immer Credits übrig, sparst du mit einem kleineren.
 7. **Schau vor der Reise nach.** Der Wert von Credits im Ausland kann anders sein als zu Hause.
 

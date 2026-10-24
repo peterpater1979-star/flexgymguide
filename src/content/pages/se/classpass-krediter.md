@@ -58,7 +58,7 @@ Det lönar sig alltså att titta på några alternativ innan du bokar.
 2. **Titta på liknande klasser.** Sök på aktivitet, som yoga eller spinning, och kolla krediterna per klass på några studior nära dig.
 3. **Blanda in gympass.** Ett gympass mellan klasserna är ofta ett billigare sätt att fortsätta träna.
 4. **Avboka i tid.** Sen avbokning eller utebliven närvaro kan kosta dig krediter eller en avgift. Kolla avbokningstiden innan du bokar.
-5. **Använd överföringen.** En lugn månad? Dina oanvända krediter förs över till nästa månad inom ditt abonnemangs gräns.
+5. **Använd överföringen.** En lugn månad? Dina oanvända krediter förs över till nästa månad inom ditt abonnemangs gräns. Hinner du inte träna? Du kan också använda krediter till massage, frisör eller spa.
 6. **Välj ett abonnemang som passar.** Tar krediterna ofta slut kan ett större abonnemang löna sig. Har du alltid krediter kvar sparar ett mindre pengar.
 7. **Kolla innan du reser.** Värdet på krediter utomlands kan vara annorlunda än hemma.
 
