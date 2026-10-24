@@ -9,17 +9,17 @@ crumb: "ClassPass Probezeit"
 kicker: "Ratgeber"
 ---
 
-Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studios und Fitnessstudios, jedes einmal. In Berlin bekommst du derzeit 1 Monat kostenlos mit 10 Workouts. In anderen Städten und Ländern kann das Angebot anders sein; du siehst es immer bei der Anmeldung.
+Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studios und Fitnessstudios, jedes einmal. In Deutschland bekommst du derzeit 1 Monat kostenlos mit 10 Workouts. In anderen Ländern kann das Angebot anders sein; du siehst es immer bei der Anmeldung.
 
 <h2 id="kurz">Kurz gesagt</h2>
 
 | | |
 | --- | --- |
 | **Für wen** | Nur neue Mitglieder, einmal pro Person |
-| **Was du bekommst** | In Berlin 10 Workouts, in jedem Studio einmal. Was du nicht nutzt, verfällt am Ende |
-| **Wie lange** | In Berlin 1 Monat |
-| **Kostenlos?** | In Berlin ja. In manchen anderen Regionen ist es ein Rabatt auf deinen ersten Zeitraum |
-| **Danach** | Du wechselst automatisch zu einem Monatsabo, in Berlin derzeit 42 Credits für 59 € pro Monat |
+| **Was du bekommst** | In Deutschland 10 Workouts, in jedem Studio einmal. Was du nicht nutzt, verfällt am Ende |
+| **Wie lange** | In Deutschland 1 Monat |
+| **Kostenlos?** | In Deutschland ja. In manchen anderen Regionen ist es ein Rabatt auf deinen ersten Zeitraum |
+| **Danach** | Du wechselst automatisch zu einem Monatsabo, in Deutschland derzeit 42 Credits für 59 € pro Monat |
 
 <h2 id="regeln">Die Regeln</h2>
 
@@ -58,7 +58,7 @@ Eine Kündigung während der Probezeit gilt sofort. Du verlierst deine übrigen 
 <details open>
 <summary>Ist die Probezeit wirklich kostenlos?</summary>
 
-In Berlin ja: 1 Monat mit 10 Workouts, ohne Kosten, wenn du rechtzeitig kündigst. In manchen anderen Regionen ist es ein Rabatt auf deinen ersten Zeitraum statt einer kostenlosen Probe. Was du bekommst, siehst du bei der Anmeldung.
+In Deutschland ja: 1 Monat mit 10 Workouts, ohne Kosten, wenn du rechtzeitig kündigst. In manchen anderen Regionen ist es ein Rabatt auf deinen ersten Zeitraum statt einer kostenlosen Probe. Was du bekommst, siehst du bei der Anmeldung.
 
 </details>
 
@@ -76,7 +76,7 @@ Nein. ClassPass hat keinen Studentenrabatt. Manche Arbeitgeber bieten ClassPass 
 
 </details>
 
-<p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Hilfe-Center</a> (Januar 2026) und die Anmeldeseite von ClassPass für Berlin (Oktober 2026). Regeln können sich ändern, prüfe die aktuellen Angaben immer bei der Anmeldung oder in deinem Konto.</p>
+<p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Hilfe-Center</a> (Januar 2026) und die Anmeldeseite von ClassPass Deutschland (Oktober 2026). Regeln können sich ändern, prüfe die aktuellen Angaben immer bei der Anmeldung oder in deinem Konto.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
