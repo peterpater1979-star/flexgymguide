@@ -72,6 +72,13 @@ Nej. Der er intet opsigelsesgebyr og ingen opsigelsesperiode.
 </details>
 
 <details>
+<summary>Får man et tilbud, når man opsiger?</summary>
+
+Ofte, ja. Før din opsigelse er gået igennem, tilbyder ClassPass ofte en gratis pause på to måneder eller rabat på de næste måneder, for eksempel 20 % i tre måneder. Ikke alle får det samme tilbud. Læs betingelserne godt: efter rabatten betaler du automatisk den fulde pris igen, og opsiger du alligevel inden for få måneder, kan du miste rabatten.
+
+</details>
+
+<details>
 <summary>Får jeg penge tilbage for resten af måneden?</summary>
 
 Nej. ClassPass refunderer ikke abonnementsmåneder eller ekstra købte credits. Derfor kan det betale sig at bruge dine credits, før abonnementet stopper.

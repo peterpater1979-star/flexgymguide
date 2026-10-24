@@ -72,6 +72,13 @@ Nee. Er zijn geen opzegkosten en er is geen opzegtermijn.
 </details>
 
 <details>
+<summary>Krijg ik een aanbieding als ik opzeg?</summary>
+
+Vaak wel. Voordat je opzegging rond is, biedt ClassPass vaak een gratis pauze van twee maanden of korting op de volgende maanden aan, bijvoorbeeld 20% voor drie maanden. Niet iedereen krijgt dezelfde aanbieding. Lees de voorwaarden goed: na de korting betaal je automatisch weer de volle prijs, en zeg je binnen een paar maanden alsnog op, dan kun je de korting kwijtraken.
+
+</details>
+
+<details>
 <summary>Krijg ik geld terug voor de rest van de maand?</summary>
 
 Nee. ClassPass betaalt geen maanden abonnement of extra gekochte credits terug. Daarom loont het om je credits te gebruiken voordat je abonnement stopt.

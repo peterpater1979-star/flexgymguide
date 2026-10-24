@@ -72,6 +72,13 @@ Nein. Es gibt keine Kündigungsgebühr und keine Kündigungsfrist.
 </details>
 
 <details>
+<summary>Bekommt man ein Angebot, wenn man kündigt?</summary>
+
+Oft ja. Bevor deine Kündigung durch ist, bietet ClassPass oft eine kostenlose Pause von zwei Monaten oder Rabatt auf die nächsten Monate an, zum Beispiel 20 % für drei Monate. Nicht alle bekommen dasselbe Angebot. Lies die Bedingungen genau: Nach dem Rabatt zahlst du automatisch wieder den vollen Preis, und kündigst du innerhalb weniger Monate doch, kannst du den Rabatt verlieren.
+
+</details>
+
+<details>
 <summary>Bekomme ich Geld für den Rest des Monats zurück?</summary>
 
 Nein. ClassPass erstattet keine Abo-Monate und keine zusätzlich gekauften Credits. Deshalb lohnt es sich, deine Credits zu nutzen, bevor die Mitgliedschaft endet.

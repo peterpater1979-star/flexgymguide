@@ -72,6 +72,13 @@ No. No hay gastos de cancelación ni preaviso.
 </details>
 
 <details>
+<summary>¿Te hacen una oferta al cancelar?</summary>
+
+A menudo, sí. Antes de que se complete la cancelación, ClassPass suele ofrecer una pausa gratuita de dos meses o un descuento en los próximos meses, por ejemplo un 20 % durante tres meses. No todo el mundo recibe la misma oferta. Lee bien las condiciones: después del descuento vuelves a pagar automáticamente el precio completo, y si cancelas igualmente en los meses siguientes, puedes perder el descuento.
+
+</details>
+
+<details>
 <summary>¿Me devuelven dinero por el resto del mes?</summary>
 
 No. ClassPass no reembolsa meses de suscripción ni créditos comprados aparte. Por eso conviene usar tus créditos antes de que termine tu suscripción.

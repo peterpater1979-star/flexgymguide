@@ -72,6 +72,13 @@ Non. Il n'y a ni frais de résiliation ni préavis.
 </details>
 
 <details>
+<summary>Reçoit-on une offre en résiliant ?</summary>
+
+Souvent, oui. Avant que ta résiliation soit validée, ClassPass propose souvent une pause gratuite de deux mois ou une réduction sur les mois suivants, par exemple 20 % pendant trois mois. Tout le monde ne reçoit pas la même offre. Lis bien les conditions : après la réduction, tu repayes automatiquement le plein tarif, et si tu résilies quand même dans les mois qui suivent, tu peux perdre la réduction.
+
+</details>
+
+<details>
 <summary>Suis-je remboursé pour le reste du mois ?</summary>
 
 Non. ClassPass ne rembourse pas les mois d'abonnement ni les crédits achetés en plus. C'est pour ça qu'il vaut mieux utiliser tes crédits avant la fin de ton abonnement.

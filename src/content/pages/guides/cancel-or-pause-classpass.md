@@ -72,6 +72,13 @@ No. There is no cancellation fee and no notice period.
 </details>
 
 <details>
+<summary>Do you get an offer when you cancel?</summary>
+
+Often, yes. Before your cancellation goes through, ClassPass often offers a free two-month pause or a discount on the next few months, for example 20% off for three months. Not everyone gets the same offer. Read the terms carefully: after the discount you automatically pay the full price again, and if you cancel within a few months anyway, you can lose the discount.
+
+</details>
+
+<details>
 <summary>Do I get money back for the rest of the month?</summary>
 
 No. ClassPass does not refund months of membership or extra credits you bought. That is why it pays to use your credits before your membership ends.

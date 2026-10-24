@@ -72,6 +72,13 @@ Nej. Det finns ingen uppsägningsavgift och ingen uppsägningstid.
 </details>
 
 <details>
+<summary>Får man ett erbjudande när man säger upp?</summary>
+
+Ofta, ja. Innan uppsägningen har gått igenom erbjuder ClassPass ofta en gratis paus på två månader eller rabatt på de kommande månaderna, till exempel 20 % i tre månader. Alla får inte samma erbjudande. Läs villkoren noga: efter rabatten betalar du automatiskt fullt pris igen, och säger du ändå upp inom några månader kan du förlora rabatten.
+
+</details>
+
+<details>
 <summary>Får jag pengar tillbaka för resten av månaden?</summary>
 
 Nej. ClassPass betalar inte tillbaka abonnemangsmånader eller extra köpta krediter. Därför lönar det sig att använda dina krediter innan abonnemanget tar slut.
