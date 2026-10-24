@@ -185,7 +185,7 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 <details>
 <summary>Kan ik in elke Trainmore-club trainen?</summary>
 
-Dat hangt af van het label van je club. Met een Black Label-lidmaatschap mag je bijvoorbeeld ook in alle Regular-clubs trainen. Vraag het na bij je club.
+Dat hangt af van je lidmaatschap. Met Home+ train je ook in de clubs die hetzelfde of minder kosten dan jouw club, dus met een Black Label-lidmaatschap bijvoorbeeld ook in alle Regular-clubs. Met City+ train je in alle clubs in je stad. Vraag het na bij je club.
 
 </details>
 

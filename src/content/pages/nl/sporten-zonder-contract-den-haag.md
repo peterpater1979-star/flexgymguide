@@ -15,7 +15,7 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Den Haag kun je oo
 
 | | Opzeggen | Prijs | Goed voor |
 | --- | --- | --- | --- |
-| **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement [PRIJS] per maand ([AANTAL] credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
+| **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement € 59 per maand (40 credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
 | **Trainmore Flex** | Maandelijks | € 79 tot € 106 per 4 weken, afhankelijk van de club | Premium sportschool met groepslessen, voor wie vaak traint |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Hollands Spoor (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
@@ -27,7 +27,7 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Den Haag kun je oo
 
 Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Den Haag. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand.
 
-- **Abonnement in Den Haag:** het standaardabonnement is [AANTAL] credits voor [PRIJS] per maand. Er zijn kleinere en grotere abonnementen; die zie je in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
+- **Abonnement in Den Haag:** het standaardabonnement is 40 credits voor € 59 per maand. Er zijn kleinere en grotere abonnementen; die zie je in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 - **Eerst proberen:** 14 dagen gratis met 10 work-outs. Lees [ClassPass gratis proberen](/nl/classpass-proefperiode/).
 - **Pauzeren:** bij opzeggen biedt ClassPass vaak een gratis pauze aan. Lees [ClassPass opzeggen of pauzeren](/nl/classpass-opzeggen/).
 
@@ -45,7 +45,7 @@ Trainmore is een premium sportschoolketen met groepslessen en clubs in het centr
 | 1 jaar | € 59 | € 76 | € 79 | € 86 |
 | 2 jaar | € 52 | € 69 | € 72 | € 79 |
 
-Bij een Regular-club train je alleen in je eigen club. Met Home+ bij een Black Label-club train je ook in alle Regular-clubs, en met City+ ook in alle Black Label-clubs in Den Haag. City+ kostte bij alle drie de clubs hetzelfde. Bij een contract van 1 of 2 jaar krijg je in de eerste maanden 50% korting; hoeveel maanden verschilt per club en lidmaatschap. Bij Dagelijkse Groenmarkt (Home) waren dat er 5 bij 1 jaar en 7 bij 2 jaar, bij Laan van NOI en Savornin (Home+) 4 en 6.
+Bij een Regular-club train je alleen in je eigen club. Met Home+ train je ook in de andere clubs die hetzelfde of minder kosten: met Home+ bij Savornin dus ook bij Laan van NOI en in de Regular-clubs. Met City+ train je in alle clubs in Den Haag. City+ kostte bij alle drie de clubs hetzelfde. Bij een contract van 1 of 2 jaar krijg je in de eerste maanden 50% korting; hoeveel maanden verschilt per club en lidmaatschap. Bij Dagelijkse Groenmarkt (Home) waren dat er 5 bij 1 jaar en 7 bij 2 jaar, bij Laan van NOI en Savornin (Home+) 4 en 6.
 
 **Student?** Een studentenlidmaatschap kost € 45 per 4 weken bij Dagelijkse Groenmarkt, € 62 bij Laan van NOI en € 65 bij Savornin, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
 
