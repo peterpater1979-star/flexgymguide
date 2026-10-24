@@ -42,10 +42,10 @@ Trainmore heeft 7 clubs in Rotterdam. Naast een contract van 1 of 2 jaar is er F
 | Looptijd | Prijs | Actie |
 | --- | --- | --- |
 | Flex | € 95 | |
-| 1 jaar | € 75 | Eerste maanden € 37,50 |
-| 2 jaar | € 68 | Eerste maanden € 34 |
+| 1 jaar | € 75 | Eerste 3 maanden € 37,50 |
+| 2 jaar | € 68 | Eerste 5 maanden € 34 |
 
-Met City+ kun je in alle Black Label-clubs in Rotterdam trainen. Een Red Label-club is goedkoper. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
+Met City+ kun je in alle Black Label-clubs in Rotterdam trainen. Dat kost € 86 per 4 weken bij 1 jaar en € 79 bij 2 jaar; Flex is er niet bij City+. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
