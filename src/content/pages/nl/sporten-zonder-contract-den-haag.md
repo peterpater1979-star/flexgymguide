@@ -18,10 +18,10 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Den Haag kun je oo
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement [PRIJS] per maand ([AANTAL] credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
 | **Trainmore Flex** | Maandelijks | € 79 tot € 106 per 4 weken, afhankelijk van de club | Premium sportschool met groepslessen, voor wie vaak traint |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
-| **SportCity Flex** | Maandelijks | [PRIJS] per 4 weken bij [CLUB] (City One), plus inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
+| **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Hollands Spoor (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
-<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Den Haag. Basic-Fit: landelijke prijzen. SportCity: club [CLUB]. Trainmore: clubs Dagelijkse Groenmarkt, Laan van NOI en Savornin. Controleer de actuele prijs altijd bij de aanbieder.</p>
+<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Den Haag. Basic-Fit: landelijke prijzen. SportCity: club Hollands Spoor. Trainmore: clubs Dagelijkse Groenmarkt, Laan van NOI en Savornin. Controleer de actuele prijs altijd bij de aanbieder.</p>
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
@@ -75,18 +75,18 @@ Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepsl
 
 SportCity heeft clubs in heel Nederland, ook in Den Haag. Je kiest tussen City One (één club) en City Plus (meer dan 120 clubs in Nederland, en vijf keer per maand iemand meenemen). Bij allebei kun je kiezen voor Flex, 3 maanden, 1 jaar of 2 jaar, met alle live groepslessen inbegrepen en 14 dagen bedenktijd.
 
-Zo zagen de prijzen van City One er in oktober 2026 uit bij SportCity Den Haag [CLUB], per 4 weken:
+Zo zagen de prijzen er in oktober 2026 uit bij SportCity Den Haag Hollands Spoor, per 4 weken:
 
-| Looptijd | City One |
-| --- | --- |
-| Flex | [PRIJS] |
-| 3 maanden | [PRIJS] |
-| 1 jaar | [PRIJS] |
-| 2 jaar | [PRIJS] |
+| Looptijd | City One | City Plus |
+| --- | --- | --- |
+| Flex | € 37,99 | € 39,99 |
+| 3 maanden | € 35,99 | € 37,99 |
+| 1 jaar | € 32,99 | € 33,99 |
+| 2 jaar | € 29,99 | € 30,99 |
 
-Bij Flex betaal je [PRIJS] inschrijfgeld. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. City Plus is iets duurder; andere clubs kunnen ook duurder zijn. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
+Bij Flex betaal je € 4,99 inschrijfgeld, in plaats van de gewone € 9,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Andere clubs kunnen duurder zijn. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
 
-<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de inschrijfpagina voor Den Haag [CLUB] (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
+<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de inschrijfpagina voor Den Haag Hollands Spoor (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 
