@@ -19,7 +19,7 @@ New members can try ClassPass first. You visit a number of studios and gyms, eac
 | **What you get** | In London 10 workouts, at each studio once. Anything you don't use expires at the end |
 | **How long** | In London 14 days |
 | **Free?** | In London, yes. In some other areas it's a discount on your first period |
-| **Afterwards** | You move automatically to a monthly plan, in London currently 52 credits for £69 a month, in Ireland for example 33 credits for €49 |
+| **Afterwards** | You move automatically to a monthly plan, in London currently 52 credits for £69 a month, in Ireland 33 credits for €49 |
 
 <h2 id="rules">The rules</h2>
 
