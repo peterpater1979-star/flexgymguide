@@ -9,17 +9,17 @@ crumb: "Prøv ClassPass"
 kicker: "Guide"
 ---
 
-Nye medlemmer kan prøve ClassPass først. Du besøger så en række studier og fitnesscentre, hvert sted én gang. Hvor længe prøveperioden varer, og hvad du præcis får, afhænger af land og tilbud. Du ser det, når du tilmelder dig.
+Nye medlemmer kan prøve ClassPass først. Du besøger så en række studier og fitnesscentre, hvert sted én gang. I Danmark får du lige nu 14 dage gratis med 10 træninger. I andre lande kan tilbuddet være anderledes; du ser det altid, når du tilmelder dig.
 
 <h2 id="kort">Kort fortalt</h2>
 
 | | |
 | --- | --- |
 | **For hvem** | Kun nye medlemmer, én gang pr. person |
-| **Hvad du får** | Et fast antal hold eller credits, én gang pr. studie |
-| **Hvor længe** | Afhænger af tilbuddet; du ser det ved tilmelding |
-| **Gratis?** | Ofte, men nogle steder er det en rabat på din første periode |
-| **Bagefter** | Du går automatisk over til det månedsabonnement, du så ved tilmelding |
+| **Hvad du får** | I Danmark 10 træninger, én gang pr. studie. Det, du ikke bruger, udløber ved slutningen |
+| **Hvor længe** | I Danmark 14 dage |
+| **Gratis?** | I Danmark, ja. Nogle andre steder er det en rabat på din første periode |
+| **Bagefter** | Du går automatisk over til et månedsabonnement, for eksempel 40 credits for 499 kr. om måneden (kan variere efter by) |
 
 <h2 id="regler">Reglerne</h2>
 
@@ -36,7 +36,7 @@ Credits, du selv har købt, overføres til dit abonnement, op til antallet af cr
 
 <h2 id="opsige">Opsigelse i prøveperioden</h2>
 
-Opsiger du i prøveperioden, gælder det med det samme. Du mister dine prøvecredits og alle dine bookede hold. Vil du bruge hele prøveperioden? Så opsig først på den sidste dag. Sådan gør du: [Opsig eller sæt ClassPass på pause](/dk/opsig-classpass/).
+Opsiger du i prøveperioden, gælder det med det samme. Du mister de prøvetræninger, du har tilbage, og alle dine bookede hold. Vil du bruge hele prøveperioden? Så opsig først på den sidste dag. Sådan gør du: [Opsig eller sæt ClassPass på pause](/dk/opsig-classpass/).
 
 <h2 id="tips">Sådan får du mest ud af den</h2>
 
@@ -58,7 +58,7 @@ Opsiger du i prøveperioden, gælder det med det samme. Du mister dine prøvecre
 <details open>
 <summary>Er prøveperioden virkelig gratis?</summary>
 
-Ofte, ja. Nogle steder er det en rabat på din første periode i stedet for en gratis prøve. Hvad du får, ser du ved tilmelding.
+I Danmark, ja: 14 dage med 10 træninger, uden udgifter, hvis du opsiger i tide. Nogle andre steder er det en rabat på din første periode i stedet for en gratis prøve. Hvad du får, ser du ved tilmelding.
 
 </details>
 
@@ -76,7 +76,7 @@ Nej. ClassPass har ingen studierabat. Nogle arbejdsgivere tilbyder dog ClassPass
 
 </details>
 
-<p class="klein">Kilde: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass' hjælpecenter</a> (januar 2026). Reglerne kan ændre sig, så tjek altid de aktuelle oplysninger ved tilmelding eller i din konto.</p>
+<p class="klein">Kilde: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass' hjælpecenter</a> (januar 2026) og ClassPass' tilmeldingsside for Danmark (oktober 2026). Reglerne kan ændre sig, så tjek altid de aktuelle oplysninger ved tilmelding eller i din konto.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/dk/classpass-credits/">ClassPass-credits forklaret</a>
