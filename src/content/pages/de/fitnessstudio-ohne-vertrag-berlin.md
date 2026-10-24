@@ -16,11 +16,11 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Berlin kannst d
 | | Kündigen | Preis | Gut für |
 | --- | --- | --- | --- |
 | **ClassPass** | Jederzeit, ohne Kündigungsfrist | Standardabo 42 Credits für 59 € im Monat; kleinere in der App | Abwechslung in Studios in der ganzen Stadt |
-| **Fitness First** | Monatlich | 26,90 € pro Woche im Club Gendarmenmarkt (BLACK), plus Startgebühr und Trainingspaket | Premium-Studio mit Kursen und Wellness |
+| **Fitness First** | Monatlich | 12,90 € bis 26,90 € pro Woche, je nach Club und Tarif, plus Startgebühr und Trainingspaket | Premium-Studio mit Kursen und Wellness |
 | **McFit Flex** | Monatlich | [PREIS] im Monat, plus Anmeldegebühr | Günstig und oft trainieren |
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
 
-<p class="klein">Preise von Oktober 2026. ClassPass: Standort Berlin. Fitness First: Club Gendarmenmarkt. Prüfe den aktuellen Preis immer beim Anbieter.</p>
+<p class="klein">Preise von Oktober 2026. ClassPass: Standort Berlin. Fitness First: Clubs Schöneberg (RED) und Gendarmenmarkt (BLACK). Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 <h2 id="classpass">ClassPass: jederzeit kündbar</h2>
 
@@ -36,17 +36,19 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Stud
 
 <h2 id="fitness-first">Fitness First: Mitgliedschaft ohne Mindestlaufzeit</h2>
 
-Fitness First hat 15 Clubs in Berlin, mit Geräten, einem großen Kursprogramm und Wellnessbereich, in einigen Clubs auch mit Schwimmbad. Neben der Mitgliedschaft über 24 Monate gibt es eine über 12 Monate und eine ohne Mindestlaufzeit, die du monatlich kündigst. Fitness First rechnet pro Woche ab. So sahen die Preise im Oktober 2026 im Club Berlin Gendarmenmarkt (BLACK) aus, pro Woche:
+Fitness First hat 15 Clubs in Berlin, mit Geräten, einem großen Kursprogramm und Wellnessbereich, in einigen Clubs auch mit Schwimmbad. Neben der Mitgliedschaft über 24 Monate gibt es eine über 12 Monate und eine ohne Mindestlaufzeit, die du monatlich kündigst. Fitness First rechnet pro Woche ab, und der Preis hängt vom Club ab: Es gibt RED- und BLACK-Clubs. In einem RED-Club wählst du zwischen BASIC und ALL-IN; ALL-IN enthält unter anderem Kurse, Getränke-Flat und Wellnessbereich. So sahen die Preise im Oktober 2026 aus, pro Woche:
 
-| Laufzeit | Preis | Für Studierende |
-| --- | --- | --- |
-| 1 Monat | 26,90 € | 23,90 € |
-| 12 Monate | 20,90 € | 17,90 € |
-| 24 Monate | 18,90 €, die ersten 12 Wochen gratis | 15,90 €, die ersten 12 Wochen gratis |
+| Laufzeit | RED BASIC (Schöneberg) | RED ALL-IN (Schöneberg) | BLACK (Gendarmenmarkt) |
+| --- | --- | --- | --- |
+| 1 Monat | 12,90 € | 14,90 € | 26,90 € |
+| 12 Monate | 9,90 € | 11,90 € | 20,90 € |
+| 24 Monate | 7,90 € | 9,90 € | 18,90 € |
 
-Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Die Preise unterscheiden sich je nach Club, zum Beispiel zwischen RED- und BLACK-Clubs. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
+Bei ALL-IN und BLACK mit 24 Monaten waren die ersten 12 Wochen gratis. Studierende, Schüler und Azubis zahlen weniger: im RED-Club Schöneberg 12,90 € pro Woche ohne Mindestlaufzeit, im BLACK-Club Gendarmenmarkt 23,90 €.
 
-<p class="klein">Quelle: die Clubseite Berlin Gendarmenmarkt und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club.</p>
+Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
+
+<p class="klein">Quelle: die Clubseiten Berlin Schöneberg und Gendarmenmarkt und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

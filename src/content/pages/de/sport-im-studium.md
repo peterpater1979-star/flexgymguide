@@ -30,7 +30,7 @@ Ein Discount-Fitnessstudio ist oft günstig pro Monat und hat viele Standorte. A
 
 <h2 id="studententarif">Studententarif im Fitnessstudio</h2>
 
-Manche Fitnessstudios haben einen günstigeren Tarif für Studierende, Schüler und Azubis. Bei Fitness First zahlst du zum Beispiel im Club Berlin Gendarmenmarkt (BLACK) 23,90 € pro Woche ohne Mindestlaufzeit, 17,90 € bei 12 Monaten und 15,90 € bei 24 Monaten, statt 26,90 €, 20,90 € und 18,90 € (Oktober 2026). Der Rabatt gilt bis einschließlich 25 Jahre, und während eines Auslandssemesters kannst du flexibel pausieren. Die Preise unterscheiden sich je nach Club. Willst du dich nicht lange binden? Lies [Fitnessstudio ohne Vertrag in Berlin](/de/fitnessstudio-ohne-vertrag-berlin/).
+Manche Fitnessstudios haben einen günstigeren Tarif für Studierende, Schüler und Azubis. Bei Fitness First zahlst du zum Beispiel im RED-Club Berlin Schöneberg 12,90 € pro Woche ohne Mindestlaufzeit, 9,90 € bei 12 Monaten und 7,90 € bei 24 Monaten. Im BLACK-Club Gendarmenmarkt sind es 23,90 €, 17,90 € und 15,90 € statt 26,90 €, 20,90 € und 18,90 € (Oktober 2026). Der Rabatt gilt bis einschließlich 25 Jahre, und während eines Auslandssemesters kannst du flexibel pausieren. Die Preise unterscheiden sich je nach Club. Willst du dich nicht lange binden? Lies [Fitnessstudio ohne Vertrag in Berlin](/de/fitnessstudio-ohne-vertrag-berlin/).
 
 <h2 id="classpass">ClassPass</h2>
 
