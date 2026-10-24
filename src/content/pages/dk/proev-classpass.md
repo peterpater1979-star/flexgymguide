@@ -19,7 +19,7 @@ Nye medlemmer kan prøve ClassPass først. Du besøger så en række studier og 
 | **Hvad du får** | I Danmark 10 træninger, én gang pr. studie. Det, du ikke bruger, udløber ved slutningen |
 | **Hvor længe** | I Danmark 14 dage |
 | **Gratis?** | I Danmark, ja. Nogle andre steder er det en rabat på din første periode |
-| **Bagefter** | Du går automatisk over til et månedsabonnement, for eksempel 40 credits for 499 kr. om måneden (kan variere efter by) |
+| **Bagefter** | Du går automatisk over til et månedsabonnement, i Danmark lige nu 40 credits for 499 kr. om måneden |
 
 <h2 id="regler">Reglerne</h2>
 
