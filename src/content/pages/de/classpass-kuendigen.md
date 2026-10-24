@@ -15,10 +15,10 @@ Du kannst ClassPass jederzeit kündigen, ohne Gebühr und ohne Kündigungsfrist.
 
 | | Kündigen | Pausieren | Kleineres Abo |
 | --- | --- | --- | --- |
-| **Wie** | Einstellungen in der App oder auf der Website | Per Chat bei ClassPass anfragen, mit Grund | Konto, dann Manage plan |
-| **Wann** | Mindestens 48 Stunden vor dem Verlängerungsdatum | Nur bei unerwarteten Umständen, keine Garantie | Ab dem nächsten Verlängerungsdatum |
-| **Kosten** | Kostenlos | Während der Pause zahlst du nichts | Der niedrigere Monatspreis |
-| **Deine Credits** | Verfallen mit dem Ende der Mitgliedschaft, auch übertragene | Eingefroren, danach übertragen | Die üblichen Übertragungsregeln |
+| **Wie** | Einstellungen in der App oder auf der Website | Beim Kündigen bietet ClassPass oft eine Pause an, sonst per Chat | Konto, dann Manage plan |
+| **Wann** | Mindestens 48 Stunden vor dem Verlängerungsdatum | Zwei Monate, ab deinem nächsten Verlängerungsdatum | Ab dem nächsten Verlängerungsdatum |
+| **Kosten** | Kostenlos | Kostenlos: Du wechselst zu ClassPass Lite (0 € im Monat) | Der niedrigere Monatspreis |
+| **Deine Credits** | Verfallen mit dem Ende der Mitgliedschaft, auch übertragene | Während der Pause nicht nutzbar, danach wieder verfügbar | Die üblichen Übertragungsregeln |
 
 <h2 id="kuendigen">So kündigst du</h2>
 
@@ -34,6 +34,8 @@ Du kannst ClassPass jederzeit kündigen, ohne Gebühr und ohne Kündigungsfrist.
 2. Tippe unter **Zahlung** auf Kündigen.
 3. Folge den Schritten, bis du die Bestätigung siehst.
 
+Unterwegs zeigt dir ClassPass zuerst Angebote, etwa eine kostenlose Pause von zwei Monaten oder Rabatt auf die nächsten Monate (zum Beispiel 20 % für drei Monate). Willst du wirklich aufhören, wähle jedes Mal, dass du mit der Kündigung weitermachst. Nimmst du einen Rabatt an, gilt danach automatisch wieder der volle Preis. Nach der Kündigung kannst du deine Credits und Buchungen noch bis zum Ende deines aktuellen Zyklus nutzen.
+
 Danach bekommst du eine Bestätigungsmail von ClassPass. Keine Mail bekommen? Dann ist deine Kündigung nicht angekommen. Melde dich in dem Fall über den Chat.
 
 <h2 id="testzeitraum">Kündigen im kostenlosen Testzeitraum</h2>
@@ -42,11 +44,14 @@ Kündigst du im kostenlosen Testzeitraum, gilt das sofort: Deine Credits verfall
 
 <h2 id="pausieren">Kann man ClassPass pausieren?</h2>
 
-Manchmal. ClassPass bietet eine Pause bei unerwarteten Umständen, etwa einer Verletzung, aber ohne Garantie. Du fragst per Chat an und nennst einen Grund.
+Ja, in vielen Fällen. Wenn du kündigen willst, bietet ClassPass oft zuerst eine kostenlose Pause von zwei Monaten an. Du wechselst dann zu ClassPass Lite, für 0 € im Monat.
 
 - Während der Pause zahlst du nichts.
-- Deine Credits werden eingefroren und ungenutzte Credits übertragen.
-- Nach der Pause startet dein bisheriges Abo wieder, mit neuen Credits.
+- Deine Credits kannst du während der Pause nicht nutzen. Ungenutzte Credits sind danach wieder verfügbar.
+- Die Pause beginnt an deinem nächsten Verlängerungsdatum.
+- Nach zwei Monaten läuft dein aktuelles Abo automatisch weiter.
+
+Siehst du dieses Angebot nicht? Dann frag per Chat nach einer Pause, zum Beispiel bei einer Verletzung. ClassPass entscheidet im Einzelfall.
 
 Nur eine Weile weniger Zeit? Ein kleineres Abo ist oft einfacher: Du änderst es selbst, und es gilt ab deinem nächsten Verlängerungsdatum.
 
@@ -80,7 +85,7 @@ Ja. Du kannst deine Mitgliedschaft später in deinem Konto wieder aktivieren. Du
 
 </details>
 
-<p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPass Hilfe-Center</a>. Regeln können sich ändern, prüfe die aktuellen Angaben immer in deinem Konto.</p>
+<p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPass Hilfe-Center</a> und ClassPass-App (Oktober 2026). Regeln können sich ändern, prüfe die aktuellen Angaben immer in deinem Konto.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>

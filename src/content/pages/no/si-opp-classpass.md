@@ -15,10 +15,10 @@ Du kan alltid si opp ClassPass, uten gebyr og uten oppsigelsestid. Gjør det min
 
 | | Si opp | Pause | Mindre abonnement |
 | --- | --- | --- | --- |
-| **Hvordan** | Innstillinger i appen eller på nettsiden | Spør via ClassPass sin chat og oppgi en grunn | Konto, deretter Manage plan |
-| **Når** | Minst 48 timer før fornyelsesdatoen | Bare ved uventede omstendigheter, ingen garanti | Fra neste fornyelsesdato |
-| **Pris** | Gratis | Du betaler ingenting under pausen | Den lavere månedsprisen |
-| **Kredittene dine** | Forsvinner når abonnementet stopper, også overførte kreditter | Fryses og blir med videre etterpå | De vanlige reglene for overføring |
+| **Hvordan** | Innstillinger i appen eller på nettsiden | Når du sier opp, tilbyr ClassPass ofte en pause, ellers via chatten | Konto, deretter Manage plan |
+| **Når** | Minst 48 timer før fornyelsesdatoen | To måneder, fra neste fornyelsesdato | Fra neste fornyelsesdato |
+| **Pris** | Gratis | Gratis: du bytter til ClassPass Lite (0 kr i måneden) | Den lavere månedsprisen |
+| **Kredittene dine** | Forsvinner når abonnementet stopper, også overførte kreditter | Kan ikke brukes under pausen, er tilgjengelige igjen etterpå | De vanlige reglene for overføring |
 
 <h2 id="si-opp">Slik sier du opp</h2>
 
@@ -34,6 +34,8 @@ Du kan alltid si opp ClassPass, uten gebyr og uten oppsigelsestid. Gjør det min
 2. Trykk på si opp under **Betaling**.
 3. Følg stegene til du ser bekreftelsen.
 
+Underveis viser ClassPass deg først noen tilbud, for eksempel en gratis pause på to måneder eller rabatt på de neste månedene (for eksempel 20 % i tre måneder). Vil du virkelig slutte, velger du hver gang å fortsette med oppsigelsen. Takker du ja til en rabatt, gjelder full pris automatisk igjen etterpå. Etter oppsigelsen kan du fortsatt bruke kredittene og bookingene dine til slutten av den nåværende perioden.
+
 Etterpå får du en bekreftelse på e-post fra ClassPass. Har du ikke fått e-post? Da har ikke oppsigelsen gått gjennom. Ta i så fall kontakt via chatten.
 
 <h2 id="proveperiode">Si opp i den gratis prøveperioden</h2>
@@ -42,11 +44,14 @@ Sier du opp i den gratis prøveperioden, gjelder det med en gang: kredittene din
 
 <h2 id="pause">Kan du sette ClassPass på pause?</h2>
 
-Noen ganger. ClassPass tilbyr pause ved uventede omstendigheter, for eksempel en skade, men det er ingen garanti. Du spør via chatten og oppgir en grunn.
+Ja, i mange tilfeller. Når du begynner å si opp, tilbyr ClassPass ofte først en gratis pause på to måneder. Du bytter da til ClassPass Lite for 0 kr i måneden.
 
 - Du betaler ingenting under pausen.
-- Kredittene dine fryses, og ubrukte kreditter blir med videre.
-- Etter pausen starter det forrige abonnementet ditt igjen, med nye kreditter.
+- Du kan ikke bruke kredittene dine under pausen. Ubrukte kreditter er tilgjengelige igjen etterpå.
+- Pausen starter på neste fornyelsesdato.
+- Etter to måneder fortsetter det nåværende abonnementet ditt automatisk.
+
+Ser du ikke tilbudet? Spør da om pause via chatten, for eksempel etter en skade. ClassPass vurderer fra sak til sak.
 
 Har du bare mindre tid en periode? Et mindre abonnement er ofte enklere: det endrer du selv, og det gjelder fra neste fornyelsesdato.
 
@@ -80,7 +85,7 @@ Ja. Du kan aktivere abonnementet ditt igjen senere i kontoen din. Du begynner da
 
 </details>
 
-<p class="klein">Kilde: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPass sitt hjelpesenter</a>. Reglene kan endre seg, så sjekk alltid den aktuelle informasjonen i kontoen din.</p>
+<p class="klein">Kilde: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPass sitt hjelpesenter</a> og ClassPass-appen (oktober 2026). Reglene kan endre seg, så sjekk alltid den aktuelle informasjonen i kontoen din.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/classpass-kreditter/">ClassPass-kreditter forklart</a>

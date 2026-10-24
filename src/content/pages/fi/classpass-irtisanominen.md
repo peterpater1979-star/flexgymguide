@@ -15,10 +15,10 @@ Voit irtisanoa ClassPassin milloin tahansa, ilman maksua ja ilman irtisanomisaik
 
 | | Irtisanominen | Tauko | Pienempi jäsenyys |
 | --- | --- | --- | --- |
-| **Miten** | Asetukset sovelluksessa tai verkkosivuilla | Kysy ClassPassin chatissa ja kerro syy | Tili, sitten Manage plan |
-| **Milloin** | Vähintään 48 tuntia ennen uusiutumispäivää | Vain odottamattomissa tilanteissa, ei takuuta | Seuraavasta uusiutumispäivästä |
-| **Hinta** | Maksuton | Et maksa mitään tauon aikana | Edullisempi kuukausihinta |
-| **Krediittisi** | Katoavat, kun jäsenyys päättyy, myös siirtyneet krediitit | Jäädytetään ja siirtyvät tauon jälkeen | Tavalliset siirtosäännöt |
+| **Miten** | Asetukset sovelluksessa tai verkkosivuilla | Irtisanoessa ClassPass tarjoaa usein tauon, muuten chatissa | Tili, sitten Manage plan |
+| **Milloin** | Vähintään 48 tuntia ennen uusiutumispäivää | Kaksi kuukautta seuraavasta uusiutumispäivästä | Seuraavasta uusiutumispäivästä |
+| **Hinta** | Maksuton | Maksuton: siirryt ClassPass Liteen (0 € kuukaudessa) | Edullisempi kuukausihinta |
+| **Krediittisi** | Katoavat, kun jäsenyys päättyy, myös siirtyneet krediitit | Eivät ole käytössä tauon aikana, käytettävissä taas sen jälkeen | Tavalliset siirtosäännöt |
 
 <h2 id="irtisanominen">Näin irtisanot</h2>
 
@@ -34,6 +34,8 @@ Voit irtisanoa ClassPassin milloin tahansa, ilman maksua ja ilman irtisanomisaik
 2. Napauta irtisanomista kohdassa **Maksut**.
 3. Seuraa ohjeita, kunnes näet vahvistuksen.
 
+Matkan varrella ClassPass näyttää sinulle ensin tarjouksia, kuten maksuttoman kahden kuukauden tauon tai alennuksen seuraaville kuukausille (esimerkiksi 20 % kolmeksi kuukaudeksi). Jos haluat todella lopettaa, valitse joka kerta irtisanomisen jatkaminen. Jos otat alennuksen vastaan, täysi hinta on sen jälkeen taas automaattisesti voimassa. Irtisanomisen jälkeen voit vielä käyttää krediittejäsi ja varauksiasi nykyisen jaksosi loppuun asti.
+
 Saat sen jälkeen ClassPassilta vahvistussähköpostin. Eikö sähköpostia tullut? Silloin irtisanominen ei ole mennyt läpi. Ota siinä tapauksessa yhteyttä chatin kautta.
 
 <h2 id="kokeilujakso">Irtisanominen ilmaisen kokeilujakson aikana</h2>
@@ -42,11 +44,14 @@ Jos irtisanot ilmaisen kokeilujakson aikana, se tulee voimaan heti: krediittisi 
 
 <h2 id="tauko">Voitko pitää ClassPassista taukoa?</h2>
 
-Joskus. ClassPass tarjoaa tauon odottamattomissa tilanteissa, esimerkiksi loukkaantumisen vuoksi, mutta se ei ole taattua. Kysyt sitä chatissa ja kerrot syyn.
+Kyllä, monesti. Kun aloitat irtisanomisen, ClassPass tarjoaa usein ensin maksuttoman kahden kuukauden tauon. Siirryt silloin ClassPass Liteen, hintaan 0 € kuukaudessa.
 
 - Et maksa mitään tauon aikana.
-- Krediittisi jäädytetään ja käyttämättömät krediitit siirtyvät.
-- Tauon jälkeen aiempi jäsenyytesi jatkuu uusilla krediiteillä.
+- Et voi käyttää krediittejäsi tauon aikana. Käyttämättömät krediitit ovat taas käytettävissä sen jälkeen.
+- Tauko alkaa seuraavana uusiutumispäivänäsi.
+- Kahden kuukauden jälkeen nykyinen jäsenyytesi jatkuu automaattisesti.
+
+Etkö näe tätä tarjousta? Pyydä taukoa chatissa, esimerkiksi loukkaantumisen vuoksi. ClassPass päättää tapauskohtaisesti.
 
 Onko sinulla vain hetken vähemmän aikaa? Pienempi jäsenyys on usein helpompi: sen vaihdat itse, ja se tulee voimaan seuraavasta uusiutumispäivästä.
 
@@ -80,7 +85,7 @@ Voit. Voit aktivoida jäsenyytesi myöhemmin uudelleen tililläsi. Aloitat sillo
 
 </details>
 
-<p class="klein">Lähde: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPassin ohjekeskus</a>. Säännöt voivat muuttua, joten tarkista ajantasaiset tiedot aina tililtäsi.</p>
+<p class="klein">Lähde: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPassin ohjekeskus</a> ja ClassPass-sovellus (lokakuu 2026). Säännöt voivat muuttua, joten tarkista ajantasaiset tiedot aina tililtäsi.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fi/classpass-krediitit/">ClassPass-krediitit selitettynä</a>

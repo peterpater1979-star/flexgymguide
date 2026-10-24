@@ -15,10 +15,10 @@ Du kan altid opsige ClassPass, uden gebyr og uden opsigelsesperiode. Gør det mi
 
 | | Opsige | Pause | Mindre abonnement |
 | --- | --- | --- | --- |
-| **Hvordan** | Indstillinger i appen eller på hjemmesiden | Spørg via ClassPass' chat og giv en grund | Konto, derefter Manage plan |
-| **Hvornår** | Mindst 48 timer før fornyelsesdatoen | Kun ved uventede omstændigheder, ingen garanti | Fra din næste fornyelsesdato |
-| **Pris** | Gratis | Du betaler ikke noget under pausen | Den lavere månedspris |
-| **Dine credits** | Forsvinder, når abonnementet stopper, også overførte credits | Fryses og overføres bagefter | De normale regler for overførsel |
+| **Hvordan** | Indstillinger i appen eller på hjemmesiden | Når du opsiger, tilbyder ClassPass ofte en pause, ellers via chatten | Konto, derefter Manage plan |
+| **Hvornår** | Mindst 48 timer før fornyelsesdatoen | To måneder, fra din næste fornyelsesdato | Fra din næste fornyelsesdato |
+| **Pris** | Gratis | Gratis: du skifter til ClassPass Lite (0 kr. om måneden) | Den lavere månedspris |
+| **Dine credits** | Forsvinder, når abonnementet stopper, også overførte credits | Kan ikke bruges under pausen, er tilgængelige igen bagefter | De normale regler for overførsel |
 
 <h2 id="opsige">Sådan opsiger du</h2>
 
@@ -34,6 +34,8 @@ Du kan altid opsige ClassPass, uden gebyr og uden opsigelsesperiode. Gør det mi
 2. Tryk på opsig under **Betaling**.
 3. Følg trinene, til du ser bekræftelsen.
 
+Undervejs viser ClassPass dig først nogle tilbud, for eksempel en gratis pause på to måneder eller rabat på de næste måneder (for eksempel 20 % i tre måneder). Vil du virkelig stoppe, så vælg hver gang at fortsætte med opsigelsen. Tager du imod en rabat, gælder den fulde pris automatisk igen bagefter. Efter opsigelsen kan du stadig bruge dine credits og bookinger indtil slutningen af din nuværende periode.
+
 Bagefter får du en bekræftelsesmail fra ClassPass. Har du ikke fået en mail? Så er din opsigelse ikke gået igennem. Kontakt dem i så fald via chatten.
 
 <h2 id="proeveperiode">Opsigelse i den gratis prøveperiode</h2>
@@ -42,11 +44,14 @@ Opsiger du i den gratis prøveperiode, gælder det med det samme: dine credits f
 
 <h2 id="pause">Kan du sætte ClassPass på pause?</h2>
 
-Nogle gange. ClassPass tilbyder en pause ved uventede omstændigheder, for eksempel en skade, men det er ingen garanti. Du spørger via chatten og giver en grund.
+Ja, i mange tilfælde. Når du begynder at opsige, tilbyder ClassPass ofte først en gratis pause på to måneder. Du skifter så til ClassPass Lite for 0 kr. om måneden.
 
 - Du betaler ikke noget under pausen.
-- Dine credits fryses, og ubrugte credits overføres.
-- Efter pausen starter dit tidligere abonnement igen med nye credits.
+- Du kan ikke bruge dine credits under pausen. Ubrugte credits er tilgængelige igen bagefter.
+- Pausen starter på din næste fornyelsesdato.
+- Efter to måneder fortsætter dit nuværende abonnement automatisk.
+
+Ser du ikke tilbuddet? Så spørg om en pause via chatten, for eksempel efter en skade. ClassPass vurderer fra sag til sag.
 
 Har du bare mindre tid i en periode? Et mindre abonnement er ofte nemmere: det ændrer du selv, og det gælder fra din næste fornyelsesdato.
 
@@ -80,7 +85,7 @@ Ja. Du kan genaktivere dit abonnement senere i din konto. Du starter så forfra 
 
 </details>
 
-<p class="klein">Kilde: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPass' hjælpecenter</a>. Reglerne kan ændre sig, så tjek altid de aktuelle oplysninger i din konto.</p>
+<p class="klein">Kilde: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPass' hjælpecenter</a> og ClassPass-appen (oktober 2026). Reglerne kan ændre sig, så tjek altid de aktuelle oplysninger i din konto.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/dk/classpass-credits/">ClassPass-credits forklaret</a>

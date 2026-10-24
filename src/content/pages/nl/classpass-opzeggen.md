@@ -15,10 +15,10 @@ Je kunt ClassPass altijd opzeggen, zonder kosten en zonder opzegtermijn. Doe het
 
 | | Opzeggen | Pauzeren | Kleiner abonnement |
 | --- | --- | --- | --- |
-| **Hoe** | Instellingen in de app of op de website | Vragen via de chat van ClassPass, met een reden | Account, dan Manage plan |
-| **Wanneer** | Minstens 48 uur voor je verlengdatum | Alleen bij onverwachte omstandigheden, geen garantie | Vanaf je volgende verlengdatum |
-| **Kosten** | Gratis | Je betaalt niets tijdens de pauze | De lagere maandprijs |
-| **Je credits** | Vervallen als je abonnement stopt, ook meegenomen credits | Bevroren, daarna gaan ze mee | De gewone meeneemregels |
+| **Hoe** | Instellingen in de app of op de website | Bij opzeggen biedt ClassPass vaak een pauze aan, anders via de chat | Account, dan Manage plan |
+| **Wanneer** | Minstens 48 uur voor je verlengdatum | Twee maanden, vanaf je volgende verlengdatum | Vanaf je volgende verlengdatum |
+| **Kosten** | Gratis | Gratis: je stapt over naar ClassPass Lite (€ 0 per maand) | De lagere maandprijs |
+| **Je credits** | Vervallen als je abonnement stopt, ook meegenomen credits | Niet te gebruiken tijdens de pauze, daarna weer beschikbaar | De gewone meeneemregels |
 
 <h2 id="opzeggen">Zo zeg je op</h2>
 
@@ -34,6 +34,8 @@ Je kunt ClassPass altijd opzeggen, zonder kosten en zonder opzegtermijn. Doe het
 2. Tik onder **Betaling** op opzeggen.
 3. Volg de stappen tot je de bevestiging ziet.
 
+Onderweg laat ClassPass je eerst aanbiedingen zien, zoals een gratis pauze van twee maanden of korting op de volgende maanden (bijvoorbeeld 20% korting voor drie maanden). Wil je echt stoppen, kies dan steeds voor doorgaan met opzeggen. Neem je een korting aan, dan geldt daarna automatisch weer de volle prijs. Na het opzeggen kun je je credits en reserveringen nog gebruiken tot het einde van je huidige cyclus.
+
 Je krijgt daarna een bevestigingsmail van ClassPass. Geen mail gehad? Dan is je opzegging niet binnengekomen. Neem in dat geval contact op via de chat.
 
 <h2 id="proefperiode">Opzeggen tijdens de gratis proefperiode</h2>
@@ -42,11 +44,14 @@ Zeg je op tijdens de gratis proefperiode, dan gaat dat meteen in: je credits ver
 
 <h2 id="pauzeren">Kun je ClassPass pauzeren?</h2>
 
-Soms. ClassPass biedt een pauze bij onverwachte omstandigheden, zoals een blessure, maar dat is geen garantie. Je vraagt het aan via de chat en geeft een reden.
+Ja, in veel gevallen. Als je gaat opzeggen, biedt ClassPass vaak eerst een gratis pauze van twee maanden aan. Je stapt dan over naar ClassPass Lite, voor € 0 per maand.
 
 - Je betaalt niets tijdens de pauze.
-- Je credits worden bevroren en ongebruikte credits gaan mee.
-- Na de pauze start je vorige abonnement weer, met nieuwe credits.
+- Je credits kun je tijdens de pauze niet gebruiken. Ongebruikte credits zijn daarna weer beschikbaar.
+- De pauze begint bij je volgende verlengdatum.
+- Na twee maanden gaat je huidige abonnement automatisch weer door.
+
+Zie je dit aanbod niet? Vraag dan via de chat om een pauze, bijvoorbeeld bij een blessure. ClassPass beslist per geval.
 
 Even minder tijd? Een kleiner abonnement is vaak makkelijker: dat pas je zelf aan, en het gaat in op je volgende verlengdatum.
 
@@ -80,7 +85,7 @@ Ja. Je kunt je abonnement later weer activeren in je account. Je begint dan opni
 
 </details>
 
-<p class="klein">Bron: <a href="https://help.classpass.com/hc/nl/articles/204578119-Hoe-kan-ik-mijn-ClassPass-lidmaatschap-opzeggen">helpcentrum van ClassPass</a>. Regels kunnen veranderen, dus kijk voor de actuele informatie altijd in je account.</p>
+<p class="klein">Bron: <a href="https://help.classpass.com/hc/nl/articles/204578119-Hoe-kan-ik-mijn-ClassPass-lidmaatschap-opzeggen">helpcentrum van ClassPass</a> en de app van ClassPass (oktober 2026). Regels kunnen veranderen, dus kijk voor de actuele informatie altijd in je account.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/classpass-credits/">ClassPass-credits uitgelegd</a>

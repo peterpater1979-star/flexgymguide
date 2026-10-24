@@ -15,10 +15,10 @@ Puedes cancelar ClassPass en cualquier momento, sin coste y sin preaviso. Hazlo 
 
 | | Cancelar | Pausar | Plan más pequeño |
 | --- | --- | --- | --- |
-| **Cómo** | Ajustes en la app o en la web | Pedirlo por chat a ClassPass, con un motivo | Cuenta, luego Manage plan |
-| **Cuándo** | Al menos 48 horas antes de tu fecha de renovación | Solo por imprevistos, sin garantía | Desde tu próxima fecha de renovación |
-| **Coste** | Gratis | No pagas nada durante la pausa | El precio mensual más bajo |
-| **Tus créditos** | Se pierden al terminar la suscripción, también los acumulados | Congelados y luego se conservan | Las reglas habituales de acumulación |
+| **Cómo** | Ajustes en la app o en la web | Al cancelar, ClassPass suele ofrecer una pausa; si no, por chat | Cuenta, luego Manage plan |
+| **Cuándo** | Al menos 48 horas antes de tu fecha de renovación | Dos meses, desde tu próxima fecha de renovación | Desde tu próxima fecha de renovación |
+| **Coste** | Gratis | Gratis: pasas a ClassPass Lite (0 € al mes) | El precio mensual más bajo |
+| **Tus créditos** | Se pierden al terminar la suscripción, también los acumulados | No se pueden usar durante la pausa, vuelven a estar disponibles después | Las reglas habituales de acumulación |
 
 <h2 id="cancelar">Cómo cancelar</h2>
 
@@ -34,6 +34,8 @@ Puedes cancelar ClassPass en cualquier momento, sin coste y sin preaviso. Hazlo 
 2. En **Pago**, toca cancelar.
 3. Sigue los pasos hasta ver la confirmación.
 
+Por el camino, ClassPass te muestra primero ofertas, como una pausa gratuita de dos meses o un descuento en los próximos meses (por ejemplo, un 20 % durante tres meses). Si de verdad quieres dejarlo, elige cada vez seguir con la cancelación. Si aceptas un descuento, después vuelve a aplicarse automáticamente el precio completo. Tras cancelar, puedes seguir usando tus créditos y reservas hasta el final de tu ciclo actual.
+
 Después recibes un correo de confirmación de ClassPass. ¿No te ha llegado? Entonces tu solicitud no se ha recibido. Escribe a ClassPass por chat.
 
 <h2 id="prueba">Cancelar durante la prueba gratuita</h2>
@@ -42,11 +44,14 @@ Si cancelas durante la prueba gratuita, es inmediato: pierdes tus créditos y se
 
 <h2 id="pausar">¿Se puede pausar ClassPass?</h2>
 
-A veces. ClassPass ofrece una pausa por imprevistos, como una lesión, pero sin garantía. La pides por chat y das un motivo.
+Sí, en muchos casos. Cuando empiezas a cancelar, ClassPass suele ofrecerte primero una pausa gratuita de dos meses. Pasas a ClassPass Lite, por 0 € al mes.
 
 - No pagas nada durante la pausa.
-- Tus créditos se congelan y los no usados se conservan.
-- Después de la pausa, vuelve tu plan anterior con créditos nuevos.
+- No puedes usar tus créditos durante la pausa. Los créditos no usados vuelven a estar disponibles después.
+- La pausa empieza en tu próxima fecha de renovación.
+- Después de dos meses, tu plan actual se reanuda automáticamente.
+
+¿No ves esta oferta? Pide una pausa por chat, por ejemplo tras una lesión. ClassPass decide en cada caso.
 
 ¿Solo tienes menos tiempo durante una temporada? Un plan más pequeño suele ser más fácil: lo cambias tú y empieza en tu próxima fecha de renovación.
 
@@ -80,7 +85,7 @@ Sí. Puedes reactivar tu suscripción más adelante desde tu cuenta. Empiezas de
 
 </details>
 
-<p class="klein">Fuente: <a href="https://help.classpass.com/hc/en-us/articles/204578119">centro de ayuda de ClassPass</a>. Las reglas pueden cambiar, así que consulta siempre la información actual en tu cuenta.</p>
+<p class="klein">Fuente: <a href="https://help.classpass.com/hc/en-us/articles/204578119">centro de ayuda de ClassPass</a> y app de ClassPass (octubre de 2026). Las reglas pueden cambiar, así que consulta siempre la información actual en tu cuenta.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/creditos-classpass/">Los créditos de ClassPass</a>

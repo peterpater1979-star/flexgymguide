@@ -15,10 +15,10 @@ Tu peux résilier ClassPass à tout moment, sans frais et sans préavis. Fais-le
 
 | | Résilier | Mettre en pause | Formule plus petite |
 | --- | --- | --- | --- |
-| **Comment** | Paramètres dans l'appli ou sur le site | Demander par chat à ClassPass, avec une raison | Compte, puis Manage plan |
-| **Quand** | Au moins 48 heures avant ta date de renouvellement | Seulement en cas d'imprévu, sans garantie | À ta prochaine date de renouvellement |
-| **Coût** | Gratuit | Tu ne paies rien pendant la pause | Le prix mensuel plus bas |
-| **Tes crédits** | Perdus à la fin de l'abonnement, crédits reportés compris | Gelés, puis reportés | Les règles de report habituelles |
+| **Comment** | Paramètres dans l'appli ou sur le site | En résiliant, ClassPass propose souvent une pause, sinon par chat | Compte, puis Manage plan |
+| **Quand** | Au moins 48 heures avant ta date de renouvellement | Deux mois, à partir de ta prochaine date de renouvellement | À ta prochaine date de renouvellement |
+| **Coût** | Gratuit | Gratuit : tu passes à ClassPass Lite (0 € par mois) | Le prix mensuel plus bas |
+| **Tes crédits** | Perdus à la fin de l'abonnement, crédits reportés compris | Inutilisables pendant la pause, de nouveau disponibles ensuite | Les règles de report habituelles |
 
 <h2 id="resilier">Comment résilier</h2>
 
@@ -34,6 +34,8 @@ Tu peux résilier ClassPass à tout moment, sans frais et sans préavis. Fais-le
 2. Sous **Paiement**, appuie sur résilier.
 3. Suis les étapes jusqu'à la confirmation.
 
+En chemin, ClassPass te montre d'abord des offres, comme une pause gratuite de deux mois ou une réduction sur les mois suivants (par exemple 20 % pendant trois mois). Si tu veux vraiment arrêter, choisis à chaque fois de continuer la résiliation. Si tu acceptes une réduction, le plein tarif s'applique de nouveau automatiquement ensuite. Après la résiliation, tu peux encore utiliser tes crédits et tes réservations jusqu'à la fin de ton cycle en cours.
+
 Tu reçois ensuite un e-mail de confirmation de ClassPass. Pas d'e-mail ? Alors ta demande n'est pas passée. Contacte ClassPass par chat.
 
 <h2 id="essai">Résilier pendant l'essai gratuit</h2>
@@ -42,11 +44,14 @@ Si tu résilies pendant l'essai gratuit, c'est immédiat : tes crédits sont per
 
 <h2 id="pause">Peut-on mettre ClassPass en pause ?</h2>
 
-Parfois. ClassPass propose une pause en cas d'imprévu, comme une blessure, mais sans garantie. Tu la demandes par chat en donnant une raison.
+Oui, dans beaucoup de cas. Quand tu commences à résilier, ClassPass propose souvent d'abord une pause gratuite de deux mois. Tu passes alors à ClassPass Lite, pour 0 € par mois.
 
 - Tu ne paies rien pendant la pause.
-- Tes crédits sont gelés et les crédits non utilisés sont reportés.
-- Après la pause, ta formule précédente reprend, avec de nouveaux crédits.
+- Tu ne peux pas utiliser tes crédits pendant la pause. Les crédits non utilisés sont de nouveau disponibles ensuite.
+- La pause commence à ta prochaine date de renouvellement.
+- Après deux mois, ta formule actuelle reprend automatiquement.
+
+Tu ne vois pas cette offre ? Demande une pause par chat, par exemple après une blessure. ClassPass décide au cas par cas.
 
 Juste moins de temps pendant un moment ? Une formule plus petite est souvent plus simple : tu la changes toi-même, et elle commence à ta prochaine date de renouvellement.
 
@@ -80,7 +85,7 @@ Oui. Tu peux réactiver ton abonnement plus tard dans ton compte. Tu repars alor
 
 </details>
 
-<p class="klein">Source : <a href="https://help.classpass.com/hc/en-us/articles/204578119">centre d'aide ClassPass</a>. Les règles peuvent changer, vérifie toujours les informations à jour dans ton compte.</p>
+<p class="klein">Source : <a href="https://help.classpass.com/hc/en-us/articles/204578119">centre d'aide ClassPass</a> et application ClassPass (octobre 2026). Les règles peuvent changer, vérifie toujours les informations à jour dans ton compte.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass expliqués</a>

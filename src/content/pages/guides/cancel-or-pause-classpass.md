@@ -15,10 +15,10 @@ You can cancel ClassPass at any time, with no fee and no notice period. Do it at
 
 | | Cancel | Pause | Smaller plan |
 | --- | --- | --- | --- |
-| **How** | Settings in the app or on the website | Ask ClassPass via chat, with a reason | Account, then Manage plan |
-| **When** | At least 48 hours before your renewal date | Only for unexpected circumstances, not guaranteed | From your next renewal date |
-| **Cost** | Free | You are not charged during the pause | The lower monthly price |
-| **Your credits** | Lost when your membership ends, rollover credits too | Frozen, then carried over | The usual rollover rules |
+| **How** | Settings in the app or on the website | When you cancel, ClassPass often offers a pause; otherwise ask via chat | Account, then Manage plan |
+| **When** | At least 48 hours before your renewal date | Two months, from your next renewal date | From your next renewal date |
+| **Cost** | Free | Free: you switch to ClassPass Lite at 0 a month | The lower monthly price |
+| **Your credits** | Lost when your membership ends, rollover credits too | Not usable during the pause, available again afterwards | The usual rollover rules |
 
 <h2 id="cancel">How to cancel</h2>
 
@@ -34,6 +34,8 @@ You can cancel ClassPass at any time, with no fee and no notice period. Do it at
 2. Under **Billing**, tap the cancel option.
 3. Follow the steps until you see the confirmation.
 
+Along the way, ClassPass first shows you offers, such as a free two-month pause or a discount on the next few months (for example 20% off for three months). If you really want to stop, keep choosing to continue cancelling. If you take a discount, the full price applies again automatically afterwards. After cancelling, you can still use your credits and bookings until the end of your current cycle.
+
 You then get a confirmation email from ClassPass. No email means your request did not go through, so contact ClassPass via chat.
 
 <h2 id="trial">Cancelling during the free trial</h2>
@@ -42,11 +44,14 @@ If you cancel during the free trial, it takes effect straight away: your credits
 
 <h2 id="pause">Can you pause ClassPass?</h2>
 
-Sometimes. ClassPass offers a pause for unexpected circumstances, such as an injury, but it is not guaranteed. You ask for it via chat and give a reason.
+Yes, in many cases. When you start cancelling, ClassPass often first offers a free two-month pause. You switch to ClassPass Lite, at 0 a month.
 
-- You are not charged during the pause.
-- Your credits are frozen and unused credits carry over.
-- After the pause, your previous plan starts again with new credits.
+- You pay nothing during the pause.
+- You can't use your credits during the pause. Unused credits are available again afterwards.
+- The pause starts on your next renewal date.
+- After two months, your current plan resumes automatically.
+
+Don't see this offer? Ask for a pause via chat, for example after an injury. ClassPass decides case by case.
 
 Just less time for a while? A smaller plan is often easier: you change it yourself, and it starts on your next renewal date.
 
@@ -80,7 +85,7 @@ Yes. You can reactivate your membership in your account later. You then start ag
 
 </details>
 
-<p class="klein">Source: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPass Help Center</a>. Rules can change, so always check the latest details in your account.</p>
+<p class="klein">Source: <a href="https://help.classpass.com/hc/en-us/articles/204578119">ClassPass Help Center</a> and the ClassPass app (October 2026). Rules can change, so always check the latest details in your account.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/guides/classpass-credits/">ClassPass credits explained</a>
