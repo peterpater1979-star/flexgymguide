@@ -66,6 +66,18 @@ Schoenen met een vlakke, stevige zool voor squats en tillen. Een handdoek voor o
 4. **Begin op je eigen niveau.** Niemand verwacht dat je in je eerste les de vaste deelnemers bijhoudt.
 5. **Check de annuleringsregels.** Met een sportpas of proefles kan te laat afzeggen credits of een boete kosten.
 
+<h2 id="spullen">Nog iets nodig?</h2>
+
+Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
+
+- [Sportkleding](/go/amazon-nl-sportkleding/) en [sportschoenen](/go/amazon-nl-sportschoenen/)
+- [Een waterfles](/go/amazon-nl-waterfles/) en [een sporthanddoek](/go/amazon-nl-handdoek/)
+- [Een hangslot voor het kluisje](/go/amazon-nl-hangslot/)
+- Voor yoga en pilates: [antislipsokken](/go/amazon-nl-yogasokken/)
+- Voor boksen: [bandages](/go/amazon-nl-boksbandages/) en [bokshandschoenen](/go/amazon-nl-bokshandschoenen/)
+
+<p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
+
 <h2 id="proberen">Verschillende studio's proberen</h2>
 
 Weet je nog niet welke training bij je past? Met een sportpas zoals ClassPass probeer je yoga, boksen en spinning bij verschillende studio's voordat je kiest. Liever één vaste plek? Bij Trainmore plan je een gratis proefles.

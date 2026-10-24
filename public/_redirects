@@ -66,5 +66,15 @@
 # /go/fitness-first-de/   clickref=:ref  https://www.awin1.com/cread.php?awinmid=15968&awinaffid=[ID]&clickref=:ref  302
 # /go/fitness-first-uk/   clickref=:ref  https://www.awin1.com/cread.php?awinmid=109520&awinaffid=[ID]&clickref=:ref  302
 
+# Amazon.nl (PartnerNet, tracking-ID flexgymguide-21): zoekpagina's voor de gids eerste les.
+/go/amazon-nl-sportkleding/  https://www.amazon.nl/s?k=sportkleding&tag=flexgymguide-21  302
+/go/amazon-nl-sportschoenen/  https://www.amazon.nl/s?k=sportschoenen&tag=flexgymguide-21  302
+/go/amazon-nl-waterfles/  https://www.amazon.nl/s?k=sport+waterfles&tag=flexgymguide-21  302
+/go/amazon-nl-handdoek/  https://www.amazon.nl/s?k=sporthanddoek+microvezel&tag=flexgymguide-21  302
+/go/amazon-nl-hangslot/  https://www.amazon.nl/s?k=hangslot+kluisje&tag=flexgymguide-21  302
+/go/amazon-nl-yogasokken/  https://www.amazon.nl/s?k=antislip+sokken+yoga&tag=flexgymguide-21  302
+/go/amazon-nl-boksbandages/  https://www.amazon.nl/s?k=boksbandages&tag=flexgymguide-21  302
+/go/amazon-nl-bokshandschoenen/  https://www.amazon.nl/s?k=bokshandschoenen&tag=flexgymguide-21  302
+
 # Netlify-adres en www naar het hoofddomein
 https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!
