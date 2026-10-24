@@ -19,7 +19,7 @@ Nieuwe leden kunnen ClassPass eerst proberen. Je bezoekt dan een aantal studio's
 | **Wat je krijgt** | In Nederland 10 work-outs, bij elke studio één keer. Wat je niet gebruikt, vervalt aan het einde |
 | **Hoe lang** | In Nederland 14 dagen |
 | **Gratis?** | In Nederland wel. In sommige andere gebieden is het een korting op je eerste periode |
-| **Na afloop** | Je gaat automatisch over op een maandabonnement, in Nederland nu 47 credits voor € 69 per maand plus btw |
+| **Na afloop** | Je gaat automatisch over op een maandabonnement, in Nederland nu 47 credits voor € 69 per maand |
 
 <h2 id="regels">De regels</h2>
 

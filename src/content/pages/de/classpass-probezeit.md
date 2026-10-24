@@ -19,7 +19,7 @@ Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studio
 | **Was du bekommst** | In Deutschland 10 Workouts, in jedem Studio einmal. Was du nicht nutzt, verfällt am Ende |
 | **Wie lange** | In Deutschland 1 Monat |
 | **Kostenlos?** | In Deutschland ja. In manchen anderen Regionen ist es ein Rabatt auf deinen ersten Zeitraum |
-| **Danach** | Du wechselst automatisch zu einem Monatsabo, in Deutschland derzeit 42 Credits für 59 € pro Monat zzgl. MwSt. |
+| **Danach** | Du wechselst automatisch zu einem Monatsabo, in Deutschland derzeit 42 Credits für 59 € pro Monat |
 
 <h2 id="regeln">Die Regeln</h2>
 
