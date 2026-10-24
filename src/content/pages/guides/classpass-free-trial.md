@@ -9,17 +9,17 @@ crumb: "ClassPass free trial"
 kicker: "Guide"
 ---
 
-New members can try ClassPass first. You visit a number of studios and gyms, each one once. In London and Ireland you currently get 14 days free with 10 workouts. In other countries the offer can differ; you always see it when you sign up.
+New members can try ClassPass first. You visit a number of studios and gyms, each one once. In the UK and Ireland you currently get 14 days free with 10 workouts. In other countries the offer can differ; you always see it when you sign up.
 
 <h2 id="summary">In short</h2>
 
 | | |
 | --- | --- |
 | **Who for** | New members only, once per person |
-| **What you get** | In London 10 workouts, at each studio once. Anything you don't use expires at the end |
-| **How long** | In London 14 days |
-| **Free?** | In London, yes. In some other areas it's a discount on your first period |
-| **Afterwards** | You move automatically to a monthly plan, in London currently 52 credits for £69 a month, in Ireland 33 credits for €49 |
+| **What you get** | In the UK and Ireland 10 workouts, at each studio once. Anything you don't use expires at the end |
+| **How long** | In the UK and Ireland 14 days |
+| **Free?** | In the UK and Ireland, yes. In some other areas it's a discount on your first period |
+| **Afterwards** | You move automatically to a monthly plan that differs by city: in London currently 52 credits for £69 a month, in Manchester (Salford) 36 credits for £49, in Ireland 33 credits for €49 |
 
 <h2 id="rules">The rules</h2>
 
@@ -58,7 +58,7 @@ Cancelling during the trial takes effect immediately. You lose any trial workout
 <details open>
 <summary>Is the trial really free?</summary>
 
-In London, yes: 14 days with 10 workouts, at no cost if you cancel in time. In some other areas it's a discount on your first period instead of a free trial. You see what you get when you sign up.
+In the UK and Ireland, yes: 14 days with 10 workouts, at no cost if you cancel in time. In some other areas it's a discount on your first period instead of a free trial. You see what you get when you sign up.
 
 </details>
 
@@ -76,7 +76,7 @@ No. ClassPass has no student discount. Some employers do offer ClassPass through
 
 </details>
 
-<p class="klein">Source: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Help Center</a> (January 2026) and the ClassPass sign-up pages for London and Ireland (October 2026). Rules can change, so always check the latest details when you sign up or in your account.</p>
+<p class="klein">Source: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Help Center</a> (January 2026) and the ClassPass sign-up pages for London, Salford and Ireland (October 2026). Rules can change, so always check the latest details when you sign up or in your account.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/guides/classpass-credits/">ClassPass credits explained</a>
