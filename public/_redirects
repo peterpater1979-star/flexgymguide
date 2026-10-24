@@ -76,5 +76,15 @@
 /go/amazon-nl-boksbandages/  https://www.amazon.nl/s?k=boksbandages&tag=flexgymguide-21  302
 /go/amazon-nl-bokshandschoenen/  https://www.amazon.nl/s?k=bokshandschoenen&tag=flexgymguide-21  302
 
+# Amazon.de (PartnerNet, tracking-ID flexgymguide0c-21): Suchseiten für den Ratgeber erstes Training (DE en AT).
+/go/amazon-de-sportbekleidung/  https://www.amazon.de/s?k=sportbekleidung&tag=flexgymguide0c-21  302
+/go/amazon-de-sportschuhe/  https://www.amazon.de/s?k=sportschuhe&tag=flexgymguide0c-21  302
+/go/amazon-de-trinkflasche/  https://www.amazon.de/s?k=sport+trinkflasche&tag=flexgymguide0c-21  302
+/go/amazon-de-handtuch/  https://www.amazon.de/s?k=sporthandtuch+mikrofaser&tag=flexgymguide0c-21  302
+/go/amazon-de-schloss/  https://www.amazon.de/s?k=vorh%C3%A4ngeschloss+spind&tag=flexgymguide0c-21  302
+/go/amazon-de-yogasocken/  https://www.amazon.de/s?k=yoga+socken+rutschfest&tag=flexgymguide0c-21  302
+/go/amazon-de-boxbandagen/  https://www.amazon.de/s?k=boxbandagen&tag=flexgymguide0c-21  302
+/go/amazon-de-boxhandschuhe/  https://www.amazon.de/s?k=boxhandschuhe&tag=flexgymguide0c-21  302
+
 # Netlify-adres en www naar het hoofddomein
 https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!

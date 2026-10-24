@@ -33,4 +33,5 @@ FlexGymGuide ist kostenlos. Wir finanzieren uns über Affiliate-Links. Schließt
 - Seiten mit Affiliate-Links sind oben mit **Anzeige** gekennzeichnet.
 - Affiliate-Links auf dieser Seite beginnen mit **flexgymguide.com/go/**.
 - Mögliche Partner: ClassPass (über Tradedoubler und Impact), Trainmore und Fitness First (über Awin). Andere Studios nennen wir ohne Provision.
+- Als Amazon-Partner verdienen wir an qualifizierten Verkäufen (Sportbekleidung und Ausrüstung in unseren Ratgebern).
 - Eine Provision entscheidet nie darüber, ob und wie wir einen Anbieter empfehlen.

@@ -66,6 +66,18 @@ Schuhe mit flacher, fester Sohle für Kniebeugen und Heben. Ein Handtuch für di
 4. **Starte auf deinem Niveau.** Niemand erwartet, dass du im ersten Kurs mit den Stammgästen mithältst.
 5. **Prüfe die Stornoregeln.** Mit einem Sportpass oder Probetraining kann eine späte Absage Credits oder eine Gebühr kosten.
 
+<h2 id="ausruestung">Noch etwas nötig?</h2>
+
+Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de:
+
+- [Sportbekleidung](/go/amazon-de-sportbekleidung/) und [Sportschuhe](/go/amazon-de-sportschuhe/)
+- [Eine Trinkflasche](/go/amazon-de-trinkflasche/) und [ein Sporthandtuch](/go/amazon-de-handtuch/)
+- [Ein Vorhängeschloss für den Spind](/go/amazon-de-schloss/)
+- Für Yoga und Pilates: [rutschfeste Socken](/go/amazon-de-yogasocken/)
+- Fürs Boxen: [Bandagen](/go/amazon-de-boxbandagen/) und [Boxhandschuhe](/go/amazon-de-boxhandschuhe/)
+
+<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
+
 <h2 id="ausprobieren">Verschiedene Studios ausprobieren</h2>
 
 Du weißt noch nicht, welches Training zu dir passt? Mit einem Sportpass wie ClassPass probierst du Yoga, Boxen und Spinning in verschiedenen Studios aus, bevor du dich festlegst. Lieber ein fester Ort? Bei Fitness First buchst du ein kostenloses Probetraining.
