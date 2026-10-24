@@ -41,6 +41,21 @@ Ongebruikte credits gaan mee naar de volgende maand, tot het aantal credits van 
 
 </div>
 
+<h2 id="abonnementen">De abonnementen in Nederland</h2>
+
+Dit zijn de maandabonnementen in Amsterdam in oktober 2026. Hoe groter het abonnement, hoe minder je per credit betaalt.
+
+| Credits per maand | Prijs per maand | Per credit |
+| --- | --- | --- |
+| 11 | € 19 | € 1,73 |
+| 30 | € 45 | € 1,50 |
+| 47 (standaard) | € 69 | € 1,47 |
+| 68 | € 99 | € 1,46 |
+| 80 | € 115 | € 1,44 |
+| 140 | € 199 | € 1,42 |
+
+<p class="klein">Bron: <a href="https://classpass.nl/plans">classpass.nl/plans</a>, locatie Amsterdam (oktober 2026). Prijzen kunnen per stad en per moment verschillen; je ziet je eigen prijs op die pagina of in de app.</p>
+
 <h2 id="prijs">Waarom de ene les meer kost dan de andere</h2>
 
 Het aantal credits voor een les ligt niet vast. Het hangt af van:
