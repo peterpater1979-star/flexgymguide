@@ -9,7 +9,7 @@ crumb: "ClassPass proefperiode"
 kicker: "Gids"
 ---
 
-Nieuwe leden kunnen ClassPass eerst proberen. Je bezoekt dan een aantal studio's en sportscholen, elk één keer. In Nederland krijg je nu 14 dagen gratis met 10 work-outs. In andere landen kan het aanbod anders zijn; je ziet het altijd bij het aanmelden.
+Nieuwe leden kunnen ClassPass eerst proberen. Je bezoekt dan een aantal studio's en sportscholen, elk één keer. In Nederland en België krijg je nu 14 dagen gratis met 10 work-outs. In andere landen kan het aanbod anders zijn; je ziet het altijd bij het aanmelden.
 
 <h2 id="kort">In het kort</h2>
 
@@ -19,7 +19,7 @@ Nieuwe leden kunnen ClassPass eerst proberen. Je bezoekt dan een aantal studio's
 | **Wat je krijgt** | In Nederland 10 work-outs, bij elke studio één keer. Wat je niet gebruikt, vervalt aan het einde |
 | **Hoe lang** | In Nederland 14 dagen |
 | **Gratis?** | In Nederland wel. In sommige andere gebieden is het een korting op je eerste periode |
-| **Na afloop** | Je gaat automatisch over op een maandabonnement, in Amsterdam nu 47 credits voor € 69 per maand (dit kan per stad verschillen) |
+| **Na afloop** | Je gaat automatisch over op een maandabonnement, in Amsterdam nu 47 credits voor € 69 per maand (dit kan per stad verschillen), in België 35 credits voor € 49 |
 
 <h2 id="regels">De regels</h2>
 
@@ -76,7 +76,7 @@ Nee. ClassPass heeft geen korting voor studenten. Wel bieden sommige werkgevers 
 
 </details>
 
-<p class="klein">Bron: <a href="https://help.classpass.com/hc/en-us/articles/209629223">helpcentrum van ClassPass</a> (januari 2026) en de aanmeldpagina van ClassPass Nederland (oktober 2026). Regels kunnen veranderen, dus kijk voor de actuele informatie altijd bij het aanmelden of in je account.</p>
+<p class="klein">Bron: <a href="https://help.classpass.com/hc/en-us/articles/209629223">helpcentrum van ClassPass</a> (januari 2026) en de aanmeldpagina van ClassPass in Nederland en België (oktober 2026). Regels kunnen veranderen, dus kijk voor de actuele informatie altijd bij het aanmelden of in je account.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/classpass-credits/">ClassPass-credits uitgelegd</a>
