@@ -16,7 +16,7 @@ Uudet jäsenet voivat ensin kokeilla ClassPassia. Käyt silloin useissa studiois
 | | |
 | --- | --- |
 | **Kenelle** | Vain uusille jäsenille, kerran per henkilö |
-| **Mitä saat** | Yleensä tietyn määrän krediittejä; joissakin tarjouksissa sen sijaan maksuttoman ensimmäisen käynnin per studio |
+| **Mitä saat** | Tietyn määrän tunteja tai krediittejä, kerran per studio |
 | **Kuinka kauan** | Riippuu tarjouksesta; näet sen rekisteröityessäsi |
 | **Ilmainen?** | Usein, mutta joillakin alueilla se on alennus ensimmäisestä jaksosta |
 | **Sen jälkeen** | Siirryt automaattisesti kuukausijäsenyyteen, jonka näit rekisteröityessäsi |

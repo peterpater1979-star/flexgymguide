@@ -16,7 +16,7 @@ Nye medlemmer kan prøve ClassPass først. Du besøker da en rekke studioer og t
 | | |
 | --- | --- |
 | **For hvem** | Bare nye medlemmer, én gang per person |
-| **Hva du får** | Som regel et fast antall kreditter; noen tilbud gir i stedet et gratis første besøk per studio |
+| **Hva du får** | Et fast antall timer eller kreditter, én gang per studio |
 | **Hvor lenge** | Avhenger av tilbudet; du ser det når du registrerer deg |
 | **Gratis?** | Ofte, men noen steder er det rabatt på den første perioden |
 | **Etterpå** | Du går automatisk over til månedsabonnementet du så da du registrerte deg |

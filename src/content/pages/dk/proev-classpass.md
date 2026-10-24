@@ -16,7 +16,7 @@ Nye medlemmer kan prøve ClassPass først. Du besøger så en række studier og 
 | | |
 | --- | --- |
 | **For hvem** | Kun nye medlemmer, én gang pr. person |
-| **Hvad du får** | Som regel et fast antal credits; nogle tilbud giver i stedet et gratis første besøg pr. studie |
+| **Hvad du får** | Et fast antal hold eller credits, én gang pr. studie |
 | **Hvor længe** | Afhænger af tilbuddet; du ser det ved tilmelding |
 | **Gratis?** | Ofte, men nogle steder er det en rabat på din første periode |
 | **Bagefter** | Du går automatisk over til det månedsabonnement, du så ved tilmelding |

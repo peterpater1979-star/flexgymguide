@@ -16,7 +16,7 @@ New members can try ClassPass first. You visit a number of studios and gyms, eac
 | | |
 | --- | --- |
 | **Who for** | New members only, once per person |
-| **What you get** | Usually a set number of credits; some offers give a free first visit per studio instead |
+| **What you get** | A set number of classes or credits, at each studio once |
 | **How long** | Differs per offer; you see it when you sign up |
 | **Free?** | Often, but in some areas it's a discount on your first period |
 | **Afterwards** | You move automatically to the monthly plan you saw when you signed up |

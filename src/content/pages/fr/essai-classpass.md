@@ -16,7 +16,7 @@ Les nouveaux membres peuvent d'abord essayer ClassPass. Tu visites alors plusieu
 | | |
 | --- | --- |
 | **Pour qui** | Nouveaux membres uniquement, une fois par personne |
-| **Ce que tu reçois** | Le plus souvent un nombre fixe de crédits ; certaines offres donnent plutôt une première visite gratuite par studio |
+| **Ce que tu reçois** | Un nombre fixe de cours ou de crédits, une fois par studio |
 | **Durée** | Selon l'offre ; tu la vois à l'inscription |
 | **Gratuit ?** | Souvent, mais dans certaines zones c'est une réduction sur ta première période |
 | **Après** | Tu passes automatiquement à la formule mensuelle vue à l'inscription |

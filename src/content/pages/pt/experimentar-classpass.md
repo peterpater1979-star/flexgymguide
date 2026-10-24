@@ -16,7 +16,7 @@ Os novos membros podem experimentar o ClassPass primeiro. Visitas vários estúd
 | | |
 | --- | --- |
 | **Para quem** | Só novos membros, uma vez por pessoa |
-| **O que recebes** | Normalmente um número fixo de créditos; algumas ofertas dão antes uma primeira visita grátis por estúdio |
+| **O que recebes** | Um número fixo de aulas ou créditos, uma vez por estúdio |
 | **Quanto tempo** | Depende da oferta; vês quando te inscreves |
 | **Grátis?** | Muitas vezes, mas em algumas zonas é um desconto no teu primeiro período |
 | **Depois** | Passas automaticamente para o plano mensal que viste na inscrição |

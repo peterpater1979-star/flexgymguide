@@ -16,7 +16,7 @@ Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studio
 | | |
 | --- | --- |
 | **Für wen** | Nur neue Mitglieder, einmal pro Person |
-| **Was du bekommst** | Meist eine feste Zahl an Credits; bei manchen Angeboten stattdessen einen kostenlosen ersten Besuch pro Studio |
+| **Was du bekommst** | Eine feste Zahl an Kursen oder Credits, in jedem Studio einmal |
 | **Wie lange** | Je nach Angebot; du siehst es bei der Anmeldung |
 | **Kostenlos?** | Oft, aber in manchen Regionen ist es ein Rabatt auf deinen ersten Zeitraum |
 | **Danach** | Du wechselst automatisch zu dem Monatsabo, das du bei der Anmeldung gesehen hast |
