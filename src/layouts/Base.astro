@@ -9,6 +9,8 @@ interface Props { title: string; description?: string; lang?: Lang; land?: strin
 const { title, description = 'An independent guide to fitness passes and gyms with flexible memberships, country by country.', lang = 'en', land = 'global', noindex = false } = Astro.props;
 const fullTitle = title.includes('FlexGymGuide') ? title : `${title} | FlexGymGuide`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+// Cloudflare Web Analytics: cookieloze bezoekersteller. Leeg = uit.
+const cfToken = '';
 ---
 <!doctype html>
 <html lang={lang === 'en' ? 'en' : lang}>
@@ -19,7 +21,6 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta name="verification" content="d74d5d3dbbd2a861aa238f2b4bc1f80c" />
     <!-- Impact (ClassPass): bewijs dat de site van ons is -->
     <meta name="impact-site-verification" value="37a69ce6-78ce-4698-9b62-2595c2e52b44" />
-    <!-- FlexOffers (The Gym Group): bewijs dat de site van ons is -->
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
@@ -35,6 +36,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
+    {cfToken && <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={JSON.stringify({ token: cfToken })}></script>}
   </head>
   <body>
     <Header land={land} lang={lang} />
