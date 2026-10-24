@@ -70,6 +70,13 @@ Nei. Prøveperioden er bare for nye medlemmer, og alle kan bruke den én gang.
 </details>
 
 <details>
+<summary>Får jeg kreditter i prøveperioden?</summary>
+
+Ikke lenger. Tidligere fikk du kreditter i prøveperioden, og det du ikke brukte, ble med over til abonnementet. Nå får du et fast antall treningsøkter, som utløper når prøveperioden er over. Andre sider beskriver noen ganger fortsatt det gamle systemet.
+
+</details>
+
+<details>
 <summary>Har ClassPass studentrabatt?</summary>
 
 Nei. ClassPass har ingen studentrabatt. Noen arbeidsgivere tilbyr likevel ClassPass gjennom et bedriftsabonnement.

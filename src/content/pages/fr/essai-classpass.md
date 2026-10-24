@@ -70,6 +70,13 @@ Non. L'essai est réservé aux nouveaux membres, et chacun peut l'utiliser une f
 </details>
 
 <details>
+<summary>Est-ce que je reçois des crédits pendant l'essai ?</summary>
+
+Plus maintenant. Avant, l'essai donnait des crédits, et ce que tu n'utilisais pas passait sur ta formule. Aujourd'hui, tu reçois un nombre fixe de séances, qui expirent à la fin de l'essai. D'autres sites décrivent parfois encore l'ancien système.
+
+</details>
+
+<details>
 <summary>ClassPass a-t-il une réduction étudiante ?</summary>
 
 Non. ClassPass n'a pas de réduction pour les étudiants. Certains employeurs proposent toutefois ClassPass via une formule entreprise.

@@ -70,6 +70,13 @@ Nein. Die Probezeit gilt nur für neue Mitglieder, und jede Person kann sie einm
 </details>
 
 <details>
+<summary>Bekomme ich in der Probezeit Credits?</summary>
+
+Nicht mehr. Früher gab es in der Probezeit Credits, und was du nicht genutzt hast, wurde in dein Abo übernommen. Heute bekommst du eine feste Zahl an Workouts, die am Ende der Probezeit verfallen. Auf anderen Seiten steht manchmal noch die alte Erklärung.
+
+</details>
+
+<details>
 <summary>Gibt es bei ClassPass einen Studentenrabatt?</summary>
 
 Nein. ClassPass hat keinen Studentenrabatt. Manche Arbeitgeber bieten ClassPass aber über ein Firmenabo an.

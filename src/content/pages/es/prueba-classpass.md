@@ -70,6 +70,13 @@ No. La prueba es solo para nuevos miembros, y cada persona puede usarla una vez.
 </details>
 
 <details>
+<summary>¿Recibo créditos durante la prueba?</summary>
+
+Ya no. Antes la prueba daba créditos, y lo que no usabas pasaba a tu plan. Ahora recibes un número fijo de entrenamientos, que caducan al final de la prueba. Otras webs a veces todavía explican el sistema antiguo.
+
+</details>
+
+<details>
 <summary>¿ClassPass tiene descuento para estudiantes?</summary>
 
 No. ClassPass no tiene descuento para estudiantes. Algunas empresas sí ofrecen ClassPass con un plan corporativo.

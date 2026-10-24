@@ -70,6 +70,13 @@ Nej. Provperioden är bara för nya medlemmar, och alla kan använda den en gån
 </details>
 
 <details>
+<summary>Får jag krediter under provperioden?</summary>
+
+Inte längre. Tidigare fick du krediter under provperioden, och det du inte använde följde med till ditt abonnemang. Nu får du ett fast antal träningspass, som går ut när provperioden slutar. Andra sidor beskriver ibland fortfarande det gamla systemet.
+
+</details>
+
+<details>
 <summary>Har ClassPass studentrabatt?</summary>
 
 Nej. ClassPass har ingen studentrabatt. Vissa arbetsgivare erbjuder dock ClassPass via ett företagsabonnemang.

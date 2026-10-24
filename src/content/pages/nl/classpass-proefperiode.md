@@ -70,6 +70,13 @@ Nee. De proefperiode is alleen voor nieuwe leden, en iedereen kan hem één keer
 </details>
 
 <details>
+<summary>Krijg ik credits in de proefperiode?</summary>
+
+Niet meer. Vroeger kreeg je in de proefperiode credits, en wat je niet gebruikte, nam je mee naar je abonnement. Nu krijg je een vast aantal work-outs, die aan het einde van de proefperiode vervallen. Op andere sites lees je soms nog de oude uitleg.
+
+</details>
+
+<details>
 <summary>Heeft ClassPass studentenkorting?</summary>
 
 Nee. ClassPass heeft geen korting voor studenten. Wel bieden sommige werkgevers ClassPass aan via een zakelijk abonnement.

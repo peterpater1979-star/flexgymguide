@@ -70,6 +70,13 @@ Et. Kokeilujakso on vain uusille jäsenille, ja jokainen voi käyttää sen kerr
 </details>
 
 <details>
+<summary>Saanko krediittejä kokeilujakson aikana?</summary>
+
+En enää. Ennen kokeilujaksolla sai krediittejä, ja käyttämättömät siirtyivät jäsenyyteen. Nyt saat tietyn määrän treenejä, jotka vanhenevat kokeilujakson lopussa. Muilla sivuilla kerrotaan joskus vielä vanhasta järjestelmästä.
+
+</details>
+
+<details>
 <summary>Onko ClassPassilla opiskelija-alennusta?</summary>
 
 Ei ole. ClassPassilla ei ole opiskelija-alennusta. Jotkin työnantajat tarjoavat kuitenkin ClassPassia yritysjäsenyyden kautta.

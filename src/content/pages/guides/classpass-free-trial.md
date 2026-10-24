@@ -70,6 +70,13 @@ No. The trial is for new members only, and everyone can use it once.
 </details>
 
 <details>
+<summary>Do I get credits during the trial?</summary>
+
+Not anymore. The trial used to give you credits, and anything you didn't use carried over to your plan. Now you get a set number of workouts, which expire at the end of the trial. Other sites sometimes still describe the old system.
+
+</details>
+
+<details>
 <summary>Does ClassPass have a student discount?</summary>
 
 No. ClassPass has no student discount. Some employers do offer ClassPass through a corporate plan.

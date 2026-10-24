@@ -70,6 +70,13 @@ Não. O período experimental é só para novos membros, e cada pessoa pode usá
 </details>
 
 <details>
+<summary>Recebo créditos no período experimental?</summary>
+
+Já não. Antes o período experimental dava créditos, e o que não usavas passava para o teu plano. Agora recebes um número fixo de treinos, que expiram no fim do período experimental. Outros sites às vezes ainda explicam o sistema antigo.
+
+</details>
+
+<details>
 <summary>O ClassPass tem desconto para estudantes?</summary>
 
 Não. O ClassPass não tem desconto para estudantes. Algumas empresas oferecem o ClassPass através de um plano empresarial.
