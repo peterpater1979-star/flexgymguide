@@ -9,7 +9,7 @@ crumb: "ClassPass Probezeit"
 kicker: "Ratgeber"
 ---
 
-Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studios und Fitnessstudios, jedes einmal. In Deutschland bekommst du derzeit 1 Monat kostenlos mit 10 Workouts, in Österreich 14 Tage mit 10 Workouts. In anderen Ländern kann das Angebot anders sein; du siehst es immer bei der Anmeldung.
+Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studios und Fitnessstudios, jedes einmal. In Deutschland bekommst du derzeit 1 Monat kostenlos mit 10 Workouts, in Österreich und der Schweiz 14 Tage mit 10 Workouts. In anderen Ländern kann das Angebot anders sein; du siehst es immer bei der Anmeldung.
 
 <h2 id="kurz">Kurz gesagt</h2>
 
@@ -19,7 +19,7 @@ Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studio
 | **Was du bekommst** | In Deutschland 10 Workouts, in jedem Studio einmal. Was du nicht nutzt, verfällt am Ende |
 | **Wie lange** | In Deutschland 1 Monat |
 | **Kostenlos?** | In Deutschland ja. In manchen anderen Regionen ist es ein Rabatt auf deinen ersten Zeitraum |
-| **Danach** | Du wechselst automatisch zu einem Monatsabo, in Deutschland derzeit 42 Credits für 59 € pro Monat, in Österreich 35 Credits für 49 € |
+| **Danach** | Du wechselst automatisch zu einem Monatsabo, in Deutschland derzeit 42 Credits für 59 € pro Monat, in Österreich 35 Credits für 49 €, in der Schweiz 45 Credits für 79 CHF |
 
 <h2 id="regeln">Die Regeln</h2>
 
@@ -76,7 +76,7 @@ Nein. ClassPass hat keinen Studentenrabatt. Manche Arbeitgeber bieten ClassPass 
 
 </details>
 
-<p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Hilfe-Center</a> (Januar 2026) und die Anmeldeseiten von ClassPass Deutschland und Österreich (Oktober 2026). Regeln können sich ändern, prüfe die aktuellen Angaben immer bei der Anmeldung oder in deinem Konto.</p>
+<p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Hilfe-Center</a> (Januar 2026) und die Anmeldeseiten von ClassPass Deutschland, Österreich und Schweiz (Oktober 2026). Regeln können sich ändern, prüfe die aktuellen Angaben immer bei der Anmeldung oder in deinem Konto.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
