@@ -123,6 +123,7 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 </details>
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/nl/gyms-without-contract-rotterdam/">In English</a>
 <a class="knop knop-rand" href="/nl/rotterdam/">Flexibel sporten in Rotterdam</a>
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
 </div>

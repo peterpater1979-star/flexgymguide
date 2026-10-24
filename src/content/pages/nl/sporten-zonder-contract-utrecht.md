@@ -117,6 +117,7 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 </details>
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/nl/gyms-without-contract-utrecht/">In English</a>
 <a class="knop knop-rand" href="/nl/utrecht/">Flexibel sporten in Utrecht</a>
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
 </div>
