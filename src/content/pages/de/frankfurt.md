@@ -9,7 +9,7 @@ crumb: "Frankfurt am Main"
 kicker: "Stadtguide Frankfurt am Main"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Frankfurt am Main trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Frankfurt am Main trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
