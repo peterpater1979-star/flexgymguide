@@ -49,7 +49,7 @@ Bij een Regular-club train je alleen in je eigen club. Met Home+ bij een Black L
 
 **Student?** Een studentenlidmaatschap kost € 45 per 4 weken bij Dagelijkse Groenmarkt, € 62 bij Laan van NOI en € 65 bij Savornin, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
 
-**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag, bij Flex en bij een contract. Dat werkt bij elke Trainmore-club, welk label of contract je ook hebt: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Dagelijkse Groenmarkt bijvoorbeeld betaal je met Flex dan € 67 in plaats van € 79. Studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting).
+**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, bij Flex en bij een contract. Je checkt in met de QR-code in de Trainmore-app. Dat werkt bij elke Trainmore-club, welk label of contract je ook hebt: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Dagelijkse Groenmarkt bijvoorbeeld betaal je met Flex dan € 67 in plaats van € 79. Studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de [uitleg van Trainmore](https://trainmore.com/nl-NL/1-euro-korting/).
 
 Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
