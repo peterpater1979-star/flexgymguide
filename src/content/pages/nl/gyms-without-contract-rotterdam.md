@@ -72,7 +72,7 @@ All Flex memberships have a one-off joining fee of €19.99. Group classes are i
 
 <h2 id="sportcity">SportCity Flex: cancel monthly</h2>
 
-SportCity has clubs all over the Netherlands, including Rotterdam. You choose between City One (one club) and City Plus (more than 120 clubs in the Netherlands, and bring someone along five times a month). Both come as Flex, 3 months, 1 year or 2 years, with all live group classes included and a 14-day cooling-off period.
+SportCity has clubs all over the Netherlands, including Rotterdam. You choose between City One (one club) and City Plus (85 clubs in the Netherlands, and bring someone along five times a month). Both come as Flex, 3 months, 1 year or 2 years, with all live group classes included and a 14-day cooling-off period.
 
 This is what City One prices looked like in October 2026 at SportCity Rotterdam Conradstraat, per 4 weeks:
 

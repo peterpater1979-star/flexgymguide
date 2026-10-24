@@ -75,7 +75,7 @@ Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepsl
 
 <h2 id="sportcity">SportCity Flex: maandelijks opzegbaar</h2>
 
-SportCity heeft clubs in heel Nederland, ook in Rotterdam. Je kiest tussen City One (één club) en City Plus (meer dan 120 clubs in Nederland, en vijf keer per maand iemand meenemen). Bij allebei kun je kiezen voor Flex, 3 maanden, 1 jaar of 2 jaar, met alle live groepslessen inbegrepen en 14 dagen bedenktijd.
+SportCity heeft clubs in heel Nederland, ook in Rotterdam. Je kiest tussen City One (één club) en City Plus (85 clubs in Nederland, en vijf keer per maand iemand meenemen). Bij allebei kun je kiezen voor Flex, 3 maanden, 1 jaar of 2 jaar, met alle live groepslessen inbegrepen en 14 dagen bedenktijd.
 
 Zo zagen de prijzen van City One er in oktober 2026 uit bij SportCity Rotterdam Conradstraat, per 4 weken:
 
