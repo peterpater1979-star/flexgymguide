@@ -56,7 +56,7 @@ Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebüh
 
 <h2 id="mcfit">McFit Flex: monatlich kündbar</h2>
 
-McFit ist eine günstige Kette mit vielen Studios in Berlin. Neben Verträgen über 12 oder 24 Monate gibt es Flex, ohne feste Laufzeit und monatlich kündbar. Flex kostet [PREIS] im Monat, dazu kommt eine einmalige Anmeldegebühr. Pro Monat ist Flex deutlich teurer als ein Jahresvertrag, dafür bist du nicht gebunden.
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 250 Studios in Deutschland, Österreich und Italien, darunter viele in Berlin. Die Kette ist günstig und gehört zur RSG Group. Neben Verträgen über 12 oder 24 Monate gibt es Flex, ohne feste Laufzeit und monatlich kündbar. Flex kostet [PREIS] im Monat, dazu kommt eine einmalige Anmeldegebühr. Pro Monat ist Flex deutlich teurer als ein Jahresvertrag, dafür bist du nicht gebunden.
 
 <h2 id="einzeln">Einzelstunden und 10er-Karten</h2>
 
