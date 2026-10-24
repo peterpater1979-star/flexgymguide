@@ -60,7 +60,7 @@ Calzado de suela plana y firme para sentadillas y levantamientos. Una toalla par
 
 <h2 id="consejos">Cinco consejos para tu primera visita</h2>
 
-1. **Llega diez minutos antes.** Así tienes tiempo para encontrar el vestuario, rellenar un formulario o recibir una breve explicación. En la entrada te registras: en recepción, donde alguien marca tu asistencia, en una pantalla o con un código QR que te llegó por correo.
+1. **Llega diez minutos antes.** Así tienes tiempo para encontrar el vestuario o recibir una breve explicación. En la entrada te registras: en recepción, donde alguien marca tu asistencia, en una pantalla o con un código QR que te llegó por correo.
 2. **Di que eres nuevo.** El monitor puede enseñarte lo básico y proponerte variantes más fáciles.
 3. **Avisa de tus lesiones.** Una rodilla o una espalda delicada conviene comentarlas antes de empezar.
 4. **Empieza a tu nivel.** Nadie espera que sigas el ritmo de los habituales en tu primera clase.

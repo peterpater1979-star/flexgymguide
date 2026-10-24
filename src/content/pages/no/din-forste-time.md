@@ -60,7 +60,7 @@ Sko med flat, fast såle til knebøy og løft. Et håndkle til benkene og klær 
 
 <h2 id="tips">Fem tips til det første besøket</h2>
 
-1. **Kom ti minutter før.** Da har du tid til å finne garderoben, fylle ut et skjema eller få en kort introduksjon. Ved inngangen sjekker du inn: i resepsjonen, der en ansatt registrerer deg, på en skjerm eller med en QR-kode du har fått på e-post.
+1. **Kom ti minutter før.** Da har du tid til å finne garderoben eller få en kort introduksjon. Ved inngangen sjekker du inn: i resepsjonen, der en ansatt registrerer deg, på en skjerm eller med en QR-kode du har fått på e-post.
 2. **Si at du er ny.** Instruktøren kan vise deg det grunnleggende og foreslå enklere varianter.
 3. **Nevn skader.** Et vondt kne eller en vond rygg er greit for instruktøren å vite før du starter.
 4. **Start på ditt eget nivå.** Ingen forventer at du skal holde følge med de faste deltakerne på din første time.
