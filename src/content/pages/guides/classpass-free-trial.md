@@ -9,17 +9,17 @@ crumb: "ClassPass free trial"
 kicker: "Guide"
 ---
 
-New members can try ClassPass first. You visit a number of studios and gyms, each one once. How long the trial lasts and exactly what you get differs per country and per offer. You see it when you sign up.
+New members can try ClassPass first. You visit a number of studios and gyms, each one once. In London you currently get 14 days free with 10 workouts. In other countries the offer can differ; you always see it when you sign up.
 
 <h2 id="summary">In short</h2>
 
 | | |
 | --- | --- |
 | **Who for** | New members only, once per person |
-| **What you get** | A set number of classes or credits, at each studio once |
-| **How long** | Differs per offer; you see it when you sign up |
-| **Free?** | Often, but in some areas it's a discount on your first period |
-| **Afterwards** | You move automatically to the monthly plan you saw when you signed up |
+| **What you get** | In London 10 workouts, at each studio once. Anything you don't use expires at the end |
+| **How long** | In London 14 days |
+| **Free?** | In London, yes. In some other areas it's a discount on your first period |
+| **Afterwards** | You move automatically to a monthly plan, in London currently 52 credits for £69 a month |
 
 <h2 id="rules">The rules</h2>
 
@@ -36,7 +36,7 @@ Credits you bought yourself carry over to your plan, up to the number of credits
 
 <h2 id="cancel">Cancelling during the trial</h2>
 
-Cancelling during the trial takes effect immediately. You lose your trial credits and all your booked classes. Want to use the whole trial? Then only cancel on the last day. Read how in [Cancel or pause ClassPass](/guides/cancel-or-pause-classpass/).
+Cancelling during the trial takes effect immediately. You lose any trial workouts you have left and all your booked classes. Want to use the whole trial? Then only cancel on the last day. Read how in [Cancel or pause ClassPass](/guides/cancel-or-pause-classpass/).
 
 <h2 id="tips">How to get the most out of it</h2>
 
@@ -58,7 +58,7 @@ Cancelling during the trial takes effect immediately. You lose your trial credit
 <details open>
 <summary>Is the trial really free?</summary>
 
-Often, yes. In some areas it's a discount on your first period instead of a free trial. You see what you get when you sign up.
+In London, yes: 14 days with 10 workouts, at no cost if you cancel in time. In some other areas it's a discount on your first period instead of a free trial. You see what you get when you sign up.
 
 </details>
 
@@ -76,7 +76,7 @@ No. ClassPass has no student discount. Some employers do offer ClassPass through
 
 </details>
 
-<p class="klein">Source: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Help Center</a> (January 2026). Rules can change, so always check the latest details when you sign up or in your account.</p>
+<p class="klein">Source: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Help Center</a> (January 2026) and the ClassPass sign-up page for London (October 2026). Rules can change, so always check the latest details when you sign up or in your account.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/guides/classpass-credits/">ClassPass credits explained</a>
