@@ -9,17 +9,17 @@ crumb: "Prøv ClassPass"
 kicker: "Guide"
 ---
 
-Nye medlemmer kan prøve ClassPass først. Du besøker da en rekke studioer og treningssentre, hvert sted én gang. Hvor lenge prøveperioden varer og nøyaktig hva du får, avhenger av land og tilbud. Du ser det når du registrerer deg.
+Nye medlemmer kan prøve ClassPass først. Du besøker da en rekke studioer og treningssentre, hvert sted én gang. I Norge får du nå 14 dager gratis med 10 treningsøkter. I andre land kan tilbudet være annerledes; du ser det alltid når du registrerer deg.
 
 <h2 id="kort">Kort fortalt</h2>
 
 | | |
 | --- | --- |
 | **For hvem** | Bare nye medlemmer, én gang per person |
-| **Hva du får** | Et fast antall timer eller kreditter, én gang per studio |
-| **Hvor lenge** | Avhenger av tilbudet; du ser det når du registrerer deg |
-| **Gratis?** | Ofte, men noen steder er det rabatt på den første perioden |
-| **Etterpå** | Du går automatisk over til månedsabonnementet du så da du registrerte deg |
+| **Hva du får** | I Norge 10 treningsøkter, én gang per studio. Det du ikke bruker, utløper ved slutten |
+| **Hvor lenge** | I Norge 14 dager |
+| **Gratis?** | I Norge, ja. Noen andre steder er det rabatt på den første perioden |
+| **Etterpå** | Du går automatisk over til et månedsabonnement, for eksempel 35 kreditter for 569 kr i måneden (kan variere etter by) |
 
 <h2 id="regler">Reglene</h2>
 
@@ -36,7 +36,7 @@ Kreditter du selv har kjøpt, blir med over til abonnementet, opptil antallet kr
 
 <h2 id="si-opp">Si opp i prøveperioden</h2>
 
-Sier du opp i prøveperioden, gjelder det med en gang. Du mister prøvekredittene og alle timene du har booket. Vil du bruke hele prøveperioden? Si da opp først på siste dag. Slik gjør du: [Si opp eller sett ClassPass på pause](/no/si-opp-classpass/).
+Sier du opp i prøveperioden, gjelder det med en gang. Du mister prøveøktene du har igjen og alle timene du har booket. Vil du bruke hele prøveperioden? Si da opp først på siste dag. Slik gjør du: [Si opp eller sett ClassPass på pause](/no/si-opp-classpass/).
 
 <h2 id="tips">Slik får du mest ut av den</h2>
 
@@ -58,7 +58,7 @@ Sier du opp i prøveperioden, gjelder det med en gang. Du mister prøvekreditten
 <details open>
 <summary>Er prøveperioden virkelig gratis?</summary>
 
-Ofte, ja. Noen steder er det rabatt på den første perioden i stedet for en gratis prøve. Hva du får, ser du når du registrerer deg.
+I Norge, ja: 14 dager med 10 treningsøkter, uten kostnad hvis du sier opp i tide. Noen andre steder er det rabatt på den første perioden i stedet for en gratis prøve. Hva du får, ser du når du registrerer deg.
 
 </details>
 
@@ -76,7 +76,7 @@ Nei. ClassPass har ingen studentrabatt. Noen arbeidsgivere tilbyr likevel ClassP
 
 </details>
 
-<p class="klein">Kilde: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass sitt hjelpesenter</a> (januar 2026). Reglene kan endre seg, så sjekk alltid den aktuelle informasjonen når du registrerer deg eller i kontoen din.</p>
+<p class="klein">Kilde: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass sitt hjelpesenter</a> (januar 2026) og ClassPass sin registreringsside for Norge (oktober 2026). Reglene kan endre seg, så sjekk alltid den aktuelle informasjonen når du registrerer deg eller i kontoen din.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/classpass-kreditter/">ClassPass-kreditter forklart</a>
