@@ -16,7 +16,7 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Rotterdam kun je o
 | | Opzeggen | Prijs | Goed voor |
 | --- | --- | --- | --- |
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement € 59 per maand (40 credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
-| **Trainmore Flex** | Maandelijks | € 89 tot € 112 per 4 weken, afhankelijk van de club | Vaak trainen op een vaste plek, met groepslessen |
+| **Trainmore Flex** | Maandelijks | € 89 tot € 112 per 4 weken, afhankelijk van de club | Premium sportschool met groepslessen, voor wie vaak traint |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Conradstraat (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
@@ -37,7 +37,7 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 <h2 id="trainmore">Trainmore Flex: maandelijks opzegbaar</h2>
 
-Trainmore heeft 7 clubs in Rotterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. De clubs in Rotterdam zijn Black Label of Red Label, en ook tussen clubs met hetzelfde label verschilt de prijs. Zo zagen de prijzen er in oktober 2026 uit bij twee Black Label-clubs, met Home+ (je eigen club plus alle Regular-clubs), per 4 weken:
+Trainmore is een premium sportschoolketen met groepslessen en clubs in het centrum van de stad. Er zijn 7 clubs in Rotterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. De clubs in Rotterdam zijn Black Label of Red Label, en ook tussen clubs met hetzelfde label verschilt de prijs. Zo zagen de prijzen er in oktober 2026 uit bij twee Black Label-clubs, met Home+ (je eigen club plus alle Regular-clubs), per 4 weken:
 
 | Looptijd | Coolsingel | Meent |
 | --- | --- | --- |

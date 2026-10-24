@@ -16,7 +16,7 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Amsterdam kun je o
 | | Opzeggen | Prijs | Goed voor |
 | --- | --- | --- | --- |
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Vanaf € 19 per maand (11 credits) | Afwisseling bij studio's en gyms in de hele stad |
-| **Trainmore Flex** | Maandelijks | € 104 per 4 weken in een Black Label-club, plus € 29 eenmalig | Vaak trainen op een vaste plek, met groepslessen |
+| **Trainmore Flex** | Maandelijks | € 104 per 4 weken in een Black Label-club, plus € 29 eenmalig | Premium sportschool met groepslessen, voor wie vaak traint |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Lijnbaansgracht (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
@@ -37,7 +37,7 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 <h2 id="trainmore">Trainmore Flex: maandelijks opzegbaar</h2>
 
-Trainmore heeft 31 clubs in Amsterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. Bij Trainmore Koningin Wilhelminaplein (Black Label) was dat in oktober 2026 € 104 per 4 weken, plus € 29 eenmalig voor het starterpakket. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
+Trainmore is een premium sportschoolketen met groepslessen en clubs in het centrum van de stad. Er zijn 31 clubs in Amsterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. Bij Trainmore Koningin Wilhelminaplein (Black Label) was dat in oktober 2026 € 104 per 4 weken, plus € 29 eenmalig voor het starterpakket. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
