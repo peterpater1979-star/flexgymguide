@@ -9,17 +9,17 @@ crumb: "Experimentar o ClassPass"
 kicker: "Guia"
 ---
 
-Os novos membros podem experimentar o ClassPass primeiro. Visitas vários estúdios e ginásios, cada um uma vez. Quanto tempo dura o período experimental e o que recebes exatamente depende do país e da oferta. Vês isso quando te inscreves.
+Os novos membros podem experimentar o ClassPass primeiro. Visitas vários estúdios e ginásios, cada um uma vez. Em Lisboa tens atualmente 14 dias grátis com 10 treinos. Noutros sítios a oferta pode ser diferente; vês sempre quando te inscreves.
 
 <h2 id="resumo">Em resumo</h2>
 
 | | |
 | --- | --- |
 | **Para quem** | Só novos membros, uma vez por pessoa |
-| **O que recebes** | Um número fixo de aulas ou créditos, uma vez por estúdio |
-| **Quanto tempo** | Depende da oferta; vês quando te inscreves |
-| **Grátis?** | Muitas vezes, mas em algumas zonas é um desconto no teu primeiro período |
-| **Depois** | Passas automaticamente para o plano mensal que viste na inscrição |
+| **O que recebes** | Em Lisboa, 10 treinos, uma vez por estúdio. O que não usares expira no fim |
+| **Quanto tempo** | Em Lisboa, 14 dias |
+| **Grátis?** | Em Lisboa, sim. Em algumas outras zonas é um desconto no teu primeiro período |
+| **Depois** | Passas automaticamente para um plano mensal, em Lisboa atualmente 37 créditos por 59 € por mês (pode variar por cidade) |
 
 <h2 id="regras">As regras</h2>
 
@@ -36,7 +36,7 @@ Os créditos que compraste passam para o teu plano, até ao número de créditos
 
 <h2 id="cancelar">Cancelar durante o período experimental</h2>
 
-Se cancelares durante o período experimental, o cancelamento é imediato. Perdes os créditos experimentais e todas as aulas reservadas. Queres usar o período todo? Então cancela só no último dia. Como fazer: [Cancelar ou pausar o ClassPass](/pt/cancelar-classpass/).
+Se cancelares durante o período experimental, o cancelamento é imediato. Perdes os treinos experimentais que te restam e todas as aulas reservadas. Queres usar o período todo? Então cancela só no último dia. Como fazer: [Cancelar ou pausar o ClassPass](/pt/cancelar-classpass/).
 
 <h2 id="dicas">Como tirar o máximo partido</h2>
 
@@ -58,7 +58,7 @@ Se cancelares durante o período experimental, o cancelamento é imediato. Perde
 <details open>
 <summary>O período experimental é mesmo grátis?</summary>
 
-Muitas vezes, sim. Em algumas zonas é um desconto no teu primeiro período em vez de uma experiência grátis. Vês o que recebes quando te inscreves.
+Em Lisboa, sim: 14 dias com 10 treinos, sem custos se cancelares a tempo. Em algumas outras zonas é um desconto no teu primeiro período em vez de uma experiência grátis. Vês o que recebes quando te inscreves.
 
 </details>
 
@@ -76,7 +76,7 @@ Não. O ClassPass não tem desconto para estudantes. Algumas empresas oferecem o
 
 </details>
 
-<p class="klein">Fonte: <a href="https://help.classpass.com/hc/en-us/articles/209629223">centro de ajuda do ClassPass</a> (janeiro de 2026). As regras podem mudar, por isso confirma sempre a informação atual na inscrição ou na tua conta.</p>
+<p class="klein">Fonte: <a href="https://help.classpass.com/hc/en-us/articles/209629223">centro de ajuda do ClassPass</a> (janeiro de 2026) e a página de inscrição do ClassPass para Lisboa (outubro de 2026). As regras podem mudar, por isso confirma sempre a informação atual na inscrição ou na tua conta.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/creditos-classpass/">Os créditos do ClassPass</a>
