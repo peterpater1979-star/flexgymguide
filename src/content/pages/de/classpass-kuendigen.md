@@ -74,7 +74,15 @@ Nein. Es gibt keine Kündigungsgebühr und keine Kündigungsfrist.
 <details>
 <summary>Bekommt man ein Angebot, wenn man kündigt?</summary>
 
-Oft ja. Bevor deine Kündigung durch ist, bietet ClassPass oft eine kostenlose Pause von zwei Monaten oder Rabatt auf die nächsten Monate an, zum Beispiel 20 % für drei Monate. Nicht alle bekommen dasselbe Angebot. Lies die Bedingungen genau: Nach dem Rabatt zahlst du automatisch wieder den vollen Preis, und kündigst du innerhalb weniger Monate doch, kannst du den Rabatt verlieren.
+Oft ja, aber nur, wenn du es dir anders überlegst und Mitglied bleibst. Bevor deine Kündigung durch ist, bietet ClassPass oft etwas an, damit du bleibst: eine kostenlose Pause von zwei Monaten oder Rabatt auf die nächsten Monate, zum Beispiel 20 % für drei Monate. Nimmst du das an, kündigst du also nicht.
+
+Für den Rabatt gelten Bedingungen:
+
+- Er beginnt mit deinem nächsten Zyklus.
+- Nach dem Rabattzeitraum zahlst du automatisch wieder den vollen Preis.
+- Kündigst du innerhalb weniger Monate doch (die App nannte 1 bis 5), verlierst du den Rabatt.
+- Er ist nicht mit anderen Angeboten kombinierbar und kann geändert oder zurückgezogen werden.
+- Er gilt nur für berechtigte Mitglieder, nicht alle bekommen dasselbe Angebot.
 
 </details>
 

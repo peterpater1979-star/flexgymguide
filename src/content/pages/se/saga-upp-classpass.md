@@ -74,7 +74,15 @@ Nej. Det finns ingen uppsägningsavgift och ingen uppsägningstid.
 <details>
 <summary>Får man ett erbjudande när man säger upp?</summary>
 
-Ofta, ja. Innan uppsägningen har gått igenom erbjuder ClassPass ofta en gratis paus på två månader eller rabatt på de kommande månaderna, till exempel 20 % i tre månader. Alla får inte samma erbjudande. Läs villkoren noga: efter rabatten betalar du automatiskt fullt pris igen, och säger du ändå upp inom några månader kan du förlora rabatten.
+Ofta, ja, men bara om du ändrar dig och stannar kvar som medlem. Innan uppsägningen har gått igenom erbjuder ClassPass ofta något för att behålla dig: en gratis paus på två månader eller rabatt på de kommande månaderna, till exempel 20 % i tre månader. Tackar du ja säger du alltså inte upp.
+
+Rabatten har villkor:
+
+- Den börjar vid din nästa period.
+- Efter rabattperioden betalar du automatiskt fullt pris igen.
+- Säger du ändå upp inom några månader (appen nämnde 1 till 5) förlorar du rabatten.
+- Den kan inte kombineras med andra erbjudanden och kan ändras eller dras tillbaka.
+- Den gäller bara medlemmar som uppfyller villkoren, så alla får inte samma erbjudande.
 
 </details>
 

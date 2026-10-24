@@ -34,7 +34,7 @@ You can cancel ClassPass at any time, with no fee and no notice period. Do it at
 2. Under **Billing**, tap the cancel option.
 3. Follow the steps until you see the confirmation.
 
-Along the way, ClassPass first shows you offers, such as a free two-month pause or a discount on the next few months (for example 20% off for three months). If you really want to stop, keep choosing to continue cancelling. If you take a discount, the full price applies again automatically afterwards. After cancelling, you can still use your credits and bookings until the end of your current cycle.
+Along the way, ClassPass first shows you offers, such as a free two-month pause or a discount on the next few months (for example 20% off for three months). If you really want to stop, keep choosing to continue cancelling. If you accept an offer, you stay a member and don't cancel. After a discount, the full price applies again automatically. After cancelling, you can still use your credits and bookings until the end of your current cycle.
 
 You then get a confirmation email from ClassPass. No email means your request did not go through, so contact ClassPass via chat.
 
@@ -74,7 +74,15 @@ No. There is no cancellation fee and no notice period.
 <details>
 <summary>Do you get an offer when you cancel?</summary>
 
-Often, yes. Before your cancellation goes through, ClassPass often offers a free two-month pause or a discount on the next few months, for example 20% off for three months. Not everyone gets the same offer. Read the terms carefully: after the discount you automatically pay the full price again, and if you cancel within a few months anyway, you can lose the discount.
+Often, yes, but only if you change your mind and stay. Before your cancellation goes through, ClassPass often offers you something to keep your membership: a free two-month pause or a discount on the next few months, for example 20% off for three months. If you accept, you don't cancel.
+
+The discount comes with conditions:
+
+- It starts at your next cycle.
+- After the discount period you automatically pay the full price again.
+- If you cancel within a few months (the app said 1 to 5), you lose the discount.
+- It can't be combined with other offers and can be changed or withdrawn.
+- It's only for eligible members, so not everyone gets the same offer.
 
 </details>
 

@@ -74,7 +74,15 @@ Non. Il n'y a ni frais de résiliation ni préavis.
 <details>
 <summary>Reçoit-on une offre en résiliant ?</summary>
 
-Souvent, oui. Avant que ta résiliation soit validée, ClassPass propose souvent une pause gratuite de deux mois ou une réduction sur les mois suivants, par exemple 20 % pendant trois mois. Tout le monde ne reçoit pas la même offre. Lis bien les conditions : après la réduction, tu repayes automatiquement le plein tarif, et si tu résilies quand même dans les mois qui suivent, tu peux perdre la réduction.
+Souvent, oui, mais seulement si tu changes d'avis et restes membre. Avant que ta résiliation soit validée, ClassPass propose souvent quelque chose pour te garder : une pause gratuite de deux mois ou une réduction sur les mois suivants, par exemple 20 % pendant trois mois. Si tu acceptes, tu ne résilies donc pas.
+
+La réduction est soumise à des conditions :
+
+- Elle commence à ton prochain cycle.
+- Après la période de réduction, tu repayes automatiquement le plein tarif.
+- Si tu résilies quand même dans les mois qui suivent (l'application indiquait 1 à 5), tu perds la réduction.
+- Elle n'est pas cumulable avec d'autres offres et peut être modifiée ou retirée.
+- Elle est réservée aux membres éligibles, donc tout le monde ne reçoit pas la même offre.
 
 </details>
 

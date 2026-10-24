@@ -74,7 +74,15 @@ Ei. Irtisanomismaksua tai irtisanomisaikaa ei ole.
 <details>
 <summary>Saako irtisanoessa tarjouksen?</summary>
 
-Usein kyllä. Ennen kuin irtisanominen on valmis, ClassPass tarjoaa usein maksuttoman kahden kuukauden tauon tai alennuksen seuraaville kuukausille, esimerkiksi 20 % kolmeksi kuukaudeksi. Kaikki eivät saa samaa tarjousta. Lue ehdot tarkkaan: alennuksen jälkeen maksat automaattisesti taas täyden hinnan, ja jos irtisanot kuitenkin muutaman kuukauden sisällä, voit menettää alennuksen.
+Usein kyllä, mutta vain jos muutat mielesi ja jatkat jäsenenä. Ennen kuin irtisanominen on valmis, ClassPass tarjoaa usein jotain pitääkseen sinut: maksuttoman kahden kuukauden tauon tai alennuksen seuraaville kuukausille, esimerkiksi 20 % kolmeksi kuukaudeksi. Jos hyväksyt sen, et siis irtisano.
+
+Alennukseen liittyy ehtoja:
+
+- Se alkaa seuraavasta jaksostasi.
+- Alennusjakson jälkeen maksat automaattisesti taas täyden hinnan.
+- Jos irtisanot kuitenkin muutaman kuukauden sisällä (sovellus mainitsi 1–5), menetät alennuksen.
+- Sitä ei voi yhdistää muihin tarjouksiin, ja sitä voidaan muuttaa tai se voidaan perua.
+- Se on vain ehdot täyttäville jäsenille, joten kaikki eivät saa samaa tarjousta.
 
 </details>
 

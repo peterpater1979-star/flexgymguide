@@ -34,7 +34,7 @@ Je kunt ClassPass altijd opzeggen, zonder kosten en zonder opzegtermijn. Doe het
 2. Tik onder **Betaling** op opzeggen.
 3. Volg de stappen tot je de bevestiging ziet.
 
-Onderweg laat ClassPass je eerst aanbiedingen zien, zoals een gratis pauze van twee maanden of korting op de volgende maanden (bijvoorbeeld 20% korting voor drie maanden). Wil je echt stoppen, kies dan steeds voor doorgaan met opzeggen. Neem je een korting aan, dan geldt daarna automatisch weer de volle prijs. Na het opzeggen kun je je credits en reserveringen nog gebruiken tot het einde van je huidige cyclus.
+Onderweg laat ClassPass je eerst aanbiedingen zien, zoals een gratis pauze van twee maanden of korting op de volgende maanden (bijvoorbeeld 20% korting voor drie maanden). Wil je echt stoppen, kies dan steeds voor doorgaan met opzeggen. Neem je een aanbieding aan, dan blijf je lid en zeg je dus niet op. Na een korting geldt automatisch weer de volle prijs. Na het opzeggen kun je je credits en reserveringen nog gebruiken tot het einde van je huidige cyclus.
 
 Je krijgt daarna een bevestigingsmail van ClassPass. Geen mail gehad? Dan is je opzegging niet binnengekomen. Neem in dat geval contact op via de chat.
 
@@ -74,7 +74,15 @@ Nee. Er zijn geen opzegkosten en er is geen opzegtermijn.
 <details>
 <summary>Krijg ik een aanbieding als ik opzeg?</summary>
 
-Vaak wel. Voordat je opzegging rond is, biedt ClassPass vaak een gratis pauze van twee maanden of korting op de volgende maanden aan, bijvoorbeeld 20% voor drie maanden. Niet iedereen krijgt dezelfde aanbieding. Lees de voorwaarden goed: na de korting betaal je automatisch weer de volle prijs, en zeg je binnen een paar maanden alsnog op, dan kun je de korting kwijtraken.
+Vaak wel, maar alleen als je van het opzeggen afziet en lid blijft. Voordat je opzegging rond is, biedt ClassPass vaak iets aan om je te houden: een gratis pauze van twee maanden of korting op de volgende maanden, bijvoorbeeld 20% voor drie maanden. Neem je dat aan, dan zeg je dus niet op.
+
+Aan de korting zitten voorwaarden:
+
+- Hij gaat in bij je volgende cyclus.
+- Na de kortingsperiode betaal je automatisch weer de volle prijs.
+- Zeg je binnen een paar maanden alsnog op (de app noemde 1 tot 5), dan ben je de korting kwijt.
+- Je kunt hem niet combineren met andere aanbiedingen, en ClassPass kan hem aanpassen of intrekken.
+- Hij is alleen voor leden die in aanmerking komen, dus niet iedereen krijgt hetzelfde aanbod.
 
 </details>
 

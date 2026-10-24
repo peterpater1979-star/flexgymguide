@@ -74,7 +74,15 @@ Não. Não há taxa de cancelamento nem pré-aviso.
 <details>
 <summary>Recebes uma oferta quando cancelas?</summary>
 
-Muitas vezes, sim. Antes de o cancelamento ficar concluído, o ClassPass oferece muitas vezes uma pausa grátis de dois meses ou um desconto nos próximos meses, por exemplo 20 % durante três meses. Nem toda a gente recebe a mesma oferta. Lê bem as condições: depois do desconto voltas a pagar automaticamente o preço total, e se cancelares na mesma nos meses seguintes, podes perder o desconto.
+Muitas vezes, sim, mas só se mudares de ideia e continuares membro. Antes de o cancelamento ficar concluído, o ClassPass oferece muitas vezes algo para ficares: uma pausa grátis de dois meses ou um desconto nos próximos meses, por exemplo 20 % durante três meses. Se aceitares, não cancelas.
+
+O desconto tem condições:
+
+- Começa no teu próximo ciclo.
+- Depois do período de desconto voltas a pagar automaticamente o preço total.
+- Se cancelares na mesma nos meses seguintes (a app indicava 1 a 5), perdes o desconto.
+- Não pode ser combinado com outras ofertas e pode ser alterado ou retirado.
+- É só para membros elegíveis, por isso nem toda a gente recebe a mesma oferta.
 
 </details>
 
