@@ -45,7 +45,7 @@ Trainmore heeft 7 clubs in Rotterdam. Naast een contract van 1 of 2 jaar is er F
 | 1 jaar | € 69 | € 75 |
 | 2 jaar | € 62 | € 68 |
 
-Bij een contract van 1 of 2 jaar krijg je in de eerste maanden 50% korting; hoeveel maanden verschilt per club. Bij Coolsingel waren dat er 4 bij 1 jaar en 6 bij 2 jaar.
+Bij een contract van 1 of 2 jaar krijg je in de eerste maanden 50% korting; hoeveel maanden verschilt per club. Bij Coolsingel waren dat er 4 bij 1 jaar en 6 bij 2 jaar, bij Meent 5 en 7.
 
 **Student?** Bij Coolsingel kost een studentenlidmaatschap € 55 per 4 weken, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
 
