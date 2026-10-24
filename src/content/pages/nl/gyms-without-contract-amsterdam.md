@@ -46,7 +46,7 @@ Trainmore is a premium gym chain with group classes and clubs in the city centre
 | 1 year | €54 | €84 | €96 |
 | 2 years | €47 | see website | €89 |
 
-**A discount when you train more.** At Trainmore you pay less the more often you go: you get €1 off per workout, at most one a day and €28 per 4 weeks, with Flex and with a contract. You check in with the QR code in the Trainmore app. This works at every Trainmore club, whatever the label or contract: train three times a week and that saves about €12 per 4 weeks. At Bos en Lommer, for example, Flex then costs €62 instead of €74. Student memberships don't get this discount.
+**A discount when you train more.** At Trainmore you pay less the more often you go: you get €1 off per workout, at most one a day and €28 per 4 weeks, with Flex and with a contract. You check in with the QR code in the Trainmore app. Every visit counts on its own, so you don't need a fixed schedule. This works at every Trainmore club, whatever the label or contract: train three times a week and that saves about €12 per 4 weeks. At Bos en Lommer, for example, Flex then costs €62 instead of €74. Student memberships don't get this discount.
 
 At a Regular club you train only at your own club. A Red Label membership (Premium) also gives access to all Black Label and Regular clubs. With Flex you pay €29 one-off for the starter package; with a 1 or 2-year contract you often get 50% off for the first months. Students pay €40 per 4 weeks at Bos en Lommer, with a 1-year contract. With Flex you don't get the member discount at Trainmore's partner brands, but you do get the training plan in the app. You cancel in the app.
 
