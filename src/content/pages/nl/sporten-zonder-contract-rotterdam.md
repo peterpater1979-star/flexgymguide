@@ -18,10 +18,10 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Rotterdam kun je o
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Verschilt per stad; je ziet je prijs in de app | Afwisseling bij studio's en gyms in de hele stad |
 | **Trainmore Flex** | Maandelijks | Verschilt per club; Flex is duurder dan een jaarcontract | Vaak trainen op een vaste plek |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
-| **SportCity Flex** | Maandelijks | Verschilt per club; in Amsterdam bijvoorbeeld € 37,99 per 4 weken | Gym met groepslessen, ook een dagpas |
+| **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Conradstraat (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
-<p class="klein">Prijzen van oktober 2026. ClassPass: prijzen per stad in de app. Basic-Fit: landelijke prijzen. Trainmore en SportCity: prijzen verschillen per club. Controleer de actuele prijs altijd bij de aanbieder.</p>
+<p class="klein">Prijzen van oktober 2026. ClassPass: prijzen per stad in de app. Basic-Fit: landelijke prijzen. SportCity: club Conradstraat. Trainmore: prijzen verschillen per club. Controleer de actuele prijs altijd bij de aanbieder.</p>
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
@@ -61,18 +61,18 @@ Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepsl
 
 SportCity heeft clubs in heel Nederland, ook in Rotterdam. Je kiest tussen City One (één club) en City Plus (85 clubs in Nederland, en vijf keer per maand iemand meenemen). Bij allebei kun je kiezen voor Flex, 3 maanden, 1 jaar of 2 jaar, met alle live groepslessen inbegrepen en 14 dagen bedenktijd.
 
-De prijs verschilt per club. Ter vergelijking: zo zagen de prijzen er in oktober 2026 uit bij SportCity Amsterdam Lijnbaansgracht, per 4 weken:
+Zo zagen de prijzen van City One er in oktober 2026 uit bij SportCity Rotterdam Conradstraat, per 4 weken:
 
-| Looptijd | City One | City Plus |
-| --- | --- | --- |
-| Flex | € 37,99 | € 39,99 |
-| 3 maanden | € 35,99 | € 37,99 |
-| 1 jaar | € 32,99 | € 33,99 |
-| 2 jaar | € 29,99 | € 30,99 |
+| Looptijd | City One |
+| --- | --- |
+| Flex | € 37,99 |
+| 3 maanden | € 35,99 |
+| 1 jaar | € 32,99 |
+| 2 jaar | € 29,99 |
 
-Bij Flex betaal je € 4,99 inschrijfgeld, in plaats van de gewone € 9,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Andere clubs kunnen duurder zijn; bekijk de prijs van een club in Rotterdam op de site van SportCity. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
+Bij Flex betaal je € 4,99 inschrijfgeld, in plaats van de gewone € 9,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. City Plus is iets duurder; andere clubs kunnen ook duurder zijn. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
 
-<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de inschrijfpagina voor Amsterdam Lijnbaansgracht (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
+<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de inschrijfpagina voor Rotterdam Conradstraat (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 
