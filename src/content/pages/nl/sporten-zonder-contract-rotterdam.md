@@ -16,12 +16,12 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Rotterdam kun je o
 | | Opzeggen | Prijs | Goed voor |
 | --- | --- | --- | --- |
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement € 59 per maand (40 credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
-| **Trainmore Flex** | Maandelijks | € 89 tot € 95 per 4 weken (Home+, Black Label) | Vaak trainen op een vaste plek |
+| **Trainmore Flex** | Maandelijks | € 89 tot € 112 per 4 weken, afhankelijk van de club | Vaak trainen op een vaste plek |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Conradstraat (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
-<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Rotterdam. Basic-Fit: landelijke prijzen. SportCity: club Conradstraat. Trainmore: clubs Coolsingel en Meent, Home+. Controleer de actuele prijs altijd bij de aanbieder.</p>
+<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Rotterdam. Basic-Fit: landelijke prijzen. SportCity: club Conradstraat. Trainmore: clubs Coolsingel, Meent en Blaak. Controleer de actuele prijs altijd bij de aanbieder.</p>
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
@@ -46,6 +46,8 @@ Trainmore heeft 7 clubs in Rotterdam. Naast een contract van 1 of 2 jaar is er F
 | 2 jaar | € 62 | € 68 |
 
 Bij een contract van 1 of 2 jaar krijg je in de eerste maanden 50% korting; hoeveel maanden verschilt per club. Bij Coolsingel waren dat er 4 bij 1 jaar en 6 bij 2 jaar, bij Meent 5 en 7.
+
+**Red Label is duurder.** Bij een Red Label-club heb je één lidmaatschap, Premium: je eigen club, alle Regular-clubs en ook de Black Label-clubs. Bij Trainmore Rotterdam Blaak kostte dat in oktober 2026 € 112 per 4 weken met Flex, € 92 bij 1 jaar en € 85 bij 2 jaar.
 
 **Student?** Bij Coolsingel kost een studentenlidmaatschap € 55 per 4 weken, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
 
