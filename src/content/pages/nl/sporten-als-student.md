@@ -35,7 +35,7 @@ Sommige sportscholen hebben een studentenlidmaatschap met een vaste lage prijs. 
 | | Studentenprijs | Voorwaarden |
 | --- | --- | --- |
 | **SportCity** | € 29,99 per 4 weken | Contract van 1 jaar, geen inschrijfgeld, vanaf 16 jaar |
-| **Trainmore** | € 40 (Amsterdam Bos en Lommer) tot € 62 (Den Haag Laan van NOI) per 4 weken | Contract van 1 jaar, geen opstartkosten, geen korting per workout |
+| **Trainmore** | € 40 (Amsterdam Bos en Lommer) tot € 65 (Den Haag Savornin) per 4 weken | Contract van 1 jaar, geen opstartkosten, geen korting per workout |
 
 De prijs kan per club verschillen. Vraag bij de club welk bewijs je nodig hebt dat je student bent. Wil je niet een jaar vastzitten, kijk dan naar [sporten zonder contract](/nl/sporten-zonder-contract-amsterdam/).
 
