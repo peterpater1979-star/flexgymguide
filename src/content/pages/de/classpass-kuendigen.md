@@ -105,4 +105,5 @@ Ja. Du kannst deine Mitgliedschaft später in deinem Konto wieder aktivieren. Du
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
+<a class="knop knop-rand" href="/de/classpass-probezeit/">ClassPass kostenlos testen</a>
 </div>

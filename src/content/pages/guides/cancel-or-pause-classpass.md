@@ -105,4 +105,5 @@ Yes. You can reactivate your membership in your account later. You then start ag
 <div class="knoppen">
 <a class="knop knop-rand" href="/guides/classpass-credits/">ClassPass credits explained</a>
 <a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works</a>
+<a class="knop knop-rand" href="/guides/classpass-free-trial/">ClassPass free trial</a>
 </div>

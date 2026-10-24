@@ -105,4 +105,5 @@ Sim. Podes reativar a tua subscrição mais tarde na tua conta. Recomeças entã
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/creditos-classpass/">Os créditos do ClassPass</a>
 <a class="knop knop-rand" href="/pt/classpass/">Tudo sobre o ClassPass</a>
+<a class="knop knop-rand" href="/pt/experimentar-classpass/">Experimentar o ClassPass</a>
 </div>

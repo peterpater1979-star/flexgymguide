@@ -105,4 +105,5 @@ Ja. Du kan aktivere abonnementet ditt igjen senere i kontoen din. Du begynner da
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/classpass-kreditter/">ClassPass-kreditter forklart</a>
 <a class="knop knop-rand" href="/no/classpass/">Alt om ClassPass</a>
+<a class="knop knop-rand" href="/no/prov-classpass/">Prøv ClassPass gratis</a>
 </div>

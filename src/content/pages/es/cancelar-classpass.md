@@ -105,4 +105,5 @@ Sí. Puedes reactivar tu suscripción más adelante desde tu cuenta. Empiezas de
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/creditos-classpass/">Los créditos de ClassPass</a>
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-rand" href="/es/prueba-classpass/">Probar ClassPass gratis</a>
 </div>

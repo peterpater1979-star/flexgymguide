@@ -105,4 +105,5 @@ Voit. Voit aktivoida jäsenyytesi myöhemmin uudelleen tililläsi. Aloitat sillo
 <div class="knoppen">
 <a class="knop knop-rand" href="/fi/classpass-krediitit/">ClassPass-krediitit selitettynä</a>
 <a class="knop knop-rand" href="/fi/classpass/">Kaikki ClassPassista</a>
+<a class="knop knop-rand" href="/fi/classpass-kokeilujakso/">Kokeile ClassPassia</a>
 </div>

@@ -105,4 +105,5 @@ Ja. Du kan genaktivere dit abonnement senere i din konto. Du starter så forfra 
 <div class="knoppen">
 <a class="knop knop-rand" href="/dk/classpass-credits/">ClassPass-credits forklaret</a>
 <a class="knop knop-rand" href="/dk/classpass/">Alt om ClassPass</a>
+<a class="knop knop-rand" href="/dk/proev-classpass/">Prøv ClassPass gratis</a>
 </div>

@@ -105,4 +105,5 @@ Ja. Je kunt je abonnement later weer activeren in je account. Je begint dan opni
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/classpass-credits/">ClassPass-credits uitgelegd</a>
 <a class="knop knop-rand" href="/nl/classpass/">Alles over ClassPass</a>
+<a class="knop knop-rand" href="/nl/classpass-proefperiode/">ClassPass gratis proberen</a>
 </div>

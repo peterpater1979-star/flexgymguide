@@ -105,4 +105,5 @@ Ja. Du kan återaktivera ditt abonnemang senare i ditt konto. Du börjar då om 
 <div class="knoppen">
 <a class="knop knop-rand" href="/se/classpass-krediter/">ClassPass-krediter förklarade</a>
 <a class="knop knop-rand" href="/se/classpass/">Allt om ClassPass</a>
+<a class="knop knop-rand" href="/se/prova-classpass/">Prova ClassPass gratis</a>
 </div>
