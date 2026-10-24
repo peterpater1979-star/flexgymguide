@@ -61,7 +61,7 @@ Calçado de sola lisa e firme para agachamentos e levantamentos. Uma toalha para
 <h2 id="dicas">Cinco dicas para a tua primeira visita</h2>
 
 1. **Chega dez minutos mais cedo.** Assim tens tempo para encontrar o balneário ou receber uma breve explicação. À entrada fazes o check-in: na receção, onde alguém marca a tua presença, num ecrã ou com um código QR que recebeste por e-mail.
-2. **Diz que és novo.** O instrutor pode mostrar-te o básico e sugerir variantes mais fáceis.
+2. **Diz que é a tua primeira vez.** Na receção explicam-te onde te podes trocar e onde é a aula. O instrutor pode mostrar-te o básico e sugerir variantes mais fáceis.
 3. **Fala das tuas lesões.** Dores no joelho ou nas costas são boas de referir antes de começar.
 4. **Começa ao teu nível.** Ninguém espera que acompanhes os habituais na primeira aula.
 5. **Confirma as regras de cancelamento.** Com um passe desportivo ou uma aula experimental, cancelar tarde pode custar créditos ou uma taxa.

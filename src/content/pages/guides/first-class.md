@@ -61,7 +61,7 @@ Shoes with a flat, firm sole for squats and lifts. A towel to put on benches, an
 <h2 id="tips">Five tips for your first visit</h2>
 
 1. **Arrive ten minutes early.** You need time to find the changing room or get a short introduction. At the entrance you check in: at the front desk, where a staff member marks you present, on a screen, or with a QR code you received by email.
-2. **Tell the instructor you're new.** They can show you the basics and suggest easier versions of exercises.
+2. **Say it's your first time.** At the front desk they'll show you where to change and where the class is. The instructor can show you the basics and suggest easier versions of exercises.
 3. **Mention injuries.** A sore knee or back is good for the instructor to know before you start.
 4. **Start at your own level.** Nobody expects you to keep up with the regulars in your first class.
 5. **Check the cancellation rules.** With a fitness pass or a trial, a late cancellation can cost credits or a fee.
