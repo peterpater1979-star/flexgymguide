@@ -9,17 +9,17 @@ crumb: "Experimentar o ClassPass"
 kicker: "Guia"
 ---
 
-Os novos membros podem experimentar o ClassPass primeiro. Visitas vários estúdios e ginásios, cada um uma vez. Em Lisboa tens atualmente 14 dias grátis com 10 treinos. Noutros sítios a oferta pode ser diferente; vês sempre quando te inscreves.
+Os novos membros podem experimentar o ClassPass primeiro. Visitas vários estúdios e ginásios, cada um uma vez. Em Portugal tens atualmente 14 dias grátis com 10 treinos. Noutros países a oferta pode ser diferente; vês sempre quando te inscreves.
 
 <h2 id="resumo">Em resumo</h2>
 
 | | |
 | --- | --- |
 | **Para quem** | Só novos membros, uma vez por pessoa |
-| **O que recebes** | Em Lisboa, 10 treinos, uma vez por estúdio. O que não usares expira no fim |
-| **Quanto tempo** | Em Lisboa, 14 dias |
-| **Grátis?** | Em Lisboa, sim. Em algumas outras zonas é um desconto no teu primeiro período |
-| **Depois** | Passas automaticamente para um plano mensal, em Lisboa atualmente 37 créditos por 59 € por mês (pode variar por cidade) |
+| **O que recebes** | Em Portugal, 10 treinos, uma vez por estúdio. O que não usares expira no fim |
+| **Quanto tempo** | Em Portugal, 14 dias |
+| **Grátis?** | Em Portugal, sim. Em algumas outras zonas é um desconto no teu primeiro período |
+| **Depois** | Passas automaticamente para um plano mensal, em Portugal atualmente 37 créditos por 59 € por mês |
 
 <h2 id="regras">As regras</h2>
 
@@ -58,7 +58,7 @@ Se cancelares durante o período experimental, o cancelamento é imediato. Perde
 <details open>
 <summary>O período experimental é mesmo grátis?</summary>
 
-Em Lisboa, sim: 14 dias com 10 treinos, sem custos se cancelares a tempo. Em algumas outras zonas é um desconto no teu primeiro período em vez de uma experiência grátis. Vês o que recebes quando te inscreves.
+Em Portugal, sim: 14 dias com 10 treinos, sem custos se cancelares a tempo. Em algumas outras zonas é um desconto no teu primeiro período em vez de uma experiência grátis. Vês o que recebes quando te inscreves.
 
 </details>
 
@@ -76,7 +76,7 @@ Não. O ClassPass não tem desconto para estudantes. Algumas empresas oferecem o
 
 </details>
 
-<p class="klein">Fonte: <a href="https://help.classpass.com/hc/en-us/articles/209629223">centro de ajuda do ClassPass</a> (janeiro de 2026) e a página de inscrição do ClassPass para Lisboa (outubro de 2026). As regras podem mudar, por isso confirma sempre a informação atual na inscrição ou na tua conta.</p>
+<p class="klein">Fonte: <a href="https://help.classpass.com/hc/en-us/articles/209629223">centro de ajuda do ClassPass</a> (janeiro de 2026) e a página de inscrição do ClassPass para Lisboa e São Miguel do Rio Torto (outubro de 2026). As regras podem mudar, por isso confirma sempre a informação atual na inscrição ou na tua conta.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/creditos-classpass/">Os créditos do ClassPass</a>
