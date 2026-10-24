@@ -18,10 +18,10 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Amsterdam kun je o
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Vanaf € 19 per maand (11 credits) | Afwisseling bij studio's en gyms in de hele stad |
 | **Trainmore Flex** | Maandelijks | € 104 per 4 weken in een Black Label-club, plus € 29 eenmalig | Vaak trainen op een vaste plek |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
-| **SportCity Flex** | Maandelijks | Verschilt per club; Weteringdwarsstraat vanaf € 52,99 per 4 weken | Gym met groepslessen, ook een dagpas |
+| **SportCity Flex** | Maandelijks | Verschilt per club: vanaf € 29,99 (Lijnbaansgracht) of € 52,99 (Weteringdwarsstraat) per 4 weken | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
-<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Amsterdam. Trainmore: club Koningin Wilhelminaplein, vóór korting. Basic-Fit: landelijke prijzen. SportCity: club Weteringdwarsstraat, vanafprijs. Controleer de actuele prijs altijd bij de aanbieder.</p>
+<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Amsterdam. Trainmore: club Koningin Wilhelminaplein, vóór korting. Basic-Fit: landelijke prijzen. SportCity: vanafprijzen van twee clubs. Controleer de actuele prijs altijd bij de aanbieder.</p>
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
@@ -61,9 +61,9 @@ Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepsl
 
 SportCity heeft clubs in heel Nederland, ook in Amsterdam. Je kiest tussen City One (één club) en City Plus (meerdere clubs, en vijf keer per maand iemand meenemen). Bij allebei kun je kiezen voor Flex, 3 maanden, 1 jaar of 2 jaar, met alle live groepslessen inbegrepen en 14 dagen bedenktijd.
 
-De prijs verschilt per club. Bij SportCity Amsterdam Weteringdwarsstraat begon City One in oktober 2026 bij € 52,99 en City Plus bij € 54,99 per 4 weken. Wat Flex kost, zie je als je lid wordt en je contract kiest. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
+De prijs verschilt flink per club. In oktober 2026 begon City One bij SportCity Amsterdam Lijnbaansgracht bij € 29,99 en City Plus bij € 30,99 per 4 weken. Bij Amsterdam Weteringdwarsstraat, een paar minuten verderop, was dat € 52,99 en € 54,99. Wat Flex kost, zie je als je lid wordt en je contract kiest. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
 
-<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de clubpagina Weteringdwarsstraat (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
+<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de clubpagina's Lijnbaansgracht en Weteringdwarsstraat (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 
