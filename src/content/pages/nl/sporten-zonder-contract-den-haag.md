@@ -125,4 +125,5 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/den-haag/">Flexibel sporten in Den Haag</a>
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
+<a class="knop knop-rand" href="/nl/gyms-without-contract-the-hague/">In English</a>
 </div>
