@@ -16,7 +16,7 @@ Los nuevos miembros pueden probar ClassPass primero. Visitas varios estudios y g
 | | |
 | --- | --- |
 | **Para quién** | Solo nuevos miembros, una vez por persona |
-| **Qué recibes** | Una primera visita en los estudios participantes, o un número fijo de créditos o reservas |
+| **Qué recibes** | Normalmente un número fijo de créditos; algunas ofertas dan en su lugar una primera visita gratis por estudio |
 | **Cuánto dura** | Depende de la oferta; lo ves al registrarte |
 | **¿Gratis?** | A menudo, pero en algunas zonas es un descuento en tu primer periodo |
 | **Después** | Pasas automáticamente al plan mensual que viste al registrarte |

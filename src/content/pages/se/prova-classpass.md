@@ -16,7 +16,7 @@ Nya medlemmar kan prova ClassPass först. Du besöker då ett antal studior och 
 | | |
 | --- | --- |
 | **För vem** | Bara nya medlemmar, en gång per person |
-| **Vad du får** | Ett första besök hos deltagande studior, eller ett fast antal krediter eller bokningar |
+| **Vad du får** | Oftast ett fast antal krediter; vissa erbjudanden ger i stället ett gratis första besök per studio |
 | **Hur länge** | Beror på erbjudandet; du ser det när du registrerar dig |
 | **Gratis?** | Ofta, men på vissa håll är det en rabatt på din första period |
 | **Efteråt** | Du går automatiskt över till det månadsabonnemang du såg när du registrerade dig |

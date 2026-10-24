@@ -16,7 +16,7 @@ Nieuwe leden kunnen ClassPass eerst proberen. Je bezoekt dan een aantal studio's
 | | |
 | --- | --- |
 | **Voor wie** | Alleen nieuwe leden, één keer per persoon |
-| **Wat je krijgt** | Een eerste bezoek bij deelnemende studio's, of een vast aantal credits of reserveringen |
+| **Wat je krijgt** | Meestal een vast aantal credits; bij sommige aanbiedingen een gratis eerste bezoek per studio |
 | **Hoe lang** | Verschilt per aanbieding; je ziet het bij het aanmelden |
 | **Gratis?** | Vaak, maar in sommige gebieden is het een korting op je eerste periode |
 | **Na afloop** | Je gaat automatisch over op het maandabonnement dat je bij het aanmelden zag |
