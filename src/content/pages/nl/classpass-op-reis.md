@@ -51,6 +51,19 @@ Buiten Europa werkt het onder meer in de Verenigde Staten, Canada, Australië, N
 4. **Denk ook aan een gym.** Een gymbezoek bij je hotel in de buurt is een makkelijke manier om tussendoor te trainen.
 5. **Ontspan na je reis.** Je kunt credits ook gebruiken voor een massage of de spa.
 
+<h2 id="onderweg">Handig in je koffer</h2>
+
+Licht en klein, zodat het makkelijk in je bagage past. Via deze links zoek je bij Amazon.nl:
+
+<ul class="spullen">
+<li class="i-fles"><a href="/go/amazon-nl-opvouwbare-fles/">Opvouwbare waterfles</a></li>
+<li class="i-handdoek"><a href="/go/amazon-nl-reishanddoek/">Compacte microvezelhanddoek</a></li>
+<li class="i-mat"><a href="/go/amazon-nl-reisyogamat/">Opvouwbare reisyogamat</a></li>
+<li class="i-band"><a href="/go/amazon-nl-weerstandsbanden/">Weerstandsbanden voor in je hotelkamer</a></li>
+</ul>
+
+<p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
+
 <h2 id="checklist">Checklist</h2>
 
 - [ ] Zoek je bestemming op in de app

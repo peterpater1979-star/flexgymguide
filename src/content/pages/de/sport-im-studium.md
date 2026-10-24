@@ -52,6 +52,19 @@ Laufen, Radfahren, ein Calisthenics-Park oder ein Yoga-Video zu Hause kosten nic
 - **Du bist oft unterwegs oder hast einen wechselnden Stundenplan:** etwas ohne lange Vertragsbindung, wie ClassPass.
 - **Das Beste aus beiden:** der Fitnessraum deiner Hochschule für das normale Training, dazu ab und zu ein ClassPass-Kurs, den es dort nicht gibt.
 
+<h2 id="zuhause">Günstig zu Hause trainieren</h2>
+
+Mit ein paar günstigen Sachen trainierst du auch in deinem Zimmer, zum Beispiel an Tagen ohne Fitnessstudio. Über diese Links suchst du bei Amazon.de:
+
+<ul class="spullen">
+<li class="i-mat"><a href="/go/amazon-de-yogamatte/">Yogamatte</a></li>
+<li class="i-band"><a href="/go/amazon-de-widerstandsbaender/">Widerstandsbänder</a></li>
+<li class="i-touw"><a href="/go/amazon-de-springseil/">Springseil</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+</ul>
+
+<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
+
 <h2 id="tips">Tipps</h2>
 
 1. **Frag nach Studentenrabatt.** Manche Fitnessstudios haben einen, oft gegen Vorlage deines Studierendenausweises.

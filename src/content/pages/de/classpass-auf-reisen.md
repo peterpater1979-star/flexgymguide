@@ -51,6 +51,19 @@ Außerhalb Europas unter anderem in den USA, Kanada, Australien, Neuseeland, Jap
 4. **Denk auch an ein Fitnessstudio.** Ein Besuch im Fitnessstudio in der Nähe deines Hotels ist eine einfache Art, zwischendurch zu trainieren.
 5. **Entspann dich nach der Reise.** Du kannst Credits auch für eine Massage oder das Spa nutzen.
 
+<h2 id="unterwegs">Praktisch im Koffer</h2>
+
+Leicht und klein, damit es gut ins Gepäck passt. Über diese Links suchst du bei Amazon.de:
+
+<ul class="spullen">
+<li class="i-fles"><a href="/go/amazon-de-faltbare-flasche/">Faltbare Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-reisehandtuch/">Kompaktes Mikrofaserhandtuch</a></li>
+<li class="i-mat"><a href="/go/amazon-de-reise-yogamatte/">Faltbare Reise-Yogamatte</a></li>
+<li class="i-band"><a href="/go/amazon-de-widerstandsbaender/">Widerstandsbänder fürs Hotelzimmer</a></li>
+</ul>
+
+<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
+
 <h2 id="checklist">Checkliste</h2>
 
 - [ ] Such dein Reiseziel in der App

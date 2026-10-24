@@ -59,6 +59,19 @@ Hardlopen, fietsen, een calisthenicspark of een yogavideo thuis kosten niets. Ve
 - **Je bent vaak weg of hebt een wisselend rooster:** iets zonder lang contract, zoals ClassPass.
 - **Het beste van twee werelden:** de gym van je onderwijsinstelling voor je gewone training, en af en toe een les via ClassPass die je daar niet hebt.
 
+<h2 id="thuis">Thuis trainen voor weinig geld</h2>
+
+Met een paar goedkope spullen train je ook op je kamer, bijvoorbeeld op dagen dat je niet naar de sportschool gaat. Via deze links zoek je bij Amazon.nl:
+
+<ul class="spullen">
+<li class="i-mat"><a href="/go/amazon-nl-yogamat/">Yogamat</a></li>
+<li class="i-band"><a href="/go/amazon-nl-weerstandsbanden/">Weerstandsbanden</a></li>
+<li class="i-touw"><a href="/go/amazon-nl-springtouw/">Springtouw</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
+</ul>
+
+<p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
+
 <h2 id="tips">Tips</h2>
 
 1. **Vraag naar studentenkorting.** Sommige sportscholen hebben die, vaak op vertoon van je studentenkaart.
