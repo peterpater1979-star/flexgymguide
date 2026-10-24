@@ -19,7 +19,7 @@ Nye medlemmer kan prøve ClassPass først. Du besøker da en rekke studioer og t
 | **Hva du får** | I Norge 10 treningsøkter, én gang per studio. Det du ikke bruker, utløper ved slutten |
 | **Hvor lenge** | I Norge 14 dager |
 | **Gratis?** | I Norge, ja. Noen andre steder er det rabatt på den første perioden |
-| **Etterpå** | Du går automatisk over til et månedsabonnement, for eksempel 35 kreditter for 569 kr i måneden (kan variere etter by) |
+| **Etterpå** | Du går automatisk over til et månedsabonnement, i Norge nå 35 kreditter for 569 kr i måneden |
 
 <h2 id="regler">Reglene</h2>
 
