@@ -9,17 +9,17 @@ crumb: "ClassPass proefperiode"
 kicker: "Gids"
 ---
 
-Nieuwe leden kunnen ClassPass eerst proberen. Je bezoekt dan een aantal studio's en sportscholen, elk één keer. Hoe lang de proefperiode duurt en wat je precies krijgt, verschilt per land en per aanbieding. Je ziet het bij het aanmelden.
+Nieuwe leden kunnen ClassPass eerst proberen. Je bezoekt dan een aantal studio's en sportscholen, elk één keer. In Nederland krijg je nu 14 dagen gratis met 10 work-outs. In andere landen kan het aanbod anders zijn; je ziet het altijd bij het aanmelden.
 
 <h2 id="kort">In het kort</h2>
 
 | | |
 | --- | --- |
 | **Voor wie** | Alleen nieuwe leden, één keer per persoon |
-| **Wat je krijgt** | Een vast aantal lessen of credits, bij elke studio één keer |
-| **Hoe lang** | Verschilt per aanbieding; je ziet het bij het aanmelden |
-| **Gratis?** | Vaak, maar in sommige gebieden is het een korting op je eerste periode |
-| **Na afloop** | Je gaat automatisch over op het maandabonnement dat je bij het aanmelden zag |
+| **Wat je krijgt** | In Nederland 10 work-outs, bij elke studio één keer. Wat je niet gebruikt, vervalt aan het einde |
+| **Hoe lang** | In Nederland 14 dagen |
+| **Gratis?** | In Nederland wel. In sommige andere gebieden is het een korting op je eerste periode |
+| **Na afloop** | Je gaat automatisch over op een maandabonnement, in Nederland nu 47 credits voor € 69 per maand |
 
 <h2 id="regels">De regels</h2>
 
@@ -36,7 +36,7 @@ Credits die je zelf hebt bijgekocht, gaan mee naar je abonnement, tot het aantal
 
 <h2 id="opzeggen">Opzeggen tijdens de proefperiode</h2>
 
-Opzeggen tijdens de proefperiode gaat meteen in. Je verliest dan je proefcredits en al je geboekte lessen. Wil je de hele proefperiode gebruiken? Zeg dan pas op de laatste dag op. Hoe dat werkt, lees je in [ClassPass opzeggen of pauzeren](/nl/classpass-opzeggen/).
+Opzeggen tijdens de proefperiode gaat meteen in. Je verliest dan je resterende proefwork-outs en al je geboekte lessen. Wil je de hele proefperiode gebruiken? Zeg dan pas op de laatste dag op. Hoe dat werkt, lees je in [ClassPass opzeggen of pauzeren](/nl/classpass-opzeggen/).
 
 <h2 id="tips">Zo haal je er het meeste uit</h2>
 
@@ -58,7 +58,7 @@ Opzeggen tijdens de proefperiode gaat meteen in. Je verliest dan je proefcredits
 <details open>
 <summary>Is de proefperiode echt gratis?</summary>
 
-Vaak wel. In sommige gebieden is het een korting op je eerste periode in plaats van een gratis proef. Wat jij krijgt, zie je bij het aanmelden.
+In Nederland wel: 14 dagen met 10 work-outs, zonder kosten zolang je op tijd opzegt. In sommige andere gebieden is het een korting op je eerste periode in plaats van een gratis proef. Wat jij krijgt, zie je bij het aanmelden.
 
 </details>
 
@@ -76,7 +76,7 @@ Nee. ClassPass heeft geen korting voor studenten. Wel bieden sommige werkgevers 
 
 </details>
 
-<p class="klein">Bron: <a href="https://help.classpass.com/hc/en-us/articles/209629223">helpcentrum van ClassPass</a> (januari 2026). Regels kunnen veranderen, dus kijk voor de actuele informatie altijd bij het aanmelden of in je account.</p>
+<p class="klein">Bron: <a href="https://help.classpass.com/hc/en-us/articles/209629223">helpcentrum van ClassPass</a> (januari 2026) en de aanmeldpagina van ClassPass Nederland (oktober 2026). Regels kunnen veranderen, dus kijk voor de actuele informatie altijd bij het aanmelden of in je account.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/classpass-credits/">ClassPass-credits uitgelegd</a>
