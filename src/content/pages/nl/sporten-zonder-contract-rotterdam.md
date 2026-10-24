@@ -15,19 +15,19 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Rotterdam kun je o
 
 | | Opzeggen | Prijs | Goed voor |
 | --- | --- | --- | --- |
-| **ClassPass** | Op elk moment, zonder opzegtermijn | Verschilt per stad; je ziet je prijs in de app | Afwisseling bij studio's en gyms in de hele stad |
+| **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement € 59 per maand (40 credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
 | **Trainmore Flex** | Maandelijks | Verschilt per club; Flex is duurder dan een jaarcontract | Vaak trainen op een vaste plek |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Conradstraat (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
-<p class="klein">Prijzen van oktober 2026. ClassPass: prijzen per stad in de app. Basic-Fit: landelijke prijzen. SportCity: club Conradstraat. Trainmore: prijzen verschillen per club. Controleer de actuele prijs altijd bij de aanbieder.</p>
+<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Rotterdam. Basic-Fit: landelijke prijzen. SportCity: club Conradstraat. Trainmore: prijzen verschillen per club. Controleer de actuele prijs altijd bij de aanbieder.</p>
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
 Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Rotterdam. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand.
 
-- **Abonnementen:** ClassPass heeft abonnementen van klein tot groot; de prijzen verschillen per stad en je ziet ze in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
+- **Abonnement in Rotterdam:** het standaardabonnement is 40 credits voor € 59 per maand. Er zijn kleinere en grotere abonnementen; die zie je in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 - **Eerst proberen:** 14 dagen gratis met 10 work-outs. Lees [ClassPass gratis proberen](/nl/classpass-proefperiode/).
 - **Pauzeren:** bij opzeggen biedt ClassPass vaak een gratis pauze aan. Lees [ClassPass opzeggen of pauzeren](/nl/classpass-opzeggen/).
 
