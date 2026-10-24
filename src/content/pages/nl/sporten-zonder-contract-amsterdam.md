@@ -1,7 +1,7 @@
 ---
 title: "Sporten zonder contract in Amsterdam: maandelijks opzegbaar trainen"
 path: "/nl/sporten-zonder-contract-amsterdam/"
-description: "Sporten in Amsterdam zonder jaarcontract: ClassPass, maandelijks opzegbare lidmaatschappen en losse lessen. Wat het kost, hoe je opzegt en waar je op let."
+description: "Sporten in Amsterdam zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex en losse lessen. Wat het kost, hoe je opzegt en waar je op let."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
@@ -17,9 +17,10 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Amsterdam kun je o
 | --- | --- | --- | --- |
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Vanaf € 19 per maand (11 credits) | Afwisseling bij studio's en gyms in de hele stad |
 | **Trainmore Flex** | Maandelijks | € 104 per 4 weken in een Black Label-club, plus € 29 eenmalig | Vaak trainen op een vaste plek |
+| **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
-<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Amsterdam. Trainmore: club Koningin Wilhelminaplein, vóór korting. Controleer de actuele prijs altijd bij de aanbieder.</p>
+<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Amsterdam. Trainmore: club Koningin Wilhelminaplein, vóór korting. Basic-Fit: landelijke prijzen. Controleer de actuele prijs altijd bij de aanbieder.</p>
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
@@ -41,6 +42,20 @@ Trainmore heeft 31 clubs in Amsterdam. Naast een contract van 1 of 2 jaar is er 
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
 </div>
 
+<h2 id="basic-fit">Basic-Fit Flex: zonder minimale looptijd</h2>
+
+Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaarabonnement van 52 weken is er Flex, zonder minimale looptijd. Flex kost € 9,99 per 4 weken meer dan het jaarabonnement, en de welkomstacties voor jaarabonnementen gelden er niet voor.
+
+| Flex | Per 4 weken | Wat je krijgt |
+| --- | --- | --- |
+| Comfort | € 34,98 | Alle clubs in Nederland |
+| Premium | € 39,98 | Alle clubs in Europa, één gast per week, massagestoelen |
+| Ultimate | € 44,98 | Alle clubs in Europa, onbeperkt gasten, sportwater, gratis pauzeren |
+
+Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken.
+
+<p class="klein">Bron: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
+
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 
 Veel yoga-, pilates- en boksstudio's verkopen ook losse lessen of een kaart voor een aantal lessen. Je betaalt dan alleen als je gaat. Dat is handig als je één vaste studio hebt waar je af en toe naartoe wilt. Kijk op de site van de studio wat ze aanbieden; prijzen en geldigheid verschillen per studio.
@@ -57,7 +72,7 @@ Veel yoga-, pilates- en boksstudio's verkopen ook losse lessen of een kaart voor
 <details open>
 <summary>Kan ik in Amsterdam sporten zonder contract?</summary>
 
-Ja. Met ClassPass zeg je op elk moment op, Trainmore heeft een maandelijks opzegbaar Flex-lidmaatschap, en veel studio's verkopen losse lessen.
+Ja. Met ClassPass zeg je op elk moment op, Trainmore en Basic-Fit hebben een Flex-lidmaatschap zonder lange looptijd, en veel studio's verkopen losse lessen.
 
 </details>
 
