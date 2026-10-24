@@ -52,7 +52,9 @@ With a 1 or 2-year contract you get 50% off for the first months; how many depen
 
 **Student?** At Coolsingel a student membership costs €55 per 4 weeks, with a 1-year contract and no startup costs. The discount per workout doesn't apply there.
 
-With City+ you can train at all Black Label clubs in Rotterdam. It costs €86 per 4 weeks for 1 year and €79 for 2 years; there is no Flex with City+. You get €1 off per workout, at most one a day. With Flex you don't get the member discount at Trainmore's partner brands, but you do get the training plan in the app. With a 2-year contract there are no startup costs. You cancel in the app.
+**A discount when you train more.** At Trainmore you pay less the more often you go: you get €1 off per workout, at most one a day, with Flex and with a contract. Train three times a week and that saves about €12 per 4 weeks. At Coolsingel, Flex then costs €77 instead of €89. Student memberships don't get this discount.
+
+With City+ you can train at all Black Label clubs in Rotterdam. It costs €86 per 4 weeks for 1 year and €79 for 2 years; there is no Flex with City+. With Flex you don't get the member discount at Trainmore's partner brands, but you do get the training plan in the app. With a 2-year contract there are no startup costs. You cancel in the app.
 
 <h2 id="basic-fit">Basic-Fit Flex: no minimum term</h2>
 

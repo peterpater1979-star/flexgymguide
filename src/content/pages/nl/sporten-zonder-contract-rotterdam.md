@@ -51,7 +51,9 @@ Bij een contract van 1 of 2 jaar krijg je in de eerste maanden 50% korting; hoev
 
 **Student?** Bij Coolsingel kost een studentenlidmaatschap € 55 per 4 weken, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
 
-Met City+ kun je in alle Black Label-clubs in Rotterdam trainen. Dat kost € 86 per 4 weken bij 1 jaar en € 79 bij 2 jaar; Flex is er niet bij City+. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
+**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag, bij Flex en bij een contract. Train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Coolsingel betaal je met Flex dan € 77 in plaats van € 89. Studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting).
+
+Met City+ kun je in alle Black Label-clubs in Rotterdam trainen. Dat kost € 86 per 4 weken bij 1 jaar en € 79 bij 2 jaar; Flex is er niet bij City+. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>

@@ -45,7 +45,9 @@ Trainmore is een premium sportschoolketen met groepslessen en clubs in het centr
 | 1 jaar | € 54 | € 84 | € 96 |
 | 2 jaar | € 47 | zie site | € 89 |
 
-Bij een Regular-club train je alleen in je eigen club. Met een Red Label-lidmaatschap (Premium) kun je ook in alle Black Label- en Regular-clubs trainen. Bij Flex betaal je eenmalig € 29 voor het starterpakket; bij een contract van 1 of 2 jaar krijg je de eerste maanden vaak 50% korting. Studenten betalen bij Bos en Lommer € 40 per 4 weken, met een jaarcontract. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
+**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag, bij Flex en bij een contract. Train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Bos en Lommer betaal je met Flex dan € 62 in plaats van € 74. Studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting).
+
+Bij een Regular-club train je alleen in je eigen club. Met een Red Label-lidmaatschap (Premium) kun je ook in alle Black Label- en Regular-clubs trainen. Bij Flex betaal je eenmalig € 29 voor het starterpakket; bij een contract van 1 of 2 jaar krijg je de eerste maanden vaak 50% korting. Studenten betalen bij Bos en Lommer € 40 per 4 weken, met een jaarcontract. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>

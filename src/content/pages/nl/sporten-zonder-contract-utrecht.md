@@ -45,7 +45,9 @@ Trainmore is een premium sportschoolketen met groepslessen en clubs in het centr
 | 1 jaar | € 79 | Eerste 3 maanden € 39,50 |
 | 2 jaar | € 72 | Eerste 5 maanden € 36 |
 
-Met City+ kun je in alle clubs in Utrecht trainen. Je krijgt € 1 korting per workout, maximaal één per dag: train je één keer per week, dan betaal je bij Flex € 95 per 4 weken, bij twee keer € 91. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
+**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag, bij Flex en bij een contract. Train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Muntgebouw betaal je met Flex dan € 87 in plaats van € 99. Studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting).
+
+Met City+ kun je in alle clubs in Utrecht trainen. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
