@@ -19,7 +19,7 @@ Nya medlemmar kan prova ClassPass först. Du besöker då ett antal studior och 
 | **Vad du får** | I Sverige 10 träningspass, en gång per studio. Det du inte använder går ut vid slutet |
 | **Hur länge** | I Sverige 14 dagar |
 | **Gratis?** | I Sverige, ja. På vissa andra håll är det en rabatt på din första period |
-| **Efteråt** | Du går automatiskt över till ett månadsabonnemang, till exempel 34 krediter för 599 kr i månaden (kan variera mellan städer) |
+| **Efteråt** | Du går automatiskt över till ett månadsabonnemang, i Sverige just nu 34 krediter för 599 kr i månaden |
 
 <h2 id="regler">Reglerna</h2>
 

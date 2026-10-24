@@ -43,7 +43,7 @@ Ongebruikte credits gaan mee naar de volgende maand, tot het aantal credits van 
 
 <h2 id="abonnementen">De abonnementen in Nederland</h2>
 
-Dit zijn de maandabonnementen in Amsterdam in oktober 2026. Hoe groter het abonnement, hoe minder je per credit betaalt.
+Dit zijn de maandabonnementen in Amsterdam in oktober 2026. In andere steden kan het anders zijn: in Utrecht begint het standaardabonnement bijvoorbeeld bij 40 credits voor € 59. Hoe groter het abonnement, hoe minder je per credit betaalt.
 
 | Credits per maand | Prijs per maand | Per credit |
 | --- | --- | --- |
