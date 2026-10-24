@@ -9,17 +9,17 @@ crumb: "ClassPass Probezeit"
 kicker: "Ratgeber"
 ---
 
-Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studios und Fitnessstudios, jedes einmal. Wie lange die Probezeit dauert und was du genau bekommst, ist je nach Land und Angebot verschieden. Du siehst es bei der Anmeldung.
+Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studios und Fitnessstudios, jedes einmal. In Berlin bekommst du derzeit 1 Monat kostenlos mit 10 Workouts. In anderen Städten und Ländern kann das Angebot anders sein; du siehst es immer bei der Anmeldung.
 
 <h2 id="kurz">Kurz gesagt</h2>
 
 | | |
 | --- | --- |
 | **Für wen** | Nur neue Mitglieder, einmal pro Person |
-| **Was du bekommst** | Eine feste Zahl an Kursen oder Credits, in jedem Studio einmal |
-| **Wie lange** | Je nach Angebot; du siehst es bei der Anmeldung |
-| **Kostenlos?** | Oft, aber in manchen Regionen ist es ein Rabatt auf deinen ersten Zeitraum |
-| **Danach** | Du wechselst automatisch zu dem Monatsabo, das du bei der Anmeldung gesehen hast |
+| **Was du bekommst** | In Berlin 10 Workouts, in jedem Studio einmal. Was du nicht nutzt, verfällt am Ende |
+| **Wie lange** | In Berlin 1 Monat |
+| **Kostenlos?** | In Berlin ja. In manchen anderen Regionen ist es ein Rabatt auf deinen ersten Zeitraum |
+| **Danach** | Du wechselst automatisch zu einem Monatsabo, in Berlin derzeit 42 Credits für 59 € pro Monat |
 
 <h2 id="regeln">Die Regeln</h2>
 
@@ -36,7 +36,7 @@ Selbst gekaufte Credits werden in dein Abo übernommen, bis zur Zahl der Credits
 
 <h2 id="kuendigen">Kündigen während der Probezeit</h2>
 
-Eine Kündigung während der Probezeit gilt sofort. Du verlierst deine Probe-Credits und alle gebuchten Kurse. Willst du die ganze Probezeit nutzen? Dann kündige erst am letzten Tag. Wie das geht, liest du in [ClassPass kündigen oder pausieren](/de/classpass-kuendigen/).
+Eine Kündigung während der Probezeit gilt sofort. Du verlierst deine übrigen Probe-Workouts und alle gebuchten Kurse. Willst du die ganze Probezeit nutzen? Dann kündige erst am letzten Tag. Wie das geht, liest du in [ClassPass kündigen oder pausieren](/de/classpass-kuendigen/).
 
 <h2 id="tipps">So holst du das meiste heraus</h2>
 
@@ -58,7 +58,7 @@ Eine Kündigung während der Probezeit gilt sofort. Du verlierst deine Probe-Cre
 <details open>
 <summary>Ist die Probezeit wirklich kostenlos?</summary>
 
-Oft ja. In manchen Regionen ist es ein Rabatt auf deinen ersten Zeitraum statt einer kostenlosen Probe. Was du bekommst, siehst du bei der Anmeldung.
+In Berlin ja: 1 Monat mit 10 Workouts, ohne Kosten, wenn du rechtzeitig kündigst. In manchen anderen Regionen ist es ein Rabatt auf deinen ersten Zeitraum statt einer kostenlosen Probe. Was du bekommst, siehst du bei der Anmeldung.
 
 </details>
 
@@ -76,7 +76,7 @@ Nein. ClassPass hat keinen Studentenrabatt. Manche Arbeitgeber bieten ClassPass 
 
 </details>
 
-<p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Hilfe-Center</a> (Januar 2026). Regeln können sich ändern, prüfe die aktuellen Angaben immer bei der Anmeldung oder in deinem Konto.</p>
+<p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Hilfe-Center</a> (Januar 2026) und die Anmeldeseite von ClassPass für Berlin (Oktober 2026). Regeln können sich ändern, prüfe die aktuellen Angaben immer bei der Anmeldung oder in deinem Konto.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
