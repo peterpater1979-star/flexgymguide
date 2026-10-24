@@ -17,10 +17,10 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Berlin kannst d
 | --- | --- | --- | --- |
 | **ClassPass** | Jederzeit, ohne Kündigungsfrist | Standardabo 42 Credits für 59 € im Monat; kleinere in der App | Abwechslung in Studios in der ganzen Stadt |
 | **Fitness First** | Monatlich | 12,90 € bis 26,90 € pro Woche, je nach Club und Tarif, plus Startgebühr und Trainingspaket | Premium-Studio mit Kursen und Wellness |
-| **McFit Flex** | Monatlich | [PREIS] im Monat, plus Anmeldegebühr | Günstig und oft trainieren |
+| **McFit Flex** | Monatlich | 49,90 € im Monat, im ersten Monat 88,90 € | Günstig und oft trainieren |
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
 
-<p class="klein">Preise von Oktober 2026. ClassPass: Standort Berlin. Fitness First: Clubs Schöneberg (RED) und Gendarmenmarkt (BLACK). Prüfe den aktuellen Preis immer beim Anbieter.</p>
+<p class="klein">Preise von Oktober 2026. ClassPass: Standort Berlin. Fitness First: Clubs Schöneberg (RED) und Gendarmenmarkt (BLACK). McFit: Preise auf mcfit.com. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 <h2 id="classpass">ClassPass: jederzeit kündbar</h2>
 
@@ -56,7 +56,17 @@ Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebüh
 
 <h2 id="mcfit">McFit Flex: monatlich kündbar</h2>
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 250 Studios in Deutschland, Österreich und Italien, darunter viele in Berlin. Die Kette ist günstig und gehört zur RSG Group. Neben Verträgen über 12 oder 24 Monate gibt es Flex, ohne feste Laufzeit und monatlich kündbar. Flex kostet [PREIS] im Monat, dazu kommt eine einmalige Anmeldegebühr. Pro Monat ist Flex deutlich teurer als ein Jahresvertrag, dafür bist du nicht gebunden.
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 250 Studios in Deutschland, Österreich und Italien, darunter viele in Berlin. Die Kette ist günstig und gehört zur RSG Group. Neben Verträgen über 12 oder 24 Monate gibt es Flex, ohne feste Vertragslaufzeit. So sahen die Preise im Oktober 2026 aus, pro Monat:
+
+| Tarif | Preis | Laufzeit |
+| --- | --- | --- |
+| Flex | 49,90 € | Keine feste Laufzeit |
+| 12 Monate Standard | 29,90 € | 12 Monate |
+| 24 Monate Standard | 24,90 € | 24 Monate |
+
+Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (Gesamtpreis laut McFit). Flex kostet also fast das Doppelte eines 24-Monats-Vertrags, dafür bist du nicht gebunden. Mit allen Tarifen trainierst du in über 230 McFit-Studios in Europa, mit Live-Kursen in den teilnehmenden Studios.
+
+<p class="klein">Quelle: <a href="https://www.mcfit.com/de/mitgliedschaft">mcfit.com/mitgliedschaft</a> (Oktober 2026). Prüfe den aktuellen Preis immer bei McFit.</p>
 
 <h2 id="einzeln">Einzelstunden und 10er-Karten</h2>
 
