@@ -9,17 +9,17 @@ crumb: "Essai ClassPass"
 kicker: "Guide"
 ---
 
-Les nouveaux membres peuvent d'abord essayer ClassPass. Tu visites alors plusieurs studios et salles de sport, chacun une fois. La durée de l'essai et ce que tu reçois exactement varient selon le pays et l'offre. Tu le vois au moment de t'inscrire.
+Les nouveaux membres peuvent d'abord essayer ClassPass. Tu visites alors plusieurs studios et salles de sport, chacun une fois. À Paris, tu as actuellement 14 jours gratuits avec 10 séances. Ailleurs, l'offre peut être différente ; tu la vois toujours au moment de t'inscrire.
 
 <h2 id="resume">En bref</h2>
 
 | | |
 | --- | --- |
 | **Pour qui** | Nouveaux membres uniquement, une fois par personne |
-| **Ce que tu reçois** | Un nombre fixe de cours ou de crédits, une fois par studio |
-| **Durée** | Selon l'offre ; tu la vois à l'inscription |
-| **Gratuit ?** | Souvent, mais dans certaines zones c'est une réduction sur ta première période |
-| **Après** | Tu passes automatiquement à la formule mensuelle vue à l'inscription |
+| **Ce que tu reçois** | À Paris, 10 séances, une fois par studio. Ce que tu n'utilises pas expire à la fin |
+| **Durée** | À Paris, 14 jours |
+| **Gratuit ?** | À Paris, oui. Dans certaines autres zones c'est une réduction sur ta première période |
+| **Après** | Tu passes automatiquement à une formule mensuelle, à Paris actuellement 47 crédits pour 75 € par mois |
 
 <h2 id="regles">Les règles</h2>
 
@@ -36,7 +36,7 @@ Les crédits que tu as achetés toi-même passent dans ta formule, jusqu'au nomb
 
 <h2 id="resilier">Résilier pendant l'essai</h2>
 
-Une résiliation pendant l'essai prend effet immédiatement. Tu perds tes crédits d'essai et tous tes cours réservés. Tu veux profiter de tout l'essai ? Ne résilie que le dernier jour. Comment faire : [Résilier ou suspendre ClassPass](/fr/resilier-classpass/).
+Une résiliation pendant l'essai prend effet immédiatement. Tu perds les séances d'essai qu'il te reste et tous tes cours réservés. Tu veux profiter de tout l'essai ? Ne résilie que le dernier jour. Comment faire : [Résilier ou suspendre ClassPass](/fr/resilier-classpass/).
 
 <h2 id="conseils">Comment en profiter au maximum</h2>
 
@@ -58,7 +58,7 @@ Une résiliation pendant l'essai prend effet immédiatement. Tu perds tes crédi
 <details open>
 <summary>L'essai est-il vraiment gratuit ?</summary>
 
-Souvent, oui. Dans certaines zones, c'est une réduction sur ta première période au lieu d'un essai gratuit. Tu vois ce que tu reçois à l'inscription.
+À Paris, oui : 14 jours avec 10 séances, sans frais si tu résilies à temps. Dans certaines autres zones, c'est une réduction sur ta première période au lieu d'un essai gratuit. Tu vois ce que tu reçois à l'inscription.
 
 </details>
 
@@ -76,7 +76,7 @@ Non. ClassPass n'a pas de réduction pour les étudiants. Certains employeurs pr
 
 </details>
 
-<p class="klein">Source : <a href="https://help.classpass.com/hc/en-us/articles/209629223">centre d'aide ClassPass</a> (janvier 2026). Les règles peuvent changer, vérifie toujours les informations à jour à l'inscription ou dans ton compte.</p>
+<p class="klein">Source : <a href="https://help.classpass.com/hc/en-us/articles/209629223">centre d'aide ClassPass</a> (janvier 2026) et la page d'inscription ClassPass pour Paris (octobre 2026). Les règles peuvent changer, vérifie toujours les informations à jour à l'inscription ou dans ton compte.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass expliqués</a>
