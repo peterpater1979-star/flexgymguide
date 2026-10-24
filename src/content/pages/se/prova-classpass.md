@@ -9,17 +9,17 @@ crumb: "Prova ClassPass"
 kicker: "Guide"
 ---
 
-Nya medlemmar kan prova ClassPass först. Du besöker då ett antal studior och gym, vart och ett en gång. Hur länge provperioden varar och exakt vad du får beror på land och erbjudande. Du ser det när du registrerar dig.
+Nya medlemmar kan prova ClassPass först. Du besöker då ett antal studior och gym, vart och ett en gång. I Sverige får du just nu 14 dagar gratis med 10 träningspass. I andra länder kan erbjudandet vara annorlunda; du ser det alltid när du registrerar dig.
 
 <h2 id="kort">I korthet</h2>
 
 | | |
 | --- | --- |
 | **För vem** | Bara nya medlemmar, en gång per person |
-| **Vad du får** | Ett fast antal pass eller krediter, en gång per studio |
-| **Hur länge** | Beror på erbjudandet; du ser det när du registrerar dig |
-| **Gratis?** | Ofta, men på vissa håll är det en rabatt på din första period |
-| **Efteråt** | Du går automatiskt över till det månadsabonnemang du såg när du registrerade dig |
+| **Vad du får** | I Sverige 10 träningspass, en gång per studio. Det du inte använder går ut vid slutet |
+| **Hur länge** | I Sverige 14 dagar |
+| **Gratis?** | I Sverige, ja. På vissa andra håll är det en rabatt på din första period |
+| **Efteråt** | Du går automatiskt över till ett månadsabonnemang, till exempel 34 krediter för 599 kr i månaden (kan variera mellan städer) |
 
 <h2 id="regler">Reglerna</h2>
 
@@ -36,7 +36,7 @@ Krediter du själv har köpt följer med till ditt abonnemang, upp till antalet 
 
 <h2 id="saga-upp">Säga upp under provperioden</h2>
 
-Säger du upp under provperioden gäller det direkt. Du förlorar dina provkrediter och alla bokade pass. Vill du använda hela provperioden? Säg då upp först på sista dagen. Så gör du: [Säga upp eller pausa ClassPass](/se/saga-upp-classpass/).
+Säger du upp under provperioden gäller det direkt. Du förlorar de provpass du har kvar och alla bokade pass. Vill du använda hela provperioden? Säg då upp först på sista dagen. Så gör du: [Säga upp eller pausa ClassPass](/se/saga-upp-classpass/).
 
 <h2 id="tips">Så får du ut mest av den</h2>
 
@@ -58,7 +58,7 @@ Säger du upp under provperioden gäller det direkt. Du förlorar dina provkredi
 <details open>
 <summary>Är provperioden verkligen gratis?</summary>
 
-Ofta, ja. På vissa håll är det en rabatt på din första period i stället för en gratis provperiod. Vad du får ser du när du registrerar dig.
+I Sverige, ja: 14 dagar med 10 träningspass, utan kostnad om du säger upp i tid. På vissa andra håll är det en rabatt på din första period i stället för en gratis provperiod. Vad du får ser du när du registrerar dig.
 
 </details>
 
@@ -76,7 +76,7 @@ Nej. ClassPass har ingen studentrabatt. Vissa arbetsgivare erbjuder dock ClassPa
 
 </details>
 
-<p class="klein">Källa: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass hjälpcenter</a> (januari 2026). Reglerna kan ändras, så kontrollera alltid den aktuella informationen när du registrerar dig eller i ditt konto.</p>
+<p class="klein">Källa: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass hjälpcenter</a> (januari 2026) och ClassPass registreringssida för Sverige (oktober 2026). Reglerna kan ändras, så kontrollera alltid den aktuella informationen när du registrerar dig eller i ditt konto.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/se/classpass-krediter/">ClassPass-krediter förklarade</a>
