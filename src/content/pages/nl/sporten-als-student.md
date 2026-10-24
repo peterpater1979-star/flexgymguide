@@ -28,6 +28,17 @@ Veel universiteiten en hogescholen hebben een eigen sportcentrum of sportprogram
 
 Een budgetsportschool is vaak goedkoop per maand en heeft veel vestigingen. Let wel op het contract: sommige hebben een minimale looptijd of een opzegtermijn. Train je drie keer per week of vaker op dezelfde plek, dan is een gewoon abonnement vaak voordelig. Lees ook [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
 
+<h2 id="studentenabonnement">Studentenabonnement bij een sportschool</h2>
+
+Sommige sportscholen hebben een studentenlidmaatschap met een vaste lage prijs. Je zit dan wel meestal een jaar vast. Zo zag dat er in oktober 2026 uit:
+
+| | Studentenprijs | Voorwaarden |
+| --- | --- | --- |
+| **SportCity** | € 29,99 per 4 weken | Contract van 1 jaar, geen inschrijfgeld, vanaf 16 jaar |
+| **Trainmore** | € 55 per 4 weken bij Rotterdam Coolsingel | Contract van 1 jaar, geen opstartkosten, geen korting per workout |
+
+De prijs kan per club verschillen. Vraag bij de club welk bewijs je nodig hebt dat je student bent. Wil je niet een jaar vastzitten, kijk dan naar [sporten zonder contract](/nl/sporten-zonder-contract-amsterdam/).
+
 <h2 id="classpass">ClassPass</h2>
 
 ClassPass heeft geen studentenkorting. Toch kan het passen als je afwisseling wilt: de ene week yoga, de andere week spinning of boksen. Zo houd je het betaalbaar:
