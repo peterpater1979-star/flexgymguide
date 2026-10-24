@@ -16,11 +16,11 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Hamburg kannst 
 | | Kündigen | Preis | Gut für |
 | --- | --- | --- | --- |
 | **ClassPass** | Jederzeit, ohne Kündigungsfrist | Standardabo 42 Credits für 59 € im Monat; kleinere in der App | Abwechslung in Studios in der ganzen Stadt |
-| **Fitness First** | Monatlich | [PREIS] bis 25,90 € pro Woche, je nach Club und Tarif, plus Startgebühr und Trainingspaket | Premium-Studio mit Kursen und Wellness |
+| **Fitness First** | Monatlich | 12,90 € bis 25,90 € pro Woche, je nach Club und Tarif, plus Startgebühr und Trainingspaket | Premium-Studio mit Kursen und Wellness |
 | **McFit Flex** | Monatlich | 49,90 € im Monat, im ersten Monat 88,90 € | Günstig und oft trainieren |
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
 
-<p class="klein">Preise von Oktober 2026. ClassPass: Standort Hamburg. Fitness First: Clubs [CLUB] (RED) und Alsterufer (BLACK). McFit: Preise auf mcfit.com. Prüfe den aktuellen Preis immer beim Anbieter.</p>
+<p class="klein">Preise von Oktober 2026. ClassPass: Standort Hamburg. Fitness First: Clubs Harburg Lüneburger Tor (RED) und Alsterufer (BLACK). McFit: Preise auf mcfit.com. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 <h2 id="classpass">ClassPass: jederzeit kündbar</h2>
 
@@ -38,17 +38,17 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Stud
 
 Fitness First hat 17 Clubs in Hamburg, mit Geräten, einem großen Kursprogramm und Wellnessbereich, in einigen Clubs auch mit Schwimmbad. Neben der Mitgliedschaft über 24 Monate gibt es eine über 12 Monate und eine ohne Mindestlaufzeit, die du monatlich kündigst. Fitness First rechnet pro Woche ab, und der Preis hängt vom Club ab: Es gibt RED- und BLACK-Clubs. In einem RED-Club wählst du zwischen BASIC und ALL-IN; ALL-IN enthält unter anderem Kurse, Getränke-Flat und Wellnessbereich. So sahen die Preise im Oktober 2026 aus, pro Woche:
 
-| Laufzeit | RED BASIC ([CLUB]) | RED ALL-IN ([CLUB]) | BLACK (Alsterufer) |
+| Laufzeit | RED BASIC (Harburg) | RED ALL-IN (Harburg) | BLACK (Alsterufer) |
 | --- | --- | --- | --- |
-| 1 Monat | [PREIS] | [PREIS] | 25,90 € |
-| 12 Monate | [PREIS] | [PREIS] | 19,90 € |
-| 24 Monate | [PREIS] | [PREIS] | 17,90 € |
+| 1 Monat | 12,90 € | 14,90 € | 25,90 € |
+| 12 Monate | 9,90 € | 11,90 € | 19,90 € |
+| 24 Monate | 7,90 € | 9,90 € | 17,90 € |
 
-Bei BLACK mit 24 Monaten waren die ersten 12 Wochen gratis. Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club Alsterufer 22,90 € pro Woche ohne Mindestlaufzeit, 16,90 € mit 12 Monaten und 14,90 € mit 24 Monaten. Im RED-Club [CLUB] waren es [PREIS] ohne Mindestlaufzeit.
+Bei ALL-IN und BLACK mit 24 Monaten waren die ersten 12 Wochen gratis. Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club Alsterufer 22,90 € pro Woche ohne Mindestlaufzeit, 16,90 € mit 12 Monaten und 14,90 € mit 24 Monaten. Im RED-Club Harburg waren es 12,90 € ohne Mindestlaufzeit, 9,90 € mit 12 Monaten und 7,90 € mit 24 Monaten.
 
 Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
-<p class="klein">Quelle: die Clubseiten Hamburg [CLUB] und Alsterufer und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club.</p>
+<p class="klein">Quelle: die Clubseiten Hamburg-Harburg Lüneburger Tor und Hamburg Alsterufer und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

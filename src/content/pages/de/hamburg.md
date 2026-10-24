@@ -9,7 +9,7 @@ crumb: "Hamburg"
 kicker: "Stadtguide Hamburg"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Hamburg trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Hamburg trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
