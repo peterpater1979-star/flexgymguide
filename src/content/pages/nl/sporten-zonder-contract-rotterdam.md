@@ -16,12 +16,12 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Rotterdam kun je o
 | | Opzeggen | Prijs | Goed voor |
 | --- | --- | --- | --- |
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement € 59 per maand (40 credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
-| **Trainmore Flex** | Maandelijks | Verschilt per club; Flex is duurder dan een jaarcontract | Vaak trainen op een vaste plek |
+| **Trainmore Flex** | Maandelijks | € 95 per 4 weken (Home+, Black Label) | Vaak trainen op een vaste plek |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Conradstraat (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
-<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Rotterdam. Basic-Fit: landelijke prijzen. SportCity: club Conradstraat. Trainmore: prijzen verschillen per club. Controleer de actuele prijs altijd bij de aanbieder.</p>
+<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Rotterdam. Basic-Fit: landelijke prijzen. SportCity: club Conradstraat. Trainmore: club Meent, Home+. Controleer de actuele prijs altijd bij de aanbieder.</p>
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
@@ -37,7 +37,15 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 <h2 id="trainmore">Trainmore Flex: maandelijks opzegbaar</h2>
 
-Trainmore heeft 7 clubs in Rotterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. De prijs hangt af van het label van de club: Black, Red of Regular. Ter vergelijking: bij een Black Label-club in Amsterdam kostte Flex in oktober 2026 € 104 per 4 weken, tegen € 84 bij een jaarcontract. Bekijk de prijs van een club in Rotterdam op de site van Trainmore. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
+Trainmore heeft 7 clubs in Rotterdam. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. De clubs in Rotterdam zijn Black Label of Red Label, en de prijs hangt af van het label. Zo zagen de prijzen er in oktober 2026 uit bij Trainmore Rotterdam Meent (Black Label), met Home+ (je eigen club plus alle Regular-clubs), per 4 weken:
+
+| Looptijd | Prijs | Actie |
+| --- | --- | --- |
+| Flex | € 95 | |
+| 1 jaar | € 75 | Eerste maanden € 37,50 |
+| 2 jaar | € 68 | Eerste maanden € 34 |
+
+Met City+ kun je in alle Black Label-clubs in Rotterdam trainen. Een Red Label-club is goedkoper. Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
