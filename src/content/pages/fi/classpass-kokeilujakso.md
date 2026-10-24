@@ -9,17 +9,17 @@ crumb: "ClassPassin kokeilujakso"
 kicker: "Opas"
 ---
 
-Uudet jäsenet voivat ensin kokeilla ClassPassia. Käyt silloin useissa studioissa ja kuntosaleilla, jokaisessa kerran. Helsingissä saat tällä hetkellä 14 päivää ilmaiseksi ja 10 treeniä. Muualla tarjous voi olla erilainen; näet sen aina rekisteröityessäsi.
+Uudet jäsenet voivat ensin kokeilla ClassPassia. Käyt silloin useissa studioissa ja kuntosaleilla, jokaisessa kerran. Suomessa saat tällä hetkellä 14 päivää ilmaiseksi ja 10 treeniä. Muissa maissa tarjous voi olla erilainen; näet sen aina rekisteröityessäsi.
 
 <h2 id="lyhyesti">Lyhyesti</h2>
 
 | | |
 | --- | --- |
 | **Kenelle** | Vain uusille jäsenille, kerran per henkilö |
-| **Mitä saat** | Helsingissä 10 treeniä, kerran per studio. Käyttämättömät vanhenevat lopussa |
-| **Kuinka kauan** | Helsingissä 14 päivää |
-| **Ilmainen?** | Helsingissä kyllä. Joillakin muilla alueilla se on alennus ensimmäisestä jaksosta |
-| **Sen jälkeen** | Siirryt automaattisesti kuukausijäsenyyteen, Helsingissä tällä hetkellä 35 krediittiä 59 eurolla kuukaudessa (voi vaihdella kaupungin mukaan) |
+| **Mitä saat** | Suomessa 10 treeniä, kerran per studio. Käyttämättömät vanhenevat lopussa |
+| **Kuinka kauan** | Suomessa 14 päivää |
+| **Ilmainen?** | Suomessa kyllä. Joillakin muilla alueilla se on alennus ensimmäisestä jaksosta |
+| **Sen jälkeen** | Siirryt automaattisesti kuukausijäsenyyteen, Suomessa tällä hetkellä 35 krediittiä 59 eurolla kuukaudessa |
 
 <h2 id="saannot">Säännöt</h2>
 
@@ -58,7 +58,7 @@ Jos irtisanot kokeilujakson aikana, se tulee voimaan heti. Menetät jäljellä o
 <details open>
 <summary>Onko kokeilujakso todella ilmainen?</summary>
 
-Helsingissä on: 14 päivää ja 10 treeniä, ilman kuluja, jos irtisanot ajoissa. Joillakin muilla alueilla se on alennus ensimmäisestä jaksosta ilmaisen kokeilun sijaan. Näet rekisteröityessäsi, mitä saat.
+Suomessa on: 14 päivää ja 10 treeniä, ilman kuluja, jos irtisanot ajoissa. Joillakin muilla alueilla se on alennus ensimmäisestä jaksosta ilmaisen kokeilun sijaan. Näet rekisteröityessäsi, mitä saat.
 
 </details>
 
@@ -76,7 +76,7 @@ Ei ole. ClassPassilla ei ole opiskelija-alennusta. Jotkin työnantajat tarjoavat
 
 </details>
 
-<p class="klein">Lähde: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPassin ohjekeskus</a> (tammikuu 2026) ja ClassPassin rekisteröitymissivu Helsingille (lokakuu 2026). Säännöt voivat muuttua, joten tarkista ajantasaiset tiedot aina rekisteröityessäsi tai tililtäsi.</p>
+<p class="klein">Lähde: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPassin ohjekeskus</a> (tammikuu 2026) ja ClassPassin rekisteröitymissivu Helsingille ja Tampereelle (lokakuu 2026). Säännöt voivat muuttua, joten tarkista ajantasaiset tiedot aina rekisteröityessäsi tai tililtäsi.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fi/classpass-krediitit/">ClassPass-krediitit selitettynä</a>

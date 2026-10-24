@@ -9,17 +9,17 @@ crumb: "Prueba de ClassPass"
 kicker: "Guía"
 ---
 
-Los nuevos miembros pueden probar ClassPass primero. Visitas varios estudios y gimnasios, cada uno una vez. En Madrid tienes ahora 14 días gratis con 10 entrenamientos. En otros sitios la oferta puede ser distinta; siempre la ves al registrarte.
+Los nuevos miembros pueden probar ClassPass primero. Visitas varios estudios y gimnasios, cada uno una vez. En España tienes ahora 14 días gratis con 10 entrenamientos. En otros países la oferta puede ser distinta; siempre la ves al registrarte.
 
 <h2 id="resumen">En resumen</h2>
 
 | | |
 | --- | --- |
 | **Para quién** | Solo nuevos miembros, una vez por persona |
-| **Qué recibes** | En Madrid, 10 entrenamientos, una vez por estudio. Lo que no uses caduca al final |
-| **Cuánto dura** | En Madrid, 14 días |
-| **¿Gratis?** | En Madrid, sí. En algunas otras zonas es un descuento en tu primer periodo |
-| **Después** | Pasas automáticamente a un plan mensual, en Madrid ahora 37 créditos por 59 € al mes (puede variar según la ciudad) |
+| **Qué recibes** | En España, 10 entrenamientos, una vez por estudio. Lo que no uses caduca al final |
+| **Cuánto dura** | En España, 14 días |
+| **¿Gratis?** | En España, sí. En algunas otras zonas es un descuento en tu primer periodo |
+| **Después** | Pasas automáticamente a un plan mensual que varía según la ciudad: en Madrid ahora 37 créditos por 59 € al mes, en Valencia 30 créditos por 49 € |
 
 <h2 id="reglas">Las reglas</h2>
 
@@ -58,7 +58,7 @@ Si cancelas durante la prueba, la cancelación es inmediata. Pierdes los entrena
 <details open>
 <summary>¿La prueba es gratis de verdad?</summary>
 
-En Madrid, sí: 14 días con 10 entrenamientos, sin coste si cancelas a tiempo. En algunas otras zonas es un descuento en tu primer periodo en vez de una prueba gratuita. Ves lo que recibes al registrarte.
+En España, sí: 14 días con 10 entrenamientos, sin coste si cancelas a tiempo. En algunas otras zonas es un descuento en tu primer periodo en vez de una prueba gratuita. Ves lo que recibes al registrarte.
 
 </details>
 
@@ -76,7 +76,7 @@ No. ClassPass no tiene descuento para estudiantes. Algunas empresas sí ofrecen 
 
 </details>
 
-<p class="klein">Fuente: <a href="https://help.classpass.com/hc/en-us/articles/209629223">centro de ayuda de ClassPass</a> (enero de 2026) y la página de registro de ClassPass para Madrid (octubre de 2026). Las reglas pueden cambiar, así que consulta siempre la información actual al registrarte o en tu cuenta.</p>
+<p class="klein">Fuente: <a href="https://help.classpass.com/hc/en-us/articles/209629223">centro de ayuda de ClassPass</a> (enero de 2026) y la página de registro de ClassPass para Madrid y Valencia (octubre de 2026). Las reglas pueden cambiar, así que consulta siempre la información actual al registrarte o en tu cuenta.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/creditos-classpass/">Los créditos de ClassPass</a>
