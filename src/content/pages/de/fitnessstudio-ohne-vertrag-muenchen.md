@@ -106,4 +106,5 @@ Ja. Viele trainieren im Gym ihres Studios und machen ab und zu über ClassPass e
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/muenchen/">Flexibel trainieren in München</a>
 <a class="knop knop-rand" href="/de/sportpass-oder-mitgliedschaft/">Sportpass oder Mitgliedschaft?</a>
+<a class="knop knop-rand" href="/de/gyms-without-contract-munich/">In English</a>
 </div>
