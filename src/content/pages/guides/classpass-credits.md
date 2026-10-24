@@ -58,9 +58,9 @@ So it's worth looking at a few options before you book.
 2. **Look at similar classes.** Search by activity, such as yoga or spinning, and look at the credits per class across a few studios near you.
 3. **Mix in gym visits.** A gym visit between classes is often a cheaper way to keep training.
 4. **Cancel on time.** Late cancellations and no-shows can cost you credits or a fee. Check the cancellation window before you book.
-5. **Use your rollover.** Had a quiet month? Your unused credits move to the next month, within the limit of your plan. Not getting round to working out? You can also spend credits on a massage, a haircut or the spa.
+5. **Use your rollover.** Had a quiet month? Your unused credits move to the next month, within the limit of your plan. Not getting round to working out? You can also spend credits on a massage, a haircut or the spa. In some cities you can also use them for food and drinks.
 6. **Pick a plan that fits.** If you often run out of credits, a bigger plan can be better value. If you always have credits left, a smaller plan saves money.
-7. **Check before you travel.** Credit values abroad can be different from home, so look at a few classes before you plan your week.
+7. **Check before you travel.** Credit values abroad can be different from home, so look at a few classes before you plan your week. Read [ClassPass while travelling](/guides/classpass-while-travelling/).
 
 <h2 id="plan">How many credits do you need?</h2>
 
@@ -94,4 +94,5 @@ A late cancellation or a no-show can cost you the credits or a fee. The rules ca
 <div class="knoppen">
 <a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works</a>
 <a class="knop knop-rand" href="/guides/cancel-or-pause-classpass/">Cancel or pause ClassPass</a>
+<a class="knop knop-rand" href="/guides/classpass-while-travelling/">ClassPass while travelling</a>
 </div>

@@ -58,9 +58,9 @@ Por isso vale a pena ver várias opções antes de reservar.
 2. **Vê aulas parecidas.** Pesquisa por atividade, como ioga ou spinning, e repara nos créditos por aula em alguns estúdios perto de ti.
 3. **Junta sessões de ginásio.** Uma sessão de ginásio entre aulas é muitas vezes uma forma mais barata de continuar a treinar.
 4. **Cancela a tempo.** Cancelar tarde ou faltar pode custar-te créditos ou uma taxa. Confirma o prazo de cancelamento antes de reservar.
-5. **Aproveita os créditos que passam.** Um mês mais calmo? Os créditos que não usaste passam para o mês seguinte, dentro do limite do teu plano. Não tens tempo para treinar? Também podes usar os créditos numa massagem, no cabeleireiro ou num spa.
+5. **Aproveita os créditos que passam.** Um mês mais calmo? Os créditos que não usaste passam para o mês seguinte, dentro do limite do teu plano. Não tens tempo para treinar? Também podes usar os créditos numa massagem, no cabeleireiro ou num spa. Em algumas cidades também os podes usar para comida e bebida.
 6. **Escolhe o plano certo.** Se ficas muitas vezes sem créditos, um plano maior pode compensar. Se te sobram sempre, um mais pequeno poupa-te dinheiro.
-7. **Confirma antes de viajar.** O valor dos créditos no estrangeiro pode ser diferente do de casa.
+7. **Confirma antes de viajar.** O valor dos créditos no estrangeiro pode ser diferente do de casa. Lê [ClassPass em viagem](/pt/classpass-em-viagem/).
 
 <h2 id="quantos">De quantos créditos precisas?</h2>
 
@@ -94,4 +94,5 @@ Cancelar tarde ou faltar pode custar-te os créditos ou uma taxa. As regras vari
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/classpass/">Tudo sobre o ClassPass</a>
 <a class="knop knop-rand" href="/pt/cancelar-classpass/">Cancelar ou pausar o ClassPass</a>
+<a class="knop knop-rand" href="/pt/classpass-em-viagem/">ClassPass em viagem</a>
 </div>

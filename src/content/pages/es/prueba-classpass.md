@@ -89,4 +89,5 @@ No. ClassPass no tiene descuento para estudiantes. Algunas empresas sí ofrecen 
 <a class="knop knop-rand" href="/es/creditos-classpass/">Los créditos de ClassPass</a>
 <a class="knop knop-rand" href="/es/cancelar-classpass/">Cancelar o pausar ClassPass</a>
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-rand" href="/es/classpass-de-viaje/">ClassPass de viaje</a>
 </div>

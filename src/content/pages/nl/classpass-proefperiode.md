@@ -89,4 +89,5 @@ Nee. ClassPass heeft geen korting voor studenten. Wel bieden sommige werkgevers 
 <a class="knop knop-rand" href="/nl/classpass-credits/">ClassPass-credits uitgelegd</a>
 <a class="knop knop-rand" href="/nl/classpass-opzeggen/">ClassPass opzeggen of pauzeren</a>
 <a class="knop knop-rand" href="/nl/classpass/">Alles over ClassPass</a>
+<a class="knop knop-rand" href="/nl/classpass-op-reis/">ClassPass op reis</a>
 </div>

@@ -89,4 +89,5 @@ Nein. ClassPass hat keinen Studentenrabatt. Manche Arbeitgeber bieten ClassPass 
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
 <a class="knop knop-rand" href="/de/classpass-kuendigen/">ClassPass kündigen oder pausieren</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
+<a class="knop knop-rand" href="/de/classpass-auf-reisen/">ClassPass auf Reisen</a>
 </div>

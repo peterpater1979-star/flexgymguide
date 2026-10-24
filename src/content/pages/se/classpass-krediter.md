@@ -58,9 +58,9 @@ Det lönar sig alltså att titta på några alternativ innan du bokar.
 2. **Titta på liknande klasser.** Sök på aktivitet, som yoga eller spinning, och kolla krediterna per klass på några studior nära dig.
 3. **Blanda in gympass.** Ett gympass mellan klasserna är ofta ett billigare sätt att fortsätta träna.
 4. **Avboka i tid.** Sen avbokning eller utebliven närvaro kan kosta dig krediter eller en avgift. Kolla avbokningstiden innan du bokar.
-5. **Använd överföringen.** En lugn månad? Dina oanvända krediter förs över till nästa månad inom ditt abonnemangs gräns. Hinner du inte träna? Du kan också använda krediter till massage, frisör eller spa.
+5. **Använd överföringen.** En lugn månad? Dina oanvända krediter förs över till nästa månad inom ditt abonnemangs gräns. Hinner du inte träna? Du kan också använda krediter till massage, frisör eller spa. I vissa städer kan du också använda dem till mat och dryck.
 6. **Välj ett abonnemang som passar.** Tar krediterna ofta slut kan ett större abonnemang löna sig. Har du alltid krediter kvar sparar ett mindre pengar.
-7. **Kolla innan du reser.** Värdet på krediter utomlands kan vara annorlunda än hemma.
+7. **Kolla innan du reser.** Värdet på krediter utomlands kan vara annorlunda än hemma. Läs [ClassPass på resa](/se/classpass-pa-resa/).
 
 <h2 id="hur-manga">Hur många krediter behöver du?</h2>
 
@@ -94,4 +94,5 @@ En sen avbokning eller utebliven närvaro kan kosta dig krediterna eller en avgi
 <div class="knoppen">
 <a class="knop knop-rand" href="/se/classpass/">Allt om ClassPass</a>
 <a class="knop knop-rand" href="/se/saga-upp-classpass/">Säga upp eller pausa</a>
+<a class="knop knop-rand" href="/se/classpass-pa-resa/">ClassPass på resa</a>
 </div>

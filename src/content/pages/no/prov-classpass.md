@@ -89,4 +89,5 @@ Nei. ClassPass har ingen studentrabatt. Noen arbeidsgivere tilbyr likevel ClassP
 <a class="knop knop-rand" href="/no/classpass-kreditter/">ClassPass-kreditter forklart</a>
 <a class="knop knop-rand" href="/no/si-opp-classpass/">Si opp eller ta pause</a>
 <a class="knop knop-rand" href="/no/classpass/">Alt om ClassPass</a>
+<a class="knop knop-rand" href="/no/classpass-pa-reise/">ClassPass på reise</a>
 </div>

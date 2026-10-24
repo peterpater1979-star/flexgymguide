@@ -89,4 +89,5 @@ Ei ole. ClassPassilla ei ole opiskelija-alennusta. Jotkin työnantajat tarjoavat
 <a class="knop knop-rand" href="/fi/classpass-krediitit/">ClassPass-krediitit selitettynä</a>
 <a class="knop knop-rand" href="/fi/classpass-irtisanominen/">Irtisanominen tai tauko</a>
 <a class="knop knop-rand" href="/fi/classpass/">Kaikki ClassPassista</a>
+<a class="knop knop-rand" href="/fi/classpass-matkoilla/">ClassPass matkoilla</a>
 </div>

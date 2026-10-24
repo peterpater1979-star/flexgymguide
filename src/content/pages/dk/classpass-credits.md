@@ -58,9 +58,9 @@ Det betaler sig altså at se på et par muligheder, før du booker.
 2. **Kig på lignende hold.** Søg på aktivitet, fx yoga eller spinning, og se på credits pr. hold i et par studier tæt på dig.
 3. **Bland fitnessbesøg ind.** Et fitnessbesøg mellem holdene er ofte en billigere måde at holde gang i træningen.
 4. **Meld afbud i tide.** Sent afbud eller udeblivelse kan koste dig credits eller et gebyr. Tjek afbudsfristen, før du booker.
-5. **Brug din overførsel.** En rolig måned? Dine ubrugte credits overføres til næste måned inden for dit abonnements grænse. Når du ikke at træne? Du kan også bruge credits på massage, frisør eller spa.
+5. **Brug din overførsel.** En rolig måned? Dine ubrugte credits overføres til næste måned inden for dit abonnements grænse. Når du ikke at træne? Du kan også bruge credits på massage, frisør eller spa. I nogle byer kan du også bruge dem på mad og drikke.
 6. **Vælg et abonnement, der passer.** Løber du tit tør for credits, kan et større abonnement betale sig. Har du altid credits tilbage, sparer et mindre penge.
-7. **Tjek før du rejser.** Værdien af credits i udlandet kan være anderledes end hjemme.
+7. **Tjek før du rejser.** Værdien af credits i udlandet kan være anderledes end hjemme. Læs [ClassPass på rejsen](/dk/classpass-paa-rejse/).
 
 <h2 id="hvor-mange">Hvor mange credits har du brug for?</h2>
 
@@ -94,4 +94,5 @@ Sent afbud eller udeblivelse kan koste dig de credits eller et gebyr. Reglerne e
 <div class="knoppen">
 <a class="knop knop-rand" href="/dk/classpass/">Alt om ClassPass</a>
 <a class="knop knop-rand" href="/dk/opsig-classpass/">Opsig eller sæt på pause</a>
+<a class="knop knop-rand" href="/dk/classpass-paa-rejse/">ClassPass på rejsen</a>
 </div>

@@ -89,4 +89,5 @@ Nej. ClassPass har ingen studierabat. Nogle arbejdsgivere tilbyder dog ClassPass
 <a class="knop knop-rand" href="/dk/classpass-credits/">ClassPass-credits forklaret</a>
 <a class="knop knop-rand" href="/dk/opsig-classpass/">Opsig eller sæt på pause</a>
 <a class="knop knop-rand" href="/dk/classpass/">Alt om ClassPass</a>
+<a class="knop knop-rand" href="/dk/classpass-paa-rejse/">ClassPass på rejsen</a>
 </div>

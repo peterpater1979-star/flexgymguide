@@ -58,9 +58,9 @@ Kannattaa siis katsoa muutamaa vaihtoehtoa ennen varaamista.
 2. **Katso samankaltaisia tunteja.** Hae lajin mukaan, esimerkiksi jooga tai spinning, ja katso krediitit tuntia kohden muutamassa lähistön studiossa.
 3. **Lisää mukaan salikäyntejä.** Salikäynti tuntien välissä on usein edullisempi tapa pitää treeni käynnissä.
 4. **Peru ajoissa.** Myöhäinen peruutus tai saapumatta jättäminen voi maksaa krediittejä tai maksun. Tarkista peruutusaika ennen varausta.
-5. **Hyödynnä siirtyvät krediitit.** Hiljainen kuukausi? Käyttämättömät krediitit siirtyvät seuraavaan kuukauteen tilauksesi rajoissa. Etkö ehdi treenata? Voit käyttää krediittejä myös hierontaan, kampaajalle tai kylpylään.
+5. **Hyödynnä siirtyvät krediitit.** Hiljainen kuukausi? Käyttämättömät krediitit siirtyvät seuraavaan kuukauteen tilauksesi rajoissa. Etkö ehdi treenata? Voit käyttää krediittejä myös hierontaan, kampaajalle tai kylpylään. Joissakin kaupungeissa voit käyttää niitä myös ruokaan ja juomaan.
 6. **Valitse sopiva tilaus.** Jos krediitit loppuvat usein kesken, isompi tilaus voi kannattaa. Jos niitä jää aina yli, pienempi säästää rahaa.
-7. **Tarkista ennen matkaa.** Krediittien arvo ulkomailla voi olla eri kuin kotona.
+7. **Tarkista ennen matkaa.** Krediittien arvo ulkomailla voi olla eri kuin kotona. Lue [ClassPass matkoilla](/fi/classpass-matkoilla/).
 
 <h2 id="kuinka-monta">Montako krediittiä tarvitset?</h2>
 
@@ -94,4 +94,5 @@ Myöhäinen peruutus tai saapumatta jättäminen voi maksaa krediitit tai maksun
 <div class="knoppen">
 <a class="knop knop-rand" href="/fi/classpass/">Kaikki ClassPassista</a>
 <a class="knop knop-rand" href="/fi/classpass-irtisanominen/">Irtisanominen tai tauko</a>
+<a class="knop knop-rand" href="/fi/classpass-matkoilla/">ClassPass matkoilla</a>
 </div>

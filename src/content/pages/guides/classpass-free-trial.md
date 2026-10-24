@@ -89,4 +89,5 @@ No. ClassPass has no student discount. Some employers do offer ClassPass through
 <a class="knop knop-rand" href="/guides/classpass-credits/">ClassPass credits explained</a>
 <a class="knop knop-rand" href="/guides/cancel-or-pause-classpass/">Cancel or pause ClassPass</a>
 <a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works</a>
+<a class="knop knop-rand" href="/guides/classpass-while-travelling/">ClassPass while travelling</a>
 </div>

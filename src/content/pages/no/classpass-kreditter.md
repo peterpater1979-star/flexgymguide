@@ -58,9 +58,9 @@ Det lønner seg altså å se på noen alternativer før du booker.
 2. **Se på lignende timer.** Søk på aktivitet, som yoga eller spinning, og se på kredittene per time på noen studioer i nærheten.
 3. **Bland inn treningsbesøk.** Et treningsbesøk mellom timene er ofte en billigere måte å holde treningen i gang på.
 4. **Avbestill i tide.** Sen avbestilling eller å ikke møte opp kan koste deg kreditter eller et gebyr. Sjekk avbestillingsfristen før du booker.
-5. **Bruk overføringen.** En rolig måned? Ubrukte kreditter overføres til neste måned innenfor abonnementets grense. Rekker du ikke å trene? Du kan også bruke kreditter på massasje, frisør eller spa.
+5. **Bruk overføringen.** En rolig måned? Ubrukte kreditter overføres til neste måned innenfor abonnementets grense. Rekker du ikke å trene? Du kan også bruke kreditter på massasje, frisør eller spa. I noen byer kan du også bruke dem på mat og drikke.
 6. **Velg et abonnement som passer.** Går du ofte tom for kreditter, kan et større abonnement lønne seg. Har du alltid kreditter igjen, sparer et mindre penger.
-7. **Sjekk før du reiser.** Verdien av kreditter i utlandet kan være annerledes enn hjemme.
+7. **Sjekk før du reiser.** Verdien av kreditter i utlandet kan være annerledes enn hjemme. Les [ClassPass på reise](/no/classpass-pa-reise/).
 
 <h2 id="hvor-mange">Hvor mange kreditter trenger du?</h2>
 
@@ -94,4 +94,5 @@ Sen avbestilling eller å ikke møte opp kan koste deg kredittene eller et gebyr
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/classpass/">Alt om ClassPass</a>
 <a class="knop knop-rand" href="/no/si-opp-classpass/">Si opp eller ta pause</a>
+<a class="knop knop-rand" href="/no/classpass-pa-reise/">ClassPass på reise</a>
 </div>

@@ -89,4 +89,5 @@ Nej. ClassPass har ingen studentrabatt. Vissa arbetsgivare erbjuder dock ClassPa
 <a class="knop knop-rand" href="/se/classpass-krediter/">ClassPass-krediter förklarade</a>
 <a class="knop knop-rand" href="/se/saga-upp-classpass/">Säga upp eller pausa</a>
 <a class="knop knop-rand" href="/se/classpass/">Allt om ClassPass</a>
+<a class="knop knop-rand" href="/se/classpass-pa-resa/">ClassPass på resa</a>
 </div>
