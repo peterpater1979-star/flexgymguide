@@ -16,12 +16,12 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Den Haag kun je oo
 | | Opzeggen | Prijs | Goed voor |
 | --- | --- | --- | --- |
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement [PRIJS] per maand ([AANTAL] credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
-| **Trainmore Flex** | Maandelijks | € 79 tot € 106 per 4 weken bij Dagelijkse Groenmarkt | Premium sportschool met groepslessen, voor wie vaak traint |
+| **Trainmore Flex** | Maandelijks | € 79 tot € 106 per 4 weken, afhankelijk van de club | Premium sportschool met groepslessen, voor wie vaak traint |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | [PRIJS] per 4 weken bij [CLUB] (City One), plus inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
-<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Den Haag. Basic-Fit: landelijke prijzen. SportCity: club [CLUB]. Trainmore: club Dagelijkse Groenmarkt. Controleer de actuele prijs altijd bij de aanbieder.</p>
+<p class="klein">Prijzen van oktober 2026. ClassPass: locatie Den Haag. Basic-Fit: landelijke prijzen. SportCity: club [CLUB]. Trainmore: clubs Dagelijkse Groenmarkt en Laan van NOI. Controleer de actuele prijs altijd bij de aanbieder.</p>
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
@@ -37,17 +37,17 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 <h2 id="trainmore">Trainmore Flex: maandelijks opzegbaar</h2>
 
-Trainmore is een premium sportschoolketen met groepslessen en clubs in het centrum van de stad. In Den Haag zijn er onder meer clubs aan de Dagelijkse Groenmarkt (Regular), de Laan van NOI en De Savornin Lohmanplein (allebei Black Label). Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. Zo zagen de prijzen er in oktober 2026 uit bij Trainmore Den Haag Dagelijkse Groenmarkt, per 4 weken:
+Trainmore is een premium sportschoolketen met groepslessen en clubs in het centrum van de stad. In Den Haag zijn er onder meer clubs aan de Dagelijkse Groenmarkt (Regular), de Laan van NOI en De Savornin Lohmanplein (allebei Black Label). Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. De prijs hangt af van het label van je club. Zo zagen de prijzen er in oktober 2026 uit, per 4 weken:
 
-| Looptijd | Home (alleen deze club) | City+ |
-| --- | --- | --- |
-| Flex | € 79 | € 106 |
-| 1 jaar | € 59 | € 86 |
-| 2 jaar | € 52 | € 79 |
+| Looptijd | Regular: Dagelijkse Groenmarkt (Home) | Black Label: Laan van NOI (Home+) | City+ |
+| --- | --- | --- | --- |
+| Flex | € 79 | € 96 | € 106 |
+| 1 jaar | € 59 | € 76 | € 86 |
+| 2 jaar | € 52 | € 69 | € 79 |
 
-Met City+ train je ook in alle Black Label-clubs in Den Haag en in alle Regular-clubs. Bij een contract van 1 of 2 jaar krijg je in de eerste maanden 50% korting: bij deze club 5 maanden bij 1 jaar en 7 maanden bij 2 jaar. De Black Label-clubs zijn duurder: bij Laan van NOI begon de prijs bij € 76 per 4 weken, bij Savornin bij € 79.
+Bij een Regular-club train je alleen in je eigen club. Met Home+ bij een Black Label-club train je ook in alle Regular-clubs, en met City+ ook in alle Black Label-clubs in Den Haag. City+ kostte bij beide clubs hetzelfde. Bij een contract van 1 of 2 jaar krijg je in de eerste maanden 50% korting; hoeveel maanden verschilt per club en lidmaatschap. Bij Dagelijkse Groenmarkt (Home) waren dat er 5 bij 1 jaar en 7 bij 2 jaar, bij Laan van NOI (Home+) 4 en 6. Savornin is ook Black Label en begon bij € 79 per 4 weken.
 
-**Student?** Bij Dagelijkse Groenmarkt kost een studentenlidmaatschap € 45 per 4 weken, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
+**Student?** Een studentenlidmaatschap kost € 45 per 4 weken bij Dagelijkse Groenmarkt en € 62 bij Laan van NOI, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
 
 Je krijgt € 1 korting per workout, maximaal één per dag. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
