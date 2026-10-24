@@ -93,4 +93,5 @@ Myöhäinen peruutus tai saapumatta jättäminen voi maksaa krediitit tai maksun
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fi/classpass/">Kaikki ClassPassista</a>
+<a class="knop knop-rand" href="/fi/classpass-irtisanominen/">Irtisanominen tai tauko</a>
 </div>

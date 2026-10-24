@@ -93,4 +93,5 @@ Sen avbestilling eller å ikke møte opp kan koste deg kredittene eller et gebyr
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/classpass/">Alt om ClassPass</a>
+<a class="knop knop-rand" href="/no/si-opp-classpass/">Si opp eller ta pause</a>
 </div>

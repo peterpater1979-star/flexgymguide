@@ -93,4 +93,5 @@ Cancelar tarde o no presentarte puede costarte los créditos o una penalización
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-rand" href="/es/cancelar-classpass/">Cancelar o pausar ClassPass</a>
 </div>

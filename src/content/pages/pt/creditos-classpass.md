@@ -93,4 +93,5 @@ Cancelar tarde ou faltar pode custar-te os créditos ou uma taxa. As regras vari
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/classpass/">Tudo sobre o ClassPass</a>
+<a class="knop knop-rand" href="/pt/cancelar-classpass/">Cancelar ou pausar o ClassPass</a>
 </div>

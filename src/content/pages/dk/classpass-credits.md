@@ -93,4 +93,5 @@ Sent afbud eller udeblivelse kan koste dig de credits eller et gebyr. Reglerne e
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/dk/classpass/">Alt om ClassPass</a>
+<a class="knop knop-rand" href="/dk/opsig-classpass/">Opsig eller sæt på pause</a>
 </div>

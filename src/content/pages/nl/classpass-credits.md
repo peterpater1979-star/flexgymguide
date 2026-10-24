@@ -93,4 +93,5 @@ Te laat afzeggen of niet komen kan je de credits of een boete kosten. De regels 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/classpass/">Alles over ClassPass</a>
+<a class="knop knop-rand" href="/nl/classpass-opzeggen/">ClassPass opzeggen of pauzeren</a>
 </div>

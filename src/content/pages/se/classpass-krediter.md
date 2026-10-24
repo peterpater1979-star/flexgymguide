@@ -93,4 +93,5 @@ En sen avbokning eller utebliven närvaro kan kosta dig krediterna eller en avgi
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/se/classpass/">Allt om ClassPass</a>
+<a class="knop knop-rand" href="/se/saga-upp-classpass/">Säga upp eller pausa</a>
 </div>

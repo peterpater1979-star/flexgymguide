@@ -93,4 +93,5 @@ A late cancellation or a no-show can cost you the credits or a fee. The rules ca
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works</a>
+<a class="knop knop-rand" href="/guides/cancel-or-pause-classpass/">Cancel or pause ClassPass</a>
 </div>

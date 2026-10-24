@@ -93,4 +93,5 @@ Une annulation tardive ou une absence peut te coûter les crédits ou des frais.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
+<a class="knop knop-rand" href="/fr/resilier-classpass/">Résilier ou suspendre ClassPass</a>
 </div>

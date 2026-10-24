@@ -168,7 +168,7 @@ Yes. Besides classes such as yoga and Pilates, you can book gym visits at partic
 
 ## Plans and cancelling
 
-You're never locked in: you can change or cancel your plan at any time. Prices and credit amounts differ per country, so check the details for where you live.
+You're never locked in: you can change or cancel your plan at any time ([how to cancel or pause](/guides/cancel-or-pause-classpass/)). Prices and credit amounts differ per country, so check the details for where you live.
 
 - **[ClassPass in the UK](/uk/classpass/)** · Prices in £, English
 - **[ClassPass in Ireland](/ie/classpass/)** · Prices in €, English

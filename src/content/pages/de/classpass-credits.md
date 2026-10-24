@@ -93,4 +93,5 @@ Eine späte Absage oder Nichterscheinen kann dich die Credits oder eine Gebühr 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
+<a class="knop knop-rand" href="/de/classpass-kuendigen/">ClassPass kündigen oder pausieren</a>
 </div>
