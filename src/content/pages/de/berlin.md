@@ -9,7 +9,7 @@ crumb: "Berlin"
 kicker: "Stadtguide Berlin"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in Studios in der ganzen Stadt oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in Studios in der ganzen Stadt oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Berlin](/de/fitnessstudio-ohne-vertrag-berlin/).
 
 <h2 id="blick">Auf einen Blick</h2>
 

@@ -123,7 +123,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 2 in Groningen. Met een lidmaatsc
 
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 2 in Groningen
-- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt
+- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt. Drie keer per week scheelt zo'n €12 per 4 weken
 - Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
 - Een gratis proefles om eerst te testen
 
@@ -154,6 +154,12 @@ Trainmore heeft 53 clubs in Nederland, waarvan 2 in Groningen. Met een lidmaatsc
 </div>
 
 </div>
+
+<h2 id="sportcity">Ook in Groningen: SportCity</h2>
+
+SportCity heeft onder meer een club aan de Atoomweg. Je kiest tussen City One (één club) en City Plus (meerdere clubs, en vijf keer per maand iemand meenemen), met Flex, 3 maanden, 1 jaar of 2 jaar en alle live groepslessen inbegrepen. Bij SportCity Groningen Atoomweg begon City One in oktober 2026 bij € 29,99 en City Plus bij € 30,99 per 4 weken. Dat is de prijs bij een contract van 2 jaar; Flex is duurder. Wat Flex bij deze club kost, zie je als je lid wordt. Eerst proberen kan met een dagpas.
+
+<p class="klein">Bron: de clubpagina van <a href="https://www.sportcity.nl/clubs">SportCity Groningen Atoomweg</a> (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
 
 ## Welke past bij jou?
 

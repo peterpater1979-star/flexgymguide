@@ -108,6 +108,12 @@ Je kunt je abonnement op elk moment aanpassen, pauzeren of opzeggen.
 
 [Lees de volledige uitleg (EN)](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Gidsen</h2>
+
+- **[Sportpas of abonnement?](/nl/sportpas-of-abonnement/)** · wat past bij hoe jij traint
+- **[ClassPass-credits uitgelegd](/nl/classpass-credits/)** · meer lessen uit je abonnement
+- **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
+
 ## Veelgestelde vragen
 
 <details open>
@@ -120,7 +126,7 @@ Dat hangt af van het aantal credits per maand. Het kleinste abonnement kost €1
 <details>
 <summary>Is ClassPass goedkoper dan een sportschool?</summary>
 
-Train je drie keer per week of vaker in de gym, dan is een vaste sportschool meestal voordeliger. Wil je afwisselen tussen studio's, dan past een sportpas beter.
+Train je drie keer per week of vaker in de gym, dan is een vaste sportschool meestal voordeliger. Wil je afwisselen tussen studio's, dan past een sportpas beter. Meer hierover in [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
 
 </details>
 

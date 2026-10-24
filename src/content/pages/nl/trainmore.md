@@ -47,7 +47,7 @@ Een voorbeeld: bij Trainmore Koningin Wilhelminaplein in Amsterdam, een Black La
 
 <h2 id="korting">Korting per workout</h2>
 
-Voor elke workout krijg je €1 korting, met een maximum van 1 per dag. Train je bij de club hierboven 3 keer per week met een jaarcontract, dan betaal je €72 in plaats van €84 per 4 weken. Wie vaak traint, is dus goedkoper uit.
+Voor elke workout krijg je €1 korting, met een maximum van 1 per dag en €28 per 4 weken. Je checkt in met de persoonlijke QR-code in de Trainmore-app. Elke keer telt apart: 16 workouts in 4 weken is €16 korting, hoe je ze ook verdeelt. Train je bij de club hierboven 3 keer per week met een jaarcontract, dan betaal je €72 in plaats van €84 per 4 weken. Dat werkt bij elke club en elk contract, ook bij Flex: drie keer per week trainen scheelt zo'n €12 per 4 weken. Wie vaak traint, is dus goedkoper uit. Bij een studentenlidmaatschap geldt deze korting niet. Zie ook de [uitleg van Trainmore](https://trainmore.com/nl-NL/1-euro-korting/).
 
 <h2 id="extras">Gratis extra's bij Red en Black Label</h2>
 
@@ -185,7 +185,7 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 <details>
 <summary>Kan ik in elke Trainmore-club trainen?</summary>
 
-Dat hangt af van het label van je club. Met een Black Label-lidmaatschap mag je bijvoorbeeld ook in alle Regular-clubs trainen. Vraag het na bij je club.
+Dat hangt af van je lidmaatschap. Met Home+ train je ook in de clubs die hetzelfde of minder kosten dan jouw club, dus met een Black Label-lidmaatschap bijvoorbeeld ook in alle Regular-clubs. Met City+ train je in alle clubs in je stad. Vraag het na bij je club.
 
 </details>
 

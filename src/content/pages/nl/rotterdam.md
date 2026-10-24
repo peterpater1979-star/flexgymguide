@@ -9,7 +9,7 @@ crumb: "Rotterdam"
 kicker: "Stadsgids Rotterdam"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Rotterdam kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
+Geen zin in een jaarcontract bij één sportschool? In Rotterdam kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Rotterdam](/nl/sporten-zonder-contract-rotterdam/).
 
 <h2 id="kort">In het kort</h2>
 
@@ -123,7 +123,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 7 in Rotterdam. De nieuwste is Tr
 
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 7 in Rotterdam
-- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt
+- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt. Drie keer per week scheelt zo'n €12 per 4 weken
 - Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
 - Een gratis proefles om eerst te testen
 

@@ -9,7 +9,7 @@ crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij studio's en gyms in de hele stad terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
+Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een sportpas bij studio's en gyms in de hele stad terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Amsterdam](/nl/sporten-zonder-contract-amsterdam/) (in English: [Gyms without a contract](/nl/gyms-without-contract-amsterdam/)).
 
 <h2 id="kort">In het kort</h2>
 
@@ -123,7 +123,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. De nieuwste is T
 
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 31 in Amsterdam
-- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt
+- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt. Drie keer per week scheelt zo'n €12 per 4 weken
 - Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
 - Een gratis proefles om eerst te testen
 
