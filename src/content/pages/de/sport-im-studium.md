@@ -28,6 +28,10 @@ Viele Universitäten und Hochschulen haben ein eigenes Sportangebot. Als Studier
 
 Ein Discount-Fitnessstudio ist oft günstig pro Monat und hat viele Standorte. Achte aber auf den Vertrag: Manche haben eine Mindestlaufzeit oder eine Kündigungsfrist. Trainierst du dreimal pro Woche oder öfter am selben Ort, ist eine normale Mitgliedschaft oft günstiger. Lies auch [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
+<h2 id="studententarif">Studententarif im Fitnessstudio</h2>
+
+Manche Fitnessstudios haben einen günstigeren Tarif für Studierende, Schüler und Azubis. Bei Fitness First zahlst du zum Beispiel im Club Berlin Gendarmenmarkt (BLACK) 23,90 € pro Woche ohne Mindestlaufzeit, 17,90 € bei 12 Monaten und 15,90 € bei 24 Monaten, statt 26,90 €, 20,90 € und 18,90 € (Oktober 2026). Der Rabatt gilt bis einschließlich 25 Jahre, und während eines Auslandssemesters kannst du flexibel pausieren. Die Preise unterscheiden sich je nach Club. Willst du dich nicht lange binden? Lies [Fitnessstudio ohne Vertrag in Berlin](/de/fitnessstudio-ohne-vertrag-berlin/).
+
 <h2 id="classpass">ClassPass</h2>
 
 ClassPass hat keinen Studentenrabatt. Es kann trotzdem passen, wenn du Abwechslung willst: eine Woche Yoga, die nächste Spinning oder Boxen. So bleibt es bezahlbar:
