@@ -9,7 +9,7 @@ crumb: "ClassPass free trial"
 kicker: "Guide"
 ---
 
-New members can try ClassPass first. You visit a number of studios and gyms, each one once. In London you currently get 14 days free with 10 workouts. In other countries the offer can differ; you always see it when you sign up.
+New members can try ClassPass first. You visit a number of studios and gyms, each one once. In London and Ireland you currently get 14 days free with 10 workouts. In other countries the offer can differ; you always see it when you sign up.
 
 <h2 id="summary">In short</h2>
 
@@ -19,7 +19,7 @@ New members can try ClassPass first. You visit a number of studios and gyms, eac
 | **What you get** | In London 10 workouts, at each studio once. Anything you don't use expires at the end |
 | **How long** | In London 14 days |
 | **Free?** | In London, yes. In some other areas it's a discount on your first period |
-| **Afterwards** | You move automatically to a monthly plan, in London currently 52 credits for £69 a month |
+| **Afterwards** | You move automatically to a monthly plan, in London currently 52 credits for £69 a month, in Ireland for example 33 credits for €49 |
 
 <h2 id="rules">The rules</h2>
 
@@ -76,7 +76,7 @@ No. ClassPass has no student discount. Some employers do offer ClassPass through
 
 </details>
 
-<p class="klein">Source: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Help Center</a> (January 2026) and the ClassPass sign-up page for London (October 2026). Rules can change, so always check the latest details when you sign up or in your account.</p>
+<p class="klein">Source: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Help Center</a> (January 2026) and the ClassPass sign-up pages for London and Ireland (October 2026). Rules can change, so always check the latest details when you sign up or in your account.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/guides/classpass-credits/">ClassPass credits explained</a>
