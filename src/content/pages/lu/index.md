@@ -78,11 +78,27 @@ No registration fee at the moment.
 3. **Try it first.** Many gyms offer a trial session or a first week at a lower price.
 4. **Live across the border?** If you live in Belgium, France or Germany and work in Luxembourg, ClassPass does work in your home country. See [Belgium](/be/), [France](/fr/) or [Germany](/de/).
 
+<h2 id="spullen">Need anything for the gym?</h2>
+
+There is no Amazon store in Luxembourg, but Amazon.de delivers there. These links take you straight to Amazon.de; you can switch the site to English at the top of the page.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Sportswear</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Training shoes</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Gym towel</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Locker padlock</a></li>
+<li class="i-fles"><a href="/go/amazon-de-shaker/">Protein shaker</a></li>
+</ul>
+
+<p class="klein">As an Amazon Associate we earn from qualifying purchases. The price stays the same for you.</p>
+
 <h2 id="gidsen">Guides</h2>
 
 - **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · what suits how you train
 - **[Your first class](/guides/first-class/)** · what to bring
 - **[Working out as a student](/guides/working-out-as-a-student/)** · flexible and affordable
+- **[Eating and drinking around your workout](/guides/eating-and-drinking-around-your-workout/)** · simple, no fuss
 
 ## Frequently asked questions
 
