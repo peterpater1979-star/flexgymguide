@@ -17,13 +17,21 @@ Don't want to be tied to one gym for a year? In Luxembourg several gym chains of
 
 | Gym | Clubs | Membership | Price |
 | --- | --- | --- | --- |
-| **Basic-Fit** | 10 in Luxembourg, including Luxembourg City and Gasperich | Per four weeks, cancel monthly | From [PRICE] per four weeks |
+| **Basic-Fit** | 10 in Luxembourg, including Luxembourg City and Gasperich | Flex: cancel anytime, 4 weeks' notice | From €34.98 per four weeks |
 | **JIMS Fitness** | [NUMBER] in Luxembourg | Per four weeks or per year, pause possible | From [PRICE] per four weeks |
 | **Fitness Zone** | 1, in Howald | Per month | [PRICE] per month |
 
 ### Basic-Fit
 
-The biggest budget chain in Luxembourg, with clubs in and around the city: Luxembourg City, Gasperich, Strassen, Windhof, Bereldange, Sandweiler, Foetz, Bettembourg, Belvaux and Ettelbruck. Most clubs open early and close late. With a higher membership you can also use Basic-Fit clubs in other countries.
+The biggest budget chain in Luxembourg, with clubs in and around the city: Luxembourg City, Gasperich, Strassen, Windhof, Bereldange, Sandweiler, Foetz, Bettembourg, Belvaux and Ettelbruck. Most clubs open early and close late.
+
+| Membership (Flex) | Per four weeks | What you get |
+| --- | --- | --- |
+| Comfort | €34.98 | All clubs in Luxembourg |
+| Premium | €39.98 | All clubs in Europe, bring a friend once a week, massage chairs |
+| Ultimate | €44.98 | All clubs in Europe, bring a friend anytime, massage chairs, sports water, free freeze |
+
+On top of that you pay a one-off €19.99 subscription fee. With a yearly contract each membership is €9.99 cheaper per four weeks, but you're tied for a year.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.basic-fit.com/en-lu">Basic-Fit Luxembourg</a>
