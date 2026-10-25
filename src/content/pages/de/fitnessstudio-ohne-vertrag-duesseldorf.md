@@ -44,7 +44,7 @@ Fitness First hat 5 Clubs in Düsseldorf, mit Geräten, einem großen Kursprogra
 | 12 Monate | 11,90 € | 13,90 € | 20,90 € |
 | 24 Monate | 9,90 € | 11,90 € | 18,90 € |
 
-Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club [CLUB] [PREIS] pro Woche ohne Mindestlaufzeit, [PREIS] mit 12 Monaten und [PREIS] mit 24 Monaten. Im RED-Club In der Kö-Galerie waren es 14,90 € ohne Mindestlaufzeit, 11,90 € mit 12 Monaten und 9,90 € mit 24 Monaten.
+Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club Derendorf im Lighthouse 23,90 € pro Woche ohne Mindestlaufzeit, 17,90 € mit 12 Monaten und 15,90 € mit 24 Monaten. Im RED-Club In der Kö-Galerie waren es 14,90 € ohne Mindestlaufzeit, 11,90 € mit 12 Monaten und 9,90 € mit 24 Monaten.
 
 Bei ALL-IN, BLACK und den Studententarifen mit 24 Monaten waren die ersten 12 Wochen gratis (Angebot bis 27. Oktober 2026).
 
