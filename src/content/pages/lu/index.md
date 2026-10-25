@@ -19,7 +19,7 @@ Don't want to be tied to one gym for a year? In Luxembourg several gym chains of
 | --- | --- | --- | --- |
 | **Basic-Fit** | 10 in Luxembourg, including Luxembourg City and Gasperich | Flex: cancel anytime, 4 weeks' notice | From €34.98 per four weeks |
 | **JIMS Fitness** | 7 in Luxembourg | Per four weeks, pause up to 8 weeks | From €49.99 per four weeks |
-| **Fitness Zone** | 1, in Howald | Per month | [PRICE] per month |
+| **Fitness Zone** | 1, in Howald | Per quarter (3 months), students without commitment | €59.50 a month |
 
 ### Basic-Fit
 
@@ -55,7 +55,19 @@ The joining fee is €50, but JIMS often waives it during promotions, sometimes 
 
 ### Fitness Zone (Howald)
 
-A single gym in Howald with a monthly membership and group classes. Students pay a little less.
+A single gym in Howald, with unlimited use of the machines and group classes in every membership.
+
+| Membership | Price | Commitment |
+| --- | --- | --- |
+| Toegang | €59.50 a month | 3 months (pay per quarter or monthly) |
+| Energie | €49.00 a month | 1 year |
+| Student | €34.99 | No commitment |
+
+No registration fee at the moment.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://fitnesszone.lu">Fitness Zone</a>
+</div>
 
 <p class="klein">Prices can differ per club and change during promotions. Always check the current price on the gym's own website.</p>
 
@@ -84,7 +96,7 @@ Not yet. ClassPass has no partner studios in Luxembourg at the moment. It does w
 <details>
 <summary>Which gym in Luxembourg has no long contract?</summary>
 
-Basic-Fit and JIMS Fitness offer memberships per four weeks, and Fitness Zone in Howald has a monthly membership. Check the notice period before you sign up.
+Basic-Fit and JIMS Fitness offer memberships per four weeks. Fitness Zone in Howald has a three-month membership, and students can join without commitment. Check the notice period before you sign up.
 
 </details>
 
