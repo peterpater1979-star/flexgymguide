@@ -9,7 +9,7 @@ const pages = defineCollection({
     path: z.string(),
     description: z.string().optional(),
     lang: z.enum(['nl', 'de', 'en', 'fr', 'es', 'pt', 'da', 'sv', 'nb', 'fi']),
-    land: z.enum(['global', 'nl', 'de', 'at', 'ch', 'uk', 'be', 'fr', 'es', 'pt', 'ie', 'dk', 'se', 'no', 'fi', 'guides']).default('global'),
+    land: z.enum(['global', 'nl', 'de', 'at', 'ch', 'uk', 'be', 'fr', 'es', 'pt', 'ie', 'lu', 'dk', 'se', 'no', 'fi', 'guides']).default('global'),
     crumb: z.string().optional(), // korte naam in het kruimelpad
     kicker: z.string().optional(), // regel boven de titel
     byline: z.string().optional(), // "Door [AUTEUR] · Bijgewerkt op [DATUM]"

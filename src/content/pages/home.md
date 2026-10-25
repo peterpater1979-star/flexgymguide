@@ -42,6 +42,7 @@ Each country has its own guide, in its own language, with local prices and provi
 - **[België](/be/)** · In Dutch · ClassPass
 - **[Portugal](/pt/)** · In Portuguese · ClassPass
 - **[Ireland](/ie/)** · In English · ClassPass
+- **[Luxembourg](/lu/)** · In English · Gym chains without a long contract
 - **[Danmark](/dk/)** · In Danish · ClassPass
 - **[Sverige](/se/)** · In Swedish · ClassPass
 - **[Norge](/no/)** · In Norwegian · ClassPass
