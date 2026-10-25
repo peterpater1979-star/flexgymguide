@@ -113,6 +113,7 @@ Je kunt je abonnement op elk moment aanpassen, pauzeren of opzeggen.
 - **[Sportpas of abonnement?](/nl/sportpas-of-abonnement/)** · wat past bij hoe jij traint
 - **[ClassPass-credits uitgelegd](/nl/classpass-credits/)** · meer lessen uit je abonnement
 - **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
+- **[Basic-Fit opzeggen](/nl/basic-fit-opzeggen/)** · opzegtermijn en alternatieven
 
 ## Veelgestelde vragen
 
