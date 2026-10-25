@@ -25,7 +25,7 @@ Trainmore is een Nederlandse sportschoolketen met 53 eigen clubs. Met een lidmaa
 | **Soort** | Sportschoolketen met eigen clubs |
 | **Clubs** | 53 in Nederland |
 | **Prijs** | Verschilt per clublabel (Black, Red, Regular) en contract, per 4 weken. €1 korting per workout |
-| **Contract** | 2 jaar, 1 jaar of Flex (maandelijks opzegbaar) |
+| **Contract** | 2 jaar, 1 jaar of Flex (maandelijks opzegbaar) <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. <a href="#prijzen">Alle prijzen</a></details> |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
 | **In het buitenland** | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
 
