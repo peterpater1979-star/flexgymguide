@@ -66,6 +66,23 @@ Kengät, joissa on tasainen ja tukeva pohja kyykkyihin ja nostoihin. Pyyhe penke
 4. **Aloita omalta tasoltasi.** Kukaan ei odota, että pysyt vakiokävijöiden tahdissa ensimmäisellä tunnillasi.
 5. **Tarkista peruutusehdot.** Treenipassilla tai kokeilutunnilla myöhäinen peruutus voi maksaa krediittejä tai maksun.
 
+<h2 id="varusteet">Puuttuuko jotain?</h2>
+
+Nämä linkit vievät suoraan Amazon.de-sivustolle, joka toimittaa myös Suomeen. Sivusto on saksaksi, mutta voit vaihtaa kieleksi englannin sivun yläosasta.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Treenivaatteet</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Treenikengät</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Juomapullo</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Treenipyyhe</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Lukko kaappiin</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Liukumattomat sukat joogaan ja pilatekseen</a></li>
+<li class="i-bandage"><a href="/go/amazon-de-boxbandagen/">Nyrkkeilysiteet</a></li>
+<li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Nyrkkeilyhanskat</a></li>
+</ul>
+
+<p class="klein">Amazon-kumppanina saamme tuloja ehdot täyttävistä ostoksista. Hinta on sinulle sama.</p>
+
 <h2 id="kokeile">Kokeile useaa studiota</h2>
 
 Etkö vielä tiedä, mikä treeni sopii sinulle? Treenipassilla, kuten ClassPassilla, kokeilet joogaa, nyrkkeilyä ja spinningiä eri studioissa ennen kuin päätät.

@@ -66,6 +66,23 @@ Sko med flat, fast såle til knebøy og løft. Et håndkle til benkene og klær 
 4. **Start på ditt eget nivå.** Ingen forventer at du skal holde følge med de faste deltakerne på din første time.
 5. **Sjekk avbestillingsreglene.** Med et treningspass eller en prøvetime kan sen avbestilling koste kreditter eller et gebyr.
 
+<h2 id="utstyr">Mangler du noe?</h2>
+
+Disse lenkene tar deg direkte til Amazon.de, som også leverer til Norge. Siden er på tysk, men du kan velge engelsk øverst på siden. Ved bestilling til Norge kommer mva. og eventuelle gebyrer i tillegg, og det ser du i kassen.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Treningstøy</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Treningssko</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Drikkeflaske</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Treningshåndkle</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Hengelås til skapet</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Sklisikre sokker til yoga og pilates</a></li>
+<li class="i-bandage"><a href="/go/amazon-de-boxbandagen/">Bokseteip</a></li>
+<li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Boksehansker</a></li>
+</ul>
+
+<p class="klein">Som Amazon-partner tjener vi på kvalifiserte kjøp. Prisen er den samme for deg.</p>
+
 <h2 id="prove">Prøv flere studioer</h2>
 
 Vet du ikke ennå hvilken trening som passer deg? Med et treningspass som ClassPass prøver du yoga, boksing og spinning på ulike studioer før du bestemmer deg.
