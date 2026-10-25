@@ -62,7 +62,7 @@ Basic-Fit is a budget chain with clubs that are open day and night. Besides a 52
 
 All Flex memberships have a one-off joining fee of €19.99. Group classes are included at clubs that offer them. You cancel through My Basic-Fit, the app or the kiosk in the club, with 4 weeks' notice.
 
-<p class="klein">Source: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (October 2026). Always check the current price with Basic-Fit.</p>
+<p class="klein">Source: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (October 2026). Always check the current price with Basic-Fit. Cancelling: see <a href="/nl/cancel-basic-fit/">Cancelling Basic-Fit</a>.</p>
 
 <h2 id="sportcity">SportCity Flex: cancel monthly</h2>
 
@@ -79,7 +79,7 @@ This is what prices looked like in October 2026 at SportCity Amsterdam Lijnbaans
 
 With Flex you pay a €4.99 joining fee instead of the usual €9.99. Prices differ a lot per club: at Amsterdam Weteringdwarsstraat, a few minutes away, City One started at €52.99 per 4 weeks. Want to try first? You can ask the club for a day pass.
 
-<p class="klein">Source: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a>, the Weteringdwarsstraat club page and the sign-up page for Lijnbaansgracht (October 2026). Always check the current price with SportCity.</p>
+<p class="klein">Source: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a>, the Weteringdwarsstraat club page and the sign-up page for Lijnbaansgracht (October 2026). Always check the current price with SportCity. Cancelling: see <a href="/nl/cancel-sportcity/">Cancelling SportCity</a>.</p>
 
 <h2 id="drop-in">Drop-in classes and class cards</h2>
 

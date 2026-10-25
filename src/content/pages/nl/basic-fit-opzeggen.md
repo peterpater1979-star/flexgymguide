@@ -86,4 +86,5 @@ Ja, tot de einddatum van je contract kan dat in My Basic-Fit.
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
 <a class="knop knop-rand" href="/nl/classpass/">Alles over ClassPass</a>
+<a class="knop knop-rand" href="/nl/cancel-basic-fit/">In English</a>
 </div>
