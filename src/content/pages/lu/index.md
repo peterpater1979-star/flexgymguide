@@ -17,7 +17,7 @@ Don't want to be tied to one gym for a year? In Luxembourg several gym chains of
 
 | Gym | Clubs | Membership | Price |
 | --- | --- | --- | --- |
-| **Basic-Fit** | [NUMBER] in Luxembourg, including Luxembourg City and Gasperich | Per four weeks, cancel monthly | From [PRICE] per four weeks |
+| **Basic-Fit** | 10 in Luxembourg, including Luxembourg City and Gasperich | Per four weeks, cancel monthly | From [PRICE] per four weeks |
 | **JIMS Fitness** | [NUMBER] in Luxembourg | Per four weeks or per year, pause possible | From [PRICE] per four weeks |
 | **Fitness Zone** | 1, in Howald | Per month | [PRICE] per month |
 
