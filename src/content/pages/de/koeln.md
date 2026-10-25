@@ -9,7 +9,7 @@ crumb: "Köln"
 kicker: "Stadtguide Köln"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Köln trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Köln trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Köln](/de/fitnessstudio-ohne-vertrag-koeln/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
