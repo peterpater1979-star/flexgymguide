@@ -18,7 +18,7 @@ Don't want to be tied to one gym for a year? In Luxembourg several gym chains of
 | Gym | Clubs | Membership | Price |
 | --- | --- | --- | --- |
 | **Basic-Fit** | 10 in Luxembourg, including Luxembourg City and Gasperich | Flex: cancel anytime, 4 weeks' notice | From €34.98 per four weeks |
-| **JIMS Fitness** | [NUMBER] in Luxembourg | Per four weeks or per year, pause possible | From [PRICE] per four weeks |
+| **JIMS Fitness** | 7 in Luxembourg | Per four weeks or per year, pause possible | From [PRICE] per four weeks |
 | **Fitness Zone** | 1, in Howald | Per month | [PRICE] per month |
 
 ### Basic-Fit
@@ -40,6 +40,10 @@ On top of that you pay a one-off €19.99 subscription fee. With a yearly contra
 ### JIMS Fitness
 
 A Belgian gym chain, also in Luxembourg, with group classes and separate zones for boxing and functional training. You choose between a membership per four weeks or a cheaper yearly plan, and you can pause your membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://www.jims.lu/en/clubs">JIMS Luxembourg</a>
+</div>
 
 ### Fitness Zone (Howald)
 
