@@ -68,7 +68,7 @@ Sko med flat, fast såle til knebøy og løft. Et håndkle til benkene og klær 
 
 <h2 id="utstyr">Mangler du noe?</h2>
 
-Disse lenkene tar deg direkte til Amazon.de, som også leverer til Norge. Siden er på tysk, men du kan velge engelsk øverst på siden. Ved bestilling til Norge kommer mva. og eventuelle gebyrer i tillegg, og det ser du i kassen.
+Disse lenkene tar deg direkte til Amazon.de, som også leverer til Norge. Siden er på tysk, men du kan velge engelsk øverst på siden.
 
 <ul class="spullen">
 <li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Treningstøy</a></li>
