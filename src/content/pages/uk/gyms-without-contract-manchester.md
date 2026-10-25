@@ -16,10 +16,10 @@ Studying in Manchester, here for a few months, or simply not keen on a 12-month 
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 36 credits for £49 a month; smaller plans in the app | Variety at studios in the city centre, Chorlton, Salford and beyond |
-| **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | From [PRICE] a month at [GYM], plus a joining fee | Cheap, frequent training, mostly 24/7 |
+| **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | From [PRICE] a month at Manchester Old Trafford, plus a joining fee | Cheap, frequent training, mostly 24/7 |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
-<p class="klein">Prices from October 2026. ClassPass: location Manchester (Salford). The Gym Group: [GYM]. Always check the current price with the provider.</p>
+<p class="klein">Prices from October 2026. ClassPass: location Manchester (Salford). The Gym Group: Manchester Old Trafford. Always check the current price with the provider.</p>
 
 <h2 id="classpass">ClassPass: cancel any time</h2>
 
@@ -38,7 +38,7 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 The Gym Group is a low-cost chain with 8 gyms in Manchester and over 260 in the UK, most of them open 24/7. Monthly memberships have no contract and no minimum term, and classes are included. You choose between Off-peak, Standard and Ultimate; with Ultimate you can also use other gyms.
 
-At [GYM], these were the prices in October 2026:
+At Manchester Old Trafford, these were the prices in October 2026:
 
 | Membership | Price | When you can train |
 | --- | --- | --- |
@@ -46,7 +46,15 @@ At [GYM], these were the prices in October 2026:
 | Standard | From [PRICE] a month | All opening hours |
 | Ultimate | From [PRICE] a month | 24/7, plus multi-gym access |
 
-Prices differ per gym. Cancel at least four working days before your next payment date. In the first 14 days you can cancel and get a refund, minus the cost of any visits. Saver plans (9 or 12 months paid up front) are cheaper per month, but you can't cancel them early. Not sure yet? Try a gym with a day pass.
+Prices differ per gym. Cancel at least four working days before your next payment date. In the first 14 days you can cancel and get a refund, minus the cost of any visits. Saver plans (9 or 12 months paid up front) are cheaper per month, but you can't cancel them early. Not sure yet? Try the gym with a day pass first. At Manchester Old Trafford there was no joining fee on day passes, and the days run back to back from the date you choose:
+
+| Day pass | Price |
+| --- | --- |
+| 1 day | £9.99 |
+| 3 days | £16.99 |
+| 5 days | £21.99 |
+
+Handy if you are only in Manchester for a few days.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
