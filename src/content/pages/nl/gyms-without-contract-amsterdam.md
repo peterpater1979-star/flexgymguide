@@ -16,7 +16,7 @@ Just moved to Amsterdam, here for a few months, or not sure where you will live 
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | From €19 a month (11 credits) | Variety at studios and gyms all over the city |
-| **Trainmore Flex** | Monthly | €74 to €116 per 4 weeks, depending on the club | Premium gym with group classes, for frequent training <details class="cel"><summary>Flex or contract?</summary>A 1-year contract is €20 per 4 weeks cheaper than Flex, 2 years €27. And once you're committed, you often go more often too. <a href="#trainmore">All prices</a></details> |
+| **Trainmore Flex** | Monthly | €74 to €116 per 4 weeks, depending on the club | Premium gym with group classes, for frequent training <details class="cel"><summary>Flex or contract?</summary>A 1-year contract is €20 per 4 weeks cheaper than Flex, 2 years €27. And once you're committed, you often go more often too. For example at Koningin Wilhelminaplein: Flex €104, 1 year €84, 2 years €77 per 4 weeks. A one-year contract saves you about €260 a year (13 periods of 4 weeks). <a href="#trainmore">All prices</a></details> |
 | **Basic-Fit Flex** | No minimum term, 4 weeks' notice | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, open 24/7 |
 | **SportCity Flex** | Monthly | €37.99 per 4 weeks at Lijnbaansgracht (City One), plus €4.99 joining fee; varies per club | Gym with group classes, day pass available |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
@@ -44,7 +44,7 @@ Trainmore is a premium gym chain with group classes and clubs in the city centre
 | --- | --- | --- | --- |
 | Flex | €74 | €104 | €116 |
 | 1 year | €54 | €84 | €96 |
-| 2 years | €47 | see website | €89 |
+| 2 years | €47 | €77 | €89 |
 
 **A discount when you train more.** At Trainmore you pay less the more often you go: you get €1 off per workout, at most one a day and €28 per 4 weeks, with Flex and with a contract. You check in with the QR code in the Trainmore app. Every visit counts on its own, so you don't need a fixed schedule. This works at every Trainmore club, whatever the label or contract: train three times a week and that saves about €12 per 4 weeks. At Bos en Lommer, for example, Flex then costs €62 instead of €74. Student memberships don't get this discount.
 
