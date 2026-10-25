@@ -89,4 +89,5 @@ Ja, 14 Tage mit 10 Workouts. Danach läuft das Abo mit 35 Credits für 49 € im
 <div class="knoppen">
 <a class="knop knop-rand" href="/at/wien/">Flexibel trainieren in Wien</a>
 <a class="knop knop-rand" href="/de/sportpass-oder-mitgliedschaft/">Sportpass oder Mitgliedschaft?</a>
+<a class="knop knop-rand" href="/at/gyms-without-contract-vienna/">In English</a>
 </div>
