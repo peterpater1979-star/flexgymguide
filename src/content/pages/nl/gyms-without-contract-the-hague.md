@@ -16,7 +16,7 @@ Just moved to The Hague, here for a few months, or not sure where you will live 
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan €59 a month (40 credits); smaller plans in the app | Variety at studios and gyms all over the city |
-| **Trainmore Flex** | Monthly | €79 to €106 per 4 weeks, depending on the club | Premium gym with group classes, for frequent training |
+| **Trainmore Flex** | Monthly | €79 to €106 per 4 weeks, depending on the club | Premium gym with group classes, for frequent training (a one-year contract is cheaper and keeps you going more often) |
 | **Basic-Fit Flex** | No minimum term, 4 weeks' notice | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, open 24/7 |
 | **SportCity Flex** | Monthly | €37.99 per 4 weeks at Hollands Spoor (City One), plus €4.99 joining fee; varies per club | Gym with group classes, day pass available |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |

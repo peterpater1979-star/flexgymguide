@@ -16,7 +16,7 @@ Just moved to Utrecht, here for a few months, or not sure where you will live ne
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan €59 a month (40 credits); smaller plans in the app | Variety at studios and gyms all over the city |
-| **Trainmore Flex** | Monthly | €99 per 4 weeks (Home+, Black Label) | Premium gym with group classes, for frequent training |
+| **Trainmore Flex** | Monthly | €99 per 4 weeks (Home+, Black Label) | Premium gym with group classes, for frequent training (a one-year contract is cheaper and keeps you going more often) |
 | **Basic-Fit Flex** | No minimum term, 4 weeks' notice | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, open 24/7 |
 | **SportCity Flex** | Monthly | City Plus €69.99 per 4 weeks at Wonderwoods, plus €9.99 joining fee; varies per club | Gym with group classes, day pass available |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
