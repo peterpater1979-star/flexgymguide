@@ -33,7 +33,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 ### Trainmore
 
-Eigen clubs met gym en groepslessen: 31 in Amsterdam, 53 in heel Nederland.
+Eigen clubs met gym en groepslessen: 31 in Amsterdam, 53 in heel Nederland. Bij Bos en Lommer vanaf € 47 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Plus € 1 korting per workout.
 
 [Bekijk Trainmore](#trainmore)
 

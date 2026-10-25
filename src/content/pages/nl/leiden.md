@@ -33,7 +33,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 ### Trainmore
 
-Eigen clubs met gym en groepslessen: 1 in Leiden, 53 in heel Nederland.
+Eigen clubs met gym en groepslessen: 1 in Leiden, 53 in heel Nederland. Flex is maandelijks opzegbaar, een contract van 1 of 2 jaar is goedkoper. Plus € 1 korting per workout.
 
 [Bekijk Trainmore](#trainmore)
 
