@@ -16,7 +16,7 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Wien kannst du 
 | | Kündigen | Preis | Gut für |
 | --- | --- | --- | --- |
 | **ClassPass** | Jederzeit, ohne Kündigungsfrist | Standardabo 35 Credits für 49 € im Monat; kleinere in der App | Abwechslung in Studios in der ganzen Stadt |
-| **Fitness First** | Monatlich, oder 12 Monate günstiger | ALL-IN 13,90 € pro Woche ohne Mindestlaufzeit (Club Landstraße) | Premium-Studio mit Kursen und Wellness |
+| **Fitness First** | Monatlich, oder 12 Monate günstiger | BASIS 11,90 €, ALL-IN 13,90 € pro Woche ohne Mindestlaufzeit | Premium-Studio mit Kursen und Wellness |
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
 
 <p class="klein">Preise von Oktober 2026. ClassPass: Standort Wien. Fitness First: Club Wien Landstraße. Prüfe den aktuellen Preis immer beim Anbieter.</p>
@@ -37,14 +37,14 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Stud
 
 Fitness First hat 4 Clubs in und um Wien, darunter Vösendorf, mit Geräten, Kursen und Wellnessbereich. So sahen die Preise im Oktober 2026 aus:
 
-Fitness First rechnet pro Woche ab. Du wählst zwischen ALL-IN und BASIS; ALL-IN enthält unter anderem Kurse, Getränke-Flat und Wellnessbereich. Im Club Landstraße kostete ALL-IN:
+Alle Clubs in Wien sind RED-Clubs, die Preise sind also überall gleich. Fitness First rechnet pro Woche ab. Du wählst zwischen BASIS und ALL-IN; ALL-IN enthält unter anderem Kurse, Getränke-Flat, Massage zum Fixpreis und Wellnessbereich. So sahen die Preise im Oktober 2026 aus, pro Woche:
 
-| Laufzeit | ALL-IN (Landstraße) | BASIS (Landstraße) |
-| --- | --- | --- |
-| 1 Monat | 13,90 € pro Woche | [PREIS] |
-| 12 Monate | 10,90 € pro Woche, die ersten 12 Wochen gratis | [PREIS] |
+| Laufzeit | BASIS | ALL-IN | Studierende, Schüler, Azubis |
+| --- | --- | --- | --- |
+| 1 Monat | 11,90 € | 13,90 € | 11,90 € |
+| 12 Monate | 8,90 € | 10,90 €, die ersten 12 Wochen gratis | 8,90 €, die ersten 12 Wochen gratis |
 
-Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. [STUDENTEN] Unsicher? Buch zuerst ein kostenloses Probetraining.
+Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Der Studententarif enthält die Leistungen von ALL-IN. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
 <p class="klein">Quelle: die Clubseite Wien Landstraße auf fitnessfirst.at (Oktober 2026). Prüfe den aktuellen Preis immer beim Club.</p>
 
@@ -68,7 +68,7 @@ Viele Yoga-, Pilates- und Boxstudios verkaufen auch Einzelstunden oder Karten f�
 <details open>
 <summary>Kann ich in Wien ohne Vertrag ins Fitnessstudio?</summary>
 
-Ja. Mit ClassPass kündigst du jederzeit, und viele Studios verkaufen Einzelstunden.
+Ja. Mit ClassPass kündigst du jederzeit, Fitness First hat eine Mitgliedschaft mit einem Monat Laufzeit, und viele Studios verkaufen Einzelstunden.
 
 </details>
 
