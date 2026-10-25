@@ -93,6 +93,8 @@ Je kunt je abonnement altijd aanpassen, pauzeren of opzeggen.
 - **[ClassPass-credits uitgelegd](/nl/classpass-credits/)** · meer lessen uit je abonnement
 - **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
 
+En français : [Ton premier cours](/fr/premier-cours/) · ce qu’il faut emporter
+
 ## Veelgestelde vragen
 
 <details open>
