@@ -66,6 +66,23 @@ Skor med platt, stadig sula för knäböj och lyft. En handduk till bänkarna oc
 4. **Börja på din egen nivå.** Ingen förväntar sig att du ska hänga med de vana deltagarna på din första klass.
 5. **Kolla avbokningsreglerna.** Med ett träningspass eller en provklass kan en sen avbokning kosta krediter eller en avgift.
 
+<h2 id="utrustning">Saknar du något?</h2>
+
+De här länkarna tar dig direkt till Amazon.de, som också levererar till Sverige. Sidan är på tyska, men du kan välja engelska högst upp på sidan.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Träningskläder</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Träningsskor</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Vattenflaska</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Träningshandduk</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Hänglås till skåpet</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Halkfria strumpor för yoga och pilates</a></li>
+<li class="i-bandage"><a href="/go/amazon-de-boxbandagen/">Boxningslindor</a></li>
+<li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Boxningshandskar</a></li>
+</ul>
+
+<p class="klein">Som Amazon-partner tjänar vi på kvalificerade köp. Priset är detsamma för dig.</p>
+
 <h2 id="testa">Testa flera studior</h2>
 
 Vet du inte än vilken träning som passar dig? Med ett träningspass som ClassPass testar du yoga, boxning och spinning på olika studior innan du bestämmer dig.
