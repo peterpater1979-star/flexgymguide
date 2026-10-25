@@ -114,6 +114,7 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 - **[ClassPass-Credits erklärt](/de/classpass-credits/)** · mehr Kurse aus deinem Abo
 - **[Dein erstes Training](/de/erstes-training/)** · was du mitnimmst
 - **[McFit kündigen](/de/mcfit-kuendigen/)** · Fristen und Alternativen
+- **[Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/)** · was gilt und was du tun kannst
 
 ## Häufige Fragen
 
