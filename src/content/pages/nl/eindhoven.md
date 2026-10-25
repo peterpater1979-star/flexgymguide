@@ -9,7 +9,7 @@ crumb: "Eindhoven"
 kicker: "Stadsgids Eindhoven"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Eindhoven kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
+Geen zin in een jaarcontract bij één sportschool? In Eindhoven kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past. Wil je je helemaal niet vastleggen? Lees [Sporten zonder contract in Eindhoven](/nl/sporten-zonder-contract-eindhoven/).
 
 <h2 id="kort">In het kort</h2>
 
