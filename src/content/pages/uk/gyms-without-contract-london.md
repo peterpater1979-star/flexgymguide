@@ -62,7 +62,7 @@ These were the prices at three London clubs in October 2026:
 | London Bridge Cottons | Classic | From £130 a month, first month half price | No joining fee, multi-club access, 2 guest passes |
 | London Bridge Cottons | Student | From £99 a month | No joining fee, multi-club access, 2 guest passes |
 
-Prices differ per club. Check the price at your club before you join.
+The two guest passes are for your first 30 days. You manage your membership online, and you can also freeze it there. Prices differ per club. Check the price at your club before you join.
 
 With a minimum term you give one calendar month's notice to end at the end of that term; after it, you can cancel any time with one month's notice. Within 7 days of joining you can cancel at no cost.
 
