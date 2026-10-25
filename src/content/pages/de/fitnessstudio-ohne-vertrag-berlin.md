@@ -66,7 +66,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (Gesamtpreis laut McFit). Flex kostet also fast das Doppelte eines 24-Monats-Vertrags, dafür bist du nicht gebunden. Mit allen Tarifen trainierst du in über 230 McFit-Studios in Europa, mit Live-Kursen in den teilnehmenden Studios.
 
-<p class="klein">Quelle: <a href="https://www.mcfit.com/de/mitgliedschaft">mcfit.com/mitgliedschaft</a> (Oktober 2026). Prüfe den aktuellen Preis immer bei McFit.</p>
+<p class="klein">Quelle: <a href="https://www.mcfit.com/de/mitgliedschaft">mcfit.com/mitgliedschaft</a> (Oktober 2026). Prüfe den aktuellen Preis immer bei McFit. Kündigen: siehe <a href="/de/mcfit-kuendigen/">McFit kündigen</a>.</p>
 
 <h2 id="einzeln">Einzelstunden und 10er-Karten</h2>
 
