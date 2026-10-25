@@ -3,7 +3,7 @@ export type Lang = 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt' | 'da' | 'sv' | 'nb' 
 
 export const teksten = {
   nl: {
-    label: 'Advertentie',
+    label: 'Adv.',
     melding: 'Sommige links zijn affiliatelinks: daarvoor krijgen wij een vergoeding, jij betaalt niets extra.',
     meldingLink: 'Zo werken wij',
     meldingHref: '/disclosure/#nl',
