@@ -16,11 +16,11 @@ Just moved to London, here for a few months, or simply not keen on a 12-month co
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 52 credits for £69 a month; smaller plans in the app | Variety at studios and gyms all over London |
-| **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | [PRICE] a month at [CLUB] | Cheap, frequent training, mostly 24/7 |
+| **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | From £29.99 a month at Oxford Street, plus a £20 joining fee | Cheap, frequent training, mostly 24/7 |
 | **Fitness First** | Minimum term; student plan 9 months, or 3 months paid up front; check Classic when you join | From £90 a month, depending on the club (students from £69) | Premium gym with classes |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
-<p class="klein">Prices from October 2026. ClassPass: location London. The Gym Group: [CLUB]. Fitness First: Thomas More Square, Fenchurch Street and London Bridge Cottons. Always check the current price with the provider.</p>
+<p class="klein">Prices from October 2026. ClassPass: location London. The Gym Group: Oxford Street. Fitness First: Thomas More Square, Fenchurch Street and London Bridge Cottons. Always check the current price with the provider.</p>
 
 <h2 id="classpass">ClassPass: cancel any time</h2>
 
@@ -39,7 +39,15 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 The Gym Group is a low-cost chain with 87 gyms in London, most of them open 24/7. Monthly memberships have no contract and no minimum term, and classes are included. You choose between Off-peak, Standard and Ultimate; with Ultimate you can also use other gyms.
 
-[PRICES THE GYM GROUP]
+At Oxford Street, these were the prices in October 2026:
+
+| Membership | Price | When you can train | Extra |
+| --- | --- | --- | --- |
+| Off-peak | From £29.99 a month | Off-peak hours only | Classes included |
+| Standard | From £37.99 a month | All opening hours | Classes included |
+| Ultimate | From £37.99 a month | 24/7 | Classes, multi-gym access, free freeze, guest passes, Fiit workouts |
+
+All three have a £20 joining fee. At Oxford Street, Ultimate cost the same as Standard, but that can differ per gym and over time. There are also student memberships and day passes.
 
 Cancel at least four working days before your next payment date. In the first 14 days you can cancel and get a refund, minus the cost of any visits. Saver plans (9 or 12 months paid up front) are cheaper per month, but you can't cancel them early. Not sure yet? Try a gym with a day pass.
 
