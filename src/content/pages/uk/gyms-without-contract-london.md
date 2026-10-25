@@ -17,10 +17,10 @@ Just moved to London, here for a few months, or simply not keen on a 12-month co
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 52 credits for £69 a month; smaller plans in the app | Variety at studios and gyms all over London |
 | **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | [PRICE] a month at [CLUB] | Cheap, frequent training, mostly 24/7 |
-| **Fitness First** | [CONTRACT] | [PRICE] a month at [CLUB] | Premium gym with classes |
+| **Fitness First** | One month's notice; check the minimum term when you join | From £130 a month at London Bridge Cottons (students from £99) | Premium gym with classes |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
-<p class="klein">Prices from October 2026. ClassPass: location London. The Gym Group: [CLUB]. Fitness First: [CLUB]. Always check the current price with the provider.</p>
+<p class="klein">Prices from October 2026. ClassPass: location London. The Gym Group: [CLUB]. Fitness First: London Bridge Cottons. Always check the current price with the provider.</p>
 
 <h2 id="classpass">ClassPass: cancel any time</h2>
 
@@ -51,7 +51,14 @@ Cancel at least four working days before your next payment date. In the first 14
 
 Fitness First has 17 clubs in London, with a gym floor, group classes and personal trainers. Your membership tier decides which clubs you can use: every club at your tier or below.
 
-[PRICES FITNESS FIRST]
+At London Bridge Cottons, these were the prices in October 2026:
+
+| Membership | Price | Included |
+| --- | --- | --- |
+| Classic | From £130 a month, first month half price | No joining fee, multi-club access, 2 guest passes |
+| Student | From £99 a month | No joining fee, multi-club access, 2 guest passes |
+
+Prices differ per club. Check the price at your club before you join.
 
 With a minimum term you give one calendar month's notice to end at the end of that term; after it, you can cancel any time with one month's notice. Within 7 days of joining you can cancel at no cost.
 
