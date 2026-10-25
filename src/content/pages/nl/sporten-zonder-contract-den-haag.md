@@ -86,7 +86,7 @@ Zo zagen de prijzen er in oktober 2026 uit bij SportCity Den Haag Hollands Spoor
 
 Bij Flex betaal je € 4,99 inschrijfgeld, in plaats van de gewone € 9,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Andere clubs kunnen duurder zijn. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
 
-<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de inschrijfpagina voor Den Haag Hollands Spoor (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
+<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de inschrijfpagina voor Den Haag Hollands Spoor (oktober 2026). Controleer de actuele prijs altijd bij SportCity. Opzeggen: zie <a href="/nl/sportcity-opzeggen/">SportCity opzeggen</a>.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 

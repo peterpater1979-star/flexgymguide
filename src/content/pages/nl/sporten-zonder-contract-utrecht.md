@@ -82,7 +82,7 @@ Zo zagen de prijzen van City Plus er in oktober 2026 uit bij SportCity Utrecht W
 
 Bij Flex betaal je € 9,99 inschrijfgeld, in plaats van de gewone € 14,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. De prijs verschilt flink per club: bij Amsterdam Lijnbaansgracht was City Plus Flex € 39,99 per 4 weken. City One is goedkoper; bekijk de prijs van je club op de site van SportCity. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
 
-<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de inschrijfpagina's voor Utrecht Wonderwoods en Amsterdam Lijnbaansgracht (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
+<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a> en de inschrijfpagina's voor Utrecht Wonderwoods en Amsterdam Lijnbaansgracht (oktober 2026). Controleer de actuele prijs altijd bij SportCity. Opzeggen: zie <a href="/nl/sportcity-opzeggen/">SportCity opzeggen</a>.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 
