@@ -81,6 +81,9 @@
 /go/amazon-nl-weerstandsbanden/  https://www.amazon.nl/s?k=weerstandsbanden&tag=flexgymguide-21  302
 /go/amazon-nl-yogamat/  https://www.amazon.nl/s?k=yogamat&tag=flexgymguide-21  302
 /go/amazon-nl-springtouw/  https://www.amazon.nl/s?k=springtouw&tag=flexgymguide-21  302
+/go/amazon-nl-eiwitpoeder/  https://www.amazon.nl/s?k=eiwitpoeder&tag=flexgymguide-21  302
+/go/amazon-nl-shaker/  https://www.amazon.nl/s?k=shaker+eiwitshake&tag=flexgymguide-21  302
+/go/amazon-nl-eiwitrepen/  https://www.amazon.nl/s?k=eiwitrepen&tag=flexgymguide-21  302
 
 # Amazon.de (PartnerNet, tracking-ID flexgymguide0c-21): Suchseiten für den Ratgeber erstes Training (DE en AT).
 /go/amazon-de-sportbekleidung/  https://www.amazon.de/s?k=sportbekleidung&tag=flexgymguide0c-21  302
@@ -97,6 +100,9 @@
 /go/amazon-de-widerstandsbaender/  https://www.amazon.de/s?k=widerstandsb%C3%A4nder&tag=flexgymguide0c-21  302
 /go/amazon-de-yogamatte/  https://www.amazon.de/s?k=yogamatte&tag=flexgymguide0c-21  302
 /go/amazon-de-springseil/  https://www.amazon.de/s?k=springseil&tag=flexgymguide0c-21  302
+/go/amazon-de-proteinpulver/  https://www.amazon.de/s?k=proteinpulver&tag=flexgymguide0c-21  302
+/go/amazon-de-shaker/  https://www.amazon.de/s?k=protein+shaker&tag=flexgymguide0c-21  302
+/go/amazon-de-proteinriegel/  https://www.amazon.de/s?k=proteinriegel&tag=flexgymguide0c-21  302
 
 # Netlify-adres en www naar het hoofddomein
 https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!

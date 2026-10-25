@@ -73,6 +73,8 @@ Not sure which kind of training suits you? With a fitness pass like ClassPass yo
 - [How ClassPass works](/guides/how-classpass-works/)
 - [Gym pass or gym membership?](/guides/gym-pass-or-membership/)
 
+What should you eat and drink around your workout? Read [Eating and drinking around your workout](/guides/eating-and-drinking-around-your-workout/).
+
 ## Frequently asked questions
 
 <details open>

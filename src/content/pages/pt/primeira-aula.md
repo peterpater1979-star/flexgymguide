@@ -73,6 +73,8 @@ Ainda não sabes que treino é para ti? Com um passe desportivo como o ClassPass
 - [Tudo sobre o ClassPass](/pt/classpass/)
 - [Passe ou ginásio?](/pt/passe-ou-ginasio/)
 
+O que comer e beber antes e depois do treino? Lê [Comer e beber no treino](/pt/comer-e-beber-no-treino/).
+
 ## Perguntas frequentes
 
 <details open>

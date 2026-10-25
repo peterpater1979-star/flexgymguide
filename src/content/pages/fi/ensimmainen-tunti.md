@@ -90,6 +90,8 @@ Etkö vielä tiedä, mikä treeni sopii sinulle? Treenipassilla, kuten ClassPass
 - [Kaikki ClassPassista](/fi/classpass/)
 - [Treenipassi vai sali?](/fi/treenipassi-vai-salijasenyys/)
 
+Mitä syödä ja juoda treenin ympärillä? Lue [Syöminen ja juominen treenin ympärillä](/fi/syominen-ja-juominen-treenin-ymparilla/).
+
 ## Usein kysyttyä
 
 <details open>

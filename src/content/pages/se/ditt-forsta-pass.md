@@ -90,6 +90,8 @@ Vet du inte än vilken träning som passar dig? Med ett träningspass som ClassP
 - [Allt om ClassPass](/se/classpass/)
 - [Träningspass eller gym?](/se/traningspass-eller-gym/)
 
+Vad ska du äta och dricka kring träningen? Läs [Mat och dryck kring träningen](/se/mat-och-dryck-kring-traning/).
+
 ## Vanliga frågor
 
 <details open>

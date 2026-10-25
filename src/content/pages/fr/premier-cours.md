@@ -90,6 +90,8 @@ Tu ne sais pas encore quel sport te convient ? Avec un pass sport comme ClassPas
 - [Tout sur ClassPass](/fr/classpass/)
 - [Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)
 
+Que manger et boire autour de ta séance ? Lis [Manger et boire autour de ton entraînement](/fr/manger-et-boire-autour-du-sport/).
+
 ## Questions fréquentes
 
 <details open>

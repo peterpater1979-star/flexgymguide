@@ -90,6 +90,8 @@ Ved du endnu ikke, hvilken træning der passer dig? Med et træningspas som Clas
 - [Alt om ClassPass](/dk/classpass/)
 - [Træningspas eller fitness?](/dk/traeningspas-eller-fitness/)
 
+Hvad skal du spise og drikke omkring træningen? Læs [Mad og drikke omkring din træning](/dk/mad-og-drikke-omkring-traening/).
+
 ## Ofte stillede spørgsmål
 
 <details open>

@@ -90,6 +90,8 @@ Weet je nog niet welke training bij je past? Met een sportpas zoals ClassPass pr
 - [Alles over ClassPass](/nl/classpass/)
 - [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
 
+Wat eet en drink je rond je training? Lees [Eten en drinken rond je training](/nl/eten-en-drinken-rond-je-training/).
+
 ## Veelgestelde vragen
 
 <details open>

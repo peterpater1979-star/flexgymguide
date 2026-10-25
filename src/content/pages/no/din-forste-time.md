@@ -90,6 +90,8 @@ Vet du ikke ennå hvilken trening som passer deg? Med et treningspass som ClassP
 - [Alt om ClassPass](/no/classpass/)
 - [Treningspass eller senter?](/no/treningspass-eller-treningssenter/)
 
+Hva bør du spise og drikke rundt treningen? Les [Mat og drikke rundt treningen](/no/mat-og-drikke-rundt-trening/).
+
 ## Ofte stilte spørsmål
 
 <details open>

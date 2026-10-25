@@ -73,6 +73,8 @@ Calzado de suela plana y firme para sentadillas y levantamientos. Una toalla par
 - [Todo sobre ClassPass](/es/classpass/)
 - [¿Pase o gimnasio?](/es/pase-o-gimnasio/)
 
+¿Qué comer y beber antes y después de entrenar? Lee [Comer y beber al entrenar](/es/comer-y-beber-al-entrenar/).
+
 ## Preguntas frecuentes
 
 <details open>

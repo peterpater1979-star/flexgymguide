@@ -90,6 +90,8 @@ Du weißt noch nicht, welches Training zu dir passt? Mit einem Sportpass wie Cla
 - [Alles über ClassPass](/de/classpass/)
 - [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
+Was isst und trinkst du rund ums Training? Lies [Essen und Trinken rund ums Training](/de/essen-und-trinken-rund-ums-training/).
+
 ## Häufige Fragen
 
 <details open>
