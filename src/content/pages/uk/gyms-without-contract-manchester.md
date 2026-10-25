@@ -16,7 +16,7 @@ Studying in Manchester, here for a few months, or simply not keen on a 12-month 
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 36 credits for £49 a month; smaller plans in the app | Variety at studios in the city centre, Chorlton, Salford and beyond |
-| **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | From [PRICE] a month at Manchester Old Trafford, plus a joining fee | Cheap, frequent training, mostly 24/7 |
+| **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | From £19.99 a month at Manchester Old Trafford, plus a £10 joining fee | Cheap, frequent training, mostly 24/7 |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Manchester (Salford). The Gym Group: Manchester Old Trafford. Always check the current price with the provider.</p>
@@ -42,11 +42,13 @@ At Manchester Old Trafford, these were the prices in October 2026:
 
 | Membership | Price | When you can train |
 | --- | --- | --- |
-| Off-peak | From [PRICE] a month | Off-peak hours only |
-| Standard | From [PRICE] a month | All opening hours |
-| Ultimate | From [PRICE] a month | 24/7, plus multi-gym access |
+| Off-peak | From £19.99 a month | Off-peak hours only |
+| Standard | From £24.99 a month | All opening hours |
+| Ultimate | £24.99 the first month, then £31.99 | 24/7, plus multi-gym access, free freeze, guest passes and Fiit workouts |
 
-Prices differ per gym. Cancel at least four working days before your next payment date. In the first 14 days you can cancel and get a refund, minus the cost of any visits. Saver plans (9 or 12 months paid up front) are cheaper per month, but you can't cancel them early. Not sure yet? Try the gym with a day pass first. At Manchester Old Trafford there was no joining fee on day passes, and the days run back to back from the date you choose:
+All three monthly memberships have a £10 joining fee. Ultimate is also available as a Saver: £269 up front for 9 months or £349 for 12 months (about £29 a month), with no joining fee.
+
+Classes are included in every membership. Prices differ per gym. Cancel at least four working days before your next payment date. In the first 14 days you can cancel and get a refund, minus the cost of any visits. Saver plans (9 or 12 months paid up front) are cheaper per month, but you can't cancel them early. Not sure yet? Try the gym with a day pass first. At Manchester Old Trafford there was no joining fee on day passes, and the days run back to back from the date you choose:
 
 | Day pass | Price |
 | --- | --- |

@@ -9,7 +9,7 @@ crumb: "Manchester"
 kicker: "City guide Manchester"
 ---
 
-Don't want to be tied to one gym? In Manchester you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you.
+Don't want to be tied to one gym? In Manchester you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you. Don't want to be tied down at all? Read [Gyms without a contract in Manchester](/uk/gyms-without-contract-manchester/).
 
 <h2 id="glance">At a glance</h2>
 
