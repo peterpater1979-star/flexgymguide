@@ -66,6 +66,23 @@ Sko med en flad, fast sål til squats og løft. Et håndklæde til bænkene og t
 4. **Start på dit eget niveau.** Ingen forventer, at du kan følge med de faste deltagere på din første time.
 5. **Tjek afbudsreglerne.** Med et træningspas eller en prøvetime kan sent afbud koste credits eller et gebyr.
 
+<h2 id="udstyr">Mangler du noget?</h2>
+
+Disse links fører dig direkte til Amazon.de, som også leverer til Danmark. Siden er på tysk, men du kan vælge engelsk øverst på siden.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Træningstøj</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Træningssko</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Drikkedunk</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Træningshåndklæde</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Hængelås til skabet</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Skridsikre sokker til yoga og pilates</a></li>
+<li class="i-bandage"><a href="/go/amazon-de-boxbandagen/">Boksebandager</a></li>
+<li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Boksehandsker</a></li>
+</ul>
+
+<p class="klein">Som Amazon-partner tjener vi på kvalificerede køb. Prisen er den samme for dig.</p>
+
 <h2 id="proev">Prøv flere studier</h2>
 
 Ved du endnu ikke, hvilken træning der passer dig? Med et træningspas som ClassPass kan du prøve yoga, boksning og spinning i forskellige studier, før du beslutter dig.
