@@ -56,6 +56,16 @@ Prices differ per gym. Cancel at least four working days before your next paymen
 
 Handy if you are only in Manchester for a few days.
 
+**Students** pay up front for a set period, with no joining fee. At Manchester Old Trafford a student Saver gave access at all hours to two gyms of your choice:
+
+| Student Saver | Price, paid up front |
+| --- | --- |
+| 6 months | £149 |
+| 9 months | £219 |
+| 12 months | £279 |
+
+Twelve months works out at about £23 a month, but you can't cancel early. For one term, 6 months is the shortest option.
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>
