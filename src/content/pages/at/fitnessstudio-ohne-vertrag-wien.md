@@ -16,10 +16,10 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Wien kannst du 
 | | Kündigen | Preis | Gut für |
 | --- | --- | --- | --- |
 | **ClassPass** | Jederzeit, ohne Kündigungsfrist | Standardabo 35 Credits für 49 € im Monat; kleinere in der App | Abwechslung in Studios in der ganzen Stadt |
-| **Fitness First** | [KÜNDIGUNG] | [PREIS] | Premium-Studio mit Kursen und Wellness |
+| **Fitness First** | Monatlich, oder 12 Monate günstiger | ALL-IN 13,90 € pro Woche ohne Mindestlaufzeit (Club Landstraße) | Premium-Studio mit Kursen und Wellness |
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
 
-<p class="klein">Preise von Oktober 2026. ClassPass: Standort Wien. Fitness First: [CLUB]. Prüfe den aktuellen Preis immer beim Anbieter.</p>
+<p class="klein">Preise von Oktober 2026. ClassPass: Standort Wien. Fitness First: Club Wien Landstraße. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 <h2 id="classpass">ClassPass: jederzeit kündbar</h2>
 
@@ -37,9 +37,16 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Stud
 
 Fitness First hat 4 Clubs in und um Wien, darunter Vösendorf, mit Geräten, Kursen und Wellnessbereich. So sahen die Preise im Oktober 2026 aus:
 
-[PREISE FITNESS FIRST]
+Fitness First rechnet pro Woche ab. Du wählst zwischen ALL-IN und BASIS; ALL-IN enthält unter anderem Kurse, Getränke-Flat und Wellnessbereich. Im Club Landstraße kostete ALL-IN:
 
-<p class="klein">Quelle: [QUELLE] (Oktober 2026). Prüfe den aktuellen Preis immer beim Club.</p>
+| Laufzeit | ALL-IN (Landstraße) | BASIS (Landstraße) |
+| --- | --- | --- |
+| 1 Monat | 13,90 € pro Woche | [PREIS] |
+| 12 Monate | 10,90 € pro Woche, die ersten 12 Wochen gratis | [PREIS] |
+
+Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. [STUDENTEN] Unsicher? Buch zuerst ein kostenloses Probetraining.
+
+<p class="klein">Quelle: die Clubseite Wien Landstraße auf fitnessfirst.at (Oktober 2026). Prüfe den aktuellen Preis immer beim Club.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
