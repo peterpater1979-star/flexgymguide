@@ -17,7 +17,7 @@ Just moved to London, here for a few months, or simply not keen on a 12-month co
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 52 credits for £69 a month; smaller plans in the app | Variety at studios and gyms all over London |
 | **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | [PRICE] a month at [CLUB] | Cheap, frequent training, mostly 24/7 |
-| **Fitness First** | Minimum term; student plan 9 months, or 3 months paid up front | From £90 a month, depending on the club (students from £69) | Premium gym with classes |
+| **Fitness First** | Minimum term; student plan 9 months, or 3 months paid up front; check Classic when you join | From £90 a month, depending on the club (students from £69) | Premium gym with classes |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location London. The Gym Group: [CLUB]. Fitness First: Thomas More Square, Fenchurch Street and London Bridge Cottons. Always check the current price with the provider.</p>
@@ -62,7 +62,7 @@ These were the prices at three London clubs in October 2026:
 | London Bridge Cottons | Classic | From £130 a month, first month half price | No joining fee, multi-club access, 2 guest passes |
 | London Bridge Cottons | Student | From £99 a month | No joining fee, multi-club access, 2 guest passes |
 
-Fitness First is not fully contract-free. At Thomas More Square, the student plan had a 9-month minimum term (£69 a month), or you paid £225 up front for 3 months. The two guest passes are for your first 30 days. You manage your membership online, and you can also freeze it there. Prices differ per club. Check the price at your club before you join.
+Fitness First is not fully contract-free. At Thomas More Square, the student plan had a 9-month minimum term (£69 a month), or you paid £225 up front for 3 months. For Classic, you choose the membership length when you join, so check the options there. The two guest passes are for your first 30 days. You manage your membership online, and you can also freeze it there. Prices differ per club. Check the price at your club before you join.
 
 With a minimum term you give one calendar month's notice to end at the end of that term; after it, you can cancel any time with one month's notice. Within 7 days of joining you can cancel at no cost.
 
