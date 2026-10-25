@@ -20,7 +20,7 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Stuttgart kanns
 | **McFit Flex** | Monatlich | 49,90 € im Monat, im ersten Monat 88,90 € | Günstig und oft trainieren |
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
 
-<p class="klein">Preise von Oktober 2026. ClassPass: Standort Stuttgart. Fitness First: Clubs [CLUB] (RED) und [CLUB] (BLACK). McFit: Preise auf mcfit.com. Prüfe den aktuellen Preis immer beim Anbieter.</p>
+<p class="klein">Preise von Oktober 2026. ClassPass: Standort Stuttgart. Fitness First: Clubs Hauptstätter Straße (RED) und [CLUB] (BLACK). McFit: Preise auf mcfit.com. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 <h2 id="classpass">ClassPass: jederzeit kündbar</h2>
 
@@ -38,17 +38,19 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Stud
 
 Fitness First hat 4 Clubs in Stuttgart, mit Geräten, einem großen Kursprogramm und Wellnessbereich, in einigen Clubs auch mit Schwimmbad. Neben der Mitgliedschaft über 24 Monate gibt es eine über 12 Monate und eine ohne Mindestlaufzeit, die du monatlich kündigst. Fitness First rechnet pro Woche ab, und der Preis hängt vom Club ab: Es gibt RED- und BLACK-Clubs. In einem RED-Club wählst du zwischen BASIC und ALL-IN; ALL-IN enthält unter anderem Kurse, Getränke-Flat und Wellnessbereich. So sahen die Preise im Oktober 2026 aus, pro Woche:
 
-| Laufzeit | RED BASIC ([CLUB]) | RED ALL-IN ([CLUB]) | BLACK ([CLUB]) |
+| Laufzeit | RED BASIC (Hauptstätter Straße) | RED ALL-IN (Hauptstätter Straße) | BLACK ([CLUB]) |
 | --- | --- | --- | --- |
-| 1 Monat | [PREIS] | [PREIS] | [PREIS] |
-| 12 Monate | [PREIS] | [PREIS] | [PREIS] |
-| 24 Monate | [PREIS] | [PREIS] | [PREIS] |
+| 1 Monat | 14,90 € | 16,90 € | [PREIS] |
+| 12 Monate | 11,90 € | 13,90 € | [PREIS] |
+| 24 Monate | 9,90 € | 11,90 € | [PREIS] |
 
-Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club [CLUB] [PREIS] pro Woche ohne Mindestlaufzeit, [PREIS] mit 12 Monaten und [PREIS] mit 24 Monaten. Im RED-Club [CLUB] waren es [PREIS] ohne Mindestlaufzeit, [PREIS] mit 12 Monaten und [PREIS] mit 24 Monaten.
+Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club [CLUB] [PREIS] pro Woche ohne Mindestlaufzeit, [PREIS] mit 12 Monaten und [PREIS] mit 24 Monaten. Im RED-Club Hauptstätter Straße waren es 14,90 € ohne Mindestlaufzeit, 11,90 € mit 12 Monaten und 9,90 € mit 24 Monaten.
+
+Bei ALL-IN, BLACK und den Studententarifen mit 24 Monaten waren die ersten 12 Wochen gratis (Angebot bis 27. Oktober 2026).
 
 Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
-<p class="klein">Quelle: die Clubseiten [CLUB] und [CLUB] und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Prüfe den aktuellen Preis immer beim Club.</p>
+<p class="klein">Quelle: die Clubseiten Stuttgart Hauptstätter Straße und [CLUB] und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Prüfe den aktuellen Preis immer beim Club.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
