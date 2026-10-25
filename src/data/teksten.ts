@@ -87,7 +87,7 @@ export const teksten = {
   },
   // Frans, Spaans en Portugees: voorlopig alleen landpagina's; de vaste pagina's (Over ons, Privacy) zijn Engels.
   fr: {
-    label: 'Publicité',
+    label: 'Pub',
     melding: 'Certains liens sont des liens d’affiliation : nous touchons une commission, sans frais supplémentaires pour toi.',
     meldingLink: 'Notre fonctionnement',
     meldingHref: '/disclosure/',
@@ -115,7 +115,7 @@ export const teksten = {
     home: 'Accueil',
   },
   es: {
-    label: 'Publicidad',
+    label: 'Publi',
     melding: 'Algunos enlaces son de afiliado: recibimos una comisión, sin coste adicional para ti.',
     meldingLink: 'Cómo trabajamos',
     meldingHref: '/disclosure/',
@@ -143,7 +143,7 @@ export const teksten = {
     home: 'Inicio',
   },
   pt: {
-    label: 'Publicidade',
+    label: 'Pub',
     melding: 'Alguns links são links de afiliado: recebemos uma comissão, sem custo adicional para ti.',
     meldingLink: 'Como trabalhamos',
     meldingHref: '/disclosure/',
