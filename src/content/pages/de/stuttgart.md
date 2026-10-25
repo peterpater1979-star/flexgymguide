@@ -9,7 +9,7 @@ crumb: "Stuttgart"
 kicker: "Stadtguide Stuttgart"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Stuttgart trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Stuttgart trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
