@@ -55,8 +55,8 @@ These were the prices at three London clubs in October 2026:
 
 | Club | Membership | Price | Included |
 | --- | --- | --- | --- |
-| Thomas More Square (Wapping) | Standard | From £90 a month | All classes, access to 17 clubs across the UK, 2 guest passes |
-| Thomas More Square (Wapping) | Student | From £69 a month | All classes, access to 17 clubs across the UK, 2 guest passes |
+| Thomas More Square (Wapping) | Classic | From £90 a month, first month half price | All classes, no joining fee, access to 17 clubs across the UK, 2 guest passes |
+| Thomas More Square (Wapping) | Student | From £69 a month | All classes, no joining fee, access to 17 clubs across the UK, 2 guest passes |
 | Fenchurch Street | Standard | From £110 a month | All classes, access to 21 clubs across the UK, 2 guest passes |
 | Fenchurch Street | Student | From £79 a month | All classes, access to 21 clubs across the UK, 2 guest passes |
 | London Bridge Cottons | Classic | From £130 a month, first month half price | No joining fee, multi-club access, 2 guest passes |
