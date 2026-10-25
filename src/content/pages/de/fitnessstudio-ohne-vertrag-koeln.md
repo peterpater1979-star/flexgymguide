@@ -15,7 +15,7 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Köln kannst du
 
 | | Kündigen | Preis | Gut für |
 | --- | --- | --- | --- |
-| **ClassPass** | Jederzeit, ohne Kündigungsfrist | Standardabo [ANZAHL] Credits für [PREIS] im Monat; kleinere in der App | Abwechslung in Studios in der ganzen Stadt |
+| **ClassPass** | Jederzeit, ohne Kündigungsfrist | Standardabo 42 Credits für 59 € im Monat; kleinere in der App | Abwechslung in Studios in der ganzen Stadt |
 | **Fitness First** | Monatlich | [PREIS] bis [PREIS] pro Woche, je nach Club und Tarif, plus Startgebühr und Trainingspaket | Premium-Studio mit Kursen und Wellness |
 | **McFit Flex** | Monatlich | 49,90 € im Monat, im ersten Monat 88,90 € | Günstig und oft trainieren |
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
@@ -26,8 +26,8 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Köln kannst du
 
 Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Studios in ganz Köln. Du bist an nichts gebunden: Du kündigst, wann du willst, und trainierst bis zum Ende deines Monats weiter.
 
-- **Abo in Köln:** Das Standardabo hat [ANZAHL] Credits für [PREIS] im Monat. Es gibt kleinere und größere Abos, die du in der App siehst. Mehr dazu in [ClassPass-Credits erklärt](/de/classpass-credits/).
-- **Erst ausprobieren:** [ANZAHL] kostenlos mit 10 Workouts. Lies [ClassPass kostenlos testen](/de/classpass-probezeit/).
+- **Abo in Köln:** Das Standardabo hat 42 Credits für 59 € im Monat. Es gibt kleinere und größere Abos, die du in der App siehst. Mehr dazu in [ClassPass-Credits erklärt](/de/classpass-credits/).
+- **Erst ausprobieren:** einen Monat kostenlos mit 10 Workouts. Lies [ClassPass kostenlos testen](/de/classpass-probezeit/).
 - **Pausieren:** Beim Kündigen bietet ClassPass oft eine kostenlose Pause an. Lies [ClassPass kündigen oder pausieren](/de/classpass-kuendigen/).
 
 <div class="knoppen">
