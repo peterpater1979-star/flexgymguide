@@ -17,7 +17,7 @@ Je kunt ClassPass altijd opzeggen, zonder kosten en zonder opzegtermijn. Doe het
 | --- | --- | --- | --- |
 | **Hoe** | Instellingen in de app of op de website | Bij opzeggen biedt ClassPass vaak een pauze aan, anders via de chat | Account, dan Manage plan |
 | **Wanneer** | Minstens 48 uur voor je verlengdatum | Twee maanden, vanaf je volgende verlengdatum | Vanaf je volgende verlengdatum |
-| **Kosten** | Gratis | Gratis: je stapt over naar ClassPass Lite (€ 0 per maand) | De lagere maandprijs |
+| **Kosten** | Gratis | Gratis: je stapt over naar ClassPass Lite (€ 0 p/m) | De lagere maandprijs |
 | **Je credits** | Vervallen als je abonnement stopt, ook meegenomen credits | Niet te gebruiken tijdens de pauze, daarna weer beschikbaar | De gewone meeneemregels |
 
 <h2 id="opzeggen">Zo zeg je op</h2>

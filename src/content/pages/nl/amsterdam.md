@@ -48,8 +48,8 @@ Eigen clubs met gym en groepslessen: 31 in Amsterdam, 53 in heel Nederland. Bij 
 | Kenmerk | ClassPass | Trainmore |
 | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen |
-| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104 per 4 weken, €1 korting per workout |
-| **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
+| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104/4 wkn, €1 korting per workout |
+| **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
 | **Locaties in Amsterdam** | Studio's en gyms in de hele stad, van yoga tot fitness, ook gyms waar je zelf traint, zonder les | 31 clubs (53 in heel Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Bijvoorbeeld bij Koningin Wilhelminaplein: Flex € 104, 1 jaar € 84, 2 jaar € 77 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |

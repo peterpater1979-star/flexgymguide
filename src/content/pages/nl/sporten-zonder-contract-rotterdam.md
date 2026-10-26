@@ -15,10 +15,10 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Rotterdam kun je o
 
 | | Opzeggen | Prijs | Goed voor |
 | --- | --- | --- | --- |
-| **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement € 59 per maand (40 credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
-| **Trainmore Flex** | Maandelijks | € 89 tot € 112 per 4 weken, afhankelijk van de club | Premium sportschool met groepslessen, voor wie vaak traint <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Bijvoorbeeld bij Coolsingel: Flex € 89, 1 jaar € 69, 2 jaar € 62 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="#trainmore">Alle prijzen</a></details> |
-| **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98 per 4 weken, plus € 19,99 inschrijfkosten | Goedkoop en vaak trainen, 24/7 open |
-| **SportCity Flex** | Maandelijks | € 37,99 per 4 weken bij Conradstraat (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
+| **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement € 59 p/m (40 credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
+| **Trainmore Flex** | Maandelijks | € 89 tot € 112/4 wkn, afhankelijk van de club | Premium sportschool met groepslessen, voor wie vaak traint <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Bijvoorbeeld bij Coolsingel: Flex € 89, 1 jaar € 69, 2 jaar € 62 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="#trainmore">Alle prijzen</a></details> |
+| **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98/4 wkn, plus € 19,99 inschrijving | Goedkoop en vaak trainen, 24/7 open |
+| **SportCity Flex** | Maandelijks | € 37,99/4 wkn bij Conradstraat (City One), plus € 4,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
 <p class="klein">Prijzen van oktober 2026. ClassPass: locatie Rotterdam. Basic-Fit: landelijke prijzen. SportCity: club Conradstraat. Trainmore: clubs Coolsingel, Meent, Blaak en Wijnhaven. Controleer de actuele prijs altijd bij de aanbieder.</p>
