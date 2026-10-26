@@ -89,6 +89,5 @@ Oui. Beaucoup de gens s'entraînent dans leur salle et prennent de temps en temp
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/">Faire du sport en France</a>
 <a class="knop knop-rand" href="/fr/pass-sport-ou-abonnement/">Pass sport ou abonnement ?</a>
-
 <a class="knop knop-rand" href="/fr/gyms-without-contract-paris/">In English</a>
 </div>
