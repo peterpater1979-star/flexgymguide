@@ -127,6 +127,7 @@ You can change, pause or cancel your plan at any time.
 - **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · what suits how you train
 - **[ClassPass credits explained](/guides/classpass-credits/)** · more classes from your plan
 - **[Your first class](/guides/first-class/)** · what to bring
+- **[Cancel Fitness First](/uk/cancel-fitness-first/)** · notice period and freezing
 
 ## Frequently asked questions
 
