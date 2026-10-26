@@ -9,6 +9,8 @@ crumb: "Opsig ClassPass"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Holdtræning"></div>
+
 Du kan altid opsige ClassPass, uden gebyr og uden opsigelsesperiode. Gør det mindst 48 timer før din fornyelsesdato, og brug dine credits først: de forsvinder, når dit abonnement stopper.
 
 <h2 id="kort">Kort fortalt</h2>

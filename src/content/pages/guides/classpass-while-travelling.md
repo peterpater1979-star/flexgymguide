@@ -9,6 +9,8 @@ crumb: "ClassPass while travelling"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Group class"></div>
+
 Your ClassPass plan doesn't only work in your own city. On holiday, on a work trip or visiting family, you can use the same credits in any country where ClassPass operates. There's nothing to switch: you simply search where you are.
 
 <h2 id="kort">In short</h2>

@@ -9,6 +9,8 @@ crumb: "Gyms without a contract in Berlin"
 kicker: "City guide Berlin"
 ---
 
+<div class="fotobanner foto-fitness-first-de" role="img" aria-label="Gym"></div>
+
 Just moved to Berlin, here for a semester, or not sure how long you will stay? You don't have to sign a one or two-year gym contract. These are the options to work out month by month, or only when you go.
 
 <h2 id="short">In short</h2>

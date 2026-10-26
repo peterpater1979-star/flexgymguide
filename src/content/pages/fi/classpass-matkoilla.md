@@ -9,6 +9,8 @@ crumb: "ClassPass matkoilla"
 kicker: "Opas"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Ryhmäliikuntatunti"></div>
+
 ClassPass-jäsenyytesi ei toimi vain omassa kaupungissasi. Lomalla, työmatkalla tai sukulaisten luona treenaat samoilla krediiteillä kaikissa maissa, joissa ClassPass toimii. Mitään ei tarvitse vaihtaa: haet vain siellä, missä olet.
 
 <h2 id="kort">Lyhyesti</h2>

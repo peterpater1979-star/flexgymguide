@@ -9,6 +9,8 @@ crumb: "ClassPass-krediter"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Gruppträning"></div>
+
 Med ClassPass betalar du inte per klass utan med krediter. Det är flexibelt, men kan vara förvirrande i början: samma yogaklass kan kosta olika många krediter på måndagsmorgonen och på torsdagskvällen. Så här fungerar det.
 
 <h2 id="grunderna">Grunderna</h2>

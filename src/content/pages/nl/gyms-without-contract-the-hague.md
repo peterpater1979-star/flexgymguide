@@ -9,6 +9,8 @@ crumb: "Gyms without a contract in The Hague"
 kicker: "City guide The Hague"
 ---
 
+<div class="fotobanner foto-gymketen" role="img" aria-label="Gym"></div>
+
 Just moved to The Hague, here for a few months, or not sure where you will live next year? You don't have to sign a one-year gym contract. These are the options to work out month by month, or only when you go.
 
 <h2 id="short">In short</h2>

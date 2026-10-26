@@ -9,6 +9,8 @@ crumb: "Gyms without a contract in Manchester"
 kicker: "City guide Manchester"
 ---
 
+<div class="fotobanner foto-gymketen" role="img" aria-label="Gym"></div>
+
 Studying in Manchester, here for a few months, or simply not keen on a 12-month contract? You don't have to sign one. These are the options to work out month by month, or only when you go.
 
 <h2 id="short">In short</h2>

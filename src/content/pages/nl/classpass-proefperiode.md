@@ -9,6 +9,8 @@ crumb: "ClassPass proefperiode"
 kicker: "Gids"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Groepsles"></div>
+
 Nieuwe leden kunnen ClassPass eerst proberen. Je bezoekt dan een aantal studio's en sportscholen, elk één keer. In Nederland en België krijg je nu 14 dagen gratis met 10 work-outs. In andere landen kan het aanbod anders zijn; je ziet het altijd bij het aanmelden.
 
 <h2 id="kort">In het kort</h2>

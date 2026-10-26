@@ -9,6 +9,8 @@ crumb: "ClassPass de viaje"
 kicker: "Guía"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Clase dirigida"></div>
+
 Tu plan de ClassPass no solo funciona en tu ciudad. De vacaciones, en un viaje de trabajo o visitando a la familia, usas los mismos créditos en cualquier país donde esté ClassPass. No tienes que cambiar nada: simplemente buscas donde estás.
 
 <h2 id="kort">En resumen</h2>

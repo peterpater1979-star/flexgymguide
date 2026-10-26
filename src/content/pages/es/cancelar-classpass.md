@@ -9,6 +9,8 @@ crumb: "Cancelar ClassPass"
 kicker: "Guía"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Clase dirigida"></div>
+
 Puedes cancelar ClassPass en cualquier momento, sin coste y sin preaviso. Hazlo al menos 48 horas antes de tu fecha de renovación y usa antes tus créditos: se pierden en cuanto termina tu suscripción.
 
 <h2 id="resumen">En resumen</h2>

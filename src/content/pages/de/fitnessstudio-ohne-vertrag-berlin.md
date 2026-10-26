@@ -9,6 +9,8 @@ crumb: "Fitnessstudio ohne Vertrag in Berlin"
 kicker: "Stadtguide Berlin"
 ---
 
+<div class="fotobanner foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
+
 Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Berlin kannst du auch mit einem Abo trainieren, das du jeden Monat kündigst, oder einfach pro Kurs bezahlen. Das sind deine Möglichkeiten.
 
 <h2 id="kurz">Kurz gesagt</h2>

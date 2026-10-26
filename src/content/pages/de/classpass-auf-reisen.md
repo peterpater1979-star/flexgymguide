@@ -9,6 +9,8 @@ crumb: "ClassPass auf Reisen"
 kicker: "Ratgeber"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Gruppenkurs"></div>
+
 Dein ClassPass-Abo funktioniert nicht nur in deiner eigenen Stadt. Im Urlaub, auf Geschäftsreise oder bei der Familie trainierst du mit denselben Credits in jedem Land, in dem es ClassPass gibt. Du musst nichts umstellen: Du suchst einfach dort, wo du bist.
 
 <h2 id="kort">Kurz gesagt</h2>

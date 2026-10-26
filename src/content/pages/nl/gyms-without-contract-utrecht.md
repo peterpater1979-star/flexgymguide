@@ -9,6 +9,8 @@ crumb: "Gyms without a contract in Utrecht"
 kicker: "City guide Utrecht"
 ---
 
+<div class="fotobanner foto-gymketen" role="img" aria-label="Gym"></div>
+
 Just moved to Utrecht, here for a few months, or not sure where you will live next year? You don't have to sign a one-year gym contract. These are the options to work out month by month, or only when you go.
 
 <h2 id="short">In short</h2>

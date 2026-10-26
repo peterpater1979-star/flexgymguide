@@ -9,6 +9,8 @@ crumb: "Résilier ClassPass"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Cours collectif"></div>
+
 Tu peux résilier ClassPass à tout moment, sans frais et sans préavis. Fais-le au moins 48 heures avant ta date de renouvellement et utilise d'abord tes crédits : ils sont perdus dès que ton abonnement prend fin.
 
 <h2 id="resume">En bref</h2>

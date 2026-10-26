@@ -9,6 +9,8 @@ crumb: "ClassPass-krediitit"
 kicker: "Opas"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Ryhmäliikuntatunti"></div>
+
 ClassPassissa et maksa tunneittain vaan krediiteillä. Se on joustavaa, mutta alussa vähän hämmentävää: sama joogatunti voi maksaa maanantaiaamuna eri määrän krediittejä kuin torstai-iltana. Näin se toimii.
 
 <h2 id="perusteet">Perusteet</h2>

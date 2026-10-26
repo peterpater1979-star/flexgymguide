@@ -9,6 +9,8 @@ crumb: "Prova ClassPass"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Gruppträning"></div>
+
 Nya medlemmar kan prova ClassPass först. Du besöker då ett antal studior och gym, vart och ett en gång. I Sverige får du just nu 14 dagar gratis med 10 träningspass. I andra länder kan erbjudandet vara annorlunda; du ser det alltid när du registrerar dig.
 
 <h2 id="kort">I korthet</h2>

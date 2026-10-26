@@ -9,6 +9,8 @@ crumb: "Kündigen wegen Umzug"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
+
 Ein Umzug allein ist in der Regel kein Grund, deinen Fitnessstudio-Vertrag vorzeitig zu kündigen. Das hat der Bundesgerichtshof 2016 entschieden. Trotzdem gibt es Wege: Manche Studios haben eine Umzugsregel in ihren Bedingungen, viele Ketten lassen dich in einem Club am neuen Ort weitertrainieren, und nach der Mindestlaufzeit kommst du schneller raus als früher.
 
 <p class="klein">Dieser Guide gibt allgemeine Informationen und ist keine Rechtsberatung. Im Zweifel hilft dir eine Verbraucherzentrale weiter.</p>

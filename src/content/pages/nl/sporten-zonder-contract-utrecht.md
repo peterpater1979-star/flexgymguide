@@ -9,6 +9,8 @@ crumb: "Sporten zonder contract in Utrecht"
 kicker: "Stadsgids Utrecht"
 ---
 
+<div class="fotobanner foto-gymketen" role="img" aria-label="Sportschool"></div>
+
 Geen zin om een jaar vast te zitten aan één sportschool? In Utrecht kun je ook sporten met een abonnement dat je elke maand opzegt, of gewoon per les betalen. Dit zijn de opties.
 
 <h2 id="kort">In het kort</h2>

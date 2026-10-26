@@ -9,6 +9,8 @@ crumb: "ClassPass på rejsen"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Holdtræning"></div>
+
 Dit ClassPass-abonnement virker ikke kun i din egen by. På ferie, på forretningsrejse eller hos familien træner du med de samme credits i alle lande, hvor ClassPass findes. Du skal ikke ændre noget: du søger bare, hvor du er.
 
 <h2 id="kort">Kort fortalt</h2>

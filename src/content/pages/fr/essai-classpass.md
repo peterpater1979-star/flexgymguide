@@ -9,6 +9,8 @@ crumb: "Essai ClassPass"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Cours collectif"></div>
+
 Les nouveaux membres peuvent d'abord essayer ClassPass. Tu visites alors plusieurs studios et salles de sport, chacun une fois. En France, tu as actuellement 14 jours gratuits avec 10 séances. Dans d'autres pays, l'offre peut être différente ; tu la vois toujours au moment de t'inscrire.
 
 <h2 id="resume">En bref</h2>

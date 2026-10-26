@@ -9,6 +9,8 @@ crumb: "ClassPassin irtisanominen"
 kicker: "Opas"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Ryhmäliikuntatunti"></div>
+
 Voit irtisanoa ClassPassin milloin tahansa, ilman maksua ja ilman irtisanomisaikaa. Tee se vähintään 48 tuntia ennen uusiutumispäivääsi ja käytä krediittisi ensin: ne katoavat, kun jäsenyytesi päättyy.
 
 <h2 id="lyhyesti">Lyhyesti</h2>

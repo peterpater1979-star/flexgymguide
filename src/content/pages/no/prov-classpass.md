@@ -9,6 +9,8 @@ crumb: "Prøv ClassPass"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Gruppetime"></div>
+
 Nye medlemmer kan prøve ClassPass først. Du besøker da en rekke studioer og treningssentre, hvert sted én gang. I Norge får du nå 14 dager gratis med 10 treningsøkter. I andre land kan tilbudet være annerledes; du ser det alltid når du registrerer deg.
 
 <h2 id="kort">Kort fortalt</h2>

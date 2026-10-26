@@ -9,6 +9,8 @@ crumb: "ClassPass opzeggen"
 kicker: "Gids"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Groepsles"></div>
+
 Je kunt ClassPass altijd opzeggen, zonder kosten en zonder opzegtermijn. Doe het minstens 48 uur voor je verlengdatum, en gebruik eerst je credits: die vervallen zodra je abonnement stopt.
 
 <h2 id="kort">In het kort</h2>

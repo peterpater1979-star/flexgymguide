@@ -9,6 +9,8 @@ crumb: "Créditos do ClassPass"
 kicker: "Guia"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Aula de grupo"></div>
+
 No ClassPass não pagas por aula, mas com créditos. É flexível, mas no início pode confundir: a mesma aula de ioga pode custar um número diferente de créditos na segunda de manhã e na quinta à noite. Funciona assim.
 
 <h2 id="basico">O básico</h2>

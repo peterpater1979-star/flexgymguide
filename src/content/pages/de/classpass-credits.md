@@ -9,6 +9,8 @@ crumb: "ClassPass-Credits"
 kicker: "Ratgeber"
 ---
 
+<div class="fotobanner foto-classpass" role="img" aria-label="Gruppenkurs"></div>
+
 Bei ClassPass zahlst du nicht pro Kurs, sondern mit Credits. Das ist flexibel, am Anfang aber auch verwirrend: Derselbe Yogakurs kann am Montagmorgen eine andere Zahl an Credits kosten als am Donnerstagabend. So funktioniert es.
 
 <h2 id="grundlagen">Die Grundlagen</h2>
