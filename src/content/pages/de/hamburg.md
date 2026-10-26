@@ -1,5 +1,5 @@
 ---
-title: "Flexibel trainieren in Hamburg: ClassPass, Fitness First und mehr"
+title: "ClassPass Hamburg und Fitness First: flexibel trainieren"
 path: "/de/hamburg/"
 description: "Flexibel trainieren in Hamburg: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 17 Clubs trainieren. So findest du, was zu dir passt."
 lang: de

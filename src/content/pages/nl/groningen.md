@@ -1,5 +1,5 @@
 ---
-title: "Flexibel sporten in Groningen: ClassPass of Trainmore"
+title: "ClassPass Groningen en Trainmore: flexibel sporten"
 path: "/nl/groningen/"
 description: "Geen zin in een jaarcontract bij één sportschool? In Groningen kun je met ClassPass afwisselen tussen gyms en studio's, of kiezen voor Trainmore met een gratis proefles."
 lang: nl

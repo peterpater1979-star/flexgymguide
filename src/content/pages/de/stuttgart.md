@@ -1,5 +1,5 @@
 ---
-title: "Flexibel trainieren in Stuttgart: ClassPass, Fitness First und mehr"
+title: "ClassPass Stuttgart und Fitness First: flexibel trainieren"
 path: "/de/stuttgart/"
 description: "Flexibel trainieren in Stuttgart: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 4 Clubs trainieren. So findest du, was zu dir passt."
 lang: de

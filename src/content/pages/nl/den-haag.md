@@ -1,5 +1,5 @@
 ---
-title: "Flexibel sporten in Den Haag: ClassPass of Trainmore"
+title: "ClassPass Den Haag en Trainmore: flexibel sporten"
 path: "/nl/den-haag/"
 description: "Geen zin in een jaarcontract bij één sportschool? In Den Haag kun je met ClassPass afwisselen tussen gyms en studio's, of kiezen voor Trainmore met een gratis proefles."
 lang: nl

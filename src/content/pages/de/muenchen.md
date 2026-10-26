@@ -1,5 +1,5 @@
 ---
-title: "Flexibel trainieren in München: ClassPass, Fitness First und mehr"
+title: "ClassPass München und Fitness First: flexibel trainieren"
 path: "/de/muenchen/"
 description: "Flexibel trainieren in München: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 8 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
