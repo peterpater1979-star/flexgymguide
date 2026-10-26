@@ -115,6 +115,7 @@ Je kunt je abonnement op elk moment aanpassen, pauzeren of opzeggen.
 - **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
 - **[Basic-Fit opzeggen](/nl/basic-fit-opzeggen/)** · opzegtermijn en alternatieven
 - **[SportCity opzeggen](/nl/sportcity-opzeggen/)** · opzegtermijn en alternatieven
+- **[Trainmore opzeggen](/nl/trainmore-opzeggen/)** · opzegtermijn en bevriezen
 
 ## Veelgestelde vragen
 

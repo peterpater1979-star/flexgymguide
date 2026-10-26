@@ -72,7 +72,7 @@ Maandelijks opzegbaar. Je betaalt het hoogste bedrag per 4 weken, maar zit nerge
 
 ### 1 of 2 jaar
 
-Je zegt op per einde contract. Daarna loopt het lidmaatschap door met een opzegtermijn van 1 maand. Opzeggen kan in de app.
+Je zegt op per einde contract. Daarna loopt het lidmaatschap door met een opzegtermijn van 1 maand. Opzeggen kan in de app. Alles over de opzegtermijn, tussentijds stoppen en bevriezen lees je in [Trainmore opzeggen](/nl/trainmore-opzeggen/).
 
 </div>
 
