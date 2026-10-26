@@ -105,4 +105,5 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/eindhoven/">Flexibel sporten in Eindhoven</a>
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
+<a class="knop knop-rand" href="/nl/gyms-without-contract-eindhoven/">In English</a>
 </div>

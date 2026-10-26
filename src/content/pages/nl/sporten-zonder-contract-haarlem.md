@@ -105,4 +105,5 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/haarlem/">Flexibel sporten in Haarlem</a>
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
+<a class="knop knop-rand" href="/nl/gyms-without-contract-haarlem/">In English</a>
 </div>

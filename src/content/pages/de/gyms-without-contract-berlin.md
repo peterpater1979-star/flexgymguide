@@ -51,7 +51,7 @@ With ALL-IN and BLACK for 24 months, the first 12 weeks were free. Students, pup
 
 Without a minimum term you pay a one-off startup fee of €39. On top of that comes a training package of €39 or €49, charged every six months. With 24 months there is no startup fee, and you can pause for free for up to 12 weeks. You can switch to the 24-month membership at any time. Not sure? Book a free trial session first.
 
-<p class="klein">Source: the club pages for Berlin Schöneberg and Gendarmenmarkt and <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (October 2026). The 12 free weeks were an offer until 27 October 2026. Always check the current price with the club.</p>
+<p class="klein">Source: the club pages for Berlin Schöneberg and Gendarmenmarkt and <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (October 2026). The 12 free weeks were an offer until 27 October 2026. Always check the current price with the club. Cancelling: see <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a> (in German).</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">All about Fitness First (in German)</a>

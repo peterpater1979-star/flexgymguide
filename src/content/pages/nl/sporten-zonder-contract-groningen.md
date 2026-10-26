@@ -105,4 +105,5 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/groningen/">Flexibel sporten in Groningen</a>
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
+<a class="knop knop-rand" href="/nl/gyms-without-contract-groningen/">In English</a>
 </div>

@@ -52,7 +52,7 @@ Bei ALL-IN, BLACK und den Studententarifen mit 24 Monaten waren die ersten 12 Wo
 
 Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
-<p class="klein">Quelle: die Clubseiten Köln Breite Straße und Köln Mediapark und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Prüfe den aktuellen Preis immer beim Club.</p>
+<p class="klein">Quelle: die Clubseiten Köln Breite Straße und Köln Mediapark und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -110,4 +110,5 @@ Ja. Viele trainieren im Gym ihres Studios und machen ab und zu über ClassPass e
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/koeln/">Flexibel trainieren in Köln</a>
 <a class="knop knop-rand" href="/de/sportpass-oder-mitgliedschaft/">Sportpass oder Mitgliedschaft?</a>
+<a class="knop knop-rand" href="/de/gyms-without-contract-cologne/">In English</a>
 </div>
