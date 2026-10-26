@@ -87,6 +87,20 @@ Je kunt je abonnement altijd aanpassen, pauzeren of opzeggen.
 
 [Lees de volledige uitleg (Engels)](/guides/how-classpass-works/)
 
+<h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
+
+Mis je nog iets? Via deze links zoek je direct bij Amazon.nl, dat ook naar België levert:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding/">Sportkleding</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen/">Sportschoenen</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
+</ul>
+
+<p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
+
 <h2 id="gidsen">Gidsen</h2>
 
 - **[Sportpas of abonnement?](/nl/sportpas-of-abonnement/)** · wat past bij hoe jij traint
