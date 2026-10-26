@@ -1,5 +1,5 @@
 ---
-title: "Flexibel trainieren in München: ClassPass, Fitness First und mehr"
+title: "ClassPass München und Fitness First: flexibel trainieren"
 path: "/de/muenchen/"
 description: "Flexibel trainieren in München: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 8 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -9,7 +9,7 @@ crumb: "München"
 kicker: "Stadtguide München"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In München trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In München trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in München](/de/fitnessstudio-ohne-vertrag-muenchen/).
 
 <h2 id="blick">Auf einen Blick</h2>
 

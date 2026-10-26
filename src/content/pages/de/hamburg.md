@@ -1,5 +1,5 @@
 ---
-title: "Flexibel trainieren in Hamburg: ClassPass, Fitness First und mehr"
+title: "ClassPass Hamburg und Fitness First: flexibel trainieren"
 path: "/de/hamburg/"
 description: "Flexibel trainieren in Hamburg: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 17 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -9,7 +9,7 @@ crumb: "Hamburg"
 kicker: "Stadtguide Hamburg"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Hamburg trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Hamburg trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
 
 <h2 id="blick">Auf einen Blick</h2>
 

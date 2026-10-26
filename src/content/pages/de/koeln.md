@@ -1,5 +1,5 @@
 ---
-title: "Flexibel trainieren in Köln: ClassPass, Fitness First und mehr"
+title: "ClassPass Köln und Fitness First: flexibel trainieren"
 path: "/de/koeln/"
 description: "Flexibel trainieren in Köln: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 14 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -9,7 +9,7 @@ crumb: "Köln"
 kicker: "Stadtguide Köln"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Köln trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Köln trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Köln](/de/fitnessstudio-ohne-vertrag-koeln/).
 
 <h2 id="blick">Auf einen Blick</h2>
 

@@ -1,5 +1,5 @@
 ---
-title: "Flexibel trainieren in Düsseldorf: ClassPass, Fitness First und mehr"
+title: "ClassPass Düsseldorf und Fitness First: flexibel trainieren"
 path: "/de/duesseldorf/"
 description: "Flexibel trainieren in Düsseldorf: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 5 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -9,7 +9,7 @@ crumb: "Düsseldorf"
 kicker: "Stadtguide Düsseldorf"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Düsseldorf trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Düsseldorf trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
 
 <h2 id="blick">Auf einen Blick</h2>
 

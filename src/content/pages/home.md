@@ -42,6 +42,7 @@ Each country has its own guide, in its own language, with local prices and provi
 - **[België](/be/)** · In Dutch · ClassPass
 - **[Portugal](/pt/)** · In Portuguese · ClassPass
 - **[Ireland](/ie/)** · In English · ClassPass
+- **[Luxembourg](/lu/)** · In English · Gym chains without a long contract
 - **[Danmark](/dk/)** · In Danish · ClassPass
 - **[Sverige](/se/)** · In Swedish · ClassPass
 - **[Norge](/no/)** · In Norwegian · ClassPass
@@ -112,6 +113,9 @@ A membership at one chain, with the gym floor and group classes, usually after a
 ## Guides
 
 - **[How ClassPass works](/guides/how-classpass-works/)** · Credits, plans, and what to watch out for.
+- **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · What suits how you train.
+- **[ClassPass credits explained](/guides/classpass-credits/)** · Getting more classes out of your plan.
+- **[Your first class](/guides/first-class/)** · What to bring and what to expect.
 
 </div>
 

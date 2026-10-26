@@ -9,7 +9,7 @@ crumb: "London"
 kicker: "City guide London"
 ---
 
-Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. Here's what suits you.
+Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. Here's what suits you. Don't want to be tied down at all? Read [Gyms without a contract in London](/uk/gyms-without-contract-london/).
 
 <h2 id="glance">At a glance</h2>
 

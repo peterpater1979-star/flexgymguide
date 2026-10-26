@@ -1,5 +1,5 @@
 ---
-title: "Flexibel trainieren in Wien: ClassPass und Fitness First"
+title: "ClassPass Wien und Fitness First: flexibel trainieren"
 path: "/at/wien/"
 description: "Flexibel trainieren in Wien: ClassPass mit Studios in vielen Bezirken oder Fitness First mit 4 Clubs in und um Wien. So findest du, was zu dir passt."
 lang: de
@@ -9,7 +9,7 @@ crumb: "Wien"
 kicker: "Stadtguide Wien"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Wien trainierst du mit einem Sportpass in Studios in vielen Bezirken oder wählst eine Fitnessstudiokette mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Wien trainierst du mit einem Sportpass in Studios in vielen Bezirken oder wählst eine Fitnessstudiokette mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Wien](/at/fitnessstudio-ohne-vertrag-wien/).
 
 <h2 id="blick">Auf einen Blick</h2>
 

@@ -87,6 +87,12 @@ Voit muuttaa, keskeyttää tai irtisanoa jäsenyytesi milloin tahansa.
 
 [Lue koko opas (englanniksi)](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Oppaat</h2>
+
+- **[Treenipassi vai sali?](/fi/treenipassi-vai-salijasenyys/)** · mikä sopii sinulle
+- **[ClassPass-krediitit selitettynä](/fi/classpass-krediitit/)** · enemmän tunteja tilauksesta
+- **[Ensimmäinen tuntisi](/fi/ensimmainen-tunti/)** · mitä ottaa mukaan
+
 ## Usein kysyttyä
 
 <details open>

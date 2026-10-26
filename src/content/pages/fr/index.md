@@ -79,6 +79,13 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 
 [Lire le guide complet (en anglais)](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Guides</h2>
+
+- **[Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)** · ce qui te correspond
+- **[Les crédits ClassPass](/fr/credits-classpass/)** · plus de cours avec ton abonnement
+- **[Ton premier cours](/fr/premier-cours/)** · quoi emporter
+- **[Résilier Basic-Fit](/fr/resilier-basic-fit/)** · préavis et alternatives
+
 ## Questions fréquentes
 
 <details open>

@@ -1,5 +1,5 @@
 ---
-title: "Flexibel trainieren in Frankfurt am Main: ClassPass, Fitness First und mehr"
+title: "ClassPass Frankfurt und Fitness First: flexibel trainieren"
 path: "/de/frankfurt/"
 description: "Flexibel trainieren in Frankfurt am Main: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 12 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -9,7 +9,7 @@ crumb: "Frankfurt am Main"
 kicker: "Stadtguide Frankfurt am Main"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Frankfurt am Main trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Frankfurt am Main trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 
 <h2 id="blick">Auf einen Blick</h2>
 

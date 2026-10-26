@@ -1,5 +1,5 @@
 ---
-title: "Flexibel sporten in Eindhoven: ClassPass of Trainmore"
+title: "ClassPass Eindhoven en Trainmore: flexibel sporten"
 path: "/nl/eindhoven/"
 description: "Geen zin in een jaarcontract bij één sportschool? In Eindhoven kun je met ClassPass afwisselen tussen gyms en studio's, of kiezen voor Trainmore met een gratis proefles."
 lang: nl
@@ -9,7 +9,7 @@ crumb: "Eindhoven"
 kicker: "Stadsgids Eindhoven"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Eindhoven kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past.
+Geen zin in een jaarcontract bij één sportschool? In Eindhoven kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past. Wil je je helemaal niet vastleggen? Lees [Sporten zonder contract in Eindhoven](/nl/sporten-zonder-contract-eindhoven/).
 
 <h2 id="kort">In het kort</h2>
 
@@ -33,7 +33,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 ### Trainmore
 
-Eigen clubs met gym en groepslessen: 2 in Eindhoven, 53 in heel Nederland.
+Eigen clubs met gym en groepslessen: 2 in Eindhoven, 53 in heel Nederland. Bij Lichttoren vanaf € 60 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Met een contract krijg je € 1 korting per workout.
 
 [Bekijk Trainmore](#trainmore)
 
@@ -48,10 +48,10 @@ Eigen clubs met gym en groepslessen: 2 in Eindhoven, 53 in heel Nederland.
 | Kenmerk | ClassPass | Trainmore |
 | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen |
-| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 weken, €1 korting per workout |
-| **Hoe werkt het** | Credits per maand, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
+| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout bij een contract |
+| **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
 | **Locaties in Eindhoven** | Studio's in het centrum, op Strijp-S, in Stratum en daarbuiten | 2 clubs (53 in heel Nederland) |
-| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app |
+| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Lichttoren: Flex € 87, 1 jaar € 67, 2 jaar € 60 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
 | **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) |
@@ -123,7 +123,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 2 in Eindhoven. Met een lidmaatsc
 
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 2 in Eindhoven
-- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt
+- €1 korting per workout bij een contract (maximaal 1 per dag, niet bij Flex): hoe vaker je traint, hoe minder je betaalt. Drie keer per week scheelt zo'n €12 per 4 weken
 - Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
 - Een gratis proefles om eerst te testen
 

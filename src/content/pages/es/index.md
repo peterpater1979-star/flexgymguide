@@ -79,6 +79,13 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 
 [Lee la guía completa (en inglés)](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Guías</h2>
+
+- **[¿Pase o gimnasio?](/es/pase-o-gimnasio/)** · lo que encaja contigo
+- **[Los créditos de ClassPass](/es/creditos-classpass/)** · más clases con tu plan
+- **[Tu primera clase](/es/primera-clase/)** · qué llevar
+- **[Darse de baja en Basic-Fit](/es/baja-basic-fit/)** · preaviso y alternativas
+
 ## Preguntas frecuentes
 
 <details open>

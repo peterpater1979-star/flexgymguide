@@ -65,16 +65,18 @@ Unused credits roll over, up to the number of credits in your next month's plan.
 
 </div>
 
+More tips in [ClassPass credits explained](/guides/classpass-credits/).
+
 </div>
 
 <div id="steps">
 
 ## Step by step
 
-1.  1 Start your free trialSign up and get trial credits to try classes and gym visits.
-2.  2 Find classes near youSearch by city, neighbourhood or postcode, and filter by activity and time.
-3.  3 Book with creditsReserve your spot in the app. No separate account at the studio needed.
-4.  4 Pick a plan after the trialChoose the number of credits that fits how often you train.
+1. **Start your free trial.** Sign up and get trial credits to try classes and gym visits.
+2. **Find classes near you.** Search by city, neighbourhood or postcode, and filter by activity and time.
+3. **Book with credits.** Reserve your spot in the app. No separate account at the studio needed.
+4. **Pick a plan after the trial.** Choose the number of credits that fits how often you train.
 
 </div>
 
@@ -120,6 +122,8 @@ Your membership works wherever ClassPass is available. Credit values, availabili
 - Use the same gym four or more times a week
 - Want unlimited visits to one club
 
+Not sure? Read [Gym pass or gym membership?](/guides/gym-pass-or-membership/)
+
 </div>
 
 </div>
@@ -164,7 +168,7 @@ Yes. Besides classes such as yoga and Pilates, you can book gym visits at partic
 
 ## Plans and cancelling
 
-You're never locked in: you can change or cancel your plan at any time. Prices and credit amounts differ per country, so check the details for where you live.
+You're never locked in: you can change or cancel your plan at any time ([how to cancel or pause](/guides/cancel-or-pause-classpass/)). Prices and credit amounts differ per country, so check the details for where you live.
 
 - **[ClassPass in the UK](/uk/classpass/)** · Prices in £, English
 - **[ClassPass in Ireland](/ie/classpass/)** · Prices in €, English

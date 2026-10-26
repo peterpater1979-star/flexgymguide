@@ -83,6 +83,12 @@ Podes alterar, pausar ou cancelar o teu plano a qualquer momento.
 
 [Lê o guia completo (em inglês)](/guides/how-classpass-works/)
 
+<h2 id="gidsen">Guias</h2>
+
+- **[Passe ou ginásio?](/pt/passe-ou-ginasio/)** · o que combina contigo
+- **[Os créditos do ClassPass](/pt/creditos-classpass/)** · mais aulas com o teu plano
+- **[A tua primeira aula](/pt/primeira-aula/)** · o que levar
+
 ## Perguntas frequentes
 
 <details open>
