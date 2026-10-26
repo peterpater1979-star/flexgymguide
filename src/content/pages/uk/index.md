@@ -51,7 +51,7 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 
 </div>
 
-<div class="kolom kaart">
+<div class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-gymketen"><span>Low-cost gym</span></div>
 
