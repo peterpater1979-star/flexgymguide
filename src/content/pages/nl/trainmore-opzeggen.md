@@ -87,3 +87,8 @@ Alleen als je de rest van je contract betaalt. Bij een contract van 2 jaar kun j
 Alleen om medische redenen, met bewijs, voor 1 tot 6 maanden. De pauze komt achter aan je contract.
 
 </details>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
+<a class="knop knop-rand" href="/nl/cancel-trainmore/">In English</a>
+</div>

@@ -49,7 +49,7 @@ Trainmore is a premium gym chain with group classes and clubs in the city centre
 
 **A discount when you train more.** At Trainmore you pay less the more often you go: you get €1 off per workout, at most one a day and €28 per 4 weeks, only with a 1- or 2-year contract, not with Flex. You check in and out with the QR code in the Trainmore app and train for at least 30 minutes; a group class on its own doesn't count. Every visit counts on its own, so you don't need a fixed schedule. This works at every Trainmore club: train three times a week and that saves about €12 per 4 weeks. At Munnekeholm, for example, a 1-year contract then costs €43 instead of €55. Student memberships don't get it either.
 
-At a Regular club you train at your own club. The other club in Groningen is a Red Label club with different prices; check them on the Trainmore website. Students pay €41 per 4 weeks at Munnekeholm for 1 year, with no startup costs. With Flex you don't get the member discount at Trainmore's partner brands, but you do get the training plan in the app. With a 2-year contract there are no startup costs. You cancel in the app.
+At a Regular club you train at your own club. The other club in Groningen is a Red Label club with different prices; check them on the Trainmore website. Students pay €41 per 4 weeks at Munnekeholm for 1 year, with no startup costs. With Flex you don't get the member discount at Trainmore's partner brands, but you do get the training plan in the app. With a 2-year contract there are no startup costs. You cancel in the app; see [Cancelling Trainmore](/nl/cancel-trainmore/).
 
 <h2 id="basic-fit">Basic-Fit Flex: no minimum term</h2>
 

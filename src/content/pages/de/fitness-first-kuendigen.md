@@ -89,4 +89,5 @@ Ja, für 4, 8 oder 12 Wochen, ohne Beiträge. Deine Vertragslaufzeit verlängert
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
+<a class="knop knop-rand" href="/de/cancel-fitness-first-germany/">In English</a>
 </div>
