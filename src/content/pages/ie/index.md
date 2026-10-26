@@ -86,6 +86,21 @@ You can change, pause or cancel your plan at any time.
 
 [Read the full guide](/guides/how-classpass-works/)
 
+<h2 id="spullen">Need anything for the gym?</h2>
+
+Amazon.de also delivers to Ireland. These links take you straight to Amazon.de; you can switch the site to English at the top of the page.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Sportswear</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Training shoes</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Gym towel</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Locker padlock</a></li>
+<li class="i-fles"><a href="/go/amazon-de-shaker/">Protein shaker</a></li>
+</ul>
+
+<p class="klein">As an Amazon Associate we earn from qualifying purchases. The price stays the same for you.</p>
+
 <h2 id="gidsen">Guides</h2>
 
 - **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · what suits how you train
