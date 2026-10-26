@@ -44,6 +44,8 @@ Du kannst deine Kündigung laut Fitness First bis zum Ende deiner Mitgliedschaft
 
 Fitness First bietet eine Pause von 4, 8 oder 12 Wochen an. Während der Pause zahlst du keine Beiträge, und du kannst weiter mit der Fitness-First-App trainieren. Beachte: Deine Vertragslaufzeit verlängert sich um die Dauer der Pause. Die Pause beantragst du auf fitnessfirst.de/kuendigung.
 
+Mit einer Laufzeit von 24 Monaten gehört laut Tarifbeschreibung eine kostenlose Pause von bis zu 12 Wochen pro Kalenderjahr dazu, die du jederzeit nehmen kannst.
+
 <p class="klein">Quellen: fitnessfirst.de/kuendigung, das Kündigungsformular, die Widerrufsbelehrung und die AGB von Fitness First (Oktober 2026). Prüf die aktuellen Bedingungen immer bei Fitness First und in deinem Vertrag.</p>
 
 <h2 id="alternativen">Und jetzt? Flexible Alternativen</h2>
@@ -80,7 +82,7 @@ Nein, bei einer ordentlichen Kündigung ist der Grund freiwillig. Bei einer auß
 <details>
 <summary>Kann ich meine Mitgliedschaft pausieren?</summary>
 
-Ja, für 4, 8 oder 12 Wochen, ohne Beiträge. Deine Vertragslaufzeit verlängert sich um die Pause.
+Ja, für 4, 8 oder 12 Wochen, ohne Beiträge. Deine Vertragslaufzeit verlängert sich um die Pause. Bei 24 Monaten Laufzeit sind bis zu 12 Wochen Pause pro Kalenderjahr inklusive.
 
 </details>
 
