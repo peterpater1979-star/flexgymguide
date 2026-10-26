@@ -88,61 +88,6 @@ Du kan ændre, sætte på pause eller opsige dit abonnement når som helst.
 
 <h2 id="spullen">Mangler du noget til træningen?</h2>
 
-- **Behageligt tøj**, der bevæger sig med dig og lader sveden komme ud, fx tights eller shorts og en åndbar t-shirt
-- **Sko til aktiviteten**, eller rene indendørssko, hvis studiet beder om det
-- **En vandflaske**, for ikke alle studier sælger drikkevarer
-- **Et lille håndklæde** til træningsgulvet eller et svedigt hold
-- **En hængelås**, hvis skabene ikke har deres egen lås
-- **Din telefon** med bookingen eller medlemskabet i appen
-
-<h2 id="aktivitet">Hvad du skal have med til hver aktivitet</h2>
-
-<div class="kolommen">
-
-<div class="kolom kaart">
-
-### Yoga og pilates
-
-Tætsiddende tøj, der ikke glider op, når du bøjer dig. Du træner som regel barfodet eller i skridsikre sokker. Mange studier har måtter, men tjek det, når du booker.
-
-</div>
-
-<div class="kolom kaart">
-
-### Boksning og kickboksning
-
-Træningssko med flad sål, eller barfodet, hvis studiet beder om det. Bandager og handsker: Nogle studier lejer dem ud, andre forventer, at du har dine egne med.
-
-</div>
-
-<div class="kolom kaart">
-
-### Spinning
-
-En åndbar t-shirt og shorts eller tights, der ikke hænger fast i sadlen. Almindelige træningssko er fine; cykelsko er en fordel, hvis cyklerne har klikpedaler.
-
-</div>
-
-<div class="kolom kaart">
-
-### Styrketræning
-
-Sko med en flad, fast sål til squats og løft. Et håndklæde til bænkene og tøj, hvor du kan se din holdning.
-
-</div>
-
-</div>
-
-<h2 id="tips">Fem tips til dit første besøg</h2>
-
-1. **Kom ti minutter før.** Så har du tid til at finde omklædningsrummet eller få en kort introduktion. Ved indgangen tjekker du ind: i receptionen, hvor en medarbejder registrerer dig, på en skærm eller med en QR-kode, du har fået på mail.
-2. **Sig, at det er første gang.** I receptionen forklarer de dig, hvor du kan klæde om, og hvor holdet er. Instruktøren kan vise dig det grundlæggende og foreslå lettere varianter.
-3. **Nævn skader.** Et ømt knæ eller en øm ryg er godt for instruktøren at vide, før du starter.
-4. **Start på dit eget niveau.** Ingen forventer, at du kan følge med de faste deltagere på din første time.
-5. **Tjek afbudsreglerne.** Med et træningspas eller en prøvetime kan sent afbud koste credits eller et gebyr.
-
-<h2 id="udstyr">Mangler du noget?</h2>
-
 Disse links fører dig direkte til Amazon.de, som også leverer til Danmark. Siden er på tysk, men du kan vælge engelsk øverst på siden.
 
 <ul class="spullen">

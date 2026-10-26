@@ -110,61 +110,6 @@ Je kunt je abonnement op elk moment aanpassen, pauzeren of opzeggen.
 
 <h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
 
-- **Comfortabele kleding** die meebeweegt en zweet doorlaat, zoals een legging of korte broek en een ademend shirt
-- **Schoenen voor de activiteit**, of schone binnenschoenen als de studio daarom vraagt
-- **Een waterfles**, want niet elke studio verkoopt drinken
-- **Een kleine handdoek** voor de gymvloer of een zweterige les
-- **Een hangslot** als de kluisjes geen eigen slot hebben
-- **Je telefoon** met de boeking of het abonnement in de app
-
-<h2 id="activiteit">Wat neem je mee per activiteit</h2>
-
-<div class="kolommen">
-
-<div class="kolom kaart">
-
-### Yoga en pilates
-
-Nauwsluitende kleding die niet omhoog schuift als je bukt. Je traint meestal op blote voeten of op antislipsokken. Veel studio's hebben matten, maar check dat bij het boeken.
-
-</div>
-
-<div class="kolom kaart">
-
-### Boksen en kickboksen
-
-Sportschoenen met een vlakke zool, of blote voeten als de studio dat vraagt. Bandages en handschoenen: sommige studio's verhuren ze, andere verwachten dat je ze zelf meeneemt.
-
-</div>
-
-<div class="kolom kaart">
-
-### Spinning
-
-Een ademend shirt en een korte broek of legging die niet aan het zadel blijft haken. Gewone sportschoenen zijn prima; fietsschoenen zijn handig als de fietsen klikpedalen hebben.
-
-</div>
-
-<div class="kolom kaart">
-
-### Krachttraining
-
-Schoenen met een vlakke, stevige zool voor squats en tillen. Een handdoek voor op de bankjes, en kleding waarin je je houding goed ziet.
-
-</div>
-
-</div>
-
-<h2 id="tips">Vijf tips voor je eerste bezoek</h2>
-
-1. **Kom tien minuten eerder.** Dan heb je tijd om de kleedkamer te vinden of een korte uitleg te krijgen. Bij de ingang meld je je aan: bij de balie, waar een medewerker je aanwezig zet, op een scherm, of met een QR-code die je per e-mail hebt gekregen.
-2. **Zeg dat je voor het eerst bent.** Bij de balie leggen ze je dan uit waar je je kunt omkleden en waar de les is. De instructeur kan je de basis laten zien en makkelijkere varianten voorstellen.
-3. **Meld blessures.** Een pijnlijke knie of rug is goed om vooraf te vertellen.
-4. **Begin op je eigen niveau.** Niemand verwacht dat je in je eerste les de vaste deelnemers bijhoudt.
-5. **Check de annuleringsregels.** Met een sportpas of proefles kan te laat afzeggen credits of een boete kosten.
-
-<h2 id="spullen">Nog iets nodig?</h2>
-
 Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
 
 <ul class="spullen">

@@ -85,6 +85,7 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 - **[Los créditos de ClassPass](/es/creditos-classpass/)** · más clases con tu plan
 - **[Tu primera clase](/es/primera-clase/)** · qué llevar
 - **[Darse de baja en Basic-Fit](/es/baja-basic-fit/)** · preaviso y alternativas
+- **[Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/)** · opciones mes a mes
 
 ## Preguntas frecuentes
 

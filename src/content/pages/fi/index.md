@@ -89,61 +89,6 @@ Voit muuttaa, keskeyttää tai irtisanoa jäsenyytesi milloin tahansa.
 
 <h2 id="spullen">Puuttuuko jotain treeneihin?</h2>
 
-- **Mukavat vaatteet**, jotka liikkuvat mukana ja hengittävät, kuten trikoot tai shortsit ja hengittävä paita
-- **Lajiin sopivat kengät**, tai puhtaat sisäkengät, jos studio sitä pyytää
-- **Vesipullo**, koska kaikki studiot eivät myy juomia
-- **Pieni pyyhe** salille tai hikiselle tunnille
-- **Riippulukko**, jos kaapeissa ei ole omaa lukkoa
-- **Puhelimesi**, jossa varaus tai jäsenyys on sovelluksessa
-
-<h2 id="laji">Mitä ottaa mukaan lajin mukaan</h2>
-
-<div class="kolommen">
-
-<div class="kolom kaart">
-
-### Jooga ja pilates
-
-Myötäilevät vaatteet, jotka eivät nouse ylös kumartuessa. Treenaat yleensä paljain jaloin tai liukuestesukissa. Monessa studiossa on alustat, mutta tarkista se varatessa.
-
-</div>
-
-<div class="kolom kaart">
-
-### Nyrkkeily ja potkunyrkkeily
-
-Treenikengät, joissa on tasainen pohja, tai paljain jaloin, jos studio pyytää. Siteet ja hanskat: jotkin studiot vuokraavat niitä, toiset odottavat, että tuot omat.
-
-</div>
-
-<div class="kolom kaart">
-
-### Spinning
-
-Hengittävä paita ja shortsit tai trikoot, jotka eivät tartu satulaan. Tavalliset treenikengät riittävät; pyöräilykengät ovat plussaa, jos pyörissä on lukkopolkimet.
-
-</div>
-
-<div class="kolom kaart">
-
-### Voimaharjoittelu
-
-Kengät, joissa on tasainen ja tukeva pohja kyykkyihin ja nostoihin. Pyyhe penkeille ja vaatteet, joissa näet asentosi.
-
-</div>
-
-</div>
-
-<h2 id="vinkit">Viisi vinkkiä ensimmäiselle käynnille</h2>
-
-1. **Tule kymmenen minuuttia etuajassa.** Ehdit löytää pukuhuoneen tai saada lyhyen perehdytyksen. Sisäänkäynnillä ilmoittaudut: vastaanotossa, jossa työntekijä merkitsee sinut paikalle, näytöllä tai sähköpostiin saamallasi QR-koodilla.
-2. **Kerro, että olet ensimmäistä kertaa.** Vastaanotossa sinulle kerrotaan, missä voit vaihtaa vaatteet ja missä tunti pidetään. Ohjaaja voi näyttää perusteet ja ehdottaa helpompia vaihtoehtoja.
-3. **Mainitse vammat.** Kipeä polvi tai selkä on hyvä kertoa ohjaajalle ennen aloitusta.
-4. **Aloita omalta tasoltasi.** Kukaan ei odota, että pysyt vakiokävijöiden tahdissa ensimmäisellä tunnillasi.
-5. **Tarkista peruutusehdot.** Treenipassilla tai kokeilutunnilla myöhäinen peruutus voi maksaa krediittejä tai maksun.
-
-<h2 id="varusteet">Puuttuuko jotain?</h2>
-
 Nämä linkit vievät suoraan Amazon.de-sivustolle, joka toimittaa myös Suomeen. Sivusto on saksaksi, mutta voit vaihtaa kieleksi englannin sivun yläosasta.
 
 <ul class="spullen">

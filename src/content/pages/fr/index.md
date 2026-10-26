@@ -81,61 +81,6 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 
 <h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
 
-- **Des vêtements confortables** qui suivent tes mouvements et laissent respirer, comme un legging ou un short et un t-shirt respirant
-- **Des chaussures adaptées à l’activité**, ou des chaussures propres d’intérieur si le studio le demande
-- **Une gourde**, car tous les studios ne vendent pas de boissons
-- **Une petite serviette** pour la salle ou un cours qui fait transpirer
-- **Un cadenas** si les casiers n’ont pas leur propre serrure
-- **Ton téléphone** avec la réservation ou l’abonnement dans l’appli
-
-<h2 id="activite">Quoi emporter selon l’activité</h2>
-
-<div class="kolommen">
-
-<div class="kolom kaart">
-
-### Yoga et Pilates
-
-Des vêtements ajustés qui ne remontent pas quand tu te penches. On pratique en général pieds nus ou en chaussettes antidérapantes. Beaucoup de studios prêtent des tapis, mais vérifie-le en réservant.
-
-</div>
-
-<div class="kolom kaart">
-
-### Boxe et kickboxing
-
-Des baskets à semelle plate, ou pieds nus si le studio le demande. Bandes et gants : certains studios les louent, d’autres attendent que tu apportes les tiens.
-
-</div>
-
-<div class="kolom kaart">
-
-### Spinning
-
-Un haut respirant et un short ou legging qui ne s’accroche pas à la selle. Des baskets normales suffisent ; des chaussures de vélo sont un plus si les vélos ont des pédales automatiques.
-
-</div>
-
-<div class="kolom kaart">
-
-### Musculation
-
-Des chaussures à semelle plate et ferme pour les squats et les levées. Une serviette pour les bancs et des vêtements qui te laissent voir ta posture.
-
-</div>
-
-</div>
-
-<h2 id="conseils">Cinq conseils pour ta première visite</h2>
-
-1. **Arrive dix minutes en avance.** Tu as le temps de trouver le vestiaire ou d’avoir une petite présentation. À l’entrée, tu t’enregistres : à l’accueil, où quelqu’un note ta présence, sur un écran, ou avec un QR code reçu par e-mail.
-2. **Dis que c’est ta première fois.** À l’accueil, on t’explique alors où te changer et où a lieu le cours. Le coach peut te montrer les bases et proposer des variantes plus faciles.
-3. **Signale tes blessures.** Un genou ou un dos sensible, c’est bon à savoir avant de commencer.
-4. **Commence à ton niveau.** Personne ne s’attend à ce que tu suives les habitués dès ton premier cours.
-5. **Vérifie les règles d’annulation.** Avec un pass sport ou une séance d’essai, une annulation tardive peut coûter des crédits ou des frais.
-
-<h2 id="equipement">Il te manque quelque chose ?</h2>
-
 Ces liens t’emmènent directement sur Amazon.de. Le site est en allemand, mais tu peux choisir l’anglais en haut de la page.
 
 <ul class="spullen">
@@ -154,6 +99,7 @@ Ces liens t’emmènent directement sur Amazon.de. Le site est en allemand, mais
 - **[Les crédits ClassPass](/fr/credits-classpass/)** · plus de cours avec ton abonnement
 - **[Ton premier cours](/fr/premier-cours/)** · quoi emporter
 - **[Résilier Basic-Fit](/fr/resilier-basic-fit/)** · préavis et alternatives
+- **[Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/)** · les options mois par mois
 
 ## Questions fréquentes
 
