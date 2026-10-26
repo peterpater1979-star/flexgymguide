@@ -86,6 +86,7 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 - **[Tu primera clase](/es/primera-clase/)** · qué llevar
 - **[Darse de baja en Basic-Fit](/es/baja-basic-fit/)** · preaviso y alternativas
 - **[Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/)** · opciones mes a mes
+- **[Gimnasio sin permanencia en Barcelona](/es/gimnasio-sin-permanencia-barcelona/)** · opciones mes a mes
 
 ## Preguntas frecuentes
 
