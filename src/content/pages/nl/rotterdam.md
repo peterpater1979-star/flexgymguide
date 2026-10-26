@@ -33,7 +33,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 ### Trainmore
 
-Eigen clubs met gym en groepslessen: 7 in Rotterdam, 53 in heel Nederland. Bij Coolsingel vanaf € 62 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Plus € 1 korting per workout.
+Eigen clubs met gym en groepslessen: 7 in Rotterdam, 53 in heel Nederland. Bij Coolsingel vanaf € 62 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Met een contract krijg je € 1 korting per workout.
 
 [Bekijk Trainmore](#trainmore)
 
@@ -48,10 +48,10 @@ Eigen clubs met gym en groepslessen: 7 in Rotterdam, 53 in heel Nederland. Bij C
 | Kenmerk | ClassPass | Trainmore |
 | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen |
-| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout |
+| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout bij een contract |
 | **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
 | **Locaties in Rotterdam** | Studio's in het centrum, Kralingen, Hillegersberg, Noord en Zuid | 7 clubs (53 in heel Nederland) |
-| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Bijvoorbeeld bij Coolsingel: Flex € 89, 1 jaar € 69, 2 jaar € 62 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> |
+| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Coolsingel: Flex € 89, 1 jaar € 69, 2 jaar € 62 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
 | **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) |
@@ -123,7 +123,7 @@ Trainmore heeft 53 clubs in Nederland, waarvan 7 in Rotterdam. De nieuwste is Tr
 
 - Toegang tot de gym en groepslessen
 - 53 clubs in Nederland, 7 in Rotterdam
-- €1 korting per workout (maximaal 1 per dag): hoe vaker je traint, hoe minder je betaalt. Drie keer per week scheelt zo'n €12 per 4 weken
+- €1 korting per workout bij een contract (maximaal 1 per dag, niet bij Flex): hoe vaker je traint, hoe minder je betaalt. Drie keer per week scheelt zo'n €12 per 4 weken
 - Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
 - Een gratis proefles om eerst te testen
 

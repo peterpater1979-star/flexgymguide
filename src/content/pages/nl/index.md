@@ -40,7 +40,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 ### Trainmore
 
-Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Je krijgt €1 korting per workout, dus hoe vaker je gaat, hoe minder je betaalt.
+Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een contract krijg je €1 korting per workout, dus hoe vaker je gaat, hoe minder je betaalt.
 
 - Goed als je drie keer per week of vaker traint
 - Goed als je één vaste plek wilt
