@@ -44,7 +44,7 @@ Bei Fitness First wählst du eine Mitgliedschaft RED oder BLACK. Je nach Mitglie
 
 <h2 id="kuendigung">Vertrag und Kündigung</h2>
 
-Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prüfe sie vor dem Abschluss auf der Website oder im Club.
+Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prüfe sie vor dem Abschluss auf der Website oder im Club. Gekündigt wird online über das Kündigungsformular; statt zu kündigen kannst du auch 4, 8 oder 12 Wochen pausieren. Alles dazu in [Fitness First kündigen](/de/fitness-first-kuendigen/).
 
 <h2 id="fuer-wen">Für wen ist Fitness First?</h2>
 
@@ -233,7 +233,7 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 <details>
 <summary>Wie kündige ich bei Fitness First?</summary>
 
-Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Die genauen Bedingungen findest du in deinem Vertrag und auf der Website von Fitness First.
+Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Gekündigt wird online über das Kündigungsformular auf fitnessfirst.de. Mehr in [Fitness First kündigen](/de/fitness-first-kuendigen/).
 
 </details>
 
