@@ -11,7 +11,7 @@ kicker: "Landeguide Danmark"
 
 Har du ikke lyst til en lang kontrakt i ét fitnesscenter? Med et træningspas som ClassPass får du adgang til forskellige studier og fitnesscentre med ét medlemskab. Her kan du læse, hvordan det fungerer i Danmark, og i hvilke byer.
 
-<h2 id="opties">Træn fleksibelt med et træningspas</h2>
+<h2 id="opties">To måder at træne fleksibelt på</h2>
 
 <div class="kolommen">
 
@@ -33,9 +33,27 @@ Et medlemskab med credits til yoga, pilates, boksning, spinning og fitness i stu
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Fitnesskæde</span></div>
+
+### SATS
+
+En nordisk fitnesskæde med over 275 centre i Danmark, Sverige, Norge og Finland, med træningssal og holdtræning.
+
+- Godt hvis du træner tre gange om ugen eller mere
+- Godt hvis du vil have ét fast sted
+- Findes i fire nordiske lande
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/dk/traeningspas-eller-fitness/">Træningspas eller fitness?</a>
+</div>
+
+</div>
+
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Byer</span></div>
+<div class="fotokop foto-sporttas"><span>Byer</span></div>
 
 ### Hvor fungerer det?
 

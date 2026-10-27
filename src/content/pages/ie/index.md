@@ -11,7 +11,7 @@ kicker: "Country guide Ireland"
 
 Don't want a long contract at a single gym? With a fitness pass like ClassPass, one membership gets you into different studios and gyms. Here's how it works in Ireland, and in which cities.
 
-<h2 id="opties">Train flexibly with a fitness pass</h2>
+<h2 id="opties">Two ways to train flexibly</h2>
 
 <div class="kolommen">
 
@@ -33,9 +33,27 @@ A membership with credits for yoga, Pilates, boxing, spinning and gym visits at 
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gym chain</span></div>
+
+### Flyefit
+
+An Irish gym chain without a contract, with most of its gyms in Dublin and one in Cork.
+
+- Good if you train three times a week or more
+- Good if you want one regular place
+- No minimum term
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/gyms-without-contract-dublin/">Gyms without a contract in Dublin</a>
+</div>
+
+</div>
+
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Cities</span></div>
+<div class="fotokop foto-sporttas"><span>Cities</span></div>
 
 ### Where does it work?
 

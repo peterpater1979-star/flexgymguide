@@ -11,7 +11,7 @@ kicker: "Guía de país España"
 
 ¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
 
-<h2 id="opciones">Entrenar con un pase deportivo</h2>
+<h2 id="opciones">Dos formas de entrenar con flexibilidad</h2>
 
 <div class="kolommen">
 
@@ -29,6 +29,24 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio económico</span></div>
+
+### Basic-Fit
+
+Cadena de gimnasios económica con clubes en toda España. Contrato anual desde 24,99 € cada 4 semanas, o Flex sin permanencia desde 29,98 €.
+
+- Ideal si entrenas tres veces por semana o más
+- Ideal si quieres un sitio fijo
+- Flex: 4 semanas de preaviso
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/gimnasio-sin-permanencia-madrid/">Sin permanencia en Madrid</a>
 </div>
 
 </div>

@@ -11,7 +11,7 @@ kicker: "Guide pays France"
 
 Pas envie d’un long contrat dans une seule salle de sport ? Avec un pass sport comme ClassPass, un seul abonnement te donne accès à différents studios et salles. Voici comment ça marche en France, et dans quelles villes.
 
-<h2 id="options">Faire du sport avec un pass</h2>
+<h2 id="options">Deux façons de faire du sport en toute flexibilité</h2>
 
 <div class="kolommen">
 
@@ -29,6 +29,24 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/fr/classpass/">Tout sur ClassPass</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle de sport à petit prix</span></div>
+
+### Basic-Fit
+
+Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,99 € toutes les 4 semaines, ou Flex sans engagement pour 9,99 € de plus.
+
+- Idéal si tu t'entraînes trois fois par semaine ou plus
+- Idéal si tu veux un lieu fixe
+- Flex : préavis de 4 semaines
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/salle-de-sport-sans-engagement-paris/">Sans engagement à Paris</a>
 </div>
 
 </div>

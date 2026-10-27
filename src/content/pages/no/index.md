@@ -11,7 +11,7 @@ kicker: "Landguide Norge"
 
 Har du ikke lyst på en lang avtale på ett enkelt treningssenter? Med et treningspass som ClassPass får du tilgang til ulike studioer og treningssentre med ett medlemskap. Her kan du lese hvordan det fungerer i Norge, og i hvilke byer.
 
-<h2 id="opties">Tren fleksibelt med et treningspass</h2>
+<h2 id="opties">To måter å trene fleksibelt på</h2>
 
 <div class="kolommen">
 
@@ -33,9 +33,27 @@ Et medlemskap med kreditter til yoga, pilates, boksing, spinning og treningssent
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+
+### SATS
+
+En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finland, med treningssal og gruppetimer.
+
+- Bra hvis du trener tre ganger i uka eller mer
+- Bra hvis du vil ha ett fast sted
+- Finnes i fire nordiske land
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/no/treningspass-eller-treningssenter/">Treningspass eller treningssenter?</a>
+</div>
+
+</div>
+
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Byer</span></div>
+<div class="fotokop foto-sporttas"><span>Byer</span></div>
 
 ### Hvor fungerer det?
 

@@ -11,7 +11,7 @@ kicker: "Maaopas Suomi"
 
 Eikö pitkä sopimus yhdellä kuntosalilla houkuttele? ClassPassin kaltaisella treenipassilla pääset yhdellä jäsenyydellä eri studioihin ja kuntosaleille. Tältä sivulta luet, miten se toimii Suomessa ja missä kaupungeissa.
 
-<h2 id="opties">Treenaa joustavasti treenipassilla</h2>
+<h2 id="opties">Kaksi tapaa treenata joustavasti</h2>
 
 <div class="kolommen">
 
@@ -33,9 +33,27 @@ Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningii
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Kuntosaliketju</span></div>
+
+### SATS
+
+Pohjoismainen kuntosaliketju, jolla on yli 275 keskusta Suomessa, Ruotsissa, Norjassa ja Tanskassa. Mukana kuntosali ja ryhmäliikunta.
+
+- Hyvä, jos treenaat kolme kertaa viikossa tai useammin
+- Hyvä, jos haluat yhden vakiopaikan
+- Neljässä Pohjoismaassa
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fi/treenipassi-vai-salijasenyys/">Treenipassi vai salijäsenyys?</a>
+</div>
+
+</div>
+
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Kaupungit</span></div>
+<div class="fotokop foto-sporttas"><span>Kaupungit</span></div>
 
 ### Missä se toimii?
 

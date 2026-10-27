@@ -11,7 +11,7 @@ kicker: "Landguide Sverige"
 
 Har du ingen lust med ett långt avtal på ett enda gym? Med ett träningspass som ClassPass får du tillgång till olika studior och gym med ett och samma medlemskap. Här kan du läsa hur det fungerar i Sverige och i vilka städer.
 
-<h2 id="opties">Träna flexibelt med ett träningspass</h2>
+<h2 id="opties">Två sätt att träna flexibelt</h2>
 
 <div class="kolommen">
 
@@ -33,9 +33,27 @@ Ett medlemskap med krediter för yoga, pilates, boxning, spinning och gymbesök 
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gymkedja</span></div>
+
+### SATS
+
+En nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Finland, med gym och gruppträning.
+
+- Bra om du tränar tre gånger i veckan eller mer
+- Bra om du vill ha ett fast ställe
+- Finns i fyra nordiska länder
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/se/traningspass-eller-gym/">Träningspass eller gym?</a>
+</div>
+
+</div>
+
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Städer</span></div>
+<div class="fotokop foto-sporttas"><span>Städer</span></div>
 
 ### Var fungerar det?
 
