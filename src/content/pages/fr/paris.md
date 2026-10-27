@@ -24,7 +24,8 @@ Pas envie d’être lié à une seule salle ? À Paris, tu peux réserver des co
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">Voir ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Essayer ClassPass</a>
+<a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
 </div>
