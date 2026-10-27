@@ -11,7 +11,7 @@ kicker: "Guide pays France"
 
 Pas envie d’un long contrat dans une seule salle de sport ? Avec un pass sport comme ClassPass, un seul abonnement te donne accès à différents studios et salles. Voici comment ça marche en France, et dans quelles villes.
 
-<h2 id="options">Deux façons de faire du sport en toute flexibilité</h2>
+<h2 id="options">Trois façons de faire du sport en toute flexibilité</h2>
 
 <div class="kolommen">
 
@@ -47,6 +47,24 @@ Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/salle-de-sport-sans-engagement-paris/">Sans engagement à Paris</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sporttas"><span>Salle haut de gamme</span></div>
+
+### Fitness Park
+
+Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Trois formules (Classic, Access+ et Ultimate), avec ou sans engagement.
+
+- Idéal si tu t'entraînes trois fois par semaine ou plus
+- Cours collectifs, espace boxe et espace réservé aux femmes
+- En octobre 2026 : les 4 premières semaines à 19 €
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://www.fitnesspark.fr/">Fitness Park</a>
 </div>
 
 </div>
