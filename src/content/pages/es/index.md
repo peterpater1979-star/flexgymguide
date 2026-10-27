@@ -77,14 +77,14 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 ## Ciudades
 
 <ul class="stedenlijst">
-<li><a href="/es/gimnasio-sin-permanencia-madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/es/gimnasio-sin-permanencia-barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/es/gimnasio-sin-permanencia-madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/es/gimnasio-sin-permanencia-barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/es/classpass/#ciudades"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/es/classpass/#ciudades"><strong>Marbella</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/es/classpass/#ciudades"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/es/classpass/#ciudades"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass</span></li>
 </ul>
