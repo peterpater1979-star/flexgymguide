@@ -59,7 +59,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 ### Holmes Place
 
-Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den aktuellen Preis erfragst du beim Club.
+Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den Preis erfährst du erst bei einem Besuch im Club.
 
 - Gut, wenn du mehr Luxus und Service willst
 - Gut bei dreimal Training pro Woche oder öfter

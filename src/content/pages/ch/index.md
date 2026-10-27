@@ -57,7 +57,7 @@ Eine Schweizer Fitnesskette mit über 120 Studios, davon 16 in Zürich. Neben de
 
 ### Holmes Place
 
-Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den aktuellen Preis erfragst du beim Club.
+Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den Preis erfährst du erst bei einem Besuch im Club.
 
 - Gut, wenn du mehr Luxus und Service willst
 - Gut bei dreimal Training pro Woche oder öfter

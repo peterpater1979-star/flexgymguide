@@ -57,7 +57,7 @@ Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic 
 
 ### Holmes Place
 
-Uma cadeia de clubes premium com 12 clubes em Portugal, com ginásio e aulas. Pergunta o preço atual ao clube.
+Uma cadeia de clubes premium com 12 clubes em Portugal, com ginásio e aulas. O preço só é dado quando visitas o clube.
 
 - Ideal se queres mais luxo e serviço
 - Ideal se treinas três vezes por semana ou mais
