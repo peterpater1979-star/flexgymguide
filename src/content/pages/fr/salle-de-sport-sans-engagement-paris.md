@@ -33,7 +33,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour des cours et des séanc
 - **Tu voyages beaucoup ?** Ton abonnement marche aussi dans d'autres villes. Lis [ClassPass en voyage](/fr/classpass-en-voyage/).
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/fr/classpass/">Tout sur ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Essayer ClassPass</a>
+<a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 
 <h2 id="basic-fit">Basic-Fit Flex : sans durée minimale</h2>

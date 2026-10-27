@@ -92,7 +92,8 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/fr/classpass/">Tout sur ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-land">Essayer ClassPass</a>
+<a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 
 [Lire le guide complet (en anglais)](/guides/how-classpass-works/)

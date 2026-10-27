@@ -33,7 +33,8 @@ With ClassPass you get credits every month for classes and gym visits at studios
 - **Travelling a lot?** Your plan also works in other cities. Read [ClassPass while travelling](/guides/classpass-while-travelling/).
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/guides/how-classpass-works/">How ClassPass works</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-gyms-without-contract-paris">Try ClassPass</a>
+<a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works</a>
 </div>
 
 <h2 id="basic-fit">Basic-Fit Flex: no minimum term</h2>

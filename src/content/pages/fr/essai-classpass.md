@@ -90,6 +90,7 @@ Non. ClassPass n'a pas de réduction pour les étudiants. Certains employeurs pr
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass expliqués</a>
 <a class="knop knop-rand" href="/fr/resilier-classpass/">Résilier ou suspendre ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-essai-classpass">Essayer ClassPass gratuitement</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 <a class="knop knop-rand" href="/fr/classpass-en-voyage/">ClassPass en voyage</a>
 </div>
