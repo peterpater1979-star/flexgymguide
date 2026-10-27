@@ -11,7 +11,7 @@ kicker: "Guía de país España"
 
 ¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
 
-<h2 id="opciones">Dos formas de entrenar con flexibilidad</h2>
+<h2 id="opciones">Tres formas de entrenar con flexibilidad</h2>
 
 <div class="kolommen">
 
@@ -47,6 +47,27 @@ Cadena de gimnasios económica con clubes en toda España. Contrato anual desde 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/gimnasio-sin-permanencia-madrid/">Sin permanencia en Madrid</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sporttas"><span>Gimnasio con clases</span></div>
+
+### Fitness Park
+
+Cadena de gimnasios francesa, también con clubes en España. En el club Madrid Príncipe Pío: sin permanencia Classic 37 € o Ultimate 57 € cada 4 semanas; con permanencia (52 semanas) desde 27 €.
+
+- Ideal si entrenas tres veces por semana o más
+- Ultimate: clases colectivas con monitor e invitado en cada visita
+- Matrícula: 50 € sin permanencia, 30 € con permanencia
+- Los precios pueden variar según el club (octubre de 2026)
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://espana-inscribete.fitnesspark.com/inscripcion/formulas/madrid-principe-pio">Fitness Park</a>
 </div>
 
 </div>
