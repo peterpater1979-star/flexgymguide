@@ -11,10 +11,10 @@
     { "label": "Portugal", "href": "/pt/", "land": "pt", "children": [{ "label": "Lisboa", "href": "/pt/lisboa/" }, { "label": "Porto", "href": "/pt/porto/" }, { "label": "ClassPass", "href": "/pt/classpass/" }] },
     { "label": "Ireland", "href": "/ie/", "land": "ie", "children": [{ "label": "Dublin", "href": "/ie/dublin/" }, { "label": "Cork", "href": "/ie/cork/" }, { "label": "ClassPass", "href": "/ie/classpass/" }] },
     { "label": "Luxembourg", "href": "/lu/", "land": "lu", "children": [] },
-    { "label": "Danmark", "href": "/dk/", "land": "dk", "children": [{ "label": "ClassPass", "href": "/dk/classpass/" }] },
-    { "label": "Sverige", "href": "/se/", "land": "se", "children": [{ "label": "ClassPass", "href": "/se/classpass/" }] },
-    { "label": "Norge", "href": "/no/", "land": "no", "children": [{ "label": "ClassPass", "href": "/no/classpass/" }] },
-    { "label": "Suomi", "href": "/fi/", "land": "fi", "children": [{ "label": "ClassPass", "href": "/fi/classpass/" }] },
+    { "label": "Danmark", "href": "/dk/", "land": "dk", "children": [{ "label": "København", "href": "/dk/koebenhavn/" }, { "label": "Aarhus", "href": "/dk/aarhus/" }, { "label": "ClassPass", "href": "/dk/classpass/" }] },
+    { "label": "Sverige", "href": "/se/", "land": "se", "children": [{ "label": "Stockholm", "href": "/se/stockholm/" }, { "label": "Göteborg", "href": "/se/goteborg/" }, { "label": "Malmö", "href": "/se/malmo/" }, { "label": "ClassPass", "href": "/se/classpass/" }] },
+    { "label": "Norge", "href": "/no/", "land": "no", "children": [{ "label": "Oslo", "href": "/no/oslo/" }, { "label": "ClassPass", "href": "/no/classpass/" }] },
+    { "label": "Suomi", "href": "/fi/", "land": "fi", "children": [{ "label": "Helsinki", "href": "/fi/helsinki/" }, { "label": "Espoo", "href": "/fi/espoo/" }, { "label": "Turku", "href": "/fi/turku/" }, { "label": "ClassPass", "href": "/fi/classpass/" }] },
     { "label": "Guides", "href": "/guides/how-classpass-works/", "land": "guides", "children": [{ "label": "How ClassPass works", "href": "/guides/how-classpass-works/" }, { "label": "Gym pass or membership?", "href": "/guides/gym-pass-or-membership/" }, { "label": "ClassPass credits", "href": "/guides/classpass-credits/" }, { "label": "Your first class", "href": "/guides/first-class/" }, { "label": "Eating and drinking", "href": "/guides/eating-and-drinking-around-your-workout/" }, { "label": "ClassPass free trial", "href": "/guides/classpass-free-trial/" }, { "label": "ClassPass while travelling", "href": "/guides/classpass-while-travelling/" }, { "label": "Working out as a student", "href": "/guides/working-out-as-a-student/" }, { "label": "Cancel or pause ClassPass", "href": "/guides/cancel-or-pause-classpass/" }] }
   ]
 }

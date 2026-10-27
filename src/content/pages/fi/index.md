@@ -37,13 +37,13 @@ Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningii
 
 <div class="fotokop foto-gymketen"><span>Kuntosaliketju</span></div>
 
-### SATS
+### ELIXIA
 
-Pohjoismainen kuntosaliketju, jolla on yli 275 keskusta Suomessa, Ruotsissa, Norjassa ja Tanskassa. Mukana kuntosali ja ryhmäliikunta.
+SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa: Helsingissä, Espoossa, Vantaalla, Tampereella ja Turussa. Mukana kuntosali ja ryhmäliikunta.
 
 - Hyvä, jos treenaat kolme kertaa viikossa tai useammin
 - Hyvä, jos haluat yhden vakiopaikan
-- Neljässä Pohjoismaassa
+- SATS-salit myös muissa Pohjoismaissa
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fi/treenipassi-vai-salijasenyys/">Treenipassi vai salijäsenyys?</a>
@@ -59,9 +59,9 @@ Pohjoismainen kuntosaliketju, jolla on yli 275 keskusta Suomessa, Ruotsissa, Nor
 
 ClassPassilla on yhteistyöstudioita useissa kaupungeissa, muun muassa:
 
-- Helsinki
-- Espoo
-- Turku
+- [Helsinki](/fi/helsinki/)
+- [Espoo](/fi/espoo/)
+- [Turku](/fi/turku/)
 
 Sovelluksesta näet, mitkä lähistön studiot ja kuntosalit ovat mukana.
 

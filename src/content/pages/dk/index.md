@@ -59,8 +59,8 @@ En nordisk fitnesskæde med over 275 centre i Danmark, Sverige, Norge og Finland
 
 ClassPass har partnerstudier i flere byer, blandt andet:
 
-- København
-- Aarhus
+- [København](/dk/koebenhavn/)
+- [Aarhus](/dk/aarhus/)
 
 I appen kan du se, hvilke studier og fitnesscentre i nærheden der er med.
 

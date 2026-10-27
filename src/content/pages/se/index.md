@@ -59,9 +59,9 @@ En nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Fi
 
 ClassPass har partnerstudior i flera städer, bland annat:
 
-- Stockholm
-- Göteborg
-- Malmö
+- [Stockholm](/se/stockholm/)
+- [Göteborg](/se/goteborg/)
+- [Malmö](/se/malmo/)
 
 I appen ser du vilka studior och gym i närheten som är med.
 

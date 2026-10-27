@@ -59,7 +59,7 @@ En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finlan
 
 ClassPass har partnerstudioer i og rundt:
 
-- Oslo
+- [Oslo](/no/oslo/)
 
 I appen ser du hvilke studioer og treningssentre i nærheten som er med.
 
