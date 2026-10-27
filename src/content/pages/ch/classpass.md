@@ -26,7 +26,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 | **Kündigung** | Jederzeit, vor deinem Verlängerungsdatum |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 31 Ländern |
 
-<p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe den aktuellen Stand immer bei ClassPass.</p>
+<p class="klein">Preise und Bedingungen ändern sich regelmässig. Prüfe den aktuellen Stand immer bei ClassPass.</p>
 
 <h2 id="so-funktioniert-es">So funktioniert ClassPass</h2>
 
