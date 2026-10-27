@@ -78,18 +78,18 @@ Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans
 
 <ul class="stedenlijst">
 <li><a href="/fr/salle-de-sport-sans-engagement-paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Lyon</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Marseille</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Bordeaux</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Nice</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Lyon</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Nice</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/fr/classpass/#villes"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Toulouse</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Nantes</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Lille</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Strasbourg</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Montpellier</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Rennes</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Cannes</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Toulouse</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Nantes</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Lille</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Strasbourg</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Montpellier</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Rennes</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Cannes</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 </ul>
 
 On trouve aussi des studios ClassPass dans de plus petites villes et en périphérie. Dans l’application, tu vois quels studios et salles participent près de chez toi.
