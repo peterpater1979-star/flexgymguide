@@ -50,7 +50,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### McFit
 
-Günstige Fitnesskette mit über 250 Studios, auch in Stuttgart. Flex ohne feste Laufzeit.
+Günstige Fitnesskette mit über 230 Studios, auch in Stuttgart. Flex ohne feste Laufzeit.
 
 <div class="knoppen">
 <a class="knop" href="#mcfit">McFit ansehen</a>
@@ -162,7 +162,7 @@ Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 4 in Stuttgar
 
 ## McFit in Stuttgart
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 250 Studios in Deutschland, Österreich und Italien, auch in Stuttgart. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Stuttgart. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/).
 
 ### Das bekommst du
 

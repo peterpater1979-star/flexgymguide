@@ -59,7 +59,7 @@ Without a minimum term you pay a one-off startup fee of €39. On top of that co
 
 <h2 id="mcfit">McFit Flex: cancel monthly</h2>
 
-McFit is Germany's largest gym chain by number of members, with more than 250 gyms in Germany, Austria and Italy, many of them in Berlin. It is cheap and belongs to the RSG Group. Besides 12 and 24-month contracts there is Flex, without a fixed term. This is what prices looked like in October 2026, per month:
+McFit is Germany's largest gym chain by number of members, with more than 230 gyms in Germany, Austria and Italy, many of them in Berlin. It is cheap and belongs to the RSG Group. Besides 12 and 24-month contracts there is Flex, without a fixed term. This is what prices looked like in October 2026, per month:
 
 | Plan | Price | Term |
 | --- | --- | --- |

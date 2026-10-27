@@ -58,7 +58,7 @@ Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebüh
 
 <h2 id="mcfit">McFit Flex: monatlich kündbar</h2>
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 250 Studios in Deutschland, Österreich und Italien, auch in München. Die Kette ist günstig und gehört zur RSG Group. Neben Verträgen über 12 oder 24 Monate gibt es Flex, ohne feste Vertragslaufzeit. So sahen die Preise im Oktober 2026 aus, pro Monat:
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in München. Die Kette ist günstig und gehört zur RSG Group. Neben Verträgen über 12 oder 24 Monate gibt es Flex, ohne feste Vertragslaufzeit. So sahen die Preise im Oktober 2026 aus, pro Monat:
 
 | Tarif | Preis | Laufzeit |
 | --- | --- | --- |

@@ -58,7 +58,7 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 
 ### McFit
 
-Günstiges Gym mit über 250 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
+Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
 
 - Gut, wenn du günstig und oft trainieren willst
 - Flex: monatlich kündbar

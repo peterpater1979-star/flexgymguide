@@ -1,7 +1,7 @@
 ---
 title: "McFit: Tarife, Flex ohne Laufzeit, Preise und Kündigung"
 path: "/de/mcfit/"
-description: "Alles über McFit: über 250 Studios, Flex ohne feste Laufzeit oder 12 und 24 Monate, was es kostet, Live-Kurse, Ruhezeit und Kündigung."
+description: "Alles über McFit: über 230 Studios, Flex ohne feste Laufzeit oder 12 und 24 Monate, was es kostet, Live-Kurse, Ruhezeit und Kündigung."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -11,7 +11,7 @@ kicker: "Anbieter: Fitnesskette"
 
 <div class="fotobanner foto-gymketen" role="img" aria-label="Fitnessstudio"></div>
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 250 Studios in Deutschland, Österreich und Italien. Die Kette ist günstig und gehört zur RSG Group. Du wählst zwischen einem Vertrag über 12 oder 24 Monate und Flex, das du monatlich kündigst.
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. Die Kette ist günstig und gehört zur RSG Group. Du wählst zwischen einem Vertrag über 12 oder 24 Monate und Flex, das du monatlich kündigst.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#staedte">McFit in deiner Stadt</a>
@@ -22,7 +22,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 | | McFit |
 | --- | --- |
 | **Art** | Günstige Fitnesskette mit eigenen Studios |
-| **Studios** | Über 250 in Deutschland, Österreich und Italien |
+| **Studios** | Über 230 in Deutschland, Österreich und Italien |
 | **Preis** | Flex 49,90 €, 12 Monate 29,90 €, 24 Monate 24,90 € im Monat |
 | **Vertrag** | Flex (monatlich kündbar), 12 oder 24 Monate |
 | **Kurse** | <span class="ja" aria-hidden="true">✓</span> Live-Kurse in den teilnehmenden Studios |
