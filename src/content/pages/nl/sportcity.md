@@ -79,6 +79,8 @@ Prijzen per club en andere opties zonder lang contract vind je in:
 - [Sporten zonder contract in Den Haag](/nl/sporten-zonder-contract-den-haag/)
 - [Sporten zonder contract in Utrecht](/nl/sporten-zonder-contract-utrecht/)
 
+SportCity heeft ook clubs in [Haarlem](/nl/haarlem/) (4), [Leiden](/nl/leiden/) (5), [Eindhoven](/nl/eindhoven/) (3) en [Groningen](/nl/groningen/).
+
 <h2 id="classpass">SportCity of ClassPass?</h2>
 
 Ga je drie keer per week of vaker naar dezelfde gym, dan is een sportschool als SportCity meestal voordeliger. Wil je afwisselen tussen yoga, boksen en spinning bij verschillende studio's, of sport je één tot drie keer per week, dan past een sportpas als ClassPass vaak beter. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
