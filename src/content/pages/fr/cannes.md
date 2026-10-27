@@ -32,7 +32,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+<div class="fotokop foto-basic-fit"><span>Salle à petit prix</span></div>
 
 ### Basic-Fit
 

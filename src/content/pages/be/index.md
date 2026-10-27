@@ -36,7 +36,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoek bi
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
+<div class="fotokop foto-basic-fit"><span>Sportschoolketen</span></div>
 
 ### Basic-Fit
 

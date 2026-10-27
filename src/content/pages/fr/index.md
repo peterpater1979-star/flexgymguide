@@ -36,7 +36,7 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle de sport à petit prix</span></div>
+<div class="fotokop foto-basic-fit"><span>Salle de sport à petit prix</span></div>
 
 ### Basic-Fit
 

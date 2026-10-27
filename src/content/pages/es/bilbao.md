@@ -32,7 +32,7 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio económico</span></div>
+<div class="fotokop foto-basic-fit"><span>Gimnasio económico</span></div>
 
 ### Basic-Fit
 

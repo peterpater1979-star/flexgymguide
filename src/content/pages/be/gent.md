@@ -32,7 +32,7 @@ Yoga, pilates, krachttraining en meer met één abonnement met credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Voor vaste sporters</span></div>
+<div class="fotokop foto-basic-fit"><span>Voor vaste sporters</span></div>
 
 ### Basic-Fit
 
