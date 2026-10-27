@@ -14,7 +14,6 @@ kicker: "Aanbieder: sportschoolketen"
 SportCity is een sportschoolketen met clubs in heel Nederland. Met een lidmaatschap train je in de gym en doe je mee aan alle live groepslessen. Je kiest zelf hoe lang je vastzit: met Flex zeg je elke maand op.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.sportcity.nl/">Naar de website van SportCity</a>
 <a class="knop knop-rand" href="#steden">SportCity in jouw stad</a>
 </div>
 
