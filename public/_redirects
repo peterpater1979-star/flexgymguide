@@ -19,8 +19,9 @@
 /go/classpass-de/            https://classpass.com/  302
 /go/classpass-uk/  epi=:epi  https://classpass.com/  302
 /go/classpass-uk/            https://classpass.com/  302
-/go/classpass-fr/  epi=:epi  https://classpass.com/  302
-/go/classpass-fr/            https://classpass.com/  302
+# ClassPass FR goedgekeurd bij Tradedoubler (programma 374042, site 3504154), 27-10-2026
+/go/classpass-fr/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi  302
+/go/classpass-fr/            https://clk.tradedoubler.com/click?p=374042&a=3504154  302
 /go/classpass-es/  epi=:epi  https://classpass.com/  302
 /go/classpass-es/            https://classpass.com/  302
 
