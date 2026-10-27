@@ -53,20 +53,20 @@ Eigen clubs met gym en groepslessen: 2 in Eindhoven, 53 in heel Nederland. Bij L
 
 </div>
 
-<h2 id="op-een-rij">ClassPass en Trainmore op een rij</h2>
+<h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
 
-| Kenmerk | ClassPass | Trainmore |
-| --- | --- | --- |
-| **Soort** | Sportpas met credits | Sportschoolketen |
-| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout bij een contract |
-| **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs |
-| **Locaties in Eindhoven** | Studio's in het centrum, op Strijp-S, in Stratum en daarbuiten | 2 clubs (53 in heel Nederland) |
-| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Lichttoren: Flex € 87, 1 jaar € 67, 2 jaar € 60 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> |
-| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
-| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) |
+| Kenmerk | ClassPass | Trainmore | SportCity |
+| --- | --- | --- | --- |
+| **Soort** | Sportpas met credits | Sportschoolketen | Sportschoolketen |
+| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout bij een contract | Bij Gerarduskerk € 52,99 tot € 64,99 per 4 wkn (City One) |
+| **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | City One (één club) of City Plus (121 clubs) |
+| **Locaties in Eindhoven** | Studio's in het centrum, op Strijp-S, in Stratum en daarbuiten | 2 clubs (53 in heel Nederland) | 3 clubs (121 in heel Nederland) |
+| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Lichttoren: Flex € 87, 1 jaar € 67, 2 jaar € 60 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> | Flex maandelijks opzegbaar, met een maand opzegtermijn |
+| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> Dagpas via de club |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
+| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) | [Alles over SportCity](/nl/sportcity/) |
 
 <div id="classpass" class="aanbieder">
 
