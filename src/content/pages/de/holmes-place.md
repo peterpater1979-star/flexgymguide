@@ -11,7 +11,7 @@ kicker: "Anbieter: Premium-Club"
 
 <div class="fotobanner foto-sporttas" role="img" aria-label="Fitnessclub"></div>
 
-Holmes Place ist eine Kette von Premium-Fitnessclubs. Die Clubs liegen in guten Lagen in der Stadt und setzen auf Service, Kurse und Entspannung. Das hat seinen Preis: Was eine Mitgliedschaft kostet, erfährst du erst bei einem Besuch im Club.
+Holmes Place ist eine Kette von Premium-Fitnessclubs, gegründet 1980 in London. Die Clubs liegen in guten Lagen in der Stadt und setzen auf Service, Kurse und Entspannung. Das hat seinen Preis: Was eine Mitgliedschaft kostet, erfährst du erst bei einem Besuch im Club.
 
 <h2 id="kurz">Kurz und knapp</h2>
 
@@ -32,7 +32,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs. Die Clubs liegen in guten 
 | Deutschland | 14 Clubs in sechs Städten |
 | Österreich | 3 Clubs, alle in Wien |
 | Schweiz | 5 Clubs |
-| Portugal | 12 Clubs |
+| Portugal | 13 Clubs |
 | Griechenland | 3 Clubs in Athen |
 
 Welche Clubs es in deiner Stadt gibt, siehst du auf der Website von Holmes Place für dein Land.
