@@ -57,11 +57,12 @@ Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,
 
 ### Fitness Park
 
-Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Classic dès 30 € toutes les 4 semaines, Access+ 45 €, Ultimate 50 €. Tu choisis avec ou sans engagement ; vérifie le prix de ta formule sur leur site.
+Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans engagement : Classic 40 €, Access+ 55 € ou Ultimate 60 € toutes les 4 semaines. Avec engagement, c'est 10 € de moins.
 
 - Idéal si tu t'entraînes trois fois par semaine ou plus
 - Cours collectifs, et selon le club un espace boxe ou un espace réservé aux femmes
-- En octobre 2026 : les 4 premières semaines à 19 €, plus 30 € de frais d'adhésion
+- Frais d'adhésion : 49 € sans engagement, 30 € avec
+- En octobre 2026 : les 4 premières semaines à 29 € (19 € avec engagement)
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.fitnesspark.fr/">Fitness Park</a>
