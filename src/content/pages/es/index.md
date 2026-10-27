@@ -57,7 +57,7 @@ Cadena de gimnasios económica con clubes en toda España. Contrato anual desde 
 
 ### Fitness Park
 
-Cadena de gimnasios francesa, también con clubes en España. En el club Madrid Príncipe Pío: sin permanencia Classic 37 € o Ultimate 57 € cada 4 semanas; con permanencia (52 semanas) desde 27 €.
+Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Príncipe Pío: sin permanencia Classic 37 € o Ultimate 57 € cada 4 semanas; con permanencia (52 semanas) desde 27 €.
 
 - Ideal si entrenas tres veces por semana o más
 - Ultimate: clases colectivas con monitor e invitado en cada visita
