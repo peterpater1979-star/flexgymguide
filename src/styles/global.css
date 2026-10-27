@@ -103,6 +103,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-gymketen { --foto: url(/img/foto/gymketen.jpg); }
 .foto-puregym { --foto: url(/img/foto/puregym.jpg); }
 .foto-basic-fit { --foto: url(/img/foto/basic-fit.jpg); }
+.foto-the-gym-group { --foto: url(/img/foto/the-gym-group.jpg); }
 .foto-fitness-first-de { --foto: url(/img/foto/fitness-first-de.jpg); }
 .foto-fitness-first-uk { --foto: url(/img/foto/fitness-first-uk.jpg); }
 .foto-urban-sports { --foto: url(/img/foto/urban-sports.jpg); }
