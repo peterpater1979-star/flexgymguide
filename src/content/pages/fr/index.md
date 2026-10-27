@@ -57,7 +57,7 @@ Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,
 
 ### Fitness Park
 
-Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Classic dès 30 € toutes les 4 semaines, Access+ 45 €, Ultimate 50 €, avec ou sans engagement.
+Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Classic dès 30 € toutes les 4 semaines, Access+ 45 €, Ultimate 50 €. Tu choisis avec ou sans engagement ; vérifie le prix de ta formule sur leur site.
 
 - Idéal si tu t'entraînes trois fois par semaine ou plus
 - Cours collectifs, et selon le club un espace boxe ou un espace réservé aux femmes
