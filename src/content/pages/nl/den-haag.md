@@ -39,6 +39,18 @@ Eigen clubs met gym en groepslessen: 3 in Den Haag, 53 in heel Nederland. Bij Da
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-sporttas"><span>Gym met lessen</span></div>
+
+### SportCity
+
+Gym met groepslessen, met City One (één club) of City Plus (121 clubs in Nederland). Flex is maandelijks opzegbaar: € 37,99 per 4 weken voor City One bij Hollands Spoor.
+
+[Bekijk SportCity](/nl/sporten-zonder-contract-den-haag/#sportcity)
+
+</div>
+
 </div>
 
 <h2 id="op-een-rij">ClassPass en Trainmore op een rij</h2>

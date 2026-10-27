@@ -39,6 +39,18 @@ Eigen clubs met gym en groepslessen: 2 in Groningen, 53 in heel Nederland. Bij M
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-sporttas"><span>Gym met lessen</span></div>
+
+### SportCity
+
+Gym met groepslessen, onder meer aan de Atoomweg. Daar vanaf € 29,99 per 4 weken met een contract van 2 jaar; Flex is maandelijks opzegbaar en duurder.
+
+[Bekijk SportCity](#sportcity)
+
+</div>
+
 </div>
 
 <h2 id="op-een-rij">ClassPass en Trainmore op een rij</h2>
