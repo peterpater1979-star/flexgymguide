@@ -82,7 +82,7 @@ Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans
 <li><a href="/fr/classpass/#villes"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/fr/classpass/#villes"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/fr/classpass/#villes"><strong>Nice</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/fr/classpass/#villes"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/fr/classpass/#villes"><strong>Toulouse</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/fr/classpass/#villes"><strong>Nantes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/fr/classpass/#villes"><strong>Lille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>

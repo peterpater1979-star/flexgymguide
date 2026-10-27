@@ -86,7 +86,7 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 <li><a href="/es/classpass/#ciudades"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/es/classpass/#ciudades"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/es/classpass/#ciudades"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 </ul>
 
 También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.
