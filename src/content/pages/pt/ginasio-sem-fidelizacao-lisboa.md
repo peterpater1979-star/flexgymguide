@@ -38,11 +38,11 @@ Com o ClassPass recebes todos os meses créditos para aulas e treinos em estúdi
 
 <h2 id="ginasios">Ginásios sem fidelização</h2>
 
-Muitas cadeias de ginásios em Portugal têm planos com fidelização (muitas vezes 12 meses) e planos sem fidelização, que custam um pouco mais por mês. A Element Gyms tem mais de 30 ginásios em Portugal, vários em Lisboa, e trabalha sem fidelização, a partir de 2,99 € por semana.
+Muitas cadeias de ginásios em Portugal têm planos com fidelização (muitas vezes 12 meses) e planos sem fidelização, que custam um pouco mais por mês. A Element Gyms tem 56 ginásios em Portugal, vários em Lisboa (por exemplo Parque das Nações), e trabalha sem fidelização, a partir de 2,99 € por semana.
 
 | | Preço | Fidelização | Inscrição |
 | --- | --- | --- | --- |
-| Element Gyms | A partir de 2,99 € por semana | Sem fidelização | [PREÇO] |
+| Element Gyms | A partir de 2,99 € por semana; Classic (24 ginásios) 5,99 € por semana | Sem fidelização | 0,00 € (outubro de 2026) |
 | [GINÁSIO] | [PREÇO] por mês | [FIDELIZAÇÃO] | [PREÇO] |
 
 <p class="klein">Fonte: <a href="https://elementgyms.pt/">elementgyms.pt</a> (outubro de 2026). Confirma sempre o preço atual e as condições com o ginásio.</p>
