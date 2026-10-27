@@ -111,7 +111,7 @@ Ja, bij de club kun je een dagpas aanvragen. Schrijf je je in, dan heb je 14 dag
 <details>
 <summary>Mag ik iemand meenemen?</summary>
 
-Met City Plus mag je vijf keer per maand gratis iemand meenemen, behalve bij SportCity Amsterdam Cornelis Schuytstraat. Met City One kan dat niet.
+Met City Plus mag je vijf keer per maand gratis iemand meenemen, behalve bij SportCity Amsterdam Cornelis Schuytstraat.
 
 </details>
 
