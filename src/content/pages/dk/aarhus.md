@@ -32,7 +32,7 @@ Yoga, pilates, styrketræning og mere med ét abonnement med credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Fitnesscenter</span></div>
+<div class="fotokop foto-puregym"><span>Fitnesscenter</span></div>
 
 ### PureGym
 

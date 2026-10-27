@@ -46,7 +46,7 @@ Nordisk fitnesskæde med træningssal og holdtræning.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-sporttas"><span>Fitnesscenter</span></div>
+<div class="fotokop foto-puregym"><span>Fitnesscenter</span></div>
 
 ### PureGym
 
