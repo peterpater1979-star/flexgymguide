@@ -9,7 +9,7 @@
     { "label": "Schweiz", "href": "/ch/", "land": "ch", "children": [{ "label": "ClassPass", "href": "/ch/classpass/" }] },
     { "label": "België", "href": "/be/", "land": "be", "children": [{ "label": "Brussel", "href": "/be/brussel/" }, { "label": "Antwerpen", "href": "/be/antwerpen/" }, { "label": "Gent", "href": "/be/gent/" }, { "label": "ClassPass", "href": "/be/classpass/" }] },
     { "label": "Portugal", "href": "/pt/", "land": "pt", "children": [{ "label": "Lisboa", "href": "/pt/lisboa/" }, { "label": "Porto", "href": "/pt/porto/" }, { "label": "ClassPass", "href": "/pt/classpass/" }] },
-    { "label": "Ireland", "href": "/ie/", "land": "ie", "children": [{ "label": "ClassPass", "href": "/ie/classpass/" }] },
+    { "label": "Ireland", "href": "/ie/", "land": "ie", "children": [{ "label": "Dublin", "href": "/ie/dublin/" }, { "label": "Cork", "href": "/ie/cork/" }, { "label": "ClassPass", "href": "/ie/classpass/" }] },
     { "label": "Luxembourg", "href": "/lu/", "land": "lu", "children": [] },
     { "label": "Danmark", "href": "/dk/", "land": "dk", "children": [{ "label": "ClassPass", "href": "/dk/classpass/" }] },
     { "label": "Sverige", "href": "/se/", "land": "se", "children": [{ "label": "ClassPass", "href": "/se/classpass/" }] },

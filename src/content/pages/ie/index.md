@@ -59,8 +59,8 @@ An Irish gym chain without a contract: 20 gyms in Dublin, plus Cork and Galway. 
 
 ClassPass has partner studios in several cities, including:
 
-- [Dublin](/ie/gyms-without-contract-dublin/)
-- Cork
+- [Dublin](/ie/dublin/)
+- [Cork](/ie/cork/)
 
 The app shows which studios and gyms near you take part.
 
