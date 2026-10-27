@@ -46,7 +46,7 @@ Cadena de gimnasios económica con clubes en toda España. Contrato anual desde 
 - Flex: 4 semanas de preaviso
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/es/gimnasio-sin-permanencia-madrid/">Sin permanencia en Madrid</a>
+<a class="knop knop-rand" href="/es/basic-fit/">Todo sobre Basic-Fit</a>
 </div>
 
 </div>

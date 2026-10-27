@@ -72,7 +72,7 @@ Los precios y las condiciones cambian a menudo. Comprueba siempre la informació
 | **Permanencia** | Ninguna, cancelas cuando quieras | Un año, o Flex con 4 semanas de preaviso | Con o sin permanencia |
 | **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones | Según el club | Según el club |
 | **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en clubes de Europa | Más de 300 clubes en Francia |
-| **Más información** | [Todo sobre ClassPass](/es/classpass/) | [Basic-Fit en Barcelona](https://www.basic-fit.com/es-es/gimnasios/barcelona) | [Todo sobre Fitness Park](/es/fitness-park/) |
+| **Más información** | [Todo sobre ClassPass](/es/classpass/) | [Todo sobre Basic-Fit](/es/basic-fit/) | [Todo sobre Fitness Park](/es/fitness-park/) |
 
 <p class="klein">Precios de octubre de 2026. Basic-Fit: precios nacionales en España. Fitness Park: precios del club Madrid Príncipe Pío, que pueden variar según el club.</p>
 
@@ -135,6 +135,7 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 - Las clases colectivas dependen del club
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/es/basic-fit/">Todo sobre Basic-Fit</a>
 <a class="knop knop-rand" href="https://www.basic-fit.com/es-es/gimnasios/barcelona">Basic-Fit en Barcelona</a>
 </div>
 

@@ -46,7 +46,7 @@ Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,
 - Flex : préavis de 4 semaines
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/fr/salle-de-sport-sans-engagement-paris/">Sans engagement à Paris</a>
+<a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
 </div>
 
 </div>

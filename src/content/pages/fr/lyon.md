@@ -72,7 +72,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Avec ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | Selon le club |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans les clubs en Europe | Clubs aussi en Espagne |
-| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Basic-Fit à Lyon](https://www.basic-fit.com/fr-fr/salles-de-sport/lyon) | [Tout sur Fitness Park](/fr/fitness-park/) |
+| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Basic-Fit](/fr/basic-fit/) | [Tout sur Fitness Park](/fr/fitness-park/) |
 
 <p class="klein">Prix d’octobre 2026. Basic-Fit et Fitness Park : prix nationaux en France, qui peuvent varier selon le club.</p>
 
@@ -135,6 +135,7 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 - Les cours collectifs dépendent du club
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
 <a class="knop knop-rand" href="https://www.basic-fit.com/fr-fr/salles-de-sport/lyon">Basic-Fit à Lyon</a>
 </div>
 

@@ -58,7 +58,7 @@ Prijzen en voorwaarden veranderen regelmatig. Kijk altijd bij de aanbieder voor 
 | **Looptijd** | Geen, altijd opzegbaar | Een jaar, of Flex met 4 weken opzegtermijn |
 | **Eerst proberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 work-outs | Per club |
 | **Buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in clubs in Europa |
-| **Meer weten** | [Alles over ClassPass](/be/classpass/) | [Basic-Fit in Antwerpen](https://www.basic-fit.com/nl-be/fitnessclubs/antwerpen) |
+| **Meer weten** | [Alles over ClassPass](/be/classpass/) | [Alles over Basic-Fit](/be/basic-fit/) |
 
 <p class="klein">Prijzen van oktober 2026. ClassPass: standaardabonnement in België. Basic-Fit: landelijke prijzen in België.</p>
 
@@ -122,6 +122,7 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 230 clubs in België, 
 - Inschrijfkosten tot € 19,99, afhankelijk van het abonnement
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/be/basic-fit/">Alles over Basic-Fit</a>
 <a class="knop knop-rand" href="https://www.basic-fit.com/nl-be/fitnessclubs/antwerpen">Basic-Fit in Antwerpen</a>
 </div>
 

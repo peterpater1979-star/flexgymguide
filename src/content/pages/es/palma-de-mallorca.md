@@ -58,7 +58,7 @@ Los precios y las condiciones cambian a menudo. Comprueba siempre la informació
 | **Permanencia** | Ninguna, cancelas cuando quieras | Un año, o Flex con 4 semanas de preaviso |
 | **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones | Según el club |
 | **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en clubes de Europa |
-| **Más información** | [Todo sobre ClassPass](/es/classpass/) | [Basic-Fit en Palma de Mallorca](https://basic-fit.com/es-es/clubs/basic-fit-palma-de-mallorca-avd.-portugal-d2c3a6e7c96048728f639640b6085f16.html) |
+| **Más información** | [Todo sobre ClassPass](/es/classpass/) | [Todo sobre Basic-Fit](/es/basic-fit/) |
 
 <p class="klein">Precios de octubre de 2026. Basic-Fit: precios nacionales en España.</p>
 
@@ -121,6 +121,7 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 - Las clases colectivas dependen del club
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/es/basic-fit/">Todo sobre Basic-Fit</a>
 <a class="knop knop-rand" href="https://basic-fit.com/es-es/clubs/basic-fit-palma-de-mallorca-avd.-portugal-d2c3a6e7c96048728f639640b6085f16.html">Basic-Fit en Palma de Mallorca</a>
 </div>
 

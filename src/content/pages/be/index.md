@@ -46,7 +46,7 @@ Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 pe
 - Flex: € 9,99 per 4 weken meer dan een jaarabonnement
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
+<a class="knop knop-rand" href="/be/basic-fit/">Alles over Basic-Fit</a>
 </div>
 
 </div>
