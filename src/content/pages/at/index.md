@@ -66,7 +66,7 @@ Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den Preis erfährst 
 - Auch in der Schweiz, Deutschland und Portugal
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.holmesplace.com/at/de">Holmes Place Wien</a>
+<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
 </div>
 
 </div>

@@ -64,7 +64,7 @@ Uma cadeia de clubes premium com 12 clubes em Portugal, com ginásio e aulas. O 
 - Também na Suíça, na Áustria e na Alemanha
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.holmesplace.com/pt/pt">Holmes Place Portugal</a>
+<a class="knop knop-rand" href="/pt/holmes-place/">Tudo sobre o Holmes Place</a>
 </div>
 
 </div>

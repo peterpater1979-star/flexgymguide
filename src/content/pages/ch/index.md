@@ -64,7 +64,7 @@ Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den Preis erf
 - Auch in Österreich, Deutschland und Portugal
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.holmesplace.com/ch/de">Holmes Place Schweiz</a>
+<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
 </div>
 
 </div>
