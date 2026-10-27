@@ -11,7 +11,7 @@ kicker: "Guia do país Portugal"
 
 Não te apetece um contrato longo num só ginásio? Com um passe desportivo como o ClassPass, uma única subscrição dá-te acesso a vários estúdios e ginásios. Aqui explicamos como funciona em Portugal e em que cidades.
 
-<h2 id="opcoes">Duas formas de treinar com flexibilidade</h2>
+<h2 id="opcoes">Três formas de treinar com flexibilidade</h2>
 
 <div class="kolommen">
 
@@ -47,6 +47,24 @@ Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/ginasio-sem-fidelizacao-lisboa/">Ginásios sem fidelização em Lisboa</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sporttas"><span>Clube premium</span></div>
+
+### Holmes Place
+
+Uma cadeia de clubes premium com 12 clubes em Portugal, com ginásio e aulas. Pergunta o preço atual ao clube.
+
+- Ideal se queres mais luxo e serviço
+- Ideal se treinas três vezes por semana ou mais
+- Também na Suíça, na Áustria e na Alemanha
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://www.holmesplace.com/pt/pt">Holmes Place Portugal</a>
 </div>
 
 </div>

@@ -53,6 +53,24 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sporttas"><span>Premium-Club</span></div>
+
+### Holmes Place
+
+Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den aktuellen Preis erfragst du beim Club.
+
+- Gut, wenn du mehr Luxus und Service willst
+- Gut bei dreimal Training pro Woche oder öfter
+- Auch in der Schweiz, Deutschland und Portugal
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://www.holmesplace.com/at/de">Holmes Place Wien</a>
+</div>
+
+</div>
+
 </div>
 
 <h2 id="steden">Wo funktioniert ClassPass?</h2>
