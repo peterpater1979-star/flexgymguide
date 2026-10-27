@@ -7,7 +7,7 @@
     { "label": "España", "href": "/es/", "land": "es", "children": [{ "label": "Madrid", "href": "/es/madrid/" }, { "label": "Barcelona", "href": "/es/barcelona/" }, { "label": "Valencia", "href": "/es/valencia/" }, { "label": "Sevilla", "href": "/es/sevilla/" }, { "label": "Málaga", "href": "/es/malaga/" }, { "label": "Marbella", "href": "/es/marbella/" }, { "label": "Alicante", "href": "/es/alicante/" }, { "label": "Bilbao", "href": "/es/bilbao/" }, { "label": "Ibiza", "href": "/es/ibiza/" }, { "label": "Palma de Mallorca", "href": "/es/palma-de-mallorca/" }, { "label": "ClassPass", "href": "/es/classpass/" }, { "label": "Fitness Park", "href": "/es/fitness-park/" }] },
     { "label": "Österreich", "href": "/at/", "land": "at", "children": [{ "label": "Wien", "href": "/at/wien/" }, { "label": "ClassPass", "href": "/at/classpass/" }] },
     { "label": "Schweiz", "href": "/ch/", "land": "ch", "children": [{ "label": "ClassPass", "href": "/ch/classpass/" }] },
-    { "label": "België", "href": "/be/", "land": "be", "children": [{ "label": "ClassPass", "href": "/be/classpass/" }] },
+    { "label": "België", "href": "/be/", "land": "be", "children": [{ "label": "Brussel", "href": "/be/brussel/" }, { "label": "Antwerpen", "href": "/be/antwerpen/" }, { "label": "Gent", "href": "/be/gent/" }, { "label": "ClassPass", "href": "/be/classpass/" }] },
     { "label": "Portugal", "href": "/pt/", "land": "pt", "children": [{ "label": "ClassPass", "href": "/pt/classpass/" }] },
     { "label": "Ireland", "href": "/ie/", "land": "ie", "children": [{ "label": "ClassPass", "href": "/ie/classpass/" }] },
     { "label": "Luxembourg", "href": "/lu/", "land": "lu", "children": [] },

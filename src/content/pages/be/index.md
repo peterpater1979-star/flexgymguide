@@ -59,9 +59,9 @@ Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 pe
 
 ClassPass heeft partnerstudio's in de grotere Belgische steden, onder meer:
 
-- Brussel
-- Antwerpen
-- Gent
+- [Brussel](/be/brussel/)
+- [Antwerpen](/be/antwerpen/)
+- [Gent](/be/gent/)
 
 In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
 
