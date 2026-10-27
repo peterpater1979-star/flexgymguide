@@ -52,6 +52,7 @@ Viele Schweizer Fitnessketten verkaufen vor allem Jahresabos. Activ Fitness hat 
 
 - **Monatlich zahlen:** Das ist trotzdem ein Jahresabo. Es kommt eine einmalige Bearbeitungsgebühr von CHF 70 dazu, und das Abo verlängert sich automatisch.
 - **Treuebonus:** Verlängerst du ein im Voraus bezahltes Jahresabo nahtlos, bekommst du CHF 50 Guthaben auf dein Chip-Armband.
+- **Einzeleintritt:** Ohne Abo zahlst du in den Zürcher Studios CHF 29 (Kategorie 2) oder CHF 34 (Kategorie 3) pro Besuch, plus einmalig CHF 10 für das Chip-Armband. Ein 10er-Abo gibt es nur bei Swiss Fit, für CHF 355.
 
 <p class="klein">Quelle: Preisübersicht von Activ Fitness (Oktober 2026). Prüfe den aktuellen Preis und die Kündigungsfrist immer bei Activ Fitness.</p>
 

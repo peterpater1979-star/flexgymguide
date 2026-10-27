@@ -53,6 +53,7 @@ Most Swiss gym chains mainly sell yearly memberships. Activ Fitness has 16 gyms 
 
 - **Paying monthly:** this is still a yearly membership. There is a one-off administration fee of CHF 70, and the membership renews automatically.
 - **Loyalty bonus:** if you renew a prepaid yearly membership without a break, you get CHF 50 credit on your chip bracelet.
+- **Single entry:** without a membership you pay CHF 29 (category 2) or CHF 34 (category 3) per visit at the Zurich gyms, plus a one-off CHF 10 for the chip bracelet. A 10-entry card is only available with Swiss Fit, for CHF 355.
 
 <p class="klein">Source: Activ Fitness price overview (October 2026). Always check the current price and notice period with Activ Fitness.</p>
 
