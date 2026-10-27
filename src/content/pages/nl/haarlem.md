@@ -155,6 +155,21 @@ Trainmore heeft 53 clubs in Nederland, waarvan 1 in Haarlem. Met een lidmaatscha
 
 </div>
 
+<h2 id="sportcity">Ook in Haarlem: SportCity</h2>
+
+SportCity heeft 4 clubs in Haarlem: Raaks, Spaarneboog, Westergracht en Schalkwijk. Je kiest tussen City One (één club) en City Plus (121 clubs in Nederland, en vijf keer per maand iemand meenemen), met alle live groepslessen inbegrepen en 14 dagen bedenktijd. Zo zagen de prijzen van City One er in oktober 2026 uit bij SportCity Haarlem Raaks, per 4 weken:
+
+| Looptijd | City One |
+| --- | --- |
+| Flex (maandelijks opzegbaar) | € 64,99 |
+| 3 maanden | € 62,99 |
+| 1 jaar | € 54,99 |
+| 2 jaar | € 52,99 |
+
+Bij Flex betaal je € 9,99 inschrijfgeld, in plaats van de gewone € 14,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Andere clubs kunnen goedkoper of duurder zijn. Meer in [Alles over SportCity](/nl/sportcity/).
+
+<p class="klein">Bron: de inschrijfpagina van SportCity Haarlem Raaks en <a href="https://www.sportcity.nl/haarlem/sportschool">sportcity.nl/haarlem</a> (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
+
 ## Welke past bij jou?
 
 <div class="kolommen">

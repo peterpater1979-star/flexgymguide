@@ -22,7 +22,7 @@ SportCity is een sportschoolketen met clubs in heel Nederland. Met een lidmaatsc
 | | SportCity |
 | --- | --- |
 | **Soort** | Sportschoolketen met eigen clubs |
-| **Lidmaatschap** | City One (één club) of City Plus (85 clubs, vijf keer per maand iemand meenemen) |
+| **Lidmaatschap** | City One (één club) of City Plus (121 clubs, vijf keer per maand iemand meenemen) |
 | **Prijs** | Verschilt per club, per 4 weken. Bijvoorbeeld City One Flex € 37,99 in Amsterdam Lijnbaansgracht |
 | **Contract** | Flex (maandelijks opzegbaar), 3 maanden, 1 jaar of 2 jaar |
 | **Groepslessen** | <span class="ja" aria-hidden="true">✓</span> Alle live groepslessen inbegrepen |
@@ -90,7 +90,7 @@ Ga je drie keer per week of vaker naar dezelfde gym, dan is een sportschool als 
 <details open>
 <summary>Wat is het verschil tussen City One en City Plus?</summary>
 
-Met City One train je in één club. Met City Plus train je in 85 clubs in Nederland en mag je vijf keer per maand iemand meenemen. City Plus is iets duurder.
+Met City One train je in één club. Met City Plus train je in 121 clubs in Nederland en mag je vijf keer per maand iemand meenemen. City Plus is iets duurder.
 
 </details>
 
