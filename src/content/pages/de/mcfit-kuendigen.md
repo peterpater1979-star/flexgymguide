@@ -81,6 +81,7 @@ Ja. Laut McFit verschiebt sich durch die Ruhezeit dein Kündigungstermin.
 </details>
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
 <a class="knop knop-rand" href="/de/sportpass-oder-mitgliedschaft/">Sportpass oder Mitgliedschaft?</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 </div>

@@ -51,6 +51,24 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Günstige Fitnesskette</span></div>
+
+### McFit
+
+Günstiges Gym mit über 250 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
+
+- Gut, wenn du günstig und oft trainieren willst
+- Flex: monatlich kündbar
+- Über 230 Studios in Europa
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="steden">
