@@ -77,19 +77,19 @@ Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans
 ## Villes
 
 <ul class="stedenlijst">
-<li><a href="/fr/salle-de-sport-sans-engagement-paris/"><strong>Paris</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/paris">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Lyon</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/lyon">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Marseille</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/marseille">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Bordeaux</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/bordeaux">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Nice</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/nice">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Aix-en-Provence</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Toulouse</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/toulouse">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Nantes</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/nantes">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Lille</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/lille">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Strasbourg</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/strasbourg">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Montpellier</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/montpellier">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Rennes</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/rennes">Basic-Fit</a> · <a href="/fr/fitness-park/">Fitness Park</a></span></li>
-<li><a href="/fr/classpass/#villes"><strong>Cannes</strong></a> <span class="klein"><a href="/fr/classpass/">ClassPass</a> (<a href="/go/classpass-fr/?epi=fgg-fr-land">essayer</a>) · <a href="https://www.basic-fit.com/fr-fr/salles-de-sport/cannes">Basic-Fit</a></span></li>
+<li><a href="/fr/salle-de-sport-sans-engagement-paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Lyon</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Nice</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Toulouse</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Nantes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Lille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Strasbourg</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Montpellier</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Rennes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/fr/classpass/#villes"><strong>Cannes</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 </ul>
 
 On trouve aussi des studios ClassPass dans de plus petites villes et en périphérie. Dans l’application, tu vois quels studios et salles participent près de chez toi.
