@@ -73,7 +73,7 @@ Uma cadeia de clubes premium com 13 clubes em Portugal, todos com ginásio, aula
 
 <div id="cidades">
 
-O ClassPass tem estúdios parceiros em Lisboa, no Porto e noutras cidades portuguesas. Na app vês que estúdios e ginásios participam perto de ti. Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
+O ClassPass tem estúdios parceiros em [Lisboa](/pt/lisboa/), no [Porto](/pt/porto/) e noutras cidades portuguesas. Na app vês que estúdios e ginásios participam perto de ti. Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
 
 </div>
 
