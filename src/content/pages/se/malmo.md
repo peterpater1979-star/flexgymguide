@@ -32,7 +32,7 @@ Yoga, pilates, styrketräning och mer med ett abonnemang med krediter.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Gymkedja</span></div>
+<div class="fotokop foto-sats"><span>Gymkedja</span></div>
 
 ### SATS
 

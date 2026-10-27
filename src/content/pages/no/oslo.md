@@ -32,7 +32,7 @@ Yoga, pilates, styrketrening og mer med ett abonnement med kreditter.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+<div class="fotokop foto-sats"><span>Treningskjede</span></div>
 
 ### SATS
 

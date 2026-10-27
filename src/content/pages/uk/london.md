@@ -46,7 +46,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-the-gym-group"><span>Also worth knowing</span></div>
+<div class="fotokop foto-gymketen"><span>Also worth knowing</span></div>
 
 ### The Gym Group
 

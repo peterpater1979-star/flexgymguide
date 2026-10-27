@@ -9,7 +9,7 @@ crumb: "The Gym Group"
 kicker: "Provider: low-cost gym chain"
 ---
 
-<div class="fotobanner foto-the-gym-group" role="img" aria-label="Gym"></div>
+<div class="fotobanner foto-gymketen" role="img" aria-label="Gym"></div>
 
 The Gym Group has over 260 low-cost gyms across the UK. Monthly memberships have no contract, classes are included and most gyms are open 24/7. Not sure yet? Try a gym first with a day pass.
 

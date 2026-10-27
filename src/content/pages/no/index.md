@@ -36,7 +36,7 @@ Et medlemskap med kreditter til yoga, pilates, boksing, spinning og treningssent
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+<div class="fotokop foto-sats"><span>Treningskjede</span></div>
 
 ### SATS
 
