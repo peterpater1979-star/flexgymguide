@@ -77,16 +77,16 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 ## Ciudades
 
 <ul class="stedenlijst">
-<li><a href="/es/gimnasio-sin-permanencia-madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/gimnasio-sin-permanencia-barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Marbella</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/es/classpass/#ciudades"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/es/gimnasio-sin-permanencia-madrid/"><strong>Madrid</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>) · <a href="https://www.basic-fit.com/es-es/gimnasios/madrid">Basic-Fit</a> · <a href="https://www.fitnesspark.es/club/madrid/">Fitness Park</a></span></li>
+<li><a href="/es/gimnasio-sin-permanencia-barcelona/"><strong>Barcelona</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>) · <a href="https://www.basic-fit.com/es-es/gimnasios/barcelona">Basic-Fit</a> · <a href="https://www.fitnesspark.es/barcelona/">Fitness Park</a></span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Valencia</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>) · <a href="https://www.basic-fit.com/es-es/gimnasios/valencia">Basic-Fit</a> · <a href="https://www.fitnesspark.es/valencia/">Fitness Park</a></span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Sevilla</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>) · <a href="https://www.basic-fit.com/es-es/gimnasios/sevilla">Basic-Fit</a> · <a href="https://www.fitnesspark.es/sevilla/">Fitness Park</a></span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Málaga</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>) · <a href="https://www.basic-fit.com/es-es/gimnasios/malaga">Basic-Fit</a></span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Marbella</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>)</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Alicante</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>) · <a href="https://www.basic-fit.com/es-es/gimnasios/alicante">Basic-Fit</a> · <a href="https://www.fitnesspark.es/alicante/">Fitness Park</a></span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Bilbao</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>) · <a href="https://www.basic-fit.com/es-es/gimnasios/bilbao">Basic-Fit</a> · <a href="https://www.fitnesspark.es/pais-vasco/">Fitness Park</a></span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Ibiza ciudad</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>)</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Palma de Mallorca</strong></a> <span class="klein"><a href="/es/classpass/">ClassPass</a> (<a href="/go/classpass-es/?epi=fgg-es-land">probar</a>)</span></li>
 </ul>
 
 También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.

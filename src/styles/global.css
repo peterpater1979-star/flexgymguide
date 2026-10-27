@@ -86,6 +86,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .stedenlijst a { text-decoration: none; }
 .stedenlijst a:hover strong { text-decoration: underline; }
 .stedenlijst .klein { display: block; line-height: 1.4; }
+.stedenlijst .klein a { text-decoration: underline; }
 .ja, .nee { font-weight: 700; margin-right: .15rem; }
 .ja { color: #2f6b45; }
 .nee { color: #9a3b32; }
