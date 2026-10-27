@@ -24,7 +24,8 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Stuttgart trainierst
 Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-stuttgart">ClassPass testen</a>
+<a class="knop knop-rand" href="#classpass">ClassPass ansehen</a>
 </div>
 
 </div>

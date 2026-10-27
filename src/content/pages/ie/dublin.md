@@ -24,7 +24,8 @@ Don't want to be tied to one gym? In Dublin you can use a fitness pass at studio
 Yoga, Pilates, strength training and more with one credit-based membership.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">See ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-ie/?subId1=fgg-ie-dublin">Try ClassPass</a>
+<a class="knop knop-rand" href="#classpass">See ClassPass</a>
 </div>
 
 </div>

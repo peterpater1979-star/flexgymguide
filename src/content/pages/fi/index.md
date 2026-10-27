@@ -28,7 +28,8 @@ Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningii
 - Toimii myös 30 muussa maassa
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
+<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-land">Kokeile ClassPassia</a>
+<a class="knop knop-rand" href="/fi/classpass/">Kaikki ClassPassista</a>
 </div>
 
 </div>

@@ -23,7 +23,10 @@ Geen zin in een jaarcontract bij één sportschool? In Amsterdam kun je met een 
 
 Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
-[Bekijk ClassPass](#classpass)
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-amsterdam">Probeer ClassPass</a>
+<a class="knop knop-rand" href="#classpass">Bekijk ClassPass</a>
+</div>
 
 </div>
 

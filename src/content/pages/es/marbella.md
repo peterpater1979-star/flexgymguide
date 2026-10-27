@@ -24,7 +24,8 @@ kicker: "Guía de ciudad Marbella"
 Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-marbella">Probar ClassPass</a>
+<a class="knop knop-rand" href="#classpass">Ver ClassPass</a>
 </div>
 
 </div>

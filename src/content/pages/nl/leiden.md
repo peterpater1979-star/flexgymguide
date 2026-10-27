@@ -23,7 +23,10 @@ Geen zin in een jaarcontract bij één sportschool? In Leiden kun je met een spo
 
 Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
-[Bekijk ClassPass](#classpass)
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-leiden">Probeer ClassPass</a>
+<a class="knop knop-rand" href="#classpass">Bekijk ClassPass</a>
+</div>
 
 </div>
 

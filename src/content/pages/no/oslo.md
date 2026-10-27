@@ -24,7 +24,8 @@ Vil du ikke være bundet til ett treningssenter? I Oslo booker du timer hos stud
 Yoga, pilates, styrketrening og mer med ett abonnement med kreditter.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-no/?subId1=fgg-no-oslo">Prøv ClassPass</a>
+<a class="knop knop-rand" href="#classpass">Se ClassPass</a>
 </div>
 
 </div>

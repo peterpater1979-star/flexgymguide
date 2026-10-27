@@ -24,7 +24,8 @@ Não te apetece ficar preso a um só ginásio? Em Lisboa podes reservar aulas em
 Yoga, Pilates, treino de força e mais com uma só subscrição de créditos.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-pt/?subId1=fgg-pt-lisboa">Experimentar ClassPass</a>
+<a class="knop knop-rand" href="#classpass">Ver ClassPass</a>
 </div>
 
 </div>

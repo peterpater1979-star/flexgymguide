@@ -28,7 +28,8 @@ Ett medlemskap med krediter för yoga, pilates, boxning, spinning och gymbesök 
 - Fungerar även i 30 andra länder
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-land">Prova ClassPass</a>
+<a class="knop knop-rand" href="/se/classpass/">Allt om ClassPass</a>
 </div>
 
 </div>

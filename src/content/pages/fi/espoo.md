@@ -24,7 +24,8 @@ Etkö halua sitoutua yhteen saliin? Espoossa varaat tunteja studioilta ympäri k
 Joogaa, pilatesta, voimaharjoittelua ja muuta yhdellä krediittijäsenyydellä.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">Katso ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-espoo">Kokeile ClassPassia</a>
+<a class="knop knop-rand" href="#classpass">Katso ClassPass</a>
 </div>
 
 </div>

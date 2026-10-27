@@ -24,7 +24,8 @@ Vill du inte vara bunden till ett enda gym? I Stockholm bokar du pass hos studio
 Yoga, pilates, styrketräning och mer med ett abonnemang med krediter.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-stockholm">Prova ClassPass</a>
+<a class="knop knop-rand" href="#classpass">Se ClassPass</a>
 </div>
 
 </div>

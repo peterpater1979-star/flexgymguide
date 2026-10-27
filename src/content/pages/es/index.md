@@ -28,7 +28,8 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 - Funciona también en otros 30 países
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-land">Probar ClassPass</a>
+<a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
 </div>

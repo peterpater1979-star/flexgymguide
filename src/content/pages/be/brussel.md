@@ -24,7 +24,8 @@ Geen zin om vast te zitten aan één sportschool? In Brussel boek je met een spo
 Yoga, pilates, krachttraining en meer met één abonnement met credits.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">Bekijk ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-be/?subId1=fgg-be-brussel">Probeer ClassPass</a>
+<a class="knop knop-rand" href="#classpass">Bekijk ClassPass</a>
 </div>
 
 </div>

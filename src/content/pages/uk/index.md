@@ -28,7 +28,8 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 - Works in 30 other countries
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-land">Try ClassPass</a>
+<a class="knop knop-rand" href="/uk/classpass/">All about ClassPass</a>
 </div>
 
 </div>
