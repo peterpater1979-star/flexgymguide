@@ -14,7 +14,6 @@ kicker: "Anbieter: Fitnessstudiokette"
 Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clubs in Österreich. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.fitnessfirst.de/">Zur Website von Fitness First</a>
 <a class="knop knop-rand" href="#staedte">Fitness First in deiner Stadt</a>
 </div>
 
