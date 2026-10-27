@@ -39,7 +39,7 @@ A membership with credits for yoga, Pilates, boxing, spinning and gym visits at 
 
 ### Flyefit
 
-An Irish gym chain without a contract, with most of its gyms in Dublin and one in Cork.
+An Irish gym chain without a contract: 20 gyms in Dublin, plus Cork and Galway. From €38 a month for one gym.
 
 - Good if you train three times a week or more
 - Good if you want one regular place
@@ -59,7 +59,7 @@ An Irish gym chain without a contract, with most of its gyms in Dublin and one i
 
 ClassPass has partner studios in several cities, including:
 
-- Dublin
+- [Dublin](/ie/gyms-without-contract-dublin/)
 - Cork
 
 The app shows which studios and gyms near you take part.

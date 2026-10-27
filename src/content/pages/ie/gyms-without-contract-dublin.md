@@ -18,7 +18,7 @@ Just moved to Dublin, here for a semester, or simply don't want to sign up for a
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 33 credits for €49 a month; smaller plans in the app | Variety at studios all over Dublin |
-| **Flyefit** | No contract | [PRICE] a month | Training often, at many gyms around Dublin |
+| **Flyefit** | No contract | €38 a month for one gym, €41 for all gyms | Training often, at 20 gyms around Dublin |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Dublin. Always check the current price with the provider.</p>
@@ -38,13 +38,20 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 <h2 id="flyefit">Flyefit: no contract</h2>
 
-Flyefit is an Irish gym chain with most of its gyms in Dublin and one in Cork. Membership is contract-free: you are not tied to a minimum term.
+Flyefit is an Irish gym chain with 20 gyms in Dublin, one in Cork and one in Galway. Membership is contract-free: you are not tied to a minimum term. You choose between one gym and Flye Roaming, which gives access to all gyms.
 
-| Membership | Price | Joining fee |
-| --- | --- | --- |
-| [MEMBERSHIP] | [PRICE] a month | [PRICE] |
+| Membership | Monthly | Every 3 months | Per year |
+| --- | --- | --- | --- |
+| **Membership** (1 gym) | €38 | €114 | €355 |
+| **Flye Roaming** (all gyms) | €41 | €123 | €395 |
+| **Student, 1 gym** | €29 for the first 3 months, then €38 | €114 | €355 |
+| **Student, Flye Roaming** | €41 | €123 | €395 |
 
-<p class="klein">Source: <a href="https://www.flyefit.ie/about-us">flyefit.ie</a> (October 2026). Always check the current price with Flyefit.</p>
+- **Joining fee:** normally €25 (students €12.50). In October 2026 it was crossed out on the sign-up page, so you paid none.
+- **Students:** show a valid student ID the first time you enter the gym, or your membership is cancelled. The €29 offer is for one gym and can't be moved to another location.
+- **Pay as you go:** a day pass costs €14, two days €22, three days €29. Handy if you are only in Dublin for a short while.
+
+<p class="klein">Source: <a href="https://myflye.flyefit.ie/newjoin">Flyefit sign-up page</a> (October 2026). Always check the current price with Flyefit.</p>
 
 <h2 id="drop-in">Drop-in classes and class packs</h2>
 
