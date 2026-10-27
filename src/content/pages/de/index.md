@@ -28,7 +28,8 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 - Funktioniert auch in 30 anderen Ländern
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-land">ClassPass testen</a>
+<a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 </div>
 
 </div>
@@ -47,6 +48,24 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Günstige Fitnesskette</span></div>
+
+### McFit
+
+Günstiges Gym mit über 250 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
+
+- Gut, wenn du günstig und oft trainieren willst
+- Flex: monatlich kündbar
+- Über 230 Studios in Europa
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
 </div>
 
 </div>
@@ -108,12 +127,27 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 
 [Ausführliche Erklärung lesen (EN)](/guides/how-classpass-works/)
 
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Sportbekleidung</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Sportschuhe</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+</ul>
+
+<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
+
 <h2 id="gidsen">Ratgeber</h2>
 
 - **[Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)** · was zu deinem Training passt
 - **[ClassPass-Credits erklärt](/de/classpass-credits/)** · mehr Kurse aus deinem Abo
 - **[Dein erstes Training](/de/erstes-training/)** · was du mitnimmst
 - **[McFit kündigen](/de/mcfit-kuendigen/)** · Fristen und Alternativen
+- **[Fitness First kündigen](/de/fitness-first-kuendigen/)** · Fristen, Pause und Alternativen
 - **[Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/)** · was gilt und was du tun kannst
 
 ## Häufige Fragen

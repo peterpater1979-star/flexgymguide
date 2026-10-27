@@ -28,7 +28,8 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 - Works in 30 other countries
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-land">Try ClassPass</a>
+<a class="knop knop-rand" href="/uk/classpass/">All about ClassPass</a>
 </div>
 
 </div>
@@ -51,7 +52,7 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 
 </div>
 
-<div class="kolom kaart">
+<div class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-gymketen"><span>Low-cost gym</span></div>
 
@@ -127,6 +128,7 @@ You can change, pause or cancel your plan at any time.
 - **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · what suits how you train
 - **[ClassPass credits explained](/guides/classpass-credits/)** · more classes from your plan
 - **[Your first class](/guides/first-class/)** · what to bring
+- **[Cancel Fitness First](/uk/cancel-fitness-first/)** · notice period and freezing
 
 ## Frequently asked questions
 

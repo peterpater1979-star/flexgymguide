@@ -11,7 +11,7 @@ kicker: "Maaopas Suomi"
 
 Eikö pitkä sopimus yhdellä kuntosalilla houkuttele? ClassPassin kaltaisella treenipassilla pääset yhdellä jäsenyydellä eri studioihin ja kuntosaleille. Tältä sivulta luet, miten se toimii Suomessa ja missä kaupungeissa.
 
-<h2 id="opties">Treenaa joustavasti treenipassilla</h2>
+<h2 id="opties">Kaksi tapaa treenata joustavasti</h2>
 
 <div class="kolommen">
 
@@ -28,22 +28,41 @@ Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningii
 - Toimii myös 30 muussa maassa
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
+<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-land">Kokeile ClassPassia</a>
+<a class="knop knop-rand" href="/fi/classpass/">Kaikki ClassPassista</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Kuntosaliketju</span></div>
+
+### ELIXIA
+
+SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa: Helsingissä, Espoossa, Vantaalla, Tampereella ja Turussa. Mukana kuntosali ja ryhmäliikunta.
+
+- Hyvä, jos treenaat kolme kertaa viikossa tai useammin
+- Hyvä, jos haluat yhden vakiopaikan
+- SATS-salit myös muissa Pohjoismaissa
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fi/treenipassi-vai-salijasenyys/">Treenipassi vai salijäsenyys?</a>
 </div>
 
 </div>
 
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Kaupungit</span></div>
+<div class="fotokop foto-sporttas"><span>Kaupungit</span></div>
 
 ### Missä se toimii?
 
 ClassPassilla on yhteistyöstudioita useissa kaupungeissa, muun muassa:
 
-- Helsinki
-- Espoo
-- Turku
+- [Helsinki](/fi/helsinki/)
+- [Espoo](/fi/espoo/)
+- [Turku](/fi/turku/)
 
 Sovelluksesta näet, mitkä lähistön studiot ja kuntosalit ovat mukana.
 
@@ -86,6 +105,20 @@ Voit muuttaa, keskeyttää tai irtisanoa jäsenyytesi milloin tahansa.
 </div>
 
 [Lue koko opas (englanniksi)](/guides/how-classpass-works/)
+
+<h2 id="spullen">Puuttuuko jotain treeneihin?</h2>
+
+Nämä linkit vievät suoraan Amazon.de-sivustolle, joka toimittaa myös Suomeen. Sivusto on saksaksi, mutta voit vaihtaa kieleksi englannin sivun yläosasta.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Treenivaatteet</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Treenikengät</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Juomapullo</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Treenipyyhe</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Lukko kaappiin</a></li>
+</ul>
+
+<p class="klein">Amazon-kumppanina saamme tuloja ehdot täyttävistä ostoksista. Hinta on sinulle sama.</p>
 
 <h2 id="gidsen">Oppaat</h2>
 

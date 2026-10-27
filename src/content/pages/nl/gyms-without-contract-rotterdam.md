@@ -56,7 +56,7 @@ With a 1 or 2-year contract you get 50% off for the first months; how many depen
 
 **A discount when you train more.** At Trainmore you pay less the more often you go: you get €1 off per workout, at most one a day and €28 per 4 weeks, only with a 1- or 2-year contract, not with Flex. You check in and out with the QR code in the Trainmore app and train for at least 30 minutes; a group class on its own doesn't count. Every visit counts on its own, so you don't need a fixed schedule. This works at every Trainmore club: train three times a week and that saves about €12 per 4 weeks. At Coolsingel, for example, a 1-year contract then costs €57 instead of €69. Student memberships don't get it either.
 
-With City+ you can train at all Black Label clubs in Rotterdam. It costs €86 per 4 weeks for 1 year and €79 for 2 years; there is no Flex with City+. With Flex you don't get the member discount at Trainmore's partner brands, but you do get the training plan in the app. With a 2-year contract there are no startup costs. You cancel in the app.
+With City+ you can train at all Black Label clubs in Rotterdam. It costs €86 per 4 weeks for 1 year and €79 for 2 years; there is no Flex with City+. With Flex you don't get the member discount at Trainmore's partner brands, but you do get the training plan in the app. With a 2-year contract there are no startup costs. You cancel in the app; see [Cancelling Trainmore](/nl/cancel-trainmore/).
 
 <h2 id="basic-fit">Basic-Fit Flex: no minimum term</h2>
 
@@ -74,7 +74,7 @@ All Flex memberships have a one-off joining fee of €19.99. Group classes are i
 
 <h2 id="sportcity">SportCity Flex: cancel monthly</h2>
 
-SportCity has clubs all over the Netherlands, including Rotterdam. You choose between City One (one club) and City Plus (85 clubs in the Netherlands, and bring someone along five times a month). Both come as Flex, 3 months, 1 year or 2 years, with all live group classes included and a 14-day cooling-off period.
+SportCity has clubs all over the Netherlands, including Rotterdam. You choose between City One (one club) and City Plus (121 clubs in the Netherlands, and bring someone along five times a month). Both come as Flex, 3 months, 1 year or 2 years, with all live group classes included and a 14-day cooling-off period.
 
 This is what City One prices looked like in October 2026 at SportCity Rotterdam Conradstraat, per 4 weeks:
 

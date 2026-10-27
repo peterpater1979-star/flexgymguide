@@ -24,7 +24,8 @@ Don't want to be tied to one gym? In Birmingham you can join a low-cost gym with
 Yoga, Pilates, boxing and more with one credit-based membership.
 
 <div class="knoppen">
-<a class="knop" href="#classpass">See ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-birmingham">Try ClassPass</a>
+<a class="knop knop-rand" href="#classpass">See ClassPass</a>
 </div>
 
 </div>

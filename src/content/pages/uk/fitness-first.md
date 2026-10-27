@@ -14,7 +14,6 @@ kicker: "Provider: gym chain"
 Fitness First has 25 clubs, 17 of them in London and the others in towns such as Bath, Bedford, Milton Keynes and St Albans. A membership gives you the gym floor, group classes and, depending on your tier, access to other clubs. Not sure yet? Try a club first with a guest pass.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.fitnessfirst.co.uk/">Visit the Fitness First website</a>
 <a class="knop knop-rand" href="#cities">Fitness First in your city</a>
 </div>
 
@@ -71,6 +70,9 @@ Cancel any time with one month's notice. Changed your mind straight away? You ca
 </div>
 
 </div>
+
+How to cancel online, what leaving early costs and how freezing works: [Cancel Fitness First](/uk/cancel-fitness-first/).
+
 
 <h2 id="who-for">Who is Fitness First for?</h2>
 
@@ -141,7 +143,7 @@ It depends on the club and your membership tier. At London Liverpool Street a me
 <details>
 <summary>How do I cancel my Fitness First membership?</summary>
 
-Give one calendar month's notice to end at your minimum term. After that, you can cancel any time with one month's notice. Within 7 days of joining, you can cancel at no cost.
+Give one calendar month's notice to end at your minimum term. After that, you can cancel any time with one month's notice. Within 7 days of joining, you can cancel at no cost. More in [Cancel Fitness First](/uk/cancel-fitness-first/).
 
 </details>
 

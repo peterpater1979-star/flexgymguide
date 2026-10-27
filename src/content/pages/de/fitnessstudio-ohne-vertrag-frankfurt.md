@@ -50,7 +50,7 @@ Bei ALL-IN und BLACK mit 24 Monaten waren die ersten 12 Wochen gratis. Studieren
 
 Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
-<p class="klein">Quelle: die Clubseiten Frankfurt-Preungesheim und Frankfurt Opernplatz und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club.</p>
+<p class="klein">Quelle: die Clubseiten Frankfurt-Preungesheim und Frankfurt Opernplatz und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

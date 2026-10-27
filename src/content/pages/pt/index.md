@@ -11,7 +11,7 @@ kicker: "Guia do país Portugal"
 
 Não te apetece um contrato longo num só ginásio? Com um passe desportivo como o ClassPass, uma única subscrição dá-te acesso a vários estúdios e ginásios. Aqui explicamos como funciona em Portugal e em que cidades.
 
-<h2 id="opcoes">Treinar com um passe desportivo</h2>
+<h2 id="opcoes">Três formas de treinar com flexibilidade</h2>
 
 <div class="kolommen">
 
@@ -28,22 +28,53 @@ Uma subscrição com créditos para ioga, pilates, boxe, spinning e ginásio, em
 - Funciona também em mais 30 países
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/pt/classpass/">Tudo sobre o ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-pt/?subId1=fgg-pt-land">Experimentar ClassPass</a>
+<a class="knop knop-rand" href="/pt/classpass/">Tudo sobre o ClassPass</a>
 </div>
 
 </div>
 
-<div class="kolom kaart" id="cidades">
+<div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Cidades</span></div>
+<div class="fotokop foto-gymketen"><span>Cadeia de ginásios</span></div>
 
-### Onde funciona?
+### Element Gyms
 
-O ClassPass tem estúdios parceiros em Lisboa, no Porto e noutras cidades portuguesas.
+Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic treinas em 24 ginásios por 5,99 € por semana, sem inscrição.
 
-Na app vês que estúdios e ginásios participam perto de ti.
+- Ideal se treinas três vezes por semana ou mais
+- Ideal se queres um sítio fixo
+- Só em Portugal
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/ginasio-sem-fidelizacao-lisboa/">Ginásios sem fidelização em Lisboa</a>
+</div>
 
 </div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sporttas"><span>Clube premium</span></div>
+
+### Holmes Place
+
+Uma cadeia de clubes premium com 13 clubes em Portugal, todos com ginásio, aulas, piscina e sauna. O preço só é dado quando visitas o clube.
+
+- Ideal se queres mais luxo e serviço
+- Ideal se treinas três vezes por semana ou mais
+- Também na Suíça, na Áustria e na Alemanha
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/holmes-place/">Tudo sobre o Holmes Place</a>
+</div>
+
+</div>
+
+</div>
+
+<div id="cidades">
+
+O ClassPass tem estúdios parceiros em [Lisboa](/pt/lisboa/), no [Porto](/pt/porto/) e noutras cidades portuguesas. Na app vês que estúdios e ginásios participam perto de ti. Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
 
 </div>
 

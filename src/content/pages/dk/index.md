@@ -11,7 +11,7 @@ kicker: "Landeguide Danmark"
 
 Har du ikke lyst til en lang kontrakt i ét fitnesscenter? Med et træningspas som ClassPass får du adgang til forskellige studier og fitnesscentre med ét medlemskab. Her kan du læse, hvordan det fungerer i Danmark, og i hvilke byer.
 
-<h2 id="opties">Træn fleksibelt med et træningspas</h2>
+<h2 id="opties">To måder at træne fleksibelt på</h2>
 
 <div class="kolommen">
 
@@ -28,21 +28,40 @@ Et medlemskab med credits til yoga, pilates, boksning, spinning og fitness i stu
 - Fungerer også i 30 andre lande
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/dk/classpass/">Alt om ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-dk/?subId1=fgg-dk-land">Prøv ClassPass</a>
+<a class="knop knop-rand" href="/dk/classpass/">Alt om ClassPass</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Fitnesskæde</span></div>
+
+### SATS
+
+En nordisk fitnesskæde med over 275 centre i Danmark, Sverige, Norge og Finland, med træningssal og holdtræning.
+
+- Godt hvis du træner tre gange om ugen eller mere
+- Godt hvis du vil have ét fast sted
+- Findes i fire nordiske lande
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/dk/traeningspas-eller-fitness/">Træningspas eller fitness?</a>
 </div>
 
 </div>
 
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Byer</span></div>
+<div class="fotokop foto-sporttas"><span>Byer</span></div>
 
 ### Hvor fungerer det?
 
 ClassPass har partnerstudier i flere byer, blandt andet:
 
-- København
-- Aarhus
+- [København](/dk/koebenhavn/)
+- [Aarhus](/dk/aarhus/)
 
 I appen kan du se, hvilke studier og fitnesscentre i nærheden der er med.
 
@@ -85,6 +104,20 @@ Du kan ændre, sætte på pause eller opsige dit abonnement når som helst.
 </div>
 
 [Læs hele guiden (engelsk)](/guides/how-classpass-works/)
+
+<h2 id="spullen">Mangler du noget til træningen?</h2>
+
+Disse links fører dig direkte til Amazon.de, som også leverer til Danmark. Siden er på tysk, men du kan vælge engelsk øverst på siden.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Træningstøj</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Træningssko</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Drikkedunk</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Træningshåndklæde</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Hængelås til skabet</a></li>
+</ul>
+
+<p class="klein">Som Amazon-partner tjener vi på kvalificerede køb. Prisen er den samme for dig.</p>
 
 <h2 id="gidsen">Guides</h2>
 

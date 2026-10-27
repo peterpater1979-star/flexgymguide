@@ -28,7 +28,8 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 - Werkt ook in 30 andere landen
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-nl/?epi=fgg-nl-land">Probeer ClassPass</a>
+<a class="knop knop-rand" href="/nl/classpass/">Alles over ClassPass</a>
 </div>
 
 
@@ -53,6 +54,24 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sporttas"><span>Sportschoolketen</span></div>
+
+### SportCity
+
+Gym met live groepslessen in heel Nederland. Kies City One (één club) of City Plus (121 clubs), met Flex maandelijks opzegbaar of een contract van 3 maanden, 1 of 2 jaar.
+
+- Goed als je één vaste plek wilt
+- Flex: maandelijks opzegbaar, met een maand opzegtermijn
+- Prijs verschilt per club
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/sportcity/">Alles over SportCity</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="steden">
@@ -60,14 +79,14 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
-<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
-<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
-<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
-<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore-club</span></li>
-<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore-club</span></li>
-<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
-<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore-clubs</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
+<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
+<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore-club · SportCity</span></li>
+<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore-club · SportCity</span></li>
+<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
 </ul>
 
 </div>
@@ -107,6 +126,20 @@ Je kunt je abonnement op elk moment aanpassen, pauzeren of opzeggen.
 </div>
 
 [Lees de volledige uitleg (EN)](/guides/how-classpass-works/)
+
+<h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
+
+Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding/">Sportkleding</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen/">Sportschoenen</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
+</ul>
+
+<p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
 
 <h2 id="gidsen">Gidsen</h2>
 

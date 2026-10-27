@@ -39,6 +39,7 @@ Si te inscribiste en línea, tienes 14 días naturales para desistir sin dar mot
 ¿Dejas Basic-Fit porque quieres más variedad o porque no quieres estar atado? Estas son opciones sin compromiso largo:
 
 - **ClassPass:** cada mes créditos para clases y gimnasios en estudios de tu ciudad, cancelable en cualquier momento. Lee [Todo sobre ClassPass](/es/classpass/) o [Probar ClassPass gratis](/es/prueba-classpass/).
+- **En Madrid o Barcelona:** mira [Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/) o [en Barcelona](/es/gimnasio-sin-permanencia-barcelona/).
 - **¿Dudas?** Lee [¿Pase deportivo o gimnasio?](/es/pase-o-gimnasio/)
 
 ## Preguntas frecuentes

@@ -11,7 +11,7 @@ kicker: "Landguide Norge"
 
 Har du ikke lyst på en lang avtale på ett enkelt treningssenter? Med et treningspass som ClassPass får du tilgang til ulike studioer og treningssentre med ett medlemskap. Her kan du lese hvordan det fungerer i Norge, og i hvilke byer.
 
-<h2 id="opties">Tren fleksibelt med et treningspass</h2>
+<h2 id="opties">To måter å trene fleksibelt på</h2>
 
 <div class="kolommen">
 
@@ -28,20 +28,39 @@ Et medlemskap med kreditter til yoga, pilates, boksing, spinning og treningssent
 - Fungerer også i 30 andre land
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/no/classpass/">Alt om ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-no/?subId1=fgg-no-land">Prøv ClassPass</a>
+<a class="knop knop-rand" href="/no/classpass/">Alt om ClassPass</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+
+### SATS
+
+En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finland, med treningssal og gruppetimer.
+
+- Bra hvis du trener tre ganger i uka eller mer
+- Bra hvis du vil ha ett fast sted
+- Finnes i fire nordiske land
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/no/treningspass-eller-treningssenter/">Treningspass eller treningssenter?</a>
 </div>
 
 </div>
 
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Byer</span></div>
+<div class="fotokop foto-sporttas"><span>Byer</span></div>
 
 ### Hvor fungerer det?
 
 ClassPass har partnerstudioer i og rundt:
 
-- Oslo
+- [Oslo](/no/oslo/)
 
 I appen ser du hvilke studioer og treningssentre i nærheten som er med.
 
@@ -84,6 +103,20 @@ Du kan endre, pause eller si opp abonnementet ditt når som helst.
 </div>
 
 [Les hele guiden (engelsk)](/guides/how-classpass-works/)
+
+<h2 id="spullen">Mangler du noe til treningen?</h2>
+
+Disse lenkene tar deg direkte til Amazon.de, som også leverer til Norge. Siden er på tysk, men du kan velge engelsk øverst på siden.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Treningstøy</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Treningssko</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Drikkeflaske</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Treningshåndkle</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Hengelås til skapet</a></li>
+</ul>
+
+<p class="klein">Som Amazon-partner tjener vi på kvalifiserte kjøp. Prisen er den samme for deg.</p>
 
 <h2 id="gidsen">Guider</h2>
 

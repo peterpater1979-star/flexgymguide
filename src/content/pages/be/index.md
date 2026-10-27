@@ -11,7 +11,7 @@ kicker: "Landengids België"
 
 Geen zin in een lang contract bij één sportschool? Met een sportpas als ClassPass sport je met één abonnement bij verschillende studio's en gyms. Hier lees je hoe dat in België werkt en in welke steden.
 
-<h2 id="opties">Flexibel sporten met een sportpas</h2>
+<h2 id="opties">Twee manieren om flexibel te sporten</h2>
 
 <div class="kolommen">
 
@@ -28,22 +28,41 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoek bi
 - Werkt ook in 30 andere landen
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/be/classpass/">Alles over ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-be/?subId1=fgg-be-land">Probeer ClassPass</a>
+<a class="knop knop-rand" href="/be/classpass/">Alles over ClassPass</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
+
+### Basic-Fit
+
+Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 per 4 weken, of Flex zonder looptijd vanaf € 34,98.
+
+- Goed als je drie keer per week of vaker traint
+- Goed als je één vaste plek wilt
+- Flex: € 9,99 per 4 weken meer dan een jaarabonnement
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/basic-fit/">Alles over Basic-Fit</a>
 </div>
 
 </div>
 
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Steden</span></div>
+<div class="fotokop foto-sporttas"><span>Steden</span></div>
 
 ### Waar werkt het?
 
 ClassPass heeft partnerstudio's in de grotere Belgische steden, onder meer:
 
-- Brussel
-- Antwerpen
-- Gent
+- [Brussel](/be/brussel/)
+- [Antwerpen](/be/antwerpen/)
+- [Gent](/be/gent/)
 
 In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
 
@@ -86,6 +105,20 @@ Je kunt je abonnement altijd aanpassen, pauzeren of opzeggen.
 </div>
 
 [Lees de volledige uitleg (Engels)](/guides/how-classpass-works/)
+
+<h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
+
+Mis je nog iets? Via deze links zoek je direct bij Amazon.nl, dat ook naar België levert:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding/">Sportkleding</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen/">Sportschoenen</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
+</ul>
+
+<p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
 
 <h2 id="gidsen">Gidsen</h2>
 

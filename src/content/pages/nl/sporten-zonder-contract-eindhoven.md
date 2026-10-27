@@ -64,7 +64,7 @@ Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaa
 | Premium | € 39,98 | Alle clubs in Europa, één gast per week, massagestoelen |
 | Ultimate | € 44,98 | Alle clubs in Europa, onbeperkt gasten, sportwater, gratis pauzeren |
 
-Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/).
+Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) en [Alles over Basic-Fit](/nl/basic-fit/).
 
 <p class="klein">Bron: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
 
@@ -105,4 +105,5 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/eindhoven/">Flexibel sporten in Eindhoven</a>
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
+<a class="knop knop-rand" href="/nl/gyms-without-contract-eindhoven/">In English</a>
 </div>

@@ -11,7 +11,7 @@ kicker: "Länderguide Schweiz"
 
 Keine Lust auf einen langen Vertrag in einem einzigen Studio? Mit einem Sportpass wie ClassPass trainierst du mit einem Abo in verschiedenen Studios und Gyms. Hier liest du, wie das in der Schweiz funktioniert und in welchen Städten.
 
-<h2 id="opties">Flexibel trainieren mit einem Sportpass</h2>
+<h2 id="opties">Drei Wege, flexibel zu trainieren</h2>
 
 <div class="kolommen">
 
@@ -28,27 +28,53 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 - Funktioniert auch in 30 anderen Ländern
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/ch/classpass/">Alles über ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-ch/?subId1=fgg-ch-land">ClassPass testen</a>
+<a class="knop knop-rand" href="/ch/classpass/">Alles über ClassPass</a>
 </div>
 
 </div>
 
-<div class="kolom kaart" id="steden">
+<div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Städte</span></div>
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
 
-### Wo funktioniert es?
+### Activ Fitness
 
-ClassPass hat Partnerstudios in den größeren Schweizer Städten, unter anderem:
+Eine Schweizer Fitnesskette mit über 120 Studios, davon 16 in Zürich. Neben dem Jahresabo gibt es ein Abo für einen Monat, für CHF 150.
 
-- Zürich
-- Genf
-- Basel
-- Lausanne
+- Gut bei dreimal Training pro Woche oder öfter
+- Gut, wenn du einen festen Ort willst
+- Nur in der Schweiz
 
-In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
+<div class="knoppen">
+<a class="knop knop-rand" href="/ch/fitnessstudio-ohne-vertrag-zuerich/">Fitnessstudio ohne Vertrag in Zürich</a>
+</div>
 
 </div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sporttas"><span>Premium-Club</span></div>
+
+### Holmes Place
+
+Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den Preis erfährst du erst bei einem Besuch im Club.
+
+- Gut, wenn du mehr Luxus und Service willst
+- Gut bei dreimal Training pro Woche oder öfter
+- Auch in Österreich, Deutschland und Portugal
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
+</div>
+
+</div>
+
+</div>
+
+<div id="steden">
+
+ClassPass hat Partnerstudios in den grösseren Schweizer Städten, unter anderem in [Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/), Genf, Basel und Lausanne. In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 
 </div>
 
@@ -87,6 +113,20 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 </div>
 
 [Den ganzen Guide lesen (Englisch)](/guides/how-classpass-works/)
+
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de, das auch in die Schweiz liefert:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Sportbekleidung</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Sportschuhe</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+</ul>
+
+<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
 
 <h2 id="gidsen">Ratgeber</h2>
 

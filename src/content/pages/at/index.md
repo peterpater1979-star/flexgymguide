@@ -30,7 +30,8 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 - Funktioniert auch in 30 anderen Ländern
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/at/classpass/">Alles über ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-at/?subId1=fgg-at-land">ClassPass testen</a>
+<a class="knop knop-rand" href="/at/classpass/">Alles über ClassPass</a>
 </div>
 
 </div>
@@ -49,6 +50,24 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sporttas"><span>Premium-Club</span></div>
+
+### Holmes Place
+
+Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den Preis erfährst du erst bei einem Besuch im Club.
+
+- Gut, wenn du mehr Luxus und Service willst
+- Gut bei dreimal Training pro Woche oder öfter
+- Auch in der Schweiz, Deutschland und Portugal
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
 </div>
 
 </div>
@@ -94,6 +113,20 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 </div>
 
 [Den ganzen Guide lesen (Englisch)](/guides/how-classpass-works/)
+
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de, das auch nach Österreich liefert:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Sportbekleidung</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Sportschuhe</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+</ul>
+
+<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
 
 <h2 id="gidsen">Ratgeber</h2>
 

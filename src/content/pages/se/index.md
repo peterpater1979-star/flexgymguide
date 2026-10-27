@@ -11,7 +11,7 @@ kicker: "Landguide Sverige"
 
 Har du ingen lust med ett långt avtal på ett enda gym? Med ett träningspass som ClassPass får du tillgång till olika studior och gym med ett och samma medlemskap. Här kan du läsa hur det fungerar i Sverige och i vilka städer.
 
-<h2 id="opties">Träna flexibelt med ett träningspass</h2>
+<h2 id="opties">Två sätt att träna flexibelt</h2>
 
 <div class="kolommen">
 
@@ -28,22 +28,41 @@ Ett medlemskap med krediter för yoga, pilates, boxning, spinning och gymbesök 
 - Fungerar även i 30 andra länder
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-land">Prova ClassPass</a>
+<a class="knop knop-rand" href="/se/classpass/">Allt om ClassPass</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gymkedja</span></div>
+
+### SATS
+
+En nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Finland, med gym och gruppträning.
+
+- Bra om du tränar tre gånger i veckan eller mer
+- Bra om du vill ha ett fast ställe
+- Finns i fyra nordiska länder
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/se/traningspass-eller-gym/">Träningspass eller gym?</a>
 </div>
 
 </div>
 
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Städer</span></div>
+<div class="fotokop foto-sporttas"><span>Städer</span></div>
 
 ### Var fungerar det?
 
 ClassPass har partnerstudior i flera städer, bland annat:
 
-- Stockholm
-- Göteborg
-- Malmö
+- [Stockholm](/se/stockholm/)
+- [Göteborg](/se/goteborg/)
+- [Malmö](/se/malmo/)
 
 I appen ser du vilka studior och gym i närheten som är med.
 
@@ -86,6 +105,20 @@ Du kan ändra, pausa eller säga upp ditt abonnemang när som helst.
 </div>
 
 [Läs hela guiden (engelska)](/guides/how-classpass-works/)
+
+<h2 id="spullen">Saknar du något till träningen?</h2>
+
+De här länkarna tar dig direkt till Amazon.de, som också levererar till Sverige. Sidan är på tyska, men du kan välja engelska högst upp på sidan.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Träningskläder</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Träningsskor</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Vattenflaska</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Träningshandduk</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Hänglås till skåpet</a></li>
+</ul>
+
+<p class="klein">Som Amazon-partner tjänar vi på kvalificerade köp. Priset är detsamma för dig.</p>
 
 <h2 id="gidsen">Guider</h2>
 

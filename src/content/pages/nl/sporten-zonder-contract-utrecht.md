@@ -65,13 +65,13 @@ Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaa
 | Premium | € 39,98 | Alle clubs in Europa, één gast per week, massagestoelen |
 | Ultimate | € 44,98 | Alle clubs in Europa, onbeperkt gasten, sportwater, gratis pauzeren |
 
-Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/).
+Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) en [Alles over Basic-Fit](/nl/basic-fit/).
 
 <p class="klein">Bron: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
 
 <h2 id="sportcity">SportCity Flex: maandelijks opzegbaar</h2>
 
-SportCity heeft clubs in heel Nederland, ook in Utrecht. Je kiest tussen City One (één club) en City Plus (85 clubs in Nederland, en vijf keer per maand iemand meenemen). Bij allebei kun je kiezen voor Flex, 3 maanden, 1 jaar of 2 jaar, met alle live groepslessen inbegrepen en 14 dagen bedenktijd.
+SportCity heeft clubs in heel Nederland, ook in Utrecht. Je kiest tussen City One (één club) en City Plus (121 clubs in Nederland, en vijf keer per maand iemand meenemen). Bij allebei kun je kiezen voor Flex, 3 maanden, 1 jaar of 2 jaar, met alle live groepslessen inbegrepen en 14 dagen bedenktijd.
 
 Zo zagen de prijzen van City Plus er in oktober 2026 uit bij SportCity Utrecht Wonderwoods, per 4 weken:
 

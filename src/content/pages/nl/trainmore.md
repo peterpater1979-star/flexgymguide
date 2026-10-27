@@ -14,7 +14,6 @@ kicker: "Aanbieder: sportschoolketen"
 Trainmore is een Nederlandse sportschoolketen met 53 eigen clubs. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Bijzonder is de korting per workout: hoe vaker je traint, hoe minder je betaalt.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://trainmore.com/nl-NL/">Naar de website van Trainmore</a>
 <a class="knop knop-rand" href="#steden">Trainmore in jouw stad</a>
 </div>
 
