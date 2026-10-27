@@ -74,9 +74,22 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 
 <div id="ciudades">
 
-## ¿Dónde funciona?
+## Ciudades
 
-ClassPass tiene estudios asociados en las grandes ciudades españolas y en las islas, entre ellas Madrid, Barcelona, Valencia, Sevilla, Málaga, Marbella, Alicante, Bilbao, Ibiza ciudad y Palma de Mallorca. En la app ves qué estudios y gimnasios participan cerca de ti.
+<ul class="stedenlijst">
+<li><a href="/es/gimnasio-sin-permanencia-madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/es/gimnasio-sin-permanencia-barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Valencia</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Sevilla</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Málaga</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Marbella</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Alicante</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Bilbao</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/es/classpass/#ciudades"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass</span></li>
+</ul>
+
+También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.
 
 </div>
 
