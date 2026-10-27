@@ -66,7 +66,7 @@ Gym met live groepslessen in heel Nederland. Kies City One (één club) of City 
 - Prijs verschilt per club
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/nl/sportcity-opzeggen/">SportCity opzeggen</a>
+<a class="knop knop-rand" href="/nl/sportcity/">Alles over SportCity</a>
 </div>
 
 </div>
