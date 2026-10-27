@@ -18,10 +18,10 @@ Just moved to Lisbon, working remotely for a few months, or not sure how long yo
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 37 credits for €59 a month; smaller plans in the app | Variety at studios and gyms all over Lisbon |
-| **Element Gyms** | No contract | From €2.99 a week | Cheap and frequent training |
+| **Element Gyms** | No contract | Classic €5.99 a week, no joining fee | Cheap and frequent training |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
-<p class="klein">Prices from October 2026. ClassPass: location Lisbon. Element Gyms: starting price on elementgyms.pt. Always check the current price with the provider.</p>
+<p class="klein">Prices from October 2026. ClassPass: location Lisbon. Element Gyms: Classic plan, Parque das Nações gym. Always check the current price with the provider.</p>
 
 <h2 id="classpass">ClassPass: cancel any time</h2>
 
@@ -38,14 +38,13 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 <h2 id="gyms">Gyms without a contract</h2>
 
-Many gym chains in Portugal offer plans with a minimum term (often 12 months) and plans without one ("sem fidelização"), which cost a bit more per month. Element Gyms has 56 gyms in Portugal, several of them in Lisbon (for example Parque das Nações), and works without a contract, from €2.99 a week.
+Many gym chains in Portugal offer plans with a minimum term (often 12 months) and plans without one ("sem fidelização"), which cost a bit more per month. Element Gyms has 56 gyms in Portugal, several of them in Lisbon (for example Parque das Nações), and works without a contract. With the Classic plan you train at 24 gyms for €5.99 a week.
 
 | | Price | Minimum term | Joining fee |
 | --- | --- | --- | --- |
-| Element Gyms | From €2.99 a week; Classic (24 gyms) €5.99 a week | None | €0.00 (October 2026) |
-| [GYM] | [PRICE] a month | [TERM] | [PRICE] |
+| Element Gyms Classic (24 gyms) | €5.99 a week | None | €0.00 (October 2026) |
 
-<p class="klein">Source: <a href="https://elementgyms.pt/">elementgyms.pt</a> (October 2026). Always check the current price and terms with the gym.</p>
+<p class="klein">Source: the Element Gyms sign-up page, Parque das Nações gym (October 2026). There are also plans with more or fewer gyms. Always check the current price and terms with the gym.</p>
 
 <h2 id="drop-in">Drop-in classes and class packs</h2>
 

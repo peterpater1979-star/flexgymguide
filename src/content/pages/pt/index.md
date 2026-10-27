@@ -43,6 +43,8 @@ O ClassPass tem estúdios parceiros em Lisboa, no Porto e noutras cidades portug
 
 Na app vês que estúdios e ginásios participam perto de ti.
 
+Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
+
 </div>
 
 </div>

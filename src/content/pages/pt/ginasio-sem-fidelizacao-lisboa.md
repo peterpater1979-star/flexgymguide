@@ -18,10 +18,10 @@ Não te apetece ficar preso um ano a um só ginásio? Em Lisboa também podes tr
 | | Cancelamento | Preço | Ideal para |
 | --- | --- | --- | --- |
 | **ClassPass** | Quando quiseres, sem pré-aviso | Plano padrão 59 € por mês (37 créditos); planos mais pequenos na app | Variar entre estúdios e ginásios em toda a Lisboa |
-| **Element Gyms** | Sem fidelização | A partir de 2,99 € por semana | Treinar muitas vezes e barato |
+| **Element Gyms** | Sem fidelização | Classic 5,99 € por semana, sem inscrição | Treinar muitas vezes e barato |
 | **Aula avulsa ou pack** | Não é preciso | Depende do estúdio | Uma aula de vez em quando no teu estúdio preferido |
 
-<p class="klein">Preços de outubro de 2026. ClassPass: localização Lisboa. Element Gyms: preço de partida em elementgyms.pt. Confirma sempre o preço atual com o fornecedor.</p>
+<p class="klein">Preços de outubro de 2026. ClassPass: localização Lisboa. Element Gyms: plano Classic, ginásio Parque das Nações. Confirma sempre o preço atual com o fornecedor.</p>
 
 <h2 id="classpass">ClassPass: cancela quando quiseres</h2>
 
@@ -38,14 +38,13 @@ Com o ClassPass recebes todos os meses créditos para aulas e treinos em estúdi
 
 <h2 id="ginasios">Ginásios sem fidelização</h2>
 
-Muitas cadeias de ginásios em Portugal têm planos com fidelização (muitas vezes 12 meses) e planos sem fidelização, que custam um pouco mais por mês. A Element Gyms tem 56 ginásios em Portugal, vários em Lisboa (por exemplo Parque das Nações), e trabalha sem fidelização, a partir de 2,99 € por semana.
+Muitas cadeias de ginásios em Portugal têm planos com fidelização (muitas vezes 12 meses) e planos sem fidelização, que custam um pouco mais por mês. A Element Gyms tem 56 ginásios em Portugal, vários em Lisboa (por exemplo Parque das Nações), e trabalha sem fidelização. Com o plano Classic treinas em 24 ginásios por 5,99 € por semana.
 
 | | Preço | Fidelização | Inscrição |
 | --- | --- | --- | --- |
-| Element Gyms | A partir de 2,99 € por semana; Classic (24 ginásios) 5,99 € por semana | Sem fidelização | 0,00 € (outubro de 2026) |
-| [GINÁSIO] | [PREÇO] por mês | [FIDELIZAÇÃO] | [PREÇO] |
+| Element Gyms Classic (24 ginásios) | 5,99 € por semana | Sem fidelização | 0,00 € (outubro de 2026) |
 
-<p class="klein">Fonte: <a href="https://elementgyms.pt/">elementgyms.pt</a> (outubro de 2026). Confirma sempre o preço atual e as condições com o ginásio.</p>
+<p class="klein">Fonte: a página de inscrição da Element Gyms, ginásio Parque das Nações (outubro de 2026). Há também planos com mais ou menos ginásios. Confirma sempre o preço atual e as condições com o ginásio.</p>
 
 <h2 id="avulsas">Aulas avulsas e packs</h2>
 
