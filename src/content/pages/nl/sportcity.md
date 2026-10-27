@@ -108,6 +108,20 @@ Ja, bij de club kun je een dagpas aanvragen. Schrijf je je in, dan heb je 14 dag
 
 </details>
 
+<details>
+<summary>Mag ik iemand meenemen?</summary>
+
+Met City Plus mag je vijf keer per maand gratis iemand meenemen, behalve bij SportCity Amsterdam Cornelis Schuytstraat. Met City One kan dat niet.
+
+</details>
+
+<details>
+<summary>Stopt mijn lidmaatschap automatisch?</summary>
+
+Nee. Na afloop van je looptijd gaat je lidmaatschap over in Flex, dat je maandelijks opzegt. Wil je stoppen, zeg dan uiterlijk een maand voor het einde van je looptijd op. Lees [SportCity opzeggen](/nl/sportcity-opzeggen/).
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/">Sporten in Nederland</a>
 <a class="knop knop-rand" href="/nl/sportcity-opzeggen/">SportCity opzeggen</a>
