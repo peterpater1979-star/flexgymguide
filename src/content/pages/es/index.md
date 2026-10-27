@@ -51,8 +51,6 @@ Cadena de gimnasios económica con clubes en toda España. Contrato anual desde 
 
 </div>
 
-</div>
-
 <div class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-sporttas"><span>Gimnasio con clases</span></div>
