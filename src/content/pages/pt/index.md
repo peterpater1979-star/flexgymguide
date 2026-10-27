@@ -11,7 +11,7 @@ kicker: "Guia do país Portugal"
 
 Não te apetece um contrato longo num só ginásio? Com um passe desportivo como o ClassPass, uma única subscrição dá-te acesso a vários estúdios e ginásios. Aqui explicamos como funciona em Portugal e em que cidades.
 
-<h2 id="opcoes">Treinar com um passe desportivo</h2>
+<h2 id="opcoes">Duas formas de treinar com flexibilidade</h2>
 
 <div class="kolommen">
 
@@ -33,19 +33,29 @@ Uma subscrição com créditos para ioga, pilates, boxe, spinning e ginásio, em
 
 </div>
 
-<div class="kolom kaart" id="cidades">
+<div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Cidades</span></div>
+<div class="fotokop foto-gymketen"><span>Cadeia de ginásios</span></div>
 
-### Onde funciona?
+### Element Gyms
 
-O ClassPass tem estúdios parceiros em Lisboa, no Porto e noutras cidades portuguesas.
+Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic treinas em 24 ginásios por 5,99 € por semana, sem inscrição.
 
-Na app vês que estúdios e ginásios participam perto de ti.
+- Ideal se treinas três vezes por semana ou mais
+- Ideal se queres um sítio fixo
+- Só em Portugal
 
-Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/ginasio-sem-fidelizacao-lisboa/">Ginásios sem fidelização em Lisboa</a>
+</div>
 
 </div>
+
+</div>
+
+<div id="cidades">
+
+O ClassPass tem estúdios parceiros em Lisboa, no Porto e noutras cidades portuguesas. Na app vês que estúdios e ginásios participam perto de ti. Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
 
 </div>
 
