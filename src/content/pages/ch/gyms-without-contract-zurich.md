@@ -18,7 +18,7 @@ Just moved to Zurich, here for a semester, or not sure how long you will stay? Y
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 45 credits for CHF 79 a month; smaller plans in the app | Variety at studios all over the city |
-| **Gym with a short term** | [NOTICE] | [PRICE] | Training often at one place |
+| **Activ Fitness, 1 month** | No yearly contract: you pay one month in advance | CHF 150 for one month | Training often, at 16 gyms in Zurich |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Zurich. Always check the current price with the provider.</p>
@@ -36,15 +36,25 @@ With ClassPass you get credits every month for classes and gym visits at studios
 <a class="knop knop-affiliate" href="/guides/how-classpass-works/">How ClassPass works</a>
 </div>
 
-<h2 id="gyms">Gyms with a short term</h2>
+<h2 id="gyms">Activ Fitness: also for one month</h2>
 
-Most Swiss gym chains mainly sell yearly memberships. Some also offer shorter memberships that cost more per month. This is what it looked like in October 2026:
+Most Swiss gym chains mainly sell yearly memberships. Activ Fitness has 16 gyms in Zurich and, besides the yearly membership, also sells a one-month membership. Which gyms you can use depends on the category:
 
-| Gym | Membership | Price | Cancelling |
-| --- | --- | --- | --- |
-| [GYM] | [MEMBERSHIP] | [PRICE] | [NOTICE] |
+- **Category 2** (over 90 gyms in Switzerland): in Zurich Altstetten, Bellevue, Central, Forum, Kreuzplatz, Langstrasse, Oerlikon, Stauffacher, Tiefenbrunnen, Wiedikon and Wipkingen.
+- **Category 3** (over 120 gyms): also Glattpark, Puls 5, Sihlcity, Stadelhofen and Stockerhof.
 
-<p class="klein">Always check the current price and notice period with the gym.</p>
+| Activ Fitness | Category 2 | Category 3 |
+| --- | --- | --- |
+| **1 month**, paid in advance | CHF 150 | CHF 150 |
+| **12 months**, paid in advance | CHF 799 | CHF 899 |
+| **12 months**, students, paid in advance | CHF 699 | CHF 799 |
+| **12 months**, paid monthly | CHF 70 a month | CHF 80 a month |
+| **12 months**, students, paid monthly | CHF 62 a month | CHF 70 a month |
+
+- **Paying monthly:** this is still a yearly membership. There is a one-off administration fee of CHF 70, and the membership renews automatically.
+- **Loyalty bonus:** if you renew a prepaid yearly membership without a break, you get CHF 50 credit on your chip bracelet.
+
+<p class="klein">Source: Activ Fitness price overview (October 2026). Always check the current price and notice period with Activ Fitness.</p>
 
 <h2 id="drop-in">Drop-in classes and class cards</h2>
 
@@ -63,7 +73,7 @@ Many yoga, pilates and boxing studios sell single classes or a card for a number
 <details open>
 <summary>Can I join a gym in Zurich without a yearly contract?</summary>
 
-Yes. With ClassPass you cancel any time, some gyms have shorter memberships, and many studios sell drop-in classes.
+Yes. With ClassPass you cancel any time, Activ Fitness has a one-month membership, and many studios sell drop-in classes.
 
 </details>
 

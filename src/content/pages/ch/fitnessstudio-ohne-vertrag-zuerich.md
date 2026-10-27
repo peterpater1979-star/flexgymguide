@@ -18,7 +18,7 @@ Keine Lust, dich ein ganzes Jahr an ein Studio zu binden? In Zürich kannst du a
 | | Kündigen | Preis | Gut für |
 | --- | --- | --- | --- |
 | **ClassPass** | Jederzeit, ohne Kündigungsfrist | Standardabo 45 Credits für CHF 79 im Monat; kleinere in der App | Abwechslung in Studios in der ganzen Stadt |
-| **Fitnessstudio mit kurzer Laufzeit** | [KÜNDIGUNG] | [PREIS] | Oft im selben Studio trainieren |
+| **Activ Fitness, 1 Monat** | Kein Jahresabo: du zahlst einen Monat im Voraus | CHF 150 für einen Monat | Oft trainieren, in 16 Studios in Zürich |
 | **Einzelstunde oder 10er-Abo** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
 
 <p class="klein">Preise von Oktober 2026. ClassPass: Standort Zürich. Prüfe den aktuellen Preis immer beim Anbieter.</p>
@@ -35,15 +35,25 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Stud
 <a class="knop knop-affiliate" href="/ch/classpass/">Alles über ClassPass</a>
 </div>
 
-<h2 id="studios">Fitnessstudios mit kurzer Laufzeit</h2>
+<h2 id="studios">Activ Fitness: auch für einen Monat</h2>
 
-Viele Schweizer Fitnessketten verkaufen vor allem Jahresabos. Einige bieten auch kürzere Abos an, die mehr pro Monat kosten. So sah es im Oktober 2026 aus:
+Viele Schweizer Fitnessketten verkaufen vor allem Jahresabos. Activ Fitness hat in Zürich 16 Studios und bietet neben dem Jahresabo auch ein Abo für einen Monat an. Welche Studios du nutzen kannst, hängt von der Kategorie ab:
 
-| Studio | Abo | Preis | Kündigung |
-| --- | --- | --- | --- |
-| [STUDIO] | [ABO] | [PREIS] | [KÜNDIGUNG] |
+- **Kategorie 2** (über 90 Studios in der Schweiz): in Zürich Altstetten, Bellevue, Central, Forum, Kreuzplatz, Langstrasse, Oerlikon, Stauffacher, Tiefenbrunnen, Wiedikon und Wipkingen.
+- **Kategorie 3** (über 120 Studios): zusätzlich Glattpark, Puls 5, Sihlcity, Stadelhofen und Stockerhof.
 
-<p class="klein">Prüfe den aktuellen Preis und die Kündigungsfrist immer beim Studio.</p>
+| Activ Fitness | Kategorie 2 | Kategorie 3 |
+| --- | --- | --- |
+| **1 Monat**, im Voraus bezahlt | CHF 150 | CHF 150 |
+| **12 Monate**, im Voraus bezahlt | CHF 799 | CHF 899 |
+| **12 Monate**, Studierende, im Voraus bezahlt | CHF 699 | CHF 799 |
+| **12 Monate**, monatlich bezahlt | CHF 70 pro Monat | CHF 80 pro Monat |
+| **12 Monate**, Studierende, monatlich bezahlt | CHF 62 pro Monat | CHF 70 pro Monat |
+
+- **Monatlich zahlen:** Das ist trotzdem ein Jahresabo. Es kommt eine einmalige Bearbeitungsgebühr von CHF 70 dazu, und das Abo verlängert sich automatisch.
+- **Treuebonus:** Verlängerst du ein im Voraus bezahltes Jahresabo nahtlos, bekommst du CHF 50 Guthaben auf dein Chip-Armband.
+
+<p class="klein">Quelle: Preisübersicht von Activ Fitness (Oktober 2026). Prüfe den aktuellen Preis und die Kündigungsfrist immer bei Activ Fitness.</p>
 
 <h2 id="einzel">Einzelstunden und 10er-Abos</h2>
 
@@ -61,7 +71,7 @@ Viele Yoga-, Pilates- und Boxstudios verkaufen auch Einzelstunden oder ein Abo f
 <details open>
 <summary>Kann ich in Zürich ohne Jahresabo trainieren?</summary>
 
-Ja. ClassPass kannst du jederzeit kündigen, manche Studios haben kürzere Abos, und viele Studios verkaufen Einzelstunden.
+Ja. ClassPass kannst du jederzeit kündigen, bei Activ Fitness gibt es ein Abo für einen Monat, und viele Studios verkaufen Einzelstunden.
 
 </details>
 

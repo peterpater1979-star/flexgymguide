@@ -11,7 +11,7 @@ kicker: "Länderguide Schweiz"
 
 Keine Lust auf einen langen Vertrag in einem einzigen Studio? Mit einem Sportpass wie ClassPass trainierst du mit einem Abo in verschiedenen Studios und Gyms. Hier liest du, wie das in der Schweiz funktioniert und in welchen Städten.
 
-<h2 id="opties">Flexibel trainieren mit einem Sportpass</h2>
+<h2 id="opties">Zwei Wege, flexibel zu trainieren</h2>
 
 <div class="kolommen">
 
@@ -33,15 +33,33 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
+
+### Activ Fitness
+
+Eine Schweizer Fitnesskette mit über 120 Studios, davon 16 in Zürich. Neben dem Jahresabo gibt es ein Abo für einen Monat, für CHF 150.
+
+- Gut bei dreimal Training pro Woche oder öfter
+- Gut, wenn du einen festen Ort willst
+- Nur in der Schweiz
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ch/fitnessstudio-ohne-vertrag-zuerich/">Fitnessstudio ohne Vertrag in Zürich</a>
+</div>
+
+</div>
+
 <div class="kolom kaart" id="steden">
 
-<div class="fotokop foto-gymketen"><span>Städte</span></div>
+<div class="fotokop foto-sporttas"><span>Städte</span></div>
 
 ### Wo funktioniert es?
 
-ClassPass hat Partnerstudios in den größeren Schweizer Städten, unter anderem:
+ClassPass hat Partnerstudios in den grösseren Schweizer Städten, unter anderem:
 
-- Zürich
+- [Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/)
 - Genf
 - Basel
 - Lausanne
