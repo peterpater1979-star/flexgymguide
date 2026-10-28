@@ -14,7 +14,7 @@ kicker: "Pass sport"
 ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des crédits. Tu les utilises pour des cours et des séances dans les studios et salles de sport partenaires. Tu n’es donc pas lié à un seul lieu ni à un seul sport.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass">Découvrir ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass">Essai gratuit de 14 jours</a>
 </div>
 
 <h2 id="en-bref">En bref</h2>
@@ -23,6 +23,7 @@ ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des c
 | --- | --- |
 | **Type** | Pass sport avec crédits |
 | **Activités** | Yoga, pilates, boxe, spinning, musculation, salle de sport et plus |
+| **Essai** | 14 jours gratuits avec 10 séances, pour les nouveaux membres |
 | **Résiliation** | À tout moment, avant la date de renouvellement |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans plus de 2 500 villes et 31 pays |
 
@@ -56,6 +57,21 @@ ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des c
 
 </div>
 
+</div>
+
+<h2 id="essai">Essai gratuit de 14 jours</h2>
+
+Nouveau sur ClassPass ? En France, tu commences actuellement par un essai gratuit de 14 jours avec 10 séances. Voici comment ça marche :
+
+1. **Inscris-toi** via le bouton ci-dessous. Tu vois l'offre d'essai au moment de t'inscrire.
+2. **Réserve tes séances.** Tu peux aller dans chaque studio ou salle une fois. Les séances que tu n'utilises pas expirent à la fin de l'essai.
+3. **Annule à temps.** Si tu annules un cours trop tard ou ne viens pas, tu paies les frais habituels, même pendant l'essai.
+4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes automatiquement à une formule mensuelle. Le prix dépend de ta ville : à Paris actuellement 47 crédits pour 75 € par mois, dans une petite commune par exemple 37 crédits pour 59 €.
+
+L'essai est réservé aux nouveaux membres, une fois par personne. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-essai">Essai gratuit de 14 jours</a>
 </div>
 
 <h2 id="villes">Où utiliser ClassPass en France</h2>
@@ -102,7 +118,7 @@ Ton abonnement fonctionne aussi hors de France, dans plus de 2 500 villes et 31 
 Regarde quels studios et salles participent près de chez toi, et combien coûtent les formules en France.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass">Découvrir ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass">Essai gratuit de 14 jours</a>
 </div>
 
 </div>
