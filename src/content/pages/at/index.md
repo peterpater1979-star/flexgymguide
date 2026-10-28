@@ -56,7 +56,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-sporttas"><span>Premium-Club</span></div>
+<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
 
 ### Holmes Place
 

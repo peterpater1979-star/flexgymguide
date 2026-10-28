@@ -46,7 +46,7 @@ Cadeia de ginásios sem fidelização, com 56 ginásios em Portugal.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-sporttas"><span>Clube premium</span></div>
+<div class="fotokop foto-holmes-place"><span>Clube premium</span></div>
 
 ### Holmes Place
 

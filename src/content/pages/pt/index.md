@@ -54,7 +54,7 @@ Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-sporttas"><span>Clube premium</span></div>
+<div class="fotokop foto-holmes-place"><span>Clube premium</span></div>
 
 ### Holmes Place
 

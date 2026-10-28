@@ -54,7 +54,7 @@ Eine Schweizer Fitnesskette mit über 120 Studios, davon 16 in Zürich. Neben de
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-sporttas"><span>Premium-Club</span></div>
+<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
 
 ### Holmes Place
 
