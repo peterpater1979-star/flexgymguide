@@ -32,7 +32,7 @@ Yoga, Pilates, strength training and more with one credit-based membership.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>For regular gym-goers</span></div>
+<div class="fotokop foto-flyefit"><span>For regular gym-goers</span></div>
 
 ### Flyefit
 

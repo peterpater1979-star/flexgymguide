@@ -36,7 +36,7 @@ A membership with credits for yoga, Pilates, boxing, spinning and gym visits at 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gym chain</span></div>
+<div class="fotokop foto-flyefit"><span>Gym chain</span></div>
 
 ### Flyefit
 
