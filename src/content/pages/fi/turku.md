@@ -32,7 +32,7 @@ Joogaa, pilatesta, voimaharjoittelua ja muuta yhdellä krediittijäsenyydellä.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Kuntosaliketju</span></div>
+<div class="fotokop foto-elixia"><span>Kuntosaliketju</span></div>
 
 ### ELIXIA
 

@@ -36,7 +36,7 @@ Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningii
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Kuntosaliketju</span></div>
+<div class="fotokop foto-elixia"><span>Kuntosaliketju</span></div>
 
 ### ELIXIA
 
