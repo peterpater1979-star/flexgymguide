@@ -9,7 +9,7 @@ crumb: "Fitness Park"
 kicker: "Fournisseur : salle de sport"
 ---
 
-<div class="fotobanner foto-sporttas" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner foto-fitness-park" role="img" aria-label="Salle de sport"></div>
 
 Fitness Park est une chaîne française de salles de sport, avec plus de 300 clubs en France et aussi des clubs en Espagne. Les clubs sont ouverts 7j/7 de 6h à 23h, et certains 24h/24. Tu choisis entre trois formules, avec ou sans engagement.
 

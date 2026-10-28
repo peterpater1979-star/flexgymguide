@@ -24,15 +24,14 @@ Não te apetece ficar preso a um só ginásio? Em Lisboa podes reservar aulas em
 Yoga, Pilates, treino de força e mais com uma só subscrição de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-pt/?subId1=fgg-pt-lisboa">Experimentar ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
 </div>
 
 </div>
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Ginásio low-cost</span></div>
+<div class="fotokop foto-element-gyms"><span>Ginásio low-cost</span></div>
 
 ### Element Gyms
 
@@ -46,7 +45,7 @@ Cadeia de ginásios sem fidelização, com 56 ginásios em Portugal.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-sporttas"><span>Clube premium</span></div>
+<div class="fotokop foto-holmes-place"><span>Clube premium</span></div>
 
 ### Holmes Place
 
@@ -108,8 +107,7 @@ Santos, Príncipe Real, Chiado, Campo de Ourique, Saldanha, Belém e Restelo. So
 - Cancelas quando quiseres
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-pt/?subId1=fgg-pt-lisboa">Ver ClassPass</a>
-<a class="knop knop-rand" href="/pt/classpass/">Tudo sobre o ClassPass</a>
+<a class="knop knop-affiliate" href="/pt/classpass/">Tudo sobre o ClassPass</a>
 </div>
 
 </div>

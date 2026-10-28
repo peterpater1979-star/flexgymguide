@@ -24,8 +24,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du
 Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-berlin">ClassPass testen</a>
-<a class="knop knop-rand" href="#classpass">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="#classpass">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -46,7 +45,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Für kleines Budget</span></div>
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
 
 ### McFit
 

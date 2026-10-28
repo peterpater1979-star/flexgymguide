@@ -28,8 +28,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoek bi
 - Werkt ook in 30 andere landen
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-be/?subId1=fgg-be-land">Probeer ClassPass</a>
-<a class="knop knop-rand" href="/be/classpass/">Alles over ClassPass</a>
+<a class="knop knop-affiliate" href="/be/classpass/">Alles over ClassPass</a>
 </div>
 
 </div>

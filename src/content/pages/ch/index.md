@@ -28,8 +28,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 - Funktioniert auch in 30 anderen Ländern
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-ch/?subId1=fgg-ch-land">ClassPass testen</a>
-<a class="knop knop-rand" href="/ch/classpass/">Alles über ClassPass</a>
+<a class="knop knop-affiliate" href="/ch/classpass/">Alles über ClassPass</a>
 </div>
 
 </div>
@@ -54,7 +53,7 @@ Eine Schweizer Fitnesskette mit über 120 Studios, davon 16 in Zürich. Neben de
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-sporttas"><span>Premium-Club</span></div>
+<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
 
 ### Holmes Place
 

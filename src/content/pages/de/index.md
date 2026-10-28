@@ -28,8 +28,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 - Funktioniert auch in 30 anderen Ländern
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-land">ClassPass testen</a>
-<a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
+<a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
 </div>
 
 </div>
@@ -54,7 +53,7 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Günstige Fitnesskette</span></div>
+<div class="fotokop foto-mcfit"><span>Günstige Fitnesskette</span></div>
 
 ### McFit
 

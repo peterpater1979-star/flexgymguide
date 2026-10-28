@@ -24,8 +24,7 @@ Vil du ikke være bundet til ét fitnesscenter? I Aarhus booker du hold i studie
 Yoga, pilates, styrketræning og mere med ét abonnement med credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-dk/?subId1=fgg-dk-aarhus">Prøv ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Se ClassPass</a>
 </div>
 
 </div>
@@ -94,8 +93,7 @@ Et mindre udvalg i Aarhus C og Aarhus Ø, og også i Højbjerg. Pilates, styrket
 - Du kan opsige når som helst
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-dk/?subId1=fgg-dk-aarhus">Se ClassPass</a>
-<a class="knop knop-rand" href="/dk/classpass/">Alt om ClassPass</a>
+<a class="knop knop-affiliate" href="/dk/classpass/">Alt om ClassPass</a>
 </div>
 
 </div>

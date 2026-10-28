@@ -24,8 +24,7 @@ Geen zin om vast te zitten aan één sportschool? In Brussel boek je met een spo
 Yoga, pilates, krachttraining en meer met één abonnement met credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-be/?subId1=fgg-be-brussel">Probeer ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Bekijk ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
 </div>
 
 </div>
@@ -94,8 +93,7 @@ Elsene, Etterbeek, Sint-Joost-ten-Node, Sint-Gillis en Vorst. Vooral yoga en pil
 - Altijd opzegbaar
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-be/?subId1=fgg-be-brussel">Bekijk ClassPass</a>
-<a class="knop knop-rand" href="/be/classpass/">Alles over ClassPass</a>
+<a class="knop knop-affiliate" href="/be/classpass/">Alles over ClassPass</a>
 </div>
 
 </div>

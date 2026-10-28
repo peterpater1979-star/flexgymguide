@@ -24,8 +24,7 @@ Vil du ikke være bundet til ét fitnesscenter? I København booker du hold i st
 Yoga, pilates, styrketræning og mere med ét abonnement med credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-dk/?subId1=fgg-dk-koebenhavn">Prøv ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Se ClassPass</a>
 </div>
 
 </div>
@@ -108,8 +107,7 @@ Indre By, Østerbro, Frederiksberg, Vesterbro, Nørrebro, Nordhavn, Sydhavn og C
 - Du kan opsige når som helst
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-dk/?subId1=fgg-dk-koebenhavn">Se ClassPass</a>
-<a class="knop knop-rand" href="/dk/classpass/">Alt om ClassPass</a>
+<a class="knop knop-affiliate" href="/dk/classpass/">Alt om ClassPass</a>
 </div>
 
 </div>

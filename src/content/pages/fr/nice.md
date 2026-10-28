@@ -46,7 +46,7 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-sporttas"><span>Salle avec cours</span></div>
+<div class="fotokop foto-fitness-park"><span>Salle avec cours</span></div>
 
 ### Fitness Park
 

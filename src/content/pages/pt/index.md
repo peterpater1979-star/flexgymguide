@@ -28,15 +28,14 @@ Uma subscrição com créditos para ioga, pilates, boxe, spinning e ginásio, em
 - Funciona também em mais 30 países
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-pt/?subId1=fgg-pt-land">Experimentar ClassPass</a>
-<a class="knop knop-rand" href="/pt/classpass/">Tudo sobre o ClassPass</a>
+<a class="knop knop-affiliate" href="/pt/classpass/">Tudo sobre o ClassPass</a>
 </div>
 
 </div>
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Cadeia de ginásios</span></div>
+<div class="fotokop foto-element-gyms"><span>Cadeia de ginásios</span></div>
 
 ### Element Gyms
 
@@ -54,7 +53,7 @@ Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-sporttas"><span>Clube premium</span></div>
+<div class="fotokop foto-holmes-place"><span>Clube premium</span></div>
 
 ### Holmes Place
 

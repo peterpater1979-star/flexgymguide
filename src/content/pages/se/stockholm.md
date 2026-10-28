@@ -24,8 +24,7 @@ Vill du inte vara bunden till ett enda gym? I Stockholm bokar du pass hos studio
 Yoga, pilates, styrketräning och mer med ett abonnemang med krediter.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-stockholm">Prova ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Se ClassPass</a>
 </div>
 
 </div>
@@ -94,8 +93,7 @@ Södermalm, Vasastan, Norrmalm, Kungsholmen och Östermalm. Mest yoga, även pil
 - Du kan säga upp när du vill
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-stockholm">Se ClassPass</a>
-<a class="knop knop-rand" href="/se/classpass/">Allt om ClassPass</a>
+<a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
 </div>
 
 </div>

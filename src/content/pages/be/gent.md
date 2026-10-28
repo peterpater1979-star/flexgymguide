@@ -24,8 +24,7 @@ Geen zin om vast te zitten aan één sportschool? In Gent boek je met een sportp
 Yoga, pilates, krachttraining en meer met één abonnement met credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-be/?subId1=fgg-be-gent">Probeer ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Bekijk ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
 </div>
 
 </div>
@@ -94,8 +93,7 @@ Centrum, Dok-Noord en Sint-Denijs-Westrem. Pilates, krachttraining, yoga en spin
 - Altijd opzegbaar
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-be/?subId1=fgg-be-gent">Bekijk ClassPass</a>
-<a class="knop knop-rand" href="/be/classpass/">Alles over ClassPass</a>
+<a class="knop knop-affiliate" href="/be/classpass/">Alles over ClassPass</a>
 </div>
 
 </div>

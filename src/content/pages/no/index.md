@@ -28,8 +28,7 @@ Et medlemskap med kreditter til yoga, pilates, boksing, spinning og treningssent
 - Fungerer også i 30 andre land
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-no/?subId1=fgg-no-land">Prøv ClassPass</a>
-<a class="knop knop-rand" href="/no/classpass/">Alt om ClassPass</a>
+<a class="knop knop-affiliate" href="/no/classpass/">Alt om ClassPass</a>
 </div>
 
 </div>

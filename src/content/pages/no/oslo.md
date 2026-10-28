@@ -24,8 +24,7 @@ Vil du ikke være bundet til ett treningssenter? I Oslo booker du timer hos stud
 Yoga, pilates, styrketrening og mer med ett abonnement med kreditter.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-no/?subId1=fgg-no-oslo">Prøv ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Se ClassPass</a>
 </div>
 
 </div>
@@ -94,8 +93,7 @@ Sentrum, Grünerløkka, Sagene og Frogner. Yoga og pilates, og også på Fornebu
 - Du kan si opp når som helst
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-no/?subId1=fgg-no-oslo">Se ClassPass</a>
-<a class="knop knop-rand" href="/no/classpass/">Alt om ClassPass</a>
+<a class="knop knop-affiliate" href="/no/classpass/">Alt om ClassPass</a>
 </div>
 
 </div>

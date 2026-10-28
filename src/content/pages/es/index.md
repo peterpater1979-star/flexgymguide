@@ -28,8 +28,7 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 - Funciona también en otros 30 países
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-land">Probar ClassPass</a>
-<a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
 </div>
@@ -54,7 +53,7 @@ Cadena de gimnasios económica con clubes en toda España. Contrato anual desde 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-sporttas"><span>Gimnasio con clases</span></div>
+<div class="fotokop foto-fitness-park"><span>Gimnasio con clases</span></div>
 
 ### Fitness Park
 

@@ -24,8 +24,7 @@ Vill du inte vara bunden till ett enda gym? I Göteborg bokar du pass hos studio
 Yoga, pilates, styrketräning och mer med ett abonnemang med krediter.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-goteborg">Prova ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Se ClassPass</a>
 </div>
 
 </div>
@@ -94,8 +93,7 @@ Centrum, Linné, Majorna, Johanneberg, Gårda och Eriksberg. Mest gym, även yog
 - Du kan säga upp när du vill
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-se/?subId1=fgg-se-goteborg">Se ClassPass</a>
-<a class="knop knop-rand" href="/se/classpass/">Allt om ClassPass</a>
+<a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
 </div>
 
 </div>
