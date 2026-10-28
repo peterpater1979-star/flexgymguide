@@ -54,7 +54,7 @@ Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-sporttas"><span>Salle haut de gamme</span></div>
+<div class="fotokop foto-fitness-park"><span>Salle haut de gamme</span></div>
 
 ### Fitness Park
 

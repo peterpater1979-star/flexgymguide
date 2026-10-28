@@ -46,7 +46,7 @@ Cadena de gimnasios económica con clubes en toda España.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-sporttas"><span>Gimnasio con clases</span></div>
+<div class="fotokop foto-fitness-park"><span>Gimnasio con clases</span></div>
 
 ### Fitness Park
 

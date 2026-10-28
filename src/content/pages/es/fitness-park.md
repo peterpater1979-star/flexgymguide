@@ -9,7 +9,7 @@ crumb: "Fitness Park"
 kicker: "Proveedor: gimnasio"
 ---
 
-<div class="fotobanner foto-sporttas" role="img" aria-label="Gimnasio"></div>
+<div class="fotobanner foto-fitness-park" role="img" aria-label="Gimnasio"></div>
 
 Fitness Park es una cadena de gimnasios francesa con 170 clubes en España. Eliges entre dos cuotas, Classic y Ultimate, con o sin permanencia. Los precios pueden variar según el club.
 
