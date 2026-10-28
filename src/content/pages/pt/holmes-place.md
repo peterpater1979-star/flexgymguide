@@ -11,7 +11,7 @@ kicker: "Fornecedor: clube premium"
 
 <div class="fotobanner foto-holmes-place" role="img" aria-label="Clube de fitness"></div>
 
-O Holmes Place é uma cadeia de clubes de fitness premium, fundada em 1980 em Londres. Em Portugal está desde 1998, quando abriu o primeiro clube na Quinta da Fonte, em Oeiras, e hoje tem 13 clubes. Todos têm ginásio, piscina e sauna. Isso tem um preço: quanto custa uma inscrição só ficas a saber quando visitas o clube.
+O Holmes Place é uma cadeia de clubes de fitness premium com clubes em vários países da Europa. Em Portugal está desde 1998, quando abriu o primeiro clube na Quinta da Fonte, em Oeiras, e hoje tem 13 clubes. Todos têm ginásio, piscina e sauna. Isso tem um preço: quanto custa uma inscrição só ficas a saber quando visitas o clube.
 
 <h2 id="resumo">Em resumo</h2>
 

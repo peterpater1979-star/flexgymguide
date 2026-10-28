@@ -11,7 +11,7 @@ kicker: "Anbieter: Premium-Club"
 
 <div class="fotobanner foto-holmes-place" role="img" aria-label="Fitnessclub"></div>
 
-Holmes Place ist eine Kette von Premium-Fitnessclubs, gegründet 1980 in London. Die Clubs liegen in guten Lagen in der Stadt und setzen auf Service, Kurse und Entspannung. Das hat seinen Preis: Was eine Mitgliedschaft kostet, erfährst du erst bei einem Besuch im Club.
+Holmes Place ist eine Kette von Premium-Fitnessclubs mit Standorten in mehreren europäischen Ländern. Die Clubs liegen in guten Lagen in der Stadt und setzen auf Service, Kurse und Entspannung. Das hat seinen Preis: Was eine Mitgliedschaft kostet, erfährst du erst bei einem Besuch im Club.
 
 <h2 id="kurz">Kurz und knapp</h2>
 
