@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Nantes, tu peux réserver des c
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-nantes">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-nantes">Essayez ClassPass</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -107,7 +107,7 @@ Bouffay, Madeleine, Coudray et Jamet. Yoga, Pilates et renforcement musculaire, 
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-nantes">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-nantes">Essayez ClassPass</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 

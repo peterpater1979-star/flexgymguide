@@ -1,5 +1,5 @@
 ---
-title: "Essayer ClassPass gratuitement : comment marche l'essai"
+title: "Essayez ClassPass gratuitement : comment marche l'essai"
 path: "/fr/essai-classpass/"
 description: "Ce que tu reçois pendant l'essai ClassPass, les règles qui s'appliquent, ce qui se passe à la fin et comment en profiter au maximum."
 lang: fr
@@ -90,7 +90,7 @@ Non. ClassPass n'a pas de réduction pour les étudiants. Certains employeurs pr
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass expliqués</a>
 <a class="knop knop-rand" href="/fr/resilier-classpass/">Résilier ou suspendre ClassPass</a>
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-essai-classpass">Essayer ClassPass gratuitement</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-essai-classpass">Essayez ClassPass gratuitement</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 <a class="knop knop-rand" href="/fr/classpass-en-voyage/">ClassPass en voyage</a>
 </div>
