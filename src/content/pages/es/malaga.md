@@ -123,7 +123,6 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/basic-fit/">Todo sobre Basic-Fit</a>
-<a class="knop knop-rand" href="https://www.basic-fit.com/es-es/gimnasios/malaga">Basic-Fit en Málaga</a>
 </div>
 
 </div>

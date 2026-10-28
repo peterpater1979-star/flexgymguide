@@ -123,7 +123,6 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/basic-fit/">Todo sobre Basic-Fit</a>
-<a class="knop knop-rand" href="https://basic-fit.com/es-es/clubs/basic-fit-palma-de-mallorca-avd.-portugal-d2c3a6e7c96048728f639640b6085f16.html">Basic-Fit en Palma de Mallorca</a>
 </div>
 
 </div>

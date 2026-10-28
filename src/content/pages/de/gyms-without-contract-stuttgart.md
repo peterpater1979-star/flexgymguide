@@ -51,7 +51,7 @@ Students, pupils and trainees pay less: at the BLACK club Esslingen-Hengstenberg
 
 Without a minimum term you pay a one-off startup fee of €39. On top of that comes a training package of €39 or €49, charged every six months. With 24 months there is no startup fee, and you can pause for free for up to 12 weeks a year. You can switch to the 24-month membership at any time. Not sure? Book a free trial session first.
 
-<p class="klein">Source: the club pages for Stuttgart Hauptstätter Straße and Esslingen-Hengstenberg and <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (October 2026). Always check the current price with the club. Cancelling: see <a href="/de/cancel-fitness-first-germany/">Cancelling Fitness First</a>.</p>
+<p class="klein">Source: the club pages for Stuttgart Hauptstätter Straße and Esslingen-Hengstenberg and fitnessfirst.de/mitgliedschaft/1m (October 2026). Always check the current price with the club. Cancelling: see <a href="/de/cancel-fitness-first-germany/">Cancelling Fitness First</a>.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">All about Fitness First (in German)</a>
@@ -69,7 +69,7 @@ McFit is Germany's largest gym chain by number of members, with more than 230 gy
 
 In the first month you pay €88.90 in total with Flex (total price according to McFit). So Flex costs almost twice as much as a 24-month contract, but you are not tied down. With every plan you can train at more than 230 McFit gyms in Europe, with live classes at participating gyms.
 
-<p class="klein">Source: <a href="https://www.mcfit.com/de/mitgliedschaft">mcfit.com/mitgliedschaft</a> (October 2026). Always check the current price with McFit. Cancelling: see <a href="/de/mcfit-kuendigen/">McFit kündigen</a> (in German).</p>
+<p class="klein">Source: mcfit.com/mitgliedschaft (October 2026). Always check the current price with McFit. Cancelling: see <a href="/de/mcfit-kuendigen/">McFit kündigen</a> (in German).</p>
 
 <h2 id="drop-in">Drop-in classes and 10-class cards</h2>
 

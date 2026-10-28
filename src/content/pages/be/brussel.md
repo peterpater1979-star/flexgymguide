@@ -124,7 +124,6 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 230 clubs in België, 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/basic-fit/">Alles over Basic-Fit</a>
-<a class="knop knop-rand" href="https://www.basic-fit.com/nl-be/fitnessclubs/brussels">Basic-Fit in Brussel</a>
 </div>
 
 </div>

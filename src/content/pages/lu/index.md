@@ -33,9 +33,6 @@ The biggest budget chain in Luxembourg, with clubs in and around the city: Luxem
 
 On top of that you pay a one-off €19.99 subscription fee. With a yearly contract each membership is €9.99 cheaper per four weeks, but you're tied for a year.
 
-<div class="knoppen">
-<a class="knop knop-rand" href="https://www.basic-fit.com/en-lu">Basic-Fit Luxembourg</a>
-</div>
 
 ### JIMS Fitness
 
@@ -49,9 +46,6 @@ A Belgian gym chain, also in Luxembourg, with group classes, a sauna and special
 
 The joining fee is €50, but JIMS often waives it during promotions, sometimes with a few free weeks on top.
 
-<div class="knoppen">
-<a class="knop knop-rand" href="https://www.jims.lu/en/clubs">JIMS Luxembourg</a>
-</div>
 
 ### Fitness Zone (Howald)
 
@@ -65,9 +59,6 @@ A single gym in Howald, with unlimited use of the machines and group classes in 
 
 No registration fee at the moment.
 
-<div class="knoppen">
-<a class="knop knop-rand" href="https://fitnesszone.lu">Fitness Zone</a>
-</div>
 
 <p class="klein">Prices can differ per club and change during promotions. Always check the current price on the gym's own website.</p>
 

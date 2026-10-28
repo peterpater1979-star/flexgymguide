@@ -59,7 +59,7 @@ Hinnat ja ehdot muuttuvat usein. Tarkista aina ajantasaiset tiedot palveluntarjo
 | **Sitoutuminen** | Ei, irtisanot milloin haluat | Kysy ELIXIAsta |
 | **Kokeile ensin** | <span class="ja" aria-hidden="true">✓</span> 14 päivää ilmaiseksi, 10 treeniä | Kysy ELIXIAsta |
 | **Ulkomailla** | <span class="ja" aria-hidden="true">✓</span> Kyllä, 31 maassa | SATS-salit Pohjoismaissa |
-| **Lue lisää** | [Kaikki ClassPassista](/fi/classpass/) | [elixia.fi](https://www.elixia.fi/kuntosali) |
+| **Lue lisää** | [Kaikki ClassPassista](/fi/classpass/) | elixia.fi |
 
 <p class="klein">Hinnat lokakuulta 2026.</p>
 
@@ -122,9 +122,6 @@ ELIXIA kuuluu SATS Groupiin, ja sillä on yli 30 kuntokeskusta Suomessa. Helsing
 - Tarkista ajantasainen hinta ja sitoutuminen ELIXIAsta
 - Kampanjat koskevat usein 12 kuukauden jäsenyyttä
 
-<div class="knoppen">
-<a class="knop knop-rand" href="https://www.elixia.fi/kuntosali">ELIXIA-salit</a>
-</div>
 
 </div>
 

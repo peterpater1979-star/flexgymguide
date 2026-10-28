@@ -137,7 +137,6 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
-<a class="knop knop-rand" href="https://www.basic-fit.com/fr-fr/clubs/basic-fit-aix-en-provence-avenue-guillaume-du-vair-cdb441ec2d0241ee8b40a6457f59bbc8.html">Basic-Fit à Aix-en-Provence</a>
 </div>
 
 </div>
@@ -166,7 +165,6 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>
-<a class="knop knop-rand" href="https://www.fitnesspark.fr/club/aix-en-provence-centre/">Fitness Park à Aix-en-Provence</a>
 </div>
 
 </div>

@@ -51,7 +51,7 @@ Flyefit is an Irish gym chain with 20 gyms in Dublin, one in Cork and one in Gal
 - **Students:** show a valid student ID the first time you enter the gym, or your membership is cancelled. The €29 offer is for one gym and can't be moved to another location.
 - **Pay as you go:** a day pass costs €14, two days €22, three days €29. Handy if you are only in Dublin for a short while.
 
-<p class="klein">Source: <a href="https://myflye.flyefit.ie/newjoin">Flyefit sign-up page</a> (October 2026). Always check the current price with Flyefit.</p>
+<p class="klein">Source: Flyefit sign-up page (October 2026). Always check the current price with Flyefit.</p>
 
 <h2 id="drop-in">Drop-in classes and class packs</h2>
 

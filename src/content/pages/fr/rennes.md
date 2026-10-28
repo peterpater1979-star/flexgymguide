@@ -137,7 +137,6 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
-<a class="knop knop-rand" href="https://www.basic-fit.com/fr-fr/salles-de-sport/rennes">Basic-Fit à Rennes</a>
 </div>
 
 </div>
@@ -166,7 +165,6 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>
-<a class="knop knop-rand" href="https://www.fitnesspark.fr/club/rennes/">Fitness Park à Rennes</a>
 </div>
 
 </div>

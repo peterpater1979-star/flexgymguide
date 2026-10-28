@@ -50,7 +50,7 @@ Precios cada 4 semanas. Con Flex pagas 19,99 € de inscripción en todos los pl
 
 **¿Pausar?** Con la opción de congelación (2,99 € cada 4 semanas, se añade al inscribirte, incluida en Ultimate) puedes congelar tu suscripción dos veces al año, un máximo de 4 semanas cada vez. Durante la congelación no pagas la cuota.
 
-<p class="klein">Fuente: <a href="https://www.basic-fit.com/es-es/precios">basic-fit.com/es-es/precios</a> y las preguntas frecuentes de Basic-Fit (octubre de 2026). En la página aparecía Flex con +4,99 €, pero en una de las preguntas frecuentes ponía 9,99 €: comprueba siempre el precio actual con Basic-Fit. Darse de baja: mira <a href="/es/baja-basic-fit/">Darse de baja de Basic-Fit</a>.</p>
+<p class="klein">Fuente: basic-fit.com/es-es/precios y las preguntas frecuentes de Basic-Fit (octubre de 2026). En la página aparecía Flex con +4,99 €, pero en una de las preguntas frecuentes ponía 9,99 €: comprueba siempre el precio actual con Basic-Fit. Darse de baja: mira <a href="/es/baja-basic-fit/">Darse de baja de Basic-Fit</a>.</p>
 
 <h2 id="sueltas">Clases sueltas y bonos</h2>
 

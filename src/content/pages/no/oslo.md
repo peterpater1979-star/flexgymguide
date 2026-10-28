@@ -59,7 +59,7 @@ Priser og vilkår endres ofte. Sjekk alltid oppdatert informasjon hos tilbyderen
 | **Binding** | Ingen, si opp når du vil | Spør SATS |
 | **Prøv først** | <span class="ja" aria-hidden="true">✓</span> 14 dager gratis, 10 økter | Spør SATS |
 | **Utlandet** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 land | I hele Norden |
-| **Les mer** | [Alt om ClassPass](/no/classpass/) | [sats.no](https://www.sats.no/treningssenter) |
+| **Les mer** | [Alt om ClassPass](/no/classpass/) | sats.no |
 
 <p class="klein">Priser fra oktober 2026.</p>
 
@@ -122,9 +122,6 @@ SATS har 78 sentre i Norge, mange av dem i Oslo, for eksempel på Sagene og Carl
 - Sjekk oppdatert pris og binding hos SATS
 - Kampanjer har ofte 12 måneders binding
 
-<div class="knoppen">
-<a class="knop knop-rand" href="https://www.sats.no/treningssenter">SATS-sentre</a>
-</div>
 
 </div>
 

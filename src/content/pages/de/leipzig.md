@@ -180,7 +180,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 - Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (laut McFit)
 - Weniger Kurse und Extras als bei Fitness First
 
-<p class="klein">Preise von Oktober 2026, laut <a href="https://www.mcfit.com/de/mitgliedschaft">mcfit.com</a>. Prüfe den aktuellen Preis immer bei McFit.</p>
+<p class="klein">Preise von Oktober 2026, laut mcfit.com. Prüfe den aktuellen Preis immer bei McFit.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>

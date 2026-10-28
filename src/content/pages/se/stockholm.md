@@ -59,7 +59,7 @@ Priser och villkor ändras ofta. Kontrollera alltid aktuell information hos för
 | **Bindningstid** | Ingen, säg upp när du vill | Fråga SATS |
 | **Prova först** | <span class="ja" aria-hidden="true">✓</span> 14 dagar gratis, 10 träningspass | Fråga SATS |
 | **Utomlands** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 länder | I hela Norden |
-| **Läs mer** | [Allt om ClassPass](/se/classpass/) | [sats.se](https://www.sats.se/gym) |
+| **Läs mer** | [Allt om ClassPass](/se/classpass/) | sats.se |
 
 <p class="klein">Priser från oktober 2026.</p>
 
@@ -122,9 +122,6 @@ SATS har över 90 gym i Sverige, varav 71 i Stockholm. Du väljer mellan Basic (
 - Kolla aktuellt pris och bindningstid hos SATS
 - Studenter får 20 % rabatt
 
-<div class="knoppen">
-<a class="knop knop-rand" href="https://www.sats.se/gym">SATS gym</a>
-</div>
 
 </div>
 

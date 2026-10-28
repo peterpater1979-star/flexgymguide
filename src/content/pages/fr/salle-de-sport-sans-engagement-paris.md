@@ -51,7 +51,7 @@ Prix toutes les 4 semaines. Avec Flex, tu paies 19,99 € de frais d'inscription
 
 **Mettre en pause ?** Avec l'option gel (2,99 € toutes les 4 semaines, à ajouter à l'inscription, incluse dans Ultimate), tu peux geler ton abonnement deux fois par an, 4 semaines maximum à chaque fois. Pendant le gel, tu ne paies pas l'abonnement.
 
-<p class="klein">Source : <a href="https://www.basic-fit.com/fr-fr/prix">basic-fit.com/fr-fr/prix</a> et la FAQ de Basic-Fit (octobre 2026). Vérifie toujours le prix actuel auprès de Basic-Fit. Résilier : voir <a href="/fr/resilier-basic-fit/">Résilier Basic-Fit</a>.</p>
+<p class="klein">Source : basic-fit.com/fr-fr/prix et la FAQ de Basic-Fit (octobre 2026). Vérifie toujours le prix actuel auprès de Basic-Fit. Résilier : voir <a href="/fr/resilier-basic-fit/">Résilier Basic-Fit</a>.</p>
 
 <h2 id="unite">Cours à l'unité et cartes</h2>
 

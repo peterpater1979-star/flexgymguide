@@ -182,7 +182,7 @@ SportCity heeft 5 clubs in Leiden: Steenschuur, Lammenschans, Groenoord, Anthony
 
 Bij Flex betaal je € 9,99 inschrijfgeld, in plaats van de gewone € 14,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Andere clubs kunnen goedkoper of duurder zijn. Meer in [Alles over SportCity](/nl/sportcity/).
 
-<p class="klein">Bron: de inschrijfpagina van SportCity Leiden Steenschuur en <a href="https://www.sportcity.nl/leiden/sportschool">sportcity.nl/leiden</a> (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
+<p class="klein">Bron: de inschrijfpagina van SportCity Leiden Steenschuur en sportcity.nl/leiden (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
 
 ## Welke past bij jou?
 

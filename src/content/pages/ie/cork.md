@@ -62,7 +62,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, Ireland only |
 | **Find out more** | [All about ClassPass](/ie/classpass/) | [Gyms without a contract in Dublin](/ie/gyms-without-contract-dublin/#flyefit) |
 
-<p class="klein">Prices from October 2026. ClassPass: standard plan in Ireland. Flyefit: <a href="https://myflye.flyefit.ie/newjoin">Flyefit sign-up page</a>.</p>
+<p class="klein">Prices from October 2026. ClassPass: standard plan in Ireland. Flyefit: Flyefit sign-up page.</p>
 
 </div>
 
