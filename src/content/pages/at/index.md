@@ -30,8 +30,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 - Funktioniert auch in 30 anderen Ländern
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-at/?subId1=fgg-at-land">ClassPass testen</a>
-<a class="knop knop-rand" href="/at/classpass/">Alles über ClassPass</a>
+<a class="knop knop-affiliate" href="/at/classpass/">Alles über ClassPass</a>
 </div>
 
 </div>

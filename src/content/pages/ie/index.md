@@ -28,8 +28,7 @@ A membership with credits for yoga, Pilates, boxing, spinning and gym visits at 
 - Also works in 30 other countries
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-ie/?subId1=fgg-ie-land">Try ClassPass</a>
-<a class="knop knop-rand" href="/ie/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/ie/classpass/">All about ClassPass</a>
 </div>
 
 </div>

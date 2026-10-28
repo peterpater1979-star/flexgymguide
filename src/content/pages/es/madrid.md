@@ -24,8 +24,7 @@ kicker: "Guía de ciudad Madrid"
 Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-madrid">Probar ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
 </div>
 
 </div>
@@ -108,8 +107,7 @@ Chamberí, Salamanca, Centro, Chamartín y Retiro. Yoga, Pilates, fuerza y barre
 - Cancelas cuando quieras
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-madrid">Ver ClassPass</a>
-<a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
 </div>

@@ -24,8 +24,7 @@ kicker: "Guía de ciudad Bilbao"
 Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-bilbao">Probar ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
 </div>
 
 </div>
@@ -107,8 +106,7 @@ Una oferta más pequeña, sobre todo en Abando. Sobre todo entrenamiento de fuer
 - Cancelas cuando quieras
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-bilbao">Ver ClassPass</a>
-<a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
 </div>

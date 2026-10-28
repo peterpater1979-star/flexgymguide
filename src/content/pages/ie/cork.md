@@ -24,8 +24,7 @@ Don't want to be tied to one gym? In Cork you can use a fitness pass at studios 
 Yoga, Pilates, strength training and more with one credit-based membership.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-ie/?subId1=fgg-ie-cork">Try ClassPass</a>
-<a class="knop knop-rand" href="#classpass">See ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">See ClassPass</a>
 </div>
 
 </div>
@@ -95,8 +94,7 @@ A small choice, in the city centre, Shandon, Ballintemple and Douglas. Mostly st
 - Unused credits roll over for one month, then they expire
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-ie/?subId1=fgg-ie-cork">See ClassPass</a>
-<a class="knop knop-rand" href="/ie/classpass/">All about ClassPass</a>
+<a class="knop knop-affiliate" href="/ie/classpass/">All about ClassPass</a>
 </div>
 
 </div>

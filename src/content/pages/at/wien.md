@@ -24,8 +24,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Wien trainierst du m
 Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-at/?subId1=fgg-at-wien">ClassPass testen</a>
-<a class="knop knop-rand" href="#classpass">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="#classpass">ClassPass ansehen</a>
 </div>
 
 </div>

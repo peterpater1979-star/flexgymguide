@@ -24,8 +24,7 @@ Não te apetece ficar preso a um só ginásio? Em Lisboa podes reservar aulas em
 Yoga, Pilates, treino de força e mais com uma só subscrição de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-pt/?subId1=fgg-pt-lisboa">Experimentar ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
 </div>
 
 </div>
@@ -108,8 +107,7 @@ Santos, Príncipe Real, Chiado, Campo de Ourique, Saldanha, Belém e Restelo. So
 - Cancelas quando quiseres
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-pt/?subId1=fgg-pt-lisboa">Ver ClassPass</a>
-<a class="knop knop-rand" href="/pt/classpass/">Tudo sobre o ClassPass</a>
+<a class="knop knop-affiliate" href="/pt/classpass/">Tudo sobre o ClassPass</a>
 </div>
 
 </div>

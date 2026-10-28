@@ -24,8 +24,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Köln trainierst du 
 Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-koeln">ClassPass testen</a>
-<a class="knop knop-rand" href="#classpass">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="#classpass">ClassPass ansehen</a>
 </div>
 
 </div>

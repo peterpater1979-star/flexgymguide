@@ -24,8 +24,7 @@ kicker: "Guía de ciudad Alicante"
 Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-alicante">Probar ClassPass</a>
-<a class="knop knop-rand" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
 </div>
 
 </div>
@@ -107,8 +106,7 @@ Estudios repartidos por la ciudad, entre otros en el PAU 1. Pilates, fuerza y yo
 - Cancelas cuando quieras
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-alicante">Ver ClassPass</a>
-<a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
 </div>

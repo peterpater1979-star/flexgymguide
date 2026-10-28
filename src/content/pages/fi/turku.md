@@ -24,8 +24,7 @@ Etkö halua sitoutua yhteen saliin? Turussa varaat tunteja studioilta ympäri ka
 Joogaa, pilatesta, voimaharjoittelua ja muuta yhdellä krediittijäsenyydellä.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-turku">Kokeile ClassPassia</a>
-<a class="knop knop-rand" href="#classpass">Katso ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Katso ClassPass</a>
 </div>
 
 </div>
@@ -94,8 +93,7 @@ Pieni valikoima, muutama studio keskustassa ja Uittamolla. Joogaa, pilatesta, vo
 - Voit irtisanoa milloin tahansa
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-turku">Katso ClassPass</a>
-<a class="knop knop-rand" href="/fi/classpass/">Kaikki ClassPassista</a>
+<a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
 </div>
 
 </div>

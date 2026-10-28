@@ -24,8 +24,7 @@ Don't want to be tied to one gym? In Leeds you can use a fitness pass at studios
 Yoga, Pilates, boxing and more with one credit-based membership.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-uk/?epi=fgg-uk-leeds">Try ClassPass</a>
-<a class="knop knop-rand" href="#classpass">See ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">See ClassPass</a>
 </div>
 
 </div>

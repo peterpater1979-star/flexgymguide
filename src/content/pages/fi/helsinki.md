@@ -24,8 +24,7 @@ Etkö halua sitoutua yhteen saliin? Helsingissä varaat tunteja studioilta ympä
 Joogaa, pilatesta, voimaharjoittelua ja muuta yhdellä krediittijäsenyydellä.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-helsinki">Kokeile ClassPassia</a>
-<a class="knop knop-rand" href="#classpass">Katso ClassPass</a>
+<a class="knop knop-affiliate" href="#classpass">Katso ClassPass</a>
 </div>
 
 </div>
@@ -94,8 +93,7 @@ Keskusta (Kamppi, Kluuvi, Punavuori), Eira, Lauttasaari ja Pasila. Enimmäkseen 
 - Voit irtisanoa milloin tahansa
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fi/?subId1=fgg-fi-helsinki">Katso ClassPass</a>
-<a class="knop knop-rand" href="/fi/classpass/">Kaikki ClassPassista</a>
+<a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
 </div>
 
 </div>
