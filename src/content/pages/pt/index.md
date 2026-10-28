@@ -36,7 +36,7 @@ Uma subscrição com créditos para ioga, pilates, boxe, spinning e ginásio, em
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Cadeia de ginásios</span></div>
+<div class="fotokop foto-element-gyms"><span>Cadeia de ginásios</span></div>
 
 ### Element Gyms
 

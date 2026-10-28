@@ -32,7 +32,7 @@ Yoga, Pilates, treino de força e mais com uma só subscrição de créditos.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Ginásio low-cost</span></div>
+<div class="fotokop foto-element-gyms"><span>Ginásio low-cost</span></div>
 
 ### Element Gyms
 
