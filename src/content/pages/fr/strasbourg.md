@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Strasbourg, tu peux réserver d
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-strasbourg">Essayez ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-strasbourg">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -107,7 +107,7 @@ Une offre plus petite, dont Neudorf, et aussi au nord de la ville (Lampertheim, 
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-strasbourg">Essayez ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-strasbourg">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 

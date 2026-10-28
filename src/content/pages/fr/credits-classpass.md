@@ -94,7 +94,7 @@ Une annulation tardive ou une absence peut te coûter les crédits ou des frais.
 </details>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-credits-classpass">Essayez ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-credits-classpass">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 <a class="knop knop-rand" href="/fr/resilier-classpass/">Résilier ou suspendre ClassPass</a>
 <a class="knop knop-rand" href="/fr/classpass-en-voyage/">ClassPass en voyage</a>

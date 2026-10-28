@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Lille, tu peux réserver des co
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lille">Essayez ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lille">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -107,7 +107,7 @@ Une petite offre en ville, davantage à Marcq-en-Barœul et Wattignies. Yoga et 
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lille">Essayez ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lille">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 

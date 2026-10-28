@@ -87,7 +87,7 @@ Oui, entre autres aux États-Unis, au Japon, en Australie et à Singapour. La li
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass expliqués</a>
-<a class="knop knop-rand" href="/fr/essai-classpass/">Essayez ClassPass</a>
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-en-voyage">Essayez ClassPass</a>
+<a class="knop knop-rand" href="/fr/essai-classpass/">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-en-voyage">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
