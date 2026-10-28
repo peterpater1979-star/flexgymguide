@@ -54,7 +54,7 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Günstige Fitnesskette</span></div>
+<div class="fotokop foto-mcfit"><span>Günstige Fitnesskette</span></div>
 
 ### McFit
 

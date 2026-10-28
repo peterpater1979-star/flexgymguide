@@ -46,7 +46,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Für kleines Budget</span></div>
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
 
 ### McFit
 
