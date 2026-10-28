@@ -36,7 +36,7 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio económico</span></div>
+<div class="fotokop foto-basic-fit"><span>Gimnasio económico</span></div>
 
 ### Basic-Fit
 

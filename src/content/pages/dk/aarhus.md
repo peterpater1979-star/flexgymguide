@@ -32,7 +32,7 @@ Yoga, pilates, styrketræning og mere med ét abonnement med credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Fitnesscenter</span></div>
+<div class="fotokop foto-puregym"><span>Fitnesscenter</span></div>
 
 ### PureGym
 
@@ -59,7 +59,7 @@ Priser og vilkår ændrer sig jævnligt. Tjek altid de aktuelle oplysninger hos 
 | **Binding** | Ingen, opsig når du vil | Opsigelse: løbende måned plus én måned |
 | **Prøv først** | <span class="ja" aria-hidden="true">✓</span> 14 dage gratis, 10 træninger | Prepaid fra 79 kr. for en dag |
 | **Udlandet** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 lande | Spørg PureGym |
-| **Læs mere** | [Alt om ClassPass](/dk/classpass/) | [PureGym i Aarhus](https://www.puregym.dk/find-center/aarhus) |
+| **Læs mere** | [Alt om ClassPass](/dk/classpass/) | [Alt om PureGym](/dk/puregym/) |
 
 <p class="klein">Priser fra oktober 2026.</p>
 
@@ -123,7 +123,7 @@ PureGym har 128 centre i Danmark, også i Aarhus. Med Core træner du i ét cent
 - Priserne er fra-priser og kan variere pr. center
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.puregym.dk/find-center/aarhus">PureGym i Aarhus</a>
+<a class="knop knop-rand" href="/dk/puregym/">Alt om PureGym</a>
 </div>
 
 </div>

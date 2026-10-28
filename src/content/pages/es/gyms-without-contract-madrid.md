@@ -50,7 +50,7 @@ Prices per 4 weeks. With Flex you pay a €19.99 joining fee on every plan. Grou
 
 **Taking a break?** With the freeze option (€2.99 per 4 weeks, added when you sign up, included in Ultimate) you can freeze your membership twice a year, for up to 4 weeks each time. While frozen, you don't pay the membership fee.
 
-<p class="klein">Source: <a href="https://www.basic-fit.com/es-es/precios">basic-fit.com/es-es/precios</a> and the Basic-Fit FAQ (October 2026). The price table showed Flex at +€4.99, but one FAQ answer said €9.99. Always check the current price with Basic-Fit. Cancelling: see <a href="/es/baja-basic-fit/">Darse de baja de Basic-Fit</a> (in Spanish).</p>
+<p class="klein">Source: basic-fit.com/es-es/precios and the Basic-Fit FAQ (October 2026). The price table showed Flex at +€4.99, but one FAQ answer said €9.99. Always check the current price with Basic-Fit. Cancelling: see <a href="/es/baja-basic-fit/">Darse de baja de Basic-Fit</a> (in Spanish).</p>
 
 <h2 id="drop-in">Drop-in classes and class cards</h2>
 

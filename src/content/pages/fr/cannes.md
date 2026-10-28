@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Cannes, tu peux réserver des c
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -32,7 +32,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+<div class="fotokop foto-basic-fit"><span>Salle à petit prix</span></div>
 
 ### Basic-Fit
 
@@ -93,7 +93,7 @@ Une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 
@@ -123,7 +123,6 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
-<a class="knop knop-rand" href="https://www.basic-fit.com/fr-fr/salles-de-sport/cannes">Basic-Fit à Cannes</a>
 </div>
 
 </div>

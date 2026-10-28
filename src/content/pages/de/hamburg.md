@@ -44,24 +44,38 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gymketen"><span>Für kleines Budget</span></div>
+
+### McFit
+
+Günstige Fitnesskette mit über 230 Studios, auch in Hamburg. Flex ohne feste Laufzeit.
+
+<div class="knoppen">
+<a class="knop" href="#mcfit">McFit ansehen</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="ueberblick">
 
-## ClassPass und Fitness First auf einen Blick
+## ClassPass, Fitness First und McFit auf einen Blick
 
 Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.
 
-| Merkmal | ClassPass | Fitness First |
-| --- | --- | --- |
-| **Art** | Sportpass mit Credits | Fitnessstudiokette |
-| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
-| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Hamburg** | Studios in Eimsbüttel, Ottensen, St. Pauli, Winterhude, Eppendorf und mehr | 17 Clubs |
-| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
-| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich |
-| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
+| Merkmal | ClassPass | Fitness First | McFit |
+| --- | --- | --- | --- |
+| **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette |
+| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € |
+| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Flex oder Vertrag über 12 oder 24 Monate, Zugang zu allen McFit-Studios |
+| **Standorte in Hamburg** | Studios in Eimsbüttel, Ottensen, St. Pauli, Winterhude, Eppendorf und mehr | 17 Clubs | Mehrere Studios in Hamburg |
+| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten |
+| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | Mit Flex ohne lange Bindung |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich | <span class="ja" aria-hidden="true">✓</span> Über 230 Studios in Europa |
+| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) |
 
 </div>
 
@@ -133,6 +147,43 @@ Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 17 in Hamburg
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="mcfit">
+
+<p class="kicker">Fitnessstudiokette</p>
+
+## McFit in Hamburg
+
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Hamburg. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
+
+### Das bekommst du
+
+- Zugang zu über 230 McFit-Studios in Europa, mit jedem Tarif
+- Flex ohne feste Laufzeit für 49,90 € im Monat
+- Mit 12 Monaten Laufzeit 29,90 €, mit 24 Monaten 24,90 € im Monat
+- Live-Kurse in den teilnehmenden Studios
+
+### Gut für
+
+- Alle, die günstig und oft an Geräten trainieren
+- Alle, die keinen großen Wellnessbereich brauchen
+
+### Achte darauf
+
+- Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (laut McFit)
+- Weniger Kurse und Extras als bei Fitness First
+
+<p class="klein">Preise von Oktober 2026, laut mcfit.com. Prüfe den aktuellen Preis immer bei McFit.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
 </div>
 
 </div>

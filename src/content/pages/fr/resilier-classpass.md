@@ -107,5 +107,5 @@ Oui. Tu peux réactiver ton abonnement plus tard dans ton compte. Tu repars alor
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass expliqués</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
-<a class="knop knop-rand" href="/fr/essai-classpass/">Essayer ClassPass</a>
+<a class="knop knop-rand" href="/fr/essai-classpass/">Essai gratuit de 14 jours</a>
 </div>

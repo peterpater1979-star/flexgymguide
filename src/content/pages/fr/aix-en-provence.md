@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Aix-en-Provence, tu peux réser
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-aix-en-provence">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-aix-en-provence">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -32,7 +32,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+<div class="fotokop foto-basic-fit"><span>Salle à petit prix</span></div>
 
 ### Basic-Fit
 
@@ -107,7 +107,7 @@ Surtout dans le centre historique, autour du cours Mirabeau, et aussi aux Milles
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-aix-en-provence">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-aix-en-provence">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 
@@ -137,7 +137,6 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
-<a class="knop knop-rand" href="https://www.basic-fit.com/fr-fr/clubs/basic-fit-aix-en-provence-avenue-guillaume-du-vair-cdb441ec2d0241ee8b40a6457f59bbc8.html">Basic-Fit à Aix-en-Provence</a>
 </div>
 
 </div>
@@ -166,7 +165,6 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>
-<a class="knop knop-rand" href="https://www.fitnesspark.fr/club/aix-en-provence-centre/">Fitness Park à Aix-en-Provence</a>
 </div>
 
 </div>

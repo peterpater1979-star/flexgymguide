@@ -28,7 +28,7 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 - Fonctionne aussi dans 30 autres pays
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-land">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-land">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 
@@ -36,7 +36,7 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle de sport à petit prix</span></div>
+<div class="fotokop foto-basic-fit"><span>Salle de sport à petit prix</span></div>
 
 ### Basic-Fit
 
@@ -128,7 +128,7 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-land">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-land">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 

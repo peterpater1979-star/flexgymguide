@@ -58,7 +58,7 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 
 ### McFit
 
-Günstiges Gym mit über 250 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
+Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
 
 - Gut, wenn du günstig und oft trainieren willst
 - Flex: monatlich kündbar
@@ -77,16 +77,16 @@ Günstiges Gym mit über 250 Studios in Deutschland, Österreich und Italien. Fl
 ## Städte
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
 </ul>
 
 </div>

@@ -82,6 +82,6 @@ Oui. Tu peux résilier chaque mois, et quand tu résilies, ClassPass propose sou
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/pass-sport-ou-abonnement/">Pass sport ou abonnement ?</a>
-<a class="knop knop-rand" href="/fr/essai-classpass/">Essayer ClassPass</a>
+<a class="knop knop-rand" href="/fr/essai-classpass/">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass expliqués</a>
 </div>

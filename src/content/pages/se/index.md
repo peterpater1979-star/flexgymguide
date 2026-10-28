@@ -36,7 +36,7 @@ Ett medlemskap med krediter för yoga, pilates, boxning, spinning och gymbesök 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gymkedja</span></div>
+<div class="fotokop foto-sats"><span>Gymkedja</span></div>
 
 ### SATS
 
@@ -47,6 +47,7 @@ En nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Fi
 - Finns i fyra nordiska länder
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/se/sats/">Allt om SATS</a>
 <a class="knop knop-rand" href="/se/traningspass-eller-gym/">Träningspass eller gym?</a>
 </div>
 

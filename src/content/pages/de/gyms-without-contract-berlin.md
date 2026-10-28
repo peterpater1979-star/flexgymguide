@@ -51,7 +51,7 @@ With ALL-IN and BLACK for 24 months, the first 12 weeks were free. Students, pup
 
 Without a minimum term you pay a one-off startup fee of €39. On top of that comes a training package of €39 or €49, charged every six months. With 24 months there is no startup fee, and you can pause for free for up to 12 weeks. You can switch to the 24-month membership at any time. Not sure? Book a free trial session first.
 
-<p class="klein">Source: the club pages for Berlin Schöneberg and Gendarmenmarkt and <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (October 2026). The 12 free weeks were an offer until 27 October 2026. Always check the current price with the club. Cancelling: see <a href="/de/cancel-fitness-first-germany/">Cancelling Fitness First</a>.</p>
+<p class="klein">Source: the club pages for Berlin Schöneberg and Gendarmenmarkt and fitnessfirst.de/mitgliedschaft/1m (October 2026). The 12 free weeks were an offer until 27 October 2026. Always check the current price with the club. Cancelling: see <a href="/de/cancel-fitness-first-germany/">Cancelling Fitness First</a>.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">All about Fitness First (in German)</a>
@@ -59,7 +59,7 @@ Without a minimum term you pay a one-off startup fee of €39. On top of that co
 
 <h2 id="mcfit">McFit Flex: cancel monthly</h2>
 
-McFit is Germany's largest gym chain by number of members, with more than 250 gyms in Germany, Austria and Italy, many of them in Berlin. It is cheap and belongs to the RSG Group. Besides 12 and 24-month contracts there is Flex, without a fixed term. This is what prices looked like in October 2026, per month:
+McFit is Germany's largest gym chain by number of members, with more than 230 gyms in Germany, Austria and Italy, many of them in Berlin. It is cheap and belongs to the RSG Group. Besides 12 and 24-month contracts there is Flex, without a fixed term. This is what prices looked like in October 2026, per month:
 
 | Plan | Price | Term |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ McFit is Germany's largest gym chain by number of members, with more than 250 gy
 
 In the first month you pay €88.90 in total with Flex (total price according to McFit). So Flex costs almost twice as much as a 24-month contract, but you are not tied down. With every plan you can train at more than 230 McFit gyms in Europe, with live classes at participating gyms.
 
-<p class="klein">Source: <a href="https://www.mcfit.com/de/mitgliedschaft">mcfit.com/mitgliedschaft</a> (October 2026). Always check the current price with McFit.</p>
+<p class="klein">Source: mcfit.com/mitgliedschaft (October 2026). Always check the current price with McFit.</p>
 
 <h2 id="drop-in">Drop-in classes and 10-class cards</h2>
 

@@ -46,7 +46,7 @@ Trainmore is een premium sportschoolketen met groepslessen en clubs in het centr
 | 1 jaar | € 55 | 1e 3 mnd € 27,50 |
 | 2 jaar | € 48 | 1e 5 mnd € 24 |
 
-**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Munnekeholm betaal je met een jaarcontract dan € 43 in plaats van € 55. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de [uitleg van Trainmore](https://trainmore.com/nl-NL/1-euro-korting/).
+**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Munnekeholm betaal je met een jaarcontract dan € 43 in plaats van € 55. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de uitleg van Trainmore.
 
 Bij een Regular-club train je in je eigen club. De andere club in Groningen is een Red Label-club, met andere prijzen; bekijk die op de site van Trainmore. Studenten betalen bij Munnekeholm € 41 per 4 weken voor 1 jaar, zonder opstartkosten. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
@@ -66,7 +66,7 @@ Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaa
 
 Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) en [Alles over Basic-Fit](/nl/basic-fit/).
 
-<p class="klein">Bron: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
+<p class="klein">Bron: basic-fit.com/nl-nl/prijs (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 

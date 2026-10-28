@@ -47,7 +47,7 @@ Trainmore is een premium sportschoolketen met groepslessen en clubs in het centr
 | 1 jaar | € 54 | € 84 | € 96 |
 | 2 jaar | € 47 | € 77 | € 89 |
 
-**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Bos en Lommer bijvoorbeeld betaal je met een jaarcontract dan € 42 in plaats van € 54. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de [uitleg van Trainmore](https://trainmore.com/nl-NL/1-euro-korting/).
+**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Bos en Lommer bijvoorbeeld betaal je met een jaarcontract dan € 42 in plaats van € 54. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de uitleg van Trainmore.
 
 Bij een Regular-club train je alleen in je eigen club. Met een Red Label-lidmaatschap (Premium) kun je ook in alle Black Label- en Regular-clubs trainen. Bij Flex betaal je eenmalig € 29 voor het starterpakket; bij een contract van 1 of 2 jaar krijg je de eerste maanden vaak 50% korting. Studenten betalen bij Bos en Lommer € 40 per 4 weken, met een jaarcontract. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
@@ -67,7 +67,7 @@ Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaa
 
 Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) en [Alles over Basic-Fit](/nl/basic-fit/).
 
-<p class="klein">Bron: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
+<p class="klein">Bron: basic-fit.com/nl-nl/prijs (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
 
 <h2 id="sportcity">SportCity Flex: maandelijks opzegbaar</h2>
 
@@ -84,7 +84,7 @@ Zo zagen de prijzen er in oktober 2026 uit bij SportCity Amsterdam Lijnbaansgrac
 
 Bij Flex betaal je € 4,99 inschrijfgeld, in plaats van de gewone € 9,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. De prijs verschilt flink per club: bij Amsterdam Weteringdwarsstraat, een paar minuten verderop, begon City One bij € 52,99 per 4 weken. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
 
-<p class="klein">Bron: <a href="https://www.sportcity.nl/lidmaatschap">sportcity.nl/lidmaatschap</a>, de clubpagina Weteringdwarsstraat en de inschrijfpagina voor Lijnbaansgracht (oktober 2026). Controleer de actuele prijs altijd bij SportCity. Opzeggen: zie <a href="/nl/sportcity-opzeggen/">SportCity opzeggen</a>.</p>
+<p class="klein">Bron: sportcity.nl/lidmaatschap, de clubpagina Weteringdwarsstraat en de inschrijfpagina voor Lijnbaansgracht (oktober 2026). Controleer de actuele prijs altijd bij SportCity. Opzeggen: zie <a href="/nl/sportcity-opzeggen/">SportCity opzeggen</a>.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 

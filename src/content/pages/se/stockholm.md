@@ -32,7 +32,7 @@ Yoga, pilates, styrketräning och mer med ett abonnemang med krediter.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Gymkedja</span></div>
+<div class="fotokop foto-sats"><span>Gymkedja</span></div>
 
 ### SATS
 
@@ -59,7 +59,7 @@ Priser och villkor ändras ofta. Kontrollera alltid aktuell information hos för
 | **Bindningstid** | Ingen, säg upp när du vill | Fråga SATS |
 | **Prova först** | <span class="ja" aria-hidden="true">✓</span> 14 dagar gratis, 10 träningspass | Fråga SATS |
 | **Utomlands** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 länder | I hela Norden |
-| **Läs mer** | [Allt om ClassPass](/se/classpass/) | [sats.se](https://www.sats.se/gym) |
+| **Läs mer** | [Allt om ClassPass](/se/classpass/) | [Allt om SATS](/se/sats/) |
 
 <p class="klein">Priser från oktober 2026.</p>
 
@@ -123,7 +123,7 @@ SATS har över 90 gym i Sverige, varav 71 i Stockholm. Du väljer mellan Basic (
 - Studenter får 20 % rabatt
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.sats.se/gym">SATS gym</a>
+<a class="knop knop-rand" href="/se/sats/">Allt om SATS</a>
 </div>
 
 </div>

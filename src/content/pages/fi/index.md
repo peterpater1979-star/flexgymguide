@@ -47,6 +47,7 @@ SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa: Helsingiss�
 - SATS-salit myös muissa Pohjoismaissa
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/fi/elixia/">Kaikki ELIXIAsta</a>
 <a class="knop knop-rand" href="/fi/treenipassi-vai-salijasenyys/">Treenipassi vai salijäsenyys?</a>
 </div>
 

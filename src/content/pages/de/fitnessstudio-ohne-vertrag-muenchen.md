@@ -50,7 +50,7 @@ Bei ALL-IN und BLACK mit 24 Monaten waren die ersten 12 Wochen gratis. Studieren
 
 Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
-<p class="klein">Quelle: die Clubseiten München-Moosach und München Innenstadt am Marienplatz und <a href="https://www.fitnessfirst.de/mitgliedschaft/1m">fitnessfirst.de/mitgliedschaft/1m</a> (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>
+<p class="klein">Quelle: die Clubseiten München-Moosach und München Innenstadt am Marienplatz und fitnessfirst.de/mitgliedschaft/1m (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -58,7 +58,7 @@ Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebüh
 
 <h2 id="mcfit">McFit Flex: monatlich kündbar</h2>
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 250 Studios in Deutschland, Österreich und Italien, auch in München. Die Kette ist günstig und gehört zur RSG Group. Neben Verträgen über 12 oder 24 Monate gibt es Flex, ohne feste Vertragslaufzeit. So sahen die Preise im Oktober 2026 aus, pro Monat:
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in München. Die Kette ist günstig und gehört zur RSG Group. Neben Verträgen über 12 oder 24 Monate gibt es Flex, ohne feste Vertragslaufzeit. So sahen die Preise im Oktober 2026 aus, pro Monat:
 
 | Tarif | Preis | Laufzeit |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (Gesamtpreis laut McFit). Flex kostet also fast das Doppelte eines 24-Monats-Vertrags, dafür bist du nicht gebunden. Mit allen Tarifen trainierst du in über 230 McFit-Studios in Europa, mit Live-Kursen in den teilnehmenden Studios.
 
-<p class="klein">Quelle: <a href="https://www.mcfit.com/de/mitgliedschaft">mcfit.com/mitgliedschaft</a> (Oktober 2026). Prüfe den aktuellen Preis immer bei McFit. Kündigen: siehe <a href="/de/mcfit-kuendigen/">McFit kündigen</a>.</p>
+<p class="klein">Quelle: mcfit.com/mitgliedschaft (Oktober 2026). Prüfe den aktuellen Preis immer bei McFit. Kündigen: siehe <a href="/de/mcfit-kuendigen/">McFit kündigen</a>.</p>
 
 <h2 id="einzeln">Einzelstunden und 10er-Karten</h2>
 

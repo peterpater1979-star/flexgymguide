@@ -36,7 +36,7 @@ Et medlemskab med credits til yoga, pilates, boksning, spinning og fitness i stu
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Fitnesskæde</span></div>
+<div class="fotokop foto-sats"><span>Fitnesskæde</span></div>
 
 ### SATS
 
@@ -47,6 +47,7 @@ En nordisk fitnesskæde med over 275 centre i Danmark, Sverige, Norge og Finland
 - Findes i fire nordiske lande
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/dk/sats/">Alt om SATS</a>
 <a class="knop knop-rand" href="/dk/traeningspas-eller-fitness/">Træningspas eller fitness?</a>
 </div>
 

@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Montpellier, tu peux réserver 
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-montpellier">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-montpellier">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -32,7 +32,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+<div class="fotokop foto-basic-fit"><span>Salle à petit prix</span></div>
 
 ### Basic-Fit
 
@@ -107,7 +107,7 @@ Une petite offre, dont les Arceaux. Pilates, yoga et salles de sport.
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-montpellier">Essayer ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-montpellier">Essai gratuit de 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 
@@ -137,7 +137,6 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
-<a class="knop knop-rand" href="https://www.basic-fit.com/fr-fr/salles-de-sport/montpellier">Basic-Fit à Montpellier</a>
 </div>
 
 </div>
@@ -166,7 +165,6 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>
-<a class="knop knop-rand" href="https://www.fitnesspark.fr/club/montpellier/">Fitness Park à Montpellier</a>
 </div>
 
 </div>

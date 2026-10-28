@@ -32,7 +32,7 @@ Yoga, pilates, krachttraining en meer met één abonnement met credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Voor vaste sporters</span></div>
+<div class="fotokop foto-basic-fit"><span>Voor vaste sporters</span></div>
 
 ### Basic-Fit
 
@@ -124,7 +124,6 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 230 clubs in België, 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/basic-fit/">Alles over Basic-Fit</a>
-<a class="knop knop-rand" href="https://www.basic-fit.com/nl-be/fitnessclubs/antwerpen">Basic-Fit in Antwerpen</a>
 </div>
 
 </div>

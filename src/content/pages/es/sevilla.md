@@ -32,7 +32,7 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio económico</span></div>
+<div class="fotokop foto-basic-fit"><span>Gimnasio económico</span></div>
 
 ### Basic-Fit
 
@@ -137,7 +137,6 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/basic-fit/">Todo sobre Basic-Fit</a>
-<a class="knop knop-rand" href="https://www.basic-fit.com/es-es/gimnasios/sevilla">Basic-Fit en Sevilla</a>
 </div>
 
 </div>
@@ -166,7 +165,6 @@ Fitness Park es una cadena de gimnasios francesa con 170 clubes en España. En e
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/fitness-park/">Todo sobre Fitness Park</a>
-<a class="knop knop-rand" href="https://www.fitnesspark.es/sevilla/">Fitness Park en Sevilla</a>
 </div>
 
 </div>
