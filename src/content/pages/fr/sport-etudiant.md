@@ -32,7 +32,7 @@ Une salle low cost est souvent bon marché par mois et compte beaucoup de clubs.
 
 ClassPass n'a pas de réduction étudiante. Il peut quand même te convenir si tu aimes varier : yoga une semaine, vélo en salle ou boxe la suivante. Pour que ça reste abordable :
 
-- **Commence par l'essai.** Tu découvres gratuitement les studios qui te plaisent. Lis [Essai gratuit de 14 jours](/fr/essai-classpass/).
+- **Commence par l'essai.** Tu découvres gratuitement les studios qui te plaisent. Lis [Essayer ClassPass](/fr/essai-classpass/).
 - **Choisis ensuite un petit abonnement.** Les abonnements varient selon la ville ; tu vois le plus petit dans l'appli.
 - **Entraîne-toi en heures creuses.** Les cours en journée coûtent souvent moins de crédits que le soir.
 - **Résilie ou fais une pause l'été.** Ton abonnement est mensuel, tu n'es donc pas engagé longtemps.

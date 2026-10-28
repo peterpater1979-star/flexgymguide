@@ -1,5 +1,5 @@
 ---
-title: "Essai gratuit de 14 jours : comment marche l'essai"
+title: "Essayer ClassPass gratuitement : comment marche l'essai"
 path: "/fr/essai-classpass/"
 description: "Ce que tu reçois pendant l'essai ClassPass, les règles qui s'appliquent, ce qui se passe à la fin et comment en profiter au maximum."
 lang: fr

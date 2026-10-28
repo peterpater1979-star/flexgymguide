@@ -28,7 +28,7 @@ Pas envie de t'engager un an dans une seule salle ? À Paris, tu peux aussi t'en
 Avec ClassPass, tu reçois chaque mois des crédits pour des cours et des séances en salle dans des studios partout à Paris. Tu n'es engagé à rien : tu résilies quand tu veux et tu continues jusqu'à la fin de ton mois.
 
 - **Abonnement à Paris :** l'abonnement standard, c'est 47 crédits pour 75 € par mois. Il existe des abonnements plus petits et plus grands dans l'appli. Voir [Les crédits ClassPass expliqués](/fr/credits-classpass/).
-- **Essayer d'abord :** 14 jours gratuits avec 10 séances. Lis [Essai gratuit de 14 jours](/fr/essai-classpass/).
+- **Essayer d'abord :** 14 jours gratuits avec 10 séances. Lis [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 - **Pause :** quand tu résilies, ClassPass propose souvent une pause gratuite. Lis [Résilier ou mettre en pause ClassPass](/fr/resilier-classpass/).
 - **Tu voyages beaucoup ?** Ton abonnement marche aussi dans d'autres villes. Lis [ClassPass en voyage](/fr/classpass-en-voyage/).
 
