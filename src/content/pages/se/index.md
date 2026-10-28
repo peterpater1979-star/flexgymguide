@@ -47,6 +47,7 @@ En nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Fi
 - Finns i fyra nordiska länder
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/se/sats/">Allt om SATS</a>
 <a class="knop knop-rand" href="/se/traningspass-eller-gym/">Träningspass eller gym?</a>
 </div>
 

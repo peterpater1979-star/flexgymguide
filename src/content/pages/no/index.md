@@ -47,6 +47,7 @@ En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finlan
 - Finnes i fire nordiske land
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/no/sats/">Alt om SATS</a>
 <a class="knop knop-rand" href="/no/treningspass-eller-treningssenter/">Treningspass eller treningssenter?</a>
 </div>
 

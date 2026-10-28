@@ -73,7 +73,7 @@ Priser og vilkår ændrer sig jævnligt. Tjek altid de aktuelle oplysninger hos 
 | **Binding** | Ingen, opsig når du vil | Spørg SATS | Opsigelse: løbende måned plus én måned |
 | **Prøv først** | <span class="ja" aria-hidden="true">✓</span> 14 dage gratis, 10 træninger | Spørg SATS | Prepaid fra 79 kr. for en dag |
 | **Udlandet** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 lande | I hele Norden | Spørg PureGym |
-| **Læs mere** | [Alt om ClassPass](/dk/classpass/) | sats.dk | PureGym i København |
+| **Læs mere** | [Alt om ClassPass](/dk/classpass/) | [Alt om SATS](/dk/sats/) | [Alt om PureGym](/dk/puregym/) |
 
 <p class="klein">Priser fra oktober 2026.</p>
 
@@ -136,6 +136,9 @@ SATS er en nordisk fitnesskæde med træningssal og holdtræning. I København (
 - Se den aktuelle pris og binding hos SATS
 - SATS har centre på Sjælland, ikke i Aarhus
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/dk/sats/">Alt om SATS</a>
+</div>
 
 </div>
 
@@ -161,6 +164,9 @@ PureGym har 128 centre i Danmark, også i København. Med Core træner du i ét 
 - Opsigelse: løbende måned plus én måned
 - Priserne er fra-priser og kan variere pr. center
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/dk/puregym/">Alt om PureGym</a>
+</div>
 
 </div>
 
