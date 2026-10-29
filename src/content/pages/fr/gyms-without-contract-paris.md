@@ -44,8 +44,8 @@ Basic-Fit is a budget gym chain with more than 300 clubs open 24/7 in France. Be
 | | One-year commitment | Flex | What you get |
 | --- | --- | --- | --- |
 | Comfort | €24.99 | €34.98 | All clubs in France |
-| Premium | €29.99 | €39.98 | All clubs in Europe, one guest a week, massage chairs |
-| Ultimate | €34.99 | €44.98 | All clubs in Europe, unlimited guests, Yanga Sports Water, freezing included |
+| Premium | €29.99 | €39.98 | All clubs in 6 countries, one guest a week, massage chairs |
+| Ultimate | €34.99 | €44.98 | All clubs in 6 countries, unlimited guests, Yanga Sports Water, freezing included |
 
 Prices per 4 weeks. With Flex you pay a €19.99 joining fee on every plan. Group classes are included at clubs that offer them.
 

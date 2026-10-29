@@ -72,7 +72,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,90 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans les clubs en Europe | Une salle à Bruxelles |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays | Une salle à Bruxelles |
 | **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Basic-Fit](/fr/basic-fit/) | [Tout sur Keepcool](/fr/keepcool/) |
 
 <p class="klein">Prix d’octobre 2026. Basic-Fit, Fitness Park et Keepcool : prix nationaux en France, qui peuvent varier selon le club.</p>

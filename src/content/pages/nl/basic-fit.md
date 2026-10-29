@@ -11,7 +11,7 @@ kicker: "Aanbieder: sportschoolketen"
 
 <div class="fotobanner foto-basic-fit" role="img" aria-label="Sportschool"></div>
 
-Basic-Fit is een voordelige sportschoolketen met clubs in heel Nederland en in andere Europese landen. Veel clubs zijn dag en nacht open. Je kiest een abonnement (Comfort, Premium of Ultimate) en of je een jaar vastzit of met Flex elke maand kunt stoppen.
+Basic-Fit is een voordelige sportschoolketen met clubs in heel Nederland en in België, Luxemburg, Frankrijk, Spanje en Duitsland. Veel clubs zijn dag en nacht open. Je kiest een abonnement (Comfort, Premium of Ultimate) en of je een jaar vastzit of met Flex elke maand kunt stoppen.
 
 <h2 id="kort">In het kort</h2>
 
@@ -22,7 +22,7 @@ Basic-Fit is een voordelige sportschoolketen met clubs in heel Nederland en in a
 | **Zonder contract** | <span class="ja" aria-hidden="true">✓</span> Flex: € 9,99 per 4 weken meer, opzegtermijn 4 weken |
 | **Inschrijfkosten** | € 19,99 bij Flex |
 | **Groepslessen** | In clubs die ze aanbieden |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Met Premium of Ultimate, in clubs in Europa |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Met Premium of Ultimate, in alle clubs in Nederland, België, Luxemburg, Frankrijk, Spanje en Duitsland |
 
 <p class="klein">Bron: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
 
@@ -31,8 +31,8 @@ Basic-Fit is een voordelige sportschoolketen met clubs in heel Nederland en in a
 | | Jaarabonnement | Flex | Wat je krijgt |
 | --- | --- | --- | --- |
 | **Comfort** | € 24,99 | € 34,98 | Alle clubs in Nederland |
-| **Premium** | € 29,99 | € 39,98 | Alle clubs in Europa, één gast per week, massagestoelen |
-| **Ultimate** | € 34,99 | € 44,98 | Alle clubs in Europa, onbeperkt gasten, sportwater, gratis pauzeren |
+| **Premium** | € 29,99 | € 39,98 | Alle clubs in 6 landen, één gast per week, massagestoelen |
+| **Ultimate** | € 34,99 | € 44,98 | Alle clubs in 6 landen, onbeperkt gasten, sportwater, gratis pauzeren |
 
 Prijzen per 4 weken. Een jaarabonnement loopt minimaal 52 weken; daarna zeg je op met 4 weken opzegtermijn. Flex heeft geen minimale looptijd, maar de welkomstacties voor jaarabonnementen gelden er niet voor.
 
@@ -94,7 +94,7 @@ Met een jaarabonnement vanaf € 24,99 per 4 weken (Comfort), met Flex vanaf €
 <details>
 <summary>Kan ik met Basic-Fit in het buitenland trainen?</summary>
 
-Met Premium of Ultimate train je in alle clubs in Europa. Met Comfort alleen in Nederland.
+Met Premium of Ultimate train je in alle clubs in Nederland, België, Luxemburg, Frankrijk, Spanje en Duitsland. Met Comfort alleen in Nederland.
 
 </details>
 

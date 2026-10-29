@@ -43,8 +43,8 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España, tamb
 | | Con permanencia de un año | Flex | Qué incluye |
 | --- | --- | --- | --- |
 | Comfort | 24,99 € | 29,98 € | Todos los clubes de España |
-| Premium | 29,99 € | 34,98 € | Clubes de toda Europa, un amigo por semana, sillones de masaje |
-| Ultimate | 34,99 € | 39,98 € | Clubes de toda Europa, amigos sin límite, Yanga Sports Water, congelación incluida |
+| Premium | 29,99 € | 34,98 € | Clubes de 6 países, un amigo por semana, sillones de masaje |
+| Ultimate | 34,99 € | 39,98 € | Clubes de 6 países, amigos sin límite, Yanga Sports Water, congelación incluida |
 
 Precios cada 4 semanas. Con Flex pagas 19,99 € de inscripción en todos los planes. Las clases colectivas están incluidas en los clubes que las ofrecen.
 

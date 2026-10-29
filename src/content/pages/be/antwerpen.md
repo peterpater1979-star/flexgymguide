@@ -57,7 +57,7 @@ Prijzen en voorwaarden veranderen regelmatig. Kijk altijd bij de aanbieder voor 
 | **Prijs** | 35 credits voor € 49 per maand (standaard) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex € 9,99 per 4 weken meer |
 | **Looptijd** | Geen, altijd opzegbaar | Een jaar, of Flex met 4 weken opzegtermijn |
 | **Eerst proberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 work-outs | Per club |
-| **Buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in clubs in Europa |
+| **Buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in alle clubs in 6 landen |
 | **Meer weten** | [Alles over ClassPass](/be/classpass/) | [Alles over Basic-Fit](/be/basic-fit/) |
 
 <p class="klein">Prijzen van oktober 2026. ClassPass: standaardabonnement in België. Basic-Fit: landelijke prijzen in België.</p>

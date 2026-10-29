@@ -44,8 +44,8 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs ouvert
 | | Avec engagement d'un an | Flex | Ce que tu as |
 | --- | --- | --- | --- |
 | Comfort | 24,99 € | 34,98 € | Tous les clubs en France |
-| Premium | 29,99 € | 39,98 € | Tous les clubs en Europe, un invité par semaine, fauteuils massants |
-| Ultimate | 34,99 € | 44,98 € | Tous les clubs en Europe, invités illimités, Yanga Sports Water, gel inclus |
+| Premium | 29,99 € | 39,98 € | Tous les clubs de 6 pays, un invité par semaine, fauteuils massants |
+| Ultimate | 34,99 € | 44,98 € | Tous les clubs de 6 pays, invités illimités, Yanga Sports Water, gel inclus |
 
 Prix toutes les 4 semaines. Avec Flex, tu paies 19,99 € de frais d'inscription pour toutes les formules. Les cours collectifs sont inclus dans les clubs qui en proposent.
 
