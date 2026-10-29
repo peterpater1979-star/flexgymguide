@@ -9,7 +9,7 @@ crumb: "Nordic Wellness"
 kicker: "Gymkedja"
 ---
 
-<div class="fotobanner foto-gymketen" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
 
 Nordic Wellness är en svensk gymkedja med över 400 klubbar, från norr till söder. Du tränar på gym och kan boka gruppträning.
 

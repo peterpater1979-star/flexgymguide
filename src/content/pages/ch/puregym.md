@@ -9,7 +9,7 @@ crumb: "PureGym"
 kicker: "Anbieter: Fitnesskette"
 ---
 
-<div class="fotobanner foto-puregym" role="img" aria-label="Fitnessstudio"></div>
+<div class="fotobanner smal foto-puregym" role="img" aria-label="Fitnessstudio"></div>
 
 PureGym ist eine günstige Fitnesskette, die in der Schweiz früher basefit.swiss hiess. Die meisten Studios sind rund um die Uhr offen. Du wählst ein Monatsabo, das du jederzeit pausieren oder kündigen kannst, oder ein günstigeres Jahresabo.
 

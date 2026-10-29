@@ -9,7 +9,7 @@ crumb: "Basic-Fit"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
-<div class="fotobanner foto-basic-fit" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Sportschool"></div>
 
 Basic-Fit is een voordelige sportschoolketen met clubs in heel Nederland en in België, Luxemburg, Frankrijk, Spanje en Duitsland. Veel clubs zijn dag en nacht open. Je kiest een abonnement (Comfort, Premium of Ultimate) en of je een jaar vastzit of met Flex elke maand kunt stoppen.
 

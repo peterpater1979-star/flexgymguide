@@ -9,7 +9,7 @@ crumb: "PureGym"
 kicker: "Fitnesskæde"
 ---
 
-<div class="fotobanner foto-puregym" role="img" aria-label="Fitnesscenter"></div>
+<div class="fotobanner smal foto-puregym" role="img" aria-label="Fitnesscenter"></div>
 
 PureGym er en fitnesskæde med 128 centre i Danmark. Du vælger selv, om du vil træne i ét center eller i flere, og du kan også købe adgang for en enkelt dag.
 

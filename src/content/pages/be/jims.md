@@ -9,7 +9,7 @@ crumb: "Jims"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
-<div class="fotobanner foto-gymketen" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-gymketen" role="img" aria-label="Sportschool"></div>
 
 Jims is een Belgische sportschoolketen met meer dan 80 clubs in België. Je kiest alleen fitness, of ook groepslessen met een coach, zoals Small Group Training en de "Cubes" voor bijvoorbeeld indoor cycling. Er is een flexibel abonnement dat je met 4 weken opzegtermijn stopzet.
 

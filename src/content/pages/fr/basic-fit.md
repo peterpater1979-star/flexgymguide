@@ -9,7 +9,7 @@ crumb: "Basic-Fit"
 kicker: "Fournisseur : salle à petit prix"
 ---
 
-<div class="fotobanner foto-basic-fit" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Salle de sport"></div>
 
 Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Tu choisis une formule (Comfort, Premium ou Ultimate), avec un engagement d’un an ou en Flex, sans engagement.
 

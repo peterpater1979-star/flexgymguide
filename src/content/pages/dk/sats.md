@@ -9,7 +9,7 @@ crumb: "SATS"
 kicker: "Fitnesskæde"
 ---
 
-<div class="fotobanner foto-sats" role="img" aria-label="Fitnesscenter"></div>
+<div class="fotobanner smal foto-sats" role="img" aria-label="Fitnesscenter"></div>
 
 SATS er en nordisk fitnesskæde med over 275 centre i Danmark, Sverige, Norge og Finland. Du får træningssal og holdtræning samme sted. I København (inklusive Frederiksberg) har SATS 14 centre.
 

@@ -9,7 +9,7 @@ crumb: "Basic-Fit"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
-<div class="fotobanner foto-basic-fit" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Sportschool"></div>
 
 Basic-Fit heeft meer dan 230 clubs in België, waarvan meer dan 170 dag en nacht open. Je kiest een abonnement (Comfort, Premium of Ultimate) en of je een jaar vastzit of met Flex nergens aan vastzit.
 

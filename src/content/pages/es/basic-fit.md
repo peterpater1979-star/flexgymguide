@@ -9,7 +9,7 @@ crumb: "Basic-Fit"
 kicker: "Proveedor: gimnasio económico"
 ---
 
-<div class="fotobanner foto-basic-fit" role="img" aria-label="Gimnasio"></div>
+<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Gimnasio"></div>
 
 Basic-Fit es una cadena de gimnasios económica con clubes en toda España. Eliges una cuota (Comfort, Premium o Ultimate), con contrato anual o con Flex, sin permanencia.
 

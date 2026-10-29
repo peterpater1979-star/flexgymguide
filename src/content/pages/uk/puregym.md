@@ -9,7 +9,7 @@ crumb: "PureGym"
 kicker: "Provider: gym chain"
 ---
 
-<div class="fotobanner foto-puregym" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-puregym" role="img" aria-label="Gym"></div>
 
 PureGym is a budget gym chain with over 450 gyms across the UK, most of them open 24/7. Every plan is without a contract, so you can cancel anytime, and classes are included at most gyms.
 
