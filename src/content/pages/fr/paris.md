@@ -1,5 +1,5 @@
 ---
-title: "Faire du sport à Paris en toute flexibilité : ClassPass, Basic-Fit et Fitness Park"
+title: "Faire du sport à Paris en toute flexibilité : ClassPass, Basic-Fit, Fitness Park et Keepcool"
 path: "/fr/paris/"
 description: "Pas envie d’être lié à une seule salle ? À Paris, tu peux utiliser un pass sport dans des studios partout en ville, ou une salle de sport avec ou sans engagement. Voici ce qui te convient."
 lang: fr
@@ -58,24 +58,38 @@ Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clu
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-keepcool"><span>Salle avec coachs</span></div>
+
+### Keepcool
+
+Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
+
+<div class="knoppen">
+<a class="knop" href="#keepcool">Voir Keepcool</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="apercu">
 
-## ClassPass, Basic-Fit et Fitness Park en un coup d’œil
+## ClassPass, Basic-Fit, Fitness Park et Keepcool en un coup d’œil
 
 Les prix et conditions changent régulièrement. Vérifie toujours la situation actuelle auprès du prestataire.
 
-| | ClassPass | Basic-Fit | Fitness Park |
-| --- | --- | --- | --- |
-| **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec cours collectifs |
-| **Prix** | Abonnement standard 75 € par mois (47 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement |
-| **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Avec ou sans engagement |
-| **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | Selon le club |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans les clubs en Europe | Clubs aussi en Espagne |
-| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Basic-Fit](/fr/basic-fit/) | [Tout sur Fitness Park](/fr/fitness-park/) |
+| | ClassPass | Basic-Fit | Fitness Park | Keepcool |
+| --- | --- | --- | --- | --- |
+| **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec cours collectifs | Salle de sport avec coachs |
+| **Prix** | Abonnement standard 75 € par mois (47 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,90 € sans engagement |
+| **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Avec ou sans engagement | Un an, ou sans engagement |
+| **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans les clubs en Europe | Clubs aussi en Espagne | Une salle à Bruxelles |
+| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Basic-Fit](/fr/basic-fit/) | [Tout sur Fitness Park](/fr/fitness-park/) | [Tout sur Keepcool](/fr/keepcool/) |
 
-<p class="klein">Prix d’octobre 2026. Basic-Fit et Fitness Park : prix nationaux en France, qui peuvent varier selon le club.</p>
+<p class="klein">Prix d’octobre 2026. Basic-Fit, Fitness Park et Keepcool : prix nationaux en France, qui peuvent varier selon le club.</p>
 
 </div>
 
@@ -94,6 +108,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 ### Où
 
 Surtout le 2e, le 10e et le 16e, mais aussi le Marais, Saint-Germain et Montmartre. Beaucoup de Pilates, du yoga et du renforcement musculaire, et aussi à Neuilly-sur-Seine et Vincennes.
+
+En Île-de-France, ClassPass est aussi présent plus loin, par exemple à [Cergy](/fr/cergy/), [Poissy](/fr/poissy/), [Maurepas](/fr/maurepas/), [Montévrain](/fr/montevrain/) et [Bussy-Saint-Georges](/fr/bussy-saint-georges/).
 
 ### Ce que tu as
 
@@ -172,6 +188,34 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 </div>
 
+<div class="kolom">
+
+<div id="keepcool">
+
+<p class="kicker">Salle avec coachs</p>
+
+## Keepcool à Paris
+
+À Paris, Keepcool a huit salles, entre autres à Bastille, Saint-Germain, Monceau et Denfert-Rochereau. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,90 €.
+
+### Idéal pour
+
+- Être accompagné par un coach
+- T’entraîner en petits groupes
+
+### À savoir
+
+- Une séance d’essai gratuite par an
+- Selon la zone, le prix peut être un peu plus élevé
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 ## Lequel te convient ?
@@ -208,6 +252,16 @@ Choisis Fitness Park. Une salle avec cours collectifs, avec ou sans engagement.
 
 </div>
 
+<div class="kolom">
+
+### Tu veux être accompagné
+
+Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
+
+[Voir Keepcool](#keepcool)
+
+</div>
+
 </div>
 
 ## Questions fréquentes
@@ -240,6 +294,13 @@ Oui, si tu veux. Sans engagement, tu paies 10 € de plus toutes les 4 semaines 
 
 </details>
 
+<details>
+<summary>Keepcool est-il sans engagement ?</summary>
+
+Oui, si tu veux : sans engagement, tu paies 44,90 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+
+</details>
+
 <details class="verder">
 <summary>À lire aussi</summary>
 
@@ -247,6 +308,7 @@ Oui, si tu veux. Sans engagement, tu paies 10 € de plus toutes les 4 semaines 
 - [Faire du sport à Marseille](/fr/marseille/)
 - [Faire du sport à Bordeaux](/fr/bordeaux/)
 - [Tout sur ClassPass](/fr/classpass/)
+- [Tout sur Keepcool](/fr/keepcool/)
 - [Tout sur Fitness Park](/fr/fitness-park/)
 
 </details>
