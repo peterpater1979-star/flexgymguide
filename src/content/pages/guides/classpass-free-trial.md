@@ -9,7 +9,7 @@ crumb: "ClassPass free trial"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Group class"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Group class"></div>
 
 New members can try ClassPass first. You visit a number of studios and gyms, each one once. In the UK and Ireland you currently get 14 days free with 10 workouts. In other countries the offer can differ; you always see it when you sign up.
 

@@ -9,7 +9,7 @@ crumb: "ClassPass"
 kicker: "Sportpas"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Groepsles"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Groepsles"></div>
 
 ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credits. Die wissel je in voor lessen en gymbezoeken bij aangesloten studio's en sportscholen. Je zit dus niet vast aan één locatie of één sport.
 

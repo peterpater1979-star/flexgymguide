@@ -9,7 +9,7 @@ crumb: "Si opp ClassPass"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Gruppetime"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppetime"></div>
 
 Du kan alltid si opp ClassPass, uten gebyr og uten oppsigelsestid. Gjør det minst 48 timer før fornyelsesdatoen din, og bruk kredittene først: de forsvinner når abonnementet ditt stopper.
 

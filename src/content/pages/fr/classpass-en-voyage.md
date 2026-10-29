@@ -9,7 +9,7 @@ crumb: "ClassPass en voyage"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Cours collectif"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Cours collectif"></div>
 
 Ton abonnement ClassPass ne fonctionne pas seulement dans ta ville. En vacances, en déplacement ou chez de la famille, tu utilises les mêmes crédits dans tous les pays où ClassPass est présent. Rien à changer : tu cherches simplement là où tu es.
 

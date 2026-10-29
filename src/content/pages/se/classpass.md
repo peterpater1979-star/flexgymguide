@@ -9,7 +9,7 @@ crumb: "ClassPass"
 kicker: "Träningspass"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Gruppträning"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppträning"></div>
 
 ClassPass är ett träningspass: du betalar en månadsavgift och får krediter i gengäld. Dem använder du för pass och gymbesök hos partnerstudior och gym. På så sätt är du inte bunden till ett ställe eller en sport.
 

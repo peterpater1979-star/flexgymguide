@@ -9,7 +9,7 @@ crumb: "ClassPass-credits"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Holdtræning"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Holdtræning"></div>
 
 Med ClassPass betaler du ikke pr. hold, men med credits. Det er fleksibelt, men kan være forvirrende i starten: Det samme yogahold kan koste et andet antal credits mandag morgen end torsdag aften. Sådan fungerer det.
 

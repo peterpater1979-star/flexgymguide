@@ -9,7 +9,7 @@ crumb: "ClassPass credits explained"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Group class"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Group class"></div>
 
 With ClassPass you don't pay per class but with credits. That makes it flexible, but it can also be confusing at first: the same yoga class can cost a different number of credits on Monday morning than on Thursday evening. Here's how it works.
 

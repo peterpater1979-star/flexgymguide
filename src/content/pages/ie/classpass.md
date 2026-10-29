@@ -9,7 +9,7 @@ crumb: "ClassPass"
 kicker: "Fitness pass"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Group class"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Group class"></div>
 
 ClassPass is a fitness pass: you pay a monthly fee and get credits in return. You use them for classes and gym visits at partner studios and gyms. That way you're not tied to one place or one sport.
 
