@@ -11,7 +11,7 @@ kicker: "Guía de país España"
 
 ¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
 
-<h2 id="opciones">Tres formas de entrenar con flexibilidad</h2>
+<h2 id="opciones">Cuatro formas de entrenar con flexibilidad</h2>
 
 <div class="kolommen">
 
@@ -70,6 +70,24 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio sin permanencia</span></div>
+
+### VivaGym
+
+Cadena de gimnasios española con más de 240 clubes en España. Cuotas ONE, FLEX y PRIME sin permanencia; el precio depende del club.
+
+- Ideal si entrenas tres veces por semana o más
+- Clases colectivas incluidas
+- Con PRIME también en Portugal
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/vivagym/">Todo sobre VivaGym</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="ciudades">
@@ -77,14 +95,14 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 ## Ciudades
 
 <ul class="stedenlijst">
-<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
+<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
+<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
+<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
 <li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
+<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
 <li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 </ul>
