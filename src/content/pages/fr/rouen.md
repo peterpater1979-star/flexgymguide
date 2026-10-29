@@ -1,5 +1,5 @@
 ---
-title: "Faire du sport à Rouen en toute flexibilité : ClassPass et Basic-Fit"
+title: "Faire du sport à Rouen en toute flexibilité : ClassPass, Basic-Fit et Keepcool"
 path: "/fr/rouen/"
 description: "Pas envie d’être lié à une seule salle ? À Rouen, tu peux utiliser un pass sport dans des studios de la ville, ou une salle de sport avec ou sans engagement. Voici ce qui te convient."
 lang: fr
@@ -44,24 +44,38 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-keepcool"><span>Salle avec coachs</span></div>
+
+### Keepcool
+
+Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
+
+<div class="knoppen">
+<a class="knop" href="#keepcool">Voir Keepcool</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="apercu">
 
-## ClassPass et Basic-Fit en un coup d’œil
+## ClassPass, Basic-Fit et Keepcool en un coup d’œil
 
 Les prix et conditions changent régulièrement. Vérifie toujours la situation actuelle auprès du prestataire.
 
-| | ClassPass | Basic-Fit |
-| --- | --- | --- |
-| **Type** | Pass sport à crédits | Salle de sport à petit prix |
-| **Prix** | Dépend du nombre de crédits ; le prix varie selon la ville | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus |
-| **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis |
-| **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans les clubs en Europe |
-| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Basic-Fit](/fr/basic-fit/) |
+| | ClassPass | Basic-Fit | Keepcool |
+| --- | --- | --- | --- |
+| **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec coachs |
+| **Prix** | Dépend du nombre de crédits ; le prix varie selon la ville | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,90 € sans engagement |
+| **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Un an, ou sans engagement |
+| **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans les clubs en Europe | Une salle à Bruxelles |
+| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Basic-Fit](/fr/basic-fit/) | [Tout sur Keepcool](/fr/keepcool/) |
 
-<p class="klein">Prix d’octobre 2026. Basic-Fit et Fitness Park : prix nationaux en France, qui peuvent varier selon le club.</p>
+<p class="klein">Prix d’octobre 2026. Basic-Fit, Fitness Park et Keepcool : prix nationaux en France, qui peuvent varier selon le club.</p>
 
 </div>
 
@@ -125,6 +139,34 @@ Basic-Fit a des salles à Rouen. C’est une chaîne de salles à petit prix, av
 
 </div>
 
+<div class="kolom">
+
+<div id="keepcool">
+
+<p class="kicker">Salle avec coachs</p>
+
+## Keepcool à Rouen
+
+À Rouen, Keepcool a une salle dans le centre, et une autre à Mont-Saint-Aignan. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,90 €.
+
+### Idéal pour
+
+- Être accompagné par un coach
+- T’entraîner en petits groupes
+
+### À savoir
+
+- Une séance d’essai gratuite par an
+- Selon la zone, le prix peut être un peu plus élevé
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 ## Lequel te convient ?
@@ -161,6 +203,16 @@ Choisis ClassPass. Ton abonnement marche aussi dans les autres pays où ClassPas
 
 </div>
 
+<div class="kolom">
+
+### Tu veux être accompagné
+
+Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
+
+[Voir Keepcool](#keepcool)
+
+</div>
+
 </div>
 
 ## Questions fréquentes
@@ -186,6 +238,13 @@ Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies
 
 </details>
 
+<details>
+<summary>Keepcool est-il sans engagement ?</summary>
+
+Oui, si tu veux : sans engagement, tu paies 44,90 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+
+</details>
+
 <details class="verder">
 <summary>À lire aussi</summary>
 
@@ -193,6 +252,7 @@ Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies
 - [Faire du sport à Lyon](/fr/lyon/)
 - [Faire du sport à Marseille](/fr/marseille/)
 - [Tout sur ClassPass](/fr/classpass/)
+- [Tout sur Keepcool](/fr/keepcool/)
 - [Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)
 
 </details>
