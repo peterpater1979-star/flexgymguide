@@ -11,7 +11,7 @@ kicker: "Länderguide Schweiz"
 
 Keine Lust auf einen langen Vertrag in einem einzigen Studio? Mit einem Sportpass wie ClassPass trainierst du mit einem Abo in verschiedenen Studios und Gyms. Hier liest du, wie das in der Schweiz funktioniert und in welchen Städten.
 
-<h2 id="opties">Drei Wege, flexibel zu trainieren</h2>
+<h2 id="opties">Vier Wege, flexibel zu trainieren</h2>
 
 <div class="kolommen">
 
@@ -65,6 +65,24 @@ Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den Preis erf
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-puregym"><span>Günstige Fitnesskette</span></div>
+
+### PureGym
+
+Günstige Fitnesskette, früher basefit.swiss, meist rund um die Uhr offen. Monatsabo ab CHF 57, jederzeit kündbar, oder Jahresabo ab CHF 47 pro Monat.
+
+- Gut, wenn du günstig und oft trainieren willst
+- Monatsabo: laufend kündbar
+- Preis je nach Standort
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ch/puregym/">Alles über PureGym</a>
 </div>
 
 </div>

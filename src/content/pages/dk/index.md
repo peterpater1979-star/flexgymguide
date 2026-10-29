@@ -11,7 +11,7 @@ kicker: "Landeguide Danmark"
 
 Har du ikke lyst til en lang kontrakt i ét fitnesscenter? Med et træningspas som ClassPass får du adgang til forskellige studier og fitnesscentre med ét medlemskab. Her kan du læse, hvordan det fungerer i Danmark, og i hvilke byer.
 
-<h2 id="opties">To måder at træne fleksibelt på</h2>
+<h2 id="opties">Tre måder at træne fleksibelt på</h2>
 
 <div class="kolommen">
 
@@ -48,6 +48,24 @@ En nordisk fitnesskæde med over 275 centre i Danmark, Sverige, Norge og Finland
 <div class="knoppen">
 <a class="knop knop-rand" href="/dk/sats/">Alt om SATS</a>
 <a class="knop knop-rand" href="/dk/traeningspas-eller-fitness/">Træningspas eller fitness?</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-puregym"><span>Fitnesskæde</span></div>
+
+### PureGym
+
+Fitnesskæde med lave priser og 128 centre i Danmark. Fra 249 kr. om måneden, og du kan også købe adgang for en enkelt dag.
+
+- Godt hvis du vil træne billigt og ofte
+- Opsigelse: løbende måned plus én måned
+- Prepaid fra 79 kr. for en dag
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/dk/puregym/">Alt om PureGym</a>
 </div>
 
 </div>

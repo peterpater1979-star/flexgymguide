@@ -11,7 +11,7 @@ kicker: "Landengids Nederland"
 
 Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een sportpas zoals ClassPass, of bij een sportschoolketen met flexibele voorwaarden. Hier lees je wat bij jou past, en in welke steden.
 
-<h2 id="opties">Twee manieren om flexibel te sporten</h2>
+<h2 id="opties">Vier manieren om flexibel te sporten</h2>
 
 <div class="kolommen">
 
@@ -67,6 +67,24 @@ Gym met live groepslessen in heel Nederland. Kies City One (één club) of City 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/sportcity/">Alles over SportCity</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Voordelige sportschool</span></div>
+
+### Basic-Fit
+
+Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan dag en nacht open. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
+
+- Goed als je goedkoop en vaak wilt trainen
+- Flex: opzegtermijn 4 weken
+- Met Premium ook in 5 andere landen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
 </div>
 
 </div>

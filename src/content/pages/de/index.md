@@ -11,7 +11,7 @@ kicker: "Länderguide Deutschland"
 
 Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Bedingungen. Hier liest du, was zu dir passt und in welchen Städten.
 
-<h2 id="opties">Zwei Wege, flexibel zu trainieren</h2>
+<h2 id="opties">Vier Wege, flexibel zu trainieren</h2>
 
 <div class="kolommen">
 
@@ -65,6 +65,24 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
+
+### Holmes Place
+
+Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kursen und Wellness. Den Preis erfährst du bei einem Besuch im Club.
+
+- Gut, wenn dir Service und Wellness wichtig sind
+- Preis nur im Club
+- Auch in Wien, der Schweiz und Portugal
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
 </div>
 
 </div>

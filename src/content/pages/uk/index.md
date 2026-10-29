@@ -11,7 +11,7 @@ kicker: "Country guide United Kingdom"
 
 Working out without a long contract at one gym comes down to two options: a fitness pass like ClassPass, or a gym chain with flexible terms. Here's what suits you, and in which cities.
 
-<h2 id="opties">Two ways to train flexibly</h2>
+<h2 id="opties">Four ways to train flexibly</h2>
 
 <div class="kolommen">
 
@@ -61,6 +61,24 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+
+### PureGym
+
+Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on any plan, from £18.99 a month, with classes at most gyms.
+
+- Good if you want to train cheaply and often
+- No contract: cancel anytime
+- Price differs per gym
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
 </div>

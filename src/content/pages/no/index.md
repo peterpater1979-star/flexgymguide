@@ -11,7 +11,7 @@ kicker: "Landguide Norge"
 
 Har du ikke lyst på en lang avtale på ett enkelt treningssenter? Med et treningspass som ClassPass får du tilgang til ulike studioer og treningssentre med ett medlemskap. Her kan du lese hvordan det fungerer i Norge, og i hvilke byer.
 
-<h2 id="opties">To måter å trene fleksibelt på</h2>
+<h2 id="opties">Tre måter å trene fleksibelt på</h2>
 
 <div class="kolommen">
 
@@ -48,6 +48,24 @@ En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finlan
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/sats/">Alt om SATS</a>
 <a class="knop knop-rand" href="/no/treningspass-eller-treningssenter/">Treningspass eller treningssenter?</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+
+### EVO
+
+Treningskjede med sentre over hele Norge, åpent hver dag 05–24. 439 kr i måneden uten binding.
+
+- Bra hvis du vil trene billig og ofte
+- Ingen binding
+- Har ofte tilbud
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/no/evo/">Alt om EVO</a>
 </div>
 
 </div>
