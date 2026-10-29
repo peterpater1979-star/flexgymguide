@@ -91,9 +91,23 @@ Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans
 <li><a href="/fr/montpellier/"><strong>Montpellier</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/fr/rennes/"><strong>Rennes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
 <li><a href="/fr/cannes/"><strong>Cannes</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/rouen/"><strong>Rouen</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/tours/"><strong>Tours</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/orleans/"><strong>Orléans</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/dijon/"><strong>Dijon</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/clermont-ferrand/"><strong>Clermont-Ferrand</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/saint-etienne/"><strong>Saint-Étienne</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/le-havre/"><strong>Le Havre</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/angers/"><strong>Angers</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/le-mans/"><strong>Le Mans</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/brest/"><strong>Brest</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/nimes/"><strong>Nîmes</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/annecy/"><strong>Annecy</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/amiens/"><strong>Amiens</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/avignon/"><strong>Avignon</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 </ul>
 
-On trouve aussi des studios ClassPass dans de plus petites villes et en périphérie. Dans l’application, tu vois quels studios et salles participent près de chez toi.
+On trouve aussi des studios ClassPass dans de plus petites villes et en périphérie, par exemple à Troyes, Bayonne, Poitiers, Dunkerque, Annemasse, Lorient, La Rochelle, Béziers et Arras. Dans l’application, tu vois quels studios et salles participent près de chez toi.
 
 </div>
 

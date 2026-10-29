@@ -95,6 +95,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Surtout le 2e, le 10e et le 16e, mais aussi le Marais, Saint-Germain et Montmartre. Beaucoup de Pilates, du yoga et du renforcement musculaire, et aussi à Neuilly-sur-Seine et Vincennes.
 
+En Île-de-France, ClassPass est aussi présent plus loin, par exemple à Cergy, Poissy, Maurepas, Montévrain et Bussy-Saint-Georges.
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle

@@ -92,7 +92,7 @@ C’est dans ces villes que tu as le plus de choix avec ClassPass :
 - **Rennes** : une petite offre dans le centre. Pilates et renforcement musculaire
 - **Cannes** : une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu, et beaucoup plus à Nice. Surtout du Pilates
 
-On trouve aussi des studios dans de plus petites villes et en périphérie. Dans l’application, tu vois quels studios et salles participent près de chez toi.
+ClassPass est aussi présent à [Rouen](/fr/rouen/), [Tours](/fr/tours/), [Orléans](/fr/orleans/), [Dijon](/fr/dijon/), [Clermont-Ferrand](/fr/clermont-ferrand/), [Saint-Étienne](/fr/saint-etienne/), [Le Havre](/fr/le-havre/), [Angers](/fr/angers/), [Le Mans](/fr/le-mans/), [Brest](/fr/brest/), [Nîmes](/fr/nimes/), [Annecy](/fr/annecy/), [Amiens](/fr/amiens/) et [Avignon](/fr/avignon/), et dans de plus petites villes comme Troyes, Bayonne, Poitiers, Dunkerque, Annemasse, Lorient, La Rochelle, Béziers et Arras. Dans l’application, tu vois quels studios et salles participent près de chez toi.
 
 <h2 id="etranger">ClassPass à l’étranger</h2>
 
