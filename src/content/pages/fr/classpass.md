@@ -14,7 +14,7 @@ kicker: "Pass sport"
 ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des crédits. Tu les utilises pour des cours et des séances dans les studios et salles de sport partenaires. Tu n’es donc pas lié à un seul lieu ni à un seul sport.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass">Profitez de 10 séances gratuites en 14 jours</a>
 </div>
 
 <h2 id="en-bref">En bref</h2>
@@ -71,7 +71,7 @@ Nouveau sur ClassPass ? En France, tu commences actuellement par un essai gratui
 L'essai est réservé aux nouveaux membres, une fois par personne. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-essai">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-essai">Profitez de 10 séances gratuites en 14 jours</a>
 </div>
 
 <h2 id="villes">Où utiliser ClassPass en France</h2>
@@ -118,7 +118,7 @@ Ton abonnement fonctionne aussi hors de France, dans plus de 2 500 villes et 31 
 Regarde quels studios et salles participent près de chez toi, et combien coûtent les formules en France.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass">Profitez de 10 séances gratuites en 14 jours</a>
 </div>
 
 </div>

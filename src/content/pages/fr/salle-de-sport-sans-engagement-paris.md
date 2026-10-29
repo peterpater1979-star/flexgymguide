@@ -33,7 +33,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour des cours et des séanc
 - **Tu voyages beaucoup ?** Ton abonnement marche aussi dans d'autres villes. Lis [ClassPass en voyage](/fr/classpass-en-voyage/).
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 

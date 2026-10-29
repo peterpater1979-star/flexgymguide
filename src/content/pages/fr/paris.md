@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Paris, tu peux réserver des co
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -124,7 +124,7 @@ En Île-de-France, ClassPass est aussi présent plus loin, par exemple à [Cergy
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 

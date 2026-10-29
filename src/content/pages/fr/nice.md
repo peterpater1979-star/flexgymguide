@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Nice, tu peux réserver des cou
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-nice">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-nice">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -122,7 +122,7 @@ Surtout le centre et le Carré d’Or, mais aussi le Port et Cimiez. Beaucoup de
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-nice">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-nice">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 

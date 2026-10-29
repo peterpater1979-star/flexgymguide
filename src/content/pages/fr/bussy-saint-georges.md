@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Bussy-Saint-Georges, tu peux r�
 Des cours et des séances en salle avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-bussy-saint-georges">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-bussy-saint-georges">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -76,7 +76,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-bussy-saint-georges">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-bussy-saint-georges">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 
