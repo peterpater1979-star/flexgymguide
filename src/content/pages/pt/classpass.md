@@ -9,7 +9,7 @@ crumb: "ClassPass"
 kicker: "Passe desportivo"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Aula de grupo"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Aula de grupo"></div>
 
 O ClassPass é um passe desportivo: pagas uma mensalidade e recebes créditos. Usas esses créditos em aulas e sessões nos estúdios e ginásios parceiros. Assim não ficas preso a um só sítio nem a um só desporto.
 

@@ -99,6 +99,9 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 
 .fotobanner { height: 240px; margin: 0 0 1.5rem; border-radius: var(--radius); background: linear-gradient(rgba(1, 122, 120, .1), rgba(1, 90, 88, .25)), var(--foto, none) center / cover, var(--accent); }
 @media (max-width: 640px) { .fotobanner { height: 180px; } }
+.fotobanner.smal { max-width: 66.667%; height: 300px; }
+.fotobanner.smal.foto-classpass { background-position: center 20%; }
+@media (max-width: 640px) { .fotobanner.smal { max-width: none; height: 220px; } }
 /* Foto's voor de fotokoppen: hier wisselen, dan verandert het op alle pagina's */
 .foto-classpass { --foto: url(/img/foto/classpass.jpg); }
 .foto-gymketen { --foto: url(/img/foto/gymketen.jpg); }
@@ -114,6 +117,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-fitness-first-de { --foto: url(/img/foto/fitness-first-de.jpg); }
 .foto-fitness-first-uk { --foto: url(/img/foto/fitness-first-uk.jpg); }
 .foto-keepcool { --foto: url(/img/foto/keepcool.jpg); }
+.foto-gewichten { --foto: url(/img/foto/gewichten.jpg); background-position: center 25%; }
 .foto-sporttas { --foto: url(/img/foto/sporttas.jpg); background-position: center 78%; max-width: 72ch; }
 .continenten { list-style: none; padding: 0; margin: 1rem 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr)); gap: .25rem 1.5rem; }
 .continenten li { margin: 0; padding: .5rem 0; border-top: 1px solid var(--line); font-size: .9rem; line-height: 1.5; }

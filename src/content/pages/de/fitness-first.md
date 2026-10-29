@@ -9,7 +9,7 @@ crumb: "Fitness First"
 kicker: "Anbieter: Fitnessstudiokette"
 ---
 
-<div class="fotobanner foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
+<div class="fotobanner smal foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
 
 Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clubs in Österreich. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
 

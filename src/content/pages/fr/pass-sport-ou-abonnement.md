@@ -9,6 +9,8 @@ crumb: "Pass sport ou abonnement ?"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Disques de musculation dans une salle"></div>
+
 Il y a deux façons de faire du sport sans être lié à un seul petit studio : un pass sport valable dans de nombreux studios, ou un abonnement dans une chaîne de salles présente dans toute la ville. Les deux peuvent être le bon choix. Tout dépend surtout de la fréquence de tes séances et de la variété que tu cherches.
 
 <h2 id="resume">En résumé</h2>

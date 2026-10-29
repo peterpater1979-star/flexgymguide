@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Cannes, tu peux réserver des c
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -58,7 +58,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans les clubs en Europe |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays |
 | **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Basic-Fit](/fr/basic-fit/) |
 
 <p class="klein">Prix d’octobre 2026. Basic-Fit et Fitness Park : prix nationaux en France, qui peuvent varier selon le club.</p>
@@ -94,7 +94,7 @@ Une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 

@@ -9,6 +9,8 @@ crumb: "¿Pase o gimnasio?"
 kicker: "Guía"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Discos de pesas en un gimnasio"></div>
+
 Hay dos formas de entrenar sin atarte a un solo estudio pequeño: un pase deportivo que funciona en muchos estudios, o una cuota en una cadena de gimnasios con centros por toda la ciudad. Las dos pueden ser la elección correcta. Depende sobre todo de cuántas veces entrenas y de cuánta variedad quieres.
 
 <h2 id="resumen">En resumen</h2>

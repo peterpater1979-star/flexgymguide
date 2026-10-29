@@ -9,7 +9,7 @@ crumb: "Basic-Fit"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
-<div class="fotobanner foto-basic-fit" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Sportschool"></div>
 
 Basic-Fit heeft meer dan 230 clubs in België, waarvan meer dan 170 dag en nacht open. Je kiest een abonnement (Comfort, Premium of Ultimate) en of je een jaar vastzit of met Flex nergens aan vastzit.
 
@@ -21,7 +21,7 @@ Basic-Fit heeft meer dan 230 clubs in België, waarvan meer dan 170 dag en nacht
 | **Clubs** | Meer dan 230 in België, meer dan 170 daarvan 24/7 open |
 | **Prijs** | Vanaf € 24,99 per 4 weken met jaarabonnement |
 | **Zonder contract** | <span class="ja" aria-hidden="true">✓</span> Flex: € 9,99 per 4 weken meer, opzegtermijn 4 weken |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Met Premium of Ultimate, in clubs in Europa |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Met Premium of Ultimate, in alle clubs in Nederland, België, Luxemburg, Frankrijk, Spanje en Duitsland |
 
 <p class="klein">Bron: <a href="https://www.basic-fit.com/nl-be/prijzen">basic-fit.com/nl-be/prijzen</a> (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
 
@@ -30,8 +30,8 @@ Basic-Fit heeft meer dan 230 clubs in België, waarvan meer dan 170 dag en nacht
 | | Jaarabonnement | Flex | Wat je krijgt |
 | --- | --- | --- | --- |
 | **Comfort** | € 24,99 | € 34,98 | Alle clubs in België |
-| **Premium** | € 29,99 | € 39,98 | Alle clubs in Europa, één gast per week, massagestoelen |
-| **Ultimate** | € 34,99 | € 44,98 | Alle clubs in Europa, onbeperkt gasten, sportwater, gratis pauzeren |
+| **Premium** | € 29,99 | € 39,98 | Alle clubs in 6 landen, één gast per week, massagestoelen |
+| **Ultimate** | € 34,99 | € 44,98 | Alle clubs in 6 landen, onbeperkt gasten, sportwater, gratis pauzeren |
 
 Prijzen per 4 weken. Inschrijfkosten bij een jaarabonnement: € 19,99 (Comfort), € 9,99 (Premium) of € 4,99 (Ultimate); bij Flex altijd € 19,99. Een jaarabonnement loopt minimaal 52 weken; daarna zeg je op met 4 weken opzegtermijn. Tot 5 november 2026 krijg je bij een jaarabonnement 4 weken gratis.
 

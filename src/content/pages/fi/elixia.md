@@ -9,7 +9,7 @@ crumb: "ELIXIA"
 kicker: "Kuntosaliketju"
 ---
 
-<div class="fotobanner foto-elixia" role="img" aria-label="Kuntosali"></div>
+<div class="fotobanner smal foto-elixia" role="img" aria-label="Kuntosali"></div>
 
 ELIXIA on SATS Groupiin kuuluva kuntosaliketju. Sillä on yli 30 kuntokeskusta Suomessa: Helsingissä, Espoossa, Vantaalla, Tampereella ja Turussa. Samassa paikassa on kuntosali ja ryhmäliikuntaa.
 

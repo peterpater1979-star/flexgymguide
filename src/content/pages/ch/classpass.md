@@ -9,7 +9,7 @@ crumb: "ClassPass"
 kicker: "Sportpass"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Gruppenkurs"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppenkurs"></div>
 
 ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür Credits. Die löst du für Kurse und Gym-Besuche in Partnerstudios und Fitnessstudios ein. So bist du nicht an einen Ort oder eine Sportart gebunden.
 

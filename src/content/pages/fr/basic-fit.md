@@ -9,7 +9,7 @@ crumb: "Basic-Fit"
 kicker: "Fournisseur : salle à petit prix"
 ---
 
-<div class="fotobanner foto-basic-fit" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Salle de sport"></div>
 
 Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Tu choisis une formule (Comfort, Premium ou Ultimate), avec un engagement d’un an ou en Flex, sans engagement.
 
@@ -22,7 +22,7 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 | **Prix** | Dès 24,99 € toutes les 4 semaines avec engagement d’un an |
 | **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Flex : 9,99 € de plus toutes les 4 semaines, préavis de 4 semaines |
 | **Frais d’inscription** | 19,99 € en Flex |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Avec Premium ou Ultimate, dans les clubs en Europe |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Avec Premium ou Ultimate, dans tous les clubs en France, Belgique, Luxembourg, Pays-Bas, Espagne et Allemagne |
 
 <p class="klein">Source : <a href="https://www.basic-fit.com/fr-fr/prix">basic-fit.com/fr-fr/prix</a> (octobre 2026). Vérifie toujours le prix actuel auprès de Basic-Fit.</p>
 
@@ -31,8 +31,8 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 | | Engagement d’un an | Flex | Ce que tu as |
 | --- | --- | --- | --- |
 | **Comfort** | 24,99 € | 34,98 € | Tous les clubs en France |
-| **Premium** | 29,99 € | 39,98 € | Tous les clubs en Europe, un invité par semaine, fauteuils massants |
-| **Ultimate** | 34,99 € | 44,98 € | Tous les clubs en Europe, invités illimités, Yanga Sports Water, gel inclus |
+| **Premium** | 29,99 € | 39,98 € | Tous les clubs de 6 pays, un invité par semaine, fauteuils massants |
+| **Ultimate** | 34,99 € | 44,98 € | Tous les clubs de 6 pays, invités illimités, Yanga Sports Water, gel inclus |
 
 Prix toutes les 4 semaines. L’abonnement d’un an t’engage pour 52 semaines, puis tu résilies avec 4 semaines de préavis. Les offres de bienvenue ne s’appliquent pas à Flex.
 

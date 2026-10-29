@@ -9,7 +9,7 @@ crumb: "ClassPass-credits"
 kicker: "Gids"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Groepsles"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Groepsles"></div>
 
 Bij ClassPass betaal je niet per les maar met credits. Dat is flexibel, maar in het begin ook verwarrend: dezelfde yogales kan op maandagochtend een ander aantal credits kosten dan op donderdagavond. Zo werkt het.
 

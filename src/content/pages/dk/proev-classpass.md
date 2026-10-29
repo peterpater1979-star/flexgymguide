@@ -9,7 +9,7 @@ crumb: "Prøv ClassPass"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Holdtræning"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Holdtræning"></div>
 
 Nye medlemmer kan prøve ClassPass først. Du besøger så en række studier og fitnesscentre, hvert sted én gang. I Danmark får du lige nu 14 dage gratis med 10 træninger. I andre lande kan tilbuddet være anderledes; du ser det altid, når du tilmelder dig.
 

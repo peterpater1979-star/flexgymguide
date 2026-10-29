@@ -9,7 +9,7 @@ crumb: "ClassPass på reise"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Gruppetime"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppetime"></div>
 
 ClassPass-abonnementet ditt fungerer ikke bare i din egen by. På ferie, på jobbreise eller hos familien trener du med de samme kredittene i alle land der ClassPass finnes. Du trenger ikke endre noe: du søker bare der du er.
 

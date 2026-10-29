@@ -9,7 +9,7 @@ crumb: "ClassPass"
 kicker: "Træningspas"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Holdtræning"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Holdtræning"></div>
 
 ClassPass er et træningspas: Du betaler et månedligt beløb og får credits til gengæld. Dem bruger du på hold og fitnessbesøg i partnerstudier og fitnesscentre. Så er du ikke bundet til ét sted eller én sportsgren.
 

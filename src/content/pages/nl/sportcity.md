@@ -9,7 +9,7 @@ crumb: "SportCity"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
-<div class="fotobanner foto-sporttas" role="img" aria-label="Sporttas"></div>
+<div class="fotobanner smal foto-sporttas" role="img" aria-label="Sporttas"></div>
 
 SportCity is een sportschoolketen met clubs in heel Nederland. Met een lidmaatschap train je in de gym en doe je mee aan alle live groepslessen. Je kiest zelf hoe lang je vastzit: met Flex zeg je elke maand op.
 

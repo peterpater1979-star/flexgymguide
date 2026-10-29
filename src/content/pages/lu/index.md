@@ -28,8 +28,8 @@ The biggest budget chain in Luxembourg, with clubs in and around the city: Luxem
 | Membership (Flex) | Per four weeks | What you get |
 | --- | --- | --- |
 | Comfort | €34.98 | All clubs in Luxembourg |
-| Premium | €39.98 | All clubs in Europe, bring a friend once a week, massage chairs |
-| Ultimate | €44.98 | All clubs in Europe, bring a friend anytime, massage chairs, sports water, free freeze |
+| Premium | €39.98 | All clubs in 6 countries, bring a friend once a week, massage chairs |
+| Ultimate | €44.98 | All clubs in 6 countries, bring a friend anytime, massage chairs, sports water, free freeze |
 
 On top of that you pay a one-off €19.99 subscription fee. With a yearly contract each membership is €9.99 cheaper per four weeks, but you're tied for a year.
 

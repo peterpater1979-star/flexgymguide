@@ -9,7 +9,7 @@ crumb: "Prueba de ClassPass"
 kicker: "Guía"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Clase dirigida"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Clase dirigida"></div>
 
 Los nuevos miembros pueden probar ClassPass primero. Visitas varios estudios y gimnasios, cada uno una vez. En España tienes ahora 14 días gratis con 10 entrenamientos. En otros países la oferta puede ser distinta; siempre la ves al registrarte.
 

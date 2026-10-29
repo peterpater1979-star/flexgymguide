@@ -9,7 +9,7 @@ crumb: "ClassPass på resa"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Gruppträning"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppträning"></div>
 
 Ditt ClassPass-abonnemang fungerar inte bara i din egen stad. På semester, på tjänsteresa eller hos familjen tränar du med samma krediter i alla länder där ClassPass finns. Du behöver inte ändra något: du söker bara där du är.
 

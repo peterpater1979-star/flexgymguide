@@ -57,24 +57,38 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gymketen"><span>Sin permanencia</span></div>
+
+### VivaGym
+
+Gimnasio con clases colectivas y cuotas sin permanencia.
+
+<div class="knoppen">
+<a class="knop" href="#vivagym">Ver VivaGym</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">
 
-## ClassPass, Basic-Fit y Fitness Park de un vistazo
+## ClassPass, Basic-Fit, Fitness Park y VivaGym de un vistazo
 
 Los precios y las condiciones cambian a menudo. Comprueba siempre la información actual con el proveedor.
 
-| | ClassPass | Basic-Fit | Fitness Park |
-| --- | --- | --- | --- |
-| **Tipo** | Pase deportivo con créditos | Gimnasio económico | Gimnasio con clases colectivas |
-| **Precio** | Plan estándar 59 € al mes (37 créditos) | Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 € | Sin permanencia Classic 37 €, Ultimate 57 € cada 4 semanas; con permanencia desde 27 € |
-| **Permanencia** | Ninguna, cancelas cuando quieras | Un año, o Flex con 4 semanas de preaviso | Con o sin permanencia |
-| **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones | Según el club | Según el club |
-| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en clubes de Europa | Más de 300 clubes en Francia |
-| **Más información** | [Todo sobre ClassPass](/es/classpass/) | [Todo sobre Basic-Fit](/es/basic-fit/) | [Todo sobre Fitness Park](/es/fitness-park/) |
+| | ClassPass | Basic-Fit | Fitness Park | VivaGym |
+| --- | --- | --- | --- | --- |
+| **Tipo** | Pase deportivo con créditos | Gimnasio económico | Gimnasio con clases colectivas | Gimnasio con clases colectivas |
+| **Precio** | Plan estándar 59 € al mes (37 créditos) | Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 € | Sin permanencia Classic 37 €, Ultimate 57 € cada 4 semanas; con permanencia desde 27 € | ONE 32,90 €, FLEX 35,90 €, PRIME 37,90 € al mes |
+| **Permanencia** | Ninguna, cancelas cuando quieras | Un año, o Flex con 4 semanas de preaviso | Con o sin permanencia | Sin permanencia |
+| **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones | Según el club | Según el club | Pase de un día 11,90 € |
+| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en todos los clubes de 6 países | Más de 300 clubes en Francia | Con PRIME también en Portugal |
+| **Más información** | [Todo sobre ClassPass](/es/classpass/) | [Todo sobre Basic-Fit](/es/basic-fit/) | [Todo sobre Fitness Park](/es/fitness-park/) | [Todo sobre VivaGym](/es/vivagym/) |
 
-<p class="klein">Precios de octubre de 2026. Basic-Fit: precios nacionales en España. Fitness Park: precios del club Madrid Príncipe Pío, que pueden variar según el club.</p>
+<p class="klein">Precios de octubre de 2026. Basic-Fit: precios nacionales en España. Fitness Park: precios del club Madrid Príncipe Pío. VivaGym: precios del club Madrid Príncipe de Vergara. Pueden variar según el club.</p>
 
 </div>
 
@@ -164,6 +178,34 @@ Fitness Park es una cadena de gimnasios francesa con 170 clubes en España. En e
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/fitness-park/">Todo sobre Fitness Park</a>
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="vivagym">
+
+<p class="kicker">Gimnasio sin permanencia</p>
+
+## VivaGym en Madrid
+
+VivaGym es una cadena de gimnasios española con más de 240 clubes en España. Eliges entre ONE (tu club), FLEX (los clubes de tu zona) y PRIME (más de 285 clubes en España y Portugal), todas sin permanencia. En el club Madrid Príncipe de Vergara pagas de 32,90 € a 37,90 € al mes; los precios pueden variar según el club.
+
+### Ideal para
+
+- Entrenar tres veces por semana o más
+- Tener clases colectivas sin permanencia
+
+### A tener en cuenta
+
+- Baja antes del día 20 para salir a final de mes
+- Menores de 26: 2 € de descuento al mes
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/vivagym/">Todo sobre VivaGym</a>
+</div>
+
 </div>
 
 </div>

@@ -11,7 +11,7 @@ kicker: "Landengids België"
 
 Geen zin in een lang contract bij één sportschool? Met een sportpas als ClassPass sport je met één abonnement bij verschillende studio's en gyms. Hier lees je hoe dat in België werkt en in welke steden.
 
-<h2 id="opties">Twee manieren om flexibel te sporten</h2>
+<h2 id="opties">Drie manieren om flexibel te sporten</h2>
 
 <div class="kolommen">
 
@@ -47,6 +47,24 @@ Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 pe
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/basic-fit/">Alles over Basic-Fit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
+
+### Jims
+
+Belgische sportschoolketen met meer dan 80 clubs, met fitness en groepslessen met een coach. Vanaf € 39,99 per 4 weken, flexibel opzegbaar met 4 weken opzegtermijn.
+
+- Goed als je groepslessen met een coach wilt
+- Jongeren onder 25: € 10 per 4 weken minder
+- Eén gratis probeerdag per jaar
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/jims/">Alles over Jims</a>
 </div>
 
 </div>

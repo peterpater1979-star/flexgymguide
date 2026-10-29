@@ -9,6 +9,8 @@ crumb: "Treenipassi vai sali?"
 kicker: "Opas"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Levypainoja kuntosalilla"></div>
+
 Voit treenata kahdella tavalla ilman, että olet sidottu yhteen pieneen studioon: treenipassilla, joka käy monessa studiossa, tai jäsenyydellä kuntosaliketjussa, jolla on saleja ympäri kaupunkia. Kumpikin voi olla oikea valinta. Se riippuu lähinnä siitä, kuinka usein treenaat ja kuinka paljon vaihtelua haluat.
 
 <h2 id="lyhyesti">Lyhyesti</h2>

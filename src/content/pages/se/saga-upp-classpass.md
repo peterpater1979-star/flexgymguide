@@ -9,7 +9,7 @@ crumb: "Säga upp ClassPass"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Gruppträning"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppträning"></div>
 
 Du kan alltid säga upp ClassPass, utan avgift och utan uppsägningstid. Gör det minst 48 timmar före ditt förnyelsedatum, och använd dina krediter först: de försvinner när ditt abonnemang tar slut.
 

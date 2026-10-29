@@ -9,7 +9,7 @@ crumb: "Fitness First"
 kicker: "Provider: gym chain"
 ---
 
-<div class="fotobanner foto-fitness-first-uk" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-fitness-first-uk" role="img" aria-label="Gym"></div>
 
 Fitness First has 25 clubs, 17 of them in London and the others in towns such as Bath, Bedford, Milton Keynes and St Albans. A membership gives you the gym floor, group classes and, depending on your tier, access to other clubs. Not sure yet? Try a club first with a guest pass.
 

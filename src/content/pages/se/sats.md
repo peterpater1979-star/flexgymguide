@@ -9,7 +9,7 @@ crumb: "SATS"
 kicker: "Gymkedja"
 ---
 
-<div class="fotobanner foto-sats" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-sats" role="img" aria-label="Gym"></div>
 
 SATS är en nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Finland. I Sverige har SATS över 90 gym, med både gym och gruppträning. Du väljer själv hur många gym du vill ha tillgång till.
 

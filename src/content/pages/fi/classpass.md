@@ -9,7 +9,7 @@ crumb: "ClassPass"
 kicker: "Treenipassi"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Ryhmäliikuntatunti"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Ryhmäliikuntatunti"></div>
 
 ClassPass on treenipassi: maksat kuukausimaksun ja saat sen vastineeksi krediittejä. Niillä varaat tunteja ja kuntosalikäyntejä yhteistyöstudioissa ja -kuntosaleilla. Näin et ole sidottu yhteen paikkaan tai lajiin.
 

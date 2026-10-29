@@ -9,7 +9,7 @@ crumb: "Basic-Fit"
 kicker: "Proveedor: gimnasio económico"
 ---
 
-<div class="fotobanner foto-basic-fit" role="img" aria-label="Gimnasio"></div>
+<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Gimnasio"></div>
 
 Basic-Fit es una cadena de gimnasios económica con clubes en toda España. Eliges una cuota (Comfort, Premium o Ultimate), con contrato anual o con Flex, sin permanencia.
 
@@ -21,7 +21,7 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. Elig
 | **Precio** | Desde 24,99 € cada 4 semanas con contrato anual |
 | **Sin permanencia** | <span class="ja" aria-hidden="true">✓</span> Flex desde 29,98 € cada 4 semanas, 4 semanas de preaviso |
 | **Inscripción** | 19,99 € con Flex |
-| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Con Premium o Ultimate, en clubes de Europa |
+| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Con Premium o Ultimate, en todos los clubes de España, Francia, Bélgica, Países Bajos, Luxemburgo y Alemania |
 
 <p class="klein">Fuente: <a href="https://www.basic-fit.com/es-es/precios">basic-fit.com/es-es/precios</a> (octubre de 2026). En la página aparecía Flex con +4,99 €, pero en una de las preguntas frecuentes ponía 9,99 €: comprueba siempre el precio actual con Basic-Fit.</p>
 
@@ -30,8 +30,8 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. Elig
 | | Contrato anual | Flex | Qué incluye |
 | --- | --- | --- | --- |
 | **Comfort** | 24,99 € | 29,98 € | Todos los clubes de España |
-| **Premium** | 29,99 € | 34,98 € | Clubes de toda Europa, un amigo por semana, sillones de masaje |
-| **Ultimate** | 34,99 € | 39,98 € | Clubes de toda Europa, amigos sin límite, Yanga Sports Water, congelación incluida |
+| **Premium** | 29,99 € | 34,98 € | Clubes de 6 países, un amigo por semana, sillones de masaje |
+| **Ultimate** | 34,99 € | 39,98 € | Clubes de 6 países, amigos sin límite, Yanga Sports Water, congelación incluida |
 
 Precios cada 4 semanas. El contrato anual dura al menos 52 semanas; después te das de baja con 4 semanas de preaviso. La oferta de bienvenida no se aplica a Flex.
 

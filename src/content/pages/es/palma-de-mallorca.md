@@ -57,7 +57,7 @@ Los precios y las condiciones cambian a menudo. Comprueba siempre la informació
 | **Precio** | Depende del número de créditos; el precio varía según la ciudad | Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 € |
 | **Permanencia** | Ninguna, cancelas cuando quieras | Un año, o Flex con 4 semanas de preaviso |
 | **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones | Según el club |
-| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en clubes de Europa |
+| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en todos los clubes de 6 países |
 | **Más información** | [Todo sobre ClassPass](/es/classpass/) | [Todo sobre Basic-Fit](/es/basic-fit/) |
 
 <p class="klein">Precios de octubre de 2026. Basic-Fit: precios nacionales en España.</p>

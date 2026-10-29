@@ -43,22 +43,36 @@ Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gymketen"><span>Met groepslessen</span></div>
+
+### Jims
+
+Sportschoolketen met 3 clubs in Antwerpen, met fitness en groepslessen met een coach.
+
+<div class="knoppen">
+<a class="knop" href="#jims">Bekijk Jims</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overzicht">
 
-## ClassPass en Basic-Fit op een rij
+## ClassPass, Basic-Fit en Jims op een rij
 
 Prijzen en voorwaarden veranderen regelmatig. Kijk altijd bij de aanbieder voor de actuele situatie.
 
-| | ClassPass | Basic-Fit |
-| --- | --- | --- |
-| **Soort** | Sportpas met credits | Sportschoolketen |
-| **Prijs** | 35 credits voor € 49 per maand (standaard) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex € 9,99 per 4 weken meer |
-| **Looptijd** | Geen, altijd opzegbaar | Een jaar, of Flex met 4 weken opzegtermijn |
-| **Eerst proberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 work-outs | Per club |
-| **Buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in clubs in Europa |
-| **Meer weten** | [Alles over ClassPass](/be/classpass/) | [Alles over Basic-Fit](/be/basic-fit/) |
+| | ClassPass | Basic-Fit | Jims |
+| --- | --- | --- | --- |
+| **Soort** | Sportpas met credits | Sportschoolketen | Sportschoolketen met groepslessen |
+| **Prijs** | 35 credits voor € 49 per maand (standaard) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex € 9,99 per 4 weken meer | Vanaf € 39,99 per 4 weken |
+| **Looptijd** | Geen, altijd opzegbaar | Een jaar, of Flex met 4 weken opzegtermijn | Flexibel abonnement met 4 weken opzegtermijn, of jaarabonnement |
+| **Eerst proberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 work-outs | Per club | <span class="ja" aria-hidden="true">✓</span> Eén gratis probeerdag per jaar |
+| **Buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in alle clubs in 6 landen | – |
+| **Meer weten** | [Alles over ClassPass](/be/classpass/) | [Alles over Basic-Fit](/be/basic-fit/) | [Alles over Jims](/be/jims/) |
 
 <p class="klein">Prijzen van oktober 2026. ClassPass: standaardabonnement in België. Basic-Fit: landelijke prijzen in België.</p>
 
@@ -122,6 +136,34 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 230 clubs in België, 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/basic-fit/">Alles over Basic-Fit</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="jims">
+
+<p class="kicker">Sportschoolketen</p>
+
+## Jims in Antwerpen
+
+Jims is een Belgische sportschoolketen met meer dan 80 clubs in België, waarvan 3 in Antwerpen. Je kiest alleen fitness, of ook groepslessen met een coach. Een abonnement begint bij € 39,99 per 4 weken, en jongeren onder 25 betalen € 10 minder.
+
+### Goed voor
+
+- Groepslessen met een coach
+- Drie keer per week of vaker trainen
+
+### Let op
+
+- Flexibel abonnement: 4 weken opzegtermijn
+- Inschrijfkosten normaal € 50, tijdens acties vaak gratis
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/jims/">Alles over Jims</a>
 </div>
 
 </div>

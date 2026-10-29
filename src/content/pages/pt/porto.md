@@ -57,22 +57,36 @@ Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gymketen"><span>Sem fidelização</span></div>
+
+### VivaGym
+
+O antigo Fitness Hut: ginásio com aulas de grupo, sem fidelização.
+
+<div class="knoppen">
+<a class="knop" href="#vivagym">Ver VivaGym</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="visao-geral">
 
-## ClassPass, Element Gyms e Holmes Place num relance
+## ClassPass, Element Gyms, Holmes Place e VivaGym num relance
 
 Os preços e as condições mudam com frequência. Confirma sempre a situação atual com o fornecedor.
 
-| | ClassPass | Element Gyms | Holmes Place |
-| --- | --- | --- | --- |
-| **Tipo** | Passe desportivo com créditos | Cadeia de ginásios low-cost | Clube de fitness premium |
-| **Preço** | Plano padrão 59 € por mês (37 créditos) | Classic 5,99 € por semana | Só é dado quando visitas o clube |
-| **Fidelização** | Nenhuma, cancelas quando quiseres | Sem fidelização | Pergunta no clube |
-| **Experimentar** | <span class="ja" aria-hidden="true">✓</span> 14 dias grátis, 10 treinos | Pergunta no ginásio | <span class="ja" aria-hidden="true">✓</span> Treino experimental de um dia |
-| **No estrangeiro** | <span class="ja" aria-hidden="true">✓</span> Sim, em 31 países | <span class="nee" aria-hidden="true">✗</span> Só em Portugal | Também na Alemanha, Áustria, Suíça e Grécia |
-| **Saber mais** | [Tudo sobre o ClassPass](/pt/classpass/) | [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) | [Tudo sobre o Holmes Place](/pt/holmes-place/) |
+| | ClassPass | Element Gyms | Holmes Place | VivaGym |
+| --- | --- | --- | --- | --- |
+| **Tipo** | Passe desportivo com créditos | Cadeia de ginásios low-cost | Clube de fitness premium | Ginásio com aulas de grupo |
+| **Preço** | Plano padrão 59 € por mês (37 créditos) | Classic 5,99 € por semana | Só é dado quando visitas o clube | Depende do ginásio |
+| **Fidelização** | Nenhuma, cancelas quando quiseres | Sem fidelização | Pergunta no clube | Sem fidelização |
+| **Experimentar** | <span class="ja" aria-hidden="true">✓</span> 14 dias grátis, 10 treinos | Pergunta no ginásio | <span class="ja" aria-hidden="true">✓</span> Treino experimental de um dia | Entrada avulso 11,90 € |
+| **No estrangeiro** | <span class="ja" aria-hidden="true">✓</span> Sim, em 31 países | <span class="nee" aria-hidden="true">✗</span> Só em Portugal | Também na Alemanha, Áustria, Suíça e Grécia | Com PRIME também em Espanha |
+| **Saber mais** | [Tudo sobre o ClassPass](/pt/classpass/) | [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) | [Tudo sobre o Holmes Place](/pt/holmes-place/) | [Tudo sobre o VivaGym](/pt/vivagym/) |
 
 <p class="klein">Preços de outubro de 2026. ClassPass: plano padrão em Portugal. Element Gyms: plano Classic, ginásio Parque das Nações.</p>
 
@@ -164,6 +178,34 @@ No Porto, o Holmes Place tem o clube da Boavista, e há também um clube em Vila
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/holmes-place/">Tudo sobre o Holmes Place</a>
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="vivagym">
+
+<p class="kicker">Ginásio sem fidelização</p>
+
+## VivaGym em Porto
+
+O VivaGym é o antigo Fitness Hut, com mais de 40 ginásios em Portugal. Escolhes entre ONE (o teu ginásio), FLEX (os ginásios da tua zona) e PRIME (também em Espanha), todos sem fidelização. O preço depende do ginásio.
+
+### Ideal para
+
+- Treinar três vezes por semana ou mais
+- Ter aulas de grupo sem fidelização
+
+### Atenção
+
+- Cancela até ao dia 20 para sair no fim do mês
+- Menos de 26 anos: 2 € de desconto por mês
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/vivagym/">Tudo sobre o VivaGym</a>
+</div>
+
 </div>
 
 </div>

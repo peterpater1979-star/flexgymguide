@@ -11,7 +11,7 @@ kicker: "Guia do país Portugal"
 
 Não te apetece um contrato longo num só ginásio? Com um passe desportivo como o ClassPass, uma única subscrição dá-te acesso a vários estúdios e ginásios. Aqui explicamos como funciona em Portugal e em que cidades.
 
-<h2 id="opcoes">Três formas de treinar com flexibilidade</h2>
+<h2 id="opcoes">Quatro formas de treinar com flexibilidade</h2>
 
 <div class="kolommen">
 
@@ -65,6 +65,24 @@ Uma cadeia de clubes premium com 13 clubes em Portugal, todos com ginásio, aula
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/holmes-place/">Tudo sobre o Holmes Place</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Ginásio sem fidelização</span></div>
+
+### VivaGym
+
+O antigo Fitness Hut: mais de 40 ginásios em Portugal, planos ONE, FLEX e PRIME sem fidelização. O preço depende do ginásio.
+
+- Ideal se treinas três vezes por semana ou mais
+- Aulas de grupo incluídas
+- Com PRIME também em Espanha
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/vivagym/">Tudo sobre o VivaGym</a>
 </div>
 
 </div>

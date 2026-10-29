@@ -59,8 +59,8 @@ Basic-Fit is a budget chain with clubs that are open day and night. Besides a 52
 | Flex | Per 4 weeks | What you get |
 | --- | --- | --- |
 | Comfort | €34.98 | All clubs in the Netherlands |
-| Premium | €39.98 | All clubs in Europe, one guest a week, massage chairs |
-| Ultimate | €44.98 | All clubs in Europe, unlimited guests, sports water, free pausing |
+| Premium | €39.98 | All clubs in 6 countries, one guest a week, massage chairs |
+| Ultimate | €44.98 | All clubs in 6 countries, unlimited guests, sports water, free pausing |
 
 All Flex memberships have a one-off joining fee of €19.99. Group classes are included at clubs that offer them. You cancel through My Basic-Fit, the app or the kiosk in the club, with 4 weeks' notice.
 

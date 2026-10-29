@@ -9,7 +9,7 @@ crumb: "Créditos de ClassPass"
 kicker: "Guía"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Clase dirigida"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Clase dirigida"></div>
 
 Con ClassPass no pagas por clase, sino con créditos. Es flexible, pero al principio puede resultar confuso: la misma clase de yoga puede costar distintos créditos el lunes por la mañana que el jueves por la tarde. Así funciona.
 

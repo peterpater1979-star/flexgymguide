@@ -9,7 +9,7 @@ crumb: "ClassPass Probezeit"
 kicker: "Ratgeber"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Gruppenkurs"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppenkurs"></div>
 
 Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studios und Fitnessstudios, jedes einmal. In Deutschland bekommst du derzeit 1 Monat kostenlos mit 10 Workouts, in Österreich und der Schweiz 14 Tage mit 10 Workouts. In anderen Ländern kann das Angebot anders sein; du siehst es immer bei der Anmeldung.
 

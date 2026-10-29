@@ -43,22 +43,36 @@ Nordisk treningskjede med treningssal og gruppetimer.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+
+### EVO
+
+Treningskjede med 24 sentre i Oslo, åpent hver dag 05–24. 439 kr i måneden uten binding.
+
+<div class="knoppen">
+<a class="knop" href="#evo">Se EVO</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overblik">
 
-## ClassPass og SATS kort fortalt
+## ClassPass, SATS og EVO kort fortalt
 
 Priser og vilkår endres ofte. Sjekk alltid oppdatert informasjon hos tilbyderen.
 
-| | ClassPass | SATS |
-| --- | --- | --- |
-| **Type** | Treningspass med kreditter | Treningskjede |
-| **Pris** | 35 kreditter for 569 kr i måneden (standard) | Avhenger av senter og medlemskap |
-| **Binding** | Ingen, si opp når du vil | Spør SATS |
-| **Prøv først** | <span class="ja" aria-hidden="true">✓</span> 14 dager gratis, 10 økter | Spør SATS |
-| **Utlandet** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 land | I hele Norden |
-| **Les mer** | [Alt om ClassPass](/no/classpass/) | [Alt om SATS](/no/sats/) |
+| | ClassPass | SATS | EVO |
+| --- | --- | --- | --- |
+| **Type** | Treningspass med kreditter | Treningskjede | Treningskjede |
+| **Pris** | 35 kreditter for 569 kr i måneden (standard) | Avhenger av senter og medlemskap | 439 kr i måneden uten binding |
+| **Binding** | Ingen, si opp når du vil | Spør SATS | Ingen binding |
+| **Prøv først** | <span class="ja" aria-hidden="true">✓</span> 14 dager gratis, 10 økter | Spør SATS | – |
+| **Utlandet** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 land | I hele Norden | – |
+| **Les mer** | [Alt om ClassPass](/no/classpass/) | [Alt om SATS](/no/sats/) | [Alt om EVO](/no/evo/) |
 
 <p class="klein">Priser fra oktober 2026.</p>
 
@@ -122,6 +136,34 @@ SATS har 78 sentre i Norge, mange av dem i Oslo, for eksempel på Sagene og Carl
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/sats/">Alt om SATS</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="evo">
+
+<p class="kicker">Treningskjede</p>
+
+## EVO i Oslo
+
+EVO Fitness er en treningskjede med sentre over hele Norge, og 24 av dem ligger i Oslo. Sentrene er åpne hver dag fra 05 til 24. Medlemskapet har ingen binding og koster 439 kr i måneden.
+
+### Bra for
+
+- Å trene tre ganger i uken eller mer for lite penger
+- Å slippe binding
+
+### Husk
+
+- EVO har ofte tilbud, så sjekk prisen før du melder deg inn
+- Åpent 05–24, ikke døgnåpent
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/no/evo/">Alt om EVO</a>
 </div>
 
 </div>

@@ -24,7 +24,7 @@ Pas envie d’être lié à une seule salle ? À Lille, tu peux réserver des co
 Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lille">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lille">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
 </div>
 
@@ -86,7 +86,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,90 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Avec ou sans engagement | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans les clubs en Europe | Clubs aussi en Espagne | Une salle à Bruxelles |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays | Clubs aussi en Espagne | Une salle à Bruxelles |
 | **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Basic-Fit](/fr/basic-fit/) | [Tout sur Fitness Park](/fr/fitness-park/) | [Tout sur Keepcool](/fr/keepcool/) |
 
 <p class="klein">Prix d’octobre 2026. Basic-Fit, Fitness Park et Keepcool : prix nationaux en France, qui peuvent varier selon le club.</p>
@@ -122,7 +122,7 @@ Une petite offre en ville, davantage à Marcq-en-Barœul et Wattignies. Yoga et 
 - Résiliable à tout moment
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lille">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lille">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
 

@@ -9,6 +9,8 @@ crumb: "Træningspas eller fitness?"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Vægtskiver i et fitnesscenter"></div>
+
 Der er to måder at træne på uden at være bundet til ét lille studie: et træningspas, der virker i mange studier, eller et medlemskab i en fitnesskæde med centre over hele byen. Begge kan være det rigtige valg. Det afhænger mest af, hvor tit du træner, og hvor meget variation du vil have.
 
 <h2 id="kort">Kort fortalt</h2>

@@ -9,7 +9,7 @@ crumb: "Cancel or pause ClassPass"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Group class"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Group class"></div>
 
 You can cancel ClassPass at any time, with no fee and no notice period. Do it at least 48 hours before your renewal date, and use your credits first: they are gone once your membership ends.
 

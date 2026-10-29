@@ -9,7 +9,7 @@ crumb: "ClassPass-kreditter"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Gruppetime"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppetime"></div>
 
 Med ClassPass betaler du ikke per time, men med kreditter. Det er fleksibelt, men kan være forvirrende i starten: Den samme yogatimen kan koste et annet antall kreditter mandag morgen enn torsdag kveld. Slik fungerer det.
 

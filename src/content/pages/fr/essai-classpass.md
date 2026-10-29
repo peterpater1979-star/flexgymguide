@@ -9,7 +9,7 @@ crumb: "Essai ClassPass"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Cours collectif"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Cours collectif"></div>
 
 Les nouveaux membres peuvent d'abord essayer ClassPass. Tu visites alors plusieurs studios et salles de sport, chacun une fois. En France, tu as actuellement 14 jours gratuits avec 10 séances. Dans d'autres pays, l'offre peut être différente ; tu la vois toujours au moment de t'inscrire.
 
@@ -90,7 +90,7 @@ Non. ClassPass n'a pas de réduction pour les étudiants. Certains employeurs pr
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass expliqués</a>
 <a class="knop knop-rand" href="/fr/resilier-classpass/">Résilier ou suspendre ClassPass</a>
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-essai-classpass">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-essai-classpass">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 <a class="knop knop-rand" href="/fr/classpass-en-voyage/">ClassPass en voyage</a>
 </div>

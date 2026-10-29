@@ -9,7 +9,7 @@ crumb: "ClassPassin kokeilujakso"
 kicker: "Opas"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Ryhmäliikuntatunti"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Ryhmäliikuntatunti"></div>
 
 Uudet jäsenet voivat ensin kokeilla ClassPassia. Käyt silloin useissa studioissa ja kuntosaleilla, jokaisessa kerran. Suomessa saat tällä hetkellä 14 päivää ilmaiseksi ja 10 treeniä. Muissa maissa tarjous voi olla erilainen; näet sen aina rekisteröityessäsi.
 

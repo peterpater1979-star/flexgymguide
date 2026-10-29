@@ -9,7 +9,7 @@ crumb: "ClassPass"
 kicker: "Pase deportivo"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Clase dirigida"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Clase dirigida"></div>
 
 ClassPass es un pase deportivo: pagas una cuota mensual y recibes créditos. Los usas para clases y sesiones en los estudios y gimnasios asociados. Así no dependes de un solo lugar ni de un solo deporte.
 

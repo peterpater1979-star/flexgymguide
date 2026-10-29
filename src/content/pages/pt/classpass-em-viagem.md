@@ -9,7 +9,7 @@ crumb: "ClassPass em viagem"
 kicker: "Guia"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Aula de grupo"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Aula de grupo"></div>
 
 O teu plano ClassPass não funciona só na tua cidade. Nas férias, numa viagem de trabalho ou em casa da família, usas os mesmos créditos em qualquer país onde o ClassPass esteja. Não tens de mudar nada: basta procurar onde estás.
 

@@ -43,22 +43,36 @@ Nordisk gymkedja med gym och gruppträning.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gymketen"><span>Gymkedja</span></div>
+
+### Nordic Wellness
+
+Svensk gymkedja med över 50 klubbar i Stockholmsområdet, med gym och gruppträning. Från 299 kr i månaden.
+
+<div class="knoppen">
+<a class="knop" href="#nordic-wellness">Se Nordic Wellness</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overblik">
 
-## ClassPass och SATS i korthet
+## ClassPass, SATS och Nordic Wellness i korthet
 
 Priser och villkor ändras ofta. Kontrollera alltid aktuell information hos företaget.
 
-| | ClassPass | SATS |
-| --- | --- | --- |
-| **Typ** | Träningspass med krediter | Gymkedja |
-| **Pris** | 34 krediter för 599 kr i månaden (standard) | Beror på gym och medlemskap |
-| **Bindningstid** | Ingen, säg upp när du vill | Fråga SATS |
-| **Prova först** | <span class="ja" aria-hidden="true">✓</span> 14 dagar gratis, 10 träningspass | Fråga SATS |
-| **Utomlands** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 länder | I hela Norden |
-| **Läs mer** | [Allt om ClassPass](/se/classpass/) | [Allt om SATS](/se/sats/) |
+| | ClassPass | SATS | Nordic Wellness |
+| --- | --- | --- | --- |
+| **Typ** | Träningspass med krediter | Gymkedja | Gymkedja med gruppträning |
+| **Pris** | 34 krediter för 599 kr i månaden (standard) | Beror på gym och medlemskap | Från 299 kr i månaden |
+| **Bindningstid** | Ingen, säg upp när du vill | Fråga SATS | Beror på medlemskapet |
+| **Prova först** | <span class="ja" aria-hidden="true">✓</span> 14 dagar gratis, 10 träningspass | Fråga SATS | – |
+| **Utomlands** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 länder | I hela Norden | – |
+| **Läs mer** | [Allt om ClassPass](/se/classpass/) | [Allt om SATS](/se/sats/) | [Allt om Nordic Wellness](/se/nordic-wellness/) |
 
 <p class="klein">Priser från oktober 2026.</p>
 
@@ -122,6 +136,34 @@ SATS har över 90 gym i Sverige, varav 71 i Stockholm. Du väljer mellan Basic (
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/se/sats/">Allt om SATS</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="nordic-wellness">
+
+<p class="kicker">Gymkedja</p>
+
+## Nordic Wellness i Stockholm
+
+Nordic Wellness är en svensk gymkedja med över 400 klubbar, varav över 50 klubbar i Stockholmsområdet. Du tränar på gym och kan boka gruppträning. Medlemskap kostar från 299 kr i månaden.
+
+### Bra för
+
+- Att träna tre gånger i veckan eller mer
+- Gym och gruppträning på samma ställe
+
+### Tänk på
+
+- Bindningstiden beror på medlemskapet
+- Kontrollera pris och villkor hos Nordic Wellness
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/se/nordic-wellness/">Allt om Nordic Wellness</a>
 </div>
 
 </div>

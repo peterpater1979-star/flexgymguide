@@ -9,7 +9,7 @@ crumb: "ClassPass kündigen"
 kicker: "Ratgeber"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Gruppenkurs"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppenkurs"></div>
 
 Du kannst ClassPass jederzeit kündigen, ohne Gebühr und ohne Kündigungsfrist. Tu es mindestens 48 Stunden vor deinem Verlängerungsdatum und nutze vorher deine Credits: Sie verfallen, sobald deine Mitgliedschaft endet.
 

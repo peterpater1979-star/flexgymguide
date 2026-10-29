@@ -9,7 +9,7 @@ crumb: "SATS"
 kicker: "Treningskjede"
 ---
 
-<div class="fotobanner foto-sats" role="img" aria-label="Treningssenter"></div>
+<div class="fotobanner smal foto-sats" role="img" aria-label="Treningssenter"></div>
 
 SATS er en nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finland. I Norge har SATS 78 sentre, med treningssal og gruppetimer på samme sted.
 

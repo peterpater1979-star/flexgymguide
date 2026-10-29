@@ -9,7 +9,7 @@ crumb: "ClassPass op reis"
 kicker: "Gids"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Groepsles"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Groepsles"></div>
 
 Je ClassPass-abonnement werkt niet alleen in je eigen stad. Op vakantie, voor je werk of bij familie sport je met dezelfde credits in elk land waar ClassPass actief is. Je hoeft niets om te zetten: je zoekt gewoon op de plek waar je bent.
 

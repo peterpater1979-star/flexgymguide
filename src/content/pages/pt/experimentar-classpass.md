@@ -9,7 +9,7 @@ crumb: "Experimentar o ClassPass"
 kicker: "Guia"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Aula de grupo"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Aula de grupo"></div>
 
 Os novos membros podem experimentar o ClassPass primeiro. Visitas vários estúdios e ginásios, cada um uma vez. Em Portugal tens atualmente 14 dias grátis com 10 treinos. Noutros países a oferta pode ser diferente; vês sempre quando te inscreves.
 

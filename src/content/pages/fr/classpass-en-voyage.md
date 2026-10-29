@@ -9,7 +9,7 @@ crumb: "ClassPass en voyage"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-classpass" role="img" aria-label="Cours collectif"></div>
+<div class="fotobanner smal foto-classpass" role="img" aria-label="Cours collectif"></div>
 
 Ton abonnement ClassPass ne fonctionne pas seulement dans ta ville. En vacances, en déplacement ou chez de la famille, tu utilises les mêmes crédits dans tous les pays où ClassPass est présent. Rien à changer : tu cherches simplement là où tu es.
 
@@ -88,6 +88,6 @@ Oui, entre autres aux États-Unis, au Japon, en Australie et à Singapour. La li
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/credits-classpass/">Les crédits ClassPass expliqués</a>
 <a class="knop knop-rand" href="/fr/essai-classpass/">Essai gratuit de 14 jours</a>
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-en-voyage">Essai gratuit de 14 jours</a>
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-en-voyage">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>

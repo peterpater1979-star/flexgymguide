@@ -71,6 +71,24 @@ Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den Preis erfährst 
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mcfit"><span>Günstige Fitnesskette</span></div>
+
+### McFit
+
+Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 € im Monat, mit 12 Monaten Laufzeit ab 24,90 €.
+
+- Gut, wenn du günstig und oft trainieren willst
+- Flex: monatlich kündbar
+- Einmalig 30 € für das Starterpaket
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
 </div>
 
 <h2 id="steden">Wo funktioniert ClassPass?</h2>

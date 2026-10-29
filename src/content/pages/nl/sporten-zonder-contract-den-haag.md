@@ -66,8 +66,8 @@ Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaa
 | Flex | Per 4 weken | Wat je krijgt |
 | --- | --- | --- |
 | Comfort | € 34,98 | Alle clubs in Nederland |
-| Premium | € 39,98 | Alle clubs in Europa, één gast per week, massagestoelen |
-| Ultimate | € 44,98 | Alle clubs in Europa, onbeperkt gasten, sportwater, gratis pauzeren |
+| Premium | € 39,98 | Alle clubs in 6 landen, één gast per week, massagestoelen |
+| Ultimate | € 44,98 | Alle clubs in 6 landen, onbeperkt gasten, sportwater, gratis pauzeren |
 
 Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) en [Alles over Basic-Fit](/nl/basic-fit/).
 

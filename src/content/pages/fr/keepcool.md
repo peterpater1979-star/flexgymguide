@@ -9,7 +9,7 @@ crumb: "Keepcool"
 kicker: "Fournisseur : salle de sport"
 ---
 
-<div class="fotobanner foto-keepcool" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-keepcool" role="img" aria-label="Salle de sport"></div>
 
 Keepcool est une chaîne française de salles de sport, avec plus de 270 salles en France selon Keepcool, et aussi en outre-mer et à Bruxelles. La particularité : des coachs dans la salle et des cours en petits groupes (Small Groups). Tu choisis un abonnement avec engagement d’un an, ou sans engagement.
 
