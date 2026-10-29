@@ -99,6 +99,8 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 
 .fotobanner { height: 240px; margin: 0 0 1.5rem; border-radius: var(--radius); background: linear-gradient(rgba(1, 122, 120, .1), rgba(1, 90, 88, .25)), var(--foto, none) center / cover, var(--accent); }
 @media (max-width: 640px) { .fotobanner { height: 180px; } }
+.fotobanner.smal { max-width: 66.667%; }
+@media (max-width: 640px) { .fotobanner.smal { max-width: none; } }
 /* Foto's voor de fotokoppen: hier wisselen, dan verandert het op alle pagina's */
 .foto-classpass { --foto: url(/img/foto/classpass.jpg); }
 .foto-gymketen { --foto: url(/img/foto/gymketen.jpg); }
