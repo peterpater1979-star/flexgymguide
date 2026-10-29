@@ -7,6 +7,11 @@ const huidig = menu.main.find((m) => m.land === land);
 const pad = Astro.url.pathname;
 // De stedenbalk alleen op stadspagina's; op de landpagina staat de inhoud eerst.
 const toonSteden = huidig && huidig.children.length > 0 && pad !== huidig.href;
+// Op mobiel: de eerste 3 steden in de rij, de rest onder een uitklapknop.
+const stadItems = toonSteden ? huidig.children.filter((c) => c.href !== huidig.href) : [];
+const RIJ = 3;
+const extra = stadItems.length > RIJ + 1 ? stadItems.slice(RIJ) : [];
+const meerLabel = { nl: 'Meer', de: 'Mehr', en: 'More', fr: 'Plus', es: 'Más', pt: 'Mais', da: 'Flere', sv: 'Fler', nb: 'Flere', fi: 'Lisää' }[lang as 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt' | 'da' | 'sv' | 'nb' | 'fi'];
 ---
 <header>
   <div class="wrap bar">
@@ -22,8 +27,18 @@ const toonSteden = huidig && huidig.children.length > 0 && pad !== huidig.href;
     <nav class="sub" aria-label={huidig.label}>
       <div class="wrap">
         <ul>
-          <li><a href={huidig.href} aria-current={pad === huidig.href ? 'page' : undefined}>{huidig.label}</a></li>
-          {huidig.children.filter((c) => c.href !== huidig.href).map((c) => <li><a href={c.href} aria-current={pad === c.href ? 'page' : undefined}>{c.label}</a></li>)}
+          <li class={extra.length ? 'land' : undefined}><a href={huidig.href} aria-current={pad === huidig.href ? 'page' : undefined}>{huidig.label}</a></li>
+          {stadItems.map((c, i) => <li class={extra.length && i >= RIJ && pad !== c.href ? 'extra' : undefined}><a href={c.href} aria-current={pad === c.href ? 'page' : undefined}>{c.label}</a></li>)}
+          {extra.length > 0 && (
+            <li class="meer">
+              <details>
+                <summary>{meerLabel}</summary>
+                <ul>
+                  {extra.map((c) => <li><a href={c.href} aria-current={pad === c.href ? 'page' : undefined}>{c.label}</a></li>)}
+                </ul>
+              </details>
+            </li>
+          )}
         </ul>
       </div>
     </nav>
@@ -43,9 +58,17 @@ const toonSteden = huidig && huidig.children.length > 0 && pad !== huidig.href;
   .sub ul { padding-block: .55rem; }
   .sub a { font-weight: 500; font-size: .9rem; color: var(--muted); }
   .sub a[aria-current='page'] { color: var(--accent); font-weight: 600; }
+  .meer { display: none; }
   @media (max-width: 40rem) {
-    .sub ul { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; gap: 1rem; -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); mask-image: linear-gradient(to right, #000 85%, transparent); }
-    .sub ul::-webkit-scrollbar { display: none; }
-    .sub li { flex: none; }
+    .sub ul { gap: .35rem 1rem; }
+    .sub .extra, .sub .land { display: none; }
+    .sub .meer { display: block; }
+    .sub .wrap { position: relative; }
+    .meer summary { cursor: pointer; list-style: none; font-weight: 600; font-size: .9rem; color: var(--accent); }
+    .meer summary::-webkit-details-marker { display: none; }
+    .meer summary::after { content: ' ▾'; }
+    .meer details[open] summary::after { content: ' ▴'; }
+    .meer details ul { position: absolute; left: 1rem; right: 1rem; top: calc(100% - .1rem); columns: 2; column-gap: 0; z-index: 20; display: block; max-height: 60vh; overflow-y: auto; padding: .4rem 0; background: var(--white); border: 1px solid var(--line); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,.12); }
+    .meer details li a { display: block; padding: .55rem 1rem; }
   }
 </style>
