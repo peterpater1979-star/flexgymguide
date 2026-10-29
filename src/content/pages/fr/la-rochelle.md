@@ -55,7 +55,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass | Keepcool |
 | --- | --- | --- |
 | **Type** | Pass sport à crédits | Salle de sport avec coachs |
-| **Prix** | Dépend du nombre de crédits ; le prix varie selon la ville | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,90 € sans engagement |
+| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,90 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Une salle à Bruxelles |
@@ -80,6 +80,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
+- Abonnement standard à La Rochelle : 37 crédits pour 59 € par mois
 - 14 jours gratuits avec 10 séances pour essayer
 - Ça marche aussi dans plus de 2 500 villes et 31 pays
 
