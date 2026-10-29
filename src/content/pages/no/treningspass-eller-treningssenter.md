@@ -9,6 +9,8 @@ crumb: "Treningspass eller senter?"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Vektskiver på et treningssenter"></div>
+
 Det finnes to måter å trene på uten å være bundet til ett lite studio: et treningspass som fungerer på mange studioer, eller et medlemskap i en treningssenterkjede med sentre over hele byen. Begge kan være riktig valg. Det avhenger mest av hvor ofte du trener og hvor mye variasjon du vil ha.
 
 <h2 id="kort">Kort fortalt</h2>

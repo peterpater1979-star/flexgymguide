@@ -9,6 +9,8 @@ crumb: "Sportpass oder Mitgliedschaft?"
 kicker: "Ratgeber"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Hantelscheiben im Fitnessstudio"></div>
+
 Du kannst auf zwei Arten flexibel trainieren: mit einem Sportpass, der in vielen Studios funktioniert, oder mit einer Mitgliedschaft bei einer Fitnessstudiokette mit Clubs in der ganzen Stadt. Beides kann die richtige Wahl sein. Es hängt vor allem davon ab, wie oft du trainierst und wie viel Abwechslung du willst.
 
 <h2 id="kurz">Kurz gesagt</h2>

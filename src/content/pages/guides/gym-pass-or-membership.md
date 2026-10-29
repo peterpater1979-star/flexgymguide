@@ -9,6 +9,8 @@ crumb: "Gym pass or gym membership?"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Weight plates in a gym"></div>
+
 There are two ways to train without being tied to one small studio: a fitness pass that works at many studios, or a membership at a gym chain with clubs across the city. Both can be the right choice. It mostly depends on how often you train and how much variety you want.
 
 <h2 id="short">In short</h2>

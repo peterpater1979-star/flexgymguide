@@ -9,6 +9,8 @@ crumb: "Träningspass eller gym?"
 kicker: "Guide"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Viktskivor på ett gym"></div>
+
 Det finns två sätt att träna utan att vara bunden till en enda liten studio: ett träningspass som fungerar på många studior, eller ett medlemskap på en gymkedja med anläggningar över hela staden. Båda kan vara rätt val. Det beror mest på hur ofta du tränar och hur mycket variation du vill ha.
 
 <h2 id="kort">Kort sagt</h2>

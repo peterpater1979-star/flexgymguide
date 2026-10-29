@@ -9,6 +9,8 @@ crumb: "Passe ou ginásio?"
 kicker: "Guia"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Discos de pesos num ginásio"></div>
+
 Há duas formas de treinar sem ficares preso a um só estúdio pequeno: um passe desportivo que funciona em muitos estúdios, ou uma mensalidade numa cadeia de ginásios com espaços por toda a cidade. Ambas podem ser a escolha certa. Depende sobretudo de quantas vezes treinas e de quanta variedade queres.
 
 <h2 id="resumo">Em resumo</h2>

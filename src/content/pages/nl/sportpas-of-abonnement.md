@@ -9,6 +9,8 @@ crumb: "Sportpas of abonnement?"
 kicker: "Gids"
 ---
 
+<div class="fotobanner foto-gewichten" role="img" aria-label="Gewichten in een sportschool"></div>
+
 Je kunt op twee manieren flexibel sporten: met een sportpas die bij veel studio's werkt, of met een abonnement bij een sportschoolketen met clubs door de hele stad. Allebei kan een goede keuze zijn. Het hangt vooral af van hoe vaak je traint en hoeveel afwisseling je wilt.
 
 <h2 id="kort">In het kort</h2>
