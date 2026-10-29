@@ -76,7 +76,7 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 
 ### VivaGym
 
-Cadena de gimnasios española con más de 240 clubes en España. Cuotas ONE, FLEX y PRIME sin permanencia; el precio depende del club.
+Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia: en el club Madrid Príncipe de Vergara ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes.
 
 - Ideal si entrenas tres veces por semana o más
 - Clases colectivas incluidas

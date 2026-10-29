@@ -11,7 +11,7 @@ kicker: "Proveedor: gimnasio"
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Gimnasio"></div>
 
-VivaGym es una cadena de gimnasios española con más de 240 clubes en España y más de 40 en Portugal. Las cuotas son sin permanencia: eliges entre ONE, FLEX y PRIME. El precio depende del club; lo ves en la página de tu gimnasio en vivagym.com.
+VivaGym es una cadena de gimnasios española con más de 240 clubes en España y más de 40 en Portugal. Las cuotas son sin permanencia: eliges entre ONE, FLEX y PRIME. En el club Madrid Príncipe de Vergara pagas de 32,90 € a 37,90 € al mes. Los precios pueden variar según el club.
 
 <h2 id="resumen">En resumen</h2>
 
@@ -20,20 +20,24 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España y
 | **Tipo** | Gimnasio con clases colectivas |
 | **Clubes** | Más de 240 en España |
 | **Sin permanencia** | <span class="ja" aria-hidden="true">✓</span> ONE, FLEX y PRIME |
-| **Precio** | Según el club, en la página de cada gimnasio |
+| **Precio** | ONE 32,90 €, FLEX 35,90 €, PRIME 37,90 € al mes |
+| **Matrícula** | 29 € |
 | **Pase de un día** | 11,90 € |
 | **Menores de 26** | 2 € de descuento al mes (ONE Student) |
 | **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Con PRIME también en Portugal |
 
-<p class="klein">Fuente: <a href="https://www.vivagym.com/es-es/cuotas/">vivagym.com</a> y sus <a href="https://www.vivagym.com/es-es/preguntas-frecuentes/">preguntas frecuentes</a> (octubre de 2026). Comprueba siempre la información actual con VivaGym.</p>
+<p class="klein">Precios del club Madrid Príncipe de Vergara (octubre de 2026). Pueden variar según el club. Fuente: <a href="https://www.vivagym.com/es-es/cuotas/">vivagym.com</a> y sus <a href="https://www.vivagym.com/es-es/preguntas-frecuentes/">preguntas frecuentes</a> (octubre de 2026). Comprueba siempre la información actual con VivaGym.</p>
 
 <h2 id="cuotas">Las cuotas</h2>
 
 | | ONE | FLEX | PRIME |
 | --- | --- | --- | --- |
+| **Al mes** | 32,90 € | 35,90 € | 37,90 € |
 | **Clubes** | Tu club | Los clubes de tu zona | Más de 285 clubes en España y Portugal |
 | **Clases** | 1 al día, reserva 2 horas antes | 1 al día, reserva 48 horas antes | 2 al día, reserva 7 días antes |
 | **Invitados** | <span class="nee" aria-hidden="true">✗</span> | 15 invitaciones de fin de semana | 20 invitaciones de fin de semana |
+
+<p class="klein">Precios del club Madrid Príncipe de Vergara, octubre de 2026. La matrícula es de 29 €; a menudo hay promociones con matrícula gratis.</p>
 
 Algunos clubes ofrecen además una cuota con 12 meses de permanencia, a un precio mensual más bajo. En algunos clubes pagas también un seguro de accidentes anual (7 € si te apuntas entre enero y junio, luego 1 € menos cada mes).
 
@@ -97,7 +101,7 @@ No. Las cuotas ONE, FLEX y PRIME son sin permanencia. Algunos clubes ofrecen tam
 <details>
 <summary>¿Cuánto cuesta VivaGym?</summary>
 
-Depende del club. VivaGym muestra el precio en la página de cada gimnasio. Un pase de un día cuesta 11,90 €.
+En el club Madrid Príncipe de Vergara: ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes, más 29 € de matrícula (octubre de 2026). Los precios pueden variar según el club. Un pase de un día cuesta 11,90 €.
 
 </details>
 
