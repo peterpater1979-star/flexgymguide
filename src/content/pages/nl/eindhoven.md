@@ -53,22 +53,36 @@ Eigen clubs met gym en groepslessen: 2 in Eindhoven, 53 in heel Nederland. Bij L
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-basic-fit"><span>Voordelige sportschool</span></div>
+
+### Basic-Fit
+
+Voordelige sportschoolketen met 6 clubs in Eindhoven, veel dag en nacht open.
+
+<div class="knoppen">
+<a class="knop" href="#basic-fit">Bekijk Basic-Fit</a>
+</div>
+
+</div>
+
 </div>
 
 <h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
 
-| Kenmerk | ClassPass | Trainmore | SportCity |
-| --- | --- | --- | --- |
-| **Soort** | Sportpas met credits | Sportschoolketen | Sportschoolketen |
-| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout bij een contract | Bij Gerarduskerk € 52,99 tot € 64,99 per 4 wkn (City One) |
-| **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | City One (één club) of City Plus (121 clubs) |
-| **Locaties in Eindhoven** | Studio's in het centrum, op Strijp-S, in Stratum en daarbuiten | 2 clubs (53 in heel Nederland) | 3 clubs (121 in heel Nederland) |
-| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Lichttoren: Flex € 87, 1 jaar € 67, 2 jaar € 60 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> | Flex maandelijks opzegbaar, met een maand opzegtermijn |
-| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> Dagpas via de club |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
-| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) | [Alles over SportCity](/nl/sportcity/) |
+| Kenmerk | ClassPass | Trainmore | SportCity | Basic-Fit |
+| --- | --- | --- | --- | --- |
+| **Soort** | Sportpas met credits | Sportschoolketen | Sportschoolketen | Voordelige sportschoolketen |
+| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout bij een contract | Bij Gerarduskerk € 52,99 tot € 64,99 per 4 wkn (City One) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
+| **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | City One (één club) of City Plus (121 clubs) | Abonnement bij een sportschoolketen, veel clubs dag en nacht open |
+| **Locaties in Eindhoven** | Studio's in het centrum, op Strijp-S, in Stratum en daarbuiten | 2 clubs (53 in heel Nederland) | 3 clubs (121 in heel Nederland) | 6 clubs (meer dan 250 in Nederland) |
+| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Lichttoren: Flex € 87, 1 jaar € 67, 2 jaar € 60 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> | Flex maandelijks opzegbaar, met een maand opzegtermijn | Jaarabonnement, of Flex met 4 weken opzegtermijn |
+| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> Dagpas via de club | – |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | Met Premium of Ultimate, in alle clubs in 6 landen |
+| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) | [Alles over SportCity](/nl/sportcity/) | [Alles over Basic-Fit](/nl/basic-fit/) |
 
 <div id="classpass" class="aanbieder">
 
@@ -183,6 +197,30 @@ SportCity heeft 3 clubs in Eindhoven: Gerarduskerk, Mecklenburgstraat en Bisscho
 Bij Flex betaal je € 9,99 inschrijfgeld, in plaats van de gewone € 14,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Meer in [Alles over SportCity](/nl/sportcity/).
 
 <p class="klein">Bron: de inschrijfpagina van SportCity Eindhoven Gerarduskerk en sportcity.nl/eindhoven (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
+
+<div id="basic-fit" class="aanbieder">
+
+<p class="kicker">Sportschoolketen</p>
+
+## Basic-Fit in Eindhoven
+
+Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland, waarvan 6 in Eindhoven. Veel clubs zijn dag en nacht open. Een jaarabonnement begint bij € 24,99 per 4 weken. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
+
+### Goed voor
+
+- Drie keer per week of vaker trainen voor weinig geld
+- Een vaste sportschool dicht bij huis of werk
+
+### Let op
+
+- Flex: 4 weken opzegtermijn
+- Met Comfort train je alleen in Nederland, met Premium of Ultimate ook in 5 andere landen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
+</div>
+
+</div>
 
 ## Welke past bij jou?
 

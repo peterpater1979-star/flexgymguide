@@ -55,24 +55,38 @@ Low-cost gyms without a contract, most of them open 24/7.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+
+### PureGym
+
+Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.99 a month.
+
+<div class="knoppen">
+<a class="knop" href="#puregym">See PureGym</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overview">
 
-## ClassPass, Fitness First and The Gym Group at a glance
+## ClassPass, Fitness First, The Gym Group and PureGym at a glance
 
 Prices and terms change regularly. Always check the latest details with the provider.
 
-| Feature | ClassPass | Fitness First | The Gym Group |
-| --- | --- | --- | --- |
-| **Type** | Fitness pass with credits | Gym chain | Low-cost gym chain |
-| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate |
-| **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below | Membership at your home gym, classes included. Ultimate adds access to other gyms |
-| **Locations in London** | Studios and gyms across the city | 17 clubs (25 in total) | 87 gyms (over 260 in the UK) |
-| **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost | No contract on monthly plans. Saver plans run 9 or 12 months |
-| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass | Day pass |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only |
-| **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) | [All about The Gym Group](/uk/the-gym-group/) |
+| Feature | ClassPass | Fitness First | The Gym Group | PureGym |
+| --- | --- | --- | --- | --- |
+| **Type** | Fitness pass with credits | Gym chain | Low-cost gym chain | Budget gym chain |
+| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
+| **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below | Membership at your home gym, classes included. Ultimate adds access to other gyms | Membership at your home gym, classes included at most gyms |
+| **Locations in London** | Studios and gyms across the city | 17 clubs (25 in total) | 87 gyms (over 260 in the UK) | 90 gyms (over 450 in the UK) |
+| **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost | No contract on monthly plans. Saver plans run 9 or 12 months | No contract, cancel any time |
+| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass | Day pass | – |
+| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only | – |
+| **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) | [All about The Gym Group](/uk/the-gym-group/) | [All about PureGym](/uk/puregym/) |
 
 </div>
 
@@ -143,6 +157,35 @@ Fitness First has 25 clubs, 17 of them in London. A membership gives you the gym
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="puregym">
+
+<p class="kicker">Budget gym chain</p>
+
+## PureGym in London
+
+PureGym is a budget gym chain with over 450 gyms in the UK, including 90 gyms in London. Most are open 24/7. Every plan is without a contract, prices start at £18.99 a month for Off-Peak, and classes are included at most gyms.
+
+### Good for
+
+- Training three times a week or more for little money
+- Not being tied to a contract
+
+### Keep in mind
+
+- The price differs per gym
+- Off-Peak only gives access outside peak hours
+- Joining fee from £10
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
 </div>

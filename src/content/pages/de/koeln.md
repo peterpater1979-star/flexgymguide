@@ -57,24 +57,38 @@ Günstige Fitnesskette mit über 230 Studios, auch in Köln. Flex ohne feste Lau
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
+
+### Holmes Place
+
+Premium-Fitnessclub mit Service, Kursen und Wellness, mit 1 Club in Köln.
+
+<div class="knoppen">
+<a class="knop" href="#holmes-place">Holmes Place ansehen</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="ueberblick">
 
-## ClassPass, Fitness First und McFit auf einen Blick
+## ClassPass, Fitness First, McFit und Holmes Place auf einen Blick
 
 Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.
 
-| Merkmal | ClassPass | Fitness First | McFit |
-| --- | --- | --- | --- |
-| **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette |
-| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € |
-| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Flex oder Vertrag über 12 oder 24 Monate, Zugang zu allen McFit-Studios |
-| **Standorte in Köln** | Studios in der Innenstadt, Belgischen Viertel, Ehrenfeld, Nippes und Südstadt | 14 Clubs | Mehrere Studios in Köln |
-| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten |
-| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | Mit Flex ohne lange Bindung |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich | <span class="ja" aria-hidden="true">✓</span> Über 230 Studios in Europa |
-| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) |
+| Merkmal | ClassPass | Fitness First | McFit | Holmes Place |
+| --- | --- | --- | --- | --- |
+| **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette | Premium-Fitnessclub |
+| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € | Nicht online; du erfährst ihn im Club |
+| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Flex oder Vertrag über 12 oder 24 Monate, Zugang zu allen McFit-Studios | Mitgliedschaft mit Service, Kursen und Wellness |
+| **Standorte in Köln** | Studios in der Innenstadt, Belgischen Viertel, Ehrenfeld, Nippes und Südstadt | 14 Clubs | Mehrere Studios in Köln | 1 Club (14 in Deutschland) |
+| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten | – |
+| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | Mit Flex ohne lange Bindung | – |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich | <span class="ja" aria-hidden="true">✓</span> Über 230 Studios in Europa | Auch in Wien, der Schweiz, Portugal und Griechenland |
+| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) | [Alles über Holmes Place](/de/holmes-place/) |
 
 </div>
 
@@ -184,6 +198,34 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="holmes-place">
+
+<p class="kicker">Premium-Club</p>
+
+## Holmes Place in Köln
+
+Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland, davon 1 in Köln. Die Clubs setzen auf Service, Kurse und Entspannung. Den Preis nennt Holmes Place nicht online; du erfährst ihn bei einem Besuch im Club.
+
+### Gut für
+
+- Alle, denen Service und Wellness wichtig sind
+- Kurse und Training an einem festen Ort
+
+### Achte darauf
+
+- Teurer als eine normale Fitnesskette
+- Frag beim Besuch nach Laufzeit und Kündigungsfrist
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
 </div>
 
 </div>

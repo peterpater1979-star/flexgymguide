@@ -43,24 +43,38 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-mcfit"><span>Günstige Fitnesskette</span></div>
+
+### McFit
+
+Günstiges Gym mit mehreren Studios in Wien. Flex ab 34,90 € im Monat.
+
+<div class="knoppen">
+<a class="knop" href="#mcfit">McFit ansehen</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="ueberblick">
 
-## ClassPass und Fitness First auf einen Blick
+## ClassPass, Fitness First und McFit auf einen Blick
 
 Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.
 
-| Merkmal | ClassPass | Fitness First |
-| --- | --- | --- |
-| **Art** | Sportpass mit Credits | Fitnessstudiokette |
-| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
-| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Wien** | Studios in Mariahilf, der Inneren Stadt, Landstraße, Neubau, Wieden und mehr | 4 Clubs in und um Wien, darunter Vösendorf |
-| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
-| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | Auch 220 Clubs in Deutschland |
-| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
+| Merkmal | ClassPass | Fitness First | McFit |
+| --- | --- | --- | --- |
+| **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette |
+| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft | Flex ab 34,90 €, mit 12 Monaten ab 24,90 € |
+| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Mitgliedschaft für alle McFit-Studios |
+| **Standorte in Wien** | Studios in Mariahilf, der Inneren Stadt, Landstraße, Neubau, Wieden und mehr | 4 Clubs in und um Wien, darunter Vösendorf | Mehrere Studios in Wien |
+| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst 12 Monate |
+| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | – |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | Auch 220 Clubs in Deutschland | Über 230 Studios in Deutschland, Österreich und Italien |
+| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) |
 
 </div>
 
@@ -135,6 +149,34 @@ Fitness First hat 4 Clubs in und um Wien, darunter Vösendorf, dazu 220 Clubs in
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="mcfit">
+
+<p class="kicker">Fitnessstudiokette</p>
+
+## McFit in Wien
+
+McFit ist eine günstige Fitnessstudiokette mit über 230 Studios in Deutschland, Österreich und Italien, darunter mehrere in Wien. In Österreich kostet Flex ohne Mindestlaufzeit ab 34,90 € im Monat, mit 12 Monaten Laufzeit ab 24,90 €. Dazu kommen einmalig 30 € für das Starterpaket.
+
+### Gut für
+
+- Alle, die günstig und oft an Geräten trainieren
+- Alle, die monatlich kündbar bleiben wollen
+
+### Achte darauf
+
+- Einmalig 30 € für das Starterpaket
+- Weniger Kurse und Extras als bei Fitness First
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
 </div>
 
 </div>
