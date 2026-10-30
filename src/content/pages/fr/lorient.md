@@ -95,6 +95,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre : Rythme Yoga Lorient (rue du Sous-Marin Vénus), un studio de yoga chaleureux, ouvert depuis 2022.
 
+[Voir les studios à Lorient sur ClassPass](/go/classpass-fr-lorient/?epi=fgg-fr-lorient)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
