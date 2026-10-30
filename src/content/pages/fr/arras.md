@@ -77,6 +77,10 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Une petite offre : Studio Pilates Arras (rue Émile Legrelle), avec des cours de Pilates pour tous les niveaux.
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
