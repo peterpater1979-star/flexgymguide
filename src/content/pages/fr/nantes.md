@@ -109,6 +109,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Bouffay, Madeleine, Coudray et Jamet. Yoga, Pilates et renforcement musculaire, et aussi à Saint-Herblain.
 
+[Voir les studios à Nantes sur ClassPass](/go/classpass-fr-nantes/?epi=fgg-fr-nantes)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
