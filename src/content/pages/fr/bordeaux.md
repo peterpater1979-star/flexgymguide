@@ -109,6 +109,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Chartrons, Saint-Pierre, Saint-Genès, Pey-Berland et la Bastide. Surtout du yoga et du Pilates, et aussi à Talence, Pessac, Mérignac et au Bouscat.
 
+[Voir les studios à Bordeaux sur ClassPass](/go/classpass-fr-bordeaux/?epi=fgg-fr-bordeaux)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
