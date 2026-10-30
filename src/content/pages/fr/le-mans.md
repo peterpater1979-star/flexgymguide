@@ -95,6 +95,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre : Nü Form Pilates (place Aristide Briand), Pilates Reformer et Hot Pilates, et Bear Hug Crossfit (rue du Fouillet), box de CrossFit pour tous les niveaux.
 
+[Voir les studios au Mans sur ClassPass](/go/classpass-fr-le-mans/?epi=fgg-fr-le-mans)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
