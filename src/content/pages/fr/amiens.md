@@ -95,6 +95,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre : Swim Stars à Amiens (natation, pour adultes et enfants) et GYM K à Glisy, juste à l’est de la ville (salle de sport avec cours collectifs et aquatiques, musculation et vélo).
 
+[Voir les studios à Amiens sur ClassPass](/go/classpass-fr-amiens/?epi=fgg-fr-amiens)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
