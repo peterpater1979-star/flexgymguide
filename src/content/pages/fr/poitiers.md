@@ -95,6 +95,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre : Pandora Studio (rue du Chemin Vert), séances d’électrostimulation, une adresse premium de ClassPass Wellness.
 
+[Voir les studios à Poitiers sur ClassPass](/go/classpass-fr-poitiers/?epi=fgg-fr-poitiers)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
