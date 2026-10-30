@@ -81,6 +81,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Pour l’instant, ClassPass ne propose pas de studio à Tours. Vérifie l’offre dans l’application avant de t’abonner. Tes crédits marchent dans les autres villes, par exemple à [Orléans](/fr/orleans/) ou [Poitiers](/fr/poitiers/).
 
+[Voir l’offre actuelle à Tours sur ClassPass](/go/classpass-fr-tours/?epi=fgg-fr-tours)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
