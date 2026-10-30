@@ -109,6 +109,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre dans le centre. Pilates et renforcement musculaire.
 
+[Voir les studios à Rennes sur ClassPass](/go/classpass-fr-rennes/?epi=fgg-fr-rennes)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
