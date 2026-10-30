@@ -109,6 +109,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Surtout dans le centre historique, autour du cours Mirabeau, et aussi aux Milles. Beaucoup de Pilates, du renforcement musculaire et de la boxe, et aussi à Éguilles et Venelles.
 
+[Voir les studios à Aix-en-Provence sur ClassPass](/go/classpass-fr-aix-en-provence/?epi=fgg-fr-aix-en-provence)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
