@@ -77,6 +77,10 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+En ville, AOC Yoga (rue de Gramont, yoga en français et en anglais). L’essentiel de l’offre est à Biarritz, à 10 minutes : YOGANG (yoga, aussi en version chaude, et Pilates), AOC Yoga, Maison Sportive (Pilates), QG Boxing Gym (cardio-boxing) et le club premium Mouvement (musculation, natation). À Anglet, L’Escale Electrofit propose de l’électrostimulation.
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
