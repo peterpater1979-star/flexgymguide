@@ -93,7 +93,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre : The New Me (rue la Tour d’Auvergne, Pilates Reformer), Nemea Health Club à Fontgiève et à Cournon-d’Auvergne (salle de sport, musculation et étirements), DHARMA YOGA (yoga, aussi prénatal et postnatal) et Sensorium Studio (yoga et étirements).
+Une petite offre : The New Me (rue la Tour d’Auvergne, Pilates Reformer), Nemea Health Club à Fontgiève et à Cournon-d’Auvergne (salle de sport, musculation et étirements), DHARMA YOGA (yoga, aussi postnatal) et Sensorium Studio (yoga et étirements).
 
 ### Ce que tu as
 
