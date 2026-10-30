@@ -95,6 +95,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une belle offre dans le centre, surtout autour de l’avenue du Parmelan : Pilates Reformer chez The New Me, Lagree chez Moon, yoga et Pilates dans la pénombre chez RIISE et indoor cycling chez Dynamo Cycling. Aussi be. et BFS Studio (Pilates, yoga), ReActivCare (Pilates, aussi postnatal) et, à Argonay, le BootCamp d’Eclips (course et renforcement).
 
+[Voir les studios à Annecy sur ClassPass](/go/classpass-fr-annecy/?epi=fgg-fr-annecy)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
