@@ -91,6 +91,10 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Une petite offre : L’Appart Fitness place de l’Hôtel de Ville et cours Fauriel (musculation, cardio et cours collectifs), et Pilates In the City (rue Bergson), premier club de Pilates Reformer premium de la ville.
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
