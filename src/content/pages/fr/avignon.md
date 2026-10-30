@@ -95,6 +95,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre, surtout des salles de sport : easyGym dans le centre (passage de l’Oratoire) et aux Angles, de l’autre côté du Rhône (cardio, musculation, aussi du yoga et des étirements), et 4D Gym Club au Thor (ouvert 24 h/24, 7 j/7).
 
+[Voir les studios à Avignon sur ClassPass](/go/classpass-fr-avignon/?epi=fgg-fr-avignon)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
