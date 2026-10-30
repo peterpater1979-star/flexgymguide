@@ -81,6 +81,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre : Studio Pilates Arras (rue Émile Legrelle), avec des cours de Pilates pour tous les niveaux.
 
+[Voir les studios à Arras sur ClassPass](/go/classpass-fr-arras/?epi=fgg-fr-arras)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
