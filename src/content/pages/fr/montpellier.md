@@ -109,6 +109,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre, dont les Arceaux. Pilates, yoga et salles de sport.
 
+[Voir les studios à Montpellier sur ClassPass](/go/classpass-fr-montpellier/?epi=fgg-fr-montpellier)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
