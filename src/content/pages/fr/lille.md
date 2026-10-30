@@ -109,6 +109,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre en ville, davantage à Marcq-en-Barœul et Wattignies. Yoga et Pilates (dont Reformer).
 
+[Voir les studios à Lille sur ClassPass](/go/classpass-fr-lille/?epi=fgg-fr-lille)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
