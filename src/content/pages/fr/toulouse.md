@@ -109,6 +109,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Surtout dans le centre. Yoga, Pilates et renforcement musculaire, et aussi à Balma et L’Union.
 
+[Voir les studios à Toulouse sur ClassPass](/go/classpass-fr-toulouse/?epi=fgg-fr-toulouse)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
