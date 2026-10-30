@@ -22,6 +22,89 @@
 # ClassPass FR goedgekeurd bij Tradedoubler (programma 374042, site 3504154), 27-10-2026
 /go/classpass-fr/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi  302
 /go/classpass-fr/            https://clk.tradedoubler.com/click?p=374042&a=3504154  302
+# Deeplinks per stad (Tradedoubler &url= met de ClassPass-zoekpagina van die stad)
+/go/classpass-fr-amiens/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Famiens%2Ffitness-classes%2F4JRPVsYEyXV  302
+/go/classpass-fr-amiens/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Famiens%2Ffitness-classes%2F4JRPVsYEyXV  302
+/go/classpass-fr-angers/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fangers%2Ffitness-classes%2F4sgQ6KNnikf  302
+/go/classpass-fr-angers/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fangers%2Ffitness-classes%2F4sgQ6KNnikf  302
+/go/classpass-fr-annecy/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fannecy%2Ffitness-classes%2F5tGSbRa52Pq  302
+/go/classpass-fr-annecy/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fannecy%2Ffitness-classes%2F5tGSbRa52Pq  302
+/go/classpass-fr-annemasse/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fannemasse%2Ffitness-classes%2F6FCW6ouNXWo  302
+/go/classpass-fr-annemasse/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fannemasse%2Ffitness-classes%2F6FCW6ouNXWo  302
+/go/classpass-fr-arras/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Farras%2Ffitness-classes%2F5cZAntmgnrT  302
+/go/classpass-fr-arras/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Farras%2Ffitness-classes%2F5cZAntmgnrT  302
+/go/classpass-fr-avignon/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Favignon%2Ffitness-classes%2F5sPJA2DBX5q  302
+/go/classpass-fr-avignon/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Favignon%2Ffitness-classes%2F5sPJA2DBX5q  302
+/go/classpass-fr-bayonne/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbayonne%2Ffitness-classes%2F5rNAA3KSek7  302
+/go/classpass-fr-bayonne/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbayonne%2Ffitness-classes%2F5rNAA3KSek7  302
+/go/classpass-fr-beziers/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbziers%2Ffitness-classes%2F5TBaMaLoabh  302
+/go/classpass-fr-beziers/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbziers%2Ffitness-classes%2F5TBaMaLoabh  302
+/go/classpass-fr-brest/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbrest%2Ffitness-classes%2F4o8jzJjMEaK  302
+/go/classpass-fr-brest/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbrest%2Ffitness-classes%2F4o8jzJjMEaK  302
+/go/classpass-fr-bussy-saint-georges/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbussy-saint-georges%2Ffitness-classes%2F6EiAJHjfndu  302
+/go/classpass-fr-bussy-saint-georges/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbussy-saint-georges%2Ffitness-classes%2F6EiAJHjfndu  302
+/go/classpass-fr-cergy/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fcergy%2Ffitness-classes%2F48qtKn8zSJj  302
+/go/classpass-fr-cergy/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fcergy%2Ffitness-classes%2F48qtKn8zSJj  302
+/go/classpass-fr-clermont-ferrand/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fclermont-ferrand%2Ffitness-classes%2F5jmgGjiixNB  302
+/go/classpass-fr-clermont-ferrand/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fclermont-ferrand%2Ffitness-classes%2F5jmgGjiixNB  302
+/go/classpass-fr-dijon/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdijon%2Ffitness-classes%2F3wViYBDPfTM  302
+/go/classpass-fr-dijon/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdijon%2Ffitness-classes%2F3wViYBDPfTM  302
+/go/classpass-fr-dunkerque/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdunkirk%2Ffitness-classes%2F44bpw32WQz3  302
+/go/classpass-fr-dunkerque/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdunkirk%2Ffitness-classes%2F44bpw32WQz3  302
+/go/classpass-fr-la-rochelle/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fla-rochelle%2Ffitness-classes%2F4GR9aN6an95  302
+/go/classpass-fr-la-rochelle/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fla-rochelle%2Ffitness-classes%2F4GR9aN6an95  302
+/go/classpass-fr-le-havre/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fle-havre%2Ffitness-classes%2F6KYm9RJuVbm  302
+/go/classpass-fr-le-havre/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fle-havre%2Ffitness-classes%2F6KYm9RJuVbm  302
+/go/classpass-fr-le-mans/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fle-mans%2Ffitness-classes%2F5fxyqAn99Pu  302
+/go/classpass-fr-le-mans/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fle-mans%2Ffitness-classes%2F5fxyqAn99Pu  302
+/go/classpass-fr-lorient/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Florient%2Ffitness-classes%2F5gtq58bz6XR  302
+/go/classpass-fr-lorient/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Florient%2Ffitness-classes%2F5gtq58bz6XR  302
+/go/classpass-fr-maurepas/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmaurepas%2Ffitness-classes%2F5V4KseLyxb1  302
+/go/classpass-fr-maurepas/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmaurepas%2Ffitness-classes%2F5V4KseLyxb1  302
+/go/classpass-fr-montevrain/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmontvrain%2Ffitness-classes%2F5xzjY2kLjvF  302
+/go/classpass-fr-montevrain/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmontvrain%2Ffitness-classes%2F5xzjY2kLjvF  302
+/go/classpass-fr-nimes/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fnmes%2Ffitness-classes%2F4fjZnJzuxMm  302
+/go/classpass-fr-nimes/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fnmes%2Ffitness-classes%2F4fjZnJzuxMm  302
+/go/classpass-fr-orleans/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Forlans%2Ffitness-classes%2F4teF8zfq287  302
+/go/classpass-fr-orleans/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Forlans%2Ffitness-classes%2F4teF8zfq287  302
+/go/classpass-fr-poissy/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fpoissy%2Ffitness-classes%2F5JnD5erSnxX  302
+/go/classpass-fr-poissy/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fpoissy%2Ffitness-classes%2F5JnD5erSnxX  302
+/go/classpass-fr-poitiers/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fpoitiers%2Ffitness-classes%2F45iXWsBBog3  302
+/go/classpass-fr-poitiers/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fpoitiers%2Ffitness-classes%2F45iXWsBBog3  302
+/go/classpass-fr-rouen/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Frouen%2Ffitness-classes%2F3tkBCBWdBmq  302
+/go/classpass-fr-rouen/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Frouen%2Ffitness-classes%2F3tkBCBWdBmq  302
+/go/classpass-fr-saint-etienne/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fsaint-tienne%2Ffitness-classes%2F43y7m2TzGHV  302
+/go/classpass-fr-saint-etienne/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fsaint-tienne%2Ffitness-classes%2F43y7m2TzGHV  302
+/go/classpass-fr-tours/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ftours%2Ffitness-classes%2F3mkLF3rRiPq  302
+/go/classpass-fr-tours/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ftours%2Ffitness-classes%2F3mkLF3rRiPq  302
+/go/classpass-fr-troyes/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ftroyes%2Ffitness-classes%2F4MHShSDAfFu  302
+/go/classpass-fr-troyes/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ftroyes%2Ffitness-classes%2F4MHShSDAfFu  302
+/go/classpass-fr-paris/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fparis%2Ffitness-classes%2F4BjjsC3VyAw  302
+/go/classpass-fr-paris/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fparis%2Ffitness-classes%2F4BjjsC3VyAw  302
+/go/classpass-fr-lyon/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Flyon%2Ffitness-classes%2F4zgH2PXUBeX  302
+/go/classpass-fr-lyon/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Flyon%2Ffitness-classes%2F4zgH2PXUBeX  302
+/go/classpass-fr-bordeaux/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbordeaux%2Ffitness-classes%2F49pUjYYFDNF  302
+/go/classpass-fr-bordeaux/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fbordeaux%2Ffitness-classes%2F49pUjYYFDNF  302
+/go/classpass-fr-lille/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Flille%2Ffitness-classes%2F5bmig6JfNHD  302
+/go/classpass-fr-lille/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Flille%2Ffitness-classes%2F5bmig6JfNHD  302
+/go/classpass-fr-nantes/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fnantes%2Ffitness-classes%2F3uvk1i1QM35  302
+/go/classpass-fr-nantes/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fnantes%2Ffitness-classes%2F3uvk1i1QM35  302
+/go/classpass-fr-nice/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fnice%2Ffitness-classes%2F5QWXQNtAkx7  302
+/go/classpass-fr-nice/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fnice%2Ffitness-classes%2F5QWXQNtAkx7  302
+/go/classpass-fr-toulouse/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ftoulouse%2Ffitness-classes%2F5feyhA1Gy1h  302
+/go/classpass-fr-toulouse/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ftoulouse%2Ffitness-classes%2F5feyhA1Gy1h  302
+/go/classpass-fr-strasbourg/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fstrasbourg%2Ffitness-classes%2F46vVTLzb1Wo  302
+/go/classpass-fr-strasbourg/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fstrasbourg%2Ffitness-classes%2F46vVTLzb1Wo  302
+/go/classpass-fr-montpellier/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmontpellier%2Ffitness-classes%2F6CVt7ubgn9d  302
+/go/classpass-fr-montpellier/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmontpellier%2Ffitness-classes%2F6CVt7ubgn9d  302
+/go/classpass-fr-rennes/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Frennes%2Ffitness-classes%2F6Afe89c2nAB  302
+/go/classpass-fr-rennes/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Frennes%2Ffitness-classes%2F6Afe89c2nAB  302
+/go/classpass-fr-aix-en-provence/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Faix-en-provence%2Ffitness-classes%2F4bZgkBGsHxB  302
+/go/classpass-fr-aix-en-provence/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Faix-en-provence%2Ffitness-classes%2F4bZgkBGsHxB  302
+/go/classpass-fr-cannes/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fcannes%2Ffitness-classes%2F3uFf9RQcqQb  302
+/go/classpass-fr-cannes/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fcannes%2Ffitness-classes%2F3uFf9RQcqQb  302
+/go/classpass-fr-marseille/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmarseille%2Ffitness-classes%2F41JywziFsvP  302
+/go/classpass-fr-marseille/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmarseille%2Ffitness-classes%2F41JywziFsvP  302
 /go/classpass-es/  epi=:epi  https://classpass.com/  302
 /go/classpass-es/            https://classpass.com/  302
 

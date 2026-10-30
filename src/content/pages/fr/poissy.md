@@ -63,6 +63,12 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Pas de studio à Poissy même, mais deux adresses tout près : L’Appart Fitness à Orgeval (salle de sport en accès libre, appareils Technogym et Matrix) et The New Me à Saint-Germain-en-Laye (place du Marché Neuf), studio de Pilates Reformer avec café.
+
+[Voir les studios autour de Poissy sur ClassPass](/go/classpass-fr-poissy/?epi=fgg-fr-poissy)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle

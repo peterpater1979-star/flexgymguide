@@ -77,6 +77,12 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Une petite offre : Air Flow Studio à Annemasse (pole dance, cerceau aérien, renforcement et mobilité, aussi en cours particuliers), et tout près deux studios de Pilates en petits groupes, El Pilates Studio à Cranves-Sales (Reformer et Mat, 8 personnes maximum) et ALOÏA à Ville-la-Grand.
+
+[Voir les studios à Annemasse sur ClassPass](/go/classpass-fr-annemasse/?epi=fgg-fr-annemasse)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle

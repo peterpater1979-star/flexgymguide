@@ -63,6 +63,12 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Pas de studio à Bussy même, mais deux adresses tout près, à Lagny-sur-Marne : Magic Form (avenue du Général Leclerc), salle de sport avec musculation et cours de danse, et My Big Bang (rue Vacheresse), séances de 20 minutes en électrostimulation.
+
+[Voir les studios autour de Bussy-Saint-Georges sur ClassPass](/go/classpass-fr-bussy-saint-georges/?epi=fgg-fr-bussy-saint-georges)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle

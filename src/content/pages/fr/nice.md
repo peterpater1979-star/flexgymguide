@@ -109,6 +109,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Surtout le centre et le Carré d’Or, mais aussi le Port et Cimiez. Beaucoup de Pilates, du renforcement musculaire et du yoga.
 
+[Voir les studios à Nice sur ClassPass](/go/classpass-fr-nice/?epi=fgg-fr-nice)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle

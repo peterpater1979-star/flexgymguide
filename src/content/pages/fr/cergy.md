@@ -77,6 +77,12 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Une petite offre autour de Cergy : à Pontoise, [si] le pilates (rue Pierre Butin) et Share ur Coach (rue Albert Simon, coaching sportif), et à Jouy-le-Moutier, CrossFit Red Legion (CrossFit et HYROX).
+
+[Voir les studios autour de Cergy sur ClassPass](/go/classpass-fr-cergy/?epi=fgg-fr-cergy)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle

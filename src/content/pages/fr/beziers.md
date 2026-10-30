@@ -91,6 +91,12 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Une petite offre : VSPORT (rue de Noyon, Haut de Montimaran), un club de remise en forme avec des cours collectifs encadrés par un coach, et un accès libre à la salle de musculation et de cardio.
+
+[Voir les studios à Béziers sur ClassPass](/go/classpass-fr-beziers/?epi=fgg-fr-beziers)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle

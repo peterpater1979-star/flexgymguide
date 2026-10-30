@@ -91,6 +91,12 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Une petite offre : OMYPILATES (rue du Faubourg Bannier), Pilates Reformer et Pilates sur tapis en petits groupes.
+
+[Voir les studios à Orléans sur ClassPass](/go/classpass-fr-orleans/?epi=fgg-fr-orleans)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle

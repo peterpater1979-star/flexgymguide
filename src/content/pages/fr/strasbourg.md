@@ -109,6 +109,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une offre plus petite, dont Neudorf, et aussi au nord de la ville (Lampertheim, Souffelweyersheim, Mundolsheim). Pilates, renforcement musculaire, yoga et boxe.
 
+[Voir les studios à Strasbourg sur ClassPass](/go/classpass-fr-strasbourg/?epi=fgg-fr-strasbourg)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
