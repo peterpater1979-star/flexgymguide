@@ -93,7 +93,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre : VSPORT (rue de Noyon), un club de remise en forme avec coach, cours collectifs, musculation et vélo.
+Une petite offre : VSPORT (rue de Noyon, Haut de Montimaran), un club de remise en forme avec des cours collectifs encadrés par un coach, et un accès libre à la salle de musculation et de cardio.
 
 ### Ce que tu as
 
