@@ -81,6 +81,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre : Iron Bodyfit La Rochelle (avenue de la Porte Royale), séances d’électrostimulation avec un coach.
 
+[Voir les studios à La Rochelle sur ClassPass](/go/classpass-fr-la-rochelle/?epi=fgg-fr-la-rochelle)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
