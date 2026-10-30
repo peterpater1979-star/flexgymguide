@@ -95,6 +95,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre, surtout du Pilates Reformer : The New Me (rue de Paris, tous niveaux) et Soleà Studio (rue Dauphine), studio Pilates et café réservé aux femmes.
 
+[Voir les studios au Havre sur ClassPass](/go/classpass-fr-le-havre/?epi=fgg-fr-le-havre)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
