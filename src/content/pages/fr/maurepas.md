@@ -63,6 +63,10 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Pas de studio à Maurepas même, mais du Pilates Reformer tout près : Motiō Saint-Quentin-en-Yvelines à Trappes (tous niveaux), et au Mesnil-Saint-Denis StudioDMN (8 personnes maximum) et Le Reformer by LK (5 personnes maximum).
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
