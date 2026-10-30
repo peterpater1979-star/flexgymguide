@@ -91,6 +91,10 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
 
+### Où
+
+Surtout dans le centre : deux studios The New Me (rue Rollon et place du Général de Gaulle, Pilates Reformer), Lab.Rouen (cours en petit groupe, renforcement et Pilates), Gym One (coaching privé et boxe) et la grande salle Accrosport aux Docks 76 (cardio, musculation, vélo et sauna). En été, il y a aussi le parc AccroCamp.
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
