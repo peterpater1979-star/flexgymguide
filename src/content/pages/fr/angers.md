@@ -95,6 +95,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre dans le centre, surtout du Pilates Reformer : The New Me (rue Paul Bert) et EDBM Fit Angers (rue d’Anjou, cours de 10 personnes maximum). Chaussettes antidérapantes obligatoires sur les machines.
 
+[Voir les studios à Angers sur ClassPass](/go/classpass-fr-angers/?epi=fgg-fr-angers)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
