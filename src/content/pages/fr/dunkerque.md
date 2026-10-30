@@ -81,6 +81,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre : Studio Pilates by Sarah Caux (boulevard Sainte-Barbe), Pilates et barre, surtout pour les femmes.
 
+[Voir les studios à Dunkerque sur ClassPass](/go/classpass-fr-dunkerque/?epi=fgg-fr-dunkerque)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
