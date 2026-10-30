@@ -81,6 +81,8 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu, et beaucoup plus à Nice. Surtout du Pilates.
 
+[Voir les studios à Cannes et autour sur ClassPass](/go/classpass-fr-cannes/?epi=fgg-fr-cannes)
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
