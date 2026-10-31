@@ -131,6 +131,19 @@ Podes alterar, pausar ou cancelar o teu plano a qualquer momento.
 
 [Lê o guia completo (em inglês)](/guides/how-classpass-works/)
 
+<h2 id="spullen">Precisas de alguma coisa para o ginásio?</h2>
+
+Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de fitness da Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-pt-kleding/?ws=fgg-pt-index">Roupa desportiva</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen/?ws=fgg-pt-index">Sapatilhas de desporto</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-index">Garrafa de água</a></li>
+<li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-index">Toalha de desporto</a></li>
+</ul>
+
+<p class="klein">Recebemos uma comissão pelas compras feitas através destes links. Para ti, o preço é o mesmo.</p>
+
 <h2 id="gidsen">Guias</h2>
 
 - **[Passe ou ginásio?](/pt/passe-ou-ginasio/)** · o que combina contigo

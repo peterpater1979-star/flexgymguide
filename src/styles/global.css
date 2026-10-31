@@ -139,3 +139,9 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .spullen .i-mat { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M3 7h14a3 3 0 0 1 0 6H3zM17 13v4H3V7'/%3E%3C/svg%3E"); }
 .spullen .i-band { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M4 12c0-4 3-7 8-7s8 3 8 7-3 7-8 7-8-3-8-7zM8 12c0-2 2-3 4-3s4 1 4 3-2 3-4 3-4-1-4-3z'/%3E%3C/svg%3E"); }
 .spullen .i-touw { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M5 3v6M19 3v6M5 9c0 8 3 12 7 12s7-4 7-12'/%3E%3C/svg%3E"); }
+
+/* Tabel met foto ernaast (desktop), foto erboven (mobiel) */
+.tabel-foto { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 1.5rem; align-items: stretch; margin: 1.5rem 0; }
+.tabel-foto > .foto { order: 2; align-self: start; aspect-ratio: 3 / 2; border-radius: var(--radius); background: var(--foto, none) center / cover, var(--accent); }
+.tabel-foto > table, .tabel-foto > div { margin: 0; }
+@media (max-width: 760px) { .tabel-foto { grid-template-columns: 1fr; } .tabel-foto > .foto { order: 0; } }

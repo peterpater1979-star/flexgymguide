@@ -53,6 +53,19 @@ Outside Europe it works in the United States, Canada, Australia, New Zealand, Ja
 4. **Think of a gym as well.** A gym visit near your hotel is an easy way to fit in a workout.
 5. **Relax after your trip.** You can also use credits for a massage or the spa.
 
+<h2 id="onderweg">Handy in your suitcase</h2>
+
+Light and small, so it fits easily in your luggage. These links take you to Traininn, the fitness shop of Tradeinn:
+
+<ul class="spullen">
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-classpass-while-travelling">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-guides-classpass-while-travelling">Gym towel</a></li>
+<li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-classpass-while-travelling">Yoga or exercise mat</a></li>
+<li class="i-band"><a href="/go/traininn-en-banden/?ws=fgg-guides-classpass-while-travelling">Resistance bands</a></li>
+</ul>
+
+<p class="klein">We earn a commission on purchases made through these links. The price stays the same for you.</p>
+
 <h2 id="checklist">Checklist</h2>
 
 - [ ] Look up your destination in the app

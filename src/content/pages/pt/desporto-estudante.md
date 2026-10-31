@@ -48,6 +48,18 @@ Correr, andar de bicicleta, um parque de calistenia ou um vídeo de yoga em casa
 - **Viajas muito ou o teu horário muda:** algo sem contrato longo, como o ClassPass.
 - **O melhor dos dois:** o ginásio da tua universidade para o treino habitual e, de vez em quando, uma aula pelo ClassPass que lá não tens.
 
+<h2 id="thuis">Treinar em casa com pouco dinheiro</h2>
+
+Com algumas coisas baratas também podes treinar no teu quarto, por exemplo nos dias em que não vais ao ginásio. Estes links levam-te à Traininn, a loja de fitness da Tradeinn:
+
+<ul class="spullen">
+<li class="i-mat"><a href="/go/traininn-pt-mat/?ws=fgg-pt-desporto-estudante">Tapete de ioga ou exercício</a></li>
+<li class="i-band"><a href="/go/traininn-pt-banden/?ws=fgg-pt-desporto-estudante">Bandas elásticas</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-desporto-estudante">Garrafa de água</a></li>
+</ul>
+
+<p class="klein">Recebemos uma comissão pelas compras feitas através destes links. Para ti, o preço é o mesmo.</p>
+
 <h2 id="tips">Dicas</h2>
 
 1. **Pergunta por desconto para estudantes.** Alguns ginásios têm, muitas vezes mostrando o teu cartão de estudante.

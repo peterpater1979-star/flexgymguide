@@ -66,6 +66,22 @@ Calzado de suela plana y firme para sentadillas y levantamientos. Una toalla par
 4. **Empieza a tu nivel.** Nadie espera que sigas el ritmo de los habituales en tu primera clase.
 5. **Revisa las reglas de cancelación.** Con un pase deportivo o una clase de prueba, cancelar tarde puede costar créditos o una penalización.
 
+<h2 id="spullen">¿Te falta algo?</h2>
+
+¿Te falta algo? Con estos enlaces vas directamente a Traininn, la tienda de fitness de Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-es-kleding/?ws=fgg-es-primera-clase">Ropa deportiva</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen/?ws=fgg-es-primera-clase">Zapatillas deportivas</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-primera-clase">Botella de agua</a></li>
+<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-primera-clase">Toalla de deporte</a></li>
+<li class="i-mat"><a href="/go/traininn-es-mat/?ws=fgg-es-primera-clase">Esterilla de yoga o ejercicio</a></li>
+<li class="i-bandage"><a href="/go/traininn-es-bandages/?ws=fgg-es-primera-clase">Vendas de boxeo</a></li>
+<li class="i-handschoen"><a href="/go/traininn-es-handschoenen/?ws=fgg-es-primera-clase">Guantes de boxeo</a></li>
+</ul>
+
+<p class="klein">Recibimos una comisión por las compras hechas a través de estos enlaces. Para ti el precio es el mismo.</p>
+
 <h2 id="probar">Probar varios estudios</h2>
 
 ¿Aún no sabes qué entrenamiento te va? Con un pase deportivo como ClassPass pruebas yoga, boxeo y spinning en distintos estudios antes de decidirte.

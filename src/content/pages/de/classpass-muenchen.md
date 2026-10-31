@@ -13,6 +13,9 @@ München hat auf ClassPass ein sehr großes Angebot, verteilt über die ganze St
 
 <h2 id="kurz">Kurz gesagt</h2>
 
+<div class="tabel-foto">
+<div class="foto foto-classpass" role="img" aria-label="Kurs in einem Studio"></div>
+
 | | ClassPass in München |
 | --- | --- |
 | **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) |
@@ -20,9 +23,13 @@ München hat auf ClassPass ein sehr großes Angebot, verteilt über die ganze St
 | **Wo** | In der ganzen Stadt, vor allem in der Maxvorstadt, in Schwabing, im Glockenbachviertel und in Haidhausen |
 | **Was du machen kannst** | Reformer-Pilates, Lagree, Barre, Yoga, Indoor-Cycling, HIIT, Bootcamp, HYROX, Boxen und Gym-Besuche, dazu Wellness- und Beauty-Termine |
 
+</div>
+
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei ClassPass.</p>
 
 <h2 id="viertel">Nach Viertel</h2>
+
+Einige Beispiele pro Viertel. Es gibt viel mehr Studios als die hier genannten: Die vollständige Liste findest du bei ClassPass.
 
 ### Altstadt und Lehel
 
@@ -58,23 +65,25 @@ body + soul in Brunnthal und Yoga, Pilates und Barre beim yogaatelier in Krailli
 
 <h2 id="sportarten">Nach Sportart</h2>
 
-- **Reformer-Pilates:** PLX, Reformer Club, Reformare, JOSEF P, CASA CORPO, REFORMERWOMAN, We Are YUMI, Reformer Balance, Reformer Loft, Slide Studios und Rostudios (Roform)
-- **Lagree:** Studio Lagree, Soultrain und Lagree Baby
-- **Matten-Pilates und Barre:** The Suite, Drops Barre und The Collective Flow
-- **Yoga:** The Sanctuary, Jivamukti Glockenbach, HAIRU, Velvet House und yogaatelier
-- **Indoor-Cycling:** Rocycle, blackBIKE, NIGHTRIDE und BEAT81 RIDE
-- **HIIT und Bootcamp:** Eternity Health Club, Bootcamp Baby, R1, Time To Shine und Basement
-- **HYROX:** Pace Club
-- **Boxen:** Solid People und R1
-- **Gym:** body + soul, Pace Club und THE GOOD GYM (nur für Frauen)
+Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
+
+- **Reformer-Pilates:** unter anderem PLX, Reformer Club, Reformare, JOSEF P, CASA CORPO, REFORMERWOMAN, We Are YUMI, Reformer Balance, Reformer Loft, Slide Studios und Rostudios (Roform)
+- **Lagree:** unter anderem Studio Lagree, Soultrain und Lagree Baby
+- **Matten-Pilates und Barre:** unter anderem The Suite, Drops Barre und The Collective Flow
+- **Yoga:** unter anderem The Sanctuary, Jivamukti Glockenbach, HAIRU, Velvet House und yogaatelier
+- **Indoor-Cycling:** unter anderem Rocycle, blackBIKE, NIGHTRIDE und BEAT81 RIDE
+- **HIIT und Bootcamp:** unter anderem Eternity Health Club, Bootcamp Baby, R1, Time To Shine und Basement
+- **HYROX:** unter anderem Pace Club
+- **Boxen:** unter anderem Solid People und R1
+- **Gym:** unter anderem body + soul, Pace Club und THE GOOD GYM (nur für Frauen)
 
 <h2 id="wellness">Wellness und Beauty</h2>
 
 Mit deinen Credits buchst du in München nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
 
-- **Massage:** 5 Elements Spa & Massage in Schwabing und im Glockenbachviertel und Thai-Massage bei Haedeza in der Maxvorstadt
-- **Kosmetik:** C1 Kosmetik in der Isarvorstadt, in der Maxvorstadt und am Gärtnerplatz und der feelgoodsalon in Schwabing
-- **Waxing:** Sugar Company in Schwabing und JM Touch of Class in Neuhausen
+- **Massage:** unter anderem 5 Elements Spa & Massage in Schwabing und im Glockenbachviertel und Thai-Massage bei Haedeza in der Maxvorstadt
+- **Kosmetik:** unter anderem C1 Kosmetik in der Isarvorstadt, in der Maxvorstadt und am Gärtnerplatz und der feelgoodsalon in Schwabing
+- **Waxing:** unter anderem Sugar Company in Schwabing und JM Touch of Class in Neuhausen
 
 <h2 id="tipps">Tipps</h2>
 
