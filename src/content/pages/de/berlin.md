@@ -82,11 +82,11 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First | McFit | Holmes Place |
 | --- | --- | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette | Premium-Fitnessclub |
-| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € | Nicht online; du erfährst ihn im Club |
+| **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € | Nicht online; du erfährst ihn im Club |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Flex oder Vertrag über 12 oder 24 Monate, Zugang zu allen McFit-Studios | Mitgliedschaft mit Service, Kursen und Wellness |
 | **Standorte in Berlin** | Studios in Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg, Friedrichshain und mehr | 15 Clubs | Mehrere Studios in Berlin | 6 Clubs (14 in Deutschland) |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten | – |
-| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | Mit Flex ohne lange Bindung | – |
+| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> 1 Monat gratis, 10 Workouts | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | Mit Flex ohne lange Bindung | – |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich | <span class="ja" aria-hidden="true">✓</span> Über 230 Studios in Europa | Auch in Wien, der Schweiz, Portugal und Griechenland |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) | [Alles über Holmes Place](/de/holmes-place/) |
 
@@ -104,11 +104,17 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
 
+### Wo
+
+Ein sehr großes Angebot, verteilt über die ganze Stadt, von Lagree und Reformer-Pilates bis Boxen, Yoga, Tanz und Indoor-Cycling. Welche Studios es in welchem Bezirk gibt, liest du unter [ClassPass in Berlin](/de/classpass-berlin/).
+
+[Sieh dir die Studios in Berlin auf ClassPass an.](https://classpass.com/search/berlin/fitness-classes/5275bm9hp3q)
+
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
-- Studios in ganz Berlin: Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg, Friedrichshain, Schöneberg und Neukölln
-- Vor allem Pilates und Yoga, dazu Krafttraining, Barre, Indoor-Cycling und Sauna
+- Standard-Abo in Berlin: 42 Credits für 59 € im Monat
+- 1 Monat gratis mit 10 Workouts zum Ausprobieren
 - Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für

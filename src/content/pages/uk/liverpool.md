@@ -68,11 +68,11 @@ Prices and terms change regularly. Always check the latest details with the prov
 | Feature | ClassPass | The Gym Group | PureGym |
 | --- | --- | --- | --- |
 | **Type** | Fitness pass with credits | Low-cost gym chain | Budget gym chain |
-| **Price per month** | Depends on the number of credits | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
+| **Price per month** | Standard plan £49 a month (36 credits) | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
 | **How it works** | Monthly credits for classes and gym visits | Membership at your home gym, classes included. Ultimate adds access to other gyms | Membership at your home gym, classes included at most gyms |
 | **Locations in Liverpool** | Studios in the city and on the Wirral | 3 gyms (over 260 in the UK) | 3 gyms (over 450 in the UK) |
 | **Cancelling** | Change or cancel any time | No contract on monthly plans. Saver plans run 9 or 12 months | No contract, cancel any time |
-| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Day pass | – |
+| **Try it first** | <span class="ja" aria-hidden="true">✓</span> 14 days free, 10 workouts | Day pass | – |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only | – |
 | **Find out more** | [All about ClassPass](/uk/classpass/) | [All about The Gym Group](/uk/the-gym-group/) | [All about PureGym](/uk/puregym/) |
 
@@ -90,9 +90,17 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios in and around Liverpool. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A good mix of boutique studios and gyms, mostly in the city centre, the Baltic Triangle, Wavertree and Allerton, with gyms also on the Wirral and in St Helens. Here is a small selection. For HIIT there is Barry's at Flannels, and for indoor cycling there are RYDE and 360 Cycle. For reformer Pilates there are Bayse Reformer Pilates, Nova Core Wellness and Serenity Studio. You can also do group classes at Rise Fitness, women-only training at PowHer, strength training at Elev8 and bouldering at The Climbing Hangar, plus gym visits at Anytime Fitness.
+
+[See the studios in Liverpool on ClassPass.](https://classpass.com/search/liverpool/fitness-classes/5jN8Kn7KeBy)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
+- Standard plan in Liverpool: 36 credits for £49 a month
+- 14 days free with 10 workouts to try it out
 - Studios in the city and on the Wirral
 - Use it in more than 2,500 other cities in 31 countries
 

@@ -54,11 +54,11 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First |
 | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
-| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
+| **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
 | **Standorte in Darmstadt** | Wenige Studios in Darmstadt selbst, mehr Auswahl in Frankfurt, Mainz und Wiesbaden | 10 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
-| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
+| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> 1 Monat gratis, 10 Workouts | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
 
@@ -76,12 +76,17 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der Region einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
 
+### Wo
+
+Ein kleines Angebot. In Darmstadt selbst gibt es Yoga und Reformer-Pilates bei Balance Yoga in der Kirchstraße. In der Umgebung kommen Pole Dance und Aerial bei Slow Motion in Griesheim dazu, und Gym-Besuche bei AG Medical Fitness in Riedstadt und Eppertshausen. Viel mehr Auswahl hast du in Frankfurt, etwa 30 Minuten mit der S-Bahn.
+
+[Sieh dir die Studios in Darmstadt auf ClassPass an.](https://classpass.com/search/darmstadt/fitness-classes/5GMybpVKYvs)
+
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
-- In Darmstadt selbst ist das Angebot klein
-- Viel mehr Auswahl in Frankfurt (etwa 30 Minuten mit der S-Bahn), dazu Studios in Mainz, Wiesbaden, Heidelberg und Mannheim
-- Vor allem Pilates, dazu Yoga, Krafttraining und Barre
+- Standard-Abo in Darmstadt: 42 Credits für 59 € im Monat
+- 1 Monat gratis mit 10 Workouts zum Ausprobieren
 - Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für

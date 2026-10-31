@@ -68,11 +68,11 @@ Prices and terms change regularly. Always check the latest details with the prov
 | Feature | ClassPass | The Gym Group | PureGym |
 | --- | --- | --- | --- |
 | **Type** | Fitness pass with credits | Low-cost gym chain | Budget gym chain |
-| **Price per month** | Depends on the number of credits | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
+| **Price per month** | Standard plan £49 a month (36 credits) | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
 | **How it works** | Monthly credits for classes and gym visits | Membership at your home gym, classes included. Ultimate adds access to other gyms | Membership at your home gym, classes included at most gyms |
 | **Locations in Leeds** | Studios in the city centre, Chapel Allerton, Kirkstall and Pudsey | 4 gyms (over 260 in the UK) | 8 gyms (over 450 in the UK) |
 | **Cancelling** | Change or cancel any time | No contract on monthly plans. Saver plans run 9 or 12 months | No contract, cancel any time |
-| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Day pass | – |
+| **Try it first** | <span class="ja" aria-hidden="true">✓</span> 14 days free, 10 workouts | Day pass | – |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only | – |
 | **Find out more** | [All about ClassPass](/uk/classpass/) | [All about The Gym Group](/uk/the-gym-group/) | [All about PureGym](/uk/puregym/) |
 
@@ -90,9 +90,17 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A good mix of boutique studios and gyms, mostly in the city centre, Chapel Allerton, Kirkstall and Horsforth, and also in Pudsey and the wider area. Here is a small selection. For indoor cycling there is RYDE, and for reformer Pilates there are The Wellness Bar, Urth Pilates and Project:Reform. You can do yoga at Yoga Kula, WellNest and Shadwell Studio, CrossFit at FORM and trampoline and cardio classes at ((BOUNCE)). HiiCLUB on Briggate offers workouts and recovery. For gym visits there are Nuffield Health, Anytime Fitness and The Edge at the University of Leeds, which has a pool and a climbing wall.
+
+[See the studios in Leeds on ClassPass.](https://classpass.com/search/leeds/fitness-classes/6DyNrfEcKjm)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
+- Standard plan in Leeds: 36 credits for £49 a month
+- 14 days free with 10 workouts to try it out
 - Studios in the city centre, Chapel Allerton, Kirkstall and Pudsey
 - Use it in more than 2,500 other cities in 31 countries
 

@@ -62,11 +62,11 @@ Eigen clubs met gym en groepslessen: 1 in Leiden, 53 in heel Nederland. Flex is 
 | Kenmerk | ClassPass | Trainmore | SportCity |
 | --- | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportschoolketen |
-| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout bij een contract | Bij Steenschuur € 52,99 tot € 64,99 per 4 wkn (City One) |
+| **Prijs per maand** | Standaardabonnement € 59 per maand (40 credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout bij een contract | Bij Steenschuur € 52,99 tot € 64,99 per 4 wkn (City One) |
 | **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | City One (één club) of City Plus (121 clubs) |
 | **Locaties in Leiden** | Studio's in het centrum, rond de Rooseveltstraat en in Leiderdorp | 1 club (53 in heel Nederland) | 5 clubs (121 in heel Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Koningin Wilhelminaplein in Amsterdam: Flex € 104, 1 jaar € 84, 2 jaar € 77 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> | Flex maandelijks opzegbaar, met een maand opzegtermijn |
-| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> Dagpas via de club |
+| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 workouts | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> Dagpas via de club |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
 | **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) | [Alles over SportCity](/nl/sportcity/) |
 
@@ -85,6 +85,8 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Wat je krijgt
 
 - Maandelijkse credits voor lessen en gymbezoeken
+- Standaardabonnement in Leiden: 40 credits voor € 59 per maand
+- 14 dagen gratis met 10 workouts om te proberen
 - Studio's in het centrum (Breestraat, Hogewoerd), rond de Rooseveltstraat en in Leiderdorp
 - Vooral krachttraining, (reformer) pilates, boksen en vechtsport, maar ook yoga en sauna
 - Ook te gebruiken in meer dan 2.500 andere steden in 31 landen

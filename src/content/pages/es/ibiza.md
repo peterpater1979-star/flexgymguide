@@ -40,7 +40,7 @@ Los precios y las condiciones cambian a menudo. Comprueba siempre la informació
 | | ClassPass |
 | --- | --- |
 | **Tipo** | Pase deportivo con créditos |
-| **Precio** | Depende del número de créditos; el precio varía según la ciudad |
+| **Precio** | Plan estándar 49 € al mes (30 créditos) |
 | **Permanencia** | Ninguna, cancelas cuando quieras |
 | **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones |
 | **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países |
@@ -69,6 +69,7 @@ Una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre 
 ### Qué tienes
 
 - Créditos cada mes para clases y sesiones de gimnasio
+- Plan estándar 49 € al mes (30 créditos)
 - 14 días gratis con 10 sesiones para probar
 - Funciona también en más de 2.500 ciudades de 31 países
 

@@ -54,7 +54,7 @@ Los precios y las condiciones cambian a menudo. Comprueba siempre la informació
 | | ClassPass | Basic-Fit |
 | --- | --- | --- |
 | **Tipo** | Pase deportivo con créditos | Gimnasio económico |
-| **Precio** | Depende del número de créditos; el precio varía según la ciudad | Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 € |
+| **Precio** | Plan estándar 49 € al mes (30 créditos) | Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 € |
 | **Permanencia** | Ninguna, cancelas cuando quieras | Un año, o Flex con 4 semanas de preaviso |
 | **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones | Según el club |
 | **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en todos los clubes de 6 países |
@@ -83,6 +83,7 @@ Teatinos, Centro, El Perchel y Pedregalejo. Pilates, fuerza, barre y yoga, y tam
 ### Qué tienes
 
 - Créditos cada mes para clases y sesiones de gimnasio
+- Plan estándar 49 € al mes (30 créditos)
 - 14 días gratis con 10 sesiones para probar
 - Funciona también en más de 2.500 ciudades de 31 países
 

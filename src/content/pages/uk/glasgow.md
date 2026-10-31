@@ -68,11 +68,11 @@ Prices and terms change regularly. Always check the latest details with the prov
 | Feature | ClassPass | The Gym Group | PureGym |
 | --- | --- | --- | --- |
 | **Type** | Fitness pass with credits | Low-cost gym chain | Budget gym chain |
-| **Price per month** | Depends on the number of credits | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
+| **Price per month** | Standard plan £49 a month (36 credits) | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
 | **How it works** | Monthly credits for classes and gym visits | Membership at your home gym, classes included. Ultimate adds access to other gyms | Membership at your home gym, classes included at most gyms |
 | **Locations in Glasgow** | Studios in the city centre, Finnieston, the Southside and the West End | 7 gyms (over 260 in the UK) | 10 gyms (over 450 in the UK) |
 | **Cancelling** | Change or cancel any time | No contract on monthly plans. Saver plans run 9 or 12 months | No contract, cancel any time |
-| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Day pass | – |
+| **Try it first** | <span class="ja" aria-hidden="true">✓</span> 14 days free, 10 workouts | Day pass | – |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only | – |
 | **Find out more** | [All about ClassPass](/uk/classpass/) | [All about The Gym Group](/uk/the-gym-group/) | [All about PureGym](/uk/puregym/) |
 
@@ -90,9 +90,17 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A good choice, with lots of reformer Pilates, mostly in the city centre, the West End, the Southside and Tradeston, and also in Clydebank and Motherwell. Here is a small selection. For reformer Pilates there are The Holistic Warehouse in Tradeston, Dalmarnock and Clydebank, LÙTH Reformer and Haus of Pilates at Silverburn. For Lagree there is Aura Lagree Studio, and for barre there is Bodi Barre Studio. You can do yoga at The Yoga Barn, UNRULY Yoga and Hope Studio, group training at F45 and Cavefit and gym visits at Future Fitness in Shawlands.
+
+[See the studios in Glasgow on ClassPass.](https://classpass.com/search/glasgow/fitness-classes/653X6hwJxgf)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
+- Standard plan in Glasgow: 36 credits for £49 a month
+- 14 days free with 10 workouts to try it out
 - Studios in the city centre, Finnieston, the Southside and the West End
 - Use it in more than 2,500 other cities in 31 countries
 
