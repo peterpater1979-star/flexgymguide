@@ -71,8 +71,10 @@ Calçado de sola lisa e firme para agachamentos e levantamentos. Uma toalha para
 Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de fitness da Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-pt-kleding/?ws=fgg-pt-primeira-aula">Roupa desportiva</a></li>
-<li class="i-schoen"><a href="/go/traininn-pt-schoenen/?ws=fgg-pt-primeira-aula">Sapatilhas de desporto</a></li>
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-dames/?ws=fgg-pt-primeira-aula">Roupa desportiva de mulher</a></li>
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-heren/?ws=fgg-pt-primeira-aula">Roupa desportiva de homem</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-dames/?ws=fgg-pt-primeira-aula">Sapatilhas de desporto de mulher</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-heren/?ws=fgg-pt-primeira-aula">Sapatilhas de desporto de homem</a></li>
 <li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-primeira-aula">Garrafa de água</a></li>
 <li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-primeira-aula">Toalha de desporto</a></li>
 <li class="i-mat"><a href="/go/traininn-pt-mat/?ws=fgg-pt-primeira-aula">Tapete de ioga ou exercício</a></li>

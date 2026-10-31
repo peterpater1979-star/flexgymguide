@@ -185,8 +185,10 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn, en français :
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-fr-kleding/?ws=fgg-fr-index">Vêtements de sport</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen/?ws=fgg-fr-index">Chaussures de sport</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-index">Vêtements de sport femme</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-index">Vêtements de sport homme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-index">Chaussures de sport femme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-index">Chaussures de sport homme</a></li>
 <li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-index">Gourde</a></li>
 <li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-index">Serviette de sport</a></li>
 </ul>

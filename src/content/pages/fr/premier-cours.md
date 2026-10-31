@@ -71,11 +71,14 @@ Des chaussures à semelle plate et ferme pour les squats et les levées. Une ser
 Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn, en français :
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-fr-kleding/?ws=fgg-fr-premier-cours">Vêtements de sport</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen/?ws=fgg-fr-premier-cours">Chaussures de sport</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-premier-cours">Vêtements de sport femme</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-premier-cours">Vêtements de sport homme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-premier-cours">Chaussures de sport femme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-premier-cours">Chaussures de sport homme</a></li>
 <li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-premier-cours">Gourde</a></li>
 <li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-premier-cours">Serviette de sport</a></li>
 <li class="i-bandage"><a href="/go/traininn-fr-bandages/?ws=fgg-fr-premier-cours">Bandes de boxe</a></li>
+<li class="i-handschoen"><a href="/go/traininn-fr-vechtsport/?ws=fgg-fr-premier-cours">Gants et matériel de boxe</a></li>
 </ul>
 
 <p class="klein">Nous touchons une commission sur les achats faits via ces liens. Le prix reste le même pour toi.</p>
