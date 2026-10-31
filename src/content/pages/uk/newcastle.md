@@ -90,6 +90,12 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A small choice, mostly gyms across Tyneside. In Newcastle itself there are HiiCLUB in Gosforth for group training, Reform Studio on the Quayside for reformer Pilates and barre, and yoga at MeditYoga. For gym visits there are Village Gym at Silverlink, which has a pool, Elswick Community Leisure Centre, Olympia Gym in Westerhope and Leisure United in Blakelaw and Bullocksteads. Nearby there are Anytime Fitness and 3d Health & Fitness in Gateshead, YMCA and Divine Inner Health yoga in North Shields, Snap Fitness in Whitley Bay, 38 Fitness in Jarrow and Leisure United in Sunderland.
+
+[See the studios in Newcastle on ClassPass.](https://classpass.com/search/newcastle-upon-tyne/fitness-classes/44sFtvnCPC3)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
