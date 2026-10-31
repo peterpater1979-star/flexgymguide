@@ -90,6 +90,12 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios and gyms across the city. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+Mostly gym access, spread across Birmingham and the wider West Midlands, including Wolverhampton, West Bromwich, Walsall and Dudley. Here is a small selection. In Birmingham there are Nuffield Health at Broadway Plaza, Anytime Fitness on Hagley Road and in Yardley, and 18Y Ultimate Fitness in Balsall Heath. Nearby there are énergie Fitness in Wolverhampton and Motion Health and Leisure at Merry Hill, which has a pool. There are only a few boutique studios, so you can also look at martial arts classes and outdoor bootcamps.
+
+[See the studios in Birmingham on ClassPass.](https://classpass.com/search/birmingham/fitness-classes/4qGM2VuRV2P)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
