@@ -93,7 +93,7 @@ Mostly training in the gym, several times a week? Then also take a look at [Fitn
 Read more for your city:
 
 <ul class="stedenlijst">
-<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">Studios and gyms across the city</span></li>
+<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">Studios and gyms across the city · <a href="/uk/classpass-london/">by area</a></span></li>
 <li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">Studios in the city centre, Chorlton and Salford</span></li>
 <li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">Studios in the city centre, Finnieston and the Southside</span></li>
 <li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">Studios in the city centre, Chapel Allerton and Kirkstall</span></li>
