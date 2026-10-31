@@ -90,6 +90,8 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
 
+[See the studios in Leeds on ClassPass.](https://classpass.com/search/leeds/fitness-classes/6DyNrfEcKjm)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
