@@ -13,12 +13,17 @@ Hamburg hat auf ClassPass ein großes Angebot, verteilt über die ganze Stadt. H
 
 <h2 id="kurz">Kurz gesagt</h2>
 
+<div class="tabel-foto">
+<div class="foto foto-classpass" role="img" aria-label="Kurs in einem Studio"></div>
+
 | | ClassPass in Hamburg |
 | --- | --- |
 | **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) |
 | **Ausprobieren** | 1 Monat gratis, 10 Workouts |
 | **Wo** | In der ganzen Stadt, vor allem in Eppendorf, Eimsbüttel, Winterhude, Altona und in der Innenstadt |
 | **Was du machen kannst** | Lagree, Reformer- und Hot Pilates, Barre, Yoga, Indoor-Cycling, Bootcamp, HYROX und Gym-Besuche, dazu Wellness- und Beauty-Termine |
+
+</div>
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei ClassPass.</p>
 

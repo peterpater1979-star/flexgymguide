@@ -13,12 +13,17 @@ München hat auf ClassPass ein sehr großes Angebot, verteilt über die ganze St
 
 <h2 id="kurz">Kurz gesagt</h2>
 
+<div class="tabel-foto">
+<div class="foto foto-classpass" role="img" aria-label="Kurs in einem Studio"></div>
+
 | | ClassPass in München |
 | --- | --- |
 | **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) |
 | **Ausprobieren** | 1 Monat gratis, 10 Workouts |
 | **Wo** | In der ganzen Stadt, vor allem in der Maxvorstadt, in Schwabing, im Glockenbachviertel und in Haidhausen |
 | **Was du machen kannst** | Reformer-Pilates, Lagree, Barre, Yoga, Indoor-Cycling, HIIT, Bootcamp, HYROX, Boxen und Gym-Besuche, dazu Wellness- und Beauty-Termine |
+
+</div>
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei ClassPass.</p>
 

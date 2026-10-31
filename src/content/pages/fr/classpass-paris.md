@@ -13,12 +13,17 @@ Paris a une très grande offre sur ClassPass, répartie dans toute la ville. Tu 
 
 <h2 id="en-bref">En bref</h2>
 
+<div class="tabel-foto">
+<div class="foto foto-classpass" role="img" aria-label="Cours dans un studio"></div>
+
 | | ClassPass à Paris |
 | --- | --- |
 | **Prix par mois** | Abonnement standard 75 € par mois (47 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Dans toute la ville, surtout autour de l’Opéra et de la Bourse, au Marais, au canal Saint-Martin, à Bastille, à Saint-Germain et dans le 16e |
 | **Ce que tu peux faire** | Lagree, Pilates Reformer, barre, yoga, HIIT, bootcamp, cycling, rameur, boxe, arts martiaux, danse, running et cours en plein air, ainsi que des séances bien-être et beauté |
+
+</div>
 
 <p class="klein">Les prix et les conditions changent régulièrement. Vérifie toujours les informations actuelles sur ClassPass.</p>
 

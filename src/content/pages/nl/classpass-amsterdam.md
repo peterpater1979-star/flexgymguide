@@ -13,12 +13,17 @@ Amsterdam heeft op ClassPass een heel groot aanbod, verspreid over de hele stad.
 
 <h2 id="kort">In het kort</h2>
 
+<div class="tabel-foto">
+<div class="foto foto-classpass" role="img" aria-label="Les in een studio"></div>
+
 | | ClassPass in Amsterdam |
 | --- | --- |
 | **Prijs per maand** | Standaardabonnement € 69 per maand (47 credits) |
 | **Uitproberen** | 14 dagen gratis, 10 workouts |
 | **Waar** | In de hele stad, van het Centrum en de Jordaan tot De Pijp, Oost, Zuid en Noord |
 | **Wat je kunt doen** | Pilates, yoga, spinning, roeien, HIIT, bootcamp, boksen, vechtsport, dans, hardlopen, buitensporten en open gym, plus wellness- en beauty-afspraken |
+
+</div>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele gegevens altijd bij ClassPass.</p>
 

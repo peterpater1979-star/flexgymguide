@@ -13,12 +13,17 @@ London has a huge choice of studios and gyms on ClassPass, spread across the who
 
 <h2 id="summary">In short</h2>
 
+<div class="tabel-foto">
+<div class="foto foto-classpass" role="img" aria-label="Class at a studio"></div>
+
 | | ClassPass in London |
 | --- | --- |
 | **Price per month** | Standard plan £69 a month (52 credits) |
 | **Try it first** | 14 days free, 10 workouts |
 | **Where** | All over London, from the West End and the City to Clapham, Hackney and the suburbs |
 | **What you can do** | HIIT, reformer Pilates, Lagree, indoor cycling, boxing, yoga, dance, outdoor classes and gym visits, plus wellness and beauty appointments |
+
+</div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with ClassPass.</p>
 

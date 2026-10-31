@@ -13,12 +13,17 @@ Bordeaux a une belle offre sur ClassPass, surtout en yoga et en Pilates. Tu trou
 
 <h2 id="en-bref">En bref</h2>
 
+<div class="tabel-foto">
+<div class="foto foto-classpass" role="img" aria-label="Cours dans un studio"></div>
+
 | | ClassPass à Bordeaux |
 | --- | --- |
 | **Prix par mois** | Abonnement standard 59 € par mois (37 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Surtout dans le centre (Pey-Berland, Saint-Pierre), aux Chartrons, à Saint-Genès et à la Bastide |
 | **Ce que tu peux faire** | Pilates Reformer, Lagree, yoga, barre, HIIT, bootcamp, cycling, boxe, danse, running, cours en plein air et accès à la salle, ainsi que des séances bien-être et beauté |
+
+</div>
 
 <p class="klein">Les prix et les conditions changent régulièrement. Vérifie toujours les informations actuelles sur ClassPass.</p>
 

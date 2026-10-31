@@ -13,12 +13,17 @@ Berlin hat auf ClassPass ein sehr großes Angebot, verteilt über die ganze Stad
 
 <h2 id="kurz">Kurz gesagt</h2>
 
+<div class="tabel-foto">
+<div class="foto foto-classpass" role="img" aria-label="Kurs in einem Studio"></div>
+
 | | ClassPass in Berlin |
 | --- | --- |
 | **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) |
 | **Ausprobieren** | 1 Monat gratis, 10 Workouts |
 | **Wo** | In der ganzen Stadt, vor allem in Mitte, Prenzlauer Berg, Kreuzberg, Friedrichshain und Charlottenburg |
 | **Was du machen kannst** | Lagree, Reformer-Pilates, Barre, Yoga, HIIT, Indoor-Cycling, Rudern, Boxen, Tanz, Laufen, Outdoor-Kurse und Gym-Besuche, dazu Wellness- und Beauty-Termine |
+
+</div>
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei ClassPass.</p>
 
