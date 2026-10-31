@@ -92,7 +92,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Ein kleineres Angebot, vor allem im Zentrum rund um die Gottschedstraße. Yoga, Krafttraining und Pilates, im Sommer auch Outdoor-Training im Clara-Zetkin-Park.
+Ein überschaubares Angebot, vor allem im Zentrum. Yoga bei Hot Yoga Leipzig, Be Light Yoga Studio, jayayoga und Studio G14, Pilates bei Pada Pilates und Spannkraft, Krafttraining bei AURUM Fit und Pole Dance bei Delight. Dazu BootCamp drinnen und draußen, etwa am Völkerschlachtdenkmal und im Clara-Zetkin-Park.
 
 ### Das bekommst du
 
