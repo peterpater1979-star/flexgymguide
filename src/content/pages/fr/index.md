@@ -193,7 +193,13 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 <li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-index">Serviette de sport</a></li>
 </ul>
 
-<p class="klein">Nous touchons une commission sur les achats faits via ces liens. Le prix reste le même pour toi.</p>
+Sur Amazon.de (site en allemand, tu peux choisir l’anglais en haut de la page) :
+
+<ul class="spullen">
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Cadenas pour le casier</a></li>
+</ul>
+
+<p class="klein">Nous touchons une commission sur les achats faits via ces liens. En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Le prix reste le même pour toi.</p>
 
 <h2 id="gidsen">Guides</h2>
 

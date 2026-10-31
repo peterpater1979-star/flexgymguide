@@ -23,6 +23,7 @@ Pour un cours d’une heure ou une séance classique en salle, l’eau suffit en
 
 <ul class="spullen">
 <li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-manger-et-boire-autour-du-sport">Gourdes de sport</a></li>
+<li class="i-fles"><a href="/go/amazon-de-faltbare-flasche/">Gourde pliable (Amazon.de)</a></li>
 </ul>
 
 <h2 id="avant">Avant l’entraînement : petit et léger</h2>
@@ -55,10 +56,11 @@ Au moment de choisir, regarde :
 - **Vegan ou sans lactose ?** Il existe aussi des versions à base de pois ou de soja.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-fr-voeding/?ws=fgg-fr-manger-et-boire-autour-du-sport">Protéines, barres et shakers</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-voeding/?ws=fgg-fr-manger-et-boire-autour-du-sport">Protéines et barres</a></li>
+<li class="i-fles"><a href="/go/amazon-de-shaker/">Shaker (Amazon.de)</a></li>
 </ul>
 
-<p class="klein">Ces liens mènent à Traininn, la boutique de fitness de Tradeinn, en français. Nous touchons une commission sur les achats faits via ces liens. Le prix reste le même pour toi.</p>
+<p class="klein">Ces liens mènent à Traininn, la boutique de fitness de Tradeinn, en français, et à Amazon.de (en allemand, tu peux choisir l’anglais en haut de la page). Nous touchons une commission sur les achats faits via ces liens. En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Le prix reste le même pour toi.</p>
 
 <h2 id="sac">Petite liste pour ton sac</h2>
 

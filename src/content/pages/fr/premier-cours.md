@@ -81,7 +81,14 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 <li class="i-handschoen"><a href="/go/traininn-fr-vechtsport/?ws=fgg-fr-premier-cours">Gants et matériel de boxe</a></li>
 </ul>
 
-<p class="klein">Nous touchons une commission sur les achats faits via ces liens. Le prix reste le même pour toi.</p>
+Sur Amazon.de (site en allemand, tu peux choisir l’anglais en haut de la page) :
+
+<ul class="spullen">
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Cadenas pour le casier</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Chaussettes antidérapantes pour yoga et pilates</a></li>
+</ul>
+
+<p class="klein">Nous touchons une commission sur les achats faits via ces liens. En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Le prix reste le même pour toi.</p>
 
 <h2 id="essayer">Essayer plusieurs studios</h2>
 
