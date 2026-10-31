@@ -80,11 +80,11 @@ Prices and terms change regularly. Always check the latest details with the prov
 | Feature | ClassPass | Fitness First | The Gym Group | PureGym |
 | --- | --- | --- | --- | --- |
 | **Type** | Fitness pass with credits | Gym chain | Low-cost gym chain | Budget gym chain |
-| **Price per month** | Depends on the number of credits | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
+| **Price per month** | Standard plan £69 a month (52 credits) | From £70 (Single Club) or £90 (Classic, multi-club access) at London Liverpool Street; prices vary by club | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
 | **How it works** | Monthly credits for classes and gym visits | Membership with access to clubs at your tier or below | Membership at your home gym, classes included. Ultimate adds access to other gyms | Membership at your home gym, classes included at most gyms |
 | **Locations in London** | Studios and gyms across the city | 17 clubs (25 in total) | 87 gyms (over 260 in the UK) | 90 gyms (over 450 in the UK) |
 | **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost | No contract on monthly plans. Saver plans run 9 or 12 months | No contract, cancel any time |
-| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Guest pass | Day pass | – |
+| **Try it first** | <span class="ja" aria-hidden="true">✓</span> 14 days free, 10 workouts | Guest pass | Day pass | – |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only | – |
 | **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) | [All about The Gym Group](/uk/the-gym-group/) | [All about PureGym](/uk/puregym/) |
 
@@ -105,6 +105,8 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 ### What you get
 
 - Monthly credits for classes and gym visits
+- Standard plan in London: 52 credits for £69 a month
+- 14 days free with 10 workouts to try it out
 - Studios all over London, from yoga to boxing
 - Use it in more than 2,500 other cities in 31 countries
 
