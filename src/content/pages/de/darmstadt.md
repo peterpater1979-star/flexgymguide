@@ -54,11 +54,11 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First |
 | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
-| **Preis pro Monat** | Standard-Abo [PREIS] im Monat ([ANZAHL] Credits) | Je nach Club und Mitgliedschaft |
+| **Preis pro Monat** | Standard-Abo 59 € im Monat zzgl. MwSt. (42 Credits) | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
 | **Standorte in Darmstadt** | Wenige Studios in Darmstadt selbst, mehr Auswahl in Frankfurt, Mainz und Wiesbaden | 10 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
-| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
+| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> 1 Monat gratis, 10 Workouts | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich |
 | **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
 
@@ -79,7 +79,8 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo [PREIS] im Monat ([ANZAHL] Credits)
+- Standard-Abo in Darmstadt: 42 Credits für 59 € im Monat zzgl. MwSt.
+- 1 Monat gratis mit 10 Workouts zum Ausprobieren
 - In Darmstadt selbst ist das Angebot klein
 - Viel mehr Auswahl in Frankfurt (etwa 30 Minuten mit der S-Bahn), dazu Studios in Mainz, Wiesbaden, Heidelberg und Mannheim
 - Vor allem Pilates, dazu Yoga, Krafttraining und Barre
