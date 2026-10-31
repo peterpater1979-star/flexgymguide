@@ -86,6 +86,8 @@ Met je credits boek je in Amsterdam niet alleen lessen, maar ook wellness- en be
 - Sommige wellness- en beautysalons willen dat je je afspraak eerst telefonisch of via hun eigen systeem bevestigt. Lees de informatie bij de salon voordat je boekt.
 - Je Amsterdamse abonnement werkt ook in andere Nederlandse steden en in het buitenland, overal waar ClassPass actief is.
 
+[Bekijk de studio's in Amsterdam op ClassPass.](https://classpass.com/search/amsterdam/fitness-classes/5p9zGeT3hPM)
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/classpass/">Alles over ClassPass</a>
 <a class="knop knop-rand" href="/nl/amsterdam/">Flexibel sporten in Amsterdam</a>
