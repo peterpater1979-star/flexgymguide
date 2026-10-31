@@ -21,7 +21,7 @@ Paris a une très grande offre sur ClassPass, répartie dans toute la ville. Tu 
 | **Prix par mois** | Abonnement standard 75 € par mois (47 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Dans toute la ville, surtout autour de l’Opéra et de la Bourse, au Marais, au canal Saint-Martin, à Bastille, à Saint-Germain et dans le 16e |
-| **Ce que tu peux faire** | Lagree, Pilates Reformer, barre, yoga, HIIT, bootcamp, cycling, rameur, boxe, arts martiaux, danse, running et cours en plein air, ainsi que des séances bien-être et beauté |
+| **Ce que tu peux faire** | Lagree, Pilates Reformer, barre, yoga, HIIT, bootcamp, cycling, rameur, boxe, arts martiaux, danse, running, cours en plein air et accès à la salle, ainsi que des séances bien-être et beauté |
 
 </div>
 
@@ -83,6 +83,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **[Danse](/go/classpass-fr-paris-danse/?epi=fgg-fr-classpass-paris) :** entre autres Fit’Ballet, Wild Pole Studio, SalsAlianza, DECIBEL, Pole Dance Paris et Vingtième Danse
 - **[Running](/go/classpass-fr-paris-running/?epi=fgg-fr-classpass-paris) :** entre autres The Runship, avec des points de départ aux Champs-Élysées et avenue de Suffren
 - **[En plein air](/go/classpass-fr-paris-outdoor/?epi=fgg-fr-classpass-paris) :** entre autres The Outdoor Club, Pilates Garden boulevard Kellermann et Flag Training
+- **[Accès à la salle](/go/classpass-fr-paris-salle/?epi=fgg-fr-classpass-paris) :** entre autres RITM aux Champs-Élysées et à Saint-Germain, R2 Training à Vendôme et à Bastille, Club Maillot, easyGym à Palais-Royal et sur les Grands Boulevards, L’Appart Fitness dans le 13e, le 18e et le 19e, Magic Form dans le 12e et le 14e, GymPark à Bercy et Gigafit dans le 18e
 
 <h2 id="bien-etre">Bien-être et beauté</h2>
 
