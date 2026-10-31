@@ -106,7 +106,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Ein sehr großes Angebot, verteilt über die ganze Stadt, mit vielen Studios in Mitte, Prenzlauer Berg, Kreuzberg und Charlottenburg, aber auch in Friedrichshain, Schöneberg und Neukölln. Eine kleine Auswahl: Lagree auf dem Megaformer bei Framework und Shapesty, Reformer-Pilates bei PILATES4all, HIIT bei Barry's und Indoor-Cycling bei Rocycle und BECYCLE & BEYOND. Dazu Yoga und Meditation bei ŌHIA, Krafttraining bei BEAT81 und Hagius und Sauna bei BEYOND BLN.
+Ein sehr großes Angebot, verteilt über die ganze Stadt, von Lagree und Reformer-Pilates bis Boxen, Yoga, Tanz und Indoor-Cycling. Welche Studios es in welchem Bezirk gibt, liest du unter [ClassPass in Berlin](/de/classpass-berlin/).
 
 [Sieh dir die Studios in Berlin auf ClassPass an.](https://classpass.com/search/berlin/fitness-classes/5275bm9hp3q)
 
