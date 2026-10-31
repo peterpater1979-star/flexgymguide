@@ -68,7 +68,7 @@ Los precios y las condiciones cambian a menudo. Comprueba siempre la informació
 | | ClassPass | Basic-Fit | Fitness Park |
 | --- | --- | --- | --- |
 | **Tipo** | Pase deportivo con créditos | Gimnasio económico | Gimnasio con clases colectivas |
-| **Precio** | Depende del número de créditos; el precio varía según la ciudad | Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 € | Sin permanencia Classic 37 €, Ultimate 57 € cada 4 semanas; con permanencia desde 27 € |
+| **Precio** | Plan estándar 49 € al mes (30 créditos) | Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 € | Sin permanencia Classic 37 €, Ultimate 57 € cada 4 semanas; con permanencia desde 27 € |
 | **Permanencia** | Ninguna, cancelas cuando quieras | Un año, o Flex con 4 semanas de preaviso | Con o sin permanencia |
 | **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones | Según el club | Según el club |
 | **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en todos los clubes de 6 países | Más de 300 clubes en Francia |
@@ -97,6 +97,7 @@ Estudios repartidos por la ciudad, entre otros en el PAU 1. Pilates, fuerza y yo
 ### Qué tienes
 
 - Créditos cada mes para clases y sesiones de gimnasio
+- Plan estándar 49 € al mes (30 créditos)
 - 14 días gratis con 10 sesiones para probar
 - Funciona también en más de 2.500 ciudades de 31 países
 
