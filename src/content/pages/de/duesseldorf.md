@@ -106,7 +106,9 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Stadtmitte, Carlstadt, Pempelfort, Flingern, Bilk und Oberkassel. Vor allem Pilates und Yoga, aber auch Krafttraining, Indoor-Cycling und Barre, und auch in Krefeld und Monheim am Rhein.
+Ein gutes Angebot, vor allem in der Innenstadt, in Carlstadt, Pempelfort, Unterbilk und Flingern. Eine kleine Auswahl: Reformer-Pilates bei égoïste, JOSEF P, Roform und corelab, Lagree bei Fitbodylab und Barre bei Youpila und the MOVE STUDIO. Dazu Indoor-Cycling bei BECYCLE, Hot Workouts bei Burn Baby Burn und Krafttraining bei BEAT81.
+
+[Sieh dir die Studios in Düsseldorf auf ClassPass an.](https://classpass.com/search/dsseldorf/fitness-classes/4jqqNAEmdZZ)
 
 ### Das bekommst du
 
