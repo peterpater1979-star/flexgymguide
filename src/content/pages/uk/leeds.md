@@ -90,6 +90,10 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A good mix of boutique studios and gyms, mostly in the city centre, Chapel Allerton, Kirkstall and Horsforth, and also in Pudsey and the wider area. Here is a small selection. For indoor cycling there is RYDE, and for reformer Pilates there are The Wellness Bar, Urth Pilates and Project:Reform. You can do yoga at Yoga Kula, WellNest and Shadwell Studio, CrossFit at FORM and trampoline and cardio classes at ((BOUNCE)). HiiCLUB on Briggate offers workouts and recovery. For gym visits there are Nuffield Health, Anytime Fitness and The Edge at the University of Leeds, which has a pool and a climbing wall.
+
 [See the studios in Leeds on ClassPass.](https://classpass.com/search/leeds/fitness-classes/6DyNrfEcKjm)
 
 ### What you get
