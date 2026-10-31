@@ -75,7 +75,8 @@ Met je credits boek je in Amsterdam niet alleen lessen, maar ook wellness- en be
 - **[Sauna](https://classpass.com/search/amsterdam/sauna-sessions/6CnrLdYGHb5):** Badhus in Noord en West, Stoom aan de NDSM-pier, Soak Urban Wellness, FMNTY STEAM in de Waalstraat en de sauna van Stretch & Fold
 - **[Massage](https://classpass.com/search/amsterdam/massage-sessions/58refc3D72F):** Het Massagehuys aan de Ceintuurbaan en de Jan Evertsenstraat, Dam Best Tibetan Massage aan het Rokin, Tension Tamers in de Jordaan en in Noord, Sai Thong Massage & Spa aan de Albert Cuypstraat, Glowwell SPA en Relax Lounge aan de Overtoom
 - **[Meditatie](https://classpass.com/search/amsterdam/meditation-sessions/4t22EmHs2Sb):** House of Rituals Mind Oasis aan het Spui en The Pause in de Warmoesstraat
-- **[Gezichtsbehandeling](https://classpass.com/search/amsterdam/facial-appointments/5Er1mXmQQCo):** onder meer Urban Beauty Boutique aan de Ceintuurbaan en CERA Wax & Wellness, en nagels bij Aura Atelier in de Kalverstraat
+- **[Gezichtsbehandeling](https://classpass.com/search/amsterdam/facial-appointments/5Er1mXmQQCo):** onder meer Urban Beauty Boutique aan de Ceintuurbaan en Bio Glow Amsterdam
+- **[Beauty](https://classpass.com/search/amsterdam/beauty-appointments/5MZL3r4FnWT):** nagels bij Aura Atelier in de Kalverstraat, Crystal Nails aan de Nieuwendijk, DioniryNails aan de Rozengracht en Amber Nails & Beauty, waxen bij Waxing Novia (alleen voor vrouwen) en CERA Wax & Wellness, wenkbrauwen en wimpers bij Besth Brow Bar en L'Oriental aan het Rokin, en knippen bij El Encanto Hair Salon en barbier Hair Circle
 
 <h2 id="tips">Tips</h2>
 
