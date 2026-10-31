@@ -90,6 +90,12 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A good choice, mostly in the city centre, Kelham Island, Ecclesall Road and around Abbeydale Road, and also in Rotherham nearby. Here is a small selection. For reformer Pilates there are PILAT3S, Home Of Pilates and Handsworth Reformer. For yoga there are R1SE Urban Yoga, Soul Fire Yoga and Power Of Yoga, and R1SE Urban Spa in Kelham has saunas and ice baths. You can do group training at MVMENT and Prime Mover Fitness, or gym visits at Nuffield Health and The Fitness Club. In Rotherham there is Opus Pilates & Barre Studio.
+
+[See the studios in Sheffield on ClassPass.](https://classpass.com/search/sheffield/fitness-classes/4xhPKQg3jx3)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
