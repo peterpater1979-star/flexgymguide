@@ -24,6 +24,8 @@ Amsterdam heeft op ClassPass een heel groot aanbod, verspreid over de hele stad.
 
 <h2 id="buurten">Per buurt</h2>
 
+Een paar voorbeelden per buurt. Er zijn veel meer studio's dan de hier genoemde: klik hieronder op een sport voor de volledige lijst op ClassPass.
+
 ### Centrum en grachtengordel
 
 HIIT bij Saints & Stars aan de Lijnbaansgracht en bij F45 aan het Frederiksplein, spinning bij Rocycle van Rostudios in de Nieuwe Passeerdersstraat en roeien en fietsen bij Upclub ROW & RIDE in de Weesperstraat. Verder hot yoga bij Hot Flow Yoga aan de Prinsengracht en de Oudeschans, yoga bij Movements, Svaha Yoga en Anima House, pilates bij CORE40 aan de Weteringschans en trainen bij The CLB aan het Singel en Underground Sportclub.
@@ -54,27 +56,29 @@ Reformer-pilates bij Rostudios Noord aan de Klaprozenweg, yoga bij HAVEN aan de 
 
 <h2 id="sporten">Per sport</h2>
 
-- **[Pilates](https://classpass.com/search/amsterdam/pilates-classes/5CLFCLsyoY3):** PLTS, CORE40, Studio 191, PILAT3S, KC Move Studio, Rostudios (Roform), Reformé Pilates Studio en Bluebirds
-- **[Yoga](https://classpass.com/search/amsterdam/yoga-classes/4DcJvrr2mQ3):** Hot Flow Yoga, Movements, Bluebirds, EQUAL, FORM, De Nieuwe Yogaschool, Svaha Yoga, HAVEN en Thrive Yoga
-- **[Barre](https://classpass.com/search/amsterdam/barre-classes/5BmhpALfYAT):** Zhembrovskyy, bbb health boutique en ImoveAmsterdam
-- **[Spinning](https://classpass.com/search/amsterdam/cycling-classes/62mxjQgawZq):** Rocycle van Rostudios op vier plekken, WattCycling, Upclub en Saints & Stars
-- **[Roeien](https://classpass.com/search/amsterdam/rowing-classes/6KoyN6riZjd):** Upclub ROW & RIDE
-- **[HIIT](https://classpass.com/search/amsterdam/hiit-classes/4T1Fob3NWyM):** Saints & Stars, The Workout Lab, RUSH, F45, TRIB3, The CLB, Double Shift en HIIT FIT
-- **[Bootcamp](https://classpass.com/search/amsterdam/bootcamp-classes/5G8er29hueo):** Upclub, Bodybase Studios en NUMA
-- **[Boksen](https://classpass.com/search/amsterdam/boxing-classes/3sgQy2d8TuR):** Vondelgym, AKHI Gym, Sin City Boxing, Fight District en NDSM Fightclub
-- **[Vechtsport](https://classpass.com/search/amsterdam/martial-arts-classes/521bENJgmKu):** Mejiro Gym, Ettaki Gym, Patricks Gym, capoeira bij CN Capoeira en aikido bij Shinyu Aikido
-- **[Dans](https://classpass.com/search/amsterdam/dance-classes/5JB6FYneH8s):** Pole Dance Factory, Dance For Your Pole, Chassé Dance Studios, Amsterdam Dance Centre, Wladimir Dance Studios en Samba School Fidelinas
-- **[Hardlopen](https://classpass.com/search/amsterdam/running-classes/4jmdMWcx2zB):** BallinFit en Trainen met Wendy
-- **[Buitensporten](https://classpass.com/search/amsterdam/outdoors-classes/5YRTtPKhz5u):** Fitmundo in het Noorderpark, het Oosterpark en aan de IJpromenade, IMOOV en Fostering Fitness in het Vondelpark en Train with Tommy bij het Olympiaplein
+Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassPass te zien.
+
+- **[Pilates](https://classpass.com/search/amsterdam/pilates-classes/5CLFCLsyoY3):** onder andere PLTS, CORE40, Studio 191, PILAT3S, KC Move Studio, Rostudios (Roform), Reformé Pilates Studio en Bluebirds
+- **[Yoga](https://classpass.com/search/amsterdam/yoga-classes/4DcJvrr2mQ3):** onder andere Hot Flow Yoga, Movements, Bluebirds, EQUAL, FORM, De Nieuwe Yogaschool, Svaha Yoga, HAVEN en Thrive Yoga
+- **[Barre](https://classpass.com/search/amsterdam/barre-classes/5BmhpALfYAT):** onder andere Zhembrovskyy, bbb health boutique en ImoveAmsterdam
+- **[Spinning](https://classpass.com/search/amsterdam/cycling-classes/62mxjQgawZq):** onder andere Rocycle van Rostudios op vier plekken, WattCycling, Upclub en Saints & Stars
+- **[Roeien](https://classpass.com/search/amsterdam/rowing-classes/6KoyN6riZjd):** onder andere Upclub ROW & RIDE
+- **[HIIT](https://classpass.com/search/amsterdam/hiit-classes/4T1Fob3NWyM):** onder andere Saints & Stars, The Workout Lab, RUSH, F45, TRIB3, The CLB, Double Shift en HIIT FIT
+- **[Bootcamp](https://classpass.com/search/amsterdam/bootcamp-classes/5G8er29hueo):** onder andere Upclub, Bodybase Studios en NUMA
+- **[Boksen](https://classpass.com/search/amsterdam/boxing-classes/3sgQy2d8TuR):** onder andere Vondelgym, AKHI Gym, Sin City Boxing, Fight District en NDSM Fightclub
+- **[Vechtsport](https://classpass.com/search/amsterdam/martial-arts-classes/521bENJgmKu):** onder andere Mejiro Gym, Ettaki Gym, Patricks Gym, capoeira bij CN Capoeira en aikido bij Shinyu Aikido
+- **[Dans](https://classpass.com/search/amsterdam/dance-classes/5JB6FYneH8s):** onder andere Pole Dance Factory, Dance For Your Pole, Chassé Dance Studios, Amsterdam Dance Centre, Wladimir Dance Studios en Samba School Fidelinas
+- **[Hardlopen](https://classpass.com/search/amsterdam/running-classes/4jmdMWcx2zB):** onder andere BallinFit en Trainen met Wendy
+- **[Buitensporten](https://classpass.com/search/amsterdam/outdoors-classes/5YRTtPKhz5u):** onder andere Fitmundo in het Noorderpark, het Oosterpark en aan de IJpromenade, IMOOV en Fostering Fitness in het Vondelpark en Train with Tommy bij het Olympiaplein
 - **[Open gym](https://classpass.com/search/amsterdam/gym-time-classes/5srvjYtRtoR):** ruim twintig clubs van [Trainmore](/nl/trainmore/), plus Vondelgym, Sportstudio 79 en Underground Sportclub
 
 <h2 id="wellness">Wellness en beauty</h2>
 
 Met je credits boek je in Amsterdam niet alleen lessen, maar ook wellness- en beauty-afspraken.
 
-- **[Sauna](https://classpass.com/search/amsterdam/sauna-sessions/6CnrLdYGHb5):** Badhus in Noord en West, Stoom aan de NDSM-pier, Soak Urban Wellness, FMNTY STEAM in de Waalstraat en de sauna van Stretch & Fold
-- **[Massage](https://classpass.com/search/amsterdam/massage-sessions/58refc3D72F):** Het Massagehuys aan de Ceintuurbaan en de Jan Evertsenstraat, Dam Best Tibetan Massage aan het Rokin, Tension Tamers in de Jordaan en in Noord, Sai Thong Massage & Spa aan de Albert Cuypstraat, Glowwell SPA en Relax Lounge aan de Overtoom
-- **[Meditatie](https://classpass.com/search/amsterdam/meditation-sessions/4t22EmHs2Sb):** House of Rituals Mind Oasis aan het Spui en The Pause in de Warmoesstraat
+- **[Sauna](https://classpass.com/search/amsterdam/sauna-sessions/6CnrLdYGHb5):** onder andere Badhus in Noord en West, Stoom aan de NDSM-pier, Soak Urban Wellness, FMNTY STEAM in de Waalstraat en de sauna van Stretch & Fold
+- **[Massage](https://classpass.com/search/amsterdam/massage-sessions/58refc3D72F):** onder andere Het Massagehuys aan de Ceintuurbaan en de Jan Evertsenstraat, Dam Best Tibetan Massage aan het Rokin, Tension Tamers in de Jordaan en in Noord, Sai Thong Massage & Spa aan de Albert Cuypstraat, Glowwell SPA en Relax Lounge aan de Overtoom
+- **[Meditatie](https://classpass.com/search/amsterdam/meditation-sessions/4t22EmHs2Sb):** onder andere House of Rituals Mind Oasis aan het Spui en The Pause in de Warmoesstraat
 - **[Gezichtsbehandeling](https://classpass.com/search/amsterdam/facial-appointments/5Er1mXmQQCo):** onder meer Urban Beauty Boutique aan de Ceintuurbaan en Bio Glow Amsterdam
 - **[Beauty](https://classpass.com/search/amsterdam/beauty-appointments/5MZL3r4FnWT):** nagels bij Aura Atelier in de Kalverstraat, Crystal Nails aan de Nieuwendijk, DioniryNails aan de Rozengracht en Amber Nails & Beauty, waxen bij Waxing Novia (alleen voor vrouwen) en CERA Wax & Wellness, wenkbrauwen en wimpers bij Besth Brow Bar en L'Oriental aan het Rokin, en knippen bij El Encanto Hair Salon en barbier Hair Circle
 

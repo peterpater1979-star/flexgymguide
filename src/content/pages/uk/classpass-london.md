@@ -24,6 +24,8 @@ London has a huge choice of studios and gyms on ClassPass, spread across the who
 
 <h2 id="areas">By area</h2>
 
+A few examples per area. There are many more studios than the ones listed here: you'll find the full list on ClassPass.
+
 ### West End and central London
 
 Barry's in Soho and on Euston Road, 1Rebel at Oxford Circus and in Holborn, Psycle on Mortimer Street and Sweat by BXR in Marylebone. For reformer Pilates and Lagree there are JETSET Pilates in Fitzrovia, MAD in Mayfair and Enmei in Marylebone. Gymbox has gyms in Holborn and Farringdon, and Solo60 in Fitzrovia gives you a private gym to yourself.
@@ -50,25 +52,27 @@ Outside the centre there are bhuti in Richmond and Oru Space in Sutton, plus gym
 
 <h2 id="types">By type of workout</h2>
 
-- **HIIT and treadmill classes:** Barry's, 1Rebel, Sweat by BXR, Homerun, Milo and the Bull and F45
-- **Reformer Pilates and Lagree:** JETSET Pilates, ĀVĀ Movement, Avalon Pilates, Ceci Studio, Blanc Space, MAD, Enmei, Reformer Collective near Piccadilly Circus, FLOW on Tottenham Street, nue ground on Abbeville Road and The Loft in Chiswick
-- **Indoor cycling:** Psycle, 1Rebel and CRANK
-- **Rowing:** ROWBOTS and FRAME x ROWBOTS
-- **Boxing and martial arts:** JAB Boxing Club, RUMBLE, BoxcleverLDN, KO Combat Academy, Undisputed Fitness & Martial Arts and outdoor boxing with BoxFit in Hyde Park
-- **Yoga:** Yogahome, Yogarise, 3Tribes, The Hot Spot Yoga, Mission E1, bhuti, The Life Centre in Notting Hill, TRIPSPACE in Haggerston, Om Being in Hackney Downs, Hello Studio in Finsbury Park and Sadhana and The Space in Clapham
-- **CrossFit and strength:** Momentum Training and Gymbox
-- **Dance:** FRAME, LoveDance, Salsateca and MB Studios
-- **Recovery:** saunas and cold plunges at 1Rebel Reset in Kensington, Chelsea, Clapham, Euston and Leadenhall, and at The Sanctuary on Cheshire Street in Shoreditch
-- **Gyms:** Gymbox, Nuffield Health and Fitness4Less, plus private sessions at Solo60
+A selection of studios for each type of workout. You'll find all studios on ClassPass.
+
+- **HIIT and treadmill classes:** among others, Barry's, 1Rebel, Sweat by BXR, Homerun, Milo and the Bull and F45
+- **Reformer Pilates and Lagree:** among others, JETSET Pilates, ĀVĀ Movement, Avalon Pilates, Ceci Studio, Blanc Space, MAD, Enmei, Reformer Collective near Piccadilly Circus, FLOW on Tottenham Street, nue ground on Abbeville Road and The Loft in Chiswick
+- **Indoor cycling:** among others, Psycle, 1Rebel and CRANK
+- **Rowing:** among others, ROWBOTS and FRAME x ROWBOTS
+- **Boxing and martial arts:** among others, JAB Boxing Club, RUMBLE, BoxcleverLDN, KO Combat Academy, Undisputed Fitness & Martial Arts and outdoor boxing with BoxFit in Hyde Park
+- **Yoga:** among others, Yogahome, Yogarise, 3Tribes, The Hot Spot Yoga, Mission E1, bhuti, The Life Centre in Notting Hill, TRIPSPACE in Haggerston, Om Being in Hackney Downs, Hello Studio in Finsbury Park and Sadhana and The Space in Clapham
+- **CrossFit and strength:** among others, Momentum Training and Gymbox
+- **Dance:** among others, FRAME, LoveDance, Salsateca and MB Studios
+- **Recovery:** among others, saunas and cold plunges at 1Rebel Reset in Kensington, Chelsea, Clapham, Euston and Leadenhall, and at The Sanctuary on Cheshire Street in Shoreditch
+- **Gyms:** among others, Gymbox, Nuffield Health and Fitness4Less, plus private sessions at Solo60
 
 <h2 id="wellness">Wellness and beauty</h2>
 
 Your credits are not just for classes. In London you can also book wellness and beauty appointments.
 
-- **Spa and massage:** Bamford Wellness Spa on Draycott Avenue, Wumman Spa in Fitzrovia and The Skin Co Spa on Fournier Street in Spitalfields
-- **Meditation:** 7 Breaths Meditation Studio at Rathbone Square, close to Tottenham Court Road
-- **Nails and beauty:** The Nail Garden in Shoreditch, Soho, Leicester Square and Greenwich, Serenity Nails and Beauty in Earls Court, Chelsea and Holborn, Iris Avenue on Store Street and Seiso on Great Titchfield Street
-- **Barbers:** The Gentleman's Barber in Holborn and Fitzrovia
+- **Spa and massage:** among others, Bamford Wellness Spa on Draycott Avenue, Wumman Spa in Fitzrovia and The Skin Co Spa on Fournier Street in Spitalfields
+- **Meditation:** among others 7 Breaths Meditation Studio at Rathbone Square, close to Tottenham Court Road
+- **Nails and beauty:** among others, The Nail Garden in Shoreditch, Soho, Leicester Square and Greenwich, Serenity Nails and Beauty in Earls Court, Chelsea and Holborn, Iris Avenue on Store Street and Seiso on Great Titchfield Street
+- **Barbers:** among others, The Gentleman's Barber in Holborn and Fitzrovia
 
 <h2 id="tips">Tips</h2>
 

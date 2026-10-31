@@ -24,6 +24,8 @@ München hat auf ClassPass ein sehr großes Angebot, verteilt über die ganze St
 
 <h2 id="viertel">Nach Viertel</h2>
 
+Einige Beispiele pro Viertel. Es gibt viel mehr Studios als die hier genannten: Die vollständige Liste findest du bei ClassPass.
+
 ### Altstadt und Lehel
 
 Gym-Besuche bei body + soul München Mitte in der Sonnenstraße, Kurse bei Time To Shine und Indoor-Cycling bei blackBIKE in der Sendlinger Straße. Im Lehel gibt es Laufband-Bootcamp bei Bootcamp Baby und Lagree bei Lagree Baby in der Herzog-Rudolf-Straße und Krafttraining bei RARE FORM in der Schönfeldstraße.
@@ -58,23 +60,25 @@ body + soul in Brunnthal und Yoga, Pilates und Barre beim yogaatelier in Krailli
 
 <h2 id="sportarten">Nach Sportart</h2>
 
-- **Reformer-Pilates:** PLX, Reformer Club, Reformare, JOSEF P, CASA CORPO, REFORMERWOMAN, We Are YUMI, Reformer Balance, Reformer Loft, Slide Studios und Rostudios (Roform)
-- **Lagree:** Studio Lagree, Soultrain und Lagree Baby
-- **Matten-Pilates und Barre:** The Suite, Drops Barre und The Collective Flow
-- **Yoga:** The Sanctuary, Jivamukti Glockenbach, HAIRU, Velvet House und yogaatelier
-- **Indoor-Cycling:** Rocycle, blackBIKE, NIGHTRIDE und BEAT81 RIDE
-- **HIIT und Bootcamp:** Eternity Health Club, Bootcamp Baby, R1, Time To Shine und Basement
-- **HYROX:** Pace Club
-- **Boxen:** Solid People und R1
-- **Gym:** body + soul, Pace Club und THE GOOD GYM (nur für Frauen)
+Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
+
+- **Reformer-Pilates:** unter anderem PLX, Reformer Club, Reformare, JOSEF P, CASA CORPO, REFORMERWOMAN, We Are YUMI, Reformer Balance, Reformer Loft, Slide Studios und Rostudios (Roform)
+- **Lagree:** unter anderem Studio Lagree, Soultrain und Lagree Baby
+- **Matten-Pilates und Barre:** unter anderem The Suite, Drops Barre und The Collective Flow
+- **Yoga:** unter anderem The Sanctuary, Jivamukti Glockenbach, HAIRU, Velvet House und yogaatelier
+- **Indoor-Cycling:** unter anderem Rocycle, blackBIKE, NIGHTRIDE und BEAT81 RIDE
+- **HIIT und Bootcamp:** unter anderem Eternity Health Club, Bootcamp Baby, R1, Time To Shine und Basement
+- **HYROX:** unter anderem Pace Club
+- **Boxen:** unter anderem Solid People und R1
+- **Gym:** unter anderem body + soul, Pace Club und THE GOOD GYM (nur für Frauen)
 
 <h2 id="wellness">Wellness und Beauty</h2>
 
 Mit deinen Credits buchst du in München nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
 
-- **Massage:** 5 Elements Spa & Massage in Schwabing und im Glockenbachviertel und Thai-Massage bei Haedeza in der Maxvorstadt
-- **Kosmetik:** C1 Kosmetik in der Isarvorstadt, in der Maxvorstadt und am Gärtnerplatz und der feelgoodsalon in Schwabing
-- **Waxing:** Sugar Company in Schwabing und JM Touch of Class in Neuhausen
+- **Massage:** unter anderem 5 Elements Spa & Massage in Schwabing und im Glockenbachviertel und Thai-Massage bei Haedeza in der Maxvorstadt
+- **Kosmetik:** unter anderem C1 Kosmetik in der Isarvorstadt, in der Maxvorstadt und am Gärtnerplatz und der feelgoodsalon in Schwabing
+- **Waxing:** unter anderem Sugar Company in Schwabing und JM Touch of Class in Neuhausen
 
 <h2 id="tipps">Tipps</h2>
 

@@ -24,6 +24,8 @@ Hamburg hat auf ClassPass ein großes Angebot, verteilt über die ganze Stadt. H
 
 <h2 id="stadtteile">Nach Stadtteil</h2>
 
+Einige Beispiele pro Stadtteil. Es gibt viel mehr Studios als die hier genannten: Die vollständige Liste findest du bei ClassPass.
+
 ### Innenstadt, Neustadt und HafenCity
 
 Krafttraining bei Urban Heroes am Valentinskamp, Lagree bei core club, Reformer-Pilates bei Club Pilates in der Brandstwiete, bei The Frame Studios am Pilatuspool und bei YTTP Reformer in der Kaiser-Wilhelm-Straße. Dazu BEAT81 Circuit und Ride in der Neustadt, Fitness First am Rödingsmarkt, Reformer Club in der Speicherstadt und REVIVE STUDIOS am Sandtorpark.
@@ -54,24 +56,25 @@ STORM Bootcamp an der Hamburger Meile, Club Pilates in Wandsbek, Urban Yoga Nord
 
 <h2 id="sportarten">Nach Sportart</h2>
 
-- **Lagree und Reformer-Pilates:** core club, Therapy Studio Alster, Reformer Club, Club Pilates, The Frame Studios, YTTP Reformer, RE:FORM, HICORE und Rostudios (Roform)
-- **Hot Pilates:** House of Heat, BurnBabe und Studio Ora
-- **Matten-Pilates und Barre:** The Pulse Room, Drops Barre, HIBARRE, Wunderbarre, Juun Studios, SOULCLUB, Four Elements und Miel Studio
-- **Yoga:** Yogaraum Hamburg, DAMN GOOD YOGA, TRIBE Yoga Base, The Shala, Monkey Mind Yoga, Urban Yoga, HAMA Studio, REINC, THE HIVE und Studio78
-- **Indoor-Cycling:** Rocycle, HICYCLE und BEAT81 RIDE
-- **HIIT, Bootcamp und HYROX:** STORM, BEAT81 und Urban Heroes
-- **Bewegung und Mobility:** Brain Based Movement, Movement Practice und School of Movement
-- **Gym:** Fitness First, Sports Club und der Burmeister Personal Fitness Club
+Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
+
+- **Lagree und Reformer-Pilates:** unter anderem core club, Therapy Studio Alster, Reformer Club, Club Pilates, The Frame Studios, YTTP Reformer, RE:FORM, HICORE und Rostudios (Roform)
+- **Hot Pilates:** unter anderem House of Heat, BurnBabe und Studio Ora
+- **Matten-Pilates und Barre:** unter anderem The Pulse Room, Drops Barre, HIBARRE, Wunderbarre, Juun Studios, SOULCLUB, Four Elements und Miel Studio
+- **Yoga:** unter anderem Yogaraum Hamburg, DAMN GOOD YOGA, TRIBE Yoga Base, The Shala, Monkey Mind Yoga, Urban Yoga, HAMA Studio, REINC, THE HIVE und Studio78
+- **Indoor-Cycling:** unter anderem Rocycle, HICYCLE und BEAT81 RIDE
+- **HIIT, Bootcamp und HYROX:** unter anderem STORM, BEAT81 und Urban Heroes
+- **Bewegung und Mobility:** unter anderem Brain Based Movement, Movement Practice und School of Movement
+- **Gym:** unter anderem Fitness First, Sports Club und der Burmeister Personal Fitness Club
 
 <h2 id="wellness">Wellness und Beauty</h2>
 
 Mit deinen Credits buchst du in Hamburg nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
 
-- **Sauna:** private Infrarot-Sauna bei Radiance Bar in Winterhude und geführte Saunagänge bei Hytte Studios in Eimsbüttel
-- **Massage:** Petcharat Thai Wellness in der ABC-Straße, Wasana's Smile in Harvestehude, Sai Lom Thai Massage und Phens Wellness in Bahrenfeld
-- **Kältekammer:** Cryopoint in der Innenstadt und in Winterhude und CryoZone in Eppendorf
-- **Head Spa:** HEADSPA by Lasercouture in Winterhude und Ottensen und Lamea Studio
-- **Beauty:** Waxcat in der Innenstadt, in Eimsbüttel und in Wandsbek, Kala Studio in Winterhude, Hamburg Lashes in Uhlenhorst und Cy Studio in der Grindelallee
+- **Sauna:** unter anderem private Infrarot-Sauna bei Radiance Bar in Winterhude und geführte Saunagänge bei Hytte Studios in Eimsbüttel
+- **Massage:** unter anderem Petcharat Thai Wellness in der ABC-Straße, Wasana's Smile in Harvestehude, Sai Lom Thai Massage und Phens Wellness in Bahrenfeld
+- **Head Spa:** unter anderem HEADSPA by Lasercouture in Winterhude und Ottensen und Lamea Studio
+- **Beauty:** unter anderem Waxcat in der Innenstadt, in Eimsbüttel und in Wandsbek, Kala Studio in Winterhude, Hamburg Lashes in Uhlenhorst und Cy Studio in der Grindelallee
 
 <h2 id="tipps">Tipps</h2>
 
