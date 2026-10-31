@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Amsterdam: studio's per buurt en per sport"
 path: "/nl/classpass-amsterdam/"
-description: "Waar sport je met ClassPass in Amsterdam? Een overzicht van studio's per buurt en per sport, van pilates, yoga en spinning tot HIIT, boksen, dans en open gym."
+description: "Waar sport je met ClassPass in Amsterdam? Een overzicht van studio's per buurt en per sport, van pilates, yoga en spinning tot HIIT, boksen, dans, open gym en wellness."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
@@ -18,7 +18,7 @@ Amsterdam heeft op ClassPass een heel groot aanbod, verspreid over de hele stad.
 | **Prijs per maand** | Standaardabonnement € 69 per maand (47 credits) |
 | **Uitproberen** | 14 dagen gratis, 10 workouts |
 | **Waar** | In de hele stad, van het Centrum en de Jordaan tot De Pijp, Oost, Zuid en Noord |
-| **Wat je kunt doen** | Pilates, yoga, spinning, roeien, HIIT, bootcamp, boksen, vechtsport, dans, hardlopen, buitensporten en open gym |
+| **Wat je kunt doen** | Pilates, yoga, spinning, roeien, HIIT, bootcamp, boksen, vechtsport, dans, hardlopen, buitensporten en open gym, plus wellness- en beauty-afspraken |
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele gegevens altijd bij ClassPass.</p>
 
@@ -68,11 +68,21 @@ Reformer-pilates bij Rostudios Noord aan de Klaprozenweg, yoga bij HAVEN aan de 
 - **[Buitensporten](https://classpass.com/search/amsterdam/outdoors-classes/5YRTtPKhz5u):** Fitmundo in het Noorderpark, het Oosterpark en aan de IJpromenade, IMOOV en Fostering Fitness in het Vondelpark en Train with Tommy bij het Olympiaplein
 - **[Open gym](https://classpass.com/search/amsterdam/gym-time-classes/5srvjYtRtoR):** ruim twintig clubs van [Trainmore](/nl/trainmore/), plus Vondelgym, Sportstudio 79 en Underground Sportclub
 
+<h2 id="wellness">Wellness en beauty</h2>
+
+Met je credits boek je in Amsterdam niet alleen lessen, maar ook wellness- en beauty-afspraken.
+
+- **[Sauna](https://classpass.com/search/amsterdam/sauna-sessions/6CnrLdYGHb5):** Badhus in Noord en West, Stoom aan de NDSM-pier, Soak Urban Wellness, FMNTY STEAM in de Waalstraat en de sauna van Stretch & Fold
+- **[Massage](https://classpass.com/search/amsterdam/massage-sessions/58refc3D72F):** Het Massagehuys aan de Ceintuurbaan en de Jan Evertsenstraat, Dam Best Tibetan Massage aan het Rokin, Tension Tamers in de Jordaan en in Noord, Sai Thong Massage & Spa aan de Albert Cuypstraat, Glowwell SPA en Relax Lounge aan de Overtoom
+- **[Meditatie](https://classpass.com/search/amsterdam/meditation-sessions/4t22EmHs2Sb):** House of Rituals Mind Oasis aan het Spui en The Pause in de Warmoesstraat
+- **[Gezichtsbehandeling](https://classpass.com/search/amsterdam/facial-appointments/5Er1mXmQQCo):** onder meer Urban Beauty Boutique aan de Ceintuurbaan en CERA Wax & Wellness, en nagels bij Aura Atelier in de Kalverstraat
+
 <h2 id="tips">Tips</h2>
 
 - Populaire lessen in het Centrum, De Pijp en Oud-West zitten 's ochtends vroeg en na werktijd snel vol. Boek een paar dagen van tevoren.
 - Hoeveel credits een les kost, hangt af van de studio en het tijdstip. Lessen buiten de spits zijn vaak goedkoper.
 - Voor reformer-pilates heb je meestal sokken met grip nodig. Kom de eerste keer iets eerder.
+- Sommige wellness- en beautysalons willen dat je je afspraak eerst telefonisch of via hun eigen systeem bevestigt. Lees de informatie bij de salon voordat je boekt.
 - Je Amsterdamse abonnement werkt ook in andere Nederlandse steden en in het buitenland, overal waar ClassPass actief is.
 
 <div class="knoppen">
