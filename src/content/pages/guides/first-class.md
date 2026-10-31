@@ -66,6 +66,22 @@ Shoes with a flat, firm sole for squats and lifts. A towel to put on benches, an
 4. **Start at your own level.** Nobody expects you to keep up with the regulars in your first class.
 5. **Check the cancellation rules.** With a fitness pass or a trial, a late cancellation can cost credits or a fee.
 
+<h2 id="spullen">Need anything?</h2>
+
+Missing something? These links take you straight to Traininn, the fitness shop of Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-en-kleding/?ws=fgg-guides-first-class">Sportswear</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen/?ws=fgg-guides-first-class">Training shoes</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-first-class">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-guides-first-class">Gym towel</a></li>
+<li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-first-class">Yoga or exercise mat</a></li>
+<li class="i-bandage"><a href="/go/traininn-en-bandages/?ws=fgg-guides-first-class">Boxing hand wraps</a></li>
+<li class="i-handschoen"><a href="/go/traininn-en-handschoenen/?ws=fgg-guides-first-class">Boxing gloves</a></li>
+</ul>
+
+<p class="klein">We earn a commission on purchases made through these links. The price stays the same for you.</p>
+
 <h2 id="try">Trying several studios</h2>
 
 Not sure which kind of training suits you? With a fitness pass like ClassPass you can try yoga, boxing and cycling at different studios before you commit. Prefer one fixed place? Most gym chains offer a free trial session or guest pass.

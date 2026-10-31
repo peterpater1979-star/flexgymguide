@@ -48,6 +48,18 @@ Correr, ir en bici, un parque de calistenia o un vídeo de yoga en casa no cuest
 - **Viajas a menudo o tu horario cambia:** algo sin un contrato largo, como ClassPass.
 - **Lo mejor de los dos:** el gimnasio de tu universidad para el entrenamiento habitual y, de vez en cuando, una clase de ClassPass que allí no tienes.
 
+<h2 id="thuis">Entrenar en casa con poco dinero</h2>
+
+Con unas pocas cosas baratas también puedes entrenar en tu habitación, por ejemplo los días que no vas al gimnasio. Estos enlaces te llevan a Traininn, la tienda de fitness de Tradeinn:
+
+<ul class="spullen">
+<li class="i-mat"><a href="/go/traininn-es-mat/?ws=fgg-es-deporte-estudiante">Esterilla de yoga o ejercicio</a></li>
+<li class="i-band"><a href="/go/traininn-es-banden/?ws=fgg-es-deporte-estudiante">Bandas elásticas</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-deporte-estudiante">Botella de agua</a></li>
+</ul>
+
+<p class="klein">Recibimos una comisión por las compras hechas a través de estos enlaces. Para ti el precio es el mismo.</p>
+
 <h2 id="tips">Consejos</h2>
 
 1. **Pregunta por descuentos para estudiantes.** Algunos gimnasios los tienen, a menudo enseñando tu carné de estudiante.

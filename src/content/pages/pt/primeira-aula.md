@@ -66,6 +66,22 @@ Calçado de sola lisa e firme para agachamentos e levantamentos. Uma toalha para
 4. **Começa ao teu nível.** Ninguém espera que acompanhes os habituais na primeira aula.
 5. **Confirma as regras de cancelamento.** Com um passe desportivo ou uma aula experimental, cancelar tarde pode custar créditos ou uma taxa.
 
+<h2 id="spullen">Precisas de alguma coisa?</h2>
+
+Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de fitness da Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-pt-kleding/?ws=fgg-pt-primeira-aula">Roupa desportiva</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen/?ws=fgg-pt-primeira-aula">Sapatilhas de desporto</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-primeira-aula">Garrafa de água</a></li>
+<li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-primeira-aula">Toalha de desporto</a></li>
+<li class="i-mat"><a href="/go/traininn-pt-mat/?ws=fgg-pt-primeira-aula">Tapete de ioga ou exercício</a></li>
+<li class="i-bandage"><a href="/go/traininn-pt-bandages/?ws=fgg-pt-primeira-aula">Ligaduras de boxe</a></li>
+<li class="i-handschoen"><a href="/go/traininn-pt-handschoenen/?ws=fgg-pt-primeira-aula">Luvas de boxe</a></li>
+</ul>
+
+<p class="klein">Recebemos uma comissão pelas compras feitas através destes links. Para ti, o preço é o mesmo.</p>
+
 <h2 id="experimentar">Experimentar vários estúdios</h2>
 
 Ainda não sabes que treino é para ti? Com um passe desportivo como o ClassPass experimentas ioga, boxe e spinning em estúdios diferentes antes de decidir.

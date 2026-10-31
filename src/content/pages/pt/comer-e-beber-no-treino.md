@@ -50,6 +50,15 @@ Ao escolher, vê:
 - **O sabor e se dissolve bem.** Começa com uma embalagem pequena antes de comprar um saco grande.
 - **Vegana ou sem lactose?** Também há versões de ervilha ou soja.
 
+Uma garrafa, proteína em pó ou barras? Estes links levam-te à Traininn, a loja de fitness da Tradeinn:
+
+<ul class="spullen">
+<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-comer-e-beber-no-treino">Garrafa de água</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-voeding/?ws=fgg-pt-comer-e-beber-no-treino">Proteína e nutrição desportiva</a></li>
+</ul>
+
+<p class="klein">Recebemos uma comissão pelas compras feitas através destes links. Para ti, o preço é o mesmo.</p>
+
 <h2 id="mochila">Lista rápida para a mochila</h2>
 
 1. Uma garrafa de água cheia

@@ -48,6 +48,18 @@ Running, cycling, an outdoor calisthenics park or a yoga video at home cost noth
 - **You're often away or have a changing timetable:** something without a long contract, like ClassPass.
 - **The best of both:** your university gym for regular training, plus the occasional ClassPass class you can't get there.
 
+<h2 id="thuis">Working out at home on a budget</h2>
+
+With a few cheap items you can also train in your room, for example on days you skip the gym. These links take you to Traininn, the fitness shop of Tradeinn:
+
+<ul class="spullen">
+<li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-working-out-as-a-student">Yoga or exercise mat</a></li>
+<li class="i-band"><a href="/go/traininn-en-banden/?ws=fgg-guides-working-out-as-a-student">Resistance bands</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-working-out-as-a-student">Water bottle</a></li>
+</ul>
+
+<p class="klein">We earn a commission on purchases made through these links. The price stays the same for you.</p>
+
 <h2 id="tips">Tips</h2>
 
 1. **Ask about a student discount.** Some gyms have one, often when you show your student card.
