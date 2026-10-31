@@ -97,7 +97,7 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 <li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">Eimsbüttel, Ottensen, St. Pauli, Winterhude und Eppendorf · <a href="/de/classpass-hamburg/">nach Stadtteil</a></span></li>
 <li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">Innenstadt, Sachsenhausen, Bornheim und Westend, viel Pilates</span></li>
 <li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">Innenstadt, Belgisches Viertel, Ehrenfeld und Nippes</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">Maxvorstadt, Schwabing, Glockenbachviertel und Neuhausen, viel Pilates</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">Maxvorstadt, Schwabing, Glockenbachviertel und Neuhausen, viel Pilates · <a href="/de/classpass-muenchen/">nach Viertel</a></span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">Kleines Angebot, mehr Auswahl in Frankfurt</span></li>
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">Mitte und West, viel Pilates</span></li>
 <li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">Stadtmitte, Carlstadt, Pempelfort und Bilk</span></li>
