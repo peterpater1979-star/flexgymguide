@@ -127,8 +127,10 @@ Du kan endre, pause eller si opp abonnementet ditt når som helst.
 Disse lenkene tar deg direkte til Amazon.de, som også leverer til Norge. Siden er på tysk, men du kan velge engelsk øverst på siden.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Treningstøy</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Treningssko</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Treningstøy for kvinner</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Treningstøy for menn</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Treningssko for kvinner</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Treningssko for menn</a></li>
 <li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Drikkeflaske</a></li>
 <li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Treningshåndkle</a></li>
 <li class="i-slot"><a href="/go/amazon-de-schloss/">Hengelås til skapet</a></li>

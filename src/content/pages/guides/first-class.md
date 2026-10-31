@@ -71,8 +71,10 @@ Shoes with a flat, firm sole for squats and lifts. A towel to put on benches, an
 Missing something? These links take you straight to Traininn, the fitness shop of Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-en-kleding/?ws=fgg-guides-first-class">Sportswear</a></li>
-<li class="i-schoen"><a href="/go/traininn-en-schoenen/?ws=fgg-guides-first-class">Training shoes</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-guides-first-class">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-guides-first-class">Sportswear for men</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-guides-first-class">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-guides-first-class">Training shoes for men</a></li>
 <li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-first-class">Water bottle</a></li>
 <li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-guides-first-class">Gym towel</a></li>
 <li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-first-class">Yoga or exercise mat</a></li>

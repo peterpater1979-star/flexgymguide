@@ -71,8 +71,10 @@ Sko med en flad, fast sål til squats og løft. Et håndklæde til bænkene og t
 Disse links fører dig direkte til Amazon.de, som også leverer til Danmark. Siden er på tysk, men du kan vælge engelsk øverst på siden.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Træningstøj</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Træningssko</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Træningstøj til kvinder</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Træningstøj til mænd</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Træningssko til kvinder</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Træningssko til mænd</a></li>
 <li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Drikkedunk</a></li>
 <li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Træningshåndklæde</a></li>
 <li class="i-slot"><a href="/go/amazon-de-schloss/">Hængelås til skabet</a></li>
