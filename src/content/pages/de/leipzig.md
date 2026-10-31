@@ -68,7 +68,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First | McFit |
 | --- | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette |
-| **Preis pro Monat** | Standard-Abo 59 € im Monat zzgl. MwSt. (42 Credits) | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € |
+| **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Flex oder Vertrag über 12 oder 24 Monate, Zugang zu allen McFit-Studios |
 | **Standorte in Leipzig** | Ein kleineres Angebot, vor allem im Zentrum | 2 Clubs | Mehrere Studios in Leipzig |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten |
@@ -93,7 +93,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo in Leipzig: 42 Credits für 59 € im Monat zzgl. MwSt.
+- Standard-Abo in Leipzig: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
 - Ein kleineres Angebot, vor allem im Zentrum, etwa rund um die Gottschedstraße
 - Yoga, Krafttraining und Pilates, im Sommer auch Outdoor-Training im Clara-Zetkin-Park

@@ -82,7 +82,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First | McFit | Holmes Place |
 | --- | --- | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette | Premium-Fitnessclub |
-| **Preis pro Monat** | Standard-Abo 59 € im Monat zzgl. MwSt. (42 Credits) | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € | Nicht online; du erfährst ihn im Club |
+| **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € | Nicht online; du erfährst ihn im Club |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Flex oder Vertrag über 12 oder 24 Monate, Zugang zu allen McFit-Studios | Mitgliedschaft mit Service, Kursen und Wellness |
 | **Standorte in Düsseldorf** | Studios in Stadtmitte, Carlstadt, Pempelfort, Flingern, Bilk und Oberkassel | 5 Clubs | Mehrere Studios in Düsseldorf | 3 Clubs (14 in Deutschland) |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten | – |
@@ -107,7 +107,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo in Düsseldorf: 42 Credits für 59 € im Monat zzgl. MwSt.
+- Standard-Abo in Düsseldorf: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
 - Studios in Stadtmitte, Carlstadt, Pempelfort, Flingern, Bilk und Oberkassel
 - Vor allem Pilates und Yoga, dazu Krafttraining, Indoor-Cycling und Barre
