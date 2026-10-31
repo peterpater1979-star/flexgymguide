@@ -58,7 +58,7 @@ Outside the centre there are bhuti in Richmond and Oru Space in Sutton, plus gym
 - **Yoga:** Yogahome, Yogarise, 3Tribes, The Hot Spot Yoga, Mission E1, bhuti, The Life Centre in Notting Hill, TRIPSPACE in Haggerston, Om Being in Hackney Downs, Hello Studio in Finsbury Park and Sadhana and The Space in Clapham
 - **CrossFit and strength:** Momentum Training and Gymbox
 - **Dance:** FRAME, LoveDance, Salsateca and MB Studios
-- **Recovery:** saunas and cold plunges at 1Rebel Reset in Kensington, Chelsea, Euston and Leadenhall, and at The Sanctuary on Cheshire Street in Shoreditch
+- **Recovery:** saunas and cold plunges at 1Rebel Reset in Kensington, Chelsea, Clapham, Euston and Leadenhall, and at The Sanctuary on Cheshire Street in Shoreditch
 - **Gyms:** Gymbox, Nuffield Health and Fitness4Less, plus private sessions at Solo60
 
 <h2 id="wellness">Wellness and beauty</h2>
