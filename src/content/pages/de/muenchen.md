@@ -92,7 +92,9 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Maxvorstadt, Schwabing, Glockenbachviertel, Neuhausen, Giesing, Bogenhausen und Haidhausen. Vor allem Pilates und Yoga, aber auch Krafttraining, Barre und Gym-Besuche.
+Ein sehr großes Angebot, verteilt über die ganze Stadt, mit vielen Studios in der Maxvorstadt, in Schwabing, Neuhausen, Sendling und Bogenhausen. Eine kleine Auswahl: Gym-Besuche in den body + soul Centern, Reformer-Pilates bei Reformare und CASA CORPO, Lagree im Studio Lagree, HIIT bei Eternity Health Club und Laufband-Bootcamp bei Bootcamp Baby. Dazu Boxen und Kleingruppenkurse bei Solid People.
+
+[Sieh dir die Studios in München auf ClassPass an.](https://classpass.com/search/munich/fitness-classes/5ibjGreKWLX)
 
 ### Das bekommst du
 
