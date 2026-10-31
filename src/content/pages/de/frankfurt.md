@@ -68,7 +68,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First | McFit |
 | --- | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette |
-| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € |
+| **Preis pro Monat** | Standard-Abo [PREIS] im Monat ([ANZAHL] Credits) | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Flex oder Vertrag über 12 oder 24 Monate, Zugang zu allen McFit-Studios |
 | **Standorte in Frankfurt** | Studios in der Innenstadt, Sachsenhausen, Bornheim, Westend, Ostend und mehr | 12 Clubs | Mehrere Studios in Frankfurt |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten |
@@ -93,6 +93,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
+- Standard-Abo [PREIS] im Monat ([ANZAHL] Credits)
 - Studios in der Innenstadt, in Sachsenhausen, Bornheim, im Westend, Bahnhofsviertel, Ostend, Gallus und Nordend
 - Vor allem Pilates, dazu Yoga, Krafttraining, Barre und Stretching
 - Auch Studios in Offenbach, Eschborn, Kelsterbach und Mörfelden-Walldorf

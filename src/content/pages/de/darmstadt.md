@@ -54,7 +54,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First |
 | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette |
-| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft |
+| **Preis pro Monat** | Standard-Abo [PREIS] im Monat ([ANZAHL] Credits) | Je nach Club und Mitgliedschaft |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
 | **Standorte in Darmstadt** | Wenige Studios in Darmstadt selbst, mehr Auswahl in Frankfurt, Mainz und Wiesbaden | 10 Clubs |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
@@ -79,6 +79,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
+- Standard-Abo [PREIS] im Monat ([ANZAHL] Credits)
 - In Darmstadt selbst ist das Angebot klein
 - Viel mehr Auswahl in Frankfurt (etwa 30 Minuten mit der S-Bahn), dazu Studios in Mainz, Wiesbaden, Heidelberg und Mannheim
 - Vor allem Pilates, dazu Yoga, Krafttraining und Barre

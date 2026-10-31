@@ -82,7 +82,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | Merkmal | ClassPass | Fitness First | McFit | Holmes Place |
 | --- | --- | --- | --- | --- |
 | **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette | Premium-Fitnessclub |
-| **Preis pro Monat** | Je nach Zahl der Credits | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € | Nicht online; du erfährst ihn im Club |
+| **Preis pro Monat** | Standard-Abo [PREIS] im Monat ([ANZAHL] Credits) | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € | Nicht online; du erfährst ihn im Club |
 | **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Flex oder Vertrag über 12 oder 24 Monate, Zugang zu allen McFit-Studios | Mitgliedschaft mit Service, Kursen und Wellness |
 | **Standorte in Köln** | Studios in der Innenstadt, Belgischen Viertel, Ehrenfeld, Nippes und Südstadt | 14 Clubs | Mehrere Studios in Köln | 1 Club (14 in Deutschland) |
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten | – |
@@ -107,6 +107,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
+- Standard-Abo [PREIS] im Monat ([ANZAHL] Credits)
 - Studios in der Innenstadt, im Belgischen Viertel, in Ehrenfeld, Nippes, der Südstadt und Lindenthal
 - Vor allem Yoga und Pilates, dazu Barre, Krafttraining, Tanz und Aerial
 - Auch Studios in Troisdorf und Erftstadt
