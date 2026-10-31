@@ -102,6 +102,12 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A huge choice, spread across the whole city, from Soho and the City to Canary Wharf, Shoreditch, Kensington and the suburbs. Here is a small selection. For HIIT there is Barry's, with studios in Soho, Canary Wharf, Victoria, Shoreditch, Bayswater, Euston and St Paul's, as well as 1Rebel. For indoor cycling there is Psycle, and for reformer Pilates there are JETSET Pilates, ĀVĀ Movement, El Estudio and Pilates Circuit. You can also choose boxing and martial arts at BLOK, Mission E1 and Undisputed, or running classes at Homerun. There are dance classes, outdoor bootcamps and private gym sessions at Solo60 too, plus gym visits at leisure centres.
+
+[See the studios in London on ClassPass.](https://classpass.com/search/london/fitness-classes/3rFZWUyMHP5)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
