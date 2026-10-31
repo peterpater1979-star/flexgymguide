@@ -92,6 +92,10 @@ Voordelige sportschoolketen met 17 clubs in Amsterdam, veel dag en nacht open.
 
 Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's door de hele stad. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
 
+### Waar
+
+Een heel groot aanbod, verspreid over de hele stad: van pilates, yoga en spinning tot HIIT, boksen, dans en open gym bij Trainmore. Welke studio's er per buurt en per sport zijn, lees je op [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
+
 <div class="kolommen">
 
 <div class="kolom">

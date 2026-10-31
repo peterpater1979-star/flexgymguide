@@ -101,7 +101,7 @@ Train je vooral in de gym en meerdere keren per week? Kijk dan ook naar [Trainmo
 ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we de opties naast elkaar:
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Oud-West, Centrum, de Jordaan, De Pijp, Oost, Zuid en Noord</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Oud-West, Centrum, de Jordaan, De Pijp, Oost, Zuid en Noord · <a href="/nl/classpass-amsterdam/">per buurt</a></span></li>
 <li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Centrum, Kralingen, Hillegersberg, Noord en Zuid</span></li>
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Centrum, Zeeheldenkwartier, Bezuidenhout en Scheveningen</span></li>
 <li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Binnenstad, Lombok, Oost en Leidsche Rijn</span></li>
