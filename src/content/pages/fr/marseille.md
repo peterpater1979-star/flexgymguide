@@ -107,7 +107,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Vieux-Port, Castellane, Longchamp et Château-Gombert. Yoga, Pilates et renforcement musculaire, et aussi à Cassis.
+Vieux-Port, Castellane, Longchamp et Château-Gombert. Yoga, Pilates et renforcement musculaire, et aussi à Cassis. Les studios par quartier et par sport sont sur [ClassPass à Marseille](/fr/classpass-marseille/).
 
 [Voir les studios à Marseille sur ClassPass](/go/classpass-fr-marseille/?epi=fgg-fr-marseille)
 
