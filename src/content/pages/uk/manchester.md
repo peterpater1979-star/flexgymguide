@@ -90,6 +90,12 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A good choice, mostly in the city centre around Deansgate, Spinningfields, the Northern Quarter and Ancoats, and also in Salford, Stockport and Oldham. Here is a small selection. For HIIT there are Barry's, TRIB3 and F45, and for indoor cycling there is RYDE. For reformer Pilates there are Bondi Pilates, The Reformer Studio, Formula MCR, MMOVE and Kore Studios, and for treadmill and sculpt classes there is RE:SCULPT. You can also do hot classes at Deansgate Haus, yoga at Yoga Republic and bodyweight training at Manchester Calisthenics.
+
+[See the studios in Manchester on ClassPass.](https://classpass.com/search/manchester/fitness-classes/3vG4r9qNkJK)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
