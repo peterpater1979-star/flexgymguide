@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in London: studios by area and type of workout"
 path: "/uk/classpass-london/"
-description: "Where can you train with ClassPass in London? A guide to studios by area and by type of workout, from HIIT and reformer Pilates to boxing, yoga and private gyms."
+description: "Where can you train with ClassPass in London? A guide to studios by area and by type of workout, from HIIT and reformer Pilates to boxing, yoga, wellness and beauty."
 lang: en
 land: uk
 byline: "Updated October 2026"
@@ -18,7 +18,7 @@ London has a huge choice of studios and gyms on ClassPass, spread across the who
 | **Price per month** | Standard plan £69 a month (52 credits) |
 | **Try it first** | 14 days free, 10 workouts |
 | **Where** | All over London, from the West End and the City to Clapham, Hackney and the suburbs |
-| **What you can do** | HIIT, reformer Pilates, Lagree, indoor cycling, boxing, yoga, dance, outdoor classes and gym visits |
+| **What you can do** | HIIT, reformer Pilates, Lagree, indoor cycling, boxing, yoga, dance, outdoor classes and gym visits, plus wellness and beauty appointments |
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with ClassPass.</p>
 
@@ -51,20 +51,30 @@ Outside the centre there are bhuti in Richmond and Oru Space in Sutton, plus gym
 <h2 id="types">By type of workout</h2>
 
 - **HIIT and treadmill classes:** Barry's, 1Rebel, Sweat by BXR, Homerun, Milo and the Bull and F45
-- **Reformer Pilates and Lagree:** JETSET Pilates, ĀVĀ Movement, Avalon Pilates, Ceci Studio, Blanc Space, MAD and Enmei
+- **Reformer Pilates and Lagree:** JETSET Pilates, ĀVĀ Movement, Avalon Pilates, Ceci Studio, Blanc Space, MAD, Enmei, Reformer Collective near Piccadilly Circus, FLOW on Tottenham Street, nue ground on Abbeville Road and The Loft in Chiswick
 - **Indoor cycling:** Psycle, 1Rebel and CRANK
 - **Rowing:** ROWBOTS and FRAME x ROWBOTS
 - **Boxing and martial arts:** JAB Boxing Club, RUMBLE, BoxcleverLDN, KO Combat Academy, Undisputed Fitness & Martial Arts and outdoor boxing with BoxFit in Hyde Park
-- **Yoga:** Yogahome, Yogarise, 3Tribes, The Hot Spot Yoga, Mission E1 and bhuti
+- **Yoga:** Yogahome, Yogarise, 3Tribes, The Hot Spot Yoga, Mission E1, bhuti, The Life Centre in Notting Hill, TRIPSPACE in Haggerston, Om Being in Hackney Downs, Hello Studio in Finsbury Park and Sadhana and The Space in Clapham
 - **CrossFit and strength:** Momentum Training and Gymbox
 - **Dance:** FRAME, LoveDance, Salsateca and MB Studios
-- **Recovery:** saunas and cold plunges at 1Rebel Reset in Kensington and Clapham
+- **Recovery:** saunas and cold plunges at 1Rebel Reset in Kensington, Chelsea, Euston and Leadenhall, and at The Sanctuary on Cheshire Street in Shoreditch
 - **Gyms:** Gymbox, Nuffield Health and Fitness4Less, plus private sessions at Solo60
+
+<h2 id="wellness">Wellness and beauty</h2>
+
+Your credits are not just for classes. In London you can also book wellness and beauty appointments.
+
+- **Spa and massage:** Bamford Wellness Spa on Draycott Avenue, Wumman Spa in Fitzrovia and The Skin Co Spa on Fournier Street in Spitalfields
+- **Meditation:** 7 Breaths Meditation Studio at Rathbone Square, close to Tottenham Court Road
+- **Nails and beauty:** The Nail Garden in Shoreditch, Soho, Leicester Square and Greenwich, Serenity Nails and Beauty in Earls Court, Chelsea and Holborn, Iris Avenue on Store Street and Seiso on Great Titchfield Street
+- **Barbers:** The Gentleman's Barber in Holborn and Fitzrovia
 
 <h2 id="tips">Tips</h2>
 
 - Popular classes in central London book up fast, especially early mornings and after work. Book a few days ahead.
 - Credits per class vary by studio and time of day. Off-peak classes are often cheaper.
+- Some wellness and beauty studios ask you to confirm by phone or through their own booking system first. Read the notes on the studio page before you book.
 - Your London plan also works in other UK cities and abroad, wherever ClassPass is available.
 
 [See the studios in London on ClassPass.](https://classpass.com/search/london/fitness-classes/3rFZWUyMHP5)
