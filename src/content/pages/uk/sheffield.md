@@ -68,11 +68,11 @@ Prices and terms change regularly. Always check the latest details with the prov
 | Feature | ClassPass | The Gym Group | PureGym |
 | --- | --- | --- | --- |
 | **Type** | Fitness pass with credits | Low-cost gym chain | Budget gym chain |
-| **Price per month** | Depends on the number of credits | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
+| **Price per month** | Standard plan £49 a month (36 credits) | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
 | **How it works** | Monthly credits for classes and gym visits | Membership at your home gym, classes included. Ultimate adds access to other gyms | Membership at your home gym, classes included at most gyms |
 | **Locations in Sheffield** | Studios in the city centre, Kelham Island, Broomhall, Handsworth and beyond | 3 gyms (over 260 in the UK) | Gyms in Sheffield (over 450 in the UK) |
 | **Cancelling** | Change or cancel any time | No contract on monthly plans. Saver plans run 9 or 12 months | No contract, cancel any time |
-| **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial | Day pass | – |
+| **Try it first** | <span class="ja" aria-hidden="true">✓</span> 14 days free, 10 workouts | Day pass | – |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only | – |
 | **Find out more** | [All about ClassPass](/uk/classpass/) | [All about The Gym Group](/uk/the-gym-group/) | [All about PureGym](/uk/puregym/) |
 
@@ -93,6 +93,8 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 ### What you get
 
 - Monthly credits for classes and gym visits
+- Standard plan in Sheffield: 36 credits for £49 a month
+- 14 days free with 10 workouts to try it out
 - Yoga, reformer Pilates and recovery (sauna and spa) in the city centre, Kelham Island, Broomhall and Handsworth
 - Also studios in Greenhill, Totley and nearby Rotherham
 - Use it in more than 2,500 other cities in 31 countries
