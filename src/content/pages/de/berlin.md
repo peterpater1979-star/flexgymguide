@@ -106,7 +106,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg, Friedrichshain, Schöneberg und Neukölln. Vor allem Pilates und Yoga, aber auch Krafttraining, Barre, Indoor-Cycling und Sauna.
+Ein großes Angebot, vor allem in Mitte, Prenzlauer Berg, Kreuzberg und Charlottenburg, aber auch in Friedrichshain, Schöneberg und Neukölln. Lagree auf dem Megaformer bei Framework und Shapesty, Reformer-Pilates bei PILATES4all, HIIT bei Barry's und Indoor-Cycling bei Rocycle und BECYCLE & BEYOND. Dazu Yoga und Meditation bei ŌHIA, Krafttraining bei BEAT81 und Hagius und Sauna bei BEYOND BLN.
 
 ### Das bekommst du
 
