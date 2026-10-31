@@ -91,15 +91,15 @@ Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on an
 
 <ul class="stedenlijst">
 <li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group</span></li>
-<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">The Gym Group · PureGym</span></li>
-<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">The Gym Group · PureGym</span></li>
-<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">The Gym Group · PureGym</span></li>
-<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">The Gym Group · PureGym</span></li>
-<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">The Gym Group · PureGym</span></li>
-<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">The Gym Group · PureGym</span></li>
-<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">The Gym Group · PureGym</span></li>
-<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">The Gym Group · PureGym</span></li>
-<li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">The Gym Group · PureGym</span></li>
+<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
+<li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">ClassPass · The Gym Group</span></li>
 </ul>
 
 </div>
