@@ -76,11 +76,11 @@ Voordelige sportschoolketen met 17 clubs in Amsterdam, veel dag en nacht open.
 | Kenmerk | ClassPass | Trainmore | SportCity | Basic-Fit |
 | --- | --- | --- | --- | --- |
 | **Soort** | Sportpas met credits | Sportschoolketen | Sportschoolketen | Voordelige sportschoolketen |
-| **Prijs per maand** | Vanaf €19 (werkt met credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104/4 wkn, €1 korting per workout bij een contract | Bij Lijnbaansgracht € 29,99 tot € 37,99 per 4 wkn (City One) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
+| **Prijs per maand** | Standaardabonnement € 69 per maand (47 credits) | Verschilt per clublabel (Black, Red, Regular), bij Black Label €77 tot €104/4 wkn, €1 korting per workout bij een contract | Bij Lijnbaansgracht € 29,99 tot € 37,99 per 4 wkn (City One) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
 | **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | City One (één club) of City Plus (121 clubs) | Abonnement bij een sportschoolketen, veel clubs dag en nacht open |
 | **Locaties in Amsterdam** | Studio's en gyms in de hele stad, van yoga tot fitness, ook gyms waar je zelf traint, zonder les | 31 clubs (53 in heel Nederland) | Clubs in de stad (121 in heel Nederland) | 17 clubs (meer dan 250 in Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Koningin Wilhelminaplein: Flex € 104, 1 jaar € 84, 2 jaar € 77 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> | Flex maandelijks opzegbaar, met een maand opzegtermijn | Jaarabonnement, of Flex met 4 weken opzegtermijn |
-| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> Dagpas via de club | – |
+| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 workouts | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> Dagpas via de club | – |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | Met Premium of Ultimate, in alle clubs in 6 landen |
 | **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) | [Alles over SportCity](/nl/sportcity/) | [Alles over Basic-Fit](/nl/basic-fit/) |
 
@@ -99,6 +99,8 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Wat je krijgt
 
 - Maandelijkse credits voor lessen en gymbezoeken
+- Standaardabonnement in Amsterdam: 47 credits voor € 69 per maand
+- 14 dagen gratis met 10 workouts om te proberen
 - Studio's door heel Amsterdam: Oud-West, Centrum, de Jordaan, De Pijp, Oost, Oud-Zuid en Noord
 - Vooral veel pilates, maar ook yoga, spinning, krachttraining, boksen en open gym
 - Ook studio's in Amstelveen en Weesp
