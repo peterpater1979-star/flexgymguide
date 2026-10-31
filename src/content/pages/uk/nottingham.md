@@ -1,7 +1,7 @@
 ---
 title: "Flexible fitness in Nottingham: The Gym Group, PureGym and ClassPass"
 path: "/uk/nottingham/"
-description: "Don't want to be tied to one gym? In Nottingham you can join a low-cost gym without a contract. ClassPass has no studios in the city at the moment. Here's what suits you."
+description: "Don't want to be tied to one gym? In Nottingham you can join a low-cost gym without a contract. On ClassPass you'll only find gym visits in Nottingham, no studio classes. Here's what suits you."
 lang: en
 land: uk
 byline: "Updated October 2026"
@@ -9,7 +9,7 @@ crumb: "Nottingham"
 kicker: "City guide Nottingham"
 ---
 
-Don't want to be tied to one gym? In Nottingham the easiest option is a low-cost gym without a contract. ClassPass has no studios in Nottingham at the moment, but your plan does work in other UK cities. Here's what suits you.
+Don't want to be tied to one gym? In Nottingham the easiest option is a low-cost gym without a contract. On ClassPass you'll only find gym visits in Nottingham for now, no studio classes. Here's what suits you.
 
 <h2 id="glance">At a glance</h2>
 
@@ -21,7 +21,7 @@ Don't want to be tied to one gym? In Nottingham the easiest option is a low-cost
 
 ### ClassPass
 
-No studios in Nottingham at the moment. Handy if you often train in other cities.
+Gym visits in Nottingham, classes in other cities.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="#classpass">See ClassPass</a>
@@ -70,7 +70,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Type** | Fitness pass with credits | Low-cost gym chain | Budget gym chain |
 | **Price per month** | Standard plan £49 a month (36 credits) | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
 | **How it works** | Monthly credits for classes and gym visits | Membership at your home gym, classes included. Ultimate adds access to other gyms | Membership at your home gym, classes included at most gyms |
-| **Locations in Nottingham** | No studios in Nottingham at the moment; nearest in Birmingham and Sheffield | 5 gyms (over 260 in the UK) | 6 gyms (over 450 in the UK) |
+| **Locations in Nottingham** | Gym visits only, no studio classes; classes in Birmingham and Sheffield | 5 gyms (over 260 in the UK) | 6 gyms (over 450 in the UK) |
 | **Cancelling** | Change or cancel any time | No contract on monthly plans. Saver plans run 9 or 12 months | No contract, cancel any time |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> 14 days free, 10 workouts | Day pass | – |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only | – |
@@ -92,14 +92,14 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 ### Where
 
-At the moment there are no studios in Nottingham on ClassPass. Your plan does work in other UK cities, such as [Birmingham](/uk/birmingham/), [Sheffield](/uk/sheffield/), [Leeds](/uk/leeds/) and [London](/uk/london/). If you mainly train in Nottingham, a low-cost gym is the better choice for now.
+In Nottingham you can only use ClassPass for gym visits at the moment. There are no studio classes. For yoga, Pilates or spin, your plan also works in other UK cities, such as [Birmingham](/uk/birmingham/), [Sheffield](/uk/sheffield/), [Leeds](/uk/leeds/) and [London](/uk/london/). If you mainly train in Nottingham, a low-cost gym is often the better choice for now.
 
 ### What you get
 
 - Monthly credits for classes and gym visits
 - Standard plan in Nottingham: 36 credits for £49 a month
 - 14 days free with 10 workouts to try it out
-- No studios in Nottingham yet, but studios in Birmingham, Sheffield, Leeds and London
+- Gym visits in Nottingham; studio classes in Birmingham, Sheffield, Leeds and London
 - Use it in more than 2,500 other cities in 31 countries
 
 ### Good for
@@ -194,7 +194,7 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 6 gyms in 
 
 ### You want something different every week
 
-ClassPass has no studios in Nottingham at the moment. For variety, look at the group classes included at The Gym Group and PureGym.
+ClassPass only offers gym visits in Nottingham at the moment. For variety, look at the group classes included at The Gym Group and PureGym.
 
 [Go to The Gym Group](#the-gym-group)
 
@@ -227,7 +227,7 @@ Go for ClassPass. Your membership also works in other countries where ClassPass 
 <details open>
 <summary>Is ClassPass cheaper than a gym membership in Nottingham?</summary>
 
-It depends on how often you train and what you want to do. If you mostly use the gym floor, a low-cost gym is usually cheaper. If you want to mix studios and classes, a fitness pass is usually the better fit, but ClassPass has no studios in Nottingham at the moment.
+It depends on how often you train and what you want to do. If you mostly use the gym floor, a low-cost gym is usually cheaper. If you want to mix studios and classes, a fitness pass is usually the better fit, but in Nottingham ClassPass only offers gym visits at the moment.
 
 </details>
 

@@ -101,7 +101,7 @@ Read more for your city:
 <li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">Studios in the city centre, the Jewellery Quarter and Digbeth</span></li>
 <li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">Studios in Clifton, Harbourside, Bedminster and Bishopston</span></li>
 <li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">Studios in the city centre and Kelham Island</span></li>
-<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">No studios at the moment</span></li>
+<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">Gym visits only</span></li>
 <li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">Studios on the Quayside, in Gosforth and Gateshead</span></li>
 </ul>
 
