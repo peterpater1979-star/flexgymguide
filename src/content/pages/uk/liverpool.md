@@ -90,6 +90,12 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios in and around Liverpool. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A good mix of boutique studios and gyms, mostly in the city centre, the Baltic Triangle, Wavertree and Allerton, with gyms also on the Wirral and in St Helens. Here is a small selection. For HIIT there is Barry's at Flannels, and for indoor cycling there are RYDE and 360 Cycle. For reformer Pilates there are Bayse Reformer Pilates, Nova Core Wellness and Serenity Studio. You can also do group classes at Rise Fitness, women-only training at PowHer, strength training at Elev8 and bouldering at The Climbing Hangar, plus gym visits at Anytime Fitness.
+
+[See the studios in Liverpool on ClassPass.](https://classpass.com/search/liverpool/fitness-classes/5jN8Kn7KeBy)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
