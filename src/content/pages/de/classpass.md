@@ -94,7 +94,7 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 
 <ul class="stedenlijst">
 <li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg und Friedrichshain · <a href="/de/classpass-berlin/">nach Bezirk</a></span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">Eimsbüttel, Ottensen, St. Pauli, Winterhude und Eppendorf</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">Eimsbüttel, Ottensen, St. Pauli, Winterhude und Eppendorf · <a href="/de/classpass-hamburg/">nach Stadtteil</a></span></li>
 <li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">Innenstadt, Sachsenhausen, Bornheim und Westend, viel Pilates</span></li>
 <li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">Innenstadt, Belgisches Viertel, Ehrenfeld und Nippes</span></li>
 <li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">Maxvorstadt, Schwabing, Glockenbachviertel und Neuhausen, viel Pilates</span></li>

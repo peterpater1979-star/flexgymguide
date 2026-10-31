@@ -106,7 +106,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Ein großes Angebot, verteilt über die Stadt, mit vielen Studios in Eimsbüttel, Eppendorf, Hoheluft, Winterhude, Altona und der HafenCity. Eine kleine Auswahl: Lagree bei core club, Reformer-Pilates bei RE:FORM, Reformer Club und Club Pilates, Hot Pilates bei House of Heat und BurnBabe, Barre bei Drops Barre und Yoga bei Yogaraum Hamburg und DAMN GOOD YOGA. Dazu Krafttraining bei Urban Heroes, Indoor-Cycling bei Rocycle und Gym-Besuche bei Fitness First.
+Ein großes Angebot, verteilt über die Stadt, von Lagree, Reformer- und Hot Pilates bis Yoga, Barre, Indoor-Cycling und Bootcamp. Welche Studios es in welchem Stadtteil gibt, liest du unter [ClassPass in Hamburg](/de/classpass-hamburg/).
 
 [Sieh dir die Studios in Hamburg auf ClassPass an.](https://classpass.com/search/hamburg/fitness-classes/3yrbeRao6Sb)
 
