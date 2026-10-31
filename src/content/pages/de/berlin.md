@@ -104,13 +104,15 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
 
+### Wo
+
+Studios in ganz Berlin: Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg, Friedrichshain, Schöneberg und Neukölln. Vor allem Pilates und Yoga, dazu Krafttraining, Barre, Indoor-Cycling und Sauna.
+
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
 - Standard-Abo in Berlin: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Studios in ganz Berlin: Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg, Friedrichshain, Schöneberg und Neukölln
-- Vor allem Pilates und Yoga, dazu Krafttraining, Barre, Indoor-Cycling und Sauna
 - Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für

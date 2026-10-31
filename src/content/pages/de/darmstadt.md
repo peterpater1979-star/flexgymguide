@@ -76,14 +76,15 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der Region einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
 
+### Wo
+
+In Darmstadt selbst ist das Angebot klein. Viel mehr Auswahl in Frankfurt (etwa 30 Minuten mit der S-Bahn), dazu Studios in Mainz, Wiesbaden, Heidelberg und Mannheim. Vor allem Pilates, dazu Yoga, Krafttraining und Barre.
+
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
 - Standard-Abo in Darmstadt: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- In Darmstadt selbst ist das Angebot klein
-- Viel mehr Auswahl in Frankfurt (etwa 30 Minuten mit der S-Bahn), dazu Studios in Mainz, Wiesbaden, Heidelberg und Mannheim
-- Vor allem Pilates, dazu Yoga, Krafttraining und Barre
 - Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für

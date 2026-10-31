@@ -104,14 +104,15 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
 
+### Wo
+
+Studios in der Innenstadt, im Belgischen Viertel, in Ehrenfeld, Nippes, der Südstadt und Lindenthal. Vor allem Yoga und Pilates, dazu Barre, Krafttraining, Tanz und Aerial. Auch Studios in Troisdorf und Erftstadt.
+
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
 - Standard-Abo in Köln: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Studios in der Innenstadt, im Belgischen Viertel, in Ehrenfeld, Nippes, der Südstadt und Lindenthal
-- Vor allem Yoga und Pilates, dazu Barre, Krafttraining, Tanz und Aerial
-- Auch Studios in Troisdorf und Erftstadt
 - Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für

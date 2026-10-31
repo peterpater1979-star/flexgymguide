@@ -90,14 +90,15 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
 
+### Wo
+
+Ein kleineres Angebot, unter anderem in der Innenstadt, am Westpark und in Oespel. Vor allem Yoga und Pilates (auch Lagree), dazu Tanz und Bootcamp. Auch Studios in Bochum und Holzwickede.
+
 ### Das bekommst du
 
 - Monatliche Credits für Kurse und Gym-Besuche
 - Standard-Abo in Dortmund: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Ein kleineres Angebot, unter anderem in der Innenstadt, am Westpark und in Oespel
-- Vor allem Yoga und Pilates (auch Lagree), dazu Tanz und Bootcamp
-- Auch Studios in Bochum und Holzwickede
 - Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für
