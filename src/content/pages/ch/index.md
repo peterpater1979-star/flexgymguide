@@ -136,8 +136,10 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de, das auch in die Schweiz liefert:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Sportbekleidung</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Sportschuhe</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Sportschuhe Herren</a></li>
 <li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
 <li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
 <li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>

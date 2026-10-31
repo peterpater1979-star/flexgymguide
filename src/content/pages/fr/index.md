@@ -182,17 +182,16 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 
 <h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
 
-Ces liens t’emmènent directement sur Amazon.de. Le site est en allemand, mais tu peux choisir l’anglais en haut de la page.
+Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn, en français :
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Vêtements de sport</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Chaussures de sport</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Gourde</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Serviette de sport</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Cadenas pour le casier</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding/?ws=fgg-fr-index">Vêtements de sport</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen/?ws=fgg-fr-index">Chaussures de sport</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-index">Gourde</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-index">Serviette de sport</a></li>
 </ul>
 
-<p class="klein">En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Le prix reste le même pour toi.</p>
+<p class="klein">Nous touchons une commission sur les achats faits via ces liens. Le prix reste le même pour toi.</p>
 
 <h2 id="gidsen">Guides</h2>
 

@@ -129,8 +129,10 @@ Du kan ändra, pausa eller säga upp ditt abonnemang när som helst.
 De här länkarna tar dig direkt till Amazon.de, som också levererar till Sverige. Sidan är på tyska, men du kan välja engelska högst upp på sidan.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Träningskläder</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Träningsskor</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Träningskläder dam</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Träningskläder herr</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Träningsskor dam</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Träningsskor herr</a></li>
 <li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Vattenflaska</a></li>
 <li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Träningshandduk</a></li>
 <li class="i-slot"><a href="/go/amazon-de-schloss/">Hänglås till skåpet</a></li>
