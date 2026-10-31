@@ -90,6 +90,12 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
 
+### Where
+
+A good choice, with lots of reformer Pilates, mostly in the city centre, the West End, the Southside and Tradeston, and also in Clydebank and Motherwell. Here is a small selection. For reformer Pilates there are The Holistic Warehouse in Tradeston, Dalmarnock and Clydebank, LÙTH Reformer and Haus of Pilates at Silverburn. For Lagree there is Aura Lagree Studio, and for barre there is Bodi Barre Studio. You can do yoga at The Yoga Barn, UNRULY Yoga and Hope Studio, group training at F45 and Cavefit and gym visits at Future Fitness in Shawlands.
+
+[See the studios in Glasgow on ClassPass.](https://classpass.com/search/glasgow/fitness-classes/653X6hwJxgf)
+
 ### What you get
 
 - Monthly credits for classes and gym visits
