@@ -92,7 +92,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Studios in der Innenstadt, in Sachsenhausen, Bornheim, im Westend, Bahnhofsviertel, Ostend, Gallus und Nordend. Vor allem Pilates, dazu Yoga, Krafttraining, Barre und Stretching. Auch Studios in Offenbach, Eschborn, Kelsterbach und Mörfelden-Walldorf.
+Innenstadt, Sachsenhausen, Bornheim, Westend, Bahnhofsviertel, Ostend, Gallus und Nordend. Vor allem Pilates, aber auch Yoga, Krafttraining, Barre und Stretching, und auch in Offenbach, Eschborn, Kelsterbach und Mörfelden-Walldorf.
 
 ### Das bekommst du
 

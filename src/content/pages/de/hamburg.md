@@ -106,7 +106,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Studios in ganz Hamburg: Eimsbüttel, Ottensen, Rotherbaum, St. Pauli, Uhlenhorst, Winterhude, Eppendorf und HafenCity. Vor allem Yoga und Pilates, dazu Krafttraining, Meditation, Barre und Massage.
+Eimsbüttel, Ottensen, Rotherbaum, St. Pauli, Uhlenhorst, Winterhude, Eppendorf und HafenCity. Vor allem Yoga und Pilates, aber auch Krafttraining, Meditation, Barre und Massage.
 
 ### Das bekommst du
 

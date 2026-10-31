@@ -92,7 +92,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Studios in ganz München: Maxvorstadt, Schwabing, Glockenbachviertel, Neuhausen, Giesing, Bogenhausen und Haidhausen. Vor allem Pilates und Yoga, dazu Krafttraining, Barre und Gym-Besuche.
+Maxvorstadt, Schwabing, Glockenbachviertel, Neuhausen, Giesing, Bogenhausen und Haidhausen. Vor allem Pilates und Yoga, aber auch Krafttraining, Barre und Gym-Besuche.
 
 ### Das bekommst du
 

@@ -106,7 +106,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Studios in ganz Berlin: Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg, Friedrichshain, Schöneberg und Neukölln. Vor allem Pilates und Yoga, dazu Krafttraining, Barre, Indoor-Cycling und Sauna.
+Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg, Friedrichshain, Schöneberg und Neukölln. Vor allem Pilates und Yoga, aber auch Krafttraining, Barre, Indoor-Cycling und Sauna.
 
 ### Das bekommst du
 

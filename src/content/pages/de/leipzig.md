@@ -92,7 +92,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Ein kleineres Angebot, vor allem im Zentrum, etwa rund um die Gottschedstraße. Yoga, Krafttraining und Pilates, im Sommer auch Outdoor-Training im Clara-Zetkin-Park.
+Ein kleineres Angebot, vor allem im Zentrum rund um die Gottschedstraße. Yoga, Krafttraining und Pilates, im Sommer auch Outdoor-Training im Clara-Zetkin-Park.
 
 ### Das bekommst du
 

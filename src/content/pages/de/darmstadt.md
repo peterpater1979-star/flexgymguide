@@ -78,7 +78,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-In Darmstadt selbst ist das Angebot klein. Viel mehr Auswahl in Frankfurt (etwa 30 Minuten mit der S-Bahn), dazu Studios in Mainz, Wiesbaden, Heidelberg und Mannheim. Vor allem Pilates, dazu Yoga, Krafttraining und Barre.
+In Darmstadt selbst gibt es nur wenige Studios. Viel mehr Auswahl hast du in Frankfurt, etwa 30 Minuten mit der S-Bahn, und in Mainz, Wiesbaden, Heidelberg und Mannheim. Vor allem Pilates, aber auch Yoga, Krafttraining und Barre.
 
 ### Das bekommst du
 

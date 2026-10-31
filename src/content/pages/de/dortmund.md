@@ -92,7 +92,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Ein kleineres Angebot, unter anderem in der Innenstadt, am Westpark und in Oespel. Vor allem Yoga und Pilates (auch Lagree), dazu Tanz und Bootcamp. Auch Studios in Bochum und Holzwickede.
+Ein kleineres Angebot, vor allem in der Innenstadt, am Westpark und in Oespel. Vor allem Yoga und Pilates (auch Lagree), dazu Tanz und Bootcamp, und auch in Bochum und Holzwickede.
 
 ### Das bekommst du
 

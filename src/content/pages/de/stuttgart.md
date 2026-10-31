@@ -92,7 +92,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Studios in Stuttgart-Mitte, Stuttgart-West, -Süd und -Ost. Vor allem Pilates und Yoga, dazu Barre, Krafttraining, Indoor-Cycling und Tanz. Auch Studios in Fellbach und Remseck am Neckar.
+Stuttgart-Mitte, -West, -Süd und -Ost. Vor allem Pilates und Yoga, aber auch Barre, Krafttraining, Indoor-Cycling und Tanz, und auch in Fellbach und Remseck am Neckar.
 
 ### Das bekommst du
 

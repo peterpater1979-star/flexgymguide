@@ -106,7 +106,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Studios in der Innenstadt, im Belgischen Viertel, in Ehrenfeld, Nippes, der Südstadt und Lindenthal. Vor allem Yoga und Pilates, dazu Barre, Krafttraining, Tanz und Aerial. Auch Studios in Troisdorf und Erftstadt.
+Innenstadt, Belgisches Viertel, Ehrenfeld, Nippes, Südstadt und Lindenthal. Vor allem Yoga und Pilates, aber auch Barre, Krafttraining, Tanz und Aerial, und auch in Troisdorf und Erftstadt.
 
 ### Das bekommst du
 

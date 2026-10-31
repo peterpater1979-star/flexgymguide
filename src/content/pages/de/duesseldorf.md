@@ -106,7 +106,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Studios in Stadtmitte, Carlstadt, Pempelfort, Flingern, Bilk und Oberkassel. Vor allem Pilates und Yoga, dazu Krafttraining, Indoor-Cycling und Barre. Auch Studios in Krefeld und Monheim am Rhein.
+Stadtmitte, Carlstadt, Pempelfort, Flingern, Bilk und Oberkassel. Vor allem Pilates und Yoga, aber auch Krafttraining, Indoor-Cycling und Barre, und auch in Krefeld und Monheim am Rhein.
 
 ### Das bekommst du
 
