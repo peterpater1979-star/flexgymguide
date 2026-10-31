@@ -106,7 +106,9 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Innenstadt, Belgisches Viertel, Ehrenfeld, Nippes, Südstadt und Lindenthal. Vor allem Yoga und Pilates, aber auch Barre, Krafttraining, Tanz und Aerial, und auch in Troisdorf und Erftstadt.
+Ein gutes Angebot, vor allem im Belgischen Viertel, in der Innenstadt, in der Südstadt, in Sülz und in Lindenthal. Eine kleine Auswahl: Barre bei GlowBarre, Drops Barre und JuunStudios, Reformer-Pilates bei Roform, Yoga bei Yoga Liebe und Indoor-Cycling bei Rocycle. Dazu Krafttraining bei BEAT81 und STORM Bootcamp und Tanz bei ON POINT.
+
+[Sieh dir die Studios in Köln auf ClassPass an.](https://classpass.com/search/cologne/fitness-classes/4QTzWpMNzFh)
 
 ### Das bekommst du
 
