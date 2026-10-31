@@ -142,6 +142,6 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 
 /* Tabel met foto ernaast (desktop), foto erboven (mobiel) */
 .tabel-foto { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 1.5rem; align-items: stretch; margin: 1.5rem 0; }
-.tabel-foto > .foto { order: 2; min-height: 220px; border-radius: var(--radius); background: var(--foto, none) center 20% / cover, var(--accent); }
+.tabel-foto > .foto { order: 2; align-self: start; aspect-ratio: 3 / 2; border-radius: var(--radius); background: var(--foto, none) center / cover, var(--accent); }
 .tabel-foto > table, .tabel-foto > div { margin: 0; }
-@media (max-width: 760px) { .tabel-foto { grid-template-columns: 1fr; } .tabel-foto > .foto { order: 0; min-height: 0; height: 200px; } }
+@media (max-width: 760px) { .tabel-foto { grid-template-columns: 1fr; } .tabel-foto > .foto { order: 0; } }
