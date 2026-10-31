@@ -19,7 +19,7 @@ Peter Pater, Leuvenstraat 134, 1066 HD Amsterdam, the Netherlands, [info@flexgym
 - **Statistics.** We count visits with Cloudflare Web Analytics. It sets no cookies and does not identify you: it only counts page views, the page you came from, your country and the type of device ([Cloudflare privacy policy](https://www.cloudflare.com/privacypolicy/)). We do not use tracking cookies on this site.
 - **Contact form.** Your name, email address and message, only to answer you. Stored by Netlify Forms and deleted within 12 months.
 - **Tip form.** Your tip, and your name and email address if you fill them in, only to improve the site and, if you ask, to reply. Stored by Netlify Forms and deleted within 12 months.
-- **Affiliate links.** Links that start with /go/ take you to a provider via an affiliate network (currently Tradedoubler). Those networks and the provider may set cookies on their own websites to record that you came from us. Their own privacy policies apply.
+- **Affiliate links.** Links that start with /go/ take you to a provider via an affiliate network (currently Tradedoubler and Daisycon). Those networks and the provider may set cookies on their own websites to record that you came from us. Their own privacy policies apply.
 
 ## Cookies
 
@@ -45,6 +45,6 @@ FlexGymGuide zelf plaatst geen cookies. We tellen bezoeken met Cloudflare Web An
 
 **Statistik:** Wir zählen Besuche mit Cloudflare Web Analytics, ohne Cookies und ohne dich zu identifizieren (Art. 6 Abs. 1 lit. f DSGVO).
 
-**Cookies:** FlexGymGuide setzt selbst keine Cookies. Bei Klick auf einen Affiliate-Link (/go/) können das Affiliate-Netzwerk (derzeit Tradedoubler) und der Anbieter auf ihren eigenen Websites Cookies setzen.
+**Cookies:** FlexGymGuide setzt selbst keine Cookies. Bei Klick auf einen Affiliate-Link (/go/) können das Affiliate-Netzwerk (derzeit Tradedoubler und Daisycon) und der Anbieter auf ihren eigenen Websites Cookies setzen.
 
 **Deine Rechte:** Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit und Widerspruch. Du kannst dich bei einer Datenschutzaufsichtsbehörde beschweren.

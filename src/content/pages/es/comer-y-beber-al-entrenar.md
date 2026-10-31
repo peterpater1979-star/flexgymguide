@@ -50,6 +50,15 @@ Al elegir, fíjate en:
 - **El sabor y si se disuelve bien.** Empieza con un envase pequeño antes de comprar una bolsa grande.
 - **¿Vegana o sin lactosa?** También hay versiones de guisante o soja.
 
+¿Una botella, proteína en polvo o barritas? Estos enlaces te llevan a Traininn, la tienda de fitness de Tradeinn:
+
+<ul class="spullen">
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-comer-y-beber-al-entrenar">Botella de agua</a></li>
+<li class="i-fles"><a href="/go/traininn-es-voeding/?ws=fgg-es-comer-y-beber-al-entrenar">Proteína y nutrición deportiva</a></li>
+</ul>
+
+<p class="klein">Recibimos una comisión por las compras hechas a través de estos enlaces. Para ti el precio es el mismo.</p>
+
 <h2 id="bolsa">Lista rápida para tu bolsa</h2>
 
 1. Una botella de agua llena

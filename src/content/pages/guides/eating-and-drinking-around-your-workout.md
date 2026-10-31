@@ -50,6 +50,15 @@ When choosing one, look at:
 - **Taste and how well it mixes.** Start with a small pack before buying a big bag.
 - **Vegan or lactose-free?** There are also pea or soy-based options.
 
+A bottle, protein powder or bars? These links take you to Traininn, the fitness shop of Tradeinn:
+
+<ul class="spullen">
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-eating-and-drinking-around-your-workout">Water bottle</a></li>
+<li class="i-fles"><a href="/go/traininn-en-voeding/?ws=fgg-guides-eating-and-drinking-around-your-workout">Protein and sports nutrition</a></li>
+</ul>
+
+<p class="klein">We earn a commission on purchases made through these links. The price stays the same for you.</p>
+
 <h2 id="bag">A short list for your bag</h2>
 
 1. A full water bottle

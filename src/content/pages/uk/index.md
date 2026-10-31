@@ -140,6 +140,19 @@ You can change, pause or cancel your plan at any time.
 
 [Read the full guide](/guides/how-classpass-works/)
 
+<h2 id="spullen">Need anything for the gym?</h2>
+
+Missing something? These links take you straight to Traininn, the fitness shop of Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-en-kleding/?ws=fgg-uk-index">Sportswear</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen/?ws=fgg-uk-index">Training shoes</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-uk-index">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-uk-index">Gym towel</a></li>
+</ul>
+
+<p class="klein">We earn a commission on purchases made through these links. The price stays the same for you.</p>
+
 <h2 id="gidsen">Guides</h2>
 
 - **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · what suits how you train

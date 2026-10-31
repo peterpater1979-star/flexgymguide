@@ -150,6 +150,63 @@
 # /go/fitness-first-de/   clickref=:ref  https://www.awin1.com/cread.php?awinmid=15968&awinaffid=[ID]&clickref=:ref  302
 # /go/fitness-first-uk/   clickref=:ref  https://www.awin1.com/cread.php?awinmid=109520&awinaffid=[ID]&clickref=:ref  302
 
+# Tradeinn via Daisycon (programma TrainInn INT, si=20617, link 1874239, media 442019), goedgekeurd okt 2026.
+# Label per pagina in ?ws= (fgg-[land]-[pagina]); dl = pad op tradeinn.com (Traininn-categorie).
+/go/traininn-en-kleding/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Fclothing%2F11076%2Ff  302
+/go/traininn-en-kleding/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Fclothing%2F11076%2Ff  302
+/go/traininn-en-schoenen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Ffootwear%2F11084%2Ff  302
+/go/traininn-en-schoenen/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Ffootwear%2F11084%2Ff  302
+/go/traininn-en-voeding/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Fnutrition%2F11546%2Ff  302
+/go/traininn-en-voeding/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Fnutrition%2F11546%2Ff  302
+/go/traininn-en-fles/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Ffitness-equipment-bottles%2F12065%2Fs  302
+/go/traininn-en-fles/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Ffitness-equipment-bottles%2F12065%2Fs  302
+/go/traininn-en-handdoek/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Ffitness-equipment-towels%2F12062%2Fs  302
+/go/traininn-en-handdoek/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Ffitness-equipment-towels%2F12062%2Fs  302
+/go/traininn-en-mat/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Ffitness-equipment-mats%2F12055%2Fs  302
+/go/traininn-en-mat/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Ffitness-equipment-mats%2F12055%2Fs  302
+/go/traininn-en-banden/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Ffitness-equipment-exercise-bands%2F12056%2Fs  302
+/go/traininn-en-banden/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Ffitness-equipment-exercise-bands%2F12056%2Fs  302
+/go/traininn-en-handschoenen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Fcombat-sport-equipment-combat-gloves%2F14790%2Fs  302
+/go/traininn-en-handschoenen/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Fcombat-sport-equipment-combat-gloves%2F14790%2Fs  302
+/go/traininn-en-bandages/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Fcombat-sport-equipment-bandage%2F15119%2Fs  302
+/go/traininn-en-bandages/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Fcombat-sport-equipment-bandage%2F15119%2Fs  302
+/go/traininn-es-kleding/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fropa%2F11076%2Ff  302
+/go/traininn-es-kleding/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fropa%2F11076%2Ff  302
+/go/traininn-es-schoenen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fcalzado%2F11084%2Ff  302
+/go/traininn-es-schoenen/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fcalzado%2F11084%2Ff  302
+/go/traininn-es-voeding/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fnutricion%2F11546%2Ff  302
+/go/traininn-es-voeding/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fnutricion%2F11546%2Ff  302
+/go/traininn-es-fles/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fmaterial-fitness-botellas%2F12065%2Fs  302
+/go/traininn-es-fles/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fmaterial-fitness-botellas%2F12065%2Fs  302
+/go/traininn-es-handdoek/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fmaterial-fitness-toallas%2F12062%2Fs  302
+/go/traininn-es-handdoek/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fmaterial-fitness-toallas%2F12062%2Fs  302
+/go/traininn-es-mat/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fmaterial-fitness-esterillas%2F12055%2Fs  302
+/go/traininn-es-mat/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fmaterial-fitness-esterillas%2F12055%2Fs  302
+/go/traininn-es-banden/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fmaterial-fitness-bandas-ejercicio%2F12056%2Fs  302
+/go/traininn-es-banden/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fmaterial-fitness-bandas-ejercicio%2F12056%2Fs  302
+/go/traininn-es-handschoenen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fequipamiento-deportes-de-combate-guantes-combate%2F14790%2Fs  302
+/go/traininn-es-handschoenen/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fequipamiento-deportes-de-combate-guantes-combate%2F14790%2Fs  302
+/go/traininn-es-bandages/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fequipamiento-deportes-de-combate-vendajes%2F15119%2Fs  302
+/go/traininn-es-bandages/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fequipamiento-deportes-de-combate-vendajes%2F15119%2Fs  302
+/go/traininn-pt-kleding/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Froupa%2F11076%2Ff  302
+/go/traininn-pt-kleding/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Froupa%2F11076%2Ff  302
+/go/traininn-pt-schoenen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Fcalcado%2F11084%2Ff  302
+/go/traininn-pt-schoenen/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Fcalcado%2F11084%2Ff  302
+/go/traininn-pt-voeding/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Fnutricao%2F11546%2Ff  302
+/go/traininn-pt-voeding/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Fnutricao%2F11546%2Ff  302
+/go/traininn-pt-fles/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Fequipamento-de-fitness-garrafas%2F12065%2Fs  302
+/go/traininn-pt-fles/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Fequipamento-de-fitness-garrafas%2F12065%2Fs  302
+/go/traininn-pt-handdoek/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Fequipamento-de-fitness-toalhas%2F12062%2Fs  302
+/go/traininn-pt-handdoek/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Fequipamento-de-fitness-toalhas%2F12062%2Fs  302
+/go/traininn-pt-mat/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Fequipamento-de-fitness-tapetes%2F12055%2Fs  302
+/go/traininn-pt-mat/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Fequipamento-de-fitness-tapetes%2F12055%2Fs  302
+/go/traininn-pt-banden/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Fequipamento-de-fitness-bandas-elasticas%2F12056%2Fs  302
+/go/traininn-pt-banden/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Fequipamento-de-fitness-bandas-elasticas%2F12056%2Fs  302
+/go/traininn-pt-handschoenen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Fequipamento-desporto-de-combate-luvas-de-combate%2F14790%2Fs  302
+/go/traininn-pt-handschoenen/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Fequipamento-desporto-de-combate-luvas-de-combate%2F14790%2Fs  302
+/go/traininn-pt-bandages/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Fequipamento-desporto-de-combate-ligaduras%2F15119%2Fs  302
+/go/traininn-pt-bandages/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Fequipamento-desporto-de-combate-ligaduras%2F15119%2Fs  302
+
 # Amazon.nl (PartnerNet, tracking-ID flexgymguide-21): zoekpagina's voor de gids eerste les.
 /go/amazon-nl-sportkleding/  https://www.amazon.nl/s?k=sportkleding&tag=flexgymguide-21  302
 /go/amazon-nl-sportschoenen/  https://www.amazon.nl/s?k=sportschoenen&tag=flexgymguide-21  302

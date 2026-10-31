@@ -53,6 +53,19 @@ Fuera de Europa funciona, entre otros, en Estados Unidos, Canadá, Australia, Nu
 4. **Piensa también en un gimnasio.** Ir a un gimnasio cerca del hotel es una forma fácil de entrenar entre visita y visita.
 5. **Relájate después del viaje.** También puedes usar créditos para un masaje o un spa.
 
+<h2 id="onderweg">Práctico para la maleta</h2>
+
+Ligero y pequeño, para que quepa fácilmente en tu equipaje. Estos enlaces te llevan a Traininn, la tienda de fitness de Tradeinn:
+
+<ul class="spullen">
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-classpass-de-viaje">Botella de agua</a></li>
+<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-classpass-de-viaje">Toalla de deporte</a></li>
+<li class="i-mat"><a href="/go/traininn-es-mat/?ws=fgg-es-classpass-de-viaje">Esterilla de yoga o ejercicio</a></li>
+<li class="i-band"><a href="/go/traininn-es-banden/?ws=fgg-es-classpass-de-viaje">Bandas elásticas</a></li>
+</ul>
+
+<p class="klein">Recibimos una comisión por las compras hechas a través de estos enlaces. Para ti el precio es el mismo.</p>
+
 <h2 id="checklist">Lista de comprobación</h2>
 
 - [ ] Busca tu destino en la app
