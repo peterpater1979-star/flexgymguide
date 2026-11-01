@@ -1,5 +1,5 @@
 ---
-title: "Faire du sport sans engagement en France : ClassPass, Basic-Fit, Fitness Park et Keepcool"
+title: "Faire du sport sans engagement en France"
 path: "/fr/"
 description: "Envie de faire du sport sans contrat long dans une seule salle ? Avec ClassPass, un seul abonnement donne accès à des studios et salles de sport à Paris. Voici comment ça marche."
 lang: fr
