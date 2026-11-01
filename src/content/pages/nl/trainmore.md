@@ -1,7 +1,7 @@
 ---
 title: "Trainmore: clubs, prijzen, korting per workout en opzeggen"
 path: "/nl/trainmore/"
-description: "Alles over Trainmore: 53 clubs in Nederland, de clublabels Black, Red en Regular, de korting per workout, contracten, opzeggen en de gratis proefles."
+description: "Alles over Trainmore: 53 clubs in Nederland, clublabels, faciliteiten, groepslessen, de korting per workout, het studentenlidmaatschap, contracten en opzeggen."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
@@ -11,7 +11,7 @@ kicker: "Aanbieder: sportschoolketen"
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Sportschool"></div>
 
-Trainmore is een Nederlandse sportschoolketen met 53 eigen clubs. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Bijzonder is de korting per workout: hoe vaker je traint, hoe minder je betaalt.
+Trainmore is een Nederlandse sportschoolketen met 53 eigen clubs. Met een lidmaatschap train je in de gym, doe je mee aan groepslessen en gebruik je de extra's van je club, zoals sauna of koffie. Bijzonder is de korting per workout: hoe vaker je traint, hoe minder je betaalt.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#steden">Trainmore in jouw stad</a>
@@ -24,7 +24,9 @@ Trainmore is een Nederlandse sportschoolketen met 53 eigen clubs. Met een lidmaa
 | **Soort** | Sportschoolketen met eigen clubs |
 | **Clubs** | 53 in Nederland |
 | **Prijs** | Verschilt per clublabel (Black, Red, Regular) en contract, per 4 wkn. €1 korting per workout bij een contract |
+| **Groepslessen** | <span class="ja" aria-hidden="true">✓</span> Inbegrepen (sommige lessen afhankelijk van je lidmaatschap) |
 | **Contract** | 2 jaar, 1 jaar of Flex (maandelijks opzegbaar) <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Koningin Wilhelminaplein in Amsterdam: Flex € 104, 1 jaar € 84, 2 jaar € 77 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="#prijzen">Alle prijzen</a></details> |
+| **Studenten** | Jaarlidmaatschap met studentenprijs in geselecteerde clubs |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
 | **In het buitenland** | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland |
 
@@ -52,8 +54,62 @@ Voor elke workout krijg je €1 korting, met een maximum van 1 per dag en €28 
 
 In alle clubs met een Red of Black Label krijg je er zonder bijbetalen iets bij:
 
-- **Proteïneshakes:** na je training tap je gratis een shake uit de machine van XXL Nutrition, handig voor je herstel
+- **Proteïneshakes:** na je training tap je gratis een shake uit de machine van XXL Nutrition
 - **Koffie en thee:** onbeperkt, voor of na je workout
+- **Sportwater:** gratis te tappen
+
+<h2 id="faciliteiten">Faciliteiten</h2>
+
+Elke club is anders ingericht. Overal vind je krachtapparaten, vrije gewichten en cardio. Daarnaast heeft Trainmore in een deel van de clubs onder meer:
+
+<div class="kolommen">
+
+<div class="kolom">
+
+### Trainen
+
+- **HYROX-trainingszones** om te oefenen voor deze wedstrijdvorm
+- **EGYM:** slimme krachtapparaten die zich instellen op jouw profiel
+- **Gaia vrouwenzone:** een aparte trainingsruimte voor vrouwen
+- **InBody-meting:** meet je lichaamssamenstelling
+- **Personal training:** in te plannen via de app
+
+</div>
+
+<div class="kolom">
+
+### Ontspannen en gemak
+
+- **Sauna:** infrarood- of Finse sauna
+- **Ijsbaden, HydroMassage en red light**
+- **Handdoekenservice**
+- **Zithoek** om na je training even bij te komen met koffie
+
+</div>
+
+</div>
+
+Welke faciliteiten jouw club heeft en wat de openingstijden zijn, zie je op de clubpagina bij Trainmore. Volgens Trainmore zit het gebruik ervan gewoon bij je lidmaatschap.
+
+<h2 id="groepslessen">Groepslessen</h2>
+
+Groepslessen zijn inbegrepen bij je lidmaatschap. Bij sommige concepten hangt het van je lidmaatschap en club af. Het aanbod verschilt per club; je reserveert je plek in de Trainmore-app.
+
+| Les | Wat is het? |
+| --- | --- |
+| **PILAT3S** | Reformer pilates op een machine met veren |
+| **The CLB** | Lessen waarin je de trainer volgt, met de varianten POWR, TONE en LIFT |
+| **TRIB3 en RUSH** | Intervaltraining in een groep |
+| **Hybrid Studio** | Calisthenics, bodybuilding en metcon, onder meer bij Koningin Wilhelminaplein |
+| **Overig** | Yoga, boksen, krachttraining, circuittraining en intervaltraining |
+
+<h2 id="app">De Trainmore-app</h2>
+
+Met de app check je in met je persoonlijke QR-code, reserveer je lessen, plan je personal training en houd je je workouts bij. De app telt ook je workouts voor de korting per workout. Hij is gratis voor iOS en Android.
+
+<h2 id="student">Studentenlidmaatschap</h2>
+
+Studenten kunnen in geselecteerde clubs een jaarlidmaatschap nemen tegen een vaste, lagere studentenprijs. Dit lidmaatschap is niet te combineren met andere acties en telt niet mee voor de korting per workout. Welke clubs meedoen en wat het kost, zie je op de studentenpagina van Trainmore. Meer tips: [sporten als student](/nl/sporten-als-student/).
 
 <h2 id="opzeggen">Contract en opzeggen</h2>
 
@@ -77,14 +133,6 @@ Je zegt op per einde contract. Daarna loopt het lidmaatschap door met een opzegt
 
 </div>
 
-<h2 id="ervaring">Mijn ervaring met Trainmore</h2>
-
-Zo'n tien jaar geleden had ik een abonnement bij Trainmore. Onlangs heb ik er weer getraind, dit keer via ClassPass. Wie wil afwisselen, kan een Trainmore-club dus ook met ClassPass-credits bezoeken in plaats van met een lidmaatschap.
-
-Wat me opvalt: bij Trainmore trainen veel gemotiveerde sporters, meer dan bij een basic sportschool. Dat werkt aanstekelijk.
-
-<p class="klein">Peter Pater, maker van FlexGymGuide</p>
-
 <h2 id="voor-wie">Voor wie is Trainmore?</h2>
 
 <div class="kolommen">
@@ -96,6 +144,8 @@ Wat me opvalt: bij Trainmore trainen veel gemotiveerde sporters, meer dan bij ee
 - Wie drie keer per week of vaker traint: hoe vaker je gaat, hoe goedkoper
 - Kracht en cardio op een vaste plek
 - Wie een club dicht bij huis of werk wil
+- Wie naast de gym ook groepslessen zoals reformer pilates of boksen wil doen
+- Wie extra's als sauna, koffie en shakes belangrijk vindt
 
 </div>
 
@@ -103,14 +153,13 @@ Wat me opvalt: bij Trainmore trainen veel gemotiveerde sporters, meer dan bij ee
 
 ### Minder geschikt voor
 
-- Wie elke week iets anders wil doen, zoals yoga, boksen of pilates bij verschillende studio's
+- Wie maar af en toe traint en niet vast wil zitten: Flex is dan de duurste optie
+- Wie buiten de steden woont: de meeste clubs zitten in Amsterdam
 - Wie vaak in het buitenland sport: Trainmore zit alleen in Nederland
 
 </div>
 
 </div>
-
-Wil je juist afwisselen tussen studio's? Kijk dan naar [ClassPass](/nl/classpass/), een sportpas met credits.
 
 <h2 id="steden">Trainmore in jouw stad</h2>
 
@@ -136,6 +185,8 @@ Wil je juist afwisselen tussen studio's? Kijk dan naar [ClassPass](/nl/classpass
 </div>
 
 </div>
+
+Er komen clubs bij: volgens Trainmore opent in november 2026 een club aan de Zeilstraat in Amsterdam en in december 2026 een club aan de Meent in Rotterdam.
 
 <div class="aanbieder">
 
@@ -182,6 +233,27 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 </details>
 
 <details>
+<summary>Zijn groepslessen inbegrepen bij Trainmore?</summary>
+
+Ja, groepslessen zitten bij je lidmaatschap. Voor sommige concepten, zoals PILAT3S (reformer pilates) en TRIB3, hangt het af van je lidmaatschap en club. Je reserveert een les in de app.
+
+</details>
+
+<details>
+<summary>Heeft Trainmore een sauna?</summary>
+
+Veel clubs wel: een infrarood- of Finse sauna. Niet elke club heeft dezelfde faciliteiten; kijk op de pagina van jouw club.
+
+</details>
+
+<details>
+<summary>Heeft Trainmore een studentenlidmaatschap?</summary>
+
+Ja, in geselecteerde clubs: een jaarlidmaatschap met een vaste studentenprijs. De korting per workout geldt daarbij niet.
+
+</details>
+
+<details>
 <summary>Kan ik in elke Trainmore-club trainen?</summary>
 
 Dat hangt af van je lidmaatschap. Met Home+ train je ook in de clubs die hetzelfde of minder kosten dan jouw club, dus met een Black Label-lidmaatschap bijvoorbeeld ook in alle Regular-clubs. Met City+ train je in alle clubs in je stad. Vraag het na bij je club.
@@ -198,7 +270,7 @@ Dat hangt af van je lidmaatschap. Met Home+ train je ook in de clubs die hetzelf
 ### Meer over Nederland
 
 - [Flexibel sporten in Nederland](/nl/)
-- [ClassPass](/nl/classpass/)
+- [Trainmore opzeggen](/nl/trainmore-opzeggen/)
 
 </div>
 
