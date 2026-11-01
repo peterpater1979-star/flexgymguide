@@ -72,7 +72,18 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - **[Bootcamp](https://classpass.com/search/amsterdam/bootcamp-classes/5G8er29hueo):** onder andere Upclub, Bodybase Studios en NUMA
 - **[Boksen](https://classpass.com/search/amsterdam/boxing-classes/3sgQy2d8TuR):** onder andere Vondelgym, AKHI Gym, Sin City Boxing, Fight District en NDSM Fightclub
 - **[Vechtsport](https://classpass.com/search/amsterdam/martial-arts-classes/521bENJgmKu):** onder andere Mejiro Gym, Ettaki Gym, Patricks Gym, capoeira bij CN Capoeira en aikido bij Shinyu Aikido
-- **[Dans](https://classpass.com/search/amsterdam/dance-classes/5JB6FYneH8s):** onder andere Pole Dance Factory, Dance For Your Pole, Chassé Dance Studios, Amsterdam Dance Centre, Wladimir Dance Studios en Samba School Fidelinas. Voor salsa ga je naar Salsa te Gusta in Oost, Noord, Bos en Lommer en aan het Zeeburgerpad, voor bachata naar Bailemos en Latinflow Academy. Dansworkouts vind je bij The Jungle Body, Brazilian Fitdance, Danceout en Happy Vibes Dance Workout aan de Overtoom. Verder kun je terecht voor buikdansen bij Alyza Bellydance, Afrikaanse moderne dans, ballet bij de English Ballet School, shuffle bij BeatZone NDSM en hoepelen bij Dam Hoops
+- **[Dans](https://classpass.com/search/amsterdam/dance-classes/5JB6FYneH8s):** per dansschool wat je er kunt doen, onder andere:
+  - **Paaldans:** Pole Dance Factory en Dance For Your Pole
+  - **Salsa:** Salsa te Gusta in Oost, Noord, Bos en Lommer en aan het Zeeburgerpad
+  - **Bachata:** Bailemos (bij CanDance Studios) en Latinflow Academy
+  - **Samba en Braziliaanse dans:** Samba School Fidelinas en Brazilian Fitdance
+  - **Dansworkouts:** The Jungle Body, Danceout en Happy Vibes Dance Workout aan de Overtoom
+  - **Buikdans:** Alyza Bellydance
+  - **Afrikaanse moderne dans:** African Contemporary dance
+  - **Ballet:** English Ballet School in Zuid
+  - **Shuffle:** BeatZone NDSM
+  - **Hoepelen:** Dam Hoops
+  - **Verschillende stijlen:** Chassé Dance Studios, Amsterdam Dance Centre en Wladimir Dance Studios
 - **[Hardlopen](https://classpass.com/search/amsterdam/running-classes/4jmdMWcx2zB):** onder andere BallinFit en Trainen met Wendy
 - **[Buitensporten](https://classpass.com/search/amsterdam/outdoors-classes/5YRTtPKhz5u):** onder andere Fitmundo in het Noorderpark, het Oosterpark en aan de IJpromenade, IMOOV en Fostering Fitness in het Vondelpark en Train with Tommy bij het Olympiaplein
 - **[Open gym](https://classpass.com/search/amsterdam/gym-time-classes/5srvjYtRtoR):** ruim twintig clubs van [Trainmore](/nl/trainmore/), plus Vondelgym, Sportstudio 79 en Underground Sportclub
