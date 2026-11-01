@@ -79,7 +79,7 @@ L'essai est réservé aux nouveaux membres, une fois par personne. Tout le déta
 C’est dans ces villes que tu as le plus de choix avec ClassPass :
 
 - **Paris** : surtout le 2e, le 10e et le 16e, mais aussi le Marais, Saint-Germain et Montmartre. Beaucoup de Pilates, du yoga et du renforcement musculaire, et aussi à Neuilly-sur-Seine et Vincennes. Voir les studios [par quartier](/fr/classpass-paris/)
-- **Lyon** : Presqu’île, Croix-Rousse, la Part-Dieu, les Brotteaux et la Guillotière. Surtout du yoga et du Pilates, et aussi à Villeurbanne et Caluire
+- **Lyon** : Presqu’île, Croix-Rousse, la Part-Dieu, les Brotteaux et la Guillotière. Surtout du yoga et du Pilates, et aussi à Villeurbanne et Caluire. Voir les studios [par quartier](/fr/classpass-lyon/)
 - **Marseille** : Vieux-Port, Castellane, Longchamp et Château-Gombert. Yoga, Pilates et renforcement musculaire, et aussi à Cassis. Voir les studios [par quartier](/fr/classpass-marseille/)
 - **Bordeaux** : Chartrons, Saint-Pierre, Saint-Genès, Pey-Berland et la Bastide. Surtout du yoga et du Pilates, et aussi à Talence, Pessac, Mérignac et au Bouscat. Voir les studios [par quartier](/fr/classpass-bordeaux/)
 - **Nice** : surtout le centre et le Carré d’Or, mais aussi le Port et Cimiez. Beaucoup de Pilates, du renforcement musculaire et du yoga
