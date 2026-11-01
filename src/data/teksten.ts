@@ -5,6 +5,7 @@ export const teksten = {
   nl: {
     label: 'Adv.',
     melding: 'Sommige links zijn affiliatelinks: daarvoor krijgen wij een vergoeding, jij betaalt niets extra.',
+    meldingKort: 'Bevat affiliatelinks',
     meldingLink: 'Zo werken wij',
     meldingHref: '/disclosure/#nl',
     over: 'FlexGymGuide is een onafhankelijke gids over sportpassen en sportscholen met flexibele abonnementen, per land.',
@@ -32,6 +33,7 @@ export const teksten = {
   de: {
     label: 'Anzeige',
     melding: 'Einige Links sind Affiliate-Links: Dafür erhalten wir eine Provision, für dich ohne Mehrkosten.',
+    meldingKort: 'Enthält Affiliate-Links',
     meldingLink: 'So arbeiten wir',
     meldingHref: '/disclosure/#de',
     over: 'FlexGymGuide ist ein unabhängiger Ratgeber zu Sportpässen und Fitnessstudios mit flexiblen Mitgliedschaften, Land für Land.',
@@ -60,6 +62,7 @@ export const teksten = {
   en: {
     label: 'Ad',
     melding: 'Some links are affiliate links: we may earn a commission at no extra cost to you.',
+    meldingKort: 'Contains affiliate links',
     meldingLink: 'How we work',
     meldingHref: '/disclosure/',
     over: 'FlexGymGuide is an independent guide to fitness passes and gyms with flexible memberships, country by country.',
@@ -89,6 +92,7 @@ export const teksten = {
   fr: {
     label: 'Pub',
     melding: 'Certains liens sont des liens d’affiliation : nous touchons une commission, sans frais supplémentaires pour toi.',
+    meldingKort: 'Contient des liens d’affiliation',
     meldingLink: 'Notre fonctionnement',
     meldingHref: '/disclosure/',
     over: 'FlexGymGuide est un guide indépendant des pass sport et des salles de sport à abonnement flexible, pays par pays.',
@@ -117,6 +121,7 @@ export const teksten = {
   es: {
     label: 'Publi',
     melding: 'Algunos enlaces son de afiliado: recibimos una comisión, sin coste adicional para ti.',
+    meldingKort: 'Contiene enlaces de afiliado',
     meldingLink: 'Cómo trabajamos',
     meldingHref: '/disclosure/',
     over: 'FlexGymGuide es una guía independiente de pases deportivos y gimnasios con cuotas flexibles, país por país.',
@@ -145,6 +150,7 @@ export const teksten = {
   pt: {
     label: 'Pub',
     melding: 'Alguns links são links de afiliado: recebemos uma comissão, sem custo adicional para ti.',
+    meldingKort: 'Contém links de afiliado',
     meldingLink: 'Como trabalhamos',
     meldingHref: '/disclosure/',
     over: 'O FlexGymGuide é um guia independente sobre passes desportivos e ginásios com mensalidades flexíveis, país a país.',
@@ -173,6 +179,7 @@ export const teksten = {
   da: {
     label: 'Annonce',
     melding: 'Nogle links er affiliatelinks: Vi får en provision, uden ekstra omkostninger for dig.',
+    meldingKort: 'Indeholder affiliatelinks',
     meldingLink: 'Sådan arbejder vi',
     meldingHref: '/disclosure/',
     over: 'FlexGymGuide er en uafhængig guide til træningspas og fitnesscentre med fleksible medlemskaber, land for land.',
@@ -200,6 +207,7 @@ export const teksten = {
   sv: {
     label: 'Annons',
     melding: 'Vissa länkar är affiliatelänkar: vi får en provision, utan extra kostnad för dig.',
+    meldingKort: 'Innehåller affiliatelänkar',
     meldingLink: 'Så arbetar vi',
     meldingHref: '/disclosure/',
     over: 'FlexGymGuide är en oberoende guide till träningspass och gym med flexibla medlemskap, land för land.',
@@ -227,6 +235,7 @@ export const teksten = {
   nb: {
     label: 'Annonse',
     melding: 'Noen lenker er affiliatelenker: Vi får en provisjon, uten ekstra kostnad for deg.',
+    meldingKort: 'Inneholder affiliatelenker',
     meldingLink: 'Slik jobber vi',
     meldingHref: '/disclosure/',
     over: 'FlexGymGuide er en uavhengig guide til treningspass og treningssentre med fleksible medlemskap, land for land.',
@@ -254,6 +263,7 @@ export const teksten = {
   fi: {
     label: 'Mainos',
     melding: 'Osa linkeistä on kumppanilinkkejä: saamme niistä palkkion, eikä se maksa sinulle mitään ylimääräistä.',
+    meldingKort: 'Sisältää kumppanilinkkejä',
     meldingLink: 'Näin toimimme',
     meldingHref: '/disclosure/',
     over: 'FlexGymGuide on riippumaton opas treenipasseihin ja kuntosaleihin, joilla on joustavat jäsenyydet, maa kerrallaan.',
