@@ -74,8 +74,9 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - **[Vechtsport](https://classpass.com/search/amsterdam/martial-arts-classes/521bENJgmKu):** onder andere Mejiro Gym, Ettaki Gym, Patricks Gym, capoeira bij CN Capoeira en aikido bij Shinyu Aikido
 - **[Dansen](https://classpass.com/search/amsterdam/dance-classes/5JB6FYneH8s):** per dansschool wat je er kunt doen, onder andere:
   - **Paaldans:** Pole Dance Factory en Dance For Your Pole
-  - **Salsa:** Salsa te Gusta in Oost, Noord, Bos en Lommer en aan het Zeeburgerpad
-  - **Bachata:** Bailemos (bij CanDance Studios) en Latinflow Academy
+  - **Salsa:** Salsa te Gusta in Oost, Noord, Bos en Lommer en aan het Zeeburgerpad, en Leeslo Dance in Nieuw-West
+  - **Bachata:** Bailemos (bij CanDance Studios), Latinflow Academy en Leeslo Dance
+  - **Zouk:** Leeslo Dance in Nieuw-West
   - **Samba en Braziliaanse dans:** Samba School Fidelinas en Brazilian Fitdance
   - **Dansworkouts:** The Jungle Body, Danceout en Happy Vibes Dance Workout aan de Overtoom
   - **Buikdans:** Alyza Bellydance
