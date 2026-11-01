@@ -1,7 +1,8 @@
 ---
 title: "Passe desportivo ou mensalidade de ginásio? O que combina com a tua forma de treinar"
+seoTitle: "Passe desportivo ou mensalidade de ginásio?"
 path: "/pt/passe-ou-ginasio/"
-description: "Um passe desportivo como o ClassPass ou uma mensalidade numa cadeia de ginásios? Como funciona cada um, para quem é indicado e três perguntas para te ajudar a escolher."
+description: "Um passe desportivo como o ClassPass ou uma mensalidade numa cadeia de ginásios? Como funciona cada um, para quem é e três perguntas para escolher."
 lang: pt
 land: pt
 byline: "Atualizado em outubro de 2026"

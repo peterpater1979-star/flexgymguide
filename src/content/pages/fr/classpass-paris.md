@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Paris : studios par quartier et par sport"
 path: "/fr/classpass-paris/"
-description: "Où t’entraîner avec ClassPass à Paris ? Un aperçu des studios par quartier et par sport, du Lagree et du Pilates Reformer à la boxe, au yoga, au cycling et à la danse, ainsi que le bien-être et la beauté."
+description: "ClassPass à Paris : les studios par quartier et par sport, du Lagree et du Pilates Reformer à la boxe, au yoga et à la danse, plus le bien-être."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

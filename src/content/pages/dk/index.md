@@ -144,6 +144,8 @@ Disse links fører dig direkte til Amazon.de, som også leverer til Danmark. Sid
 - **[Træningspas eller fitness?](/dk/traeningspas-eller-fitness/)** · det der passer dig
 - **[ClassPass-credits forklaret](/dk/classpass-credits/)** · flere hold ud af dit abonnement
 - **[Din første time](/dk/din-foerste-time/)** · hvad du skal have med
+- **[Træning som studerende](/dk/traening-som-studerende/)** · billigt og fleksibelt
+- **[Mad og drikke omkring træning](/dk/mad-og-drikke-omkring-traening/)** · enkelt og nemt
 
 ## Ofte stillede spørgsmål
 

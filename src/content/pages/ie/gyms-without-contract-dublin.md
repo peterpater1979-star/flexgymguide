@@ -1,5 +1,6 @@
 ---
 title: "Gyms without a contract in Dublin: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Dublin: monthly options"
 path: "/ie/gyms-without-contract-dublin/"
 description: "Work out in Dublin without a long gym contract: ClassPass, contract-free gyms and drop-in classes. Prices, cancelling and what to watch for."
 lang: en

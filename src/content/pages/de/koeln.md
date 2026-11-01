@@ -1,5 +1,6 @@
 ---
-title: "ClassPass Köln und Fitness First: flexibel trainieren"
+title: "Flexibel trainieren in Köln"
+seoTitle: "ClassPass Köln: flexibel trainieren ohne Vertrag"
 path: "/de/koeln/"
 description: "Flexibel trainieren in Köln: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 14 Clubs trainieren. So findest du, was zu dir passt."
 lang: de

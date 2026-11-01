@@ -1,7 +1,8 @@
 ---
 title: "Fitnessstudio ohne Vertrag in Zürich: monatlich kündbar trainieren"
+seoTitle: "Fitnessstudio ohne Vertrag in Zürich: monatlich kündbar"
 path: "/ch/fitnessstudio-ohne-vertrag-zuerich/"
-description: "Trainieren in Zürich ohne Jahresabo: ClassPass, Fitnessstudios mit kurzer Laufzeit und Einzelstunden. Was es kostet, wie du kündigst und worauf du achten solltest."
+description: "Trainieren in Zürich ohne Jahresabo: ClassPass, Fitnessstudios mit kurzer Laufzeit und Einzelstunden. Was es kostet und wie du kündigst."
 lang: de
 land: ch
 byline: "Aktualisiert im Oktober 2026"

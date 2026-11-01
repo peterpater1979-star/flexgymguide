@@ -6,6 +6,7 @@ const pages = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/pages' }),
   schema: z.object({
     title: z.string(),
+    seoTitle: z.string().optional(), // korte titel voor Google (<title>), als de kop te lang is
     path: z.string(),
     description: z.string().optional(),
     lang: z.enum(['nl', 'de', 'en', 'fr', 'es', 'pt', 'da', 'sv', 'nb', 'fi']),
@@ -16,6 +17,8 @@ const pages = defineCollection({
     updated: z.coerce.date().optional(),
     draft: z.boolean().default(false), // concept: wordt niet gebouwd
     noindex: z.boolean().default(false),
+    vertaling: z.string().optional(), // pad van dezelfde pagina in een andere taal (hreflang); hoeft maar aan één kant
+    zoekwoorden: z.string().optional(), // extra zoektermen voor de zoekfunctie (synoniemen, schrijfwijzen), niet zichtbaar
   }),
 });
 

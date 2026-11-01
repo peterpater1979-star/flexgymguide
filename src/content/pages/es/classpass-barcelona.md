@@ -1,7 +1,7 @@
 ---
 title: "ClassPass en Barcelona: estudios por barrio y por deporte"
 path: "/es/classpass-barcelona/"
-description: "¿Dónde entrenar con ClassPass en Barcelona? Un resumen de estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el cycling, el baile, las clases en la playa y el acceso al gimnasio, además del bienestar y la belleza."
+description: "ClassPass en Barcelona: estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el baile y clases en la playa."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"

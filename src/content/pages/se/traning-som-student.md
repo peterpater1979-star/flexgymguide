@@ -1,7 +1,7 @@
 ---
 title: "Träna som student: billigt och flexibelt"
 path: "/se/traning-som-student/"
-description: "Vilka träningsalternativ du har som student, vad som passar vilket schema, varför ClassPass saknar studentrabatt och hur du tränar flexibelt utan att det blir dyrt."
+description: "Vilka träningsalternativ du har som student, vad som passar ditt schema och hur du tränar flexibelt utan att det blir dyrt."
 lang: sv
 land: se
 byline: "Uppdaterad oktober 2026"

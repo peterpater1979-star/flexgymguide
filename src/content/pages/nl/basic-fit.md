@@ -1,5 +1,6 @@
 ---
 title: "Basic-Fit formules en prijzen: Comfort, Premium, Ultimate en Flex"
+seoTitle: "Basic-Fit formules en prijzen: Comfort, Premium en Ultimate"
 path: "/nl/basic-fit/"
 description: "De Basic-Fit formules op een rij: Comfort, Premium en Ultimate, met jaarabonnement of Flex. Prijzen, inschrijfkosten, extra's, pauzeren en opzeggen."
 lang: nl

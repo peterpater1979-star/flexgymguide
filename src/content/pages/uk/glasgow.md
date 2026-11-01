@@ -1,7 +1,8 @@
 ---
-title: "Flexible fitness in Glasgow: ClassPass and The Gym Group"
+title: "Flexible fitness in Glasgow"
+seoTitle: "ClassPass Glasgow: flexible fitness without a contract"
 path: "/uk/glasgow/"
-description: "Don't want to be tied to one gym? In Glasgow you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you."
+description: "Not keen on being tied to one gym? In Glasgow, use a fitness pass at studios across the city or join a low-cost gym without a contract."
 lang: en
 land: uk
 byline: "Updated October 2026"

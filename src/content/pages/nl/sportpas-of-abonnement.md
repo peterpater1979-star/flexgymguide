@@ -1,7 +1,8 @@
 ---
 title: "Sportpas of sportschoolabonnement? Wat past bij hoe jij traint"
+seoTitle: "Sportpas of sportschoolabonnement? Wat past bij jou"
 path: "/nl/sportpas-of-abonnement/"
-description: "Een sportpas zoals ClassPass of een abonnement bij een sportschoolketen zoals Trainmore? Hoe het werkt, voor wie het past en drie vragen die helpen bij je keuze."
+description: "Een sportpas zoals ClassPass of een abonnement bij een sportschoolketen? Hoe het werkt, voor wie het past en drie vragen die helpen kiezen."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

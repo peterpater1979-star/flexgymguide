@@ -1,7 +1,8 @@
 ---
 title: "Ensimmäinen tuntisi tai salikäyntisi: mitä ottaa mukaan ja mitä odottaa"
+seoTitle: "Ensimmäinen tuntisi tai salikäyntisi: mitä ottaa mukaan"
 path: "/fi/ensimmainen-tunti/"
-description: "Ensimmäistä kertaa uudessa studiossa tai kuntosalilla? Mitä otat mukaan joogaan, nyrkkeilyyn, spinningiin ja voimaharjoitteluun, ja miten ensimmäinen käynti sujuu helposti."
+description: "Ensimmäistä kertaa uudessa studiossa tai kuntosalilla? Mitä otat mukaan joogaan, nyrkkeilyyn, spinningiin ja voimaharjoitteluun."
 lang: fi
 land: fi
 byline: "Päivitetty lokakuussa 2026"

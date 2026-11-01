@@ -127,6 +127,8 @@ Nämä linkit vievät suoraan Amazon.de-sivustolle, joka toimittaa myös Suomeen
 - **[Treenipassi vai sali?](/fi/treenipassi-vai-salijasenyys/)** · mikä sopii sinulle
 - **[ClassPass-krediitit selitettynä](/fi/classpass-krediitit/)** · enemmän tunteja tilauksesta
 - **[Ensimmäinen tuntisi](/fi/ensimmainen-tunti/)** · mitä ottaa mukaan
+- **[Liikunta opiskelijana](/fi/opiskelijaliikunta/)** · edullisesti ja joustavasti
+- **[Syöminen ja juominen treenin ympärillä](/fi/syominen-ja-juominen-treenin-ymparilla/)** · helposti
 
 ## Usein kysyttyä
 

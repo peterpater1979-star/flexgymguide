@@ -1,7 +1,8 @@
 ---
 title: "Os créditos do ClassPass: como funcionam e como tirar mais partido deles"
+seoTitle: "Os créditos do ClassPass: como tirar mais partido"
 path: "/pt/creditos-classpass/"
-description: "Porque é que uma aula custa mais créditos do que outra, o que acontece aos créditos que não usas e sete dicas para fazeres mais aulas com o teu plano do ClassPass."
+description: "Porque é que uma aula custa mais créditos do que outra, o que acontece aos créditos que não usas e sete dicas para fazeres mais aulas com o ClassPass."
 lang: pt
 land: pt
 byline: "Atualizado em outubro de 2026"

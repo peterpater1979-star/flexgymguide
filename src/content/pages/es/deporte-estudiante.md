@@ -1,7 +1,7 @@
 ---
 title: "Hacer deporte siendo estudiante: barato y flexible"
 path: "/es/deporte-estudiante/"
-description: "Qué opciones de deporte tienes como estudiante, qué encaja con cada horario, por qué ClassPass no tiene descuento para estudiantes y cómo entrenar de forma flexible sin gastar mucho."
+description: "Qué opciones de deporte tienes como estudiante, qué encaja con cada horario y cómo entrenar de forma flexible sin gastar mucho, también sin descuento."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

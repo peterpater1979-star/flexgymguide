@@ -1,5 +1,6 @@
 ---
 title: "Gyms without a contract in Manchester: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Manchester: monthly options"
 path: "/uk/gyms-without-contract-manchester/"
 description: "Work out in Manchester without a long gym contract: ClassPass, The Gym Group and drop-in classes. Prices, cancelling and what to watch for."
 lang: en

@@ -1,7 +1,8 @@
 ---
 title: "Sporten zonder contract in Utrecht: maandelijks opzegbaar trainen"
+seoTitle: "Sporten zonder contract in Utrecht: maandelijks opzegbaar"
 path: "/nl/sporten-zonder-contract-utrecht/"
-description: "Sporten in Utrecht zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex, SportCity Flex en losse lessen. Wat het kost, hoe je opzegt en waar je op let."
+description: "Sporten in Utrecht zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex, SportCity Flex en losse lessen. Wat het kost en hoe je opzegt."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

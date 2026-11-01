@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Lisbon: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Lisbon: monthly options"
 path: "/pt/gyms-without-contract-lisbon/"
-description: "New to Lisbon or only here for a while? Work out without a one-year commitment: ClassPass, gyms without a contract and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/pt/ginasio-sem-fidelizacao-lisboa/"
+description: "No-contract gyms in Lisbon: ClassPass, gyms without a contract and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: pt
 byline: "Updated October 2026"

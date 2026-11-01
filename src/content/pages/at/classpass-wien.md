@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Wien: Studios nach Bezirk und Sportart"
 path: "/at/classpass-wien/"
-description: "Wo trainierst du mit ClassPass in Wien? Ein Überblick über Studios nach Bezirk und Sportart, von Reformer-Pilates und Lagree bis Yoga, Bootcamp, Tanz und Gym-Besuchen, dazu Massage und Beauty."
+description: "ClassPass in Wien: Studios nach Bezirk und Sportart, von Reformer-Pilates und Lagree bis Yoga, Bootcamp, Tanz und Gym, dazu Massage und Beauty."
 lang: de
 land: at
 byline: "Aktualisiert im November 2026"

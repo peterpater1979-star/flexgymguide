@@ -1,7 +1,8 @@
 ---
 title: "ClassPass-krediitit selitettynä: näin ne toimivat ja näin saat niistä enemmän irti"
+seoTitle: "ClassPass-krediitit selitettynä: saat enemmän irti"
 path: "/fi/classpass-krediitit/"
-description: "Miksi yksi tunti maksaa enemmän krediittejä kuin toinen, mitä käyttämättömille krediiteille tapahtuu ja seitsemän vinkkiä, joilla saat ClassPassista enemmän tunteja."
+description: "Miksi yksi tunti maksaa enemmän krediittejä kuin toinen, mitä käyttämättömille krediiteille tapahtuu ja seitsemän vinkkiä ClassPassin käyttöön."
 lang: fi
 land: fi
 byline: "Päivitetty lokakuussa 2026"

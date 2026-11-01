@@ -143,6 +143,8 @@ Disse lenkene tar deg direkte til Amazon.de, som også leverer til Norge. Siden 
 - **[Treningspass eller senter?](/no/treningspass-eller-treningssenter/)** · det som passer deg
 - **[ClassPass-kreditter forklart](/no/classpass-kreditter/)** · flere timer ut av abonnementet
 - **[Din første time](/no/din-forste-time/)** · hva du skal ta med
+- **[Trening som student](/no/trening-som-student/)** · billig og fleksibelt
+- **[Mat og drikke rundt trening](/no/mat-og-drikke-rundt-trening/)** · enkelt
 
 ## Ofte stilte spørsmål
 

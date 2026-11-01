@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Vienna: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Vienna: monthly options"
 path: "/at/gyms-without-contract-vienna/"
-description: "New to Vienna or only here for a while? Work out without a yearly contract: ClassPass, Fitness First and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/at/fitnessstudio-ohne-vertrag-wien/"
+description: "No-contract gyms in Vienna: ClassPass, Fitness First and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: at
 byline: "Updated October 2026"

@@ -1,5 +1,6 @@
 ---
 title: "Eating and drinking around your workout: simple and fuss-free"
+seoTitle: "Eating and drinking around your workout: keep it simple"
 path: "/guides/eating-and-drinking-around-your-workout/"
 description: "What should you drink and eat before and after a class or gym visit? Water, a small snack and protein powder if you like: practical tips without big promises."
 lang: en

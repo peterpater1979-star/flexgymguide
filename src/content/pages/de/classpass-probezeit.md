@@ -1,5 +1,6 @@
 ---
 title: "ClassPass kostenlos testen: So funktioniert die Probezeit"
+seoTitle: "ClassPass Probeabo: so funktioniert die kostenlose Probezeit"
 path: "/de/classpass-probezeit/"
 description: "Was du in der ClassPass-Probezeit bekommst, welche Regeln gelten, was passiert, wenn sie endet, und wie du das Beste daraus machst."
 lang: de

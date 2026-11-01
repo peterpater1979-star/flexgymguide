@@ -1,5 +1,6 @@
 ---
 title: "Treningspass eller medlemskap på treningssenter? Det som passer måten du trener på"
+seoTitle: "Treningspass eller medlemskap på treningssenter?"
 path: "/no/treningspass-eller-treningssenter/"
 description: "Et treningspass som ClassPass eller et medlemskap i en treningssenterkjede? Slik fungerer de, hvem de passer for, og tre spørsmål som hjelper deg å velge."
 lang: nb

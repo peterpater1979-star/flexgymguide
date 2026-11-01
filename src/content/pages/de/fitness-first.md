@@ -1,7 +1,8 @@
 ---
 title: "Fitness First: Clubs, Mitgliedschaft, Probetraining und Kündigung"
+seoTitle: "Fitness First: RED und BLACK, Laufzeit und Probetraining"
 path: "/de/fitness-first/"
-description: "Alles über Fitness First in Deutschland: 220 Clubs, RED und BLACK, Laufzeiten, Ausstattung, Kurse, Wellness, Studentenrabatt, Kündigung und das kostenlose Probetraining."
+description: "Alles über Fitness First in Deutschland: 220 Clubs, RED und BLACK, Laufzeiten, Kündigung, Kurse, Wellness, Studentenrabatt und kostenloses Probetraining."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

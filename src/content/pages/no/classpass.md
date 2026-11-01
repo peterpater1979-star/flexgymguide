@@ -1,6 +1,8 @@
 ---
 title: "ClassPass i Norge: slik fungerer det, kreditter og oppsigelse"
+seoTitle: "ClassPass i Norge: kreditter, pris og oppsigelse"
 path: "/no/classpass/"
+zoekwoorden: "class pass classpass pris priser koster billig abonnement medlemskap treningspass"
 description: "Hva er ClassPass, hvordan fungerer kredittene, og hvordan sier du opp? Alt om treningspasset i Norge."
 lang: nb
 land: no

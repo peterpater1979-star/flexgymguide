@@ -1,7 +1,8 @@
 ---
 title: "Sporten zonder contract in Groningen: maandelijks opzegbaar trainen"
+seoTitle: "Sporten zonder contract in Groningen: maandelijks opzegbaar"
 path: "/nl/sporten-zonder-contract-groningen/"
-description: "Sporten in Groningen zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex en losse lessen. Wat het kost, hoe je opzegt en waar je op let."
+description: "Sporten in Groningen zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex en losse lessen. Wat het kost en hoe je opzegt."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

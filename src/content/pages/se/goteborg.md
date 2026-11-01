@@ -1,7 +1,8 @@
 ---
-title: "Flexibel träning i Göteborg: ClassPass och SATS"
+title: "Flexibel träning i Göteborg"
+seoTitle: "ClassPass Göteborg: flexibel träning utan bindningstid"
 path: "/se/goteborg/"
-description: "Vill du inte vara bunden till ett enda gym? I Göteborg använder du ett träningspass hos studior i hela staden, eller väljer ett gym. Här är det som passar dig."
+description: "Vill du inte vara bunden till ett enda gym? I Göteborg använder du ett träningspass hos studior i hela staden, eller väljer ett gym."
 lang: sv
 land: se
 byline: "Uppdaterad oktober 2026"

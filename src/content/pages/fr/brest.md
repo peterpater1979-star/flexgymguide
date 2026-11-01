@@ -1,7 +1,8 @@
 ---
-title: "Faire du sport à Brest en toute flexibilité : ClassPass, Basic-Fit et Keepcool"
+title: "Faire du sport à Brest en toute flexibilité"
+seoTitle: "ClassPass Brest : faire du sport sans engagement"
 path: "/fr/brest/"
-description: "Pas envie d’être lié à une seule salle ? À Brest, tu peux utiliser un pass sport dans des studios de la ville, ou une salle de sport avec ou sans engagement. Voici ce qui te convient."
+description: "À Brest, fais du sport sans être lié à une seule salle : un pass sport dans des studios de la ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

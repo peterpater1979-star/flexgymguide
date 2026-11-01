@@ -1,7 +1,8 @@
 ---
 title: "Sporten zonder contract in Den Haag: maandelijks opzegbaar trainen"
+seoTitle: "Sporten zonder contract in Den Haag: maandelijks opzegbaar"
 path: "/nl/sporten-zonder-contract-den-haag/"
-description: "Sporten in Den Haag zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex, SportCity Flex en losse lessen. Wat het kost, hoe je opzegt en waar je op let."
+description: "Sporten in Den Haag zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex, SportCity Flex en losse lessen. Wat het kost en hoe je opzegt."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

@@ -1,5 +1,6 @@
 ---
-title: "ClassPass Wien und Fitness First: flexibel trainieren"
+title: "Flexibel trainieren in Wien"
+seoTitle: "ClassPass Wien: flexibel trainieren ohne Vertrag"
 path: "/at/wien/"
 description: "Flexibel trainieren in Wien: ClassPass mit Studios in vielen Bezirken oder Fitness First mit 4 Clubs in und um Wien. So findest du, was zu dir passt."
 lang: de

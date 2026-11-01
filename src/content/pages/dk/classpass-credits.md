@@ -1,5 +1,6 @@
 ---
 title: "ClassPass-credits forklaret: sådan virker de, og sådan får du mere ud af dem"
+seoTitle: "ClassPass-credits forklaret: få mere ud af dem"
 path: "/dk/classpass-credits/"
 description: "Hvorfor et hold koster flere credits end et andet, hvad der sker med ubrugte credits, og syv tips til at få flere hold ud af dit ClassPass-abonnement."
 lang: da

@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Dublin: studios by area and type of workout"
 path: "/ie/classpass-dublin/"
-description: "Where can you work out with ClassPass in Dublin? An overview of studios by area and type of workout, from yoga, Pilates and barre to HIIT, boxing, cycling, dance and gym visits, plus wellness and beauty."
+description: "ClassPass in Dublin: studios by area and type of workout, from yoga, Pilates and barre to HIIT, boxing, cycling and dance, plus wellness and beauty."
 lang: en
 land: ie
 byline: "Updated November 2026"

@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Berlin: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Berlin: monthly and pay-as-you-go"
 path: "/de/gyms-without-contract-berlin/"
-description: "New to Berlin or only here for a while? Work out without a long gym contract: ClassPass, Fitness First, McFit Flex and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/de/fitnessstudio-ohne-vertrag-berlin/"
+description: "No-contract gyms in Berlin: ClassPass, Fitness First, McFit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: de
 byline: "Updated October 2026"

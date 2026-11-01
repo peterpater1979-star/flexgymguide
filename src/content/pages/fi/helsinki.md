@@ -1,5 +1,6 @@
 ---
-title: "Joustavaa treeniä: Helsinki – ClassPass ja ELIXIA"
+title: "Joustavaa treeniä: Helsinki"
+seoTitle: "ClassPass Helsinki: joustavaa treeniä ilman sitoutumista"
 path: "/fi/helsinki/"
 description: "Etkö halua sitoutua yhteen saliin? Helsingissä voit käyttää treenipassia studioilla ympäri kaupunkia tai valita kuntosalin. Näin löydät sopivan."
 lang: fi

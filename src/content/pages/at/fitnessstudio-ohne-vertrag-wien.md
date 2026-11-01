@@ -1,5 +1,6 @@
 ---
 title: "Fitnessstudio ohne Vertrag in Wien: monatlich kündbar trainieren"
+seoTitle: "Fitnessstudio ohne Vertrag in Wien: monatlich kündbar"
 path: "/at/fitnessstudio-ohne-vertrag-wien/"
 description: "Trainieren in Wien ohne Jahresvertrag: ClassPass, Fitness First und Einzelstunden. Was es kostet, wie du kündigst und worauf du achten solltest."
 lang: de

@@ -1,6 +1,8 @@
 ---
 title: "ClassPass i Sverige: så fungerar det, krediter och uppsägning"
+seoTitle: "ClassPass i Sverige: krediter, pris och uppsägning"
 path: "/se/classpass/"
+zoekwoorden: "class pass classpass pris priser kostar billig abonnemang medlemskap träningspass"
 description: "Vad är ClassPass, hur fungerar krediterna och hur säger du upp? Allt om träningspasset i Sverige."
 lang: sv
 land: se

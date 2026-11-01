@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in München: Studios nach Viertel und Sportart"
 path: "/de/classpass-muenchen/"
-description: "Wo trainierst du mit ClassPass in München? Ein Überblick über Studios nach Viertel und Sportart, von Reformer-Pilates und Lagree bis Indoor-Cycling, Bootcamp, Yoga und Beauty."
+description: "ClassPass in München: Studios nach Viertel und Sportart, von Reformer-Pilates und Lagree bis Indoor-Cycling, Bootcamp, Yoga und Beauty."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

@@ -1,7 +1,9 @@
 ---
 title: "ClassPass in Nederland: zo werkt het, prijs en opzeggen"
+seoTitle: "ClassPass Nederland: prijs, credits en opzeggen"
 path: "/nl/classpass/"
-description: "Wat is ClassPass, hoe werken de credits, wat kost het en hoe zeg je op? Alles over de sportpas in Nederland, met de steden waar je ermee terechtkunt."
+zoekwoorden: "class pass classpass prijs prijzen kosten kost duur goedkoop abonnement lidmaatschap sportpas"
+description: "Wat kost ClassPass, hoe werken de credits en hoe zeg je op? Alles over de sportpas in Nederland, met de steden waar je ermee terechtkunt."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

@@ -1,7 +1,8 @@
 ---
 title: "Dein erster Kurs oder Gym-Besuch: Was du mitnimmst und was dich erwartet"
+seoTitle: "Dein erster Kurs oder Gym-Besuch: was du mitnimmst"
 path: "/de/erstes-training/"
-description: "Zum ersten Mal in ein neues Studio oder Fitnessstudio? Was du für Yoga, Boxen, Spinning und Krafttraining mitnimmst und wie dein erster Besuch entspannt abläuft."
+description: "Zum ersten Mal in ein neues Studio oder Fitnessstudio? Was du für Yoga, Boxen, Spinning und Krafttraining mitnimmst und wie der erste Besuch abläuft."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

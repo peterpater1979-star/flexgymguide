@@ -1,5 +1,6 @@
 ---
 title: "ClassPass opzeggen of pauzeren: zo werkt het en dit gebeurt er met je credits"
+seoTitle: "ClassPass opzeggen of pauzeren: zo werkt het"
 path: "/nl/classpass-opzeggen/"
 description: "Zo zeg je ClassPass op in de app of op de website, wanneer je dat het beste doet, of je ook kunt pauzeren en wat er met je credits gebeurt."
 lang: nl

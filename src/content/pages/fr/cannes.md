@@ -1,7 +1,8 @@
 ---
-title: "Faire du sport à Cannes en toute flexibilité : ClassPass et Basic-Fit"
+title: "Faire du sport à Cannes en toute flexibilité"
+seoTitle: "ClassPass Cannes : faire du sport sans engagement"
 path: "/fr/cannes/"
-description: "Pas envie d’être lié à une seule salle ? À Cannes, tu peux utiliser un pass sport dans des studios partout en ville, ou une salle de sport avec ou sans engagement. Voici ce qui te convient."
+description: "À Cannes, fais du sport sans être lié à une seule salle : un pass sport dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

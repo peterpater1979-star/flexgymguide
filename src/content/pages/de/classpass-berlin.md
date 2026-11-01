@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Berlin: Studios nach Bezirk und Sportart"
 path: "/de/classpass-berlin/"
-description: "Wo trainierst du mit ClassPass in Berlin? Ein Überblick über Studios nach Bezirk und Sportart, von Lagree und Reformer-Pilates bis Boxen, Yoga, Tanz, Wellness und Beauty."
+description: "ClassPass in Berlin: Studios nach Bezirk und Sportart, von Lagree und Reformer-Pilates bis Boxen, Yoga, Tanz, Wellness und Beauty."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

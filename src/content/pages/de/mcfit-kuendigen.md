@@ -1,7 +1,8 @@
 ---
 title: "McFit kündigen: so geht's, Fristen und was du wissen solltest"
+seoTitle: "McFit kündigen: so geht's und welche Fristen gelten"
 path: "/de/mcfit-kuendigen/"
-description: "So kündigst du deine McFit-Mitgliedschaft online über mcfit.com. Mit Kündigungsfrist, was nach der Mindestlaufzeit gilt, Widerruf, Ruhezeit und flexiblen Alternativen."
+description: "So kündigst du McFit online über mcfit.com: Kündigungsfrist, was nach der Mindestlaufzeit gilt, Widerruf, Ruhezeit und flexible Alternativen."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

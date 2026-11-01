@@ -1,5 +1,6 @@
 ---
 title: "¿Pase deportivo o cuota de gimnasio? Lo que encaja con tu forma de entrenar"
+seoTitle: "¿Pase deportivo o cuota de gimnasio? Cómo elegir"
 path: "/es/pase-o-gimnasio/"
 description: "¿Un pase deportivo como ClassPass o una cuota en una cadena de gimnasios? Cómo funciona cada uno, para quién encaja y tres preguntas que te ayudan a elegir."
 lang: es

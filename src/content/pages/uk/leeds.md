@@ -1,7 +1,8 @@
 ---
-title: "Flexible fitness in Leeds: ClassPass and The Gym Group"
+title: "Flexible fitness in Leeds"
+seoTitle: "ClassPass Leeds: flexible fitness without a contract"
 path: "/uk/leeds/"
-description: "Don't want to be tied to one gym? In Leeds you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you."
+description: "Not keen on being tied to one gym? In Leeds, use a fitness pass at studios across the city or join a low-cost gym without a contract."
 lang: en
 land: uk
 byline: "Updated October 2026"

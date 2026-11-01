@@ -160,6 +160,8 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 - **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · what suits how you train
 - **[ClassPass credits explained](/guides/classpass-credits/)** · more classes from your plan
 - **[Your first class](/guides/first-class/)** · what to bring
+- **[Working out as a student](/guides/working-out-as-a-student/)** · flexible and affordable
+- **[Eating and drinking around your workout](/guides/eating-and-drinking-around-your-workout/)** · simple, no fuss
 - **[Cancel Fitness First](/uk/cancel-fitness-first/)** · notice period and freezing
 
 ## Frequently asked questions

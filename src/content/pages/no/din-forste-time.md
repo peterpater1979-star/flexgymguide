@@ -1,5 +1,6 @@
 ---
 title: "Din første time eller ditt første treningsbesøk: hva du skal ta med, og hva du kan forvente"
+seoTitle: "Din første time eller ditt første treningsbesøk"
 path: "/no/din-forste-time/"
 description: "Første gang på et nytt studio eller treningssenter? Hva du tar med til yoga, boksing, spinning og styrketrening, og hvordan det første besøket blir enkelt."
 lang: nb

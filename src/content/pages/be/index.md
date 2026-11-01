@@ -144,6 +144,8 @@ Mis je nog iets? Via deze links zoek je direct bij Amazon.nl, dat ook naar Belgi
 - **[Sportpas of abonnement?](/nl/sportpas-of-abonnement/)** · wat past bij hoe jij traint
 - **[ClassPass-credits uitgelegd](/nl/classpass-credits/)** · meer lessen uit je abonnement
 - **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
+- **[Sporten als student](/nl/sporten-als-student/)** · goedkoop en flexibel
+- **[Eten en drinken rond je training](/nl/eten-en-drinken-rond-je-training/)** · simpel en zonder gedoe
 
 En français : [Ton premier cours](/fr/premier-cours/) · ce qu’il faut emporter
 

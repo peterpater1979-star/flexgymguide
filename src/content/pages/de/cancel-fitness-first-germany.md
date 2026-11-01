@@ -1,7 +1,9 @@
 ---
 title: "Cancelling Fitness First in Germany: notice period and pausing"
+seoTitle: "Cancel Fitness First in Germany: notice period"
 path: "/de/cancel-fitness-first-germany/"
-description: "How to cancel your Fitness First membership in Germany with the online form. With the notice period, what applies after the minimum term, pausing instead of cancelling, the 14-day withdrawal right and flexible alternatives."
+vertaling: "/de/fitness-first-kuendigen/"
+description: "How to cancel Fitness First in Germany with the online form: notice period, what applies after the minimum term, pausing and the 14-day withdrawal right."
 lang: en
 land: de
 byline: "Updated October 2026"

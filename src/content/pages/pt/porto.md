@@ -1,7 +1,8 @@
 ---
-title: "Treinar em Porto com flexibilidade: ClassPass, Element Gyms e Holmes Place"
+title: "Treinar no Porto com flexibilidade"
+seoTitle: "ClassPass Porto: treinar sem fidelização"
 path: "/pt/porto/"
-description: "Não queres ficar preso a um só ginásio? Em Porto podes usar um passe desportivo em estúdios de toda a cidade, um ginásio sem fidelização ou um clube premium. Vê o que te convém."
+description: "Não queres ficar preso a um só ginásio? No porto podes usar um passe desportivo em estúdios, um ginásio sem fidelização ou um clube premium."
 lang: pt
 land: pt
 byline: "Atualizado em outubro de 2026"

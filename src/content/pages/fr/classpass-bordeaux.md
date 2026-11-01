@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Bordeaux : studios par quartier et par sport"
 path: "/fr/classpass-bordeaux/"
-description: "Où t’entraîner avec ClassPass à Bordeaux ? Un aperçu des studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe, au bootcamp et au cycling, ainsi que le bien-être et la beauté."
+description: "ClassPass à Bordeaux : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe, au bootcamp et au cycling, plus le bien-être."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

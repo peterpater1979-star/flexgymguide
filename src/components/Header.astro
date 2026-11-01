@@ -72,18 +72,32 @@ const huidig = menu.main.find((m) => m.land === land);
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !paneel.hidden) open(false); });
   document.addEventListener('click', (e) => { if (!paneel.hidden && !(e.target as Element).closest('header')) open(false); });
 
+  // Zoekterm opschonen: schrijfwijzen gelijktrekken ("class pass" = classpass) en vraagwoorden weglaten,
+  // want Pagefind zoekt pagina's waar álle woorden in staan ("hoe duur is classpass" -> "duur classpass").
+  const stopwoorden = new Set('hoe wat is een de het van in op voor met bij waar welke kan ik je wie wat mijn how what is a an the of in on for with at where which can i my do does much many are wie was ist ein eine der die das den von im mit für bei wo welche kann ich mein comment quel quelle est un une le la les de du des pour avec où cómo qué es un una el la los las de del para con dónde como que é um uma o os da do das dos para com onde hvordan hvad hur vad hva er är ett en et og och miten mikä on'.split(' '));
+  const schoon = (t: string) => {
+    const woorden = t.toLowerCase()
+      .replace(/class[\s-]+pass/g, 'classpass').replace(/basic[\s-]+fit/g, 'basic-fit').replace(/fitness[\s-]*first/g, 'fitness first')
+      .replace(/[?!.,:;]/g, ' ').split(/\s+/).filter(Boolean);
+    const zonder = woorden.filter((w) => !stopwoorden.has(w));
+    return (zonder.length ? zonder : woorden).join(' ');
+  };
   const esc = (t: string) => t.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
   veld.addEventListener('input', async () => {
     const term = veld.value.trim();
     const nr = ++teller;
     if (!term || !pagefind) { lijst.replaceChildren(); return; }
-    const zoek = await pagefind.debouncedSearch(term, {}, 200);
+    const q = schoon(term);
+    const zoek = await pagefind.debouncedSearch(q, {}, 200);
     if (!zoek || nr !== teller) return;
-    const data = await Promise.all(zoek.results.slice(0, 24).map((r: any) => r.data()));
+    const data = await Promise.all(zoek.results.slice(0, 40).map((r: any) => r.data()));
     if (nr !== teller) return;
-    // Eerst het eigen land, dan pagina's in dezelfde taal, dan de rest. Binnen elke groep blijft de volgorde van Pagefind.
+    // Eerst het eigen land, dan pagina's in dezelfde taal, dan de rest. Binnen elke groep gaan pagina's met meer
+    // zoekwoorden in de titel voor (eerste 4 letters tellen, zodat "prijzen" ook "prijs" vindt); daarna de volgorde van Pagefind.
     const groep = (d: any) => (d.meta.land === land ? 0 : d.meta.taal === taal ? 1 : 2);
-    const gesorteerd = data.map((d: any, i: number) => ({ d, i })).sort((a: any, b: any) => groep(a.d) - groep(b.d) || a.i - b.i).slice(0, 8);
+    const stammen = q.split(' ').map((w) => w.slice(0, 4));
+    const inTitel = (d: any) => { const t = String(d.meta.title ?? '').toLowerCase(); return stammen.filter((s) => t.includes(s)).length; };
+    const gesorteerd = data.map((d: any, i: number) => ({ d, i, t: inTitel(d) })).sort((a: any, b: any) => groep(a.d) - groep(b.d) || b.t - a.t || a.i - b.i).slice(0, 8);
     lijst.replaceChildren(...(gesorteerd.length ? gesorteerd.map(({ d }: any) => {
       const li = document.createElement('li');
       const a = li.appendChild(document.createElement('a'));

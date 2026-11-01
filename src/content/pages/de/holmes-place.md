@@ -1,5 +1,6 @@
 ---
 title: "Holmes Place: Premium-Clubs in Deutschland, Österreich und der Schweiz"
+seoTitle: "Holmes Place: Premium-Clubs in DE, Österreich und Schweiz"
 path: "/de/holmes-place/"
 description: "Alles über Holmes Place: Premium-Fitnessclubs in Deutschland, Wien und der Schweiz. Wo die Clubs sind, wie du den Preis erfährst und für wen sich das lohnt."
 lang: de

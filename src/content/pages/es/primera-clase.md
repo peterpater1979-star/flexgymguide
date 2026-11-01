@@ -1,5 +1,6 @@
 ---
 title: "Tu primera clase o visita al gimnasio: qué llevar y qué esperar"
+seoTitle: "Tu primera clase o visita al gimnasio: qué llevar"
 path: "/es/primera-clase/"
 description: "¿Vas por primera vez a un estudio o gimnasio nuevo? Qué llevar para yoga, boxeo, spinning y fuerza, y cómo hacer que tu primera visita sea fácil."
 lang: es

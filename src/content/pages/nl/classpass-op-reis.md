@@ -1,5 +1,6 @@
 ---
 title: "ClassPass op reis: zo sport je in een andere stad of ander land"
+seoTitle: "ClassPass op reis: sporten in een andere stad of land"
 path: "/nl/classpass-op-reis/"
 description: "Hoe je ClassPass gebruikt op vakantie of voor je werk, in welke landen het werkt, wat er anders is met credits en afzeggen, en tips voor onderweg."
 lang: nl

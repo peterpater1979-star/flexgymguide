@@ -1,5 +1,6 @@
 ---
 title: "ClassPass em viagem: como treinar noutra cidade ou noutro país"
+seoTitle: "ClassPass em viagem: treinar noutra cidade ou país"
 path: "/pt/classpass-em-viagem/"
 description: "Como usar o ClassPass nas férias ou numa viagem de trabalho, em que países funciona, o que muda com os créditos e os cancelamentos, e dicas para a viagem."
 lang: pt

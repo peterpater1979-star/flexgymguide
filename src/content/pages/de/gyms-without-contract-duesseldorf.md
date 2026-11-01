@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Düsseldorf: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Düsseldorf: monthly options"
 path: "/de/gyms-without-contract-duesseldorf/"
-description: "New to Düsseldorf or only here for a while? Work out without a long gym contract: ClassPass, Fitness First, McFit Flex and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/de/fitnessstudio-ohne-vertrag-duesseldorf/"
+description: "No-contract gyms in Düsseldorf: ClassPass, Fitness First, McFit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: de
 byline: "Updated October 2026"

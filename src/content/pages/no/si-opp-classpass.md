@@ -1,5 +1,6 @@
 ---
 title: "Si opp eller sett ClassPass på pause: slik gjør du, og dette skjer med kredittene dine"
+seoTitle: "Si opp eller sett ClassPass på pause: slik gjør du"
 path: "/no/si-opp-classpass/"
 description: "Slik sier du opp ClassPass i appen eller på nettsiden, når du bør gjøre det, om du kan ta pause og hva som skjer med kredittene dine."
 lang: nb

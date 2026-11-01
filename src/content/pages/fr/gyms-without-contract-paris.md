@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Paris: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Paris: monthly options"
 path: "/fr/gyms-without-contract-paris/"
-description: "New to Paris or only here for a while? Work out without a one-year commitment: ClassPass, Basic-Fit Flex and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/fr/salle-de-sport-sans-engagement-paris/"
+description: "No-contract gyms in Paris: ClassPass, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: fr
 byline: "Updated October 2026"

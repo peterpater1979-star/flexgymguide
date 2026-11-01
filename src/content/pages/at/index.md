@@ -152,6 +152,8 @@ Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de, das auch
 - **[Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)** · was zu deinem Training passt
 - **[ClassPass-Credits erklärt](/de/classpass-credits/)** · mehr Kurse aus deinem Abo
 - **[Dein erstes Training](/de/erstes-training/)** · was du mitnimmst
+- **[Sport im Studium](/de/sport-im-studium/)** · günstig und flexibel
+- **[Essen und Trinken rund ums Training](/de/essen-und-trinken-rund-ums-training/)** · einfach und unkompliziert
 
 ## Häufige Fragen
 

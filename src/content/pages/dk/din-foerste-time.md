@@ -1,5 +1,6 @@
 ---
 title: "Din første time eller dit første fitnessbesøg: hvad du skal have med, og hvad du kan forvente"
+seoTitle: "Din første time eller dit første fitnessbesøg"
 path: "/dk/din-foerste-time/"
 description: "Første gang i et nyt studie eller fitnesscenter? Hvad du skal have med til yoga, boksning, spinning og styrketræning, og hvordan dit første besøg bliver nemt."
 lang: da

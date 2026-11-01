@@ -1,7 +1,8 @@
 ---
 title: "Fitnessstudio ohne Vertrag in Hamburg: monatlich kündbar trainieren"
+seoTitle: "Fitnessstudio ohne Vertrag in Hamburg: monatlich kündbar"
 path: "/de/fitnessstudio-ohne-vertrag-hamburg/"
-description: "Trainieren in Hamburg ohne Jahresvertrag: ClassPass, Fitness First, McFit Flex und Einzelstunden. Was es kostet, wie du kündigst und worauf du achten solltest."
+description: "Fitnessstudio in Hamburg ohne Mindestlaufzeit: ClassPass, Fitness First, McFit Flex und Einzelstunden. Was es kostet und wie du kündigst."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

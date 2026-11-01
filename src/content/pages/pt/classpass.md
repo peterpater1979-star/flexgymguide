@@ -1,6 +1,8 @@
 ---
 title: "ClassPass em Portugal: como funciona, créditos e cancelamento"
+seoTitle: "ClassPass em Portugal: créditos e cancelamento"
 path: "/pt/classpass/"
+zoekwoorden: "class pass classpass preço preços custo custa mensalidade barato subscrição passe"
 description: "O que é o ClassPass, como funcionam os créditos e como cancelar? Tudo sobre o passe desportivo em Portugal."
 lang: pt
 land: pt

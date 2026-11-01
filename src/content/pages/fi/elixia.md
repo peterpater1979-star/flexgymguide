@@ -1,7 +1,7 @@
 ---
 title: "ELIXIA Suomessa: kuntosalit, jäsenyys ja kaupungit"
 path: "/fi/elixia/"
-description: "Kaikki ELIXIAsta: SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa. Mitä kannattaa tarkistaa ennen liittymistä ja missä kaupungeissa ELIXIA on."
+description: "Kaikki ELIXIAsta: SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa. Mitä tarkistaa ennen liittymistä ja missä ELIXIA on."
 lang: fi
 land: fi
 byline: "Päivitetty lokakuussa 2026"

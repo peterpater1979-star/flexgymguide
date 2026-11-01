@@ -1,7 +1,7 @@
 ---
 title: "Faire du sport quand on est étudiant : pas cher et flexible"
 path: "/fr/sport-etudiant/"
-description: "Les options sportives quand tu es étudiant, ce qui convient à quel emploi du temps, pourquoi ClassPass n'a pas de réduction étudiante et comment rester flexible sans trop dépenser."
+description: "Les options sportives quand tu es étudiant, ce qui convient à ton emploi du temps et comment rester flexible sans trop dépenser, même sans réduction."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

@@ -1,5 +1,6 @@
 ---
 title: "Résilier ou mettre en pause ClassPass : comment faire et ce que deviennent tes crédits"
+seoTitle: "Résilier ou mettre en pause ClassPass : comment faire"
 path: "/fr/resilier-classpass/"
 description: "Comment résilier ClassPass dans l'appli ou sur le site, quand le faire, si tu peux faire une pause à la place et ce que deviennent tes crédits."
 lang: fr

@@ -1,5 +1,6 @@
 ---
-title: "ClassPass Dortmund und Fitness First: flexibel trainieren"
+title: "Flexibel trainieren in Dortmund"
+seoTitle: "ClassPass Dortmund: flexibel trainieren ohne Vertrag"
 path: "/de/dortmund/"
 description: "Flexibel trainieren in Dortmund: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 1 Club trainieren. So findest du, was zu dir passt."
 lang: de

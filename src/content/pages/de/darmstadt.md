@@ -1,5 +1,6 @@
 ---
-title: "Flexibel trainieren in Darmstadt: ClassPass, Fitness First und mehr"
+title: "Flexibel trainieren in Darmstadt"
+seoTitle: "ClassPass Darmstadt: flexibel trainieren ohne Vertrag"
 path: "/de/darmstadt/"
 description: "Flexibel trainieren in Darmstadt: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 10 Clubs trainieren. So findest du, was zu dir passt."
 lang: de

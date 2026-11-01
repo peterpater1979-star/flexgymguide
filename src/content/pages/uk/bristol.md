@@ -1,7 +1,8 @@
 ---
-title: "Flexible fitness in Bristol: ClassPass and The Gym Group"
+title: "Flexible fitness in Bristol"
+seoTitle: "ClassPass Bristol: flexible fitness without a contract"
 path: "/uk/bristol/"
-description: "Don't want to be tied to one gym? In Bristol you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you."
+description: "Not keen on being tied to one gym? In Bristol, use a fitness pass at studios across the city or join a low-cost gym without a contract."
 lang: en
 land: uk
 byline: "Updated October 2026"

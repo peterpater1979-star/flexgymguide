@@ -1,7 +1,8 @@
 ---
 title: "Ton premier cours ou ta première séance en salle : quoi emporter et à quoi t’attendre"
+seoTitle: "Ton premier cours ou ta première séance : quoi emporter"
 path: "/fr/premier-cours/"
-description: "Première visite dans un nouveau studio ou une nouvelle salle ? Quoi emporter pour le yoga, la boxe, le spinning et la musculation, et comment bien vivre ta première séance."
+description: "Première visite dans un studio ou une salle ? Quoi emporter pour le yoga, la boxe, le spinning et la musculation, et comment bien vivre ta première séance."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

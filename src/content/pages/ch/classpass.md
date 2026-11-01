@@ -1,6 +1,8 @@
 ---
 title: "ClassPass in der Schweiz: so funktioniert es, Credits und Kündigung"
+seoTitle: "ClassPass Schweiz: Credits, Kosten und Kündigung"
 path: "/ch/classpass/"
+zoekwoorden: "class pass classpass Preis Preise Kosten kostet teuer günstig Abo Mitgliedschaft Sportpass"
 description: "Was ist ClassPass, wie funktionieren die Credits und wie kündigst du? Alles über den Sportpass in der Schweiz."
 lang: de
 land: ch

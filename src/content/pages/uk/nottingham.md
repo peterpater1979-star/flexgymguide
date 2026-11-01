@@ -1,7 +1,8 @@
 ---
-title: "Flexible fitness in Nottingham: ClassPass and The Gym Group"
+title: "Flexible fitness in Nottingham"
+seoTitle: "ClassPass Nottingham: flexible fitness without a contract"
 path: "/uk/nottingham/"
-description: "Don't want to be tied to one gym? In Nottingham you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you."
+description: "Not keen on being tied to one gym? In Nottingham, use a fitness pass at studios across the city or join a low-cost gym without a contract."
 lang: en
 land: uk
 byline: "Updated October 2026"

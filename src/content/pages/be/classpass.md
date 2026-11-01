@@ -1,6 +1,7 @@
 ---
 title: "ClassPass in België: zo werkt het, credits en opzeggen"
 path: "/be/classpass/"
+zoekwoorden: "class pass classpass prijs prijzen kosten kost duur goedkoop abonnement lidmaatschap sportpas"
 description: "Wat is ClassPass, hoe werken de credits en hoe zeg je op? Alles over de sportpas in België."
 lang: nl
 land: be

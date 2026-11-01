@@ -1,5 +1,6 @@
 ---
 title: "Træningspas eller medlemskab i et fitnesscenter? Det der passer til din måde at træne på"
+seoTitle: "Træningspas eller medlemskab i et fitnesscenter?"
 path: "/dk/traeningspas-eller-fitness/"
 description: "Et træningspas som ClassPass eller et medlemskab i en fitnesskæde? Sådan fungerer de, hvem de passer til, og tre spørgsmål der hjælper dig med at vælge."
 lang: da

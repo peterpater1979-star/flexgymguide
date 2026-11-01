@@ -1,7 +1,8 @@
 ---
-title: "ClassPass Haarlem en Trainmore: flexibel sporten"
+title: "Flexibel sporten in Haarlem"
+seoTitle: "ClassPass Haarlem: flexibel sporten zonder jaarcontract"
 path: "/nl/haarlem/"
-description: "Geen zin in een jaarcontract bij één sportschool? In Haarlem kun je met ClassPass afwisselen tussen gyms en studio's, of kiezen voor Trainmore met een gratis proefles."
+description: "Sporten in Haarlem zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

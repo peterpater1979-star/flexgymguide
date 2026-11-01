@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Cologne: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Cologne: monthly options"
 path: "/de/gyms-without-contract-cologne/"
-description: "New to Cologne or only here for a while? Work out without a long gym contract: ClassPass, Fitness First, McFit Flex and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/de/fitnessstudio-ohne-vertrag-koeln/"
+description: "No-contract gyms in Cologne: ClassPass, Fitness First, McFit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: de
 byline: "Updated October 2026"

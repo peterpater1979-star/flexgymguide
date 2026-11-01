@@ -1,5 +1,6 @@
 ---
 title: "ClassPass-kreditter forklart: slik fungerer de, og slik får du mer ut av dem"
+seoTitle: "ClassPass-kreditter forklart: få mer ut av dem"
 path: "/no/classpass-kreditter/"
 description: "Hvorfor én time koster flere kreditter enn en annen, hva som skjer med ubrukte kreditter, og sju tips for å få flere timer ut av ClassPass-abonnementet ditt."
 lang: nb

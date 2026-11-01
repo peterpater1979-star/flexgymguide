@@ -1,5 +1,6 @@
 ---
-title: "Joustavaa treeniä: Turku – ClassPass ja ELIXIA"
+title: "Joustavaa treeniä: Turku"
+seoTitle: "ClassPass Turku: joustavaa treeniä ilman sitoutumista"
 path: "/fi/turku/"
 description: "Etkö halua sitoutua yhteen saliin? Turussa voit käyttää treenipassia studioilla ympäri kaupunkia tai valita kuntosalin. Näin löydät sopivan."
 lang: fi

@@ -1,5 +1,6 @@
 ---
 title: "Cancel or pause ClassPass: how it works and what happens to your credits"
+seoTitle: "Cancel or pause ClassPass: what happens to your credits"
 path: "/guides/cancel-or-pause-classpass/"
 description: "How to cancel ClassPass in the app or on the website, when to do it, whether you can pause instead and what happens to your credits."
 lang: en

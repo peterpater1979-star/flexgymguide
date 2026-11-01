@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Utrecht: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Utrecht: monthly options"
 path: "/nl/gyms-without-contract-utrecht/"
-description: "New to Utrecht or only here for a while? Work out without a yearly contract: ClassPass, Trainmore Flex, Basic-Fit Flex, SportCity Flex and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/nl/sporten-zonder-contract-utrecht/"
+description: "No-contract gyms in Utrecht: ClassPass, Trainmore Flex, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: nl
 byline: "Updated October 2026"

@@ -1,7 +1,8 @@
 ---
 title: "Comer e beber antes e depois do treino: simples e sem complicações"
+seoTitle: "Comer e beber antes e depois do treino"
 path: "/pt/comer-e-beber-no-treino/"
-description: "O que bebes e o que comes antes e depois de uma aula ou ida ao ginásio? Água, um pequeno lanche e, se quiseres, proteína em pó: dicas práticas sem grandes promessas."
+description: "O que bebes e comes antes e depois do treino? Água, um pequeno lanche e, se quiseres, proteína em pó: dicas práticas sem grandes promessas."
 lang: pt
 land: pt
 byline: "Atualizado em outubro de 2026"

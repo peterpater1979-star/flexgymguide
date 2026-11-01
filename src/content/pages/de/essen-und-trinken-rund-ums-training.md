@@ -1,7 +1,8 @@
 ---
 title: "Essen und Trinken rund ums Training: einfach und unkompliziert"
+seoTitle: "Essen und Trinken rund ums Training: einfach erklärt"
 path: "/de/essen-und-trinken-rund-ums-training/"
-description: "Was trinkst und isst du vor und nach einem Kurs oder Studiobesuch? Wasser, ein kleiner Snack und bei Bedarf Proteinpulver: praktische Tipps ohne große Versprechen."
+description: "Was trinkst und isst du vor und nach dem Training? Wasser, ein kleiner Snack und bei Bedarf Proteinpulver: praktische Tipps ohne große Versprechen."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

@@ -1,7 +1,7 @@
 ---
 title: "VivaGym en España: cuotas sin permanencia y para quién es"
 path: "/es/vivagym/"
-description: "Todo sobre VivaGym en España: más de 240 gimnasios, cuotas ONE, FLEX y PRIME sin permanencia, pase de un día, descuento para menores de 26 y cómo darte de baja."
+description: "Todo sobre VivaGym en España: más de 240 gimnasios, cuotas ONE, FLEX y PRIME sin permanencia, pase de un día, descuento para menores de 26 y la baja."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

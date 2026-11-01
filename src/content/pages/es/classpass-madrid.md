@@ -1,7 +1,7 @@
 ---
 title: "ClassPass en Madrid: estudios por barrio y por deporte"
 path: "/es/classpass-madrid/"
-description: "¿Dónde entrenar con ClassPass en Madrid? Un resumen de estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el cycling, el baile y el acceso al gimnasio, además del bienestar y la belleza."
+description: "ClassPass en Madrid: estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el cycling y el baile, y bienestar."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"

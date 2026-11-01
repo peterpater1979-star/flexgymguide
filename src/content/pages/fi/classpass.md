@@ -1,6 +1,8 @@
 ---
 title: "ClassPass Suomessa: näin se toimii, krediitit ja irtisanominen"
+seoTitle: "ClassPass Suomessa: krediitit, hinta ja irtisanominen"
 path: "/fi/classpass/"
+zoekwoorden: "class pass classpass hinta hinnat maksaa halpa jäsenyys kuukausimaksu treenipassi"
 description: "Mikä ClassPass on, miten krediitit toimivat ja miten jäsenyyden voi irtisanoa? Kaikki treenipassista Suomessa."
 lang: fi
 land: fi

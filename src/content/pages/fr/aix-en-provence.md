@@ -1,7 +1,8 @@
 ---
-title: "Faire du sport à Aix-en-Provence en toute flexibilité : ClassPass, Basic-Fit, Fitness Park et Keepcool"
+title: "Faire du sport à Aix-en-Provence en toute flexibilité"
+seoTitle: "ClassPass Aix-en-Provence : faire du sport sans engagement"
 path: "/fr/aix-en-provence/"
-description: "Pas envie d’être lié à une seule salle ? À Aix-en-Provence, tu peux utiliser un pass sport dans des studios partout en ville, ou une salle de sport avec ou sans engagement. Voici ce qui te convient."
+description: "À Aix-en-Provence, fais du sport sans être lié à une seule salle : un pass sport dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

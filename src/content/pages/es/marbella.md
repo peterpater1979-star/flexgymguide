@@ -1,7 +1,8 @@
 ---
-title: "Entrenar en Marbella con flexibilidad: ClassPass"
+title: "Entrenar en Marbella con flexibilidad"
+seoTitle: "ClassPass Marbella: entrenar sin permanencia"
 path: "/es/marbella/"
-description: "¿No quieres atarte a un solo gimnasio? En Marbella puedes usar un pase deportivo en estudios de toda la ciudad. Así eliges."
+description: "¿No quieres atarte a un solo gimnasio? En Marbella puedes usar un pase deportivo en estudios de toda la ciudad."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

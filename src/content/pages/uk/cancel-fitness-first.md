@@ -1,7 +1,7 @@
 ---
 title: "Cancel Fitness First: notice period, fees and freezing"
 path: "/uk/cancel-fitness-first/"
-description: "How to cancel your Fitness First UK membership online, with the notice period, what leaving early costs, free cancellation for medical reasons or moving, freezing and flexible alternatives."
+description: "How to cancel Fitness First UK online: the notice period, what leaving early costs, free cancellation for medical reasons or moving, and freezing."
 lang: en
 land: uk
 byline: "Updated October 2026"

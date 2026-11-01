@@ -1,7 +1,7 @@
 ---
 title: "ClassPass de viaje: cómo entrenar en otra ciudad u otro país"
 path: "/es/classpass-de-viaje/"
-description: "Cómo usar ClassPass en vacaciones o en un viaje de trabajo, en qué países funciona, qué cambia con los créditos y las cancelaciones, y consejos para el camino."
+description: "Cómo usar ClassPass en vacaciones o en un viaje de trabajo, en qué países funciona, qué cambia con los créditos y las cancelaciones, y consejos."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

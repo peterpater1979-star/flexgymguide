@@ -145,6 +145,8 @@ De här länkarna tar dig direkt till Amazon.de, som också levererar till Sveri
 - **[Träningspass eller gym?](/se/traningspass-eller-gym/)** · det som passar dig
 - **[ClassPass-krediter förklarade](/se/classpass-krediter/)** · fler klasser av ditt abonnemang
 - **[Ditt första pass](/se/ditt-forsta-pass/)** · vad du ska ta med
+- **[Träna som student](/se/traning-som-student/)** · billigt och flexibelt
+- **[Mat och dryck kring träning](/se/mat-och-dryck-kring-traning/)** · enkelt och smidigt
 
 ## Vanliga frågor
 

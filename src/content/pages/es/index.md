@@ -1,7 +1,7 @@
 ---
 title: "Entrenar sin permanencia en España"
 path: "/es/"
-description: "¿Quieres hacer deporte sin un contrato largo en un solo gimnasio? Con ClassPass, una sola suscripción te da acceso a estudios y gimnasios en Madrid, Barcelona, Valencia, Sevilla, Málaga y otras ciudades. Así funciona."
+description: "¿Deporte sin un contrato largo en un solo gimnasio? Con ClassPass, una suscripción da acceso a estudios y gimnasios en Madrid, Barcelona y más ciudades."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -167,6 +167,8 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 - **[¿Pase o gimnasio?](/es/pase-o-gimnasio/)** · lo que encaja contigo
 - **[Los créditos de ClassPass](/es/creditos-classpass/)** · más clases con tu plan
 - **[Tu primera clase](/es/primera-clase/)** · qué llevar
+- **[Deporte siendo estudiante](/es/deporte-estudiante/)** · barato y flexible
+- **[Comer y beber al entrenar](/es/comer-y-beber-al-entrenar/)** · fácil
 - **[Darse de baja en Basic-Fit](/es/baja-basic-fit/)** · preaviso y alternativas
 - **[Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/)** · opciones mes a mes
 - **[Gimnasio sin permanencia en Barcelona](/es/gimnasio-sin-permanencia-barcelona/)** · opciones mes a mes

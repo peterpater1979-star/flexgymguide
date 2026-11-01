@@ -1,6 +1,7 @@
 ---
 title: "ClassPass en España: cómo funciona, créditos y baja"
 path: "/es/classpass/"
+zoekwoorden: "class pass classpass precio precios coste cuesta cuota barato suscripción pase deportivo"
 description: "¿Qué es ClassPass, cómo funcionan los créditos y cómo darse de baja? Todo sobre el pase deportivo en España."
 lang: es
 land: es

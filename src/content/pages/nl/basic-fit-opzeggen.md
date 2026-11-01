@@ -1,7 +1,8 @@
 ---
 title: "Basic-Fit opzeggen: zo werkt het, opzegtermijn en wat je moet weten"
+seoTitle: "Basic-Fit opzeggen: zo werkt het en de opzegtermijn"
 path: "/nl/basic-fit-opzeggen/"
-description: "Zo zeg je je Basic-Fit-lidmaatschap op via My Basic-Fit, de app of de kiosk in de club. Met de opzegtermijn van 4 weken, wat er na het eerste jaar gebeurt en welke alternatieven er zijn."
+description: "Zo zeg je Basic-Fit op via My Basic-Fit, de app of de kiosk in de club. Met de opzegtermijn van 4 weken en wat er na het eerste jaar gebeurt."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

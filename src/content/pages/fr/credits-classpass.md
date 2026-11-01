@@ -1,7 +1,8 @@
 ---
 title: "Les crédits ClassPass expliqués : comment ils marchent et comment en profiter"
+seoTitle: "Les crédits ClassPass expliqués : comment en profiter"
 path: "/fr/credits-classpass/"
-description: "Pourquoi un cours coûte plus de crédits qu’un autre, ce qui arrive aux crédits non utilisés et sept conseils pour faire plus de cours avec ton abonnement ClassPass."
+description: "Pourquoi un cours coûte plus de crédits qu’un autre, ce qui arrive aux crédits non utilisés et sept conseils pour faire plus de cours avec ClassPass."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

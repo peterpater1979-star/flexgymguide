@@ -1,5 +1,6 @@
 ---
 title: "Träningspass eller gymkort? Det som passar ditt sätt att träna"
+seoTitle: "Träningspass eller gymkort? Så väljer du"
 path: "/se/traningspass-eller-gym/"
 description: "Ett träningspass som ClassPass eller ett medlemskap på en gymkedja? Så fungerar de, vem de passar och tre frågor som hjälper dig att välja."
 lang: sv

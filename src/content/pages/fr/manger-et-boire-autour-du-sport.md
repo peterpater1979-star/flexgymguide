@@ -1,7 +1,8 @@
 ---
 title: "Manger et boire autour de ton entraînement : simple et sans prise de tête"
+seoTitle: "Manger et boire autour de ton entraînement : simple"
 path: "/fr/manger-et-boire-autour-du-sport/"
-description: "Que boire et que manger avant et après un cours ou une séance en salle ? De l’eau, une petite collation et, si tu veux, de la protéine en poudre : des conseils pratiques, sans grandes promesses."
+description: "Que boire et manger avant et après une séance ? De l’eau, une petite collation et, si tu veux, de la protéine en poudre : des conseils simples."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

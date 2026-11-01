@@ -1,7 +1,8 @@
 ---
-title: "Entrenar en Sevilla con flexibilidad: ClassPass, Basic-Fit y Fitness Park"
+title: "Entrenar en Sevilla con flexibilidad"
+seoTitle: "ClassPass Sevilla: entrenar sin permanencia"
 path: "/es/sevilla/"
-description: "¿No quieres atarte a un solo gimnasio? En Sevilla puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia. Así eliges."
+description: "¿No quieres atarte a un solo gimnasio? En Sevilla puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

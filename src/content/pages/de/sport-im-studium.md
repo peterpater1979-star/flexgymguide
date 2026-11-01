@@ -1,7 +1,7 @@
 ---
 title: "Sport im Studium: günstig und flexibel trainieren"
 path: "/de/sport-im-studium/"
-description: "Welche Sportmöglichkeiten du im Studium hast, was zu welchem Stundenplan passt, warum ClassPass keinen Studentenrabatt hat und wie du trotzdem günstig flexibel trainierst."
+description: "Welche Sportmöglichkeiten du im Studium hast, was zu welchem Stundenplan passt und wie du günstig und flexibel trainierst, auch ohne Studentenrabatt."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

@@ -1,7 +1,7 @@
 ---
 title: "Gyms in Luxembourg without a long contract"
 path: "/lu/"
-description: "Want to work out in Luxembourg without signing up for a year? These gym chains have monthly or four-weekly memberships you can cancel easily. With clubs, prices and what to check before you join."
+description: "Work out in Luxembourg without signing up for a year: gym chains with monthly or four-weekly memberships you can cancel easily, with clubs and prices."
 lang: en
 land: lu
 byline: "Updated October 2026"

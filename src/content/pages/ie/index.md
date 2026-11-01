@@ -126,6 +126,8 @@ Amazon.de also delivers to Ireland. These links take you straight to Amazon.de; 
 - **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · what suits how you train
 - **[ClassPass credits explained](/guides/classpass-credits/)** · more classes from your plan
 - **[Your first class](/guides/first-class/)** · what to bring
+- **[Working out as a student](/guides/working-out-as-a-student/)** · flexible and affordable
+- **[Eating and drinking around your workout](/guides/eating-and-drinking-around-your-workout/)** · simple, no fuss
 
 ## Frequently asked questions
 

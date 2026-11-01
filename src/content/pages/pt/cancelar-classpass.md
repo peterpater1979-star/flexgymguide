@@ -1,5 +1,6 @@
 ---
 title: "Cancelar ou pausar o ClassPass: como funciona e o que acontece aos teus créditos"
+seoTitle: "Cancelar ou pausar o ClassPass: como funciona"
 path: "/pt/cancelar-classpass/"
 description: "Como cancelar o ClassPass na app ou no site, quando o fazer, se podes pausar em vez de cancelar e o que acontece aos teus créditos."
 lang: pt
