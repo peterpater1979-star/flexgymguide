@@ -35,7 +35,7 @@ Yoga, Pilates, treino de força e mais com uma só subscrição de créditos.
 
 ### Element Gyms
 
-Cadeia de ginásios sem fidelização, com 56 ginásios em Portugal.
+Cadeia de ginásios sem fidelização, com mais de 50 ginásios em Portugal.
 
 <div class="knoppen">
 <a class="knop" href="#element-gyms">Ver Element Gyms</a>
@@ -86,7 +86,7 @@ Os preços e as condições mudam com frequência. Confirma sempre a situação 
 | **Fidelização** | Nenhuma, cancelas quando quiseres | Sem fidelização | Pergunta no clube | Sem fidelização |
 | **Experimentar** | <span class="ja" aria-hidden="true">✓</span> 14 dias grátis, 10 treinos | Pergunta no ginásio | <span class="ja" aria-hidden="true">✓</span> Treino experimental de um dia | Entrada avulso 11,90 € |
 | **No estrangeiro** | <span class="ja" aria-hidden="true">✓</span> Sim, em 31 países | <span class="nee" aria-hidden="true">✗</span> Só em Portugal | Também na Alemanha, Áustria, Suíça e Grécia | Com PRIME também em Espanha |
-| **Saber mais** | [Tudo sobre o ClassPass](/pt/classpass/) | [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) | [Tudo sobre o Holmes Place](/pt/holmes-place/) | [Tudo sobre o VivaGym](/pt/vivagym/) |
+| **Saber mais** | [Tudo sobre o ClassPass](/pt/classpass/) | [Tudo sobre a Element Gyms](/pt/element-gyms/) | [Tudo sobre o Holmes Place](/pt/holmes-place/) | [Tudo sobre o VivaGym](/pt/vivagym/) |
 
 <p class="klein">Preços de outubro de 2026. ClassPass: plano padrão em Portugal. Element Gyms: plano Classic, ginásio Parque das Nações.</p>
 
@@ -136,7 +136,7 @@ Por enquanto uma oferta pequena, sobretudo ginásios e treino de força. Vê na 
 
 ## Element Gyms em Porto
 
-A Element Gyms tem 56 ginásios em Portugal, também no Grande Porto (por exemplo em Cedofeita), e trabalha sem fidelização. Com o plano Classic treinas em 24 ginásios por 5,99 € por semana, sem taxa de inscrição (outubro de 2026, ginásio Parque das Nações em Lisboa).
+A Element Gyms tem mais de 50 ginásios em Portugal, também no Grande Porto (por exemplo em Cedofeita), e trabalha sem fidelização. Com o plano Classic treinas nos ginásios da tua região por 5,99 € por semana, mais 5 € de inscrição (novembro de 2026).
 
 ### Ideal para
 
@@ -149,7 +149,7 @@ A Element Gyms tem 56 ginásios em Portugal, também no Grande Porto (por exempl
 - Confirma o preço atual no ginásio
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/pt/ginasio-sem-fidelizacao-lisboa/">Ginásio sem fidelização</a>
+<a class="knop knop-rand" href="/pt/element-gyms/">Tudo sobre a Element Gyms</a>
 </div>
 
 </div>

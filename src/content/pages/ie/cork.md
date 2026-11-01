@@ -59,7 +59,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Cancelling** | Change or cancel any time | No contract |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> 14 days free, 10 workouts | Day pass €14 |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, Ireland only |
-| **Find out more** | [All about ClassPass](/ie/classpass/) | [Gyms without a contract in Dublin](/ie/gyms-without-contract-dublin/#flyefit) |
+| **Find out more** | [All about ClassPass](/ie/classpass/) | [All about Flyefit](/ie/flyefit/) |
 
 <p class="klein">Prices from October 2026. ClassPass: standard plan in Ireland. Flyefit: Flyefit sign-up page.</p>
 
@@ -122,7 +122,7 @@ Flyefit has one gym in Cork, plus 20 in Dublin and one in Galway. With Flye Roam
 - The joining fee is normally €25 (students €12.50); in October 2026 it was waived
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/ie/gyms-without-contract-dublin/#flyefit">More about Flyefit</a>
+<a class="knop knop-rand" href="/ie/flyefit/">All about Flyefit</a>
 </div>
 
 </div>

@@ -1,45 +1,102 @@
 ---
-title: "Basic-Fit: Comfort, Premium of Ultimate, Flex en prijzen"
+title: "Basic-Fit formules en prijzen: Comfort, Premium, Ultimate en Flex"
 path: "/nl/basic-fit/"
-description: "Alles over Basic-Fit in Nederland: de abonnementen Comfort, Premium en Ultimate, jaarabonnement of Flex, inschrijfkosten, pauzeren en opzeggen."
+description: "De Basic-Fit formules op een rij: Comfort, Premium en Ultimate, met jaarabonnement of Flex. Prijzen, inschrijfkosten, extra's, pauzeren en opzeggen."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Basic-Fit"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
 <div class="fotobanner smal foto-basic-fit" role="img" aria-label="Sportschool"></div>
 
-Basic-Fit is een voordelige sportschoolketen met clubs in heel Nederland en in België, Luxemburg, Frankrijk, Spanje en Duitsland. Veel clubs zijn dag en nacht open. Je kiest een abonnement (Comfort, Premium of Ultimate) en of je een jaar vastzit of met Flex elke maand kunt stoppen.
+Basic-Fit is een voordelige sportschoolketen met clubs in heel Nederland en in België, Luxemburg, Frankrijk, Spanje en Duitsland. Veel clubs zijn dag en nacht open. Je kiest een formule (Basic-Fit noemt het een lidmaatschap): Comfort, Premium of Ultimate. Daarna kies je of je een jaar vastzit of met Flex elke maand kunt stoppen.
 
 <h2 id="kort">In het kort</h2>
 
 | | Basic-Fit |
 | --- | --- |
 | **Soort** | Voordelige sportschoolketen |
+| **Formules** | Comfort, Premium en Ultimate |
 | **Prijs** | Vanaf € 24,99 per 4 weken met jaarabonnement |
 | **Zonder contract** | <span class="ja" aria-hidden="true">✓</span> Flex: € 9,99 per 4 weken meer, opzegtermijn 4 weken |
-| **Inschrijfkosten** | € 19,99 bij Flex |
-| **Groepslessen** | In clubs die ze aanbieden |
+| **Groepslessen** | Live lessen in clubs die ze aanbieden, video-workouts in de club en in de app |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Met Premium of Ultimate, in alle clubs in Nederland, België, Luxemburg, Frankrijk, Spanje en Duitsland |
 
-<p class="klein">Bron: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
+<p class="klein">Bron: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (november 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
 
-<h2 id="abonnementen">De abonnementen</h2>
+<h2 id="formules">De formules en prijzen</h2>
 
 | | Jaarabonnement | Flex | Wat je krijgt |
 | --- | --- | --- | --- |
 | **Comfort** | € 24,99 | € 34,98 | Alle clubs in Nederland |
-| **Premium** | € 29,99 | € 39,98 | Alle clubs in 6 landen, één gast per week, massagestoelen |
-| **Ultimate** | € 34,99 | € 44,98 | Alle clubs in 6 landen, onbeperkt gasten, sportwater, gratis pauzeren |
+| **Premium** | € 29,99 | € 39,98 | Alle clubs in 6 landen, één vriend(in) per week mee, massagestoelen |
+| **Ultimate** | € 34,99 | € 44,98 | Alle clubs in 6 landen, altijd een vriend(in) mee, massagestoelen, Yanga Sports Water, gratis pauzeren |
 
-Prijzen per 4 weken. Een jaarabonnement loopt minimaal 52 weken; daarna zeg je op met 4 weken opzegtermijn. Flex heeft geen minimale looptijd, maar de welkomstacties voor jaarabonnementen gelden er niet voor.
+Prijzen per 4 weken. Je betaalt elke 4 weken vooraf, dus 13 keer per jaar. Bij elke formule horen de Basic-Fit-app met workouts, video-workouts in de club en live groepslessen in clubs die ze geven.
+
+<h2 id="jaar-of-flex">Jaarabonnement of Flex</h2>
+
+| | Jaarabonnement | Flex |
+| --- | --- | --- |
+| **Minimale looptijd** | 52 weken | Geen |
+| **Opzeggen** | Na 52 weken, met 4 weken opzegtermijn | Op elk moment, met 4 weken opzegtermijn |
+| **Prijs per 4 weken** | Basisprijs | € 9,99 meer |
+| **Inschrijfkosten** | Comfort € 19,99, Premium € 9,99, Ultimate € 4,99 | € 19,99 bij elke formule |
+| **Welkomstacties** | Ja, wisselt per periode | Nee |
+
+Twijfel je of je het volhoudt, dan is Flex de veilige keuze: je betaalt iets meer, maar zit nergens aan vast. Sport je zeker een jaar lang, dan is het jaarabonnement voordeliger.
+
+<h2 id="welke-formule">Welke formule past bij jou?</h2>
+
+<div class="kolommen">
+
+<div class="kolom kaart">
+
+### Comfort
+
+Je traint in je eigen buurt in Nederland en hebt geen extra's nodig. De goedkoopste formule.
+
+</div>
+
+<div class="kolom kaart">
+
+### Premium
+
+Je reist vaak naar België, Frankrijk, Spanje, Luxemburg of Duitsland, of je neemt af en toe iemand mee.
+
+</div>
+
+<div class="kolom kaart">
+
+### Ultimate
+
+Je traint vaak met een vriend(in), wilt sportwater erbij of verwacht soms te pauzeren. Ultimate heeft ook de laagste inschrijfkosten bij een jaarabonnement.
+
+</div>
+
+</div>
+
+<h2 id="extras">Extra's en dagpas</h2>
+
+| Extra | Prijs | Bij welke formule inbegrepen |
+| --- | --- | --- |
+| **Massagestoelen** | € 1,99 per 4 weken | Premium en Ultimate |
+| **Yanga Sports Water** | € 4,99 per 4 weken | Ultimate |
+| **Membership Freeze (pauzeren)** | € 2,99 per 4 weken | Ultimate |
+| **Dagpas** | € 11,99 per bezoek | Voor niet-leden, te koop bij de kiosk in de club |
+
+<p class="klein">Bron: <a href="https://www.basic-fit.com/nl-nl/prijs">basic-fit.com/nl-nl/prijs</a> (november 2026).</p>
 
 <h2 id="pauzeren">Pauzeren en opzeggen</h2>
 
-- **Bevriezen:** met Comfort of Premium maximaal 4 weken per keer, twee keer per jaar. Bij Ultimate is pauzeren gratis.
+- **Pauzeren:** maximaal 4 weken per keer, twee keer per jaar. In die weken betaal je niet en kun je niet naar de club. Bij Comfort en Premium heb je daarvoor de extra Membership Freeze nodig; bij Ultimate zit pauzeren erin.
 - **Opzeggen:** gratis via My Basic-Fit, de app of de kiosk in de club, met 4 weken opzegtermijn. Lees [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) ([in English](/nl/cancel-basic-fit/)).
+
+<h2 id="leeftijd">Vanaf welke leeftijd?</h2>
+
+Vanaf 16 jaar word je zelf lid. Ben je 14 of 15, dan train je alleen samen met iemand van 16 of ouder die zelf ook lid is. In clubs die 24 uur open zijn, moet je tussen 22.30 en 7.00 uur minstens 18 zijn.
 
 <h2 id="steden">Zonder contract in jouw stad</h2>
 
@@ -78,6 +135,20 @@ Goed als je van afwisseling houdt en één tot drie keer per week sport. Altijd 
 ## Veelgestelde vragen
 
 <details open>
+<summary>Welke formules heeft Basic-Fit?</summary>
+
+Drie: Comfort, Premium en Ultimate. Elke formule kun je nemen als jaarabonnement of als Flex zonder minimale looptijd.
+
+</details>
+
+<details>
+<summary>Wat is het verschil tussen Comfort, Premium en Ultimate?</summary>
+
+Met Comfort train je alleen in Nederland. Premium geeft toegang tot alle clubs in 6 landen, één gast per week en de massagestoelen. Ultimate heeft daarbovenop onbeperkt gasten, Yanga Sports Water en gratis pauzeren.
+
+</details>
+
+<details>
 <summary>Heeft Basic-Fit een abonnement zonder contract?</summary>
 
 Ja, Flex. Je betaalt € 9,99 per 4 weken meer dan een jaarabonnement en zegt op met 4 weken opzegtermijn.
@@ -87,7 +158,7 @@ Ja, Flex. Je betaalt € 9,99 per 4 weken meer dan een jaarabonnement en zegt op
 <details>
 <summary>Wat kost Basic-Fit?</summary>
 
-Met een jaarabonnement vanaf € 24,99 per 4 weken (Comfort), met Flex vanaf € 34,98 (oktober 2026).
+Met een jaarabonnement vanaf € 24,99 per 4 weken (Comfort), met Flex vanaf € 34,98. Daarbij komen eenmalige inschrijfkosten (november 2026).
 
 </details>
 

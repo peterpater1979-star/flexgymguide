@@ -46,7 +46,7 @@ An Irish gym chain without a contract: 20 gyms in Dublin, plus Cork and Galway. 
 - No minimum term
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/ie/gyms-without-contract-dublin/">Gyms without a contract in Dublin</a>
+<a class="knop knop-rand" href="/ie/flyefit/">All about Flyefit</a>
 </div>
 
 </div>
