@@ -152,8 +152,10 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 ¿Te falta algo? Con estos enlaces vas directamente a Traininn, la tienda de fitness de Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-es-kleding/?ws=fgg-es-index">Ropa deportiva</a></li>
-<li class="i-schoen"><a href="/go/traininn-es-schoenen/?ws=fgg-es-index">Zapatillas deportivas</a></li>
+<li class="i-kleding"><a href="/go/traininn-es-kleding-dames/?ws=fgg-es-index">Ropa deportiva de mujer</a></li>
+<li class="i-kleding"><a href="/go/traininn-es-kleding-heren/?ws=fgg-es-index">Ropa deportiva de hombre</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-dames/?ws=fgg-es-index">Zapatillas deportivas de mujer</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-index">Zapatillas deportivas de hombre</a></li>
 <li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-index">Botella de agua</a></li>
 <li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-index">Toalla de deporte</a></li>
 </ul>

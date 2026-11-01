@@ -109,6 +109,12 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <li><a href="/fr/montpellier/"><strong>Montpellier</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
 <li><a href="/fr/rennes/"><strong>Rennes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
 <li><a href="/fr/cannes/"><strong>Cannes</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+</ul>
+
+<details class="meer-steden">
+<summary>Voir les 28 autres villes</summary>
+
+<ul class="stedenlijst">
 <li><a href="/fr/rouen/"><strong>Rouen</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
 <li><a href="/fr/tours/"><strong>Tours</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/fr/orleans/"><strong>Orléans</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
@@ -138,6 +144,8 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <li><a href="/fr/montevrain/"><strong>Montévrain</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/fr/bussy-saint-georges/"><strong>Bussy-Saint-Georges</strong></a> <span class="klein">ClassPass</span></li>
 </ul>
+
+</details>
 
 ClassPass est aussi présent dans d’autres villes. Dans l’application, tu vois quels studios et salles participent près de chez toi.
 
@@ -182,17 +190,24 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 
 <h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
 
-Ces liens t’emmènent directement sur Amazon.de. Le site est en allemand, mais tu peux choisir l’anglais en haut de la page.
+Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn, en français :
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Vêtements de sport</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Chaussures de sport</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Gourde</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Serviette de sport</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-index">Vêtements de sport femme</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-index">Vêtements de sport homme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-index">Chaussures de sport femme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-index">Chaussures de sport homme</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-index">Gourde</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-index">Serviette de sport</a></li>
+</ul>
+
+Sur Amazon.de (site en allemand, tu peux choisir l’anglais en haut de la page) :
+
+<ul class="spullen">
 <li class="i-slot"><a href="/go/amazon-de-schloss/">Cadenas pour le casier</a></li>
 </ul>
 
-<p class="klein">En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Le prix reste le même pour toi.</p>
+<p class="klein">Nous touchons une commission sur les achats faits via ces liens. En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Le prix reste le même pour toi.</p>
 
 <h2 id="gidsen">Guides</h2>
 

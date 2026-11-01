@@ -71,8 +71,10 @@ Kengät, joissa on tasainen ja tukeva pohja kyykkyihin ja nostoihin. Pyyhe penke
 Nämä linkit vievät suoraan Amazon.de-sivustolle, joka toimittaa myös Suomeen. Sivusto on saksaksi, mutta voit vaihtaa kieleksi englannin sivun yläosasta.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Treenivaatteet</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Treenikengät</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Treenivaatteet naisille</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Treenivaatteet miehille</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Treenikengät naisille</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Treenikengät miehille</a></li>
 <li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Juomapullo</a></li>
 <li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Treenipyyhe</a></li>
 <li class="i-slot"><a href="/go/amazon-de-schloss/">Lukko kaappiin</a></li>

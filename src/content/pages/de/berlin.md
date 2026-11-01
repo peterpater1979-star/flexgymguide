@@ -106,9 +106,9 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Ein sehr großes Angebot, verteilt über die ganze Stadt, von Lagree und Reformer-Pilates bis Boxen, Yoga, Tanz und Indoor-Cycling. Welche Studios es in welchem Bezirk gibt, liest du unter [ClassPass in Berlin](/de/classpass-berlin/).
+Ein sehr großes Angebot, verteilt über die ganze Stadt, von Lagree und Reformer-Pilates bis Boxen, Yoga, Tanz und Indoor-Cycling. Welche Studios es in welchem Bezirk gibt, liest du unter ClassPass in Berlin.
 
-[Sieh dir die Studios in Berlin auf ClassPass an.](https://classpass.com/search/berlin/fitness-classes/5275bm9hp3q)
+[Alle Studios in Berlin nach Bezirk und Sportart ansehen.](/de/classpass-berlin/)
 
 ### Das bekommst du
 

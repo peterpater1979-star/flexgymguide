@@ -74,8 +74,10 @@ No registration fee at the moment.
 There is no Amazon store in Luxembourg, but Amazon.de delivers there. These links take you straight to Amazon.de; you can switch the site to English at the top of the page.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Sportswear</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe/">Training shoes</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportswear for men</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Training shoes for men</a></li>
 <li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Water bottle</a></li>
 <li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Gym towel</a></li>
 <li class="i-slot"><a href="/go/amazon-de-schloss/">Locker padlock</a></li>

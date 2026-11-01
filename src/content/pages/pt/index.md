@@ -136,8 +136,10 @@ Podes alterar, pausar ou cancelar o teu plano a qualquer momento.
 Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de fitness da Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-pt-kleding/?ws=fgg-pt-index">Roupa desportiva</a></li>
-<li class="i-schoen"><a href="/go/traininn-pt-schoenen/?ws=fgg-pt-index">Sapatilhas de desporto</a></li>
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-dames/?ws=fgg-pt-index">Roupa desportiva de mulher</a></li>
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-heren/?ws=fgg-pt-index">Roupa desportiva de homem</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-dames/?ws=fgg-pt-index">Sapatilhas de desporto de mulher</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-heren/?ws=fgg-pt-index">Sapatilhas de desporto de homem</a></li>
 <li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-index">Garrafa de água</a></li>
 <li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-index">Toalha de desporto</a></li>
 </ul>

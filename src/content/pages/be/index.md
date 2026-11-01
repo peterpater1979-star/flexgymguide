@@ -128,8 +128,10 @@ Je kunt je abonnement altijd aanpassen, pauzeren of opzeggen.
 Mis je nog iets? Via deze links zoek je direct bij Amazon.nl, dat ook naar België levert:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-nl-sportkleding/">Sportkleding</a></li>
-<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen/">Sportschoenen</a></li>
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-dames/">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-heren/">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-dames/">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-heren/">Sportschoenen heren</a></li>
 <li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
 <li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
 <li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>

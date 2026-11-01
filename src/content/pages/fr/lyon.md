@@ -107,9 +107,9 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Presqu’île, Croix-Rousse, la Part-Dieu, les Brotteaux et la Guillotière. Surtout du yoga et du Pilates, et aussi à Villeurbanne et Caluire.
+Presqu’île, Croix-Rousse, la Part-Dieu, les Brotteaux et la Guillotière. Surtout du yoga et du Pilates, et aussi à Villeurbanne et Caluire. Les studios par quartier et par sport sont sur ClassPass à Lyon.
 
-[Voir les studios à Lyon sur ClassPass](/go/classpass-fr-lyon/?epi=fgg-fr-lyon)
+[Voir les studios à Lyon par quartier et par sport](/fr/classpass-lyon/)
 
 ### Ce que tu as
 

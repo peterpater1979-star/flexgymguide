@@ -106,9 +106,9 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Ein großes Angebot, verteilt über die Stadt, von Lagree, Reformer- und Hot Pilates bis Yoga, Barre, Indoor-Cycling und Bootcamp. Welche Studios es in welchem Stadtteil gibt, liest du unter [ClassPass in Hamburg](/de/classpass-hamburg/).
+Ein großes Angebot, verteilt über die Stadt, von Lagree, Reformer- und Hot Pilates bis Yoga, Barre, Indoor-Cycling und Bootcamp. Welche Studios es in welchem Stadtteil gibt, liest du unter ClassPass in Hamburg.
 
-[Sieh dir die Studios in Hamburg auf ClassPass an.](https://classpass.com/search/hamburg/fitness-classes/3yrbeRao6Sb)
+[Alle Studios in Hamburg nach Stadtteil und Sportart ansehen.](/de/classpass-hamburg/)
 
 ### Das bekommst du
 

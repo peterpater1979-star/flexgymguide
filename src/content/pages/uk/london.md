@@ -104,9 +104,9 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 ### Where
 
-A huge choice, spread across the whole city, from HIIT at Barry's and 1Rebel to reformer Pilates, boxing, yoga and private gyms. See [ClassPass in London](/uk/classpass-london/) for studios by area and type of workout.
+A huge choice, spread across the whole city, from HIIT at Barry's and 1Rebel to reformer Pilates, boxing, yoga and private gyms. See ClassPass in London for studios by area and type of workout.
 
-[See the studios in London on ClassPass.](https://classpass.com/search/london/fitness-classes/3rFZWUyMHP5)
+[See the studios in London by area and type of workout.](/uk/classpass-london/)
 
 ### What you get
 
