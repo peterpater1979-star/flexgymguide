@@ -106,7 +106,9 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 ### Dónde
 
-Eixample, Poblenou, Sarrià-Sant Gervasi, Gràcia, Ciutat Vella y Sants. Yoga, Pilates, fuerza y barre, y también en Badalona.
+Eixample, Poblenou, Sarrià-Sant Gervasi, Gràcia, Ciutat Vella y Sants. Yoga, Pilates, fuerza y barre, y también en Badalona. Los estudios por barrio y por deporte están en ClassPass en Barcelona.
+
+[Ver los estudios de Barcelona por barrio y por deporte](/es/classpass-barcelona/)
 
 ### Qué tienes
 

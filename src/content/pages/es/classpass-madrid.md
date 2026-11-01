@@ -118,6 +118,7 @@ Con tus créditos no solo reservas clases en Madrid, sino también sesiones de b
 ### ClassPass
 
 - [Todo sobre ClassPass](/es/classpass/)
+- [ClassPass en Barcelona](/es/classpass-barcelona/)
 
 </div>
 
