@@ -22,7 +22,6 @@ const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : 
     <div class="wrap">
       {affiliate && <Advertentiemelding lang={d.lang} />}
       {d.path !== '/' && <Kruimelpad path={d.path} lang={d.lang} />}
-      {d.kicker && <p class="kicker">{d.kicker}</p>}
       <h1>{d.title}</h1>
       {d.byline && <p class="klein meta">{d.byline}</p>}
       {!d.byline && d.updated && <p class="klein meta">{fmt(d.updated)}</p>}

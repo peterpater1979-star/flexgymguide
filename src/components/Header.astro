@@ -20,14 +20,16 @@ const zoek = {
 // Landnamen voor het labeltje bij elk zoekresultaat.
 const landNamen = Object.fromEntries(menu.main.map((m) => [m.land, m.label]));
 const huidig = menu.main.find((m) => m.land === land);
+// Korte landnaam op smalle schermen, zodat de kop op één regel past.
+const kort = ({ 'United Kingdom': 'UK' } as Record<string, string>)[huidig?.label ?? ''];
 ---
 <header>
   <div class="wrap bar">
     <a class="logo" href="/"><svg class="logo-icoon" xmlns="http://www.w3.org/2000/svg" viewBox="2 6 44 44" aria-hidden="true"><rect x="2" y="6" width="44" height="44" rx="11" fill="currentColor"/><g transform="rotate(-30 24 28)" fill="#fff"><rect x="9" y="21" width="4" height="14" rx="1.5"/><rect x="13.5" y="23" width="4" height="10" rx="1.5"/><rect x="17" y="26.5" width="14" height="3" rx="1.5"/><rect x="30.5" y="23" width="4" height="10" rx="1.5"/><rect x="35" y="21" width="4" height="14" rx="1.5"/></g></svg><span class="logo-tekst">Flex<span>Gym</span>Guide</span></a>
     <nav aria-label="Main">
       <ul>
-        {huidig && <li><a href={huidig.href} aria-current="true">{huidig.label}</a></li>}
-        <li><a class="landen" href="#landen">{landenLabel}</a></li>
+        {huidig && <li><a href={huidig.href} aria-current="true">{kort ? <><span class="land-lang">{huidig.label}</span><span class="land-kort" aria-hidden="true">{kort}</span></> : huidig.label}</a></li>}
+        <li><a class="landen" href="#landen" aria-label={landenLabel} title={landenLabel}><svg class="landen-icoon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.6 5.7 3.6 9s-1.1 6.3-3.6 9c-2.5-2.7-3.6-5.7-3.6-9S9.5 5.7 12 3z"/></svg><span class="landen-tekst">{landenLabel}</span></a></li>
         <li><button type="button" class="zoek-knop" aria-label={zoek.knop} aria-expanded="false" aria-controls="zoeken" title={zoek.knop}><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg></button></li>
       </ul>
     </nav>
@@ -103,6 +105,23 @@ const huidig = menu.main.find((m) => m.land === land);
   nav a { color: var(--text); text-decoration: none; font-weight: 500; font-size: .95rem; }
   nav a:hover, nav a[aria-current] { color: var(--accent); }
   .landen { color: var(--muted); font-weight: 400; }
+  .landen-icoon { display: none; }
+  .land-kort { display: none; }
+  /* Mobiel: logo, land, andere landen (wereldbol) en zoeken op één regel. */
+  @media (max-width: 640px) {
+    .bar { flex-wrap: nowrap; gap: .75rem; padding-block: .8rem; }
+    .logo { font-size: 1.1rem; gap: .4rem; flex: none; }
+    .logo-icoon { width: 1.6rem; height: 1.6rem; }
+    nav ul { flex-wrap: nowrap; gap: .6rem; }
+    nav a { font-size: .9rem; white-space: nowrap; }
+    .landen { display: grid; place-items: center; width: 2.25rem; height: 2.25rem; margin: -.3rem 0; color: var(--text); }
+    .landen-icoon { display: block; }
+    .landen-tekst { display: none; }
+  }
+  @media (max-width: 420px) {
+    .land-lang { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+    .land-kort { display: inline; }
+  }
   .zoek-knop { display: grid; place-items: center; width: 2.25rem; height: 2.25rem; margin: -.3rem 0; padding: 0; border: 0; border-radius: 50%; background: none; color: var(--text); cursor: pointer; }
   .zoek-knop:hover, .zoek-knop[aria-expanded='true'] { color: var(--accent); background: var(--surface); }
   .zoek { border-top: 1px solid var(--line); background: var(--white); padding-block: .9rem 1rem; }
