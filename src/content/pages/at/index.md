@@ -96,7 +96,7 @@ Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 
 ClassPass gibt es in Österreich vor allem in Wien, mit Studios unter anderem in Mariahilf, der Inneren Stadt, Landstraße, Neubau und Wieden. Dazu kommen einige Studios in der Umgebung, etwa in Klosterneuburg, Mödling und Baden. Alles über ClassPass und Fitness First in der Hauptstadt liest du im [Stadtguide Wien](/at/wien/). In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 
 <ul class="stedenlijst">
-<li><a href="/at/wien/"><strong>Wien</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/at/wien/"><strong>Wien</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
 </ul>
 
 ## So funktioniert ClassPass in Österreich
