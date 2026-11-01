@@ -69,7 +69,7 @@ Ab 15 Jahren. Bis 17 brauchst du eine unterschriebene Einverständniserklärung 
 
 <h2 id="zuerich">Activ Fitness in Zürich</h2>
 
-In Zürich hat Activ Fitness 16 Studios, etwa in Altstetten, Oerlikon, Stauffacher und Sihlcity. Welche Studios zu welcher Kategorie gehören und welche anderen Möglichkeiten ohne Jahresabo es gibt, liest du in [Fitnessstudio ohne Vertrag in Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/#studios).
+In Zürich hat Activ Fitness 16 Studios, etwa in Altstetten, Oerlikon und Sihlcity. Lies [alle Studios pro Kategorie](/ch/fitnessstudio-ohne-vertrag-zuerich/#studios).
 
 <h2 id="classpass">Activ Fitness oder ClassPass?</h2>
 
