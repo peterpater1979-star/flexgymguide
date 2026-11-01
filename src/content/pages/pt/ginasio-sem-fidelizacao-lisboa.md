@@ -18,7 +18,7 @@ Não te apetece ficar preso um ano a um só ginásio? Em Lisboa também podes tr
 | | Cancelamento | Preço | Ideal para |
 | --- | --- | --- | --- |
 | **ClassPass** | Quando quiseres, sem pré-aviso | Plano padrão 59 € por mês (37 créditos); planos mais pequenos na app | Variar entre estúdios e ginásios em toda a Lisboa |
-| **Element Gyms** | Sem fidelização | Classic 5,99 € por semana, sem inscrição | Treinar muitas vezes e barato |
+| **Element Gyms** | Sem fidelização | Classic 5,99 € por semana, inscrição 5 € | Treinar muitas vezes e barato |
 | **Aula avulsa ou pack** | Não é preciso | Depende do estúdio | Uma aula de vez em quando no teu estúdio preferido |
 
 <p class="klein">Preços de outubro de 2026. ClassPass: localização Lisboa. Element Gyms: plano Classic, ginásio Parque das Nações. Confirma sempre o preço atual com o fornecedor.</p>
@@ -42,9 +42,9 @@ Muitas cadeias de ginásios em Portugal têm planos com fidelização (muitas ve
 
 | | Preço | Fidelização | Inscrição |
 | --- | --- | --- | --- |
-| Element Gyms Classic (ginásios da tua região) | 5,99 € por semana | Sem fidelização | 0,00 € (outubro de 2026) |
+| Element Gyms Classic (ginásios da tua região) | 5,99 € por semana | Sem fidelização | 5 € (novembro de 2026) |
 
-<p class="klein">Fonte: a página de inscrição da Element Gyms, ginásio Parque das Nações (outubro de 2026). Há também planos com mais ou menos ginásios. Confirma sempre o preço atual e as condições com o ginásio.</p>
+<p class="klein">Fonte: <a href="https://elementgyms.pt/planos/">elementgyms.pt/planos</a> (novembro de 2026). Há também planos com mais ou menos ginásios. Confirma sempre o preço atual e as condições com o ginásio.</p>
 
 Vê todos os planos, o horário e como cancelar em [Tudo sobre a Element Gyms](/pt/element-gyms/).
 

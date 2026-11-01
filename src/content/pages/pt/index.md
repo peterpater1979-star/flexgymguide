@@ -39,7 +39,7 @@ Uma subscrição com créditos para ioga, pilates, boxe, spinning e ginásio, em
 
 ### Element Gyms
 
-Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic treinas nos ginásios da tua região por 5,99 € por semana, sem inscrição.
+Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic treinas nos ginásios da tua região por 5,99 € por semana, mais 5 € de inscrição.
 
 - Ideal se treinas três vezes por semana ou mais
 - Ideal se queres um sítio fixo

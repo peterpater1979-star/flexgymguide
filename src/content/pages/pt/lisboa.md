@@ -136,7 +136,7 @@ Santos, Príncipe Real, Chiado, Campo de Ourique, Saldanha, Belém e Restelo. So
 
 ## Element Gyms em Lisboa
 
-A Element Gyms tem mais de 50 ginásios em Portugal, vários em Lisboa (por exemplo Parque das Nações), e trabalha sem fidelização. Com o plano Classic treinas nos ginásios da tua região por 5,99 € por semana, sem taxa de inscrição (outubro de 2026).
+A Element Gyms tem mais de 50 ginásios em Portugal, vários em Lisboa (por exemplo Parque das Nações), e trabalha sem fidelização. Com o plano Classic treinas nos ginásios da tua região por 5,99 € por semana, mais 5 € de inscrição (novembro de 2026).
 
 ### Ideal para
 
