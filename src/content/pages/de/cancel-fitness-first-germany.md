@@ -53,7 +53,6 @@ With a 24-month term, the plan description includes a free pause of up to 12 wee
 Stopping because you want more variety, or because you are leaving Germany soon? These options have no long contract:
 
 - **Fitness First with a 1-month term:** want to stay but not be tied down? Switch to the shortest term.
-- **ClassPass:** credits every month for classes and gyms at studios in your city, cancel any time. Read [How ClassPass works](/guides/how-classpass-works/) or [Trying ClassPass for free](/guides/classpass-free-trial/).
 - **Monthly gyms in your city:** see the overviews for [Berlin](/de/gyms-without-contract-berlin/), [Hamburg](/de/gyms-without-contract-hamburg/), [Munich](/de/gyms-without-contract-munich/), [Frankfurt](/de/gyms-without-contract-frankfurt/), [Cologne](/de/gyms-without-contract-cologne/), [Düsseldorf](/de/gyms-without-contract-duesseldorf/) and [Stuttgart](/de/gyms-without-contract-stuttgart/).
 
 ## Frequently asked questions

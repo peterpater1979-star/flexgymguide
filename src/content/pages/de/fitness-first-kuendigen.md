@@ -53,7 +53,6 @@ Mit einer Laufzeit von 24 Monaten gehört laut Tarifbeschreibung eine kostenlose
 Hörst du bei Fitness First auf, weil du mehr Abwechslung willst oder dich nicht mehr binden möchtest? Das sind Möglichkeiten ohne lange Laufzeit:
 
 - **Fitness First mit 1 Monat Laufzeit:** willst du bleiben, aber nicht mehr lange gebunden sein, kannst du auf die kürzeste Laufzeit wechseln. Lies [Alles über Fitness First](/de/fitness-first/).
-- **ClassPass:** jeden Monat Credits für Kurse und Gyms in Studios in deiner Stadt, jederzeit kündbar. Lies [Alles über ClassPass](/de/classpass/) oder [ClassPass kostenlos testen](/de/classpass-probezeit/).
 - **Monatlich kündbar in deiner Stadt:** siehe die Übersichten für [Berlin](/de/fitnessstudio-ohne-vertrag-berlin/), [Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/), [München](/de/fitnessstudio-ohne-vertrag-muenchen/) und [Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 
 ## Häufige Fragen
@@ -88,6 +87,5 @@ Ja, für 4, 8 oder 12 Wochen, ohne Beiträge. Deine Vertragslaufzeit verlängert
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
-<a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/cancel-fitness-first-germany/">In English</a>
 </div>

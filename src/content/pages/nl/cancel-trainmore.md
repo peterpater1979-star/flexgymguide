@@ -55,7 +55,6 @@ If Trainmore raises its prices, you hear about it 30 days in advance by email or
 Stopping because you don't want to be tied down anymore, or because you want more variety? These options have no long contract:
 
 - **Trainmore Flex:** want to stay but not be tied down? After your contract you can switch to Flex.
-- **ClassPass:** credits every month for classes and gyms at studios in your city, cancel any time. Read [How ClassPass works](/guides/how-classpass-works/) or [Trying ClassPass for free](/guides/classpass-free-trial/).
 - **Monthly gyms in your city:** see the overviews for [Amsterdam](/nl/gyms-without-contract-amsterdam/), [Rotterdam](/nl/gyms-without-contract-rotterdam/), [The Hague](/nl/gyms-without-contract-the-hague/), [Utrecht](/nl/gyms-without-contract-utrecht/), [Eindhoven](/nl/gyms-without-contract-eindhoven/), [Groningen](/nl/gyms-without-contract-groningen/) and [Haarlem](/nl/gyms-without-contract-haarlem/).
 
 ## Frequently asked questions
