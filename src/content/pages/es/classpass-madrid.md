@@ -93,6 +93,8 @@ Con tus créditos no solo reservas clases en Madrid, sino también sesiones de b
 - Algunos centros de bienestar y belleza piden confirmar la cita por teléfono o con su propio sistema de reservas. Lee las indicaciones del centro antes de reservar.
 - Tu plan funciona también en otras ciudades de España y en el extranjero, allí donde haya ClassPass.
 
+[Ver los estudios de Madrid en ClassPass.](https://classpass.com/search/madrid/fitness-classes/5LuUVcvT3TM)
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 <a class="knop knop-rand" href="/es/madrid/">Hacer deporte en Madrid</a>
