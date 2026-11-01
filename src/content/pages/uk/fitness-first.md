@@ -1,7 +1,7 @@
 ---
 title: "Fitness First UK: clubs, membership prices and cancelling"
 path: "/uk/fitness-first/"
-description: "Everything about Fitness First in the UK: 25 clubs, Single Club and Classic memberships, multi-club access, the minimum term, cancelling and guest passes."
+description: "Everything about Fitness First in the UK: 25 clubs, memberships and minimum terms, facilities, classes, opening hours, ways to try a club and cancelling."
 lang: en
 land: uk
 byline: "Updated October 2026"
@@ -11,7 +11,7 @@ kicker: "Provider: gym chain"
 
 <div class="fotobanner smal foto-fitness-first-uk" role="img" aria-label="Gym"></div>
 
-Fitness First has 25 clubs, 17 of them in London and the others in towns such as Bath, Bedford, Milton Keynes and St Albans. A membership gives you the gym floor, group classes and, depending on your tier, access to other clubs. Not sure yet? Try a club first with a guest pass.
+Fitness First has 25 clubs, 17 of them in London and the others in towns such as Bath, Bedford, Milton Keynes and St Albans. A membership gives you the gym floor, group classes and, depending on your tier, access to other clubs. Not sure yet? Book a free tour of a club first.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#cities">Fitness First in your city</a>
@@ -24,8 +24,11 @@ Fitness First has 25 clubs, 17 of them in London and the others in towns such as
 | **Type** | Gym chain with its own clubs |
 | **Clubs** | 25, of which 17 in London |
 | **Price** | Varies by club and membership tier |
-| **Membership** | Single Club or Classic (multi-club access) |
-| **Try it first** | Guest pass |
+| **Membership** | Single Club or Classic (multi-club access), plus student and corporate memberships |
+| **Minimum term** | 1, 3, 6, 9 or 12 months, depending on the club |
+| **Classes** | <span class="ja" aria-hidden="true">✓</span> Included, except Reformer Pilates |
+| **Try it first** | Free club tour; day passes at selected clubs |
+| **Minimum age** | 16 |
 | **Abroad** | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only |
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with Fitness First.</p>
@@ -43,11 +46,45 @@ An example: at Fitness First London Liverpool Street, a membership cost this in 
 
 <p class="klein">Check the price for your club on the Fitness First website.</p>
 
-<h2 id="what-you-get">What you get</h2>
+You choose a minimum term of 1, 3, 6, 9 or 12 months, depending on what your club offers. The shorter the term, the higher the monthly price. You pay monthly by Direct Debit, with the first payment by card, or the whole term up front.
 
-- **Multi-club access:** every club at your membership tier or below
-- **Classes:** group classes across the network
-- **Coaching:** personal trainers on hand
+- **Student membership:** a lower rate for students. Upload proof of your student status within 14 days of joining, or you pay the full rate.
+- **Corporate membership:** through your employer. Ask your HR department.
+- **Premium and 360 add-ons:** optional extras on top of your membership, without a minimum term. Premium lets you book classes 10 days ahead instead of 7 and includes guest passes every month. 360 is for adult members only.
+
+<h2 id="facilities">Facilities</h2>
+
+Every club has a gym floor with cardio machines and free weights. Beyond that, clubs differ a lot. A few examples:
+
+| Club | Facilities |
+| --- | --- |
+| **London Liverpool Street** | Lifting platforms, dumbbells from 2 to 50 kg, treadmills, rowers, ski ergs, Watt Bikes and a sauna |
+| **London Bishopsgate** | 16-metre swimming pool, steam room, cycle studio and a mind and body studio |
+| **London Wapping** | Swimming pool, boxing zone, sauna, steam room and a members' lounge |
+
+- **Lockers:** padlock lockers in every club. Bring your own padlock or buy one at reception.
+- **Towels:** free in some clubs.
+- **Wi-Fi:** free in the clubs.
+
+<p class="klein">Check the facilities of your club on its page on the Fitness First website.</p>
+
+<h2 id="classes">Classes</h2>
+
+Classes are included in your membership. Fitness First offers over 55 classes in five categories: strength, cardio, cycle, mind and body, and fight. Think HYROX training, lifting and conditioning classes, indoor cycling, yoga, Pilates and boxing. The timetable differs per club.
+
+You book a class up to 7 days in advance on the website or in the Fitness First app, with a waiting list when it's full. Reformer Pilates is not included: you pay for it with credits in the app.
+
+<h2 id="hours">Opening hours</h2>
+
+Opening hours differ per club. London Liverpool Street, for example, is open Monday to Friday from 06:00 to 21:00 and closed on bank holidays. Check the hours of your club on the Fitness First website.
+
+<h2 id="app">The Fitness First app</h2>
+
+In the free app you book classes, check in contactless and track your progress. It's available for iOS and Android.
+
+<h2 id="personal-training">Personal training</h2>
+
+Every club has personal trainers with at least a Level 3 qualification. They are self-employed and set their own prices. New members can book a free introductory session with a trainer.
 
 <h2 id="cancelling">Contract and cancelling</h2>
 
@@ -84,7 +121,8 @@ How to cancel online, what leaving early costs and how freezing works: [Cancel F
 
 - Training three times a week or more
 - Living or working in London
-- Wanting a club near home or work
+- Wanting a club near home or work, especially in the City of London
+- Wanting classes, from cycling to yoga, included in your membership
 
 </div>
 
@@ -92,14 +130,13 @@ How to cancel online, what leaving early costs and how freezing works: [Cancel F
 
 ### Less suited to
 
-- Wanting to do something different every week, such as yoga, boxing or Pilates at different studios
+- Living outside London and the South East: there are only a few clubs elsewhere
+- Looking for a budget gym: Fitness First is not a low-cost chain
 - Training abroad a lot: Fitness First is UK only
 
 </div>
 
 </div>
-
-Would you rather switch between studios? Then take a look at [ClassPass](/uk/classpass/), a fitness pass with credits.
 
 <h2 id="cities">Fitness First in your city</h2>
 
@@ -121,9 +158,9 @@ Would you rather switch between studios? Then take a look at [ClassPass](/uk/cla
 
 <p class="kicker">Try it</p>
 
-## Try Fitness First with a guest pass
+## Try Fitness First first
 
-Not sure yet? Visit a club first with a guest pass.
+Not sure yet? Book a free tour of a club of your choice. Some clubs also sell day passes for 1, 7 or 30 days, and Fenchurch Street, Oxford Circus and The Strand offer 5 and 10 session packs. New members get 2 guest passes to use in their first 30 days, so you can also come along with a friend who joins.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.fitnessfirst.co.uk/">Visit the Fitness First website</a>
@@ -155,9 +192,23 @@ You can use every club at your membership tier or below. A Single Club membershi
 </details>
 
 <details>
+<summary>Are classes included at Fitness First?</summary>
+
+Yes, all classes are included, except Reformer Pilates. You book them up to 7 days in advance on the website or in the app.
+
+</details>
+
+<details>
+<summary>What is the minimum term at Fitness First?</summary>
+
+1, 3, 6, 9 or 12 months, depending on the club. After the minimum term, you can cancel with one month's notice.
+
+</details>
+
+<details>
 <summary>Can I try Fitness First before joining?</summary>
 
-Yes, with a guest pass you can visit a club first.
+Yes. You can book a free tour of a club. Some clubs also sell day passes and session packs, and a friend who is a new member can bring you along with a guest pass.
 
 </details>
 
@@ -171,7 +222,7 @@ Yes, with a guest pass you can visit a club first.
 ### More about the UK
 
 - [Flexible fitness in the UK](/uk/)
-- [ClassPass](/uk/classpass/)
+- [Cancel Fitness First](/uk/cancel-fitness-first/)
 - [The Gym Group](/uk/the-gym-group/)
 
 </div>

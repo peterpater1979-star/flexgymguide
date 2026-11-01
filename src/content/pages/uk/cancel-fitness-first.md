@@ -56,7 +56,6 @@ After your first month, you can freeze your membership for 1 to 3 months in the 
 Leaving because you want more variety, or don't want to be tied in? These options have no long contract:
 
 - **Fitness First 1-month flexible:** want to stay without a long contract? The shortest term costs more per month. Read [all about Fitness First](/uk/fitness-first/).
-- **ClassPass:** credits every month for classes and gyms at studios in your city, cancel any time. Read [all about ClassPass](/uk/classpass/) or [try ClassPass for free](/guides/classpass-free-trial/).
 - **The Gym Group:** 24/7 gyms without a contract. Read [about The Gym Group](/uk/the-gym-group/).
 - **No-contract gyms in your city:** see [London](/uk/gyms-without-contract-london/) and [Manchester](/uk/gyms-without-contract-manchester/).
 
@@ -92,5 +91,5 @@ Yes, after your first month, for 1 to 3 months at £8 a month. With evidence of 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
-<a class="knop knop-rand" href="/uk/classpass/">All about ClassPass</a>
+<a class="knop knop-rand" href="/uk/the-gym-group/">About The Gym Group</a>
 </div>

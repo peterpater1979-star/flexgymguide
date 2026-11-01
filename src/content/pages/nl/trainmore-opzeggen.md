@@ -55,7 +55,6 @@ Verhoogt Trainmore de prijs, dan hoor je dat 30 dagen van tevoren per e-mail of 
 Wil je stoppen omdat je niet meer vast wilt zitten, of omdat je meer afwisseling zoekt? Dit zijn opties zonder lang contract:
 
 - **Trainmore Flex:** wil je blijven, maar niet meer vastzitten, dan kun je na je contract overstappen op Flex. Lees [alles over Trainmore](/nl/trainmore/).
-- **ClassPass:** elke maand credits voor lessen en gyms bij studio's in je stad, op elk moment opzegbaar. Lees [hoe ClassPass werkt](/nl/classpass/) of [ClassPass gratis proberen](/nl/classpass-proefperiode/).
 - **Maandelijks opzegbaar in jouw stad:** zie de overzichten voor [Amsterdam](/nl/sporten-zonder-contract-amsterdam/), [Rotterdam](/nl/sporten-zonder-contract-rotterdam/), [Den Haag](/nl/sporten-zonder-contract-den-haag/), [Utrecht](/nl/sporten-zonder-contract-utrecht/), [Eindhoven](/nl/sporten-zonder-contract-eindhoven/), [Groningen](/nl/sporten-zonder-contract-groningen/) en [Haarlem](/nl/sporten-zonder-contract-haarlem/).
 
 ## Veelgestelde vragen
