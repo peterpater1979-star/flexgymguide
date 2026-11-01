@@ -73,7 +73,7 @@ Pro Sportart eine Auswahl an Studios. Klick auf die Sportart, um alle Studios be
 
 - **[Pilates und Lagree](https://classpass.com/search/vienna/pilates-classes/4CVtiHHZ9YT):** unter anderem DIE DER Studio, Beyond Pilates, MOVEHAUS Lagree, BÅL Studios und die Yogagalerie
 - **[Barre](https://classpass.com/search/vienna/barre-classes/4CK74fsyNHD):** unter anderem Doktor Yoga und Beyond Pilates in Klosterneuburg
-- **Yoga:** unter anderem Doktor Yoga in der Inneren Stadt, in Mariahilf und in Neubau, Vinyasa Vibes Vienna, die Yogagalerie und Yoga mit Diana
+- **[Yoga](https://classpass.com/search/vienna/yoga-classes/69hKXHZoEa3):** unter anderem Doktor Yoga in der Inneren Stadt, in Mariahilf und in Neubau, Vinyasa Vibes Vienna, die Yogagalerie und Yoga mit Diana
 - **[Bootcamp und Krafttraining](https://classpass.com/search/vienna/bootcamp-classes/5FPcKaFA1Tu):** unter anderem HyperActive, BÅL Studios, fitfellows, Cumbirobic und Mrs. Sporty
 - **[HIIT](https://classpass.com/search/vienna/hiit-classes/5YWNz4drPsD):** unter anderem Les-Mills-Kurse bei fitfellows
 - **[Tanz](https://classpass.com/search/vienna/dance-classes/3pLrcCUaJ8F):** unter anderem Heels-Dance bei Vienna Heels, Pole Dance bei Pole Angels, Tanzkurse bei Confidance und Salsa und Step-Aerobic bei Cumbirobic
