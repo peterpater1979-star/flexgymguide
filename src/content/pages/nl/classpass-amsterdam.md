@@ -21,7 +21,7 @@ Amsterdam heeft op ClassPass een heel groot aanbod, verspreid over de hele stad.
 | **Prijs per maand** | Standaardabonnement € 69 per maand (47 credits) |
 | **Uitproberen** | 14 dagen gratis, 10 workouts |
 | **Waar** | In de hele stad, van het Centrum en de Jordaan tot De Pijp, Oost, Zuid en Noord |
-| **Wat je kunt doen** | Pilates, yoga, spinning, roeien, HIIT, bootcamp, boksen, vechtsport, dans, hardlopen, buitensporten en open gym, plus wellness- en beauty-afspraken |
+| **Wat je kunt doen** | Pilates, yoga, spinning, roeien, HIIT, bootcamp, boksen, vechtsport, dansen, hardlopen, buitensporten en open gym, plus wellness- en beauty-afspraken |
 
 </div>
 
@@ -72,7 +72,7 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - **[Bootcamp](https://classpass.com/search/amsterdam/bootcamp-classes/5G8er29hueo):** onder andere Upclub, Bodybase Studios en NUMA
 - **[Boksen](https://classpass.com/search/amsterdam/boxing-classes/3sgQy2d8TuR):** onder andere Vondelgym, AKHI Gym, Sin City Boxing, Fight District en NDSM Fightclub
 - **[Vechtsport](https://classpass.com/search/amsterdam/martial-arts-classes/521bENJgmKu):** onder andere Mejiro Gym, Ettaki Gym, Patricks Gym, capoeira bij CN Capoeira en aikido bij Shinyu Aikido
-- **[Dans](https://classpass.com/search/amsterdam/dance-classes/5JB6FYneH8s):** per dansschool wat je er kunt doen, onder andere:
+- **[Dansen](https://classpass.com/search/amsterdam/dance-classes/5JB6FYneH8s):** per dansschool wat je er kunt doen, onder andere:
   - **Paaldans:** Pole Dance Factory en Dance For Your Pole
   - **Salsa:** Salsa te Gusta in Oost, Noord, Bos en Lommer en aan het Zeeburgerpad
   - **Bachata:** Bailemos (bij CanDance Studios) en Latinflow Academy
