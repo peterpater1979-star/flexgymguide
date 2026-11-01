@@ -12,6 +12,9 @@ const d = page.data;
 const stad = /^\/(nl|de|uk)\/[^/]+\/$/.test(d.path);
 const tip = !d.noindex && !d.path.startsWith('/contact/');
 const affiliate = /\]\(\/go\/|href="\/go\//.test(page.body ?? '');
+// Zoekfunctie (Pagefind): alleen geïndexeerde pagina's. De titel telt zwaar mee; land en taal bepalen de volgorde van de resultaten.
+const zoek = !d.noindex;
+const zoekAttr = zoek ? { 'data-pagefind-body': '' } : {};
 const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : d.lang, { dateStyle: 'long' }).format(date);
 ---
 <Base title={d.title} description={d.description} lang={d.lang} land={d.land} noindex={d.noindex}>
@@ -25,9 +28,15 @@ const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : 
       {!d.byline && d.updated && <p class="klein meta">{fmt(d.updated)}</p>}
     </div>
   </div>
-  <article class="wrap prose">
+  <article class="wrap prose" {...zoekAttr}>
+    {zoek && <span hidden data-pagefind-weight="10" data-pagefind-meta="title">{d.title}</span>}
+    {zoek && <span hidden data-pagefind-ignore data-pagefind-meta="land">{d.land}</span>}
+    {zoek && <span hidden data-pagefind-ignore data-pagefind-meta="taal">{d.lang}</span>}
+    {zoek && d.description && <span hidden data-pagefind-ignore data-pagefind-meta="beschrijving">{d.description}</span>}
     <Content />
-    {tip && <TipFormulier lang={d.lang} pagina={d.path} stad={stad} />}
-    {!d.noindex && d.land !== 'global' && <Delen title={d.title} lang={d.lang} />}
+    <div data-pagefind-ignore="all">
+      {tip && <TipFormulier lang={d.lang} pagina={d.path} stad={stad} />}
+      {!d.noindex && d.land !== 'global' && <Delen title={d.title} lang={d.lang} />}
+    </div>
   </article>
 </Base>

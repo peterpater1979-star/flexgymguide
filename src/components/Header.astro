@@ -1,8 +1,24 @@
 ---
 import menu from '../data/menu.json';
 const { land = 'global', lang = 'en' } = Astro.props;
+type L = 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt' | 'da' | 'sv' | 'nb' | 'fi';
 // Geen landenlijst in de kop: bezoekers komen op hun eigen land binnen. "Andere landen" springt naar de landenlijst in de footer (de homepage zou de browser doorsturen naar het eigen land).
-const landenLabel = { nl: 'Andere landen', de: 'Andere Länder', en: 'Other countries', fr: 'Autres pays', es: 'Otros países', pt: 'Outros países', da: 'Andre lande', sv: 'Andra länder', nb: 'Andre land', fi: 'Muut maat' }[lang as 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt' | 'da' | 'sv' | 'nb' | 'fi'];
+const landenLabel = { nl: 'Andere landen', de: 'Andere Länder', en: 'Other countries', fr: 'Autres pays', es: 'Otros países', pt: 'Outros países', da: 'Andre lande', sv: 'Andra länder', nb: 'Andre land', fi: 'Muut maat' }[lang as L];
+// Zoekfunctie (Pagefind): teksten per taal. DK/SE/NO in du-vorm, Fins in sinä-vorm.
+const zoek = {
+  nl: { knop: 'Zoeken', veld: 'Zoek een stad of sportschool', geen: 'Niets gevonden. Probeer een andere stad of naam.', sluit: 'Sluiten' },
+  de: { knop: 'Suchen', veld: 'Stadt oder Fitnessstudio suchen', geen: 'Nichts gefunden. Versuch es mit einer anderen Stadt oder einem anderen Namen.', sluit: 'Schließen' },
+  en: { knop: 'Search', veld: 'Search for a city or gym', geen: 'Nothing found. Try another city or name.', sluit: 'Close' },
+  fr: { knop: 'Rechercher', veld: 'Chercher une ville ou une salle', geen: 'Aucun résultat. Essayez une autre ville ou un autre nom.', sluit: 'Fermer' },
+  es: { knop: 'Buscar', veld: 'Busca una ciudad o un gimnasio', geen: 'No hay resultados. Prueba con otra ciudad u otro nombre.', sluit: 'Cerrar' },
+  pt: { knop: 'Pesquisar', veld: 'Pesquise uma cidade ou ginásio', geen: 'Nada encontrado. Experimente outra cidade ou outro nome.', sluit: 'Fechar' },
+  da: { knop: 'Søg', veld: 'Søg efter en by eller et fitnesscenter', geen: 'Intet fundet. Prøv en anden by eller et andet navn.', sluit: 'Luk' },
+  sv: { knop: 'Sök', veld: 'Sök efter en stad eller ett gym', geen: 'Inget hittades. Testa en annan stad eller ett annat namn.', sluit: 'Stäng' },
+  nb: { knop: 'Søk', veld: 'Søk etter en by eller et treningssenter', geen: 'Ingen treff. Prøv en annen by eller et annet navn.', sluit: 'Lukk' },
+  fi: { knop: 'Haku', veld: 'Hae kaupunkia tai kuntosalia', geen: 'Ei tuloksia. Kokeile toista kaupunkia tai nimeä.', sluit: 'Sulje' },
+}[lang as L];
+// Landnamen voor het labeltje bij elk zoekresultaat.
+const landNamen = Object.fromEntries(menu.main.map((m) => [m.land, m.label]));
 const huidig = menu.main.find((m) => m.land === land);
 ---
 <header>
@@ -12,18 +28,100 @@ const huidig = menu.main.find((m) => m.land === land);
       <ul>
         {huidig && <li><a href={huidig.href} aria-current="true">{huidig.label}</a></li>}
         <li><a class="landen" href="#landen">{landenLabel}</a></li>
+        <li><button type="button" class="zoek-knop" aria-label={zoek.knop} aria-expanded="false" aria-controls="zoeken" title={zoek.knop}><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg></button></li>
       </ul>
     </nav>
   </div>
+  <div id="zoeken" class="zoek" hidden data-land={land} data-landen={JSON.stringify(landNamen)} data-geen={zoek.geen}>
+    <div class="wrap">
+      <form class="zoek-form" role="search" action="#" onsubmit="return false">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg>
+        <input type="search" placeholder={zoek.veld} aria-label={zoek.veld} autocomplete="off" spellcheck="false" />
+        <button type="button" class="zoek-sluit" aria-label={zoek.sluit} title={zoek.sluit}><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+      </form>
+      <ul class="zoek-resultaten" aria-live="polite"></ul>
+    </div>
+  </div>
 </header>
+<script>
+  // Pagefind maakt bij de build één zoekindex van alle pagina's (map /pagefind/). Die wordt pas geladen als iemand op het vergrootglas klikt.
+  const knop = document.querySelector<HTMLButtonElement>('.zoek-knop')!;
+  const paneel = document.getElementById('zoeken')!;
+  const veld = paneel.querySelector('input')!;
+  const lijst = paneel.querySelector<HTMLUListElement>('.zoek-resultaten')!;
+  const land = paneel.dataset.land!;
+  const landen: Record<string, string> = JSON.parse(paneel.dataset.landen!);
+  const taal = document.documentElement.lang;
+  let pagefind: any;
+  let teller = 0;
+
+  const open = async (aan: boolean) => {
+    paneel.hidden = !aan;
+    knop.setAttribute('aria-expanded', String(aan));
+    if (!aan) return knop.focus();
+    veld.focus();
+    if (!pagefind) {
+      const pad = '/pagefind/pagefind.js';
+      pagefind = await import(/* @vite-ignore */ pad).catch(() => null);
+      await pagefind?.options({ excerptLength: 18 });
+      pagefind?.init();
+    }
+  };
+  knop.addEventListener('click', () => open(paneel.hidden));
+  paneel.querySelector('.zoek-sluit')!.addEventListener('click', () => open(false));
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !paneel.hidden) open(false); });
+  document.addEventListener('click', (e) => { if (!paneel.hidden && !(e.target as Element).closest('header')) open(false); });
+
+  const esc = (t: string) => t.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+  veld.addEventListener('input', async () => {
+    const term = veld.value.trim();
+    const nr = ++teller;
+    if (!term || !pagefind) { lijst.replaceChildren(); return; }
+    const zoek = await pagefind.debouncedSearch(term, {}, 200);
+    if (!zoek || nr !== teller) return;
+    const data = await Promise.all(zoek.results.slice(0, 24).map((r: any) => r.data()));
+    if (nr !== teller) return;
+    // Eerst het eigen land, dan pagina's in dezelfde taal, dan de rest. Binnen elke groep blijft de volgorde van Pagefind.
+    const groep = (d: any) => (d.meta.land === land ? 0 : d.meta.taal === taal ? 1 : 2);
+    const gesorteerd = data.map((d: any, i: number) => ({ d, i })).sort((a: any, b: any) => groep(a.d) - groep(b.d) || a.i - b.i).slice(0, 8);
+    lijst.replaceChildren(...(gesorteerd.length ? gesorteerd.map(({ d }: any) => {
+      const li = document.createElement('li');
+      const a = li.appendChild(document.createElement('a'));
+      a.href = d.url;
+      a.innerHTML = `<span class="titel">${esc(d.meta.title ?? '')}</span>${landen[d.meta.land] ? `<span class="land">${esc(landen[d.meta.land])}</span>` : ''}<span class="uittreksel">${d.meta.beschrijving ? esc(d.meta.beschrijving) : d.excerpt}</span>`;
+      return li;
+    }) : [Object.assign(document.createElement('li'), { className: 'geen', textContent: paneel.dataset.geen })]));
+  });
+</script>
 <style>
-  header { border-bottom: 1px solid var(--line); background: var(--white); }
+  header { border-bottom: 1px solid var(--line); background: var(--white); position: relative; }
   .bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem 2rem; padding-block: 1.15rem; }
   .logo { display: inline-flex; align-items: center; gap: .55rem; font-weight: 700; font-size: 1.3rem; color: var(--accent); text-decoration: none; letter-spacing: -.02em; }
   .logo-tekst span { font-weight: 400; }
   .logo-icoon { width: 1.9rem; height: 1.9rem; flex: none; }
-  ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; }
+  ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: center; gap: .25rem 1.25rem; }
   nav a { color: var(--text); text-decoration: none; font-weight: 500; font-size: .95rem; }
   nav a:hover, nav a[aria-current] { color: var(--accent); }
   .landen { color: var(--muted); font-weight: 400; }
+  .zoek-knop { display: grid; place-items: center; width: 2.25rem; height: 2.25rem; margin: -.3rem 0; padding: 0; border: 0; border-radius: 50%; background: none; color: var(--text); cursor: pointer; }
+  .zoek-knop:hover, .zoek-knop[aria-expanded='true'] { color: var(--accent); background: var(--surface); }
+  .zoek { border-top: 1px solid var(--line); background: var(--white); padding-block: .9rem 1rem; }
+  .zoek-form { display: flex; align-items: center; gap: .6rem; max-width: 640px; padding: .15rem .4rem .15rem .9rem; border: 1.5px solid var(--line); border-radius: 10px; color: var(--muted); }
+  .zoek-form:focus-within { border-color: var(--accent); }
+  .zoek-form svg { flex: none; }
+  .zoek input { flex: 1; min-width: 0; padding: .55rem 0; border: 0; outline: 0; background: none; font: inherit; font-size: 1rem; color: var(--text); }
+  .zoek input::-webkit-search-cancel-button { display: none; }
+  .zoek-sluit { display: grid; place-items: center; width: 2rem; height: 2rem; margin: 0; padding: 0; border: 0; border-radius: 50%; background: none; color: var(--muted); cursor: pointer; }
+  .zoek-sluit:hover { color: var(--accent); background: var(--surface); }
+  .zoek-resultaten { display: block; max-width: 640px; margin-top: .4rem; }
+  .zoek-resultaten:empty { display: none; }
+  .zoek-resultaten :global(li) { border-bottom: 1px solid var(--line); }
+  .zoek-resultaten :global(li:last-child) { border-bottom: 0; }
+  .zoek-resultaten :global(a) { display: block; padding: .6rem .25rem; color: var(--text); text-decoration: none; line-height: 1.45; }
+  .zoek-resultaten :global(a:hover .titel), .zoek-resultaten :global(a:focus .titel) { color: var(--accent); }
+  .zoek-resultaten :global(.titel) { font-weight: 600; }
+  .zoek-resultaten :global(.land) { margin-left: .5rem; padding: .05rem .45rem; border-radius: 6px; background: var(--surface); color: var(--accent); font-size: .75rem; font-weight: 600; white-space: nowrap; }
+  .zoek-resultaten :global(.uittreksel) { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; font-size: .88rem; color: var(--muted); }
+  .zoek-resultaten :global(mark) { background: none; color: var(--text); font-weight: 600; }
+  .zoek-resultaten :global(.geen) { padding: .6rem .25rem; font-size: .92rem; color: var(--muted); }
 </style>
