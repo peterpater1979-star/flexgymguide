@@ -94,7 +94,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 Ein sehr großes Angebot, verteilt über die ganze Stadt, von Reformer-Pilates und Lagree bis Indoor-Cycling, Bootcamp, Yoga und Gym-Besuche. Welche Studios es in welchem Viertel gibt, liest du unter [ClassPass in München](/de/classpass-muenchen/).
 
-[Sieh dir die Studios in München auf ClassPass an.](https://classpass.com/search/munich/fitness-classes/5ibjGreKWLX)
+[Alle Studios in München nach Viertel und Sportart ansehen.](/de/classpass-muenchen/)
 
 ### Das bekommst du
 

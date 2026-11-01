@@ -96,7 +96,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 Een heel groot aanbod, verspreid over de hele stad: van pilates, yoga en spinning tot HIIT, boksen, dans en open gym bij Trainmore. Welke studio's er per buurt en per sport zijn, lees je op [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
 
-[Bekijk de studio's in Amsterdam op ClassPass.](https://classpass.com/search/amsterdam/fitness-classes/5p9zGeT3hPM)
+[Bekijk de studio's in Amsterdam per buurt en per sport.](/nl/classpass-amsterdam/)
 
 <div class="kolommen">
 

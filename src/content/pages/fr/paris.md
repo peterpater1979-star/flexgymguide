@@ -109,7 +109,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Une très grande offre dans toute la ville : du Pilates, du Lagree, de la barre et du yoga jusqu’au HIIT, à la boxe, au cycling et à la danse. Les studios par quartier et par sport sont sur [ClassPass à Paris](/fr/classpass-paris/).
 
-[Voir les studios à Paris sur ClassPass](/go/classpass-fr-paris/?epi=fgg-fr-paris)
+[Voir les studios à Paris par quartier et par sport](/fr/classpass-paris/)
 
 En Île-de-France, ClassPass est aussi présent plus loin, par exemple à [Cergy](/fr/cergy/), [Poissy](/fr/poissy/), [Maurepas](/fr/maurepas/), [Montévrain](/fr/montevrain/) et [Bussy-Saint-Georges](/fr/bussy-saint-georges/).
 
