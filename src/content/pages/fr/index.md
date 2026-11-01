@@ -109,6 +109,12 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <li><a href="/fr/montpellier/"><strong>Montpellier</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
 <li><a href="/fr/rennes/"><strong>Rennes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
 <li><a href="/fr/cannes/"><strong>Cannes</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+</ul>
+
+<details class="meer-steden">
+<summary>Voir les 28 autres villes</summary>
+
+<ul class="stedenlijst">
 <li><a href="/fr/rouen/"><strong>Rouen</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
 <li><a href="/fr/tours/"><strong>Tours</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/fr/orleans/"><strong>Orléans</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
@@ -138,6 +144,8 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <li><a href="/fr/montevrain/"><strong>Montévrain</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/fr/bussy-saint-georges/"><strong>Bussy-Saint-Georges</strong></a> <span class="klein">ClassPass</span></li>
 </ul>
+
+</details>
 
 ClassPass est aussi présent dans d’autres villes. Dans l’application, tu vois quels studios et salles participent près de chez toi.
 

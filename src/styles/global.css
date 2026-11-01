@@ -145,3 +145,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .tabel-foto > .foto { order: 2; align-self: start; aspect-ratio: 3 / 2; border-radius: var(--radius); background: var(--foto, none) center / cover, var(--accent); }
 .tabel-foto > table, .tabel-foto > div { margin: 0; }
 @media (max-width: 760px) { .tabel-foto { grid-template-columns: 1fr; } .tabel-foto > .foto { order: 0; } }
+.prose details.meer-steden { background: none; box-shadow: none; padding: 0; margin: 0 0 1rem; max-width: none; }
+.prose details.meer-steden summary { cursor: pointer; font-weight: 600; color: var(--accent); padding: .5rem 0; }
+.prose details.meer-steden[open] summary { margin-bottom: 0; }
+.prose details.meer-steden .stedenlijst { margin-top: 0; }
