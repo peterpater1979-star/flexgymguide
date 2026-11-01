@@ -46,7 +46,7 @@ Eine Schweizer Fitnesskette mit über 120 Studios, davon 16 in Zürich. Neben de
 - Nur in der Schweiz
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/ch/fitnessstudio-ohne-vertrag-zuerich/">Fitnessstudio ohne Vertrag in Zürich</a>
+<a class="knop knop-rand" href="/ch/activ-fitness/">Alles über Activ Fitness</a>
 </div>
 
 </div>

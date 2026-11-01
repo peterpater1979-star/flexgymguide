@@ -46,6 +46,8 @@ Muitas cadeias de ginásios em Portugal têm planos com fidelização (muitas ve
 
 <p class="klein">Fonte: a página de inscrição da Element Gyms, ginásio Parque das Nações (outubro de 2026). Há também planos com mais ou menos ginásios. Confirma sempre o preço atual e as condições com o ginásio.</p>
 
+Vê todos os planos, o horário e como cancelar em [Tudo sobre a Element Gyms](/pt/element-gyms/).
+
 <h2 id="avulsas">Aulas avulsas e packs</h2>
 
 Muitos estúdios de yoga, pilates e boxe vendem aulas avulsas ou packs de várias aulas. Só pagas quando vais. É prático se tens um estúdio preferido onde vais de vez em quando. Vê no site do estúdio; os preços e a validade variam.

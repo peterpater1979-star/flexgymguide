@@ -46,7 +46,7 @@ Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic 
 - Só em Portugal
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/pt/ginasio-sem-fidelizacao-lisboa/">Ginásios sem fidelização em Lisboa</a>
+<a class="knop knop-rand" href="/pt/element-gyms/">Tudo sobre a Element Gyms</a>
 </div>
 
 </div>

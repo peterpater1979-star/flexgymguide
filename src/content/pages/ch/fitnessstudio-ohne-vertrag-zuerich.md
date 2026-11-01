@@ -56,6 +56,8 @@ Viele Schweizer Fitnessketten verkaufen vor allem Jahresabos. Activ Fitness hat 
 
 <p class="klein">Quelle: Preisübersicht von Activ Fitness (Oktober 2026). Prüfe den aktuellen Preis und die Kündigungsfrist immer bei Activ Fitness.</p>
 
+Mehr über Kategorien, Pausieren und Kündigen liest du in [Alles über Activ Fitness](/ch/activ-fitness/).
+
 <h2 id="einzel">Einzelstunden und 10er-Abos</h2>
 
 Viele Yoga-, Pilates- und Boxstudios verkaufen auch Einzelstunden oder ein Abo für mehrere Kurse. Du zahlst nur, wenn du hingehst. Das ist praktisch, wenn du ein Lieblingsstudio hast, in das du ab und zu gehst. Schau auf der Website des Studios; Preise und Gültigkeit sind unterschiedlich.

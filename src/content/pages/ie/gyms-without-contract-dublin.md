@@ -53,6 +53,8 @@ Flyefit is an Irish gym chain with 20 gyms in Dublin, one in Cork and one in Gal
 
 <p class="klein">Source: Flyefit sign-up page (October 2026). Always check the current price with Flyefit.</p>
 
+Read [All about Flyefit](/ie/flyefit/) for classes, pausing and cancelling.
+
 <h2 id="drop-in">Drop-in classes and class packs</h2>
 
 Many yoga, pilates and boxing studios sell single classes or a pack of classes. You only pay when you go, which is handy if you have one favourite studio. Check the studio's website; prices and validity differ.
