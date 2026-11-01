@@ -1,7 +1,7 @@
 ---
 title: "Fitness First: Clubs, Mitgliedschaft, Probetraining und Kündigung"
 path: "/de/fitness-first/"
-description: "Alles über Fitness First in Deutschland: 220 Clubs, die Mitgliedschaften RED und BLACK, Kurse, Wellness, Kündigung und das kostenlose Probetraining."
+description: "Alles über Fitness First in Deutschland: 220 Clubs, RED und BLACK, Laufzeiten, Ausstattung, Kurse, Wellness, Studentenrabatt, Kündigung und das kostenlose Probetraining."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -25,6 +25,10 @@ Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clu
 | **Clubs** | 220 in Deutschland, 5 in Österreich |
 | **Preis** | Je nach Club und Mitgliedschaft |
 | **Mitgliedschaft** | RED oder BLACK |
+| **Laufzeit** | 24, 12 oder 1 Monat |
+| **Kurse** | <span class="ja" aria-hidden="true">✓</span> Inklusive bei ALL-IN und BLACK |
+| **Wellness** | Sauna und Dampfbad, in BLACK-Clubs oft auch ein Pool |
+| **Rabatt** | Für Studierende, Schüler:innen und Azubis bis 25 |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | Nur Deutschland und Österreich |
 
@@ -32,14 +36,43 @@ Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clu
 
 <h2 id="mitgliedschaft">Mitgliedschaft</h2>
 
-Bei Fitness First wählst du eine Mitgliedschaft RED oder BLACK. Je nach Mitgliedschaft trainierst du in allen oder in ausgewählten Clubs. Den genauen Preis siehst du auf der Website beim Club deiner Wahl.
+Jeder Fitness First Club ist entweder ein RED Club oder ein BLACK Club. Deine Mitgliedschaft bestimmt, wo du trainieren darfst. Den genauen Preis siehst du auf der Website beim Club deiner Wahl.
 
-<h2 id="das-bekommst-du">Das bekommst du</h2>
+| | RED | BLACK |
+| --- | --- | --- |
+| **Clubs** | Alle Clubs in Deutschland, die kein BLACK Club sind | Alle RED und BLACK Clubs |
+| **Varianten** | BASIC (Cardio und Geräte, weitere Zonen zubuchbar) oder ALL-IN | Ein Paket mit allem |
+| **Kurse** | Bei ALL-IN inklusive | Inklusive, auch Aqua, Yoga, Pilates und LES MILLS |
+| **Wellness** | Sauna, Dampfbad, Ruheraum und Solarium, meist mit separater Damensauna | Größere Wellnessbereiche mit Saunen, Dampfbädern, Pools und Ruheräumen, separate Damenbereiche |
+| **Getränke** | Getränke-Flat bei ALL-IN | Getränke-Flat, Tee-Stationen inklusive |
+| **Extras** | | Handtücher, Duschgel und Shampoo, WLAN, Zeitschriften, Netflix und Amazon Prime an den Cardiogeräten |
 
-- **Gym:** Training an Geräten und mit freien Gewichten
-- **Kurse:** ein großes Kursprogramm, unter anderem HYROX, Les Mills, Yoga und Aqua
-- **Wellness:** Wellnessbereich, in einigen Clubs auch ein Schwimmbad
-- **Freunde mitbringen:** Du kannst Freunde kostenlos zum Training mitnehmen
+In Berlin sind zum Beispiel Gendarmenmarkt, Steglitz und Zehlendorfer Welle BLACK Clubs, Wilmersdorf und Prenzlauer Berg RED Clubs. Außerdem gibt es Clubs nur für Frauen (Ladies), etwa in Pankow und Friedrichshain.
+
+<h3>Laufzeit und Extras</h3>
+
+Du wählst eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Bei 24 Monaten entfällt die einmalige Startgebühr, und du kannst deinen Vertrag jederzeit kostenlos bis zu 12 Wochen pausieren. Dazu kommt ein Trainingspaket, das halbjährlich berechnet wird: zweimal im Jahr eine Anamnese und eine Körperanalyse.
+
+<h2 id="ausstattung">Ausstattung</h2>
+
+- **Gerätetraining und Cardio:** in jedem Club. In BLACK Clubs mit Netflix und Amazon Prime an den Cardiogeräten.
+- **Freihantel und Functional:** Olympic Squat Racks, Kurzhanteln bis 50 Kilo, Kettlebells, Sandbags und Functional Towers. Bei RED gehören dazu die PERFORMANCE, SELECT und RECOVERY AREA.
+- **Wellness:** Sauna und Dampfbad, in vielen BLACK Clubs auch ein Pool. Welche Clubs einen Pool haben, zeigt Fitness First in einer eigenen Übersicht.
+- **Personal Training:** in BLACK Clubs buchbar.
+
+Öffnungszeiten und Ausstattung unterscheiden sich je nach Club. Schau vorher auf die Clubseite bei Fitness First.
+
+<h2 id="kurse">Kurse</h2>
+
+Kurse sind bei RED ALL-IN und BLACK inklusive. Das Angebot ist groß: LES MILLS, HYROX, Yoga, Pilates, Indoor Cycling, Body and Mind, Zumba, Dance, Fitness-Boxen, Jumping Fitness, TRX und in Clubs mit Pool auch Aqua. Eine Stunde dauert meist 45 bis 60 Minuten. Welche Kurse dein Club anbietet, siehst du im Kursplan auf der Website.
+
+<h2 id="studenten">Studentenrabatt</h2>
+
+Studierende, Schüler:innen und Azubis bis einschließlich 25 Jahre zahlen einen niedrigeren Wochenpreis, in RED und in BLACK Clubs, und keine Anmeldegebühr. Als Nachweis lädst du deine Immatrikulationsbescheinigung, deinen Ausbildungsvertrag oder deinen Schülerausweis in der App oder im Mitgliederbereich hoch. Mehr Tipps: [Sport im Studium](/de/sport-im-studium/).
+
+<h2 id="freunde">Freunde mitbringen</h2>
+
+Du kannst Freunde kostenlos zum Training mitnehmen. Die genauen Regeln stehen auf der Website von Fitness First.
 
 <h2 id="kuendigung">Vertrag und Kündigung</h2>
 
@@ -56,6 +89,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 - Alle, die dreimal pro Woche oder öfter trainieren
 - Alle, die Gym, Kurse und Wellness an einem Ort wollen
 - Alle, die einen Club nahe der Wohnung oder der Arbeit suchen
+- Studierende und Azubis bis 25, dank Rabatt und ohne Anmeldegebühr
 
 </div>
 
@@ -63,14 +97,12 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 
 ### Weniger geeignet für
 
-- Alle, die jede Woche etwas anderes machen wollen, zum Beispiel Yoga, Boxen oder Pilates in verschiedenen Studios
+- Alle, die sich nicht binden wollen: Mit 1 Monat Laufzeit zahlst du deutlich mehr pro Woche
 - Alle, die oft im Ausland trainieren: Fitness First gibt es nur in Deutschland und Österreich
 
 </div>
 
 </div>
-
-Willst du lieber zwischen Studios wechseln? Dann schau dir [ClassPass](/de/classpass/) an, einen Sportpass mit Credits.
 
 <h2 id="staedte">Fitness First in deiner Stadt</h2>
 
@@ -205,7 +237,7 @@ Willst du lieber zwischen Studios wechseln? Dann schau dir [ClassPass](/de/class
 
 ## Kostenloses Probetraining bei Fitness First
 
-Noch unsicher? Buch online ein kostenloses Probetraining, einlösbar in allen Fitness First Clubs in Deutschland.
+Noch unsicher? Buch online ein kostenloses Probetraining, einlösbar in allen Fitness First Clubs in Deutschland. Du testest einen Tag lang, so lange du willst, inklusive Sauna, Dampfbad und, wo vorhanden, Pool. Kurse kannst du an der Rezeption anfragen. Alle 6 Monate ist ein neues Probetraining möglich. Ab 14 Jahren kannst du mit einer erziehungsberechtigten Person kommen, mit 16 oder 17 brauchst du eine unterschriebene Einverständniserklärung.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.fitnessfirst.de/">Zur Website von Fitness First</a>
@@ -230,6 +262,27 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 </details>
 
 <details>
+<summary>Was ist der Unterschied zwischen RED und BLACK?</summary>
+
+Mit RED trainierst du in allen Clubs, die kein BLACK Club sind. Mit BLACK trainierst du in allen Clubs. BLACK Clubs haben größere Wellnessbereiche, oft mit Pool, und Extras wie Handtücher und Getränke.
+
+</details>
+
+<details>
+<summary>Gibt es bei Fitness First einen Studentenrabatt?</summary>
+
+Ja, für Studierende, Schüler:innen und Azubis bis einschließlich 25 Jahre: ein niedrigerer Wochenpreis und keine Anmeldegebühr.
+
+</details>
+
+<details>
+<summary>Kann ich meine Mitgliedschaft pausieren?</summary>
+
+Ja. Bei 24 Monaten Laufzeit pausierst du jederzeit kostenlos bis zu 12 Wochen. Die Pause beantragst du online. Mehr in [Fitness First kündigen](/de/fitness-first-kuendigen/).
+
+</details>
+
+<details>
 <summary>Wie kündige ich bei Fitness First?</summary>
 
 Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Gekündigt wird online über das Kündigungsformular auf fitnessfirst.de. Mehr in [Fitness First kündigen](/de/fitness-first-kuendigen/).
@@ -246,7 +299,7 @@ Das hängt von deiner Mitgliedschaft ab: Je nach Mitgliedschaft trainierst du in
 <details>
 <summary>Gibt es Fitness First auch im Ausland?</summary>
 
-Außerhalb von Deutschland gibt es 5 Clubs in Österreich, vor allem in und um Wien. Trainierst du oft in anderen Ländern, passt ein Sportpass wie [ClassPass](/de/classpass/) besser.
+Außerhalb von Deutschland gibt es 5 Clubs in Österreich, vor allem in und um Wien.
 
 </details>
 
@@ -260,7 +313,7 @@ Außerhalb von Deutschland gibt es 5 Clubs in Österreich, vor allem in und um W
 ### Mehr über Deutschland
 
 - [Flexibel trainieren in Deutschland](/de/)
-- [ClassPass](/de/classpass/)
+- [Fitness First kündigen](/de/fitness-first-kuendigen/)
 
 </div>
 
