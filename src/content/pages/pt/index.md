@@ -93,6 +93,12 @@ O antigo Fitness Hut: mais de 40 ginásios em Portugal, planos ONE, FLEX e PRIME
 
 O ClassPass tem estúdios parceiros em [Lisboa](/pt/lisboa/), no [Porto](/pt/porto/) e noutras cidades portuguesas. Na app vês que estúdios e ginásios participam perto de ti. Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
 
+<ul class="stedenlijst">
+<li><a href="/pt/lisboa/"><strong>Lisboa</strong></a> <span class="klein">ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
+<li><a href="/pt/porto/"><strong>Porto</strong></a> <span class="klein">ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
+</ul>
+
+
 </div>
 
 ## Como funciona o ClassPass em Portugal

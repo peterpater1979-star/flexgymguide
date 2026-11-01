@@ -78,7 +78,9 @@ Treningskjede med sentre over hele Norge, åpent hver dag 05–24. 439 kr i mån
 
 ClassPass har partnerstudioer i og rundt:
 
-- [Oslo](/no/oslo/)
+<ul class="stedenlijst">
+<li><a href="/no/oslo/"><strong>Oslo</strong></a> <span class="klein">ClassPass · SATS · EVO</span></li>
+</ul>
 
 I appen ser du hvilke studioer og treningssentre i nærheten som er med.
 

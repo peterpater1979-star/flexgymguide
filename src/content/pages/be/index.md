@@ -77,9 +77,11 @@ Belgische sportschoolketen met meer dan 80 clubs, met fitness en groepslessen me
 
 ClassPass heeft partnerstudio's in de grotere Belgische steden, onder meer:
 
-- [Brussel](/be/brussel/)
-- [Antwerpen](/be/antwerpen/)
-- [Gent](/be/gent/)
+<ul class="stedenlijst">
+<li><a href="/be/brussel/"><strong>Brussel</strong></a> <span class="klein">ClassPass · Basic-Fit · Jims</span></li>
+<li><a href="/be/antwerpen/"><strong>Antwerpen</strong></a> <span class="klein">ClassPass · Basic-Fit · Jims</span></li>
+<li><a href="/be/gent/"><strong>Gent</strong></a> <span class="klein">ClassPass · Basic-Fit · Jims</span></li>
+</ul>
 
 In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
 

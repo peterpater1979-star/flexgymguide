@@ -78,9 +78,11 @@ Svensk gymkedja med över 400 klubbar, med gym och gruppträning. Från 299 kr i
 
 ClassPass har partnerstudior i flera städer, bland annat:
 
-- [Stockholm](/se/stockholm/)
-- [Göteborg](/se/goteborg/)
-- [Malmö](/se/malmo/)
+<ul class="stedenlijst">
+<li><a href="/se/stockholm/"><strong>Stockholm</strong></a> <span class="klein">ClassPass · SATS · Nordic Wellness</span></li>
+<li><a href="/se/goteborg/"><strong>Göteborg</strong></a> <span class="klein">ClassPass · SATS · Nordic Wellness</span></li>
+<li><a href="/se/malmo/"><strong>Malmö</strong></a> <span class="klein">ClassPass · SATS · Nordic Wellness</span></li>
+</ul>
 
 I appen ser du vilka studior och gym i närheten som är med.
 
