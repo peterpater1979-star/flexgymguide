@@ -92,7 +92,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 ### Wo
 
-Viele Studios in der Inneren Stadt, in Mariahilf, Neubau, der Josefstadt und am Alsergrund, von Reformer-Pilates und Lagree bis Yoga, Bootcamp, Tanz und Gym-Besuchen mit Sauna oder Pool. Welche Studios es in welchem Bezirk gibt, liest du unter ClassPass in Wien.
+Viele Studios in der Inneren Stadt, in Mariahilf, Neubau, der Josefstadt und am Alsergrund, von Reformer-Pilates und Lagree bis Yoga, Bootcamp, Tanz und Gym-Besuchen, dazu Massage, Sauna und Beauty-Termine. Welche Studios es in welchem Bezirk gibt, liest du unter ClassPass in Wien.
 
 [Alle Studios in Wien nach Bezirk und Sportart ansehen.](/at/classpass-wien/)
 
