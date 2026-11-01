@@ -1,7 +1,7 @@
 ---
 title: "ClassPass en Barcelona: estudios por barrio y por deporte"
 path: "/es/classpass-barcelona/"
-description: "¿Dónde entrenar con ClassPass en Barcelona? Un resumen de estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el cycling, el baile, las clases en la playa y el acceso al gimnasio."
+description: "¿Dónde entrenar con ClassPass en Barcelona? Un resumen de estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el cycling, el baile, las clases en la playa y el acceso al gimnasio, además del bienestar y la belleza."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"
@@ -21,7 +21,7 @@ Barcelona tiene una oferta enorme en ClassPass, repartida por toda la ciudad, co
 | **Precio al mes** | Plan estándar 59 € al mes (37 créditos) |
 | **Para probar** | 14 días gratis, 10 sesiones |
 | **Dónde** | Sobre todo en l'Eixample, Sant Gervasi, Gràcia, el Born y Poblenou, y también junto a la playa |
-| **Qué puedes hacer** | Pilates, barre, yoga, HIIT, bootcamp, cycling, boxeo, artes marciales, baile, running, remo y paddle surf, clases al aire libre y acceso al gimnasio |
+| **Qué puedes hacer** | Pilates, barre, yoga, HIIT, bootcamp, cycling, boxeo, artes marciales, baile, running, remo y paddle surf, clases al aire libre y acceso al gimnasio, además de sesiones de bienestar y belleza |
 
 </div>
 
@@ -77,12 +77,26 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - **[Al aire libre](https://classpass.com/search/barcelona/outdoors-classes/6JzqTuNrRH9):** entre otros SUP Yoga, Yoga by The Sea with Bodhi, Barcelona Beach House, STREETERCISE, EntrenArte Barcelona, FITBUDDY y Band&Build Squad
 - **[Acceso al gimnasio](https://classpass.com/search/barcelona/gym-time-classes/56wvBZbMNSb):** entre otros COSMOFIT, TRIB3, Tabula Rasa Barcelona, STG Fitness Club, Mast Fitness, GreenFit, Energie Fitness Poblenou, Snap Fitness y los CEM municipales como OKEYMAS Parc de la Ciutadella
 
+<h2 id="bienestar">Bienestar y belleza</h2>
+
+Con tus créditos no solo reservas clases en Barcelona, sino también sesiones de bienestar y belleza. Aquí tienes algunas direcciones; haz clic en una categoría para ver toda la oferta.
+
+- **[Recuperación](https://classpass.com/search/barcelona/sports-recovery-sessions/4qAEAXHuCNK):** entre otros Rokka Studio en Muntaner, ILO STUDIOS en Bailèn, VICTAS - Wellness, CRAFT - Wellness y COSMOGLOW - Wellness
+- **[Masaje](https://classpass.com/search/barcelona/massage-sessions/4kLTdPYP9HZ):** entre otros el hammam Dunas del Rif, Ocean Spa, Koan Club, Ananda Spa, Pole Pole Wellness Studio, Lotus de Bali & Thai, Heaven Massage Barcelona y Porvapor BCN Nordic SPA
+- **[Sauna](https://classpass.com/search/barcelona/sauna-sessions/5hqHiHWmFYK):** entre otros ILO STUDIOS, Rokka Studio, Spa Zen Men y The Recovery Crew
+- **[Faciales](https://classpass.com/search/barcelona/facial-appointments/5kf7hehnEj1):** entre otros La Brush, KōAN BEAUTY LAB, FRENCH KISS BEAUTY, KIM & CO Beauty, Musas Beauty Studio, Termas Bonay y Mayan Secret Spa
+- **[Meditación](https://classpass.com/search/barcelona/meditation-sessions/68soBSPsovw):** entre otros KMC Barcelona, (Silencio) Barcelona, SABDA, Sincronia Yoga, Satya Yoga Studio, YogaOne y Under The Elements Yoga en la Mar Bella
+- **[Peluquería](https://classpass.com/search/barcelona/hair-appointments/5Hc3y93uvi3):** entre otros Amar Studio, Integral. Nature for Hair, Backstage BCN, Font The Beauty House y Anterea House of Beauty
+- **[Uñas](https://classpass.com/search/barcelona/nails-appointments/3z2bSWCqmQB):** entre otros Sunset Nail Salon, La Esmaltería, ARMONIA NAILS CONCEPT, DE|NOISE beauty salon y Eleva Beauty
+- **[Más belleza](https://classpass.com/search/barcelona/all-experiences/4MpRGw4U9zF):** entre otros IVY STUDIO BCN en Gràcia, Wonder Beauty Spa y HAIR CUT DAY
+
 <h2 id="consejos">Consejos</h2>
 
 - Las clases populares a primera hora y después del trabajo se llenan rápido. Reserva con unos días de antelación.
 - Los créditos por clase dependen del estudio y de la hora. Las clases fuera de las horas punta suelen costar menos.
 - Para el Pilates reformer y el barre normalmente necesitas calcetines antideslizantes. La primera vez, llega un poco antes.
 - Muchas clases en la playa dependen del tiempo. Mira bien el punto de encuentro al reservar.
+- Algunos centros de bienestar y belleza piden confirmar la cita por teléfono o con su propio sistema de reservas. Lee las indicaciones del centro antes de reservar.
 - Tu plan funciona también en otras ciudades de España y en el extranjero, allí donde haya ClassPass.
 
 [Ver los estudios de Barcelona en ClassPass.](https://classpass.com/search/barcelona/fitness-classes/3p1NjM7Wfw5)
