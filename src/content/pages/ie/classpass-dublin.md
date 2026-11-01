@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Dublin: studios by area and type of workout"
 path: "/ie/classpass-dublin/"
-description: "Where can you work out with ClassPass in Dublin? An overview of studios by area and type of workout, from yoga, Pilates and barre to HIIT, boxing, cycling, dance and gym visits."
+description: "Where can you work out with ClassPass in Dublin? An overview of studios by area and type of workout, from yoga, Pilates and barre to HIIT, boxing, cycling, dance and gym visits, plus wellness and beauty."
 lang: en
 land: ie
 byline: "Updated November 2026"
@@ -21,7 +21,7 @@ Dublin has a big choice on ClassPass, spread across the city and out to the coas
 | **Price per month** | Standard plan 33 credits for €49 |
 | **Try it** | 14 days free, 10 workouts |
 | **Where** | Mostly in the city centre, Portobello, Rathmines, Ranelagh and Ballsbridge, and also in Stoneybatter, Clontarf, Sandyford and Dún Laoghaire |
-| **What you can do** | Yoga, Pilates, barre, HIIT, bootcamp, cycling, boxing, martial arts, dance, running, outdoor classes and gym visits |
+| **What you can do** | Yoga, Pilates, barre, HIIT, bootcamp, cycling, boxing, martial arts, dance, running, outdoor classes and gym visits, plus wellness and beauty appointments |
 
 </div>
 
@@ -72,12 +72,25 @@ For each type of workout, a selection of studios. Click the name of the workout 
 - **[Outdoor](https://classpass.com/search/dublin/outdoors-classes/5gAWS3NP4bZ):** among others open-air yoga with James Yoga Flow in Sandycove
 - **[Gym visits](https://classpass.com/search/dublin/gym-time-classes/5AX2XAaCt7H):** among others Energie Fitness, First Class Fitness Gym, Motivation Fitness, TalbotFit, Fianna Gym & Recovery and Saint James Gate Health and Fitness Club
 
+<h2 id="wellness">Wellness and beauty</h2>
+
+With your credits you can book more than classes in Dublin: there are wellness and beauty appointments too. Here are a few places; click a category to see everything on offer.
+
+- **[Recovery](https://classpass.com/search/dublin/sports-recovery-sessions/4iKF1pP8EQX):** among others SAINT Studios on South William Street, Recovery at The Hub in Santry, Fianna Gym & Recovery at Elm Park and UN1T Dublin
+- **[Massage](https://classpass.com/search/dublin/massage-sessions/5u2V6m5qib9):** among others Deep Relief Spa on Sackville Place, Ziba Wellness House in Temple Bar, The Buff Day Spa on King Street South, Lucy's Spa and Aura's Spa on O'Connell Street, Laviê Spa on Grafton Street and Lais Fernanda Spa & Beauty on Leeson Street
+- **[Sauna](https://classpass.com/search/dublin/sauna-sessions/55FDZ22jk47):** among others The Hot Box Sauna at Bolands Mills, in Inchicore and on Killiney Beach, RISE Nordic Spa and Align Wellness in Harold's Cross, Sandycove Saunas by the Forty Foot, the Helios floating sauna in Dún Laoghaire and YogaVeda Living in Blackrock
+- **[Facials](https://classpass.com/search/dublin/facial-appointments/5KjTXKdnX8j):** among others Ziba Wellness House, The Buff Day Spa, Lais Fernanda Spa & Beauty and Blend Beauty Artisans on Capel Street
+- **[Meditation](https://classpass.com/search/dublin/meditation-sessions/68uhc1UeuBu):** among others Yoga Dublin, Mandala Yoga Dublin, OSLO Health and Align Wellness
+- **[Hair](https://classpass.com/search/dublin/hair-appointments/62Wgz1kqpLf):** among others Barbershop Rodrigues on Dorset Street, Blend Beauty Artisans and Poise Hair Salon in Milltown
+- **[Nails, lashes and brows](https://classpass.com/search/dublin/all-experiences/5MNYErjovnj):** among others Freedom Beauty Space on Earlsfort Terrace, SF Lashes and Beauty and Camila Lima Nails & Beauty on Grafton Street, Rochas Beauty and Adel nails&eyebrows in Portobello, Vinny Micro and ClassicTouch beauty in Blackrock
+
 <h2 id="tips">Tips</h2>
 
 - Popular classes early in the morning and after work fill up fast. Book a few days ahead.
 - Credits per class depend on the studio and the time of day. Off-peak classes are often cheaper.
 - For reformer Pilates and barre you usually need grip socks. Arrive a bit early the first time.
 - Several studios, like yogahub, Yoga Dublin and Perpetua Fitness, have more than one location: check you've picked the right one when you book.
+- Some wellness and beauty places ask you to confirm your appointment by phone or through their own booking system first. Read the studio's notes before you book.
 - Your plan also works in other Irish cities and abroad, wherever ClassPass is available.
 
 [See the studios in Dublin on ClassPass.](https://classpass.com/search/dublin/fitness-classes/4jD8ueNPvrK)
