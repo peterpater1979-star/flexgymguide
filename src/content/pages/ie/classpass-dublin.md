@@ -69,7 +69,7 @@ For each type of workout, a selection of studios. Click the name of the workout 
 - **[Martial arts](https://classpass.com/search/dublin/martial-arts-classes/4RVv6bAeoF5):** among others JS BJJ Academy, Vieira Martial Arts, Krav Maga Academy, JKA Shotokan Ireland, Kung Fu & Tai Chi Dublin and Takemusu Aikido
 - **[Dance](https://classpass.com/search/dublin/dance-classes/5tzn99Gtst3):** among others Kpop Dance Dublin, Dance With Alessia and Brazilian Dance in Temple Bar, Brazil Fitdance and Zumba with Megs on Aungier Street, and Twerk Fit Class Camila
 - **[Running](https://classpass.com/search/dublin/running-classes/5rP5xzmVkVV):** among others Barry's, Fianna Athletic Club, Element Health Fitness Performance, Unit 1 Training Facility and Endurance Lab
-- **[Outdoor](https://classpass.com/search/dublin/outdoors-classes/5gAWS3NP4bZ):** among others open-air yoga with James Yoga Flow in Sandycove
+- **[Outdoor](https://classpass.com/search/dublin/outdoors-classes/5gAWS3NP4bZ):** among others open-air yoga with James Yoga Flow in Sandycove, BeatBox Fitness Classes, Insanity Fitness Pollyhops, and The Hot Box Sauna in Inchicore and on Killiney Beach
 - **[Gym visits](https://classpass.com/search/dublin/gym-time-classes/5AX2XAaCt7H):** among others Energie Fitness, First Class Fitness Gym, Motivation Fitness, TalbotFit, Fianna Gym & Recovery and Saint James Gate Health and Fitness Club
 
 <h2 id="wellness">Wellness and beauty</h2>
