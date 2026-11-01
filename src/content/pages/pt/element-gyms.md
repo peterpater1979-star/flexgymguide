@@ -11,7 +11,7 @@ kicker: "Fornecedor: ginásio"
 
 <div class="fotobanner smal foto-element-gyms" role="img" aria-label="Ginásio"></div>
 
-A Element Gyms é uma cadeia portuguesa de ginásios low-cost, de norte a sul do país e nas ilhas. Não tem fidelização e pagas por semana. Escolhes um plano conforme os ginásios a que queres ter acesso. Não há receção: entras com um código QR no telemóvel.
+A Element Gyms é uma cadeia portuguesa de ginásios low-cost, com mais de 50 ginásios de norte a sul do país e nas ilhas. Não tem fidelização e pagas por semana. Escolhes um plano conforme os ginásios a que queres ter acesso. Não há receção: entras com um código QR no telemóvel.
 
 <h2 id="resumo">Em resumo</h2>
 

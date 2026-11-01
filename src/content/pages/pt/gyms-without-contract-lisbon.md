@@ -38,11 +38,11 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 <h2 id="gyms">Gyms without a contract</h2>
 
-Many gym chains in Portugal offer plans with a minimum term (often 12 months) and plans without one ("sem fidelização"), which cost a bit more per month. Element Gyms has 56 gyms in Portugal, several of them in Lisbon (for example Parque das Nações), and works without a contract. With the Classic plan you train at 24 gyms for €5.99 a week.
+Many gym chains in Portugal offer plans with a minimum term (often 12 months) and plans without one ("sem fidelização"), which cost a bit more per month. Element Gyms has more than 50 gyms in Portugal, several of them in Lisbon (for example Parque das Nações), and works without a contract. With the Classic plan you train at the gyms in your region for €5.99 a week.
 
 | | Price | Minimum term | Joining fee |
 | --- | --- | --- | --- |
-| Element Gyms Classic (24 gyms) | €5.99 a week | None | €0.00 (October 2026) |
+| Element Gyms Classic (gyms in your region) | €5.99 a week | None | €0.00 (October 2026) |
 
 <p class="klein">Source: the Element Gyms sign-up page, Parque das Nações gym (October 2026). There are also plans with more or fewer gyms. Always check the current price and terms with the gym.</p>
 
