@@ -106,7 +106,9 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 ### Dónde
 
-Chamberí, Salamanca, Centro, Chamartín y Retiro. Yoga, Pilates, fuerza y barre, y también en Las Rozas y Móstoles.
+Chamberí, Salamanca, Centro, Chamartín y Retiro. Yoga, Pilates, fuerza y barre, y también en Las Rozas y Móstoles. Los estudios por barrio y por deporte están en ClassPass en Madrid.
+
+[Ver los estudios de Madrid por barrio y por deporte](/es/classpass-madrid/)
 
 ### Qué tienes
 
