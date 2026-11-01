@@ -1,7 +1,8 @@
 ---
-title: "Entrenar en Palma de Mallorca con flexibilidad: ClassPass y Basic-Fit"
+title: "Entrenar en Palma de Mallorca con flexibilidad"
+seoTitle: "ClassPass Palma de Mallorca: entrenar sin permanencia"
 path: "/es/palma-de-mallorca/"
-description: "¿No quieres atarte a un solo gimnasio? En Palma de Mallorca puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia. Así eliges."
+description: "¿No quieres atarte a un solo gimnasio? En Palma de Mallorca puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

@@ -1,7 +1,8 @@
 ---
 title: "Holmes Place em Portugal: clubes premium, preço e para quem é"
+seoTitle: "Holmes Place em Portugal: clubes premium e preço"
 path: "/pt/holmes-place/"
-description: "Tudo sobre o Holmes Place em Portugal: 13 clubes premium com piscina, sauna e mais de 120 aulas por semana, treino experimental de um dia e como sabes o preço."
+description: "Tudo sobre o Holmes Place em Portugal: 13 clubes premium com piscina, sauna e mais de 120 aulas por semana, treino experimental e como sabes o preço."
 lang: pt
 land: pt
 byline: "Atualizado em outubro de 2026"

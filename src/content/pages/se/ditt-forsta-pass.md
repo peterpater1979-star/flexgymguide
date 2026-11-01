@@ -1,5 +1,6 @@
 ---
 title: "Din första klass eller ditt första gympass: vad du ska ta med och vad du kan förvänta dig"
+seoTitle: "Din första klass eller ditt första gympass"
 path: "/se/ditt-forsta-pass/"
 description: "Första gången på en ny studio eller ett nytt gym? Vad du tar med till yoga, boxning, spinning och styrketräning, och hur ditt första besök blir enkelt."
 lang: sv

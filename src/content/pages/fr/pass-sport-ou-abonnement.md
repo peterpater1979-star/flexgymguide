@@ -1,5 +1,6 @@
 ---
 title: "Pass sport ou abonnement en salle ? Ce qui correspond à ta façon de t’entraîner"
+seoTitle: "Pass sport ou abonnement en salle ? Comment choisir"
 path: "/fr/pass-sport-ou-abonnement/"
 description: "Un pass sport comme ClassPass ou un abonnement dans une chaîne de salles ? Comment ça marche, pour qui c’est fait et trois questions pour t’aider à choisir."
 lang: fr

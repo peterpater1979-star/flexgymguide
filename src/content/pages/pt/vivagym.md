@@ -1,7 +1,8 @@
 ---
 title: "VivaGym em Portugal (antigo Fitness Hut): planos sem fidelização"
+seoTitle: "VivaGym em Portugal (antigo Fitness Hut)"
 path: "/pt/vivagym/"
-description: "Tudo sobre o VivaGym em Portugal, o antigo Fitness Hut: mais de 40 ginásios, planos ONE, FLEX e PRIME sem fidelização, entrada avulso, desconto para menores de 26 e como cancelar."
+description: "Tudo sobre o VivaGym em Portugal, o antigo Fitness Hut: mais de 40 ginásios, planos ONE, FLEX e PRIME sem fidelização, entrada avulso e cancelamento."
 lang: pt
 land: pt
 byline: "Atualizado em outubro de 2026"

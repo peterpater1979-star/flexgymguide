@@ -96,14 +96,14 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
-<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
-<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
-<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
-<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore-club · SportCity</span></li>
-<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore-club · SportCity</span></li>
-<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
-<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore-clubs · SportCity</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore · SportCity</span></li>
+<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
 </ul>
 
 </div>
@@ -165,6 +165,8 @@ Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
 - **[Sportpas of abonnement?](/nl/sportpas-of-abonnement/)** · wat past bij hoe jij traint
 - **[ClassPass-credits uitgelegd](/nl/classpass-credits/)** · meer lessen uit je abonnement
 - **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
+- **[Sporten als student](/nl/sporten-als-student/)** · goedkoop en flexibel
+- **[Eten en drinken rond je training](/nl/eten-en-drinken-rond-je-training/)** · simpel en zonder gedoe
 - **[Basic-Fit opzeggen](/nl/basic-fit-opzeggen/)** · opzegtermijn en alternatieven
 - **[SportCity opzeggen](/nl/sportcity-opzeggen/)** · opzegtermijn en alternatieven
 - **[Trainmore opzeggen](/nl/trainmore-opzeggen/)** · opzegtermijn en bevriezen

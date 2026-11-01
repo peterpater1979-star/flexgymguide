@@ -1,5 +1,6 @@
 ---
 title: "EVO Fitness: treningssenter uten binding, priser og åpningstider"
+seoTitle: "EVO Fitness: treningssenter uten binding og priser"
 path: "/no/evo/"
 description: "Alt om EVO Fitness i Norge: treningssentre over hele landet, medlemskap uten binding, hva det koster og åpningstider."
 lang: nb

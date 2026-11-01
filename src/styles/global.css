@@ -77,8 +77,10 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .verborgen { position: absolute; left: -9999px; }
 
 /* Paginakop */
-.kop { background: var(--surface); padding: 2rem 0 3rem; margin-bottom: 1rem; }
-.kop .meta { margin: 0; }
+.kop { background: var(--surface); padding: 1.25rem 0 1.5rem; margin-bottom: 1rem; }
+.kop h1 { margin: .2rem 0 .5rem; }
+.kop .meta { margin: 0; font-size: .8rem; }
+@media (max-width: 640px) { .kop { padding: 1rem 0 1.25rem; } .kop h1 { font-size: 1.75rem; } }
 .aanbiederkaart { display: flex; flex-direction: column; }
 .aanbiederkaart > .knoppen { margin-top: auto; padding-top: 1.25rem; margin-bottom: .75rem; }
 .aanbiederkaart > p:last-child { margin-bottom: 0; }

@@ -1,7 +1,8 @@
 ---
 title: "Résilier Basic-Fit : comment faire, préavis et ce qu'il faut savoir"
+seoTitle: "Résilier Basic-Fit : comment faire et préavis"
 path: "/fr/resilier-basic-fit/"
-description: "Comment résilier ton abonnement Basic-Fit via My Basic-Fit, l'appli ou la borne en club. Avec le préavis de 4 semaines, la durée minimale et des alternatives sans engagement."
+description: "Comment résilier Basic-Fit via My Basic-Fit, l'appli ou la borne en club : le préavis de 4 semaines, la durée minimale et des alternatives sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

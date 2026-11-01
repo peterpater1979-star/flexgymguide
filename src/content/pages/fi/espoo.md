@@ -1,5 +1,6 @@
 ---
-title: "Joustavaa treeniä: Espoo – ClassPass ja ELIXIA"
+title: "Joustavaa treeniä: Espoo"
+seoTitle: "ClassPass Espoo: joustavaa treeniä ilman sitoutumista"
 path: "/fi/espoo/"
 description: "Etkö halua sitoutua yhteen saliin? Espoossa voit käyttää treenipassia studioilla ympäri kaupunkia tai valita kuntosalin. Näin löydät sopivan."
 lang: fi

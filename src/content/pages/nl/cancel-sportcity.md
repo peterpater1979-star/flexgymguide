@@ -1,7 +1,9 @@
 ---
 title: "Cancelling SportCity: how it works, notice period and what to know"
+seoTitle: "Cancel SportCity: notice period and how it works"
 path: "/nl/cancel-sportcity/"
-description: "How to cancel your SportCity membership in the app, by email or in the club. With the one-month notice period, what happens after your term, the 14-day cooling-off period and flexible alternatives."
+vertaling: "/nl/sportcity-opzeggen/"
+description: "How to cancel SportCity in the app, by email or in the club. The one-month notice period, the 14-day cooling-off period and flexible alternatives."
 lang: en
 land: nl
 byline: "Updated October 2026"

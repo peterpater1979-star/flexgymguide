@@ -1,5 +1,6 @@
 ---
 title: "Gyms without a contract in London: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in London: monthly options"
 path: "/uk/gyms-without-contract-london/"
 description: "Work out in London without a long gym contract: ClassPass, The Gym Group, Fitness First and drop-in classes. Prices, cancelling and what to watch for."
 lang: en

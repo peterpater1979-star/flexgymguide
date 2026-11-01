@@ -1,5 +1,23 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import { readFileSync, readdirSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
+
+// Sitemap: <lastmod> per pagina = datum van de laatste commit van het Markdown-bestand.
+function wijzigingsdata() {
+  const data = new Map();
+  for (const f of readdirSync('src/content/pages', { recursive: true })) {
+    if (!String(f).endsWith('.md')) continue;
+    const bestand = `src/content/pages/${f}`;
+    const pad = readFileSync(bestand, 'utf8').match(/^path: "?([^"\n]+)"?$/m)?.[1];
+    try {
+      const datum = execFileSync('git', ['log', '-1', '--format=%cI', '--', bestand], { encoding: 'utf8' }).trim();
+      if (pad && datum) data.set(new URL(pad, 'https://flexgymguide.com').href, datum);
+    } catch { /* geen git: dan zonder lastmod */ }
+  }
+  return data;
+}
+const lastmod = wijzigingsdata();
 
 // Links naar /go/ (affiliate) en naar andere websites openen in een nieuw tabblad.
 // /go/-links krijgen rel="sponsored nofollow", zoals ThirstyAffiliates dat deed.
@@ -33,6 +51,9 @@ export default defineConfig({
   site: 'https://flexgymguide.com',
   trailingSlash: 'always',
   build: { format: 'directory' },
-  integrations: [sitemap({ filter: (url) => !url.includes('/contact/thanks/') })],
+  integrations: [sitemap({
+    filter: (url) => !url.includes('/contact/thanks/'),
+    serialize: (item) => (lastmod.has(item.url) ? { ...item, lastmod: lastmod.get(item.url) } : item),
+  })],
   markdown: { rehypePlugins: [externeLinks] },
 });

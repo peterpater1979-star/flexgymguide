@@ -1,6 +1,8 @@
 ---
 title: "ClassPass i Danmark: sådan fungerer det, credits og opsigelse"
+seoTitle: "ClassPass i Danmark: credits, pris og opsigelse"
 path: "/dk/classpass/"
+zoekwoorden: "class pass classpass pris priser koster billig abonnement medlemskab træningspas"
 description: "Hvad er ClassPass, hvordan fungerer credits, og hvordan opsiger du? Alt om træningspasset i Danmark."
 lang: da
 land: dk

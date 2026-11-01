@@ -1,5 +1,6 @@
 ---
 title: "ClassPassin irtisanominen tai tauko: näin se toimii ja tämä tapahtuu krediiteillesi"
+seoTitle: "ClassPassin irtisanominen tai tauko: näin se toimii"
 path: "/fi/classpass-irtisanominen/"
 description: "Näin irtisanot ClassPassin sovelluksessa tai verkkosivuilla, milloin se kannattaa tehdä, voitko pitää taukoa ja mitä krediiteillesi tapahtuu."
 lang: fi

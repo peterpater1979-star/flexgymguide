@@ -1,7 +1,9 @@
 ---
 title: "ClassPass in the UK: how it works, cost and cancelling"
+seoTitle: "ClassPass UK: monthly price, credits and cancelling"
 path: "/uk/classpass/"
-description: "What is ClassPass, how do the credits work and how do you cancel? Everything about the fitness pass in the UK, with the cities where you can use it."
+zoekwoorden: "class pass classpass price prices cost costs expensive cheap plan membership fitness pass"
+description: "What does ClassPass cost per month, how do the credits work and how do you cancel? Everything about the fitness pass in the UK, city by city."
 lang: en
 land: uk
 byline: "Updated October 2026"

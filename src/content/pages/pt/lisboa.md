@@ -1,7 +1,8 @@
 ---
-title: "Treinar em Lisboa com flexibilidade: ClassPass, Element Gyms e Holmes Place"
+title: "Treinar em Lisboa com flexibilidade"
+seoTitle: "ClassPass Lisboa: treinar sem fidelização"
 path: "/pt/lisboa/"
-description: "Não queres ficar preso a um só ginásio? Em Lisboa podes usar um passe desportivo em estúdios de toda a cidade, um ginásio sem fidelização ou um clube premium. Vê o que te convém."
+description: "Não queres ficar preso a um só ginásio? Em lisboa podes usar um passe desportivo em estúdios, um ginásio sem fidelização ou um clube premium."
 lang: pt
 land: pt
 byline: "Atualizado em outubro de 2026"

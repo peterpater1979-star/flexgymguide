@@ -1,5 +1,6 @@
 ---
 title: "Säga upp eller pausa ClassPass: så gör du, och det här händer med dina krediter"
+seoTitle: "Säga upp eller pausa ClassPass: så gör du"
 path: "/se/saga-upp-classpass/"
 description: "Så säger du upp ClassPass i appen eller på webbplatsen, när du bäst gör det, om du kan pausa och vad som händer med dina krediter."
 lang: sv

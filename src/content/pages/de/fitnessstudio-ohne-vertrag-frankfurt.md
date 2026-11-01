@@ -1,7 +1,8 @@
 ---
 title: "Fitnessstudio ohne Vertrag in Frankfurt: monatlich kündbar trainieren"
+seoTitle: "Fitnessstudio ohne Vertrag in Frankfurt: monatlich kündbar"
 path: "/de/fitnessstudio-ohne-vertrag-frankfurt/"
-description: "Trainieren in Frankfurt am Main ohne Jahresvertrag: ClassPass, Fitness First, McFit Flex und Einzelstunden. Was es kostet, wie du kündigst und worauf du achten solltest."
+description: "Fitnessstudio in Frankfurt ohne Mindestlaufzeit: ClassPass, Fitness First, McFit Flex und Einzelstunden. Was es kostet und wie du kündigst."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

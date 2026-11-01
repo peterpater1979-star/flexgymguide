@@ -1,7 +1,7 @@
 ---
 title: "Fitnessstudio kündigen wegen Umzug: geht das?"
 path: "/de/fitnessstudio-kuendigen-umzug/"
-description: "Du ziehst um und willst aus deinem Fitnessstudio-Vertrag raus? Was bei einem Umzug gilt, wann du früher kündigen kannst und wie du am neuen Ort ohne langen Vertrag trainierst."
+description: "Du ziehst um und willst raus aus deinem Fitnessstudio-Vertrag? Was bei einem Umzug gilt, wann du früher kündigen kannst und wie es ohne Vertrag geht."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

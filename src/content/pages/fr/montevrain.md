@@ -1,7 +1,8 @@
 ---
-title: "Faire du sport à Montévrain en toute flexibilité : ClassPass"
+title: "Faire du sport à Montévrain en toute flexibilité"
+seoTitle: "ClassPass Montévrain : faire du sport sans engagement"
 path: "/fr/montevrain/"
-description: "Pas envie d’être lié à une seule salle ? À Montévrain, tu peux utiliser un pass sport dans des studios de la ville. Voici ce qui te convient."
+description: "À Montévrain, fais du sport sans être lié à une seule salle : avec un pass sport, tu t’entraînes dans des studios de la ville."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

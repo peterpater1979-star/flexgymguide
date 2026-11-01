@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Marseille : studios par quartier et par sport"
 path: "/fr/classpass-marseille/"
-description: "Où t’entraîner avec ClassPass à Marseille ? Un aperçu des studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp, à la danse et aux salles de sport, ainsi que le bien-être et la beauté."
+description: "ClassPass à Marseille : les studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp et à la danse, plus le bien-être."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

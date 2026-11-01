@@ -1,7 +1,8 @@
 ---
-title: "ClassPass Leiden en Trainmore: flexibel sporten"
+title: "Flexibel sporten in Leiden"
+seoTitle: "ClassPass Leiden: flexibel sporten zonder jaarcontract"
 path: "/nl/leiden/"
-description: "Geen zin in een jaarcontract bij één sportschool? In Leiden kun je met ClassPass afwisselen tussen gyms en studio's, of kiezen voor Trainmore met een gratis proefles."
+description: "Sporten in Leiden zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

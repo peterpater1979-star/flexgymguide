@@ -1,7 +1,7 @@
 ---
 title: "Flyefit: memberships, prices, classes and cancelling"
 path: "/ie/flyefit/"
-description: "All about Flyefit in Ireland: no-contract membership for one gym or Flye Roaming, prices, joining fee, student offer, day passes, free classes, pausing and cancelling."
+description: "All about Flyefit in Ireland: no-contract membership for one gym or Flye Roaming, prices, student offer, day passes, free classes and cancelling."
 lang: en
 land: ie
 byline: "Updated November 2026"

@@ -1,5 +1,6 @@
 ---
-title: "Flexible fitness in Dublin: ClassPass and Flyefit"
+title: "Flexible fitness in Dublin"
+seoTitle: "ClassPass Dublin: flexible fitness without a contract"
 path: "/ie/dublin/"
 description: "Don't want to be tied to one gym? In Dublin you can use a fitness pass at studios across the city, or join a gym without a contract. Here's what suits you."
 lang: en

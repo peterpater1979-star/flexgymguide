@@ -1,7 +1,8 @@
 ---
-title: "Flexibel sporten in Gent: ClassPass en Basic-Fit"
+title: "Flexibel sporten in Gent"
+seoTitle: "ClassPass Gent: flexibel sporten zonder jaarcontract"
 path: "/be/gent/"
-description: "Geen zin om vast te zitten aan één sportschool? In Gent gebruik je een sportpas bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou."
+description: "Niet vastzitten aan één sportschool? In Gent gebruik je een sportpas bij studio's in de hele stad, of kies je een sportschool met of zonder looptijd."
 lang: nl
 land: be
 byline: "Bijgewerkt in oktober 2026"

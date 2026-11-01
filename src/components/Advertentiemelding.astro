@@ -1,12 +1,18 @@
 ---
-// Verschijnt bovenaan elke pagina met een /go/-link, in de taal van de pagina.
+// Verschijnt bovenaan elke pagina met een /go/-link (affiliatelink), in de taal van de pagina,
+// vóór de eerste affiliatelink. Op mobiel de korte versie, op grotere schermen de volledige zin.
 import { teksten, type Lang } from '../data/teksten';
 const { lang } = Astro.props as { lang: Lang };
 const t = teksten[lang];
 ---
-<p class="melding"><strong>{t.label}</strong> · {t.melding} <a href={t.meldingHref}>{t.meldingLink}</a></p>
+<p class="melding"><strong>{t.label}</strong> · <span class="lang">{t.melding}</span><span class="kort">{t.meldingKort} ·</span> <a href={t.meldingHref}>{t.meldingLink}</a></p>
 <style>
-  .melding { font-size: .78rem; color: var(--muted); margin: 0 0 1rem; }
-  .melding strong { font-weight: 600; }
-  .melding a { color: inherit; }
+  .melding { font-size: .72rem; line-height: 1.4; color: var(--muted); opacity: .85; margin: 0 0 .75rem; }
+  .melding strong { font-weight: 500; }
+  .melding a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  .kort { display: none; }
+  @media (max-width: 640px) {
+    .lang { display: none; }
+    .kort { display: inline; }
+  }
 </style>

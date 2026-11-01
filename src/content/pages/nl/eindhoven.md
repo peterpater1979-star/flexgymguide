@@ -1,7 +1,8 @@
 ---
-title: "ClassPass Eindhoven en Trainmore: flexibel sporten"
+title: "Flexibel sporten in Eindhoven"
+seoTitle: "ClassPass Eindhoven: flexibel sporten zonder jaarcontract"
 path: "/nl/eindhoven/"
-description: "Geen zin in een jaarcontract bij één sportschool? In Eindhoven kun je met ClassPass afwisselen tussen gyms en studio's, of kiezen voor Trainmore met een gratis proefles."
+description: "Sporten in Eindhoven zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

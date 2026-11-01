@@ -1,5 +1,6 @@
 ---
-title: "Flexible fitness in Cork: ClassPass and Flyefit"
+title: "Flexible fitness in Cork"
+seoTitle: "ClassPass Cork: flexible fitness without a contract"
 path: "/ie/cork/"
 description: "Don't want to be tied to one gym? In Cork you can use a fitness pass at studios across the city, or join a gym without a contract. Here's what suits you."
 lang: en

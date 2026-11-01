@@ -1,7 +1,8 @@
 ---
 title: "Darse de baja en Basic-Fit: cómo hacerlo, preaviso y lo que debes saber"
+seoTitle: "Darse de baja en Basic-Fit: cómo hacerlo y preaviso"
 path: "/es/baja-basic-fit/"
-description: "Cómo darte de baja en Basic-Fit en My Basic-Fit, la app o el quiosco del club. Con el preaviso, la permanencia de un año, el plan Flex y alternativas sin permanencia."
+description: "Cómo darte de baja en Basic-Fit en My Basic-Fit, la app o el quiosco del club: el preaviso, la permanencia de un año, el plan Flex y alternativas."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

@@ -1,7 +1,8 @@
 ---
-title: "Entrenar en Ibiza ciudad con flexibilidad: ClassPass"
+title: "Entrenar en Ibiza ciudad con flexibilidad"
+seoTitle: "ClassPass Ibiza ciudad: entrenar sin permanencia"
 path: "/es/ibiza/"
-description: "¿No quieres atarte a un solo gimnasio? En Ibiza ciudad puedes usar un pase deportivo en estudios de toda la ciudad. Así eliges."
+description: "¿No quieres atarte a un solo gimnasio? En Ibiza ciudad puedes usar un pase deportivo en estudios de toda la ciudad."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

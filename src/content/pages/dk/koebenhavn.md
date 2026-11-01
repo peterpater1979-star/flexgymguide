@@ -1,7 +1,8 @@
 ---
-title: "Fleksibel træning i København: ClassPass, SATS og PureGym"
+title: "Fleksibel træning i København"
+seoTitle: "ClassPass København: fleksibel træning uden binding"
 path: "/dk/koebenhavn/"
-description: "Vil du ikke være bundet til ét fitnesscenter? I København bruger du et træningspas i studier i hele byen, eller du vælger et fitnesscenter. Her er det, der passer dig."
+description: "Vil du ikke være bundet til ét fitnesscenter? I København bruger du et træningspas i studier i hele byen, eller du vælger et fitnesscenter."
 lang: da
 land: dk
 byline: "Opdateret oktober 2026"

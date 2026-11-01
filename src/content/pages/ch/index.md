@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in der Schweiz"
 path: "/ch/"
-description: "Ohne langen Vertrag in einem einzigen Studio trainieren? Mit ClassPass trainierst du mit einem Abo in Studios und Gyms in Genf, Zürich, Basel und Lausanne. So funktioniert es."
+description: "Ohne langen Vertrag trainieren? Mit ClassPass trainierst du mit einem Abo in Studios und Gyms in Genf, Zürich, Basel und Lausanne. So funktioniert es."
 lang: de
 land: ch
 byline: "Aktualisiert im Oktober 2026"
@@ -152,6 +152,8 @@ Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de, das auch
 - **[Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)** · was zu deinem Training passt
 - **[ClassPass-Credits erklärt](/de/classpass-credits/)** · mehr Kurse aus deinem Abo
 - **[Dein erstes Training](/de/erstes-training/)** · was du mitnimmst
+- **[Sport im Studium](/de/sport-im-studium/)** · günstig und flexibel
+- **[Essen und Trinken rund ums Training](/de/essen-und-trinken-rund-ums-training/)** · einfach und unkompliziert
 
 ## Häufige Fragen
 

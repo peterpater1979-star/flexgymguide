@@ -1,7 +1,8 @@
 ---
-title: "Flexible fitness in London: ClassPass, Fitness First and more"
+title: "Flexible fitness in London"
+seoTitle: "ClassPass London: flexible fitness without a contract"
 path: "/uk/london/"
-description: "Don't want to be tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access. Here's what suits you."
+description: "Not keen on being tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access."
 lang: en
 land: uk
 byline: "Updated October 2026"

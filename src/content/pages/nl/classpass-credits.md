@@ -1,5 +1,6 @@
 ---
 title: "ClassPass-credits uitgelegd: zo werken ze en zo haal je er meer uit"
+seoTitle: "ClassPass-credits uitgelegd: zo haal je er meer uit"
 path: "/nl/classpass-credits/"
 description: "Waarom de ene les meer credits kost dan de andere, wat er met ongebruikte credits gebeurt en zeven tips om meer lessen uit je ClassPass-abonnement te halen."
 lang: nl

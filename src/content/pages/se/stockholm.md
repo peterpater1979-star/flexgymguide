@@ -1,7 +1,8 @@
 ---
-title: "Flexibel träning i Stockholm: ClassPass och SATS"
+title: "Flexibel träning i Stockholm"
+seoTitle: "ClassPass Stockholm: flexibel träning utan bindningstid"
 path: "/se/stockholm/"
-description: "Vill du inte vara bunden till ett enda gym? I Stockholm använder du ett träningspass hos studior i hela staden, eller väljer ett gym. Här är det som passar dig."
+description: "Vill du inte vara bunden till ett enda gym? I Stockholm använder du ett träningspass hos studior i hela staden, eller väljer ett gym."
 lang: sv
 land: se
 byline: "Uppdaterad oktober 2026"

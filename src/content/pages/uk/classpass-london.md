@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in London: studios by area and type of workout"
 path: "/uk/classpass-london/"
-description: "Where can you train with ClassPass in London? A guide to studios by area and by type of workout, from HIIT and reformer Pilates to boxing, yoga, wellness and beauty."
+description: "ClassPass in London: studios by area and by type of workout, from HIIT and reformer Pilates to boxing, yoga, wellness and beauty."
 lang: en
 land: uk
 byline: "Updated October 2026"

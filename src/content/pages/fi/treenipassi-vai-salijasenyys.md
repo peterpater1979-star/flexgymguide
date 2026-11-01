@@ -1,5 +1,6 @@
 ---
 title: "Treenipassi vai salijäsenyys? Mikä sopii sinun tapaasi treenata"
+seoTitle: "Treenipassi vai salijäsenyys? Mikä sopii sinulle"
 path: "/fi/treenipassi-vai-salijasenyys/"
 description: "Treenipassi kuten ClassPass vai jäsenyys kuntosaliketjussa? Miten ne toimivat, kenelle ne sopivat ja kolme kysymystä, jotka auttavat valitsemaan."
 lang: fi

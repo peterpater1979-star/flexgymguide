@@ -1,5 +1,6 @@
 ---
 title: "Salle de sport sans engagement à Paris : les options mois par mois"
+seoTitle: "Salle de sport sans engagement à Paris : mois par mois"
 path: "/fr/salle-de-sport-sans-engagement-paris/"
 description: "Faire du sport à Paris sans engagement d'un an : ClassPass, Basic-Fit Flex et cours à l'unité. Les prix, la résiliation et ce à quoi faire attention."
 lang: fr

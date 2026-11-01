@@ -1,7 +1,8 @@
 ---
 title: "Fitnessstudio ohne Vertrag in Stuttgart: monatlich kündbar trainieren"
+seoTitle: "Fitnessstudio ohne Vertrag in Stuttgart: monatlich kündbar"
 path: "/de/fitnessstudio-ohne-vertrag-stuttgart/"
-description: "Trainieren in Stuttgart ohne Jahresvertrag: ClassPass, Fitness First, McFit Flex und Einzelstunden. Was es kostet, wie du kündigst und worauf du achten solltest."
+description: "Fitnessstudio in Stuttgart ohne Mindestlaufzeit: ClassPass, Fitness First, McFit Flex und Einzelstunden. Was es kostet und wie du kündigst."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

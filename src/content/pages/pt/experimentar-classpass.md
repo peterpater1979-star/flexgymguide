@@ -1,5 +1,6 @@
 ---
 title: "Experimentar o ClassPass grátis: como funciona o período experimental"
+seoTitle: "Experimentar o ClassPass grátis: como funciona"
 path: "/pt/experimentar-classpass/"
 description: "O que recebes no período experimental do ClassPass, que regras se aplicam, o que acontece quando termina e como tirar o máximo partido."
 lang: pt

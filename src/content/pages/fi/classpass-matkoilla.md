@@ -1,5 +1,6 @@
 ---
 title: "ClassPass matkoilla: näin treenaat toisessa kaupungissa tai maassa"
+seoTitle: "ClassPass matkoilla: treenaa toisessa kaupungissa tai maassa"
 path: "/fi/classpass-matkoilla/"
 description: "Näin käytät ClassPassia lomalla tai työmatkalla, missä maissa se toimii, mikä muuttuu krediiteissä ja peruutuksissa, ja vinkkejä matkalle."
 lang: fi

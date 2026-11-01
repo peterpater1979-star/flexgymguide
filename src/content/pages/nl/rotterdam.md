@@ -1,7 +1,8 @@
 ---
-title: "ClassPass Rotterdam en Trainmore: flexibel sporten"
+title: "Flexibel sporten in Rotterdam"
+seoTitle: "ClassPass Rotterdam: flexibel sporten zonder jaarcontract"
 path: "/nl/rotterdam/"
-description: "Geen zin in een jaarcontract bij één sportschool? In Rotterdam kun je met ClassPass afwisselen tussen gyms en studio's, of kiezen voor Trainmore met een gratis proefles."
+description: "Sporten in Rotterdam zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

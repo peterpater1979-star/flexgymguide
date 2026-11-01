@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Lyon : studios par quartier et par sport"
 path: "/fr/classpass-lyon/"
-description: "Où t’entraîner avec ClassPass à Lyon ? Un aperçu des studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp, au cycling et aux salles de sport, ainsi que le bien-être et la beauté."
+description: "ClassPass à Lyon : les studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp et au cycling, plus le bien-être."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"

@@ -1,7 +1,7 @@
 ---
 title: "Work out anywhere, without a long contract"
 path: "/"
-description: "FlexGymGuide is an independent guide to fitness passes and gyms with flexible memberships, country by country. Find the option that fits how often you train, and where."
+description: "An independent guide to fitness passes and gyms with flexible memberships, country by country. Find what fits how often you train, and where."
 lang: en
 land: global
 crumb: "Home"

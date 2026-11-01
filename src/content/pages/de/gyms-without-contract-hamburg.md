@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Hamburg: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Hamburg: monthly options"
 path: "/de/gyms-without-contract-hamburg/"
-description: "New to Hamburg or only here for a while? Work out without a long gym contract: ClassPass, Fitness First, McFit Flex and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/de/fitnessstudio-ohne-vertrag-hamburg/"
+description: "No-contract gyms in Hamburg: ClassPass, Fitness First, McFit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: de
 byline: "Updated October 2026"

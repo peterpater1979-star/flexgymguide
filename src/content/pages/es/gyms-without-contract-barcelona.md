@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Barcelona: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Barcelona: monthly options"
 path: "/es/gyms-without-contract-barcelona/"
-description: "New to Barcelona or only here for a while? Work out without a one-year commitment: ClassPass, Basic-Fit Flex and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/es/gimnasio-sin-permanencia-barcelona/"
+description: "No-contract gyms in Barcelona: ClassPass, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: es
 byline: "Updated October 2026"

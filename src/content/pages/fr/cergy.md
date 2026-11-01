@@ -1,7 +1,8 @@
 ---
-title: "Faire du sport à Cergy en toute flexibilité : ClassPass et Basic-Fit"
+title: "Faire du sport à Cergy en toute flexibilité"
+seoTitle: "ClassPass Cergy : faire du sport sans engagement"
 path: "/fr/cergy/"
-description: "Pas envie d’être lié à une seule salle ? À Cergy, tu peux utiliser un pass sport dans des studios de la ville, ou une salle de sport avec ou sans engagement. Voici ce qui te convient."
+description: "À Cergy, fais du sport sans être lié à une seule salle : un pass sport dans des studios de la ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

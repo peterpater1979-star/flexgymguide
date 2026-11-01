@@ -1,7 +1,8 @@
 ---
 title: "ClassPass auf Reisen: so trainierst du in einer anderen Stadt oder einem anderen Land"
+seoTitle: "ClassPass auf Reisen: in anderen Städten und Ländern"
 path: "/de/classpass-auf-reisen/"
-description: "Wie du ClassPass im Urlaub oder auf Geschäftsreise nutzt, in welchen Ländern es funktioniert, was bei Credits und Stornierung anders ist, und Tipps für unterwegs."
+description: "So nutzt du ClassPass im Urlaub oder auf Geschäftsreise: in welchen Ländern es funktioniert, was bei Credits und Stornierung anders ist, und Tipps."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

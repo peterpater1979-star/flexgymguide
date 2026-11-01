@@ -1,5 +1,6 @@
 ---
 title: "ClassPass-Credits erklärt: So funktionieren sie und so holst du mehr heraus"
+seoTitle: "ClassPass-Credits erklärt: so holst du mehr heraus"
 path: "/de/classpass-credits/"
 description: "Warum ein Kurs mehr Credits kostet als ein anderer, was mit ungenutzten Credits passiert und sieben Tipps für mehr Kurse aus deinem ClassPass-Abo."
 lang: de

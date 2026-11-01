@@ -1,6 +1,8 @@
 ---
 title: "ClassPass in Österreich: so funktioniert es, Credits und Kündigung"
+seoTitle: "ClassPass Österreich: Credits, Kosten und Kündigung"
 path: "/at/classpass/"
+zoekwoorden: "class pass classpass Preis Preise Kosten kostet teuer günstig Abo Mitgliedschaft Sportpass"
 description: "Was ist ClassPass, wie funktionieren die Credits und wie kündigst du? Alles über den Sportpass in Österreich."
 lang: de
 land: at

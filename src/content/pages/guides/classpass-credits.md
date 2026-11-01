@@ -1,5 +1,6 @@
 ---
 title: "ClassPass credits explained: how they work and how to get more from them"
+seoTitle: "ClassPass credits explained: how to get more from them"
 path: "/guides/classpass-credits/"
 description: "Why one class costs more credits than another, what happens to unused credits and seven tips to get more classes out of your ClassPass plan."
 lang: en

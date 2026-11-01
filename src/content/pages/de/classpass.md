@@ -1,7 +1,9 @@
 ---
 title: "ClassPass in Deutschland: so funktioniert es, Kosten und Kündigung"
+seoTitle: "ClassPass Deutschland: Kosten, Credits und Kündigung"
 path: "/de/classpass/"
-description: "Was ist ClassPass, wie funktionieren die Credits und wie kündigst du? Alles über den Sportpass in Deutschland, mit den Städten, in denen du damit trainieren kannst."
+zoekwoorden: "class pass classpass Preis Preise Kosten kostet teuer günstig Abo Mitgliedschaft Sportpass"
+description: "Was kostet ClassPass, wie funktionieren die Credits und wie kündigst du? Alles über den Sportpass in Deutschland, mit den Städten, in denen er gilt."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

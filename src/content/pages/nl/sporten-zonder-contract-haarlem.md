@@ -1,7 +1,8 @@
 ---
 title: "Sporten zonder contract in Haarlem: maandelijks opzegbaar trainen"
+seoTitle: "Sporten zonder contract in Haarlem: maandelijks opzegbaar"
 path: "/nl/sporten-zonder-contract-haarlem/"
-description: "Sporten in Haarlem zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex en losse lessen. Wat het kost, hoe je opzegt en waar je op let."
+description: "Sporten in Haarlem zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex en losse lessen. Wat het kost en hoe je opzegt."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

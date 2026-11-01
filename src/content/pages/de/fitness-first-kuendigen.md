@@ -1,7 +1,7 @@
 ---
 title: "Fitness First kündigen: so geht's, Fristen und Pause"
 path: "/de/fitness-first-kuendigen/"
-description: "So kündigst du deine Fitness-First-Mitgliedschaft online über das Kündigungsformular. Mit Kündigungsfrist, was nach der Mindestlaufzeit gilt, Pause statt Kündigung, Widerruf und flexiblen Alternativen."
+description: "So kündigst du Fitness First online über das Kündigungsformular: Kündigungsfrist, was nach der Mindestlaufzeit gilt, Pause statt Kündigung und Widerruf."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

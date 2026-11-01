@@ -77,9 +77,11 @@ Belgische sportschoolketen met meer dan 80 clubs, met fitness en groepslessen me
 
 ClassPass heeft partnerstudio's in de grotere Belgische steden, onder meer:
 
-- [Brussel](/be/brussel/)
-- [Antwerpen](/be/antwerpen/)
-- [Gent](/be/gent/)
+<ul class="stedenlijst">
+<li><a href="/be/brussel/"><strong>Brussel</strong></a> <span class="klein">ClassPass · Basic-Fit · Jims</span></li>
+<li><a href="/be/antwerpen/"><strong>Antwerpen</strong></a> <span class="klein">ClassPass · Basic-Fit · Jims</span></li>
+<li><a href="/be/gent/"><strong>Gent</strong></a> <span class="klein">ClassPass · Basic-Fit · Jims</span></li>
+</ul>
 
 In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
 
@@ -144,6 +146,8 @@ Mis je nog iets? Via deze links zoek je direct bij Amazon.nl, dat ook naar Belgi
 - **[Sportpas of abonnement?](/nl/sportpas-of-abonnement/)** · wat past bij hoe jij traint
 - **[ClassPass-credits uitgelegd](/nl/classpass-credits/)** · meer lessen uit je abonnement
 - **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
+- **[Sporten als student](/nl/sporten-als-student/)** · goedkoop en flexibel
+- **[Eten en drinken rond je training](/nl/eten-en-drinken-rond-je-training/)** · simpel en zonder gedoe
 
 En français : [Ton premier cours](/fr/premier-cours/) · ce qu’il faut emporter
 

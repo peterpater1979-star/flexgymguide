@@ -1,7 +1,8 @@
 ---
 title: "Trainmore opzeggen: zo werkt het, opzegtermijn en wat je moet weten"
+seoTitle: "Trainmore opzeggen: zo werkt het en de opzegtermijn"
 path: "/nl/trainmore-opzeggen/"
-description: "Zo zeg je je Trainmore-membership op via de app of het online contactformulier. Met de opzegtermijn van 1 maand, wat er na je contract gebeurt, bevriezen en flexibele alternatieven."
+description: "Zo zeg je Trainmore op via de app of het online contactformulier. Met de opzegtermijn van 1 maand, bevriezen en flexibele alternatieven."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

@@ -5,9 +5,11 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import type { Lang } from '../data/teksten';
 
-interface Props { title: string; description?: string; lang?: Lang; land?: string; noindex?: boolean; }
-const { title, description = 'An independent guide to fitness passes and gyms with flexible memberships, country by country.', lang = 'en', land = 'global', noindex = false } = Astro.props;
-const fullTitle = title.includes('FlexGymGuide') ? title : `${title} | FlexGymGuide`;
+interface Props { title: string; seoTitle?: string; description?: string; lang?: Lang; land?: string; noindex?: boolean; alternates?: { hreflang: string; href: string }[]; jsonld?: object[]; locale?: string; }
+const { title, seoTitle, description = 'An independent guide to fitness passes and gyms with flexible memberships, country by country.', lang = 'en', land = 'global', noindex = false, alternates = [], jsonld = [], locale } = Astro.props;
+// Google toont ongeveer 60 tekens. De merknaam komt er alleen achter als het past; anders telt de zoekterm meer.
+const kaal = seoTitle ?? title;
+const fullTitle = kaal.includes('FlexGymGuide') || kaal.length + 15 > 60 ? kaal : `${kaal} | FlexGymGuide`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 // Cloudflare Web Analytics: cookieloze bezoekersteller. Leeg = uit.
 const cfToken = 'd03672559fa34150b63595ef88767899';
@@ -27,10 +29,12 @@ const cfToken = 'd03672559fa34150b63595ef88767899';
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     {noindex && <meta name="robots" content="noindex" />}
+    {alternates.map((a) => <link rel="alternate" hreflang={a.hreflang} href={new URL(a.href, Astro.site)} />)}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="FlexGymGuide" />
+    {locale && <meta property="og:locale" content={locale} />}
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
@@ -38,6 +42,7 @@ const cfToken = 'd03672559fa34150b63595ef88767899';
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
+    {jsonld.map((ld) => <script type="application/ld+json" set:html={JSON.stringify(ld)} />)}
   </head>
   <body>
     <Header land={land} lang={lang} />

@@ -1,7 +1,8 @@
 ---
-title: "Fleksibel træning i Aarhus: ClassPass og PureGym"
+title: "Fleksibel træning i Aarhus"
+seoTitle: "ClassPass Aarhus: fleksibel træning uden binding"
 path: "/dk/aarhus/"
-description: "Vil du ikke være bundet til ét fitnesscenter? I Aarhus bruger du et træningspas i studier i hele byen, eller du vælger et fitnesscenter. Her er det, der passer dig."
+description: "Vil du ikke være bundet til ét fitnesscenter? I Aarhus bruger du et træningspas i studier i hele byen, eller du vælger et fitnesscenter."
 lang: da
 land: dk
 byline: "Opdateret oktober 2026"

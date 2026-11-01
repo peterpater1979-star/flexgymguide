@@ -1,7 +1,8 @@
 ---
 title: "Je eerste les of sportschoolbezoek: wat neem je mee en wat kun je verwachten"
+seoTitle: "Je eerste les of sportschoolbezoek: wat neem je mee?"
 path: "/nl/eerste-les/"
-description: "Voor het eerst naar een nieuwe studio of sportschool? Wat je meeneemt voor yoga, boksen, spinning en krachttraining, en hoe je eerste bezoek makkelijk verloopt."
+description: "Voor het eerst naar een studio of sportschool? Wat je meeneemt voor yoga, boksen, spinning en krachttraining, en hoe je eerste bezoek soepel verloopt."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

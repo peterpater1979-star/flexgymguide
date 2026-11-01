@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Hamburg: Studios nach Stadtteil und Sportart"
 path: "/de/classpass-hamburg/"
-description: "Wo trainierst du mit ClassPass in Hamburg? Ein Überblick über Studios nach Stadtteil und Sportart, von Lagree und Hot Pilates bis Yoga, Barre, Indoor-Cycling, Wellness und Beauty."
+description: "ClassPass in Hamburg: Studios nach Stadtteil und Sportart, von Lagree und Hot Pilates bis Yoga, Barre, Indoor-Cycling, Wellness und Beauty."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

@@ -1,7 +1,8 @@
 ---
 title: "Syöminen ja juominen treenin ympärillä: helposti ja ilman stressiä"
+seoTitle: "Syöminen ja juominen treenin ympärillä"
 path: "/fi/syominen-ja-juominen-treenin-ymparilla/"
-description: "Mitä juoda ja syödä ennen tuntia tai salikäyntiä ja sen jälkeen? Vettä, pieni välipala ja halutessasi proteiinijauhetta: käytännön vinkkejä ilman suuria lupauksia."
+description: "Mitä juoda ja syödä ennen treeniä ja sen jälkeen? Vettä, pieni välipala ja halutessasi proteiinijauhetta: käytännön vinkkejä ilman lupauksia."
 lang: fi
 land: fi
 byline: "Päivitetty lokakuussa 2026"

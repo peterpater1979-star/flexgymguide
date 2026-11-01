@@ -1,5 +1,6 @@
 ---
 title: "Opsig eller sæt ClassPass på pause: sådan gør du, og det sker der med dine credits"
+seoTitle: "Opsig eller sæt ClassPass på pause: sådan gør du"
 path: "/dk/opsig-classpass/"
 description: "Sådan opsiger du ClassPass i appen eller på hjemmesiden, hvornår du bedst gør det, om du kan sætte på pause, og hvad der sker med dine credits."
 lang: da

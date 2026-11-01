@@ -1,7 +1,8 @@
 ---
 title: "ClassPass en voyage : faire du sport dans une autre ville ou un autre pays"
+seoTitle: "ClassPass en voyage : dans une autre ville ou un autre pays"
 path: "/fr/classpass-en-voyage/"
-description: "Comment utiliser ClassPass en vacances ou en déplacement, dans quels pays il fonctionne, ce qui change pour les crédits et les annulations, et des conseils pour la route."
+description: "Utiliser ClassPass en vacances ou en déplacement : dans quels pays il fonctionne, ce qui change pour les crédits et les annulations, et des conseils."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

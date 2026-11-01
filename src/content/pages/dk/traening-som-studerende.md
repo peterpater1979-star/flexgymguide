@@ -1,7 +1,7 @@
 ---
 title: "Træning som studerende: billigt og fleksibelt"
 path: "/dk/traening-som-studerende/"
-description: "Hvilke træningsmuligheder du har som studerende, hvad der passer til hvilket skema, hvorfor ClassPass ikke har studierabat, og hvordan du træner fleksibelt uden at bruge for meget."
+description: "Hvilke træningsmuligheder du har som studerende, hvad der passer til dit skema, og hvordan du træner fleksibelt uden at bruge for meget."
 lang: da
 land: dk
 byline: "Opdateret oktober 2026"

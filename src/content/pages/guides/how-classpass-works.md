@@ -1,6 +1,8 @@
 ---
 title: "How ClassPass works: credits, plans and using it abroad"
+seoTitle: "How does ClassPass work? Credits, plans and cost"
 path: "/guides/how-classpass-works/"
+zoekwoorden: "class pass classpass price prices cost costs expensive cheap plan membership fitness pass"
 description: "ClassPass gives you one membership for classes, gym visits and wellness at thousands of studios. How credits work, what to watch out for and what it costs."
 lang: en
 land: guides

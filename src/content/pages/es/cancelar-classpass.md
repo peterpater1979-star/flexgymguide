@@ -1,5 +1,6 @@
 ---
 title: "Cancelar o pausar ClassPass: cómo hacerlo y qué pasa con tus créditos"
+seoTitle: "Cancelar o pausar ClassPass: cómo hacerlo"
 path: "/es/cancelar-classpass/"
 description: "Cómo cancelar ClassPass en la app o en la web, cuándo hacerlo, si puedes pausarlo en su lugar y qué pasa con tus créditos."
 lang: es

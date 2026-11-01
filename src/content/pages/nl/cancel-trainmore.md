@@ -1,7 +1,9 @@
 ---
 title: "Cancelling Trainmore: how it works, notice period and what to know"
+seoTitle: "Cancel Trainmore: notice period and how it works"
 path: "/nl/cancel-trainmore/"
-description: "How to cancel your Trainmore membership in the app or through the online contact form. With the one-month notice period, what happens after your contract, freezing, and flexible alternatives."
+vertaling: "/nl/trainmore-opzeggen/"
+description: "How to cancel Trainmore in the app or with the online contact form. The one-month notice period, freezing, and flexible alternatives."
 lang: en
 land: nl
 byline: "Updated October 2026"

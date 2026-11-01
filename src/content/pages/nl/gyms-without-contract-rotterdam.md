@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Rotterdam: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Rotterdam: monthly options"
 path: "/nl/gyms-without-contract-rotterdam/"
-description: "New to Rotterdam or only here for a while? Work out without a yearly contract: ClassPass, Trainmore Flex, Basic-Fit Flex, SportCity Flex and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/nl/sporten-zonder-contract-rotterdam/"
+description: "No-contract gyms in Rotterdam: ClassPass, Trainmore Flex, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: nl
 byline: "Updated October 2026"

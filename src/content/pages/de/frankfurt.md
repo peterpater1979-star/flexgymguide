@@ -1,7 +1,8 @@
 ---
-title: "ClassPass Frankfurt und Fitness First: flexibel trainieren"
+title: "Flexibel trainieren in Frankfurt"
+seoTitle: "ClassPass Frankfurt: flexibel trainieren ohne Vertrag"
 path: "/de/frankfurt/"
-description: "Flexibel trainieren in Frankfurt am Main: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 12 Clubs trainieren. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Frankfurt am Main: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 12 Clubs trainieren."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

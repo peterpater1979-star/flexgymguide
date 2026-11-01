@@ -5,6 +5,8 @@ import Advertentiemelding from './Advertentiemelding.astro';
 import Kruimelpad from './Kruimelpad.astro';
 import Delen from './Delen.astro';
 import TipFormulier from './TipFormulier.astro';
+import { getCollection } from 'astro:content';
+import { hreflang, ogLocale, gewijzigd, organisatie } from '../data/seo';
 
 const { page } = Astro.props as { page: CollectionEntry<'pages'> };
 const { Content } = await render(page);
@@ -15,14 +17,25 @@ const affiliate = /\]\(\/go\/|href="\/go\//.test(page.body ?? '');
 // Zoekfunctie (Pagefind): alleen geïndexeerde pagina's. De titel telt zwaar mee; land en taal bepalen de volgorde van de resultaten.
 const zoek = !d.noindex;
 const zoekAttr = zoek ? { 'data-pagefind-body': '' } : {};
+// Zelfde pagina in een andere taal (hreflang). `vertaling` staat aan één kant; hier zoeken we beide richtingen.
+const alle = await getCollection('pages', (p) => !p.data.draft && !p.data.noindex);
+const partner = d.vertaling ? alle.find((p) => p.data.path === d.vertaling) : alle.find((p) => p.data.vertaling === d.path);
+const alternates = partner && !d.noindex ? [d, partner.data].map((x) => ({ hreflang: hreflang(x.lang, x.land), href: x.path })) : [];
+// Structured data: website en organisatie op de homepage, artikel met datum op gidsen en aanbiederpagina's.
+const url = new URL(d.path, 'https://flexgymguide.com').href;
+const datum = gewijzigd(page.filePath);
+const jsonld: object[] = d.noindex ? [] : d.path === '/'
+  ? [{ '@context': 'https://schema.org', ...organisatie }, { '@context': 'https://schema.org', '@type': 'WebSite', name: 'FlexGymGuide', url, inLanguage: 'en', publisher: { '@id': organisatie['@id'] } }]
+  : d.byline
+    ? [{ '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description, inLanguage: d.lang, url, mainEntityOfPage: url, ...(datum && { dateModified: datum }), author: { '@type': 'Person', name: 'Peter Pater', url: 'https://flexgymguide.com/about/' }, publisher: organisatie, image: 'https://flexgymguide.com/og-image.png' }]
+    : [];
 const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : d.lang, { dateStyle: 'long' }).format(date);
 ---
-<Base title={d.title} description={d.description} lang={d.lang} land={d.land} noindex={d.noindex}>
+<Base title={d.title} seoTitle={d.seoTitle} description={d.description} lang={d.lang} land={d.land} noindex={d.noindex} alternates={alternates} jsonld={jsonld} locale={ogLocale(d.lang, d.land)}>
   <div class="kop">
     <div class="wrap">
       {affiliate && <Advertentiemelding lang={d.lang} />}
       {d.path !== '/' && <Kruimelpad path={d.path} lang={d.lang} />}
-      {d.kicker && <p class="kicker">{d.kicker}</p>}
       <h1>{d.title}</h1>
       {d.byline && <p class="klein meta">{d.byline}</p>}
       {!d.byline && d.updated && <p class="klein meta">{fmt(d.updated)}</p>}
@@ -33,6 +46,7 @@ const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : 
     {zoek && <span hidden data-pagefind-ignore data-pagefind-meta="land">{d.land}</span>}
     {zoek && <span hidden data-pagefind-ignore data-pagefind-meta="taal">{d.lang}</span>}
     {zoek && d.description && <span hidden data-pagefind-ignore data-pagefind-meta="beschrijving">{d.description}</span>}
+    {zoek && d.zoekwoorden && <span hidden data-pagefind-weight="10">{d.zoekwoorden}</span>}
     <Content />
     <div data-pagefind-ignore="all">
       {tip && <TipFormulier lang={d.lang} pagina={d.path} stad={stad} />}

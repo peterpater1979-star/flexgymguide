@@ -1,6 +1,7 @@
 ---
 title: "ClassPass in Ireland: how it works, credits and cancelling"
 path: "/ie/classpass/"
+zoekwoorden: "class pass classpass price prices cost costs expensive cheap plan membership fitness pass"
 description: "What is ClassPass, how do the credits work and how do you cancel? Everything about the fitness pass in Ireland."
 lang: en
 land: ie

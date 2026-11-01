@@ -1,5 +1,6 @@
 ---
-title: "ClassPass Düsseldorf und Fitness First: flexibel trainieren"
+title: "Flexibel trainieren in Düsseldorf"
+seoTitle: "ClassPass Düsseldorf: flexibel trainieren ohne Vertrag"
 path: "/de/duesseldorf/"
 description: "Flexibel trainieren in Düsseldorf: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 5 Clubs trainieren. So findest du, was zu dir passt."
 lang: de

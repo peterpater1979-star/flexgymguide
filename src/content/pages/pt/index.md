@@ -1,7 +1,7 @@
 ---
 title: "Treinar sem fidelização em Portugal"
 path: "/pt/"
-description: "Queres fazer desporto sem um contrato longo num só ginásio? Com o ClassPass, uma única subscrição dá acesso a estúdios e ginásios em Lisboa e no Porto. Vê como funciona."
+description: "Desporto sem um contrato longo num só ginásio? Com o ClassPass, uma subscrição dá acesso a estúdios e ginásios em Lisboa e no Porto. Vê como funciona."
 lang: pt
 land: pt
 byline: "Atualizado em outubro de 2026"
@@ -93,6 +93,12 @@ O antigo Fitness Hut: mais de 40 ginásios em Portugal, planos ONE, FLEX e PRIME
 
 O ClassPass tem estúdios parceiros em [Lisboa](/pt/lisboa/), no [Porto](/pt/porto/) e noutras cidades portuguesas. Na app vês que estúdios e ginásios participam perto de ti. Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
 
+<ul class="stedenlijst">
+<li><a href="/pt/lisboa/"><strong>Lisboa</strong></a> <span class="klein">ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
+<li><a href="/pt/porto/"><strong>Porto</strong></a> <span class="klein">ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
+</ul>
+
+
 </div>
 
 ## Como funciona o ClassPass em Portugal
@@ -151,6 +157,8 @@ Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de f
 - **[Passe ou ginásio?](/pt/passe-ou-ginasio/)** · o que combina contigo
 - **[Os créditos do ClassPass](/pt/creditos-classpass/)** · mais aulas com o teu plano
 - **[A tua primeira aula](/pt/primeira-aula/)** · o que levar
+- **[Desporto como estudante](/pt/desporto-estudante/)** · barato e flexível
+- **[Comer e beber no treino](/pt/comer-e-beber-no-treino/)** · simples
 
 ## Perguntas frequentes
 

@@ -1,7 +1,7 @@
 ---
 title: "Faire du sport sans engagement en France"
 path: "/fr/"
-description: "Envie de faire du sport sans contrat long dans une seule salle ? Avec ClassPass, un seul abonnement donne accès à des studios et salles de sport à Paris. Voici comment ça marche."
+description: "Faire du sport sans contrat long dans une seule salle ? Avec ClassPass, un abonnement donne accès à des studios et salles à Paris. Voici comment ça marche."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -214,6 +214,8 @@ Sur Amazon.de (site en allemand, tu peux choisir l’anglais en haut de la page)
 - **[Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)** · ce qui te correspond
 - **[Les crédits ClassPass](/fr/credits-classpass/)** · plus de cours avec ton abonnement
 - **[Ton premier cours](/fr/premier-cours/)** · quoi emporter
+- **[Faire du sport quand on est étudiant](/fr/sport-etudiant/)** · pas cher et flexible
+- **[Manger et boire autour du sport](/fr/manger-et-boire-autour-du-sport/)** · simple
 - **[Résilier Basic-Fit](/fr/resilier-basic-fit/)** · préavis et alternatives
 - **[Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/)** · les options mois par mois
 

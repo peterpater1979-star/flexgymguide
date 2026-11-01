@@ -78,8 +78,10 @@ Fitnesskæde med lave priser og 128 centre i Danmark. Fra 249 kr. om måneden, o
 
 ClassPass har partnerstudier i flere byer, blandt andet:
 
-- [København](/dk/koebenhavn/)
-- [Aarhus](/dk/aarhus/)
+<ul class="stedenlijst">
+<li><a href="/dk/koebenhavn/"><strong>København</strong></a> <span class="klein">ClassPass · SATS · PureGym</span></li>
+<li><a href="/dk/aarhus/"><strong>Aarhus</strong></a> <span class="klein">ClassPass · PureGym</span></li>
+</ul>
 
 I appen kan du se, hvilke studier og fitnesscentre i nærheden der er med.
 
@@ -144,6 +146,8 @@ Disse links fører dig direkte til Amazon.de, som også leverer til Danmark. Sid
 - **[Træningspas eller fitness?](/dk/traeningspas-eller-fitness/)** · det der passer dig
 - **[ClassPass-credits forklaret](/dk/classpass-credits/)** · flere hold ud af dit abonnement
 - **[Din første time](/dk/din-foerste-time/)** · hvad du skal have med
+- **[Træning som studerende](/dk/traening-som-studerende/)** · billigt og fleksibelt
+- **[Mad og drikke omkring træning](/dk/mad-og-drikke-omkring-traening/)** · enkelt og nemt
 
 ## Ofte stillede spørgsmål
 

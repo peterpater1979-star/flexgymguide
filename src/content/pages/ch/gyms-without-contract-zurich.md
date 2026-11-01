@@ -1,7 +1,9 @@
 ---
 title: "Gyms without a contract in Zurich: monthly and pay-as-you-go options"
+seoTitle: "Gyms without a contract in Zurich: monthly options"
 path: "/ch/gyms-without-contract-zurich/"
-description: "New to Zurich or only here for a while? Work out without a yearly gym membership: ClassPass, gyms with short terms and drop-in classes. Prices, cancelling and what to watch for."
+vertaling: "/ch/fitnessstudio-ohne-vertrag-zuerich/"
+description: "No-contract gyms in Zurich: ClassPass, gyms with short terms and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: ch
 byline: "Updated October 2026"

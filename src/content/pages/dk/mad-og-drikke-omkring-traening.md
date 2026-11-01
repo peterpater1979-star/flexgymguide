@@ -1,7 +1,7 @@
 ---
 title: "Mad og drikke omkring din træning: enkelt og uden besvær"
 path: "/dk/mad-og-drikke-omkring-traening/"
-description: "Hvad skal du drikke og spise før og efter et hold eller et besøg i fitnesscentret? Vand, en lille snack og proteinpulver, hvis du vil: praktiske tips uden store løfter."
+description: "Hvad skal du drikke og spise før og efter træning? Vand, en lille snack og proteinpulver, hvis du vil: praktiske tips uden store løfter."
 lang: da
 land: dk
 byline: "Opdateret oktober 2026"

@@ -1,7 +1,7 @@
 ---
 title: "The Gym Group: gyms, memberships and cancelling"
 path: "/uk/the-gym-group/"
-description: "Everything about The Gym Group: low-cost gyms without a contract, Off-peak, Standard and Ultimate memberships, facilities, classes, student plans, day passes and cancelling."
+description: "All about The Gym Group: low-cost gyms without a contract, Off-peak, Standard and Ultimate memberships, student plans, day passes and cancelling."
 lang: en
 land: uk
 byline: "Updated October 2026"

@@ -1,7 +1,8 @@
 ---
 title: "Sporten zonder contract in Eindhoven: maandelijks opzegbaar trainen"
+seoTitle: "Sporten zonder contract in Eindhoven: maandelijks opzegbaar"
 path: "/nl/sporten-zonder-contract-eindhoven/"
-description: "Sporten in Eindhoven zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex en losse lessen. Wat het kost, hoe je opzegt en waar je op let."
+description: "Sporten in Eindhoven zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex en losse lessen. Wat het kost en hoe je opzegt."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

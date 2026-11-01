@@ -1,7 +1,8 @@
 ---
 title: "SportCity opzeggen: zo werkt het, opzegtermijn en wat je moet weten"
+seoTitle: "SportCity opzeggen: zo werkt het en de opzegtermijn"
 path: "/nl/sportcity-opzeggen/"
-description: "Zo zeg je je SportCity-lidmaatschap op via de app, per e-mail of in de club. Met de opzegtermijn van een maand, wat er na je looptijd gebeurt, de 14 dagen bedenktijd en flexibele alternatieven."
+description: "Zo zeg je SportCity op via de app, per e-mail of in de club. Met de opzegtermijn van een maand, de 14 dagen bedenktijd en flexibele alternatieven."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

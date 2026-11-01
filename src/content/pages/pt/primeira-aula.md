@@ -1,5 +1,6 @@
 ---
 title: "A tua primeira aula ou ida ao ginásio: o que levar e o que esperar"
+seoTitle: "A tua primeira aula ou ida ao ginásio: o que levar"
 path: "/pt/primeira-aula/"
 description: "Vais pela primeira vez a um estúdio ou ginásio novo? O que levar para ioga, boxe, spinning e musculação, e como tornar a tua primeira visita fácil."
 lang: pt

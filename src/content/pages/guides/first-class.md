@@ -1,5 +1,6 @@
 ---
 title: "Your first class or gym visit: what to bring and what to expect"
+seoTitle: "Your first class or gym visit: what to bring"
 path: "/guides/first-class/"
 description: "Trying a new studio or gym for the first time? What to bring for yoga, boxing, cycling and strength training, and how to make your first visit easy."
 lang: en

@@ -1,7 +1,7 @@
 ---
 title: "Trainmore: clubs, prijzen, korting per workout en opzeggen"
 path: "/nl/trainmore/"
-description: "Alles over Trainmore: 53 clubs in Nederland, clublabels, faciliteiten, groepslessen, de korting per workout, het studentenlidmaatschap, contracten en opzeggen."
+description: "Alles over Trainmore: 53 clubs in Nederland, clublabels, faciliteiten, groepslessen, korting per workout, studentenlidmaatschap en opzeggen."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

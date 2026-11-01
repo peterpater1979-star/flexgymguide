@@ -94,14 +94,14 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 ## Städte
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
 <li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
 <li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
 <li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
 </ul>
@@ -165,6 +165,8 @@ Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de:
 - **[Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)** · was zu deinem Training passt
 - **[ClassPass-Credits erklärt](/de/classpass-credits/)** · mehr Kurse aus deinem Abo
 - **[Dein erstes Training](/de/erstes-training/)** · was du mitnimmst
+- **[Sport im Studium](/de/sport-im-studium/)** · günstig und flexibel
+- **[Essen und Trinken rund ums Training](/de/essen-und-trinken-rund-ums-training/)** · einfach und unkompliziert
 - **[McFit kündigen](/de/mcfit-kuendigen/)** · Fristen und Alternativen
 - **[Fitness First kündigen](/de/fitness-first-kuendigen/)** · Fristen, Pause und Alternativen
 - **[Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/)** · was gilt und was du tun kannst

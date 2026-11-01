@@ -1,7 +1,7 @@
 ---
 title: "Basic-Fit : formules, Flex sans engagement et prix"
 path: "/fr/basic-fit/"
-description: "Tout sur Basic-Fit en France : plus de 300 clubs, formules Comfort, Premium et Ultimate, abonnement d’un an ou Flex sans engagement, frais d’inscription et résiliation."
+description: "Tout sur Basic-Fit en France : plus de 300 clubs, Comfort, Premium et Ultimate, abonnement d’un an ou Flex sans engagement, frais et résiliation."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

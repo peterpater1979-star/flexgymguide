@@ -1,7 +1,8 @@
 ---
-title: "Flexible fitness in Newcastle: ClassPass and The Gym Group"
+title: "Flexible fitness in Newcastle"
+seoTitle: "ClassPass Newcastle: flexible fitness without a contract"
 path: "/uk/newcastle/"
-description: "Don't want to be tied to one gym? In Newcastle you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you."
+description: "Not keen on being tied to one gym? In Newcastle, use a fitness pass at studios across the city or join a low-cost gym without a contract."
 lang: en
 land: uk
 byline: "Updated October 2026"

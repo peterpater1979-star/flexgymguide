@@ -60,9 +60,11 @@ SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa: Helsingiss�
 
 ClassPassilla on yhteistyöstudioita useissa kaupungeissa, muun muassa:
 
-- [Helsinki](/fi/helsinki/)
-- [Espoo](/fi/espoo/)
-- [Turku](/fi/turku/)
+<ul class="stedenlijst">
+<li><a href="/fi/helsinki/"><strong>Helsinki</strong></a> <span class="klein">ClassPass · ELIXIA</span></li>
+<li><a href="/fi/espoo/"><strong>Espoo</strong></a> <span class="klein">ClassPass · ELIXIA</span></li>
+<li><a href="/fi/turku/"><strong>Turku</strong></a> <span class="klein">ClassPass · ELIXIA</span></li>
+</ul>
 
 Sovelluksesta näet, mitkä lähistön studiot ja kuntosalit ovat mukana.
 
@@ -127,6 +129,8 @@ Nämä linkit vievät suoraan Amazon.de-sivustolle, joka toimittaa myös Suomeen
 - **[Treenipassi vai sali?](/fi/treenipassi-vai-salijasenyys/)** · mikä sopii sinulle
 - **[ClassPass-krediitit selitettynä](/fi/classpass-krediitit/)** · enemmän tunteja tilauksesta
 - **[Ensimmäinen tuntisi](/fi/ensimmainen-tunti/)** · mitä ottaa mukaan
+- **[Liikunta opiskelijana](/fi/opiskelijaliikunta/)** · edullisesti ja joustavasti
+- **[Syöminen ja juominen treenin ympärillä](/fi/syominen-ja-juominen-treenin-ymparilla/)** · helposti
 
 ## Usein kysyttyä
 

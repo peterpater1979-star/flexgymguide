@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Amsterdam: studio's per buurt en per sport"
 path: "/nl/classpass-amsterdam/"
-description: "Waar sport je met ClassPass in Amsterdam? Een overzicht van studio's per buurt en per sport, van pilates, yoga en spinning tot HIIT, boksen, dans, open gym en wellness."
+description: "ClassPass in Amsterdam: studio's per buurt en per sport, van pilates, yoga en spinning tot HIIT, boksen, dans, open gym en wellness."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"

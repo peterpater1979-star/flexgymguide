@@ -1,7 +1,8 @@
 ---
 title: "Sportpass oder Fitnessstudio-Mitgliedschaft? Was zu deinem Training passt"
+seoTitle: "Sportpass oder Fitnessstudio-Mitgliedschaft?"
 path: "/de/sportpass-oder-mitgliedschaft/"
-description: "Ein Sportpass wie ClassPass oder eine Mitgliedschaft bei einer Fitnessstudiokette wie Fitness First? So funktioniert beides, für wen es passt und drei Fragen für deine Wahl."
+description: "Ein Sportpass wie ClassPass oder eine Mitgliedschaft bei einer Fitnesskette? So funktioniert beides, für wen es passt und drei Fragen für deine Wahl."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"

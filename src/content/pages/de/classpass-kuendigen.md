@@ -1,5 +1,6 @@
 ---
 title: "ClassPass kündigen oder pausieren: so geht's und das passiert mit deinen Credits"
+seoTitle: "ClassPass kündigen oder pausieren: so geht's"
 path: "/de/classpass-kuendigen/"
 description: "So kündigst du ClassPass in der App oder auf der Website, wann du es am besten tust, ob du stattdessen pausieren kannst und was mit deinen Credits passiert."
 lang: de

@@ -1,7 +1,8 @@
 ---
 title: "Comer y beber antes y después de entrenar: fácil y sin complicaciones"
+seoTitle: "Comer y beber antes y después de entrenar"
 path: "/es/comer-y-beber-al-entrenar/"
-description: "¿Qué bebes y qué comes antes y después de una clase o del gimnasio? Agua, un pequeño tentempié y, si quieres, proteína en polvo: consejos prácticos sin grandes promesas."
+description: "¿Qué bebes y comes antes y después de entrenar? Agua, un pequeño tentempié y, si quieres, proteína en polvo: consejos prácticos sin grandes promesas."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

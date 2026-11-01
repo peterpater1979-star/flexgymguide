@@ -1,6 +1,7 @@
 ---
 title: "ClassPass en France : fonctionnement, crédits et résiliation"
 path: "/fr/classpass/"
+zoekwoorden: "class pass classpass prix tarif tarifs coût combien abonnement pass sport"
 description: "Qu’est-ce que ClassPass, comment fonctionnent les crédits et comment résilier ? Tout sur le pass sport en France."
 lang: fr
 land: fr

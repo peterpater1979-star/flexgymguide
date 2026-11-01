@@ -1,5 +1,6 @@
 ---
 title: "ClassPass på reise: slik trener du i en annen by eller et annet land"
+seoTitle: "ClassPass på reise: tren i en annen by eller et annet land"
 path: "/no/classpass-pa-reise/"
 description: "Slik bruker du ClassPass på ferie eller jobbreise, i hvilke land det fungerer, hva som er annerledes med kreditter og avbestilling, og tips for turen."
 lang: nb

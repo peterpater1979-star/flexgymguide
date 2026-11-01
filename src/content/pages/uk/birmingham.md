@@ -1,7 +1,8 @@
 ---
-title: "Flexible fitness in Birmingham: ClassPass and The Gym Group"
+title: "Flexible fitness in Birmingham"
+seoTitle: "ClassPass Birmingham: flexible fitness without a contract"
 path: "/uk/birmingham/"
-description: "Don't want to be tied to one gym? In Birmingham you can join a low-cost gym without a contract, or use a fitness pass at studios in the city. Here's what suits you."
+description: "Not keen on being tied to one gym? In Birmingham, use a fitness pass at studios across the city or join a low-cost gym without a contract."
 lang: en
 land: uk
 byline: "Updated October 2026"

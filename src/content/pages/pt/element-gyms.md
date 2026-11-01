@@ -1,7 +1,7 @@
 ---
 title: "Element Gyms: planos, preços por semana e cancelamento"
 path: "/pt/element-gyms/"
-description: "Tudo sobre a Element Gyms em Portugal: planos Basic OP, Basic, Classic e Premium sem fidelização, preço por semana, taxa de inscrição, horário e como cancelar."
+description: "Tudo sobre a Element Gyms em Portugal: planos Basic OP, Basic, Classic e Premium sem fidelização, preço por semana, inscrição, horário e cancelamento."
 lang: pt
 land: pt
 byline: "Atualizado em novembro de 2026"

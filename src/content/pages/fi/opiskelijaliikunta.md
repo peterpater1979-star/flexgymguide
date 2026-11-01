@@ -1,7 +1,7 @@
 ---
 title: "Liikunta opiskelijana: edullisesti ja joustavasti"
 path: "/fi/opiskelijaliikunta/"
-description: "Mitä liikuntavaihtoehtoja sinulla on opiskelijana, mikä sopii millaiseen lukujärjestykseen, miksi ClassPassilla ei ole opiskelija-alennusta ja miten treenaat joustavasti ilman suuria kuluja."
+description: "Mitä liikuntavaihtoehtoja sinulla on opiskelijana, mikä sopii lukujärjestykseesi ja miten treenaat joustavasti ilman suuria kuluja."
 lang: fi
 land: fi
 byline: "Päivitetty lokakuussa 2026"
