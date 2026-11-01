@@ -79,7 +79,9 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 ### Where
 
-City centre, Portobello, Rathmines, Ranelagh, Ballsbridge, Clontarf and Sandyford. Mostly yoga and Pilates, also in Dún Laoghaire, Blackrock, Malahide and Swords.
+City centre, Portobello, Rathmines, Ranelagh, Ballsbridge, Clontarf and Sandyford. Mostly yoga and Pilates, also in Dún Laoghaire, Blackrock, Malahide and Swords. See ClassPass in Dublin for studios by area and type of workout.
+
+[See the studios in Dublin by area and type of workout.](/ie/classpass-dublin/)
 
 ### What you get
 
