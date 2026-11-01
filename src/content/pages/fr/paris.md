@@ -107,7 +107,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une très grande offre dans toute la ville : du Pilates, du Lagree, de la barre et du yoga jusqu’au HIIT, à la boxe, au cycling et à la danse. Les studios par quartier et par sport sont sur [ClassPass à Paris](/fr/classpass-paris/).
+Une très grande offre dans toute la ville : du Pilates, du Lagree, de la barre et du yoga jusqu’au HIIT, à la boxe, au cycling et à la danse.
 
 [Voir les studios à Paris par quartier et par sport](/fr/classpass-paris/)
 
