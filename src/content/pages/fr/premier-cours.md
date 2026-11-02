@@ -69,7 +69,7 @@ Des chaussures à semelle plate et ferme pour les squats et les levées. Une ser
 
 <h2 id="equipement">Il te manque quelque chose ?</h2>
 
-Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn, en français :
+Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
 
 <ul class="spullen">
 <li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-premier-cours">Vêtements de sport femme</a></li>

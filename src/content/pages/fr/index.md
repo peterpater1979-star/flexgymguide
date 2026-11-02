@@ -190,7 +190,7 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 
 <h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
 
-Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn, en français :
+Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
 
 <ul class="spullen">
 <li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-index">Vêtements de sport femme</a></li>
