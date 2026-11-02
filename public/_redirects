@@ -419,6 +419,17 @@
 /go/amazon-de-sportschuhe-damen/  https://www.amazon.de/s?k=sportschuhe+damen&tag=flexgymguide0c-21  302
 /go/amazon-de-sportschuhe-herren/  https://www.amazon.de/s?k=sportschuhe+herren&tag=flexgymguide0c-21  302
 
+# Decathlon Ierland via Awin (awinmid 37550), goedgekeurd 2 nov 2026, commissie 1,5%.
+# Label in clickref (fgg-ie-[pagina]); ued = zoekpagina op decathlon.ie. [AWIN-ID] = publisher-ID van Peter.
+/go/decathlon-ie-sportswear-women/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=[AWIN-ID]&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsearch%3FNtt%3Dwomens%2Bsportswear  302
+/go/decathlon-ie-sportswear-men/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=[AWIN-ID]&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsearch%3FNtt%3Dmens%2Bsportswear  302
+/go/decathlon-ie-training-shoes-women/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=[AWIN-ID]&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsearch%3FNtt%3Dwomens%2Btraining%2Bshoes  302
+/go/decathlon-ie-training-shoes-men/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=[AWIN-ID]&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsearch%3FNtt%3Dmens%2Btraining%2Bshoes  302
+/go/decathlon-ie-water-bottle/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=[AWIN-ID]&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsearch%3FNtt%3Dwater%2Bbottle  302
+/go/decathlon-ie-towel/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=[AWIN-ID]&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsearch%3FNtt%3Dgym%2Btowel  302
+/go/decathlon-ie-padlock/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=[AWIN-ID]&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsearch%3FNtt%3Dpadlock  302
+/go/decathlon-ie-shaker/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=[AWIN-ID]&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsearch%3FNtt%3Dprotein%2Bshaker  302
+
 # Netlify-adres en www naar het hoofddomein
 https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!
 

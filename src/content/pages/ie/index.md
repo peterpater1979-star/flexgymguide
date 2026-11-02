@@ -108,20 +108,18 @@ You can change, pause or cancel your plan at any time.
 
 <h2 id="spullen">Need anything for the gym?</h2>
 
-Amazon.de also delivers to Ireland. These links take you straight to Amazon.de; you can switch the site to English at the top of the page.
+Decathlon has an Irish webshop in euro, with delivery in Ireland. These links take you straight to decathlon.ie.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportswear for women</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportswear for men</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Training shoes for women</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Training shoes for men</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Water bottle</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Gym towel</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Locker padlock</a></li>
-<li class="i-fles"><a href="/go/amazon-de-shaker/">Protein shaker</a></li>
+<li class="i-kleding"><a href="/go/decathlon-ie-sportswear-women/">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/decathlon-ie-sportswear-men/">Sportswear for men</a></li>
+<li class="i-schoen"><a href="/go/decathlon-ie-training-shoes-women/">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/decathlon-ie-training-shoes-men/">Training shoes for men</a></li>
+<li class="i-fles"><a href="/go/decathlon-ie-water-bottle/">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/decathlon-ie-towel/">Gym towel</a></li>
+<li class="i-slot"><a href="/go/decathlon-ie-padlock/">Locker padlock</a></li>
+<li class="i-fles"><a href="/go/decathlon-ie-shaker/">Protein shaker</a></li>
 </ul>
-
-<p class="klein">As an Amazon Associate we earn from qualifying purchases. The price stays the same for you.</p>
 
 <h2 id="gidsen">Guides</h2>
 
