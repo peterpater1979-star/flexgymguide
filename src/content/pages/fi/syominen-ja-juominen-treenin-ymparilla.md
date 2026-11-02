@@ -62,7 +62,7 @@ Kun valitset, katso:
 <li class="i-fles"><a href="/go/amazon-de-proteinriegel/">Proteiinipatukat</a></li>
 </ul>
 
-<p class="klein">Linkit vievät Amazon.de-sivustolle, joka toimittaa myös Suomeen. Amazon-kumppanina saamme tuloja ehdot täyttävistä ostoksista. Hinta on sinulle sama.</p>
+<p class="klein commissie">Linkit vievät Amazon.de-sivustolle, joka toimittaa myös Suomeen. Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos! Amazon-kumppanina saamme tuloja ehdot täyttävistä ostoksista.</p>
 
 <h2 id="laukku">Lyhyt lista laukkuun</h2>
 

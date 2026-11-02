@@ -61,7 +61,7 @@ När du väljer, titta på:
 <li class="i-fles"><a href="/go/amazon-de-proteinriegel/">Proteinbars</a></li>
 </ul>
 
-<p class="klein">Länkarna går till Amazon.de, som också levererar till Sverige. Som Amazon-partner tjänar vi på kvalificerade köp. Priset är detsamma för dig.</p>
+<p class="klein commissie">Länkarna går till Amazon.de, som också levererar till Sverige. Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack! Som Amazon-partner tjänar vi på kvalificerade köp.</p>
 
 <h2 id="vaska">Kort lista för väskan</h2>
 

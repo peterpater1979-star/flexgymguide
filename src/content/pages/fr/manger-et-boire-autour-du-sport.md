@@ -61,7 +61,7 @@ Au moment de choisir, regarde :
 <li class="i-fles"><a href="/go/amazon-de-shaker/">Shaker (Amazon.de)</a></li>
 </ul>
 
-<p class="klein">Ces liens mènent à Traininn, la boutique de fitness de Tradeinn, et à Amazon.de (en allemand, tu peux choisir l’anglais en haut de la page). Nous touchons une commission sur les achats faits via ces liens. En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Le prix reste le même pour toi.</p>
+<p class="klein commissie">Ces liens mènent à Traininn, la boutique de fitness de Tradeinn, et à Amazon.de (en allemand, tu peux choisir l’anglais en haut de la page). Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit ! En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises.</p>
 
 <h2 id="sac">Petite liste pour ton sac</h2>
 

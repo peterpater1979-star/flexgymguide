@@ -84,7 +84,7 @@ De här länkarna tar dig direkt till Amazon.de, som också levererar till Sveri
 <li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Boxningshandskar</a></li>
 </ul>
 
-<p class="klein">Som Amazon-partner tjänar vi på kvalificerade köp. Priset är detsamma för dig.</p>
+<p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack! Som Amazon-partner tjänar vi på kvalificerade köp.</p>
 
 <h2 id="testa">Testa flera studior</h2>
 

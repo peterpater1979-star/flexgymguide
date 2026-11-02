@@ -139,7 +139,7 @@ Mis je nog iets? Via deze links zoek je direct bij Amazon.nl, dat ook naar Belgi
 <li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
 </ul>
 
-<p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
 
 <h2 id="gidsen">Gidsen</h2>
 

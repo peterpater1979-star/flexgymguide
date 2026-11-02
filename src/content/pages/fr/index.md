@@ -202,7 +202,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 <li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-index">Cadenas pour le casier</a></li>
 </ul>
 
-<p class="klein">Nous touchons une commission sur les achats faits via ces liens. Le prix reste le même pour toi.</p>
+<p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
 
 <h2 id="gidsen">Guides</h2>
 

@@ -84,7 +84,7 @@ Disse links fører dig direkte til Amazon.de, som også leverer til Danmark. Sid
 <li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Boksehandsker</a></li>
 </ul>
 
-<p class="klein">Som Amazon-partner tjener vi på kvalificerede køb. Prisen er den samme for dig.</p>
+<p class="klein commissie">Køber du via disse links, får vi en lille provision. Du betaler ikke mere, og guiden forbliver gratis. Tak! Som Amazon-partner tjener vi på kvalificerede køb.</p>
 
 <h2 id="proev">Prøv flere studier</h2>
 

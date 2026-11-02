@@ -63,7 +63,7 @@ Mit ein paar günstigen Sachen trainierst du auch in deinem Zimmer, zum Beispiel
 <li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
 </ul>
 
-<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 <h2 id="tips">Tipps</h2>
 

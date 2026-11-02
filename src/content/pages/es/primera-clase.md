@@ -83,7 +83,7 @@ Calzado de suela plana y firme para sentadillas y levantamientos. Una toalla par
 <li class="i-handschoen"><a href="/go/traininn-es-handschoenen/?ws=fgg-es-primera-clase">Guantes de boxeo</a></li>
 </ul>
 
-<p class="klein">Recibimos una comisión por las compras hechas a través de estos enlaces. Para ti el precio es el mismo.</p>
+<p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>
 
 <h2 id="probar">Probar varios estudios</h2>
 

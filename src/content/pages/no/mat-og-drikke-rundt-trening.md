@@ -61,7 +61,7 @@ Når du velger, se på:
 <li class="i-fles"><a href="/go/amazon-de-proteinriegel/">Proteinbarer</a></li>
 </ul>
 
-<p class="klein">Lenkene går til Amazon.de, som også leverer til Norge. Som Amazon-partner tjener vi på kvalifiserte kjøp. Prisen er den samme for deg.</p>
+<p class="klein commissie">Lenkene går til Amazon.de, som også leverer til Norge. Kjøper du via disse lenkene, får vi en liten provisjon. Du betaler ikke mer, og guiden forblir gratis. Takk! Som Amazon-partner tjener vi på kvalifiserte kjøp.</p>
 
 <h2 id="bag">Kort liste til bagen</h2>
 

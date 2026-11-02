@@ -84,7 +84,7 @@ Nämä linkit vievät suoraan Amazon.de-sivustolle, joka toimittaa myös Suomeen
 <li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Nyrkkeilyhanskat</a></li>
 </ul>
 
-<p class="klein">Amazon-kumppanina saamme tuloja ehdot täyttävistä ostoksista. Hinta on sinulle sama.</p>
+<p class="klein commissie">Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos! Amazon-kumppanina saamme tuloja ehdot täyttävistä ostoksista.</p>
 
 <h2 id="kokeile">Kokeile useaa studiota</h2>
 

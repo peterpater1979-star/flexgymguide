@@ -122,6 +122,8 @@ Decathlon has an Irish webshop in euro, with delivery in Ireland. These links ta
 <li class="i-mat"><a href="/go/decathlon-ie-yoga-mat/">Yoga mat</a></li>
 </ul>
 
+<p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
+
 <h2 id="gidsen">Guides</h2>
 
 - **[Gym pass or gym membership?](/guides/gym-pass-or-membership/)** · what suits how you train

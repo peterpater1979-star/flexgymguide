@@ -65,7 +65,7 @@ Leve e pequeno, para caber facilmente na bagagem. Estes links levam-te à Traini
 <li class="i-band"><a href="/go/traininn-pt-banden/?ws=fgg-pt-classpass-em-viagem">Bandas elásticas</a></li>
 </ul>
 
-<p class="klein">Recebemos uma comissão pelas compras feitas através destes links. Para ti, o preço é o mesmo.</p>
+<p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>
 
 <h2 id="checklist">Lista de verificação</h2>
 

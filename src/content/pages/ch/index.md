@@ -145,7 +145,7 @@ Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de, das auch
 <li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
 </ul>
 
-<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 <h2 id="gidsen">Ratgeber</h2>
 

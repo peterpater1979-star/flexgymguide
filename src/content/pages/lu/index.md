@@ -84,7 +84,7 @@ There is no Amazon store in Luxembourg, but Amazon.de delivers there. These link
 <li class="i-fles"><a href="/go/amazon-de-shaker/">Protein shaker</a></li>
 </ul>
 
-<p class="klein">As an Amazon Associate we earn from qualifying purchases. The price stays the same for you.</p>
+<p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks! As an Amazon Associate we earn from qualifying purchases.</p>
 
 <h2 id="gidsen">Guides</h2>
 

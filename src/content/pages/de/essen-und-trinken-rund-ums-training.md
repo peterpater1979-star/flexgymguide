@@ -62,7 +62,7 @@ Achte bei der Auswahl auf:
 <li class="i-fles"><a href="/go/amazon-de-proteinriegel/">Proteinriegel</a></li>
 </ul>
 
-<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 <h2 id="tasche">Kurze Liste für deine Tasche</h2>
 

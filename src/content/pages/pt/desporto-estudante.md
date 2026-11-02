@@ -58,7 +58,7 @@ Com algumas coisas baratas também podes treinar no teu quarto, por exemplo nos 
 <li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-desporto-estudante">Garrafa de água</a></li>
 </ul>
 
-<p class="klein">Recebemos uma comissão pelas compras feitas através destes links. Para ti, o preço é o mesmo.</p>
+<p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>
 
 <h2 id="tips">Dicas</h2>
 

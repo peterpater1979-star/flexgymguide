@@ -138,7 +138,7 @@ Disse lenkene tar deg direkte til Amazon.de, som også leverer til Norge. Siden 
 <li class="i-slot"><a href="/go/amazon-de-schloss/">Hengelås til skapet</a></li>
 </ul>
 
-<p class="klein">Som Amazon-partner tjener vi på kvalifiserte kjøp. Prisen er den samme for deg.</p>
+<p class="klein commissie">Kjøper du via disse lenkene, får vi en liten provisjon. Du betaler ikke mer, og guiden forblir gratis. Takk! Som Amazon-partner tjener vi på kvalifiserte kjøp.</p>
 
 <h2 id="gidsen">Guider</h2>
 
