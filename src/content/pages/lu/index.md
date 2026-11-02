@@ -71,20 +71,20 @@ No registration fee at the moment.
 
 <h2 id="spullen">Need anything for the gym?</h2>
 
-There is no Amazon store in Luxembourg, but Amazon.de delivers there. These links take you straight to Amazon.de; you can switch the site to English at the top of the page.
+These links take you straight to Traininn, the fitness shop of Tradeinn, which also delivers to Luxembourg.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportswear for women</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportswear for men</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Training shoes for women</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Training shoes for men</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Water bottle</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Gym towel</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Locker padlock</a></li>
-<li class="i-fles"><a href="/go/amazon-de-shaker/">Protein shaker</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-lu-index">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-lu-index">Sportswear for men</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-lu-index">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-lu-index">Training shoes for men</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-lu-index">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-lu-index">Gym towel</a></li>
+<li class="i-slot"><a href="/go/bricoinn-en-cadenas/?ws=fgg-lu-index">Locker padlock</a></li>
+<li class="i-fles"><a href="/go/traininn-en-shaker/?ws=fgg-lu-index">Protein shaker</a></li>
 </ul>
 
-<p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks! As an Amazon Associate we earn from qualifying purchases.</p>
+<p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
 
 <h2 id="gidsen">Guides</h2>
 

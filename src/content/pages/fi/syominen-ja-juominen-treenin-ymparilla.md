@@ -23,8 +23,7 @@ Tunnin mittaiselle tunnille tai tavalliseen salitreeniin riittää yleensä vesi
 - **Urheilujuomat** sopivat pitkiin tai todella raskaisiin treeneihin. Tavallisella tunnilla vesi riittää.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Juomapullo</a></li>
-<li class="i-fles"><a href="/go/amazon-de-faltbare-flasche/">Kokoontaitettava juomapullo</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-syominen-ja-juominen-treenin-ymparilla">Juomapullo</a></li>
 </ul>
 
 <h2 id="ennen">Ennen treeniä: pientä ja kevyttä</h2>
@@ -57,12 +56,11 @@ Kun valitset, katso:
 - **Vegaaninen tai laktoositon?** Saatavilla on myös herne- tai soijapohjaisia vaihtoehtoja.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-de-proteinpulver/">Proteiinijauhe</a></li>
-<li class="i-fles"><a href="/go/amazon-de-shaker/">Shakeri</a></li>
-<li class="i-fles"><a href="/go/amazon-de-proteinriegel/">Proteiinipatukat</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-voeding/?ws=fgg-fi-syominen-ja-juominen-treenin-ymparilla">Proteiinijauhe</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-shaker/?ws=fgg-fi-syominen-ja-juominen-treenin-ymparilla">Shakeri</a></li>
 </ul>
 
-<p class="klein commissie">Linkit vievät Amazon.de-sivustolle, joka toimittaa myös Suomeen. Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos! Amazon-kumppanina saamme tuloja ehdot täyttävistä ostoksista.</p>
+<p class="klein commissie">Linkit vievät Traininniin, Tradeinnin treenikauppaan. Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos!</p>
 
 <h2 id="laukku">Lyhyt lista laukkuun</h2>
 

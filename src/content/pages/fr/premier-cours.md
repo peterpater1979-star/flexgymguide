@@ -81,15 +81,10 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 <li class="i-bandage"><a href="/go/traininn-fr-bandages/?ws=fgg-fr-premier-cours">Bandes de boxe</a></li>
 <li class="i-handschoen"><a href="/go/traininn-fr-vechtsport/?ws=fgg-fr-premier-cours">Gants et matériel de boxe</a></li>
 <li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-premier-cours">Cadenas pour le casier</a></li>
+<li class="i-sok"><a href="/go/traininn-fr-yogasokken/?ws=fgg-fr-premier-cours">Chaussettes antidérapantes pour yoga et pilates</a></li>
 </ul>
 
-Sur Amazon.de (site en allemand, tu peux choisir l’anglais en haut de la page) :
-
-<ul class="spullen">
-<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Chaussettes antidérapantes pour yoga et pilates</a></li>
-</ul>
-
-<p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit ! En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises.</p>
+<p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
 
 <h2 id="essayer">Essayer plusieurs studios</h2>
 

@@ -69,22 +69,22 @@ Skor med platt, stadig sula för knäböj och lyft. En handduk till bänkarna oc
 
 <h2 id="utrustning">Saknar du något?</h2>
 
-De här länkarna tar dig direkt till Amazon.de, som också levererar till Sverige. Sidan är på tyska, men du kan välja engelska högst upp på sidan.
+De här länkarna tar dig direkt till Traininn, Tradeinns träningsbutik.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Träningskläder dam</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Träningskläder herr</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Träningsskor dam</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Träningsskor herr</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Vattenflaska</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Träningshandduk</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Hänglås till skåpet</a></li>
-<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Halkfria strumpor för yoga och pilates</a></li>
-<li class="i-bandage"><a href="/go/amazon-de-boxbandagen/">Boxningslindor</a></li>
-<li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Boxningshandskar</a></li>
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-dames/?ws=fgg-se-ditt-forsta-pass">Träningskläder dam</a></li>
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-heren/?ws=fgg-se-ditt-forsta-pass">Träningskläder herr</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-dames/?ws=fgg-se-ditt-forsta-pass">Träningsskor dam</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-heren/?ws=fgg-se-ditt-forsta-pass">Träningsskor herr</a></li>
+<li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-ditt-forsta-pass">Vattenflaska</a></li>
+<li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-ditt-forsta-pass">Träningshandduk</a></li>
+<li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-ditt-forsta-pass">Hänglås till skåpet</a></li>
+<li class="i-sok"><a href="/go/traininn-sv-yogasokken/?ws=fgg-se-ditt-forsta-pass">Halkfria strumpor för yoga och pilates</a></li>
+<li class="i-bandage"><a href="/go/traininn-sv-bandages/?ws=fgg-se-ditt-forsta-pass">Boxningslindor</a></li>
+<li class="i-handschoen"><a href="/go/traininn-sv-vechtsport/?ws=fgg-se-ditt-forsta-pass">Boxningshandskar</a></li>
 </ul>
 
-<p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack! Som Amazon-partner tjänar vi på kvalificerade köp.</p>
+<p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack!</p>
 
 <h2 id="testa">Testa flera studior</h2>
 

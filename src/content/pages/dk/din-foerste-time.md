@@ -69,22 +69,22 @@ Sko med en flad, fast sål til squats og løft. Et håndklæde til bænkene og t
 
 <h2 id="udstyr">Mangler du noget?</h2>
 
-Disse links fører dig direkte til Amazon.de, som også leverer til Danmark. Siden er på tysk, men du kan vælge engelsk øverst på siden.
+Disse links fører dig direkte til Traininn, fitnessbutikken hos Tradeinn.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Træningstøj til kvinder</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Træningstøj til mænd</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Træningssko til kvinder</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Træningssko til mænd</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Drikkedunk</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Træningshåndklæde</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Hængelås til skabet</a></li>
-<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Skridsikre sokker til yoga og pilates</a></li>
-<li class="i-bandage"><a href="/go/amazon-de-boxbandagen/">Boksebandager</a></li>
-<li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Boksehandsker</a></li>
+<li class="i-kleding"><a href="/go/traininn-da-kleding-dames/?ws=fgg-dk-din-foerste-time">Træningstøj til kvinder</a></li>
+<li class="i-kleding"><a href="/go/traininn-da-kleding-heren/?ws=fgg-dk-din-foerste-time">Træningstøj til mænd</a></li>
+<li class="i-schoen"><a href="/go/traininn-da-schoenen-dames/?ws=fgg-dk-din-foerste-time">Træningssko til kvinder</a></li>
+<li class="i-schoen"><a href="/go/traininn-da-schoenen-heren/?ws=fgg-dk-din-foerste-time">Træningssko til mænd</a></li>
+<li class="i-fles"><a href="/go/traininn-da-fles/?ws=fgg-dk-din-foerste-time">Drikkedunk</a></li>
+<li class="i-handdoek"><a href="/go/traininn-da-handdoek/?ws=fgg-dk-din-foerste-time">Træningshåndklæde</a></li>
+<li class="i-slot"><a href="/go/bricoinn-da-cadenas/?ws=fgg-dk-din-foerste-time">Hængelås til skabet</a></li>
+<li class="i-sok"><a href="/go/traininn-da-yogasokken/?ws=fgg-dk-din-foerste-time">Skridsikre sokker til yoga og pilates</a></li>
+<li class="i-bandage"><a href="/go/traininn-da-bandages/?ws=fgg-dk-din-foerste-time">Boksebandager</a></li>
+<li class="i-handschoen"><a href="/go/traininn-da-vechtsport/?ws=fgg-dk-din-foerste-time">Boksehandsker</a></li>
 </ul>
 
-<p class="klein commissie">Køber du via disse links, får vi en lille provision. Du betaler ikke mere, og guiden forbliver gratis. Tak! Som Amazon-partner tjener vi på kvalificerede køb.</p>
+<p class="klein commissie">Køber du via disse links, får vi en lille provision. Du betaler ikke mere, og guiden forbliver gratis. Tak!</p>
 
 <h2 id="proev">Prøv flere studier</h2>
 

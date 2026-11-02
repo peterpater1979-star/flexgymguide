@@ -69,22 +69,22 @@ Kengät, joissa on tasainen ja tukeva pohja kyykkyihin ja nostoihin. Pyyhe penke
 
 <h2 id="varusteet">Puuttuuko jotain?</h2>
 
-Nämä linkit vievät suoraan Amazon.de-sivustolle, joka toimittaa myös Suomeen. Sivusto on saksaksi, mutta voit vaihtaa kieleksi englannin sivun yläosasta.
+Nämä linkit vievät suoraan Traininniin, Tradeinnin treenikauppaan.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Treenivaatteet naisille</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Treenivaatteet miehille</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Treenikengät naisille</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Treenikengät miehille</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Juomapullo</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Treenipyyhe</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Lukko kaappiin</a></li>
-<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Liukumattomat sukat joogaan ja pilatekseen</a></li>
-<li class="i-bandage"><a href="/go/amazon-de-boxbandagen/">Nyrkkeilysiteet</a></li>
-<li class="i-handschoen"><a href="/go/amazon-de-boxhandschuhe/">Nyrkkeilyhanskat</a></li>
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-dames/?ws=fgg-fi-ensimmainen-tunti">Treenivaatteet naisille</a></li>
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-heren/?ws=fgg-fi-ensimmainen-tunti">Treenivaatteet miehille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-dames/?ws=fgg-fi-ensimmainen-tunti">Treenikengät naisille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-heren/?ws=fgg-fi-ensimmainen-tunti">Treenikengät miehille</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-ensimmainen-tunti">Juomapullo</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fi-handdoek/?ws=fgg-fi-ensimmainen-tunti">Treenipyyhe</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fi-cadenas/?ws=fgg-fi-ensimmainen-tunti">Lukko kaappiin</a></li>
+<li class="i-sok"><a href="/go/traininn-fi-yogasokken/?ws=fgg-fi-ensimmainen-tunti">Liukumattomat sukat joogaan ja pilatekseen</a></li>
+<li class="i-bandage"><a href="/go/traininn-fi-bandages/?ws=fgg-fi-ensimmainen-tunti">Nyrkkeilysiteet</a></li>
+<li class="i-handschoen"><a href="/go/traininn-fi-vechtsport/?ws=fgg-fi-ensimmainen-tunti">Nyrkkeilyhanskat</a></li>
 </ul>
 
-<p class="klein commissie">Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos! Amazon-kumppanina saamme tuloja ehdot täyttävistä ostoksista.</p>
+<p class="klein commissie">Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos!</p>
 
 <h2 id="kokeile">Kokeile useaa studiota</h2>
 

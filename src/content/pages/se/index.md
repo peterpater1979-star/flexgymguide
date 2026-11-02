@@ -128,19 +128,19 @@ Du kan ändra, pausa eller säga upp ditt abonnemang när som helst.
 
 <h2 id="spullen">Saknar du något till träningen?</h2>
 
-De här länkarna tar dig direkt till Amazon.de, som också levererar till Sverige. Sidan är på tyska, men du kan välja engelska högst upp på sidan.
+De här länkarna tar dig direkt till Traininn, Tradeinns träningsbutik.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Träningskläder dam</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Träningskläder herr</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Träningsskor dam</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Träningsskor herr</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Vattenflaska</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Träningshandduk</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Hänglås till skåpet</a></li>
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-dames/?ws=fgg-se-index">Träningskläder dam</a></li>
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-heren/?ws=fgg-se-index">Träningskläder herr</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-dames/?ws=fgg-se-index">Träningsskor dam</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-heren/?ws=fgg-se-index">Träningsskor herr</a></li>
+<li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-index">Vattenflaska</a></li>
+<li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-index">Träningshandduk</a></li>
+<li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-index">Hänglås till skåpet</a></li>
 </ul>
 
-<p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack! Som Amazon-partner tjänar vi på kvalificerade köp.</p>
+<p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack!</p>
 
 <h2 id="gidsen">Guider</h2>
 

@@ -22,8 +22,7 @@ Til et hold på en time eller en almindelig træning i fitnesscentret er vand so
 - **Sportsdrik** er til lange eller meget hårde træninger. Til et almindeligt hold er vand fint.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Drikkedunk</a></li>
-<li class="i-fles"><a href="/go/amazon-de-faltbare-flasche/">Sammenfoldelig drikkedunk</a></li>
+<li class="i-fles"><a href="/go/traininn-da-fles/?ws=fgg-dk-mad-og-drikke-omkring-traening">Drikkedunk</a></li>
 </ul>
 
 <h2 id="foer">Før træningen: lille og let</h2>
@@ -56,12 +55,11 @@ Når du vælger, så se på:
 - **Vegansk eller laktosefri?** Der findes også varianter med ærte- eller sojaprotein.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-de-proteinpulver/">Proteinpulver</a></li>
-<li class="i-fles"><a href="/go/amazon-de-shaker/">Shaker</a></li>
-<li class="i-fles"><a href="/go/amazon-de-proteinriegel/">Proteinbarer</a></li>
+<li class="i-fles"><a href="/go/traininn-da-voeding/?ws=fgg-dk-mad-og-drikke-omkring-traening">Proteinpulver</a></li>
+<li class="i-fles"><a href="/go/traininn-da-shaker/?ws=fgg-dk-mad-og-drikke-omkring-traening">Shaker</a></li>
 </ul>
 
-<p class="klein commissie">Linkene fører til Amazon.de, som også leverer til Danmark. Køber du via disse links, får vi en lille provision. Du betaler ikke mere, og guiden forbliver gratis. Tak! Som Amazon-partner tjener vi på kvalificerede køb.</p>
+<p class="klein commissie">Linkene fører til Traininn, fitnessbutikken hos Tradeinn. Køber du via disse links, får vi en lille provision. Du betaler ikke mere, og guiden forbliver gratis. Tak!</p>
 
 <h2 id="taske">Kort liste til tasken</h2>
 

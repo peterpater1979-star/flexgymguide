@@ -110,19 +110,19 @@ Voit muuttaa, keskeyttää tai irtisanoa jäsenyytesi milloin tahansa.
 
 <h2 id="spullen">Puuttuuko jotain treeneihin?</h2>
 
-Nämä linkit vievät suoraan Amazon.de-sivustolle, joka toimittaa myös Suomeen. Sivusto on saksaksi, mutta voit vaihtaa kieleksi englannin sivun yläosasta.
+Nämä linkit vievät suoraan Traininniin, Tradeinnin treenikauppaan.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Treenivaatteet naisille</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Treenivaatteet miehille</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Treenikengät naisille</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Treenikengät miehille</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Juomapullo</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Treenipyyhe</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Lukko kaappiin</a></li>
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-dames/?ws=fgg-fi-index">Treenivaatteet naisille</a></li>
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-heren/?ws=fgg-fi-index">Treenivaatteet miehille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-dames/?ws=fgg-fi-index">Treenikengät naisille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-heren/?ws=fgg-fi-index">Treenikengät miehille</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-index">Juomapullo</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fi-handdoek/?ws=fgg-fi-index">Treenipyyhe</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fi-cadenas/?ws=fgg-fi-index">Lukko kaappiin</a></li>
 </ul>
 
-<p class="klein commissie">Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos! Amazon-kumppanina saamme tuloja ehdot täyttävistä ostoksista.</p>
+<p class="klein commissie">Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos!</p>
 
 <h2 id="gidsen">Oppaat</h2>
 
