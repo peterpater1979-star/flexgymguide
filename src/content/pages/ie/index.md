@@ -116,7 +116,7 @@ Decathlon has an Irish webshop in euro, with delivery in Ireland. These links ta
 <li class="i-schoen"><a href="/go/decathlon-ie-training-shoes-women/">Training shoes for women</a></li>
 <li class="i-schoen"><a href="/go/decathlon-ie-training-shoes-men/">Training shoes for men</a></li>
 <li class="i-fles"><a href="/go/decathlon-ie-water-bottle/">Water bottle</a></li>
-<li class="i-handdoek"><a href="/go/decathlon-ie-towel/">Towel</a></li>
+<li class="i-handdoek"><a href="/go/decathlon-ie-towel/">Gym towel</a></li>
 <li class="i-slot"><a href="/go/decathlon-ie-padlock/">Locker padlock</a></li>
 <li class="i-fles"><a href="/go/decathlon-ie-shaker/">Protein shaker</a></li>
 <li class="i-mat"><a href="/go/decathlon-ie-yoga-mat/">Yoga mat</a></li>
