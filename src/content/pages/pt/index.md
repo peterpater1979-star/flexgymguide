@@ -150,7 +150,7 @@ Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de f
 <li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-index">Toalha de desporto</a></li>
 </ul>
 
-<p class="klein">Recebemos uma comissão pelas compras feitas através destes links. Para ti, o preço é o mesmo.</p>
+<p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>
 
 <h2 id="gidsen">Guias</h2>
 

@@ -58,7 +58,7 @@ With a few cheap items you can also train in your room, for example on days you 
 <li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-working-out-as-a-student">Water bottle</a></li>
 </ul>
 
-<p class="klein">We earn a commission on purchases made through these links. The price stays the same for you.</p>
+<p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
 
 <h2 id="tips">Tips</h2>
 

@@ -70,7 +70,7 @@ Met een paar goedkope spullen train je ook op je kamer, bijvoorbeeld op dagen da
 <li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
 </ul>
 
-<p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
 
 <h2 id="tips">Tips</h2>
 

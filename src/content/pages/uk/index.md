@@ -153,7 +153,7 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 <li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-uk-index">Gym towel</a></li>
 </ul>
 
-<p class="klein">We earn a commission on purchases made through these links. The price stays the same for you.</p>
+<p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
 
 <h2 id="gidsen">Guides</h2>
 

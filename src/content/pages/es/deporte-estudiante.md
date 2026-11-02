@@ -58,7 +58,7 @@ Con unas pocas cosas baratas también puedes entrenar en tu habitación, por eje
 <li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-deporte-estudiante">Botella de agua</a></li>
 </ul>
 
-<p class="klein">Recibimos una comisión por las compras hechas a través de estos enlaces. Para ti el precio es el mismo.</p>
+<p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>
 
 <h2 id="tips">Consejos</h2>
 

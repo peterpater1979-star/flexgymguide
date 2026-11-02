@@ -61,7 +61,7 @@ Let bij het kiezen op:
 <li class="i-fles"><a href="/go/amazon-nl-eiwitrepen/">Eiwitrepen</a></li>
 </ul>
 
-<p class="klein">Als Amazon-partner verdienen wij aan in aanmerking komende aankopen. Jij betaalt hetzelfde.</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
 
 <h2 id="tas">Kort lijstje voor in je tas</h2>
 

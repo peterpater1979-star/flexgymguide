@@ -22,8 +22,7 @@ Til en gruppetime på en time eller en vanlig økt på senteret holder det som r
 - **Sportsdrikk** er for lange eller veldig harde økter. Til en vanlig time går det fint med vann.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Drikkeflaske</a></li>
-<li class="i-fles"><a href="/go/amazon-de-faltbare-flasche/">Sammenleggbar drikkeflaske</a></li>
+<li class="i-fles"><a href="/go/traininn-no-fles/?ws=fgg-no-mat-og-drikke-rundt-trening">Drikkeflaske</a></li>
 </ul>
 
 <h2 id="for">Før treningen: lite og lett</h2>
@@ -56,12 +55,11 @@ Når du velger, se på:
 - **Vegansk eller laktosefritt?** Det finnes også varianter med erte- eller soyaprotein.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-de-proteinpulver/">Proteinpulver</a></li>
-<li class="i-fles"><a href="/go/amazon-de-shaker/">Shaker</a></li>
-<li class="i-fles"><a href="/go/amazon-de-proteinriegel/">Proteinbarer</a></li>
+<li class="i-fles"><a href="/go/traininn-no-voeding/?ws=fgg-no-mat-og-drikke-rundt-trening">Proteinpulver</a></li>
+<li class="i-fles"><a href="/go/traininn-no-shaker/?ws=fgg-no-mat-og-drikke-rundt-trening">Shaker</a></li>
 </ul>
 
-<p class="klein">Lenkene går til Amazon.de, som også leverer til Norge. Som Amazon-partner tjener vi på kvalifiserte kjøp. Prisen er den samme for deg.</p>
+<p class="klein commissie">Lenkene går til Traininn, treningsbutikken til Tradeinn. Kjøper du via disse lenkene, får vi en liten provisjon. Du betaler ikke mer, og guiden forblir gratis. Takk!</p>
 
 <h2 id="bag">Kort liste til bagen</h2>
 

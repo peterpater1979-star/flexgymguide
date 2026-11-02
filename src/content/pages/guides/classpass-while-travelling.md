@@ -65,7 +65,7 @@ Light and small, so it fits easily in your luggage. These links take you to Trai
 <li class="i-band"><a href="/go/traininn-en-banden/?ws=fgg-guides-classpass-while-travelling">Resistance bands</a></li>
 </ul>
 
-<p class="klein">We earn a commission on purchases made through these links. The price stays the same for you.</p>
+<p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
 
 <h2 id="checklist">Checklist</h2>
 

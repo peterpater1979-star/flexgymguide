@@ -64,7 +64,7 @@ Ligero y pequeño, para que quepa fácilmente en tu equipaje. Estos enlaces te l
 <li class="i-band"><a href="/go/traininn-es-banden/?ws=fgg-es-classpass-de-viaje">Bandas elásticas</a></li>
 </ul>
 
-<p class="klein">Recibimos una comisión por las compras hechas a través de estos enlaces. Para ti el precio es el mismo.</p>
+<p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>
 
 <h2 id="checklist">Lista de comprobación</h2>
 

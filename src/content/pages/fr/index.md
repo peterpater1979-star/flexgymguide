@@ -190,7 +190,7 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 
 <h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
 
-Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn, en français :
+Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
 
 <ul class="spullen">
 <li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-index">Vêtements de sport femme</a></li>
@@ -199,15 +199,10 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 <li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-index">Chaussures de sport homme</a></li>
 <li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-index">Gourde</a></li>
 <li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-index">Serviette de sport</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-index">Cadenas pour le casier</a></li>
 </ul>
 
-Sur Amazon.de (site en allemand, tu peux choisir l’anglais en haut de la page) :
-
-<ul class="spullen">
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Cadenas pour le casier</a></li>
-</ul>
-
-<p class="klein">Nous touchons une commission sur les achats faits via ces liens. En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises. Le prix reste le même pour toi.</p>
+<p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
 
 <h2 id="gidsen">Guides</h2>
 

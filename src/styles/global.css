@@ -31,6 +31,7 @@ main { padding-top: 0; }
 .prose li { margin: .25rem 0; }
 .kicker { text-transform: uppercase; letter-spacing: .12em; font-size: .75rem; font-weight: 600; color: var(--muted); margin: 0; }
 .klein { font-size: .88rem; color: var(--muted); }
+.commissie { font-size: .75rem; line-height: 1.45; opacity: .75; }
 .meta { margin-top: 0; }
 
 /* Knoppen */

@@ -58,7 +58,7 @@ Uma garrafa, proteína em pó ou barras? Estes links levam-te à Traininn, a loj
 <li class="i-fles"><a href="/go/traininn-pt-voeding/?ws=fgg-pt-comer-e-beber-no-treino">Proteína e nutrição desportiva</a></li>
 </ul>
 
-<p class="klein">Recebemos uma comissão pelas compras feitas através destes links. Para ti, o preço é o mesmo.</p>
+<p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>
 
 <h2 id="mochila">Lista rápida para a mochila</h2>
 

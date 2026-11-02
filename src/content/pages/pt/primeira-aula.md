@@ -83,7 +83,7 @@ Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de f
 <li class="i-handschoen"><a href="/go/traininn-pt-handschoenen/?ws=fgg-pt-primeira-aula">Luvas de boxe</a></li>
 </ul>
 
-<p class="klein">Recebemos uma comissão pelas compras feitas através destes links. Para ti, o preço é o mesmo.</p>
+<p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>
 
 <h2 id="experimentar">Experimentar vários estúdios</h2>
 

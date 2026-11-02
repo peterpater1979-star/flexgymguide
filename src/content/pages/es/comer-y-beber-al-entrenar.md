@@ -58,7 +58,7 @@ Al elegir, fíjate en:
 <li class="i-fles"><a href="/go/traininn-es-voeding/?ws=fgg-es-comer-y-beber-al-entrenar">Proteína y nutrición deportiva</a></li>
 </ul>
 
-<p class="klein">Recibimos una comisión por las compras hechas a través de estos enlaces. Para ti el precio es el mismo.</p>
+<p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>
 
 <h2 id="bolsa">Lista rápida para tu bolsa</h2>
 

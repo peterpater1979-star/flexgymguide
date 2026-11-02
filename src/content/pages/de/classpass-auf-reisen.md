@@ -65,7 +65,7 @@ Leicht und klein, damit es gut ins Gepäck passt. Über diese Links suchst du be
 <li class="i-band"><a href="/go/amazon-de-widerstandsbaender/">Widerstandsbänder fürs Hotelzimmer</a></li>
 </ul>
 
-<p class="klein">Als Amazon-Partner verdienen wir an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 <h2 id="checklist">Checkliste</h2>
 
