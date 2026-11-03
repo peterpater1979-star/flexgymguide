@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import menu from '../data/menu.json';
 const { land = 'global', lang = 'en' } = Astro.props;
 type L = 'nl' | 'de' | 'en' | 'fr' | 'es' | 'pt' | 'da' | 'sv' | 'nb' | 'fi';
@@ -17,11 +18,29 @@ const zoek = {
   nb: { knop: 'Søk', veld: 'Søk etter en by eller et treningssenter', geen: 'Ingen treff. Prøv en annen by eller et annet navn.', sluit: 'Lukk' },
   fi: { knop: 'Haku', veld: 'Hae kaupunkia tai kuntosalia', geen: 'Ei tuloksia. Kokeile toista kaupunkia tai nimeä.', sluit: 'Sulje' },
 }[lang as L];
+// Melding als een plaats (nog) niet op de site staat, met verwijzing naar de landpagina en de ClassPass-pagina van het land.
+const onbekend = {
+  nl: { zin: 'We hebben nog geen pagina over {p}.', verder: 'Kijk verder bij:', wel: 'Wel gevonden:' },
+  de: { zin: 'Zu {p} haben wir noch keine Seite.', verder: 'Schau hier weiter:', wel: 'Das haben wir gefunden:' },
+  en: { zin: "We don't have a page about {p} yet.", verder: 'Try these instead:', wel: 'What we did find:' },
+  fr: { zin: "Nous n'avons pas encore de page sur {p}.", verder: 'Voir plutôt :', wel: 'Ce que nous avons trouvé :' },
+  es: { zin: 'Todavía no tenemos una página sobre {p}.', verder: 'Mira aquí:', wel: 'Esto sí lo hemos encontrado:' },
+  pt: { zin: 'Ainda não temos uma página sobre {p}.', verder: 'Veja aqui:', wel: 'Isto encontrámos:' },
+  da: { zin: 'Vi har endnu ingen side om {p}.', verder: 'Kig her i stedet:', wel: 'Det fandt vi:' },
+  sv: { zin: 'Vi har ingen sida om {p} än.', verder: 'Titta här i stället:', wel: 'Det här hittade vi:' },
+  nb: { zin: 'Vi har ingen side om {p} ennå.', verder: 'Se her i stedet:', wel: 'Dette fant vi:' },
+  fi: { zin: 'Meillä ei ole vielä sivua haulle {p}.', verder: 'Katso sen sijaan:', wel: 'Löysimme nämä:' },
+}[lang as L];
 // Landnamen voor het labeltje bij elk zoekresultaat.
 const landNamen = Object.fromEntries(menu.main.map((m) => [m.land, m.label]));
 const huidig = menu.main.find((m) => m.land === land);
 // Korte landnaam op smalle schermen, zodat de kop op één regel past.
 const kort = ({ 'United Kingdom': 'UK' } as Record<string, string>)[huidig?.label ?? ''];
+// Verwijzingen in de melding: eigen land + ClassPass in dat land; op de homepage en gidsen de landenlijst + de ClassPass-gids.
+const paden = new Set((await getCollection('pages', (p) => !p.data.draft && !p.data.noindex)).map((p) => p.data.path));
+const verwijzingen = huidig && land !== 'guides'
+  ? [{ label: huidig.label, href: huidig.href }, ...(paden.has(`/${land}/classpass/`) ? [{ label: 'ClassPass', href: `/${land}/classpass/` }] : [])]
+  : [{ label: landenLabel, href: '#landen' }, { label: 'ClassPass', href: '/guides/how-classpass-works/' }];
 ---
 <header>
   <div class="wrap bar">
@@ -34,7 +53,7 @@ const kort = ({ 'United Kingdom': 'UK' } as Record<string, string>)[huidig?.labe
       </ul>
     </nav>
   </div>
-  <div id="zoeken" class="zoek" hidden data-land={land} data-landen={JSON.stringify(landNamen)} data-geen={zoek.geen}>
+  <div id="zoeken" class="zoek" hidden data-land={land} data-landen={JSON.stringify(landNamen)} data-geen={zoek.geen} data-onbekend={JSON.stringify({ ...onbekend, links: verwijzingen })}>
     <div class="wrap">
       <form class="zoek-form" role="search" action="#" onsubmit="return false">
         <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg>
@@ -85,29 +104,64 @@ const kort = ({ 'United Kingdom': 'UK' } as Record<string, string>)[huidig?.labe
     return (zonder.length ? zonder : woorden).join(' ');
   };
   const esc = (t: string) => t.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
-  veld.addEventListener('input', async () => {
-    const term = veld.value.trim();
-    const nr = ++teller;
-    if (!term || !pagefind) { lijst.replaceChildren(); return; }
-    const q = schoon(term);
+  // Pagefind valt bij een onbekend woord terug op het langste begin dat wél bestaat ("alkmaar" -> "al", "als").
+  // Daarom tellen we een woord alleen als gevonden als de eerste 4 letters echt aan het begin van een woord op de pagina staan.
+  const plat = (t: string) => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const bevat = (d: any, w: string) => {
+    const stam = plat(w).slice(0, 4).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    return new RegExp(`(^|[^\\p{L}\\p{N}])${stam}`, 'u').test(plat(`${d.meta.title ?? ''} ${d.content ?? ''}`));
+  };
+  const melding = JSON.parse(paneel.dataset.onbekend!);
+  const resultaat = (d: any) => {
+    const li = document.createElement('li');
+    const a = li.appendChild(document.createElement('a'));
+    a.href = d.url;
+    a.innerHTML = `<span class="titel">${esc(d.meta.title ?? '')}</span>${landen[d.meta.land] ? `<span class="land">${esc(landen[d.meta.land])}</span>` : ''}<span class="uittreksel">${d.meta.beschrijving ? esc(d.meta.beschrijving) : d.excerpt}</span>`;
+    return li;
+  };
+  const zoekPagina = async (q: string, nr: number) => {
     const zoek = await pagefind.debouncedSearch(q, {}, 200);
-    if (!zoek || nr !== teller) return;
+    if (!zoek || nr !== teller) return null;
     const data = await Promise.all(zoek.results.slice(0, 40).map((r: any) => r.data()));
-    if (nr !== teller) return;
+    return nr === teller ? data : null;
+  };
+  const sorteer = (data: any[], q: string) => {
     // Eerst het eigen land, dan pagina's in dezelfde taal, dan de rest. Binnen elke groep gaan pagina's met meer
     // zoekwoorden in de titel voor (eerste 4 letters tellen, zodat "prijzen" ook "prijs" vindt); daarna de volgorde van Pagefind.
     const groep = (d: any) => (d.meta.land === land ? 0 : d.meta.taal === taal ? 1 : 2);
     const stammen = q.split(' ').map((w) => w.slice(0, 4));
     const inTitel = (d: any) => { const t = String(d.meta.title ?? '').toLowerCase(); return stammen.filter((s) => t.includes(s)).length; };
-    const gesorteerd = data.map((d: any, i: number) => ({ d, i, t: inTitel(d) })).sort((a: any, b: any) => groep(a.d) - groep(b.d) || b.t - a.t || a.i - b.i).slice(0, 8);
-    lijst.replaceChildren(...(gesorteerd.length ? gesorteerd.map(({ d }: any) => {
-      const li = document.createElement('li');
-      const a = li.appendChild(document.createElement('a'));
-      a.href = d.url;
-      a.innerHTML = `<span class="titel">${esc(d.meta.title ?? '')}</span>${landen[d.meta.land] ? `<span class="land">${esc(landen[d.meta.land])}</span>` : ''}<span class="uittreksel">${d.meta.beschrijving ? esc(d.meta.beschrijving) : d.excerpt}</span>`;
-      return li;
-    }) : [Object.assign(document.createElement('li'), { className: 'geen', textContent: paneel.dataset.geen })]));
+    return data.map((d, i) => ({ d, i, t: inTitel(d) })).sort((a, b) => groep(a.d) - groep(b.d) || b.t - a.t || a.i - b.i).slice(0, 8).map(({ d }) => d);
+  };
+  veld.addEventListener('input', async () => {
+    const term = veld.value.trim();
+    const nr = ++teller;
+    if (!term || !pagefind) { lijst.replaceChildren(); return; }
+    const q = schoon(term);
+    const woorden = q.split(' ');
+    let data = await zoekPagina(q, nr);
+    if (!data) return;
+    // Woorden die op geen enkele gevonden pagina echt voorkomen, zijn onbekend (meestal een plaats zonder eigen pagina).
+    const onbekend = woorden.filter((w) => w.length >= 3 && !data!.some((d) => bevat(d, w)));
+    const bekend = woorden.filter((w) => !onbekend.includes(w));
+    if (onbekend.length && bekend.length) data = await zoekPagina(bekend.join(' '), nr);
+    else if (onbekend.length) data = [];
+    if (!data) return;
+    data = data.filter((d) => bekend.every((w) => w.length < 3 || bevat(d, w)));
+    const items: HTMLLIElement[] = [];
+    if (onbekend.length) {
+      const plaats = onbekend.map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+      const li = Object.assign(document.createElement('li'), { className: 'onbekend' });
+      li.innerHTML = `<p>${esc(melding.zin).replace('{p}', `<strong>${esc(plaats)}</strong>`)} ${esc(melding.verder)}</p><p class="verwijzingen"></p>${data.length ? `<p class="wel">${esc(melding.wel)}</p>` : ''}`;
+      li.querySelector('.verwijzingen')!.append(...melding.links.map((l: any) => Object.assign(document.createElement('a'), { href: l.href, textContent: l.label })));
+      items.push(li);
+    }
+    items.push(...sorteer(data, bekend.join(' ')).map(resultaat));
+    if (!items.length) items.push(Object.assign(document.createElement('li'), { className: 'geen', textContent: paneel.dataset.geen }));
+    lijst.replaceChildren(...items);
   });
+  // Link naar de landenlijst onderaan dezelfde pagina: zoekpaneel dichtdoen.
+  lijst.addEventListener('click', (e) => { if ((e.target as Element).closest('a[href^="#"]')) { paneel.hidden = true; knop.setAttribute('aria-expanded', 'false'); } });
 </script>
 <style>
   header { border-bottom: 1px solid var(--line); background: var(--white); position: relative; }
@@ -156,5 +210,12 @@ const kort = ({ 'United Kingdom': 'UK' } as Record<string, string>)[huidig?.labe
   .zoek-resultaten :global(.land) { margin-left: .5rem; padding: .05rem .45rem; border-radius: 6px; background: var(--surface); color: var(--accent); font-size: .75rem; font-weight: 600; white-space: nowrap; }
   .zoek-resultaten :global(.uittreksel) { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; font-size: .88rem; color: var(--muted); }
   .zoek-resultaten :global(mark) { background: none; color: var(--text); font-weight: 600; }
+  .zoek-resultaten :global(.onbekend) { padding: .7rem .25rem .5rem; font-size: .92rem; color: var(--muted); }
+  .zoek-resultaten :global(.onbekend p) { margin: 0; }
+  .zoek-resultaten :global(.onbekend strong) { color: var(--text); }
+  .zoek-resultaten :global(.verwijzingen) { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .5rem !important; }
+  .zoek-resultaten :global(.verwijzingen a) { display: inline-block; padding: .3rem .75rem; border: 1.5px solid var(--accent); border-radius: 999px; color: var(--accent); font-weight: 600; font-size: .88rem; line-height: 1.3; }
+  .zoek-resultaten :global(.verwijzingen a:hover), .zoek-resultaten :global(.verwijzingen a:focus) { background: var(--accent); color: var(--white); }
+  .zoek-resultaten :global(.wel) { margin-top: .8rem !important; font-weight: 600; color: var(--text); }
   .zoek-resultaten :global(.geen) { padding: .6rem .25rem; font-size: .92rem; color: var(--muted); }
 </style>
