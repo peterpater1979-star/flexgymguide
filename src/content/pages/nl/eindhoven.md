@@ -311,6 +311,7 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 - [Arnhem](/nl/arnhem/)
 - [Nijmegen](/nl/nijmegen/)
 - [Den Bosch](/nl/den-bosch/)
+- [Breda](/nl/breda/)
 
 </div>
 

@@ -101,7 +101,7 @@ Vanaf 16 jaar word je zelf lid. Ben je 14 of 15, dan train je alleen samen met i
 
 <h2 id="steden">Zonder contract in jouw stad</h2>
 
-Basic-Fit Flex staat naast andere opties zonder lang contract in onze stadsoverzichten: [Amsterdam](/nl/sporten-zonder-contract-amsterdam/), [Rotterdam](/nl/sporten-zonder-contract-rotterdam/), [Den Haag](/nl/sporten-zonder-contract-den-haag/), [Utrecht](/nl/sporten-zonder-contract-utrecht/), [Haarlem](/nl/sporten-zonder-contract-haarlem/), [Eindhoven](/nl/sporten-zonder-contract-eindhoven/) en [Groningen](/nl/sporten-zonder-contract-groningen/). Basic-Fit in Alkmaar, Arnhem, Nijmegen en Den Bosch staat in onze stadsgidsen [Alkmaar](/nl/alkmaar/), [Arnhem](/nl/arnhem/), [Nijmegen](/nl/nijmegen/) en [Den Bosch](/nl/den-bosch/).
+Basic-Fit Flex staat naast andere opties zonder lang contract in onze stadsoverzichten: [Amsterdam](/nl/sporten-zonder-contract-amsterdam/), [Rotterdam](/nl/sporten-zonder-contract-rotterdam/), [Den Haag](/nl/sporten-zonder-contract-den-haag/), [Utrecht](/nl/sporten-zonder-contract-utrecht/), [Haarlem](/nl/sporten-zonder-contract-haarlem/), [Eindhoven](/nl/sporten-zonder-contract-eindhoven/) en [Groningen](/nl/sporten-zonder-contract-groningen/). Basic-Fit in Alkmaar, Arnhem, Nijmegen, Den Bosch en Breda staat in onze stadsgidsen [Alkmaar](/nl/alkmaar/), [Arnhem](/nl/arnhem/), [Nijmegen](/nl/nijmegen/), [Den Bosch](/nl/den-bosch/) en [Breda](/nl/breda/).
 
 <h2 id="keuze">Basic-Fit, SportCity of ClassPass?</h2>
 
