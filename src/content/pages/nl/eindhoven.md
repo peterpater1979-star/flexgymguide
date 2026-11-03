@@ -307,6 +307,7 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 - [Haarlem](/nl/haarlem/)
 - [Leiden](/nl/leiden/)
 - [Groningen](/nl/groningen/)
+- [Alkmaar](/nl/alkmaar/)
 
 </div>
 
