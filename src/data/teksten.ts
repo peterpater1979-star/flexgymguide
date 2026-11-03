@@ -29,6 +29,7 @@ export const teksten = {
       bedankt: '/tip/bedankt/',
     },
     home: 'Home',
+    terug: 'Terug',
   },
   de: {
     label: 'Anzeige',
@@ -58,6 +59,7 @@ export const teksten = {
       bedankt: '/tip/danke/',
     },
     home: 'Start',
+    terug: 'Zurück',
   },
   en: {
     label: 'Ad',
@@ -87,6 +89,7 @@ export const teksten = {
       bedankt: '/tip/thanks/',
     },
     home: 'Home',
+    terug: 'Back',
   },
   // Frans, Spaans en Portugees: voorlopig alleen landpagina's; de vaste pagina's (Over ons, Privacy) zijn Engels.
   fr: {
@@ -117,6 +120,7 @@ export const teksten = {
       bedankt: '/tip/thanks/',
     },
     home: 'Accueil',
+    terug: 'Retour',
   },
   es: {
     label: 'Publi',
@@ -146,6 +150,7 @@ export const teksten = {
       bedankt: '/tip/thanks/',
     },
     home: 'Inicio',
+    terug: 'Volver',
   },
   pt: {
     label: 'Pub',
@@ -175,6 +180,7 @@ export const teksten = {
       bedankt: '/tip/thanks/',
     },
     home: 'Início',
+    terug: 'Voltar',
   },
   da: {
     label: 'Annonce',
@@ -203,6 +209,7 @@ export const teksten = {
       bedankt: '/tip/thanks/',
     },
     home: 'Forside',
+    terug: 'Tilbage',
   },
   sv: {
     label: 'Annons',
@@ -231,6 +238,7 @@ export const teksten = {
       bedankt: '/tip/thanks/',
     },
     home: 'Startsida',
+    terug: 'Tillbaka',
   },
   nb: {
     label: 'Annonse',
@@ -259,6 +267,7 @@ export const teksten = {
       bedankt: '/tip/thanks/',
     },
     home: 'Forside',
+    terug: 'Tilbake',
   },
   fi: {
     label: 'Mainos',
@@ -287,5 +296,6 @@ export const teksten = {
       bedankt: '/tip/thanks/',
     },
     home: 'Etusivu',
+    terug: 'Takaisin',
   },
 } satisfies Record<Lang, unknown>;
