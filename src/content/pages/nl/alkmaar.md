@@ -2,7 +2,7 @@
 title: "Flexibel sporten in Alkmaar"
 seoTitle: "ClassPass Alkmaar: flexibel sporten zonder jaarcontract"
 path: "/nl/alkmaar/"
-description: "Sporten in Alkmaar zonder jaarcontract: wissel met ClassPass tussen studio's, of kies Basic-Fit met Flex. Ook handig voor Heiloo en Heerhugowaard."
+description: "Sporten in Alkmaar zonder jaarcontract: wissel met ClassPass tussen City Gym, Bluebirds en andere studio's, of kies Basic-Fit met Flex. Ook voor Heiloo en Heerhugowaard."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"
@@ -23,7 +23,7 @@ Geen zin in een jaarcontract bij één sportschool? In Alkmaar kun je met een sp
 
 ### ClassPass
 
-Yoga, pilates, dans en meer met één abonnement op basis van credits. In Alkmaar een kleiner aanbod, met veel meer keuze in Amsterdam en Haarlem.
+Pilates, yoga, krachttraining, boksen en dans met één abonnement op basis van credits. Ook studio's in Heerhugowaard en Heiloo.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
@@ -56,7 +56,7 @@ Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terbo
 | **Soort** | Sportpas met credits | Voordelige sportschoolketen |
 | **Prijs per maand** | Standaardabonnement € 59 per maand (40 credits) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
 | **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Abonnement bij een sportschoolketen |
-| **Locaties in Alkmaar** | Een kleiner aanbod in de stad, met veel meer keuze in Amsterdam en Haarlem | 2 clubs (meer dan 250 in Nederland) |
+| **Locaties in Alkmaar** | Studio's in en rond het centrum, plus Heerhugowaard en Heiloo | 2 clubs (meer dan 250 in Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Jaarabonnement, of Flex met 4 weken opzegtermijn |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 workouts | – |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in alle clubs in 6 landen |
@@ -70,6 +70,12 @@ Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terbo
 
 Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's in Alkmaar en in de rest van het land. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
 
+### Waar
+
+Een overzichtelijk aanbod, vooral in en rond het centrum. Krachttraining, open gym en reformer pilates bij City Gym aan het Laat, yoga en pilates bij Bluebirds in de Pieterstraat, reformer pilates bij Studio Vitale, krachttraining en boksen bij Among Strong en dansles bij Dansstudio Dentro. Ook Snap Fitness aan de Edisonweg, dag en nacht open. Net buiten de stad: City Gym en Gym072 in Heerhugowaard en Your Fitmind in Heiloo, met kickboksen en circuittraining.
+
+[Bekijk de studio's in Alkmaar op ClassPass.](https://classpass.com/search/alkmaar/fitness-classes/5b72jZbeZ83)
+
 <div class="kolommen">
 
 <div class="kolom">
@@ -79,7 +85,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 - Maandelijkse credits voor lessen en gymbezoeken
 - Standaardabonnement in Alkmaar: 40 credits voor € 59 per maand
 - 14 dagen gratis met 10 workouts om te proberen
-- Een kleiner aanbod in Alkmaar zelf, onder andere yoga en pilates bij Bluebirds en dansles bij Dansstudio Dentro en Dance First
+- Studio's in Alkmaar, Heerhugowaard en Heiloo: krachttraining, open gym, (reformer) pilates, yoga, boksen en dans
 - Werk of studeer je ook in Amsterdam of Haarlem? Daar heb je met hetzelfde abonnement veel meer keuze
 - Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
@@ -149,7 +155,7 @@ Trainmore heeft nog geen club in Alkmaar. De dichtstbijzijnde clubs staan in [Ha
 
 ### Je wilt elke week iets anders doen
 
-Kies ClassPass. Je wisselt tussen yoga, pilates en dans, en sport ook in andere steden.
+Kies ClassPass. Je wisselt tussen pilates, yoga, boksen en dans, en sport ook in andere steden.
 
 [Naar ClassPass](#classpass)
 
@@ -196,7 +202,7 @@ Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden, zoals Haarlem
 <details>
 <summary>Ik woon in Heiloo of Heerhugowaard. Is dit ook iets voor mij?</summary>
 
-Ja. Alkmaar ligt voor de meeste mensen uit Heiloo en Heerhugowaard dichtbij, dus de studio's en Basic-Fit-clubs in de stad zijn goed bereikbaar. Met ClassPass kun je daarnaast ook in andere steden sporten.
+Ja. Met ClassPass zijn er ook studio's in je eigen plaats: City Gym en Gym072 in Heerhugowaard en Your Fitmind in Heiloo. Daarnaast liggen de studio's en Basic-Fit-clubs in Alkmaar dichtbij.
 
 </details>
 
