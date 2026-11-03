@@ -10,7 +10,7 @@ const delen = path.split('/').filter(Boolean);
 const stappen = delen.map((_, i) => '/' + delen.slice(0, i + 1).join('/') + '/').filter((p) => naam(p));
 const items = [{ href: '/', label: teksten[lang].home }, ...stappen.map((p) => ({ href: p, label: naam(p)! }))];
 const ouder = items[items.length - 2];
-const VARIANT = 'A';
+const VARIANT = 'B';
 const ld = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: items.map((it, i) => ({ '@type': 'ListItem', position: i + 1, name: it.label, item: new URL(it.href, Astro.site).href })) };
 ---
 {items.length > 1 && (
