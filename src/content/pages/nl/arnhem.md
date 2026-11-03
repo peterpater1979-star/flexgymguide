@@ -144,10 +144,6 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 </div>
 
-<h2 id="trainmore">En Trainmore?</h2>
-
-Trainmore heeft nog geen club in Arnhem. De dichtstbijzijnde clubs staan in [Utrecht](/nl/utrecht/). Meer in [Alles over Trainmore](/nl/trainmore/).
-
 ## Welke past bij jou?
 
 <div class="kolommen">

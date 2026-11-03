@@ -145,10 +145,6 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 </div>
 
-<h2 id="trainmore">En Trainmore?</h2>
-
-Trainmore heeft nog geen club in Alkmaar. De dichtstbijzijnde clubs staan in [Haarlem](/nl/haarlem/) en [Amsterdam](/nl/amsterdam/). Meer in [Alles over Trainmore](/nl/trainmore/).
-
 ## Welke past bij jou?
 
 <div class="kolommen">
