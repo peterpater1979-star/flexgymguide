@@ -87,7 +87,7 @@ C’est dans ces villes que tu as le plus de choix avec ClassPass :
 - **Aix-en-Provence** : surtout dans le centre historique, autour du cours Mirabeau, et aussi aux Milles. Beaucoup de Pilates, du renforcement musculaire et de la boxe, et aussi à Éguilles et Venelles. Voir les studios [par quartier](/fr/classpass-aix-en-provence/)
 - **Toulouse** : surtout dans le centre. Yoga, Pilates et renforcement musculaire, et aussi à Balma et L’Union
 - **Nantes** : Bouffay, Madeleine, Coudray et Jamet. Yoga, Pilates et renforcement musculaire, et aussi à Saint-Herblain
-- **Lille** : une petite offre en ville, davantage à Marcq-en-Barœul et Wattignies. Yoga et Pilates (dont Reformer)
+- **Lille** : le Vieux-Lille et le centre, et surtout Marcq-en-Barœul, La Madeleine et Villeneuve-d’Ascq. Pilates (dont Reformer), yoga, boxe et accès à la salle. Voir les studios [par quartier](/fr/classpass-lille/)
 - **Strasbourg** : une offre plus petite, dont Neudorf, et aussi au nord de la ville (Lampertheim, Souffelweyersheim, Mundolsheim). Pilates, renforcement musculaire, yoga et boxe
 - **Montpellier** : une petite offre, dont les Arceaux. Pilates, yoga et salles de sport
 - **Rennes** : une petite offre dans le centre. Pilates et renforcement musculaire

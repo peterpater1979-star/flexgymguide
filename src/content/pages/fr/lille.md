@@ -108,9 +108,9 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre en ville, davantage à Marcq-en-Barœul et Wattignies. Yoga et Pilates (dont Reformer).
+Le Vieux-Lille et le centre, et surtout Marcq-en-Barœul, La Madeleine et Villeneuve-d’Ascq. Pilates (dont Reformer), yoga, boxe et accès à la salle. Les studios par quartier et par sport sont sur ClassPass à Lille.
 
-[Voir les studios à Lille sur ClassPass](/go/classpass-fr-lille/?epi=fgg-fr-lille)
+[Voir les studios à Lille par quartier et par sport](/fr/classpass-lille/)
 
 ### Ce que tu as
 
