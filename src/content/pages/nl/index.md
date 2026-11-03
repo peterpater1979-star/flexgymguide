@@ -107,6 +107,7 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 <li><a href="/nl/alkmaar/"><strong>Alkmaar</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/nl/arnhem/"><strong>Arnhem</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/nl/nijmegen/"><strong>Nijmegen</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/nl/den-bosch/"><strong>Den Bosch</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 </ul>
 
 </div>
