@@ -2,13 +2,13 @@
 title: "Flexibel sporten in Arnhem"
 seoTitle: "ClassPass Arnhem: flexibel sporten zonder jaarcontract"
 path: "/nl/arnhem/"
-description: "Sporten in Arnhem zonder jaarcontract: wissel met ClassPass tussen studio's, of kies Basic-Fit met Flex. Ook voor Velp, Oosterbeek en Duiven."
+description: "Sporten in Arnhem zonder jaarcontract: wissel met ClassPass tussen YOU The Gym, Aerial Studio en andere studio's, of kies Basic-Fit met Flex. Ook voor Velp, Oosterbeek en Duiven."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"
 crumb: "Arnhem"
 kicker: "Stadsgids Arnhem"
-zoekwoorden: "arnhem velp oosterbeek duiven rheden renkum westervoort elst gelderland"
+zoekwoorden: "arnhem velp oosterbeek duiven rheden renkum westervoort elst wageningen bemmel huissen zevenaar gelderland"
 ---
 
 Geen zin in een jaarcontract bij één sportschool? In Arnhem kun je met een sportpas bij verschillende studio's terecht, of kiezen voor een voordelige sportschoolketen die je maandelijks kunt opzeggen. Woon je in Velp, Oosterbeek of Duiven? Dan zijn de studio's en clubs in Arnhem ook voor jou dichtbij.
@@ -23,7 +23,7 @@ Geen zin in een jaarcontract bij één sportschool? In Arnhem kun je met een spo
 
 ### ClassPass
 
-Yoga, pilates, krachttraining en meer met één abonnement op basis van credits.
+Krachttraining, yoga, aerial, bootcamp en meer met één abonnement op basis van credits. Ook studio's in Velp en Westervoort.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
@@ -54,9 +54,9 @@ Voordelige sportschoolketen met 5 clubs in Arnhem, waarvan de meeste dag en nach
 | Kenmerk | ClassPass | Basic-Fit |
 | --- | --- | --- |
 | **Soort** | Sportpas met credits | Voordelige sportschoolketen |
-| **Prijs per maand** | Standaardabonnement [PRIJS] per maand ([AANTAL] credits) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
+| **Prijs per maand** | Standaardabonnement € 59 per maand (40 credits) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
 | **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Abonnement bij een sportschoolketen |
-| **Locaties in Arnhem** | [Samenvatting volgt] | 5 clubs (meer dan 250 in Nederland) |
+| **Locaties in Arnhem** | Vooral kleinere studio's en personal training, plus studio's in Velp, Westervoort en Elst | 5 clubs (meer dan 250 in Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Jaarabonnement, of Flex met 4 weken opzegtermijn |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 workouts | – |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in alle clubs in 6 landen |
@@ -72,7 +72,11 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 ### Waar
 
-[Samenvatting studio's en ClassPass-zoeklink volgen]
+Vooral kleinere studio's en personal training. In Arnhem zelf onder andere krachttraining en boksen bij YOU The Gym aan de Beekstraat, krachttraining bij Personal Fitness Nederland en Gelukkig Lijf aan de Snelliusweg, aerial en dans bij Aerial Studio in de Varkensstraat, bootcamp bij Lekkerbuiten.nu en aikido bij Jiki Shin Kan. In de regio: yoga bij Room4 Yoga in Velp, yoga en qigong bij Life-Force Yoga in Westervoort, HIT Personal Training in Elst, GoalTrainers in Wageningen en KI-Aikido in Bemmel.
+
+[Bekijk de studio's in Arnhem op ClassPass.](https://classpass.com/search/arnhem/fitness-classes/3skPJ5A6cqV)
+
+Ook voor ontspanning, net buiten de stad: Kuuma Sauna in Nijmegen, massage bij Massagepraktijk De Halve Maan in Zevenaar en beautybehandelingen bij Perfect Skin & Beauty in Huissen.
 
 <div class="kolommen">
 
@@ -81,9 +85,9 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Wat je krijgt
 
 - Maandelijkse credits voor lessen en gymbezoeken
-- Standaardabonnement in Arnhem: [AANTAL] credits voor [PRIJS] per maand
+- Standaardabonnement in Arnhem: 40 credits voor € 59 per maand
 - 14 dagen gratis met 10 workouts om te proberen
-- [Samenvatting studio's volgt]
+- Studio's in Arnhem en de regio: krachttraining, boksen, aerial, dans, bootcamp, yoga en aikido
 - Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
@@ -199,7 +203,7 @@ Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden, zoals Utrecht
 <details>
 <summary>Ik woon in Velp, Oosterbeek of Duiven. Is dit ook iets voor mij?</summary>
 
-Ja. Vanuit Velp, Oosterbeek en Duiven zijn de studio's en Basic-Fit-clubs in Arnhem goed bereikbaar. Met ClassPass kun je daarnaast ook in andere steden sporten.
+Ja. Met ClassPass is er yoga bij Room4 Yoga in Velp en bij Life-Force Yoga in Westervoort, vlak bij Duiven. Daarnaast zijn de studio's en Basic-Fit-clubs in Arnhem goed bereikbaar. Met ClassPass kun je daarnaast ook in andere steden sporten.
 
 </details>
 
