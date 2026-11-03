@@ -76,7 +76,7 @@ Vooral kleinere studio's en personal training. In Arnhem zelf onder andere krach
 
 [Bekijk de studio's in Arnhem op ClassPass.](https://classpass.com/search/arnhem/fitness-classes/3skPJ5A6cqV)
 
-Ook voor ontspanning, net buiten de stad: Kuuma Sauna in Nijmegen, massage bij Massagepraktijk De Halve Maan in Zevenaar en beautybehandelingen bij Perfect Skin & Beauty in Huissen.
+Ook voor ontspanning, net buiten de stad: Kuuma Sauna in [Nijmegen](/nl/nijmegen/), massage bij Massagepraktijk De Halve Maan in Zevenaar en beautybehandelingen bij Perfect Skin & Beauty in Huissen.
 
 <div class="kolommen">
 
@@ -228,7 +228,7 @@ Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatu
 - [Eindhoven](/nl/eindhoven/)
 - [Groningen](/nl/groningen/)
 - [Alkmaar](/nl/alkmaar/)
-- [Enschede](/nl/enschede/)
+- [Nijmegen](/nl/nijmegen/)
 
 </div>
 

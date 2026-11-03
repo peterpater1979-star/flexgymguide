@@ -1,17 +1,17 @@
 ---
-title: "Flexibel sporten in Enschede"
-seoTitle: "ClassPass Enschede: flexibel sporten zonder jaarcontract"
-path: "/nl/enschede/"
-description: "Sporten in Enschede zonder jaarcontract: wissel met ClassPass tussen studio's, of kies Basic-Fit met Flex. Ook voor Hengelo, Oldenzaal en studenten van de UT en Saxion."
+title: "Flexibel sporten in Nijmegen"
+seoTitle: "ClassPass Nijmegen: flexibel sporten zonder jaarcontract"
+path: "/nl/nijmegen/"
+description: "Sporten in Nijmegen zonder jaarcontract: wissel met ClassPass tussen Riverland, The Kettlebell Club en andere studio's, of kies Basic-Fit met Flex. Ook voor studenten van de Radboud en de HAN."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"
-crumb: "Enschede"
-kicker: "Stadsgids Enschede"
-zoekwoorden: "enschede hengelo oldenzaal haaksbergen glanerbrug losser twente overijssel universiteit twente ut saxion student"
+crumb: "Nijmegen"
+kicker: "Stadsgids Nijmegen"
+zoekwoorden: "nijmegen malden lent beuningen wijchen groesbeek elst bemmel heumen gelderland radboud universiteit ru han student"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Enschede kun je met een sportpas bij verschillende studio's terecht, of kiezen voor een voordelige sportschoolketen die je maandelijks kunt opzeggen. Studeer je aan de Universiteit Twente of Saxion, of woon je in Hengelo of Oldenzaal? Dan is deze gids ook voor jou.
+Geen zin in een jaarcontract bij één sportschool? In Nijmegen kun je met een sportpas bij verschillende studio's terecht, of kiezen voor een voordelige sportschoolketen die je maandelijks kunt opzeggen. Studeer je aan de Radboud Universiteit of de HAN, of woon je in Malden, Lent of Wijchen? Dan is deze gids ook voor jou.
 
 <h2 id="kort">In het kort</h2>
 
@@ -23,7 +23,7 @@ Geen zin in een jaarcontract bij één sportschool? In Enschede kun je met een s
 
 ### ClassPass
 
-Yoga, pilates, krachttraining en meer met één abonnement op basis van credits.
+Krachttraining, kickboksen, pilates, dans en meer met één abonnement op basis van credits.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
@@ -37,7 +37,7 @@ Yoga, pilates, krachttraining en meer met één abonnement op basis van credits.
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met 5 clubs in Enschede, waarvan veel dag en nacht open.
+Voordelige sportschoolketen met 3 clubs in Nijmegen, waarvan 2 dag en nacht open.
 
 <div class="knoppen">
 <a class="knop" href="#basic-fit">Bekijk Basic-Fit</a>
@@ -54,9 +54,9 @@ Voordelige sportschoolketen met 5 clubs in Enschede, waarvan veel dag en nacht o
 | Kenmerk | ClassPass | Basic-Fit |
 | --- | --- | --- |
 | **Soort** | Sportpas met credits | Voordelige sportschoolketen |
-| **Prijs per maand** | Standaardabonnement [PRIJS] per maand ([AANTAL] credits) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
+| **Prijs per maand** | Standaardabonnement € 59 per maand (40 credits) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
 | **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Abonnement bij een sportschoolketen |
-| **Locaties in Enschede** | [Samenvatting volgt] | 5 clubs (meer dan 250 in Nederland) |
+| **Locaties in Nijmegen** | Studio's in en rond het centrum en in Dukenburg, plus Elst en Bemmel | 3 clubs (meer dan 250 in Nederland) |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Jaarabonnement, of Flex met 4 weken opzegtermijn |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 workouts | – |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in alle clubs in 6 landen |
@@ -66,13 +66,17 @@ Voordelige sportschoolketen met 5 clubs in Enschede, waarvan veel dag en nacht o
 
 <p class="kicker">Sportpas</p>
 
-## ClassPass in Enschede
+## ClassPass in Nijmegen
 
-Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's in Enschede en in de rest van het land. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
+Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's in Nijmegen en in de rest van het land. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
 
 ### Waar
 
-[Samenvatting studio's en ClassPass-zoeklink volgen]
+Een flink aanbod aan krachttraining en vechtsport, vooral in en rond het centrum. Onder andere Riverland Healthcentre in de oude fabriek aan De Biezen en Riverland City aan de Mariënburgsestraat (functional training, HIIT en pilates), The Kettlebell Club aan de Groenestraat, Provectas, kickboksen bij The Kickboxing Society, Latin- en Caribische dans bij Passion With Flow, krav maga bij Krav Maga Global en stretchen bij The Movement Studio. Buiten trainen kan met GoalTrainers bij het Goffertpark. In de regio: HIT Personal Training in Elst en KI-Aikido in Bemmel.
+
+[Bekijk de studio's in Nijmegen op ClassPass.](https://classpass.com/search/in-kaart-gebrachte-omgeving/fitness-classes/5wEYm8BjLrj)
+
+Ook voor ontspanning: Kuuma Sauna, shiatsu bij Astrid Oudenhoven en massage bij Brouns Massages aan de Graafseweg. Net buiten de stad massage in Zevenaar en beautybehandelingen in Huissen. [Bekijk wellness rond Nijmegen op ClassPass.](https://classpass.com/search/in-kaart-gebrachte-omgeving/wellness-sessions/5VN9MAGU95q)
 
 <div class="kolommen">
 
@@ -81,9 +85,9 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 ### Wat je krijgt
 
 - Maandelijkse credits voor lessen en gymbezoeken
-- Standaardabonnement in Enschede: [AANTAL] credits voor [PRIJS] per maand
+- Standaardabonnement in Nijmegen: 40 credits voor € 59 per maand
 - 14 dagen gratis met 10 workouts om te proberen
-- [Samenvatting studio's volgt]
+- Studio's voor krachttraining, HIIT, kickboksen, pilates, dans, krav maga en aikido
 - Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
@@ -120,9 +124,9 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 <p class="kicker">Sportschoolketen</p>
 
-## Basic-Fit in Enschede
+## Basic-Fit in Nijmegen
 
-Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland, waarvan 5 in Enschede, onder andere aan de Oosterstraat in het centrum en aan de Wesselerbrinklaan, het Colosseum en de J.J. van Deinselaan. Veel clubs zijn dag en nacht open. Een jaarabonnement begint bij € 24,99 per 4 weken. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
+Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland, waarvan 3 in Nijmegen: aan de Vlaamsegas in het centrum, en aan de Weg door Jonkerbos en het Kerkenbos, die dag en nacht open zijn. Een jaarabonnement begint bij € 24,99 per 4 weken. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
 
 ### Goed voor
 
@@ -186,16 +190,16 @@ Dat hangt af van hoe vaak je sport en wat je wilt doen. Train je vooral in de gy
 </details>
 
 <details>
-<summary>Kan ik ClassPass ook buiten Enschede gebruiken?</summary>
+<summary>Kan ik ClassPass ook buiten Nijmegen gebruiken?</summary>
 
 Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden, zoals Amsterdam en Utrecht, en in het buitenland, overal waar ClassPass actief is.
 
 </details>
 
 <details>
-<summary>Ik woon in Hengelo of Oldenzaal. Is dit ook iets voor mij?</summary>
+<summary>Ik woon in Malden, Lent of Wijchen. Is dit ook iets voor mij?</summary>
 
-Ja. Vanuit Hengelo en Oldenzaal zijn de studio's en Basic-Fit-clubs in Enschede goed bereikbaar. Met ClassPass kun je daarnaast ook in andere steden sporten.
+Ja. Vanuit Malden, Lent en Wijchen zijn de studio's en Basic-Fit-clubs in Nijmegen goed bereikbaar. Met ClassPass kun je daarnaast ook in andere steden sporten.
 
 </details>
 
