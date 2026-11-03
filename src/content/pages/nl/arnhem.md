@@ -228,6 +228,7 @@ Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatu
 - [Eindhoven](/nl/eindhoven/)
 - [Groningen](/nl/groningen/)
 - [Alkmaar](/nl/alkmaar/)
+- [Enschede](/nl/enschede/)
 
 </div>
 
