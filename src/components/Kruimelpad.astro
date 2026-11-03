@@ -1,5 +1,6 @@
 ---
 // Kruimelpad uit de URL: Home › Nederland › Amsterdam. Namen komen uit `crumb` in de pagina's.
+// Ervoor een terugknop naar de ouderpagina. Kwam de bezoeker van een andere pagina op deze site, dan gaat de knop terug in de geschiedenis (zelfde plek op de vorige pagina, ook na zoeken).
 import { getCollection } from 'astro:content';
 import { teksten, type Lang } from '../data/teksten';
 const { path, lang } = Astro.props as { path: string; lang: Lang };
@@ -8,15 +9,30 @@ const naam = (p: string) => { const e = pages.find((x) => x.data.path === p); re
 const delen = path.split('/').filter(Boolean);
 const stappen = delen.map((_, i) => '/' + delen.slice(0, i + 1).join('/') + '/').filter((p) => naam(p));
 const items = [{ href: '/', label: teksten[lang].home }, ...stappen.map((p) => ({ href: p, label: naam(p)! }))];
+const ouder = items[items.length - 2];
+const VARIANT = 'B';
 const ld = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: items.map((it, i) => ({ '@type': 'ListItem', position: i + 1, name: it.label, item: new URL(it.href, Astro.site).href })) };
 ---
 {items.length > 1 && (
+  <a class:list={['terug', VARIANT === 'B' && 'terug-b']} href={ouder.href} data-terug>
+    <span aria-hidden="true">←</span> {VARIANT === 'B' ? `${teksten[lang].terug}: ${ouder.label}` : teksten[lang].terug}
+  </a>
   <nav class="kruimel" aria-label="Breadcrumb">
     {items.map((it, i) => i < items.length - 1 ? <><a href={it.href}>{it.label}</a><span aria-hidden="true"> › </span></> : <span aria-current="page">{it.label}</span>)}
     <script type="application/ld+json" set:html={JSON.stringify(ld)} />
   </nav>
 )}
+<script>
+  // Terug in de geschiedenis als de vorige pagina op deze site was; anders gewoon de link naar de ouderpagina.
+  document.querySelectorAll<HTMLAnchorElement>('[data-terug]').forEach((a) => a.addEventListener('click', (e) => {
+    try { if (document.referrer && new URL(document.referrer).origin === location.origin && history.length > 1) { e.preventDefault(); history.back(); } } catch {}
+  }));
+</script>
 <style>
-  .kruimel { font-size: .75rem; color: var(--muted); opacity: .85; margin-bottom: .5rem; }
+  .terug { display: inline-flex; align-items: center; gap: .35rem; font-size: .85rem; font-weight: 600; color: var(--accent); text-decoration: none; border: 1px solid var(--accent); border-radius: 999px; padding: .3rem .85rem .3rem .7rem; margin-bottom: .6rem; background: var(--white); min-height: 36px; }
+  .terug:hover { background: var(--accent); color: #fff; }
+  .terug-b { border: 0; background: none; padding: 0; min-height: 0; }
+  .terug-b:hover { background: none; color: var(--accent-hover); text-decoration: underline; }
+  .kruimel { font-size: .75rem; color: var(--muted); opacity: .85; margin-bottom: .5rem; display: block; }
   .kruimel a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 2px; }
 </style>
