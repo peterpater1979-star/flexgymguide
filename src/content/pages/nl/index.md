@@ -104,6 +104,9 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 <li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore · SportCity</span></li>
 <li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
 <li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/alkmaar/"><strong>Alkmaar</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/nl/arnhem/"><strong>Arnhem</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/nl/nijmegen/"><strong>Nijmegen</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 </ul>
 
 </div>
