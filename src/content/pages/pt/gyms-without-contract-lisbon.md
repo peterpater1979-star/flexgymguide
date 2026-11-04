@@ -46,7 +46,7 @@ Many gym chains in Portugal offer plans with a minimum term (often 12 months) an
 | --- | --- | --- | --- |
 | Element Gyms Classic (gyms in your region) | €5.99 a week | None | €5 (November 2026) |
 
-<p class="klein">Source: <a href="https://elementgyms.pt/planos/">elementgyms.pt/planos</a> (November 2026). There are also plans with more or fewer gyms. Always check the current price and terms with the gym.</p>
+<p class="klein">Source: elementgyms.pt/planos (November 2026). There are also plans with more or fewer gyms. Always check the current price and terms with the gym.</p>
 
 <h2 id="drop-in">Drop-in classes and class packs</h2>
 

@@ -275,7 +275,7 @@ Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden en in het buit
 <details>
 <summary>Kan ik ClassPass op elk moment opzeggen?</summary>
 
-Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatum, dan betaal je niet voor een nieuwe maand. Bij een betaald abonnement kun je ClassPass gebruiken tot het einde van die maand. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen. Resterende credits vervallen als je stopt. Zie de [uitleg van ClassPass](https://help.classpass.com/hc/nl/articles/204578119-Hoe-kan-ik-mijn-ClassPass-lidmaatschap-opzeggen).
+Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatum, dan betaal je niet voor een nieuwe maand. Bij een betaald abonnement kun je ClassPass gebruiken tot het einde van die maand. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen. Resterende credits vervallen als je stopt. Lees hoe het werkt in [ClassPass opzeggen](/nl/classpass-opzeggen/).
 
 </details>
 

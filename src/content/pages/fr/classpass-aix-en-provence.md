@@ -1,7 +1,8 @@
 ---
 title: "ClassPass à Aix-en-Provence : studios par quartier et par sport"
+seoTitle: "ClassPass Aix-en-Provence : studios par quartier et sport"
 path: "/fr/classpass-aix-en-provence/"
-description: "ClassPass à Aix-en-Provence : les studios par quartier et par sport, du Pilates Reformer et du Lagree autour du cours Mirabeau à la boxe, au HYROX et à l’accès à la salle."
+description: "ClassPass à Aix-en-Provence : les studios par quartier et par sport, du Pilates Reformer et du Lagree à la boxe, au HYROX et à l’accès à la salle."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"

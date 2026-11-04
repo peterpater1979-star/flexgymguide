@@ -2,7 +2,7 @@
 title: "Flexibel sporten in Arnhem"
 seoTitle: "ClassPass Arnhem: flexibel sporten zonder jaarcontract"
 path: "/nl/arnhem/"
-description: "Sporten in Arnhem zonder jaarcontract: wissel met ClassPass tussen YOU The Gym, Aerial Studio en andere studio's, of kies Basic-Fit met Flex. Ook voor Velp, Oosterbeek en Duiven."
+description: "Sporten in Arnhem zonder jaarcontract: wissel met ClassPass tussen YOU The Gym, Aerial Studio en andere studio's, of kies Basic-Fit met Flex."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"

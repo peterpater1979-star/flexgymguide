@@ -2,7 +2,7 @@
 title: "Flexibel sporten in Alkmaar"
 seoTitle: "ClassPass Alkmaar: flexibel sporten zonder jaarcontract"
 path: "/nl/alkmaar/"
-description: "Sporten in Alkmaar zonder jaarcontract: wissel met ClassPass tussen City Gym, Bluebirds en andere studio's, of kies Basic-Fit met Flex. Ook voor Heiloo en Heerhugowaard."
+description: "Sporten in Alkmaar zonder jaarcontract: wissel met ClassPass tussen City Gym, Bluebirds en andere studio's, of kies Basic-Fit met Flex. Ook voor Heiloo."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"

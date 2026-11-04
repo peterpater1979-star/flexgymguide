@@ -2,7 +2,7 @@
 title: "Flexibel sporten in Nijmegen"
 seoTitle: "ClassPass Nijmegen: flexibel sporten zonder jaarcontract"
 path: "/nl/nijmegen/"
-description: "Sporten in Nijmegen zonder jaarcontract: wissel met ClassPass tussen Riverland, The Kettlebell Club en andere studio's, of kies Basic-Fit met Flex. Ook voor studenten van de Radboud en de HAN."
+description: "Sporten in Nijmegen zonder jaarcontract: wissel met ClassPass tussen Riverland, The Kettlebell Club en andere studio's, of kies Basic-Fit met Flex."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"

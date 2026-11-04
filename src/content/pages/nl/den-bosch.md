@@ -2,7 +2,7 @@
 title: "Flexibel sporten in Den Bosch"
 seoTitle: "ClassPass Den Bosch: flexibel sporten zonder jaarcontract"
 path: "/nl/den-bosch/"
-description: "Sporten in Den Bosch zonder jaarcontract: wissel met ClassPass tussen Ultimate Shape, bbb health boutique en andere studio's, of kies Basic-Fit met Flex. Ook voor Rosmalen en Vught."
+description: "Sporten in Den Bosch zonder jaarcontract: wissel met ClassPass tussen Ultimate Shape, bbb health boutique en meer, of kies Basic-Fit met Flex."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"

@@ -102,7 +102,7 @@ Ja. Je kunt elke maand opzeggen, en bij opzeggen biedt ClassPass vaak een pauze 
 
 </details>
 
-<p class="klein">Bron: <a href="https://classpass.nl/plans">classpass.nl/plans</a>, locatie Amsterdam (oktober 2026). Prijzen en voorwaarden van sportscholen verschillen; kijk altijd op hun eigen site.</p>
+<p class="klein">Bron: classpass.nl/plans, locatie Amsterdam (oktober 2026). Prijzen en voorwaarden van sportscholen verschillen; kijk altijd op hun eigen site.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>

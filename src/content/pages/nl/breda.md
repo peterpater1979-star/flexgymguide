@@ -2,7 +2,7 @@
 title: "Flexibel sporten in Breda"
 seoTitle: "ClassPass Breda: flexibel sporten zonder jaarcontract"
 path: "/nl/breda/"
-description: "Sporten in Breda zonder jaarcontract: wissel met ClassPass tussen ML Studios, The Reform Room en andere studio's, of kies Basic-Fit met Flex. Ook voor Etten-Leur en Oosterhout."
+description: "Sporten in Breda zonder jaarcontract: wissel met ClassPass tussen ML Studios, The Reform Room en andere studio's, of kies Basic-Fit met Flex."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"
