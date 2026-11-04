@@ -15,7 +15,7 @@ kicker: "Pase deportivo"
 ClassPass es un pase deportivo: pagas una cuota mensual y recibes créditos. Los usas para clases y sesiones en los estudios y gimnasios asociados. Así no dependes de un solo lugar ni de un solo deporte.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass">Prueba 10 sesiones gratis en 14 días</a>
 </div>
 
 <h2 id="resumen">En resumen</h2>
@@ -100,7 +100,7 @@ Tu suscripción también funciona fuera de España, en más de 2.500 ciudades de
 Mira qué estudios y gimnasios participan cerca de ti y cuánto cuestan los planes en España.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass">Prueba 10 sesiones gratis en 14 días</a>
 </div>
 
 </div>

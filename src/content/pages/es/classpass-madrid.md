@@ -59,30 +59,30 @@ Gimnasio en Nine Fitness y entrenamiento en Nalu Training en el paseo de las Aca
 
 Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte para ver todos los estudios en ClassPass.
 
-- **[Pilates y Lagree](https://classpass.com/search/madrid/pilates-classes/5PLCeAWZnLo):** entre otros HEAT HÕUSE, PILAT3S, Solid Studio, DAN'S, Kore Lab Lagree, Pinar Pilates, Cerclé Studio (solo mujeres), Rubi Pilates, Pilates Rizzo y BZ55
-- **[Barre](https://classpass.com/search/madrid/barre-classes/5MgELawKRjD):** entre otros Casa Barré, Barrefit Studio Madrid, Into Barre, Batelier Studio, Barrelatte, esBarré, Lean Barre Studio, Koleo Barre, Royal Barre, B3B y Boutique Barre (solo mujeres)
-- **[Yoga](https://classpass.com/search/madrid/yoga-classes/5HWtSYT6aHu):** entre otros Barquillo Yoga, Casa Kavi, Gaia Yoga & Soul Studio, Hot Yoga Madrid, Inhala Hot Yoga, Bikram Yoga Spain Maldonado, More Yoga Madrid, Zentro Urban Yoga, the studiOM yoga y YOGAOMMMstudio
-- **[HIIT](https://classpass.com/search/madrid/hiit-classes/5gWV7YA9fzF):** entre otros Barry's Madrid, Commando Studio, F45 Training, TRIB3, SQUARE Fitness Studio, BeatCore, REVIVE, Pomona Club, WEMOOV y LOONA Fitness Experience
-- **[Bootcamp](https://classpass.com/search/madrid/bootcamp-classes/51z7i7ZuAf1):** entre otros Bam Labs, SOMMOS, BOOSTCONCEPT, Distrito 280, CrossFit La Catedral, BOX 28012, Hotcore Studios y The Melt
-- **[Cycling](https://classpass.com/search/madrid/cycling-classes/4HEtMxethUT):** entre otros Síclo en el paseo de La Habana y en Fernando VI, Tumbao Studio, Sessions Studios, TopCycle, Commando Studio y TRIB3
-- **[Boxeo](https://classpass.com/search/madrid/boxing-classes/4JDJaYG5Aqm):** entre otros Brooklyn Fitboxing (con varios centros por la ciudad), Fabela Boxing Club, Gloves Box, Bandah Box, Ren Coach, The Palace Boxing Club, Box Ragnarok y Spartan Boxing Club Madrid
-- **[Artes marciales](https://classpass.com/search/madrid/martial-arts-classes/63PfGqcQwDh):** entre otros Shaolin Temple, THE WOD CLUB, Club Deportivo Tsunami, Imperial Fitness Center y Capoeira Mucumbé
-- **[Baile](https://classpass.com/search/madrid/dance-classes/6D8i285W9TM):** entre otros DAN'S, Batelier Studio, Maria Rosa Dance Center, Portalo's Escuela de Baile y Pilates, Connection Dance Center, Baile Orlander, ATTITUDE y Kinétika
-- **[Running](https://classpass.com/search/madrid/running-classes/4eW1LxqoAQw):** entre otros Stride Running House, Commando Studio, Barry's Madrid, MoveBon, Training Hub y Desafío Personal
-- **[Al aire libre](https://classpass.com/search/madrid/outdoors-classes/4ZURxKrEJeb):** entre otros Trivus en el parque del Retiro, CruzLorenFit, MoveBon, Training Hub, Desafío Personal y Kona House
-- **[Acceso al gimnasio](https://classpass.com/search/madrid/gym-time-classes/5FxHpfSQUM5):** entre otros REVIVE, Pomona Club, Kona House, Kaïro House, Nine Fitness, Distrito 280, Infinit Fitness, Functional Feel Chamberí, Opera Gym y Anytime Fitness
+- **[Pilates y Lagree](/go/classpass-es-madrid-pilates/?epi=fgg-es-classpass-madrid):** entre otros HEAT HÕUSE, PILAT3S, Solid Studio, DAN'S, Kore Lab Lagree, Pinar Pilates, Cerclé Studio (solo mujeres), Rubi Pilates, Pilates Rizzo y BZ55
+- **[Barre](/go/classpass-es-madrid-barre/?epi=fgg-es-classpass-madrid):** entre otros Casa Barré, Barrefit Studio Madrid, Into Barre, Batelier Studio, Barrelatte, esBarré, Lean Barre Studio, Koleo Barre, Royal Barre, B3B y Boutique Barre (solo mujeres)
+- **[Yoga](/go/classpass-es-madrid-yoga/?epi=fgg-es-classpass-madrid):** entre otros Barquillo Yoga, Casa Kavi, Gaia Yoga & Soul Studio, Hot Yoga Madrid, Inhala Hot Yoga, Bikram Yoga Spain Maldonado, More Yoga Madrid, Zentro Urban Yoga, the studiOM yoga y YOGAOMMMstudio
+- **[HIIT](/go/classpass-es-madrid-hiit/?epi=fgg-es-classpass-madrid):** entre otros Barry's Madrid, Commando Studio, F45 Training, TRIB3, SQUARE Fitness Studio, BeatCore, REVIVE, Pomona Club, WEMOOV y LOONA Fitness Experience
+- **[Bootcamp](/go/classpass-es-madrid-bootcamp/?epi=fgg-es-classpass-madrid):** entre otros Bam Labs, SOMMOS, BOOSTCONCEPT, Distrito 280, CrossFit La Catedral, BOX 28012, Hotcore Studios y The Melt
+- **[Cycling](/go/classpass-es-madrid-cycling/?epi=fgg-es-classpass-madrid):** entre otros Síclo en el paseo de La Habana y en Fernando VI, Tumbao Studio, Sessions Studios, TopCycle, Commando Studio y TRIB3
+- **[Boxeo](/go/classpass-es-madrid-boxeo/?epi=fgg-es-classpass-madrid):** entre otros Brooklyn Fitboxing (con varios centros por la ciudad), Fabela Boxing Club, Gloves Box, Bandah Box, Ren Coach, The Palace Boxing Club, Box Ragnarok y Spartan Boxing Club Madrid
+- **[Artes marciales](/go/classpass-es-madrid-artes-marciales/?epi=fgg-es-classpass-madrid):** entre otros Shaolin Temple, THE WOD CLUB, Club Deportivo Tsunami, Imperial Fitness Center y Capoeira Mucumbé
+- **[Baile](/go/classpass-es-madrid-baile/?epi=fgg-es-classpass-madrid):** entre otros DAN'S, Batelier Studio, Maria Rosa Dance Center, Portalo's Escuela de Baile y Pilates, Connection Dance Center, Baile Orlander, ATTITUDE y Kinétika
+- **[Running](/go/classpass-es-madrid-running/?epi=fgg-es-classpass-madrid):** entre otros Stride Running House, Commando Studio, Barry's Madrid, MoveBon, Training Hub y Desafío Personal
+- **[Al aire libre](/go/classpass-es-madrid-aire-libre/?epi=fgg-es-classpass-madrid):** entre otros Trivus en el parque del Retiro, CruzLorenFit, MoveBon, Training Hub, Desafío Personal y Kona House
+- **[Acceso al gimnasio](/go/classpass-es-madrid-gimnasio/?epi=fgg-es-classpass-madrid):** entre otros REVIVE, Pomona Club, Kona House, Kaïro House, Nine Fitness, Distrito 280, Infinit Fitness, Functional Feel Chamberí, Opera Gym y Anytime Fitness
 
 <h2 id="bienestar">Bienestar y belleza</h2>
 
 Con tus créditos no solo reservas clases en Madrid, sino también sesiones de bienestar y belleza. Aquí tienes algunas direcciones; haz clic en una categoría para ver toda la oferta.
 
-- **[Recuperación](https://classpass.com/search/madrid/sports-recovery-sessions/5SWzPXFiXSP):** entre otros REVIVE - Recovery en María de Molina, ARO en Bárbara de Braganza, Meri en Velázquez, Pomona Club Wellness, Olimpia TWC Wellness y BioSpa Madrid
-- **[Masaje](https://classpass.com/search/madrid/massage-sessions/4rvHp1SimmZ):** entre otros LUM MASSAGE BAR en Espronceda, Seijaku Balance en Hermosilla, Vilma León Masajes, Vibra Bienestar Masajes, Royal Touch en Almagro, Calma Rituals Studio, The Queens Rituals y ROWSE The Greenhouse
-- **[Sauna](https://classpass.com/search/madrid/sauna-sessions/5Ft1zda3QRu):** entre otros ARO, Meri - Wellness, Pomona Club Wellness en Serrano, Kaïro House Wellness, Olimpia TWC Wellness, BioSpa Madrid y PULS
-- **[Faciales](https://classpass.com/search/madrid/facial-appointments/3vrdd1z1uAP):** entre otros Slow Beautiful Salesas, Velvare Beauty, ESPACIO LUMIERE en Fuencarral, Tornasol en Castelló, New Mersi Beauty, Harmony Esthetic & Spa y La Esmaltería
-- **[Meditación](https://classpass.com/search/madrid/meditation-sessions/4LeBRy1jgkw):** entre otros Casa Kavi, Gaia Yoga & Soul Studio, the studiOM yoga, Zentro Urban Yoga, Centro de Yoga Sivananda Madrid, SOMATIKA STUDIO y Bonanza Casa Wellness
-- **[Peluquería](https://classpass.com/search/madrid/hair-appointments/5hnc9eiFQwh):** entre otros Once23 Beauty y Hair Studio Luis Acosta
-- **[Uñas, pestañas y más](https://classpass.com/search/madrid/all-experiences/4Xa41LbLn1u):** entre otros La Esmaltería (con varios centros en Madrid), Muse Manicure, Mua Madrid, D-uñas, Dubi Beauty Studio, The Glam Loft Madrid y LashesDL
+- **[Recuperación](/go/classpass-es-madrid-recuperacion/?epi=fgg-es-classpass-madrid):** entre otros REVIVE - Recovery en María de Molina, ARO en Bárbara de Braganza, Meri en Velázquez, Pomona Club Wellness, Olimpia TWC Wellness y BioSpa Madrid
+- **[Masaje](/go/classpass-es-madrid-masaje/?epi=fgg-es-classpass-madrid):** entre otros LUM MASSAGE BAR en Espronceda, Seijaku Balance en Hermosilla, Vilma León Masajes, Vibra Bienestar Masajes, Royal Touch en Almagro, Calma Rituals Studio, The Queens Rituals y ROWSE The Greenhouse
+- **[Sauna](/go/classpass-es-madrid-sauna/?epi=fgg-es-classpass-madrid):** entre otros ARO, Meri - Wellness, Pomona Club Wellness en Serrano, Kaïro House Wellness, Olimpia TWC Wellness, BioSpa Madrid y PULS
+- **[Faciales](/go/classpass-es-madrid-faciales/?epi=fgg-es-classpass-madrid):** entre otros Slow Beautiful Salesas, Velvare Beauty, ESPACIO LUMIERE en Fuencarral, Tornasol en Castelló, New Mersi Beauty, Harmony Esthetic & Spa y La Esmaltería
+- **[Meditación](/go/classpass-es-madrid-meditacion/?epi=fgg-es-classpass-madrid):** entre otros Casa Kavi, Gaia Yoga & Soul Studio, the studiOM yoga, Zentro Urban Yoga, Centro de Yoga Sivananda Madrid, SOMATIKA STUDIO y Bonanza Casa Wellness
+- **[Peluquería](/go/classpass-es-madrid-peluqueria/?epi=fgg-es-classpass-madrid):** entre otros Once23 Beauty y Hair Studio Luis Acosta
+- **[Uñas, pestañas y más](/go/classpass-es-madrid-belleza/?epi=fgg-es-classpass-madrid):** entre otros La Esmaltería (con varios centros en Madrid), Muse Manicure, Mua Madrid, D-uñas, Dubi Beauty Studio, The Glam Loft Madrid y LashesDL
 
 <h2 id="consejos">Consejos</h2>
 
@@ -93,9 +93,10 @@ Con tus créditos no solo reservas clases en Madrid, sino también sesiones de b
 - Algunos centros de bienestar y belleza piden confirmar la cita por teléfono o con su propio sistema de reservas. Lee las indicaciones del centro antes de reservar.
 - Tu plan funciona también en otras ciudades de España y en el extranjero, allí donde haya ClassPass.
 
-[Ver los estudios de Madrid en ClassPass.](https://classpass.com/search/madrid/fitness-classes/5LuUVcvT3TM)
+[Ver los estudios de Madrid en ClassPass.](/go/classpass-es-madrid/?epi=fgg-es-classpass-madrid)
 
 <div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass-madrid">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 <a class="knop knop-rand" href="/es/madrid/">Hacer deporte en Madrid</a>
 </div>

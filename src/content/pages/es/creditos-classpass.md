@@ -95,6 +95,7 @@ Cancelar tarde o no presentarte puede costarte los créditos o una penalización
 </details>
 
 <div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-creditos-classpass">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 <a class="knop knop-rand" href="/es/cancelar-classpass/">Cancelar o pausar ClassPass</a>
 <a class="knop knop-rand" href="/es/classpass-de-viaje/">ClassPass de viaje</a>

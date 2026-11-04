@@ -101,5 +101,6 @@ Sí, entre otros en Estados Unidos, Japón, Australia y Singapur. La lista compl
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/creditos-classpass/">Los créditos de ClassPass</a>
 <a class="knop knop-rand" href="/es/prueba-classpass/">Probar ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass-de-viaje">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
