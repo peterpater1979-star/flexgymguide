@@ -9,7 +9,7 @@ crumb: "Working out as a student"
 kicker: "Guide"
 ---
 
-<div class="fotobanner smal foto-student" role="img" aria-label="Working out at the gym"></div>
+<div class="fotobanner smal foto-student" role="img" aria-label="Two people working out at the gym"></div>
 
 As a student you want to work out without spending much and without being tied down for long. Your timetable changes every term, you may be away in summer and you have little time during exams. These are your options.
 

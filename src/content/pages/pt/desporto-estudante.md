@@ -9,7 +9,7 @@ crumb: "Desporto para estudantes"
 kicker: "Guia"
 ---
 
-<div class="fotobanner smal foto-student" role="img" aria-label="Treino no ginásio"></div>
+<div class="fotobanner smal foto-student" role="img" aria-label="Dois desportistas no ginásio"></div>
 
 Como estudante queres fazer desporto sem gastar muito e sem ficar preso durante muito tempo. O teu horário muda a cada semestre, no verão talvez vás embora e na época de exames tens pouco tempo. Estas são as tuas opções.
 

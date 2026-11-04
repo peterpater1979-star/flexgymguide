@@ -9,7 +9,7 @@ crumb: "Trening som student"
 kicker: "Guide"
 ---
 
-<div class="fotobanner smal foto-student" role="img" aria-label="Trening på treningssenter"></div>
+<div class="fotobanner smal foto-student" role="img" aria-label="To som trener på treningssenteret"></div>
 
 Som student vil du trene uten å bruke mye penger og uten å binde deg lenge. Timeplanen endrer seg hvert semester, om sommeren er du kanskje borte, og i eksamensperioden har du lite tid. Her er mulighetene dine.
 

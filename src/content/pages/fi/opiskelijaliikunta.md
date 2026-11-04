@@ -9,7 +9,7 @@ crumb: "Liikunta opiskelijana"
 kicker: "Opas"
 ---
 
-<div class="fotobanner smal foto-student" role="img" aria-label="Treeni kuntosalilla"></div>
+<div class="fotobanner smal foto-student" role="img" aria-label="Kaksi urheilijaa kuntosalilla"></div>
 
 Opiskelijana haluat liikkua kuluttamatta paljon rahaa ja sitoutumatta pitkäksi aikaa. Lukujärjestys vaihtuu joka periodi, kesällä olet ehkä poissa ja tenttiviikoilla aikaa on vähän. Nämä ovat vaihtoehtosi.
 
