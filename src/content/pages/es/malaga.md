@@ -25,7 +25,8 @@ kicker: "Guía de ciudad Málaga"
 Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/es/classpass/">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-malaga">Prueba 10 sesiones gratis en 14 días</a>
+<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
@@ -94,7 +95,8 @@ Teatinos, Centro, El Perchel y Pedregalejo. Pilates, fuerza, barre y yoga, y tam
 - Cancelas cuando quieras
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-malaga">Prueba 10 sesiones gratis en 14 días</a>
+<a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
 </div>

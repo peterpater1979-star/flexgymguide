@@ -33,7 +33,8 @@ Con ClassPass recibes cada mes créditos para clases y sesiones de gimnasio en e
 - **¿Viajas mucho?** Tu plan también funciona en otras ciudades. Lee [ClassPass de viaje](/es/classpass-de-viaje/).
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/es/classpass/">Todo sobre ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-gimnasio-sin-permanencia-barcelona">Prueba 10 sesiones gratis en 14 días</a>
+<a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
 <h2 id="basic-fit">Basic-Fit Flex: sin permanencia</h2>
