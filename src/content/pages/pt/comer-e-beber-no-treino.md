@@ -10,6 +10,8 @@ crumb: "Comer e beber"
 kicker: "Guia"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Halteres e garrafa de água"></div>
+
 Não precisas de um plano alimentar para treinar bem. Com uma garrafa de água, algo pequeno à hora certa e um lanche para depois, já tens meio caminho andado. Neste guia vês o que muita gente leva e o que podes dispensar.
 
 <p class="klein">Este guia dá dicas práticas e não é aconselhamento médico nem nutricional. Se tens uma doença, uma alergia ou uma dieta especial, fala com um médico ou nutricionista.</p>

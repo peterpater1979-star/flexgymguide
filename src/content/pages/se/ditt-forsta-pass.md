@@ -10,6 +10,8 @@ crumb: "Ditt första pass"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Träning på gym"></div>
+
 En första klass på en ny studio kan kännas nervös, särskilt när du testar ett träningspass eller en provklass och inte känner till stället än. Med rätt saker i väskan och några enkla vanor blir ditt första besök mycket lättare.
 
 <h2 id="grunderna">Grunderna för varje besök</h2>

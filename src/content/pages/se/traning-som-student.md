@@ -9,6 +9,8 @@ crumb: "Träna som student"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-student" role="img" aria-label="Två som tränar på gymmet"></div>
+
 Som student vill du träna utan att lägga mycket pengar och utan att binda dig länge. Ditt schema ändras varje termin, på sommaren är du kanske borta och under tentaperioden har du lite tid. Här är dina alternativ.
 
 <h2 id="kort">I korthet</h2>

@@ -25,7 +25,7 @@ kicker: "Guía de ciudad Málaga"
 Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 Cadena de gimnasios económica con clubes en toda España.
 
 <div class="knoppen">
-<a class="knop" href="#basic-fit">Ver Basic-Fit</a>
+<a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
 </div>
 
 </div>
@@ -142,7 +142,7 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 Elige ClassPass. Pasa libremente del yoga al pilates, al boxeo o al spinning.
 
-[Ver ClassPass](#classpass)
+[Ver ClassPass](/es/classpass/)
 
 </div>
 <div class="kolom">
@@ -151,7 +151,7 @@ Elige ClassPass. Pasa libremente del yoga al pilates, al boxeo o al spinning.
 
 Elige Basic-Fit. Un gimnasio económico, con o sin permanencia.
 
-[Ver Basic-Fit](#basic-fit)
+[Ver Basic-Fit](/es/basic-fit/)
 
 </div>
 <div class="kolom">

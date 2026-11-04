@@ -25,7 +25,7 @@ kicker: "Guía de ciudad Bilbao"
 Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 Cadena de gimnasios económica con clubes en toda España.
 
 <div class="knoppen">
-<a class="knop" href="#basic-fit">Ver Basic-Fit</a>
+<a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Cadena de gimnasios económica con clubes en toda España.
 Gimnasio con clases colectivas, con o sin permanencia.
 
 <div class="knoppen">
-<a class="knop" href="#fitness-park">Ver Fitness Park</a>
+<a class="knop" href="/es/fitness-park/">Ver Fitness Park</a>
 </div>
 
 </div>
@@ -67,7 +67,7 @@ Gimnasio con clases colectivas, con o sin permanencia.
 Gimnasio con clases colectivas y cuotas sin permanencia.
 
 <div class="knoppen">
-<a class="knop" href="#vivagym">Ver VivaGym</a>
+<a class="knop" href="/es/vivagym/">Ver VivaGym</a>
 </div>
 
 </div>
@@ -226,7 +226,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 Elige ClassPass. Pasa libremente del yoga al pilates, al boxeo o al spinning.
 
-[Ver ClassPass](#classpass)
+[Ver ClassPass](/es/classpass/)
 
 </div>
 <div class="kolom">
@@ -235,7 +235,7 @@ Elige ClassPass. Pasa libremente del yoga al pilates, al boxeo o al spinning.
 
 Elige Basic-Fit. Un gimnasio económico, con o sin permanencia.
 
-[Ver Basic-Fit](#basic-fit)
+[Ver Basic-Fit](/es/basic-fit/)
 
 </div>
 <div class="kolom">
@@ -244,7 +244,7 @@ Elige Basic-Fit. Un gimnasio económico, con o sin permanencia.
 
 Elige Fitness Park. Un gimnasio con clases colectivas, con o sin permanencia.
 
-[Ver Fitness Park](#fitness-park)
+[Ver Fitness Park](/es/fitness-park/)
 
 </div>
 

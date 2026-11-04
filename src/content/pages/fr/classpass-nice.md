@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Nice : studios par quartier et par sport"
 path: "/fr/classpass-nice/"
-description: "ClassPass à Nice : les studios par quartier et par sport, du Pilates Reformer et du Lagree au yoga, au cycling et au renforcement musculaire, plus le bien-être et la beauté."
+description: "ClassPass à Nice : les studios par quartier et par sport, du Pilates Reformer et du Lagree au yoga et au cycling, plus le bien-être et la beauté."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"

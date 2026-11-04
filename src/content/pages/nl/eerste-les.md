@@ -10,6 +10,8 @@ crumb: "Je eerste les"
 kicker: "Gids"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Training in de sportschool"></div>
+
 Een eerste les in een nieuwe studio kan spannend zijn, zeker als je een sportpas of proefles uitprobeert en de plek nog niet kent. Met de juiste spullen in je tas en een paar eenvoudige gewoontes gaat je eerste bezoek een stuk makkelijker.
 
 <h2 id="basis">De basis voor elk bezoek</h2>

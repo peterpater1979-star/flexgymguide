@@ -10,6 +10,8 @@ crumb: "Tu primera clase"
 kicker: "Guía"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Entrenamiento en el gimnasio"></div>
+
 Una primera clase en un estudio nuevo puede imponer, sobre todo si estás probando un pase deportivo o una clase de prueba y aún no conoces el sitio. Con lo necesario en la mochila y unos hábitos sencillos, tu primera visita es mucho más fácil.
 
 <h2 id="basico">Lo básico para cada visita</h2>

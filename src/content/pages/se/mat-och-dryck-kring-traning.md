@@ -9,6 +9,8 @@ crumb: "Mat och dryck"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Hantlar och vattenflaska"></div>
+
 Du behöver ingen kostplan för att få till ett bra pass. En flaska vatten, något litet att äta vid rätt tidpunkt och ett mellanmål till efteråt räcker långt. I den här guiden läser du vad många tar med sig, och vad du gott kan hoppa över.
 
 <p class="klein">Den här guiden ger praktiska tips och är inte medicinsk rådgivning eller kostrådgivning. Har du en sjukdom, en allergi eller en särskild kost, prata med en läkare eller dietist.</p>

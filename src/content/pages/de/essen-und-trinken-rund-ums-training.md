@@ -10,6 +10,8 @@ crumb: "Essen und Trinken"
 kicker: "Ratgeber"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Hanteln und Trinkflasche"></div>
+
 Für ein gutes Training brauchst du keinen Ernährungsplan. Mit einer Flasche Wasser, einer Kleinigkeit zur richtigen Zeit und einem Snack für danach kommst du schon weit. In diesem Ratgeber liest du, was viele Sportler mitnehmen und was du dir sparen kannst.
 
 <p class="klein">Dieser Ratgeber gibt praktische Tipps und ist keine medizinische oder Ernährungsberatung. Hast du eine Erkrankung, eine Allergie oder eine besondere Ernährung, sprich mit einem Arzt oder einer Ernährungsberaterin.</p>

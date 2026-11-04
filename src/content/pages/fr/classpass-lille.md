@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Lille : studios par quartier et par sport"
 path: "/fr/classpass-lille/"
-description: "ClassPass à Lille et dans la métropole : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe, à la danse et à l’accès à la salle, plus le bien-être."
+description: "ClassPass à Lille et dans la métropole : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe et à la danse, plus le bien-être."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"

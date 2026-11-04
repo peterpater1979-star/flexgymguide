@@ -25,7 +25,7 @@ Vil du ikke være bundet til ét fitnesscenter? I Aarhus booker du hold i studie
 Yoga, pilates, styrketræning og mere med ét abonnement med credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="/dk/classpass/">Se ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, pilates, styrketræning og mere med ét abonnement med credits.
 Fitnesskæde med 128 centre i Danmark, fra 249 kr. om måneden.
 
 <div class="knoppen">
-<a class="knop" href="#puregym">Se PureGym</a>
+<a class="knop" href="/dk/puregym/">Se PureGym</a>
 </div>
 
 </div>
@@ -142,7 +142,7 @@ PureGym har 128 centre i Danmark, også i Aarhus. Med Core træner du i ét cent
 
 Vælg ClassPass. Skift frit mellem yoga, pilates, boksning og spinning.
 
-[Til ClassPass](#classpass)
+[Til ClassPass](/dk/classpass/)
 
 </div>
 <div class="kolom">
@@ -151,7 +151,7 @@ Vælg ClassPass. Skift frit mellem yoga, pilates, boksning og spinning.
 
 Vælg PureGym. Et billigt fitnesscenter tæt på.
 
-[Se PureGym](#puregym)
+[Se PureGym](/dk/puregym/)
 
 </div>
 <div class="kolom">

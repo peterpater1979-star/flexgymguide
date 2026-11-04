@@ -25,7 +25,7 @@ Geen zin in een jaarcontract bij één sportschool? In Den Haag kun je met een s
 Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
+<a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
 </div>
 
 </div>
@@ -38,7 +38,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 Eigen clubs met gym en groepslessen: 3 in Den Haag, 53 in heel Nederland. Bij Dagelijkse Groenmarkt vanaf € 52 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Met een contract krijg je € 1 korting per workout.
 
-[Bekijk Trainmore](#trainmore)
+[Bekijk Trainmore](/nl/trainmore/)
 
 </div>
 
@@ -50,7 +50,7 @@ Eigen clubs met gym en groepslessen: 3 in Den Haag, 53 in heel Nederland. Bij Da
 
 Gym met groepslessen, met City One (één club) of City Plus (121 clubs in Nederland). Flex is maandelijks opzegbaar: € 37,99 per 4 weken voor City One bij Hollands Spoor.
 
-[Bekijk SportCity](/nl/sporten-zonder-contract-den-haag/#sportcity)
+[Bekijk SportCity](/nl/sportcity/)
 
 </div>
 
@@ -63,7 +63,7 @@ Gym met groepslessen, met City One (één club) of City Plus (121 clubs in Neder
 Voordelige sportschoolketen met 8 clubs in Den Haag, veel dag en nacht open.
 
 <div class="knoppen">
-<a class="knop" href="#basic-fit">Bekijk Basic-Fit</a>
+<a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>
 </div>
 
 </div>
@@ -220,7 +220,7 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 Kies ClassPass. Je wisselt vrij tussen yoga, pilates, boksen en spinning.
 
-[Naar ClassPass](#classpass)
+[Naar ClassPass](/nl/classpass/)
 
 </div>
 
@@ -230,7 +230,7 @@ Kies ClassPass. Je wisselt vrij tussen yoga, pilates, boksen en spinning.
 
 Kies Trainmore. Een vaste club met gym en lessen, dicht bij huis of werk.
 
-[Naar Trainmore](#trainmore)
+[Naar Trainmore](/nl/trainmore/)
 
 </div>
 
@@ -265,7 +265,7 @@ Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden en in het buit
 <details>
 <summary>Kan ik ClassPass op elk moment opzeggen?</summary>
 
-Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatum, dan betaal je niet voor een nieuwe maand. Bij een betaald abonnement kun je ClassPass gebruiken tot het einde van die maand. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen. Resterende credits vervallen als je stopt. Zie de [uitleg van ClassPass](https://help.classpass.com/hc/nl/articles/204578119-Hoe-kan-ik-mijn-ClassPass-lidmaatschap-opzeggen).
+Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatum, dan betaal je niet voor een nieuwe maand. Bij een betaald abonnement kun je ClassPass gebruiken tot het einde van die maand. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen. Resterende credits vervallen als je stopt. Lees hoe het werkt in [ClassPass opzeggen](/nl/classpass-opzeggen/).
 
 </details>
 

@@ -11,6 +11,8 @@ crumb: "Cancelling SportCity"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-sporttas" role="img" aria-label="Gym bag"></div>
+
 You cancel SportCity in the app, by emailing your club or in the club itself. The notice period is one month. If your membership has a term of one or two years, cancel at least one month before that term ends.
 
 <h2 id="short">In short</h2>

@@ -10,6 +10,8 @@ crumb: "Baja en Basic-Fit"
 kicker: "Guía"
 ---
 
+<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Gimnasio"></div>
+
 Te das de baja en Basic-Fit en My Basic-Fit (web o app), en el quiosco del club o por correo electrónico al servicio de atención al cliente. Con un plan normal el preaviso es de un ciclo de 4 semanas; con el plan Flex, de una semana. Si tienes permanencia de un año, primero tiene que terminar ese año.
 
 <h2 id="resumen">En resumen</h2>

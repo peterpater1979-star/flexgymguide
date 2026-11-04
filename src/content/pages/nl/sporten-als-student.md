@@ -9,6 +9,8 @@ crumb: "Sporten als student"
 kicker: "Gids"
 ---
 
+<div class="fotobanner smal foto-student" role="img" aria-label="Twee sporters in de sportschool"></div>
+
 Als student wil je sporten zonder veel geld uit te geven en zonder lang vast te zitten. Je rooster verandert per periode, in de zomer ben je misschien weg en in de tentamenweken heb je weinig tijd. Dit zijn je opties.
 
 <h2 id="kort">In het kort</h2>
@@ -102,7 +104,7 @@ Ja. Je kunt elke maand opzeggen, en bij opzeggen biedt ClassPass vaak een pauze 
 
 </details>
 
-<p class="klein">Bron: <a href="https://classpass.nl/plans">classpass.nl/plans</a>, locatie Amsterdam (oktober 2026). Prijzen en voorwaarden van sportscholen verschillen; kijk altijd op hun eigen site.</p>
+<p class="klein">Bron: classpass.nl/plans, locatie Amsterdam (oktober 2026). Prijzen en voorwaarden van sportscholen verschillen; kijk altijd op hun eigen site.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>

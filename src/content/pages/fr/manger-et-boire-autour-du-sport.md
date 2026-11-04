@@ -10,6 +10,8 @@ crumb: "Manger et boire"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Haltères et gourde"></div>
+
 Pas besoin d’un programme alimentaire pour bien t’entraîner. Une bouteille d’eau, un petit quelque chose au bon moment et une collation pour après, c’est déjà beaucoup. Dans ce guide, tu verras ce que beaucoup de sportifs emportent, et ce dont tu peux te passer.
 
 <p class="klein">Ce guide donne des conseils pratiques et ne remplace pas un avis médical ou nutritionnel. Si tu as une maladie, une allergie ou un régime particulier, parles-en à un médecin ou à un diététicien.</p>

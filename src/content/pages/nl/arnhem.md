@@ -2,7 +2,7 @@
 title: "Flexibel sporten in Arnhem"
 seoTitle: "ClassPass Arnhem: flexibel sporten zonder jaarcontract"
 path: "/nl/arnhem/"
-description: "Sporten in Arnhem zonder jaarcontract: wissel met ClassPass tussen YOU The Gym, Aerial Studio en andere studio's, of kies Basic-Fit met Flex. Ook voor Velp, Oosterbeek en Duiven."
+description: "Sporten in Arnhem zonder jaarcontract: wissel met ClassPass tussen YOU The Gym, Aerial Studio en andere studio's, of kies Basic-Fit met Flex."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"
@@ -26,7 +26,7 @@ Geen zin in een jaarcontract bij één sportschool? In Arnhem kun je met een spo
 Krachttraining, yoga, aerial, bootcamp en meer met één abonnement op basis van credits. Ook studio's in Velp en Westervoort.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
+<a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
 </div>
 
 </div>
@@ -40,7 +40,7 @@ Krachttraining, yoga, aerial, bootcamp en meer met één abonnement op basis van
 Voordelige sportschoolketen met 5 clubs in Arnhem, waarvan de meeste dag en nacht open zijn.
 
 <div class="knoppen">
-<a class="knop" href="#basic-fit">Bekijk Basic-Fit</a>
+<a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>
 </div>
 
 </div>
@@ -154,7 +154,7 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 Kies ClassPass. Je wisselt tussen verschillende studio's en sporten, en sport ook in andere steden.
 
-[Naar ClassPass](#classpass)
+[Naar ClassPass](/nl/classpass/)
 
 </div>
 
@@ -164,7 +164,7 @@ Kies ClassPass. Je wisselt tussen verschillende studio's en sporten, en sport oo
 
 Kies Basic-Fit. Een vaste club voor weinig geld, met Flex maandelijks opzegbaar.
 
-[Naar Basic-Fit](#basic-fit)
+[Naar Basic-Fit](/nl/basic-fit/)
 
 </div>
 

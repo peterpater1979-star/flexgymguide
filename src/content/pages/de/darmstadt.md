@@ -25,7 +25,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In und um Darmstadt tra
 Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 220 Clubs in Deutschland, 10 in Darmstadt. Mit Kursen, Wellness und teils Schwimmbad.
 
 <div class="knoppen">
-<a class="knop" href="#fitness-first">Fitness First ansehen</a>
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>
@@ -61,7 +61,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> 1 Monat gratis, 10 Workouts | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich |
-| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) |
+| **Mehr erfahren** | [Alles über ClassPass](/de/classpass/) | [Alles über Fitness First](/de/fitness-first/) |
 
 </div>
 
@@ -157,7 +157,7 @@ Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 10 in Darmsta
 
 Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
-[Zu ClassPass](#classpass)
+[Zu ClassPass](/de/classpass/)
 
 </div>
 
@@ -167,7 +167,7 @@ Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
 Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
-[Zu Fitness First](#fitness-first)
+[Zu Fitness First](/de/fitness-first/)
 
 </div>
 

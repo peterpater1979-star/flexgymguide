@@ -26,7 +26,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-tours">Profitez de 10 séances gratuites en 14 jours</a>
-<a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
+<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
 </div>
 
 </div>
@@ -40,7 +40,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24.
 
 <div class="knoppen">
-<a class="knop" href="#basic-fit">Voir Basic-Fit</a>
+<a class="knop" href="/fr/basic-fit/">Voir Basic-Fit</a>
 </div>
 
 </div>
@@ -145,7 +145,7 @@ Basic-Fit a des salles à Tours. C’est une chaîne de salles à petit prix, av
 
 Choisis ClassPass. Passe librement d’un studio et d’un cours à l’autre.
 
-[Voir ClassPass](#classpass)
+[Voir ClassPass](/fr/classpass/)
 
 </div>
 
@@ -155,7 +155,7 @@ Choisis ClassPass. Passe librement d’un studio et d’un cours à l’autre.
 
 Choisis Basic-Fit. Une salle à petit prix, avec ou sans engagement.
 
-[Voir Basic-Fit](#basic-fit)
+[Voir Basic-Fit](/fr/basic-fit/)
 
 </div>
 

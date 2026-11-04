@@ -9,6 +9,8 @@ crumb: "Deporte para estudiantes"
 kicker: "Guía"
 ---
 
+<div class="fotobanner smal foto-student" role="img" aria-label="Dos deportistas en el gimnasio"></div>
+
 Como estudiante quieres hacer deporte sin gastar mucho y sin atarte durante mucho tiempo. Tu horario cambia cada cuatrimestre, en verano quizá te vas y en época de exámenes tienes poco tiempo. Estas son tus opciones.
 
 <h2 id="kort">En resumen</h2>

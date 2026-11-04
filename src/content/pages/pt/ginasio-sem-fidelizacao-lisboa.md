@@ -44,7 +44,7 @@ Muitas cadeias de ginásios em Portugal têm planos com fidelização (muitas ve
 | --- | --- | --- | --- |
 | Element Gyms Classic (ginásios da tua região) | 5,99 € por semana | Sem fidelização | 5 € (novembro de 2026) |
 
-<p class="klein">Fonte: <a href="https://elementgyms.pt/planos/">elementgyms.pt/planos</a> (novembro de 2026). Há também planos com mais ou menos ginásios. Confirma sempre o preço atual e as condições com o ginásio.</p>
+<p class="klein">Fonte: elementgyms.pt/planos (novembro de 2026). Há também planos com mais ou menos ginásios. Confirma sempre o preço atual e as condições com o ginásio.</p>
 
 Vê todos os planos, o horário e como cancelar em [Tudo sobre a Element Gyms](/pt/element-gyms/).
 

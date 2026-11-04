@@ -25,7 +25,7 @@ Etkö halua sitoutua yhteen saliin? Helsingissä varaat tunteja studioilta ympä
 Joogaa, pilatesta, voimaharjoittelua ja muuta yhdellä krediittijäsenyydellä.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Katso ClassPass</a>
+<a class="knop knop-affiliate" href="/fi/classpass/">Katso ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Joogaa, pilatesta, voimaharjoittelua ja muuta yhdellä krediittijäsenyydellä.
 SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa.
 
 <div class="knoppen">
-<a class="knop" href="#elixia">Katso ELIXIA</a>
+<a class="knop" href="/fi/elixia/">Katso ELIXIA</a>
 </div>
 
 </div>
@@ -142,7 +142,7 @@ ELIXIA kuuluu SATS Groupiin, ja sillä on yli 30 kuntokeskusta Suomessa. Helsing
 
 Valitse ClassPass. Vaihda vapaasti joogan, pilateksen, nyrkkeilyn ja spinningin välillä.
 
-[ClassPassiin](#classpass)
+[ClassPassiin](/fi/classpass/)
 
 </div>
 <div class="kolom">
@@ -151,7 +151,7 @@ Valitse ClassPass. Vaihda vapaasti joogan, pilateksen, nyrkkeilyn ja spinningin 
 
 Valitse ELIXIA. Kuntosali, jossa on ryhmäliikuntaa.
 
-[Katso ELIXIA](#elixia)
+[Katso ELIXIA](/fi/elixia/)
 
 </div>
 <div class="kolom">

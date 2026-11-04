@@ -25,7 +25,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Stuttgart trainierst
 Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 220 Clubs in Deutschland, 4 in Stuttgart. Mit Kursen, Wellness und teils Schwimmbad.
 
 <div class="knoppen">
-<a class="knop" href="#fitness-first">Fitness First ansehen</a>
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 Günstige Fitnesskette mit über 230 Studios, auch in Stuttgart. Flex ohne feste Laufzeit.
 
 <div class="knoppen">
-<a class="knop" href="#mcfit">McFit ansehen</a>
+<a class="knop" href="/de/mcfit/">McFit ansehen</a>
 </div>
 
 </div>
@@ -75,7 +75,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> 1 Monat gratis, 10 Workouts | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | Mit Flex ohne lange Bindung |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich | <span class="ja" aria-hidden="true">✓</span> Über 230 Studios in Europa |
-| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) |
+| **Mehr erfahren** | [Alles über ClassPass](/de/classpass/) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) |
 
 </div>
 
@@ -208,7 +208,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
-[Zu ClassPass](#classpass)
+[Zu ClassPass](/de/classpass/)
 
 </div>
 
@@ -218,7 +218,7 @@ Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
 Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
-[Zu Fitness First](#fitness-first)
+[Zu Fitness First](/de/fitness-first/)
 
 </div>
 

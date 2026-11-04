@@ -9,6 +9,8 @@ crumb: "Sport im Studium"
 kicker: "Ratgeber"
 ---
 
+<div class="fotobanner smal foto-student" role="img" aria-label="Zwei Sportler im Fitnessstudio"></div>
+
 Im Studium willst du Sport machen, ohne viel Geld auszugeben und ohne dich lange zu binden. Dein Stundenplan ändert sich jedes Semester, im Sommer bist du vielleicht weg, und in der Prüfungszeit hast du wenig Zeit. Das sind deine Möglichkeiten.
 
 <h2 id="kort">Kurz gesagt</h2>

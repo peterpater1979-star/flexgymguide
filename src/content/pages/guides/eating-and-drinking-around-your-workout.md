@@ -10,6 +10,8 @@ crumb: "Eating and drinking"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Dumbbells and water bottle"></div>
+
 You don't need a meal plan to enjoy your workout. A bottle of water, something small to eat at the right time and a snack for afterwards will get you a long way. This guide covers what many people bring, and what you can safely skip.
 
 <p class="klein">This guide gives practical tips and is not medical or nutrition advice. If you have a condition, an allergy or a special diet, talk to a doctor or dietitian.</p>

@@ -25,7 +25,7 @@ Geen zin om vast te zitten aan één sportschool? In Brussel boek je met een spo
 Yoga, pilates, krachttraining en meer met één abonnement met credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
+<a class="knop knop-affiliate" href="/be/classpass/">Bekijk ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, pilates, krachttraining en meer met één abonnement met credits.
 Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
 
 <div class="knoppen">
-<a class="knop" href="#basic-fit">Bekijk Basic-Fit</a>
+<a class="knop" href="/be/basic-fit/">Bekijk Basic-Fit</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
 Sportschoolketen met 8 clubs in Brussel, met fitness en groepslessen met een coach.
 
 <div class="knoppen">
-<a class="knop" href="#jims">Bekijk Jims</a>
+<a class="knop" href="/be/jims/">Bekijk Jims</a>
 </div>
 
 </div>
@@ -183,7 +183,7 @@ Jims is een Belgische sportschoolketen met meer dan 80 clubs in België, waarvan
 
 Kies ClassPass. Wissel vrij tussen yoga, pilates, boksen en spinning.
 
-[Naar ClassPass](#classpass)
+[Naar ClassPass](/be/classpass/)
 
 </div>
 
@@ -193,7 +193,7 @@ Kies ClassPass. Wissel vrij tussen yoga, pilates, boksen en spinning.
 
 Kies Basic-Fit. Een voordelige sportschool, met of zonder looptijd.
 
-[Naar Basic-Fit](#basic-fit)
+[Naar Basic-Fit](/be/basic-fit/)
 
 </div>
 

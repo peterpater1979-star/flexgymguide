@@ -10,6 +10,8 @@ crumb: "Ensimmäinen tuntisi"
 kicker: "Opas"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Treeni kuntosalilla"></div>
+
 Ensimmäinen tunti uudessa studiossa voi jännittää, varsinkin kun kokeilet treenipassia tai kokeilutuntia etkä vielä tunne paikkaa. Kun laukussa on oikeat tavarat ja muistat muutaman yksinkertaisen asian, ensimmäinen käynti on paljon helpompi.
 
 <h2 id="perusteet">Perusasiat joka käynnille</h2>
