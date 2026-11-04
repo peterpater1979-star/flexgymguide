@@ -10,6 +10,8 @@ crumb: "Basic-Fit opzeggen"
 kicker: "Gids"
 ---
 
+<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Sportschool"></div>
+
 Je zegt Basic-Fit gratis op via My Basic-Fit, de app of de oranje kiosk in de club. Er geldt een opzegtermijn van 4 weken. Zit je nog in het eerste jaar van een jaarabonnement, dan loopt dat jaar eerst af.
 
 <h2 id="kort">In het kort</h2>

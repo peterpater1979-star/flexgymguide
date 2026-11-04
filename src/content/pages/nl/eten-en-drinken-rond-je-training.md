@@ -9,6 +9,8 @@ crumb: "Eten en drinken rond je training"
 kicker: "Gids"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Halters en drinkfles"></div>
+
 Je hoeft geen voedingsschema te volgen om lekker te trainen. Met een fles water, iets kleins te eten op het juiste moment en een snack voor daarna kom je al een heel eind. In deze gids lees je wat veel sporters meenemen, en wat je gerust kunt overslaan.
 
 <p class="klein">Deze gids geeft praktische tips en is geen medisch of voedingsadvies. Heb je een aandoening, allergie of speciaal dieet, overleg dan met een arts of diëtist.</p>

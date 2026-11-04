@@ -9,6 +9,8 @@ crumb: "Træning som studerende"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-student" role="img" aria-label="Træning i fitnesscenter"></div>
+
 Som studerende vil du gerne træne uden at bruge mange penge og uden at binde dig længe. Dit skema ændrer sig hvert semester, om sommeren er du måske væk, og i eksamensperioden har du ikke meget tid. Her er dine muligheder.
 
 <h2 id="kort">Kort fortalt</h2>

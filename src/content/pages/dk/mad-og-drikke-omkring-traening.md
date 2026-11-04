@@ -9,6 +9,8 @@ crumb: "Mad og drikke"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Håndvægte og drikkedunk"></div>
+
 Du behøver ikke en kostplan for at få en god træning. En flaske vand, lidt at spise på det rigtige tidspunkt og en snack til bagefter rækker langt. I denne guide kan du læse, hvad mange tager med, og hvad du roligt kan springe over.
 
 <p class="klein">Denne guide giver praktiske tips og er ikke medicinsk rådgivning eller kostrådgivning. Har du en sygdom, en allergi eller en særlig kost, så tal med en læge eller diætist.</p>

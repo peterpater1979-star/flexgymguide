@@ -10,6 +10,8 @@ crumb: "Din første time"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Trening på treningssenter"></div>
+
 En første time på et nytt studio kan føles litt skummelt, særlig når du prøver et treningspass eller en prøvetime og ikke kjenner stedet ennå. Med de riktige tingene i sekken og noen enkle vaner blir det første besøket mye enklere.
 
 <h2 id="grunnleggende">Det grunnleggende til hvert besøk</h2>

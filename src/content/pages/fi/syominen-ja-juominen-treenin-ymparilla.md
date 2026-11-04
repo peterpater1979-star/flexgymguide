@@ -10,6 +10,8 @@ crumb: "Syöminen ja juominen"
 kicker: "Opas"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Käsipainot ja juomapullo"></div>
+
 Hyvä treeni ei vaadi ruokavaliosuunnitelmaa. Vesipullo, jotain pientä syötävää oikeaan aikaan ja välipala treenin jälkeen riittävät pitkälle. Tästä oppaasta näet, mitä moni ottaa mukaan ja minkä voit hyvin jättää väliin.
 
 <p class="klein">Tämä opas antaa käytännön vinkkejä, eikä se ole lääketieteellinen neuvo tai ravitsemusneuvonta. Jos sinulla on sairaus, allergia tai erityisruokavalio, keskustele lääkärin tai ravitsemusterapeutin kanssa.</p>

@@ -10,6 +10,8 @@ crumb: "A tua primeira aula"
 kicker: "Guia"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Treino no ginásio"></div>
+
 Uma primeira aula num estúdio novo pode intimidar, sobretudo quando estás a experimentar um passe desportivo ou uma aula experimental e ainda não conheces o sítio. Com as coisas certas no saco e alguns hábitos simples, a tua primeira visita fica muito mais fácil.
 
 <h2 id="basico">O básico para cada visita</h2>

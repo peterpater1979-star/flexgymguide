@@ -10,6 +10,8 @@ crumb: "McFit kündigen"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-mcfit" role="img" aria-label="Fitnessstudio"></div>
+
 Du kündigst McFit online über den Link "Mitgliedschaft kündigen" auf mcfit.com. Bei einem Vertrag über 12 oder 24 Monate kündigst du in der Regel mit einem Monat Frist zum Ende der Mindestlaufzeit. Den Flex-Tarif kannst du monatlich kündigen.
 
 <h2 id="kurz">Kurz gesagt</h2>

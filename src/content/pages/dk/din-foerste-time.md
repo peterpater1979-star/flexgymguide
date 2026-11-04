@@ -10,6 +10,8 @@ crumb: "Din første time"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Træning i fitnesscenter"></div>
+
 En første time i et nyt studie kan virke lidt overvældende, især når du prøver et træningspas eller en prøvetime og ikke kender stedet endnu. Med de rigtige ting i tasken og nogle få enkle vaner bliver dit første besøg meget nemmere.
 
 <h2 id="basis">Det grundlæggende til hvert besøg</h2>

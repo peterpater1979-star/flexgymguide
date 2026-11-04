@@ -9,6 +9,8 @@ crumb: "Luxembourg"
 kicker: "Country guide Luxembourg"
 ---
 
+<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
+
 Don't want to be tied to one gym for a year? In Luxembourg several gym chains offer memberships you pay per month or per four weeks. Here's an overview of the flexible options, with what they cost and where you'll find them.
 
 <p class="klein">ClassPass doesn't have partner studios in Luxembourg yet. As soon as it does, you'll find it here too.</p>

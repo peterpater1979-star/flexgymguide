@@ -10,6 +10,8 @@ crumb: "Ton premier cours"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Séance en salle de sport"></div>
+
 Un premier cours dans un nouveau studio peut impressionner, surtout quand tu testes un pass sport ou une séance d’essai et que tu ne connais pas encore les lieux. Avec les bonnes affaires dans ton sac et quelques habitudes simples, ta première visite devient beaucoup plus facile.
 
 <h2 id="bases">L’essentiel pour chaque visite</h2>

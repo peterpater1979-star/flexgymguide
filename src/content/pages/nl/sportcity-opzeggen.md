@@ -10,6 +10,8 @@ crumb: "SportCity opzeggen"
 kicker: "Gids"
 ---
 
+<div class="fotobanner smal foto-sporttas" role="img" aria-label="Sporttas"></div>
+
 Je zegt SportCity op in de app, per e-mail aan je club of in de club zelf. Er geldt een opzegtermijn van een maand. Heb je een lidmaatschap met een looptijd van een of twee jaar, dan zeg je uiterlijk een maand voor het einde van die looptijd op.
 
 <h2 id="kort">In het kort</h2>

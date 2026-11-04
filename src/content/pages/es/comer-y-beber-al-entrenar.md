@@ -10,6 +10,8 @@ crumb: "Comer y beber"
 kicker: "Guía"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Mancuernas y botella de agua"></div>
+
 No necesitas un plan de alimentación para entrenar a gusto. Con una botella de agua, algo pequeño en el momento adecuado y un tentempié para después ya tienes mucho ganado. En esta guía verás lo que lleva mucha gente y lo que te puedes ahorrar.
 
 <p class="klein">Esta guía da consejos prácticos y no es asesoramiento médico ni nutricional. Si tienes una enfermedad, una alergia o una dieta especial, consulta con un médico o un dietista.</p>

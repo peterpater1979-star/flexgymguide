@@ -9,6 +9,8 @@ crumb: "Sporten als student"
 kicker: "Gids"
 ---
 
+<div class="fotobanner smal foto-student" role="img" aria-label="Sporten in de sportschool"></div>
+
 Als student wil je sporten zonder veel geld uit te geven en zonder lang vast te zitten. Je rooster verandert per periode, in de zomer ben je misschien weg en in de tentamenweken heb je weinig tijd. Dit zijn je opties.
 
 <h2 id="kort">In het kort</h2>

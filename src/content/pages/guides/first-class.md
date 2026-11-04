@@ -10,6 +10,8 @@ crumb: "Your first class"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Workout at the gym"></div>
+
 A first class at a new studio can feel a bit daunting, especially when you're trying a fitness pass or a free trial and don't know the place yet. With the right things in your bag and a few simple habits, your first visit is a lot easier.
 
 <h2 id="basics">The basics for every visit</h2>

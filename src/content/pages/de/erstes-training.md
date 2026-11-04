@@ -10,6 +10,8 @@ crumb: "Dein erstes Training"
 kicker: "Ratgeber"
 ---
 
+<div class="fotobanner smal foto-eerste-les" role="img" aria-label="Training im Fitnessstudio"></div>
+
 Ein erster Kurs in einem neuen Studio kann aufregend sein, vor allem wenn du einen Sportpass oder ein Probetraining ausprobierst und den Ort noch nicht kennst. Mit den richtigen Sachen in der Tasche und ein paar einfachen Gewohnheiten wird dein erster Besuch viel leichter.
 
 <h2 id="grundlagen">Die Grundlagen für jeden Besuch</h2>

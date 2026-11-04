@@ -9,6 +9,8 @@ crumb: "Mat og drikke"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-eten-en-drinken" role="img" aria-label="Manualer og drikkeflaske"></div>
+
 Du trenger ingen kostplan for å få en god økt. En flaske vann, litt å spise til riktig tid og et mellommåltid til etterpå kommer du langt med. I denne guiden leser du hva mange tar med seg, og hva du trygt kan droppe.
 
 <p class="klein">Denne guiden gir praktiske tips og er ikke medisinske råd eller kostråd. Har du en sykdom, en allergi eller et spesielt kosthold, snakk med en lege eller klinisk ernæringsfysiolog.</p>

@@ -9,6 +9,8 @@ crumb: "Sport étudiant"
 kicker: "Guide"
 ---
 
+<div class="fotobanner smal foto-student" role="img" aria-label="Entraînement en salle"></div>
+
 Quand tu es étudiant, tu veux faire du sport sans dépenser beaucoup et sans t'engager longtemps. Ton emploi du temps change chaque semestre, tu pars peut-être l'été et tu as peu de temps pendant les examens. Voici tes options.
 
 <h2 id="kort">En bref</h2>

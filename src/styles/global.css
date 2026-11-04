@@ -122,6 +122,10 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-keepcool { --foto: url(/img/foto/keepcool.jpg); }
 .foto-gewichten { --foto: url(/img/foto/gewichten.jpg); background-position: center 25%; }
 .foto-sporttas { --foto: url(/img/foto/sporttas.jpg); background-position: center 78%; max-width: 72ch; }
+/* Gidsen: voorlopige foto's, later te vervangen door eigen bestanden met dezelfde naam */
+.foto-eerste-les { --foto: url(/img/foto/eerste-les.jpg); }
+.foto-eten-en-drinken { --foto: url(/img/foto/eten-en-drinken.jpg); }
+.foto-student { --foto: url(/img/foto/student.jpg); }
 .continenten { list-style: none; padding: 0; margin: 1rem 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr)); gap: .25rem 1.5rem; }
 .continenten li { margin: 0; padding: .5rem 0; border-top: 1px solid var(--line); font-size: .9rem; line-height: 1.5; }
 .continenten li.breed { grid-column: 1 / -1; }
