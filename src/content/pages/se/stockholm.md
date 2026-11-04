@@ -25,7 +25,7 @@ Vill du inte vara bunden till ett enda gym? I Stockholm bokar du pass hos studio
 Yoga, pilates, styrketräning och mer med ett abonnemang med krediter.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="/se/classpass/">Se ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, pilates, styrketräning och mer med ett abonnemang med krediter.
 Nordisk gymkedja med gym och gruppträning.
 
 <div class="knoppen">
-<a class="knop" href="#sats">Se SATS</a>
+<a class="knop" href="/se/sats/">Se SATS</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Nordisk gymkedja med gym och gruppträning.
 Svensk gymkedja med över 50 klubbar i Stockholmsområdet, med gym och gruppträning. Från 299 kr i månaden.
 
 <div class="knoppen">
-<a class="knop" href="#nordic-wellness">Se Nordic Wellness</a>
+<a class="knop" href="/se/nordic-wellness/">Se Nordic Wellness</a>
 </div>
 
 </div>
@@ -184,7 +184,7 @@ Nordic Wellness är en svensk gymkedja med över 400 klubbar, varav över 50 klu
 
 Välj ClassPass. Byt fritt mellan yoga, pilates, boxning och spinning.
 
-[Till ClassPass](#classpass)
+[Till ClassPass](/se/classpass/)
 
 </div>
 <div class="kolom">
@@ -193,7 +193,7 @@ Välj ClassPass. Byt fritt mellan yoga, pilates, boxning och spinning.
 
 Välj SATS. Ett gym med gruppträning.
 
-[Se SATS](#sats)
+[Se SATS](/se/sats/)
 
 </div>
 <div class="kolom">

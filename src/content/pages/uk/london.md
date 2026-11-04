@@ -25,7 +25,7 @@ Don't want to be tied to one gym? In London you can use a fitness pass at studio
 Yoga, Pilates, boxing and more with one credit-based membership.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">See ClassPass</a>
+<a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 17 clubs in London, with group classes and multi-club access.
 
 <div class="knoppen">
-<a class="knop" href="#fitness-first">See Fitness First</a>
+<a class="knop" href="/uk/fitness-first/">See Fitness First</a>
 </div>
 
 </div>
@@ -65,7 +65,7 @@ Low-cost gyms without a contract, most of them open 24/7.
 Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.99 a month.
 
 <div class="knoppen">
-<a class="knop" href="#puregym">See PureGym</a>
+<a class="knop" href="/uk/puregym/">See PureGym</a>
 </div>
 
 </div>
@@ -87,7 +87,7 @@ Prices and terms change regularly. Always check the latest details with the prov
 | **Cancelling** | Change or cancel any time | One calendar month's notice to end at your minimum term; after that, cancel any time with one month's notice. Cancel within 7 days of joining at no cost | No contract on monthly plans. Saver plans run 9 or 12 months | No contract, cancel any time |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> 14 days free, 10 workouts | Guest pass | Day pass | – |
 | **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK clubs only | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only | – |
-| **Find out more** | [Try for free](#classpass) | [All about Fitness First](/uk/fitness-first/) | [All about The Gym Group](/uk/the-gym-group/) | [All about PureGym](/uk/puregym/) |
+| **Find out more** | [All about ClassPass](/uk/classpass/) | [All about Fitness First](/uk/fitness-first/) | [All about The Gym Group](/uk/the-gym-group/) | [All about PureGym](/uk/puregym/) |
 
 </div>
 
@@ -213,7 +213,7 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 90 gyms in
 
 Go for ClassPass. Switch freely between yoga, Pilates, boxing and spin.
 
-[Go to ClassPass](#classpass)
+[Go to ClassPass](/uk/classpass/)
 
 </div>
 
@@ -223,7 +223,7 @@ Go for ClassPass. Switch freely between yoga, Pilates, boxing and spin.
 
 Go for Fitness First. A gym with classes, plus other clubs at your tier.
 
-[Go to Fitness First](#fitness-first)
+[Go to Fitness First](/uk/fitness-first/)
 
 </div>
 

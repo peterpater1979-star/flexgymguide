@@ -25,7 +25,7 @@ Vil du ikke være bundet til ét fitnesscenter? I København booker du hold i st
 Yoga, pilates, styrketræning og mere med ét abonnement med credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="/dk/classpass/">Se ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, pilates, styrketræning og mere med ét abonnement med credits.
 Nordisk fitnesskæde med træningssal og holdtræning.
 
 <div class="knoppen">
-<a class="knop" href="#sats">Se SATS</a>
+<a class="knop" href="/dk/sats/">Se SATS</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Nordisk fitnesskæde med træningssal og holdtræning.
 Fitnesskæde med 128 centre i Danmark, fra 249 kr. om måneden.
 
 <div class="knoppen">
-<a class="knop" href="#puregym">Se PureGym</a>
+<a class="knop" href="/dk/puregym/">Se PureGym</a>
 </div>
 
 </div>
@@ -184,7 +184,7 @@ PureGym har 128 centre i Danmark, også i København. Med Core træner du i ét 
 
 Vælg ClassPass. Skift frit mellem yoga, pilates, boksning og spinning.
 
-[Til ClassPass](#classpass)
+[Til ClassPass](/dk/classpass/)
 
 </div>
 <div class="kolom">
@@ -193,7 +193,7 @@ Vælg ClassPass. Skift frit mellem yoga, pilates, boksning og spinning.
 
 Vælg SATS. Et fitnesscenter med holdtræning.
 
-[Se SATS](#sats)
+[Se SATS](/dk/sats/)
 
 </div>
 <div class="kolom">
@@ -202,7 +202,7 @@ Vælg SATS. Et fitnesscenter med holdtræning.
 
 Vælg PureGym. Et billigt fitnesscenter tæt på.
 
-[Se PureGym](#puregym)
+[Se PureGym](/dk/puregym/)
 
 </div>
 

@@ -26,7 +26,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-la-rochelle">Profitez de 10 séances gratuites en 14 jours</a>
-<a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
+<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
 </div>
 
 </div>
@@ -40,7 +40,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
 
 <div class="knoppen">
-<a class="knop" href="#keepcool">Voir Keepcool</a>
+<a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
 </div>
 
 </div>
@@ -145,7 +145,7 @@ Keepcool a une salle à La Rochelle. C’est une chaîne française avec plus de
 
 Choisis ClassPass. Passe librement d’un studio et d’un cours à l’autre.
 
-[Voir ClassPass](#classpass)
+[Voir ClassPass](/fr/classpass/)
 
 </div>
 
@@ -165,7 +165,7 @@ Choisis ClassPass. Ton abonnement marche aussi dans les autres pays où ClassPas
 
 Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
 
-[Voir Keepcool](#keepcool)
+[Voir Keepcool](/fr/keepcool/)
 
 </div>
 

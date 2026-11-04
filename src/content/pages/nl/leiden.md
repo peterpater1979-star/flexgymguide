@@ -25,7 +25,7 @@ Geen zin in een jaarcontract bij één sportschool? In Leiden kun je met een spo
 Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
+<a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
 </div>
 
 </div>
@@ -38,7 +38,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 Eigen clubs met gym en groepslessen: 1 in Leiden, 53 in heel Nederland. Flex is maandelijks opzegbaar, een contract van 1 of 2 jaar is goedkoper en geeft € 1 korting per workout.
 
-[Bekijk Trainmore](#trainmore)
+[Bekijk Trainmore](/nl/trainmore/)
 
 </div>
 
@@ -50,7 +50,7 @@ Eigen clubs met gym en groepslessen: 1 in Leiden, 53 in heel Nederland. Flex is 
 
 5 clubs in Leiden, met gym en groepslessen. Bij Steenschuur vanaf € 52,99 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar voor € 64,99.
 
-[Bekijk SportCity](#sportcity)
+[Bekijk SportCity](/nl/sportcity/)
 
 </div>
 
@@ -196,7 +196,7 @@ Bij Flex betaal je € 9,99 inschrijfgeld, in plaats van de gewone € 14,99. Bi
 
 Kies ClassPass. Je wisselt vrij tussen yoga, pilates, boksen en spinning.
 
-[Naar ClassPass](#classpass)
+[Naar ClassPass](/nl/classpass/)
 
 </div>
 
@@ -206,7 +206,7 @@ Kies ClassPass. Je wisselt vrij tussen yoga, pilates, boksen en spinning.
 
 Kies Trainmore. Een vaste club met gym en lessen, dicht bij huis of werk.
 
-[Naar Trainmore](#trainmore)
+[Naar Trainmore](/nl/trainmore/)
 
 </div>
 

@@ -25,7 +25,7 @@ kicker: "Guía de ciudad Marbella"
 Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
@@ -100,7 +100,7 @@ Una oferta más pequeña, en el centro, la Milla de Oro y Nueva Andalucía. Yoga
 
 Elige ClassPass. Pasa libremente del yoga al pilates, al boxeo o al spinning.
 
-[Ver ClassPass](#classpass)
+[Ver ClassPass](/es/classpass/)
 
 </div>
 <div class="kolom">

@@ -26,7 +26,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Profitez de 10 séances gratuites en 14 jours</a>
-<a class="knop knop-rand" href="#classpass">Voir ClassPass</a>
+<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
 </div>
 
 </div>
@@ -40,7 +40,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24.
 
 <div class="knoppen">
-<a class="knop" href="#basic-fit">Voir Basic-Fit</a>
+<a class="knop" href="/fr/basic-fit/">Voir Basic-Fit</a>
 </div>
 
 </div>
@@ -54,7 +54,7 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clubs 24h/24.
 
 <div class="knoppen">
-<a class="knop" href="#fitness-park">Voir Fitness Park</a>
+<a class="knop" href="/fr/fitness-park/">Voir Fitness Park</a>
 </div>
 
 </div>
@@ -68,7 +68,7 @@ Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clu
 Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
 
 <div class="knoppen">
-<a class="knop" href="#keepcool">Voir Keepcool</a>
+<a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
 </div>
 
 </div>
@@ -231,7 +231,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 Choisis ClassPass. Passe librement du yoga au Pilates, à la boxe ou au spinning.
 
-[Voir ClassPass](#classpass)
+[Voir ClassPass](/fr/classpass/)
 
 </div>
 
@@ -241,7 +241,7 @@ Choisis ClassPass. Passe librement du yoga au Pilates, à la boxe ou au spinning
 
 Choisis Basic-Fit. Une salle à petit prix, avec ou sans engagement.
 
-[Voir Basic-Fit](#basic-fit)
+[Voir Basic-Fit](/fr/basic-fit/)
 
 </div>
 
@@ -251,7 +251,7 @@ Choisis Basic-Fit. Une salle à petit prix, avec ou sans engagement.
 
 Choisis Fitness Park. Une salle avec cours collectifs, avec ou sans engagement.
 
-[Voir Fitness Park](#fitness-park)
+[Voir Fitness Park](/fr/fitness-park/)
 
 </div>
 
@@ -261,7 +261,7 @@ Choisis Fitness Park. Une salle avec cours collectifs, avec ou sans engagement.
 
 Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
 
-[Voir Keepcool](#keepcool)
+[Voir Keepcool](/fr/keepcool/)
 
 </div>
 

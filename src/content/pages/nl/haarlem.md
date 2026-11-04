@@ -25,7 +25,7 @@ Geen zin in een jaarcontract bij één sportschool? In Haarlem kun je met een sp
 Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Bekijk ClassPass</a>
+<a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
 </div>
 
 </div>
@@ -38,7 +38,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 Eigen clubs met gym en groepslessen: 1 in Haarlem, 53 in heel Nederland. Bij Hortusplein vanaf € 65 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Met een contract krijg je € 1 korting per workout.
 
-[Bekijk Trainmore](#trainmore)
+[Bekijk Trainmore](/nl/trainmore/)
 
 </div>
 
@@ -50,7 +50,7 @@ Eigen clubs met gym en groepslessen: 1 in Haarlem, 53 in heel Nederland. Bij Hor
 
 4 clubs in Haarlem, met gym en groepslessen. Bij Raaks vanaf € 52,99 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar voor € 64,99.
 
-[Bekijk SportCity](#sportcity)
+[Bekijk SportCity](/nl/sportcity/)
 
 </div>
 
@@ -63,7 +63,7 @@ Eigen clubs met gym en groepslessen: 1 in Haarlem, 53 in heel Nederland. Bij Hor
 Voordelige sportschoolketen met 3 clubs in Haarlem, veel dag en nacht open.
 
 <div class="knoppen">
-<a class="knop" href="#basic-fit">Bekijk Basic-Fit</a>
+<a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>
 </div>
 
 </div>
@@ -235,7 +235,7 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 Kies ClassPass. Je wisselt vrij tussen yoga, pilates, boksen en spinning.
 
-[Naar ClassPass](#classpass)
+[Naar ClassPass](/nl/classpass/)
 
 </div>
 
@@ -245,7 +245,7 @@ Kies ClassPass. Je wisselt vrij tussen yoga, pilates, boksen en spinning.
 
 Kies Trainmore. Een vaste club met gym en lessen, dicht bij huis of werk.
 
-[Naar Trainmore](#trainmore)
+[Naar Trainmore](/nl/trainmore/)
 
 </div>
 

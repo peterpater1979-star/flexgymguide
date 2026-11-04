@@ -25,7 +25,7 @@ Don't want to be tied to one gym? In Dublin you can use a fitness pass at studio
 Yoga, Pilates, strength training and more with one credit-based membership.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">See ClassPass</a>
+<a class="knop knop-affiliate" href="/ie/classpass/">See ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, Pilates, strength training and more with one credit-based membership.
 Irish gym chain without a contract, from €38 a month for one gym.
 
 <div class="knoppen">
-<a class="knop" href="#flyefit">See Flyefit</a>
+<a class="knop" href="/ie/flyefit/">See Flyefit</a>
 </div>
 
 </div>
@@ -144,7 +144,7 @@ Flyefit has 20 gyms in Dublin, plus one in Cork and one in Galway. Membership is
 
 Go for ClassPass. Switch freely between yoga, Pilates, boxing and spin.
 
-[Go to ClassPass](#classpass)
+[Go to ClassPass](/ie/classpass/)
 
 </div>
 
@@ -154,7 +154,7 @@ Go for ClassPass. Switch freely between yoga, Pilates, boxing and spin.
 
 Go for Flyefit. A gym without a contract, close to home or work.
 
-[Go to Flyefit](#flyefit)
+[Go to Flyefit](/ie/flyefit/)
 
 </div>
 

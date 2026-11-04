@@ -25,7 +25,7 @@ kicker: "Guía de ciudad Ibiza ciudad"
 Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
@@ -100,7 +100,7 @@ Una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre 
 
 Elige ClassPass. Pasa libremente del yoga al pilates, al boxeo o al spinning.
 
-[Ver ClassPass](#classpass)
+[Ver ClassPass](/es/classpass/)
 
 </div>
 <div class="kolom">

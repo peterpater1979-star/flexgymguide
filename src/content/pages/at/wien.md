@@ -25,7 +25,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Wien trainierst du m
 Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/at/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 4 Clubs in und um Wien. Mit Geräten, Kursen und Wellness.
 
 <div class="knoppen">
-<a class="knop" href="#fitness-first">Fitness First ansehen</a>
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 Günstiges Gym mit mehreren Studios in Wien. Flex ab 34,90 € im Monat.
 
 <div class="knoppen">
-<a class="knop" href="#mcfit">McFit ansehen</a>
+<a class="knop" href="/de/mcfit/">McFit ansehen</a>
 </div>
 
 </div>
@@ -67,7 +67,7 @@ Günstiges Gym mit mehreren Studios in Wien. Flex ab 34,90 € im Monat.
 Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Wien.
 
 <div class="knoppen">
-<a class="knop" href="#holmes-place">Holmes Place ansehen</a>
+<a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
 </div>
 
 </div>
@@ -89,7 +89,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst 12 Monate | – |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | – | – |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | Auch 220 Clubs in Deutschland | Über 230 Studios in Deutschland, Österreich und Italien | Auch in Deutschland, der Schweiz, Portugal und Griechenland |
-| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) | [Alles über Holmes Place](/de/holmes-place/) |
+| **Mehr erfahren** | [Alles über ClassPass](/at/classpass/) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) | [Alles über Holmes Place](/de/holmes-place/) |
 
 </div>
 
@@ -244,7 +244,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 3 Clubs in Wien. Die Cl
 
 Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
-[Zu ClassPass](#classpass)
+[Zu ClassPass](/at/classpass/)
 
 </div>
 
@@ -254,7 +254,7 @@ Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
 Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
-[Zu Fitness First](#fitness-first)
+[Zu Fitness First](/de/fitness-first/)
 
 </div>
 

@@ -25,7 +25,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du
 Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 220 Clubs in Deutschland, 15 in Berlin. Mit Kursen, Wellness und teils Schwimmbad.
 
 <div class="knoppen">
-<a class="knop" href="#fitness-first">Fitness First ansehen</a>
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 Günstige Fitnesskette mit über 230 Studios, auch in Berlin. Flex ohne feste Laufzeit.
 
 <div class="knoppen">
-<a class="knop" href="#mcfit">McFit ansehen</a>
+<a class="knop" href="/de/mcfit/">McFit ansehen</a>
 </div>
 
 </div>
@@ -67,7 +67,7 @@ Günstige Fitnesskette mit über 230 Studios, auch in Berlin. Flex ohne feste La
 Premium-Fitnessclub mit Service, Kursen und Wellness, mit 6 Clubs in Berlin.
 
 <div class="knoppen">
-<a class="knop" href="#holmes-place">Holmes Place ansehen</a>
+<a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
 </div>
 
 </div>
@@ -89,7 +89,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 | **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten | – |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> 1 Monat gratis, 10 Workouts | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | Mit Flex ohne lange Bindung | – |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich | <span class="ja" aria-hidden="true">✓</span> Über 230 Studios in Europa | Auch in Wien, der Schweiz, Portugal und Griechenland |
-| **Mehr erfahren** | [Kostenlos testen](#classpass) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) | [Alles über Holmes Place](/de/holmes-place/) |
+| **Mehr erfahren** | [Alles über ClassPass](/de/classpass/) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) | [Alles über Holmes Place](/de/holmes-place/) |
 
 </div>
 
@@ -250,7 +250,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
-[Zu ClassPass](#classpass)
+[Zu ClassPass](/de/classpass/)
 
 </div>
 
@@ -260,7 +260,7 @@ Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
 Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
-[Zu Fitness First](#fitness-first)
+[Zu Fitness First](/de/fitness-first/)
 
 </div>
 

@@ -25,7 +25,7 @@ Não te apetece ficar preso a um só ginásio? Em Porto podes reservar aulas em 
 Yoga, Pilates, treino de força e mais com uma só subscrição de créditos.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Ver ClassPass</a>
+<a class="knop knop-affiliate" href="/pt/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, Pilates, treino de força e mais com uma só subscrição de créditos.
 Cadeia de ginásios sem fidelização, com mais de 50 ginásios em Portugal.
 
 <div class="knoppen">
-<a class="knop" href="#element-gyms">Ver Element Gyms</a>
+<a class="knop" href="/pt/element-gyms/">Ver Element Gyms</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Cadeia de ginásios sem fidelização, com mais de 50 ginásios em Portugal.
 Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana.
 
 <div class="knoppen">
-<a class="knop" href="#holmes-place">Ver Holmes Place</a>
+<a class="knop" href="/pt/holmes-place/">Ver Holmes Place</a>
 </div>
 
 </div>
@@ -67,7 +67,7 @@ Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana.
 O antigo Fitness Hut: ginásio com aulas de grupo, sem fidelização.
 
 <div class="knoppen">
-<a class="knop" href="#vivagym">Ver VivaGym</a>
+<a class="knop" href="/pt/vivagym/">Ver VivaGym</a>
 </div>
 
 </div>
@@ -225,7 +225,7 @@ O VivaGym é o antigo Fitness Hut, com mais de 40 ginásios em Portugal. Escolhe
 
 Escolhe o ClassPass. Muda à vontade entre yoga, Pilates, boxe e spinning.
 
-[Ver ClassPass](#classpass)
+[Ver ClassPass](/pt/classpass/)
 
 </div>
 
@@ -235,7 +235,7 @@ Escolhe o ClassPass. Muda à vontade entre yoga, Pilates, boxe e spinning.
 
 Escolhe a Element Gyms. Um ginásio barato e sem fidelização.
 
-[Ver Element Gyms](#element-gyms)
+[Ver Element Gyms](/pt/element-gyms/)
 
 </div>
 
@@ -245,7 +245,7 @@ Escolhe a Element Gyms. Um ginásio barato e sem fidelização.
 
 Escolhe o Holmes Place. Um clube premium com tudo no mesmo sítio.
 
-[Ver Holmes Place](#holmes-place)
+[Ver Holmes Place](/pt/holmes-place/)
 
 </div>
 

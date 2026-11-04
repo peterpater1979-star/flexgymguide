@@ -25,7 +25,7 @@ Vil du ikke være bundet til ett treningssenter? I Oslo booker du timer hos stud
 Yoga, pilates, styrketrening og mer med ett abonnement med kreditter.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="#classpass">Se ClassPass</a>
+<a class="knop knop-affiliate" href="/no/classpass/">Se ClassPass</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Yoga, pilates, styrketrening og mer med ett abonnement med kreditter.
 Nordisk treningskjede med treningssal og gruppetimer.
 
 <div class="knoppen">
-<a class="knop" href="#sats">Se SATS</a>
+<a class="knop" href="/no/sats/">Se SATS</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Nordisk treningskjede med treningssal og gruppetimer.
 Treningskjede med 24 sentre i Oslo, åpent hver dag 05–24. 439 kr i måneden uten binding.
 
 <div class="knoppen">
-<a class="knop" href="#evo">Se EVO</a>
+<a class="knop" href="/no/evo/">Se EVO</a>
 </div>
 
 </div>
@@ -184,7 +184,7 @@ EVO Fitness er en treningskjede med sentre over hele Norge, og 24 av dem ligger 
 
 Velg ClassPass. Bytt fritt mellom yoga, pilates, boksing og spinning.
 
-[Til ClassPass](#classpass)
+[Til ClassPass](/no/classpass/)
 
 </div>
 <div class="kolom">
@@ -193,7 +193,7 @@ Velg ClassPass. Bytt fritt mellom yoga, pilates, boksing og spinning.
 
 Velg SATS. Et treningssenter med gruppetimer.
 
-[Se SATS](#sats)
+[Se SATS](/no/sats/)
 
 </div>
 <div class="kolom">
