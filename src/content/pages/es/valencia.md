@@ -121,7 +121,7 @@ Sobre todo en Ruzafa y L’Eixample, y también en Ciutat Vella, El Carmen, Beni
 - **[Gimnasio](/go/classpass-es-valencia-gimnasio/?epi=fgg-es-valencia)**: RZ75 en Ruzafa, ClassicFit, GROUND TRAINING STUDIO y EPIC Boutique Fitness
 - **[Masaje](/go/classpass-es-valencia-masaje/?epi=fgg-es-valencia)**: Body & Mind en Quatre Carreres, Zhen Terapies Bienestar en L’Eixample y Yoga with Joy (solo mujeres)
 - **[Recuperación](/go/classpass-es-valencia-recuperacion/?epi=fgg-es-valencia)** y **[sauna](/go/classpass-es-valencia-sauna/?epi=fgg-es-valencia)**: COOL MOVE
-- **[Faciales](/go/classpass-es-valencia-faciales/?epi=fgg-es-valencia)**: Ayre Pilates Reformer y Centro de belleza llajover
+- **[Faciales](/go/classpass-es-valencia-faciales/?epi=fgg-es-valencia)** y **[belleza](/go/classpass-es-valencia-belleza/?epi=fgg-es-valencia)**: Ayre Pilates Reformer, Skybeauty Valencia en la plaza de Alfons el Magnànim, pestañas en Lashes & More y Centro de belleza llajover en Poblats Marítims
 - **[Meditación](/go/classpass-es-valencia-meditacion/?epi=fgg-es-valencia)** y **[bienestar](/go/classpass-es-valencia-bienestar/?epi=fgg-es-valencia)**: Surya Vida, De Moon Yoga, THE YOGA BOX y Nude Wellness
 - También **[artes marciales](/go/classpass-es-valencia-artes-marciales/?epi=fgg-es-valencia)** y **[running](/go/classpass-es-valencia-running/?epi=fgg-es-valencia)**
 
