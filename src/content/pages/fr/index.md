@@ -129,6 +129,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <li><a href="/fr/annecy/"><strong>Annecy</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
 <li><a href="/fr/amiens/"><strong>Amiens</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
 <li><a href="/fr/avignon/"><strong>Avignon</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
+<li><a href="/fr/reims/"><strong>Reims</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/fr/troyes/"><strong>Troyes</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/fr/bayonne/"><strong>Bayonne</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/fr/poitiers/"><strong>Poitiers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
