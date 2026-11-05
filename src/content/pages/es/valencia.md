@@ -119,6 +119,10 @@ Sobre todo en Ruzafa y L’Eixample, y también en Ciutat Vella, El Carmen, Beni
 - **[Baile](/go/classpass-es-valencia-baile/?epi=fgg-es-valencia)**: Home Dance Studio y Barre Centro
 - **[Al aire libre](/go/classpass-es-valencia-aire-libre/?epi=fgg-es-valencia)**: yoga en el jardín del Turia con UNPACKED y Martha Yogaflow, y en la playa de La Patacona
 - **[Gimnasio](/go/classpass-es-valencia-gimnasio/?epi=fgg-es-valencia)**: RZ75 en Ruzafa, ClassicFit, GROUND TRAINING STUDIO y EPIC Boutique Fitness
+- **[Masaje](/go/classpass-es-valencia-masaje/?epi=fgg-es-valencia)**: Body & Mind en Quatre Carreres, Zhen Terapies Bienestar en L’Eixample y Yoga with Joy (solo mujeres)
+- **[Recuperación](/go/classpass-es-valencia-recuperacion/?epi=fgg-es-valencia)** y **[sauna](/go/classpass-es-valencia-sauna/?epi=fgg-es-valencia)**: COOL MOVE
+- **[Faciales](/go/classpass-es-valencia-faciales/?epi=fgg-es-valencia)**: Ayre Pilates Reformer y Centro de belleza llajover
+- **[Meditación](/go/classpass-es-valencia-meditacion/?epi=fgg-es-valencia)** y **[bienestar](/go/classpass-es-valencia-bienestar/?epi=fgg-es-valencia)**: Surya Vida, De Moon Yoga, THE YOGA BOX y Nude Wellness
 - También **[artes marciales](/go/classpass-es-valencia-artes-marciales/?epi=fgg-es-valencia)** y **[running](/go/classpass-es-valencia-running/?epi=fgg-es-valencia)**
 
 [Ver los estudios en Valencia en ClassPass](/go/classpass-es-valencia/?epi=fgg-es-valencia)
