@@ -117,7 +117,9 @@ Triana, Los Remedios, San Bernardo, Nervión y el Casco Antiguo, y también en T
 - **[Boxeo](/go/classpass-es-sevilla-boxeo/?epi=fgg-es-sevilla)**: fitbox en Hook Fitbox Republica en Triana, Hook Fitbox Club y SBM fit&box
 - **[Baile](/go/classpass-es-sevilla-baile/?epi=fgg-es-sevilla)**: Art in Movement en Triana
 - **[Gimnasio](/go/classpass-es-sevilla-gimnasio/?epi=fgg-es-sevilla)**: FDZ Funcional
-- También **[al aire libre](/go/classpass-es-sevilla-aire-libre/?epi=fgg-es-sevilla)** y **[running](/go/classpass-es-sevilla-running/?epi=fgg-es-sevilla)**
+- **[Masaje](/go/classpass-es-sevilla-masaje/?epi=fgg-es-sevilla)**: Koru Masajes en la calle Torneo, en el Casco Antiguo
+- **[Meditación](/go/classpass-es-sevilla-meditacion/?epi=fgg-es-sevilla)**: Suryiananda Yoga en Alcalá de Guadaíra
+- También **[al aire libre](/go/classpass-es-sevilla-aire-libre/?epi=fgg-es-sevilla)**, **[running](/go/classpass-es-sevilla-running/?epi=fgg-es-sevilla)** y **[recuperación](/go/classpass-es-sevilla-recuperacion/?epi=fgg-es-sevilla)**
 
 [Ver los estudios en Sevilla en ClassPass](/go/classpass-es-sevilla/?epi=fgg-es-sevilla)
 
