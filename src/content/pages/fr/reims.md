@@ -42,7 +42,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass |
 | --- | --- |
 | **Type** | Pass sport à crédits |
-| **Prix** | Selon le nombre de crédits par mois |
+| **Prix** | Abonnement standard 59 € par mois (37 crédits) |
 | **Engagement** | Aucun, résiliable à tout moment |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays |
@@ -77,6 +77,7 @@ Surtout dans le centre, autour de la cathédrale et du boulevard Lundy, et aussi
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
+- Abonnement standard à Reims : 37 crédits pour 59 € par mois
 - 14 jours gratuits avec 10 séances pour essayer
 - Ça marche aussi dans plus de 2 500 villes et 31 pays
 
