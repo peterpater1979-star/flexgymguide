@@ -10,7 +10,7 @@ crumb: "Reims"
 kicker: "Guide ville Reims"
 ---
 
-Pas envie d’être lié à une seule salle ? À Reims, tu peux réserver des cours dans des studios de la ville avec un pass sport. Voici ce qui te convient.
+Pas envie d’être lié à une seule salle ? À Reims, tu peux réserver des cours dans des studios de la ville avec un pass sport. L’offre ClassPass y est plus petite qu’à Paris ou à Lille, mais bien variée : du Pilates Reformer dans le centre, du HIIT et du renforcement en petit groupe, de la boxe, du yoga et l’accès à la salle chez GYM K. Voici comment ça marche et ce que tu trouves en ville.
 
 <h2 id="en-bref">En bref</h2>
 
@@ -74,6 +74,13 @@ Surtout dans le centre, autour de la cathédrale et du boulevard Lundy, et aussi
 
 [Voir les studios à Reims sur ClassPass](/go/classpass-fr-reims/?epi=fgg-fr-reims)
 
+### Bon pour
+
+- Ceux qui veulent essayer le Pilates Reformer sans prendre un abonnement dans un seul studio
+- Ceux qui aiment alterner cours en studio, boxe et séances en salle
+- Ceux qui s’entraînent une à trois fois par semaine
+- Les étudiants et ceux qui voyagent souvent, car les crédits marchent aussi ailleurs
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
@@ -83,8 +90,12 @@ Surtout dans le centre, autour de la cathédrale et du boulevard Lundy, et aussi
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure
-- Résiliable à tout moment
+- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
+- Les studios de Pilates Reformer n’ont que quelques machines : réserve quelques jours à l’avance, surtout tôt le matin et après le travail
+- Pour le Pilates Reformer, les chaussettes antidérapantes sont presque toujours obligatoires
+- The Core Studio et GYM K ont deux adresses à Reims : vérifie la bonne au moment de réserver
+- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
+- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-reims">Profitez de 10 séances gratuites en 14 jours</a>
@@ -97,12 +108,30 @@ Surtout dans le centre, autour de la cathédrale et du boulevard Lundy, et aussi
 
 </div>
 
+<h2 id="essai">Essayer ClassPass à Reims</h2>
+
+Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 séances.
+
+1. **Inscris-toi** via le bouton ci-dessus. Tu vois l’offre d’essai au moment de t’inscrire.
+2. **Réserve tes séances.** Tu peux aller une fois dans chaque studio ou salle, par exemple un cours de Pilates Reformer, une séance de boxe et un passage chez GYM K.
+3. **Annule à temps.** Si tu annules trop tard ou ne viens pas, tu paies les frais habituels, même pendant l’essai.
+4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes à l’abonnement standard à Reims : 37 crédits pour 59 € par mois.
+
+L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
+
 ## Questions fréquentes
 
 <details open>
 <summary>ClassPass est-il moins cher qu’une salle de sport à Reims ?</summary>
 
 Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+
+</details>
+
+<details>
+<summary>Quels sports peut-on faire avec ClassPass à Reims ?</summary>
+
+Surtout du Pilates Reformer, du HIIT et du renforcement en petit groupe, de la boxe et des arts martiaux, du yoga et de l’accès à la salle. L’offre change régulièrement : regarde la liste à jour sur ClassPass.
 
 </details>
 
