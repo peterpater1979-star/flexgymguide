@@ -67,7 +67,7 @@ Donde más opciones tienes con ClassPass es en estas ciudades:
 - **Barcelona**: Eixample, Poblenou, Sarrià-Sant Gervasi, Gràcia, Ciutat Vella y Sants. Yoga, Pilates, fuerza y barre, y también en Badalona. Ver los estudios [por barrio](/es/classpass-barcelona/)
 - **Valencia**: sobre todo Ruzafa y L’Eixample, y también Ciutat Vella, El Carmen, Benimaclet, Campanar y Camins al Grau. Pilates, yoga, barre, fuerza y cycling. Ver los estudios [por deporte](/es/valencia/#classpass)
 - **Sevilla**: Triana, Los Remedios, San Bernardo, Nervión y el Casco Antiguo. Pilates, yoga, fuerza, barre y fitbox, y también en Tomares, Gines y Alcalá de Guadaíra. Ver los estudios [por deporte](/es/sevilla/#classpass)
-- **Málaga**: Teatinos, Centro, El Perchel y Pedregalejo. Pilates, fuerza, barre y yoga, y también en Torremolinos, Benalmádena y Rincón de la Victoria
+- **Málaga**: Teatinos, Centro, El Perchel y Pedregalejo. Pilates, fuerza, barre y yoga, y también en Rincón de la Victoria, Torremolinos y Benalmádena. Ver los estudios [por deporte](/es/malaga/#classpass)
 - **Marbella**: una oferta más pequeña, en el centro, la Milla de Oro y Nueva Andalucía. Yoga, Pilates, barre y CrossFit
 - **Alicante**: estudios repartidos por la ciudad, entre otros en el PAU 1. Pilates, fuerza y yoga, y también en Sant Joan d’Alacant, Elche, Altea y Jávea
 - **Bilbao**: una oferta más pequeña, sobre todo en Abando. Sobre todo entrenamiento de fuerza, además de Pilates y barre, y también en Barakaldo
