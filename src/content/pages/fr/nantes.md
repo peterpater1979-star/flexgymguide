@@ -121,6 +121,7 @@ Surtout dans le centre (Bouffay, Graslin, Madeleine, Coudray), sur l’île de N
 - **[Course à pied](/go/classpass-fr-nantes-running/?epi=fgg-fr-nantes)** : GPC Coaching aux Dervallières
 - **[Accès à la salle](/go/classpass-fr-nantes-salle/?epi=fgg-fr-nantes)** : Ethik Sport Club à Saint-Herblain et L’Orange Bleue à Bouguenais
 - **[Bien-être](/go/classpass-fr-nantes-bien-etre/?epi=fgg-fr-nantes)** : hydromassage, sauna japonais et aquabike chez ORA rue Franklin, et l’espace bien-être d’Ô35
+- **[Massage](/go/classpass-fr-nantes-massage/?epi=fgg-fr-nantes)** : entre autres chez ORA rue Franklin, dans le quartier Graslin
 
 [Voir les studios à Nantes sur ClassPass](/go/classpass-fr-nantes/?epi=fgg-fr-nantes)
 
