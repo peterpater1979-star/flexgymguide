@@ -108,22 +108,9 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Surtout dans le centre (Bouffay, Graslin, Madeleine, Coudray), sur l’île de Nantes et à Jamet, et aussi à Saint-Herblain, La Chapelle-sur-Erdre et Saint-Sébastien-sur-Loire. Une sélection par sport, entre autres :
+Surtout dans le centre (Bouffay, Graslin, Madeleine, Coudray), sur l’île de Nantes et à Jamet, et aussi à Saint-Herblain, La Chapelle-sur-Erdre et Saint-Sébastien-sur-Loire. Pilates (dont Reformer), yoga, HIIT, cycling, boxe et bien-être. Les studios par quartier et par sport sont sur ClassPass à Nantes.
 
-- **[Pilates](/go/classpass-fr-nantes-pilates/?epi=fgg-fr-nantes)** : Pilates Reformer chez The New Me rue Scribe et chez Éos Studio rue du Couëdic, Studio Pilates 44 sur l’île de Nantes, De Se Mouvoir avenue de l’Hôtel-Dieu, Chez June et Studio Cours Hamon
-- **[Yoga](/go/classpass-fr-nantes-yoga/?epi=fgg-fr-nantes)** : Chez June rue des Cadeniers, Studio Cours Hamon rue du Coudray et rue de la Bastille, yoga ashtanga chez Jamet sporting club et Elsa Duneigre à Saint-Herblain
-- **[Barre](/go/classpass-fr-nantes-barre/?epi=fgg-fr-nantes)** : Studio Cours Hamon
-- **[HIIT](/go/classpass-fr-nantes-hiit/?epi=fgg-fr-nantes)** : FitBoxing, cardio et renfo chez Kombo Studio rue du Chapeau-Rouge, Jamet sporting club et Fit and Fight
-- **[Renforcement et bootcamp](/go/classpass-fr-nantes-bootcamp/?epi=fgg-fr-nantes)** : Swedish Fit à Saint-Stanislas, Sainte-Madeleine, Saint-Sébastien-sur-Loire et La Chapelle-sur-Erdre, et Wake Up Form aux Sorinières
-- **[Cycling](/go/classpass-fr-nantes-cycling/?epi=fgg-fr-nantes)** : Ô35 rue Saint-Léonard et à La Chapelle-sur-Erdre, Wake Up Form et L’Orange Bleue à Bouguenais
-- **[Boxe et arts martiaux](/go/classpass-fr-nantes-arts-martiaux/?epi=fgg-fr-nantes)** : Fit and Fight boulevard Gabriel-Guist’hau et krav-maga chez AK44SD aux Sorinières
-- **[Danse](/go/classpass-fr-nantes-danse/?epi=fgg-fr-nantes)** et **[plein air](/go/classpass-fr-nantes-outdoor/?epi=fgg-fr-nantes)** : step et renfo en musique en plein air toute l’année chez Echo boulevard Léon-Bureau
-- **[Course à pied](/go/classpass-fr-nantes-running/?epi=fgg-fr-nantes)** : GPC Coaching aux Dervallières
-- **[Accès à la salle](/go/classpass-fr-nantes-salle/?epi=fgg-fr-nantes)** : Ethik Sport Club à Saint-Herblain et L’Orange Bleue à Bouguenais
-- **[Bien-être](/go/classpass-fr-nantes-bien-etre/?epi=fgg-fr-nantes)** : hydromassage, sauna japonais et aquabike chez ORA rue Franklin, et l’espace bien-être d’Ô35
-- **[Massage](/go/classpass-fr-nantes-massage/?epi=fgg-fr-nantes)** : entre autres chez ORA rue Franklin, dans le quartier Graslin
-
-[Voir les studios à Nantes sur ClassPass](/go/classpass-fr-nantes/?epi=fgg-fr-nantes)
+[Voir les studios à Nantes par quartier et par sport](/fr/classpass-nantes/)
 
 ### Ce que tu as
 
