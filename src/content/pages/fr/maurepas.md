@@ -12,6 +12,8 @@ kicker: "Guide ville Maurepas"
 
 Pas envie d’être lié à une seule salle ? À Maurepas, tu peux réserver des cours dans des studios de la ville avec un pass sport. Voici ce qui te convient.
 
+Il n’y a pas encore de studio ClassPass à Maurepas même, mais tu trouves du Pilates Reformer en petit groupe à quelques minutes, à Trappes et au Mesnil-Saint-Denis. Et tes crédits marchent aussi à Paris et dans le reste des Yvelines.
+
 <h2 id="en-bref">En bref</h2>
 
 <div class="kolommen">
@@ -70,6 +72,12 @@ Pas de studio à Maurepas même, mais du Pilates Reformer tout près : Motiō Sa
 
 [Voir les studios autour de Maurepas sur ClassPass](/go/classpass-fr-maurepas/?epi=fgg-fr-maurepas)
 
+### Bon pour
+
+- Ceux qui veulent essayer le Pilates Reformer en petit groupe sans prendre un abonnement dans un seul studio
+- Ceux qui travaillent à Paris ou à Saint-Quentin-en-Yvelines et veulent réserver près du bureau
+- Ceux qui s’entraînent une à trois fois par semaine
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
@@ -79,8 +87,11 @@ Pas de studio à Maurepas même, mais du Pilates Reformer tout près : Motiō Sa
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure
-- Résiliable à tout moment
+- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
+- Les studios du Mesnil-Saint-Denis n’ont que cinq à huit places : réserve quelques jours à l’avance
+- Pour le Pilates Reformer, les chaussettes antidérapantes sont presque toujours obligatoires
+- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
+- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-maurepas">Profitez de 10 séances gratuites en 14 jours</a>
@@ -93,12 +104,30 @@ Pas de studio à Maurepas même, mais du Pilates Reformer tout près : Motiō Sa
 
 </div>
 
+<h2 id="essai">Essayer ClassPass à Maurepas</h2>
+
+Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 séances.
+
+1. **Inscris-toi** via le bouton ci-dessus. Tu vois l’offre d’essai au moment de t’inscrire.
+2. **Réserve tes séances.** Tu peux aller une fois dans chaque studio ou salle, par exemple un cours chez Motiō à Trappes, un chez StudioDMN et un chez Le Reformer by LK.
+3. **Annule à temps.** Si tu annules trop tard ou ne viens pas, tu paies les frais habituels, même pendant l’essai.
+4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes à l’abonnement standard : 37 crédits pour 59 € par mois.
+
+L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
+
 ## Questions fréquentes
 
 <details open>
 <summary>ClassPass est-il moins cher qu’une salle de sport à Maurepas ?</summary>
 
 Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+
+</details>
+
+<details>
+<summary>Quels sports peut-on faire avec ClassPass à Maurepas ?</summary>
+
+Surtout du Pilates Reformer en petit groupe, à Trappes et au Mesnil-Saint-Denis. L’offre change régulièrement : regarde la liste à jour sur ClassPass.
 
 </details>
 
