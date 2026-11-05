@@ -12,6 +12,8 @@ kicker: "Guía de ciudad Ibiza ciudad"
 
 ¿No te apetece atarte a un solo gimnasio? En Ibiza ciudad puedes reservar clases en estudios de toda la ciudad con un pase deportivo. Aquí ves qué te conviene.
 
+La oferta de ClassPass en Ibiza ciudad es más pequeña que en Palma, pero tiene sobre todo Pilates, también Lagree, fuerza y barre, repartidos por la ciudad y en Puig d’en Valls. Y tus créditos también funcionan en Palma y en el resto de España.
+
 <h2 id="resumen">En resumen</h2>
 
 <div class="kolommen">
@@ -68,6 +70,12 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 Una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre todo Pilates (también Lagree), fuerza y barre.
 
+### Ideal para
+
+- Quienes quieren probar Pilates o Lagree sin atarse a un solo estudio
+- Quienes pasan la temporada en la isla o viajan a menudo
+- Quienes entrenan de una a tres veces por semana
+
 ### Qué tienes
 
 - Créditos cada mes para clases y sesiones de gimnasio
@@ -77,8 +85,11 @@ Una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre 
 
 ### A tener en cuenta
 
-- Los créditos por clase dependen del estudio y de la hora
-- Cancelas cuando quieras
+- Los créditos por clase dependen del estudio y de la hora. Las clases fuera de las horas punta suelen costar menos
+- Los estudios de Pilates y Lagree tienen pocas máquinas: reserva con unos días de antelación, sobre todo en temporada alta
+- En Pilates Reformer y Lagree casi siempre piden calcetines antideslizantes
+- Puedes pasar los créditos no usados al mes siguiente; si tampoco los usas, caducan
+- Cancelas cuando quieras, antes de la fecha de renovación
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-ibiza">Prueba 10 sesiones gratis en 14 días</a>
@@ -117,12 +128,30 @@ Elige ClassPass. Tu suscripción funciona también en los demás países donde e
 
 </div>
 
+<h2 id="prueba">Probar ClassPass en Ibiza ciudad</h2>
+
+¿Eres nuevo en ClassPass? Empiezas con una prueba gratis de 14 días con 10 sesiones.
+
+1. **Regístrate** con el botón de arriba. Ves la oferta de prueba al registrarte.
+2. **Reserva tus sesiones.** Puedes ir una vez a cada estudio o gimnasio, por ejemplo una clase de Pilates, una de Lagree y una de fuerza en estudios distintos.
+3. **Cancela a tiempo.** Si cancelas tarde o no vas, pagas la tarifa habitual, también durante la prueba.
+4. **Al final** recibes un recordatorio por e-mail. Si no cancelas, pasas al plan estándar: 30 créditos por 49 € al mes.
+
+La prueba es solo para nuevos miembros. Todos los detalles en [Probar ClassPass gratis](/es/prueba-classpass/).
+
 ## Preguntas frecuentes
 
 <details open>
 <summary>¿Es ClassPass más barato que un gimnasio en Ibiza ciudad?</summary>
 
 Depende de cuántas veces entrenes y de lo que quieras hacer. Si vas sobre todo al gimnasio, un gimnasio económico suele salir más barato. Si quieres variar de estudios y clases, te conviene más un pase deportivo.
+
+</details>
+
+<details>
+<summary>¿Qué deportes puedes hacer con ClassPass en Ibiza ciudad?</summary>
+
+Sobre todo Pilates, también Lagree, fuerza y barre. La oferta cambia a menudo: mira la lista actual en ClassPass.
 
 </details>
 

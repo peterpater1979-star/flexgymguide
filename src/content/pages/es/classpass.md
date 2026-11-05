@@ -65,14 +65,14 @@ Donde más opciones tienes con ClassPass es en estas ciudades:
 
 - **Madrid**: Chamberí, Salamanca, Centro, Chamartín y Retiro. Yoga, Pilates, fuerza y barre, y también en Las Rozas y Móstoles. Ver los estudios [por barrio](/es/classpass-madrid/)
 - **Barcelona**: Eixample, Poblenou, Sarrià-Sant Gervasi, Gràcia, Ciutat Vella y Sants. Yoga, Pilates, fuerza y barre, y también en Badalona. Ver los estudios [por barrio](/es/classpass-barcelona/)
-- **Valencia**: sobre todo Ruzafa, y también Ciutat Vella, El Carmen, L’Eixample, Benimaclet y el Cabanyal. Pilates, fuerza, yoga y barre
-- **Sevilla**: Triana, Casco Antiguo, Los Remedios y San Bernardo. Yoga, fuerza y Pilates, y también en Dos Hermanas, Tomares y Alcalá de Guadaíra
-- **Málaga**: Teatinos, Centro, El Perchel y Pedregalejo. Pilates, fuerza, barre y yoga, y también en Torremolinos, Benalmádena y Rincón de la Victoria
+- **Valencia**: sobre todo Ruzafa y L’Eixample, y también Ciutat Vella, El Carmen, Benimaclet, Campanar y Camins al Grau. Pilates, yoga, barre, fuerza y cycling. Ver los estudios [por deporte](/es/valencia/#classpass)
+- **Sevilla**: Triana, Los Remedios, San Bernardo, Nervión y el Casco Antiguo. Pilates, yoga, fuerza, barre y fitbox, y también en Tomares, Gines y Alcalá de Guadaíra. Ver los estudios [por deporte](/es/sevilla/#classpass)
+- **Málaga**: Teatinos, Centro, El Perchel y Pedregalejo. Pilates, fuerza, barre y yoga, y también en Rincón de la Victoria, Torremolinos y Benalmádena. Ver los estudios [por deporte](/es/malaga/#classpass)
 - **Marbella**: una oferta más pequeña, en el centro, la Milla de Oro y Nueva Andalucía. Yoga, Pilates, barre y CrossFit
 - **Alicante**: estudios repartidos por la ciudad, entre otros en el PAU 1. Pilates, fuerza y yoga, y también en Sant Joan d’Alacant, Elche, Altea y Jávea
 - **Bilbao**: una oferta más pequeña, sobre todo en Abando. Sobre todo entrenamiento de fuerza, además de Pilates y barre, y también en Barakaldo
 - **Ibiza ciudad**: una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre todo Pilates (también Lagree), fuerza y barre
-- **Palma de Mallorca**: el centro, Santa Catalina, Ponent y Llevant. Pilates, fuerza, yoga y barre, y también en Portals Nous y Palmanova
+- **Palma de Mallorca**: el centro, Santa Catalina, Ponent y Llevant. Pilates, fuerza, yoga, barre y cycling, y también en Portals Nous y Palmanova. Ver los estudios [por deporte](/es/palma-de-mallorca/#classpass)
 
 En la app ves qué estudios y gimnasios participan cerca de ti.
 

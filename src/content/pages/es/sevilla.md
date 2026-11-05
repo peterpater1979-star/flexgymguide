@@ -108,7 +108,20 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 ### Dónde
 
-Triana, Casco Antiguo, Los Remedios y San Bernardo. Yoga, fuerza y Pilates, y también en Dos Hermanas, Tomares y Alcalá de Guadaíra.
+Triana, Los Remedios, San Bernardo, Nervión y el Casco Antiguo, y también en Tomares, Gines y Alcalá de Guadaíra. Una selección por deporte, entre otros:
+
+- **[Pilates](/go/classpass-es-sevilla-pilates/?epi=fgg-es-sevilla)**: Flow Training en la calle Enramadilla, en Los Remedios, en Tomares, en Gines y en Alcalá de Guadaíra, Pilatísimo Studio, EnForma Pilates cerca de Gran Plaza y Art in Movement en Triana
+- **[Yoga](/go/classpass-es-sevilla-yoga/?epi=fgg-es-sevilla)**: yuj es yoga junto a San Bernardo, The Paradise Yoga, Studio Keep Moving, Viba Estudio, Rocío Luque Yoga y Suryiananda Yoga en Alcalá de Guadaíra
+- **[Barre](/go/classpass-es-sevilla-barre/?epi=fgg-es-sevilla)**: Klúb Barre (solo mujeres) y Viba Estudio
+- **[HIIT](/go/classpass-es-sevilla-hiit/?epi=fgg-es-sevilla)** y **[bootcamp](/go/classpass-es-sevilla-bootcamp/?epi=fgg-es-sevilla)**: F45 Training en San Bernardo, Duna Training Club, R3Entrenamiento, Ristori Centro de Entrenamiento, el crosstraining de Impulso Trainning y FDZ Funcional
+- **[Boxeo](/go/classpass-es-sevilla-boxeo/?epi=fgg-es-sevilla)**: fitbox en Hook Fitbox Republica en Triana, Hook Fitbox Club y SBM fit&box
+- **[Baile](/go/classpass-es-sevilla-baile/?epi=fgg-es-sevilla)**: Art in Movement en Triana
+- **[Gimnasio](/go/classpass-es-sevilla-gimnasio/?epi=fgg-es-sevilla)**: FDZ Funcional
+- **[Masaje](/go/classpass-es-sevilla-masaje/?epi=fgg-es-sevilla)**: Koru Masajes en la calle Torneo, en el Casco Antiguo
+- **[Meditación](/go/classpass-es-sevilla-meditacion/?epi=fgg-es-sevilla)**: Suryiananda Yoga en Alcalá de Guadaíra
+- También **[al aire libre](/go/classpass-es-sevilla-aire-libre/?epi=fgg-es-sevilla)**, **[running](/go/classpass-es-sevilla-running/?epi=fgg-es-sevilla)** y **[recuperación](/go/classpass-es-sevilla-recuperacion/?epi=fgg-es-sevilla)**
+
+[Ver los estudios en Sevilla en ClassPass](/go/classpass-es-sevilla/?epi=fgg-es-sevilla)
 
 ### Qué tienes
 

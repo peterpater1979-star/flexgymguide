@@ -108,7 +108,24 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 ### Dónde
 
-Sobre todo Ruzafa, y también Ciutat Vella, El Carmen, L’Eixample, Benimaclet y el Cabanyal. Pilates, fuerza, yoga y barre.
+Sobre todo en Ruzafa y L’Eixample, y también en Ciutat Vella, El Carmen, Benimaclet, El Pla del Real, Campanar y Camins al Grau, con clases al aire libre en el jardín del Turia. Una selección por deporte, entre otros:
+
+- **[Pilates](/go/classpass-es-valencia-pilates/?epi=fgg-es-valencia)**: TRIB3/PILAT3S, Wellnest Studio, Soma Club en Ruzafa y en Camins al Grau, Onfitt Woman Studio, The Reform Studio, Ayre Pilates Reformer, Space Pilates, Tempo Pilates y Studio130
+- **[Yoga](/go/classpass-es-valencia-yoga/?epi=fgg-es-valencia)**: Surya Vida junto al Botánico, De Moon Yoga, THE YOGA BOX, Casa Lenta, Velcam Yoga Center, Oleka Yoga Studio, The Yoga Room en Benimaclet y el hot yoga de Bikram Yoga Valencia
+- **[Barre](/go/classpass-es-valencia-barre/?epi=fgg-es-valencia)**: The Musa House, Club Barre en Universidades, Barre Centro, BLŌŌM Barre & Reformer Studio, Resset Studio y Live & Joy Barre
+- **[Cycling](/go/classpass-es-valencia-cycling/?epi=fgg-es-valencia)**: Solo Cyclo y Fargo Fitness
+- **[HIIT](/go/classpass-es-valencia-hiit/?epi=fgg-es-valencia)** y **[bootcamp](/go/classpass-es-valencia-bootcamp/?epi=fgg-es-valencia)**: BeatCore, SWEAT Campanar, EPIC Boutique Fitness, Rebel Box y Be Balance Training Club
+- **[Boxeo](/go/classpass-es-valencia-boxeo/?epi=fgg-es-valencia)**: fitboxing en Uniq Fitboxing & Cross
+- **[Baile](/go/classpass-es-valencia-baile/?epi=fgg-es-valencia)**: Home Dance Studio y Barre Centro
+- **[Al aire libre](/go/classpass-es-valencia-aire-libre/?epi=fgg-es-valencia)**: yoga en el jardín del Turia con UNPACKED y Martha Yogaflow, y en la playa de La Patacona
+- **[Gimnasio](/go/classpass-es-valencia-gimnasio/?epi=fgg-es-valencia)**: RZ75 en Ruzafa, ClassicFit, GROUND TRAINING STUDIO y EPIC Boutique Fitness
+- **[Masaje](/go/classpass-es-valencia-masaje/?epi=fgg-es-valencia)**: Body & Mind en Quatre Carreres, Zhen Terapies Bienestar en L’Eixample y Yoga with Joy (solo mujeres)
+- **[Recuperación](/go/classpass-es-valencia-recuperacion/?epi=fgg-es-valencia)** y **[sauna](/go/classpass-es-valencia-sauna/?epi=fgg-es-valencia)**: COOL MOVE
+- **[Faciales](/go/classpass-es-valencia-faciales/?epi=fgg-es-valencia)** y **[belleza](/go/classpass-es-valencia-belleza/?epi=fgg-es-valencia)**: Ayre Pilates Reformer, Skybeauty Valencia en la plaza de Alfons el Magnànim, pestañas en Lashes & More y Centro de belleza llajover en Poblats Marítims
+- **[Meditación](/go/classpass-es-valencia-meditacion/?epi=fgg-es-valencia)** y **[bienestar](/go/classpass-es-valencia-bienestar/?epi=fgg-es-valencia)**: Surya Vida, De Moon Yoga, THE YOGA BOX y Nude Wellness
+- También **[artes marciales](/go/classpass-es-valencia-artes-marciales/?epi=fgg-es-valencia)** y **[running](/go/classpass-es-valencia-running/?epi=fgg-es-valencia)**
+
+[Ver los estudios en Valencia en ClassPass](/go/classpass-es-valencia/?epi=fgg-es-valencia)
 
 ### Qué tienes
 
