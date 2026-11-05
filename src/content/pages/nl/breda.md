@@ -106,6 +106,7 @@ Ook voor ontspanning en beauty: ontharen en wimpers bij Farzana Clinic en spabeh
 
 ### Let op
 
+- Bij reformer pilates zijn antislipsokken bijna altijd verplicht, en er zijn maar een paar machines per les: boek op tijd
 - Het aantal credits per les verschilt per studio en tijdstip
 - Ongebruikte credits van een maand kun je één maand doorschuiven. Gebruik je ze dan nog niet, dan vervallen ze
 - Alleen als je opzegt tijdens de gratis proefperiode, stopt je toegang meteen. Met een betaald abonnement train je door tot het einde van je maand. Daarna vervallen je resterende credits
@@ -143,6 +144,17 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 </div>
 
 </div>
+
+<h2 id="proberen">ClassPass proberen in Breda</h2>
+
+Nieuw bij ClassPass? Je begint met 14 dagen gratis en 10 work-outs.
+
+1. **Meld je aan.** Bij het aanmelden zie je het proefaanbod.
+2. **Boek je work-outs.** Je kunt elke studio of sportschool één keer bezoeken, bijvoorbeeld spinning bij ML Studios, reformer pilates bij The Reform Room en boksen bij Levels.
+3. **Annuleer op tijd.** Annuleer je te laat of kom je niet opdagen, dan betaal je de gewone kosten, ook in de proefperiode.
+4. **Aan het einde** krijg je een herinnering per mail. Zeg je niet op, dan ga je over op het standaardabonnement in Breda: 40 credits voor € 59 per maand.
+
+Tip: zet een herinnering een paar dagen voor het einde, en boek populaire avond- en weekendlessen een paar dagen vooruit. Alles over de regels lees je in [ClassPass gratis proberen](/nl/classpass-proefperiode/).
 
 ## Welke past bij jou?
 
