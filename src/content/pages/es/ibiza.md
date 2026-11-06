@@ -68,7 +68,16 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 ### Dónde
 
-Una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre todo Pilates (también Lagree), fuerza y barre.
+Una oferta más pequeña, repartida por Eivissa ciudad y Marina Botafoch, y también en Sant Jordi, Puig d’en Valls y Sant Josep de sa Talaia. Una selección por deporte, entre otros:
+
+- **[Pilates y Lagree](/go/classpass-es-ibiza-pilates/?epi=fgg-es-ibiza)**: Lagree Society Ibiza frente al mar en Marina Botafoch y en Sant Jordi, Anaya Studio en el paseo Abel Matutes, DBalance Ibiza en la calle Cabrera, Pilates mat en Daya y Casa Club en Sant Josep de sa Talaia
+- **[Yoga](/go/classpass-es-ibiza-yoga/?epi=fgg-es-ibiza)**: AWA YOGA, un estudio de estilo japonés en el agroturismo Xereca en Puig d’en Valls, Anaya Studio y yoga nidra en Daya
+- **[Barre](/go/classpass-es-ibiza-barre/?epi=fgg-es-ibiza)**: Maison Barrelié en la calle Catalunya, junto al café Maison Savannah, y Anaya Studio
+- **[HIIT](/go/classpass-es-ibiza-hiit/?epi=fgg-es-ibiza)**: F45 Training en la calle Agapito Llobet, Beast Ibiza e IBIZA TRAINING BOUTIQUE (grupos reducidos con la máquina T.Former)
+- **[Bootcamp y fuerza](/go/classpass-es-ibiza-bootcamp/?epi=fgg-es-ibiza)**: BEN’S GYM IBIZA en la avenida 8 d’Agost, Beast Ibiza y Casa Club
+- También **[boxeo](/go/classpass-es-ibiza-boxeo/?epi=fgg-es-ibiza)** y **[baile](/go/classpass-es-ibiza-baile/?epi=fgg-es-ibiza)**
+
+[Ver los estudios en Ibiza en ClassPass](/go/classpass-es-ibiza/?epi=fgg-es-ibiza)
 
 ### Ideal para
 
@@ -88,6 +97,7 @@ Una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre 
 - Los créditos por clase dependen del estudio y de la hora. Las clases fuera de las horas punta suelen costar menos
 - Los estudios de Pilates y Lagree tienen pocas máquinas: reserva con unos días de antelación, sobre todo en temporada alta
 - En Pilates Reformer y Lagree casi siempre piden calcetines antideslizantes
+- En F45 Training tienes que llevar tu propia toalla: sin toalla no puedes entrenar
 - Puedes pasar los créditos no usados al mes siguiente; si tampoco los usas, caducan
 - Cancelas cuando quieras, antes de la fecha de renovación
 
