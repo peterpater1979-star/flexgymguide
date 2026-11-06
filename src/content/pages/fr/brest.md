@@ -94,7 +94,16 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre dans le centre : Pura Vida Club (rue Keravel), club haut de gamme avec salle de sport, musculation et Pilates Reformer, et The New Me (rue Monge), studio de Pilates Reformer.
+Une petite offre dans le centre :
+
+- **Pilates Reformer** : Pura Vida Club rue Keravel et The New Me rue Monge (aussi des cours de danse)
+- **Accès à la salle** : Pura Vida Club, un club calme avec salle de sport et musculation
+
+### Bon pour
+
+- Ceux qui veulent combiner la salle et le Pilates Reformer à une seule adresse, rue Keravel
+- Ceux qui veulent comparer deux studios de Reformer avant de choisir
+- Ceux qui vont souvent à Rennes, Nantes ou Paris et veulent y réserver d’autres sports avec les mêmes crédits
 
 [Voir les studios à Brest sur ClassPass](/go/classpass-fr-brest/?epi=fgg-fr-brest)
 
@@ -108,6 +117,9 @@ Une petite offre dans le centre : Pura Vida Club (rue Keravel), club haut de gam
 ### À savoir
 
 - Le nombre de crédits par cours dépend du studio et de l’heure
+- Pour le Reformer, prends des chaussettes antidérapantes et réserve quelques jours à l’avance
+- Chez Pura Vida Club, la salle et le Reformer se réservent séparément dans l’application
+- Les crédits non utilisés passent au mois suivant ; s’ils ne sont toujours pas utilisés, ils expirent
 - Résiliable à tout moment
 
 <div class="knoppen">
