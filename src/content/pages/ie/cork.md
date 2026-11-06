@@ -46,6 +46,20 @@ Irish gym chain without a contract, from €38 a month for one gym.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-gym-plus"><span>Gym and pool</span></div>
+
+### Gym Plus
+
+A club in Cork, €59 a month with access to all seven Gym Plus clubs.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/gym-plus/">See Gym Plus</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overview">

@@ -46,6 +46,48 @@ Irish gym chain without a contract, from €38 a month for one gym.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-bd-gyms"><span>No contract, no joining fee</span></div>
+
+### BD Gyms
+
+Four gyms in Dublin, €36 a month without a contract. Classes included.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/bd-gyms/">See BD Gyms</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-gym-plus"><span>Gym and pool</span></div>
+
+### Gym Plus
+
+Clubs in Ballsbridge, Rathfarnham and Swords, €69 a month for all seven clubs.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/gym-plus/">See Gym Plus</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-west-wood-club"><span>Health club</span></div>
+
+### West Wood Club
+
+Six health clubs with pools, classes and spa. Minimum contract period.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/west-wood-club/">See West Wood Club</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overview">
@@ -169,20 +211,6 @@ Gym Plus has clubs in Ballsbridge, Rathfarnham and Swords, with a gym and classe
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/gym-plus/">All about Gym Plus</a>
-</div>
-
-</div>
-
-<div id="snap-fitness">
-
-<p class="kicker">24/7 gym</p>
-
-## Snap Fitness in Dublin
-
-Snap Fitness is opening its first Dublin gym in Liffey Valley Retail Park, Dublin 22. Snap Fitness gyms are open 24/7 for members, and your membership also works at other Snap Fitness gyms in Ireland and abroad. Prices differ per gym.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/ie/snap-fitness/">All about Snap Fitness</a>
 </div>
 
 </div>

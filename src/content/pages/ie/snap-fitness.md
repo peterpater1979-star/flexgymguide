@@ -81,7 +81,7 @@ You usually need to be 18. Some gyms accept members of 16 and 17, who can then o
 
 <h2 id="cities">Snap Fitness in your city</h2>
 
-Read about other options in [Dublin](/ie/dublin/#snap-fitness), where Snap Fitness is opening in Liffey Valley.
+Snap Fitness is opening a gym in Liffey Valley, Dublin 22. Until then, read about other options in [Dublin](/ie/dublin/).
 
 <h2 id="classpass">Snap Fitness or ClassPass?</h2>
 
