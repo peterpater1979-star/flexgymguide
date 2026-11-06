@@ -149,7 +149,7 @@ Flyefit has one gym in Cork, plus 20 in Dublin and one in Galway. With Flye Roam
 
 ## Gym Plus in Cork
 
-Gym Plus has a club in Cork with a gym and classes. Membership in Cork is €59 a month or €590 a year, plus a joining fee, and gives access to all seven Gym Plus clubs. The first term is 6 months.
+Gym Plus has a club in Cork with a gym and classes. Membership in Cork is €59 a month or €590 a year, plus a joining fee, and gives access to all seven Gym Plus clubs. A monthly membership runs for at least 3 months.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/gym-plus/">All about Gym Plus</a>
