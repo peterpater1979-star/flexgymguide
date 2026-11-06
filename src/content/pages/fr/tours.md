@@ -12,6 +12,8 @@ kicker: "Guide ville Tours"
 
 Pas envie d’être lié à une seule salle ? À Tours, tu peux réserver des cours dans des studios de la ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
 
+Pour l’instant, ClassPass n’a pas de studio à Tours. Si tu vis à Tours, un abonnement ClassPass a surtout du sens si tu vas souvent dans d’autres villes, comme Orléans, Poitiers ou Paris. Pour t’entraîner en ville, Basic-Fit est présent à Tours.
+
 <h2 id="en-bref">En bref</h2>
 
 <div class="kolommen">
@@ -84,6 +86,11 @@ Pour l’instant, ClassPass ne propose pas de studio à Tours. Vérifie l’offr
 
 [Voir l’offre actuelle à Tours sur ClassPass](/go/classpass-fr-tours/?epi=fgg-fr-tours)
 
+### Bon pour
+
+- Ceux qui vont souvent à Orléans, à Poitiers ou à Paris et veulent y réserver des cours
+- Ceux qui voyagent beaucoup, en France ou à l’étranger
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
@@ -93,8 +100,10 @@ Pour l’instant, ClassPass ne propose pas de studio à Tours. Vérifie l’offr
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure
-- Résiliable à tout moment
+- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
+- Vérifie l’offre dans l’application avant de t’abonner : de nouveaux studios peuvent arriver
+- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
+- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-tours">Profitez de 10 séances gratuites en 14 jours</a>
@@ -134,6 +143,17 @@ Basic-Fit a des salles à Tours. C’est une chaîne de salles à petit prix, av
 </div>
 
 </div>
+
+<h2 id="essai">Essayer ClassPass à Tours</h2>
+
+Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 séances.
+
+1. **Inscris-toi** via le bouton ClassPass plus haut. Tu vois l’offre d’essai au moment de t’inscrire.
+2. **Réserve tes séances.** Tu peux aller une fois dans chaque studio ou salle, par exemple dans des studios à Orléans, à Poitiers ou à Paris.
+3. **Annule à temps.** Si tu annules trop tard ou ne viens pas, tu paies les frais habituels, même pendant l’essai.
+4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes à l’abonnement standard : 37 crédits pour 59 € par mois.
+
+L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
 ## Lequel te convient ?
 
@@ -177,6 +197,13 @@ Choisis ClassPass. Ton abonnement marche aussi dans les autres pays où ClassPas
 <summary>ClassPass est-il moins cher qu’une salle de sport à Tours ?</summary>
 
 Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+
+</details>
+
+<details>
+<summary>Quels sports peut-on faire avec ClassPass à Tours ?</summary>
+
+Pour l’instant, il n’y a pas de studio ClassPass à Tours. Tu peux utiliser tes crédits à Orléans, à Poitiers et dans les autres villes où ClassPass est présent.
 
 </details>
 

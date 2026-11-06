@@ -12,6 +12,8 @@ kicker: "Stadsguide Göteborg"
 
 Vill du inte vara bunden till ett enda gym? I Göteborg bokar du pass hos studior i hela staden med ett träningspass, eller väljer ett gym nära dig. Här är det som passar dig.
 
+I Göteborg hittar du ClassPass i centrum, Linné, Majorna, Johanneberg, Gårda och Eriksberg. Mest gym, men också yoga och styrketräning. Bra om du vill variera och inte binda dig till ett ställe. Tränar du hellre ofta på samma gym finns SATS och Nordic Wellness också i staden.
+
 <h2 id="kort">I korthet</h2>
 
 <div class="kolommen">
@@ -95,6 +97,12 @@ Med ClassPass får du varje månad krediter för pass och gym hos studior i stad
 
 Centrum, Linné, Majorna, Johanneberg, Gårda och Eriksberg. Mest gym, även yoga och styrketräning.
 
+### Bra för
+
+- Dig som vill prova olika träningsformer och studior
+- Dig som tränar en till tre gånger i veckan
+- Studenter, expats och dig som reser mycket
+
 ### Det här får du
 
 - Krediter varje månad för pass och gym
@@ -104,8 +112,10 @@ Centrum, Linné, Majorna, Johanneberg, Gårda och Eriksberg. Mest gym, även yog
 
 ### Tänk på
 
-- Hur många krediter ett pass kostar beror på studion och tiden
-- Du kan säga upp när du vill
+- Hur många krediter ett pass kostar beror på studion och tiden. Pass utanför rusningstid kostar ofta mindre
+- Populära kvälls- och helgpass blir snabbt fulla: boka några dagar i förväg
+- Oanvända krediter kan du spara en månad, sedan går de ut
+- Du kan säga upp när du vill, före nästa förnyelsedatum
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
@@ -173,6 +183,17 @@ Nordic Wellness är en svensk gymkedja med över 400 klubbar, varav flera klubba
 
 </div>
 
+<h2 id="prova">Prova ClassPass i Göteborg</h2>
+
+Ny på ClassPass? Du börjar med 14 dagar gratis och 10 träningspass.
+
+1. **Registrera dig** via ClassPass-knappen ovan. Du ser provperioden när du registrerar dig.
+2. **Boka dina pass.** Du kan besöka varje studio eller gym en gång, till exempel ett gympass i centrum, yoga i Linné och styrketräning i Majorna.
+3. **Avboka i tid.** Avbokar du för sent eller kommer inte, betalar du den vanliga avgiften, även under provperioden.
+4. **I slutet** får du en påminnelse via mejl. Säger du inte upp går du över till standardabonnemanget: 34 krediter för 599 kr i månaden.
+
+Provperioden gäller bara nya medlemmar. Läs mer i [Prova ClassPass gratis](/se/prova-classpass/).
+
 ## Vad passar dig?
 
 <div class="kolommen">
@@ -214,6 +235,13 @@ Välj ClassPass. Ditt abonnemang fungerar även i andra länder med ClassPass.
 <summary>Är ClassPass billigare än ett gym i Göteborg?</summary>
 
 Det beror på hur ofta du tränar och vad du vill göra. Tränar du mest på gymmet är ett gymkort oftast billigast. Vill du växla mellan studior och pass passar ett träningspass bättre.
+
+</details>
+
+<details>
+<summary>Vilka träningsformer finns på ClassPass i Göteborg?</summary>
+
+Mest gym, men också yoga och styrketräning, i centrum, Linné, Majorna, Johanneberg, Gårda och Eriksberg. Utbudet ändras ofta: se den aktuella listan på ClassPass.
 
 </details>
 

@@ -12,6 +12,8 @@ kicker: "Stadsgids Brussel"
 
 Geen zin om vast te zitten aan één sportschool? In Brussel boek je met een sportpas lessen bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou.
 
+In Brussel vind je het ClassPass-aanbod vooral in Elsene, Etterbeek, Sint-Joost-ten-Node, Sint-Gillis en Vorst, met vooral yoga en pilates. Handig als je in de stad werkt of studeert en graag bij verschillende studio's lessen volgt. Train je liever vaak aan toestellen? Dan zijn Basic-Fit en Jims ook in Brussel.
+
 <h2 id="kort">In het kort</h2>
 
 <div class="kolommen">
@@ -95,6 +97,12 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 Elsene, Etterbeek, Sint-Joost-ten-Node, Sint-Gillis en Vorst. Vooral yoga en pilates.
 
+### Goed voor
+
+- Wie graag verschillende sporten en studio's probeert
+- Wie één tot drie keer per week sport
+- Expats, studenten en wie vaak reist
+
 ### Wat je krijgt
 
 - Elke maand credits voor lessen en gymbezoek
@@ -104,8 +112,11 @@ Elsene, Etterbeek, Sint-Joost-ten-Node, Sint-Gillis en Vorst. Vooral yoga en pil
 
 ### Let op
 
-- Hoeveel credits een les kost, hangt af van de studio en het tijdstip
-- Altijd opzegbaar
+- Hoeveel credits een les kost, hangt af van de studio en het tijdstip. Lessen buiten de spits zijn vaak goedkoper
+- Populaire avond- en weekendlessen raken snel vol: boek een paar dagen vooruit
+- Bij reformer pilates zijn antislipsokken bijna altijd verplicht
+- Ongebruikte credits kun je één maand doorschuiven, daarna vervallen ze
+- Altijd opzegbaar, vóór je volgende betaaldatum
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/be/classpass/">Alles over ClassPass</a>
@@ -173,6 +184,17 @@ Jims is een Belgische sportschoolketen met meer dan 80 clubs in België, waarvan
 
 </div>
 
+<h2 id="proberen">ClassPass proberen in Brussel</h2>
+
+Nieuw bij ClassPass? Je begint met 14 dagen gratis en 10 work-outs.
+
+1. **Meld je aan** via de ClassPass-knop hierboven. Bij het aanmelden zie je het proefaanbod.
+2. **Boek je work-outs.** Je kunt elke studio of sportschool één keer bezoeken, bijvoorbeeld een yogales in Elsene, pilates in Etterbeek en een les in Sint-Gillis.
+3. **Annuleer op tijd.** Annuleer je te laat of kom je niet opdagen, dan betaal je de gewone kosten, ook in de proefperiode.
+4. **Aan het einde** krijg je een herinnering per mail. Zeg je niet op, dan ga je over op het standaardabonnement: 35 credits voor € 49 per maand.
+
+De proefperiode is alleen voor nieuwe leden. Alles over de regels lees je in [ClassPass gratis proberen](/nl/classpass-proefperiode/).
+
 ## Wat past bij jou?
 
 <div class="kolommen">
@@ -215,6 +237,13 @@ Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass zit.
 <summary>Is ClassPass goedkoper dan een sportschool in Brussel?</summary>
 
 Dat hangt af van hoe vaak je traint en wat je wilt doen. Train je vooral in de gym, dan is een voordelige sportschool meestal goedkoper. Wil je studio's en lessen afwisselen, dan past een sportpas beter.
+
+</details>
+
+<details>
+<summary>Welke sporten kun je met ClassPass doen in Brussel?</summary>
+
+Vooral yoga en pilates, in Elsene, Etterbeek, Sint-Joost-ten-Node, Sint-Gillis en Vorst. Het aanbod verandert regelmatig: kijk voor de actuele lijst op ClassPass.
 
 </details>
 
