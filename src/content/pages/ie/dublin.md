@@ -173,6 +173,20 @@ Gym Plus has clubs in Ballsbridge, Rathfarnham and Swords, with a gym and classe
 
 </div>
 
+<div id="snap-fitness">
+
+<p class="kicker">24/7 gym</p>
+
+## Snap Fitness in Dublin
+
+Snap Fitness is opening its first Dublin gym in Liffey Valley Retail Park, Dublin 22. Snap Fitness gyms are open 24/7 for members, and your membership also works at other Snap Fitness gyms in Ireland and abroad. Prices differ per gym.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
 <div id="west-wood-club">
 
 <p class="kicker">Health club</p>
