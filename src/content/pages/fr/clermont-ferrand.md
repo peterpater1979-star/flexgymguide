@@ -94,7 +94,18 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre : The New Me (rue la Tour d’Auvergne, Pilates Reformer), Nemea Health Club à Fontgiève et à Cournon-d’Auvergne (salle de sport, musculation et étirements), DHARMA YOGA (yoga, aussi postnatal) et Sensorium Studio (yoga et étirements).
+Une petite offre, mais variée :
+
+- **Pilates Reformer** : The New Me rue la Tour-d’Auvergne
+- **Yoga et étirements** : DHARMA YOGA rue de Gravenoire (aussi du yoga postnatal) et Sensorium Studio rue Michel-Rocard
+- **Accès à la salle** : Nemea Health Club à Fontgiève et à Cournon-d’Auvergne, avec musculation et étirements
+- **[Bien-être](/go/classpass-fr-clermont-ferrand-bien-etre/?epi=fgg-fr-clermont-ferrand)** : séances chez Nemea Health Club, à Fontgiève et à Cournon-d’Auvergne
+
+### Bon pour
+
+- Ceux qui veulent combiner une salle de sport avec du yoga ou du Pilates Reformer, sans deux abonnements
+- Ceux qui habitent entre Clermont-Ferrand et Cournon et veulent choisir le club le plus proche selon la journée
+- Ceux qui vont souvent à Lyon ou à Paris et veulent y réserver des cours avec les mêmes crédits
 
 [Voir les studios à Clermont-Ferrand sur ClassPass](/go/classpass-fr-clermont-ferrand/?epi=fgg-fr-clermont-ferrand)
 
@@ -108,6 +119,9 @@ Une petite offre : The New Me (rue la Tour d’Auvergne, Pilates Reformer), Neme
 ### À savoir
 
 - Le nombre de crédits par cours dépend du studio et de l’heure
+- Pour le Reformer, prends des chaussettes antidérapantes et réserve quelques jours à l’avance
+- Nemea a deux adresses : vérifie bien laquelle tu réserves
+- Les crédits non utilisés passent au mois suivant ; s’ils ne sont toujours pas utilisés, ils expirent
 - Résiliable à tout moment
 
 <div class="knoppen">
