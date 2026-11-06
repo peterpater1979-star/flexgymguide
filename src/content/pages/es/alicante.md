@@ -94,7 +94,16 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 ### Dónde
 
-Estudios repartidos por la ciudad, entre otros en el PAU 1. Pilates, fuerza y yoga, y también en Sant Joan d’Alacant, Elche, Altea y Jávea.
+Estudios repartidos por la ciudad, entre otros en el centro y en el PAU 1, y también en Sant Joan d’Alacant, Elche, Altea y Jávea. Sobre todo Pilates Reformer, además de fuerza, yoga y barre. Una selección por deporte, entre otros:
+
+- **[Pilates](/go/classpass-es-alicante-pilates/?epi=fgg-es-alicante)**: Formin Wellness en el centro, Equilibrio Pilates Reformer, Nala Pilates en el PAU 1, Z Estudio en la avenida de la Costa Blanca, BYBO STUDIOS, Flow Training, Fitness Critón Salud y Lento Studio en Sant Joan d’Alacant
+- **[Yoga](/go/classpass-es-alicante-yoga/?epi=fgg-es-alicante)**: Yoga Sade, MasQi Alicante, Life Alicante, BYBO STUDIOS y yoga al aire libre con Mayte Yoga en la avenida de Niza
+- **[Barre](/go/classpass-es-alicante-barre/?epi=fgg-es-alicante)**: FRAME STUDIO, XOVAH (un espacio para mujeres), BYBO STUDIOS y Fitness Critón Salud
+- **[HIIT](/go/classpass-es-alicante-hiit/?epi=fgg-es-alicante)** y **[bootcamp](/go/classpass-es-alicante-bootcamp/?epi=fgg-es-alicante)**: Mvp-Workout, PULSE ZONE, Movement4U y MOVE MORE LEGACY
+- **[Baile](/go/classpass-es-alicante-baile/?epi=fgg-es-alicante)**: pole dance en IPD - POLE DANCE ALICANTE
+- **[Gimnasio](/go/classpass-es-alicante-gimnasio/?epi=fgg-es-alicante)**: El Local, Centro de Entrenamiento, en Sant Joan d’Alacant
+- **[Bienestar](/go/classpass-es-alicante-bienestar/?epi=fgg-es-alicante)**: masajes y sauna en MasQi Alicante, en la calle Susana Llaneras
+- También **[belleza](/go/classpass-es-alicante-belleza/?epi=fgg-es-alicante)**
 
 ### Qué tienes
 
