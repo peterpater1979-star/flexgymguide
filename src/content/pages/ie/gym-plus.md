@@ -9,7 +9,7 @@ crumb: "Gym Plus"
 kicker: "Provider: health club"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-gym-plus" role="img" aria-label="Gym"></div>
 
 Gym Plus is an Irish group of seven clubs with a gym and classes. Several clubs also have a pool, sauna and jacuzzi. Every membership gives access to all seven clubs, and five are family clubs where children are welcome too. A monthly membership runs for at least three months.
 
