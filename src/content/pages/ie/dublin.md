@@ -145,6 +145,20 @@ Flyefit has 20 gyms in Dublin, plus one in Cork and one in Galway. Membership is
 
 </div>
 
+<div id="west-wood-club">
+
+<p class="kicker">Health club</p>
+
+## West Wood Club in Dublin
+
+West Wood Club has six health clubs in Dublin: Aston Quay, Clontarf, Sandymount, Westmanstown, Leopardstown and Dún Laoghaire. Besides a gym, you get pools, free group classes and spa facilities. There is a minimum contract period, and West Wood Club doesn't publish its prices online.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/west-wood-club/">All about West Wood Club</a>
+</div>
+
+</div>
+
 <h2 id="trial">Try ClassPass in Dublin</h2>
 
 New to ClassPass? You start with 14 days free and 10 workouts.
