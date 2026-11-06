@@ -108,7 +108,14 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre dans le centre. Pilates et renforcement musculaire.
+Surtout dans le centre (Victor-Hugo, Jean-Janvier, Tour-d’Auvergne, Laennec), et aussi à Cesson-Sévigné, où l’on trouve même des cours de natation. Une sélection par sport, entre autres :
+
+- **[Pilates](/go/classpass-fr-rennes-pilates/?epi=fgg-fr-rennes)** : Pilates Reformer chez The New Me avenue Jean-Janvier et chez Toda Studio rue Victor-Hugo (avec un healthy bar), et aussi Cambre Studio rue Beaumanoir
+- **[Yoga](/go/classpass-fr-rennes-yoga/?epi=fgg-fr-rennes)** et **[barre](/go/classpass-fr-rennes-barre/?epi=fgg-fr-rennes)** : Cambre Studio, dans un appartement lumineux rue Beaumanoir
+- **[Renforcement et bootcamp](/go/classpass-fr-rennes-bootcamp/?epi=fgg-fr-rennes)** : Jomo Studio boulevard de la Tour-d’Auvergne (bootcamp de 50 minutes, cardio et renforcement)
+- **[Accès à la salle](/go/classpass-fr-rennes-salle/?epi=fgg-fr-rennes)** : Phenix by ergo boulevard René-Laennec et Ethik Sport Club à Cesson-Sévigné
+- **[HIIT](/go/classpass-fr-rennes-hiit/?epi=fgg-fr-rennes)** et **[boxe](/go/classpass-fr-rennes-boxe/?epi=fgg-fr-rennes)** : à voir selon les créneaux du moment
+- **[Bien-être](/go/classpass-fr-rennes-bien-etre/?epi=fgg-fr-rennes)** : massages et soins du visage dans le centre
 
 [Voir les studios à Rennes sur ClassPass](/go/classpass-fr-rennes/?epi=fgg-fr-rennes)
 
@@ -123,6 +130,7 @@ Une petite offre dans le centre. Pilates et renforcement musculaire.
 
 - Le nombre de crédits par cours dépend du studio et de l’heure
 - Résiliable à tout moment
+- Pour le Reformer, des chaussettes antidérapantes sont souvent obligatoires : prends-en une paire ou achète-la sur place
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-rennes">Profitez de 10 séances gratuites en 14 jours</a>
