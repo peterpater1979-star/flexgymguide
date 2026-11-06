@@ -46,6 +46,7 @@ BD Gyms is an Irish gym chain with four gyms in Dublin and one in Portlaoise. Th
 | **12 months** | €299 | One payment upfront |
 
 - **Joining fee:** none, for every membership.
+- **Monthly:** you pay the first month (€36) when you join; after that, €36 is collected every month.
 - **Included:** full gym access, classes and free parking for up to 2 hours.
 - **Not included:** personal training, Pilates, padel, physio and the barber and coffee shop at some gyms.
 - **One gym:** your membership is for the gym where you join. You can't use other BD Gyms locations or move your membership.
