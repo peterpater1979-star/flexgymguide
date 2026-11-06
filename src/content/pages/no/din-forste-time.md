@@ -74,16 +74,16 @@ Sko med flat, fast såle til knebøy og løft. Et håndkle til benkene og klær 
 Disse lenkene tar deg direkte til Traininn, treningsbutikken til Tradeinn.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-no-kleding-dames/?ws=fgg-no-din-forste-time">Treningstøy for kvinner</a></li>
-<li class="i-kleding"><a href="/go/traininn-no-kleding-heren/?ws=fgg-no-din-forste-time">Treningstøy for menn</a></li>
-<li class="i-schoen"><a href="/go/traininn-no-schoenen-dames/?ws=fgg-no-din-forste-time">Treningssko for kvinner</a></li>
-<li class="i-schoen"><a href="/go/traininn-no-schoenen-heren/?ws=fgg-no-din-forste-time">Treningssko for menn</a></li>
-<li class="i-fles"><a href="/go/traininn-no-fles/?ws=fgg-no-din-forste-time">Drikkeflaske</a></li>
-<li class="i-handdoek"><a href="/go/traininn-no-handdoek/?ws=fgg-no-din-forste-time">Treningshåndkle</a></li>
-<li class="i-slot"><a href="/go/bricoinn-no-cadenas/?ws=fgg-no-din-forste-time">Hengelås til skapet</a></li>
-<li class="i-sok"><a href="/go/traininn-no-yogasokken/?ws=fgg-no-din-forste-time">Sklisikre sokker til yoga og pilates</a></li>
-<li class="i-bandage"><a href="/go/traininn-no-bandages/?ws=fgg-no-din-forste-time">Bokseteip</a></li>
-<li class="i-handschoen"><a href="/go/traininn-no-vechtsport/?ws=fgg-no-din-forste-time">Boksehansker</a></li>
+<li class="i-kleding"><a href="/go/traininn-no-kleding-dames/?ws=fgg-no-din-forste-time-kleding-dames">Treningstøy for kvinner</a></li>
+<li class="i-kleding"><a href="/go/traininn-no-kleding-heren/?ws=fgg-no-din-forste-time-kleding-heren">Treningstøy for menn</a></li>
+<li class="i-schoen"><a href="/go/traininn-no-schoenen-dames/?ws=fgg-no-din-forste-time-schoenen-dames">Treningssko for kvinner</a></li>
+<li class="i-schoen"><a href="/go/traininn-no-schoenen-heren/?ws=fgg-no-din-forste-time-schoenen-heren">Treningssko for menn</a></li>
+<li class="i-fles"><a href="/go/traininn-no-fles/?ws=fgg-no-din-forste-time-fles">Drikkeflaske</a></li>
+<li class="i-handdoek"><a href="/go/traininn-no-handdoek/?ws=fgg-no-din-forste-time-handdoek">Treningshåndkle</a></li>
+<li class="i-slot"><a href="/go/bricoinn-no-cadenas/?ws=fgg-no-din-forste-time-hangslot">Hengelås til skapet</a></li>
+<li class="i-sok"><a href="/go/traininn-no-yogasokken/?ws=fgg-no-din-forste-time-yogasokken">Sklisikre sokker til yoga og pilates</a></li>
+<li class="i-bandage"><a href="/go/traininn-no-bandages/?ws=fgg-no-din-forste-time-bandages">Bokseteip</a></li>
+<li class="i-handschoen"><a href="/go/traininn-no-vechtsport/?ws=fgg-no-din-forste-time-bokshandschoenen">Boksehansker</a></li>
 </ul>
 
 <p class="klein commissie">Kjøper du via disse lenkene, får vi en liten provisjon. Du betaler ikke mer, og guiden forblir gratis. Takk!</p>

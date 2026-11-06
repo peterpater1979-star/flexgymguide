@@ -58,10 +58,10 @@ Fuera de Europa funciona, entre otros, en Estados Unidos, Canadá, Australia, Nu
 Ligero y pequeño, para que quepa fácilmente en tu equipaje. Estos enlaces te llevan a Traininn, la tienda de fitness de Tradeinn:
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-classpass-de-viaje">Botella de agua</a></li>
-<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-classpass-de-viaje">Toalla de deporte</a></li>
-<li class="i-mat"><a href="/go/traininn-es-mat/?ws=fgg-es-classpass-de-viaje">Esterilla de yoga o ejercicio</a></li>
-<li class="i-band"><a href="/go/traininn-es-banden/?ws=fgg-es-classpass-de-viaje">Bandas elásticas</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-classpass-de-viaje-fles">Botella de agua</a></li>
+<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-classpass-de-viaje-handdoek">Toalla de deporte</a></li>
+<li class="i-mat"><a href="/go/traininn-es-mat/?ws=fgg-es-classpass-de-viaje-yogamat">Esterilla de yoga o ejercicio</a></li>
+<li class="i-band"><a href="/go/traininn-es-banden/?ws=fgg-es-classpass-de-viaje-banden">Bandas elásticas</a></li>
 </ul>
 
 <p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>

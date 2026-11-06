@@ -76,14 +76,14 @@ No registration fee at the moment.
 These links take you straight to Traininn, the fitness shop of Tradeinn, which also delivers to Luxembourg.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-lu-index">Sportswear for women</a></li>
-<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-lu-index">Sportswear for men</a></li>
-<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-lu-index">Training shoes for women</a></li>
-<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-lu-index">Training shoes for men</a></li>
-<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-lu-index">Water bottle</a></li>
-<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-lu-index">Gym towel</a></li>
-<li class="i-slot"><a href="/go/bricoinn-en-cadenas/?ws=fgg-lu-index">Locker padlock</a></li>
-<li class="i-fles"><a href="/go/traininn-en-shaker/?ws=fgg-lu-index">Protein shaker</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-lu-index-kleding-dames">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-lu-index-kleding-heren">Sportswear for men</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-lu-index-schoenen-dames">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-lu-index-schoenen-heren">Training shoes for men</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-lu-index-fles">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-lu-index-handdoek">Gym towel</a></li>
+<li class="i-slot"><a href="/go/bricoinn-en-cadenas/?ws=fgg-lu-index-hangslot">Locker padlock</a></li>
+<li class="i-fles"><a href="/go/traininn-en-shaker/?ws=fgg-lu-index-shaker">Protein shaker</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>

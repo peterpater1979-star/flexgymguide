@@ -46,6 +46,48 @@ Irish gym chain without a contract, from €38 a month for one gym.
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-bd-gyms"><span>No contract, no joining fee</span></div>
+
+### BD Gyms
+
+Four gyms in Dublin, €36 a month without a contract. Classes included.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/bd-gyms/">See BD Gyms</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-gym-plus"><span>Gym and pool</span></div>
+
+### Gym Plus
+
+Clubs in Ballsbridge, Rathfarnham and Swords, €69 a month for all seven clubs.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/gym-plus/">See Gym Plus</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-west-wood-club"><span>Health club</span></div>
+
+### West Wood Club
+
+Six health clubs with pools, classes and spa. Minimum contract period.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/west-wood-club/">See West Wood Club</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overview">
@@ -141,6 +183,48 @@ Flyefit has 20 gyms in Dublin, plus one in Cork and one in Galway. Membership is
 
 </div>
 
+</div>
+
+</div>
+
+<div id="bd-gyms">
+
+<p class="kicker">Gym chain</p>
+
+## BD Gyms in Dublin
+
+BD Gyms has four gyms in Dublin: Blanchardstown, Carlisle (Kimmage), Cherrywood and Northwood (Santry). The monthly membership costs €36, with no contract and no joining fee, and classes are included. Your membership is for one gym.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/bd-gyms/">All about BD Gyms</a>
+</div>
+
+</div>
+
+<div id="gym-plus">
+
+<p class="kicker">Health club</p>
+
+## Gym Plus in Dublin
+
+Gym Plus has clubs in Ballsbridge, Rathfarnham and Swords, with a gym and classes; Rathfarnham and Swords also have a pool. Membership is €69 a month or €690 a year, plus a joining fee, and gives access to all seven Gym Plus clubs. A monthly membership runs for at least 3 months.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/gym-plus/">All about Gym Plus</a>
+</div>
+
+</div>
+
+<div id="west-wood-club">
+
+<p class="kicker">Health club</p>
+
+## West Wood Club in Dublin
+
+West Wood Club has six health clubs in Dublin: Aston Quay, Clontarf, Sandymount, Westmanstown, Leopardstown and Dún Laoghaire. Besides a gym, you get pools, free group classes and spa facilities. There is a minimum contract period, and West Wood Club doesn't publish its prices online.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/west-wood-club/">All about West Wood Club</a>
 </div>
 
 </div>

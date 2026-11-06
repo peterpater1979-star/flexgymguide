@@ -74,15 +74,15 @@ Shoes with a flat, firm sole for squats and lifts. A towel to put on benches, an
 Missing something? These links take you straight to Traininn, the fitness shop of Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-guides-first-class">Sportswear for women</a></li>
-<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-guides-first-class">Sportswear for men</a></li>
-<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-guides-first-class">Training shoes for women</a></li>
-<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-guides-first-class">Training shoes for men</a></li>
-<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-first-class">Water bottle</a></li>
-<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-guides-first-class">Gym towel</a></li>
-<li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-first-class">Yoga or exercise mat</a></li>
-<li class="i-bandage"><a href="/go/traininn-en-bandages/?ws=fgg-guides-first-class">Boxing hand wraps</a></li>
-<li class="i-handschoen"><a href="/go/traininn-en-handschoenen/?ws=fgg-guides-first-class">Boxing gloves</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-guides-first-class-kleding-dames">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-guides-first-class-kleding-heren">Sportswear for men</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-guides-first-class-schoenen-dames">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-guides-first-class-schoenen-heren">Training shoes for men</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-first-class-fles">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-guides-first-class-handdoek">Gym towel</a></li>
+<li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-first-class-yogamat">Yoga or exercise mat</a></li>
+<li class="i-bandage"><a href="/go/traininn-en-bandages/?ws=fgg-guides-first-class-bandages">Boxing hand wraps</a></li>
+<li class="i-handschoen"><a href="/go/traininn-en-handschoenen/?ws=fgg-guides-first-class-bokshandschoenen">Boxing gloves</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>

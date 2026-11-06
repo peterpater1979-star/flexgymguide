@@ -130,13 +130,13 @@ Du kan ændre, sætte på pause eller opsige dit abonnement når som helst.
 Disse links fører dig direkte til Traininn, fitnessbutikken hos Tradeinn.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-da-kleding-dames/?ws=fgg-dk-index">Træningstøj til kvinder</a></li>
-<li class="i-kleding"><a href="/go/traininn-da-kleding-heren/?ws=fgg-dk-index">Træningstøj til mænd</a></li>
-<li class="i-schoen"><a href="/go/traininn-da-schoenen-dames/?ws=fgg-dk-index">Træningssko til kvinder</a></li>
-<li class="i-schoen"><a href="/go/traininn-da-schoenen-heren/?ws=fgg-dk-index">Træningssko til mænd</a></li>
-<li class="i-fles"><a href="/go/traininn-da-fles/?ws=fgg-dk-index">Drikkedunk</a></li>
-<li class="i-handdoek"><a href="/go/traininn-da-handdoek/?ws=fgg-dk-index">Træningshåndklæde</a></li>
-<li class="i-slot"><a href="/go/bricoinn-da-cadenas/?ws=fgg-dk-index">Hængelås til skabet</a></li>
+<li class="i-kleding"><a href="/go/traininn-da-kleding-dames/?ws=fgg-dk-index-kleding-dames">Træningstøj til kvinder</a></li>
+<li class="i-kleding"><a href="/go/traininn-da-kleding-heren/?ws=fgg-dk-index-kleding-heren">Træningstøj til mænd</a></li>
+<li class="i-schoen"><a href="/go/traininn-da-schoenen-dames/?ws=fgg-dk-index-schoenen-dames">Træningssko til kvinder</a></li>
+<li class="i-schoen"><a href="/go/traininn-da-schoenen-heren/?ws=fgg-dk-index-schoenen-heren">Træningssko til mænd</a></li>
+<li class="i-fles"><a href="/go/traininn-da-fles/?ws=fgg-dk-index-fles">Drikkedunk</a></li>
+<li class="i-handdoek"><a href="/go/traininn-da-handdoek/?ws=fgg-dk-index-handdoek">Træningshåndklæde</a></li>
+<li class="i-slot"><a href="/go/bricoinn-da-cadenas/?ws=fgg-dk-index-hangslot">Hængelås til skabet</a></li>
 </ul>
 
 <p class="klein commissie">Køber du via disse links, får vi en lille provision. Du betaler ikke mere, og guiden forbliver gratis. Tak!</p>

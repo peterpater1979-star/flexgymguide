@@ -25,7 +25,7 @@ Pour un cours d’une heure ou une séance classique en salle, l’eau suffit en
 - **Les boissons pour sportifs** sont faites pour les séances longues ou très intenses. Pour un cours normal, l’eau suffit.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-manger-et-boire-autour-du-sport">Gourdes de sport</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-manger-et-boire-autour-du-sport-fles">Gourdes de sport</a></li>
 </ul>
 
 <h2 id="avant">Avant l’entraînement : petit et léger</h2>
@@ -58,8 +58,8 @@ Au moment de choisir, regarde :
 - **Vegan ou sans lactose ?** Il existe aussi des versions à base de pois ou de soja.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-fr-voeding/?ws=fgg-fr-manger-et-boire-autour-du-sport">Protéines et barres</a></li>
-<li class="i-fles"><a href="/go/traininn-fr-shaker/?ws=fgg-fr-manger-et-boire-autour-du-sport">Shaker</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-voeding/?ws=fgg-fr-manger-et-boire-autour-du-sport-voeding">Protéines et barres</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-shaker/?ws=fgg-fr-manger-et-boire-autour-du-sport-shaker">Shaker</a></li>
 </ul>
 
 <p class="klein commissie">Ces liens mènent à Traininn, la boutique de fitness de Tradeinn. Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>

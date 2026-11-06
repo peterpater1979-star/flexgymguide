@@ -56,8 +56,8 @@ Al elegir, fíjate en:
 ¿Una botella, proteína en polvo o barritas? Estos enlaces te llevan a Traininn, la tienda de fitness de Tradeinn:
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-comer-y-beber-al-entrenar">Botella de agua</a></li>
-<li class="i-fles"><a href="/go/traininn-es-voeding/?ws=fgg-es-comer-y-beber-al-entrenar">Proteína y nutrición deportiva</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-comer-y-beber-al-entrenar-fles">Botella de agua</a></li>
+<li class="i-fles"><a href="/go/traininn-es-voeding/?ws=fgg-es-comer-y-beber-al-entrenar-voeding">Proteína y nutrición deportiva</a></li>
 </ul>
 
 <p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>

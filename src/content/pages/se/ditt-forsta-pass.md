@@ -74,16 +74,16 @@ Skor med platt, stadig sula för knäböj och lyft. En handduk till bänkarna oc
 De här länkarna tar dig direkt till Traininn, Tradeinns träningsbutik.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-sv-kleding-dames/?ws=fgg-se-ditt-forsta-pass">Träningskläder dam</a></li>
-<li class="i-kleding"><a href="/go/traininn-sv-kleding-heren/?ws=fgg-se-ditt-forsta-pass">Träningskläder herr</a></li>
-<li class="i-schoen"><a href="/go/traininn-sv-schoenen-dames/?ws=fgg-se-ditt-forsta-pass">Träningsskor dam</a></li>
-<li class="i-schoen"><a href="/go/traininn-sv-schoenen-heren/?ws=fgg-se-ditt-forsta-pass">Träningsskor herr</a></li>
-<li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-ditt-forsta-pass">Vattenflaska</a></li>
-<li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-ditt-forsta-pass">Träningshandduk</a></li>
-<li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-ditt-forsta-pass">Hänglås till skåpet</a></li>
-<li class="i-sok"><a href="/go/traininn-sv-yogasokken/?ws=fgg-se-ditt-forsta-pass">Halkfria strumpor för yoga och pilates</a></li>
-<li class="i-bandage"><a href="/go/traininn-sv-bandages/?ws=fgg-se-ditt-forsta-pass">Boxningslindor</a></li>
-<li class="i-handschoen"><a href="/go/traininn-sv-vechtsport/?ws=fgg-se-ditt-forsta-pass">Boxningshandskar</a></li>
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-dames/?ws=fgg-se-ditt-forsta-pass-kleding-dames">Träningskläder dam</a></li>
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-heren/?ws=fgg-se-ditt-forsta-pass-kleding-heren">Träningskläder herr</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-dames/?ws=fgg-se-ditt-forsta-pass-schoenen-dames">Träningsskor dam</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-heren/?ws=fgg-se-ditt-forsta-pass-schoenen-heren">Träningsskor herr</a></li>
+<li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-ditt-forsta-pass-fles">Vattenflaska</a></li>
+<li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-ditt-forsta-pass-handdoek">Träningshandduk</a></li>
+<li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-ditt-forsta-pass-hangslot">Hänglås till skåpet</a></li>
+<li class="i-sok"><a href="/go/traininn-sv-yogasokken/?ws=fgg-se-ditt-forsta-pass-yogasokken">Halkfria strumpor för yoga och pilates</a></li>
+<li class="i-bandage"><a href="/go/traininn-sv-bandages/?ws=fgg-se-ditt-forsta-pass-bandages">Boxningslindor</a></li>
+<li class="i-handschoen"><a href="/go/traininn-sv-vechtsport/?ws=fgg-se-ditt-forsta-pass-bokshandschoenen">Boxningshandskar</a></li>
 </ul>
 
 <p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack!</p>

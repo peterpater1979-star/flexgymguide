@@ -55,9 +55,9 @@ Running, cycling, an outdoor calisthenics park or a yoga video at home cost noth
 With a few cheap items you can also train in your room, for example on days you skip the gym. These links take you to Traininn, the fitness shop of Tradeinn:
 
 <ul class="spullen">
-<li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-working-out-as-a-student">Yoga or exercise mat</a></li>
-<li class="i-band"><a href="/go/traininn-en-banden/?ws=fgg-guides-working-out-as-a-student">Resistance bands</a></li>
-<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-working-out-as-a-student">Water bottle</a></li>
+<li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-working-out-as-a-student-yogamat">Yoga or exercise mat</a></li>
+<li class="i-band"><a href="/go/traininn-en-banden/?ws=fgg-guides-working-out-as-a-student-banden">Resistance bands</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-working-out-as-a-student-fles">Water bottle</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>

@@ -131,13 +131,13 @@ Du kan ändra, pausa eller säga upp ditt abonnemang när som helst.
 De här länkarna tar dig direkt till Traininn, Tradeinns träningsbutik.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-sv-kleding-dames/?ws=fgg-se-index">Träningskläder dam</a></li>
-<li class="i-kleding"><a href="/go/traininn-sv-kleding-heren/?ws=fgg-se-index">Träningskläder herr</a></li>
-<li class="i-schoen"><a href="/go/traininn-sv-schoenen-dames/?ws=fgg-se-index">Träningsskor dam</a></li>
-<li class="i-schoen"><a href="/go/traininn-sv-schoenen-heren/?ws=fgg-se-index">Träningsskor herr</a></li>
-<li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-index">Vattenflaska</a></li>
-<li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-index">Träningshandduk</a></li>
-<li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-index">Hänglås till skåpet</a></li>
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-dames/?ws=fgg-se-index-kleding-dames">Träningskläder dam</a></li>
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-heren/?ws=fgg-se-index-kleding-heren">Träningskläder herr</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-dames/?ws=fgg-se-index-schoenen-dames">Träningsskor dam</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-heren/?ws=fgg-se-index-schoenen-heren">Träningsskor herr</a></li>
+<li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-index-fles">Vattenflaska</a></li>
+<li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-index-handdoek">Träningshandduk</a></li>
+<li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-index-hangslot">Hänglås till skåpet</a></li>
 </ul>
 
 <p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack!</p>

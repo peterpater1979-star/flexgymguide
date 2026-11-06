@@ -194,13 +194,13 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-index">Vêtements de sport femme</a></li>
-<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-index">Vêtements de sport homme</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-index">Chaussures de sport femme</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-index">Chaussures de sport homme</a></li>
-<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-index">Gourde</a></li>
-<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-index">Serviette de sport</a></li>
-<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-index">Cadenas pour le casier</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-index-kleding-dames">Vêtements de sport femme</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-index-kleding-heren">Vêtements de sport homme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-index-schoenen-dames">Chaussures de sport femme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-index-schoenen-heren">Chaussures de sport homme</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-index-fles">Gourde</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-index-handdoek">Serviette de sport</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-index-hangslot">Cadenas pour le casier</a></li>
 </ul>
 
 <p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>

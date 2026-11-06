@@ -130,13 +130,13 @@ Je kunt je abonnement altijd aanpassen, pauzeren of opzeggen.
 Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-be-index">Sportkleding dames</a></li>
-<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-be-index">Sportkleding heren</a></li>
-<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-be-index">Sportschoenen dames</a></li>
-<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-be-index">Sportschoenen heren</a></li>
-<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-be-index">Waterfles</a></li>
-<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-be-index">Sporthanddoek</a></li>
-<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-be-index">Hangslot voor het kluisje</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-be-index-kleding-dames">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-be-index-kleding-heren">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-be-index-schoenen-dames">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-be-index-schoenen-heren">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-be-index-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-be-index-handdoek">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-be-index-hangslot">Hangslot voor het kluisje</a></li>
 </ul>
 
 <p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>

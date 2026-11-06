@@ -55,9 +55,9 @@ Correr, andar de bicicleta, um parque de calistenia ou um vídeo de yoga em casa
 Com algumas coisas baratas também podes treinar no teu quarto, por exemplo nos dias em que não vais ao ginásio. Estes links levam-te à Traininn, a loja de fitness da Tradeinn:
 
 <ul class="spullen">
-<li class="i-mat"><a href="/go/traininn-pt-mat/?ws=fgg-pt-desporto-estudante">Tapete de ioga ou exercício</a></li>
-<li class="i-band"><a href="/go/traininn-pt-banden/?ws=fgg-pt-desporto-estudante">Bandas elásticas</a></li>
-<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-desporto-estudante">Garrafa de água</a></li>
+<li class="i-mat"><a href="/go/traininn-pt-mat/?ws=fgg-pt-desporto-estudante-yogamat">Tapete de ioga ou exercício</a></li>
+<li class="i-band"><a href="/go/traininn-pt-banden/?ws=fgg-pt-desporto-estudante-banden">Bandas elásticas</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-desporto-estudante-fles">Garrafa de água</a></li>
 </ul>
 
 <p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>

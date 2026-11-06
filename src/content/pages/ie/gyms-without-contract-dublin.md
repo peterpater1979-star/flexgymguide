@@ -20,6 +20,7 @@ Just moved to Dublin, here for a semester, or simply don't want to sign up for a
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 33 credits for €49 a month; smaller plans in the app | Variety at studios all over Dublin |
 | **Flyefit** | No contract | €38 a month for one gym, €41 for all gyms | Training often, at 20 gyms around Dublin |
+| **BD Gyms** | No contract on monthly | €36 a month, no joining fee | Training often at one gym |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Dublin. Always check the current price with the provider.</p>
@@ -55,6 +56,17 @@ Flyefit is an Irish gym chain with 20 gyms in Dublin, one in Cork and one in Gal
 <p class="klein">Source: Flyefit sign-up page (October 2026). Always check the current price with Flyefit.</p>
 
 Read [All about Flyefit](/ie/flyefit/) for classes, pausing and cancelling.
+
+<h2 id="bd-gyms">BD Gyms: no contract, no joining fee</h2>
+
+BD Gyms has four gyms in Dublin: Blanchardstown, Carlisle (Kimmage), Cherrywood and Northwood (Santry). The monthly membership costs €36 and has no contract and no joining fee. You can also pay €199 for 6 months or €299 for 12 months upfront. Classes are included, and a guest pass costs €10 a day.
+
+- **One gym:** your membership is only for the gym where you join.
+- **Cancelling:** by email, at least two weeks before your next payment.
+
+<p class="klein">Source: bdgyms.com (November 2026). Always check the current price with BD Gyms.</p>
+
+Read [All about BD Gyms](/ie/bd-gyms/) for classes, opening hours and cancelling.
 
 <h2 id="drop-in">Drop-in classes and class packs</h2>
 

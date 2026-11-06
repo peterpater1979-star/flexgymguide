@@ -59,10 +59,10 @@ Outside Europe it works in the United States, Canada, Australia, New Zealand, Ja
 Light and small, so it fits easily in your luggage. These links take you to Traininn, the fitness shop of Tradeinn:
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-classpass-while-travelling">Water bottle</a></li>
-<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-guides-classpass-while-travelling">Gym towel</a></li>
-<li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-classpass-while-travelling">Yoga or exercise mat</a></li>
-<li class="i-band"><a href="/go/traininn-en-banden/?ws=fgg-guides-classpass-while-travelling">Resistance bands</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-classpass-while-travelling-fles">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-guides-classpass-while-travelling-handdoek">Gym towel</a></li>
+<li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-classpass-while-travelling-yogamat">Yoga or exercise mat</a></li>
+<li class="i-band"><a href="/go/traininn-en-banden/?ws=fgg-guides-classpass-while-travelling-banden">Resistance bands</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
