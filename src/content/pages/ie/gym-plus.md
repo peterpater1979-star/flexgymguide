@@ -11,13 +11,13 @@ kicker: "Provider: health club"
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
 
-Gym Plus is an Irish group of seven clubs with a gym, classes and at most clubs a pool, sauna and steam room. Five are family clubs where children are welcome too. You join for at least six months.
+Gym Plus is an Irish group of seven clubs with a gym and classes. Several clubs also have a pool, sauna and jacuzzi. Every membership gives access to all seven clubs, and five are family clubs where children are welcome too. You join for at least six months.
 
 <h2 id="short">In short</h2>
 
 | | Gym Plus |
 | --- | --- |
-| **Type** | Health club with gym, classes and pool |
+| **Type** | Health club with gym and classes; pool at several clubs |
 | **Clubs** | 7: Dublin, Cork, Ashbourne, Drogheda and Naas |
 | **Price** | €69 a month or €690 a year; Cork €59 a month or €590 a year |
 | **Access** | <span class="ja" aria-hidden="true">✓</span> All 7 clubs |
@@ -30,15 +30,15 @@ Gym Plus is an Irish group of seven clubs with a gym, classes and at most clubs 
 
 <h2 id="clubs">The clubs</h2>
 
-| Club | Where |
-| --- | --- |
-| **Ballsbridge** | Dublin 4 |
-| **Rathfarnham** | South Dublin, family club |
-| **Swords** | North County Dublin, family club |
-| **Ashbourne** | Co. Meath, family club |
-| **Drogheda** | Co. Louth, family club |
-| **Naas** | Co. Kildare, family club |
-| **Cork** | Cork |
+| Club | Where | Extras |
+| --- | --- | --- |
+| **Ballsbridge** | Dublin 4 | Sauna and health suite, 50+ classes a week |
+| **Rathfarnham** | South Dublin, family club | Pool, sauna, steam room and jacuzzi |
+| **Swords** | North County Dublin, family club | 20-metre pool, sauna, salt room, steam room, jacuzzi, 70+ classes a week |
+| **Ashbourne** | Co. Meath, family club | |
+| **Drogheda** | Co. Louth, family club | 20-metre pool, sauna, jacuzzi, 50+ classes a week |
+| **Naas** | Co. Kildare, family club | 25-metre pool, sauna, jacuzzi, 50+ classes a week |
+| **Cork** | Cork | Keiser indoor cycling studio, 35+ classes a week |
 
 <h2 id="memberships">Memberships</h2>
 
@@ -50,11 +50,11 @@ Gym Plus is an Irish group of seven clubs with a gym, classes and at most clubs 
 - **All clubs:** your membership gives access to all 7 clubs. The price depends on the club where you join.
 - **Joining fee:** there is a joining fee. If you join as a couple, you pay it only once.
 - **Students:** most clubs have a student rate. Ask your club.
-- **Children:** an annual children's membership costs €55 at the family clubs.
+- **Under 16s:** €10 a month or €100 a year for unlimited swim sessions at the family clubs. You sign up at the club.
 
 <h2 id="classes">Classes and facilities</h2>
 
-Classes run by the Gym Plus team are included, for example HIIT, cycle, HYROX, lift, functional, dance and wellness. Classes by private instructors and swimming lessons cost extra. Most clubs also have free parking, a pool, sauna and steam room, and some have squash courts or a climbing wall. When you join, you get free training support and a free fitness review whenever you want one.
+Classes run by the Gym Plus team are included, for example HIIT, cycle, HYROX, lift, functional, dance and wellness. Classes by private instructors and swimming lessons cost extra. Depending on the club you also get a pool, sauna, steam room or jacuzzi; see the table above. Some clubs have squash courts or a climbing wall. When you join, you get free training support and a free fitness review whenever you want one.
 
 <h2 id="guest-pass">Trying it out</h2>
 
