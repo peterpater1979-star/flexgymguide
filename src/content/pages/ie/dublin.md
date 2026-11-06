@@ -145,6 +145,20 @@ Flyefit has 20 gyms in Dublin, plus one in Cork and one in Galway. Membership is
 
 </div>
 
+<div id="bd-gyms">
+
+<p class="kicker">Gym chain</p>
+
+## BD Gyms in Dublin
+
+BD Gyms has four gyms in Dublin: Blanchardstown, Carlisle (Kimmage), Cherrywood and Northwood (Santry). The monthly membership costs €36, with no contract and no joining fee, and classes are included. Your membership is for one gym.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/bd-gyms/">All about BD Gyms</a>
+</div>
+
+</div>
+
 <div id="west-wood-club">
 
 <p class="kicker">Health club</p>
