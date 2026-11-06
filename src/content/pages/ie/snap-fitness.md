@@ -19,11 +19,11 @@ Snap Fitness is an international chain of 24/7 gyms. In Ireland most gyms are in
 | --- | --- |
 | **Type** | 24/7 gym chain with classes |
 | **Gyms in Ireland** | Galway, Navan, Waterford, Drogheda, Sligo, Tullamore, Longford and Naas; Liffey Valley (Dublin) opening soon |
-| **Price** | Differs per gym; ask your gym for the current rate |
+| **Price** | Differs per gym; in Waterford €41.99 a month |
 | **Opening hours** | <span class="ja" aria-hidden="true">✓</span> 24/7 for members; staff present at set times |
 | **Monthly membership** | Rolling, cancel with 30 days' notice |
 | **Classes** | <span class="ja" aria-hidden="true">✓</span> Included at most gyms |
-| **Other gyms** | <span class="ja" aria-hidden="true">✓</span> Snap Fitness gyms in Ireland, the UK and worldwide |
+| **Other gyms** | <span class="ja" aria-hidden="true">✓</span> With a monthly membership: Snap Fitness gyms in Ireland, the UK and worldwide |
 
 <p class="klein">Source: <a href="https://www.snapfitness.com/ie/">snapfitness.com/ie</a>, the gym pages, member FAQ and membership terms (November 2026). Snap Fitness doesn't publish its Irish prices centrally. Always check the current price and terms with your gym.</p>
 
@@ -43,9 +43,17 @@ Snap Fitness is an international chain of 24/7 gyms. In Ireland most gyms are in
 
 <h2 id="memberships">Memberships</h2>
 
-Every Snap Fitness gym sets its own prices. You see the options for your gym on its page on the Snap Fitness website, or you ask the staff.
+Every Snap Fitness gym sets its own prices. You see the options for your gym when you join on the Snap Fitness website, or you ask the staff. An example from Waterford:
 
-- **Monthly or fixed term:** most gyms have a rolling monthly membership. Some also offer a fixed term, for example 12 months, with a fee if you stop early.
+| Waterford | Price | What you get |
+| --- | --- | --- |
+| **Month-to-Month** | €41.99 a month | Rolling monthly plan |
+| **6 months pre-paid** | €36.67 a month (€220 upfront) | Your home gym only |
+| **12 months pre-paid** | €31.67 a month (€380 upfront) | Your home gym only |
+
+<p class="klein">Source: Snap Fitness sign-up page for Waterford (November 2026). Other gyms may charge more or less.</p>
+
+- **Monthly or pre-paid:** most gyms have a rolling monthly membership. Some also offer 6 or 12 months paid upfront; that is cheaper per month, but only for your home gym.
 - **Access card:** you get an access card for the 24/7 entry. It isn't refundable, and a replacement costs extra.
 - **Trying it out:** many gyms offer a free one-day trial, and some sell day passes during staffed hours.
 - **Discounts:** some gyms have lower rates for students, seniors and emergency services, and for companies with five or more members.
@@ -56,7 +64,7 @@ Group classes such as HIIT, spin, yoga, core and circuits are included at most g
 
 <h2 id="abroad">Other Snap Fitness gyms</h2>
 
-Your membership also gives access to other Snap Fitness gyms, in Ireland, the UK and abroad. If you mostly train at another gym than your own, after 60 days your membership is moved to that gym.
+With a monthly membership you also get access to other Snap Fitness gyms, in Ireland, the UK and abroad. Pre-paid memberships are usually for your home gym only. If you mostly train at another gym than your own, after 60 days your membership is moved to that gym.
 
 <h2 id="cancel">Freezing and cancelling</h2>
 
@@ -88,14 +96,14 @@ Yes. Members get in at any time with their access card. Staff are only there at 
 <details>
 <summary>How much is Snap Fitness in Ireland?</summary>
 
-It differs per gym, because every gym has its own owner. Check the page of your gym or ask the staff.
+It differs per gym, because every gym has its own owner. In Waterford a monthly membership costs €41.99 (November 2026). Check the price for your gym when you join.
 
 </details>
 
 <details>
 <summary>Can I use Snap Fitness gyms abroad?</summary>
 
-Yes. Your membership gives access to other Snap Fitness gyms in Ireland, the UK and worldwide.
+Yes, with a monthly membership. Pre-paid 6- and 12-month memberships are usually for your home gym only.
 
 </details>
 
