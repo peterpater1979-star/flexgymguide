@@ -9,7 +9,7 @@ crumb: "BD Gyms"
 kicker: "Provider: gym chain"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-bd-gyms" role="img" aria-label="Gym"></div>
 
 BD Gyms is an Irish gym chain with four gyms in Dublin and one in Portlaoise. The monthly membership has no contract and no joining fee, and classes are included. Your membership is for the gym where you join.
 
