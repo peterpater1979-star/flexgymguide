@@ -145,12 +145,12 @@ You can change, pause or cancel your plan at any time.
 Missing something? These links take you straight to Traininn, the fitness shop of Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-uk-index">Sportswear for women</a></li>
-<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-uk-index">Sportswear for men</a></li>
-<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-uk-index">Training shoes for women</a></li>
-<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-uk-index">Training shoes for men</a></li>
-<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-uk-index">Water bottle</a></li>
-<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-uk-index">Gym towel</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-uk-index-kleding-dames">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-uk-index-kleding-heren">Sportswear for men</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-uk-index-schoenen-dames">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-uk-index-schoenen-heren">Training shoes for men</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-uk-index-fles">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-uk-index-handdoek">Gym towel</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>

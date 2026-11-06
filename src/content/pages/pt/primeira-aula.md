@@ -74,15 +74,15 @@ Calçado de sola lisa e firme para agachamentos e levantamentos. Uma toalha para
 Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de fitness da Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-pt-kleding-dames/?ws=fgg-pt-primeira-aula">Roupa desportiva de mulher</a></li>
-<li class="i-kleding"><a href="/go/traininn-pt-kleding-heren/?ws=fgg-pt-primeira-aula">Roupa desportiva de homem</a></li>
-<li class="i-schoen"><a href="/go/traininn-pt-schoenen-dames/?ws=fgg-pt-primeira-aula">Sapatilhas de desporto de mulher</a></li>
-<li class="i-schoen"><a href="/go/traininn-pt-schoenen-heren/?ws=fgg-pt-primeira-aula">Sapatilhas de desporto de homem</a></li>
-<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-primeira-aula">Garrafa de água</a></li>
-<li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-primeira-aula">Toalha de desporto</a></li>
-<li class="i-mat"><a href="/go/traininn-pt-mat/?ws=fgg-pt-primeira-aula">Tapete de ioga ou exercício</a></li>
-<li class="i-bandage"><a href="/go/traininn-pt-bandages/?ws=fgg-pt-primeira-aula">Ligaduras de boxe</a></li>
-<li class="i-handschoen"><a href="/go/traininn-pt-handschoenen/?ws=fgg-pt-primeira-aula">Luvas de boxe</a></li>
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-dames/?ws=fgg-pt-primeira-aula-kleding-dames">Roupa desportiva de mulher</a></li>
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-heren/?ws=fgg-pt-primeira-aula-kleding-heren">Roupa desportiva de homem</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-dames/?ws=fgg-pt-primeira-aula-schoenen-dames">Sapatilhas de desporto de mulher</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-heren/?ws=fgg-pt-primeira-aula-schoenen-heren">Sapatilhas de desporto de homem</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-primeira-aula-fles">Garrafa de água</a></li>
+<li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-primeira-aula-handdoek">Toalha de desporto</a></li>
+<li class="i-mat"><a href="/go/traininn-pt-mat/?ws=fgg-pt-primeira-aula-yogamat">Tapete de ioga ou exercício</a></li>
+<li class="i-bandage"><a href="/go/traininn-pt-bandages/?ws=fgg-pt-primeira-aula-bandages">Ligaduras de boxe</a></li>
+<li class="i-handschoen"><a href="/go/traininn-pt-handschoenen/?ws=fgg-pt-primeira-aula-bokshandschoenen">Luvas de boxe</a></li>
 </ul>
 
 <p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>

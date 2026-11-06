@@ -56,8 +56,8 @@ When choosing one, look at:
 A bottle, protein powder or bars? These links take you to Traininn, the fitness shop of Tradeinn:
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-eating-and-drinking-around-your-workout">Water bottle</a></li>
-<li class="i-fles"><a href="/go/traininn-en-voeding/?ws=fgg-guides-eating-and-drinking-around-your-workout">Protein and sports nutrition</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-eating-and-drinking-around-your-workout-fles">Water bottle</a></li>
+<li class="i-fles"><a href="/go/traininn-en-voeding/?ws=fgg-guides-eating-and-drinking-around-your-workout-voeding">Protein and sports nutrition</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>

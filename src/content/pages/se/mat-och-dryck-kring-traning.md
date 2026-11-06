@@ -24,7 +24,7 @@ Till ett pass på en timme eller ett vanligt gympass räcker det oftast med vatt
 - **Sportdryck** är till för långa eller mycket tuffa pass. Till ett vanligt pass går det bra med vatten.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-mat-och-dryck-kring-traning">Vattenflaska</a></li>
+<li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-mat-och-dryck-kring-traning-fles">Vattenflaska</a></li>
 </ul>
 
 <h2 id="fore">Före träningen: litet och lätt</h2>
@@ -57,8 +57,8 @@ När du väljer, titta på:
 - **Veganskt eller laktosfritt?** Det finns också varianter med ärt- eller sojaprotein.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-sv-voeding/?ws=fgg-se-mat-och-dryck-kring-traning">Proteinpulver</a></li>
-<li class="i-fles"><a href="/go/traininn-sv-shaker/?ws=fgg-se-mat-och-dryck-kring-traning">Shaker</a></li>
+<li class="i-fles"><a href="/go/traininn-sv-voeding/?ws=fgg-se-mat-och-dryck-kring-traning-voeding">Proteinpulver</a></li>
+<li class="i-fles"><a href="/go/traininn-sv-shaker/?ws=fgg-se-mat-och-dryck-kring-traning-shaker">Shaker</a></li>
 </ul>
 
 <p class="klein commissie">Länkarna går till Traininn, Tradeinns träningsbutik. Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack!</p>

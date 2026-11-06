@@ -74,16 +74,16 @@ Kengät, joissa on tasainen ja tukeva pohja kyykkyihin ja nostoihin. Pyyhe penke
 Nämä linkit vievät suoraan Traininniin, Tradeinnin treenikauppaan.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-fi-kleding-dames/?ws=fgg-fi-ensimmainen-tunti">Treenivaatteet naisille</a></li>
-<li class="i-kleding"><a href="/go/traininn-fi-kleding-heren/?ws=fgg-fi-ensimmainen-tunti">Treenivaatteet miehille</a></li>
-<li class="i-schoen"><a href="/go/traininn-fi-schoenen-dames/?ws=fgg-fi-ensimmainen-tunti">Treenikengät naisille</a></li>
-<li class="i-schoen"><a href="/go/traininn-fi-schoenen-heren/?ws=fgg-fi-ensimmainen-tunti">Treenikengät miehille</a></li>
-<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-ensimmainen-tunti">Juomapullo</a></li>
-<li class="i-handdoek"><a href="/go/traininn-fi-handdoek/?ws=fgg-fi-ensimmainen-tunti">Treenipyyhe</a></li>
-<li class="i-slot"><a href="/go/bricoinn-fi-cadenas/?ws=fgg-fi-ensimmainen-tunti">Lukko kaappiin</a></li>
-<li class="i-sok"><a href="/go/traininn-fi-yogasokken/?ws=fgg-fi-ensimmainen-tunti">Liukumattomat sukat joogaan ja pilatekseen</a></li>
-<li class="i-bandage"><a href="/go/traininn-fi-bandages/?ws=fgg-fi-ensimmainen-tunti">Nyrkkeilysiteet</a></li>
-<li class="i-handschoen"><a href="/go/traininn-fi-vechtsport/?ws=fgg-fi-ensimmainen-tunti">Nyrkkeilyhanskat</a></li>
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-dames/?ws=fgg-fi-ensimmainen-tunti-kleding-dames">Treenivaatteet naisille</a></li>
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-heren/?ws=fgg-fi-ensimmainen-tunti-kleding-heren">Treenivaatteet miehille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-dames/?ws=fgg-fi-ensimmainen-tunti-schoenen-dames">Treenikengät naisille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-heren/?ws=fgg-fi-ensimmainen-tunti-schoenen-heren">Treenikengät miehille</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-ensimmainen-tunti-fles">Juomapullo</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fi-handdoek/?ws=fgg-fi-ensimmainen-tunti-handdoek">Treenipyyhe</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fi-cadenas/?ws=fgg-fi-ensimmainen-tunti-hangslot">Lukko kaappiin</a></li>
+<li class="i-sok"><a href="/go/traininn-fi-yogasokken/?ws=fgg-fi-ensimmainen-tunti-yogasokken">Liukumattomat sukat joogaan ja pilatekseen</a></li>
+<li class="i-bandage"><a href="/go/traininn-fi-bandages/?ws=fgg-fi-ensimmainen-tunti-bandages">Nyrkkeilysiteet</a></li>
+<li class="i-handschoen"><a href="/go/traininn-fi-vechtsport/?ws=fgg-fi-ensimmainen-tunti-bokshandschoenen">Nyrkkeilyhanskat</a></li>
 </ul>
 
 <p class="klein commissie">Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos!</p>

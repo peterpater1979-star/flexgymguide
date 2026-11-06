@@ -154,12 +154,12 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 ¿Te falta algo? Con estos enlaces vas directamente a Traininn, la tienda de fitness de Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-es-kleding-dames/?ws=fgg-es-index">Ropa deportiva de mujer</a></li>
-<li class="i-kleding"><a href="/go/traininn-es-kleding-heren/?ws=fgg-es-index">Ropa deportiva de hombre</a></li>
-<li class="i-schoen"><a href="/go/traininn-es-schoenen-dames/?ws=fgg-es-index">Zapatillas deportivas de mujer</a></li>
-<li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-index">Zapatillas deportivas de hombre</a></li>
-<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-index">Botella de agua</a></li>
-<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-index">Toalla de deporte</a></li>
+<li class="i-kleding"><a href="/go/traininn-es-kleding-dames/?ws=fgg-es-index-kleding-dames">Ropa deportiva de mujer</a></li>
+<li class="i-kleding"><a href="/go/traininn-es-kleding-heren/?ws=fgg-es-index-kleding-heren">Ropa deportiva de hombre</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-dames/?ws=fgg-es-index-schoenen-dames">Zapatillas deportivas de mujer</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-index-schoenen-heren">Zapatillas deportivas de hombre</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-index-fles">Botella de agua</a></li>
+<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-index-handdoek">Toalla de deporte</a></li>
 </ul>
 
 <p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>

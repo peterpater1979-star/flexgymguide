@@ -24,7 +24,7 @@ Til en gruppetime på en time eller en vanlig økt på senteret holder det som r
 - **Sportsdrikk** er for lange eller veldig harde økter. Til en vanlig time går det fint med vann.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-no-fles/?ws=fgg-no-mat-og-drikke-rundt-trening">Drikkeflaske</a></li>
+<li class="i-fles"><a href="/go/traininn-no-fles/?ws=fgg-no-mat-og-drikke-rundt-trening-fles">Drikkeflaske</a></li>
 </ul>
 
 <h2 id="for">Før treningen: lite og lett</h2>
@@ -57,8 +57,8 @@ Når du velger, se på:
 - **Vegansk eller laktosefritt?** Det finnes også varianter med erte- eller soyaprotein.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-no-voeding/?ws=fgg-no-mat-og-drikke-rundt-trening">Proteinpulver</a></li>
-<li class="i-fles"><a href="/go/traininn-no-shaker/?ws=fgg-no-mat-og-drikke-rundt-trening">Shaker</a></li>
+<li class="i-fles"><a href="/go/traininn-no-voeding/?ws=fgg-no-mat-og-drikke-rundt-trening-voeding">Proteinpulver</a></li>
+<li class="i-fles"><a href="/go/traininn-no-shaker/?ws=fgg-no-mat-og-drikke-rundt-trening-shaker">Shaker</a></li>
 </ul>
 
 <p class="klein commissie">Lenkene går til Traininn, treningsbutikken til Tradeinn. Kjøper du via disse lenkene, får vi en liten provisjon. Du betaler ikke mer, og guiden forblir gratis. Takk!</p>

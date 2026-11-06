@@ -25,7 +25,7 @@ Tunnin mittaiselle tunnille tai tavalliseen salitreeniin riittää yleensä vesi
 - **Urheilujuomat** sopivat pitkiin tai todella raskaisiin treeneihin. Tavallisella tunnilla vesi riittää.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-syominen-ja-juominen-treenin-ymparilla">Juomapullo</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-syominen-ja-juominen-treenin-ymparilla-fles">Juomapullo</a></li>
 </ul>
 
 <h2 id="ennen">Ennen treeniä: pientä ja kevyttä</h2>
@@ -58,8 +58,8 @@ Kun valitset, katso:
 - **Vegaaninen tai laktoositon?** Saatavilla on myös herne- tai soijapohjaisia vaihtoehtoja.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-fi-voeding/?ws=fgg-fi-syominen-ja-juominen-treenin-ymparilla">Proteiinijauhe</a></li>
-<li class="i-fles"><a href="/go/traininn-fi-shaker/?ws=fgg-fi-syominen-ja-juominen-treenin-ymparilla">Shakeri</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-voeding/?ws=fgg-fi-syominen-ja-juominen-treenin-ymparilla-voeding">Proteiinijauhe</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-shaker/?ws=fgg-fi-syominen-ja-juominen-treenin-ymparilla-shaker">Shakeri</a></li>
 </ul>
 
 <p class="klein commissie">Linkit vievät Traininniin, Tradeinnin treenikauppaan. Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos!</p>

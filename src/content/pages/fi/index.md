@@ -113,13 +113,13 @@ Voit muuttaa, keskeyttää tai irtisanoa jäsenyytesi milloin tahansa.
 Nämä linkit vievät suoraan Traininniin, Tradeinnin treenikauppaan.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-fi-kleding-dames/?ws=fgg-fi-index">Treenivaatteet naisille</a></li>
-<li class="i-kleding"><a href="/go/traininn-fi-kleding-heren/?ws=fgg-fi-index">Treenivaatteet miehille</a></li>
-<li class="i-schoen"><a href="/go/traininn-fi-schoenen-dames/?ws=fgg-fi-index">Treenikengät naisille</a></li>
-<li class="i-schoen"><a href="/go/traininn-fi-schoenen-heren/?ws=fgg-fi-index">Treenikengät miehille</a></li>
-<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-index">Juomapullo</a></li>
-<li class="i-handdoek"><a href="/go/traininn-fi-handdoek/?ws=fgg-fi-index">Treenipyyhe</a></li>
-<li class="i-slot"><a href="/go/bricoinn-fi-cadenas/?ws=fgg-fi-index">Lukko kaappiin</a></li>
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-dames/?ws=fgg-fi-index-kleding-dames">Treenivaatteet naisille</a></li>
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-heren/?ws=fgg-fi-index-kleding-heren">Treenivaatteet miehille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-dames/?ws=fgg-fi-index-schoenen-dames">Treenikengät naisille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-heren/?ws=fgg-fi-index-schoenen-heren">Treenikengät miehille</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-index-fles">Juomapullo</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fi-handdoek/?ws=fgg-fi-index-handdoek">Treenipyyhe</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fi-cadenas/?ws=fgg-fi-index-hangslot">Lukko kaappiin</a></li>
 </ul>
 
 <p class="klein commissie">Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos!</p>

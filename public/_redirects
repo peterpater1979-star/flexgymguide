@@ -703,7 +703,7 @@
 # /go/fitness-first-uk/   clickref=:ref  https://www.awin1.com/cread.php?awinmid=109520&awinaffid=371173&clickref=:ref  302
 
 # Tradeinn via Daisycon (programma TrainInn INT, si=20617, link 1874239, media 442019), goedgekeurd okt 2026.
-# Label per pagina in ?ws= (fgg-[land]-[pagina]); dl = pad op tradeinn.com (Traininn-categorie).
+# Label per knop in ?ws= (fgg-[land]-[pagina]-[product], bv. fgg-fr-index-yogamat); dl = pad op tradeinn.com (Traininn-categorie).
 /go/traininn-en-kleding/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Fclothing%2F11076%2Ff  302
 /go/traininn-en-kleding/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Fclothing%2F11076%2Ff  302
 /go/traininn-en-schoenen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Ffootwear%2F11084%2Ff  302

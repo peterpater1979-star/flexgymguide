@@ -56,8 +56,8 @@ Ao escolher, vê:
 Uma garrafa, proteína em pó ou barras? Estes links levam-te à Traininn, a loja de fitness da Tradeinn:
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-comer-e-beber-no-treino">Garrafa de água</a></li>
-<li class="i-fles"><a href="/go/traininn-pt-voeding/?ws=fgg-pt-comer-e-beber-no-treino">Proteína e nutrição desportiva</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-comer-e-beber-no-treino-fles">Garrafa de água</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-voeding/?ws=fgg-pt-comer-e-beber-no-treino-voeding">Proteína e nutrição desportiva</a></li>
 </ul>
 
 <p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>
