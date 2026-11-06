@@ -159,6 +159,20 @@ BD Gyms has four gyms in Dublin: Blanchardstown, Carlisle (Kimmage), Cherrywood 
 
 </div>
 
+<div id="gym-plus">
+
+<p class="kicker">Health club</p>
+
+## Gym Plus in Dublin
+
+Gym Plus has clubs in Ballsbridge, Rathfarnham and Swords, with a gym, classes and at most clubs a pool. Membership is €69 a month or €690 a year, plus a joining fee. The first term is 6 months.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ie/gym-plus/">All about Gym Plus</a>
+</div>
+
+</div>
+
 <div id="west-wood-club">
 
 <p class="kicker">Health club</p>

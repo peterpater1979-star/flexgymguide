@@ -1,0 +1,105 @@
+---
+title: "Gym Plus: clubs, memberships, prices and cancelling"
+path: "/ie/gym-plus/"
+description: "All about Gym Plus in Ireland: seven clubs in Dublin, Cork, Ashbourne, Drogheda and Naas, from €59 a month, pools and classes included, contract and cancelling."
+lang: en
+land: ie
+byline: "Updated November 2026"
+crumb: "Gym Plus"
+kicker: "Provider: health club"
+---
+
+<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
+
+Gym Plus is an Irish group of seven clubs with a gym, classes and at most clubs a pool, sauna and steam room. Five are family clubs where children are welcome too. You join for at least six months.
+
+<h2 id="short">In short</h2>
+
+| | Gym Plus |
+| --- | --- |
+| **Type** | Health club with gym, classes and pool |
+| **Clubs** | 7: Dublin, Cork, Ashbourne, Drogheda and Naas |
+| **Price** | €69 a month or €690 a year; Cork €59 a month or €590 a year |
+| **Contract** | <span class="nee" aria-hidden="true">✗</span> 6 months, then one month's notice |
+| **Joining fee** | Yes; ask the club for the amount |
+| **Classes** | <span class="ja" aria-hidden="true">✓</span> Included |
+| **Free guest pass** | <span class="ja" aria-hidden="true">✓</span> 1 day |
+
+<p class="klein">Source: <a href="https://gymplus.ie/">gymplus.ie</a>, the home page and FAQ (November 2026). Always check the current price with Gym Plus.</p>
+
+<h2 id="clubs">The clubs</h2>
+
+| Club | Where |
+| --- | --- |
+| **Ballsbridge** | Dublin 4 |
+| **Rathfarnham** | South Dublin, family club |
+| **Swords** | North County Dublin, family club |
+| **Ashbourne** | Co. Meath, family club |
+| **Drogheda** | Co. Louth, family club |
+| **Naas** | Co. Kildare, family club |
+| **Cork** | Cork |
+
+<h2 id="memberships">Memberships</h2>
+
+| Club | Per month | Per year |
+| --- | --- | --- |
+| **Cork** | €59 | €590 |
+| **All other clubs** | €69 | €690 |
+
+- **One club or all clubs:** you can join your local club, or pay a little more each month to use all clubs. Ask your club which price applies to which option.
+- **Joining fee:** there is a joining fee. If you join as a couple, you pay it only once.
+- **Students:** most clubs have a student rate. Ask your club.
+- **Children:** an annual children's membership costs €55 at the family clubs.
+
+<h2 id="classes">Classes and facilities</h2>
+
+Classes run by the Gym Plus team are included, for example HIIT, cycle, HYROX, lift, functional, dance and wellness. Classes by private instructors and swimming lessons cost extra. Most clubs also have free parking, a pool, sauna and steam room, and some have squash courts or a climbing wall. When you join, you get free training support and a free fitness review whenever you want one.
+
+<h2 id="guest-pass">Trying it out</h2>
+
+Gym Plus offers a free 1-day guest pass, so you can see a club before you join. You can also buy a day pass for the whole club.
+
+<h2 id="cancel">Freezing and cancelling</h2>
+
+- **Contract:** your first term is 6 months.
+- **Cancelling:** after those 6 months, you can cancel at any time with one calendar month's notice.
+- **Freezing:** you can freeze your membership for up to 3 months.
+
+<h2 id="age">Minimum age</h2>
+
+You can use the gym from 16. Between 16 and 18 you need consent from a parent. Children and teens up to 16 can join with a children's membership at the family clubs, but can't use the gym floor.
+
+<h2 id="cities">Gym Plus in your city</h2>
+
+Read more about Gym Plus next to other options in [Dublin](/ie/dublin/#gym-plus) and [Cork](/ie/cork/#gym-plus).
+
+<h2 id="classpass">Gym Plus or ClassPass?</h2>
+
+Gym Plus suits you if you want a gym, classes and a pool in one place and you go there often. Don't want a 6-month contract? Then [BD Gyms](/ie/bd-gyms/), [Flyefit](/ie/flyefit/) or a fitness pass like ClassPass may suit you better. Read [All about ClassPass](/ie/classpass/).
+
+## Frequently asked questions
+
+<details open>
+<summary>Does Gym Plus have a contract?</summary>
+
+Yes. The first term is 6 months. After that, you cancel with one calendar month's notice.
+
+</details>
+
+<details>
+<summary>How much is Gym Plus?</summary>
+
+€69 a month or €690 a year, and €59 a month or €590 a year in Cork, plus a joining fee (November 2026).
+
+</details>
+
+<details>
+<summary>Are classes included at Gym Plus?</summary>
+
+Yes. Classes by the Gym Plus team are included. Classes by private instructors and swimming lessons cost extra.
+
+</details>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://gymplus.ie/">Gym Plus</a>
+</div>

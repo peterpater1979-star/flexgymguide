@@ -60,8 +60,8 @@ An Irish gym chain without a contract: 20 gyms in Dublin, plus Cork and Galway. 
 ClassPass has partner studios in several cities, including:
 
 <ul class="stedenlijst">
-<li><a href="/ie/dublin/"><strong>Dublin</strong></a> <span class="klein">ClassPass · Flyefit · BD Gyms · West Wood Club</span></li>
-<li><a href="/ie/cork/"><strong>Cork</strong></a> <span class="klein">ClassPass · Flyefit</span></li>
+<li><a href="/ie/dublin/"><strong>Dublin</strong></a> <span class="klein">ClassPass · Flyefit · BD Gyms · Gym Plus · West Wood Club</span></li>
+<li><a href="/ie/cork/"><strong>Cork</strong></a> <span class="klein">ClassPass · Flyefit · Gym Plus</span></li>
 </ul>
 
 The app shows which studios and gyms near you take part.
