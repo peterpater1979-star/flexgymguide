@@ -155,3 +155,10 @@ Yes. Your credits work in every country where ClassPass is available, at that co
 
 </details>
 
+<details>
+<summary>Is there a PureGym in Ireland?</summary>
+
+Not yet. PureGym plans its first Irish gym in Dublin city centre in early 2027. Read [PureGym Ireland](/ie/puregym/).
+
+</details>
+
