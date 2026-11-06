@@ -9,7 +9,7 @@ crumb: "West Wood Club"
 kicker: "Provider: health club"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-west-wood-club" role="img" aria-label="Gym"></div>
 
 West Wood Club is a group of six health clubs in Dublin. Besides a gym, the clubs have swimming pools, group classes and spa facilities, and several have tennis, padel or squash. Group classes are included in every membership. Unlike a budget gym, West Wood Club has a minimum contract period.
 
