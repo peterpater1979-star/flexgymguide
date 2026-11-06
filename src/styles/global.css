@@ -118,7 +118,6 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-flyefit { --foto: url(/img/foto/flyefit.jpg); }
 .foto-bd-gyms { --foto: url(/img/foto/bd-gyms.jpg); }
 .foto-gym-plus { --foto: url(/img/foto/gym-plus.jpg); }
-.foto-snap-fitness { --foto: url(/img/foto/snap-fitness.jpg); background-position: center 25%; }
 .foto-west-wood-club { --foto: url(/img/foto/west-wood-club.jpg); }
 .foto-elixia { --foto: url(/img/foto/elixia.jpg); }
 .foto-fitness-first-de { --foto: url(/img/foto/fitness-first-de.jpg); }

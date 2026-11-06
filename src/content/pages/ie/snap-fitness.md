@@ -9,7 +9,7 @@ crumb: "Snap Fitness"
 kicker: "Provider: gym chain"
 ---
 
-<div class="fotobanner smal foto-snap-fitness" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
 
 Snap Fitness is an international chain of 24/7 gyms. In Ireland most gyms are in towns outside Dublin, and a first Dublin gym is coming to Liffey Valley. Each gym is run by its own owner, so prices and some rules differ per gym. With your membership you can also use other Snap Fitness gyms, in Ireland and abroad.
 
