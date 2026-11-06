@@ -12,6 +12,8 @@ kicker: "Guide ville Annemasse"
 
 Pas envie d’être lié à une seule salle ? À Annemasse, tu peux réserver des cours dans des studios de la ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
 
+L’offre ClassPass à Annemasse est petite mais originale : pole dance et cerceau aérien chez Air Flow Studio, et tout près du Pilates en petits groupes à Cranves-Sales et à Ville-la-Grand. Pratique si tu travailles à Genève, car tes crédits marchent aussi en Suisse, partout où ClassPass est présent.
+
 <h2 id="en-bref">En bref</h2>
 
 <div class="kolommen">
@@ -84,6 +86,12 @@ Une petite offre : Air Flow Studio à Annemasse (pole dance, cerceau aérien, re
 
 [Voir les studios à Annemasse sur ClassPass](/go/classpass-fr-annemasse/?epi=fgg-fr-annemasse)
 
+### Bon pour
+
+- Ceux qui veulent essayer la pole dance, le cerceau aérien ou le Pilates Reformer sans s’engager
+- Les frontaliers qui veulent aussi réserver des cours à Genève
+- Ceux qui s’entraînent une à trois fois par semaine
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
@@ -93,8 +101,11 @@ Une petite offre : Air Flow Studio à Annemasse (pole dance, cerceau aérien, re
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure
-- Résiliable à tout moment
+- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
+- Les cours de Pilates chez El Pilates Studio sont limités à 8 personnes : réserve quelques jours à l’avance
+- Pour le Pilates Reformer, les chaussettes antidérapantes sont presque toujours obligatoires
+- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
+- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-annemasse">Profitez de 10 séances gratuites en 14 jours</a>
@@ -134,6 +145,17 @@ Basic-Fit est présent à Annemasse. C’est une chaîne de salles à petit prix
 </div>
 
 </div>
+
+<h2 id="essai">Essayer ClassPass à Annemasse</h2>
+
+Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 séances.
+
+1. **Inscris-toi** via le bouton ClassPass plus haut. Tu vois l’offre d’essai au moment de t’inscrire.
+2. **Réserve tes séances.** Tu peux aller une fois dans chaque studio ou salle, par exemple un cours chez Air Flow Studio, un chez El Pilates Studio et un chez ALOÏA.
+3. **Annule à temps.** Si tu annules trop tard ou ne viens pas, tu paies les frais habituels, même pendant l’essai.
+4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes à l’abonnement standard : 37 crédits pour 59 € par mois.
+
+L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
 ## Lequel te convient ?
 
@@ -177,6 +199,13 @@ Choisis ClassPass. Ton abonnement marche aussi dans les autres pays où ClassPas
 <summary>ClassPass est-il moins cher qu’une salle de sport à Annemasse ?</summary>
 
 Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+
+</details>
+
+<details>
+<summary>Quels sports peut-on faire avec ClassPass à Annemasse ?</summary>
+
+Surtout de la pole dance, du cerceau aérien, du renforcement et de la mobilité chez Air Flow Studio, et du Pilates Reformer et au sol chez El Pilates Studio et ALOÏA. L’offre change régulièrement : regarde la liste à jour sur ClassPass.
 
 </details>
 

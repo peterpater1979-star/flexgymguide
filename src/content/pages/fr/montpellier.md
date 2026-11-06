@@ -108,7 +108,15 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre, dont les Arceaux. Pilates, yoga et salles de sport.
+Dans le centre (Écusson, Arceaux, Saint-Roch) et aux Prés d’Arènes, et aussi à Castelnau-le-Lez, Lattes, Pérols et Mauguio. Une sélection par sport, entre autres :
+
+- **[Pilates](/go/classpass-fr-montpellier-pilates/?epi=fgg-fr-montpellier)** : Pilates Reformer chez PIA avenue Germaine-Tillion et chez The New Me à Castelnau-le-Lez, Lagree et Pilates chez Lemon Studio place du Marché-aux-Fleurs, et aussi JOY Maison Wellness rue Estelle, Le Club à Lattes, HOLIN à Mauguio et Calesa Studio à Lattes (pensé pour les femmes)
+- **[Yoga](/go/classpass-fr-montpellier-yoga/?epi=fgg-fr-montpellier)** : L’Intuitive Yoga rue Magnol aux Arceaux, JOY Maison Wellness, Le Club à Lattes et HOLIN à Mauguio
+- **[Renforcement et bootcamp](/go/classpass-fr-montpellier-bootcamp/?epi=fgg-fr-montpellier)** : Training Go à Castelnau-le-Lez, Pérols et aux Prés d’Arènes, Movida Club rue Favre-de-Saint-Castor et Ethik Sport Club à Saint-Roch et à Castelnau-le-Lez
+- **[Accès à la salle](/go/classpass-fr-montpellier-salle/?epi=fgg-fr-montpellier)** : Movida Club, Training Go et Ethik Sport Club
+- **[Danse](/go/classpass-fr-montpellier-danse/?epi=fgg-fr-montpellier)** : chez Training Go à Castelnau-le-Lez
+- **[Barre](/go/classpass-fr-montpellier-barre/?epi=fgg-fr-montpellier)**, **[HIIT](/go/classpass-fr-montpellier-hiit/?epi=fgg-fr-montpellier)**, **[arts martiaux](/go/classpass-fr-montpellier-arts-martiaux/?epi=fgg-fr-montpellier)**, **[boxe](/go/classpass-fr-montpellier-boxe/?epi=fgg-fr-montpellier)** et **[vélo en salle](/go/classpass-fr-montpellier-cycling/?epi=fgg-fr-montpellier)** : à voir selon les créneaux du moment
+- **[Bien-être](/go/classpass-fr-montpellier-bien-etre/?epi=fgg-fr-montpellier)** : massages au Cabinet du Deep Tissue, au centre commercial Polygone
 
 [Voir les studios à Montpellier sur ClassPass](/go/classpass-fr-montpellier/?epi=fgg-fr-montpellier)
 

@@ -94,7 +94,17 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre : OMYPILATES (rue du Faubourg Bannier), Pilates Reformer et Pilates sur tapis en petits groupes.
+Une petite offre pour l’instant :
+
+- **Pilates Reformer et Pilates sur tapis** : OMYPILATES rue du Faubourg-Bannier, en petits groupes dans un cadre moderne
+
+Avec une seule adresse en ville, ClassPass a surtout du sens à Orléans si tu vas aussi souvent à Paris, où l’offre est beaucoup plus large. Voir [ClassPass à Paris](/fr/classpass-paris/).
+
+### Bon pour
+
+- Ceux qui veulent découvrir le Pilates Reformer sans s’engager dans un abonnement de studio
+- Ceux qui font souvent l’aller-retour à Paris et veulent y réserver d’autres sports avec les mêmes crédits
+- Ceux qui voyagent et veulent pouvoir réserver des cours dans d’autres villes
 
 [Voir les studios à Orléans sur ClassPass](/go/classpass-fr-orleans/?epi=fgg-fr-orleans)
 
@@ -108,6 +118,9 @@ Une petite offre : OMYPILATES (rue du Faubourg Bannier), Pilates Reformer et Pil
 ### À savoir
 
 - Le nombre de crédits par cours dépend du studio et de l’heure
+- Pour le Reformer, prends des chaussettes antidérapantes et réserve quelques jours à l’avance : il y a peu de machines
+- Avec une seule adresse à Orléans, regarde d’abord le planning dans l’application avant de t’abonner
+- Les crédits non utilisés passent au mois suivant ; s’ils ne sont toujours pas utilisés, ils expirent
 - Résiliable à tout moment
 
 <div class="knoppen">

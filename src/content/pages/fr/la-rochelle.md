@@ -12,6 +12,8 @@ kicker: "Guide ville La Rochelle"
 
 Pas envie d’être lié à une seule salle ? À La Rochelle, tu peux réserver des cours dans des studios de la ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
 
+L’offre ClassPass à La Rochelle est encore petite : pour l’instant surtout des séances d’électrostimulation avec un coach chez Iron Bodyfit. Ça vaut le coup si tu veux t’entraîner sans engagement ou si tu voyages souvent, car tes crédits marchent aussi à Bordeaux, à Nantes et ailleurs. Tu préfères une salle classique ? Keepcool est présent en ville.
+
 <h2 id="en-bref">En bref</h2>
 
 <div class="kolommen">
@@ -84,6 +86,12 @@ Une petite offre : Iron Bodyfit La Rochelle (avenue de la Porte Royale), séance
 
 [Voir les studios à La Rochelle sur ClassPass](/go/classpass-fr-la-rochelle/?epi=fgg-fr-la-rochelle)
 
+### Bon pour
+
+- Ceux qui veulent essayer des séances courtes avec un coach sans s’engager
+- Ceux qui vont souvent à Bordeaux, à Nantes ou à Paris et veulent y réserver des cours
+- Ceux qui s’entraînent une à deux fois par semaine
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
@@ -93,8 +101,10 @@ Une petite offre : Iron Bodyfit La Rochelle (avenue de la Porte Royale), séance
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure
-- Résiliable à tout moment
+- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
+- L’offre à La Rochelle est petite : regarde aussi les studios à Bordeaux ou à Nantes si tu y passes souvent
+- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
+- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-la-rochelle">Profitez de 10 séances gratuites en 14 jours</a>
@@ -134,6 +144,17 @@ Keepcool a une salle à La Rochelle. C’est une chaîne française avec plus de
 </div>
 
 </div>
+
+<h2 id="essai">Essayer ClassPass à La Rochelle</h2>
+
+Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 séances.
+
+1. **Inscris-toi** via le bouton ClassPass plus haut. Tu vois l’offre d’essai au moment de t’inscrire.
+2. **Réserve tes séances.** Tu peux aller une fois dans chaque studio ou salle, par exemple une séance chez Iron Bodyfit, puis des cours à Bordeaux ou à Nantes si tu y vas.
+3. **Annule à temps.** Si tu annules trop tard ou ne viens pas, tu paies les frais habituels, même pendant l’essai.
+4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes à l’abonnement standard : 37 crédits pour 59 € par mois.
+
+L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
 ## Lequel te convient ?
 
@@ -177,6 +198,13 @@ Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
 <summary>ClassPass est-il moins cher qu’une salle de sport à La Rochelle ?</summary>
 
 Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+
+</details>
+
+<details>
+<summary>Quels sports peut-on faire avec ClassPass à La Rochelle ?</summary>
+
+Surtout des séances d’électrostimulation avec un coach chez Iron Bodyfit. L’offre change régulièrement : regarde la liste à jour sur ClassPass.
 
 </details>
 

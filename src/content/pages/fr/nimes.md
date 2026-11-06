@@ -94,7 +94,17 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre : Villa Yoga Nîmes (rue des Loisirs), un studio de yoga dynamique et doux, avec aussi des étirements, ouvert aux débutants comme aux confirmés.
+Une petite offre pour l’instant :
+
+- **Yoga et étirements** : Villa Yoga Nîmes rue des Loisirs, un studio simple et accessible, avec des cours dynamiques et des cours plus doux, ouvert aux débutants comme aux confirmés
+
+Tu vas souvent à Montpellier ? Là-bas, tes crédits te donnent accès à beaucoup plus de studios : Pilates Reformer, yoga, renforcement et salles de sport. Voir [ClassPass à Montpellier](/fr/montpellier/#classpass).
+
+### Bon pour
+
+- Ceux qui veulent faire du yoga à Nîmes sans s’engager dans un abonnement de studio
+- Ceux qui travaillent ou sortent souvent à Montpellier et veulent y réserver d’autres sports avec les mêmes crédits
+- Ceux qui voyagent et veulent pouvoir réserver des cours dans d’autres villes
 
 [Voir les studios à Nîmes sur ClassPass](/go/classpass-fr-nimes/?epi=fgg-fr-nimes)
 
@@ -108,6 +118,8 @@ Une petite offre : Villa Yoga Nîmes (rue des Loisirs), un studio de yoga dynami
 ### À savoir
 
 - Le nombre de crédits par cours dépend du studio et de l’heure
+- Avec une seule adresse à Nîmes, regarde d’abord le planning de Villa Yoga dans l’application avant de t’abonner
+- Les crédits non utilisés passent au mois suivant ; s’ils ne sont toujours pas utilisés, ils expirent
 - Résiliable à tout moment
 
 <div class="knoppen">

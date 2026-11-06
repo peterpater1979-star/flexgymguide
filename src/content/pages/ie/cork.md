@@ -12,6 +12,8 @@ kicker: "City guide Cork"
 
 Don't want to be tied to one gym? In Cork you can use a fitness pass at studios across the city, or join a gym without a contract. Here's what suits you.
 
+ClassPass in Cork is a small choice for now, in the city centre, Shandon, Ballintemple and Douglas. Most sessions are strength training and gym visits, plus boxing. It suits you if you want to train without a contract, or if you're often in Dublin, where the choice is much bigger. Prefer one gym? Flyefit is in Cork too.
+
 <h2 id="glance">At a glance</h2>
 
 <div class="kolommen">
@@ -82,6 +84,12 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 A small choice, in the city centre, Shandon, Ballintemple and Douglas. Mostly strength training and gyms, also boxing.
 
+### Good for
+
+- People who like to try different workouts and studios
+- People who train one to three times a week
+- Students, expats and frequent travellers
+
 ### What you get
 
 - Monthly credits for classes and gym visits
@@ -91,8 +99,11 @@ A small choice, in the city centre, Shandon, Ballintemple and Douglas. Mostly st
 
 ### Watch out for
 
-- Credits per class vary by studio and time of day
+- Credits per class vary by studio and time of day. Off-peak classes often cost less
+- Popular evening and weekend classes fill up fast: book a few days ahead
+- For reformer Pilates, grip socks are almost always required
 - Unused credits roll over for one month, then they expire
+- Cancel any time before your next billing date
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/ie/classpass/">All about ClassPass</a>
@@ -131,6 +142,17 @@ Flyefit has one gym in Cork, plus 20 in Dublin and one in Galway. With Flye Roam
 </div>
 
 </div>
+
+<h2 id="trial">Try ClassPass in Cork</h2>
+
+New to ClassPass? You start with 14 days free and 10 workouts.
+
+1. **Sign up** with the ClassPass button above. You see the trial offer when you sign up.
+2. **Book your workouts.** You can visit each studio or gym once, for example a strength session in the city centre, a boxing class and a gym visit in Douglas.
+3. **Cancel in time.** If you cancel late or don't show up, you pay the usual fee, even during the trial.
+4. **At the end** you get a reminder by email. If you don't cancel, you move to the standard plan: 33 credits for €49 a month.
+
+The trial is for new members only. Read all the rules in [ClassPass free trial](/guides/classpass-free-trial/).
 
 ## Which one suits you?
 
@@ -174,6 +196,13 @@ Go for ClassPass. Your membership also works in other countries where ClassPass 
 <summary>Is ClassPass cheaper than a gym in Cork?</summary>
 
 It depends on how often you train and what you want to do. If you mostly use the gym floor, a gym membership is usually cheaper. If you want to mix studios and classes, a fitness pass is usually the better fit.
+
+</details>
+
+<details>
+<summary>What can you do with ClassPass in Cork?</summary>
+
+Mostly strength training and gym visits, plus boxing, in the city centre, Shandon, Ballintemple and Douglas. The choice changes often: check the current list on ClassPass.
 
 </details>
 

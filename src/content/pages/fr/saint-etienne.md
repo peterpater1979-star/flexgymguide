@@ -94,7 +94,16 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre : L’Appart Fitness place de l’Hôtel de Ville et cours Fauriel (musculation, cardio et cours collectifs), et Pilates In the City (rue Bergson), premier club de Pilates Reformer premium de la ville.
+Une petite offre, surtout du Pilates Reformer et des salles de sport :
+
+- **Pilates Reformer** : Pilates In the City rue Bergson, et Samnaïa Studio, un studio calme avenue de la Libération à Saint-Chamond
+- **Accès à la salle** : L’Appart Fitness place de l’Hôtel-de-Ville et cours Fauriel (musculation, cardio et cours collectifs)
+
+### Bon pour
+
+- Ceux qui veulent mélanger la salle et quelques cours de Reformer, sans deux abonnements
+- Ceux qui vont souvent à Lyon et veulent y réserver des cours avec les mêmes crédits
+- Ceux qui s’entraînent une à trois fois par semaine
 
 [Voir les studios à Saint-Étienne sur ClassPass](/go/classpass-fr-saint-etienne/?epi=fgg-fr-saint-etienne)
 
@@ -108,6 +117,8 @@ Une petite offre : L’Appart Fitness place de l’Hôtel de Ville et cours Faur
 ### À savoir
 
 - Le nombre de crédits par cours dépend du studio et de l’heure
+- Les studios de Reformer ont peu de machines : réserve quelques jours à l’avance et prends des chaussettes antidérapantes
+- L’Appart Fitness a deux adresses : vérifie bien laquelle tu réserves
 - Résiliable à tout moment
 
 <div class="knoppen">

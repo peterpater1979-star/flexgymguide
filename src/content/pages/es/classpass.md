@@ -68,10 +68,10 @@ Donde más opciones tienes con ClassPass es en estas ciudades:
 - **Valencia**: sobre todo Ruzafa y L’Eixample, y también Ciutat Vella, El Carmen, Benimaclet, Campanar y Camins al Grau. Pilates, yoga, barre, fuerza y cycling. Ver los estudios [por deporte](/es/valencia/#classpass)
 - **Sevilla**: Triana, Los Remedios, San Bernardo, Nervión y el Casco Antiguo. Pilates, yoga, fuerza, barre y fitbox, y también en Tomares, Gines y Alcalá de Guadaíra. Ver los estudios [por deporte](/es/sevilla/#classpass)
 - **Málaga**: Teatinos, Centro, El Perchel y Pedregalejo. Pilates, fuerza, barre y yoga, y también en Rincón de la Victoria, Torremolinos y Benalmádena. Ver los estudios [por deporte](/es/malaga/#classpass)
-- **Marbella**: una oferta más pequeña, en el centro, la Milla de Oro y Nueva Andalucía. Yoga, Pilates, barre y CrossFit
-- **Alicante**: estudios repartidos por la ciudad, entre otros en el PAU 1. Pilates, fuerza y yoga, y también en Sant Joan d’Alacant, Elche, Altea y Jávea
-- **Bilbao**: una oferta más pequeña, sobre todo en Abando. Sobre todo entrenamiento de fuerza, además de Pilates y barre, y también en Barakaldo
-- **Ibiza ciudad**: una oferta más pequeña, repartida por la ciudad y en Puig d’en Valls. Sobre todo Pilates (también Lagree), fuerza y barre
+- **Marbella**: el centro, la Milla de Oro, Nueva Andalucía y San Pedro Alcántara. Pilates y Lagree, yoga, barre, HIIT, CrossFit, baile, yoga en la playa y sauna. Ver los estudios [por deporte](/es/marbella/#classpass)
+- **Alicante**: estudios repartidos por la ciudad, entre otros en el PAU 1. Pilates, fuerza, yoga y barre, y también en Sant Joan d’Alacant, Elche, Altea y Jávea. Ver los estudios [por deporte](/es/alicante/#classpass)
+- **Bilbao**: una oferta más pequeña, sobre todo en Abando. Sobre todo entrenamiento de fuerza, además de Pilates, barre y fitboxing, y también en Barakaldo. Ver los estudios [por deporte](/es/bilbao/#classpass)
+- **Ibiza ciudad**: una oferta más pequeña, en Eivissa, Marina Botafoch, Sant Jordi, Puig d’en Valls y Sant Josep. Sobre todo Pilates y Lagree, y también yoga, barre, HIIT y fuerza. Ver los estudios [por deporte](/es/ibiza/#classpass)
 - **Palma de Mallorca**: el centro, Santa Catalina, Ponent y Llevant. Pilates, fuerza, yoga, barre y cycling, y también en Portals Nous y Palmanova. Ver los estudios [por deporte](/es/palma-de-mallorca/#classpass)
 
 En la app ves qué estudios y gimnasios participan cerca de ti.

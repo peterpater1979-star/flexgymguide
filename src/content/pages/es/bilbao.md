@@ -108,7 +108,19 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 ### Dónde
 
-Una oferta más pequeña, sobre todo en Abando. Sobre todo entrenamiento de fuerza, además de Pilates y barre, y también en Barakaldo.
+Una oferta más pequeña, sobre todo en Abando y el Ensanche, y también en Santutxu y Barakaldo. Sobre todo entrenamiento de fuerza y funcional, además de Pilates, barre, yoga y fitboxing. Una selección por deporte, entre otros:
+
+- **[Pilates](/go/classpass-es-bilbao-pilates/?epi=fgg-es-bilbao)**: Vera Barre en la calle Colón de Larreátegui, Loratze Yoga Studio en Mazarredo y Distrito 480 en Abando
+- **[Barre](/go/classpass-es-bilbao-barre/?epi=fgg-es-bilbao)**: BIOBA BARRE ESTUDIO en la plaza del Museo y Vera Barre
+- **[Yoga](/go/classpass-es-bilbao-yoga/?epi=fgg-es-bilbao)**: Loratze Yoga Studio y las clases de yoga de Distrito 480
+- **[HIIT](/go/classpass-es-bilbao-hiit/?epi=fgg-es-bilbao)** y **[bootcamp](/go/classpass-es-bilbao-bootcamp/?epi=fgg-es-bilbao)**: Distrito 480 (BootCamp, WOD y D45), Summit Fitness Studio en Lersundi y en Barakaldo, moveBilbao y Arima Training, en grupos reducidos
+- **[Boxeo](/go/classpass-es-bilbao-boxeo/?epi=fgg-es-bilbao)**: Brooklyn Fitboxing en Santutxu y en Barakaldo
+- **[Baile](/go/classpass-es-bilbao-baile/?epi=fgg-es-bilbao)**: BIZIO en la alameda de Urquijo, con música e iluminación
+- **[Gimnasio](/go/classpass-es-bilbao-gimnasio/?epi=fgg-es-bilbao)**: moveBilbao
+- **[Bienestar](/go/classpass-es-bilbao-bienestar/?epi=fgg-es-bilbao)**: masajes en Arcadea Wellness Studio en Uribitarte
+- También **[cycling](/go/classpass-es-bilbao-cycling/?epi=fgg-es-bilbao)** y el método GYROTONIC en GYROTONIC BILBAO, en la alameda de Recalde
+
+[Ver los estudios en Bilbao en ClassPass](/go/classpass-es-bilbao/?epi=fgg-es-bilbao)
 
 ### Qué tienes
 

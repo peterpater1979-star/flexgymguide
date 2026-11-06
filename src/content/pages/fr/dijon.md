@@ -94,7 +94,16 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Surtout des salles de sport en accès libre : L’Appart Fitness dans le centre (boulevard de Brosses), aux Bourroches et à la Toison d’Or (musculation, cardio et cours collectifs comme bodypump, Pilates et yoga), et Magic Form (boulevard Carnot).
+Surtout des salles de sport en accès libre, avec des cours collectifs sur place :
+
+- **Accès à la salle** : L’Appart Fitness dans le centre (boulevard de Brosses), aux Bourroches (près du tram) et à la Toison d’Or, et Magic Form boulevard Carnot
+- **Cours collectifs** : chez L’Appart Fitness centre, entre autres cross training, bodypump, bodycombat, circuit training, Pilates et yoga
+
+### Bon pour
+
+- Ceux qui veulent une salle à Dijon sans abonnement annuel
+- Ceux qui changent de quartier : centre, Bourroches ou Toison d’Or selon la journée
+- Ceux qui vont souvent à Lyon ou à Paris et veulent y réserver des studios avec les mêmes crédits
 
 [Voir les studios à Dijon sur ClassPass](/go/classpass-fr-dijon/?epi=fgg-fr-dijon)
 
@@ -108,6 +117,9 @@ Surtout des salles de sport en accès libre : L’Appart Fitness dans le centre 
 ### À savoir
 
 - Le nombre de crédits par cours dépend du studio et de l’heure
+- Chez Magic Form, prends des chaussures réservées à la salle, une serviette et un cadenas
+- L’Appart Fitness a trois adresses : vérifie bien laquelle tu réserves
+- Les crédits non utilisés passent au mois suivant ; s’ils ne sont toujours pas utilisés, ils expirent
 - Résiliable à tout moment
 
 <div class="knoppen">

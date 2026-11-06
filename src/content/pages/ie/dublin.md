@@ -12,6 +12,8 @@ kicker: "City guide Dublin"
 
 Don't want to be tied to one gym? In Dublin you can use a fitness pass at studios across the city, or join a gym without a contract. Here's what suits you. Don't want to be tied down at all? Read [Gyms without a contract in Dublin](/ie/gyms-without-contract-dublin/).
 
+ClassPass in Dublin is spread across the city centre, Portobello, Rathmines, Ranelagh, Ballsbridge, Clontarf and Sandyford, and out to Dún Laoghaire, Blackrock, Malahide and Swords. Most classes are yoga and Pilates. It suits you if you like to mix studios. Prefer one gym with lots of equipment? Flyefit has clubs across Dublin.
+
 <h2 id="glance">At a glance</h2>
 
 <div class="kolommen">
@@ -84,6 +86,12 @@ City centre, Portobello, Rathmines, Ranelagh, Ballsbridge, Clontarf and Sandyfor
 
 [See the studios in Dublin by area and type of workout.](/ie/classpass-dublin/)
 
+### Good for
+
+- People who like to try different workouts and studios
+- People who train one to three times a week
+- Students, expats and frequent travellers
+
 ### What you get
 
 - Monthly credits for classes and gym visits
@@ -93,8 +101,11 @@ City centre, Portobello, Rathmines, Ranelagh, Ballsbridge, Clontarf and Sandyfor
 
 ### Watch out for
 
-- Credits per class vary by studio and time of day
+- Credits per class vary by studio and time of day. Off-peak classes often cost less
+- Popular evening and weekend classes fill up fast: book a few days ahead
+- For reformer Pilates, grip socks are almost always required
 - Unused credits roll over for one month, then they expire
+- Cancel any time before your next billing date
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/ie/classpass/">All about ClassPass</a>
@@ -133,6 +144,17 @@ Flyefit has 20 gyms in Dublin, plus one in Cork and one in Galway. Membership is
 </div>
 
 </div>
+
+<h2 id="trial">Try ClassPass in Dublin</h2>
+
+New to ClassPass? You start with 14 days free and 10 workouts.
+
+1. **Sign up** with the ClassPass button above. You see the trial offer when you sign up.
+2. **Book your workouts.** You can visit each studio or gym once, for example a yoga class in Portobello, Pilates in Ranelagh and a class in Sandyford.
+3. **Cancel in time.** If you cancel late or don't show up, you pay the usual fee, even during the trial.
+4. **At the end** you get a reminder by email. If you don't cancel, you move to the standard plan: 33 credits for €49 a month.
+
+The trial is for new members only. Read all the rules in [ClassPass free trial](/guides/classpass-free-trial/).
 
 ## Which one suits you?
 
@@ -176,6 +198,13 @@ Go for ClassPass. Your membership also works in other countries where ClassPass 
 <summary>Is ClassPass cheaper than a gym in Dublin?</summary>
 
 It depends on how often you train and what you want to do. If you mostly use the gym floor, a gym membership is usually cheaper. If you want to mix studios and classes, a fitness pass is usually the better fit.
+
+</details>
+
+<details>
+<summary>What can you do with ClassPass in Dublin?</summary>
+
+Mostly yoga and Pilates, in the city centre, Portobello, Rathmines, Ranelagh, Ballsbridge, Clontarf and Sandyford, and also in Dún Laoghaire, Blackrock, Malahide and Swords. The choice changes often: check the current list on ClassPass.
 
 </details>
 

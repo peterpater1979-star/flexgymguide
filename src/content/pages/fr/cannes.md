@@ -12,6 +12,8 @@ kicker: "Guide ville Cannes"
 
 Pas envie d’être lié à une seule salle ? À Cannes, tu peux réserver des cours dans des studios partout en ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
 
+L’offre ClassPass à Cannes même est petite, mais elle grandit vite dès que tu sors de la ville : au Cannet, à Antibes, à Mougins et à Mandelieu, et surtout à Nice. On y trouve surtout du Pilates. Pratique si tu bouges sur la Côte d’Azur, car tu gardes le même abonnement partout.
+
 <h2 id="en-bref">En bref</h2>
 
 <div class="kolommen">
@@ -84,6 +86,12 @@ Une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu
 
 [Voir les studios à Cannes et autour sur ClassPass](/go/classpass-fr-cannes/?epi=fgg-fr-cannes)
 
+### Bon pour
+
+- Ceux qui veulent faire du Pilates sans prendre un abonnement dans un seul studio
+- Ceux qui se déplacent entre Cannes, Antibes et Nice
+- Ceux qui s’entraînent une à trois fois par semaine
+
 ### Ce que tu as
 
 - Des crédits chaque mois pour des cours et des séances en salle
@@ -93,8 +101,11 @@ Une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure
-- Résiliable à tout moment
+- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
+- Une grande partie de l’offre est autour de Cannes et à Nice : regarde bien l’adresse et le trajet au moment de réserver
+- Pour le Pilates Reformer, les chaussettes antidérapantes sont presque toujours obligatoires
+- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
+- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Profitez de 10 séances gratuites en 14 jours</a>
@@ -134,6 +145,17 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 </div>
 
 </div>
+
+<h2 id="essai">Essayer ClassPass à Cannes</h2>
+
+Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 séances.
+
+1. **Inscris-toi** via le bouton ClassPass plus haut. Tu vois l’offre d’essai au moment de t’inscrire.
+2. **Réserve tes séances.** Tu peux aller une fois dans chaque studio ou salle, par exemple un cours de Pilates au Cannet, un à Antibes et un à Nice.
+3. **Annule à temps.** Si tu annules trop tard ou ne viens pas, tu paies les frais habituels, même pendant l’essai.
+4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes à l’abonnement standard : 37 crédits pour 59 € par mois.
+
+L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
 ## Lequel te convient ?
 
@@ -177,6 +199,13 @@ Choisis ClassPass. Ton abonnement marche aussi dans les autres pays où ClassPas
 <summary>ClassPass est-il moins cher qu’une salle de sport à Cannes ?</summary>
 
 Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+
+</details>
+
+<details>
+<summary>Quels sports peut-on faire avec ClassPass à Cannes ?</summary>
+
+Surtout du Pilates, à Cannes et autour, au Cannet, à Antibes, à Mougins et à Mandelieu. À Nice, tu as en plus du Lagree, du yoga, du cycling et de la boxe. L’offre change régulièrement : regarde la liste à jour sur ClassPass.
 
 </details>
 

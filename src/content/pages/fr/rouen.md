@@ -94,7 +94,18 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Surtout dans le centre : deux studios The New Me (rue Rollon et place du Général de Gaulle, Pilates Reformer), Lab.Rouen (cours en petit groupe, renforcement et Pilates), Gym One (coaching privé et boxe) et la grande salle Accrosport aux Docks 76 (cardio, musculation, vélo et sauna). En été, il y a aussi le parc AccroCamp.
+Surtout dans le centre et aux Docks 76, avec par sport :
+
+- **Pilates Reformer** : deux studios The New Me, rue Rollon et place du Général-de-Gaulle, et des cours de Pilates chez Lab.Rouen rue de l’Ancienne-Prison
+- **Renforcement en petit groupe** : Lab.Rouen, et Gym One rue de Fontenelle (coaching privé et boxe)
+- **Accès à la salle** : Accrosport aux Docks 76, avec cardio, musculation, vélo et sauna
+- **En été** : le parc AccroCamp rue Sainte-Amélie
+
+### Bon pour
+
+- Ceux qui veulent mélanger une grande salle et des cours de Pilates Reformer avec un seul abonnement
+- Ceux qui vont souvent à Paris ou au Havre et veulent y réserver des cours avec les mêmes crédits
+- Ceux qui s’entraînent une à trois fois par semaine
 
 [Voir les studios à Rouen sur ClassPass](/go/classpass-fr-rouen/?epi=fgg-fr-rouen)
 
@@ -108,6 +119,9 @@ Surtout dans le centre : deux studios The New Me (rue Rollon et place du Génér
 ### À savoir
 
 - Le nombre de crédits par cours dépend du studio et de l’heure
+- Chez The New Me, les chaussettes antidérapantes sont obligatoires pour le Reformer (en vente sur place)
+- The New Me a deux adresses à Rouen : vérifie bien laquelle tu réserves
+- Les crédits non utilisés passent au mois suivant ; s’ils ne sont toujours pas utilisés, ils expirent
 - Résiliable à tout moment
 
 <div class="knoppen">
