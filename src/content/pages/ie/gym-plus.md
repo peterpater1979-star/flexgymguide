@@ -20,6 +20,7 @@ Gym Plus is an Irish group of seven clubs with a gym, classes and at most clubs 
 | **Type** | Health club with gym, classes and pool |
 | **Clubs** | 7: Dublin, Cork, Ashbourne, Drogheda and Naas |
 | **Price** | €69 a month or €690 a year; Cork €59 a month or €590 a year |
+| **Access** | <span class="ja" aria-hidden="true">✓</span> All 7 clubs |
 | **Contract** | <span class="nee" aria-hidden="true">✗</span> 6 months, then one month's notice |
 | **Joining fee** | Yes; ask the club for the amount |
 | **Classes** | <span class="ja" aria-hidden="true">✓</span> Included |
@@ -46,7 +47,7 @@ Gym Plus is an Irish group of seven clubs with a gym, classes and at most clubs 
 | **Cork** | €59 | €590 |
 | **All other clubs** | €69 | €690 |
 
-- **One club or all clubs:** you can join your local club, or pay a little more each month to use all clubs. Ask your club which price applies to which option.
+- **All clubs:** your membership gives access to all 7 clubs. The price depends on the club where you join.
 - **Joining fee:** there is a joining fee. If you join as a couple, you pay it only once.
 - **Students:** most clubs have a student rate. Ask your club.
 - **Children:** an annual children's membership costs €55 at the family clubs.
