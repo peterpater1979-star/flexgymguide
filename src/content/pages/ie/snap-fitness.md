@@ -19,7 +19,8 @@ Snap Fitness is an international chain of 24/7 gyms. In Ireland most gyms are in
 | --- | --- |
 | **Type** | 24/7 gym chain with classes |
 | **Gyms in Ireland** | Galway, Navan, Waterford, Drogheda, Sligo, Tullamore, Longford and Naas; Liffey Valley (Dublin) opening soon |
-| **Price** | Differs per gym; in Waterford €41.99 a month |
+| **Price** | Differs per gym; for example €41.99 a month in Waterford, €39.99 in Tullamore |
+| **Upfront fee** | Yes; €30 in Tullamore, including a digital access key |
 | **Opening hours** | <span class="ja" aria-hidden="true">✓</span> 24/7 for members; staff present at set times |
 | **Monthly membership** | Rolling, cancel with 30 days' notice |
 | **Classes** | <span class="ja" aria-hidden="true">✓</span> Included at most gyms |
@@ -51,10 +52,12 @@ Every Snap Fitness gym sets its own prices. You see the options for your gym whe
 | **6 months pre-paid** | €36.67 a month (€220 upfront) | Your home gym only |
 | **12 months pre-paid** | €31.67 a month (€380 upfront) | Your home gym only |
 
-<p class="klein">Source: Snap Fitness sign-up page for Waterford (November 2026). Other gyms may charge more or less.</p>
+In Tullamore the Month-to-Month membership costs €39.99 a month. When you join, you pay an upfront fee of €30, which includes a digital access key, plus a pro-rated fee for the rest of your first month.
+
+<p class="klein">Source: Snap Fitness sign-up pages for Waterford and Tullamore (November 2026). Other gyms may charge more or less.</p>
 
 - **Monthly or pre-paid:** most gyms have a rolling monthly membership. Some also offer 6 or 12 months paid upfront; that is cheaper per month, but only for your home gym.
-- **Access card:** you get an access card for the 24/7 entry. It isn't refundable, and a replacement costs extra.
+- **Access key:** you get a digital access key for the 24/7 entry, included in the upfront fee. Physical access cards are sold at the gym; they aren't refundable, and a replacement costs extra.
 - **Trying it out:** many gyms offer a free one-day trial, and some sell day passes during staffed hours.
 - **Discounts:** some gyms have lower rates for students, seniors and emergency services, and for companies with five or more members.
 
@@ -96,7 +99,7 @@ Yes. Members get in at any time with their access card. Staff are only there at 
 <details>
 <summary>How much is Snap Fitness in Ireland?</summary>
 
-It differs per gym, because every gym has its own owner. In Waterford a monthly membership costs €41.99 (November 2026). Check the price for your gym when you join.
+It differs per gym, because every gym has its own owner. In Waterford a monthly membership costs €41.99 and in Tullamore €39.99, plus an upfront fee of €30 in Tullamore (November 2026). Check the price for your gym when you join.
 
 </details>
 
