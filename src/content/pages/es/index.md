@@ -73,7 +73,7 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio sin permanencia</span></div>
+<div class="fotokop foto-vivagym"><span>Gimnasio sin permanencia</span></div>
 
 ### VivaGym
 

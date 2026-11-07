@@ -144,6 +144,8 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-nordic-wellness { --foto: url(/img/foto/nordic-wellness.jpg); }
 .foto-evo { --foto: url(/img/foto/evo.jpg); }
 .foto-activ-fitness { --foto: url(/img/foto/activ-fitness.jpg); }
+.foto-trainmore { --foto: url(/img/foto/trainmore.jpg); }
+.foto-vivagym { --foto: url(/img/foto/vivagym.jpg); }
 .foto-urban-sports { --foto: url(/img/foto/urban-sports.jpg); }
 .foto-gewichten { --foto: url(/img/foto/gewichten.jpg); background-position: center 25%; }
 .foto-sporttas { --foto: url(/img/foto/sporttas.jpg); background-position: center 78%; max-width: 72ch; }

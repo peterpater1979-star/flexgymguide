@@ -9,7 +9,7 @@ crumb: "Trainmore"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-trainmore" role="img" aria-label="Sportschool"></div>
 
 Trainmore is een Nederlandse sportschoolketen met 53 eigen clubs. Met een lidmaatschap train je in de gym, doe je mee aan groepslessen en gebruik je de extra's van je club, zoals sauna of koffie. Bijzonder is de korting per workout: hoe vaker je traint, hoe minder je betaalt.
 

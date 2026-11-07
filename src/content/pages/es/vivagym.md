@@ -9,7 +9,7 @@ crumb: "VivaGym"
 kicker: "Proveedor: gimnasio"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gimnasio"></div>
+<div class="fotobanner smal foto-vivagym" role="img" aria-label="Gimnasio"></div>
 
 VivaGym es una cadena de gimnasios española con más de 240 clubes en España y más de 40 en Portugal. Las cuotas son sin permanencia: eliges entre ONE, FLEX y PRIME. En el club Madrid Príncipe de Vergara pagas de 32,90 € a 37,90 € al mes. Los precios pueden variar según el club.
 

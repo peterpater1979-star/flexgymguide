@@ -61,7 +61,7 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Sin permanencia</span></div>
+<div class="fotokop foto-vivagym"><span>Sin permanencia</span></div>
 
 ### VivaGym
 

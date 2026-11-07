@@ -10,7 +10,7 @@ crumb: "Trainmore opzeggen"
 kicker: "Gids"
 ---
 
-<div class="fotobanner foto-gymketen" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner foto-trainmore" role="img" aria-label="Sportschool"></div>
 
 Je zegt Trainmore op via de Trainmore-app of het online contactformulier. Er geldt een opzegtermijn van 1 maand. Heb je een contract van 1 of 2 jaar, dan stop je aan het einde van die looptijd. Daarna loopt je membership door en kun je op elk moment opzeggen, ook weer met 1 maand opzegtermijn.
 

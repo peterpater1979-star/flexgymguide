@@ -60,7 +60,7 @@ Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Sem fidelização</span></div>
+<div class="fotokop foto-vivagym"><span>Sem fidelização</span></div>
 
 ### VivaGym
 

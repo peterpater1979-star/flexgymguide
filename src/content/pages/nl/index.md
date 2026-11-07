@@ -36,7 +36,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
+<div class="fotokop foto-trainmore"><span>Sportschoolketen</span></div>
 
 ### Trainmore
 

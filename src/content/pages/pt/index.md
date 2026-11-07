@@ -71,7 +71,7 @@ Uma cadeia de clubes premium com 13 clubes em Portugal, todos com ginásio, aula
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Ginásio sem fidelização</span></div>
+<div class="fotokop foto-vivagym"><span>Ginásio sem fidelização</span></div>
 
 ### VivaGym
 
