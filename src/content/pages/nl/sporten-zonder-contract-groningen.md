@@ -41,11 +41,11 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 Trainmore is een premium sportschoolketen met groepslessen en clubs in het centrum van de stad. Er zijn 2 clubs in Groningen. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. Zo zagen de prijzen er in oktober 2026 uit bij Trainmore Groningen Munnekeholm, een Regular Label-club, per 4 weken:
 
-| Looptijd | Prijs | Actie |
-| --- | --- | --- |
-| Flex | € 75 | |
-| 1 jaar | € 55 | 1e 3 mnd € 27,50 |
-| 2 jaar | € 48 | 1e 5 mnd € 24 |
+| Looptijd | Prijs |
+| --- | --- |
+| Flex | € 75 |
+| 1 jaar | € 55 |
+| 2 jaar | € 48 |
 
 **Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Munnekeholm betaal je met een jaarcontract dan € 43 in plaats van € 55. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de uitleg van Trainmore.
 

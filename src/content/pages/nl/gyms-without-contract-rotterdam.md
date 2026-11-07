@@ -50,8 +50,6 @@ Trainmore is a premium gym chain with group classes and clubs in the city centre
 | 1 year | €69 | €75 |
 | 2 years | €62 | €68 |
 
-With a 1 or 2-year contract you get 50% off for the first months; how many depends on the club. At Coolsingel it was 4 months for 1 year and 6 for 2 years, at Meent 5 and 7.
-
 **Red Label costs more.** A Red Label club has one membership, Premium: your own club, all Regular clubs and the Black Label clubs too. At Trainmore Rotterdam Blaak that was €112 per 4 weeks with Flex in October 2026, €92 for 1 year and €85 for 2 years. At Trainmore Rotterdam Wijnhaven, also Red Label, it was €110, €90 and €83.
 
 **Student?** At Coolsingel a student membership costs €55 per 4 weeks, with a 1-year contract and no startup costs. The discount per workout doesn't apply there.

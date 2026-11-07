@@ -48,7 +48,7 @@ Trainmore is een premium sportschoolketen met groepslessen en clubs in het centr
 | 1 jaar | € 59 | € 76 | € 79 | € 86 |
 | 2 jaar | € 52 | € 69 | € 72 | € 79 |
 
-Bij een Regular-club train je alleen in je eigen club. Met Home+ train je ook in de andere clubs die hetzelfde of minder kosten: met Home+ bij Savornin dus ook bij Laan van NOI en in de Regular-clubs. Met City+ train je in alle clubs in Den Haag. City+ kostte bij alle drie de clubs hetzelfde. Bij een contract van 1 of 2 jaar krijg je in de eerste maanden 50% korting; hoeveel maanden verschilt per club en lidmaatschap. Bij Dagelijkse Groenmarkt (Home) waren dat er 5 bij 1 jaar en 7 bij 2 jaar, bij Laan van NOI en Savornin (Home+) 4 en 6.
+Bij een Regular-club train je alleen in je eigen club. Met Home+ train je ook in de andere clubs die hetzelfde of minder kosten: met Home+ bij Savornin dus ook bij Laan van NOI en in de Regular-clubs. Met City+ train je in alle clubs in Den Haag. City+ kostte bij alle drie de clubs hetzelfde.
 
 **Student?** Een studentenlidmaatschap kost € 45 per 4 weken bij Dagelijkse Groenmarkt, € 62 bij Laan van NOI en € 65 bij Savornin, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
 
