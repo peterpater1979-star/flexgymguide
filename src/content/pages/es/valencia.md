@@ -258,6 +258,18 @@ En Valencia, ON AIR tiene tres gimnasios: Les Arts, Nuevo Centro y Ruzafa. Es un
 
 </div>
 
+<div id="anytime-fitness">
+
+<p class="kicker">Gimnasio 24 horas</p>
+
+<h2 id="anytime-fitness-valencia">Anytime Fitness en Valencia</h2>
+
+En Valencia, Anytime Fitness tiene un club en Abastos, y otro en Mislata. Es un gimnasio abierto las 24 horas, y con tu cuota entras también en los clubes de otros países. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+[Todo sobre Anytime Fitness](/es/anytime-fitness/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pase deportivo con precio fijo</p>

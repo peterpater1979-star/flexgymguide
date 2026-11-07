@@ -243,6 +243,18 @@ En Barcelona, ON AIR tiene un gimnasio en Universitat (L’Eixample). Es un gimn
 
 </div>
 
+<div id="anytime-fitness">
+
+<p class="kicker">Gimnasio 24 horas</p>
+
+<h2 id="anytime-fitness-barcelona">Anytime Fitness en Barcelona</h2>
+
+En Barcelona, Anytime Fitness tiene clubes en Les Corts, Pedralbes, Poblenou y Rocafort, y alrededor en L’Hospitalet, Esplugues y Badalona. Es un gimnasio abierto las 24 horas, y con tu cuota entras también en los clubes de otros países. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+[Todo sobre Anytime Fitness](/es/anytime-fitness/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pase deportivo con precio fijo</p>

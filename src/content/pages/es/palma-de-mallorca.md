@@ -147,6 +147,18 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 </div>
 
+<div id="anytime-fitness">
+
+<p class="kicker">Gimnasio 24 horas</p>
+
+<h2 id="anytime-fitness-palma-de-mallorca">Anytime Fitness en Palma</h2>
+
+En Palma, Anytime Fitness tiene tres clubes, entre ellos Foners y Fortí. Es un gimnasio abierto las 24 horas, y con tu cuota entras también en los clubes de otros países. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+[Todo sobre Anytime Fitness](/es/anytime-fitness/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pase deportivo con precio fijo</p>

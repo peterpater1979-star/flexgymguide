@@ -243,6 +243,18 @@ En Madrid, ON AIR tiene un gimnasio en Delicias (Arganzuela). Es un gimnasio gra
 
 </div>
 
+<div id="anytime-fitness">
+
+<p class="kicker">Gimnasio 24 horas</p>
+
+<h2 id="anytime-fitness-madrid">Anytime Fitness en Madrid</h2>
+
+En Madrid, Anytime Fitness tiene seis clubes: Arganzuela, Bravo Murillo, Ciudad Universitaria, Goya, Hortaleza e Imperial. Es un gimnasio abierto las 24 horas, y con tu cuota entras también en los clubes de otros países. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+[Todo sobre Anytime Fitness](/es/anytime-fitness/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pase deportivo con precio fijo</p>

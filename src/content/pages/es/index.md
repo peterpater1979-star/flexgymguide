@@ -96,16 +96,16 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 ## Ciudades
 
 <ul class="stedenlijst">
-<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
-<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
-<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
 <li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
-<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Urban Sports Club</span></li>
+<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
 <li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
 <li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Urban Sports Club</span></li>
 <li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
 <li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
-<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit · Urban Sports Club</span></li>
+<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit · Anytime Fitness · Urban Sports Club</span></li>
 </ul>
 
 También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.
@@ -150,6 +150,24 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
+
+### Anytime Fitness
+
+Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 clubes en todo el mundo. Cada club fija su cuota: de media 49,90 € al mes según la cadena.
+
+- Ideal si entrenas a horas raras
+- Ideal si viajas mucho
+- Cuota y permanencia según el club
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
 </div>
 
 </div>

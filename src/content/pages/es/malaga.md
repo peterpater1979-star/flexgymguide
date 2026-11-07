@@ -158,6 +158,18 @@ En Málaga, ON AIR tiene dos gimnasios en el centro: Armengual y Soho. Es un gim
 
 </div>
 
+<div id="anytime-fitness">
+
+<p class="kicker">Gimnasio 24 horas</p>
+
+<h2 id="anytime-fitness-malaga">Anytime Fitness en Málaga</h2>
+
+En Málaga, Anytime Fitness tiene un club en la avenida de Velázquez. Es un gimnasio abierto las 24 horas, y con tu cuota entras también en los clubes de otros países. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+[Todo sobre Anytime Fitness](/es/anytime-fitness/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pase deportivo con precio fijo</p>
