@@ -21,6 +21,7 @@ Just moved to London, here for a few months, or simply not keen on a 12-month co
 | **ClassPass** | Any time, no notice period | Standard plan 52 credits for £69 a month; smaller plans in the app | Variety at studios and gyms all over London |
 | **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | From £29.99 a month at Oxford Street, plus a £20 joining fee | Cheap, frequent training, mostly 24/7 |
 | **Fitness First** | Minimum term; student plan 9 months, or 3 months paid up front; check Classic when you join | From £90 a month, depending on the club (students from £69) | Premium gym with classes |
+| **Anytime Fitness** | Rolling monthly contract; check the notice period with your club | £59.99 a month at Aldgate, plus a £40 key fee | Training 24/7, also abroad |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location London. The Gym Group: Oxford Street. Fitness First: Thomas More Square, Fenchurch Street and London Bridge Cottons. Always check the current price with the provider.</p>
@@ -79,6 +80,16 @@ With a minimum term you give one calendar month's notice to end at the end of th
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
+</div>
+
+<h2 id="anytime-fitness">Anytime Fitness: rolling monthly</h2>
+
+Anytime Fitness has small gyms in London that are open 24/7. Every club sets its own prices. At Aldgate, a rolling monthly contract cost £59.99 a month in November 2026, plus £40 once for your digital key. With a fixed term you pay less: £54.99 for 3 months, £49.99 for 6 months and £44.99 for 12 months. Your membership also gives you access to clubs abroad.
+
+You cancel with the online form on your club's page or at the club. Check the notice period when you join.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
 </div>
 
 <h2 id="drop-in">Drop-in classes and class packs</h2>
