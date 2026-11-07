@@ -18,10 +18,11 @@ kicker: "Guía Barcelona"
 | | Baja | Precio | Ideal para |
 | --- | --- | --- | --- |
 | **ClassPass** | En cualquier momento, sin preaviso | Plan estándar 59 € al mes (37 créditos); más pequeños en la app | Variar entre estudios y gimnasios por todo Barcelona |
+| **Urban Sports Club** | Suscripción mensual: 3 días de preaviso | Essential 35 €, Classic 75 €, Premium 115 €, Max 165 € al mes | Un precio fijo al mes, con check-ins en gimnasios y estudios asociados |
 | **Basic-Fit Flex** | 4 semanas de preaviso, sin permanencia | Desde 29,98 € cada 4 semanas, más 19,99 € de inscripción | Entrenar a menudo y barato |
 | **Clase suelta o bono** | No hace falta | Según el estudio | Una clase de vez en cuando en tu estudio favorito |
 
-<p class="klein">Precios de octubre de 2026. ClassPass: ubicación Barcelona. Basic-Fit: precios nacionales en España. Comprueba siempre el precio actual con el proveedor.</p>
+<p class="klein">Precios de octubre de 2026. ClassPass: ubicación Barcelona. Urban Sports Club: suscripción mensual (noviembre de 2026). Basic-Fit: precios nacionales en España. Comprueba siempre el precio actual con el proveedor.</p>
 
 <h2 id="classpass">ClassPass: cancela cuando quieras</h2>
 
@@ -35,6 +36,17 @@ Con ClassPass recibes cada mes créditos para clases y sesiones de gimnasio en e
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-gimnasio-sin-permanencia-barcelona">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
+</div>
+
+<h2 id="urban-sports-club">Urban Sports Club: un precio fijo al mes</h2>
+
+Urban Sports Club es un pase deportivo con un precio fijo al mes. Haces check-in en gimnasios y estudios asociados en Barcelona: gimnasio, yoga, pilates, boxeo, natación y más, según tu plan. Con la suscripción mensual cancelas con 3 días de preaviso antes de la renovación.
+
+- **Planes en Barcelona:** Essential 35 € (4 visitas al mes), Classic 75 € (10), Premium 115 € (14) y Max 165 € (18), suscripción mensual, noviembre de 2026.
+- **Por centro:** según el centro, todos los días, o 4 u 8 veces al mes, con un solo check-in al día.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 <h2 id="basic-fit">Basic-Fit Flex: sin permanencia</h2>

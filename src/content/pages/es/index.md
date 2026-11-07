@@ -1,7 +1,7 @@
 ---
 title: "Entrenar sin permanencia en España"
 path: "/es/"
-description: "¿Deporte sin un contrato largo en un solo gimnasio? Con ClassPass, una suscripción da acceso a estudios y gimnasios en Madrid, Barcelona y más ciudades."
+description: "¿Deporte sin un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass o Urban Sports Club, una suscripción da acceso a estudios y gimnasios en Madrid, Barcelona y más ciudades."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -9,9 +9,9 @@ crumb: "España"
 kicker: "Guía de país España"
 ---
 
-¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
+¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass o Urban Sports Club, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
 
-<h2 id="opciones">Cuatro formas de entrenar con flexibilidad</h2>
+<h2 id="opciones">Cinco formas de entrenar con flexibilidad</h2>
 
 <div class="kolommen">
 
@@ -89,6 +89,24 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+### Urban Sports Club
+
+Una suscripción con precio fijo al mes y check-ins en gimnasios y estudios asociados: gimnasio, yoga, pilates, boxeo, natación y más. En Madrid y Barcelona desde 35 € al mes (Essential), con 3 días de preaviso para cancelar.
+
+- Ideal si quieres un precio fijo al mes
+- Planes Essential, Classic, Premium y Max
+- En muchas ciudades de España
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="ciudades">
@@ -96,16 +114,16 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 ## Ciudades
 
 <ul class="stedenlijst">
-<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
+<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
+<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
+<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
+<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit · Urban Sports Club</span></li>
+<li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
+<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Urban Sports Club</span></li>
+<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
+<li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
+<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit · Urban Sports Club</span></li>
 </ul>
 
 También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.

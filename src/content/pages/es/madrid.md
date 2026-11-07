@@ -219,6 +219,18 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
+<div id="urban-sports-club">
+
+<p class="kicker">Pase deportivo con precio fijo</p>
+
+<h2 id="urban-sports-club-madrid">Urban Sports Club en Madrid</h2>
+
+Urban Sports Club también está en Madrid. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential). La suscripción mensual se cancela con 3 días de preaviso. Los centros en Madrid están en la app de Urban Sports Club.
+
+[Todo sobre Urban Sports Club](/es/urban-sports-club/)
+
+</div>
+
 ## ¿Cuál te conviene?
 
 <div class="kolommen">

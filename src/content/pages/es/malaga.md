@@ -146,6 +146,18 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 </div>
 
+<div id="urban-sports-club">
+
+<p class="kicker">Pase deportivo con precio fijo</p>
+
+<h2 id="urban-sports-club-malaga">Urban Sports Club en Málaga</h2>
+
+Urban Sports Club también está en Málaga. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Los centros en Málaga están en la app de Urban Sports Club.
+
+[Todo sobre Urban Sports Club](/es/urban-sports-club/)
+
+</div>
+
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
