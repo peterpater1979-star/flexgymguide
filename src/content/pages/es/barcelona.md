@@ -219,51 +219,65 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
-<div id="l-orange-bleue">
+<h2 id="otros">Otros gimnasios en Barcelona</h2>
+
+<div class="kolommen vier">
+
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Gimnasio con entrenadores</p>
 
-<h2 id="l-orange-bleue-barcelona">L’Orange bleue en Barcelona</h2>
+<h3 id="l-orange-bleue-barcelona">L’Orange bleue</h3>
 
-En Barcelona, L’Orange bleue tiene dos gimnasios: Nou Barris y Guinardó. Siempre hay un entrenador en la sala y las clases colectivas son ilimitadas. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes). Primera sesión gratis.
+En Barcelona, L’Orange bleue tiene dos gimnasios: Nou Barris y Guinardó. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
 
-[Todo sobre L’Orange bleue](/es/l-orange-bleue/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
+</div>
 
 </div>
 
-<div id="on-air">
+<div id="on-air" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Gimnasio de gama alta</p>
 
-<h2 id="on-air-barcelona">ON AIR en Barcelona</h2>
+<h3 id="on-air-barcelona">ON AIR</h3>
 
-En Barcelona, ON AIR tiene un gimnasio en Universitat (L’Eixample). Es un gimnasio grande de gama alta, sin permanencia, con 4 semanas de preaviso. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+En Barcelona, ON AIR tiene un gimnasio en Universitat (L’Eixample). Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
 
-[Todo sobre ON AIR](/es/on-air/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
 
 </div>
 
-<div id="anytime-fitness">
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Gimnasio 24 horas</p>
 
-<h2 id="anytime-fitness-barcelona">Anytime Fitness en Barcelona</h2>
+<h3 id="anytime-fitness-barcelona">Anytime Fitness</h3>
 
-En Barcelona, Anytime Fitness tiene clubes en Les Corts, Pedralbes, Poblenou y Rocafort, y alrededor en L’Hospitalet, Esplugues y Badalona. Es un gimnasio abierto las 24 horas, y con tu cuota entras también en los clubes de otros países. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+En Barcelona, Anytime Fitness tiene clubes en Les Corts, Pedralbes, Poblenou y Rocafort, y alrededor en L’Hospitalet, Esplugues y Badalona. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
 
-[Todo sobre Anytime Fitness](/es/anytime-fitness/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pase deportivo con precio fijo</p>
 
-<h2 id="urban-sports-club-barcelona">Urban Sports Club en Barcelona</h2>
+<h3 id="urban-sports-club-barcelona">Urban Sports Club</h3>
 
-Urban Sports Club también está en Barcelona. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential). La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Barcelona en la app.
+Urban Sports Club también está en Barcelona. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
 
-[Todo sobre Urban Sports Club](/es/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

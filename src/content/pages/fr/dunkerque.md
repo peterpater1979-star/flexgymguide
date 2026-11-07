@@ -156,27 +156,37 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
-<div id="gigafit">
+<h2 id="autres">Autres salles à Dunkerque</h2>
+
+<div class="kolommen vier">
+
+<div id="gigafit" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle de sport</p>
 
-<h2 id="gigafit-dunkerque">Gigafit à Dunkerque</h2>
+<h3 id="gigafit-dunkerque">Gigafit</h3>
 
-À Dunkerque, Gigafit a un club quai Wilson, avec aussi des formules moins chères pour le week-end ou les heures creuses. Chaque club fixe ses prix : en général de 30 à 50 € toutes les 4 semaines, le plus souvent avec engagement d’un an, plus 39 € de frais d’inscription. Ouvert 7j/7 de 6h à 23h.
+À Dunkerque, Gigafit a un club quai Wilson, avec aussi des formules moins chères pour le week-end ou les heures creuses. Chaque club fixe ses prix : en général de 30 à 50 € toutes les 4 semaines, le plus souvent avec engagement d’un an, plus 39 € de frais d’inscription.
 
-[Tout sur Gigafit](/fr/gigafit/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pass sport à prix fixe</p>
 
-<h2 id="urban-sports-club-dunkerque">Urban Sports Club à Dunkerque</h2>
+<h3 id="urban-sports-club-dunkerque">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Dunkerque. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Dunkerque dans l’application.
+Urban Sports Club est aussi présent à Dunkerque. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
 
-[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

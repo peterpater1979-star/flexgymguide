@@ -157,27 +157,37 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
-<div id="on-air">
+<h2 id="autres">Autres salles à Annemasse</h2>
+
+<div class="kolommen vier">
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle haut de gamme</p>
 
-<h2 id="on-air-annemasse">ON AIR à Annemasse</h2>
+<h3 id="on-air-annemasse">ON AIR</h3>
 
-Près d’Annemasse, ON AIR a un club à Cranves-Sales. C’est une grande salle haut de gamme, sans engagement annuel, avec 8 semaines de préavis. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel. Ta carte marche dans tous les clubs ON AIR.
+Près d’Annemasse, ON AIR a un club à Cranves-Sales. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
 
-[Tout sur ON AIR](/fr/on-air/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pass sport à prix fixe</p>
 
-<h2 id="urban-sports-club-annemasse">Urban Sports Club à Annemasse</h2>
+<h3 id="urban-sports-club-annemasse">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Annemasse. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Annemasse dans l’application.
+Urban Sports Club est aussi présent à Annemasse. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
 
-[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

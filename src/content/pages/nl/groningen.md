@@ -216,26 +216,22 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 </div>
 
-<div id="big-gym" class="aanbieder">
+<h2 id="andere">Andere sportscholen in Groningen</h2>
+
+<div class="kolommen vier">
+
+<div id="big-gym" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Sportschoolketen</p>
 
-## BigGym in Groningen
+<h3>BigGym</h3>
 
-BigGym heeft in Groningen een grote gym aan de Protonstraat, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie. Je traint in alle 16 BigGyms in Nederland, van 7.00 tot 23.00 uur.
-
-### Goed voor
-
-- Drie keer per week of vaker trainen in een grote gym
-- Groepslessen en HYROX zonder meerprijs
-
-### Let op
-
-- Flex: elke 4 weken opzegbaar, alleen via de app
-- Eerst proberen? Een dagpas kost € 10
+BigGym heeft in Groningen een grote gym aan de Protonstraat, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
+</div>
+
 </div>
 
 </div>

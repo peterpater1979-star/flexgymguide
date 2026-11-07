@@ -220,51 +220,65 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 </div>
 
-<div id="wellness-sport-club">
+<h2 id="autres">Autres salles à Marseille</h2>
+
+<div class="kolommen vier">
+
+<div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle tout inclus</p>
 
-<h2 id="wellness-sport-club-marseille">WellNess Sport Club à Marseille</h2>
+<h3 id="wellness-sport-club-marseille">WellNess Sport Club</h3>
 
-À Marseille, WellNess Sport Club a un club au Prado (8e). C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence de 149 € et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 49 € par mois.
+À Marseille, WellNess Sport Club a un club au Prado (8e). Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi).
 
-[Tout sur WellNess Sport Club](/fr/wellness-sport-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
+</div>
 
 </div>
 
-<div id="l-orange-bleue">
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle avec coachs</p>
 
-<h2 id="l-orange-bleue-marseille">L’Orange bleue à Marseille</h2>
+<h3 id="l-orange-bleue-marseille">L’Orange bleue</h3>
 
-À Marseille, L’Orange bleue a deux salles : Longchamp (4e) et La Valentine (11e). C’est une salle avec un coach toujours présent et des cours collectifs illimités. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants). Séance d’essai gratuite.
+À Marseille, L’Orange bleue a deux salles : Longchamp (4e) et La Valentine (11e). Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
 
-[Tout sur L’Orange bleue](/fr/l-orange-bleue/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
+</div>
 
 </div>
 
-<div id="on-air">
+<div id="on-air" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle haut de gamme</p>
 
-<h2 id="on-air-marseille">ON AIR à Marseille</h2>
+<h3 id="on-air-marseille">ON AIR</h3>
 
-À Marseille, ON AIR a un club à La Joliette. C’est une grande salle haut de gamme, sans engagement annuel, avec 8 semaines de préavis. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel. Ta carte marche dans tous les clubs ON AIR.
+À Marseille, ON AIR a un club à La Joliette. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
 
-[Tout sur ON AIR](/fr/on-air/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pass sport à prix fixe</p>
 
-<h2 id="urban-sports-club-marseille">Urban Sports Club à Marseille</h2>
+<h3 id="urban-sports-club-marseille">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Marseille. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Marseille dans l’application.
+Urban Sports Club est aussi présent à Marseille. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
 
-[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

@@ -224,20 +224,9 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <p class="kicker">Boutique studio</p>
 
-### Saints & Stars
+<h3>Saints & Stars</h3>
 
-Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam: bij het Leidseplein, in Oud-West, Oud-Zuid en De Pijp. Je doet lessen in kleine groepen, van HIIT, boksen en spinning tot yoga en reformer pilates. Gold kost € 139 per 4 weken met een jaarlidmaatschap, of € 169 met Flex. Liever per les? Credits kosten € 15 tot € 20 per les.
-
-**Goed voor**
-
-- Meerdere keren per week lessen in kleine groepen
-- Afwisselen tussen kracht, cardio en yoga bij één aanbieder
-
-**Let op**
-
-- Duurder dan een gewone sportschool
-- Flex: 4 weken opzegtermijn. Een jaarlidmaatschap eerder stoppen kost € 650 of meer
-- Saints & Stars staat ook op ClassPass
+Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam: bij het Leidseplein, in Oud-West, Oud-Zuid en De Pijp. Gold kost € 139 per 4 weken met een jaarlidmaatschap, of € 169 met Flex.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/saints-stars/">Alles over Saints & Stars</a>
@@ -249,20 +238,9 @@ Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam: 
 
 <p class="kicker">Sportschool</p>
 
-### Vondelgym
+<h3>Vondelgym</h3>
 
-Vondelgym heeft drie gyms in Amsterdam: aan de Overtoom bij het Vondelpark, aan de Wibautstraat bij het Oosterpark en op de Zuidas. Je traint in de gym of doet mee aan groepslessen, van (kick)boksen en kracht tot yoga en hardlopen. Regular kost € 84,50 per 4 weken, alleen de gym vanaf € 51,50, en studenten betalen € 46,50. Je zegt per 4 weken op.
-
-**Goed voor**
-
-- Boksen, kracht en groepslessen in één sportschool
-- Studenten die overdag trainen
-
-**Let op**
-
-- Nieuwe leden trainen in één gym; alle drie kost € 15 per 4 weken extra
-- CrossFit en HYROX kosten extra
-- Alle drie de Vondelgyms staan ook op ClassPass
+Vondelgym heeft drie gyms in Amsterdam: aan de Overtoom bij het Vondelpark, aan de Wibautstraat bij het Oosterpark en op de Zuidas. Regular kost € 84,50 per 4 weken, alleen de gym vanaf € 51,50, en studenten betalen € 46,50.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/vondelgym/">Alles over Vondelgym</a>
@@ -274,19 +252,9 @@ Vondelgym heeft drie gyms in Amsterdam: aan de Overtoom bij het Vondelpark, aan 
 
 <p class="kicker">Sportschoolketen</p>
 
-### BigGym
+<h3>BigGym</h3>
 
-BigGym heeft in Amsterdam een grote gym aan de Oostenburgermiddenstraat, op de Oostelijke Eilanden, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie. Je traint in alle 16 BigGyms in Nederland, van 7.00 tot 23.00 uur.
-
-**Goed voor**
-
-- Drie keer per week of vaker trainen in een grote gym
-- Groepslessen en HYROX zonder meerprijs
-
-**Let op**
-
-- Flex: elke 4 weken opzegbaar, alleen via de app
-- Eerst proberen? Een dagpas kost € 10
+BigGym heeft in Amsterdam een grote gym aan de Oostenburgermiddenstraat, op de Oostelijke Eilanden, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
@@ -298,19 +266,9 @@ BigGym heeft in Amsterdam een grote gym aan de Oostenburgermiddenstraat, op de O
 
 <p class="kicker">Sportschool</p>
 
-### Anytime Fitness
+<h3>Anytime Fitness</h3>
 
-Anytime Fitness heeft in Amsterdam een club op de Zuidas, die 24 uur per dag open is. Met een jaarabonnement kost hij € 53,95 per 4 weken, met een halfjaarabonnement € 58,95. Met je lidmaatschap train je ook in clubs in het buitenland.
-
-**Goed voor**
-
-- Trainen op elk moment, ook 's nachts
-- Veel reizen en in het buitenland willen trainen
-
-**Let op**
-
-- Je zit minimaal een halfjaar vast, 4 weken opzegtermijn
-- Elke club bepaalt zelf de prijs
+Anytime Fitness heeft in Amsterdam een club op de Zuidas, die 24 uur per dag open is. Met een jaarabonnement kost hij € 53,95 per 4 weken, met een halfjaarabonnement € 58,95.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>

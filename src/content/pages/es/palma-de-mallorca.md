@@ -147,27 +147,37 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 </div>
 
-<div id="anytime-fitness">
+<h2 id="otros">Otros gimnasios en Palma de Mallorca</h2>
+
+<div class="kolommen vier">
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Gimnasio 24 horas</p>
 
-<h2 id="anytime-fitness-palma-de-mallorca">Anytime Fitness en Palma</h2>
+<h3 id="anytime-fitness-palma-de-mallorca">Anytime Fitness</h3>
 
-En Palma, Anytime Fitness tiene tres clubes, entre ellos Foners y Fortí. Es un gimnasio abierto las 24 horas, y con tu cuota entras también en los clubes de otros países. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+En Palma, Anytime Fitness tiene tres clubes, entre ellos Foners y Fortí. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
 
-[Todo sobre Anytime Fitness](/es/anytime-fitness/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pase deportivo con precio fijo</p>
 
-<h2 id="urban-sports-club-palma-de-mallorca">Urban Sports Club en Palma de Mallorca</h2>
+<h3 id="urban-sports-club-palma-de-mallorca">Urban Sports Club</h3>
 
-Urban Sports Club también está en Palma de Mallorca. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Palma de Mallorca en la app.
+Urban Sports Club también está en Palma de Mallorca. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
 
-[Todo sobre Urban Sports Club](/es/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

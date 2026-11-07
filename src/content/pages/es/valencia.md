@@ -234,51 +234,65 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
-<div id="l-orange-bleue">
+<h2 id="otros">Otros gimnasios en Valencia</h2>
+
+<div class="kolommen vier">
+
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Gimnasio con entrenadores</p>
 
-<h2 id="l-orange-bleue-valencia">L’Orange bleue en Valencia</h2>
+<h3 id="l-orange-bleue-valencia">L’Orange bleue</h3>
 
-En Valencia, L’Orange bleue tiene un gimnasio en La Zaidía. Siempre hay un entrenador en la sala y las clases colectivas son ilimitadas. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes). Primera sesión gratis.
+En Valencia, L’Orange bleue tiene un gimnasio en La Zaidía. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
 
-[Todo sobre L’Orange bleue](/es/l-orange-bleue/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
+</div>
 
 </div>
 
-<div id="on-air">
+<div id="on-air" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Gimnasio de gama alta</p>
 
-<h2 id="on-air-valencia">ON AIR en Valencia</h2>
+<h3 id="on-air-valencia">ON AIR</h3>
 
-En Valencia, ON AIR tiene tres gimnasios: Les Arts, Nuevo Centro y Ruzafa. Es un gimnasio grande de gama alta, sin permanencia, con 4 semanas de preaviso. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+En Valencia, ON AIR tiene tres gimnasios: Les Arts, Nuevo Centro y Ruzafa. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
 
-[Todo sobre ON AIR](/es/on-air/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
 
 </div>
 
-<div id="anytime-fitness">
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Gimnasio 24 horas</p>
 
-<h2 id="anytime-fitness-valencia">Anytime Fitness en Valencia</h2>
+<h3 id="anytime-fitness-valencia">Anytime Fitness</h3>
 
-En Valencia, Anytime Fitness tiene un club en Abastos, y otro en Mislata. Es un gimnasio abierto las 24 horas, y con tu cuota entras también en los clubes de otros países. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+En Valencia, Anytime Fitness tiene un club en Abastos, y otro en Mislata. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
 
-[Todo sobre Anytime Fitness](/es/anytime-fitness/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pase deportivo con precio fijo</p>
 
-<h2 id="urban-sports-club-valencia">Urban Sports Club en Valencia</h2>
+<h3 id="urban-sports-club-valencia">Urban Sports Club</h3>
 
-Urban Sports Club también está en Valencia. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Valencia en la app.
+Urban Sports Club también está en Valencia. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
 
-[Todo sobre Urban Sports Club](/es/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

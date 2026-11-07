@@ -210,26 +210,22 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 </div>
 
-<div id="anytime-fitness" class="aanbieder">
+<h2 id="andere">Andere sportscholen in Den Haag</h2>
+
+<div class="kolommen vier">
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Sportschool</p>
 
-## Anytime Fitness in Den Haag
+<h3>Anytime Fitness</h3>
 
-Anytime Fitness heeft in Den Haag een club in Wateringse Veld, die 24 uur per dag open is. Met een jaarabonnement kost hij € 49,95 per 4 weken, met een halfjaarabonnement € 54,95. Tot 21 jaar betaal je € 44,95 of € 49,95. Met je lidmaatschap train je ook in clubs in het buitenland.
-
-### Goed voor
-
-- Trainen op elk moment, ook 's nachts
-- Veel reizen en in het buitenland willen trainen
-
-### Let op
-
-- Je zit minimaal een halfjaar vast, 4 weken opzegtermijn
-- Elke club bepaalt zelf de prijs
+Anytime Fitness heeft in Den Haag een club in Wateringse Veld, die 24 uur per dag open is. Met een jaarabonnement kost hij € 49,95 per 4 weken, met een halfjaarabonnement € 54,95.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
+</div>
+
 </div>
 
 </div>

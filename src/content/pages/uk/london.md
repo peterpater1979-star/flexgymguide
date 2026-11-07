@@ -201,30 +201,23 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 90 gyms in
 
 </div>
 
-<div class="kolom">
 
-<div id="anytime-fitness">
+</div>
+
+<h2 id="other">Other gyms in London</h2>
+
+<div class="kolommen vier">
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">24/7 gym</p>
 
-## Anytime Fitness in London
+<h3>Anytime Fitness</h3>
 
-Anytime Fitness has small gyms in London that are open 24/7, for example in Aldgate. There, a 12-month agreement costs £44.99 a month and a rolling monthly contract £59.99, plus £40 once for your key. With your membership you can also train at clubs abroad.
-
-### Good for
-
-- Training at any hour, even at night
-- Travelling a lot and training abroad
-
-### Keep in mind
-
-- Every club sets its own price
-- One-off key fee of £40 at Aldgate
+Anytime Fitness has small gyms in London that are open 24/7, for example in Aldgate. There, a 12-month agreement costs £44.99 a month and a rolling monthly contract £59.99, plus £40 once for your key.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
-</div>
-
 </div>
 
 </div>

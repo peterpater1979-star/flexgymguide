@@ -191,63 +191,79 @@ Keepcool a une salle à Clermont-Ferrand, et une autre à Cournon-d’Auvergne. 
 
 </div>
 
-<div id="wellness-sport-club">
+<h2 id="autres">Autres salles à Clermont-Ferrand</h2>
+
+<div class="kolommen vier">
+
+<div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle tout inclus</p>
 
-<h2 id="wellness-sport-club-clermont-ferrand">WellNess Sport Club à Clermont-Ferrand</h2>
+<h3 id="wellness-sport-club-clermont-ferrand">WellNess Sport Club</h3>
 
-À Clermont-Ferrand, WellNess Sport Club a un club avenue de la République. C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence de 149 € et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 49 € par mois.
+À Clermont-Ferrand, WellNess Sport Club a un club avenue de la République. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi).
 
-[Tout sur WellNess Sport Club](/fr/wellness-sport-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
+</div>
 
 </div>
 
-<div id="l-orange-bleue">
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle avec coachs</p>
 
-<h2 id="l-orange-bleue-clermont-ferrand">L’Orange bleue à Clermont-Ferrand</h2>
+<h3 id="l-orange-bleue-clermont-ferrand">L’Orange bleue</h3>
 
-L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périphérie, à Cournon-d’Auvergne et à Gerzat. C’est une salle avec un coach toujours présent et des cours collectifs illimités. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants). Séance d’essai gratuite.
+L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périphérie, à Cournon-d’Auvergne et à Gerzat. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
 
-[Tout sur L’Orange bleue](/fr/l-orange-bleue/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
+</div>
 
 </div>
 
-<div id="on-air">
+<div id="on-air" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle haut de gamme</p>
 
-<h2 id="on-air-clermont-ferrand">ON AIR à Clermont-Ferrand</h2>
+<h3 id="on-air-clermont-ferrand">ON AIR</h3>
 
-À Clermont-Ferrand, ON AIR a deux clubs : Jaude et La Pardieu. C’est une grande salle haut de gamme, sans engagement annuel, avec 8 semaines de préavis. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel. Ta carte marche dans tous les clubs ON AIR.
+À Clermont-Ferrand, ON AIR a deux clubs : Jaude et La Pardieu. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
 
-[Tout sur ON AIR](/fr/on-air/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
 
 </div>
 
-<div id="l-appart-fitness">
+<div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle avec cours</p>
 
-<h2 id="l-appart-fitness-clermont-ferrand">L’Appart Fitness à Clermont-Ferrand</h2>
+<h3 id="l-appart-fitness-clermont-ferrand">L’Appart Fitness</h3>
 
-Près de Clermont-Ferrand, L’Appart Fitness a une salle à Aubière. C’est une salle avec cours collectifs, ouverte 7j/7 de 6h à 23h. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription. Étudiant ? Tu paies 5 € de moins.
+Près de Clermont-Ferrand, L’Appart Fitness a une salle à Aubière. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
 
-[Tout sur L’Appart Fitness](/fr/l-appart-fitness/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pass sport à prix fixe</p>
 
-<h2 id="urban-sports-club-clermont-ferrand">Urban Sports Club à Clermont-Ferrand</h2>
+<h3 id="urban-sports-club-clermont-ferrand">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Clermont-Ferrand. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Clermont-Ferrand dans l’application.
+Urban Sports Club est aussi présent à Clermont-Ferrand. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
 
-[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

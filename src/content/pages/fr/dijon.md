@@ -189,27 +189,37 @@ Basic-Fit a des salles à Dijon. C’est une chaîne de salles à petit prix, av
 
 </div>
 
-<div id="l-appart-fitness">
+<h2 id="autres">Autres salles à Dijon</h2>
+
+<div class="kolommen vier">
+
+<div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle avec cours</p>
 
-<h2 id="l-appart-fitness-dijon">L’Appart Fitness à Dijon</h2>
+<h3 id="l-appart-fitness-dijon">L’Appart Fitness</h3>
 
-À Dijon, L’Appart Fitness a trois salles : Centre, Bourroches et Toison d’Or. C’est une salle avec cours collectifs, ouverte 7j/7 de 6h à 23h. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription. Étudiant ? Tu paies 5 € de moins.
+À Dijon, L’Appart Fitness a trois salles : Centre, Bourroches et Toison d’Or. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
 
-[Tout sur L’Appart Fitness](/fr/l-appart-fitness/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pass sport à prix fixe</p>
 
-<h2 id="urban-sports-club-dijon">Urban Sports Club à Dijon</h2>
+<h3 id="urban-sports-club-dijon">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Dijon. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Dijon dans l’application.
+Urban Sports Club est aussi présent à Dijon. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
 
-[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

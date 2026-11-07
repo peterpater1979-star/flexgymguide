@@ -220,15 +220,23 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 </div>
 
-<div id="urban-sports-club">
+<h2 id="autres">Autres salles à Lille</h2>
+
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pass sport à prix fixe</p>
 
-<h2 id="urban-sports-club-lille">Urban Sports Club à Lille</h2>
+<h3 id="urban-sports-club-lille">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Lille. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Lille dans l’application.
+Urban Sports Club est aussi présent à Lille. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
 
-[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

@@ -146,39 +146,51 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 </div>
 
-<div id="on-air">
+<h2 id="otros">Otros gimnasios en Málaga</h2>
+
+<div class="kolommen vier">
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Gimnasio de gama alta</p>
 
-<h2 id="on-air-malaga">ON AIR en Málaga</h2>
+<h3 id="on-air-malaga">ON AIR</h3>
 
-En Málaga, ON AIR tiene dos gimnasios en el centro: Armengual y Soho. Es un gimnasio grande de gama alta, sin permanencia, con 4 semanas de preaviso. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+En Málaga, ON AIR tiene dos gimnasios en el centro: Armengual y Soho. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
 
-[Todo sobre ON AIR](/es/on-air/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
 
 </div>
 
-<div id="anytime-fitness">
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Gimnasio 24 horas</p>
 
-<h2 id="anytime-fitness-malaga">Anytime Fitness en Málaga</h2>
+<h3 id="anytime-fitness-malaga">Anytime Fitness</h3>
 
-En Málaga, Anytime Fitness tiene un club en la avenida de Velázquez. Es un gimnasio abierto las 24 horas, y con tu cuota entras también en los clubes de otros países. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+En Málaga, Anytime Fitness tiene un club en la avenida de Velázquez. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
 
-[Todo sobre Anytime Fitness](/es/anytime-fitness/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pase deportivo con precio fijo</p>
 
-<h2 id="urban-sports-club-malaga">Urban Sports Club en Málaga</h2>
+<h3 id="urban-sports-club-malaga">Urban Sports Club</h3>
 
-Urban Sports Club también está en Málaga. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Málaga en la app.
+Urban Sports Club también está en Málaga. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
 
-[Todo sobre Urban Sports Club](/es/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

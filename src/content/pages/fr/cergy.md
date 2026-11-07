@@ -156,39 +156,51 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
-<div id="on-air">
+<h2 id="autres">Autres salles à Cergy</h2>
+
+<div class="kolommen vier">
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle haut de gamme</p>
 
-<h2 id="on-air-cergy">ON AIR à Cergy</h2>
+<h3 id="on-air-cergy">ON AIR</h3>
 
-Près de Cergy, ON AIR a un club à Pontoise. C’est une grande salle haut de gamme, sans engagement annuel, avec 8 semaines de préavis. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel. Ta carte marche dans tous les clubs ON AIR.
+Près de Cergy, ON AIR a un club à Pontoise. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
 
-[Tout sur ON AIR](/fr/on-air/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
 
 </div>
 
-<div id="gigafit">
+<div id="gigafit" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle de sport</p>
 
-<h2 id="gigafit-cergy">Gigafit à Cergy</h2>
+<h3 id="gigafit-cergy">Gigafit</h3>
 
-Près de Cergy, Gigafit a un club à Pierrelaye : 32 € toutes les 4 semaines avec engagement d’un an, ou 44 € sans engagement. Les frais d’inscription sont en général de 39 €. Ouvert 7j/7 de 6h à 23h.
+Près de Cergy, Gigafit a un club à Pierrelaye : 32 € toutes les 4 semaines avec engagement d’un an, ou 44 € sans engagement. Les frais d’inscription sont en général de 39 €.
 
-[Tout sur Gigafit](/fr/gigafit/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
+</div>
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pass sport à prix fixe</p>
 
-<h2 id="urban-sports-club-cergy">Urban Sports Club à Cergy</h2>
+<h3 id="urban-sports-club-cergy">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Cergy. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Cergy dans l’application.
+Urban Sports Club est aussi présent à Cergy. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
 
-[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

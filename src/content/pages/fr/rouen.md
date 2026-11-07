@@ -191,15 +191,23 @@ Basic-Fit a des salles à Rouen. C’est une chaîne de salles à petit prix, av
 
 </div>
 
-<div id="urban-sports-club">
+<h2 id="autres">Autres salles à Rouen</h2>
+
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pass sport à prix fixe</p>
 
-<h2 id="urban-sports-club-rouen">Urban Sports Club à Rouen</h2>
+<h3 id="urban-sports-club-rouen">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Rouen. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Rouen dans l’application.
+Urban Sports Club est aussi présent à Rouen. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
 
-[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 
