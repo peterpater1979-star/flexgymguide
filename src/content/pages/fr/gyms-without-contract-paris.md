@@ -22,6 +22,7 @@ Just moved to Paris, here for a semester, or not sure how long you will stay? Yo
 | **ClassPass** | Any time, no notice period | Standard plan €75 a month (47 credits); smaller plans in the app | Variety at studios and gyms all over Paris |
 | **WellNess Sport Club** | No contract; end date per the terms and conditions | Liberté €79, Express €69 a month, plus a licence fee and a 2-month deposit | An all-inclusive gym with classes, aqua classes, sauna and hammam
 | **RITM Liberté** | One month's notice | €29.99 a week, plus a €90 joining fee; day pass €30, month pass €179 | A gym with classes in 6 clubs, or a pass without a membership
+| **ON AIR** | 8 weeks' notice | From €31.96 per 4 weeks, plus a €50 joining fee and €10 a year | A large high-end gym, six clubs in Paris |
 | **Basic-Fit Flex** | 4 weeks' notice, no minimum term | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, often open 24/7 |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 

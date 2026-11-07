@@ -244,6 +244,18 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 </div>
 
+<div id="on-air">
+
+<p class="kicker">Salle haut de gamme</p>
+
+<h2 id="on-air-marseille">ON AIR à Marseille</h2>
+
+À Marseille, ON AIR a un club à La Joliette. C’est une grande salle haut de gamme, sans engagement annuel, avec 8 semaines de préavis. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel. Ta carte marche dans tous les clubs ON AIR.
+
+[Tout sur ON AIR](/fr/on-air/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

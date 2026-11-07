@@ -239,6 +239,18 @@ L’Orange bleue n’a pas de salle dans Montpellier même. La plus proche est �
 
 </div>
 
+<div id="on-air">
+
+<p class="kicker">Salle haut de gamme</p>
+
+<h2 id="on-air-montpellier">ON AIR à Montpellier</h2>
+
+À Montpellier, ON AIR a deux clubs : Celleneuve et Odysseum, et aussi à Grabels et à Saint-Jean-de-Védas. C’est une grande salle haut de gamme, sans engagement annuel, avec 8 semaines de préavis. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel. Ta carte marche dans tous les clubs ON AIR.
+
+[Tout sur ON AIR](/fr/on-air/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

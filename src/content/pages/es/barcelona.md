@@ -231,6 +231,18 @@ En Barcelona, L’Orange bleue tiene dos gimnasios: Nou Barris y Guinardó. Siem
 
 </div>
 
+<div id="on-air">
+
+<p class="kicker">Gimnasio de gama alta</p>
+
+<h2 id="on-air-barcelona">ON AIR en Barcelona</h2>
+
+En Barcelona, ON AIR tiene un gimnasio en Universitat (L’Eixample). Es un gimnasio grande de gama alta, sin permanencia, con 4 semanas de preaviso. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+
+[Todo sobre ON AIR](/es/on-air/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pase deportivo con precio fijo</p>

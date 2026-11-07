@@ -202,6 +202,18 @@ Près d’Orléans, L’Orange bleue a une salle à Saint-Jean-de-Braye. C’est
 
 </div>
 
+<div id="on-air">
+
+<p class="kicker">Salle haut de gamme</p>
+
+<h2 id="on-air-orleans">ON AIR à Orléans</h2>
+
+À Orléans, ON AIR a un club dans le centre. C’est une grande salle haut de gamme, sans engagement annuel, avec 8 semaines de préavis. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel. Ta carte marche dans tous les clubs ON AIR.
+
+[Tout sur ON AIR](/fr/on-air/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>
