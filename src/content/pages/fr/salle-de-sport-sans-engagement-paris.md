@@ -24,6 +24,7 @@ Pas envie de t'engager un an dans une seule salle ? À Paris, tu peux aussi t'en
 | **RITM Liberté** | Préavis d'un mois | 29,99 € par semaine, plus 90 € de frais d'inscription ; pass jour 30 €, pass mois 179 € | Une salle avec cours dans 6 clubs, ou un pass sans abonnement
 | **ON AIR** | Préavis de 8 semaines | Dès 31,96 € toutes les 4 semaines, plus 50 € de frais d'inscription et 10 € par an | Une grande salle haut de gamme, six clubs dans Paris |
 | **Club Maillot et Club Grenelle** | Préavis d'un mois | 79 € par mois, plus 50 € de frais d'inscription ; pass 30 jours 158 € | Deux clubs haut de gamme dans le 15e et le 17e |
+| **Liberty Gym** | Préavis de 8 semaines | Happy 24,95 €, Premium 34,95 € toutes les 4 semaines, plus 49 € de frais d'adhésion | Une salle pas chère dans le 20e |
 | **Basic-Fit Flex** | Préavis de 4 semaines, sans durée minimale | À partir de 34,98 € toutes les 4 semaines, plus 19,99 € de frais d'inscription | S'entraîner souvent pour pas cher, souvent 24h/24 |
 | **Cours à l'unité ou carte** | Pas besoin | Selon le studio | Un cours de temps en temps dans ton studio préféré |
 
@@ -88,6 +89,16 @@ Club Maillot (17e, près de la porte Maillot) et Club Grenelle (15e) sont deux c
 - **Avec ClassPass :** Club Maillot est aussi sur ClassPass, voir [ClassPass à Paris](/fr/classpass-paris/).
 
 <p class="klein">Source : clubgrenelle.com (novembre 2026). Vérifie toujours les prix actuels avec le club.</p>
+
+<h2 id="liberty-gym">Liberty Gym : pas cher, dans le 20e</h2>
+
+Liberty Gym a une salle dans le 20e, ouverte 7j/7 de 6h à 23h, avec musculation, cardio et coachs dans la salle. Sans engagement, Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines. Tu ajoutes 49 € de frais d'adhésion et 10 € par an pour le matériel.
+
+- **Sans abonnement :** 79 € pour un mois, 149 € pour 3 mois, 199 € pour 6 mois, 299 € pour un an, payés en une fois.
+- **Famille et étudiants :** 19,95 € par personne, mais avec engagement d'un an.
+- **Résilier :** préavis de 8 semaines, par lettre recommandée avec accusé de réception.
+
+<p class="klein">Source : libertygym.fr (novembre 2026). Vérifie toujours les prix actuels avec le club.</p>
 
 <h2 id="basic-fit">Basic-Fit Flex : sans durée minimale</h2>
 

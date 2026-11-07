@@ -95,7 +95,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 ## Villes
 
 <ul class="stedenlijst">
-<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR · L’Appart Fitness · Gigafit · Urban Sports Club</span></li>
+<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR · L’Appart Fitness · Gigafit · Liberty Gym · Urban Sports Club</span></li>
 <li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
 <li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
 <li><a href="/fr/bordeaux/"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>

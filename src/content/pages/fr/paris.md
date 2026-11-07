@@ -295,6 +295,18 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 </div>
 
+<div id="liberty-gym">
+
+<p class="kicker">Salle de sport</p>
+
+<h2 id="liberty-gym-paris">Liberty Gym à Paris</h2>
+
+Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la salle, ouverte 7j/7 de 6h à 23h. Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines, sans engagement. Famille et étudiants : 19,95 € par personne, avec engagement d’un an. En plus, tu paies 49 € de frais d’adhésion et 10 € par an pour le matériel. Sans abonnement : 79 € pour un mois, 149 € pour 3 mois. Liberty Gym a surtout des salles dans l’Est de la France, et ton abonnement marche dans toutes.
+
+<p class="klein">Source : libertygym.fr (novembre 2026). Préavis de 8 semaines, par lettre recommandée.</p>
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>
