@@ -97,7 +97,7 @@ Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 
 
 | Anbieter | Art | Preis pro Monat | Laufzeit | In Österreich |
 | --- | --- | --- | --- | --- |
-| **[ClassPass](/at/classpass/)** | Sportpass mit Credits | Je nach Zahl der Credits | Jederzeit kündbar | Vor allem Wien und Umgebung |
+| **[ClassPass](/at/classpass/)** | Sportpass mit Credits | Je nach Zahl der Credits | Jederzeit kündbar | Vor allem Wien und Umgebung, insgesamt in 31 Ländern nutzbar |
 | **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex ab 34,90 €, mit 12 Monaten ab 24,90 € | Flex oder 12 Monate | Mehrere Studios in Wien |
 | **[clever fit](/at/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 39,90 bis 49,90 € | Meist monatlich kündbar oder 6 bis 24 Monate | Studios in Wien und ganz Österreich |
 | **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 4 Clubs in und um Wien, 1 bei Graz |
