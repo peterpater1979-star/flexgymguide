@@ -46,7 +46,7 @@ A Belgian gym chain, also in Luxembourg, with group classes, a sauna and special
 | Group | €59.99 | Fitness plus group classes, small group training and the Cubes |
 | All-in | €89.99 | Group plus a personal coaching programme, EGYM and a drinks package |
 
-The joining fee is €50, but JIMS often waives it during promotions, sometimes with a few free weeks on top.
+The joining fee is €50.
 
 
 ### Fitness Zone (Howald)

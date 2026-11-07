@@ -37,7 +37,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España y
 | **Clases** | 1 al día, reserva 2 horas antes | 1 al día, reserva 48 horas antes | 2 al día, reserva 7 días antes |
 | **Invitados** | <span class="nee" aria-hidden="true">✗</span> | 15 invitaciones de fin de semana | 20 invitaciones de fin de semana |
 
-<p class="klein">Precios del club Madrid Príncipe de Vergara, octubre de 2026. La matrícula es de 29 €; a menudo hay promociones con matrícula gratis.</p>
+<p class="klein">Precios del club Madrid Príncipe de Vergara, octubre de 2026. La matrícula es de 29 €.</p>
 
 Algunos clubes ofrecen además una cuota con 12 meses de permanencia, a un precio mensual más bajo. En algunos clubes pagas también un seguro de accidentes anual (7 € si te apuntas entre enero y junio, luego 1 € menos cada mes).
 

@@ -47,11 +47,11 @@ Fitness First hat 12 Clubs in Frankfurt, mit Geräten, einem großen Kursprogram
 | 12 Monate | 8,90 € | 10,90 € | 19,90 € |
 | 24 Monate | 6,90 € | 8,90 € | 17,90 € |
 
-Bei ALL-IN und BLACK mit 24 Monaten waren die ersten 12 Wochen gratis. Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club am Opernplatz 22,90 € pro Woche ohne Mindestlaufzeit, 16,90 € mit 12 Monaten und 14,90 € mit 24 Monaten. Im RED-Club Preungesheim waren es 11,90 € ohne Mindestlaufzeit, 8,90 € mit 12 Monaten und 7,90 € mit 24 Monaten.
+Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club am Opernplatz 22,90 € pro Woche ohne Mindestlaufzeit, 16,90 € mit 12 Monaten und 14,90 € mit 24 Monaten. Im RED-Club Preungesheim waren es 11,90 € ohne Mindestlaufzeit, 8,90 € mit 12 Monaten und 7,90 € mit 24 Monaten.
 
 Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
-<p class="klein">Quelle: die Clubseiten Frankfurt-Preungesheim und Frankfurt Opernplatz und fitnessfirst.de/mitgliedschaft/1m (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>
+<p class="klein">Quelle: die Clubseiten Frankfurt-Preungesheim und Frankfurt Opernplatz und fitnessfirst.de/mitgliedschaft/1m (Oktober 2026). Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

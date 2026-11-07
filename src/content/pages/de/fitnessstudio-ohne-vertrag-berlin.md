@@ -47,11 +47,11 @@ Fitness First hat 15 Clubs in Berlin, mit Geräten, einem großen Kursprogramm u
 | 12 Monate | 9,90 € | 11,90 € | 20,90 € |
 | 24 Monate | 7,90 € | 9,90 € | 18,90 € |
 
-Bei ALL-IN und BLACK mit 24 Monaten waren die ersten 12 Wochen gratis. Studierende, Schüler und Azubis zahlen weniger: im RED-Club Schöneberg 12,90 € pro Woche ohne Mindestlaufzeit, im BLACK-Club Gendarmenmarkt 23,90 €.
+Studierende, Schüler und Azubis zahlen weniger: im RED-Club Schöneberg 12,90 € pro Woche ohne Mindestlaufzeit, im BLACK-Club Gendarmenmarkt 23,90 €.
 
 Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
-<p class="klein">Quelle: die Clubseiten Berlin Schöneberg und Gendarmenmarkt und fitnessfirst.de/mitgliedschaft/1m (Oktober 2026). Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>
+<p class="klein">Quelle: die Clubseiten Berlin Schöneberg und Gendarmenmarkt und fitnessfirst.de/mitgliedschaft/1m (Oktober 2026). Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

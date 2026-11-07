@@ -21,7 +21,7 @@ Keepcool est une chaîne française de salles de sport, avec plus de 270 salles 
 | **Salles** | Plus de 270 en France selon Keepcool |
 | **Avec engagement** | Dès 34,99 € toutes les 4 semaines, engagement d’un an |
 | **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> 44,90 € toutes les 4 semaines |
-| **Frais d’inscription** | 39 €, souvent offerts pendant les promotions |
+| **Frais d’inscription** | 39 € |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite par an |
 | **Âge minimum** | 16 ans (autorisation parentale jusqu’à 18 ans) |
 
@@ -36,7 +36,7 @@ Keepcool est une chaîne française de salles de sport, avec plus de 270 salles 
 | **Sans engagement** | 44,90 € toutes les 4 semaines | Aucun |
 | **Platinium** | 159,20 € par mois, avec coaching individuel | 6 mois |
 
-En octobre 2026, Keepcool propose souvent une promotion sur les premières semaines. Ce que chaque formule comprend exactement est indiqué sur le site de Keepcool.
+Ce que chaque formule comprend exactement est indiqué sur le site de Keepcool.
 
 <h2 id="salles">Ce que tu trouves dans les salles</h2>
 

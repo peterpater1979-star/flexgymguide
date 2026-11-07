@@ -63,7 +63,6 @@ Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans
 - Idéal si tu t'entraînes trois fois par semaine ou plus
 - Cours collectifs, et selon le club un espace boxe ou un espace réservé aux femmes
 - Frais d'adhésion : 49 € sans engagement, 30 € avec
-- En octobre 2026 : les 4 premières semaines à 29 € (19 € avec engagement)
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>

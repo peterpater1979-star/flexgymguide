@@ -45,9 +45,9 @@ Alle Clubs in Wien sind RED-Clubs, die Preise sind also überall gleich. Fitness
 | Laufzeit | BASIS | ALL-IN | Studierende, Schüler, Azubis |
 | --- | --- | --- | --- |
 | 1 Monat | 11,90 € | 13,90 € | 11,90 € |
-| 12 Monate | 8,90 € | 10,90 €, die ersten 12 Wochen gratis | 8,90 €, die ersten 12 Wochen gratis |
+| 12 Monate | 8,90 € | 10,90 € | 8,90 € |
 
-Die 12 Gratiswochen waren ein Angebot bis 27. Oktober 2026. Der Studententarif enthält die Leistungen von ALL-IN. Unsicher? Buch zuerst ein kostenloses Probetraining.
+Der Studententarif enthält die Leistungen von ALL-IN. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
 <p class="klein">Quelle: die Clubseite Wien Landstraße auf fitnessfirst.at (Oktober 2026). Prüfe den aktuellen Preis immer beim Club.</p>
 

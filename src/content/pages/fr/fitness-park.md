@@ -36,7 +36,7 @@ Fitness Park est une chaîne française de salles de sport, avec plus de 300 clu
 | **Ultimate** | 60 € | 50 € |
 | **Frais d’adhésion** | 49 € | 30 € |
 
-En octobre 2026, les 4 premières semaines coûtent 29 € sans engagement, ou 19 € avec engagement. Ce que chaque formule comprend en plus est indiqué sur le site de Fitness Park.
+Ce que chaque formule comprend en plus est indiqué sur le site de Fitness Park.
 
 <h2 id="clubs">Ce que tu trouves dans les clubs</h2>
 
