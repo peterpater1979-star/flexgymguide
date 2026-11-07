@@ -56,7 +56,7 @@ C’est un pass sport avec un prix fixe par mois. Tu fais des check-ins dans des
 À Paris, WellNess Sport Club a deux clubs, à Porte Maillot (17e) et à République (11e). Toutes les formules sont sans engagement et comprennent la salle, les cours collectifs, les cours aquatiques et l'espace bien-être avec sauna et hammam.
 
 - **Formules à Paris :** Liberté 79 € par mois, Express 69 € par mois (pas du lundi au jeudi de 11h45 à 13h30 et de 16h45 à 19h30), novembre 2026.
-- **En plus :** une licence (149 € au prix normal, souvent moins pendant les promotions) et un dépôt de garantie de 2 mois.
+- **En plus :** une licence (149 €) et un dépôt de garantie de 2 mois.
 - **Étudiants de moins de 26 ans :** 69 € par mois, licence à 49 €.
 - **Résilier :** à l'accueil du club ou par lettre recommandée avec accusé de réception.
 

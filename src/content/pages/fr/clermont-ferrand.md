@@ -197,7 +197,7 @@ Keepcool a une salle à Clermont-Ferrand, et une autre à Cournon-d’Auvergne. 
 
 <h2 id="wellness-sport-club-clermont-ferrand">WellNess Sport Club à Clermont-Ferrand</h2>
 
-À Clermont-Ferrand, WellNess Sport Club a un club avenue de la République. C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence (149 € au prix normal) et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 49 € par mois.
+À Clermont-Ferrand, WellNess Sport Club a un club avenue de la République. C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence de 149 € et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 49 € par mois.
 
 [Tout sur WellNess Sport Club](/fr/wellness-sport-club/)
 

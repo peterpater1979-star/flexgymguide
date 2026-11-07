@@ -45,7 +45,7 @@ With ClassPass you get credits every month for classes and gym visits at studios
 In Paris, WellNess Sport Club has two clubs, at Porte Maillot (17th) and République (11th). Every plan is without a contract and includes the gym floor, group classes, aqua classes and the wellness area with sauna and hammam.
 
 - **Plans in Paris:** Liberté €79 a month, Express €69 a month (no access Monday to Thursday 11:45 to 13:30 and 16:45 to 19:30), November 2026.
-- **On top:** a licence fee (€149 at the normal price, often less during promotions) and a deposit of 2 months.
+- **On top:** a licence fee (€149) and a deposit of 2 months.
 - **Students under 26:** €69 a month, licence fee €49.
 - **Cancelling:** at the club reception or by registered letter to your club.
 

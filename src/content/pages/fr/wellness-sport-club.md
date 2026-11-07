@@ -21,7 +21,7 @@ WellNess Sport Club est une chaîne de salles de sport tout inclus, avec 12 club
 | **Clubs** | 12 en France : Paris, Lyon et environs, Marseille, Aix-en-Provence, Nantes, Grenoble, Clermont-Ferrand |
 | **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Toutes les formules |
 | **Prix** | Hors Paris dès 54 € par mois, à Paris dès 69 € par mois |
-| **Licence** | 149 €, souvent moins pendant les promotions |
+| **Licence** | 149 € |
 | **Dépôt de garantie** | 2 mois d’abonnement |
 | **Étudiants** | Moins de 26 ans : 49 € par mois hors Paris, 69 € à Paris, licence 49 € |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai sur rendez-vous |
@@ -37,9 +37,7 @@ WellNess Sport Club est une chaîne de salles de sport tout inclus, avec 12 club
 | **Express** | 54 € par mois | 69 € par mois | Pas du lundi au jeudi de 11h45 à 13h30 et de 16h45 à 19h30 |
 | **Étudiants** | 49 € par mois | 69 € par mois | Comme Liberté, pour les étudiants de moins de 26 ans |
 
-Toutes les formules sont sans engagement. En plus de l’abonnement, tu paies une licence (149 € au prix normal) et un dépôt de garantie de 2 mois. Les étudiants paient 49 € de licence, sur présentation d’un justificatif étudiant.
-
-En novembre 2026 (jusqu’au 30 novembre), la licence est à 69 € au lieu de 149 € pour les formules Liberté et Express, et tu reçois un pass d’un mois à offrir à quelqu’un qui n’est pas encore membre.
+Toutes les formules sont sans engagement. En plus de l’abonnement, tu paies une licence de 149 € et un dépôt de garantie de 2 mois. Les étudiants paient 49 € de licence, sur présentation d’un justificatif étudiant.
 
 <h2 id="clubs">Ce que tu trouves dans les clubs</h2>
 
@@ -113,7 +111,7 @@ Oui. Toutes les formules sont sans engagement. Tu paies quand même une licence 
 <details>
 <summary>Combien coûte WellNess Sport Club ?</summary>
 
-Hors Paris, Liberté coûte 59 € et Express 54 € par mois. À Paris, Liberté coûte 79 € et Express 69 € par mois. En plus : la licence (149 € au prix normal) et un dépôt de garantie de 2 mois (novembre 2026).
+Hors Paris, Liberté coûte 59 € et Express 54 € par mois. À Paris, Liberté coûte 79 € et Express 69 € par mois. En plus : une licence de 149 € et un dépôt de garantie de 2 mois (novembre 2026).
 
 </details>
 

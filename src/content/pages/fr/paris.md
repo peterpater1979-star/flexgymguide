@@ -227,7 +227,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <h2 id="wellness-sport-club-paris">WellNess Sport Club à Paris</h2>
 
-À Paris, WellNess Sport Club a deux clubs : Porte Maillot (17e) et République (11e), ouverts 7j/7. C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 79 € par mois, Express 69 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence (149 € au prix normal) et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 69 € par mois.
+À Paris, WellNess Sport Club a deux clubs : Porte Maillot (17e) et République (11e), ouverts 7j/7. C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 79 € par mois, Express 69 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence de 149 € et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 69 € par mois.
 
 [Tout sur WellNess Sport Club](/fr/wellness-sport-club/)
 

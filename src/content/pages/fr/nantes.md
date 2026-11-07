@@ -225,7 +225,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <h2 id="wellness-sport-club-nantes">WellNess Sport Club à Nantes</h2>
 
-À Nantes, WellNess Sport Club a un club à la Cité des Congrès. C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence (149 € au prix normal) et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 49 € par mois.
+À Nantes, WellNess Sport Club a un club à la Cité des Congrès. C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence de 149 € et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 49 € par mois.
 
 [Tout sur WellNess Sport Club](/fr/wellness-sport-club/)
 
