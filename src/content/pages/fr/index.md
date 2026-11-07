@@ -95,7 +95,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 ## Villes
 
 <ul class="stedenlijst">
-<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
+<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR · L’Appart Fitness · Gigafit · Urban Sports Club</span></li>
 <li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
 <li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
 <li><a href="/fr/bordeaux/"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
@@ -122,7 +122,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <li><a href="/fr/saint-etienne/"><strong>Saint-Étienne</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · L’Appart Fitness · Urban Sports Club</span></li>
 <li><a href="/fr/le-havre/"><strong>Le Havre</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
 <li><a href="/fr/angers/"><strong>Angers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
-<li><a href="/fr/le-mans/"><strong>Le Mans</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/le-mans/"><strong>Le Mans</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · ON AIR · Gigafit · Urban Sports Club</span></li>
 <li><a href="/fr/brest/"><strong>Brest</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · Urban Sports Club</span></li>
 <li><a href="/fr/nimes/"><strong>Nîmes</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · ON AIR · Urban Sports Club</span></li>
 <li><a href="/fr/annecy/"><strong>Annecy</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
@@ -132,13 +132,13 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <li><a href="/fr/troyes/"><strong>Troyes</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
 <li><a href="/fr/bayonne/"><strong>Bayonne</strong></a> <span class="klein">ClassPass · Basic-Fit · L’Orange bleue · Urban Sports Club</span></li>
 <li><a href="/fr/poitiers/"><strong>Poitiers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · ON AIR · Urban Sports Club</span></li>
-<li><a href="/fr/dunkerque/"><strong>Dunkerque</strong></a> <span class="klein">ClassPass · Basic-Fit · Urban Sports Club</span></li>
+<li><a href="/fr/dunkerque/"><strong>Dunkerque</strong></a> <span class="klein">ClassPass · Basic-Fit · Gigafit · Urban Sports Club</span></li>
 <li><a href="/fr/annemasse/"><strong>Annemasse</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Urban Sports Club</span></li>
 <li><a href="/fr/lorient/"><strong>Lorient</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · L’Appart Fitness · Urban Sports Club</span></li>
 <li><a href="/fr/la-rochelle/"><strong>La Rochelle</strong></a> <span class="klein">ClassPass · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/beziers/"><strong>Béziers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · ON AIR · Urban Sports Club</span></li>
 <li><a href="/fr/arras/"><strong>Arras</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Urban Sports Club</span></li>
-<li><a href="/fr/cergy/"><strong>Cergy</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/cergy/"><strong>Cergy</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Gigafit · Urban Sports Club</span></li>
 <li><a href="/fr/poissy/"><strong>Poissy</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
 <li><a href="/fr/maurepas/"><strong>Maurepas</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/fr/montevrain/"><strong>Montévrain</strong></a> <span class="klein">ClassPass</span></li>

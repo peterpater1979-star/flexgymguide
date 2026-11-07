@@ -168,6 +168,18 @@ Près de Cergy, ON AIR a un club à Pontoise. C’est une grande salle haut de g
 
 </div>
 
+<div id="gigafit">
+
+<p class="kicker">Salle de sport</p>
+
+<h2 id="gigafit-cergy">Gigafit à Cergy</h2>
+
+Près de Cergy, Gigafit a un club à Pierrelaye : 32 € toutes les 4 semaines avec engagement d’un an, ou 44 € sans engagement. Les frais d’inscription sont en général de 39 €. Ouvert 7j/7 de 6h à 23h.
+
+[Tout sur Gigafit](/fr/gigafit/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

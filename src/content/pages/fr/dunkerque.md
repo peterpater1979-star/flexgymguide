@@ -156,6 +156,18 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
+<div id="gigafit">
+
+<p class="kicker">Salle de sport</p>
+
+<h2 id="gigafit-dunkerque">Gigafit à Dunkerque</h2>
+
+À Dunkerque, Gigafit a un club quai Wilson, avec aussi des formules moins chères pour le week-end ou les heures creuses. Chaque club fixe ses prix : en général de 30 à 50 € toutes les 4 semaines, le plus souvent avec engagement d’un an, plus 39 € de frais d’inscription. Ouvert 7j/7 de 6h à 23h.
+
+[Tout sur Gigafit](/fr/gigafit/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

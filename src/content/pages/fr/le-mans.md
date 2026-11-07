@@ -213,6 +213,18 @@ Au Mans, ON AIR a un club au nord de la ville. C’est une grande salle haut de 
 
 </div>
 
+<div id="gigafit">
+
+<p class="kicker">Salle de sport</p>
+
+<h2 id="gigafit-le-mans">Gigafit à Le Mans</h2>
+
+Au Mans, Gigafit a un club au nord, à Saint-Pavace : de 30 € (étudiants) à 40 € toutes les 4 semaines, avec engagement d’un an. Les frais d’inscription sont en général de 39 €. Ouvert 7j/7 de 6h à 23h.
+
+[Tout sur Gigafit](/fr/gigafit/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

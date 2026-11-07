@@ -283,6 +283,18 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 </div>
 
+<div id="gigafit">
+
+<p class="kicker">Salle de sport</p>
+
+<h2 id="gigafit-paris">Gigafit à Paris</h2>
+
+Près de Paris, Gigafit a un club à Gennevilliers, avec une formule sans engagement à 40 € toutes les 4 semaines. Deux nouveaux clubs s’ouvrent aussi dans le 18e et le 19e. Chaque club fixe ses prix : en général de 30 à 50 € toutes les 4 semaines, le plus souvent avec engagement d’un an, plus 39 € de frais d’inscription. Ouvert 7j/7 de 6h à 23h.
+
+[Tout sur Gigafit](/fr/gigafit/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>
