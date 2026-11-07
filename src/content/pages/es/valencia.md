@@ -270,7 +270,7 @@ En Valencia, ON AIR tiene tres gimnasios: Les Arts, Nuevo Centro y Ruzafa. Essen
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
 
 <h3 id="anytime-fitness-valencia">Anytime Fitness</h3>
 

@@ -266,7 +266,7 @@ BigGym heeft in Amsterdam een grote gym aan de Oostenburgermiddenstraat, op de O
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschool</span></div>
+<div class="fotokop foto-anytime-fitness"><span>Sportschool</span></div>
 
 <h3>Anytime Fitness</h3>
 

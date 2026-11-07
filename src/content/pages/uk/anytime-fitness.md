@@ -9,7 +9,7 @@ crumb: "Anytime Fitness"
 kicker: "Provider: gym"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-anytime-fitness" role="img" aria-label="Gym"></div>
 
 Anytime Fitness is a chain of small gyms that are open 24 hours a day, with more than 5,500 clubs worldwide according to the chain. With your key fob or the app you can get in at any time, at your own club and at clubs abroad. Every club is a franchise and sets its own prices. You can choose a fixed term or a rolling monthly contract.
 

@@ -177,7 +177,7 @@ Grote gyms in 16 plaatsen, onder meer Amsterdam, Rotterdam en Utrecht. Unlimited
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>24 uur open</span></div>
+<div class="fotokop foto-anytime-fitness"><span>24 uur open</span></div>
 
 ### Anytime Fitness
 

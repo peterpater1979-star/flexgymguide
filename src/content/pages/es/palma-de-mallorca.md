@@ -155,7 +155,7 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
 
 <h3 id="anytime-fitness-palma-de-mallorca">Anytime Fitness</h3>
 

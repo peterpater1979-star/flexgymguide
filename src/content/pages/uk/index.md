@@ -112,7 +112,7 @@ Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on an
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+<div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
 
 ### Anytime Fitness
 

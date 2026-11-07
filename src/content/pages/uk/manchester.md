@@ -198,7 +198,7 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 9 gyms in 
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+<div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
 
 <h3>Anytime Fitness</h3>
 

@@ -158,7 +158,7 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
 
 ### Anytime Fitness
 

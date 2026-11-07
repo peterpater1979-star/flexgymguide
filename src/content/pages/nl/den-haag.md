@@ -218,7 +218,7 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschool</span></div>
+<div class="fotokop foto-anytime-fitness"><span>Sportschool</span></div>
 
 <h3>Anytime Fitness</h3>
 

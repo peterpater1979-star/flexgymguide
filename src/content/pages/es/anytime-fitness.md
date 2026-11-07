@@ -9,7 +9,7 @@ crumb: "Anytime Fitness"
 kicker: "Proveedor: gimnasio"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gimnasio"></div>
+<div class="fotobanner smal foto-anytime-fitness" role="img" aria-label="Gimnasio"></div>
 
 Anytime Fitness es una cadena de gimnasios pequeños, abiertos las 24 horas, con más de 6.000 clubes en todo el mundo según la propia cadena. En España hay unos 60, sobre todo en Madrid, Barcelona y alrededores. Con tu llave o la app entras a cualquier hora, y también en los clubes de otros países. Cada club es una franquicia y fija sus propias cuotas.
 

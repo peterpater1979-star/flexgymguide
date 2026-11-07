@@ -9,7 +9,7 @@ crumb: "Anytime Fitness"
 kicker: "Aanbieder: sportschool"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-anytime-fitness" role="img" aria-label="Sportschool"></div>
 
 Anytime Fitness is een keten van kleine sportscholen die 24 uur per dag open zijn, met meer dan 6.000 clubs wereldwijd volgens de keten zelf. Met je sleuteltag of de app kom je op elk moment binnen, ook in clubs in het buitenland. Elke club is een franchise en bepaalt zelf de prijs. Je kiest meestal tussen een jaar- en een halfjaarabonnement.
 

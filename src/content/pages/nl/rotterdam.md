@@ -232,7 +232,7 @@ BigGym heeft in Rotterdam een grote gym aan de Boezembocht in Crooswijk, met kra
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschool</span></div>
+<div class="fotokop foto-anytime-fitness"><span>Sportschool</span></div>
 
 <h3>Anytime Fitness</h3>
 

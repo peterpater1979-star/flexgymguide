@@ -255,7 +255,7 @@ En Madrid, ON AIR tiene un gimnasio en Delicias (Arganzuela). Essential cuesta 3
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
 
 <h3 id="anytime-fitness-madrid">Anytime Fitness</h3>
 
