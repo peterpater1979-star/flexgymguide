@@ -91,6 +91,8 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 </div>
 
+<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+
 <div id="ciudades">
 
 ## Ciudades

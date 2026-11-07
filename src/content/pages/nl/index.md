@@ -91,6 +91,8 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 
 </div>
 
+<p class="meer-aanbieders">En ook: Saints & Stars, Vondelgym, BigGym en Anytime Fitness. <a href="#andere">Bekijk de andere sportscholen</a></p>
+
 <div id="steden">
 
 ## Steden

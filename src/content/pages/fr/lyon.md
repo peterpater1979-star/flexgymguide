@@ -75,6 +75,8 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : WellNess Sport Club, L’Orange bleue, ON AIR, L’Appart Fitness et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="apercu">
 
 ## ClassPass, Basic-Fit, Fitness Park et Keepcool en un coup d’œil
@@ -340,6 +342,22 @@ Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
 </div>
 
 </div>
+
+<h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
+
+Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-lyon-kleding-dames">Vêtements de sport femme</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-lyon-kleding-heren">Vêtements de sport homme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-lyon-schoenen-dames">Chaussures de sport femme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-lyon-schoenen-heren">Chaussures de sport homme</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-lyon-fles">Gourde</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-lyon-handdoek">Serviette de sport</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-lyon-hangslot">Cadenas pour le casier</a></li>
+</ul>
+
+<p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
 
 ## Questions fréquentes
 

@@ -252,6 +252,21 @@ Escolhe o Holmes Place. Um clube premium com tudo no mesmo sítio.
 
 </div>
 
+<h2 id="spullen">Precisas de alguma coisa para o ginásio?</h2>
+
+Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de fitness da Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-dames/?ws=fgg-pt-lisboa-kleding-dames">Roupa desportiva de mulher</a></li>
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-heren/?ws=fgg-pt-lisboa-kleding-heren">Roupa desportiva de homem</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-dames/?ws=fgg-pt-lisboa-schoenen-dames">Sapatilhas de desporto de mulher</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-heren/?ws=fgg-pt-lisboa-schoenen-heren">Sapatilhas de desporto de homem</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-lisboa-fles">Garrafa de água</a></li>
+<li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-lisboa-handdoek">Toalha de desporto</a></li>
+</ul>
+
+<p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>
+
 ## Perguntas frequentes
 
 <details open>

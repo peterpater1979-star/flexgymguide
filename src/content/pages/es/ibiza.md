@@ -35,6 +35,8 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 </div>
 
+<p class="meer-aanbieders">Y también: Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+
 <div id="vistazo">
 
 ## ClassPass de un vistazo
@@ -168,6 +170,21 @@ Elige ClassPass. Tu suscripción funciona también en los demás países donde e
 4. **Al final** recibes un recordatorio por e-mail. Si no cancelas, pasas al plan estándar: 30 créditos por 49 € al mes.
 
 La prueba es solo para nuevos miembros. Todos los detalles en [Probar ClassPass gratis](/es/prueba-classpass/).
+
+<h2 id="spullen">¿Te falta algo para el gimnasio?</h2>
+
+¿Te falta algo? Con estos enlaces vas directamente a Traininn, la tienda de fitness de Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-es-kleding-dames/?ws=fgg-es-ibiza-kleding-dames">Ropa deportiva de mujer</a></li>
+<li class="i-kleding"><a href="/go/traininn-es-kleding-heren/?ws=fgg-es-ibiza-kleding-heren">Ropa deportiva de hombre</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-dames/?ws=fgg-es-ibiza-schoenen-dames">Zapatillas deportivas de mujer</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-ibiza-schoenen-heren">Zapatillas deportivas de hombre</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-ibiza-fles">Botella de agua</a></li>
+<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-ibiza-handdoek">Toalla de deporte</a></li>
+</ul>
+
+<p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>
 
 ## Preguntas frecuentes
 

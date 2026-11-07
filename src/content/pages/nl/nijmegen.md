@@ -47,6 +47,8 @@ Voordelige sportschoolketen met 3 clubs in Nijmegen, waarvan 2 dag en nacht open
 
 </div>
 
+<p class="meer-aanbieders">En ook: BigGym. <a href="#andere">Bekijk de andere sportscholen</a></p>
+
 <h2 id="op-een-rij">ClassPass en Basic-Fit op een rij</h2>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>

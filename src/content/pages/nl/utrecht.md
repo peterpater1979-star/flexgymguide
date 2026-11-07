@@ -70,6 +70,8 @@ Voordelige sportschoolketen met 6 clubs in Utrecht, veel dag en nacht open.
 
 </div>
 
+<p class="meer-aanbieders">En ook: BigGym. <a href="#andere">Bekijk de andere sportscholen</a></p>
+
 <h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
@@ -265,6 +267,22 @@ Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass actief i
 </div>
 
 </div>
+
+<h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
+
+Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-dames/">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-heren/">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-dames/">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-heren/">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
+</ul>
+
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
 
 ## Veelgestelde vragen
 

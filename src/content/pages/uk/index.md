@@ -85,6 +85,8 @@ Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on an
 
 </div>
 
+<p class="meer-aanbieders">And also: Anytime Fitness. <a href="#other">See the other gyms</a></p>
+
 <div id="steden">
 
 ## Cities

@@ -90,6 +90,8 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, WellNess Sport Club, RITM et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="villes">
 
 ## Villes

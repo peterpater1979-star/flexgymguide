@@ -49,6 +49,8 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : ON AIR, Gigafit et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="apercu">
 
 ## ClassPass et Basic-Fit en un coup d’œil

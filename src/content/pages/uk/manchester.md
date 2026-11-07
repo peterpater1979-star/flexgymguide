@@ -60,6 +60,8 @@ Budget gym chain with 9 gyms in Manchester, most open 24/7. No contract, from £
 
 </div>
 
+<p class="meer-aanbieders">And also: Anytime Fitness. <a href="#other">See the other gyms</a></p>
+
 <div id="overview">
 
 ## ClassPass, The Gym Group and PureGym at a glance
@@ -245,6 +247,21 @@ Go for ClassPass. Your membership also works in other countries where ClassPass 
 </div>
 
 </div>
+
+<h2 id="spullen">Need anything for the gym?</h2>
+
+Missing something? These links take you straight to Traininn, the fitness shop of Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-uk-manchester-kleding-dames">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-uk-manchester-kleding-heren">Sportswear for men</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-uk-manchester-schoenen-dames">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-uk-manchester-schoenen-heren">Training shoes for men</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-uk-manchester-fles">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-uk-manchester-handdoek">Gym towel</a></li>
+</ul>
+
+<p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
 
 ## Frequently asked questions
 

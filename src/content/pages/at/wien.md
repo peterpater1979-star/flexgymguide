@@ -270,6 +270,22 @@ Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPa
 
 </div>
 
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de, das auch nach Österreich liefert:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+</ul>
+
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
+
 ## Häufige Fragen
 
 <details open>

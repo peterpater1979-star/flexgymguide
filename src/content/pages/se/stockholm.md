@@ -229,6 +229,22 @@ Välj ClassPass. Ditt abonnemang fungerar även i andra länder med ClassPass.
 
 </div>
 
+<h2 id="spullen">Saknar du något till träningen?</h2>
+
+De här länkarna tar dig direkt till Traininn, Tradeinns träningsbutik.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-dames/?ws=fgg-se-stockholm-kleding-dames">Träningskläder dam</a></li>
+<li class="i-kleding"><a href="/go/traininn-sv-kleding-heren/?ws=fgg-se-stockholm-kleding-heren">Träningskläder herr</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-dames/?ws=fgg-se-stockholm-schoenen-dames">Träningsskor dam</a></li>
+<li class="i-schoen"><a href="/go/traininn-sv-schoenen-heren/?ws=fgg-se-stockholm-schoenen-heren">Träningsskor herr</a></li>
+<li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-stockholm-fles">Vattenflaska</a></li>
+<li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-stockholm-handdoek">Träningshandduk</a></li>
+<li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-stockholm-hangslot">Hänglås till skåpet</a></li>
+</ul>
+
+<p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack!</p>
+
 ## Vanliga frågor
 
 <details open>

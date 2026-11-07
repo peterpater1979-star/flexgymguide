@@ -35,6 +35,8 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="apercu">
 
 ## ClassPass en un coup d’œil
