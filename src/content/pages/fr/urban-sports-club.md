@@ -21,6 +21,7 @@ Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnem
 | **Type** | Pass sport avec un prix fixe par mois |
 | **Formules** | Essential, Classic, Premium et Max |
 | **Prix à Paris** | Dès 35 € par mois (Essential, abonnement mensuel) |
+| **En ligne** | <span class="ja" aria-hidden="true">✓</span> Cours en direct en ligne et vidéos à la demande illimitées |
 | **Préavis** | 3 jours pour l’abonnement mensuel |
 | **Villes** | Paris et de nombreuses autres villes en France |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Lieux partenaires dans d’autres pays européens |
@@ -29,12 +30,14 @@ Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnem
 
 <h2 id="formules">Les formules à Paris</h2>
 
-| Formule | Prix par mois | Visites par mois |
-| --- | --- | --- |
-| **Essential** | 35 € | 4 |
-| **Classic** | 75 € | 10 |
-| **Premium** | 115 € | 14, avec plus de lieux (dont un massage) |
-| **Max** | 165 € | 18, avec le plus de lieux (dont deux massages) |
+| Formule | Prix par mois | Visites par mois | Cours en direct en ligne |
+| --- | --- | --- | --- |
+| **Essential** | 35 € | 4 | Jusqu’à 4 |
+| **Classic** | 75 € | 10 | Jusqu’à 8 |
+| **Premium** | 115 € | 14, avec plus de lieux (dont un massage) | Jusqu’à 8 |
+| **Max** | 165 € | 18, avec le plus de lieux (dont deux massages) | Jusqu’à 8 |
+
+Avec toutes les formules, tu as aussi accès à des vidéos de sport à la demande, en illimité. Pratique pour t’entraîner à la maison ou en voyage.
 
 Prix de l’abonnement mensuel à Paris en novembre 2026. Selon le lieu, tu peux y aller tous les jours, ou 4 ou 8 fois par mois. Un seul check-in par lieu et par jour. Ce que chaque formule comprend exactement est indiqué sur leur site.
 
@@ -53,6 +56,7 @@ Prix de l’abonnement mensuel à Paris en novembre 2026. Selon le lieu, tu peux
 - Ceux qui veulent un prix fixe par mois
 - Ceux qui aiment varier entre salle, cours et autres sports
 - Ceux qui s’entraînent dans plusieurs quartiers ou villes
+- Ceux qui veulent aussi faire du sport à la maison, avec des cours en ligne et des vidéos
 
 </div>
 

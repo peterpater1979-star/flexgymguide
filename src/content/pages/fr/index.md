@@ -99,6 +99,7 @@ Un abonnement à prix fixe par mois, avec des check-ins dans des salles et studi
 
 - Idéal si tu veux un prix fixe par mois
 - Formules Essential, Classic, Premium et Max
+- Cours en direct en ligne et vidéos à la demande inclus
 - Présent dans de nombreuses villes en France
 
 <div class="knoppen">

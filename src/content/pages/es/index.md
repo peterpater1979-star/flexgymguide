@@ -99,6 +99,7 @@ Una suscripción con precio fijo al mes y check-ins en gimnasios y estudios asoc
 
 - Ideal si quieres un precio fijo al mes
 - Planes Essential, Classic, Premium y Max
+- Clases en directo online y vídeos a la carta incluidos
 - En muchas ciudades de España
 
 <div class="knoppen">
