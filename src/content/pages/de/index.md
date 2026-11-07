@@ -95,7 +95,7 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 | Anbieter | Art | Preis pro Monat | Laufzeit | Standorte |
 | --- | --- | --- | --- | --- |
-| **[ClassPass](/de/classpass/)** | Sportpass mit Credits | Standard-Abo 59 € (42 Credits) | Jederzeit kündbar | In 31 Ländern nutzbar, auch in allen Städten aus unserem Ratgeber |
+| **[ClassPass](/de/classpass/)** | Sportpass mit Credits | Standard-Abo 59 € (42 Credits) | Jederzeit kündbar | In vielen deutschen Städten, das meiste Angebot in den Großstädten. In 31 Ländern nutzbar |
 | **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | Über 230 Studios in Europa |
 | **[clever fit](/de/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Über 500 Studios in Deutschland und Europa |
 | **[FitX](/de/fitx/)** | Günstige Fitnesskette | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | Über 110 Studios in Deutschland |
