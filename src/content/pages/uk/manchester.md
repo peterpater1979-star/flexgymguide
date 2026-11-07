@@ -187,6 +187,34 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 9 gyms in 
 
 </div>
 
+<div class="kolom">
+
+<div id="anytime-fitness">
+
+<p class="kicker">24/7 gym</p>
+
+## Anytime Fitness in Manchester
+
+Anytime Fitness has a gym in Manchester Central that is open 24/7, with classes included. A 12-month agreement costs £39.95 a month, a rolling monthly contract £47.95 and a student membership £35.95, plus a one-off joining fee of £30. With your membership you can also train at clubs abroad.
+
+### Good for
+
+- Training at any hour, even at night
+- Travelling a lot and training abroad
+
+### Keep in mind
+
+- Rolling monthly: one calendar month's notice
+- One-off joining fee of £30, £25 for students
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 ## Which one suits you?

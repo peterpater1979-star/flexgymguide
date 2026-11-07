@@ -20,6 +20,7 @@ Studying in Manchester, here for a few months, or simply not keen on a 12-month 
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan 36 credits for £49 a month; smaller plans in the app | Variety at studios in the city centre, Chorlton, Salford and beyond |
 | **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | From £19.99 a month at Manchester Old Trafford, plus a £10 joining fee | Cheap, frequent training, mostly 24/7 |
+| **Anytime Fitness** | Rolling monthly contract with one calendar month's notice | £47.95 a month at Manchester Central, plus a £30 joining fee | Training 24/7, also abroad |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Manchester (Salford). The Gym Group: Manchester Old Trafford. Always check the current price with the provider.</p>
@@ -73,6 +74,14 @@ Twelve months works out at about £23 a month, but you can't cancel early. For o
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
+</div>
+
+<h2 id="anytime-fitness">Anytime Fitness: rolling monthly</h2>
+
+Anytime Fitness has a gym in Manchester Central that is open 24/7, with classes included. A rolling monthly contract cost £47.95 a month in November 2026, with one calendar month's notice to cancel. On top of that you pay a one-off joining fee of £30. With a fixed term you pay less: £43.95 for 6 months and £39.95 for 12 months. Students pay £35.95 a month. Your membership also gives you access to clubs abroad.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
 </div>
 
 <h2 id="drop-in">Drop-in classes and class packs</h2>
