@@ -227,7 +227,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio con entrenadores</span></div>
+<div class="fotokop foto-l-orange-bleue"><span>Gimnasio con entrenadores</span></div>
 
 <h3 id="l-orange-bleue-madrid">L’Orange bleue</h3>
 

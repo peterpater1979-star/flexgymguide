@@ -9,7 +9,7 @@ crumb: "L’Orange bleue"
 kicker: "Fournisseur : salle de sport"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-l-orange-bleue" role="img" aria-label="Salle de sport"></div>
 
 L’Orange bleue est une chaîne française de salles de sport, avec selon L’Orange bleue 400 salles en France, en Espagne et au Portugal. On la trouve surtout dans les villes moyennes et en périphérie des grandes villes. Il y a toujours un coach dans la salle, et les cours collectifs sont illimités. Attention : les formules affichées sont avec engagement d’un ou deux ans.
 

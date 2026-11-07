@@ -9,7 +9,7 @@ crumb: "WellNess Sport Club"
 kicker: "Fournisseur : salle de sport"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-wellness-sport-club" role="img" aria-label="Salle de sport"></div>
 
 WellNess Sport Club est une chaîne de salles de sport tout inclus, avec 12 clubs en France et 2 en Suisse (Genève et Lausanne). Un abonnement comprend la salle, les cours collectifs, les cours aquatiques et l’espace bien-être. Tous les abonnements sont sans engagement.
 

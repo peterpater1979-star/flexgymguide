@@ -9,7 +9,7 @@ crumb: "Vondelgym"
 kicker: "Aanbieder: sportschool"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-vondelgym" role="img" aria-label="Sportschool"></div>
 
 Vondelgym is een sportschool met drie gyms in Amsterdam: bij het Vondelpark, bij het Oosterpark en op de Zuidas. Je traint zelf in de gym, of je doet mee aan groepslessen: (kick)boksen, kracht, circuittraining, yoga, mobility en hardlopen. CrossFit en HYROX zijn er ook, tegen een kleine meerprijs. Je betaalt per 4 weken en zit nergens lang aan vast.
 

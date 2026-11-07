@@ -9,7 +9,7 @@ crumb: "Saints & Stars"
 kicker: "Aanbieder: boutique studio"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-saints-stars" role="img" aria-label="Sportschool"></div>
 
 Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam. Je doet lessen in kleine groepen: HIIT, boksen, spinning, kracht, Hyrox-training, yoga, sculpt en reformer pilates, en in sommige studio's train je ook zelf in de open gym. Je kiest een lidmaatschap per 4 weken, of je koopt credits en betaalt per les.
 

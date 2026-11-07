@@ -178,7 +178,7 @@ Près de Cergy, ON AIR a un club à Pontoise. Essential coûte 31,96 €, Origin
 
 <div id="gigafit" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle de sport</span></div>
+<div class="fotokop foto-gigafit"><span>Salle de sport</span></div>
 
 <h3 id="gigafit-cergy">Gigafit</h3>
 

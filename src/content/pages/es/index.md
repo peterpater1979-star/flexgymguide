@@ -122,7 +122,7 @@ Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pas
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio con monitores</span></div>
+<div class="fotokop foto-l-orange-bleue"><span>Gimnasio con monitores</span></div>
 
 ### L’Orange bleue
 

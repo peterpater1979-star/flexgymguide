@@ -197,7 +197,7 @@ Keepcool a une salle au Mans. C’est une chaîne française avec plus de 270 sa
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-le-mans">L’Orange bleue</h3>
 
@@ -225,7 +225,7 @@ Au Mans, ON AIR a un club au nord de la ville. Essential coûte 31,96 €, Origi
 
 <div id="gigafit" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle de sport</span></div>
+<div class="fotokop foto-gigafit"><span>Salle de sport</span></div>
 
 <h3 id="gigafit-le-mans">Gigafit</h3>
 

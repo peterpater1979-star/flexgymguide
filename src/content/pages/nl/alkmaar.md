@@ -165,7 +165,7 @@ Tip: zet een herinnering een paar dagen voor het einde, en boek populaire avond-
 
 <div id="big-gym" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
+<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
 
 <h3>BigGym</h3>
 

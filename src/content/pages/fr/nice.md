@@ -227,7 +227,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-nice">L’Orange bleue</h3>
 

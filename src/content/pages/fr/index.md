@@ -161,7 +161,7 @@ D’autres chaînes de salles, et Urban Sports Club, un pass sport à prix fixe.
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec coachs et cours</span></div>
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs et cours</span></div>
 
 ### L’Orange bleue
 
@@ -215,7 +215,7 @@ Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle tout inclus</span></div>
+<div class="fotokop foto-wellness-sport-club"><span>Salle tout inclus</span></div>
 
 ### WellNess Sport Club
 
@@ -233,7 +233,7 @@ Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle à Paris et Nantes</span></div>
+<div class="fotokop foto-ritm"><span>Salle à Paris et Nantes</span></div>
 
 ### RITM
 

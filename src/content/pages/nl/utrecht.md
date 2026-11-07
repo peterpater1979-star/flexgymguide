@@ -218,7 +218,7 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <div id="big-gym" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
+<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
 
 <h3>BigGym</h3>
 

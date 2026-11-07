@@ -9,7 +9,7 @@ crumb: "RITM"
 kicker: "Fournisseur : salle de sport"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-ritm" role="img" aria-label="Salle de sport"></div>
 
 RITM est une chaîne de salles de sport avec 6 clubs à Paris et Boulogne-Billancourt et 2 clubs à Nantes. Tu paies ton abonnement à la semaine, avec un engagement de 52 semaines ou sans engagement. Pas envie d’un abonnement ? Il existe aussi des pass pour un jour, une semaine ou plusieurs mois.
 

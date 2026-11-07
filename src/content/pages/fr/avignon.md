@@ -185,7 +185,7 @@ Autour d’Avignon, Keepcool a trois salles : Fontcouverte, Le Pontet et Les Ang
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-avignon">L’Orange bleue</h3>
 

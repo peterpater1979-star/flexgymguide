@@ -123,7 +123,7 @@ Sportscholen en studio's in een paar steden, met eigen lidmaatschappen.
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Boutique studio</span></div>
+<div class="fotokop foto-saints-stars"><span>Boutique studio</span></div>
 
 ### Saints & Stars
 
@@ -141,7 +141,7 @@ Lessen in kleine groepen op vier plekken in Amsterdam. Gold vanaf € 139 per 4 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschool met lessen</span></div>
+<div class="fotokop foto-vondelgym"><span>Sportschool met lessen</span></div>
 
 ### Vondelgym
 
@@ -159,7 +159,7 @@ Drie gyms in Amsterdam met kracht, (kick)boksen, yoga en hardlopen. Regular € 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Grote sportschool</span></div>
+<div class="fotokop foto-big-gym"><span>Grote sportschool</span></div>
 
 ### BigGym
 

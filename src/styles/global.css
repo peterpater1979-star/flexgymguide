@@ -128,6 +128,14 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-fitness-first-de { --foto: url(/img/foto/fitness-first-de.jpg); }
 .foto-fitness-first-uk { --foto: url(/img/foto/fitness-first-uk.jpg); }
 .foto-keepcool { --foto: url(/img/foto/keepcool.jpg); }
+.foto-wellness-sport-club { --foto: url(/img/foto/wellness-sport-club.jpg); }
+.foto-l-orange-bleue { --foto: url(/img/foto/l-orange-bleue.jpg); }
+.foto-ritm { --foto: url(/img/foto/ritm.jpg); }
+.foto-gigafit { --foto: url(/img/foto/gigafit.jpg); }
+.foto-liberty-gym { --foto: url(/img/foto/liberty-gym.jpg); }
+.foto-big-gym { --foto: url(/img/foto/big-gym.jpg); }
+.foto-vondelgym { --foto: url(/img/foto/vondelgym.jpg); }
+.foto-saints-stars { --foto: url(/img/foto/saints-stars.jpg); }
 .foto-urban-sports { --foto: url(/img/foto/urban-sports.jpg); }
 .foto-gewichten { --foto: url(/img/foto/gewichten.jpg); background-position: center 25%; }
 .foto-sporttas { --foto: url(/img/foto/sporttas.jpg); background-position: center 78%; max-width: 72ch; }

@@ -9,7 +9,7 @@ crumb: "BigGym"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-big-gym" role="img" aria-label="Sportschool"></div>
 
 BigGym is een Nederlandse sportschoolketen met grote gyms, van zo'n 4.000 m², in 16 plaatsen. Je traint met kracht- en cardioapparaten, in een HYROX-zone en bij sommige gyms in een ladies zone, een boksring of een calisthenics-plek. Groepslessen en de zonnebank zitten bij je lidmaatschap inbegrepen. Met één lidmaatschap train je in alle gyms.
 

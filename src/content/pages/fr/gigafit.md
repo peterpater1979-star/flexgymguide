@@ -9,7 +9,7 @@ crumb: "Gigafit"
 kicker: "Fournisseur : salle de sport"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-gigafit" role="img" aria-label="Salle de sport"></div>
 
 Gigafit est un réseau français de salles de sport en franchise, surtout en Île-de-France et dans des villes moyennes. Tu as un plateau de musculation et de cardio, des poids libres, du cross training et des cours collectifs. Chaque club fixe ses propres prix : la plupart des formules sont avec engagement d’un an, et certains clubs proposent aussi une formule sans engagement.
 

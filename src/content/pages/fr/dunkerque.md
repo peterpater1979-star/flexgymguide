@@ -164,7 +164,7 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 
 <div id="gigafit" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle de sport</span></div>
+<div class="fotokop foto-gigafit"><span>Salle de sport</span></div>
 
 <h3 id="gigafit-dunkerque">Gigafit</h3>
 

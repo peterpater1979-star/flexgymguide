@@ -185,7 +185,7 @@ Keepcool a une salle à Lorient. C’est une chaîne française avec plus de 270
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-lorient">L’Orange bleue</h3>
 

@@ -9,7 +9,7 @@ crumb: "L’Orange bleue"
 kicker: "Proveedor: gimnasio"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gimnasio"></div>
+<div class="fotobanner smal foto-l-orange-bleue" role="img" aria-label="Gimnasio"></div>
 
 L’Orange bleue es una cadena francesa de gimnasios, con unos 400 gimnasios en Francia, España y Portugal según la propia cadena. En España tiene gimnasios en Madrid, Barcelona y Valencia. Siempre hay un entrenador en la sala y las clases colectivas son ilimitadas. Ojo: las cuotas de la web tienen permanencia de uno o dos años.
 

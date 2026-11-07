@@ -163,7 +163,7 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-tours">L’Orange bleue</h3>
 

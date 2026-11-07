@@ -196,7 +196,7 @@ Keepcool a une salle à Saint-Étienne, et d’autres à La Fouillouse et Sorbie
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-saint-etienne">L’Orange bleue</h3>
 
