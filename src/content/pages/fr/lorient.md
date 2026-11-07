@@ -181,7 +181,7 @@ Keepcool a une salle à Lorient. C’est une chaîne française avec plus de 270
 
 <h2 id="autres">Autres salles à Lorient</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 

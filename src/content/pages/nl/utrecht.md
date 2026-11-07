@@ -214,7 +214,7 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <h2 id="andere">Andere sportscholen in Utrecht</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="big-gym" class="kolom kaart aanbiederkaart">
 

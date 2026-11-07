@@ -195,7 +195,7 @@ Keepcool a une salle à Clermont-Ferrand, et une autre à Cournon-d’Auvergne. 
 
 <h2 id="autres">Autres salles à Clermont-Ferrand</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
 

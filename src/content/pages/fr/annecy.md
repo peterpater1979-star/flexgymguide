@@ -181,7 +181,7 @@ Keepcool a une salle à Annecy. C’est une chaîne française avec plus de 270 
 
 <h2 id="autres">Autres salles à Annecy</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 

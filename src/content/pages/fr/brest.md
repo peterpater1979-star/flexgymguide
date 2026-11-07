@@ -193,7 +193,7 @@ Basic-Fit a des salles à Brest. C’est une chaîne de salles à petit prix, av
 
 <h2 id="autres">Autres salles à Brest</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 

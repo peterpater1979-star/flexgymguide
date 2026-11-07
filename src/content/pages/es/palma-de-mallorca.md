@@ -151,7 +151,7 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 <h2 id="otros">Otros gimnasios en Palma de Mallorca</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 

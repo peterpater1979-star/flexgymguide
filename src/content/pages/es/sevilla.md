@@ -234,7 +234,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 <h2 id="otros">Otros gimnasios en Sevilla</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 

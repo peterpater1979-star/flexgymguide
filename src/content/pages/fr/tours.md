@@ -159,7 +159,7 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 
 <h2 id="autres">Autres salles à Tours</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 

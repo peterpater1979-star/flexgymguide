@@ -181,7 +181,7 @@ Keepcool a une salle à Béziers. C’est une chaîne française avec plus de 27
 
 <h2 id="autres">Autres salles à Béziers</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 

@@ -160,7 +160,7 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 
 <h2 id="autres">Autres salles à La Rochelle</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 

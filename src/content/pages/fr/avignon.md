@@ -181,7 +181,7 @@ Autour d’Avignon, Keepcool a trois salles : Fontcouverte, Le Pontet et Les Ang
 
 <h2 id="autres">Autres salles à Avignon</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 

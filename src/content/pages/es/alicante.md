@@ -188,7 +188,7 @@ Fitness Park es una cadena de gimnasios francesa con 170 clubes en España. En e
 
 <h2 id="otros">Otros gimnasios en Alicante</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 

@@ -192,7 +192,7 @@ Keepcool a une salle au Havre. C’est une chaîne française avec plus de 270 s
 
 <h2 id="autres">Autres salles à Le Havre</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 

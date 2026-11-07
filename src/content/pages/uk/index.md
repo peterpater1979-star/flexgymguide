@@ -108,7 +108,7 @@ Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on an
 
 <h2 id="other">Other gyms</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div class="kolom kaart aanbiederkaart">
 

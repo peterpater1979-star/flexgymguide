@@ -192,7 +192,7 @@ Keepcool a une salle à Saint-Étienne, et d’autres à La Fouillouse et Sorbie
 
 <h2 id="autres">Autres salles à Saint-Étienne</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 

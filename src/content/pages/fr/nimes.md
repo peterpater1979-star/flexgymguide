@@ -193,7 +193,7 @@ Basic-Fit a des salles à Nîmes. C’est une chaîne de salles à petit prix, a
 
 <h2 id="autres">Autres salles à Nîmes</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 

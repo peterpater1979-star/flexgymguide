@@ -116,7 +116,7 @@ Una oferta más pequeña, repartida por Eivissa ciudad y Marina Botafoch, y tamb
 
 <h2 id="otros">Otros gimnasios en Ibiza ciudad</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
