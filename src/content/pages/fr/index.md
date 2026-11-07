@@ -88,24 +88,6 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Salle avec coachs et cours</span></div>
-
-### L’Orange bleue
-
-Environ 400 salles en France, en Espagne et au Portugal selon L’Orange bleue. Dès 35 € toutes les 4 semaines, avec engagement d’un ou deux ans, plus 60 € de frais d’adhésion.
-
-- Idéal si tu veux un coach dans la salle
-- Cours collectifs illimités
-- Frais d’adhésion offerts aux étudiants
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
-</div>
-
-</div>
-
 </div>
 
 <div id="villes">
@@ -171,9 +153,27 @@ ClassPass est aussi présent dans d’autres villes. Dans l’application, tu vo
 
 <h2 id="autres">Autres salles et pass sport</h2>
 
-D’autres chaînes, souvent dans moins de villes, et Urban Sports Club, un pass sport à prix fixe.
+D’autres chaînes de salles, et Urban Sports Club, un pass sport à prix fixe.
 
-<div class="kolommen">
+<div class="kolommen drie">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle avec coachs et cours</span></div>
+
+### L’Orange bleue
+
+Environ 400 salles en France, en Espagne et au Portugal selon L’Orange bleue. Dès 35 € toutes les 4 semaines, avec engagement d’un ou deux ans, plus 60 € de frais d’adhésion.
+
+- Idéal si tu veux un coach dans la salle
+- Cours collectifs illimités
+- Frais d’adhésion offerts aux étudiants
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
+</div>
+
+</div>
 
 <div class="kolom kaart aanbiederkaart">
 

@@ -89,24 +89,6 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio con monitores</span></div>
-
-### L’Orange bleue
-
-Cadena francesa con unos 400 gimnasios según la propia cadena; en España en Madrid, Barcelona y Valencia. Desde 40 € cada 4 semanas, con permanencia de uno o dos años, más 60 € de pack de inicio.
-
-- Ideal si quieres un monitor en la sala
-- Clases colectivas ilimitadas
-- Pack de inicio gratis para estudiantes
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
-</div>
-
-</div>
-
 </div>
 
 <div id="ciudades">
@@ -132,9 +114,27 @@ También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. 
 
 <h2 id="otros">Otros gimnasios y pases deportivos</h2>
 
-Otras cadenas, en menos ciudades, y Urban Sports Club, un pase deportivo con precio fijo.
+Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pase deportivo con precio fijo.
 
-<div class="kolommen">
+<div class="kolommen drie">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio con monitores</span></div>
+
+### L’Orange bleue
+
+Cadena francesa con unos 400 gimnasios según la propia cadena; en España en Madrid, Barcelona y Valencia. Desde 40 € cada 4 semanas, con permanencia de uno o dos años, más 60 € de pack de inicio.
+
+- Ideal si quieres un monitor en la sala
+- Clases colectivas ilimitadas
+- Pack de inicio gratis para estudiantes
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
+</div>
+
+</div>
 
 <div class="kolom kaart aanbiederkaart">
 
