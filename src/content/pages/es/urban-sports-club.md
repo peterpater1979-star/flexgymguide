@@ -30,14 +30,14 @@ Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscrip
 
 <h2 id="planes">Los planes en Madrid y Barcelona</h2>
 
-| Plan | Precio al mes | Visitas al mes | Clases en directo online |
-| --- | --- | --- | --- |
-| **Essential** | 35 € | 4 | Hasta 4 |
-| **Classic** | 75 € | 10 | Hasta 8 |
-| **Premium** | 115 € | 14, con más centros (incluido un masaje) | Hasta 8 |
-| **Max** | 165 € | 18, con el mayor número de centros (incluidos dos masajes) | Hasta 8 |
+| Plan | Precio al mes | Visitas al mes | Clases en directo online | Vídeos a la carta |
+| --- | --- | --- | --- | --- |
+| **Essential** | 35 € | 4 | Hasta 4 | <span class="ja" aria-hidden="true">✓</span> Ilimitados |
+| **Classic** | 75 € | 10 | Hasta 8 | <span class="ja" aria-hidden="true">✓</span> Ilimitados |
+| **Premium** | 115 € | 14, con más centros (incluido un masaje) | Hasta 8 | <span class="ja" aria-hidden="true">✓</span> Ilimitados |
+| **Max** | 165 € | 18, con el mayor número de centros (incluidos dos masajes) | Hasta 8 | <span class="ja" aria-hidden="true">✓</span> Ilimitados |
 
-Con todos los planes también tienes vídeos de entrenamiento a la carta, sin límite. Práctico para entrenar en casa o de viaje.
+Práctico para entrenar en casa o de viaje: los vídeos están incluidos en todos los planes.
 
 Precios de la suscripción mensual en Madrid y Barcelona en noviembre de 2026. Según el centro, puedes ir todos los días, o 4 u 8 veces al mes. Solo un check-in por centro y por día. Lo que incluye cada plan está en su web.
 
