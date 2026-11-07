@@ -132,14 +132,14 @@ Un abonnement à prix fixe par mois, avec des check-ins dans des salles et studi
 ## Villes
 
 <ul class="stedenlijst">
-<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
+<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · Urban Sports Club</span></li>
 <li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
 <li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
 <li><a href="/fr/bordeaux/"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/nice/"><strong>Nice</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/aix-en-provence/"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
 <li><a href="/fr/toulouse/"><strong>Toulouse</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
-<li><a href="/fr/nantes/"><strong>Nantes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
+<li><a href="/fr/nantes/"><strong>Nantes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · Urban Sports Club</span></li>
 <li><a href="/fr/lille/"><strong>Lille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/strasbourg/"><strong>Strasbourg</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/montpellier/"><strong>Montpellier</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>

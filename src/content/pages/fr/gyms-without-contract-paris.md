@@ -3,7 +3,7 @@ title: "Gyms without a contract in Paris: monthly and pay-as-you-go options"
 seoTitle: "Gyms without a contract in Paris: monthly options"
 path: "/fr/gyms-without-contract-paris/"
 vertaling: "/fr/salle-de-sport-sans-engagement-paris/"
-description: "No-contract gyms in Paris: ClassPass, WellNess Sport Club, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
+description: "No-contract gyms in Paris: ClassPass, WellNess Sport Club, RITM, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: fr
 byline: "Updated October 2026"
@@ -21,10 +21,11 @@ Just moved to Paris, here for a semester, or not sure how long you will stay? Yo
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan €75 a month (47 credits); smaller plans in the app | Variety at studios and gyms all over Paris |
 | **WellNess Sport Club** | No contract; end date per the terms and conditions | Liberté €79, Express €69 a month, plus a licence fee and a 2-month deposit | An all-inclusive gym with classes, aqua classes, sauna and hammam
+| **RITM Liberté** | One month's notice | €29.99 a week, plus a €90 joining fee; day pass €30, month pass €179 | A gym with classes in 6 clubs, or a pass without a membership
 | **Basic-Fit Flex** | 4 weeks' notice, no minimum term | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, often open 24/7 |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
-<p class="klein">Prices from October 2026. ClassPass: location Paris. WellNess Sport Club: Paris clubs (November 2026). Basic-Fit: national prices in France. Always check the current price with the provider.</p>
+<p class="klein">Prices from October 2026. ClassPass: location Paris. WellNess Sport Club and RITM: Paris clubs (November 2026). Basic-Fit: national prices in France. Always check the current price with the provider.</p>
 
 <h2 id="classpass">ClassPass: cancel any time</h2>
 
@@ -51,6 +52,18 @@ In Paris, WellNess Sport Club has two clubs, at Porte Maillot (17th) and Républ
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wellness-sport-club/">WellNess Sport Club (in French)</a>
+</div>
+
+<h2 id="ritm">RITM: weekly, or with a pass</h2>
+
+RITM has six clubs in Paris and Boulogne-Billancourt, open 7 days a week. With the Hebdomadaire Liberté membership you pay €29.99 a week, without a contract, with one month's notice. On top comes a €90 joining fee.
+
+- **Without a membership:** day pass €30, week €89, month €179, and also 3, 6 or 12 months.
+- **ROD classes (HYROX, bootcamp):** €5 extra a week as an option, not included in the passes.
+- **Cancelling:** by registered letter, at least 10 days before the next payment.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/ritm/">RITM (in French)</a>
 </div>
 
 <h2 id="basic-fit">Basic-Fit Flex: no minimum term</h2>
