@@ -65,6 +65,17 @@ Fitness Park a des clubs entre autres dans ces villes :
 
 Tous les clubs sont sur [fitnesspark.fr/club](https://www.fitnesspark.fr/club/).
 
+<h2 id="resilier">Suspendre et résilier</h2>
+
+- **Sans engagement** : tu résilies au moins 4 semaines avant le prochain prélèvement. La résiliation prend effet 4 semaines après ce prélèvement, et une période de 4 semaines commencée est due en entier.
+- **Avec engagement** : tu es engagé pour 52 semaines. Pour arrêter à la fin de l’engagement, envoie ta demande au moins 4 semaines avant cette date. Sinon, ton abonnement continue, et tu résilies ensuite comme sans engagement.
+- **Partir plus tôt** : c’est possible si tu déménages à plus de 15 km de tout club Fitness Park, si tu perds ton emploi, ou en cas de maladie ou de handicap qui t’empêche durablement de faire du sport. Joins un justificatif (justificatif de domicile de moins de 3 mois, attestation France Travail ou certificat médical).
+- **Suspendre** : en cas d’incapacité médicale, de grossesse ou d’absence pour le travail ou les études, tu peux suspendre ton abonnement de 4 semaines à 12 mois, avec un justificatif. Tu ne paies pas pendant la suspension, et la fin de ton engagement est repoussée d’autant.
+- **Comment** : dans ton espace adhérent (« Résilier mon abonnement »), ou par lettre recommandée avec accusé de réception à ton club.
+- **À savoir** : si tu te réinscris plus tard, tu paies à nouveau les frais d’adhésion. Un prélèvement rejeté coûte 8 €. Inscrit en ligne ? Tu as 14 jours pour te rétracter.
+
+<p class="klein">Source : conditions générales de vente de Fitness Park (novembre 2026). Chaque club peut avoir ses propres conditions : vérifie celles de ton club avant de t’inscrire.</p>
+
 <h2 id="choix">Fitness Park, Basic-Fit ou ClassPass ?</h2>
 
 <div class="kolommen">
