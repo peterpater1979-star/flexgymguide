@@ -189,6 +189,18 @@ Basic-Fit a des salles à Dijon. C’est une chaîne de salles à petit prix, av
 
 </div>
 
+<div id="l-appart-fitness">
+
+<p class="kicker">Salle avec cours</p>
+
+<h2 id="l-appart-fitness-dijon">L’Appart Fitness à Dijon</h2>
+
+À Dijon, L’Appart Fitness a trois salles : Centre, Bourroches et Toison d’Or. C’est une salle avec cours collectifs, ouverte 7j/7 de 6h à 23h. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription. Étudiant ? Tu paies 5 € de moins.
+
+[Tout sur L’Appart Fitness](/fr/l-appart-fitness/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

@@ -271,6 +271,18 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 </div>
 
+<div id="l-appart-fitness">
+
+<p class="kicker">Salle avec cours</p>
+
+<h2 id="l-appart-fitness-paris">L’Appart Fitness à Paris</h2>
+
+À Paris, L’Appart Fitness a des salles à Bastille (11e), Charléty (13e), dans le 18e et le 19e, et aussi à Malakoff. C’est une salle avec cours collectifs, ouverte 7j/7 de 6h à 23h. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription. Étudiant ? Tu paies 5 € de moins.
+
+[Tout sur L’Appart Fitness](/fr/l-appart-fitness/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

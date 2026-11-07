@@ -243,6 +243,18 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 </div>
 
+<div id="l-appart-fitness">
+
+<p class="kicker">Salle avec cours</p>
+
+<h2 id="l-appart-fitness-nice">L’Appart Fitness à Nice</h2>
+
+À Nice, L’Appart Fitness a une salle. C’est une salle avec cours collectifs, ouverte 7j/7 de 6h à 23h. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription. Étudiant ? Tu paies 5 € de moins.
+
+[Tout sur L’Appart Fitness](/fr/l-appart-fitness/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

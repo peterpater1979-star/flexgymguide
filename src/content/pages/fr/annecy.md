@@ -189,6 +189,18 @@ Keepcool a une salle à Annecy. C’est une chaîne française avec plus de 270 
 
 </div>
 
+<div id="l-appart-fitness">
+
+<p class="kicker">Salle avec cours</p>
+
+<h2 id="l-appart-fitness-annecy">L’Appart Fitness à Annecy</h2>
+
+À Annecy, L’Appart Fitness a des salles au centre, à Pringy et à Epagny. À Epagny, l’abonnement coûte 10 € de plus. C’est une salle avec cours collectifs, ouverte 7j/7 de 6h à 23h. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription. Étudiant ? Tu paies 5 € de moins.
+
+[Tout sur L’Appart Fitness](/fr/l-appart-fitness/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>
