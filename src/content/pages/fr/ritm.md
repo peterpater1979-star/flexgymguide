@@ -58,7 +58,7 @@ ROD, ce sont des cours à haute intensité en petits groupes : HYROX Training, b
 
 <h2 id="classpass">RITM avec ClassPass</h2>
 
-Tu n’as pas envie de t’abonner, ou tu veux tester RITM ? À Paris, RITM est aussi sur ClassPass, entre autres aux Champs-Élysées et à Saint-Germain. Tu réserves une séance en salle avec tes crédits, sans frais d’inscription. Idéal si tu veux combiner RITM avec des cours de yoga, de Pilates ou de boxe dans d’autres studios. Les salles par quartier sont dans [ClassPass à Paris](/fr/classpass-paris/).
+Tu n’as pas envie de t’abonner, ou tu veux tester RITM ? À Paris, RITM est aussi sur ClassPass : à Saint-Germain, aux Champs-Élysées, à Ternes et à Boulogne-Billancourt. Tu réserves une séance en salle ou, selon le club, un cours collectif avec tes crédits, sans frais d’inscription. Idéal si tu veux combiner RITM avec des cours de yoga, de Pilates ou de boxe dans d’autres studios. Les salles par quartier sont dans [ClassPass à Paris](/fr/classpass-paris/).
 
 <h2 id="villes">Où sont les clubs ?</h2>
 
@@ -132,7 +132,7 @@ Oui, dans tous les clubs de ta ville : les 6 clubs de Paris et Boulogne, ou les 
 <details>
 <summary>Puis-je aller chez RITM avec ClassPass ?</summary>
 
-Oui, à Paris, entre autres aux Champs-Élysées et à Saint-Germain. Tu réserves une séance en salle avec tes crédits ClassPass, sans abonnement RITM. Voir [ClassPass à Paris](/fr/classpass-paris/).
+Oui, à Paris : à Saint-Germain, aux Champs-Élysées, à Ternes et à Boulogne-Billancourt. Tu réserves une séance en salle ou un cours collectif avec tes crédits ClassPass, sans abonnement RITM. Voir [ClassPass à Paris](/fr/classpass-paris/).
 
 </details>
 
