@@ -12,7 +12,7 @@ kicker: "Proveedor: pase deportivo"
 
 <div class="fotobanner smal foto-urban-sports" role="img" aria-label="Clase de deporte en grupo"></div>
 
-Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscripción haces check-in en gimnasios y estudios asociados: gimnasio, yoga, pilates, boxeo, natación, escalada y otras actividades. Cuanto más alto es tu plan, más visitas al mes y más centros tienes. Urban Sports Club está en muchas ciudades de España y en otros países europeos.
+Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscripción haces check-in en gimnasios y estudios asociados: gimnasio, yoga, pilates, boxeo, natación, escalada y otras actividades. Cuanto más alto es tu plan, más visitas al mes y más centros tienes. El pase está en muchas ciudades de España y en otros países europeos.
 
 <h2 id="resumen">En resumen</h2>
 
@@ -25,7 +25,7 @@ Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscrip
 | **Ciudades** | Madrid, Barcelona y muchas otras ciudades de España |
 | **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Centros asociados en otros países europeos |
 
-<p class="klein">Fuente: urbansportsclub.com, precios de la suscripción mensual en Madrid y Barcelona (noviembre de 2026), IVA incluido. Los precios pueden variar según la ciudad. Consulta siempre los precios actuales en Urban Sports Club.</p>
+<p class="klein">Fuente: urbansportsclub.com, precios de la suscripción mensual en Madrid y Barcelona (noviembre de 2026), IVA incluido. Los precios pueden variar según la ciudad. Consulta siempre los precios actuales en su web.</p>
 
 <h2 id="planes">Los planes en Madrid y Barcelona</h2>
 
@@ -36,7 +36,7 @@ Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscrip
 | **Premium** | 115 € | 14, con más centros (incluido un masaje) |
 | **Max** | 165 € | 18, con el mayor número de centros (incluidos dos masajes) |
 
-Precios de la suscripción mensual en Madrid y Barcelona en noviembre de 2026. Según el centro, puedes ir todos los días, o 4 u 8 veces al mes. Solo un check-in por centro y por día. Lo que incluye cada plan está en la web de Urban Sports Club.
+Precios de la suscripción mensual en Madrid y Barcelona en noviembre de 2026. Según el centro, puedes ir todos los días, o 4 u 8 veces al mes. Solo un check-in por centro y por día. Lo que incluye cada plan está en su web.
 
 <h2 id="como-funciona">Cómo funciona</h2>
 
@@ -70,7 +70,7 @@ Precios de la suscripción mensual en Madrid y Barcelona en noviembre de 2026. S
 
 <h2 id="ciudades">¿En qué ciudades?</h2>
 
-Urban Sports Club tiene centros asociados, entre otras, en estas ciudades:
+El pase tiene centros asociados, entre otras, en estas ciudades:
 
 <ul class="stedenlijst">
 <li><a href="/es/madrid/"><strong>Madrid</strong></a></li>
@@ -97,7 +97,7 @@ Todas las ciudades y todos los centros están en urbansportsclub.com.
 <details open>
 <summary>¿Cuánto cuesta Urban Sports Club en España?</summary>
 
-En Madrid y Barcelona, la suscripción mensual cuesta 35 € (Essential), 75 € (Classic), 115 € (Premium) o 165 € (Max) al mes (noviembre de 2026). En otras ciudades el precio puede ser distinto: consulta los precios de tu ciudad en la web de Urban Sports Club.
+En Madrid y Barcelona, la suscripción mensual cuesta 35 € (Essential), 75 € (Classic), 115 € (Premium) o 165 € (Max) al mes (noviembre de 2026). En otras ciudades el precio puede ser distinto: consulta los precios de tu ciudad en su web.
 
 </details>
 

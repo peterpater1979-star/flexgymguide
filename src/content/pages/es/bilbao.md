@@ -235,7 +235,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 <h2 id="urban-sports-club-bilbao">Urban Sports Club en Bilbao</h2>
 
-Urban Sports Club también está en Bilbao. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Los centros en Bilbao están en la app de Urban Sports Club.
+Urban Sports Club también está en Bilbao. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Bilbao en la app.
 
 [Todo sobre Urban Sports Club](/es/urban-sports-club/)
 

@@ -118,7 +118,7 @@ Una oferta más pequeña, repartida por Eivissa ciudad y Marina Botafoch, y tamb
 
 <h2 id="urban-sports-club-ibiza">Urban Sports Club en Ibiza ciudad</h2>
 
-Urban Sports Club también está en Ibiza ciudad. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Los centros en Ibiza ciudad están en la app de Urban Sports Club.
+Urban Sports Club también está en Ibiza ciudad. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Ibiza ciudad en la app.
 
 [Todo sobre Urban Sports Club](/es/urban-sports-club/)
 

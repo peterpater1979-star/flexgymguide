@@ -190,7 +190,7 @@ Fitness Park es una cadena de gimnasios francesa con 170 clubes en España. En e
 
 <h2 id="urban-sports-club-alicante">Urban Sports Club en Alicante</h2>
 
-Urban Sports Club también está en Alicante. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Los centros en Alicante están en la app de Urban Sports Club.
+Urban Sports Club también está en Alicante. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Alicante en la app.
 
 [Todo sobre Urban Sports Club](/es/urban-sports-club/)
 

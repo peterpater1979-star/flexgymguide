@@ -41,7 +41,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour des cours et des séanc
 
 <h2 id="urban-sports-club">Urban Sports Club : un prix fixe par mois</h2>
 
-Urban Sports Club est un pass sport avec un prix fixe par mois. Tu fais des check-ins dans des salles et studios partenaires à Paris : salle, yoga, Pilates, boxe, natation et plus, selon ta formule. Avec l'abonnement mensuel, tu résilies avec 3 jours de préavis.
+C’est un pass sport avec un prix fixe par mois. Tu fais des check-ins dans des salles et studios partenaires à Paris : salle, yoga, Pilates, boxe, natation et plus, selon ta formule. Avec l'abonnement mensuel, tu résilies avec 3 jours de préavis.
 
 - **Formules à Paris :** Essential 35 € (4 visites par mois), Classic 75 € (10), Premium 115 € (14) et Max 165 € (18), abonnement mensuel, novembre 2026.
 - **Par lieu :** selon le lieu, tous les jours, ou 4 ou 8 fois par mois, avec un seul check-in par jour.

@@ -225,7 +225,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 <h2 id="urban-sports-club-barcelona">Urban Sports Club en Barcelona</h2>
 
-Urban Sports Club también está en Barcelona. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential). La suscripción mensual se cancela con 3 días de preaviso. Los centros en Barcelona están en la app de Urban Sports Club.
+Urban Sports Club también está en Barcelona. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential). La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Barcelona en la app.
 
 [Todo sobre Urban Sports Club](/es/urban-sports-club/)
 

@@ -183,7 +183,7 @@ Keepcool a une salle à Poitiers. C’est une chaîne française avec plus de 27
 
 <h2 id="urban-sports-club-poitiers">Urban Sports Club à Poitiers</h2>
 
-Urban Sports Club est aussi présent à Poitiers. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Les lieux à Poitiers sont dans l’application d’Urban Sports Club.
+Urban Sports Club est aussi présent à Poitiers. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Poitiers dans l’application.
 
 [Tout sur Urban Sports Club](/fr/urban-sports-club/)
 

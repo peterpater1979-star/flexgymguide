@@ -194,7 +194,7 @@ Keepcool a une salle à Saint-Étienne, et d’autres à La Fouillouse et Sorbie
 
 <h2 id="urban-sports-club-saint-etienne">Urban Sports Club à Saint-Étienne</h2>
 
-Urban Sports Club est aussi présent à Saint-Étienne. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Les lieux à Saint-Étienne sont dans l’application d’Urban Sports Club.
+Urban Sports Club est aussi présent à Saint-Étienne. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Saint-Étienne dans l’application.
 
 [Tout sur Urban Sports Club](/fr/urban-sports-club/)
 

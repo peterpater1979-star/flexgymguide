@@ -12,7 +12,7 @@ kicker: "Fournisseur : pass sport"
 
 <div class="fotobanner smal foto-urban-sports" role="img" aria-label="Cours de sport en groupe"></div>
 
-Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnement, tu fais des check-ins dans des salles de sport et des studios partenaires : salle, yoga, Pilates, boxe, natation, escalade et d’autres activités. Plus ta formule est élevée, plus tu as de visites par mois et de lieux accessibles. Urban Sports Club est présent dans de nombreuses villes en France et dans d’autres pays européens.
+Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnement, tu fais des check-ins dans des salles de sport et des studios partenaires : salle, yoga, Pilates, boxe, natation, escalade et d’autres activités. Plus ta formule est élevée, plus tu as de visites par mois et de lieux accessibles. Le pass est présent dans de nombreuses villes en France et dans d’autres pays européens.
 
 <h2 id="resume">En bref</h2>
 
@@ -25,7 +25,7 @@ Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnem
 | **Villes** | Paris et de nombreuses autres villes en France |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Lieux partenaires dans d’autres pays européens |
 
-<p class="klein">Source : urbansportsclub.com, prix de l’abonnement mensuel à Paris (novembre 2026), TVA comprise. Les prix peuvent varier selon la ville. Vérifie toujours les prix actuels avec Urban Sports Club.</p>
+<p class="klein">Source : urbansportsclub.com, prix de l’abonnement mensuel à Paris (novembre 2026), TVA comprise. Les prix peuvent varier selon la ville. Vérifie toujours les prix actuels sur leur site.</p>
 
 <h2 id="formules">Les formules à Paris</h2>
 
@@ -36,7 +36,7 @@ Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnem
 | **Premium** | 115 € | 14, avec plus de lieux (dont un massage) |
 | **Max** | 165 € | 18, avec le plus de lieux (dont deux massages) |
 
-Prix de l’abonnement mensuel à Paris en novembre 2026. Selon le lieu, tu peux y aller tous les jours, ou 4 ou 8 fois par mois. Un seul check-in par lieu et par jour. Ce que chaque formule comprend exactement est indiqué sur le site d’Urban Sports Club.
+Prix de l’abonnement mensuel à Paris en novembre 2026. Selon le lieu, tu peux y aller tous les jours, ou 4 ou 8 fois par mois. Un seul check-in par lieu et par jour. Ce que chaque formule comprend exactement est indiqué sur leur site.
 
 <h2 id="comment-ca-marche">Comment ça marche</h2>
 
@@ -70,7 +70,7 @@ Prix de l’abonnement mensuel à Paris en novembre 2026. Selon le lieu, tu peux
 
 <h2 id="villes">Dans quelles villes ?</h2>
 
-Urban Sports Club a des lieux partenaires entre autres dans ces villes :
+Le pass a des lieux partenaires entre autres dans ces villes :
 
 <ul class="stedenlijst">
 <li><a href="/fr/paris/"><strong>Paris</strong></a></li>
@@ -126,7 +126,7 @@ Toutes les villes et tous les lieux sont sur urbansportsclub.com.
 <details open>
 <summary>Combien coûte Urban Sports Club en France ?</summary>
 
-À Paris, l’abonnement mensuel coûte 35 € (Essential), 75 € (Classic), 115 € (Premium) ou 165 € (Max) par mois (novembre 2026). Dans d’autres villes, le prix peut être différent : regarde les prix de ta ville sur le site d’Urban Sports Club.
+À Paris, l’abonnement mensuel coûte 35 € (Essential), 75 € (Classic), 115 € (Premium) ou 165 € (Max) par mois (novembre 2026). Dans d’autres villes, le prix peut être différent : regarde les prix de ta ville sur leur site.
 
 </details>
 

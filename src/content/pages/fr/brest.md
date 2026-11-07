@@ -195,7 +195,7 @@ Basic-Fit a des salles à Brest. C’est une chaîne de salles à petit prix, av
 
 <h2 id="urban-sports-club-brest">Urban Sports Club à Brest</h2>
 
-Urban Sports Club est aussi présent à Brest. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Les lieux à Brest sont dans l’application d’Urban Sports Club.
+Urban Sports Club est aussi présent à Brest. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Brest dans l’application.
 
 [Tout sur Urban Sports Club](/fr/urban-sports-club/)
 

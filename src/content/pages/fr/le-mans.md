@@ -195,7 +195,7 @@ Keepcool a une salle au Mans. C’est une chaîne française avec plus de 270 sa
 
 <h2 id="urban-sports-club-le-mans">Urban Sports Club à Le Mans</h2>
 
-Urban Sports Club est aussi présent à Le Mans. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Les lieux à Le Mans sont dans l’application d’Urban Sports Club.
+Urban Sports Club est aussi présent à Le Mans. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Le Mans dans l’application.
 
 [Tout sur Urban Sports Club](/fr/urban-sports-club/)
 

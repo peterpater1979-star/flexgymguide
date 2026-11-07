@@ -40,7 +40,7 @@ Con ClassPass recibes cada mes créditos para clases y sesiones de gimnasio en e
 
 <h2 id="urban-sports-club">Urban Sports Club: un precio fijo al mes</h2>
 
-Urban Sports Club es un pase deportivo con un precio fijo al mes. Haces check-in en gimnasios y estudios asociados en Madrid: gimnasio, yoga, pilates, boxeo, natación y más, según tu plan. Con la suscripción mensual cancelas con 3 días de preaviso antes de la renovación.
+Es un pase deportivo con un precio fijo al mes. Haces check-in en gimnasios y estudios asociados en Madrid: gimnasio, yoga, pilates, boxeo, natación y más, según tu plan. Con la suscripción mensual cancelas con 3 días de preaviso antes de la renovación.
 
 - **Planes en Madrid:** Essential 35 € (4 visitas al mes), Classic 75 € (10), Premium 115 € (14) y Max 165 € (18), suscripción mensual, noviembre de 2026.
 - **Por centro:** según el centro, todos los días, o 4 u 8 veces al mes, con un solo check-in al día.

@@ -162,7 +162,7 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 
 <h2 id="urban-sports-club-la-rochelle">Urban Sports Club à La Rochelle</h2>
 
-Urban Sports Club est aussi présent à La Rochelle. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Les lieux à La Rochelle sont dans l’application d’Urban Sports Club.
+Urban Sports Club est aussi présent à La Rochelle. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à La Rochelle dans l’application.
 
 [Tout sur Urban Sports Club](/fr/urban-sports-club/)
 

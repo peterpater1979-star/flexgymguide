@@ -236,7 +236,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 <h2 id="urban-sports-club-sevilla">Urban Sports Club en Sevilla</h2>
 
-Urban Sports Club también está en Sevilla. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Los centros en Sevilla están en la app de Urban Sports Club.
+Urban Sports Club también está en Sevilla. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Sevilla en la app.
 
 [Todo sobre Urban Sports Club](/es/urban-sports-club/)
 

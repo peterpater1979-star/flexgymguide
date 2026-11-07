@@ -121,7 +121,7 @@ En el centro, la Milla de Oro, Nueva Andalucía y San Pedro Alcántara, y a lo l
 
 <h2 id="urban-sports-club-marbella">Urban Sports Club en Marbella</h2>
 
-Urban Sports Club también está en Marbella. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Los centros en Marbella están en la app de Urban Sports Club.
+Urban Sports Club también está en Marbella. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes. La suscripción mensual se cancela con 3 días de preaviso. Encuentras los centros en Marbella en la app.
 
 [Todo sobre Urban Sports Club](/es/urban-sports-club/)
 
