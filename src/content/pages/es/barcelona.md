@@ -227,7 +227,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio con entrenadores</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio con entrenadores</span></div>
 
 <h3 id="l-orange-bleue-barcelona">L’Orange bleue</h3>
 
@@ -241,7 +241,7 @@ En Barcelona, L’Orange bleue tiene dos gimnasios: Nou Barris y Guinardó. Las 
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio de gama alta</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio de gama alta</span></div>
 
 <h3 id="on-air-barcelona">ON AIR</h3>
 
@@ -255,7 +255,7 @@ En Barcelona, ON AIR tiene un gimnasio en Universitat (L’Eixample). Essential 
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio 24 horas</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
 
 <h3 id="anytime-fitness-barcelona">Anytime Fitness</h3>
 
@@ -269,7 +269,7 @@ En Barcelona, Anytime Fitness tiene clubes en Les Corts, Pedralbes, Poblenou y R
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pase deportivo con precio fijo</p>
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
 
 <h3 id="urban-sports-club-barcelona">Urban Sports Club</h3>
 

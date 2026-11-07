@@ -224,7 +224,7 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <div id="saints-stars" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Boutique studio</p>
+<div class="fotokop foto-gymketen"><span>Boutique studio</span></div>
 
 <h3>Saints & Stars</h3>
 
@@ -238,7 +238,7 @@ Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam: 
 
 <div id="vondelgym" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Sportschool</p>
+<div class="fotokop foto-gymketen"><span>Sportschool</span></div>
 
 <h3>Vondelgym</h3>
 
@@ -252,7 +252,7 @@ Vondelgym heeft drie gyms in Amsterdam: aan de Overtoom bij het Vondelpark, aan 
 
 <div id="big-gym" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Sportschoolketen</p>
+<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
 
 <h3>BigGym</h3>
 
@@ -266,7 +266,7 @@ BigGym heeft in Amsterdam een grote gym aan de Oostenburgermiddenstraat, op de O
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Sportschool</p>
+<div class="fotokop foto-gymketen"><span>Sportschool</span></div>
 
 <h3>Anytime Fitness</h3>
 

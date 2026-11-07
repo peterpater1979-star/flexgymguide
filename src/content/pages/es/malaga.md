@@ -150,11 +150,11 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 <h2 id="otros">Otros gimnasios en Málaga</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio de gama alta</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio de gama alta</span></div>
 
 <h3 id="on-air-malaga">ON AIR</h3>
 
@@ -168,7 +168,7 @@ En Málaga, ON AIR tiene dos gimnasios en el centro: Armengual y Soho. Essential
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio 24 horas</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
 
 <h3 id="anytime-fitness-malaga">Anytime Fitness</h3>
 
@@ -182,7 +182,7 @@ En Málaga, Anytime Fitness tiene un club en la avenida de Velázquez. Cada club
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pase deportivo con precio fijo</p>
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
 
 <h3 id="urban-sports-club-malaga">Urban Sports Club</h3>
 

@@ -224,11 +224,11 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <h2 id="autres">Autres salles à Lille</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-lille">Urban Sports Club</h3>
 

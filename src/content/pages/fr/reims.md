@@ -123,11 +123,11 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 
 <h2 id="autres">Autres salles à Reims</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-reims">L’Orange bleue</h3>
 
@@ -141,7 +141,7 @@ Près de Reims, L’Orange bleue a une salle à Bezannes. Les formules affichée
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-reims">ON AIR</h3>
 
@@ -155,7 +155,7 @@ Près de Reims, ON AIR a un club à Cormontreuil. Essential coûte 31,96 €, Or
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-reims">Urban Sports Club</h3>
 

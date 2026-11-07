@@ -192,11 +192,11 @@ Keepcool a une salle au Havre. C’est une chaîne française avec plus de 270 s
 
 <h2 id="autres">Autres salles à Le Havre</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-le-havre">L’Orange bleue</h3>
 
@@ -210,7 +210,7 @@ Au Havre, L’Orange bleue a deux salles : dans le centre et au Grand Hameau. Le
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-le-havre">ON AIR</h3>
 
@@ -224,7 +224,7 @@ Au Havre, ON AIR a un club à La Nef. Essential coûte 31,96 €, Original 39,96
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-le-havre">Urban Sports Club</h3>
 

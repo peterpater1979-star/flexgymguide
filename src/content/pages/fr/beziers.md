@@ -181,11 +181,11 @@ Keepcool a une salle à Béziers. C’est une chaîne française avec plus de 27
 
 <h2 id="autres">Autres salles à Béziers</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-beziers">ON AIR</h3>
 
@@ -199,7 +199,7 @@ Keepcool a une salle à Béziers. C’est une chaîne française avec plus de 27
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-beziers">Urban Sports Club</h3>
 

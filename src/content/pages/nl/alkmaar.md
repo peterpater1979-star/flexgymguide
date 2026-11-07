@@ -161,11 +161,11 @@ Tip: zet een herinnering een paar dagen voor het einde, en boek populaire avond-
 
 <h2 id="andere">Andere sportscholen in Alkmaar</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="big-gym" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Sportschoolketen</p>
+<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
 
 <h3>BigGym</h3>
 

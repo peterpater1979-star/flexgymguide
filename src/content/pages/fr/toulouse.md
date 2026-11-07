@@ -233,11 +233,11 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <h2 id="autres">Autres salles à Toulouse</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-toulouse">L’Orange bleue</h3>
 
@@ -251,7 +251,7 @@ L’Orange bleue n’a pas de salle dans Toulouse même, mais en périphérie, �
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-toulouse">ON AIR</h3>
 
@@ -265,7 +265,7 @@ Près de Toulouse, ON AIR a un club à Blagnac. Essential coûte 31,96 €, Orig
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-toulouse">Urban Sports Club</h3>
 

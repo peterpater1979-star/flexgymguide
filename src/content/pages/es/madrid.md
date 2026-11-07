@@ -227,7 +227,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio con entrenadores</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio con entrenadores</span></div>
 
 <h3 id="l-orange-bleue-madrid">L’Orange bleue</h3>
 
@@ -241,7 +241,7 @@ En Madrid, L’Orange bleue tiene cuatro gimnasios: Cuatro Caminos, Ciudad Linea
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio de gama alta</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio de gama alta</span></div>
 
 <h3 id="on-air-madrid">ON AIR</h3>
 
@@ -255,7 +255,7 @@ En Madrid, ON AIR tiene un gimnasio en Delicias (Arganzuela). Essential cuesta 3
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio 24 horas</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
 
 <h3 id="anytime-fitness-madrid">Anytime Fitness</h3>
 
@@ -269,7 +269,7 @@ En Madrid, Anytime Fitness tiene seis clubes: Arganzuela, Bravo Murillo, Ciudad 
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pase deportivo con precio fijo</p>
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
 
 <h3 id="urban-sports-club-madrid">Urban Sports Club</h3>
 

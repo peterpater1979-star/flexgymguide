@@ -223,11 +223,11 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <h2 id="autres">Autres salles à Lyon</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle tout inclus</p>
+<div class="fotokop foto-gymketen"><span>Salle tout inclus</span></div>
 
 <h3 id="wellness-sport-club-lyon">WellNess Sport Club</h3>
 
@@ -241,7 +241,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-lyon">L’Orange bleue</h3>
 
@@ -255,7 +255,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-lyon">ON AIR</h3>
 
@@ -269,7 +269,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec cours</p>
+<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
 
 <h3 id="l-appart-fitness-lyon">L’Appart Fitness</h3>
 
@@ -283,7 +283,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-lyon">Urban Sports Club</h3>
 

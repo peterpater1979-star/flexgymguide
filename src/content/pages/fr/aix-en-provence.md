@@ -224,11 +224,11 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <h2 id="autres">Autres salles à Aix-en-Provence</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle tout inclus</p>
+<div class="fotokop foto-gymketen"><span>Salle tout inclus</span></div>
 
 <h3 id="wellness-sport-club-aix-en-provence">WellNess Sport Club</h3>
 
@@ -242,7 +242,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-aix-en-provence">ON AIR</h3>
 
@@ -256,7 +256,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-aix-en-provence">Urban Sports Club</h3>
 

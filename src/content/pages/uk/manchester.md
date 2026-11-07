@@ -194,11 +194,11 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 9 gyms in 
 
 <h2 id="other">Other gyms in Manchester</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">24/7 gym</p>
+<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
 
 <h3>Anytime Fitness</h3>
 

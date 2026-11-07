@@ -197,7 +197,7 @@ Keepcool a une salle au Mans. C’est une chaîne française avec plus de 270 sa
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-le-mans">L’Orange bleue</h3>
 
@@ -211,7 +211,7 @@ Au Mans, L’Orange bleue a deux salles : Antarès et Le Mans ouest. Les formule
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-le-mans">ON AIR</h3>
 
@@ -225,7 +225,7 @@ Au Mans, ON AIR a un club au nord de la ville. Essential coûte 31,96 €, Origi
 
 <div id="gigafit" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle de sport</p>
+<div class="fotokop foto-gymketen"><span>Salle de sport</span></div>
 
 <h3 id="gigafit-le-mans">Gigafit</h3>
 
@@ -239,7 +239,7 @@ Au Mans, Gigafit a un club au nord, à Saint-Pavace : de 30 € (étudiants) à 
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-le-mans">Urban Sports Club</h3>
 

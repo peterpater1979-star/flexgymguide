@@ -181,11 +181,11 @@ Autour d’Avignon, Keepcool a trois salles : Fontcouverte, Le Pontet et Les Ang
 
 <h2 id="autres">Autres salles à Avignon</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-avignon">L’Orange bleue</h3>
 
@@ -199,7 +199,7 @@ Près d’Avignon, L’Orange bleue a une salle à Vedène. Les formules affich�
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-avignon">Urban Sports Club</h3>
 

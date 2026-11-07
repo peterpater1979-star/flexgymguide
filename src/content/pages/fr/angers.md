@@ -192,11 +192,11 @@ Basic-Fit a des salles à Angers. C’est une chaîne de salles à petit prix, a
 
 <h2 id="autres">Autres salles à Angers</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-angers">L’Orange bleue</h3>
 
@@ -210,7 +210,7 @@ Basic-Fit a des salles à Angers. C’est une chaîne de salles à petit prix, a
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-angers">ON AIR</h3>
 
@@ -224,7 +224,7 @@ Basic-Fit a des salles à Angers. C’est une chaîne de salles à petit prix, a
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-angers">Urban Sports Club</h3>
 

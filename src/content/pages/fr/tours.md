@@ -159,11 +159,11 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 
 <h2 id="autres">Autres salles à Tours</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-tours">L’Orange bleue</h3>
 
@@ -177,7 +177,7 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-tours">Urban Sports Club</h3>
 

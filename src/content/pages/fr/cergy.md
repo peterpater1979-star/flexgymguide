@@ -160,11 +160,11 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 
 <h2 id="autres">Autres salles à Cergy</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-cergy">ON AIR</h3>
 
@@ -178,7 +178,7 @@ Près de Cergy, ON AIR a un club à Pontoise. Essential coûte 31,96 €, Origin
 
 <div id="gigafit" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle de sport</p>
+<div class="fotokop foto-gymketen"><span>Salle de sport</span></div>
 
 <h3 id="gigafit-cergy">Gigafit</h3>
 
@@ -192,7 +192,7 @@ Près de Cergy, Gigafit a un club à Pierrelaye : 32 € toutes les 4 semaines a
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-cergy">Urban Sports Club</h3>
 

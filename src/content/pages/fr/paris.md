@@ -227,11 +227,11 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <h2 id="autres">Autres salles à Paris</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle tout inclus</p>
+<div class="fotokop foto-gymketen"><span>Salle tout inclus</span></div>
 
 <h3 id="wellness-sport-club-paris">WellNess Sport Club</h3>
 
@@ -245,7 +245,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="ritm" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec cours</p>
+<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
 
 <h3 id="ritm-paris">RITM</h3>
 
@@ -259,7 +259,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-paris">L’Orange bleue</h3>
 
@@ -273,7 +273,7 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-paris">ON AIR</h3>
 
@@ -287,7 +287,7 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 <div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec cours</p>
+<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
 
 <h3 id="l-appart-fitness-paris">L’Appart Fitness</h3>
 
@@ -301,7 +301,7 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 <div id="gigafit" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle de sport</p>
+<div class="fotokop foto-gymketen"><span>Salle de sport</span></div>
 
 <h3 id="gigafit-paris">Gigafit</h3>
 
@@ -315,7 +315,7 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 <div id="liberty-gym" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle de sport</p>
+<div class="fotokop foto-gymketen"><span>Salle de sport</span></div>
 
 <h3 id="liberty-gym-paris">Liberty Gym</h3>
 
@@ -325,7 +325,7 @@ Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la 
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-paris">Urban Sports Club</h3>
 

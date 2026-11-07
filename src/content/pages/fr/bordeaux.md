@@ -227,7 +227,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-bordeaux">L’Orange bleue</h3>
 
@@ -241,7 +241,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-bordeaux">ON AIR</h3>
 
@@ -255,7 +255,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec cours</p>
+<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
 
 <h3 id="l-appart-fitness-bordeaux">L’Appart Fitness</h3>
 
@@ -269,7 +269,7 @@ Près de Bordeaux, L’Appart Fitness a une salle à Talence. L’abonnement co�
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-bordeaux">Urban Sports Club</h3>
 

@@ -193,11 +193,11 @@ Basic-Fit a des salles à Amiens. C’est une chaîne de salles à petit prix, a
 
 <h2 id="autres">Autres salles à Amiens</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-amiens">ON AIR</h3>
 
@@ -211,7 +211,7 @@ Près d’Amiens, ON AIR a un club à Dury. Essential coûte 31,96 €, Original
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-amiens">Urban Sports Club</h3>
 

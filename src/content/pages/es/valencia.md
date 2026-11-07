@@ -242,7 +242,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio con entrenadores</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio con entrenadores</span></div>
 
 <h3 id="l-orange-bleue-valencia">L’Orange bleue</h3>
 
@@ -256,7 +256,7 @@ En Valencia, L’Orange bleue tiene un gimnasio en La Zaidía. Las cuotas tienen
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio de gama alta</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio de gama alta</span></div>
 
 <h3 id="on-air-valencia">ON AIR</h3>
 
@@ -270,7 +270,7 @@ En Valencia, ON AIR tiene tres gimnasios: Les Arts, Nuevo Centro y Ruzafa. Essen
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio 24 horas</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
 
 <h3 id="anytime-fitness-valencia">Anytime Fitness</h3>
 
@@ -284,7 +284,7 @@ En Valencia, Anytime Fitness tiene un club en Abastos, y otro en Mislata. Cada c
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pase deportivo con precio fijo</p>
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
 
 <h3 id="urban-sports-club-valencia">Urban Sports Club</h3>
 

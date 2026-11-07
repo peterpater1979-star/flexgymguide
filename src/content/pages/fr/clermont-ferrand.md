@@ -195,11 +195,11 @@ Keepcool a une salle à Clermont-Ferrand, et une autre à Cournon-d’Auvergne. 
 
 <h2 id="autres">Autres salles à Clermont-Ferrand</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle tout inclus</p>
+<div class="fotokop foto-gymketen"><span>Salle tout inclus</span></div>
 
 <h3 id="wellness-sport-club-clermont-ferrand">WellNess Sport Club</h3>
 
@@ -213,7 +213,7 @@ Keepcool a une salle à Clermont-Ferrand, et une autre à Cournon-d’Auvergne. 
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-clermont-ferrand">L’Orange bleue</h3>
 
@@ -227,7 +227,7 @@ L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périph
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle haut de gamme</p>
+<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-clermont-ferrand">ON AIR</h3>
 
@@ -241,7 +241,7 @@ L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périph
 
 <div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec cours</p>
+<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
 
 <h3 id="l-appart-fitness-clermont-ferrand">L’Appart Fitness</h3>
 
@@ -255,7 +255,7 @@ Près de Clermont-Ferrand, L’Appart Fitness a une salle à Aubière. L’abonn
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-clermont-ferrand">Urban Sports Club</h3>
 

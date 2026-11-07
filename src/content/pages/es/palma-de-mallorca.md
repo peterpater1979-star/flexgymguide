@@ -151,11 +151,11 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 <h2 id="otros">Otros gimnasios en Palma de Mallorca</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Gimnasio 24 horas</p>
+<div class="fotokop foto-gymketen"><span>Gimnasio 24 horas</span></div>
 
 <h3 id="anytime-fitness-palma-de-mallorca">Anytime Fitness</h3>
 
@@ -169,7 +169,7 @@ En Palma, Anytime Fitness tiene tres clubes, entre ellos Foners y Fortí. Cada c
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pase deportivo con precio fijo</p>
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
 
 <h3 id="urban-sports-club-palma-de-mallorca">Urban Sports Club</h3>
 

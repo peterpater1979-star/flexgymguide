@@ -195,11 +195,11 @@ Basic-Fit a des salles à Rouen. C’est une chaîne de salles à petit prix, av
 
 <h2 id="autres">Autres salles à Rouen</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-rouen">Urban Sports Club</h3>
 

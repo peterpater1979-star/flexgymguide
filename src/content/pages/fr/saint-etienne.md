@@ -192,11 +192,11 @@ Keepcool a une salle à Saint-Étienne, et d’autres à La Fouillouse et Sorbie
 
 <h2 id="autres">Autres salles à Saint-Étienne</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec coachs</p>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs</span></div>
 
 <h3 id="l-orange-bleue-saint-etienne">L’Orange bleue</h3>
 
@@ -210,7 +210,7 @@ Keepcool a une salle à Saint-Étienne, et d’autres à La Fouillouse et Sorbie
 
 <div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Salle avec cours</p>
+<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
 
 <h3 id="l-appart-fitness-saint-etienne">L’Appart Fitness</h3>
 
@@ -224,7 +224,7 @@ Keepcool a une salle à Saint-Étienne, et d’autres à La Fouillouse et Sorbie
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pass sport à prix fixe</p>
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 <h3 id="urban-sports-club-saint-etienne">Urban Sports Club</h3>
 

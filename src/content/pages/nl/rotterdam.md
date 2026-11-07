@@ -214,11 +214,11 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <h2 id="andere">Andere sportscholen in Rotterdam</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="big-gym" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Sportschoolketen</p>
+<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
 
 <h3>BigGym</h3>
 
@@ -232,7 +232,7 @@ BigGym heeft in Rotterdam een grote gym aan de Boezembocht in Crooswijk, met kra
 
 <div id="anytime-fitness" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Sportschool</p>
+<div class="fotokop foto-gymketen"><span>Sportschool</span></div>
 
 <h3>Anytime Fitness</h3>
 

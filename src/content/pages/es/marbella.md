@@ -119,11 +119,11 @@ En el centro, la Milla de Oro, Nueva Andalucía y San Pedro Alcántara, y a lo l
 
 <h2 id="otros">Otros gimnasios en Marbella</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<p class="kicker">Pase deportivo con precio fijo</p>
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
 
 <h3 id="urban-sports-club-marbella">Urban Sports Club</h3>
 
