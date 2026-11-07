@@ -227,6 +227,18 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 </div>
 
+<div id="l-orange-bleue">
+
+<p class="kicker">Salle avec coachs</p>
+
+<h2 id="l-orange-bleue-rennes">L’Orange bleue à Rennes</h2>
+
+À Rennes, L’Orange bleue a huit salles en ville, entre autres à la gare, à Alma, au Colombier et place de Bretagne, et une à Saint-Jacques-de-la-Lande. C’est une salle avec un coach toujours présent et des cours collectifs illimités. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants). Séance d’essai gratuite.
+
+[Tout sur L’Orange bleue](/fr/l-orange-bleue/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

@@ -203,6 +203,18 @@ Keepcool a une salle à Clermont-Ferrand, et une autre à Cournon-d’Auvergne. 
 
 </div>
 
+<div id="l-orange-bleue">
+
+<p class="kicker">Salle avec coachs</p>
+
+<h2 id="l-orange-bleue-clermont-ferrand">L’Orange bleue à Clermont-Ferrand</h2>
+
+L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périphérie, à Cournon-d’Auvergne et à Gerzat. C’est une salle avec un coach toujours présent et des cours collectifs illimités. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants). Séance d’essai gratuite.
+
+[Tout sur L’Orange bleue](/fr/l-orange-bleue/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

@@ -177,6 +177,18 @@ Keepcool a une salle à Lorient. C’est une chaîne française avec plus de 270
 
 </div>
 
+<div id="l-orange-bleue">
+
+<p class="kicker">Salle avec coachs</p>
+
+<h2 id="l-orange-bleue-lorient">L’Orange bleue à Lorient</h2>
+
+À Lorient, L’Orange bleue a une salle, et une autre à Lanester. C’est une salle avec un coach toujours présent et des cours collectifs illimités. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants). Séance d’essai gratuite.
+
+[Tout sur L’Orange bleue](/fr/l-orange-bleue/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

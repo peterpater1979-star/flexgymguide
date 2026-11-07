@@ -234,6 +234,18 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
+<div id="l-orange-bleue">
+
+<p class="kicker">Gimnasio con entrenadores</p>
+
+<h2 id="l-orange-bleue-valencia">L’Orange bleue en Valencia</h2>
+
+En Valencia, L’Orange bleue tiene un gimnasio en La Zaidía. Siempre hay un entrenador en la sala y las clases colectivas son ilimitadas. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes). Primera sesión gratis.
+
+[Todo sobre L’Orange bleue](/es/l-orange-bleue/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pase deportivo con precio fijo</p>

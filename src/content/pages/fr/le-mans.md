@@ -189,6 +189,18 @@ Keepcool a une salle au Mans. C’est une chaîne française avec plus de 270 sa
 
 </div>
 
+<div id="l-orange-bleue">
+
+<p class="kicker">Salle avec coachs</p>
+
+<h2 id="l-orange-bleue-le-mans">L’Orange bleue à Le Mans</h2>
+
+Au Mans, L’Orange bleue a deux salles : Antarès et Le Mans ouest. C’est une salle avec un coach toujours présent et des cours collectifs illimités. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants). Séance d’essai gratuite.
+
+[Tout sur L’Orange bleue](/fr/l-orange-bleue/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>

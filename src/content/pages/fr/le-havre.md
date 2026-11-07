@@ -188,6 +188,18 @@ Keepcool a une salle au Havre. C’est une chaîne française avec plus de 270 s
 
 </div>
 
+<div id="l-orange-bleue">
+
+<p class="kicker">Salle avec coachs</p>
+
+<h2 id="l-orange-bleue-le-havre">L’Orange bleue à Le Havre</h2>
+
+Au Havre, L’Orange bleue a deux salles : dans le centre et au Grand Hameau. C’est une salle avec un coach toujours présent et des cours collectifs illimités. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants). Séance d’essai gratuite.
+
+[Tout sur L’Orange bleue](/fr/l-orange-bleue/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>
