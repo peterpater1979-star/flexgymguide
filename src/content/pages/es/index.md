@@ -242,6 +242,7 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 <li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-index-schoenen-heren">Zapatillas deportivas de hombre</a></li>
 <li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-index-fles">Botella de agua</a></li>
 <li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-index-handdoek">Toalla de deporte</a></li>
+<li class="i-slot"><a href="/go/bricoinn-es-cadenas/?ws=fgg-es-index-hangslot">Candado para la taquilla</a></li>
 </ul>
 
 <p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>

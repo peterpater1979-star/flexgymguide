@@ -259,6 +259,7 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 <li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-uk-manchester-schoenen-heren">Training shoes for men</a></li>
 <li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-uk-manchester-fles">Water bottle</a></li>
 <li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-uk-manchester-handdoek">Gym towel</a></li>
+<li class="i-slot"><a href="/go/bricoinn-en-cadenas/?ws=fgg-uk-manchester-hangslot">Locker padlock</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>

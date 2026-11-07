@@ -263,6 +263,7 @@ Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de f
 <li class="i-schoen"><a href="/go/traininn-pt-schoenen-heren/?ws=fgg-pt-lisboa-schoenen-heren">Sapatilhas de desporto de homem</a></li>
 <li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-lisboa-fles">Garrafa de água</a></li>
 <li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-lisboa-handdoek">Toalha de desporto</a></li>
+<li class="i-slot"><a href="/go/bricoinn-pt-cadenas/?ws=fgg-pt-lisboa-hangslot">Cadeado para o cacifo</a></li>
 </ul>
 
 <p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>
