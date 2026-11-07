@@ -44,12 +44,16 @@ Les prix sont toutes les 4 semaines, donc 13 fois par an. Certains clubs ont aus
 
 | Ville | Clubs |
 | --- | --- |
-| [Paris](/fr/paris/) | Gennevilliers, et deux nouveaux clubs dans le 18e et le 19e |
+| [Paris](/fr/paris/) | Paris 18e (rue Ordener), Paris 19e (rue Petit), et Gennevilliers juste à côté |
 | [Cergy](/fr/cergy/) | Pierrelaye |
 | [Le Mans](/fr/le-mans/) | Le Mans Nord, à Saint-Pavace |
 | [Dunkerque](/fr/dunkerque/) | Quai Wilson |
 
 Gigafit a aussi des clubs entre autres à Beauvais, Dreux, Guérande, Dinard et Villeparisis. Tous les clubs sont sur [gigafit.fr](https://www.gigafit.fr/trouver-votre-club).
+
+<h2 id="classpass">Gigafit avec ClassPass</h2>
+
+À Paris, tu trouves aussi Gigafit sur ClassPass. Tu réserves une séance en salle avec tes crédits, sans abonnement Gigafit et sans frais d’inscription. Les salles par quartier sont dans [ClassPass à Paris](/fr/classpass-paris/).
 
 <h2 id="resilier">Résilier</h2>
 
@@ -81,7 +85,7 @@ Aussi des cours collectifs et un coach dans la salle, avec environ 400 salles. L
 
 ### ClassPass
 
-Sans engagement, idéal si tu aimes varier les studios. Lis [Tout sur ClassPass](/fr/classpass/).
+Sans engagement, idéal si tu aimes varier les studios. À Paris, tu peux aussi aller chez Gigafit avec ClassPass. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 
