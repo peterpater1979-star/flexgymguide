@@ -239,7 +239,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <h2 id="ritm-paris">RITM à Paris</h2>
 
-À Paris, RITM a cinq clubs : Champs-Élysées, Ternes, La Fontaine, La Motte-Picquet et Saint-Germain, et un sixième juste à côté, à Boulogne-Billancourt. Ton abonnement te donne accès aux six clubs, ouverts 7j/7. Tu paies à la semaine : Essentiel 24,99 € avec engagement de 52 semaines, Liberté 29,99 € sans engagement, plus 90 € de frais d’inscription. Pas envie d’un abonnement ? Le pass jour coûte 30 €, le pass mois 179 €. Les cours ROD (HYROX, bootcamp) sont en option, 5 € de plus par semaine.
+À Paris, RITM a cinq clubs : Champs-Élysées, Ternes, La Fontaine, La Motte-Picquet et Saint-Germain, et un sixième juste à côté, à Boulogne-Billancourt. Ton abonnement te donne accès aux six clubs, ouverts 7j/7. Tu paies à la semaine : Essentiel 24,99 € avec engagement de 52 semaines, Liberté 29,99 € sans engagement, plus 90 € de frais d’inscription. Pas envie d’un abonnement ? Le pass jour coûte 30 €, le pass mois 179 €. Les cours ROD (HYROX, bootcamp) sont en option, 5 € de plus par semaine. Tu peux aussi aller chez RITM avec ClassPass, entre autres aux Champs-Élysées et à Saint-Germain.
 
 [Tout sur RITM](/fr/ritm/)
 
