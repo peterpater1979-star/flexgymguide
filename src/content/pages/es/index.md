@@ -95,12 +95,11 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 ### Urban Sports Club
 
-Una suscripción con precio fijo al mes y check-ins en gimnasios y estudios asociados: gimnasio, yoga, pilates, boxeo, natación y más. En Madrid y Barcelona, Classic, el plan más elegido según su web, cuesta 75 € al mes por 10 visitas (Essential desde 35 €). Se cancela con 3 días de preaviso.
+Un precio fijo al mes, con check-ins en gimnasios y estudios asociados. En Madrid y Barcelona, Classic, el plan más elegido según su web, cuesta 75 € al mes por 10 visitas.
 
 - Ideal si quieres un precio fijo al mes
-- Planes Essential, Classic, Premium y Max
-- Clases en directo online y vídeos a la carta incluidos
-- En muchas ciudades de España
+- Se cancela con 3 días de preaviso
+- Clases online y vídeos a la carta incluidos
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
