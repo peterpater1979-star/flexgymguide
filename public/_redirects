@@ -992,6 +992,5 @@
 # Netlify-adres en www naar het hoofddomein
 https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!
 
-# Verwijderde pagina's (Urban Sports Club staat niet meer op de site) die Google nog toont.
-/fr/urban-sports-club/  /fr/classpass/  301
+# Verwijderde pagina (Urban Sports Club staat niet meer op de Spaanse site) die Google nog toont.
 /es/urban-sports-club/  /es/classpass/  301

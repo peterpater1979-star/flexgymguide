@@ -191,6 +191,18 @@ Keepcool a une salle à Clermont-Ferrand, et une autre à Cournon-d’Auvergne. 
 
 </div>
 
+<div id="urban-sports-club">
+
+<p class="kicker">Pass sport à prix fixe</p>
+
+<h2 id="urban-sports-club-clermont-ferrand">Urban Sports Club à Clermont-Ferrand</h2>
+
+Urban Sports Club est aussi présent à Clermont-Ferrand. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Les lieux à Clermont-Ferrand sont dans l’application d’Urban Sports Club.
+
+[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+
+</div>
+
 ## Lequel te convient ?
 
 <div class="kolommen">

@@ -118,6 +118,18 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
+<div id="urban-sports-club">
+
+<p class="kicker">Pass sport à prix fixe</p>
+
+<h2 id="urban-sports-club-troyes">Urban Sports Club à Troyes</h2>
+
+Urban Sports Club est aussi présent à Troyes. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. L’abonnement mensuel se résilie avec 3 jours de préavis. Les lieux à Troyes sont dans l’application d’Urban Sports Club.
+
+[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+
+</div>
+
 ## Questions fréquentes
 
 <details open>

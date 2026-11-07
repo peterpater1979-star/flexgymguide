@@ -19,10 +19,11 @@ Pas envie de t'engager un an dans une seule salle ? À Paris, tu peux aussi t'en
 | | Résiliation | Prix | Idéal pour |
 | --- | --- | --- | --- |
 | **ClassPass** | À tout moment, sans préavis | Abonnement standard 75 € par mois (47 crédits) ; plus petits dans l'appli | Varier les cours et les salles dans tout Paris |
+| **Urban Sports Club** | Abonnement mensuel : préavis de 3 jours | Essential 29 €, Classic 64 €, Premium 104 €, Max 154 € par mois | Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires |
 | **Basic-Fit Flex** | Préavis de 4 semaines, sans durée minimale | À partir de 34,98 € toutes les 4 semaines, plus 19,99 € de frais d'inscription | S'entraîner souvent pour pas cher, souvent 24h/24 |
 | **Cours à l'unité ou carte** | Pas besoin | Selon le studio | Un cours de temps en temps dans ton studio préféré |
 
-<p class="klein">Prix d'octobre 2026. ClassPass : lieu Paris. Basic-Fit : prix nationaux en France. Vérifie toujours le prix actuel auprès du prestataire.</p>
+<p class="klein">Prix d'octobre 2026. ClassPass : lieu Paris. Urban Sports Club : abonnement mensuel à Paris (novembre 2026). Basic-Fit : prix nationaux en France. Vérifie toujours le prix actuel auprès du prestataire.</p>
 
 <h2 id="classpass">ClassPass : résiliable à tout moment</h2>
 
@@ -36,6 +37,17 @@ Avec ClassPass, tu reçois chaque mois des crédits pour des cours et des séanc
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
+</div>
+
+<h2 id="urban-sports-club">Urban Sports Club : un prix fixe par mois</h2>
+
+Urban Sports Club est un pass sport avec un prix fixe par mois. Tu fais des check-ins dans des salles et studios partenaires à Paris : salle, yoga, Pilates, boxe, natation et plus, selon ta formule. Avec l'abonnement mensuel, tu résilies avec 3 jours de préavis. L'abonnement annuel, lui, t'engage pour 12 mois.
+
+- **Formules à Paris :** Essential 29 € (4 visites par mois), Classic 64 € (10), Premium 104 € (14) et Max 154 € (18), abonnement mensuel, novembre 2026.
+- **Par lieu :** selon le lieu, tous les jours, ou 4 ou 8 fois par mois, avec un seul check-in par jour.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 <h2 id="basic-fit">Basic-Fit Flex : sans durée minimale</h2>
