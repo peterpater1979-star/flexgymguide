@@ -180,6 +180,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 - Frais d’adhésion : 49 € sans engagement, 30 € avec
 - Espace boxe ou espace réservé aux femmes selon le club
+- Le club du centre est aussi sur ClassPass
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>

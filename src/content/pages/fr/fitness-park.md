@@ -89,7 +89,7 @@ Moins cher, avec plus de 300 clubs en France. Lis [Salle de sport sans engagemen
 
 ### ClassPass
 
-Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Lis [Tout sur ClassPass](/fr/classpass/).
+Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Certains clubs Fitness Park sont aussi sur ClassPass, par exemple à Courbevoie, à Aix-en-Provence (centre) et à Lille. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 
