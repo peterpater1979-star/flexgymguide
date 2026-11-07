@@ -162,3 +162,8 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .prose details.meer-steden summary { cursor: pointer; font-weight: 600; color: var(--accent); padding: .5rem 0; }
 .prose details.meer-steden[open] summary { margin-bottom: 0; }
 .prose details.meer-steden .stedenlijst { margin-top: 0; }
+
+/* Advertentiebanner van een partner (bv. Tradedoubler), met label Pub/Adv. */
+.banner-pub { margin: 1.5rem 0; max-width: 36rem; }
+.banner-pub figcaption { font-size: .75rem; color: var(--muted, #666); margin-bottom: .25rem; }
+.banner-pub img { display: block; width: 100%; height: auto; border-radius: var(--radius); }
