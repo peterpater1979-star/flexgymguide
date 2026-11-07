@@ -91,13 +91,63 @@ Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 
 
 </div>
 
+<p class="meer-aanbieders">Und auch: JOHN REED, clever fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <h2 id="steden">Wo funktioniert ClassPass?</h2>
 
 ClassPass gibt es in Österreich vor allem in Wien, mit Studios unter anderem in Mariahilf, der Inneren Stadt, Landstraße, Neubau und Wieden. Dazu kommen einige Studios in der Umgebung, etwa in Klosterneuburg, Mödling und Baden. Alles über ClassPass und Fitness First in der Hauptstadt liest du im [Stadtguide Wien](/at/wien/). In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 
 <ul class="stedenlijst">
-<li><a href="/at/wien/"><strong>Wien</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
+<li><a href="/at/wien/"><strong>Wien</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · JOHN REED · clever fit · Mrs.Sporty</span></li>
 </ul>
+
+<h2 id="andere">Weitere Fitnessstudios</h2>
+
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+### JOHN REED
+
+Fitnessclubs mit Design, Musik und Kursen, auch in Wien. Flex monatlich kündbar, zum Beispiel 60 € im Monat, plus 40 € Starterpaket.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+### clever fit
+
+Günstige Fitnesskette mit Studios in Wien. Je nach Studio zum Beispiel 39,90 bis 49,90 € im Monat, oft monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+### Mrs.Sporty
+
+Fitnessstudio nur für Frauen mit vielen Clubs in Wien. 30 Minuten Training, kostenloses Probetraining, Preise je Club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
+</div>
 
 ## So funktioniert ClassPass in Österreich
 
