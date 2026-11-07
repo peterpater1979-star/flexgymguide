@@ -30,8 +30,8 @@ Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam. 
 
 | Per 4 weken | Jaarlidmaatschap | Flex (maandelijks opzegbaar) | Wat je krijgt |
 | --- | --- | --- | --- |
-| **Gold** | € 139 | € 169 | Onbeperkt lessen, behalve reformer, wellness en recovery |
-| **Premium** | € 199 | € 229 | Onbeperkt alle lessen, ook reformer, wellness en recovery |
+| **Gold** | € 139 | € 169 | Onbeperkt lessen, behalve reformer, wellness en recovery. 2 weken vooruit boeken, 15% korting op smoothies en merchandise |
+| **Premium** | € 199 | € 229 | Onbeperkt alle lessen, ook reformer, wellness en recovery. 3 weken vooruit boeken, elke maand een vriend meenemen, 25% korting op smoothies en merchandise |
 
 Bij elk lidmaatschap hoort één gratis personal training, die je binnen 60 dagen inplant. Je betaalt per 4 weken, dus 13 keer per jaar. Met Flex betaal je bij Gold ongeveer € 390 per jaar meer dan met een jaarlidmaatschap.
 
@@ -62,7 +62,7 @@ De studio's zijn elke dag open, doordeweeks meestal van 6 of 7 uur 's ochtends t
 - **Flex:** je zegt op elk moment op, met 4 weken opzegtermijn na je lopende betaalperiode.
 - **Jaarlidmaatschap:** je zit 52 weken vast. Daarna loopt je lidmaatschap door, en zeg je op met 4 weken opzegtermijn. Eerder stoppen kost eenmalig € 650 (Gold) of € 850 (Premium).
 - **Hoe:** schriftelijk, per e-mail aan Saints & Stars. Mondeling opzeggen telt niet.
-- **Pauzeren:** met een jaarlidmaatschap pauzeer je twee keer per jaar, samen tot 28 dagen.
+- **Pauzeren:** met Flex pauzeer je zo vaak je wilt. Met een jaarlidmaatschap pauzeer je twee keer per jaar, samen tot 28 dagen.
 - **Bedenktijd:** na je inschrijving heb je 14 dagen bedenktijd. Train je in die tijd al, dan betaal je naar rato.
 
 <h2 id="classpass">Saints & Stars of ClassPass?</h2>
