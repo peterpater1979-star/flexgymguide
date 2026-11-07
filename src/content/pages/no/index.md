@@ -54,7 +54,7 @@ En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finlan
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+<div class="fotokop foto-evo"><span>Treningskjede</span></div>
 
 ### EVO
 

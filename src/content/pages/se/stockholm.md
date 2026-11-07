@@ -48,7 +48,7 @@ Nordisk gymkedja med gym och gruppträning.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Gymkedja</span></div>
+<div class="fotokop foto-nordic-wellness"><span>Gymkedja</span></div>
 
 ### Nordic Wellness
 

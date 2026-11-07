@@ -46,7 +46,7 @@ Nordisk treningskjede med treningssal og gruppetimer.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+<div class="fotokop foto-evo"><span>Treningskjede</span></div>
 
 ### EVO
 

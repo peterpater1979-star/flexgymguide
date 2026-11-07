@@ -9,7 +9,7 @@ crumb: "Activ Fitness"
 kicker: "Anbieter: Fitnesskette"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Fitnessstudio"></div>
+<div class="fotobanner smal foto-activ-fitness" role="img" aria-label="Fitnessstudio"></div>
 
 Activ Fitness ist eine Schweizer Fitnesskette der movemi AG mit über 120 Studios in fast allen Kantonen, davon 16 in Zürich. Du wählst eine Kategorie, die bestimmt, in welchen Studios du trainieren kannst, und dann ein Jahresabo oder ein Abo für einen Monat.
 

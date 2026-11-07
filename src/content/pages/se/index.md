@@ -54,7 +54,7 @@ En nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Fi
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gymkedja</span></div>
+<div class="fotokop foto-nordic-wellness"><span>Gymkedja</span></div>
 
 ### Nordic Wellness
 

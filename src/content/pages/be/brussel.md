@@ -48,7 +48,7 @@ Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Met groepslessen</span></div>
+<div class="fotokop foto-jims"><span>Met groepslessen</span></div>
 
 ### Jims
 

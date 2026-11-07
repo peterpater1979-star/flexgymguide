@@ -10,7 +10,7 @@ crumb: "EVO"
 kicker: "Treningskjede"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Treningssenter"></div>
+<div class="fotobanner smal foto-evo" role="img" aria-label="Treningssenter"></div>
 
 EVO Fitness er en treningskjede med sentre over hele Norge. Medlemskapet har ingen binding, og sentrene er åpne hver dag fra 05 til 24.
 

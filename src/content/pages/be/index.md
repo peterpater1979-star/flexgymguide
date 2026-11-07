@@ -53,7 +53,7 @@ Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 pe
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
+<div class="fotokop foto-jims"><span>Sportschoolketen</span></div>
 
 ### Jims
 

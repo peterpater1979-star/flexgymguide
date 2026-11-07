@@ -35,7 +35,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
+<div class="fotokop foto-activ-fitness"><span>Fitnesskette</span></div>
 
 ### Activ Fitness
 

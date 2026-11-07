@@ -139,6 +139,11 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-on-air { --foto: url(/img/foto/on-air.jpg); }
 .foto-l-appart-fitness { --foto: url(/img/foto/l-appart-fitness.jpg); }
 .foto-anytime-fitness { --foto: url(/img/foto/anytime-fitness.jpg); }
+.foto-the-gym-group { --foto: url(/img/foto/the-gym-group.jpg); }
+.foto-jims { --foto: url(/img/foto/jims.jpg); }
+.foto-nordic-wellness { --foto: url(/img/foto/nordic-wellness.jpg); }
+.foto-evo { --foto: url(/img/foto/evo.jpg); }
+.foto-activ-fitness { --foto: url(/img/foto/activ-fitness.jpg); }
 .foto-urban-sports { --foto: url(/img/foto/urban-sports.jpg); }
 .foto-gewichten { --foto: url(/img/foto/gewichten.jpg); background-position: center 25%; }
 .foto-sporttas { --foto: url(/img/foto/sporttas.jpg); background-position: center 78%; max-width: 72ch; }
