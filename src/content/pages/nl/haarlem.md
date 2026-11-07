@@ -197,7 +197,7 @@ SportCity heeft 4 clubs in Haarlem: Raaks, Spaarneboog, Westergracht en Schalkwi
 | 1 jaar | € 54,99 | € 57,99 |
 | 2 jaar | € 52,99 | € 54,99 |
 
-Bij Flex betaal je € 9,99 inschrijfgeld, in plaats van de gewone € 14,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Andere clubs kunnen goedkoper of duurder zijn. Meer in [Alles over SportCity](/nl/sportcity/).
+Bij Flex betaal je € 14,99 inschrijfgeld. Andere clubs kunnen goedkoper of duurder zijn. Meer in [Alles over SportCity](/nl/sportcity/).
 
 <p class="klein">Bron: de inschrijfpagina van SportCity Haarlem Raaks en sportcity.nl/haarlem (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
 

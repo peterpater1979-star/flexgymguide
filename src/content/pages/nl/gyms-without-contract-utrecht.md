@@ -81,7 +81,7 @@ This is what City Plus prices looked like in October 2026 at SportCity Utrecht W
 | 1 year | €57.99 |
 | 2 years | €54.99 |
 
-With Flex you pay a €9.99 joining fee instead of the usual €14.99. Prices differ a lot per club: at Amsterdam Lijnbaansgracht, City Plus Flex was €39.99 per 4 weeks. City One is cheaper; check your club's price on the SportCity website. Want to try first? You can ask the club for a day pass.
+With Flex you pay a €14.99 joining fee. Prices differ a lot per club: at Amsterdam Lijnbaansgracht, City Plus Flex was €39.99 per 4 weeks. City One is cheaper; check your club's price on the SportCity website. Want to try first? You can ask the club for a day pass.
 
 <p class="klein">Source: sportcity.nl/lidmaatschap and the sign-up pages for Utrecht Wonderwoods and Amsterdam Lijnbaansgracht (October 2026). Always check the current price with SportCity. Cancelling: see <a href="/nl/cancel-sportcity/">Cancelling SportCity</a>.</p>
 
