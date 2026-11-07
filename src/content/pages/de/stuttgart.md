@@ -60,7 +60,7 @@ Günstige Fitnesskette mit über 230 Studios, auch in Stuttgart. Flex ohne feste
 
 </div>
 
-<p class="meer-aanbieders">Und auch: Basic-Fit und JOHN REED. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: Basic-Fit, JOHN REED und clever fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="ueberblick">
 
@@ -228,6 +228,20 @@ JOHN REED hat einen neuen Club in Stuttgart, mit Design, Musik und Kursen. Flex 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Stuttgart ein Studio in Vaihingen. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
 
 </div>

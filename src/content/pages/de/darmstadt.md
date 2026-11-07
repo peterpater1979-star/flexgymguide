@@ -48,6 +48,8 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 </div>
 
+<p class="meer-aanbieders">Und auch: clever fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <div id="ueberblick">
 
 ## ClassPass und Fitness First auf einen Blick
@@ -161,6 +163,28 @@ Neu bei ClassPass? Du startest mit einem Monat gratis und 10 Workouts.
 4. **Am Ende** bekommst du eine Erinnerung per E-Mail. Kündigst du nicht, wechselst du ins Standard-Abo in Darmstadt: 42 Credits für 59 € im Monat.
 
 Das Probeangebot gilt nur für neue Mitglieder. Alles zu den Regeln liest du unter [ClassPass Probezeit](/de/classpass-probezeit/).
+
+<h2 id="andere">Weitere Fitnessstudios in Darmstadt</h2>
+
+<div class="kolommen vier">
+
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Darmstadt ein Studio in der Pallaswiesenstraße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+</div>
+
+<p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 ## Was passt zu dir?
 
