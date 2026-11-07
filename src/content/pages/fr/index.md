@@ -112,12 +112,11 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 ### Urban Sports Club
 
-Un abonnement à prix fixe par mois, avec des check-ins dans des salles et studios partenaires : salle, yoga, Pilates, boxe, natation et plus. À Paris, Classic, la formule la plus choisie d’après leur site, coûte 75 € par mois pour 10 visites (Essential dès 35 €). Résiliable avec 3 jours de préavis.
+Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires. À Paris, Classic, la formule la plus choisie selon leur site, coûte 75 € par mois pour 10 visites.
 
 - Idéal si tu veux un prix fixe par mois
-- Formules Essential, Classic, Premium et Max
-- Cours en direct en ligne et vidéos à la demande inclus
-- Présent dans de nombreuses villes en France
+- Résiliable avec 3 jours de préavis
+- Cours en ligne et vidéos à la demande inclus
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
