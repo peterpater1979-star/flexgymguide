@@ -58,10 +58,10 @@ Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,
 
 ### Fitness Park
 
-Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans engagement : Classic 40 €, Access+ 55 € ou Ultimate 60 € toutes les 4 semaines. Avec engagement, c'est 10 € de moins.
+Plus de 300 clubs en France, ouverts 7j/7, certains 24h/24. Sans engagement dès 40 € toutes les 4 semaines, ou 10 € de moins avec engagement.
 
 - Idéal si tu t'entraînes trois fois par semaine ou plus
-- Cours collectifs, et selon le club un espace boxe ou un espace réservé aux femmes
+- Cours collectifs dans ta salle
 - Frais d'adhésion : 49 € sans engagement, 30 € avec
 
 <div class="knoppen">
@@ -94,10 +94,10 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 ### WellNess Sport Club
 
-12 clubs à Paris, Lyon, Marseille, Aix-en-Provence, Nantes, Grenoble et Clermont-Ferrand, tous sans engagement. Hors Paris, Liberté coûte 59 € par mois (Express 54 €), à Paris 79 € (Express 69 €), plus une licence et un dépôt de garantie.
+12 clubs dans 7 villes, tous sans engagement. Hors Paris dès 54 € par mois, à Paris dès 69 €, plus une licence et un dépôt de garantie.
 
 - Idéal si tu veux beaucoup de cours collectifs dans ta salle
-- Cours aquatiques et espace bien-être avec sauna et hammam
+- Cours aquatiques, sauna et hammam
 - Tarif étudiant pour les moins de 26 ans
 
 <div class="knoppen">
