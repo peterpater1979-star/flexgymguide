@@ -284,6 +284,12 @@ Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit Clubs in vielen Wiener Bez
 
 </div>
 
+| Anbieter | Preis pro Monat | Laufzeit | In Wien |
+| --- | --- | --- | --- |
+| **[JOHN REED](/at/john-reed/)** | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Clubs in Wien |
+| **[clever fit](/at/clever-fit/)** | Je nach Studio, zum Beispiel 39,90 bis 49,90 € | Meist monatlich kündbar oder 6 bis 24 Monate | Mehrere Studios, u. a. Brigittenau |
+| **[Mrs.Sporty](/at/mrs-sporty/)** | Je nach Club | Je nach Club | Rund 16 Clubs |
+
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 ## Was passt zu dir?

@@ -184,6 +184,10 @@ clever fit hat in Darmstadt ein Studio in der Pallaswiesenstraße. Preise je nac
 
 </div>
 
+| Anbieter | Preis pro Monat | Laufzeit | In Darmstadt |
+| --- | --- | --- | --- |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
+
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 ## Was passt zu dir?

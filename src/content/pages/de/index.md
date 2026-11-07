@@ -89,6 +89,23 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 </div>
 
+<h2 id="ueberblick">Alle Anbieter auf einen Blick</h2>
+
+<p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
+
+| Anbieter | Art | Preis pro Monat | Laufzeit | Standorte |
+| --- | --- | --- | --- | --- |
+| **[ClassPass](/de/classpass/)** | Sportpass mit Credits | Standard-Abo 59 € (42 Credits) | Jederzeit kündbar | Studios in allen Städten aus unserem Ratgeber |
+| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 220 Clubs in Deutschland |
+| **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | Über 230 Studios in Europa |
+| **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
+| **[clever fit](/de/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Über 500 Studios in Deutschland und Europa |
+| **[FitX](/de/fitx/)** | Günstige Fitnesskette | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | Über 110 Studios in Deutschland |
+| **[Basic-Fit](/de/basic-fit/)** | Günstige Fitnesskette | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | Fast 100 Clubs in Deutschland |
+| **[JOHN REED](/de/john-reed/)** | Fitnessclub | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 47 Clubs in 8 Ländern |
+| **[EASYFITNESS](/de/easyfitness/)** | Fitnesskette | Ab 27,99 € | Flex, 12 oder 24 Monate | Über 200 Studios in Deutschland |
+| **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
+
 <p class="meer-aanbieders">Und auch: clever fit, FitX, Basic-Fit, JOHN REED, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="steden">

@@ -248,6 +248,12 @@ JOHN REED hat in Dortmund einen Club in der Gartenstadt, mit Design, Musik und K
 
 </div>
 
+| Anbieter | Preis pro Monat | Laufzeit | In Dortmund |
+| --- | --- | --- | --- |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 3 Studios |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club (Gartenstadt) |
+
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 ## Was passt zu dir?

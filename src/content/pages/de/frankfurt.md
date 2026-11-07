@@ -234,6 +234,11 @@ clever fit hat in Frankfurt ein Studio in Höchst. Preise je nach Studio, zum Be
 
 </div>
 
+| Anbieter | Preis pro Monat | Laufzeit | In Frankfurt |
+| --- | --- | --- | --- |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Höchst) |
+
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 ## Was passt zu dir?
