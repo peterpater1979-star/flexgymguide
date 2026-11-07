@@ -65,12 +65,12 @@ ROD, ce sont des cours à haute intensité en petits groupes : HYROX Training, b
 
 Les clubs sont ouverts 7j/7, et les jours fériés aux horaires du dimanche (sauf le 1er janvier, le 1er mai et le 25 décembre).
 
-<h2 id="resilier">Résilier</h2>
+<h2 id="resilier">Suspendre et résilier</h2>
 
-- **Liberté (sans engagement)** : tu résilies quand tu veux, avec un préavis d’un mois.
-- **Essentiel** : tu es engagé pour 52 semaines.
-- **Comment** : par lettre recommandée avec accusé de réception, au moins 10 jours avant le prélèvement. L’adresse est dans les conditions générales de vente de RITM.
-- Les frais d’inscription ne sont pas remboursés.
+- **Sans engagement (Liberté)** : tu résilies quand tu veux, avec un préavis d’un mois. Selon les conditions générales de vente de RITM, tu peux aussi suspendre ton abonnement chaque mois, sans donner de raison, dans l’application RITM ou à l’accueil. Pendant la suspension, tu ne paies pas.
+- **Avec engagement (Essentiel)** : tu es engagé pour la période initiale et tu ne peux pas suspendre ton abonnement.
+- **Comment résilier** : par lettre recommandée avec accusé de réception, au moins 10 jours avant le prélèvement, à l’adresse indiquée dans les conditions générales de vente. Pendant le mois de préavis, tu peux encore t’entraîner.
+- **À savoir** : les frais d’inscription ne sont jamais remboursés. Le club peut demander une empreinte de carte bancaire, ou sinon un mois de caution. Un badge perdu ou non rendu coûte 15 €.
 
 <h2 id="choix">RITM, WellNess Sport Club ou ClassPass ?</h2>
 
@@ -107,7 +107,7 @@ Idéal si tu aimes varier les studios et que tu fais du sport une à trois fois 
 <details open>
 <summary>RITM est-il sans engagement ?</summary>
 
-Oui, avec l’abonnement Hebdomadaire Liberté. Tu résilies avec un préavis d’un mois. L’abonnement Essentiel t’engage pour 52 semaines.
+Oui, avec l’abonnement Hebdomadaire Liberté. Tu résilies avec un préavis d’un mois, et tu peux suspendre ton abonnement chaque mois dans l’application. L’abonnement Essentiel t’engage pour 52 semaines, sans suspension possible.
 
 </details>
 
