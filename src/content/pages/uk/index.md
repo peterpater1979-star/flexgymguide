@@ -104,6 +104,30 @@ Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on an
 
 </div>
 
+<h2 id="other">Other gyms</h2>
+
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+
+### Anytime Fitness
+
+Small gyms open 24/7, including in London and Manchester. Each club sets its own price, from £39.95 a month in Manchester Central.
+
+- Good if you train at odd hours
+- Access to clubs abroad
+- Rolling monthly at some clubs
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
+</div>
+
+</div>
+
+</div>
+
 ## How ClassPass works in the UK
 
 <div class="kolommen">

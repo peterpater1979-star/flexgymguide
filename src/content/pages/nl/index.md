@@ -113,6 +113,86 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 
 </div>
 
+<h2 id="andere">Andere sportscholen en studio's</h2>
+
+Sportscholen en studio's in een paar steden, met eigen lidmaatschappen.
+
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Boutique studio</span></div>
+
+### Saints & Stars
+
+Lessen in kleine groepen op vier plekken in Amsterdam. Gold vanaf € 139 per 4 weken met een jaar, of per les met credits.
+
+- Goed als je veel lessen wilt
+- Flex: 4 weken opzegtermijn
+- Ook op ClassPass
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/saints-stars/">Alles over Saints & Stars</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Sportschool met lessen</span></div>
+
+### Vondelgym
+
+Drie gyms in Amsterdam met kracht, (kick)boksen, yoga en hardlopen. Regular € 84,50 per 4 weken, alleen gym vanaf € 51,50.
+
+- Goed als je van boksen en kracht houdt
+- Per 4 weken opzegbaar
+- Ook op ClassPass
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/vondelgym/">Alles over Vondelgym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Grote sportschool</span></div>
+
+### BigGym
+
+Grote gyms in 16 plaatsen, onder meer Amsterdam, Rotterdam en Utrecht. Unlimited € 30 tot € 35 per 4 weken met een contract, Flex € 45.
+
+- Goed als je vaak traint
+- Groepslessen en HYROX inbegrepen
+- Opzeggen alleen via de app
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>24 uur open</span></div>
+
+### Anytime Fitness
+
+Kleine sportscholen die dag en nacht open zijn, onder meer in Amsterdam, Rotterdam en Den Haag. Elke club bepaalt zelf de prijs.
+
+- Goed als je op rare tijden traint
+- Ook clubs in het buitenland
+- Minimaal een halfjaar
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
+</div>
+
+</div>
+
+</div>
+
 ## Zo werkt ClassPass in Nederland
 
 <div class="kolommen">

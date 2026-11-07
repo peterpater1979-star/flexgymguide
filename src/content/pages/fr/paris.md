@@ -223,83 +223,99 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 </div>
 
-<div id="wellness-sport-club">
+<h2 id="autres">Autres salles à Paris</h2>
+
+<div class="kolommen vier">
+
+<div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle tout inclus</p>
 
-<h2 id="wellness-sport-club-paris">WellNess Sport Club à Paris</h2>
+<h3 id="wellness-sport-club-paris">WellNess Sport Club</h3>
 
 À Paris, WellNess Sport Club a deux clubs : Porte Maillot (17e) et République (11e), ouverts 7j/7. C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 79 € par mois, Express 69 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence de 149 € et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 69 € par mois.
 
-[Tout sur WellNess Sport Club](/fr/wellness-sport-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
+</div>
 
 </div>
 
-<div id="ritm">
+<div id="ritm" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle avec cours</p>
 
-<h2 id="ritm-paris">RITM à Paris</h2>
+<h3 id="ritm-paris">RITM</h3>
 
 À Paris, RITM a cinq clubs : Champs-Élysées, Ternes, La Fontaine, La Motte-Picquet et Saint-Germain, et un sixième juste à côté, à Boulogne-Billancourt. Ton abonnement te donne accès aux six clubs, ouverts 7j/7. Tu paies à la semaine : Essentiel 24,99 € avec engagement de 52 semaines, Liberté 29,99 € sans engagement, plus 90 € de frais d’inscription. Pas envie d’un abonnement ? Le pass jour coûte 30 €, le pass mois 179 €. Les cours ROD (HYROX, bootcamp) sont en option, 5 € de plus par semaine. Tu peux aussi aller chez RITM avec ClassPass, à Saint-Germain, aux Champs-Élysées, à Ternes et à Boulogne-Billancourt.
 
-[Tout sur RITM](/fr/ritm/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
+</div>
 
 </div>
 
-<div id="l-orange-bleue">
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle avec coachs</p>
 
-<h2 id="l-orange-bleue-paris">L’Orange bleue à Paris</h2>
+<h3 id="l-orange-bleue-paris">L’Orange bleue</h3>
 
 L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche banlieue : Montrouge, Vanves, Clichy et Villejuif. C’est une salle avec un coach toujours présent et des cours collectifs illimités. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants). Séance d’essai gratuite.
 
-[Tout sur L’Orange bleue](/fr/l-orange-bleue/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
+</div>
 
 </div>
 
-<div id="on-air">
+<div id="on-air" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle haut de gamme</p>
 
-<h2 id="on-air-paris">ON AIR à Paris</h2>
+<h3 id="on-air-paris">ON AIR</h3>
 
 À Paris, ON AIR a six clubs : Voltaire (11e), Daumesnil (12e), BNF (13e), Montparnasse (14e), Clignancourt (18e) et Flandre (19e), et beaucoup d’autres en banlieue. C’est une grande salle haut de gamme, sans engagement annuel, avec 8 semaines de préavis. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel. Ta carte marche dans tous les clubs ON AIR.
 
-[Tout sur ON AIR](/fr/on-air/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
 
 </div>
 
-<div id="l-appart-fitness">
+<div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle avec cours</p>
 
-<h2 id="l-appart-fitness-paris">L’Appart Fitness à Paris</h2>
+<h3 id="l-appart-fitness-paris">L’Appart Fitness</h3>
 
 À Paris, L’Appart Fitness a des salles à Bastille (11e), Charléty (13e), dans le 18e et le 19e, et aussi à Malakoff. C’est une salle avec cours collectifs, ouverte 7j/7 de 6h à 23h. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription. Étudiant ? Tu paies 5 € de moins.
 
-[Tout sur L’Appart Fitness](/fr/l-appart-fitness/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
 
 </div>
 
-<div id="gigafit">
+<div id="gigafit" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle de sport</p>
 
-<h2 id="gigafit-paris">Gigafit à Paris</h2>
+<h3 id="gigafit-paris">Gigafit</h3>
 
 À Paris, Gigafit a des clubs dans le 18e (rue Ordener) et le 19e (rue Petit), et juste à côté à Gennevilliers, avec une formule sans engagement à 40 € toutes les 4 semaines. À Paris, Gigafit est aussi sur ClassPass. Chaque club fixe ses prix : en général de 30 à 50 € toutes les 4 semaines, le plus souvent avec engagement d’un an, plus 39 € de frais d’inscription. Ouvert 7j/7 de 6h à 23h.
 
-[Tout sur Gigafit](/fr/gigafit/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
+</div>
 
 </div>
 
-<div id="liberty-gym">
+<div id="liberty-gym" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Salle de sport</p>
 
-<h2 id="liberty-gym-paris">Liberty Gym à Paris</h2>
+<h3 id="liberty-gym-paris">Liberty Gym</h3>
 
 Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la salle, ouverte 7j/7 de 6h à 23h. Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines, sans engagement. Famille et étudiants : 19,95 € par personne, avec engagement d’un an. En plus, tu paies 49 € de frais d’adhésion et 10 € par an pour le matériel. Sans abonnement : 79 € pour un mois, 149 € pour 3 mois. Liberty Gym a surtout des salles dans l’Est de la France, et ton abonnement marche dans toutes.
 
@@ -307,15 +323,19 @@ Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la 
 
 </div>
 
-<div id="urban-sports-club">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <p class="kicker">Pass sport à prix fixe</p>
 
-<h2 id="urban-sports-club-paris">Urban Sports Club à Paris</h2>
+<h3 id="urban-sports-club-paris">Urban Sports Club</h3>
 
 Urban Sports Club est aussi présent à Paris. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports. À Paris, l’abonnement mensuel commence à 35 € par mois (Essential). L’abonnement mensuel se résilie avec 3 jours de préavis. Tu trouves les lieux à Paris dans l’application.
 
-[Tout sur Urban Sports Club](/fr/urban-sports-club/)
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

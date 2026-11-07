@@ -116,7 +116,7 @@ También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. 
 
 Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pase deportivo con precio fijo.
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
