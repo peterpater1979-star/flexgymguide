@@ -23,6 +23,7 @@ Pas envie de t'engager un an dans une seule salle ? À Paris, tu peux aussi t'en
 | **WellNess Sport Club** | Sans engagement ; la date de fin dépend des conditions générales | Liberté 79 €, Express 69 € par mois, plus licence et dépôt de garantie de 2 mois | Une salle tout inclus avec cours, cours aquatiques et espace bien-être
 | **RITM Liberté** | Préavis d'un mois | 29,99 € par semaine, plus 90 € de frais d'inscription ; pass jour 30 €, pass mois 179 € | Une salle avec cours dans 6 clubs, ou un pass sans abonnement
 | **ON AIR** | Préavis de 8 semaines | Dès 31,96 € toutes les 4 semaines, plus 50 € de frais d'inscription et 10 € par an | Une grande salle haut de gamme, six clubs dans Paris |
+| **Club Maillot et Club Grenelle** | Préavis d'un mois | 79 € par mois, plus 50 € de frais d'inscription ; pass 30 jours 158 € | Deux clubs haut de gamme dans le 15e et le 17e |
 | **Basic-Fit Flex** | Préavis de 4 semaines, sans durée minimale | À partir de 34,98 € toutes les 4 semaines, plus 19,99 € de frais d'inscription | S'entraîner souvent pour pas cher, souvent 24h/24 |
 | **Cours à l'unité ou carte** | Pas besoin | Selon le studio | Un cours de temps en temps dans ton studio préféré |
 
@@ -77,6 +78,16 @@ RITM a six clubs à Paris et Boulogne-Billancourt, ouverts 7j/7. Avec l'abonneme
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
 </div>
+
+<h2 id="club-maillot-grenelle">Club Maillot et Club Grenelle : deux clubs haut de gamme</h2>
+
+Club Maillot (17e, près de la porte Maillot) et Club Grenelle (15e) sont deux clubs haut de gamme du même groupe, les anciens clubs CMG Sports Club. Avec l'abonnement mensuel, tu as accès aux deux clubs pour 79 € par mois, sans engagement, avec un préavis d'un mois. Tu ajoutes 50 € de frais d'inscription.
+
+- **À l'année :** 799 € pour 12 mois, frais d'inscription offerts.
+- **Sans abonnement :** pass 30 jours 158 €, accès à la journée 30 €.
+- **Avec ClassPass :** Club Maillot est aussi sur ClassPass, voir [ClassPass à Paris](/fr/classpass-paris/).
+
+<p class="klein">Source : clubgrenelle.com (novembre 2026). Vérifie toujours les prix actuels avec le club.</p>
 
 <h2 id="basic-fit">Basic-Fit Flex : sans durée minimale</h2>
 
