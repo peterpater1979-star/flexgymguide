@@ -98,14 +98,14 @@ Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 
 | Anbieter | Art | Preis pro Monat | Laufzeit | In Österreich |
 | --- | --- | --- | --- | --- |
 | **[ClassPass](/at/classpass/)** | Sportpass mit Credits | Je nach Zahl der Credits | Jederzeit kündbar | Vor allem Wien und Umgebung |
-| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 4 Clubs in und um Wien, 1 bei Graz |
-| **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 3 Clubs in Wien |
 | **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex ab 34,90 €, mit 12 Monaten ab 24,90 € | Flex oder 12 Monate | Mehrere Studios in Wien |
-| **[JOHN REED](/at/john-reed/)** | Fitnessclub | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Wien, Linz, Salzburg |
 | **[clever fit](/at/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 39,90 bis 49,90 € | Meist monatlich kündbar oder 6 bis 24 Monate | Studios in Wien und ganz Österreich |
+| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 4 Clubs in und um Wien, 1 bei Graz |
+| **[JOHN REED](/at/john-reed/)** | Fitnessclub | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Wien, Linz, Salzburg |
 | **[Mrs.Sporty](/at/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Rund 50 Clubs, viele in Wien |
+| **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 3 Clubs in Wien |
 
-<p class="meer-aanbieders">Und auch: JOHN REED, clever fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: clever fit, JOHN REED und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <h2 id="steden">Wo funktioniert ClassPass?</h2>
 

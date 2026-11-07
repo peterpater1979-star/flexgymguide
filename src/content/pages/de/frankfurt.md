@@ -60,7 +60,7 @@ Günstige Fitnesskette mit über 230 Studios, auch in Frankfurt. Flex ohne feste
 
 </div>
 
-<p class="meer-aanbieders">Und auch: Basic-Fit und clever fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: clever fit und Basic-Fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="ueberblick">
 
@@ -204,20 +204,6 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 <div class="kolommen vier">
 
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>Basic-Fit</h3>
-
-Basic-Fit hat in Frankfurt Clubs am Grüneburgweg und an der Europa-Allee. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
-</div>
-
-</div>
-
 <div id="clever-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
@@ -232,12 +218,26 @@ clever fit hat in Frankfurt ein Studio in Höchst. Preise je nach Studio, zum Be
 
 </div>
 
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Frankfurt Clubs am Grüneburgweg und an der Europa-Allee. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
 </div>
 
 | Anbieter | Preis pro Monat | Laufzeit | In Frankfurt |
 | --- | --- | --- | --- |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Höchst) |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

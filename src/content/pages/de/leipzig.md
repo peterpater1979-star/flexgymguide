@@ -60,7 +60,7 @@ Günstige Fitnesskette mit über 230 Studios, auch in Leipzig. Flex ohne feste L
 
 </div>
 
-<p class="meer-aanbieders">Und auch: FitX, JOHN REED und clever fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: clever fit, FitX und JOHN REED. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="ueberblick">
 
@@ -204,6 +204,20 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 <div class="kolommen vier">
 
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Leipzig ein Studio in der Holzhäuser Straße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
 <div id="fitx" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
@@ -232,27 +246,13 @@ JOHN REED hat einen Club in Leipzig, mit Design, Musik und Kursen. Flex ist mona
 
 </div>
 
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Leipzig ein Studio in der Holzhäuser Straße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
-</div>
-
-</div>
-
 </div>
 
 | Anbieter | Preis pro Monat | Laufzeit | In Leipzig |
 | --- | --- | --- | --- |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 2 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club |
-| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

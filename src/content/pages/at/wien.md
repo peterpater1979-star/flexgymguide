@@ -74,7 +74,7 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Wien.
 
 </div>
 
-<p class="meer-aanbieders">Und auch: JOHN REED, clever fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: clever fit, JOHN REED und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="ueberblick">
 
@@ -240,20 +240,6 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 3 Clubs in Wien. Die Cl
 
 <div class="kolommen vier">
 
-<div id="john-reed" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
-
-<h3>JOHN REED</h3>
-
-JOHN REED hat Clubs in Wien, mit Design, Musik und Kursen. Flex ist monatlich kündbar, zum Beispiel 60 € im Monat in Cluster 2, plus 40 € Starterpaket.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/at/john-reed/">Alles über JOHN REED</a>
-</div>
-
-</div>
-
 <div id="clever-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
@@ -264,6 +250,20 @@ clever fit hat Studios in Wien, unter anderem in der Brigittenau. Je nach Studio
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/at/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat Clubs in Wien, mit Design, Musik und Kursen. Flex ist monatlich kündbar, zum Beispiel 60 € im Monat in Cluster 2, plus 40 € Starterpaket.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/john-reed/">Alles über JOHN REED</a>
 </div>
 
 </div>
@@ -286,8 +286,8 @@ Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit Clubs in vielen Wiener Bez
 
 | Anbieter | Preis pro Monat | Laufzeit | In Wien |
 | --- | --- | --- | --- |
-| **[JOHN REED](/at/john-reed/)** | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Clubs in Wien |
 | **[clever fit](/at/clever-fit/)** | Je nach Studio, zum Beispiel 39,90 bis 49,90 € | Meist monatlich kündbar oder 6 bis 24 Monate | Mehrere Studios, u. a. Brigittenau |
+| **[JOHN REED](/at/john-reed/)** | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Clubs in Wien |
 | **[Mrs.Sporty](/at/mrs-sporty/)** | Je nach Club | Je nach Club | Rund 16 Clubs |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>

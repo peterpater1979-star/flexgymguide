@@ -74,7 +74,7 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 6 Clubs in Berlin.
 
 </div>
 
-<p class="meer-aanbieders">Und auch: FitX, Basic-Fit, JOHN REED, clever fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: clever fit, FitX, JOHN REED, Basic-Fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="ueberblick">
 
@@ -246,6 +246,20 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 <div class="kolommen drie">
 
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Berlin mehrere Studios, unter anderem in Charlottenburg, Marzahn, Pankow und Zehlendorf. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
 <div id="fitx" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
@@ -256,20 +270,6 @@ FitX hat in Berlin über zehn Studios, unter anderem am Alexanderplatz, in Moabi
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
-</div>
-
-</div>
-
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>Basic-Fit</h3>
-
-Basic-Fit hat in Berlin mehrere Clubs, unter anderem in der Oranienburger Straße und der Gerichtstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>
 
 </div>
@@ -288,16 +288,16 @@ JOHN REED hat in Berlin Clubs in Kreuzberg, Prenzlauer Berg, Friedrichshain, Cha
 
 </div>
 
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
 
-<h3>clever fit</h3>
+<h3>Basic-Fit</h3>
 
-clever fit hat in Berlin mehrere Studios, unter anderem in Charlottenburg, Marzahn, Pankow und Zehlendorf. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+Basic-Fit hat in Berlin mehrere Clubs, unter anderem in der Oranienburger Straße und der Gerichtstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>
 
 </div>
@@ -320,10 +320,10 @@ Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Berlin. 
 
 | Anbieter | Preis pro Monat | Laufzeit | In Berlin |
 | --- | --- | --- | --- |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | Über zehn Studios |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | Mehrere Clubs |
-| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | Mehrere Clubs |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Mehrere Studios |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | Über zehn Studios |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | Mehrere Clubs |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | Mehrere Clubs |
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | Mehrere Clubs |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>

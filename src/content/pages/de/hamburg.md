@@ -74,7 +74,7 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 2 Clubs in Hamburg.
 
 </div>
 
-<p class="meer-aanbieders">Und auch: FitX, Basic-Fit, JOHN REED, clever fit, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="ueberblick">
 
@@ -246,6 +246,20 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 <div class="kolommen drie">
 
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Hamburg ein Studio in Finkenwerder, mit Sauna und Les-Mills-Kursen. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
 <div id="fitx" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
@@ -256,20 +270,6 @@ FitX hat in Hamburg Studios in Altona, Bahrenfeld, Steilshoop und am Flughafen, 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
-</div>
-
-</div>
-
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>Basic-Fit</h3>
-
-Basic-Fit hat in Hamburg einen Club in der Fuhlsbüttler Straße in Barmbek. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>
 
 </div>
@@ -288,16 +288,16 @@ JOHN REED hat in Hamburg Clubs in Harburg und Wandsbek, mit Design, Musik und Ku
 
 </div>
 
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
 
-<h3>clever fit</h3>
+<h3>Basic-Fit</h3>
 
-clever fit hat in Hamburg ein Studio in Finkenwerder, mit Sauna und Les-Mills-Kursen. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+Basic-Fit hat in Hamburg einen Club in der Fuhlsbüttler Straße in Barmbek. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>
 
 </div>
@@ -334,10 +334,10 @@ Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Hamburg.
 
 | Anbieter | Preis pro Monat | Laufzeit | In Hamburg |
 | --- | --- | --- | --- |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 4 Studios |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club (Barmbek) |
-| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 2 Clubs (Harburg, Wandsbek) |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Finkenwerder) |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 4 Studios |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 2 Clubs (Harburg, Wandsbek) |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club (Barmbek) |
 | **[EASYFITNESS](/de/easyfitness/)** | Ab 27,99 € | Flex, 12 oder 24 Monate | 4 Studios |
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | Mehrere Clubs |
 

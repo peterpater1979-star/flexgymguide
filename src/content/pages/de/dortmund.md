@@ -60,7 +60,7 @@ Günstige Fitnesskette mit über 230 Studios, auch in Dortmund. Flex ohne feste 
 
 </div>
 
-<p class="meer-aanbieders">Und auch: FitX, Basic-Fit und JOHN REED. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: FitX, JOHN REED und Basic-Fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="ueberblick">
 
@@ -218,20 +218,6 @@ FitX hat in Dortmund Studios in der Nordstadt, am Phoenix See und in Kley, alle 
 
 </div>
 
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>Basic-Fit</h3>
-
-Basic-Fit hat in Dortmund einen Club in der Schleefstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
-</div>
-
-</div>
-
 <div id="john-reed" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
@@ -246,13 +232,27 @@ JOHN REED hat in Dortmund einen Club in der Gartenstadt, mit Design, Musik und K
 
 </div>
 
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Dortmund einen Club in der Schleefstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
 </div>
 
 | Anbieter | Preis pro Monat | Laufzeit | In Dortmund |
 | --- | --- | --- | --- |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 3 Studios |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club (Gartenstadt) |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

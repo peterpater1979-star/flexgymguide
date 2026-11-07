@@ -60,7 +60,7 @@ Günstige Fitnesskette mit über 230 Studios, auch in Stuttgart. Flex ohne feste
 
 </div>
 
-<p class="meer-aanbieders">Und auch: Basic-Fit, JOHN REED und clever fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: clever fit, JOHN REED und Basic-Fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="ueberblick">
 
@@ -204,16 +204,16 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 <div class="kolommen vier">
 
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
 
-<h3>Basic-Fit</h3>
+<h3>clever fit</h3>
 
-Basic-Fit hat in Stuttgart einen Club in der Wiener Straße in Feuerbach. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+clever fit hat in Stuttgart ein Studio in Vaihingen. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
 
 </div>
@@ -232,16 +232,16 @@ JOHN REED hat einen neuen Club in Stuttgart, mit Design, Musik und Kursen. Flex 
 
 </div>
 
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
 
-<h3>clever fit</h3>
+<h3>Basic-Fit</h3>
 
-clever fit hat in Stuttgart ein Studio in Vaihingen. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+Basic-Fit hat in Stuttgart einen Club in der Wiener Straße in Feuerbach. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>
 
 </div>
@@ -250,9 +250,9 @@ clever fit hat in Stuttgart ein Studio in Vaihingen. Preise je nach Studio, zum 
 
 | Anbieter | Preis pro Monat | Laufzeit | In Stuttgart |
 | --- | --- | --- | --- |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club (Feuerbach) |
-| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Vaihingen) |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club (Feuerbach) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
