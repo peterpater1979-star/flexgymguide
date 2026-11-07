@@ -20,9 +20,8 @@ Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnem
 | --- | --- |
 | **Type** | Pass sport avec un prix fixe par mois |
 | **Formules** | Essential, Classic, Premium et Max |
-| **Prix à Paris** | Dès 29 € par mois (Essential, abonnement mensuel) |
+| **Prix à Paris** | Dès 35 € par mois (Essential, abonnement mensuel) |
 | **Préavis** | 3 jours pour l’abonnement mensuel |
-| **Abonnement annuel** | Possible, 12 mois, facturé chaque mois |
 | **Villes** | Paris et de nombreuses autres villes en France |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Lieux partenaires dans d’autres pays européens |
 
@@ -32,10 +31,10 @@ Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnem
 
 | Formule | Prix par mois | Visites par mois |
 | --- | --- | --- |
-| **Essential** | 29 € | 4 |
-| **Classic** | 64 € | 10 |
-| **Premium** | 104 € | 14, avec plus de lieux (dont un massage) |
-| **Max** | 154 € | 18, avec le plus de lieux (dont deux massages) |
+| **Essential** | 35 € | 4 |
+| **Classic** | 75 € | 10 |
+| **Premium** | 115 € | 14, avec plus de lieux (dont un massage) |
+| **Max** | 165 € | 18, avec le plus de lieux (dont deux massages) |
 
 Prix de l’abonnement mensuel à Paris en novembre 2026. Selon le lieu, tu peux y aller tous les jours, ou 4 ou 8 fois par mois. Un seul check-in par lieu et par jour. Ce que chaque formule comprend exactement est indiqué sur le site d’Urban Sports Club.
 
@@ -63,7 +62,7 @@ Prix de l’abonnement mensuel à Paris en novembre 2026. Selon le lieu, tu peux
 
 - Les lieux disponibles dépendent de ta formule
 - Le nombre de visites par lieu peut être limité
-- Avec l’abonnement annuel, pas de pause ni de formule inférieure en cours de route
+- Résiliable avec 3 jours de préavis avant le renouvellement
 
 </div>
 
@@ -117,10 +116,9 @@ Urban Sports Club a des lieux partenaires entre autres dans ces villes :
 
 Toutes les villes et tous les lieux sont sur [urbansportsclub.com](https://urbansportsclub.com/fr).
 
-<h2 id="resilier">Résilier ou changer de formule</h2>
+<h2 id="resilier">Résilier</h2>
 
 - **Abonnement mensuel** : préavis de 3 jours avant la fin du mois d’abonnement.
-- **Abonnement annuel** : engagement de 12 mois, résiliation au plus tard 3 jours avant le renouvellement. Ensuite, il devient un abonnement mensuel.
 - **Rétractation** : 14 jours après l’inscription, sans donner de raison.
 
 ## Questions fréquentes
@@ -128,14 +126,14 @@ Toutes les villes et tous les lieux sont sur [urbansportsclub.com](https://urban
 <details open>
 <summary>Combien coûte Urban Sports Club en France ?</summary>
 
-À Paris, l’abonnement mensuel coûte 29 € (Essential), 64 € (Classic), 104 € (Premium) ou 154 € (Max) par mois (novembre 2026). Dans d’autres villes, le prix peut être différent : regarde les prix de ta ville sur le site d’Urban Sports Club.
+À Paris, l’abonnement mensuel coûte 35 € (Essential), 75 € (Classic), 115 € (Premium) ou 165 € (Max) par mois (novembre 2026). Dans d’autres villes, le prix peut être différent : regarde les prix de ta ville sur le site d’Urban Sports Club.
 
 </details>
 
 <details>
 <summary>Urban Sports Club est-il sans engagement ?</summary>
 
-Oui, avec l’abonnement mensuel : tu résilies avec 3 jours de préavis. L’abonnement annuel t’engage pour 12 mois.
+Oui, avec l’abonnement mensuel : tu résilies avec 3 jours de préavis avant le renouvellement.
 
 </details>
 

@@ -19,7 +19,7 @@ Pas envie de t'engager un an dans une seule salle ? À Paris, tu peux aussi t'en
 | | Résiliation | Prix | Idéal pour |
 | --- | --- | --- | --- |
 | **ClassPass** | À tout moment, sans préavis | Abonnement standard 75 € par mois (47 crédits) ; plus petits dans l'appli | Varier les cours et les salles dans tout Paris |
-| **Urban Sports Club** | Abonnement mensuel : préavis de 3 jours | Essential 29 €, Classic 64 €, Premium 104 €, Max 154 € par mois | Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires |
+| **Urban Sports Club** | Abonnement mensuel : préavis de 3 jours | Essential 35 €, Classic 75 €, Premium 115 €, Max 165 € par mois | Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires |
 | **Basic-Fit Flex** | Préavis de 4 semaines, sans durée minimale | À partir de 34,98 € toutes les 4 semaines, plus 19,99 € de frais d'inscription | S'entraîner souvent pour pas cher, souvent 24h/24 |
 | **Cours à l'unité ou carte** | Pas besoin | Selon le studio | Un cours de temps en temps dans ton studio préféré |
 
@@ -41,9 +41,9 @@ Avec ClassPass, tu reçois chaque mois des crédits pour des cours et des séanc
 
 <h2 id="urban-sports-club">Urban Sports Club : un prix fixe par mois</h2>
 
-Urban Sports Club est un pass sport avec un prix fixe par mois. Tu fais des check-ins dans des salles et studios partenaires à Paris : salle, yoga, Pilates, boxe, natation et plus, selon ta formule. Avec l'abonnement mensuel, tu résilies avec 3 jours de préavis. L'abonnement annuel, lui, t'engage pour 12 mois.
+Urban Sports Club est un pass sport avec un prix fixe par mois. Tu fais des check-ins dans des salles et studios partenaires à Paris : salle, yoga, Pilates, boxe, natation et plus, selon ta formule. Avec l'abonnement mensuel, tu résilies avec 3 jours de préavis.
 
-- **Formules à Paris :** Essential 29 € (4 visites par mois), Classic 64 € (10), Premium 104 € (14) et Max 154 € (18), abonnement mensuel, novembre 2026.
+- **Formules à Paris :** Essential 35 € (4 visites par mois), Classic 75 € (10), Premium 115 € (14) et Max 165 € (18), abonnement mensuel, novembre 2026.
 - **Par lieu :** selon le lieu, tous les jours, ou 4 ou 8 fois par mois, avec un seul check-in par jour.
 
 <div class="knoppen">
