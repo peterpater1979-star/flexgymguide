@@ -23,6 +23,7 @@ Just moved to Amsterdam, here for a few months, or not sure where you will live 
 | **Trainmore Flex** | Monthly | €74 to €116 per 4 weeks, depending on the club | Premium gym with group classes, for frequent training <details class="cel"><summary>Flex or contract?</summary>A 1-year contract is €20 per 4 weeks cheaper than Flex, 2 years €27. And once you're committed, you often go more often too. Only a contract also gets you €1 off per workout. For example at Koningin Wilhelminaplein: Flex €104, 1 year €84, 2 years €77 per 4 weeks. A one-year contract saves you about €260 a year (13 periods of 4 weeks). <a href="#trainmore">All prices</a></details> |
 | **Basic-Fit Flex** | No minimum term, 4 weeks' notice | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, open 24/7 |
 | **SportCity Flex** | Monthly | €37.99 per 4 weeks at Lijnbaansgracht (City One), plus €4.99 joining fee; varies per club | Gym with group classes, day pass available |
+| **Saints & Stars Flex** | 4 weeks' notice | Gold €169 per 4 weeks, Premium €229; credits €15 to €20 per class | Boutique studio with small-group classes, four studios |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Amsterdam. Trainmore: clubs Bos en Lommer, Koningin Wilhelminaplein and Amstelveenseweg, before discount. Basic-Fit: national prices. SportCity: club Lijnbaansgracht. Always check the current price with the provider.</p>
@@ -84,6 +85,12 @@ This is what prices looked like in October 2026 at SportCity Amsterdam Lijnbaans
 With Flex you pay a €4.99 joining fee instead of the usual €9.99. Prices differ a lot per club: at Amsterdam Weteringdwarsstraat, a few minutes away, City One started at €52.99 per 4 weeks. Want to try first? You can ask the club for a day pass.
 
 <p class="klein">Source: sportcity.nl/lidmaatschap, the Weteringdwarsstraat club page and the sign-up page for Lijnbaansgracht (October 2026). Always check the current price with SportCity. Cancelling: see <a href="/nl/cancel-sportcity/">Cancelling SportCity</a>.</p>
+
+<h2 id="saints-stars">Saints & Stars: Flex or pay per class</h2>
+
+Saints & Stars is a boutique studio with four locations in Amsterdam, offering HIIT, boxing, cycling, strength, yoga and reformer Pilates. With Flex you are not tied down: Gold costs €169 and Premium €229 per 4 weeks, with 4 weeks' notice. Don't want a membership at all? Buy credits: from €20 for one class to €15 per class for 20 classes, valid for 12 months.
+
+<p class="klein">Source: saints-stars.com (November 2026). More in <a href="/nl/saints-stars/">Alles over Saints & Stars</a> (in Dutch).</p>
 
 <h2 id="drop-in">Drop-in classes and class cards</h2>
 

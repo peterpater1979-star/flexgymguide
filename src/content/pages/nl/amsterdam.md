@@ -216,6 +216,31 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 </div>
 
+<div id="saints-stars" class="aanbieder">
+
+<p class="kicker">Boutique studio</p>
+
+## Saints & Stars in Amsterdam
+
+Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam: bij het Leidseplein, in Oud-West, Oud-Zuid en De Pijp. Je doet lessen in kleine groepen, van HIIT, boksen en spinning tot yoga en reformer pilates. Gold kost € 139 per 4 weken met een jaarlidmaatschap, of € 169 met Flex. Liever per les? Credits kosten € 15 tot € 20 per les.
+
+### Goed voor
+
+- Meerdere keren per week lessen in kleine groepen
+- Afwisselen tussen kracht, cardio en yoga bij één aanbieder
+
+### Let op
+
+- Duurder dan een gewone sportschool
+- Flex: 4 weken opzegtermijn. Een jaarlidmaatschap eerder stoppen kost € 650 of meer
+- Saints & Stars staat ook op ClassPass
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/saints-stars/">Alles over Saints & Stars</a>
+</div>
+
+</div>
+
 ## Welke past bij jou?
 
 <div class="kolommen">

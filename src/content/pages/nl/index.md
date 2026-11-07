@@ -96,7 +96,7 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars</span></li>
 <li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
 <li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
