@@ -11,7 +11,7 @@ kicker: "Guide pays France"
 
 Pas envie d’un long contrat dans une seule salle de sport ? Avec un pass sport comme ClassPass ou Urban Sports Club, un seul abonnement te donne accès à différents studios et salles. Voici comment ça marche en France, et dans quelles villes.
 
-<h2 id="options">Cinq façons de faire du sport en toute flexibilité</h2>
+<h2 id="options">Six façons de faire du sport en toute flexibilité</h2>
 
 <div class="kolommen">
 
@@ -91,6 +91,24 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-gymketen"><span>Salle tout inclus</span></div>
+
+### WellNess Sport Club
+
+12 clubs à Paris, Lyon, Marseille, Aix-en-Provence, Nantes, Grenoble et Clermont-Ferrand, tous sans engagement. Hors Paris, Liberté coûte 59 € par mois (Express 54 €), à Paris 79 € (Express 69 €), plus une licence et un dépôt de garantie.
+
+- Idéal si tu veux beaucoup de cours collectifs dans ta salle
+- Cours aquatiques et espace bien-être avec sauna et hammam
+- Tarif étudiant pour les moins de 26 ans
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 ### Urban Sports Club
@@ -115,14 +133,14 @@ Un abonnement à prix fixe par mois, avec des check-ins dans des salles et studi
 ## Villes
 
 <ul class="stedenlijst">
-<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
-<li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
-<li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
+<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
+<li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
+<li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
 <li><a href="/fr/bordeaux/"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/nice/"><strong>Nice</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
-<li><a href="/fr/aix-en-provence/"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
+<li><a href="/fr/aix-en-provence/"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
 <li><a href="/fr/toulouse/"><strong>Toulouse</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
-<li><a href="/fr/nantes/"><strong>Nantes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
+<li><a href="/fr/nantes/"><strong>Nantes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
 <li><a href="/fr/lille/"><strong>Lille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/strasbourg/"><strong>Strasbourg</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/montpellier/"><strong>Montpellier</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
@@ -138,7 +156,7 @@ Un abonnement à prix fixe par mois, avec des check-ins dans des salles et studi
 <li><a href="/fr/tours/"><strong>Tours</strong></a> <span class="klein">ClassPass · Basic-Fit · Urban Sports Club</span></li>
 <li><a href="/fr/orleans/"><strong>Orléans</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/dijon/"><strong>Dijon</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · Urban Sports Club</span></li>
-<li><a href="/fr/clermont-ferrand/"><strong>Clermont-Ferrand</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · Urban Sports Club</span></li>
+<li><a href="/fr/clermont-ferrand/"><strong>Clermont-Ferrand</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · WellNess Sport Club · Urban Sports Club</span></li>
 <li><a href="/fr/saint-etienne/"><strong>Saint-Étienne</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/le-havre/"><strong>Le Havre</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · Urban Sports Club</span></li>
 <li><a href="/fr/angers/"><strong>Angers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · Urban Sports Club</span></li>

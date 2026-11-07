@@ -2,7 +2,7 @@
 title: "Salle de sport sans engagement à Paris : les options mois par mois"
 seoTitle: "Salle de sport sans engagement à Paris : mois par mois"
 path: "/fr/salle-de-sport-sans-engagement-paris/"
-description: "Faire du sport à Paris sans engagement d'un an : ClassPass, Basic-Fit Flex et cours à l'unité. Les prix, la résiliation et ce à quoi faire attention."
+description: "Faire du sport à Paris sans engagement d'un an : ClassPass, WellNess Sport Club, Basic-Fit Flex et cours à l'unité. Les prix, la résiliation et ce à quoi faire attention."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -20,10 +20,11 @@ Pas envie de t'engager un an dans une seule salle ? À Paris, tu peux aussi t'en
 | --- | --- | --- | --- |
 | **ClassPass** | À tout moment, sans préavis | Abonnement standard 75 € par mois (47 crédits) ; plus petits dans l'appli | Varier les cours et les salles dans tout Paris |
 | **Urban Sports Club** | Abonnement mensuel : préavis de 3 jours | Essential 35 €, Classic 75 €, Premium 115 €, Max 165 € par mois | Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires |
+| **WellNess Sport Club** | Sans engagement ; la date de fin dépend des conditions générales | Liberté 79 €, Express 69 € par mois, plus licence et dépôt de garantie de 2 mois | Une salle tout inclus avec cours, cours aquatiques et espace bien-être
 | **Basic-Fit Flex** | Préavis de 4 semaines, sans durée minimale | À partir de 34,98 € toutes les 4 semaines, plus 19,99 € de frais d'inscription | S'entraîner souvent pour pas cher, souvent 24h/24 |
 | **Cours à l'unité ou carte** | Pas besoin | Selon le studio | Un cours de temps en temps dans ton studio préféré |
 
-<p class="klein">Prix d'octobre 2026. ClassPass : lieu Paris. Urban Sports Club : abonnement mensuel à Paris (novembre 2026). Basic-Fit : prix nationaux en France. Vérifie toujours le prix actuel auprès du prestataire.</p>
+<p class="klein">Prix d'octobre 2026. ClassPass : lieu Paris. Urban Sports Club : abonnement mensuel à Paris (novembre 2026). WellNess Sport Club : clubs parisiens (novembre 2026). Basic-Fit : prix nationaux en France. Vérifie toujours le prix actuel auprès du prestataire.</p>
 
 <h2 id="classpass">ClassPass : résiliable à tout moment</h2>
 
@@ -48,6 +49,19 @@ C’est un pass sport avec un prix fixe par mois. Tu fais des check-ins dans des
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+<h2 id="wellness-sport-club">WellNess Sport Club : tout inclus, sans engagement</h2>
+
+À Paris, WellNess Sport Club a deux clubs, à Porte Maillot (17e) et à République (11e). Toutes les formules sont sans engagement et comprennent la salle, les cours collectifs, les cours aquatiques et l'espace bien-être avec sauna et hammam.
+
+- **Formules à Paris :** Liberté 79 € par mois, Express 69 € par mois (pas du lundi au jeudi de 11h45 à 13h30 et de 16h45 à 19h30), novembre 2026.
+- **En plus :** une licence (149 € au prix normal, souvent moins pendant les promotions) et un dépôt de garantie de 2 mois.
+- **Étudiants de moins de 26 ans :** 69 € par mois, licence à 49 €.
+- **Résilier :** à l'accueil du club ou par lettre recommandée avec accusé de réception.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
 </div>
 
 <h2 id="basic-fit">Basic-Fit Flex : sans durée minimale</h2>

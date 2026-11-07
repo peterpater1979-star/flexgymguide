@@ -219,6 +219,18 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 </div>
 
+<div id="wellness-sport-club">
+
+<p class="kicker">Salle tout inclus</p>
+
+<h2 id="wellness-sport-club-nantes">WellNess Sport Club à Nantes</h2>
+
+À Nantes, WellNess Sport Club a un club à la Cité des Congrès. C’est une salle tout inclus avec cours collectifs, cours aquatiques et espace bien-être, sans engagement. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi). En plus : une licence (149 € au prix normal) et un dépôt de garantie de 2 mois. Étudiants de moins de 26 ans : 49 € par mois.
+
+[Tout sur WellNess Sport Club](/fr/wellness-sport-club/)
+
+</div>
+
 <div id="urban-sports-club">
 
 <p class="kicker">Pass sport à prix fixe</p>
@@ -322,6 +334,7 @@ Oui, si tu veux : sans engagement, tu paies 44,90 € toutes les 4 semaines. Ave
 - [Faire du sport à Montpellier](/fr/montpellier/)
 - [Tout sur ClassPass](/fr/classpass/)
 - [Tout sur Keepcool](/fr/keepcool/)
+- [Tout sur WellNess Sport Club](/fr/wellness-sport-club/)
 - [Tout sur Fitness Park](/fr/fitness-park/)
 
 </details>

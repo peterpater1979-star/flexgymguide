@@ -3,7 +3,7 @@ title: "Gyms without a contract in Paris: monthly and pay-as-you-go options"
 seoTitle: "Gyms without a contract in Paris: monthly options"
 path: "/fr/gyms-without-contract-paris/"
 vertaling: "/fr/salle-de-sport-sans-engagement-paris/"
-description: "No-contract gyms in Paris: ClassPass, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
+description: "No-contract gyms in Paris: ClassPass, WellNess Sport Club, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: fr
 byline: "Updated October 2026"
@@ -20,10 +20,11 @@ Just moved to Paris, here for a semester, or not sure how long you will stay? Yo
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan €75 a month (47 credits); smaller plans in the app | Variety at studios and gyms all over Paris |
+| **WellNess Sport Club** | No contract; end date per the terms and conditions | Liberté €79, Express €69 a month, plus a licence fee and a 2-month deposit | An all-inclusive gym with classes, aqua classes, sauna and hammam
 | **Basic-Fit Flex** | 4 weeks' notice, no minimum term | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, often open 24/7 |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
-<p class="klein">Prices from October 2026. ClassPass: location Paris. Basic-Fit: national prices in France. Always check the current price with the provider.</p>
+<p class="klein">Prices from October 2026. ClassPass: location Paris. WellNess Sport Club: Paris clubs (November 2026). Basic-Fit: national prices in France. Always check the current price with the provider.</p>
 
 <h2 id="classpass">ClassPass: cancel any time</h2>
 
@@ -37,6 +38,19 @@ With ClassPass you get credits every month for classes and gym visits at studios
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-gyms-without-contract-paris">Try ClassPass</a>
 <a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works</a>
+</div>
+
+<h2 id="wellness-sport-club">WellNess Sport Club: all-inclusive, no contract</h2>
+
+In Paris, WellNess Sport Club has two clubs, at Porte Maillot (17th) and République (11th). Every plan is without a contract and includes the gym floor, group classes, aqua classes and the wellness area with sauna and hammam.
+
+- **Plans in Paris:** Liberté €79 a month, Express €69 a month (no access Monday to Thursday 11:45 to 13:30 and 16:45 to 19:30), November 2026.
+- **On top:** a licence fee (€149 at the normal price, often less during promotions) and a deposit of 2 months.
+- **Students under 26:** €69 a month, licence fee €49.
+- **Cancelling:** at the club reception or by registered letter to your club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">WellNess Sport Club (in French)</a>
 </div>
 
 <h2 id="basic-fit">Basic-Fit Flex: no minimum term</h2>
