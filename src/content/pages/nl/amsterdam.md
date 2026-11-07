@@ -290,6 +290,30 @@ BigGym heeft in Amsterdam een grote gym aan de Oostenburgermiddenstraat, op de O
 
 </div>
 
+<div id="anytime-fitness" class="aanbieder">
+
+<p class="kicker">Sportschool</p>
+
+## Anytime Fitness in Amsterdam
+
+Anytime Fitness heeft in Amsterdam een club op de Zuidas, die 24 uur per dag open is. Met een jaarabonnement kost hij € 53,95 per 4 weken, met een halfjaarabonnement € 58,95. Met je lidmaatschap train je ook in clubs in het buitenland.
+
+### Goed voor
+
+- Trainen op elk moment, ook 's nachts
+- Veel reizen en in het buitenland willen trainen
+
+### Let op
+
+- Je zit minimaal een halfjaar vast, 4 weken opzegtermijn
+- Elke club bepaalt zelf de prijs
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
+</div>
+
+</div>
+
 ## Welke past bij jou?
 
 <div class="kolommen">
