@@ -180,6 +180,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 - Frais d’adhésion : 49 € sans engagement, 30 € avec
 - Espace boxe ou espace réservé aux femmes selon le club
+- Aussi sur ClassPass à Nantes, pour une séance sans abonnement
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>
@@ -237,7 +238,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <h2 id="ritm-nantes">RITM à Nantes</h2>
 
-À Nantes, RITM a deux clubs : Canclaux et Jules Verne. Ton abonnement te donne accès aux deux clubs, ouverts 7j/7. Tu paies à la semaine : Essentiel 12,99 € avec engagement de 52 semaines, Liberté 15,99 € sans engagement, plus 90 € de frais d’inscription. Pas envie d’un abonnement ? Le pass jour coûte 25 €, le pass mois 120 €. Les cours ROD (HYROX, bootcamp) et Aqua sont en option, chacun 4 € de plus par semaine.
+À Nantes, RITM a deux clubs : Canclaux et Jules Verne. Ton abonnement te donne accès aux deux clubs, ouverts 7j/7. Tu paies à la semaine : Essentiel 12,99 € avec engagement de 52 semaines, Liberté 15,99 € sans engagement, plus 90 € de frais d’inscription. Pas envie d’un abonnement ? Le pass jour coûte 25 €, le pass mois 120 €. Les cours ROD (HYROX, bootcamp) et Aqua sont en option, chacun 4 € de plus par semaine. Tu peux aussi aller chez RITM avec ClassPass.
 
 [Tout sur RITM](/fr/ritm/)
 

@@ -65,7 +65,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **[Danse](/go/classpass-fr-nantes-danse/?epi=fgg-fr-classpass-nantes) :** entre autres Echo
 - **[En plein air](/go/classpass-fr-nantes-outdoor/?epi=fgg-fr-classpass-nantes) :** entre autres Echo sur l’île de Nantes
 - **[Course à pied](/go/classpass-fr-nantes-running/?epi=fgg-fr-classpass-nantes) :** entre autres GPC Coaching
-- **[Accès à la salle](/go/classpass-fr-nantes-salle/?epi=fgg-fr-classpass-nantes) :** entre autres Ethik Sport Club et L’Orange Bleue
+- **[Accès à la salle](/go/classpass-fr-nantes-salle/?epi=fgg-fr-classpass-nantes) :** entre autres RITM, Fitness Park, Ethik Sport Club et L’Orange Bleue
 
 <h2 id="bien-etre">Bien-être</h2>
 
