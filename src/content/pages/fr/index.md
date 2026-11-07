@@ -11,7 +11,7 @@ kicker: "Guide pays France"
 
 Pas envie d’un long contrat dans une seule salle de sport ? Avec un pass sport comme ClassPass ou Urban Sports Club, un seul abonnement te donne accès à différents studios et salles. Voici comment ça marche en France, et dans quelles villes.
 
-<h2 id="options">Six façons de faire du sport en toute flexibilité</h2>
+<h2 id="options">ClassPass et les grandes chaînes de salles</h2>
 
 <div class="kolommen">
 
@@ -76,7 +76,7 @@ Plus de 300 clubs en France, ouverts 7j/7, certains 24h/24. Sans engagement dès
 
 ### Keepcool
 
-Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et des cours en petits groupes. Dès 34,99 € toutes les 4 semaines avec engagement d’un an, ou 44,90 € sans engagement.
+Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et des cours en petits groupes. Dès 34,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
 - Idéal si tu veux être accompagné par un coach
 - Cours en petits groupes (Small Groups)
@@ -90,36 +90,18 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle tout inclus</span></div>
+<div class="fotokop foto-gymketen"><span>Salle avec coachs et cours</span></div>
 
-### WellNess Sport Club
+### L’Orange bleue
 
-12 clubs dans 7 villes, tous sans engagement. Hors Paris dès 54 € par mois, à Paris dès 69 €, plus une licence et un dépôt de garantie.
+Environ 400 salles en France, en Espagne et au Portugal selon L’Orange bleue. Dès 35 € toutes les 4 semaines, avec engagement d’un ou deux ans, plus 60 € de frais d’adhésion.
 
-- Idéal si tu veux beaucoup de cours collectifs dans ta salle
-- Cours aquatiques, sauna et hammam
-- Tarif étudiant pour les moins de 26 ans
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-### Urban Sports Club
-
-Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires. À Paris, Classic, la formule la plus choisie selon leur site, coûte 75 € par mois pour 10 visites.
-
-- Idéal si tu veux un prix fixe par mois
-- Résiliable avec 3 jours de préavis
-- Cours en ligne et vidéos à la demande inclus
+- Idéal si tu veux un coach dans la salle
+- Cours collectifs illimités
+- Frais d’adhésion offerts aux étudiants
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
 
 </div>
@@ -184,6 +166,104 @@ Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires
 </details>
 
 ClassPass est aussi présent dans d’autres villes. Dans l’application, tu vois quels studios et salles participent près de chez toi.
+
+</div>
+
+<h2 id="autres">Autres salles et pass sport</h2>
+
+D’autres chaînes, souvent dans moins de villes, et Urban Sports Club, un pass sport à prix fixe.
+
+<div class="kolommen">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Grande salle de sport</span></div>
+
+### ON AIR
+
+Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 31,96 € toutes les 4 semaines, plus 50 € de frais d’inscription.
+
+- Idéal si tu veux beaucoup de matériel
+- Préavis de 8 semaines
+- Accès à tous les clubs ON AIR
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
+
+### L’Appart Fitness
+
+118 salles en France selon L’Appart Fitness, surtout autour de Lyon. 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
+
+- Ouvert 7j/7 de 6h à 23h
+- 5 € de moins pour les étudiants
+- Séance d’essai à 9,99 €
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle tout inclus</span></div>
+
+### WellNess Sport Club
+
+12 clubs dans 7 villes, tous sans engagement. Hors Paris dès 54 € par mois, à Paris dès 69 €, plus une licence et un dépôt de garantie.
+
+- Idéal si tu veux beaucoup de cours collectifs dans ta salle
+- Cours aquatiques, sauna et hammam
+- Tarif étudiant pour les moins de 26 ans
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à Paris et Nantes</span></div>
+
+### RITM
+
+6 clubs à Paris et Boulogne, 2 à Nantes. Tu paies à la semaine : à Paris 24,99 € avec engagement de 52 semaines, ou 29,99 € sans engagement.
+
+- Pass jour, semaine ou mois sans abonnement
+- Option ROD - HYROX
+- À Paris aussi sur ClassPass
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+### Urban Sports Club
+
+Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires. À Paris, Classic, la formule la plus choisie selon leur site, coûte 75 € par mois pour 10 visites.
+
+- Idéal si tu veux un prix fixe par mois
+- Résiliable avec 3 jours de préavis
+- Cours en ligne et vidéos à la demande inclus
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 

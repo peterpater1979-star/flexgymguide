@@ -11,7 +11,7 @@ kicker: "Guía de país España"
 
 ¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass o Urban Sports Club, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
 
-<h2 id="opciones">Cinco formas de entrenar con flexibilidad</h2>
+<h2 id="opciones">ClassPass y las grandes cadenas de gimnasios</h2>
 
 <div class="kolommen">
 
@@ -91,18 +91,18 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+<div class="fotokop foto-gymketen"><span>Gimnasio con monitores</span></div>
 
-### Urban Sports Club
+### L’Orange bleue
 
-Un precio fijo al mes, con check-ins en gimnasios y estudios asociados. En Madrid y Barcelona, Classic, el plan más elegido según su web, cuesta 75 € al mes por 10 visitas.
+Cadena francesa con unos 400 gimnasios según la propia cadena; en España en Madrid, Barcelona y Valencia. Desde 40 € cada 4 semanas, con permanencia de uno o dos años, más 60 € de pack de inicio.
 
-- Ideal si quieres un precio fijo al mes
-- Se cancela con 3 días de preaviso
-- Clases online y vídeos a la carta incluidos
+- Ideal si quieres un monitor en la sala
+- Clases colectivas ilimitadas
+- Pack de inicio gratis para estudiantes
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
 </div>
 
 </div>
@@ -127,6 +127,50 @@ Un precio fijo al mes, con check-ins en gimnasios y estudios asociados. En Madri
 </ul>
 
 También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.
+
+</div>
+
+<h2 id="otros">Otros gimnasios y pases deportivos</h2>
+
+Otras cadenas, en menos ciudades, y Urban Sports Club, un pase deportivo con precio fijo.
+
+<div class="kolommen">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio de gama alta</span></div>
+
+### ON AIR
+
+Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, desde 31,96 € cada 4 semanas, más 30 € de matrícula.
+
+- Ideal si quieres mucho material
+- 4 semanas de preaviso
+- Acceso a todos los clubes ON AIR
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+### Urban Sports Club
+
+Un precio fijo al mes, con check-ins en gimnasios y estudios asociados. En Madrid y Barcelona, Classic, el plan más elegido según su web, cuesta 75 € al mes por 10 visitas.
+
+- Ideal si quieres un precio fijo al mes
+- Se cancela con 3 días de preaviso
+- Clases online y vídeos a la carta incluidos
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 
