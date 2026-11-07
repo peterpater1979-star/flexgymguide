@@ -4,7 +4,7 @@ path: "/de/"
 description: "Ohne langen Vertrag trainieren: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Bedingungen. So findest du, was zu dir passt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Deutschland"
 kicker: "Länderguide Deutschland"
 ---
@@ -89,22 +89,72 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 </div>
 
+<p class="meer-aanbieders">Und auch: FitX, Basic-Fit und JOHN REED. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <div id="steden">
 
 ## Städte
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Basic-Fit</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · Basic-Fit</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First · McFit · FitX · Basic-Fit</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Basic-Fit · JOHN REED</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · FitX · JOHN REED</span></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First · McFit · FitX · JOHN REED</span></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First · McFit · FitX · Basic-Fit · JOHN REED</span></li>
 </ul>
+
+</div>
+
+<h2 id="andere">Weitere Fitnessstudios</h2>
+
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+### FitX
+
+Über 110 Studios in Deutschland, 24 Stunden geöffnet, Kurse inklusive. 29 € im Monat bei 12 Monaten Grundlaufzeit, danach monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+### Basic-Fit
+
+Fast 100 Clubs in Deutschland und über 1.700 in Europa. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex jederzeit kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+### JOHN REED
+
+Fitnessclubs mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatlich kündbar, 60 bis 80 € im Monat je nach Club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
 
 </div>
 

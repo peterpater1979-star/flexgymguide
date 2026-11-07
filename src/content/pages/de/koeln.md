@@ -74,6 +74,8 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 1 Club in Köln.
 
 </div>
 
+<p class="meer-aanbieders">Und auch: Basic-Fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <div id="ueberblick">
 
 ## ClassPass, Fitness First, McFit und Holmes Place auf einen Blick
@@ -239,6 +241,28 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 </div>
 
 </div>
+
+<h2 id="andere">Weitere Fitnessstudios in Köln</h2>
+
+<div class="kolommen vier">
+
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Köln Clubs in der Spichernstraße und der Peter-Huppertz-Straße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
+</div>
+
+<p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 ## Was passt zu dir?
 

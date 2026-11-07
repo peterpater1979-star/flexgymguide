@@ -74,6 +74,8 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Düsseldorf
 
 </div>
 
+<p class="meer-aanbieders">Und auch: FitX und JOHN REED. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <div id="ueberblick">
 
 ## ClassPass, Fitness First, McFit und Holmes Place auf einen Blick
@@ -239,6 +241,42 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 </div>
 
 </div>
+
+<h2 id="andere">Weitere Fitnessstudios in Düsseldorf</h2>
+
+<div class="kolommen vier">
+
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat in Düsseldorf Clubs in Bilk, Friedrichstadt und in den Düsseldorf Arcaden, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+</div>
+
+<p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 ## Was passt zu dir?
 
