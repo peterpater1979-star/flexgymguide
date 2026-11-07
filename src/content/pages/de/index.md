@@ -112,7 +112,7 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 <h2 id="andere">Weitere Fitnessstudios</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div class="kolom kaart aanbiederkaart">
 

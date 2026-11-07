@@ -244,7 +244,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 <h2 id="andere">Weitere Fitnessstudios in Hamburg</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div id="fitx" class="kolom kaart aanbiederkaart">
 
