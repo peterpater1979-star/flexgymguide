@@ -241,6 +241,31 @@ Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam: 
 
 </div>
 
+<div id="vondelgym" class="aanbieder">
+
+<p class="kicker">Sportschool</p>
+
+## Vondelgym in Amsterdam
+
+Vondelgym heeft drie gyms in Amsterdam: aan de Overtoom bij het Vondelpark, aan de Wibautstraat bij het Oosterpark en op de Zuidas. Je traint in de gym of doet mee aan groepslessen, van (kick)boksen en kracht tot yoga en hardlopen. Regular kost € 84,50 per 4 weken, alleen de gym vanaf € 51,50, en studenten betalen € 46,50. Je zegt per 4 weken op.
+
+### Goed voor
+
+- Boksen, kracht en groepslessen in één sportschool
+- Studenten die overdag trainen
+
+### Let op
+
+- Nieuwe leden trainen in één gym; alle drie kost € 15 per 4 weken extra
+- CrossFit en HYROX kosten extra
+- Vondelgym West staat ook op ClassPass
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/vondelgym/">Alles over Vondelgym</a>
+</div>
+
+</div>
+
 ## Welke past bij jou?
 
 <div class="kolommen">

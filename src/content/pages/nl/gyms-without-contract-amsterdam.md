@@ -24,6 +24,7 @@ Just moved to Amsterdam, here for a few months, or not sure where you will live 
 | **Basic-Fit Flex** | No minimum term, 4 weeks' notice | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, open 24/7 |
 | **SportCity Flex** | Monthly | €37.99 per 4 weeks at Lijnbaansgracht (City One), plus €9.99 joining fee; varies per club | Gym with group classes, day pass available |
 | **Saints & Stars Flex** | 4 weeks' notice | Gold €169 per 4 weeks, Premium €229; credits €15 to €20 per class | Boutique studio with small-group classes, four studios |
+| **Vondelgym** | Per 4 weeks, one period notice | Regular €84.50 per 4 weeks, gym only €61.50, students €46.50, plus €15 joining fee; day pass €19.50 | Gym with boxing and group classes, three gyms |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Amsterdam. Trainmore: clubs Bos en Lommer, Koningin Wilhelminaplein and Amstelveenseweg, before discount. Basic-Fit: national prices. SportCity: club Lijnbaansgracht. Always check the current price with the provider.</p>
@@ -91,6 +92,12 @@ With Flex you pay a €9.99 joining fee. Prices differ a lot per club: at Amster
 Saints & Stars is a boutique studio with four locations in Amsterdam, offering HIIT, boxing, cycling, strength, yoga and reformer Pilates. With Flex you are not tied down: Gold costs €169 and Premium €229 per 4 weeks, with 4 weeks' notice. Don't want a membership at all? Buy credits: from €20 for one class to €15 per class for 20 classes, valid for 12 months.
 
 <p class="klein">Source: saints-stars.com (November 2026). More in <a href="/nl/saints-stars/">Alles over Saints & Stars</a> (in Dutch).</p>
+
+<h2 id="vondelgym">Vondelgym: per 4 weeks, or with a pass</h2>
+
+Vondelgym has three gyms in Amsterdam, in West, East and South (Zuidas), with a gym floor and group classes such as (kick)boxing, strength, yoga and running. You pay per 4 weeks, for at least two periods, and cancel with one 4-week period of notice. Regular costs €84.50, gym only €61.50 and students pay €46.50, plus a one-off €15 joining fee. Without a membership you can buy a day pass (€19.50), week pass (€62) or month pass (€138).
+
+<p class="klein">Source: vondelgym.nl (November 2026). More in <a href="/nl/vondelgym/">Alles over Vondelgym</a> (in Dutch).</p>
 
 <h2 id="drop-in">Drop-in classes and class cards</h2>
 
