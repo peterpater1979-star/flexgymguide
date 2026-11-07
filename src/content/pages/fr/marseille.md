@@ -208,6 +208,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 - Une séance d’essai gratuite par an
 - Selon la zone, le prix peut être un peu plus élevé
+- Plusieurs salles sont aussi sur ClassPass, entre autres dans le 5e, boulevard Rabatau et à Plan de Campagne
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>

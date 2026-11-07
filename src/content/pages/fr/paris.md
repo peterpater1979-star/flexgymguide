@@ -211,6 +211,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 - Une séance d’essai gratuite par an
 - Selon la zone, le prix peut être un peu plus élevé
+- Le club de Puteaux, juste à côté de Paris, est aussi sur ClassPass
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>

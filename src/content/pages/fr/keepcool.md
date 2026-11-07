@@ -107,7 +107,7 @@ Moins cher, avec plus de 300 clubs en France. Lis [Tout sur Basic-Fit](/fr/basic
 
 ### ClassPass
 
-Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Lis [Tout sur ClassPass](/fr/classpass/).
+Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Certaines salles Keepcool sont aussi sur ClassPass, entre autres à Puteaux, à Marseille et à Plan de Campagne. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 

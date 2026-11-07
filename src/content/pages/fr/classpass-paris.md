@@ -83,7 +83,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **[Danse](/go/classpass-fr-paris-danse/?epi=fgg-fr-classpass-paris) :** entre autres Fit’Ballet, Wild Pole Studio, SalsAlianza, DECIBEL, Pole Dance Paris et Vingtième Danse
 - **[Running](/go/classpass-fr-paris-running/?epi=fgg-fr-classpass-paris) :** entre autres The Runship, avec des points de départ aux Champs-Élysées et avenue de Suffren
 - **[En plein air](/go/classpass-fr-paris-outdoor/?epi=fgg-fr-classpass-paris) :** entre autres The Outdoor Club, Pilates Garden boulevard Kellermann et Flag Training
-- **[Accès à la salle](/go/classpass-fr-paris-salle/?epi=fgg-fr-classpass-paris) :** entre autres RITM aux Champs-Élysées et à Saint-Germain, Fitness Park à Courbevoie, R2 Training à Vendôme et à Bastille, Club Maillot, easyGym à Palais-Royal et sur les Grands Boulevards, L’Appart Fitness dans le 13e, le 18e et le 19e, Magic Form dans le 12e et le 14e, GymPark à Bercy et Gigafit dans le 18e
+- **[Accès à la salle](/go/classpass-fr-paris-salle/?epi=fgg-fr-classpass-paris) :** entre autres RITM aux Champs-Élysées et à Saint-Germain, Fitness Park à Courbevoie, Keepcool à Puteaux, R2 Training à Vendôme et à Bastille, Club Maillot, easyGym à Palais-Royal et sur les Grands Boulevards, L’Appart Fitness dans le 13e, le 18e et le 19e, Magic Form dans le 12e et le 14e, GymPark à Bercy et Gigafit dans le 18e
 
 <h2 id="bien-etre">Bien-être et beauté</h2>
 
