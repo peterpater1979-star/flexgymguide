@@ -9,7 +9,7 @@ crumb: "ON AIR"
 kicker: "Proveedor: gimnasio"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gimnasio"></div>
+<div class="fotobanner smal foto-on-air" role="img" aria-label="Gimnasio"></div>
 
 ON AIR Fitness es una cadena francesa de gimnasios grandes y de gama alta, con más de 100 clubes según ON AIR, sobre todo en Francia. En España tiene gimnasios en Madrid, Barcelona, Málaga y Valencia, y hay más en construcción. Las cuotas son sin permanencia, con 4 semanas de preaviso.
 

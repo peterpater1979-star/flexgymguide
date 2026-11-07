@@ -185,7 +185,7 @@ Keepcool a une salle à Béziers. C’est une chaîne française avec plus de 27
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-beziers">ON AIR</h3>
 

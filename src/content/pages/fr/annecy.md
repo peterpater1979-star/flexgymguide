@@ -185,7 +185,7 @@ Keepcool a une salle à Annecy. C’est une chaîne française avec plus de 270 
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-annecy">ON AIR</h3>
 
@@ -199,7 +199,7 @@ Keepcool a une salle à Annecy. C’est une chaîne française avec plus de 270 
 
 <div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
+<div class="fotokop foto-l-appart-fitness"><span>Salle avec cours</span></div>
 
 <h3 id="l-appart-fitness-annecy">L’Appart Fitness</h3>
 

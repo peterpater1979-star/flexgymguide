@@ -211,7 +211,7 @@ Au Mans, L’Orange bleue a deux salles : Antarès et Le Mans ouest. Les formule
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-le-mans">ON AIR</h3>
 

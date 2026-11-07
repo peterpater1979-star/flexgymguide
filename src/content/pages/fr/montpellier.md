@@ -249,7 +249,7 @@ L’Orange bleue n’a pas de salle dans Montpellier même. Les formules affich�
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-montpellier">ON AIR</h3>
 

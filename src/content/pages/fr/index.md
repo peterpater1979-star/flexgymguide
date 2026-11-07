@@ -179,7 +179,7 @@ Environ 400 salles en France, en Espagne et au Portugal selon L’Orange bleue. 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Grande salle de sport</span></div>
+<div class="fotokop foto-on-air"><span>Grande salle de sport</span></div>
 
 ### ON AIR
 
@@ -197,7 +197,7 @@ Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
+<div class="fotokop foto-l-appart-fitness"><span>Salle avec cours</span></div>
 
 ### L’Appart Fitness
 

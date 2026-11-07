@@ -9,7 +9,7 @@ crumb: "ON AIR"
 kicker: "Fournisseur : salle de sport"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-on-air" role="img" aria-label="Salle de sport"></div>
 
 ON AIR Fitness est une chaîne de grandes salles de sport haut de gamme, avec plus de 120 clubs selon ON AIR, surtout en France, et aussi en Espagne, au Portugal et au Maroc. Tu as du matériel de marques comme Technogym, Hammer Strength et Eleiko, et un espace réservé aux femmes. Tous les abonnements sont sans engagement annuel, avec 8 semaines de préavis.
 

@@ -9,7 +9,7 @@ crumb: "L’Appart Fitness"
 kicker: "Fournisseur : salle de sport"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-l-appart-fitness" role="img" aria-label="Salle de sport"></div>
 
 L’Appart Fitness est une chaîne française de salles de sport, avec 118 salles en France selon L’Appart Fitness, surtout autour de Lyon et de Saint-Étienne, en Bourgogne, en Haute-Savoie et dans l’Ouest. Ton abonnement comprend la salle, les cours collectifs et les Small Groups. Tu choisis avec engagement d’un an, ou sans engagement pour 10 € de plus.
 

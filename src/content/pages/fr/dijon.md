@@ -197,7 +197,7 @@ Basic-Fit a des salles à Dijon. C’est une chaîne de salles à petit prix, av
 
 <div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
+<div class="fotokop foto-l-appart-fitness"><span>Salle avec cours</span></div>
 
 <h3 id="l-appart-fitness-dijon">L’Appart Fitness</h3>
 

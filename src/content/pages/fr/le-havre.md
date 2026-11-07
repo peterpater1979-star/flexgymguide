@@ -210,7 +210,7 @@ Au Havre, L’Orange bleue a deux salles : dans le centre et au Grand Hameau. Le
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-le-havre">ON AIR</h3>
 

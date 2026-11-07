@@ -210,7 +210,7 @@ Basic-Fit a des salles à Angers. C’est une chaîne de salles à petit prix, a
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-angers">ON AIR</h3>
 

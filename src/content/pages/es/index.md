@@ -140,7 +140,7 @@ Cadena francesa con unos 400 gimnasios según la propia cadena; en España en Ma
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio de gama alta</span></div>
+<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
 
 ### ON AIR
 

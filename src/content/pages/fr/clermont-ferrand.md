@@ -227,7 +227,7 @@ L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périph
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle haut de gamme</span></div>
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
 
 <h3 id="on-air-clermont-ferrand">ON AIR</h3>
 
@@ -241,7 +241,7 @@ L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périph
 
 <div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Salle avec cours</span></div>
+<div class="fotokop foto-l-appart-fitness"><span>Salle avec cours</span></div>
 
 <h3 id="l-appart-fitness-clermont-ferrand">L’Appart Fitness</h3>
 

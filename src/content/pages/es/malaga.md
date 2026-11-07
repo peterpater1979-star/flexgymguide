@@ -154,7 +154,7 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio de gama alta</span></div>
+<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
 
 <h3 id="on-air-malaga">ON AIR</h3>
 

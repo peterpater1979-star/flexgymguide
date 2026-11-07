@@ -241,7 +241,7 @@ En Madrid, L’Orange bleue tiene cuatro gimnasios: Cuatro Caminos, Ciudad Linea
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio de gama alta</span></div>
+<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
 
 <h3 id="on-air-madrid">ON AIR</h3>
 
