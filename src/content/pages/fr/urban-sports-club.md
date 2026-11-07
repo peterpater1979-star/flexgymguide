@@ -25,7 +25,7 @@ Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnem
 | **Villes** | Paris et de nombreuses autres villes en France |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Lieux partenaires dans d’autres pays européens |
 
-<p class="klein">Source : <a href="https://urbansportsclub.com/fr/prices/paris">urbansportsclub.com</a>, prix de l’abonnement mensuel à Paris (novembre 2026), TVA comprise. Les prix peuvent varier selon la ville. Vérifie toujours les prix actuels avec Urban Sports Club.</p>
+<p class="klein">Source : <a href="https://urbansportsclub.com/fr/prices/paris?duration=monthly">urbansportsclub.com</a>, prix de l’abonnement mensuel à Paris (novembre 2026), TVA comprise. Les prix peuvent varier selon la ville. Vérifie toujours les prix actuels avec Urban Sports Club.</p>
 
 <h2 id="formules">Les formules à Paris</h2>
 
@@ -114,7 +114,7 @@ Urban Sports Club a des lieux partenaires entre autres dans ces villes :
 <li><a href="/fr/poissy/"><strong>Poissy</strong></a></li>
 </ul>
 
-Toutes les villes et tous les lieux sont sur [urbansportsclub.com](https://urbansportsclub.com/fr).
+Toutes les villes et tous les lieux sont sur [urbansportsclub.com](https://urbansportsclub.com/fr/prices/paris?duration=monthly).
 
 <h2 id="resilier">Résilier</h2>
 
@@ -162,5 +162,5 @@ Oui. Ton abonnement fonctionne dans les lieux partenaires d’autres villes fran
 </details>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://urbansportsclub.com/fr">Urban Sports Club</a>
+<a class="knop knop-rand" href="https://urbansportsclub.com/fr/prices/paris?duration=monthly">Urban Sports Club</a>
 </div>

@@ -25,7 +25,7 @@ Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscrip
 | **Ciudades** | Madrid, Barcelona y muchas otras ciudades de España |
 | **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Centros asociados en otros países europeos |
 
-<p class="klein">Fuente: <a href="https://urbansportsclub.com/es/prices/madrid">urbansportsclub.com</a>, precios de la suscripción mensual en Madrid y Barcelona (noviembre de 2026), IVA incluido. Los precios pueden variar según la ciudad. Consulta siempre los precios actuales en Urban Sports Club.</p>
+<p class="klein">Fuente: <a href="https://urbansportsclub.com/es/prices/madrid?duration=monthly">urbansportsclub.com</a>, precios de la suscripción mensual en Madrid y Barcelona (noviembre de 2026), IVA incluido. Los precios pueden variar según la ciudad. Consulta siempre los precios actuales en Urban Sports Club.</p>
 
 <h2 id="planes">Los planes en Madrid y Barcelona</h2>
 
@@ -85,7 +85,7 @@ Urban Sports Club tiene centros asociados, entre otras, en estas ciudades:
 <li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a></li>
 </ul>
 
-Todas las ciudades y todos los centros están en [urbansportsclub.com](https://urbansportsclub.com/es).
+Todas las ciudades y todos los centros están en [urbansportsclub.com](https://urbansportsclub.com/es/prices/madrid?duration=monthly).
 
 <h2 id="cancelar">Cancelar</h2>
 
@@ -133,5 +133,5 @@ Sí. Tu suscripción funciona en los centros asociados de otras ciudades españo
 </details>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://urbansportsclub.com/es">Urban Sports Club</a>
+<a class="knop knop-rand" href="https://urbansportsclub.com/es/prices/madrid?duration=monthly">Urban Sports Club</a>
 </div>
