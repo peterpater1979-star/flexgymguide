@@ -96,17 +96,17 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym</span></li>
-<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym</span></li>
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym</span></li>
 <li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
 <li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore · SportCity</span></li>
 <li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/alkmaar/"><strong>Alkmaar</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym</span></li>
+<li><a href="/nl/alkmaar/"><strong>Alkmaar</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym</span></li>
 <li><a href="/nl/arnhem/"><strong>Arnhem</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/nl/nijmegen/"><strong>Nijmegen</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/nl/nijmegen/"><strong>Nijmegen</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym</span></li>
 <li><a href="/nl/den-bosch/"><strong>Den Bosch</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/nl/breda/"><strong>Breda</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 </ul>

@@ -21,6 +21,7 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Groningen kun je o
 | **ClassPass** | Op elk moment, zonder opzegtermijn | Standaardabonnement € 59 p/m (40 credits); kleinere in de app | Afwisseling bij studio's en gyms in de hele stad |
 | **Trainmore Flex** | Maandelijks | € 75/4 wkn (Regular Label) | Premium sportschool met groepslessen, voor wie vaak traint <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Munnekeholm: Flex € 75, 1 jaar € 55, 2 jaar € 48 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="#trainmore">Alle prijzen</a></details> |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98/4 wkn, plus € 19,99 inschrijving | Goedkoop en vaak trainen, 24/7 open |
+| **BigGym Flex** | Elke 4 weken, 4 weken opzegtermijn | € 45/4 wkn, plus € 10 activatie; dagpas € 10 | Grote gym met groepslessen en HYROX, alle 16 BigGyms |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
 <p class="klein">Prijzen van oktober 2026. ClassPass: locatie Groningen. Basic-Fit: landelijke prijzen. Trainmore: club Munnekeholm. Controleer de actuele prijs altijd bij de aanbieder.</p>
@@ -68,6 +69,12 @@ Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaa
 Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) en [Alles over Basic-Fit](/nl/basic-fit/).
 
 <p class="klein">Bron: basic-fit.com/nl-nl/prijs (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
+
+<h2 id="big-gym">BigGym Flex: elke 4 weken opzegbaar</h2>
+
+BigGym heeft een grote gym in Groningen, met kracht, cardio, een HYROX-zone en groepslessen, en je traint in alle 16 BigGyms in Nederland. Met Unlimited Flex betaal je € 45 per 4 weken en zeg je elke 4 weken op, in de BigGym-app. Met een contract van 1 tot 3 jaar betaal je € 30 tot € 35. Daarbij komt eenmalig € 10 activatie. Eerst proberen? Een dagpas kost € 10.
+
+<p class="klein">Bron: biggym.com (november 2026). Meer in <a href="/nl/big-gym/">Alles over BigGym</a>.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 

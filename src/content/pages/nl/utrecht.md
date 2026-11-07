@@ -210,6 +210,30 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 </div>
 
+<div id="big-gym" class="aanbieder">
+
+<p class="kicker">Sportschoolketen</p>
+
+## BigGym in Utrecht
+
+BigGym heeft in Utrecht een grote gym aan de Proostwetering, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie. Je traint in alle 16 BigGyms in Nederland, van 7.00 tot 23.00 uur.
+
+### Goed voor
+
+- Drie keer per week of vaker trainen in een grote gym
+- Groepslessen en HYROX zonder meerprijs
+
+### Let op
+
+- Flex: elke 4 weken opzegbaar, alleen via de app
+- Eerst proberen? Een dagpas kost € 10
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
+</div>
+
+</div>
+
 ## Welke past bij jou?
 
 <div class="kolommen">

@@ -157,6 +157,30 @@ Nieuw bij ClassPass? Je begint met 14 dagen gratis en 10 work-outs.
 
 Tip: zet een herinnering een paar dagen voor het einde, en boek populaire avond- en weekendlessen een paar dagen vooruit. Alles over de regels lees je in [ClassPass gratis proberen](/nl/classpass-proefperiode/).
 
+<div id="big-gym" class="aanbieder">
+
+<p class="kicker">Sportschoolketen</p>
+
+## BigGym in Alkmaar
+
+BigGym heeft in Alkmaar een grote gym aan de Helderseweg, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie. Je traint in alle 16 BigGyms in Nederland, van 7.00 tot 23.00 uur.
+
+### Goed voor
+
+- Drie keer per week of vaker trainen in een grote gym
+- Groepslessen en HYROX zonder meerprijs
+
+### Let op
+
+- Flex: elke 4 weken opzegbaar, alleen via de app
+- Eerst proberen? Een dagpas kost € 10
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
+</div>
+
+</div>
+
 ## Welke past bij jou?
 
 <div class="kolommen">

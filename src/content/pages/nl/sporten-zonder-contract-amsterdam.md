@@ -24,6 +24,7 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Amsterdam kun je o
 | **SportCity Flex** | Maandelijks | € 37,99/4 wkn bij Lijnbaansgracht (City One), plus € 9,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **Saints & Stars Flex** | 4 weken opzegtermijn | Gold € 169/4 wkn, Premium € 229; credits € 15 tot € 20 per les | Boutique studio met lessen in kleine groepen, vier studio's |
 | **Vondelgym** | Per 4 weken, één periode opzegtermijn | Regular € 84,50/4 wkn, alleen gym € 61,50, student € 46,50, plus € 15 inschrijfgeld; dagpas € 19,50 | Gym met boksen en groepslessen, drie gyms |
+| **BigGym Flex** | Elke 4 weken, 4 weken opzegtermijn | € 45/4 wkn, plus € 10 activatie; dagpas € 10 | Grote gym met groepslessen en HYROX, alle 16 BigGyms |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
 <p class="klein">Prijzen van oktober 2026. ClassPass: locatie Amsterdam. Trainmore: clubs Bos en Lommer, Koningin Wilhelminaplein en Amstelveenseweg, vóór korting. Basic-Fit: landelijke prijzen. SportCity: club Lijnbaansgracht. Controleer de actuele prijs altijd bij de aanbieder.</p>
@@ -100,6 +101,12 @@ Saints & Stars is een boutique studio met vier vestigingen in Amsterdam, met HII
 Vondelgym heeft drie gyms in Amsterdam, in West, Oost en Zuid, met een gym en groepslessen als (kick)boksen, kracht, yoga en hardlopen. Je betaalt per 4 weken, minimaal twee periodes, en zegt op met één periode van 4 weken opzegtermijn. Regular kost € 84,50, alleen de gym € 61,50 en studenten betalen € 46,50, plus eenmalig € 15 inschrijfgeld. Zonder lidmaatschap koop je een dagpas (€ 19,50), weekpas (€ 62) of maandpas (€ 138).
 
 <p class="klein">Bron: vondelgym.nl (november 2026). Meer in <a href="/nl/vondelgym/">Alles over Vondelgym</a>.</p>
+
+<h2 id="big-gym">BigGym Flex: elke 4 weken opzegbaar</h2>
+
+BigGym heeft een grote gym in Amsterdam, met kracht, cardio, een HYROX-zone en groepslessen, en je traint in alle 16 BigGyms in Nederland. Met Unlimited Flex betaal je € 45 per 4 weken en zeg je elke 4 weken op, in de BigGym-app. Met een contract van 1 tot 3 jaar betaal je € 30 tot € 35. Daarbij komt eenmalig € 10 activatie. Eerst proberen? Een dagpas kost € 10.
+
+<p class="klein">Bron: biggym.com (november 2026). Meer in <a href="/nl/big-gym/">Alles over BigGym</a>.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 

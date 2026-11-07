@@ -23,6 +23,7 @@ Just moved to Rotterdam, here for a few months, or not sure where you will live 
 | **Trainmore Flex** | Monthly | €89 to €112 per 4 weeks, depending on the club | Premium gym with group classes, for frequent training <details class="cel"><summary>Flex or contract?</summary>A 1-year contract is €20 per 4 weeks cheaper than Flex, 2 years €27. And once you're committed, you often go more often too. Only a contract also gets you €1 off per workout. For example at Coolsingel: Flex €89, 1 year €69, 2 years €62 per 4 weeks. A one-year contract saves you about €260 a year (13 periods of 4 weeks). <a href="#trainmore">All prices</a></details> |
 | **Basic-Fit Flex** | No minimum term, 4 weeks' notice | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, open 24/7 |
 | **SportCity Flex** | Monthly | €37.99 per 4 weeks at Conradstraat (City One), plus €9.99 joining fee; varies per club | Gym with group classes, day pass available |
+| **BigGym Flex** | Every 4 weeks, 4 weeks' notice | €45 per 4 weeks, plus €10 activation; day pass €10 | Big gym with group classes and HYROX, all 16 BigGyms |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Rotterdam. Trainmore: clubs Coolsingel, Meent, Blaak and Wijnhaven. SportCity: club Conradstraat. Basic-Fit: national prices. Always check the current price with the provider.</p>
@@ -88,6 +89,12 @@ This is what City One prices looked like in October 2026 at SportCity Rotterdam 
 With Flex you pay a €9.99 joining fee. City Plus costs a bit more, and other clubs can be more expensive too. Want to try first? You can ask the club for a day pass.
 
 <p class="klein">Source: sportcity.nl/lidmaatschap and the sign-up page for Rotterdam Conradstraat (October 2026). Always check the current price with SportCity. Cancelling: see <a href="/nl/cancel-sportcity/">Cancelling SportCity</a>.</p>
+
+<h2 id="big-gym">BigGym Flex: cancel every 4 weeks</h2>
+
+BigGym has a large gym in Rotterdam, with weights, cardio, a HYROX zone and group classes, and you can train at all 16 BigGyms in the Netherlands. Unlimited Flex costs €45 per 4 weeks and you cancel every 4 weeks, in the BigGym app. With a 1 to 3 year contract you pay €30 to €35. You also pay a one-off €10 activation fee. Want to try first? A day pass costs €10.
+
+<p class="klein">Source: biggym.com (November 2026). More in <a href="/nl/big-gym/">Alles over BigGym</a> (in Dutch).</p>
 
 <h2 id="drop-in">Drop-in classes and class cards</h2>
 

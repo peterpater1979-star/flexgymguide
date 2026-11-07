@@ -22,6 +22,7 @@ Just moved to Groningen to study or work, here for a few months, or not sure whe
 | **ClassPass** | Any time, no notice period | Standard plan €59 a month (40 credits); smaller plans in the app | Variety at studios and gyms all over the city |
 | **Trainmore Flex** | Monthly | €75 per 4 weeks (Regular Label) | Premium gym with group classes, for frequent training <details class="cel"><summary>Flex or contract?</summary>A 1-year contract is €20 per 4 weeks cheaper than Flex, 2 years €27. And once you're committed, you often go more often too. Only a contract also gets you €1 off per workout. For example at Munnekeholm: Flex €75, 1 year €55, 2 years €48 per 4 weeks. A one-year contract saves you about €260 a year (13 periods of 4 weeks). <a href="#trainmore">All prices</a></details> |
 | **Basic-Fit Flex** | No minimum term, 4 weeks' notice | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, open 24/7 |
+| **BigGym Flex** | Every 4 weeks, 4 weeks' notice | €45 per 4 weeks, plus €10 activation; day pass €10 | Big gym with group classes and HYROX, all 16 BigGyms |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Groningen. Trainmore: club Munnekeholm. Basic-Fit: national prices. Always check the current price with the provider.</p>
@@ -66,6 +67,12 @@ Basic-Fit is a budget chain with clubs that are open day and night. Besides a 52
 All Flex memberships have a one-off joining fee of €19.99. Group classes are included at clubs that offer them. You cancel through My Basic-Fit, the app or the kiosk in the club, with 4 weeks' notice.
 
 <p class="klein">Source: basic-fit.com/nl-nl/prijs (October 2026). Always check the current price with Basic-Fit. Cancelling: see <a href="/nl/cancel-basic-fit/">Cancelling Basic-Fit</a>.</p>
+
+<h2 id="big-gym">BigGym Flex: cancel every 4 weeks</h2>
+
+BigGym has a large gym in Groningen, with weights, cardio, a HYROX zone and group classes, and you can train at all 16 BigGyms in the Netherlands. Unlimited Flex costs €45 per 4 weeks and you cancel every 4 weeks, in the BigGym app. With a 1 to 3 year contract you pay €30 to €35. You also pay a one-off €10 activation fee. Want to try first? A day pass costs €10.
+
+<p class="klein">Source: biggym.com (November 2026). More in <a href="/nl/big-gym/">Alles over BigGym</a> (in Dutch).</p>
 
 <h2 id="drop-in">Drop-in classes and class cards</h2>
 
