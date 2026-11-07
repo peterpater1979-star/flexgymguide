@@ -26,6 +26,8 @@ Basic-Fit ist eine günstige Fitnesskette aus den Niederlanden mit fast 100 Club
 | **Clubs** | Fast 100 in Deutschland, über 1.700 in Europa |
 | **Preis** | Ab 24,99 € pro 4 Wochen mit Jahresvertrag |
 | **Ohne lange Bindung** | <span class="ja" aria-hidden="true">✓</span> Flex: 9,99 € mehr pro 4 Wochen |
+| **Rund um die Uhr** | Über 30 Clubs in Deutschland sind 24/7 geöffnet |
+| **Ausprobieren** | Tagespass für 11,99 € |
 | **Kurse** | Live-Kurse in Clubs, die sie anbieten, und Video-Workouts in der App |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Mit Premium oder Ultimate in allen Clubs in Europa |
 
@@ -39,18 +41,40 @@ Basic-Fit ist eine günstige Fitnesskette aus den Niederlanden mit fast 100 Club
 | **Premium** | 29,99 € | 39,98 € |
 | **Ultimate** | 34,99 € | 44,98 € |
 
-Preise pro 4 Wochen. Du zahlst alle vier Wochen im Voraus, also 13 Mal im Jahr. Mit Comfort trainierst du in den Clubs in Deutschland, mit Premium und Ultimate auch in den Basic-Fit-Clubs im Ausland, unter anderem in den Niederlanden, Belgien, Frankreich und Spanien.
+Preise pro 4 Wochen. Du zahlst alle vier Wochen im Voraus, also 13 Mal im Jahr.
+
+| | Comfort | Premium | Ultimate |
+| --- | --- | --- | --- |
+| **Clubs** | Alle Clubs in Deutschland | Alle Clubs in Europa | Alle Clubs in Europa |
+| **Freund mitbringen** | – | Einmal pro Woche | Jederzeit |
+| **Massagesessel** | – | – | <span class="ja" aria-hidden="true">✓</span> |
+| **Yanga Sports Water** | 4,99 € extra | 4,99 € extra | <span class="ja" aria-hidden="true">✓</span> |
+| **Pausieren** | 2,99 € extra pro 4 Wochen | 2,99 € extra pro 4 Wochen | <span class="ja" aria-hidden="true">✓</span> |
+
+Bei allen Mitgliedschaften sind die Basic-Fit-App mit Workouts, Video-Workouts im Club und Live-Kurse in den Clubs dabei, die sie anbieten. Die Angaben auf der Preisseite von Basic-Fit sind nicht überall gleich; im Zweifel gelten die AGB.
 
 <h2 id="jahr-oder-flex">Jahresvertrag oder Flex</h2>
 
 | | Jahresvertrag | Flex |
 | --- | --- | --- |
 | **Mindestlaufzeit** | 52 Wochen | Keine |
-| **Kündigen** | Nach 52 Wochen, mit 4 Wochen Frist | Jederzeit, endet zum Ende des Folgemonats |
+| **Kündigen** | Frühestens zum Ende der 52 Wochen, danach mit 4 Wochen Frist | Jederzeit, mit 4 Wochen Frist |
 | **Preis pro 4 Wochen** | Grundpreis | 9,99 € mehr |
-| **Anmeldegebühr** | Comfort 19,99 €, Premium 9,99 €, Ultimate 4,99 € | 19,99 € |
+| **Anmeldegebühr** | Bis zu 19,99 €, je nach Mitgliedschaft | 19,99 € |
 
 Bist du unsicher, ob du dranbleibst, ist Flex die sichere Wahl: Du zahlst etwas mehr, bist aber nicht gebunden. Trainierst du sicher ein ganzes Jahr, ist der Jahresvertrag günstiger.
+
+<h2 id="gut-zu-wissen">Gut zu wissen</h2>
+
+| | So ist es bei Basic-Fit |
+| --- | --- |
+| **Mindestalter** | Ab 16 Jahren, unter 18 mit Erlaubnis der Eltern. Nachts (22:30 bis 8 Uhr) in 24/7-Clubs erst ab 18 |
+| **Pausieren** | Bis zu zweimal 4 Wochen pro Jahr, in der Pause zahlst du nichts. Nur wählbar beim Abschluss oder nach der festen Laufzeit |
+| **Tagespass** | 11,99 € für einen Besuch in einem Club |
+| **Personal Training** | Einführung von 60 Minuten für 25 € |
+| **Kündigen** | Online-Formular, Basic-Fit-App, Terminal im Club oder per E-Mail |
+
+<p class="klein">Quelle: <a href="https://www.basic-fit.com/de-de/faq">basic-fit.com/de-de/faq</a> und AGB von Basic-Fit Deutschland (November 2026).</p>
 
 <h2 id="staedte">Basic-Fit in deiner Stadt</h2>
 
@@ -75,7 +99,7 @@ Gehst du oft ins Gym und brauchst keine Kurse in anderen Studios, ist Basic-Fit 
 <details open>
 <summary>Kann ich Basic-Fit monatlich kündigen?</summary>
 
-Ja, mit Flex. Du zahlst dann 9,99 € mehr pro 4 Wochen. Die Mitgliedschaft endet zum Ende des Folgemonats nach deiner Kündigung.
+Ja, mit Flex. Du zahlst dann 9,99 € mehr pro 4 Wochen und kündigst jederzeit mit 4 Wochen Frist.
 
 </details>
 

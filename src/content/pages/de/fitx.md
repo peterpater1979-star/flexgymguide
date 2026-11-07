@@ -26,7 +26,8 @@ FitX ist eine günstige Fitnesskette mit über 110 Studios in Deutschland. Es gi
 | **Studios** | Über 110 in Deutschland |
 | **Preis** | 29 € im Monat, einmalig 29 € Anmeldegebühr |
 | **Vertrag** | 12 Monate Grundlaufzeit, danach monatlich kündbar |
-| **Öffnungszeiten** | 24 Stunden täglich, mit Personal von 9 bis 21 Uhr |
+| **Öffnungszeiten** | Laut FitX 24 Stunden täglich, mit Personal von 9 bis 21 Uhr |
+| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Einmal kostenloses Probetraining, oder Tagespass für 10 € |
 | **Kurse** | <span class="ja" aria-hidden="true">✓</span> Live-Kurse mit Coaches, im Preis enthalten |
 | **Im Ausland** | Nur in Deutschland |
 
@@ -42,13 +43,25 @@ FitX ist eine günstige Fitnesskette mit über 110 Studios in Deutschland. Es gi
 Im ersten Jahr zahlst du also 377 € (12 × 29 € plus Anmeldegebühr). Dafür bekommst du:
 
 - Training in allen FitX-Studios mit einem Zugang
-- Live-Kurse mit Coaches
+- Mindestens 37 Live-Kurse pro Woche (classx)
 - Einen Trainingsplan von den Coaches
-- Wasser und Duschen
-- In den Studios einen eigenen Kraftbereich für Frauen
+- Wasser pur oder mit Geschmack, mit deiner eigenen Flasche, und Duschen
+- In jedem Studio ein Lady Gym, ein eigener Trainingsbereich für Frauen
 - Meist kostenlose Parkplätze (nicht in Berlin-Mitte und München-Lenbachplatz)
 
 <p class="klein">Quelle: <a href="https://www.fitx.de/mitgliedschaft">fitx.de/mitgliedschaft</a> (November 2026).</p>
+
+<h2 id="ausprobieren">Ausprobieren, Alter und Pause</h2>
+
+| | So ist es bei FitX |
+| --- | --- |
+| **Probetraining** | Einmal kostenlos, ab 14 Jahren, täglich von 7 bis 22 Uhr, online buchen |
+| **Tagespass** | 10 € ohne Vertrag |
+| **Mindestalter** | Online ab 18 Jahren. Jünger: Vertrag im Studio mit Zustimmung der Eltern |
+| **Pause (Ruhezeit)** | Bis zu 6 Monate pro Jahr, in ganzen Kalendermonaten. Beantragen mindestens 15 Tage vorher, in der App oder in Textform. In der Pause zahlst du nichts |
+| **Zugang** | Mit einem persönlichen Zutrittsmedium, das auch für den Spind gilt |
+
+<p class="klein">Quelle: <a href="https://www.fitx.de/probetraining">fitx.de/probetraining</a> und <a href="https://www.fitx.de/unternehmen/agb">AGB von FitX</a> (November 2026).</p>
 
 <h2 id="kuendigen">Vertrag und Kündigung</h2>
 

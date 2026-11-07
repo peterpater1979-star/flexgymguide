@@ -12,7 +12,7 @@ kicker: "Anbieter: Fitnessclub"
 
 <div class="fotobanner smal foto-john-reed" role="img" aria-label="Fitnessstudio"></div>
 
-JOHN REED ist eine Kette von Fitnessclubs mit auffälligem Design, Musik und Kursen. Sie gehört wie McFit zur RSG Group und hat 47 Clubs in 8 Ländern, darunter viele in Deutschland. Mit deiner Mitgliedschaft trainierst du je nach Kategorie auch in den McFit-Studios und bei Gold's Gym.
+JOHN REED ist eine Kette von Fitnessclubs mit auffälligem Design, Musik und Kursen. Sie gehört wie McFit zur RSG Group und hat 47 Clubs in 8 Ländern, unter anderem in Deutschland, Österreich, der Schweiz, Italien, Frankreich, Tschechien und Ungarn. Mit deiner Mitgliedschaft trainierst du je nach Kategorie auch in den McFit-Studios und bei Gold's Gym.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#staedte">JOHN REED in deiner Stadt</a>
@@ -26,10 +26,24 @@ JOHN REED ist eine Kette von Fitnessclubs mit auffälligem Design, Musik und Kur
 | **Clubs** | 47 in 8 Ländern |
 | **Preis** | Flex 60 bis 80 € im Monat, je nach Club-Kategorie |
 | **Vertrag** | Flex (monatlich kündbar), 12 oder 24 Monate |
-| **Kurse** | <span class="ja" aria-hidden="true">✓</span> Kurse im Club |
+| **Kurse** | <span class="ja" aria-hidden="true">✓</span> Live-Kurse und Group Workouts |
+| **Ausprobieren** | Day Pass für 15 bis 30 €, je nach Club |
+| **Mindestalter** | 15 Jahre |
 | **Auch dabei** | <span class="ja" aria-hidden="true">✓</span> McFit-Studios und, je nach Kategorie, Gold's Gym |
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuelle Situation immer bei JOHN REED.</p>
+
+<h2 id="clubs">Was dich im Club erwartet</h2>
+
+JOHN REED setzt auf Design und Musik, mit Live-DJs. Je nach Club gibt es:
+
+- Live-Kurse und Group Workouts
+- Sauna und Relax Lounge, in manchen Clubs Whirlpool und Pool
+- Einen Bereich nur für Frauen (Ladies Area)
+- Kinderbetreuung (Kids Club)
+- Getränke-Flatrate und kostenlose Parkplätze
+
+Nicht jeder Club hat alles. Prüfe vor dem Abschluss, was dein Club bietet.
 
 <h2 id="preise">Preise und Club-Kategorien</h2>
 
@@ -45,6 +59,10 @@ Mit einem Vertrag über 12 oder 24 Monate zahlst du weniger pro Monat. Diese Pre
 
 <p class="klein">Quelle: <a href="https://johnreed.fitness/">johnreed.fitness</a> (November 2026). Welche Clubs in welcher Kategorie sind, steht in der Übersicht der Club-Kategorien bei JOHN REED.</p>
 
+<h2 id="ausprobieren">Ausprobieren</h2>
+
+Mit einem Day Pass trainierst du einen Tag lang. Du buchst ihn online und zahlst im Club: 15 € in Cluster 1, 20 € in Cluster 2 und 3, 25 € in Cluster 4 und 30 € in den höheren Kategorien. Schließt du danach einen längeren Vertrag ab, wird der Betrag verrechnet. Unter 15 Jahren geht es nicht, mit 15 bis 17 Jahren brauchst du die schriftliche Zustimmung deiner Eltern.
+
 <h2 id="kuendigen">Vertrag und Kündigung</h2>
 
 <div class="kolommen">
@@ -53,7 +71,7 @@ Mit einem Vertrag über 12 oder 24 Monate zahlst du weniger pro Monat. Diese Pre
 
 ### Flex
 
-Keine feste Laufzeit. Du kündigst mit einem Monat Frist zum Ende des Trainingszeitraums. Du zahlst am meisten pro Monat, bist aber nicht gebunden.
+Keine feste Laufzeit. Du kündigst mit einem Monat Frist zum Ende des Trainingszeitraums, über das Kündigungsformular im Hilfebereich von JOHN REED. Du zahlst am meisten pro Monat, bist aber nicht gebunden.
 
 </div>
 
