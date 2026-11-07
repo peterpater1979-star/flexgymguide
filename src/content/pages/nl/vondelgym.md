@@ -24,7 +24,7 @@ Vondelgym is een sportschool met drie gyms in Amsterdam: bij het Vondelpark, bij
 | **Inschrijfgeld** | € 15, met een welkomsttas |
 | **Student** | <span class="ja" aria-hidden="true">✓</span> € 46,50 per 4 weken, overdag |
 | **Zonder lidmaatschap** | <span class="ja" aria-hidden="true">✓</span> Dagpas € 19,50, weekpas € 62, maandpas € 138 |
-| **ClassPass** | <span class="ja" aria-hidden="true">✓</span> Vondelgym West staat op ClassPass |
+| **ClassPass** | <span class="ja" aria-hidden="true">✓</span> Alle drie de gyms staan op ClassPass, West en Zuid ook met open gym |
 
 <p class="klein">Bron: vondelgym.nl, de veelgestelde vragen, de pagina's van de gyms en de algemene voorwaarden (november 2026). Waar de Nederlandse en Engelse site verschillen, staat hier de hoogste prijs. Controleer de actuele prijs altijd bij Vondelgym.</p>
 
@@ -87,7 +87,7 @@ Handig als je vaak traint, van boksen en kracht houdt, en dicht bij een van de d
 
 ### ClassPass
 
-Vondelgym aan de Overtoom staat ook op ClassPass. Met credits boek je daar boksen of de gym, en wissel je af met andere studio's. Lees [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
+Alle drie de Vondelgyms staan ook op ClassPass. Met credits boek je daar lessen, en in West en Zuid ook de open gym, en wissel je af met andere studio's. Lees [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
 
 </div>
 
@@ -120,7 +120,7 @@ Ja, per 4 weken. Je maakt je lopende periode af, daarna loopt nog één periode 
 <details>
 <summary>Kan ik Vondelgym eerst proberen?</summary>
 
-Ja, met een dagpas van € 19,50. Schrijf je je binnen 24 uur in, dan krijg je dat bedrag terug als tegoed aan de bar. Je kunt Vondelgym West ook via ClassPass proberen.
+Ja, met een dagpas van € 19,50. Schrijf je je binnen 24 uur in, dan krijg je dat bedrag terug als tegoed aan de bar. Je kunt Vondelgym ook via ClassPass proberen, in alle drie de gyms.
 
 </details>
 

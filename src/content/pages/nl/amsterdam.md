@@ -258,7 +258,7 @@ Vondelgym heeft drie gyms in Amsterdam: aan de Overtoom bij het Vondelpark, aan 
 
 - Nieuwe leden trainen in één gym; alle drie kost € 15 per 4 weken extra
 - CrossFit en HYROX kosten extra
-- Vondelgym West staat ook op ClassPass
+- Alle drie de Vondelgyms staan ook op ClassPass
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/vondelgym/">Alles over Vondelgym</a>

@@ -87,7 +87,7 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
   - **Verschillende stijlen:** Chassé Dance Studios, Amsterdam Dance Centre en Wladimir Dance Studios
 - **[Hardlopen](https://classpass.com/search/amsterdam/running-classes/4jmdMWcx2zB):** onder andere BallinFit en Trainen met Wendy
 - **[Buitensporten](https://classpass.com/search/amsterdam/outdoors-classes/5YRTtPKhz5u):** onder andere Fitmundo in het Noorderpark, het Oosterpark en aan de IJpromenade, IMOOV en Fostering Fitness in het Vondelpark en Train with Tommy bij het Olympiaplein
-- **[Open gym](https://classpass.com/search/amsterdam/gym-time-classes/5srvjYtRtoR):** ruim twintig clubs van [Trainmore](/nl/trainmore/), plus Vondelgym, Sportstudio 79 en Underground Sportclub
+- **[Open gym](https://classpass.com/search/amsterdam/gym-time-classes/5srvjYtRtoR):** ruim twintig clubs van [Trainmore](/nl/trainmore/), plus Vondelgym West en Zuid, Sportstudio 79 en Underground Sportclub
 
 <h2 id="wellness">Wellness en beauty</h2>
 
