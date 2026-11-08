@@ -78,7 +78,7 @@ Algunas cosas que facilitan reservar y cancelar:
 - **¿No hay clase?** Si la clase se cancela o el instructor no está, recuperas tus créditos sin más.
 - **¿Te marcaron como ausente y sí fuiste?** Avisa a ClassPass en un plazo de 14 días y lo arreglan con el estudio.
 
-<p class="klein">¿Quieres leerlo todo con detalle? Consulta <a href="https://help.classpass.com/hc/en-us/articles/207942743">la política de cancelación de ClassPass</a>. Las reglas pueden cambiar; en la app ves lo que se aplica ahora.</p>
+<p class="klein">¿Quieres leerlo todo con detalle? Consulta <a href="/go/classpass-es-cancelacion/?epi=fgg-es-creditos-classpass-cancelacion" rel="sponsored nofollow">la política de cancelación de ClassPass</a>. Las reglas pueden cambiar; en la app ves lo que se aplica ahora.</p>
 
 <h2 id="cuantos">¿Cuántos créditos necesitas?</h2>
 

@@ -24,6 +24,9 @@
 /go/classpass-fr/            https://clk.tradedoubler.com/click?p=374042&a=3504154  302
 /go/classpass-fr-banner/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&g=26079274&epi=:epi  302
 /go/classpass-fr-banner/            https://clk.tradedoubler.com/click?p=374042&a=3504154&g=26079274  302
+# Deeplink annuleringsregels (helpcentrum), 08-11-2026
+/go/classpass-fr-annulation/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fhelp.classpass.com%2Fhc%2Fen-us%2Farticles%2F207942743  302
+/go/classpass-fr-annulation/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fhelp.classpass.com%2Fhc%2Fen-us%2Farticles%2F207942743  302
 # Deeplinks per stad (Tradedoubler &url= met de ClassPass-zoekpagina van die stad)
 /go/classpass-fr-amiens/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Famiens%2Ffitness-classes%2F4JRPVsYEyXV  302
 /go/classpass-fr-amiens/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Famiens%2Ffitness-classes%2F4JRPVsYEyXV  302
@@ -377,6 +380,8 @@
 /go/classpass-fr-marseille-beaute/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmarseille%2Fbeauty-appointments%2F5hqpFghgUUX  302
 /go/classpass-es/  epi=:epi  https://clk.tradedoubler.com/click?p=374043&a=3504160&epi=:epi  302
 /go/classpass-es/            https://clk.tradedoubler.com/click?p=374043&a=3504160  302
+/go/classpass-es-cancelacion/  epi=:epi  https://clk.tradedoubler.com/click?p=374043&a=3504160&epi=:epi&url=https%3A%2F%2Fhelp.classpass.com%2Fhc%2Fen-us%2Farticles%2F207942743  302
+/go/classpass-es-cancelacion/            https://clk.tradedoubler.com/click?p=374043&a=3504160&url=https%3A%2F%2Fhelp.classpass.com%2Fhc%2Fen-us%2Farticles%2F207942743  302
 /go/classpass-es-madrid-pilates/  epi=:epi  https://clk.tradedoubler.com/click?p=374043&a=3504160&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmadrid%2Fpilates-classes%2F5PLCeAWZnLo  302
 /go/classpass-es-madrid-pilates/            https://clk.tradedoubler.com/click?p=374043&a=3504160&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmadrid%2Fpilates-classes%2F5PLCeAWZnLo  302
 /go/classpass-es-madrid-barre/  epi=:epi  https://clk.tradedoubler.com/click?p=374043&a=3504160&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmadrid%2Fbarre-classes%2F5MgELawKRjD  302
