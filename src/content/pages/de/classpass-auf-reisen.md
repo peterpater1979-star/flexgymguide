@@ -56,16 +56,16 @@ Außerhalb Europas unter anderem in den USA, Kanada, Australien, Neuseeland, Jap
 
 <h2 id="unterwegs">Praktisch im Koffer</h2>
 
-Leicht und klein, damit es gut ins Gepäck passt. Über diese Links suchst du bei Amazon.de:
+Leicht und klein, damit es gut ins Gepäck passt. Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-de-faltbare-flasche/">Faltbare Trinkflasche</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-reisehandtuch/">Kompaktes Mikrofaserhandtuch</a></li>
-<li class="i-mat"><a href="/go/amazon-de-reise-yogamatte/">Faltbare Reise-Yogamatte</a></li>
-<li class="i-band"><a href="/go/amazon-de-widerstandsbaender/">Widerstandsbänder fürs Hotelzimmer</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-classpass-auf-reisen-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-classpass-auf-reisen-handdoek">Kompaktes Mikrofaserhandtuch</a></li>
+<li class="i-mat"><a href="/go/traininn-de-mat/?ws=fgg-de-classpass-auf-reisen-yogamat">Yogamatte</a></li>
+<li class="i-band"><a href="/go/traininn-de-banden/?ws=fgg-de-classpass-auf-reisen-banden">Widerstandsbänder fürs Hotelzimmer</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 <h2 id="checklist">Checkliste</h2>
 
