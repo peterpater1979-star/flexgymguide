@@ -78,6 +78,8 @@ Noen ting som gjør det enklere å booke og avbestille:
 - **Blir timen avlyst?** Blir timen avlyst eller instruktøren ikke kommer, får du bare kredittene tilbake.
 - **Markert som ikke møtt selv om du var der?** Si fra til ClassPass innen 14 dager, så ordner de det med studioet.
 
+<p class="klein">Vil du lese alt i detalj? Se <a href="https://help.classpass.com/hc/en-us/articles/207942743">avbestillingsreglene til ClassPass</a>. Reglene kan endre seg; i appen ser du hva som gjelder nå.</p>
+
 <h2 id="hvor-mange">Hvor mange kreditter trenger du?</h2>
 
 Det avhenger av hvor ofte du trener og hvilke studioer du liker. Start med den gratis prøveperioden og noter hvor mange kreditter favorittimene dine koster. Gang det med antall ganger du vil trene i måneden, så ser du hvilket abonnement som passer.

@@ -78,6 +78,8 @@ Muutama asia, jotka helpottavat varaamista ja perumista:
 - **Eikö tuntia pidetäkään?** Jos tunti peruuntuu tai ohjaaja ei tule, saat krediitit yksinkertaisesti takaisin.
 - **Merkitty poissaolevaksi, vaikka olit paikalla?** Ilmoita ClassPassille 14 päivän sisällä, niin he selvittävät asian studion kanssa.
 
+<p class="klein">Haluatko lukea kaiken tarkemmin? Katso <a href="https://help.classpass.com/hc/en-us/articles/207942743">ClassPassin peruutusehdot</a>. Säännöt voivat muuttua; sovelluksesta näet, mitä nyt sovelletaan.</p>
+
 <h2 id="kuinka-monta">Montako krediittiä tarvitset?</h2>
 
 Se riippuu siitä, kuinka usein treenaat ja mistä studioista pidät. Aloita ilmaisella kokeilujaksolla ja merkitse ylös, montako krediittiä lempituntisi maksavat. Kerro se sillä, kuinka monta kertaa haluat treenata kuukaudessa, niin näet, mikä tilaus sopii.

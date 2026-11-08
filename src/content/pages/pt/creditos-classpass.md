@@ -78,6 +78,8 @@ Algumas coisas que facilitam reservar e cancelar:
 - **A aula não se realiza?** Se a aula for cancelada ou o instrutor não estiver, recuperas simplesmente os créditos.
 - **Marcado como falta, mas foste?** Avisa o ClassPass no prazo de 14 dias e eles resolvem com o estúdio.
 
+<p class="klein">Queres ler tudo ao pormenor? Consulta <a href="https://help.classpass.com/hc/en-us/articles/207942743">a política de cancelamento do ClassPass</a>. As regras podem mudar; na app vês o que se aplica agora.</p>
+
 <h2 id="quantos">De quantos créditos precisas?</h2>
 
 Depende de quantas vezes treinas e dos estúdios de que gostas. Começa pelo período experimental gratuito e aponta quantos créditos custam as tuas aulas favoritas. Multiplica pelo número de vezes que queres treinar por mês e vês que plano te serve.

@@ -78,6 +78,8 @@ Et par ting, der gør det nemmere at booke og melde afbud:
 - **Bliver holdet aflyst?** Bliver holdet aflyst, eller er instruktøren der ikke, får du bare dine credits tilbage.
 - **Markeret som udeblevet, selvom du var der?** Giv ClassPass besked inden for 14 dage, så ordner de det med studiet.
 
+<p class="klein">Vil du læse det hele? Se <a href="https://help.classpass.com/hc/en-us/articles/207942743">ClassPass' aflysningsregler</a>. Reglerne kan ændre sig; i appen ser du, hvad der gælder nu.</p>
+
 <h2 id="hvor-mange">Hvor mange credits har du brug for?</h2>
 
 Det afhænger af, hvor tit du træner, og hvilke studier du kan lide. Start med den gratis prøveperiode og noter, hvor mange credits dine yndlingshold koster. Gang det med det antal gange, du vil træne om måneden, så ser du, hvilket abonnement der passer.

@@ -78,6 +78,8 @@ Några saker som gör det enklare att boka och avboka:
 - **Blir passet inställt?** Ställs passet in eller är instruktören inte där får du helt enkelt tillbaka dina krediter.
 - **Markerad som utebliven fast du var där?** Hör av dig till ClassPass inom 14 dagar, så reder de ut det med studion.
 
+<p class="klein">Vill du läsa allt i detalj? Se <a href="https://help.classpass.com/hc/en-us/articles/207942743">ClassPass avbokningsregler</a>. Reglerna kan ändras; i appen ser du vad som gäller nu.</p>
+
 <h2 id="hur-manga">Hur många krediter behöver du?</h2>
 
 Det beror på hur ofta du tränar och vilka studior du gillar. Börja med den gratis provperioden och notera hur många krediter dina favoritklasser kostar. Gånga det med antalet gånger du vill träna per månad, så ser du vilket abonnemang som passar.

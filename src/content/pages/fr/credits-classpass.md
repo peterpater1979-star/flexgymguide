@@ -78,6 +78,8 @@ Quelques astuces pour réserver et annuler sans souci :
 - **Le cours n’a pas lieu ?** Si le cours est annulé ou si le coach n’est pas là, tu récupères simplement tes crédits.
 - **Marqué absent alors que tu étais là ?** Préviens ClassPass dans les 14 jours, ils régleront ça avec le studio.
 
+<p class="klein">Pour tout lire en détail, consulte <a href="https://help.classpass.com/hc/en-us/articles/207942743">la politique d’annulation de ClassPass</a>. Les règles peuvent changer ; l’appli t’indique ce qui s’applique.</p>
+
 <h2 id="combien">De combien de crédits as-tu besoin ?</h2>
 
 Ça dépend de ta fréquence et des studios que tu aimes. Commence par la période d’essai gratuite et note combien de crédits coûtent tes cours préférés. Multiplie par le nombre de séances que tu veux faire par mois, et tu verras quel abonnement te convient.

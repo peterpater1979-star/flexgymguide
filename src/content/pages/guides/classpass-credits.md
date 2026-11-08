@@ -78,6 +78,8 @@ A few things that make booking and cancelling easier:
 - **Class not going ahead?** If the class is called off or the instructor can't make it, you simply get your credits back.
 - **Marked as missed when you were there?** Let ClassPass know within 14 days and they'll sort it out with the studio.
 
+<p class="klein">Want the full details? Read <a href="https://help.classpass.com/hc/en-us/articles/207942743">the ClassPass cancellation policy</a>. Rules can change; the app shows what applies right now.</p>
+
 <h2 id="plan">How many credits do you need?</h2>
 
 That depends on how often you train and which studios you like. Start with the free trial and note how many credits your favourite classes cost. Multiply that by the number of times you want to train per month, and you'll see which plan fits.

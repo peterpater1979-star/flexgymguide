@@ -78,6 +78,8 @@ Ein paar Dinge, die das Buchen und Absagen leichter machen:
 - **Fällt der Kurs aus?** Fällt der Kurs aus oder ist der Trainer nicht da, bekommst du deine Credits einfach zurück.
 - **Als verpasst markiert, obwohl du da warst?** Sag ClassPass innerhalb von 14 Tagen Bescheid, dann klären sie es mit dem Studio.
 
+<p class="klein">Alles genau nachlesen? Sieh dir <a href="https://help.classpass.com/hc/en-us/articles/207942743">die Stornierungsregeln von ClassPass</a> an. Regeln können sich ändern; in der App siehst du, was gerade gilt.</p>
+
 <h2 id="wie-viele">Wie viele Credits brauchst du?</h2>
 
 Das hängt davon ab, wie oft du trainierst und welche Studios du magst. Starte mit dem kostenlosen Testzeitraum und notiere, wie viele Credits deine Lieblingskurse kosten. Multipliziere das mit der Zahl deiner Trainings pro Monat, und du siehst, welches Abo passt.

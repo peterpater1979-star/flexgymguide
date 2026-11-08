@@ -93,6 +93,8 @@ Een paar dingen die het boeken en afzeggen makkelijker maken:
 - **Gaat de les niet door?** Valt de les uit of is de instructeur er niet, dan krijg je je credits gewoon terug.
 - **Toch als gemist aangemerkt terwijl je er was?** Laat het ClassPass binnen 14 dagen weten, dan zoeken ze het met de studio uit.
 
+<p class="klein">Alles precies nalezen? Bekijk <a href="https://help.classpass.com/hc/en-us/articles/207942743">de annuleringsregels van ClassPass</a>. Regels kunnen veranderen; in de app zie je wat nu geldt.</p>
+
 <h2 id="hoeveel">Hoeveel credits heb je nodig?</h2>
 
 Dat hangt af van hoe vaak je traint en welke studio's je leuk vindt. Begin met de gratis proefperiode en noteer hoeveel credits je favoriete lessen kosten. Vermenigvuldig dat met het aantal keer dat je per maand wilt trainen, en je ziet welk abonnement past.
