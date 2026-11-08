@@ -60,7 +60,7 @@ Le nombre de crédits d’un cours n’est pas fixe. Il dépend :
 1. **Entraîne-toi en heures creuses.** Un cours en milieu de journée ou tôt le matin coûte souvent moins de crédits que le même cours le soir.
 2. **Regarde des cours similaires.** Cherche par activité, comme le yoga ou le spinning, et regarde les crédits par cours dans quelques studios près de chez toi.
 3. **Ajoute des séances en salle.** Une séance en salle entre deux cours est souvent une façon moins chère de continuer.
-4. **Annule à temps.** Une annulation tardive ou une absence peut te coûter des crédits ou des frais. Vérifie le délai d’annulation avant de réserver.
+4. **Annule à temps.** Si tu annules moins de 12 heures avant ou si tu ne viens pas, tu récupères tes crédits, mais tu paies des frais. Vérifie le délai d’annulation avant de réserver.
 5. **Profite du report.** Un mois calme ? Tes crédits non utilisés passent au mois suivant, dans la limite de ton abonnement. Pas le temps de faire du sport ? Tu peux aussi utiliser tes crédits pour un massage, le coiffeur ou un spa. Dans certaines villes, tu peux aussi les utiliser pour manger et boire.
 6. **Choisis le bon abonnement.** Si tu manques souvent de crédits, un abonnement plus grand peut être plus avantageux. S’il t’en reste toujours, un plus petit te fait économiser.
 7. **Vérifie avant de voyager.** La valeur des crédits à l’étranger peut être différente de chez toi. Lis [ClassPass en voyage](/fr/classpass-en-voyage/).
@@ -90,7 +90,7 @@ Oui. Tes crédits fonctionnent dans tous les pays où ClassPass est présent, se
 <details>
 <summary>Que se passe-t-il si j’annule trop tard ?</summary>
 
-Une annulation tardive ou une absence peut te coûter les crédits ou des frais. Les règles varient selon le studio et la ville, alors vérifie-les dans l’appli avant de réserver.
+Tu récupères tes crédits, mais tu paies des frais. C’est le cas si tu annules moins de 12 heures avant le début (ou après le délai du studio), et aussi si tu ne viens pas. Le montant varie selon le pays et le cours, et tu le vois dans l’appli avant de réserver. Parfois, ClassPass garde les crédits à la place.
 
 </details>
 

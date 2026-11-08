@@ -60,7 +60,7 @@ Es lohnt sich also, vor dem Buchen ein paar Optionen anzuschauen.
 1. **Trainiere außerhalb der Stoßzeiten.** Ein Kurs mittags oder früh morgens kostet oft weniger Credits als derselbe Kurs am Abend.
 2. **Schau dir ähnliche Kurse an.** Suche nach Aktivität, etwa Yoga oder Spinning, und achte auf die Credits pro Kurs in ein paar Studios in deiner Nähe.
 3. **Mische Gym-Besuche dazu.** Ein Gym-Besuch zwischen den Kursen ist oft eine günstigere Art, dranzubleiben.
-4. **Sag rechtzeitig ab.** Späte Absagen und Nichterscheinen können dich Credits oder eine Gebühr kosten. Prüfe vor dem Buchen die Stornierungsfrist.
+4. **Sag rechtzeitig ab.** Sagst du später als 12 Stunden vorher ab oder erscheinst nicht, bekommst du deine Credits zurück, zahlst aber eine Gebühr. Prüfe vor dem Buchen die Stornierungsfrist.
 5. **Nutze dein Übertragsguthaben.** Ruhiger Monat? Deine ungenutzten Credits gehen in den nächsten Monat über, im Rahmen deines Abos. Kommst du nicht zum Sport? Du kannst Credits auch für eine Massage, den Friseur oder das Spa ausgeben. In manchen Städten bekommst du damit auch Essen und Getränke.
 6. **Wähle ein passendes Abo.** Gehen dir oft die Credits aus, kann ein größeres Abo günstiger sein. Bleiben immer Credits übrig, sparst du mit einem kleineren.
 7. **Schau vor der Reise nach.** Der Wert von Credits im Ausland kann anders sein als zu Hause. Lies [ClassPass auf Reisen](/de/classpass-auf-reisen/).
@@ -90,7 +90,7 @@ Ja. Deine Credits funktionieren in jedem Land, in dem ClassPass aktiv ist, zum d
 <details>
 <summary>Was passiert, wenn ich zu spät absage?</summary>
 
-Eine späte Absage oder Nichterscheinen kann dich die Credits oder eine Gebühr kosten. Die Regeln sind je nach Studio und Stadt unterschiedlich, also prüfe sie vor dem Buchen in der App.
+Du bekommst deine Credits zurück, zahlst aber eine Gebühr. Das gilt, wenn du später als 12 Stunden vor Beginn absagst (oder nach der Frist des Studios), und auch, wenn du nicht erscheinst. Die Höhe ist je nach Land und Kurs unterschiedlich, du siehst sie vor dem Buchen in der App. Manchmal behält ClassPass stattdessen die Credits.
 
 </details>
 

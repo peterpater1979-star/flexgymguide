@@ -75,7 +75,7 @@ Het loont dus om een paar opties te bekijken voordat je boekt.
 1. **Train buiten de spits.** Een les midden op de dag of vroeg in de ochtend kost vaak minder credits dan dezelfde les 's avonds.
 2. **Bekijk soortgelijke lessen.** Zoek op activiteit, zoals yoga of spinning, en kijk naar de credits per les bij een paar studio's in de buurt.
 3. **Wissel af met gymbezoeken.** Een gymbezoek tussen de lessen door is vaak een voordeliger manier om te blijven trainen.
-4. **Zeg op tijd af.** Te laat afzeggen of niet komen kan je credits of een boete kosten. Kijk voor het boeken naar de annuleringstermijn.
+4. **Zeg op tijd af.** Zeg je later af dan 12 uur van tevoren of kom je niet, dan krijg je je credits terug, maar betaal je wel kosten. Kijk voor het boeken naar de annuleringstermijn.
 5. **Gebruik wat je meeneemt.** Rustige maand gehad? Je ongebruikte credits gaan mee naar de volgende maand, binnen de grens van je abonnement. Kom je niet aan sporten toe? Je kunt credits ook uitgeven aan een massage, de kapper of de spa. In sommige steden kun je er ook eten en drinken mee halen.
 6. **Kies een abonnement dat past.** Kom je vaak credits tekort, dan is een groter abonnement voordeliger. Houd je altijd over, dan bespaart een kleiner abonnement geld.
 7. **Kijk voordat je op reis gaat.** De waarde van credits in het buitenland kan anders zijn dan thuis. Lees [ClassPass op reis](/nl/classpass-op-reis/).
@@ -105,7 +105,7 @@ Ja. Je credits werken in elk land waar ClassPass actief is, tegen de lokale waar
 <details>
 <summary>Wat gebeurt er als ik te laat afzeg?</summary>
 
-Te laat afzeggen of niet komen kan je de credits of een boete kosten. De regels verschillen per studio en stad, dus kijk ze na in de app voordat je boekt.
+Je krijgt je credits terug, maar je betaalt wel kosten. Dat geldt als je later afzegt dan 12 uur voor de start (of later dan de grens van de studio), en ook als je niet komt opdagen. De hoogte verschilt per land en per les. Je ziet het bedrag in de app voordat je boekt. Soms houdt ClassPass in plaats daarvan de credits in.
 
 </details>
 

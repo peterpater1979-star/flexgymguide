@@ -42,7 +42,7 @@ Uden for Europa virker det blandt andet i USA, Canada, Australien, New Zealand, 
 <h2 id="letop">Det skal du være opmærksom på</h2>
 
 - **Anden værdi af credits.** Hver by er forskellig: den samme slags hold kan koste flere credits i én by end i en anden. Så kig lige, før du booker.
-- **Aflysning.** Du aflyser gratis indtil 12 timer før start, medmindre studiet har en tidligere frist. Derefter betaler du et gebyr, og beløbet varierer fra land til land. Japan har sine egne regler.
+- **Aflysning.** Du aflyser gratis indtil 12 timer før start, medmindre studiet har en tidligere frist. Derefter betaler du et gebyr, og beløbet varierer fra land til land. Dine credits får du dog tilbage. Japan har sine egne regler.
 - **Tidsforskel.** Booker du hjemmefra et hold på dit rejsemål, så tjek starttidspunktet på stedet grundigt.
 - **Prøveperiode.** I prøveperioden kan andre regler gælde. Når du tilmelder dig, ser du, hvad der gælder for dig.
 

@@ -60,7 +60,7 @@ Por eso vale la pena mirar varias opciones antes de reservar.
 1. **Entrena fuera de las horas punta.** Una clase a mediodía o temprano por la mañana suele costar menos créditos que la misma clase por la tarde.
 2. **Mira clases parecidas.** Busca por actividad, como yoga o spinning, y fíjate en los créditos por clase en varios estudios cerca de ti.
 3. **Añade sesiones de gimnasio.** Una sesión de gimnasio entre clases suele ser una forma más barata de seguir entrenando.
-4. **Cancela a tiempo.** Cancelar tarde o no presentarte puede costarte créditos o una penalización. Revisa el plazo de cancelación antes de reservar.
+4. **Cancela a tiempo.** Si cancelas con menos de 12 horas de antelación o no te presentas, recuperas tus créditos, pero pagas una penalización. Revisa el plazo de cancelación antes de reservar.
 5. **Aprovecha lo acumulado.** ¿Un mes tranquilo? Tus créditos sin usar pasan al mes siguiente, dentro del límite de tu plan. ¿No tienes tiempo para entrenar? También puedes usar tus créditos en un masaje, la peluquería o un spa. En algunas ciudades también puedes usarlos para comida y bebida.
 6. **Elige el plan que encaje.** Si a menudo te quedas sin créditos, un plan más grande puede salir mejor. Si siempre te sobran, uno más pequeño te ahorra dinero.
 7. **Mira antes de viajar.** El valor de los créditos en el extranjero puede ser distinto que en casa. Lee [ClassPass de viaje](/es/classpass-de-viaje/).
@@ -90,7 +90,7 @@ Sí. Tus créditos funcionan en todos los países donde está ClassPass, según 
 <details>
 <summary>¿Qué pasa si cancelo tarde?</summary>
 
-Cancelar tarde o no presentarte puede costarte los créditos o una penalización. Las reglas varían según el estudio y la ciudad, así que revísalas en la app antes de reservar.
+Recuperas tus créditos, pero pagas una penalización. Pasa si cancelas con menos de 12 horas de antelación (o después del plazo del estudio), y también si no te presentas. El importe varía según el país y la clase, y lo ves en la app antes de reservar. A veces ClassPass se queda con los créditos en su lugar.
 
 </details>
 

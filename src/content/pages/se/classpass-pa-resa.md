@@ -42,7 +42,7 @@ Utanför Europa fungerar det bland annat i USA, Kanada, Australien, Nya Zeeland,
 <h2 id="letop">Det här ska du tänka på</h2>
 
 - **Annat värde på krediterna.** Varje stad är olika: samma sorts pass kan kosta fler krediter i en stad än i en annan. Titta därför efter innan du bokar.
-- **Avbokning.** Du avbokar gratis fram till 12 timmar före start, om inte studion har en tidigare gräns. Därefter betalar du en avgift, och beloppet varierar mellan länder. Japan har egna regler.
+- **Avbokning.** Du avbokar gratis fram till 12 timmar före start, om inte studion har en tidigare gräns. Därefter betalar du en avgift, och beloppet varierar mellan länder. Dina krediter får du ändå tillbaka. Japan har egna regler.
 - **Tidsskillnad.** Bokar du hemifrån ett pass på ditt resmål, kontrollera starttiden på plats noga.
 - **Provperiod.** Under provperioden kan andra regler gälla. När du registrerar dig ser du vad som gäller för dig.
 

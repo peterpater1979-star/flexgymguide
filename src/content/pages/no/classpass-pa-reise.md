@@ -42,7 +42,7 @@ Utenfor Europa fungerer det blant annet i USA, Canada, Australia, New Zealand, J
 <h2 id="letop">Dette bør du passe på</h2>
 
 - **Annen verdi på kredittene.** Hver by er forskjellig: samme type time kan koste flere kreditter i én by enn i en annen. Så ta en titt før du booker.
-- **Avbestilling.** Du avbestiller gratis frem til 12 timer før start, med mindre studioet har en tidligere frist. Etter det betaler du et gebyr, og beløpet varierer fra land til land. Japan har egne regler.
+- **Avbestilling.** Du avbestiller gratis frem til 12 timer før start, med mindre studioet har en tidligere frist. Etter det betaler du et gebyr, og beløpet varierer fra land til land. Kredittene får du likevel tilbake. Japan har egne regler.
 - **Tidsforskjell.** Booker du hjemmefra en time på reisemålet, sjekk starttidspunktet på stedet nøye.
 - **Prøveperiode.** I prøveperioden kan andre regler gjelde. Når du registrerer deg, ser du hva som gjelder for deg.
 

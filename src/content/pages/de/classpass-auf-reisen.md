@@ -42,7 +42,7 @@ Außerhalb Europas unter anderem in den USA, Kanada, Australien, Neuseeland, Jap
 <h2 id="letop">Worauf du achten solltest</h2>
 
 - **Anderer Wert der Credits.** Jede Stadt ist anders: Dieselbe Art Kurs kann in einer Stadt mehr Credits kosten als in einer anderen. Schau also kurz, bevor du buchst.
-- **Stornieren.** Bis 12 Stunden vor Beginn stornierst du kostenlos, außer das Studio hat eine frühere Frist. Danach zahlst du eine Gebühr, deren Höhe je nach Land verschieden ist. Japan hat eigene Regeln.
+- **Stornieren.** Bis 12 Stunden vor Beginn stornierst du kostenlos, außer das Studio hat eine frühere Frist. Danach zahlst du eine Gebühr, deren Höhe je nach Land verschieden ist. Deine Credits bekommst du aber zurück. Japan hat eigene Regeln.
 - **Zeitverschiebung.** Buchst du von zu Hause einen Kurs an deinem Reiseziel, achte genau auf die Startzeit vor Ort.
 - **Probezeit.** In der Probezeit können andere Regeln gelten. Bei der Anmeldung siehst du, was für dich gilt.
 

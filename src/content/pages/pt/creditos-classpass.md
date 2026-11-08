@@ -60,7 +60,7 @@ Por isso vale a pena ver várias opções antes de reservar.
 1. **Treina fora das horas de ponta.** Uma aula a meio do dia ou cedo de manhã custa muitas vezes menos créditos do que a mesma aula à noite.
 2. **Vê aulas parecidas.** Pesquisa por atividade, como ioga ou spinning, e repara nos créditos por aula em alguns estúdios perto de ti.
 3. **Junta sessões de ginásio.** Uma sessão de ginásio entre aulas é muitas vezes uma forma mais barata de continuar a treinar.
-4. **Cancela a tempo.** Cancelar tarde ou faltar pode custar-te créditos ou uma taxa. Confirma o prazo de cancelamento antes de reservar.
+4. **Cancela a tempo.** Se cancelares com menos de 12 horas de antecedência ou faltares, recuperas os teus créditos, mas pagas uma taxa. Confirma o prazo de cancelamento antes de reservar.
 5. **Aproveita os créditos que passam.** Um mês mais calmo? Os créditos que não usaste passam para o mês seguinte, dentro do limite do teu plano. Não tens tempo para treinar? Também podes usar os créditos numa massagem, no cabeleireiro ou num spa. Em algumas cidades também os podes usar para comida e bebida.
 6. **Escolhe o plano certo.** Se ficas muitas vezes sem créditos, um plano maior pode compensar. Se te sobram sempre, um mais pequeno poupa-te dinheiro.
 7. **Confirma antes de viajar.** O valor dos créditos no estrangeiro pode ser diferente do de casa. Lê [ClassPass em viagem](/pt/classpass-em-viagem/).
@@ -90,7 +90,7 @@ Sim. Os teus créditos funcionam em todos os países onde o ClassPass está pres
 <details>
 <summary>O que acontece se cancelar tarde?</summary>
 
-Cancelar tarde ou faltar pode custar-te os créditos ou uma taxa. As regras variam conforme o estúdio e a cidade, por isso confirma-as na app antes de reservar.
+Recuperas os teus créditos, mas pagas uma taxa. Isto acontece se cancelares com menos de 12 horas de antecedência (ou depois do prazo do estúdio), e também se faltares. O valor varia conforme o país e a aula, e vês-o na app antes de reservar. Às vezes o ClassPass fica com os créditos em vez disso.
 
 </details>
 

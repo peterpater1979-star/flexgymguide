@@ -42,7 +42,7 @@ Outside Europe it works in the United States, Canada, Australia, New Zealand, Ja
 <h2 id="letop">What to watch out for</h2>
 
 - **Different credit values.** Every city is different: the same kind of class can cost more credits in one city than in another. So take a look before you book.
-- **Cancelling.** You can cancel for free up to 12 hours before the start, unless the studio has an earlier deadline. After that you pay a fee, and the amount differs by country. Japan has its own rules.
+- **Cancelling.** You can cancel for free up to 12 hours before the start, unless the studio has an earlier deadline. After that you pay a fee, and the amount differs by country. You do get your credits back. Japan has its own rules.
 - **Time difference.** If you book a class at your destination from home, check the local start time carefully.
 - **Trial.** Different rules may apply during the trial. You'll see what applies to you when you sign up.
 

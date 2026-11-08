@@ -60,7 +60,7 @@ Det lønner seg altså å se på noen alternativer før du booker.
 1. **Tren utenom rushtiden.** En time midt på dagen eller tidlig om morgenen koster ofte færre kreditter enn den samme timen om kvelden.
 2. **Se på lignende timer.** Søk på aktivitet, som yoga eller spinning, og se på kredittene per time på noen studioer i nærheten.
 3. **Bland inn treningsbesøk.** Et treningsbesøk mellom timene er ofte en billigere måte å holde treningen i gang på.
-4. **Avbestill i tide.** Sen avbestilling eller å ikke møte opp kan koste deg kreditter eller et gebyr. Sjekk avbestillingsfristen før du booker.
+4. **Avbestill i tide.** Avbestiller du senere enn 12 timer før, eller møter du ikke opp, får du kredittene tilbake, men du betaler et gebyr. Sjekk avbestillingsfristen før du booker.
 5. **Bruk overføringen.** En rolig måned? Ubrukte kreditter overføres til neste måned innenfor abonnementets grense. Rekker du ikke å trene? Du kan også bruke kreditter på massasje, frisør eller spa. I noen byer kan du også bruke dem på mat og drikke.
 6. **Velg et abonnement som passer.** Går du ofte tom for kreditter, kan et større abonnement lønne seg. Har du alltid kreditter igjen, sparer et mindre penger.
 7. **Sjekk før du reiser.** Verdien av kreditter i utlandet kan være annerledes enn hjemme. Les [ClassPass på reise](/no/classpass-pa-reise/).
@@ -90,7 +90,7 @@ Ja. Kredittene dine fungerer i alle land der ClassPass finnes, til lokal verdi.
 <details>
 <summary>Hva skjer hvis jeg avbestiller for sent?</summary>
 
-Sen avbestilling eller å ikke møte opp kan koste deg kredittene eller et gebyr. Reglene varierer mellom studioer og byer, så sjekk dem i appen før du booker.
+Du får kredittene tilbake, men du betaler et gebyr. Det gjelder hvis du avbestiller senere enn 12 timer før start (eller etter studioets egen frist), og også hvis du ikke møter opp. Beløpet varierer fra land til land og fra time til time, og du ser det i appen før du booker. Noen ganger beholder ClassPass i stedet kredittene.
 
 </details>
 

@@ -60,7 +60,7 @@ So it's worth looking at a few options before you book.
 1. **Train off-peak.** A class in the middle of the day or early in the morning often costs fewer credits than the same class in the evening.
 2. **Look at similar classes.** Search by activity, such as yoga or spinning, and look at the credits per class across a few studios near you.
 3. **Mix in gym visits.** A gym visit between classes is often a cheaper way to keep training.
-4. **Cancel on time.** Late cancellations and no-shows can cost you credits or a fee. Check the cancellation window before you book.
+4. **Cancel on time.** If you cancel later than 12 hours before or don't show up, you get your credits back, but you pay a fee. Check the cancellation window before you book.
 5. **Use your rollover.** Had a quiet month? Your unused credits move to the next month, within the limit of your plan. Not getting round to working out? You can also spend credits on a massage, a haircut or the spa. In some cities you can also use them for food and drinks.
 6. **Pick a plan that fits.** If you often run out of credits, a bigger plan can be better value. If you always have credits left, a smaller plan saves money.
 7. **Check before you travel.** Credit values abroad can be different from home, so look at a few classes before you plan your week. Read [ClassPass while travelling](/guides/classpass-while-travelling/).
@@ -90,7 +90,7 @@ Yes. Your credits work in every country where ClassPass is available, at the loc
 <details>
 <summary>What happens if I cancel a class late?</summary>
 
-A late cancellation or a no-show can cost you the credits or a fee. The rules can differ per studio and city, so check them in the app before you book.
+You get your credits back, but you pay a fee. That applies if you cancel later than 12 hours before the start (or after the studio's own deadline), and also if you don't show up. The amount differs by country and by class, and you see it in the app before you book. Sometimes ClassPass keeps the credits instead.
 
 </details>
 

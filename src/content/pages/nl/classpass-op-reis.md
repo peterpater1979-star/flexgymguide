@@ -42,7 +42,7 @@ Buiten Europa werkt het onder meer in de Verenigde Staten, Canada, Australië, N
 <h2 id="letop">Waar je op let</h2>
 
 - **Andere waarde van credits.** Elke stad is anders: dezelfde soort les kan in de ene stad meer credits kosten dan in de andere. Kijk dus even voordat je boekt.
-- **Afzeggen.** Tot 12 uur voor de start zeg je gratis af, tenzij de studio een eerdere grens heeft. Daarna betaal je een boete, en de hoogte daarvan verschilt per land. Japan heeft eigen regels.
+- **Afzeggen.** Tot 12 uur voor de start zeg je gratis af, tenzij de studio een eerdere grens heeft. Daarna betaal je een boete, en de hoogte daarvan verschilt per land. Je credits krijg je wel terug. Japan heeft eigen regels.
 - **Tijdsverschil.** Boek je vanuit huis een les op je bestemming, kijk dan goed naar de begintijd ter plekke.
 - **Proefperiode.** In de proefperiode kunnen andere regels gelden. Bij je aanmelding zie je wat er voor jou geldt.
 
