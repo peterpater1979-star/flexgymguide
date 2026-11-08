@@ -397,7 +397,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 <li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-paris-fles">Gourde</a></li>
 <li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-paris-handdoek">Serviette de sport</a></li>
 <li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-paris-hangslot">Cadenas pour le casier</a></li>
-<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-paris-gripsokken">Chaussettes antidérapantes pour yoga et pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-paris-gripsokken">Chaussettes grip pour yoga et pilates</a></li>
 </ul>
 
 <p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>

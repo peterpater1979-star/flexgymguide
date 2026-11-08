@@ -178,7 +178,7 @@ Nämä linkit vievät suoraan Traininniin, Tradeinnin treenikauppaan.
 <li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-turku-fles">Juomapullo</a></li>
 <li class="i-handdoek"><a href="/go/traininn-fi-handdoek/?ws=fgg-fi-turku-handdoek">Treenipyyhe</a></li>
 <li class="i-slot"><a href="/go/bricoinn-fi-cadenas/?ws=fgg-fi-turku-hangslot">Lukko kaappiin</a></li>
-<li class="i-sok"><a href="/go/traininn-fi-gripsokken/?ws=fgg-fi-turku-gripsokken">Liukumattomat sukat joogaan ja pilatekseen</a></li>
+<li class="i-sok"><a href="/go/traininn-fi-gripsokken/?ws=fgg-fi-turku-gripsokken">Grip-sukat joogaan ja pilatekseen</a></li>
 </ul>
 
 <p class="klein commissie">Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos!</p>

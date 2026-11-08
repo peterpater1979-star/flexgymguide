@@ -274,7 +274,7 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 <li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-uk-bristol-fles">Water bottle</a></li>
 <li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-uk-bristol-handdoek">Gym towel</a></li>
 <li class="i-slot"><a href="/go/bricoinn-en-cadenas/?ws=fgg-uk-bristol-hangslot">Locker padlock</a></li>
-<li class="i-sok"><a href="/go/traininn-en-gripsokken/?ws=fgg-uk-bristol-gripsokken">Non-slip socks for yoga and Pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-en-gripsokken/?ws=fgg-uk-bristol-gripsokken">Grip socks for yoga and Pilates</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>

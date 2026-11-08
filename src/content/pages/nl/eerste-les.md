@@ -81,7 +81,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 <li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-eerste-les-fles">Waterfles</a></li>
 <li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-eerste-les-handdoek">Sporthanddoek</a></li>
 <li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-eerste-les-hangslot">Hangslot voor het kluisje</a></li>
-<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-eerste-les-gripsokken">Antislipsokken voor yoga en pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-eerste-les-gripsokken">Gripsokken voor yoga en pilates</a></li>
 <li class="i-bandage"><a href="/go/traininn-nl-bandages/?ws=fgg-nl-eerste-les-bandages">Boksbandages</a></li>
 <li class="i-handschoen"><a href="/go/traininn-nl-handschoenen/?ws=fgg-nl-eerste-les-handschoenen">Bokshandschoenen</a></li>
 </ul>

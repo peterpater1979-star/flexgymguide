@@ -81,7 +81,7 @@ Calzado de suela plana y firme para sentadillas y levantamientos. Una toalla par
 <li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-primera-clase-fles">Botella de agua</a></li>
 <li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-primera-clase-handdoek">Toalla de deporte</a></li>
 <li class="i-slot"><a href="/go/bricoinn-es-cadenas/?ws=fgg-es-primera-clase-hangslot">Candado para la taquilla</a></li>
-<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-primera-clase-gripsokken">Calcetines antideslizantes para yoga y pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-primera-clase-gripsokken">Calcetines grip para yoga y pilates</a></li>
 <li class="i-mat"><a href="/go/traininn-es-mat/?ws=fgg-es-primera-clase-yogamat">Esterilla de yoga o ejercicio</a></li>
 <li class="i-bandage"><a href="/go/traininn-es-bandages/?ws=fgg-es-primera-clase-bandages">Vendas de boxeo</a></li>
 <li class="i-handschoen"><a href="/go/traininn-es-handschoenen/?ws=fgg-es-primera-clase-bokshandschoenen">Guantes de boxeo</a></li>

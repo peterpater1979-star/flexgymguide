@@ -263,7 +263,7 @@ Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de f
 <li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-porto-fles">Garrafa de água</a></li>
 <li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-porto-handdoek">Toalha de desporto</a></li>
 <li class="i-slot"><a href="/go/bricoinn-pt-cadenas/?ws=fgg-pt-porto-hangslot">Cadeado para o cacifo</a></li>
-<li class="i-sok"><a href="/go/traininn-pt-gripsokken/?ws=fgg-pt-porto-gripsokken">Meias antiderrapantes para ioga e pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-pt-gripsokken/?ws=fgg-pt-porto-gripsokken">Meias grip para ioga e pilates</a></li>
 </ul>
 
 <p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>

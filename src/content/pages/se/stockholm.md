@@ -241,7 +241,7 @@ De här länkarna tar dig direkt till Traininn, Tradeinns träningsbutik.
 <li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-stockholm-fles">Vattenflaska</a></li>
 <li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-stockholm-handdoek">Träningshandduk</a></li>
 <li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-stockholm-hangslot">Hänglås till skåpet</a></li>
-<li class="i-sok"><a href="/go/traininn-sv-gripsokken/?ws=fgg-se-stockholm-gripsokken">Halkfria strumpor för yoga och pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-sv-gripsokken/?ws=fgg-se-stockholm-gripsokken">Gripstrumpor för yoga och pilates</a></li>
 </ul>
 
 <p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack!</p>

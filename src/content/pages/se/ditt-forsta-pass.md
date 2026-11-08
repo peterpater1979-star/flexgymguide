@@ -81,7 +81,7 @@ De här länkarna tar dig direkt till Traininn, Tradeinns träningsbutik.
 <li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-ditt-forsta-pass-fles">Vattenflaska</a></li>
 <li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-ditt-forsta-pass-handdoek">Träningshandduk</a></li>
 <li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-ditt-forsta-pass-hangslot">Hänglås till skåpet</a></li>
-<li class="i-sok"><a href="/go/traininn-sv-gripsokken/?ws=fgg-se-ditt-forsta-pass-gripsokken">Halkfria strumpor för yoga och pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-sv-gripsokken/?ws=fgg-se-ditt-forsta-pass-gripsokken">Gripstrumpor för yoga och pilates</a></li>
 <li class="i-bandage"><a href="/go/traininn-sv-bandages/?ws=fgg-se-ditt-forsta-pass-bandages">Boxningslindor</a></li>
 <li class="i-handschoen"><a href="/go/traininn-sv-vechtsport/?ws=fgg-se-ditt-forsta-pass-bokshandschoenen">Boxningshandskar</a></li>
 </ul>

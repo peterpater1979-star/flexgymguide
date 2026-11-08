@@ -81,7 +81,7 @@ Nämä linkit vievät suoraan Traininniin, Tradeinnin treenikauppaan.
 <li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-ensimmainen-tunti-fles">Juomapullo</a></li>
 <li class="i-handdoek"><a href="/go/traininn-fi-handdoek/?ws=fgg-fi-ensimmainen-tunti-handdoek">Treenipyyhe</a></li>
 <li class="i-slot"><a href="/go/bricoinn-fi-cadenas/?ws=fgg-fi-ensimmainen-tunti-hangslot">Lukko kaappiin</a></li>
-<li class="i-sok"><a href="/go/traininn-fi-gripsokken/?ws=fgg-fi-ensimmainen-tunti-gripsokken">Liukumattomat sukat joogaan ja pilatekseen</a></li>
+<li class="i-sok"><a href="/go/traininn-fi-gripsokken/?ws=fgg-fi-ensimmainen-tunti-gripsokken">Grip-sukat joogaan ja pilatekseen</a></li>
 <li class="i-bandage"><a href="/go/traininn-fi-bandages/?ws=fgg-fi-ensimmainen-tunti-bandages">Nyrkkeilysiteet</a></li>
 <li class="i-handschoen"><a href="/go/traininn-fi-vechtsport/?ws=fgg-fi-ensimmainen-tunti-bokshandschoenen">Nyrkkeilyhanskat</a></li>
 </ul>

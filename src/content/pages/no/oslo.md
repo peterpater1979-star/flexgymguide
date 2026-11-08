@@ -220,7 +220,7 @@ Disse lenkene tar deg direkte til Traininn, treningsbutikken til Tradeinn.
 <li class="i-fles"><a href="/go/traininn-no-fles/?ws=fgg-no-oslo-fles">Drikkeflaske</a></li>
 <li class="i-handdoek"><a href="/go/traininn-no-handdoek/?ws=fgg-no-oslo-handdoek">Treningshåndkle</a></li>
 <li class="i-slot"><a href="/go/bricoinn-no-cadenas/?ws=fgg-no-oslo-hangslot">Hengelås til skapet</a></li>
-<li class="i-sok"><a href="/go/traininn-no-gripsokken/?ws=fgg-no-oslo-gripsokken">Sklisikre sokker til yoga og pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-no-gripsokken/?ws=fgg-no-oslo-gripsokken">Gripsokker til yoga og pilates</a></li>
 </ul>
 
 <p class="klein commissie">Kjøper du via disse lenkene, får vi en liten provisjon. Du betaler ikke mer, og guiden forblir gratis. Takk!</p>

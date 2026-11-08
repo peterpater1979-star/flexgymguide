@@ -83,7 +83,7 @@ These links take you straight to Traininn, the fitness shop of Tradeinn, which a
 <li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-lu-index-fles">Water bottle</a></li>
 <li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-lu-index-handdoek">Gym towel</a></li>
 <li class="i-slot"><a href="/go/bricoinn-en-cadenas/?ws=fgg-lu-index-hangslot">Locker padlock</a></li>
-<li class="i-sok"><a href="/go/traininn-en-gripsokken/?ws=fgg-lu-index-gripsokken">Non-slip socks for yoga and Pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-en-gripsokken/?ws=fgg-lu-index-gripsokken">Grip socks for yoga and Pilates</a></li>
 <li class="i-fles"><a href="/go/traininn-en-shaker/?ws=fgg-lu-index-shaker">Protein shaker</a></li>
 </ul>
 

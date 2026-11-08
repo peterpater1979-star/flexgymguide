@@ -183,7 +183,7 @@ La prueba es solo para nuevos miembros. Todos los detalles en [Probar ClassPass 
 <li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-ibiza-fles">Botella de agua</a></li>
 <li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-ibiza-handdoek">Toalla de deporte</a></li>
 <li class="i-slot"><a href="/go/bricoinn-es-cadenas/?ws=fgg-es-ibiza-hangslot">Candado para la taquilla</a></li>
-<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-ibiza-gripsokken">Calcetines antideslizantes para yoga y pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-ibiza-gripsokken">Calcetines grip para yoga y pilates</a></li>
 </ul>
 
 <p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>

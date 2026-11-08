@@ -220,7 +220,7 @@ Disse links fører dig direkte til Traininn, fitnessbutikken hos Tradeinn.
 <li class="i-fles"><a href="/go/traininn-da-fles/?ws=fgg-dk-koebenhavn-fles">Drikkedunk</a></li>
 <li class="i-handdoek"><a href="/go/traininn-da-handdoek/?ws=fgg-dk-koebenhavn-handdoek">Træningshåndklæde</a></li>
 <li class="i-slot"><a href="/go/bricoinn-da-cadenas/?ws=fgg-dk-koebenhavn-hangslot">Hængelås til skabet</a></li>
-<li class="i-sok"><a href="/go/traininn-da-gripsokken/?ws=fgg-dk-koebenhavn-gripsokken">Skridsikre sokker til yoga og pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-da-gripsokken/?ws=fgg-dk-koebenhavn-gripsokken">Gripsokker til yoga og pilates</a></li>
 </ul>
 
 <p class="klein commissie">Køber du via disse links, får vi en lille provision. Du betaler ikke mere, og guiden forbliver gratis. Tak!</p>

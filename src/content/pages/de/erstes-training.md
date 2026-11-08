@@ -81,7 +81,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 <li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-erstes-training-fles">Trinkflasche</a></li>
 <li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-erstes-training-handdoek">Sporthandtuch</a></li>
 <li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-de-erstes-training-hangslot">Vorhängeschloss für den Spind</a></li>
-<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-de-erstes-training-gripsokken">Rutschfeste Socken für Yoga und Pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-de-erstes-training-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
 <li class="i-bandage"><a href="/go/traininn-de-bandages/?ws=fgg-de-erstes-training-bandages">Boxbandagen</a></li>
 <li class="i-handschoen"><a href="/go/traininn-de-handschoenen/?ws=fgg-de-erstes-training-handschoenen">Boxhandschuhe</a></li>
 </ul>
