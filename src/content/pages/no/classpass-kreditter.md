@@ -65,6 +65,12 @@ Det lønner seg altså å se på noen alternativer før du booker.
 6. **Velg et abonnement som passer.** Går du ofte tom for kreditter, kan et større abonnement lønne seg. Har du alltid kreditter igjen, sparer et mindre penger.
 7. **Sjekk før du reiser.** Verdien av kreditter i utlandet kan være annerledes enn hjemme. Les [ClassPass på reise](/no/classpass-pa-reise/).
 
+<h2 id="booking">Greit å vite</h2>
+
+- **Kom i god tid.** Kom gjerne 10 til 15 minutter før start, så du kan skifte i ro og fred. Noen studioer starter presist og slipper ikke inn dem som kommer for sent.
+- **Heller en annen time?** Avbestill den første og book den nye. Gjerne i god tid.
+- **Avbestill i appen.** Da får du kredittene tilbake med en gang, og noen andre kan få plassen din.
+
 <h2 id="hvor-mange">Hvor mange kreditter trenger du?</h2>
 
 Det avhenger av hvor ofte du trener og hvilke studioer du liker. Start med den gratis prøveperioden og noter hvor mange kreditter favorittimene dine koster. Gang det med antall ganger du vil trene i måneden, så ser du hvilket abonnement som passer.

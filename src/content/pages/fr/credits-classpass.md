@@ -65,6 +65,12 @@ Le nombre de crédits d’un cours n’est pas fixe. Il dépend :
 6. **Choisis le bon abonnement.** Si tu manques souvent de crédits, un abonnement plus grand peut être plus avantageux. S’il t’en reste toujours, un plus petit te fait économiser.
 7. **Vérifie avant de voyager.** La valeur des crédits à l’étranger peut être différente de chez toi. Lis [ClassPass en voyage](/fr/classpass-en-voyage/).
 
+<h2 id="reserver">Bon à savoir</h2>
+
+- **Arrive un peu en avance.** L’idéal, c’est 10 à 15 minutes avant le début, pour te changer tranquillement. Certains studios commencent pile à l’heure et ne laissent plus entrer les retardataires.
+- **Tu préfères un autre cours ?** Annule le premier et réserve le nouveau. De préférence bien à l’avance.
+- **On annule dans l’appli.** Tu récupères tout de suite tes crédits et quelqu’un d’autre peut prendre ta place.
+
 <h2 id="combien">De combien de crédits as-tu besoin ?</h2>
 
 Ça dépend de ta fréquence et des studios que tu aimes. Commence par la période d’essai gratuite et note combien de crédits coûtent tes cours préférés. Multiplie par le nombre de séances que tu veux faire par mois, et tu verras quel abonnement te convient.

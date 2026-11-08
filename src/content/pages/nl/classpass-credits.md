@@ -80,6 +80,12 @@ Het loont dus om een paar opties te bekijken voordat je boekt.
 6. **Kies een abonnement dat past.** Kom je vaak credits tekort, dan is een groter abonnement voordeliger. Houd je altijd over, dan bespaart een kleiner abonnement geld.
 7. **Kijk voordat je op reis gaat.** De waarde van credits in het buitenland kan anders zijn dan thuis. Lees [ClassPass op reis](/nl/classpass-op-reis/).
 
+<h2 id="boeken">Handig om te weten</h2>
+
+- **Wees er op tijd.** Kom het liefst 10 tot 15 minuten voor de start, dan kun je rustig omkleden. Sommige studio's beginnen stipt en laten laatkomers niet meer binnen.
+- **Toch liever een andere les?** Zeg je eerste les af en boek de nieuwe. Doe dat het liefst ruim van tevoren.
+- **Afzeggen doe je in de app.** Zo krijg je je credits meteen terug en kan iemand anders je plekje krijgen.
+
 <h2 id="hoeveel">Hoeveel credits heb je nodig?</h2>
 
 Dat hangt af van hoe vaak je traint en welke studio's je leuk vindt. Begin met de gratis proefperiode en noteer hoeveel credits je favoriete lessen kosten. Vermenigvuldig dat met het aantal keer dat je per maand wilt trainen, en je ziet welk abonnement past.

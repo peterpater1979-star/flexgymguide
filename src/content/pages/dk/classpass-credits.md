@@ -65,6 +65,12 @@ Det betaler sig altså at se på et par muligheder, før du booker.
 6. **Vælg et abonnement, der passer.** Løber du tit tør for credits, kan et større abonnement betale sig. Har du altid credits tilbage, sparer et mindre penge.
 7. **Tjek før du rejser.** Værdien af credits i udlandet kan være anderledes end hjemme. Læs [ClassPass på rejsen](/dk/classpass-paa-rejse/).
 
+<h2 id="booking">Godt at vide</h2>
+
+- **Kom i god tid.** Kom gerne 10 til 15 minutter før start, så du kan klæde om i ro og mag. Nogle studier starter præcist og lukker ikke folk ind, der kommer for sent.
+- **Hellere et andet hold?** Meld afbud til det første, og book det nye. Gerne i god tid.
+- **Afbud melder du i appen.** Så får du dine credits tilbage med det samme, og en anden kan få din plads.
+
 <h2 id="hvor-mange">Hvor mange credits har du brug for?</h2>
 
 Det afhænger af, hvor tit du træner, og hvilke studier du kan lide. Start med den gratis prøveperiode og noter, hvor mange credits dine yndlingshold koster. Gang det med det antal gange, du vil træne om måneden, så ser du, hvilket abonnement der passer.

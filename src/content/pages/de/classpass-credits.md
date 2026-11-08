@@ -65,6 +65,12 @@ Es lohnt sich also, vor dem Buchen ein paar Optionen anzuschauen.
 6. **Wähle ein passendes Abo.** Gehen dir oft die Credits aus, kann ein größeres Abo günstiger sein. Bleiben immer Credits übrig, sparst du mit einem kleineren.
 7. **Schau vor der Reise nach.** Der Wert von Credits im Ausland kann anders sein als zu Hause. Lies [ClassPass auf Reisen](/de/classpass-auf-reisen/).
 
+<h2 id="buchen">Gut zu wissen</h2>
+
+- **Sei rechtzeitig da.** Komm am besten 10 bis 15 Minuten vor Beginn, dann kannst du dich in Ruhe umziehen. Manche Studios starten pünktlich und lassen Zuspätkommende nicht mehr rein.
+- **Doch lieber ein anderer Kurs?** Sag den ersten Kurs ab und buch den neuen. Am besten mit genug Vorlauf.
+- **Absagen geht in der App.** So bekommst du deine Credits sofort zurück und jemand anders kann deinen Platz nehmen.
+
 <h2 id="wie-viele">Wie viele Credits brauchst du?</h2>
 
 Das hängt davon ab, wie oft du trainierst und welche Studios du magst. Starte mit dem kostenlosen Testzeitraum und notiere, wie viele Credits deine Lieblingskurse kosten. Multipliziere das mit der Zahl deiner Trainings pro Monat, und du siehst, welches Abo passt.

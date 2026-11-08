@@ -65,6 +65,12 @@ So it's worth looking at a few options before you book.
 6. **Pick a plan that fits.** If you often run out of credits, a bigger plan can be better value. If you always have credits left, a smaller plan saves money.
 7. **Check before you travel.** Credit values abroad can be different from home, so look at a few classes before you plan your week. Read [ClassPass while travelling](/guides/classpass-while-travelling/).
 
+<h2 id="booking">Good to know</h2>
+
+- **Arrive in good time.** Ideally 10 to 15 minutes before the start, so you can get changed without rushing. Some studios start right on time and don't let latecomers in.
+- **Fancy a different class?** Cancel the first one and book the new one. Preferably well in advance.
+- **Cancel in the app.** That way your credits come straight back and someone else can take your spot.
+
 <h2 id="plan">How many credits do you need?</h2>
 
 That depends on how often you train and which studios you like. Start with the free trial and note how many credits your favourite classes cost. Multiply that by the number of times you want to train per month, and you'll see which plan fits.

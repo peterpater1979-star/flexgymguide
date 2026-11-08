@@ -65,6 +65,12 @@ Por eso vale la pena mirar varias opciones antes de reservar.
 6. **Elige el plan que encaje.** Si a menudo te quedas sin créditos, un plan más grande puede salir mejor. Si siempre te sobran, uno más pequeño te ahorra dinero.
 7. **Mira antes de viajar.** El valor de los créditos en el extranjero puede ser distinto que en casa. Lee [ClassPass de viaje](/es/classpass-de-viaje/).
 
+<h2 id="reservar">Bueno saber</h2>
+
+- **Llega con tiempo.** Lo ideal es llegar 10 o 15 minutos antes, para cambiarte con calma. Algunos estudios empiezan puntuales y no dejan entrar a quien llega tarde.
+- **¿Prefieres otra clase?** Cancela la primera y reserva la nueva. Mejor con antelación.
+- **Se cancela en la app.** Así recuperas tus créditos al momento y otra persona puede ocupar tu sitio.
+
 <h2 id="cuantos">¿Cuántos créditos necesitas?</h2>
 
 Depende de cuántas veces entrenas y de qué estudios te gustan. Empieza con el periodo de prueba gratis y apunta cuántos créditos cuestan tus clases favoritas. Multiplícalo por las veces que quieres entrenar al mes y verás qué plan te encaja.

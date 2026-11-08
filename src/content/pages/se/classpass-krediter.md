@@ -65,6 +65,12 @@ Det lönar sig alltså att titta på några alternativ innan du bokar.
 6. **Välj ett abonnemang som passar.** Tar krediterna ofta slut kan ett större abonnemang löna sig. Har du alltid krediter kvar sparar ett mindre pengar.
 7. **Kolla innan du reser.** Värdet på krediter utomlands kan vara annorlunda än hemma. Läs [ClassPass på resa](/se/classpass-pa-resa/).
 
+<h2 id="boka">Bra att veta</h2>
+
+- **Var ute i god tid.** Kom gärna 10 till 15 minuter innan start, så hinner du byta om i lugn och ro. Vissa studior börjar prick och släpper inte in den som kommer sent.
+- **Hellre ett annat pass?** Avboka det första och boka det nya. Gärna i god tid.
+- **Avboka i appen.** Då får du tillbaka krediterna direkt och någon annan kan ta din plats.
+
 <h2 id="hur-manga">Hur många krediter behöver du?</h2>
 
 Det beror på hur ofta du tränar och vilka studior du gillar. Börja med den gratis provperioden och notera hur många krediter dina favoritklasser kostar. Gånga det med antalet gånger du vill träna per månad, så ser du vilket abonnemang som passar.

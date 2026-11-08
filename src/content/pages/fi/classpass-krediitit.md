@@ -65,6 +65,12 @@ Kannattaa siis katsoa muutamaa vaihtoehtoa ennen varaamista.
 6. **Valitse sopiva tilaus.** Jos krediitit loppuvat usein kesken, isompi tilaus voi kannattaa. Jos niitä jää aina yli, pienempi säästää rahaa.
 7. **Tarkista ennen matkaa.** Krediittien arvo ulkomailla voi olla eri kuin kotona. Lue [ClassPass matkoilla](/fi/classpass-matkoilla/).
 
+<h2 id="varaaminen">Hyvä tietää</h2>
+
+- **Tule ajoissa.** Paras tulla 10–15 minuuttia ennen alkua, niin ehdit vaihtaa vaatteet rauhassa. Osa studioista aloittaa täsmälleen ajallaan eikä päästä myöhästyneitä sisään.
+- **Mieluummin toinen tunti?** Peru ensimmäinen ja varaa uusi. Mieluiten hyvissä ajoin.
+- **Peruminen käy sovelluksessa.** Saat krediitit heti takaisin, ja joku muu voi saada paikkasi.
+
 <h2 id="kuinka-monta">Montako krediittiä tarvitset?</h2>
 
 Se riippuu siitä, kuinka usein treenaat ja mistä studioista pidät. Aloita ilmaisella kokeilujaksolla ja merkitse ylös, montako krediittiä lempituntisi maksavat. Kerro se sillä, kuinka monta kertaa haluat treenata kuukaudessa, niin näet, mikä tilaus sopii.

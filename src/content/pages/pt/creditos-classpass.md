@@ -65,6 +65,12 @@ Por isso vale a pena ver várias opções antes de reservar.
 6. **Escolhe o plano certo.** Se ficas muitas vezes sem créditos, um plano maior pode compensar. Se te sobram sempre, um mais pequeno poupa-te dinheiro.
 7. **Confirma antes de viajar.** O valor dos créditos no estrangeiro pode ser diferente do de casa. Lê [ClassPass em viagem](/pt/classpass-em-viagem/).
 
+<h2 id="reservar">Bom saber</h2>
+
+- **Chega com tempo.** O ideal é chegar 10 a 15 minutos antes, para te mudares com calma. Alguns estúdios começam à hora certa e já não deixam entrar quem chega atrasado.
+- **Preferes outra aula?** Cancela a primeira e reserva a nova. De preferência com antecedência.
+- **Cancela-se na app.** Assim recuperas logo os créditos e outra pessoa pode ficar com o teu lugar.
+
 <h2 id="quantos">De quantos créditos precisas?</h2>
 
 Depende de quantas vezes treinas e dos estúdios de que gostas. Começa pelo período experimental gratuito e aponta quantos créditos custam as tuas aulas favoritas. Multiplica pelo número de vezes que queres treinar por mês e vês que plano te serve.
