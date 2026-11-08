@@ -100,7 +100,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 - 14 days free with 10 workouts to try it out
 - Reformer Pilates in West Bridgford and the Lace Market, F45 at the Waterside and pole fitness in the city
 - Also gyms in Lenton, Mapperley, Colwick and the rest of Nottingham
-- Use it in 31 countries
+- Use it in more than 2,500 other cities in 31 countries
 
 ### Good for
 

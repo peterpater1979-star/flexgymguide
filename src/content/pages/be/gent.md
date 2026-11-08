@@ -108,7 +108,7 @@ Centrum, Dok-Noord en Sint-Denijs-Westrem. Pilates, krachttraining, yoga en spin
 - Elke maand credits voor lessen en gymbezoek
 - Standaard 35 credits voor € 49 per maand
 - 14 dagen gratis met 10 work-outs om te proberen
-- Werkt ook in 31 landen
+- Werkt ook in meer dan 2.500 steden in 31 landen
 
 ### Let op
 

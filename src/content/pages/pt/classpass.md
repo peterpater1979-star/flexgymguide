@@ -26,7 +26,7 @@ O ClassPass é um passe desportivo: pagas uma mensalidade e recebes créditos. U
 | **Tipo** | Passe desportivo com créditos |
 | **Atividades** | Ioga, pilates, boxe, spinning, musculação, ginásio e mais |
 | **Cancelamento** | A qualquer momento, antes da data de renovação |
-| **No estrangeiro** | <span class="ja" aria-hidden="true">✓</span> Sim, em 31 países |
+| **No estrangeiro** | <span class="ja" aria-hidden="true">✓</span> Sim, em mais de 2.500 cidades de 31 países |
 
 <p class="klein">Os preços e condições mudam com frequência. Confirma sempre a informação atual no site do ClassPass.</p>
 
@@ -71,7 +71,7 @@ Na app vês que estúdios e ginásios participam perto de ti.
 
 <h2 id="estrangeiro">O ClassPass no estrangeiro</h2>
 
-A tua subscrição também funciona fora de Portugal, em 31 países. Em viagem, reservas simplesmente uma aula com os teus créditos. Os preços e a oferta variam de país para país.
+A tua subscrição também funciona fora de Portugal, em mais de 2.500 cidades de 31 países. Em viagem, reservas simplesmente uma aula com os teus créditos. Os preços e a oferta variam de país para país.
 
 <ul class="continenten">
 <li class="breed"><strong>Europa</strong> Áustria · Bélgica · Dinamarca · Finlândia · França · Alemanha · Irlanda · Países Baixos · Noruega · Portugal · Espanha · Suécia · Suíça · Reino Unido</li>

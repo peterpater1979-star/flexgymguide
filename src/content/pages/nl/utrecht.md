@@ -107,7 +107,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 - Studio's door heel Utrecht: de binnenstad (vooral rond de Oudegracht), Lombok, Oost, Zuilen, Rivierenwijk en Leidsche Rijn
 - Vooral veel yoga (ook hot yoga) en pilates, maar ook krachttraining en boksen
 - Ook studio's in De Meern, Maarssen en Bilthoven
-- Ook te gebruiken in 31 landen
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 

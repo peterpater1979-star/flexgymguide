@@ -119,7 +119,7 @@ Chamberí, Salamanca, Centro, Chamartín y Retiro. Yoga, Pilates, fuerza y barre
 - Créditos cada mes para clases y sesiones de gimnasio
 - Plan estándar 59 € al mes (37 créditos)
 - 14 días gratis con 10 sesiones para probar
-- Funciona también en 31 países
+- Funciona también en más de 2.500 ciudades de 31 países
 
 ### A tener en cuenta
 

@@ -105,7 +105,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 - Een kleiner aanbod in Haarlem zelf, zoals yoga en pilates in het centrum en dansles
 - Werk of woon je ook in Amsterdam? Daar heb je met hetzelfde abonnement veel meer keuze
 - Ook studio's in Beverwijk, Aalsmeer en Sassenheim
-- Ook te gebruiken in 31 landen
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 

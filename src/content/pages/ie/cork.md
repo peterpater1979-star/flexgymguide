@@ -109,7 +109,7 @@ A small choice, in the city centre, Shandon, Ballintemple and Douglas. Mostly st
 - Monthly credits for classes and gym visits
 - Standard plan: 33 credits for €49 a month
 - 14 days free with 10 workouts to try it
-- Use it in 31 countries
+- Use it in more than 2,500 other cities in 31 countries
 
 ### Watch out for
 

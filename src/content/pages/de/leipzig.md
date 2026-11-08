@@ -104,7 +104,7 @@ Ein überschaubares Angebot, vor allem im Zentrum. Yoga bei Hot Yoga Leipzig, Be
 - Monatliche Credits für Kurse und Gym-Besuche
 - Standard-Abo in Leipzig: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in 31 Ländern nutzbar
+- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für
 

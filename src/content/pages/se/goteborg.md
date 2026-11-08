@@ -108,7 +108,7 @@ Centrum, Linné, Majorna, Johanneberg, Gårda och Eriksberg. Mest gym, även yog
 - Krediter varje månad för pass och gym
 - Standard: 34 krediter för 599 kr i månaden (standard)
 - 14 dagar gratis med 10 träningspass
-- Fungerar även i 31 länder
+- Fungerar även i över 2 500 städer i 31 länder
 
 ### Tänk på
 

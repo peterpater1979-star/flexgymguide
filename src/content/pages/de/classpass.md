@@ -29,7 +29,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 | **Was du machen kannst** | Yoga, Pilates, Boxen, Spinning, Krafttraining, Gym-Besuche und mehr |
 | **Kündigung** | Keine Mindestlaufzeit, jederzeit anpassbar, pausierbar oder kündbar |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 31 Ländern |
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei ClassPass.</p>
 
@@ -127,7 +127,7 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 
 <h2 id="ausland">ClassPass im Ausland</h2>
 
-Dein Abo funktioniert auch außerhalb von Deutschland, in 31 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
+Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten in 31 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
 
 <ul class="continenten">
 <li class="breed"><strong>Europa</strong> Österreich · Belgien · Dänemark · Finnland · Frankreich · Deutschland · Irland · Niederlande · Norwegen · Portugal · Spanien · Schweden · Schweiz · Vereinigtes Königreich</li>
@@ -189,7 +189,7 @@ Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie in diesem M
 <details>
 <summary>Kann ich ClassPass im Ausland nutzen?</summary>
 
-Ja, überall dort, wo ClassPass aktiv ist: in 31 Ländern, zu den Preisen des jeweiligen Landes.
+Ja, überall dort, wo ClassPass aktiv ist: in über 2.500 Städten in 31 Ländern, zu den Preisen des jeweiligen Landes.
 
 </details>
 

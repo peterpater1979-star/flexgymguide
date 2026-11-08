@@ -106,7 +106,7 @@ A small choice, mostly gyms across Tyneside. In Newcastle itself there are HiiCL
 - 14 days free with 10 workouts to try it out
 - Reformer Pilates on the Quayside, a health club in Gosforth and yoga studios in the city
 - Also gyms in Gateshead, North Shields, Whitley Bay and the rest of Tyneside
-- Use it in 31 countries
+- Use it in more than 2,500 other cities in 31 countries
 
 ### Good for
 

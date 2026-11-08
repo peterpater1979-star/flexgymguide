@@ -107,7 +107,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 - Studio's door heel Rotterdam: het centrum, Kralingen, Hillegersberg, Noord en Zuid
 - Vooral veel yoga en pilates, maar ook krachttraining, aerial en vechtsport
 - Ook studio's in Schiedam, Capelle aan den IJssel en Delft
-- Ook te gebruiken in 31 landen
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 

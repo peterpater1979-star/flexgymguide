@@ -105,7 +105,7 @@ A good mix of boutique studios and gyms, mostly in the city centre, Chapel Aller
 - Standard plan in Leeds: 36 credits for £49 a month
 - 14 days free with 10 workouts to try it out
 - Studios in the city centre, Chapel Allerton, Kirkstall and Pudsey
-- Use it in 31 countries
+- Use it in more than 2,500 other cities in 31 countries
 
 ### Good for
 

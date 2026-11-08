@@ -113,7 +113,7 @@ Een heel groot aanbod, verspreid over de hele stad: van pilates, yoga en spinnin
 - Studio's door heel Amsterdam: Oud-West, Centrum, de Jordaan, De Pijp, Oost, Oud-Zuid en Noord
 - Vooral veel pilates, maar ook yoga, spinning, krachttraining, boksen en open gym
 - Ook studio's in Amstelveen en Weesp
-- Ook te gebruiken in 31 landen
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 

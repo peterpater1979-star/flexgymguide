@@ -88,7 +88,7 @@ Ook voor ontspanning: huidbehandelingen bij Mourits Skin Therapy aan de Hinthame
 - Standaardabonnement in Den Bosch: 40 credits voor € 59 per maand
 - 14 dagen gratis met 10 workouts om te proberen
 - Een kleiner aanbod: krachttraining, HIIT, boksen, reformer pilates en aerial
-- Ook te gebruiken in 31 landen
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 

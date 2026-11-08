@@ -86,7 +86,7 @@ Et mindre udvalg i Aarhus C og Aarhus Ø, og også i Højbjerg. Pilates, styrket
 - Credits hver måned til hold og fitness
 - Standard: 40 credits for 499 kr. om måneden (standard)
 - 14 dage gratis med 10 træninger
-- Fungerer også i 31 lande
+- Fungerer også i over 2.500 byer i 31 lande
 
 ### Vær opmærksom på
 

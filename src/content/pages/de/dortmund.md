@@ -104,7 +104,7 @@ Ein überschaubares Angebot. In Dortmund selbst gibt es Pilates und Yoga bei LiV
 - Monatliche Credits für Kurse und Gym-Besuche
 - Standard-Abo in Dortmund: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in 31 Ländern nutzbar
+- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
 
 ### Gut für
 

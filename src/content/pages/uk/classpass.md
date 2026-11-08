@@ -29,7 +29,7 @@ ClassPass is a fitness pass: you pay one monthly fee and get credits in return. 
 | **What you can do** | Yoga, Pilates, boxing, spin, strength training, gym visits and more |
 | **Cancelling** | Change, pause or cancel any time |
 | **Try it first** | <span class="ja" aria-hidden="true">✓</span> Free trial |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries |
+| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in more than 2,500 cities in 31 countries |
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with ClassPass.</p>
 
@@ -109,7 +109,7 @@ Read more for your city:
 
 <h2 id="abroad">ClassPass abroad</h2>
 
-Your plan also works outside the UK, in 31 countries. So when you travel, you simply book a class with your credits. Prices and choice vary by country.
+Your plan also works outside the UK, in more than 2,500 cities in 31 countries. So when you travel, you simply book a class with your credits. Prices and choice vary by country.
 
 <ul class="continenten">
 <li class="breed"><strong>Europe</strong> Austria · Belgium · Denmark · Finland · France · Germany · Ireland · Netherlands · Norway · Portugal · Spain · Sweden · Switzerland · United Kingdom</li>
@@ -177,7 +177,7 @@ Unused credits roll over for one month. If you don't use them that month, they e
 <details>
 <summary>Can I use ClassPass abroad?</summary>
 
-Yes, wherever ClassPass is active: in 31 countries, at that country's prices.
+Yes, wherever ClassPass is active: in more than 2,500 cities in 31 countries, at that country's prices.
 
 </details>
 

@@ -26,7 +26,7 @@ ClassPass er et treningspass: Du betaler en månedspris og får kreditter i bytt
 | **Type** | Treningspass med kreditter |
 | **Dette kan du gjøre** | Yoga, pilates, boksing, spinning, styrketrening, treningssenterbesøk og mer |
 | **Oppsigelse** | Når som helst, før fornyelsesdatoen din |
-| **I utlandet** | <span class="ja" aria-hidden="true">✓</span> Ja, i 31 land |
+| **I utlandet** | <span class="ja" aria-hidden="true">✓</span> Ja, i over 2 500 byer i 31 land |
 
 <p class="klein">Priser og vilkår endres jevnlig. Sjekk alltid den aktuelle informasjonen hos ClassPass.</p>
 
@@ -68,7 +68,7 @@ Med ClassPass har du mest å velge mellom i og rundt:
 
 <h2 id="utlandet">ClassPass i utlandet</h2>
 
-Abonnementet ditt fungerer også utenfor Norge, i 31 land. På reise booker du bare en time med kredittene dine. Priser og utvalg varierer fra land til land.
+Abonnementet ditt fungerer også utenfor Norge, i over 2 500 byer i 31 land. På reise booker du bare en time med kredittene dine. Priser og utvalg varierer fra land til land.
 
 <ul class="continenten">
 <li class="breed"><strong>Europa</strong> Østerrike · Belgia · Danmark · Finland · Frankrike · Tyskland · Irland · Nederland · Norge · Portugal · Spania · Sverige · Sveits · Storbritannia</li>

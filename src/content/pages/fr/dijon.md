@@ -114,7 +114,7 @@ Surtout des salles de sport en accès libre, avec des cours collectifs sur place
 - Des crédits chaque mois pour des cours et des séances en salle
 - Abonnement standard à Dijon : 37 crédits pour 59 € par mois
 - 14 jours gratuits avec 10 séances pour essayer
-- Ça marche aussi dans 31 pays
+- Ça marche aussi dans plus de 2 500 villes et 31 pays
 
 ### À savoir
 

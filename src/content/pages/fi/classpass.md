@@ -26,7 +26,7 @@ ClassPass on treenipassi: maksat kuukausimaksun ja saat sen vastineeksi krediitt
 | **Tyyppi** | Treenipassi krediiteillä |
 | **Mitä voit tehdä** | Joogaa, pilatesta, nyrkkeilyä, spinningiä, voimaharjoittelua, kuntosalikäyntejä ja paljon muuta |
 | **Irtisanominen** | Milloin tahansa ennen uusiutumispäivää |
-| **Ulkomailla** | <span class="ja" aria-hidden="true">✓</span> Kyllä, 31 maassa |
+| **Ulkomailla** | <span class="ja" aria-hidden="true">✓</span> Kyllä, yli 2 500 kaupungissa 31 maassa |
 
 <p class="klein">Hinnat ja ehdot muuttuvat säännöllisesti. Tarkista ajankohtaiset tiedot aina ClassPassilta.</p>
 
@@ -70,7 +70,7 @@ Näissä kaupungeissa sinulla on ClassPassin kanssa eniten valinnanvaraa:
 
 <h2 id="ulkomailla">ClassPass ulkomailla</h2>
 
-Jäsenyytesi toimii myös Suomen ulkopuolella, 31 maassa. Matkoilla varaat tunnin tavalliseen tapaan krediiteilläsi. Hinnat ja tarjonta vaihtelevat maittain.
+Jäsenyytesi toimii myös Suomen ulkopuolella, yli 2 500 kaupungissa 31 maassa. Matkoilla varaat tunnin tavalliseen tapaan krediiteilläsi. Hinnat ja tarjonta vaihtelevat maittain.
 
 <ul class="continenten">
 <li class="breed"><strong>Eurooppa</strong> Itävalta · Belgia · Tanska · Suomi · Ranska · Saksa · Irlanti · Alankomaat · Norja · Portugali · Espanja · Ruotsi · Sveitsi · Iso-Britannia</li>

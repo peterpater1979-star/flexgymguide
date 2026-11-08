@@ -91,7 +91,7 @@ Ook voor ontspanning: massage bij City Gym aan het Laat en huid-, nagel- en wenk
 - 14 dagen gratis met 10 workouts om te proberen
 - Studio's in Alkmaar, Heerhugowaard en Heiloo: krachttraining, open gym, (reformer) pilates, yoga, boksen en dans
 - Werk of studeer je ook in Amsterdam of Haarlem? Daar heb je met hetzelfde abonnement veel meer keuze
-- Ook te gebruiken in 31 landen
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 

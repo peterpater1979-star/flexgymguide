@@ -105,7 +105,7 @@ A good choice, mostly in the city centre around Deansgate, Spinningfields, the N
 - Standard plan in Manchester: 36 credits for £49 a month
 - 14 days free with 10 workouts to try it out
 - Studios in the city centre, the Northern Quarter, Chorlton and Salford
-- Use it in 31 countries
+- Use it in more than 2,500 other cities in 31 countries
 
 ### Good for
 

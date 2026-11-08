@@ -88,7 +88,7 @@ Ook voor ontspanning en beauty: ontharen en wimpers bij Farzana Clinic en spabeh
 - Standaardabonnement in Breda: 40 credits voor € 59 per maand
 - 14 dagen gratis met 10 workouts om te proberen
 - Studio's voor (reformer) pilates, barre, yoga, spinning, boksen, hiphop en krachttraining
-- Ook te gebruiken in 31 landen
+- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
 </div>
 
