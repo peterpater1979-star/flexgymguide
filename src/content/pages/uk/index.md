@@ -67,25 +67,25 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
 
-### PureGym
+### Village Gym
 
-Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on any plan, from £18.99 a month, with classes at most gyms.
+34 health clubs at Village Hotels, each with an indoor pool, a sauna and over 100 classes a week. Each club sets its own price.
 
-- Good if you want to train cheaply and often
-- No contract: cancel anytime
-- Price differs per gym
+- Good if you want a gym and a pool in one place
+- Peak or Off Peak membership
+- 12-month or Flexible term
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
 </div>
 
 </div>
 
 </div>
 
-<p class="meer-aanbieders">And also: Anytime Fitness, Village Gym. <a href="#other">See the other gyms</a></p>
+<p class="meer-aanbieders">And also: PureGym, Anytime Fitness. <a href="#other">See the other gyms</a></p>
 
 <div id="steden">
 
@@ -112,6 +112,24 @@ Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on an
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+
+### PureGym
+
+Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on any plan, from £18.99 a month, with classes at most gyms.
+
+- Good if you want to train cheaply and often
+- No contract: cancel anytime
+- Price differs per gym
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
 
 ### Anytime Fitness
@@ -124,24 +142,6 @@ Small gyms open 24/7, including in London and Manchester. Each club sets its own
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
-
-### Village Gym
-
-34 health clubs at Village Hotels, each with an indoor pool, a sauna and over 100 classes a week. Each club sets its own price.
-
-- Good if you want a gym and a pool in one place
-- Peak or Off Peak membership
-- 12-month or Flexible term
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
 </div>
 
 </div>
