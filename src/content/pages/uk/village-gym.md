@@ -24,6 +24,7 @@ Village Gym is a chain of 34 health clubs at Village Hotels across the UK. Every
 | **Contract** | 12-month agreement, or at least 3 months plus 90 days' notice |
 | **Classes** | <span class="ja" aria-hidden="true">✓</span> More than 100 a week, included |
 | **Pool and spa** | <span class="ja" aria-hidden="true">✓</span> Indoor pool, sauna and steam room, included |
+| **Day pass** | <span class="ja" aria-hidden="true">✓</span> For example £25 at Cheadle, near Manchester |
 | **Students** | Student and 16–22 memberships at a lower price |
 | **Other clubs** | Only with an upgraded membership or a guest fee |
 
@@ -43,6 +44,8 @@ Off-peak hours differ per club, for example 8am to 5pm on weekdays in Newcastle,
 <h2 id="prices">Prices</h2>
 
 Village Gym has no national price list: each club sets its own monthly price and joining fee, and the website shows the price once you choose a club. With a Results membership (12 months) you pay a lower joining fee, according to the membership terms.
+
+Want to try a club first? Buy a day pass online. An adult day pass at Village Gym Cheadle cost £25 in November 2026, including the pool, sauna, steam room and whirlpool. You use it within 7 days of buying.
 
 Ask your own club about:
 

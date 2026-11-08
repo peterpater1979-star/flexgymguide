@@ -216,7 +216,7 @@ Anytime Fitness has a gym in Manchester Central that is open 24/7, with classes 
 
 <h3>Village Gym</h3>
 
-Village Gym has four health clubs around Manchester: in Ashton Moss, Bury, Cheadle and Hyde. Each has a gym floor, an indoor pool, a sauna and more than 100 classes a week, and Cheadle, Hyde and Bury also have squash courts. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
+Village Gym has four health clubs around Manchester: in Ashton Moss, Bury, Cheadle and Hyde. Each has a gym floor, an indoor pool, a sauna and more than 100 classes a week, and Cheadle, Hyde and Bury also have squash courts. A day pass costs £25 at Cheadle. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
