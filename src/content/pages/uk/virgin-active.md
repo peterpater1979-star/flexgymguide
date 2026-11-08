@@ -19,7 +19,7 @@ Virgin Active is a chain of health clubs with 31 clubs in the UK, according to t
 | --- | --- |
 | **Type** | Health club with gym, classes, spa and in most clubs a pool |
 | **Clubs** | 31 in the UK, 21 of them in London |
-| **Price** | Set per club. Example: £100 a month in Chelmsford (any time, 12 months), plus a £20 joining fee |
+| **Price** | Set per club. Example in Chelmsford: £100 a month with 12 months, £135 rolling monthly |
 | **Memberships** | 12-month or monthly (rolling), plus off-peak, family and age-related options at some clubs |
 | **Classes** | <span class="ja" aria-hidden="true">✓</span> Unlimited, included |
 | **Pool and spa** | <span class="ja" aria-hidden="true">✓</span> Spa at every club, pool at most clubs |
@@ -33,7 +33,7 @@ Virgin Active is a chain of health clubs with 31 clubs in the UK, according to t
 | Membership | Term |
 | --- | --- |
 | **12-month membership** | You commit for 12 months |
-| **Monthly membership** | Rolling, month by month |
+| **Monthly membership** | Rolling, with a minimum of one month |
 | **Corporate membership** | Through your employer, at participating companies |
 
 At some clubs there are also off-peak, club-only, family and age-related memberships. Ask your club which ones it offers.
@@ -46,8 +46,8 @@ At **Virgin Active Chelmsford** in Essex, these were the prices in November 2026
 
 | Membership | Price |
 | --- | --- |
-| **Any time, 12 months** | £100 a month by direct debit |
-| **Joining fee** | £20, one-off |
+| **Any time, 12 months** | £100 a month, plus a £20 joining fee |
+| **Any time, monthly** | £135 a month, plus a £30 joining fee |
 
 This includes unlimited access to the Chelmsford club, group classes and the app, plus access to some other Virgin Active clubs. The club is open from 5:30am to 10pm on weekdays and from 7am to 7pm at weekends.
 
@@ -111,14 +111,14 @@ No contract, good if you like switching between studios. Read [All about ClassPa
 <details open>
 <summary>How much is Virgin Active?</summary>
 
-It depends on the club and the membership. In Chelmsford, an any-time 12-month membership costs £100 a month, plus a £20 joining fee (November 2026). Each club sets its own price, and the website shows it once you choose a club.
+It depends on the club and the membership. In Chelmsford, an any-time membership costs £100 a month with 12 months and £135 a month rolling monthly, plus a joining fee of £20 or £30 (November 2026). Each club sets its own price, and the website shows it once you choose a club.
 
 </details>
 
 <details>
 <summary>Does Virgin Active have a contract?</summary>
 
-You choose a 12-month membership or a rolling monthly one. Check the notice period in your contract.
+You choose a 12-month membership or a rolling monthly one with a minimum of one month. Check the notice period in your contract.
 
 </details>
 
