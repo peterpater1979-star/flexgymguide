@@ -200,3 +200,6 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 /* Verwijzing naar overige aanbieders onder de bovenste kaarten */
 .meer-aanbieders { max-width: 72ch; margin: 0 0 2rem; padding: .9rem 1.25rem; background: var(--white); border-left: 4px solid var(--accent); border-radius: var(--radius); box-shadow: var(--shadow); }
 .meer-aanbieders a { font-weight: 600; white-space: nowrap; }
+@media (min-width: 720px) {
+  .spullen { padding-right: 190px; min-height: 170px; background: url(/img/foto/spullen.jpg) right top / 170px 170px no-repeat; background-clip: border-box; }
+}
