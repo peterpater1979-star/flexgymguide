@@ -95,7 +95,7 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 | **[PureGym](/uk/puregym/)** | Budget gym chain | From £18.99 (Off-Peak), varies by gym | No contract | Over 450 gyms in the UK |
 | **[The Gym Group](/uk/the-gym-group/)** | Low-cost gym chain | Varies by gym: Off-peak, Standard or Ultimate | No contract on monthly plans, Saver plans 9 or 12 months | Over 260 gyms in the UK |
 | **[David Lloyd](/uk/david-lloyd/)** | Family health club | Set per club, not shown online | 12 months, or 3 months with Flexible | More than 100 clubs in the UK |
-| **[Virgin Active](/uk/virgin-active/)** | Health club with spa | Set per club | 12 months or rolling monthly | 31 clubs, 21 in London |
+| **[Virgin Active](/uk/virgin-active/)** | Health club with spa | Set per club, for example £100 in Chelmsford (12 months) | 12 months or rolling monthly | 31 clubs, 21 in London |
 | **[Anytime Fitness](/uk/anytime-fitness/)** | 24/7 gym | Set per club, for example £39.95 to £59.99 | 3, 6 or 12 months, or rolling monthly | Clubs across the UK, over 5,500 worldwide |
 | **[Fitness First](/uk/fitness-first/)** | Gym chain | From £70 (Single Club) at London Liverpool Street, varies by club | 1 to 12 months, depending on the club | 25 clubs, 17 in London |
 | **[Village Gym](/uk/village-gym/)** | Health club with pool | Set per club, day pass £25 at Cheadle | 12 months, or at least 3 months with Flexible | 34 clubs at Village Hotels |
