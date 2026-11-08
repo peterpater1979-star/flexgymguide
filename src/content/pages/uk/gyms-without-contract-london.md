@@ -22,6 +22,7 @@ Just moved to London, here for a few months, or simply not keen on a 12-month co
 | **The Gym Group** | No contract on monthly plans; cancel at least four working days before your next payment | From £29.99 a month at Oxford Street, plus a £20 joining fee | Cheap, frequent training, mostly 24/7 |
 | **Fitness First** | Minimum term; student plan 9 months, or 3 months paid up front; check Classic when you join | From £90 a month, depending on the club (students from £69) | Premium gym with classes |
 | **Anytime Fitness** | Rolling monthly contract; check the notice period with your club | £59.99 a month at Aldgate, plus a £40 key fee | Training 24/7, also abroad |
+| **Virgin Active** | Rolling monthly membership with a minimum of one month; check the notice period in your contract | Set per club, for example £135 a month in Chelmsford, plus a £30 joining fee | Gym, pool, spa and classes in one place |
 | **Drop-in class or class pack** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location London. The Gym Group: Oxford Street. Fitness First: Thomas More Square, Fenchurch Street and London Bridge Cottons. Always check the current price with the provider.</p>
@@ -90,6 +91,14 @@ You cancel with the online form on your club's page or at the club. Check the no
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
+</div>
+
+<h2 id="virgin-active">Virgin Active: monthly membership</h2>
+
+Virgin Active has 21 health clubs in London, from the City to Kensington, Chiswick and Wimbledon. All have a spa and unlimited classes, and all but Cannon Street have a pool. Besides a 12-month membership, Virgin Active offers a rolling monthly membership with a minimum of one month. It costs more per month: at Virgin Active Chelmsford it was £135 a month in November 2026, plus a £30 joining fee, against £100 a month with 12 months. Each club sets its own price, and the website shows it once you choose your club. Check the notice period in your contract before you join.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
 </div>
 
 <h2 id="drop-in">Drop-in classes and class packs</h2>
