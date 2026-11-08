@@ -68,7 +68,7 @@ Es lohnt sich also, vor dem Buchen ein paar Optionen anzuschauen.
 <h2 id="buchen">Gut zu wissen</h2>
 
 - **Sei rechtzeitig da.** Komm am besten 10 bis 15 Minuten vor Beginn, dann kannst du dich in Ruhe umziehen. Manche Studios starten pünktlich und lassen Zuspätkommende nicht mehr rein.
-- **Doch lieber ein anderer Kurs?** Sag den ersten Kurs ab und buch den neuen. Am besten mit genug Vorlauf.
+- **Doch lieber ein anderer Kurs?** Sag den ersten Kurs ab und buch den neuen. Mach das mindestens 12 Stunden vorher, dann kostet es nichts.
 - **Absagen geht in der App.** So bekommst du deine Credits sofort zurück und jemand anders kann deinen Platz nehmen.
 
 <h2 id="wie-viele">Wie viele Credits brauchst du?</h2>

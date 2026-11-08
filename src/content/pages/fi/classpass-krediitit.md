@@ -68,7 +68,7 @@ Kannattaa siis katsoa muutamaa vaihtoehtoa ennen varaamista.
 <h2 id="varaaminen">Hyvä tietää</h2>
 
 - **Tule ajoissa.** Paras tulla 10–15 minuuttia ennen alkua, niin ehdit vaihtaa vaatteet rauhassa. Osa studioista aloittaa täsmälleen ajallaan eikä päästä myöhästyneitä sisään.
-- **Mieluummin toinen tunti?** Peru ensimmäinen ja varaa uusi. Mieluiten hyvissä ajoin.
+- **Mieluummin toinen tunti?** Peru ensimmäinen ja varaa uusi. Tee se vähintään 12 tuntia ennen, niin se ei maksa mitään.
 - **Peruminen käy sovelluksessa.** Saat krediitit heti takaisin, ja joku muu voi saada paikkasi.
 
 <h2 id="kuinka-monta">Montako krediittiä tarvitset?</h2>

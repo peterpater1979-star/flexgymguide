@@ -68,7 +68,7 @@ Por isso vale a pena ver várias opções antes de reservar.
 <h2 id="reservar">Bom saber</h2>
 
 - **Chega com tempo.** O ideal é chegar 10 a 15 minutos antes, para te mudares com calma. Alguns estúdios começam à hora certa e já não deixam entrar quem chega atrasado.
-- **Preferes outra aula?** Cancela a primeira e reserva a nova. De preferência com antecedência.
+- **Preferes outra aula?** Cancela a primeira e reserva a nova. Faz isso pelo menos 12 horas antes e não pagas nada.
 - **Cancela-se na app.** Assim recuperas logo os créditos e outra pessoa pode ficar com o teu lugar.
 
 <h2 id="quantos">De quantos créditos precisas?</h2>

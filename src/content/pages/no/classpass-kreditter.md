@@ -68,7 +68,7 @@ Det lønner seg altså å se på noen alternativer før du booker.
 <h2 id="booking">Greit å vite</h2>
 
 - **Kom i god tid.** Kom gjerne 10 til 15 minutter før start, så du kan skifte i ro og fred. Noen studioer starter presist og slipper ikke inn dem som kommer for sent.
-- **Heller en annen time?** Avbestill den første og book den nye. Gjerne i god tid.
+- **Heller en annen time?** Avbestill den første og book den nye. Gjør det minst 12 timer før, så koster det ingenting.
 - **Avbestill i appen.** Da får du kredittene tilbake med en gang, og noen andre kan få plassen din.
 
 <h2 id="hvor-mange">Hvor mange kreditter trenger du?</h2>

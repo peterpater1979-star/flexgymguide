@@ -68,7 +68,7 @@ Por eso vale la pena mirar varias opciones antes de reservar.
 <h2 id="reservar">Bueno saber</h2>
 
 - **Llega con tiempo.** Lo ideal es llegar 10 o 15 minutos antes, para cambiarte con calma. Algunos estudios empiezan puntuales y no dejan entrar a quien llega tarde.
-- **¿Prefieres otra clase?** Cancela la primera y reserva la nueva. Mejor con antelación.
+- **¿Prefieres otra clase?** Cancela la primera y reserva la nueva. Hazlo al menos 12 horas antes y no te cuesta nada.
 - **Se cancela en la app.** Así recuperas tus créditos al momento y otra persona puede ocupar tu sitio.
 
 <h2 id="cuantos">¿Cuántos créditos necesitas?</h2>

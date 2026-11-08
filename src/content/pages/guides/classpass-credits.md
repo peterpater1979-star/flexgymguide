@@ -68,7 +68,7 @@ So it's worth looking at a few options before you book.
 <h2 id="booking">Good to know</h2>
 
 - **Arrive in good time.** Ideally 10 to 15 minutes before the start, so you can get changed without rushing. Some studios start right on time and don't let latecomers in.
-- **Fancy a different class?** Cancel the first one and book the new one. Preferably well in advance.
+- **Fancy a different class?** Cancel the first one and book the new one. Do it at least 12 hours before, and it costs you nothing.
 - **Cancel in the app.** That way your credits come straight back and someone else can take your spot.
 
 <h2 id="plan">How many credits do you need?</h2>

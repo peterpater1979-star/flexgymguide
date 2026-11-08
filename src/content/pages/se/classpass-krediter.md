@@ -68,7 +68,7 @@ Det lönar sig alltså att titta på några alternativ innan du bokar.
 <h2 id="boka">Bra att veta</h2>
 
 - **Var ute i god tid.** Kom gärna 10 till 15 minuter innan start, så hinner du byta om i lugn och ro. Vissa studior börjar prick och släpper inte in den som kommer sent.
-- **Hellre ett annat pass?** Avboka det första och boka det nya. Gärna i god tid.
+- **Hellre ett annat pass?** Avboka det första och boka det nya. Gör det minst 12 timmar innan, så kostar det ingenting.
 - **Avboka i appen.** Då får du tillbaka krediterna direkt och någon annan kan ta din plats.
 
 <h2 id="hur-manga">Hur många krediter behöver du?</h2>

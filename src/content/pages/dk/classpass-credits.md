@@ -68,7 +68,7 @@ Det betaler sig altså at se på et par muligheder, før du booker.
 <h2 id="booking">Godt at vide</h2>
 
 - **Kom i god tid.** Kom gerne 10 til 15 minutter før start, så du kan klæde om i ro og mag. Nogle studier starter præcist og lukker ikke folk ind, der kommer for sent.
-- **Hellere et andet hold?** Meld afbud til det første, og book det nye. Gerne i god tid.
+- **Hellere et andet hold?** Meld afbud til det første, og book det nye. Gør det mindst 12 timer før, så koster det ingenting.
 - **Afbud melder du i appen.** Så får du dine credits tilbage med det samme, og en anden kan få din plads.
 
 <h2 id="hvor-mange">Hvor mange credits har du brug for?</h2>

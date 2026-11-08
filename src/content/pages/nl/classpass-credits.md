@@ -83,7 +83,7 @@ Het loont dus om een paar opties te bekijken voordat je boekt.
 <h2 id="boeken">Handig om te weten</h2>
 
 - **Wees er op tijd.** Kom het liefst 10 tot 15 minuten voor de start, dan kun je rustig omkleden. Sommige studio's beginnen stipt en laten laatkomers niet meer binnen.
-- **Toch liever een andere les?** Zeg je eerste les af en boek de nieuwe. Doe dat het liefst ruim van tevoren.
+- **Toch liever een andere les?** Zeg je eerste les af en boek de nieuwe. Doe dat minstens 12 uur van tevoren, dan kost het je niets.
 - **Afzeggen doe je in de app.** Zo krijg je je credits meteen terug en kan iemand anders je plekje krijgen.
 
 <h2 id="hoeveel">Hoeveel credits heb je nodig?</h2>
