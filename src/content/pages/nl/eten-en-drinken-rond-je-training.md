@@ -25,6 +25,7 @@ Voor een les van een uur of een gewone training in de sportschool heb je meestal
 
 <ul class="spullen">
 <li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-eten-en-drinken-rond-je-training-fles">Sport waterfles</a></li>
+<li class="i-fles"><a href="/go/bikeinn-nl-sportdrank/?ws=fgg-nl-eten-en-drinken-rond-je-training-sportdrank">Sportdranken</a></li>
 </ul>
 
 <h2 id="voor">Voor de training: klein en licht</h2>
@@ -58,6 +59,7 @@ Let bij het kiezen op:
 
 <ul class="spullen">
 <li class="i-fles"><a href="/go/traininn-nl-voeding/?ws=fgg-nl-eten-en-drinken-rond-je-training-voeding">Eiwitpoeder en sportvoeding</a></li>
+<li class="i-fles"><a href="/go/bikeinn-nl-repen/?ws=fgg-nl-eten-en-drinken-rond-je-training-repen">Eiwit- en energierepen</a></li>
 <li class="i-fles"><a href="/go/traininn-nl-shaker/?ws=fgg-nl-eten-en-drinken-rond-je-training-shaker">Shaker</a></li>
 </ul>
 

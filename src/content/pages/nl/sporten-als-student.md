@@ -68,6 +68,7 @@ Met een paar goedkope spullen train je ook op je kamer, bijvoorbeeld op dagen da
 <ul class="spullen">
 <li class="i-mat"><a href="/go/traininn-nl-mat/?ws=fgg-nl-sporten-als-student-yogamat">Yogamat</a></li>
 <li class="i-band"><a href="/go/traininn-nl-banden/?ws=fgg-nl-sporten-als-student-banden">Weerstandsbanden</a></li>
+<li class="i-touw"><a href="/go/traininn-nl-springtouw/?ws=fgg-nl-sporten-als-student-springtouw">Springtouw</a></li>
 <li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-sporten-als-student-fles">Waterfles</a></li>
 </ul>
 
