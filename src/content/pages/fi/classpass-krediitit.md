@@ -72,6 +72,7 @@ Muutama asia, jotka helpottavat varaamista ja perumista:
 - **Tule ajoissa.** Paras tulla 10–15 minuuttia ennen alkua, niin ehdit vaihtaa vaatteet rauhassa. Osa studioista aloittaa täsmälleen ajallaan eikä päästä myöhästyneitä sisään.
 - **Mieluummin toinen tunti?** Peru ensimmäinen ja varaa uusi. Tee se vähintään 12 tuntia ennen, niin se ei maksa mitään.
 - **Peruminen käy sovelluksessa.** Saat krediitit heti takaisin, ja joku muu voi saada paikkasi.
+- **Este tullut alle 12 tuntia ennen?** Peru silti. Se on edullisempaa kuin jättää tulematta, ja joku muu voi vielä saada paikkasi.
 - **Viivästys matkalla?** Rengasrikko tai ruuhka? Laita studiolle viesti. Moni studio suhtautuu ymmärtäväisesti, mutta siihen ei aina voi luottaa.
 - **Missä näet varauksesi?** Sovelluksessa tulevien tuntiesi kohdalla. Siitä näet myös, onnistuiko peruutus: tunti on poissa listalta ja saat vahvistuksen sähköpostiin.
 - **Eikö tuntia pidetäkään?** Jos tunti peruuntuu tai ohjaaja ei tule, saat krediitit yksinkertaisesti takaisin.

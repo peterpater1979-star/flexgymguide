@@ -72,6 +72,7 @@ Algunas cosas que facilitan reservar y cancelar:
 - **Llega con tiempo.** Lo ideal es llegar 10 o 15 minutos antes, para cambiarte con calma. Algunos estudios empiezan puntuales y no dejan entrar a quien llega tarde.
 - **¿Prefieres otra clase?** Cancela la primera y reserva la nueva. Hazlo al menos 12 horas antes y no te cuesta nada.
 - **Se cancela en la app.** Así recuperas tus créditos al momento y otra persona puede ocupar tu sitio.
+- **¿No puedes ir y faltan menos de 12 horas?** Cancela igualmente. Sale más barato que no presentarte y otra persona aún puede ocupar tu sitio.
 - **¿Un imprevisto por el camino?** ¿Una avería o un atasco? Manda un mensaje al estudio. Muchos estudios son comprensivos, aunque no siempre puedes contar con ello.
 - **¿Dónde ves tus reservas?** En la app, junto a tus próximas clases. Ahí también ves si una cancelación ha funcionado: la clase ya no aparece y recibes un correo de confirmación.
 - **¿No hay clase?** Si la clase se cancela o el instructor no está, recuperas tus créditos sin más.

@@ -72,6 +72,7 @@ Några saker som gör det enklare att boka och avboka:
 - **Var ute i god tid.** Kom gärna 10 till 15 minuter innan start, så hinner du byta om i lugn och ro. Vissa studior börjar prick och släpper inte in den som kommer sent.
 - **Hellre ett annat pass?** Avboka det första och boka det nya. Gör det minst 12 timmar innan, så kostar det ingenting.
 - **Avboka i appen.** Då får du tillbaka krediterna direkt och någon annan kan ta din plats.
+- **Förhindrad med mindre än 12 timmar kvar?** Avboka ändå. Det blir billigare än att utebli, och någon annan kan fortfarande få din plats.
 - **Försenad på vägen?** Punktering eller kö? Skicka gärna ett meddelande till studion. Många studior är förstående, men det kan du inte alltid räkna med.
 - **Var ser du dina bokningar?** I appen, bland dina kommande pass. Där ser du också om en avbokning gick igenom: passet är borta och du får ett bekräftelsemejl.
 - **Blir passet inställt?** Ställs passet in eller är instruktören inte där får du helt enkelt tillbaka dina krediter.

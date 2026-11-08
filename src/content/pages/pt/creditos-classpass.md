@@ -72,6 +72,7 @@ Algumas coisas que facilitam reservar e cancelar:
 - **Chega com tempo.** O ideal é chegar 10 a 15 minutos antes, para te mudares com calma. Alguns estúdios começam à hora certa e já não deixam entrar quem chega atrasado.
 - **Preferes outra aula?** Cancela a primeira e reserva a nova. Faz isso pelo menos 12 horas antes e não pagas nada.
 - **Cancela-se na app.** Assim recuperas logo os créditos e outra pessoa pode ficar com o teu lugar.
+- **Não podes ir e faltam menos de 12 horas?** Cancela na mesma. Fica mais barato do que faltar e outra pessoa ainda pode ficar com o teu lugar.
 - **Um imprevisto pelo caminho?** Uma avaria ou trânsito? Manda à vontade uma mensagem ao estúdio. Muitos estúdios são compreensivos, mas nem sempre podes contar com isso.
 - **Onde vês as tuas reservas?** Na app, junto às tuas próximas aulas. Aí também vês se um cancelamento resultou: a aula já não aparece e recebes um e-mail de confirmação.
 - **A aula não se realiza?** Se a aula for cancelada ou o instrutor não estiver, recuperas simplesmente os créditos.
