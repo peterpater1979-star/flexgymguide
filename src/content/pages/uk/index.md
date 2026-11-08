@@ -85,6 +85,21 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 
 </div>
 
+<h2 id="overview">All providers at a glance</h2>
+
+<p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>
+
+| Provider | Type | Price per month | Term | Locations |
+| --- | --- | --- | --- | --- |
+| **[ClassPass](/uk/classpass/)** | Fitness pass with credits | Standard plan £69 (52 credits) in London, £49 (36 credits) in Manchester | Cancel any time | Studios in every big UK city. Usable in 31 countries |
+| **[PureGym](/uk/puregym/)** | Budget gym chain | From £18.99 (Off-Peak), varies by gym | No contract | Over 450 gyms in the UK |
+| **[The Gym Group](/uk/the-gym-group/)** | Low-cost gym chain | Varies by gym: Off-peak, Standard or Ultimate | No contract on monthly plans, Saver plans 9 or 12 months | Over 260 gyms in the UK |
+| **[David Lloyd](/uk/david-lloyd/)** | Family health club | Set per club, not shown online | 12 months, or 3 months with Flexible | More than 100 clubs in the UK |
+| **[Virgin Active](/uk/virgin-active/)** | Health club with spa | Set per club | 12 months or rolling monthly | 31 clubs, 21 in London |
+| **[Anytime Fitness](/uk/anytime-fitness/)** | 24/7 gym | Set per club, for example £39.95 to £59.99 | 3, 6 or 12 months, or rolling monthly | Clubs across the UK, over 5,500 worldwide |
+| **[Fitness First](/uk/fitness-first/)** | Gym chain | From £70 (Single Club) at London Liverpool Street, varies by club | 1 to 12 months, depending on the club | 25 clubs, 17 in London |
+| **[Village Gym](/uk/village-gym/)** | Health club with pool | Set per club, day pass £25 at Cheadle | 12 months, or at least 3 months with Flexible | 34 clubs at Village Hotels |
+
 <p class="meer-aanbieders">And also: David Lloyd, Virgin Active, PureGym, Anytime Fitness. <a href="#other">See the other gyms</a></p>
 
 <div id="steden">
@@ -108,7 +123,7 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 
 <h2 id="other">Other gyms</h2>
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div class="kolom kaart aanbiederkaart">
 
