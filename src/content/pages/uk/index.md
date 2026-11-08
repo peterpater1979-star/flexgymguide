@@ -85,7 +85,7 @@ Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on an
 
 </div>
 
-<p class="meer-aanbieders">And also: Anytime Fitness. <a href="#other">See the other gyms</a></p>
+<p class="meer-aanbieders">And also: Anytime Fitness, Village Gym. <a href="#other">See the other gyms</a></p>
 
 <div id="steden">
 
@@ -93,14 +93,14 @@ Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on an
 
 <ul class="stedenlijst">
 <li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · Anytime Fitness</span></li>
-<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness</span></li>
+<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness · Village Gym</span></li>
 <li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
-<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
-<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
-<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
-<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
-<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
-<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
+<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
+<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
+<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
+<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
+<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
+<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
 <li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
 </ul>
 
@@ -124,6 +124,24 @@ Small gyms open 24/7, including in London and Manchester. Each club sets its own
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+
+### Village Gym
+
+34 health clubs at Village Hotels, each with an indoor pool, a sauna and over 100 classes a week. Each club sets its own price.
+
+- Good if you want a gym and a pool in one place
+- Peak or Off Peak membership
+- 12-month or Flexible term
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
 </div>
 
 </div>

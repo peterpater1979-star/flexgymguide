@@ -60,6 +60,8 @@ Budget gym chain with 8 gyms in Leeds, most open 24/7. No contract, from £18.99
 
 </div>
 
+<p class="meer-aanbieders">And also: Village Gym. <a href="#other">See the other gyms</a></p>
+
 <div id="overview">
 
 ## ClassPass, The Gym Group and PureGym at a glance
@@ -183,6 +185,26 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 8 gyms in 
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
+</div>
+
+</div>
+
+</div>
+
+<h2 id="other">Other gyms in Leeds</h2>
+
+<div class="kolommen vier">
+
+<div id="village-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+
+<h3>Village Gym</h3>
+
+Village Gym has two health clubs in Leeds: Leeds North in Headingley and Leeds South. Both have a gym floor, an indoor pool, a sauna and more than 100 classes a week. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
 </div>
 
 </div>

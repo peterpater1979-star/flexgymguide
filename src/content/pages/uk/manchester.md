@@ -60,7 +60,7 @@ Budget gym chain with 9 gyms in Manchester, most open 24/7. No contract, from £
 
 </div>
 
-<p class="meer-aanbieders">And also: Anytime Fitness. <a href="#other">See the other gyms</a></p>
+<p class="meer-aanbieders">And also: Anytime Fitness, Village Gym. <a href="#other">See the other gyms</a></p>
 
 <div id="overview">
 
@@ -206,6 +206,20 @@ Anytime Fitness has a gym in Manchester Central that is open 24/7, with classes 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="village-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+
+<h3>Village Gym</h3>
+
+Village Gym has four health clubs around Manchester: in Ashton Moss, Bury, Cheadle and Hyde. Each has a gym floor, an indoor pool, a sauna and more than 100 classes a week, and Cheadle, Hyde and Bury also have squash courts. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
 </div>
 
 </div>
