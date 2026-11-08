@@ -85,22 +85,22 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 
 </div>
 
-<p class="meer-aanbieders">And also: PureGym, Anytime Fitness. <a href="#other">See the other gyms</a></p>
+<p class="meer-aanbieders">And also: David Lloyd, PureGym, Anytime Fitness. <a href="#other">See the other gyms</a></p>
 
 <div id="steden">
 
 ## Cities
 
 <ul class="stedenlijst">
-<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · Anytime Fitness</span></li>
-<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness · Village Gym</span></li>
-<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
-<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
-<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
-<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
-<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
-<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
-<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym</span></li>
+<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · Anytime Fitness · David Lloyd</span></li>
+<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · David Lloyd</span></li>
+<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
 <li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym</span></li>
 </ul>
 
@@ -109,6 +109,24 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 <h2 id="other">Other gyms</h2>
 
 <div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
+
+### David Lloyd
+
+More than 100 health clubs with an indoor pool and classes, and at many clubs tennis, padel and a spa. Each club sets its own price.
+
+- Good if you want everything in one place
+- Family and couple memberships
+- 12-month or 3-month term
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
+</div>
+
+</div>
 
 <div class="kolom kaart aanbiederkaart">
 

@@ -60,7 +60,7 @@ Budget gym chain with 5 gyms in Bristol, most open 24/7. No contract, from £18.
 
 </div>
 
-<p class="meer-aanbieders">And also: Village Gym. <a href="#other">See the other gyms</a></p>
+<p class="meer-aanbieders">And also: David Lloyd, Village Gym. <a href="#other">See the other gyms</a></p>
 
 <div id="overview">
 
@@ -195,6 +195,20 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 5 gyms in 
 <h2 id="other">Other gyms in Bristol</h2>
 
 <div class="kolommen vier">
+
+<div id="david-lloyd" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
+
+<h3>David Lloyd</h3>
+
+David Lloyd has three health clubs in Bristol: Westbury, Emersons Green and Long Ashton. All have an indoor pool and group classes. Each club sets its own price, with Platinum, Club Plus or Club memberships.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
+</div>
+
+</div>
 
 <div id="village-gym" class="kolom kaart aanbiederkaart">
 
