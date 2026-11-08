@@ -263,19 +263,19 @@ Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass actief i
 
 <h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
 
-Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
+Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-dames/">Sportkleding dames</a></li>
-<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-heren/">Sportkleding heren</a></li>
-<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-dames/">Sportschoenen dames</a></li>
-<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-heren/">Sportschoenen heren</a></li>
-<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
-<li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
-<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-nl-haarlem-kleding-dames">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-nl-haarlem-kleding-heren">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-nl-haarlem-schoenen-dames">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-nl-haarlem-schoenen-heren">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-haarlem-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-haarlem-handdoek">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-haarlem-hangslot">Hangslot voor het kluisje</a></li>
 </ul>
 
-<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 ## Veelgestelde vragen
 

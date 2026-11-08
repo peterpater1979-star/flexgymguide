@@ -56,16 +56,16 @@ Buiten Europa werkt het onder meer in de Verenigde Staten, Canada, Australië, N
 
 <h2 id="onderweg">Handig in je koffer</h2>
 
-Licht en klein, zodat het makkelijk in je bagage past. Via deze links zoek je bij Amazon.nl:
+Licht en klein, zodat het makkelijk in je bagage past. Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-nl-opvouwbare-fles/">Opvouwbare waterfles</a></li>
-<li class="i-handdoek"><a href="/go/amazon-nl-reishanddoek/">Compacte microvezelhanddoek</a></li>
-<li class="i-mat"><a href="/go/amazon-nl-reisyogamat/">Opvouwbare reisyogamat</a></li>
-<li class="i-band"><a href="/go/amazon-nl-weerstandsbanden/">Weerstandsbanden voor in je hotelkamer</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-classpass-op-reis-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-classpass-op-reis-handdoek">Compacte microvezelhanddoek</a></li>
+<li class="i-mat"><a href="/go/traininn-nl-mat/?ws=fgg-nl-classpass-op-reis-yogamat">Yogamat</a></li>
+<li class="i-band"><a href="/go/traininn-nl-banden/?ws=fgg-nl-classpass-op-reis-banden">Weerstandsbanden voor in je hotelkamer</a></li>
 </ul>
 
-<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 <h2 id="checklist">Checklist</h2>
 

@@ -63,16 +63,15 @@ Hardlopen, fietsen, een calisthenicspark of een yogavideo thuis kosten niets. Ve
 
 <h2 id="thuis">Thuis trainen voor weinig geld</h2>
 
-Met een paar goedkope spullen train je ook op je kamer, bijvoorbeeld op dagen dat je niet naar de sportschool gaat. Via deze links zoek je bij Amazon.nl:
+Met een paar goedkope spullen train je ook op je kamer, bijvoorbeeld op dagen dat je niet naar de sportschool gaat. Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
 
 <ul class="spullen">
-<li class="i-mat"><a href="/go/amazon-nl-yogamat/">Yogamat</a></li>
-<li class="i-band"><a href="/go/amazon-nl-weerstandsbanden/">Weerstandsbanden</a></li>
-<li class="i-touw"><a href="/go/amazon-nl-springtouw/">Springtouw</a></li>
-<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
+<li class="i-mat"><a href="/go/traininn-nl-mat/?ws=fgg-nl-sporten-als-student-yogamat">Yogamat</a></li>
+<li class="i-band"><a href="/go/traininn-nl-banden/?ws=fgg-nl-sporten-als-student-banden">Weerstandsbanden</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-sporten-als-student-fles">Waterfles</a></li>
 </ul>
 
-<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 <h2 id="tips">Tips</h2>
 
