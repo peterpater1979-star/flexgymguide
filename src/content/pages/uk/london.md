@@ -72,7 +72,7 @@ Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.
 
 </div>
 
-<p class="meer-aanbieders">And also: David Lloyd, Anytime Fitness. <a href="#other">See the other gyms</a></p>
+<p class="meer-aanbieders">And also: David Lloyd, Virgin Active, Anytime Fitness. <a href="#other">See the other gyms</a></p>
 
 <div id="overview">
 
@@ -220,6 +220,20 @@ David Lloyd has more than 20 health clubs in Greater London, including Fulham, H
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
+</div>
+
+</div>
+
+<div id="virgin-active" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-virgin-active"><span>Health club with spa</span></div>
+
+<h3>Virgin Active</h3>
+
+Virgin Active has 21 health clubs in London, from the City (Bank, Moorgate, Aldersgate, Cannon Street) to Mayfair, Kensington, Notting Hill, Chiswick, Clapham, Fulham and Wimbledon. All have a spa and unlimited classes, and all but Cannon Street have a pool. Each club sets its own price, with a 12-month or a rolling monthly membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
 </div>
 
 </div>
