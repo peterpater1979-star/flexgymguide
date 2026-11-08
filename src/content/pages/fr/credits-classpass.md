@@ -72,6 +72,7 @@ Quelques astuces pour réserver et annuler sans souci :
 - **Arrive un peu en avance.** L’idéal, c’est 10 à 15 minutes avant le début, pour te changer tranquillement. Certains studios commencent pile à l’heure et ne laissent plus entrer les retardataires.
 - **Tu préfères un autre cours ?** Annule le premier et réserve le nouveau. Fais-le au moins 12 heures avant, et ça ne te coûte rien.
 - **On annule dans l’appli.** Tu récupères tout de suite tes crédits et quelqu’un d’autre peut prendre ta place.
+- **Un imprévu en route ?** Une panne ou des bouchons ? Annule le plus vite possible dans l’appli et n’hésite pas à envoyer un petit message au studio. Beaucoup de studios sont compréhensifs, même si ce n’est pas garanti.
 - **Où voir tes réservations ?** Dans l’appli, avec tes cours à venir. Tu y vois aussi si une annulation a marché : le cours n’y est plus et tu reçois un e-mail de confirmation.
 - **Le cours n’a pas lieu ?** Si le cours est annulé ou si le coach n’est pas là, tu récupères simplement tes crédits.
 - **Marqué absent alors que tu étais là ?** Préviens ClassPass dans les 14 jours, ils régleront ça avec le studio.

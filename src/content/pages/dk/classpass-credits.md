@@ -72,6 +72,7 @@ Et par ting, der gør det nemmere at booke og melde afbud:
 - **Kom i god tid.** Kom gerne 10 til 15 minutter før start, så du kan klæde om i ro og mag. Nogle studier starter præcist og lukker ikke folk ind, der kommer for sent.
 - **Hellere et andet hold?** Meld afbud til det første, og book det nye. Gør det mindst 12 timer før, så koster det ingenting.
 - **Afbud melder du i appen.** Så får du dine credits tilbage med det samme, og en anden kan få din plads.
+- **Forsinket undervejs?** Punktering eller kø? Meld afbud så hurtigt som muligt i appen, og send gerne studiet en besked. Mange studier er forstående, men det kan du ikke altid regne med.
 - **Hvor ser du dine bookinger?** I appen, blandt dine kommende hold. Der ser du også, om et afbud er gået igennem: holdet er væk, og du får en bekræftelsesmail.
 - **Bliver holdet aflyst?** Bliver holdet aflyst, eller er instruktøren der ikke, får du bare dine credits tilbage.
 - **Markeret som udeblevet, selvom du var der?** Giv ClassPass besked inden for 14 dage, så ordner de det med studiet.
