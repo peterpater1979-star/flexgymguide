@@ -67,9 +67,14 @@ Por isso vale a pena ver várias opções antes de reservar.
 
 <h2 id="reservar">Bom saber</h2>
 
+Algumas coisas que facilitam reservar e cancelar:
+
 - **Chega com tempo.** O ideal é chegar 10 a 15 minutos antes, para te mudares com calma. Alguns estúdios começam à hora certa e já não deixam entrar quem chega atrasado.
 - **Preferes outra aula?** Cancela a primeira e reserva a nova. Faz isso pelo menos 12 horas antes e não pagas nada.
 - **Cancela-se na app.** Assim recuperas logo os créditos e outra pessoa pode ficar com o teu lugar.
+- **Onde vês as tuas reservas?** Na app, junto às tuas próximas aulas. Aí também vês se um cancelamento resultou: a aula já não aparece e recebes um e-mail de confirmação.
+- **A aula não se realiza?** Se a aula for cancelada ou o instrutor não estiver, recuperas simplesmente os créditos.
+- **Marcado como falta, mas foste?** Avisa o ClassPass no prazo de 14 dias e eles resolvem com o estúdio.
 
 <h2 id="quantos">De quantos créditos precisas?</h2>
 

@@ -67,9 +67,14 @@ Por eso vale la pena mirar varias opciones antes de reservar.
 
 <h2 id="reservar">Bueno saber</h2>
 
+Algunas cosas que facilitan reservar y cancelar:
+
 - **Llega con tiempo.** Lo ideal es llegar 10 o 15 minutos antes, para cambiarte con calma. Algunos estudios empiezan puntuales y no dejan entrar a quien llega tarde.
 - **¿Prefieres otra clase?** Cancela la primera y reserva la nueva. Hazlo al menos 12 horas antes y no te cuesta nada.
 - **Se cancela en la app.** Así recuperas tus créditos al momento y otra persona puede ocupar tu sitio.
+- **¿Dónde ves tus reservas?** En la app, junto a tus próximas clases. Ahí también ves si una cancelación ha funcionado: la clase ya no aparece y recibes un correo de confirmación.
+- **¿No hay clase?** Si la clase se cancela o el instructor no está, recuperas tus créditos sin más.
+- **¿Te marcaron como ausente y sí fuiste?** Avisa a ClassPass en un plazo de 14 días y lo arreglan con el estudio.
 
 <h2 id="cuantos">¿Cuántos créditos necesitas?</h2>
 

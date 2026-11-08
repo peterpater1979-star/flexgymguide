@@ -67,9 +67,14 @@ Es lohnt sich also, vor dem Buchen ein paar Optionen anzuschauen.
 
 <h2 id="buchen">Gut zu wissen</h2>
 
+Ein paar Dinge, die das Buchen und Absagen leichter machen:
+
 - **Sei rechtzeitig da.** Komm am besten 10 bis 15 Minuten vor Beginn, dann kannst du dich in Ruhe umziehen. Manche Studios starten pünktlich und lassen Zuspätkommende nicht mehr rein.
 - **Doch lieber ein anderer Kurs?** Sag den ersten Kurs ab und buch den neuen. Mach das mindestens 12 Stunden vorher, dann kostet es nichts.
 - **Absagen geht in der App.** So bekommst du deine Credits sofort zurück und jemand anders kann deinen Platz nehmen.
+- **Wo siehst du deine Buchungen?** In der App bei deinen anstehenden Kursen. Dort siehst du auch, ob eine Absage geklappt hat: Der Kurs ist dann weg und du bekommst eine Bestätigungsmail.
+- **Fällt der Kurs aus?** Fällt der Kurs aus oder ist der Trainer nicht da, bekommst du deine Credits einfach zurück.
+- **Als verpasst markiert, obwohl du da warst?** Sag ClassPass innerhalb von 14 Tagen Bescheid, dann klären sie es mit dem Studio.
 
 <h2 id="wie-viele">Wie viele Credits brauchst du?</h2>
 

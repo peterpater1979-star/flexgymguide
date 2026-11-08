@@ -67,9 +67,14 @@ So it's worth looking at a few options before you book.
 
 <h2 id="booking">Good to know</h2>
 
+A few things that make booking and cancelling easier:
+
 - **Arrive in good time.** Ideally 10 to 15 minutes before the start, so you can get changed without rushing. Some studios start right on time and don't let latecomers in.
 - **Fancy a different class?** Cancel the first one and book the new one. Do it at least 12 hours before, and it costs you nothing.
 - **Cancel in the app.** That way your credits come straight back and someone else can take your spot.
+- **Where do you see your bookings?** In the app, with your upcoming classes. That's also where you can tell a cancellation worked: the class is gone and you get a confirmation email.
+- **Class not going ahead?** If the class is called off or the instructor can't make it, you simply get your credits back.
+- **Marked as missed when you were there?** Let ClassPass know within 14 days and they'll sort it out with the studio.
 
 <h2 id="plan">How many credits do you need?</h2>
 

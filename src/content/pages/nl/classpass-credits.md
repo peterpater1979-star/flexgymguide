@@ -82,9 +82,14 @@ Het loont dus om een paar opties te bekijken voordat je boekt.
 
 <h2 id="boeken">Handig om te weten</h2>
 
+Een paar dingen die het boeken en afzeggen makkelijker maken:
+
 - **Wees er op tijd.** Kom het liefst 10 tot 15 minuten voor de start, dan kun je rustig omkleden. Sommige studio's beginnen stipt en laten laatkomers niet meer binnen.
 - **Toch liever een andere les?** Zeg je eerste les af en boek de nieuwe. Doe dat minstens 12 uur van tevoren, dan kost het je niets.
 - **Afzeggen doe je in de app.** Zo krijg je je credits meteen terug en kan iemand anders je plekje krijgen.
+- **Waar zie je je boekingen?** In de app, bij je komende lessen. Daar zie je ook of een afzegging gelukt is: de les staat er dan niet meer en je krijgt een bevestigingsmail.
+- **Gaat de les niet door?** Valt de les uit of is de instructeur er niet, dan krijg je je credits gewoon terug.
+- **Toch als gemist aangemerkt terwijl je er was?** Laat het ClassPass binnen 14 dagen weten, dan zoeken ze het met de studio uit.
 
 <h2 id="hoeveel">Hoeveel credits heb je nodig?</h2>
 

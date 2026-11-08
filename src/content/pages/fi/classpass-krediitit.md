@@ -67,9 +67,14 @@ Kannattaa siis katsoa muutamaa vaihtoehtoa ennen varaamista.
 
 <h2 id="varaaminen">Hyvä tietää</h2>
 
+Muutama asia, jotka helpottavat varaamista ja perumista:
+
 - **Tule ajoissa.** Paras tulla 10–15 minuuttia ennen alkua, niin ehdit vaihtaa vaatteet rauhassa. Osa studioista aloittaa täsmälleen ajallaan eikä päästä myöhästyneitä sisään.
 - **Mieluummin toinen tunti?** Peru ensimmäinen ja varaa uusi. Tee se vähintään 12 tuntia ennen, niin se ei maksa mitään.
 - **Peruminen käy sovelluksessa.** Saat krediitit heti takaisin, ja joku muu voi saada paikkasi.
+- **Missä näet varauksesi?** Sovelluksessa tulevien tuntiesi kohdalla. Siitä näet myös, onnistuiko peruutus: tunti on poissa listalta ja saat vahvistuksen sähköpostiin.
+- **Eikö tuntia pidetäkään?** Jos tunti peruuntuu tai ohjaaja ei tule, saat krediitit yksinkertaisesti takaisin.
+- **Merkitty poissaolevaksi, vaikka olit paikalla?** Ilmoita ClassPassille 14 päivän sisällä, niin he selvittävät asian studion kanssa.
 
 <h2 id="kuinka-monta">Montako krediittiä tarvitset?</h2>
 
