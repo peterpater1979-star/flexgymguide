@@ -345,6 +345,7 @@ Elige Fitness Park. Un gimnasio con clases colectivas, con o sin permanencia.
 <li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-valencia-fles">Botella de agua</a></li>
 <li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-valencia-handdoek">Toalla de deporte</a></li>
 <li class="i-slot"><a href="/go/bricoinn-es-cadenas/?ws=fgg-es-valencia-hangslot">Candado para la taquilla</a></li>
+<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-valencia-gripsokken">Calcetines antideslizantes para yoga y pilates</a></li>
 </ul>
 
 <p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>

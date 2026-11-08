@@ -211,6 +211,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 <li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-at-index-fles">Trinkflasche</a></li>
 <li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-at-index-handdoek">Sporthandtuch</a></li>
 <li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-at-index-hangslot">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-at-index-gripsokken">Rutschfeste Socken für Yoga und Pilates</a></li>
 </ul>
 
 <p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>

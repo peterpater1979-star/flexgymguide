@@ -280,6 +280,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 <li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-den-haag-fles">Waterfles</a></li>
 <li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-den-haag-handdoek">Sporthanddoek</a></li>
 <li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-den-haag-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-den-haag-gripsokken">Antislipsokken voor yoga en pilates</a></li>
 </ul>
 
 <p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>

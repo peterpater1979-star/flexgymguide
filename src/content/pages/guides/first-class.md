@@ -81,6 +81,7 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 <li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-first-class-fles">Water bottle</a></li>
 <li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-guides-first-class-handdoek">Gym towel</a></li>
 <li class="i-slot"><a href="/go/bricoinn-en-cadenas/?ws=fgg-guides-first-class-hangslot">Locker padlock</a></li>
+<li class="i-sok"><a href="/go/traininn-en-gripsokken/?ws=fgg-guides-first-class-gripsokken">Non-slip socks for yoga and Pilates</a></li>
 <li class="i-mat"><a href="/go/traininn-en-mat/?ws=fgg-guides-first-class-yogamat">Yoga or exercise mat</a></li>
 <li class="i-bandage"><a href="/go/traininn-en-bandages/?ws=fgg-guides-first-class-bandages">Boxing hand wraps</a></li>
 <li class="i-handschoen"><a href="/go/traininn-en-handschoenen/?ws=fgg-guides-first-class-bokshandschoenen">Boxing gloves</a></li>

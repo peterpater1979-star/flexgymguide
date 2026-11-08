@@ -137,6 +137,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 <li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-be-index-fles">Waterfles</a></li>
 <li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-be-index-handdoek">Sporthanddoek</a></li>
 <li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-be-index-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-be-index-gripsokken">Antislipsokken voor yoga en pilates</a></li>
 </ul>
 
 <p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
