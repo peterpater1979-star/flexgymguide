@@ -25,6 +25,7 @@ Virgin Active is a chain of health clubs with 31 clubs in the UK, according to t
 | **Pool and spa** | <span class="ja" aria-hidden="true">✓</span> Spa at every club, pool at most clubs |
 | **Racquets** | Tennis, padel or squash at a few clubs, such as Chiswick Riverside, Clearview, Fulham and Moorgate |
 | **Other clubs** | Clubs in your tier and the tiers below |
+| **Abroad** | With multi-club access also clubs in Italy, South Africa, Australia, Singapore and Thailand: ask your club about the conditions |
 
 <p class="klein">Source: virginactive.co.uk (November 2026). Always check the price, joining fee and term with your club.</p>
 
@@ -71,6 +72,8 @@ Ask your own club about:
 <h2 id="other-clubs">Training at other clubs</h2>
 
 Every club belongs to a tier, from Tier 1 (the most exclusive, such as Mayfair and Chiswick Riverside) to Tier 7. With your membership you can visit any club in your own tier or a lower one. The clubs outside London are mostly Tier 5. Access may depend on your membership type: check it in the app.
+
+According to Virgin Active's multi-club access guide, a membership with multi-club access also lets you use Virgin Active clubs abroad, in Italy, South Africa, Australia, Singapore and Thailand. The guide gives no fees or limits for this, so ask your club team before you travel.
 
 <h2 id="cancel">Cancelling and freezing</h2>
 
@@ -126,6 +129,13 @@ You choose a 12-month membership or a rolling monthly one with a minimum of one 
 <summary>Can I use other Virgin Active clubs?</summary>
 
 Yes, every club in your own tier or a lower one. Tier 1 clubs such as Mayfair are only open to Tier 1 members.
+
+</details>
+
+<details>
+<summary>Can I use Virgin Active abroad?</summary>
+
+With multi-club access, Virgin Active says you can also use its clubs in Italy, South Africa, Australia, Singapore and Thailand. Ask your club about the conditions before you travel.
 
 </details>
 
