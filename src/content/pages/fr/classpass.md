@@ -26,7 +26,7 @@ ClassPass est un pass sport : tu paies un abonnement mensuel et tu reçois des c
 | **Activités** | Yoga, pilates, boxe, spinning, musculation, salle de sport et plus |
 | **Essai** | 14 jours gratuits avec 10 séances, pour les nouveaux membres |
 | **Résiliation** | À tout moment, avant la date de renouvellement |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans plus de 2 500 villes et 31 pays |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays |
 
 <p class="klein">Les prix et conditions changent régulièrement. Vérifie toujours la situation actuelle sur le site de ClassPass.</p>
 
@@ -102,7 +102,7 @@ ClassPass est aussi présent à [Rouen](/fr/rouen/), [Tours](/fr/tours/), [Orlé
 
 <h2 id="etranger">ClassPass à l’étranger</h2>
 
-Ton abonnement fonctionne aussi hors de France, dans plus de 2 500 villes et 31 pays. En voyage, tu réserves simplement un cours avec tes crédits. Les prix et l’offre varient selon le pays.
+Ton abonnement fonctionne aussi hors de France, dans 31 pays. En voyage, tu réserves simplement un cours avec tes crédits. Les prix et l’offre varient selon le pays.
 
 <ul class="continenten">
 <li class="breed"><strong>Europe</strong> Autriche · Belgique · Danemark · Finlande · France · Allemagne · Irlande · Pays-Bas · Norvège · Portugal · Espagne · Suède · Suisse · Royaume-Uni</li>

@@ -29,7 +29,7 @@ ClassPass is een sportpas: je betaalt één maandbedrag en krijgt daarvoor credi
 | **Wat kun je doen** | Yoga, pilates, boksen, spinning, krachttraining, gymbezoeken en meer |
 | **Opzeggen** | Op elk moment, zonder opzegtermijn |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefperiode |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in meer dan 2.500 steden in 31 landen |
+| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen |
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij ClassPass.</p>
 
@@ -109,7 +109,7 @@ ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we d
 
 <h2 id="buitenland">ClassPass in het buitenland</h2>
 
-Je abonnement werkt ook buiten Nederland, in meer dan 2.500 steden in 31 landen. Op reis kun je dus gewoon een les boeken met je credits. Prijzen en het aanbod verschillen per land.
+Je abonnement werkt ook buiten Nederland, in 31 landen. Op reis kun je dus gewoon een les boeken met je credits. Prijzen en het aanbod verschillen per land.
 
 <ul class="continenten">
 <li class="breed"><strong>Europa</strong> Oostenrijk · België · Denemarken · Finland · Frankrijk · Duitsland · Ierland · Nederland · Noorwegen · Portugal · Spanje · Zweden · Zwitserland · Verenigd Koninkrijk</li>
@@ -171,7 +171,7 @@ Ongebruikte credits kun je één maand doorschuiven. Gebruik je ze in die maand 
 <details>
 <summary>Kan ik ClassPass in het buitenland gebruiken?</summary>
 
-Ja, overal waar ClassPass actief is: in meer dan 2.500 steden in 31 landen.
+Ja, overal waar ClassPass actief is: in 31 landen.
 
 </details>
 

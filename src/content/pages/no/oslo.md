@@ -100,7 +100,7 @@ Sentrum, Grünerløkka, Sagene og Frogner. Yoga og pilates, og også på Fornebu
 - Kreditter hver måned til timer og treningssenter
 - Standard: 35 kreditter for 569 kr i måneden (standard)
 - 14 dager gratis med 10 økter
-- Fungerer også i over 2 500 byer i 31 land
+- Fungerer også i 31 land
 
 ### Vær obs på
 

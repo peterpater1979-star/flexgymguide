@@ -18,7 +18,7 @@ Ditt ClassPass-abonnemang fungerar inte bara i din egen stad. På semester, på 
 
 | | |
 | --- | --- |
-| **Var** | I över 30 länder, varav 14 i Europa |
+| **Var** | I 31 länder, varav 14 i Europa |
 | **Extra kostnad?** | Nej, du bokar med krediterna från ditt eget abonnemang |
 | **Krediter** | Ett pass kan kosta fler eller färre krediter än hemma |
 | **Avboka** | Gratis fram till 12 timmar innan; avgiften därefter varierar mellan länder |

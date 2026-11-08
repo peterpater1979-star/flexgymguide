@@ -107,7 +107,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 - Studio's door heel Den Haag: het centrum, Zeeheldenkwartier, Bezuidenhout, Scheveningen en langs de Laan van Meerdervoort
 - Vooral veel yoga en pilates (ook reformer en hot yoga), maar ook krachttraining en boksen
 - Ook studio's in Voorburg, Rijswijk, Leidschendam, Wassenaar en Delft
-- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
+- Ook te gebruiken in 31 landen
 
 </div>
 

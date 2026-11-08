@@ -18,7 +18,7 @@ Dit ClassPass-abonnement virker ikke kun i din egen by. På ferie, på forretnin
 
 | | |
 | --- | --- |
-| **Hvor** | I over 30 lande, heraf 14 i Europa |
+| **Hvor** | I 31 lande, heraf 14 i Europa |
 | **Ekstra udgifter?** | Nej, du booker med credits fra dit eget abonnement |
 | **Credits** | Et hold kan koste flere eller færre credits end hjemme |
 | **Aflysning** | Gratis indtil 12 timer før; gebyret derefter varierer fra land til land |

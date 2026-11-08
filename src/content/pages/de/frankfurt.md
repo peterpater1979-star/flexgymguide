@@ -104,7 +104,7 @@ Ein großes Angebot, vor allem in der Innenstadt, im Westend, im Nordend, in Bor
 - Monatliche Credits für Kurse und Gym-Besuche
 - Standard-Abo in Frankfurt: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
+- Auch in 31 Ländern nutzbar
 
 ### Gut für
 

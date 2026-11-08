@@ -17,7 +17,7 @@ Tu plan de ClassPass no solo funciona en tu ciudad. De vacaciones, en un viaje d
 
 | | |
 | --- | --- |
-| **Dónde** | En más de 30 países, 14 de ellos en Europa |
+| **Dónde** | En 31 países, 14 de ellos en Europa |
 | **¿Coste extra?** | No, reservas con los créditos de tu propio plan |
 | **Créditos** | Una clase puede costar más o menos créditos que en casa |
 | **Cancelar** | Gratis hasta 12 horas antes; la penalización después varía según el país |

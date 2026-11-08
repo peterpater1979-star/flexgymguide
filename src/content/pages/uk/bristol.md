@@ -106,7 +106,7 @@ A mix of gyms and smaller studios, spread across Bristol and the surrounding are
 - 14 days free with 10 workouts to try it out
 - Reformer Pilates, barre, yoga, spin, boxing and CrossFit in Clifton, Cotham, Harbourside, Bedminster, Bishopston and St Philip's
 - Also studios in Bath, Keynsham and the rest of the area
-- Use it in more than 2,500 other cities in 31 countries
+- Use it in 31 countries
 
 ### Good for
 

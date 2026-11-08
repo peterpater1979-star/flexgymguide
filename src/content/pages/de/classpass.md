@@ -25,11 +25,11 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 | | ClassPass |
 | --- | --- |
 | **Art** | Sportpass mit Credits |
-| **Preis pro Monat** | Je nach Zahl der Credits |
+| **Preis pro Monat** | Standard-Abo 59 € (42 Credits), sechs Abos von 19 bis 199 € |
 | **Was du machen kannst** | Yoga, Pilates, Boxen, Spinning, Krafttraining, Gym-Besuche und mehr |
-| **Kündigung** | Jederzeit anpassbar, pausierbar oder kündbar |
+| **Kündigung** | Keine Mindestlaufzeit, jederzeit anpassbar, pausierbar oder kündbar |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 31 Ländern |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern |
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei ClassPass.</p>
 
@@ -48,6 +48,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 
 - Die Credits pro Kurs unterscheiden sich je nach Studio und Uhrzeit. Ein Kurs zu einer beliebten Zeit kann mehr Credits kosten
 - Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
+- Es gibt kein Tageslimit: Du kannst auch mehrere Kurse an einem Tag buchen
 
 </div>
 
@@ -61,6 +62,23 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 </div>
 
 </div>
+
+<h2 id="kosten">Was kostet ClassPass in Deutschland?</h2>
+
+Es gibt sechs Abos. Sie unterscheiden sich nur in der Zahl der Credits: Mit jedem Abo kannst du alle Studios, Gyms und Wellness-Angebote auf ClassPass buchen.
+
+| Abo pro Monat | Credits |
+| --- | --- |
+| 19 € | 11 |
+| 39 € | 25 |
+| **59 €** (Standard-Abo) | **42** |
+| 89 € | 63 |
+| 119 € | 85 |
+| 199 € | 142 |
+
+In München und Frankfurt gibt es außerdem drei Abos mit unbegrenztem Gym-Zugang zu Nebenzeiten: 64 € (25 Credits), 84 € (42 Credits) und 114 € (63 Credits).
+
+<p class="klein">Quelle: ClassPass (2026). Alle Abos ohne Mindestlaufzeit. Preise können sich ändern, prüfe die aktuellen Preise immer bei ClassPass.</p>
 
 <h2 id="fuer-wen">Für wen ist ClassPass?</h2>
 
@@ -109,7 +127,7 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 
 <h2 id="ausland">ClassPass im Ausland</h2>
 
-Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten in 31 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
+Dein Abo funktioniert auch außerhalb von Deutschland, in 31 Ländern. Auf Reisen buchst du also einfach einen Kurs mit deinen Credits. Preise und Angebot unterscheiden sich je nach Land.
 
 <ul class="continenten">
 <li class="breed"><strong>Europa</strong> Österreich · Belgien · Dänemark · Finnland · Frankreich · Deutschland · Irland · Niederlande · Norwegen · Portugal · Spanien · Schweden · Schweiz · Vereinigtes Königreich</li>
@@ -171,7 +189,7 @@ Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie in diesem M
 <details>
 <summary>Kann ich ClassPass im Ausland nutzen?</summary>
 
-Ja, überall dort, wo ClassPass aktiv ist: in über 2.500 Städten in 31 Ländern, zu den Preisen des jeweiligen Landes.
+Ja, überall dort, wo ClassPass aktiv ist: in 31 Ländern, zu den Preisen des jeweiligen Landes.
 
 </details>
 

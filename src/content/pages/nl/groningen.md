@@ -107,7 +107,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 - Studio's in de binnenstad (onder meer rond de Oosterstraat, het Boterdiep en het Damsterdiep) en daarbuiten
 - Vooral krachttraining en gyms, maar ook pilates, spinning, yoga, boksen en dans
 - Ook een yogastudio in Roden
-- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
+- Ook te gebruiken in 31 landen
 
 </div>
 

@@ -18,7 +18,7 @@ Your ClassPass plan doesn't only work in your own city. On holiday, on a work tr
 
 | | |
 | --- | --- |
-| **Where** | In more than 30 countries, 14 of them in Europe |
+| **Where** | In 31 countries, 14 of them in Europe |
 | **Extra cost?** | No, you book with the credits from your own plan |
 | **Credits** | A class can cost more or fewer credits than at home |
 | **Cancelling** | Free up to 12 hours before; the fee after that differs by country |

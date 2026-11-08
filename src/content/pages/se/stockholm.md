@@ -108,7 +108,7 @@ Södermalm, Vasastan, Norrmalm, Kungsholmen och Östermalm. Mest yoga, även pil
 - Krediter varje månad för pass och gym
 - Standard: 34 krediter för 599 kr i månaden (standard)
 - 14 dagar gratis med 10 träningspass
-- Fungerar även i över 2 500 städer i 31 länder
+- Fungerar även i 31 länder
 
 ### Tänk på
 

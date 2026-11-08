@@ -90,7 +90,7 @@ Ook voor ontspanning: Kuuma Sauna, shiatsu bij Astrid Oudenhoven en massage bij 
 - Standaardabonnement in Nijmegen: 40 credits voor € 59 per maand
 - 14 dagen gratis met 10 workouts om te proberen
 - Studio's voor krachttraining, HIIT, kickboksen, pilates, dans, krav maga en aikido
-- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
+- Ook te gebruiken in 31 landen
 
 </div>
 

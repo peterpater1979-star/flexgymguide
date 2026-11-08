@@ -106,7 +106,7 @@ A good choice, mostly in the city centre, Kelham Island, Ecclesall Road and arou
 - 14 days free with 10 workouts to try it out
 - Yoga, reformer Pilates and recovery (sauna and spa) in the city centre, Kelham Island, Broomhall and Handsworth
 - Also studios in Greenhill, Totley and nearby Rotherham
-- Use it in more than 2,500 other cities in 31 countries
+- Use it in 31 countries
 
 ### Good for
 

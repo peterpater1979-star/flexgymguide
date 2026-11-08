@@ -18,7 +18,7 @@ ClassPass-abonnementet ditt fungerer ikke bare i din egen by. På ferie, på job
 
 | | |
 | --- | --- |
-| **Hvor** | I over 30 land, hvorav 14 i Europa |
+| **Hvor** | I 31 land, hvorav 14 i Europa |
 | **Ekstra kostnad?** | Nei, du booker med kredittene fra ditt eget abonnement |
 | **Kreditter** | En time kan koste flere eller færre kreditter enn hjemme |
 | **Avbestilling** | Gratis frem til 12 timer før; gebyret etter det varierer fra land til land |

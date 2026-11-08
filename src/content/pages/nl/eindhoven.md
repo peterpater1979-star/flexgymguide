@@ -105,7 +105,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 - Studio's in het centrum (onder meer bij de Lichttoren), op Strijp-S, in Stratum en daarbuiten
 - Vooral veel (reformer) pilates en krachttraining, maar ook yoga, kickboksen, karate en dans
 - Ook studio's in Nuenen, Valkenswaard en Oirschot
-- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
+- Ook te gebruiken in 31 landen
 
 </div>
 

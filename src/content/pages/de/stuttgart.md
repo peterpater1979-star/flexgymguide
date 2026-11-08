@@ -104,7 +104,7 @@ Ein gutes Angebot, vor allem im Stuttgarter Westen, in der Mitte und im Süden. 
 - Monatliche Credits für Kurse und Gym-Besuche
 - Standard-Abo in Stuttgart: 42 Credits für 59 € im Monat
 - 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
+- Auch in 31 Ländern nutzbar
 
 ### Gut für
 

@@ -86,7 +86,7 @@ Pieni valikoima, muutama studio keskustassa ja Uittamolla. Joogaa, pilatesta, vo
 - Krediittejä joka kuukausi tunteihin ja salikäynteihin
 - Perusjäsenyys: 35 krediittiä 59 € kuukaudessa (perusjäsenyys)
 - 14 päivää ilmaiseksi ja 10 treeniä
-- Toimii myös yli 2 500 kaupungissa 31 maassa
+- Toimii myös 31 maassa
 
 ### Huomaa
 

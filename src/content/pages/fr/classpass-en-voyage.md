@@ -18,7 +18,7 @@ Ton abonnement ClassPass ne fonctionne pas seulement dans ta ville. En vacances,
 
 | | |
 | --- | --- |
-| **Où** | Dans plus de 30 pays, dont 14 en Europe |
+| **Où** | Dans 31 pays, dont 14 en Europe |
 | **Frais en plus ?** | Non, tu réserves avec les crédits de ton propre abonnement |
 | **Crédits** | Un cours peut coûter plus ou moins de crédits que chez toi |
 | **Annuler** | Gratuit jusqu'à 12 heures avant ; les frais après varient selon le pays |

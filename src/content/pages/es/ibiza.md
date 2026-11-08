@@ -92,7 +92,7 @@ Una oferta más pequeña, repartida por Eivissa ciudad y Marina Botafoch, y tamb
 - Créditos cada mes para clases y sesiones de gimnasio
 - Plan estándar 49 € al mes (30 créditos)
 - 14 días gratis con 10 sesiones para probar
-- Funciona también en más de 2.500 ciudades de 31 países
+- Funciona también en 31 países
 
 ### A tener en cuenta
 

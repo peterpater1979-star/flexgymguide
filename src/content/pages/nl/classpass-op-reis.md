@@ -18,7 +18,7 @@ Je ClassPass-abonnement werkt niet alleen in je eigen stad. Op vakantie, voor je
 
 | | |
 | --- | --- |
-| **Waar** | In ruim 30 landen, waarvan 14 in Europa |
+| **Waar** | In 31 landen, waarvan 14 in Europa |
 | **Extra kosten?** | Nee, je boekt met de credits van je eigen abonnement |
 | **Credits** | Een les kan meer of minder credits kosten dan thuis |
 | **Afzeggen** | Gratis tot 12 uur van tevoren; de boete daarna verschilt per land |

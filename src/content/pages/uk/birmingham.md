@@ -106,7 +106,7 @@ Mostly gym access, spread across Birmingham and the wider West Midlands, includi
 - 14 days free with 10 workouts to try it out
 - Reformer Pilates, yoga, boxing and gyms in the city centre, the Jewellery Quarter, Digbeth, Edgbaston and Harborne
 - Also studios in Solihull, Sutton Coldfield and the wider West Midlands
-- Use it in more than 2,500 other cities in 31 countries
+- Use it in 31 countries
 
 ### Good for
 

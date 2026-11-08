@@ -119,7 +119,7 @@ Viele Studios in der Inneren Stadt, in Mariahilf, Neubau, der Josefstadt und am 
 - Studios in vielen Bezirken: Mariahilf, Innere Stadt, Landstraße, Neubau, Wieden, Alsergrund, Währing und Hietzing
 - Krafttraining, Pilates und Yoga, dazu Tanz, Barre und Kampfsport
 - Auch Studios in Klosterneuburg, Mödling, Baden und Schwechat
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
+- Auch in 31 Ländern nutzbar
 
 ### Gut für
 

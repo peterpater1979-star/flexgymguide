@@ -18,7 +18,7 @@ ClassPass-jäsenyytesi ei toimi vain omassa kaupungissasi. Lomalla, työmatkalla
 
 | | |
 | --- | --- |
-| **Missä** | Yli 30 maassa, joista 14 Euroopassa |
+| **Missä** | 31 maassa, joista 14 Euroopassa |
 | **Lisämaksu?** | Ei, varaat oman jäsenyytesi krediiteillä |
 | **Krediitit** | Tunti voi maksaa enemmän tai vähemmän krediittejä kuin kotona |
 | **Peruminen** | Ilmainen 12 tuntia ennen; sen jälkeinen maksu vaihtelee maittain |

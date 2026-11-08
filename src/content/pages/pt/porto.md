@@ -114,7 +114,7 @@ Por enquanto uma oferta pequena, sobretudo ginásios e treino de força. Vê na 
 - Créditos todos os meses para aulas e treinos
 - Plano padrão: 37 créditos por 59 € por mês
 - 14 dias grátis com 10 treinos para experimentar
-- Funciona também em mais de 2.500 cidades em 31 países
+- Funciona também em 31 países
 
 ### Atenção
 

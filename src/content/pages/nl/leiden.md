@@ -90,7 +90,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 - 14 dagen gratis met 10 workouts om te proberen
 - Studio's in het centrum (Breestraat, Hogewoerd), rond de Rooseveltstraat en in Leiderdorp
 - Vooral krachttraining, (reformer) pilates, boksen en vechtsport, maar ook yoga en sauna
-- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
+- Ook te gebruiken in 31 landen
 
 </div>
 

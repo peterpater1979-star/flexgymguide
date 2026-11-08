@@ -18,7 +18,7 @@ Dein ClassPass-Abo funktioniert nicht nur in deiner eigenen Stadt. Im Urlaub, au
 
 | | |
 | --- | --- |
-| **Wo** | In über 30 Ländern, davon 14 in Europa |
+| **Wo** | In 31 Ländern, davon 14 in Europa |
 | **Extrakosten?** | Nein, du buchst mit den Credits deines eigenen Abos |
 | **Credits** | Ein Kurs kann mehr oder weniger Credits kosten als zu Hause |
 | **Stornieren** | Kostenlos bis 12 Stunden vorher; die Gebühr danach ist je nach Land verschieden |
