@@ -1,8 +1,8 @@
 ---
 title: "ClassPass while travelling: how to work out in another city or country"
-seoTitle: "Is ClassPass good for travelling? Countries and tips"
+seoTitle: "Is ClassPass good for travelling? Yes, in 31 countries"
 path: "/guides/classpass-while-travelling/"
-description: "Can you use ClassPass in other countries? Yes: how it works on holiday or a work trip, which countries it covers, what changes with credits, and tips."
+description: "Yes, ClassPass works in 31 countries. How to use it on holiday or a work trip, what happens to your credits, and tips for booking in another city."
 lang: en
 land: guides
 byline: "Updated October 2026"

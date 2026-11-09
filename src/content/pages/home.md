@@ -1,7 +1,8 @@
 ---
 title: "Work out anywhere, without a long contract"
+seoTitle: "FlexGymGuide: flexible gyms and fitness passes in Europe"
 path: "/"
-description: "An independent guide to fitness passes and gyms with flexible memberships, country by country. Find what fits how often you train, and where."
+description: "An independent guide to gyms without a long contract and fitness passes like ClassPass, country by country across Europe: prices, cancelling, tips."
 lang: en
 land: global
 crumb: "Home"

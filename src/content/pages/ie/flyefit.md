@@ -1,7 +1,8 @@
 ---
 title: "Flyefit: memberships, prices, classes and cancelling"
+seoTitle: "Flyefit membership prices, joining fee and day pass"
 path: "/ie/flyefit/"
-description: "All about Flyefit in Ireland: no-contract membership for one gym or Flye Roaming, prices, student offer, day passes, free classes and cancelling."
+description: "Flyefit in Ireland: €38 a month for one gym, €41 for all gyms, €25 joining fee (students €12.50). Day passes, pausing and how to cancel."
 lang: en
 land: ie
 byline: "Updated November 2026"

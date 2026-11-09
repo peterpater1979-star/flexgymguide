@@ -1,7 +1,8 @@
 ---
 title: "Fitness Park en España: cuotas, precios y para quién es"
+seoTitle: "Fitness Park: precios y cuotas en España"
 path: "/es/fitness-park/"
-description: "Todo sobre Fitness Park en España: 170 clubes, cuotas Classic y Ultimate con o sin permanencia, matrícula y ciudades."
+description: "Cuotas de Fitness Park en España: Classic 37 € y Ultimate 57 € cada 4 semanas sin permanencia, desde 27 € con permanencia. Matrícula y clubes."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

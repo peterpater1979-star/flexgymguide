@@ -1,7 +1,8 @@
 ---
 title: "Fitness Park : formules, prix et pour qui c’est fait"
+seoTitle: "Fitness Park : prix et tarifs des abonnements"
 path: "/fr/fitness-park/"
-description: "Tout sur Fitness Park en France : plus de 300 clubs, formules Classic, Access+ et Ultimate, prix avec ou sans engagement, frais d’adhésion et villes."
+description: "Prix Fitness Park : Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement, 10 € de moins avec. Frais d’adhésion et clubs."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
