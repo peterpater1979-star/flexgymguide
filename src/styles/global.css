@@ -155,7 +155,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-trainmore { --foto: url(/img/foto/trainmore.jpg); }
 .foto-vivagym { --foto: url(/img/foto/vivagym.jpg); }
 .foto-urban-sports { --foto: url(/img/foto/urban-sports.jpg); }
-.foto-myclubs { --foto: url(/img/foto/myclubs.jpg); background-position: center 25%; }
+.foto-myclubs { --foto: url(/img/foto/myclubs.jpg); background-position: center 35%; }
 .foto-gewichten { --foto: url(/img/foto/gewichten.jpg); background-position: center 25%; }
 .foto-sporttas { --foto: url(/img/foto/sporttas.jpg); background-position: center 78%; max-width: 72ch; }
 /* Gidsen: voorlopige foto's, later te vervangen door eigen bestanden met dezelfde naam */
