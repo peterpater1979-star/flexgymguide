@@ -59,6 +59,10 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 
 Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across the UK, with classes included.
 
+- Good if you want a budget gym close by
+- No contract on monthly plans
+- Try a gym first with a day pass
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>

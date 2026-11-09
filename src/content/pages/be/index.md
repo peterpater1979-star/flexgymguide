@@ -89,6 +89,30 @@ In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
 
 </div>
 
+<h2 id="andere">Andere sportpas</h2>
+
+<div class="kolommen">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+### Urban Sports Club
+
+Een vaste prijs per maand, met check-ins bij partnerlocaties. In Brussel kost Classic, volgens hun site het meest gekozen abonnement, € 75 per maand voor 10 bezoeken.
+
+- Goed als je een vaste prijs per maand wilt
+- Per maand opzegbaar, 3 dagen vooraf
+- Onlinelessen en video on demand inbegrepen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
+
 ## Zo werkt ClassPass in België
 
 <div class="kolommen">

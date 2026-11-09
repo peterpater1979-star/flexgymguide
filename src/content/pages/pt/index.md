@@ -101,6 +101,30 @@ O ClassPass tem estúdios parceiros em [Lisboa](/pt/lisboa/), no [Porto](/pt/por
 
 </div>
 
+<h2 id="outros">Outro passe desportivo</h2>
+
+<div class="kolommen">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Passe desportivo com preço fixo</span></div>
+
+### Urban Sports Club
+
+Um preço fixo por mês, com check-ins em locais parceiros. Em Lisboa e no Porto, o Classic, o plano mais popular segundo o site deles, custa 75 € por mês por 10 visitas.
+
+- Ideal se queres um preço fixo por mês
+- Cancelas com 3 dias de antecedência
+- Aulas online e vídeos a pedido incluídos
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
+
 ## Como funciona o ClassPass em Portugal
 
 <div class="kolommen">

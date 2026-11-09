@@ -91,7 +91,7 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 
 </div>
 
-<p class="meer-aanbieders">En ook: Saints & Stars, Vondelgym, BigGym en Anytime Fitness. <a href="#andere">Bekijk de andere sportscholen</a></p>
+<p class="meer-aanbieders">En ook: Saints & Stars, Vondelgym, BigGym, Anytime Fitness en Urban Sports Club. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <div id="steden">
 
@@ -117,9 +117,9 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 
 <h2 id="andere">Andere sportscholen en studio's</h2>
 
-Sportscholen en studio's in een paar steden, met eigen lidmaatschappen.
+Sportscholen en studio's in een paar steden, met eigen lidmaatschappen, en de sportpas Urban Sports Club.
 
-<div class="kolommen vier">
+<div class="kolommen drie">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -189,6 +189,24 @@ Kleine sportscholen die dag en nacht open zijn, onder meer in Amsterdam, Rotterd
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+### Urban Sports Club
+
+Een vaste prijs per maand, met check-ins bij partnerlocaties. In Amsterdam kost Classic, volgens hun site het meest gekozen abonnement, € 75 per maand voor 10 bezoeken.
+
+- Goed als je een vaste prijs per maand wilt
+- Per maand opzegbaar, 3 dagen vooraf
+- Onlinelessen en video on demand inbegrepen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
 </div>
 
 </div>

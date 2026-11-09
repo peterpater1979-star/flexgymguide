@@ -96,6 +96,7 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 | Anbieter | Art | Preis pro Monat | Laufzeit | Standorte |
 | --- | --- | --- | --- | --- |
 | **[ClassPass](/de/classpass/)** | Sportpass mit Credits | Standard-Abo 59 € (42 Credits) | Jederzeit kündbar | In sehr vielen deutschen Städten, das meiste Angebot in den Großstädten. In 31 Ländern nutzbar |
+| **[Urban Sports Club](/de/urban-sports-club/)** | Sportpass mit festem Preis | Classic 75 € in Berlin, ab 45 € (Essential) | Monatlich kündbar, 3 Tage vorher | Viele deutsche Städte, auch in 5 weiteren Ländern |
 | **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | Über 230 Studios in Europa |
 | **[clever fit](/de/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Über 500 Studios in Deutschland und Europa |
 | **[FitX](/de/fitx/)** | Günstige Fitnesskette | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | Über 110 Studios in Deutschland |
@@ -106,7 +107,7 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
 
-<p class="meer-aanbieders">Und auch: clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: Urban Sports Club, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="steden">
 
@@ -127,9 +128,23 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 </div>
 
-<h2 id="andere">Weitere Fitnessstudios</h2>
+<h2 id="andere">Weitere Fitnessstudios und Sportpässe</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+### Urban Sports Club
+
+Ein fester Preis pro Monat, mit Check-ins bei Partnerstudios. In Berlin kostet Classic, laut ihrer Website die beliebteste Mitgliedschaft, 75 € im Monat, mit einem Besuch pro Tag. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
 
 <div class="kolom kaart aanbiederkaart">
 
