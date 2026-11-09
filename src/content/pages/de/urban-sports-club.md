@@ -92,7 +92,7 @@ Alle Städte und Studios findest du auf urbansportsclub.com.
 
 <h2 id="laender">In welchen Ländern?</h2>
 
-Urban Sports Club hat Partnerstudios in Deutschland, Belgien, Spanien, Frankreich, den Niederlanden und Portugal. In Österreich arbeitet Urban Sports Club inzwischen mit myClubs zusammen. Auf Reisen nutzt du deine Mitgliedschaft vor Ort, je nach Mitgliedschaft. Preise und Angebot unterscheiden sich je nach Land und Stadt.
+Urban Sports Club hat Partnerstudios in Deutschland, Belgien, Spanien, Frankreich, den Niederlanden und Portugal. Auf Reisen nutzt du deine Mitgliedschaft vor Ort, je nach Mitgliedschaft. Preise und Angebot unterscheiden sich je nach Land und Stadt.
 
 <p class="klein">Quelle: urbansportsclub.com (November 2026). Das Angebot kann sich ändern.</p>
 

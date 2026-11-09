@@ -24,7 +24,7 @@ Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscrip
 | **Online** | <span class="ja" aria-hidden="true">✓</span> Clases en directo online y vídeos a la carta ilimitados |
 | **Preaviso** | 3 días antes de la renovación |
 | **Ciudades** | Madrid, Barcelona y muchas otras ciudades de España |
-| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Centros asociados en 7 países europeos |
+| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Centros asociados en 6 países europeos |
 
 <p class="klein">Fuente: urbansportsclub.com, precios de la suscripción mensual en Madrid y Barcelona (noviembre de 2026), IVA incluido. Los precios pueden variar según la ciudad. Consulta siempre los precios actuales en su web.</p>
 
@@ -93,7 +93,7 @@ Todas las ciudades y todos los centros están en urbansportsclub.com.
 
 <h2 id="paises">¿En qué países?</h2>
 
-Urban Sports Club tiene centros asociados en 7 países europeos: Alemania, Austria, Bélgica, España, Francia, Países Bajos y Portugal. Si viajas a uno de estos países, usas tu suscripción allí, según tu plan. Los precios y la oferta varían según el país y la ciudad.
+Urban Sports Club tiene centros asociados en 6 países europeos: Alemania, Bélgica, España, Francia, Países Bajos y Portugal. Si viajas a uno de estos países, usas tu suscripción allí, según tu plan. Los precios y la oferta varían según el país y la ciudad.
 
 <p class="klein">Fuente: urbansportsclub.com (noviembre de 2026). La oferta puede cambiar.</p>
 
@@ -128,7 +128,7 @@ Depende del centro: todos los días, o 4 u 8 veces al mes. Solo puedes hacer un 
 <details>
 <summary>¿Puedo usar Urban Sports Club en otra ciudad?</summary>
 
-Sí. Tu suscripción funciona en los centros asociados de otras ciudades españolas y de los otros seis países donde está el pase (Alemania, Austria, Bélgica, Francia, Países Bajos y Portugal), según tu plan.
+Sí. Tu suscripción funciona en los centros asociados de otras ciudades españolas y de los otros cinco países donde está el pase (Alemania, Bélgica, Francia, Países Bajos y Portugal), según tu plan.
 
 </details>
 

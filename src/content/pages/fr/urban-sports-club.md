@@ -24,7 +24,7 @@ Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnem
 | **En ligne** | <span class="ja" aria-hidden="true">✓</span> Cours en direct en ligne et vidéos à la demande illimitées |
 | **Préavis** | 3 jours pour l’abonnement mensuel |
 | **Villes** | Paris et de nombreuses autres villes en France |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Lieux partenaires dans 7 pays européens |
+| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Lieux partenaires dans 6 pays européens |
 
 <p class="klein">Source : urbansportsclub.com, prix de l’abonnement mensuel à Paris (novembre 2026), TVA comprise. Les prix peuvent varier selon la ville. Vérifie toujours les prix actuels sur leur site.</p>
 
@@ -122,7 +122,7 @@ Toutes les villes et tous les lieux sont sur urbansportsclub.com.
 
 <h2 id="pays">Dans quels pays ?</h2>
 
-Urban Sports Club a des lieux partenaires dans 7 pays européens : l’Allemagne, l’Autriche, la Belgique, l’Espagne, la France, les Pays-Bas et le Portugal. En voyage dans l’un de ces pays, tu utilises ton abonnement sur place, selon ta formule. Les prix et l’offre varient selon le pays et la ville.
+Urban Sports Club a des lieux partenaires dans 6 pays européens : l’Allemagne, la Belgique, l’Espagne, la France, les Pays-Bas et le Portugal. En voyage dans l’un de ces pays, tu utilises ton abonnement sur place, selon ta formule. Les prix et l’offre varient selon le pays et la ville.
 
 <p class="klein">Source : urbansportsclub.com (novembre 2026). L’offre peut évoluer.</p>
 
@@ -157,7 +157,7 @@ Cela dépend du lieu : tous les jours, ou 4 ou 8 fois par mois. Tu ne peux faire
 <details>
 <summary>Puis-je utiliser Urban Sports Club dans une autre ville ?</summary>
 
-Oui. Ton abonnement fonctionne dans les lieux partenaires d’autres villes françaises et des six autres pays où le pass est présent (Allemagne, Autriche, Belgique, Espagne, Pays-Bas et Portugal), selon ta formule.
+Oui. Ton abonnement fonctionne dans les lieux partenaires d’autres villes françaises et des cinq autres pays où le pass est présent (Allemagne, Belgique, Espagne, Pays-Bas et Portugal), selon ta formule.
 
 </details>
 

@@ -86,7 +86,7 @@ Alle steden en locaties staan op urbansportsclub.com.
 
 <h2 id="landen">In welke landen?</h2>
 
-Urban Sports Club heeft partnerlocaties in Duitsland, België, Spanje, Frankrijk, Nederland en Portugal. In Oostenrijk werkt Urban Sports Club inmiddels samen met myClubs. Op reis gebruik je je abonnement ter plekke, afhankelijk van je abonnement. Prijzen en aanbod verschillen per land en stad.
+Urban Sports Club heeft partnerlocaties in Duitsland, België, Spanje, Frankrijk, Nederland en Portugal. Op reis gebruik je je abonnement ter plekke, afhankelijk van je abonnement. Prijzen en aanbod verschillen per land en stad.
 
 <p class="klein">Bron: urbansportsclub.com (november 2026). Het aanbod kan veranderen.</p>
 

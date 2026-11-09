@@ -84,7 +84,7 @@ Todas as cidades e locais estão em urbansportsclub.com.
 
 <h2 id="paises">Em que países?</h2>
 
-O Urban Sports Club tem locais parceiros na Alemanha, Bélgica, Espanha, França, Países Baixos e Portugal. Na Áustria, o Urban Sports Club trabalha agora com a myClubs. Em viagem, usas a tua subscrição no local, conforme o teu plano. Os preços e a oferta variam por país e cidade.
+O Urban Sports Club tem locais parceiros na Alemanha, Bélgica, Espanha, França, Países Baixos e Portugal. Em viagem, usas a tua subscrição no local, conforme o teu plano. Os preços e a oferta variam por país e cidade.
 
 <p class="klein">Fonte: urbansportsclub.com (novembro de 2026). A oferta pode mudar.</p>
 
