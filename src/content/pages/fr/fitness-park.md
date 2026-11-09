@@ -1,7 +1,8 @@
 ---
 title: "Fitness Park : formules, prix et pour qui c’est fait"
+seoTitle: "Fitness Park : prix et tarifs des abonnements"
 path: "/fr/fitness-park/"
-description: "Tout sur Fitness Park en France : plus de 300 clubs, formules Classic, Access+ et Ultimate, prix avec ou sans engagement, frais d’adhésion et villes."
+description: "Prix Fitness Park : Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement, 10 € de moins avec. Frais d’adhésion et clubs."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -36,7 +37,7 @@ Fitness Park est une chaîne française de salles de sport, avec plus de 300 clu
 | **Ultimate** | 60 € | 50 € |
 | **Frais d’adhésion** | 49 € | 30 € |
 
-En octobre 2026, les 4 premières semaines coûtent 29 € sans engagement, ou 19 € avec engagement. Ce que chaque formule comprend en plus est indiqué sur le site de Fitness Park.
+Ce que chaque formule comprend en plus est indiqué sur le site de Fitness Park.
 
 <h2 id="clubs">Ce que tu trouves dans les clubs</h2>
 
@@ -65,6 +66,17 @@ Fitness Park a des clubs entre autres dans ces villes :
 
 Tous les clubs sont sur [fitnesspark.fr/club](https://www.fitnesspark.fr/club/).
 
+<h2 id="resilier">Suspendre et résilier</h2>
+
+- **Sans engagement** : tu résilies au moins 4 semaines avant le prochain prélèvement. La résiliation prend effet 4 semaines après ce prélèvement, et une période de 4 semaines commencée est due en entier.
+- **Avec engagement** : tu es engagé pour 52 semaines. Pour arrêter à la fin de l’engagement, envoie ta demande au moins 4 semaines avant cette date. Sinon, ton abonnement continue, et tu résilies ensuite comme sans engagement.
+- **Partir plus tôt** : c’est possible si tu déménages à plus de 15 km de tout club Fitness Park, si tu perds ton emploi, ou en cas de maladie ou de handicap qui t’empêche durablement de faire du sport. Joins un justificatif (justificatif de domicile de moins de 3 mois, attestation France Travail ou certificat médical).
+- **Suspendre** : en cas d’incapacité médicale, de grossesse ou d’absence pour le travail ou les études, tu peux suspendre ton abonnement de 4 semaines à 12 mois, avec un justificatif. Tu ne paies pas pendant la suspension, et la fin de ton engagement est repoussée d’autant.
+- **Comment** : dans ton espace adhérent (« Résilier mon abonnement »), ou par lettre recommandée avec accusé de réception à ton club.
+- **À savoir** : si tu te réinscris plus tard, tu paies à nouveau les frais d’adhésion. Un prélèvement rejeté coûte 8 €. Inscrit en ligne ? Tu as 14 jours pour te rétracter.
+
+<p class="klein">Source : conditions générales de vente de Fitness Park (novembre 2026). Chaque club peut avoir ses propres conditions : vérifie celles de ton club avant de t’inscrire.</p>
+
 <h2 id="choix">Fitness Park, Basic-Fit ou ClassPass ?</h2>
 
 <div class="kolommen">
@@ -89,7 +101,7 @@ Moins cher, avec plus de 300 clubs en France. Lis [Salle de sport sans engagemen
 
 ### ClassPass
 
-Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Lis [Tout sur ClassPass](/fr/classpass/).
+Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Certains clubs Fitness Park sont aussi sur ClassPass, par exemple à Courbevoie, à Aix-en-Provence (centre) et à Lille. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 

@@ -53,7 +53,7 @@ Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 pe
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
+<div class="fotokop foto-jims"><span>Sportschoolketen</span></div>
 
 ### Jims
 
@@ -84,6 +84,30 @@ ClassPass heeft partnerstudio's in de grotere Belgische steden, onder meer:
 </ul>
 
 In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
+
+</div>
+
+</div>
+
+<h2 id="andere">Andere sportpas</h2>
+
+<div class="kolommen">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+### Urban Sports Club
+
+Een vaste prijs per maand, met check-ins bij partnerlocaties. In Brussel kost Classic, volgens hun site het meest gekozen abonnement, € 75 per maand voor 10 bezoeken.
+
+- Goed als je een vaste prijs per maand wilt
+- Per maand opzegbaar, 3 dagen vooraf
+- Onlinelessen en video on demand inbegrepen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
 
 </div>
 
@@ -137,6 +161,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 <li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-be-index-fles">Waterfles</a></li>
 <li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-be-index-handdoek">Sporthanddoek</a></li>
 <li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-be-index-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-be-index-gripsokken">Gripsokken voor yoga en pilates</a></li>
 </ul>
 
 <p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>

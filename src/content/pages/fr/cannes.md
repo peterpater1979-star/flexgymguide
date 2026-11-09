@@ -49,6 +49,8 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : ON AIR et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="apercu">
 
 ## ClassPass et Basic-Fit en un coup d’œil
@@ -157,6 +159,40 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
+<h2 id="autres">Autres salles à Cannes</h2>
+
+<div class="kolommen vier">
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
+
+<h3 id="on-air-cannes">ON AIR</h3>
+
+Près de Cannes, ON AIR a un club au Cannet. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-cannes">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Cannes. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
+
 ## Lequel te convient ?
 
 <div class="kolommen">
@@ -192,6 +228,23 @@ Choisis ClassPass. Ton abonnement marche aussi dans les autres pays où ClassPas
 </div>
 
 </div>
+
+<h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
+
+Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-cannes-kleding-dames">Vêtements de sport femme</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-cannes-kleding-heren">Vêtements de sport homme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-cannes-schoenen-dames">Chaussures de sport femme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-cannes-schoenen-heren">Chaussures de sport homme</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-cannes-fles">Gourde</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-cannes-handdoek">Serviette de sport</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-cannes-hangslot">Cadenas pour le casier</a></li>
+<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-cannes-gripsokken">Chaussettes grip pour yoga et pilates</a></li>
+</ul>
+
+<p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
 
 ## Questions fréquentes
 

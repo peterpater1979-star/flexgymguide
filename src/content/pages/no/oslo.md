@@ -46,7 +46,7 @@ Nordisk treningskjede med treningssal og gruppetimer.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+<div class="fotokop foto-evo"><span>Treningskjede</span></div>
 
 ### EVO
 
@@ -207,6 +207,23 @@ Velg ClassPass. Abonnementet ditt virker også i andre land med ClassPass.
 </div>
 
 </div>
+
+<h2 id="spullen">Mangler du noe til treningen?</h2>
+
+Disse lenkene tar deg direkte til Traininn, treningsbutikken til Tradeinn.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-no-kleding-dames/?ws=fgg-no-oslo-kleding-dames">Treningstøy for kvinner</a></li>
+<li class="i-kleding"><a href="/go/traininn-no-kleding-heren/?ws=fgg-no-oslo-kleding-heren">Treningstøy for menn</a></li>
+<li class="i-schoen"><a href="/go/traininn-no-schoenen-dames/?ws=fgg-no-oslo-schoenen-dames">Treningssko for kvinner</a></li>
+<li class="i-schoen"><a href="/go/traininn-no-schoenen-heren/?ws=fgg-no-oslo-schoenen-heren">Treningssko for menn</a></li>
+<li class="i-fles"><a href="/go/traininn-no-fles/?ws=fgg-no-oslo-fles">Drikkeflaske</a></li>
+<li class="i-handdoek"><a href="/go/traininn-no-handdoek/?ws=fgg-no-oslo-handdoek">Treningshåndkle</a></li>
+<li class="i-slot"><a href="/go/bricoinn-no-cadenas/?ws=fgg-no-oslo-hangslot">Hengelås til skapet</a></li>
+<li class="i-sok"><a href="/go/traininn-no-gripsokken/?ws=fgg-no-oslo-gripsokken">Gripsokker til yoga og pilates</a></li>
+</ul>
+
+<p class="klein commissie">Kjøper du via disse lenkene, får vi en liten provisjon. Du betaler ikke mer, og guiden forblir gratis. Takk!</p>
 
 ## Ofte stilte spørsmål
 

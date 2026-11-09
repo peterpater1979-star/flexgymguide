@@ -47,6 +47,8 @@ Cadena de gimnasios económica con clubes en toda España.
 
 </div>
 
+<p class="meer-aanbieders">Y también: ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+
 <div id="vistazo">
 
 ## ClassPass y Basic-Fit de un vistazo
@@ -146,6 +148,54 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 </div>
 
+<h2 id="otros">Otros gimnasios en Málaga</h2>
+
+<div class="kolommen vier">
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
+
+<h3 id="on-air-malaga">ON AIR</h3>
+
+En Málaga, ON AIR tiene dos gimnasios en el centro: Armengual y Soho. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
+
+</div>
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
+
+<h3 id="anytime-fitness-malaga">Anytime Fitness</h3>
+
+En Málaga, Anytime Fitness tiene un club en la avenida de Velázquez. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-malaga">Urban Sports Club</h3>
+
+Urban Sports Club también está en Málaga. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
+
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
@@ -180,6 +230,23 @@ Elige ClassPass. Tu suscripción funciona también en los demás países donde e
 </div>
 
 </div>
+
+<h2 id="spullen">¿Te falta algo para el gimnasio?</h2>
+
+¿Te falta algo? Con estos enlaces vas directamente a Traininn, la tienda de fitness de Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-es-kleding-dames/?ws=fgg-es-malaga-kleding-dames">Ropa deportiva de mujer</a></li>
+<li class="i-kleding"><a href="/go/traininn-es-kleding-heren/?ws=fgg-es-malaga-kleding-heren">Ropa deportiva de hombre</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-dames/?ws=fgg-es-malaga-schoenen-dames">Zapatillas deportivas de mujer</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-malaga-schoenen-heren">Zapatillas deportivas de hombre</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-malaga-fles">Botella de agua</a></li>
+<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-malaga-handdoek">Toalla de deporte</a></li>
+<li class="i-slot"><a href="/go/bricoinn-es-cadenas/?ws=fgg-es-malaga-hangslot">Candado para la taquilla</a></li>
+<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-malaga-gripsokken">Calcetines grip para yoga y pilates</a></li>
+</ul>
+
+<p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>
 
 ## Preguntas frecuentes
 

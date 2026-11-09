@@ -49,8 +49,6 @@ Fitness First hat 14 Clubs in Köln, mit Geräten, einem großen Kursprogramm un
 
 Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club Mediapark 22,90 € pro Woche ohne Mindestlaufzeit, 16,90 € mit 12 Monaten und 14,90 € mit 24 Monaten. Im RED-Club Breite Straße waren es 14,90 € ohne Mindestlaufzeit, 11,90 € mit 12 Monaten und 9,90 € mit 24 Monaten.
 
-Bei ALL-IN, BLACK und den Studententarifen mit 24 Monaten waren die ersten 12 Wochen gratis (Angebot bis 27. Oktober 2026).
-
 Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
 
 <p class="klein">Quelle: die Clubseiten Köln Breite Straße und Köln Mediapark und fitnessfirst.de/mitgliedschaft/1m (Oktober 2026). Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>

@@ -91,13 +91,92 @@ Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 
 
 </div>
 
+<h2 id="ueberblick">Alle Anbieter auf einen Blick</h2>
+
+<p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
+
+| Anbieter | Art | Preis pro Monat | Laufzeit | In Österreich |
+| --- | --- | --- | --- | --- |
+| **[ClassPass](/at/classpass/)** | Sportpass mit Credits | Je nach Zahl der Credits | Jederzeit kündbar | Vor allem Wien und Umgebung, insgesamt in 31 Ländern nutzbar |
+| **[myClubs](/at/myclubs/)** | Sportpass | FLEX 4 55 € (4 Trainings), UNLIMITED 109 € | Monatlich kündbar, 7 Tage vorher | Vor allem Wien, auch andere Städte |
+| **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex ab 34,90 €, mit 12 Monaten ab 24,90 € | Flex oder 12 Monate | Mehrere Studios in Wien |
+| **[clever fit](/at/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 39,90 bis 49,90 € | Meist monatlich kündbar oder 6 bis 24 Monate | Studios in Wien und ganz Österreich |
+| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 4 Clubs in und um Wien, 1 bei Graz |
+| **[JOHN REED](/at/john-reed/)** | Fitnessclub | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Wien, Linz, Salzburg |
+| **[Mrs.Sporty](/at/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Rund 50 Clubs, viele in Wien |
+| **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 3 Clubs in Wien |
+
+<p class="meer-aanbieders">Und auch: myClubs, JOHN REED, clever fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <h2 id="steden">Wo funktioniert ClassPass?</h2>
 
 ClassPass gibt es in Österreich vor allem in Wien, mit Studios unter anderem in Mariahilf, der Inneren Stadt, Landstraße, Neubau und Wieden. Dazu kommen einige Studios in der Umgebung, etwa in Klosterneuburg, Mödling und Baden. Alles über ClassPass und Fitness First in der Hauptstadt liest du im [Stadtguide Wien](/at/wien/). In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 
 <ul class="stedenlijst">
-<li><a href="/at/wien/"><strong>Wien</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
+<li><a href="/at/wien/"><strong>Wien</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · JOHN REED · clever fit · Mrs.Sporty</span></li>
 </ul>
+
+<h2 id="andere">Weitere Fitnessstudios und Sportpässe</h2>
+
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-myclubs"><span>Sportpass</span></div>
+
+### myClubs
+
+Sportpass aus Österreich für Studios und Kurse, vor allem in Wien. FLEX 4 kostet 55 € im Monat für 4 Trainings, monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/myclubs/">Alles über myClubs</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+### JOHN REED
+
+Fitnessclubs mit Design, Musik und Kursen, auch in Wien. Flex monatlich kündbar, zum Beispiel 60 € im Monat, plus 40 € Starterpaket.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+### clever fit
+
+Günstige Fitnesskette mit Studios in Wien. Je nach Studio zum Beispiel 39,90 bis 49,90 € im Monat, oft monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+### Mrs.Sporty
+
+Fitnessstudio nur für Frauen mit vielen Clubs in Wien. 30 Minuten Training, kostenloses Probetraining, Preise je Club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
+</div>
 
 ## So funktioniert ClassPass in Österreich
 
@@ -137,19 +216,20 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 
 <h2 id="spullen">Noch etwas fürs Training nötig?</h2>
 
-Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de, das auch nach Österreich liefert:
+Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportbekleidung Damen</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportbekleidung Herren</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Sportschuhe Damen</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Sportschuhe Herren</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-at-index-kleding-dames">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-at-index-kleding-heren">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-at-index-schoenen-dames">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-at-index-schoenen-heren">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-at-index-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-at-index-handdoek">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-at-index-hangslot">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-at-index-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 <h2 id="gidsen">Ratgeber</h2>
 

@@ -61,6 +61,8 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="apercu">
 
 ## ClassPass, Basic-Fit et Keepcool en un coup d’œil
@@ -70,7 +72,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass | Basic-Fit | Keepcool |
 | --- | --- | --- | --- |
 | **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,90 € sans engagement |
+| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays | Une salle à Bruxelles |
@@ -169,7 +171,7 @@ Basic-Fit a des salles à Rouen. C’est une chaîne de salles à petit prix, av
 
 ## Keepcool à Rouen
 
-À Rouen, Keepcool a une salle dans le centre, et une autre à Mont-Saint-Aignan. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,90 €.
+À Rouen, Keepcool a une salle dans le centre, et une autre à Mont-Saint-Aignan. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
 
 ### Idéal pour
 
@@ -185,6 +187,26 @@ Basic-Fit a des salles à Rouen. C’est une chaîne de salles à petit prix, av
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
 </div>
 
+</div>
+
+</div>
+
+</div>
+
+<h2 id="autres">Autres salles à Rouen</h2>
+
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-rouen">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Rouen. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>
@@ -263,7 +285,7 @@ Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies
 <details>
 <summary>Keepcool est-il sans engagement ?</summary>
 
-Oui, si tu veux : sans engagement, tu paies 44,90 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
 
 </details>
 

@@ -22,6 +22,11 @@
 # ClassPass FR goedgekeurd bij Tradedoubler (programma 374042, site 3504154), 27-10-2026
 /go/classpass-fr/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi  302
 /go/classpass-fr/            https://clk.tradedoubler.com/click?p=374042&a=3504154  302
+/go/classpass-fr-banner/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&g=26079274&epi=:epi  302
+/go/classpass-fr-banner/            https://clk.tradedoubler.com/click?p=374042&a=3504154&g=26079274  302
+# Deeplink annuleringsregels (helpcentrum), 08-11-2026
+/go/classpass-fr-annulation/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fhelp.classpass.com%2Fhc%2Fen-us%2Farticles%2F207942743  302
+/go/classpass-fr-annulation/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fhelp.classpass.com%2Fhc%2Fen-us%2Farticles%2F207942743  302
 # Deeplinks per stad (Tradedoubler &url= met de ClassPass-zoekpagina van die stad)
 /go/classpass-fr-amiens/  epi=:epi  https://clk.tradedoubler.com/click?p=374042&a=3504154&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Famiens%2Ffitness-classes%2F4JRPVsYEyXV  302
 /go/classpass-fr-amiens/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Famiens%2Ffitness-classes%2F4JRPVsYEyXV  302
@@ -375,6 +380,8 @@
 /go/classpass-fr-marseille-beaute/            https://clk.tradedoubler.com/click?p=374042&a=3504154&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmarseille%2Fbeauty-appointments%2F5hqpFghgUUX  302
 /go/classpass-es/  epi=:epi  https://clk.tradedoubler.com/click?p=374043&a=3504160&epi=:epi  302
 /go/classpass-es/            https://clk.tradedoubler.com/click?p=374043&a=3504160  302
+/go/classpass-es-cancelacion/  epi=:epi  https://clk.tradedoubler.com/click?p=374043&a=3504160&epi=:epi&url=https%3A%2F%2Fhelp.classpass.com%2Fhc%2Fen-us%2Farticles%2F207942743  302
+/go/classpass-es-cancelacion/            https://clk.tradedoubler.com/click?p=374043&a=3504160&url=https%3A%2F%2Fhelp.classpass.com%2Fhc%2Fen-us%2Farticles%2F207942743  302
 /go/classpass-es-madrid-pilates/  epi=:epi  https://clk.tradedoubler.com/click?p=374043&a=3504160&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmadrid%2Fpilates-classes%2F5PLCeAWZnLo  302
 /go/classpass-es-madrid-pilates/            https://clk.tradedoubler.com/click?p=374043&a=3504160&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmadrid%2Fpilates-classes%2F5PLCeAWZnLo  302
 /go/classpass-es-madrid-barre/  epi=:epi  https://clk.tradedoubler.com/click?p=374043&a=3504160&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmadrid%2Fbarre-classes%2F5MgELawKRjD  302
@@ -830,7 +837,7 @@
 /go/amazon-nl-shaker/  https://www.amazon.nl/s?k=shaker+eiwitshake&tag=flexgymguide-21  302
 /go/amazon-nl-eiwitrepen/  https://www.amazon.nl/s?k=eiwitrepen&tag=flexgymguide-21  302
 
-# Amazon.de (PartnerNet, tracking-ID flexgymguide0c-21): Suchseiten für den Ratgeber erstes Training (DE en AT).
+# Amazon.de (PartnerNet, tracking-ID flexgymguide0c-21): Suchseiten für den Ratgeber erstes Training (alleen DE; AT en CH sinds 7 nov 2026 via Traininn).
 /go/amazon-de-sportbekleidung/  https://www.amazon.de/s?k=sportbekleidung&tag=flexgymguide0c-21  302
 /go/amazon-de-sportschuhe/  https://www.amazon.de/s?k=sportschuhe&tag=flexgymguide0c-21  302
 /go/amazon-de-trinkflasche/  https://www.amazon.de/s?k=sport+trinkflasche&tag=flexgymguide0c-21  302
@@ -924,6 +931,29 @@
 /go/traininn-nl-schoenen-dames/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Fschoenen%2F11084%2Ff%23fq%3Did_familia%3D11084%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2456_1%26start%3D0  302
 /go/traininn-nl-schoenen-heren/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Fschoenen%2F11084%2Ff%23fq%3Did_familia%3D11084%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2455_1%26start%3D0  302
 /go/traininn-nl-schoenen-heren/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Fschoenen%2F11084%2Ff%23fq%3Did_familia%3D11084%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2455_1%26start%3D0  302
+# Traininn NL extra categorieen (08-11-2026, geverifieerd via taalkeuze op Traininn)
+/go/traininn-nl-mat/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Ffitnessapparatuur-matten%2F12055%2Fs  302
+/go/traininn-nl-mat/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Ffitnessapparatuur-matten%2F12055%2Fs  302
+/go/traininn-nl-banden/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Ffitnessapparatuur-oefenbanden%2F12056%2Fs  302
+/go/traininn-nl-banden/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Ffitnessapparatuur-oefenbanden%2F12056%2Fs  302
+/go/traininn-nl-handschoenen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Fvechtsportuitrusting-vechthandschoenen%2F14790%2Fs  302
+/go/traininn-nl-handschoenen/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Fvechtsportuitrusting-vechthandschoenen%2F14790%2Fs  302
+/go/traininn-nl-bandages/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Fvechtsportuitrusting-bandages%2F15119%2Fs  302
+/go/traininn-nl-bandages/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Fvechtsportuitrusting-bandages%2F15119%2Fs  302
+/go/traininn-nl-shaker/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Fvoeding-shakers%2F16694%2Fs  302
+/go/traininn-nl-shaker/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Fvoeding-shakers%2F16694%2Fs  302
+/go/traininn-nl-voeding/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Fvoeding%2F11546%2Ff  302
+/go/traininn-nl-voeding/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Fvoeding%2F11546%2Ff  302
+/go/traininn-nl-yogasokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Ftoesox%2F21167%2Fm  302
+/go/traininn-nl-yogasokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Ftoesox%2F21167%2Fm  302
+/go/traininn-nl-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Fkleding-sokken%2F11971%2Fs%3Fquery%3Dyoga%20spullen%26attributes%3D%5B%5B%22attributes.categories%7C%7C%7CKleding%20%3E%20Sokken%22%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D  302
+/go/traininn-nl-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Fkleding-sokken%2F11971%2Fs%3Fquery%3Dyoga%20spullen%26attributes%3D%5B%5B%22attributes.categories%7C%7C%7CKleding%20%3E%20Sokken%22%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%2C%5B%5D%5D  302
+/go/traininn-nl-springtouw/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fnl%2Fbodybuilding-apparatuur-touwen%2F12063%2Fs  302
+/go/traininn-nl-springtouw/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fnl%2Fbodybuilding-apparatuur-touwen%2F12063%2Fs  302
+/go/bikeinn-nl-repen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=bikeinn%2Fnl%2Fvoeding%2F11543%2Ff%23fq%3Did_familia%3D11543%26sort%3Dprecio_win_142%3Basc%26fe%3D%26pf%3D%40id_subfamilia%3D16676%26start%3D0  302
+/go/bikeinn-nl-repen/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=bikeinn%2Fnl%2Fvoeding%2F11543%2Ff%23fq%3Did_familia%3D11543%26sort%3Dprecio_win_142%3Basc%26fe%3D%26pf%3D%40id_subfamilia%3D16676%26start%3D0  302
+/go/bikeinn-nl-sportdrank/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=bikeinn%2Fnl%2Fvoeding-dranken-en-supplementen%2F16679%2Fs  302
+/go/bikeinn-nl-sportdrank/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=bikeinn%2Fnl%2Fvoeding-dranken-en-supplementen%2F16679%2Fs  302
 /go/traininn-no-bandages/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fno%2Fkampsportutstyr-bandasjer%2F15119%2Fs  302
 /go/traininn-no-bandages/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fno%2Fkampsportutstyr-bandasjer%2F15119%2Fs  302
 /go/bricoinn-no-cadenas/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=bricoinn%2Fno%2Fhardware-hengelaser-og-lasebeslag%2F17700%2Fs%23fq%3Did_familia%3D11564%26sort%3Dv30_sum%3Bdesc%40tm17%3Basc%26fe%3D%26pf%3D%40marca%3D1363%40id_subfamilia%3D17700%26start%3D0  302
@@ -977,6 +1007,40 @@
 /go/traininn-fr-shaker/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Ffr%2Fnutrition-shakers%2F16694%2Fs  302
 /go/traininn-fr-yogasokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Ffr%2Ftoesox%2F21167%2Fm  302
 /go/traininn-fr-yogasokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Ffr%2Ftoesox%2F21167%2Fm  302
+# Traininn/Bricoinn voor AT en CH (Duits, vervangt Amazon.de daar) en hangslot ES/PT, 7 nov 2026.
+/go/traininn-de-kleding-dames/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Fkleidung%2F11076%2Ff%23fq%3Did_familia%3D11076%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2456_1%26start%3D0  302
+/go/traininn-de-kleding-dames/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Fkleidung%2F11076%2Ff%23fq%3Did_familia%3D11076%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2456_1%26start%3D0  302
+/go/traininn-de-kleding-heren/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Fkleidung%2F11076%2Ff%23fq%3Did_familia%3D11076%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2455_1%26start%3D0  302
+/go/traininn-de-kleding-heren/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Fkleidung%2F11076%2Ff%23fq%3Did_familia%3D11076%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2455_1%26start%3D0  302
+/go/traininn-de-schoenen-dames/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Fschuhwerk%2F11084%2Ff%23fq%3Did_familia%3D11084%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2456_1%26start%3D0  302
+/go/traininn-de-schoenen-dames/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Fschuhwerk%2F11084%2Ff%23fq%3Did_familia%3D11084%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2456_1%26start%3D0  302
+/go/traininn-de-schoenen-heren/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Fschuhwerk%2F11084%2Ff%23fq%3Did_familia%3D11084%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2455_1%26start%3D0  302
+/go/traininn-de-schoenen-heren/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Fschuhwerk%2F11084%2Ff%23fq%3Did_familia%3D11084%26sort%3Dv30_sum%3Bdesc%40tm13%3Basc%26fe%3D%26pf%3D%40atributos%3D728_2455_1%26start%3D0  302
+/go/traininn-de-fles/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Ffitnessgerate-trinkflaschen%2F12065%2Fs  302
+/go/traininn-de-fles/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Ffitnessgerate-trinkflaschen%2F12065%2Fs  302
+/go/traininn-de-handdoek/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Ffitnessgerate-handtucher%2F12062%2Fs  302
+/go/traininn-de-handdoek/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Ffitnessgerate-handtucher%2F12062%2Fs  302
+/go/bricoinn-de-cadenas/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=bricoinn%2Fde%2Fhardware-vorhangeschlosser-und-riegel%2F17700%2Fs%23fq%3Did_familia%3D11564%26sort%3Dv30_sum%3Bdesc%40tm17%3Basc%26fe%3D%26pf%3D%40marca%3D1363%40id_subfamilia%3D17700%26start%3D0  302
+/go/bricoinn-de-cadenas/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=bricoinn%2Fde%2Fhardware-vorhangeschlosser-und-riegel%2F17700%2Fs%23fq%3Did_familia%3D11564%26sort%3Dv30_sum%3Bdesc%40tm17%3Basc%26fe%3D%26pf%3D%40marca%3D1363%40id_subfamilia%3D17700%26start%3D0  302
+/go/traininn-de-mat/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Ffitnessgerate-matten%2F12055%2Fs  302
+/go/traininn-de-mat/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Ffitnessgerate-matten%2F12055%2Fs  302
+/go/traininn-de-banden/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Ffitnessgerate-trainingsbander%2F12056%2Fs  302
+/go/traininn-de-banden/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Ffitnessgerate-trainingsbander%2F12056%2Fs  302
+/go/traininn-de-handschoenen/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Fkampfsportgerate-kampfhandschuhe%2F14790%2Fs  302
+/go/traininn-de-handschoenen/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Fkampfsportgerate-kampfhandschuhe%2F14790%2Fs  302
+/go/traininn-de-bandages/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Fkampfsportgerate-bandagen%2F15119%2Fs  302
+/go/traininn-de-bandages/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Fkampfsportgerate-bandagen%2F15119%2Fs  302
+/go/traininn-de-shaker/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Fernahrung-shaker%2F16694%2Fs  302
+/go/traininn-de-shaker/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Fernahrung-shaker%2F16694%2Fs  302
+/go/traininn-de-voeding/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Fernahrung%2F11546%2Ff  302
+/go/traininn-de-voeding/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Fernahrung%2F11546%2Ff  302
+/go/traininn-de-yogasokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Ftoesox%2F21167%2Fm  302
+/go/traininn-de-yogasokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Ftoesox%2F21167%2Fm  302
+/go/bricoinn-es-cadenas/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=bricoinn%2Fes%2Fferreteria-candados-y-cerrojos%2F17700%2Fs%23fq%3Did_familia%3D11564%26sort%3Dv30_sum%3Bdesc%40tm17%3Basc%26fe%3D%26pf%3D%40marca%3D1363%40id_subfamilia%3D17700%26start%3D0  302
+/go/bricoinn-es-cadenas/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=bricoinn%2Fes%2Fferreteria-candados-y-cerrojos%2F17700%2Fs%23fq%3Did_familia%3D11564%26sort%3Dv30_sum%3Bdesc%40tm17%3Basc%26fe%3D%26pf%3D%40marca%3D1363%40id_subfamilia%3D17700%26start%3D0  302
+/go/bricoinn-pt-cadenas/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=bricoinn%2Fpt%2Fhardware-cadeados-e-ferrolhos%2F17700%2Fs%23fq%3Did_familia%3D11564%26sort%3Dv30_sum%3Bdesc%40tm17%3Basc%26fe%3D%26pf%3D%40marca%3D1363%40id_subfamilia%3D17700%26start%3D0  302
+/go/bricoinn-pt-cadenas/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=bricoinn%2Fpt%2Fhardware-cadeados-e-ferrolhos%2F17700%2Fs%23fq%3Did_familia%3D11564%26sort%3Dv30_sum%3Bdesc%40tm17%3Basc%26fe%3D%26pf%3D%40marca%3D1363%40id_subfamilia%3D17700%26start%3D0  302
+
 # Decathlon Ierland via Awin (awinmid 37550), goedgekeurd 2 nov 2026, commissie 1,5%.
 # Label in clickref (fgg-ie-[pagina]); ued = categorie- of productpagina op decathlon.ie (door Peter gekozen). Publisher-ID 371173.
 /go/decathlon-ie-sportswear-women/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fwomen%2Fwomen-s-activewear  302
@@ -992,6 +1056,21 @@
 # Netlify-adres en www naar het hoofddomein
 https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!
 
-# Verwijderde pagina's (Urban Sports Club staat niet meer op de site) die Google nog toont.
-/fr/urban-sports-club/  /fr/classpass/  301
-/es/urban-sports-club/  /es/classpass/  301
+/go/traininn-de-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fde%2Fkleidung-socken%2F11971%2Fs  302
+/go/traininn-de-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fde%2Fkleidung-socken%2F11971%2Fs  302
+/go/traininn-fr-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Ffr%2Fvetements-chaussettes%2F11971%2Fs  302
+/go/traininn-fr-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Ffr%2Fvetements-chaussettes%2F11971%2Fs  302
+/go/traininn-es-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fes%2Fropa-calcetines%2F11971%2Fs  302
+/go/traininn-es-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fes%2Fropa-calcetines%2F11971%2Fs  302
+/go/traininn-pt-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fpt%2Froupa-meias%2F11971%2Fs  302
+/go/traininn-pt-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fpt%2Froupa-meias%2F11971%2Fs  302
+/go/traininn-en-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fen%2Fclothing-socks%2F11971%2Fs  302
+/go/traininn-en-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fen%2Fclothing-socks%2F11971%2Fs  302
+/go/traininn-da-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fda%2Ftoj-sokker%2F11971%2Fs  302
+/go/traininn-da-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fda%2Ftoj-sokker%2F11971%2Fs  302
+/go/traininn-sv-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fsv%2Fklader-strumpor%2F11971%2Fs  302
+/go/traininn-sv-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fsv%2Fklader-strumpor%2F11971%2Fs  302
+/go/traininn-no-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Fno%2Fkl-r-sokker%2F11971%2Fs  302
+/go/traininn-no-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Fno%2Fkl-r-sokker%2F11971%2Fs  302
+/go/traininn-fi-gripsokken/  ws=:ws  https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&ws=:ws&dl=traininn%2Ffi%2Fvaatteet-sukat%2F11971%2Fs  302
+/go/traininn-fi-gripsokken/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=traininn%2Ffi%2Fvaatteet-sukat%2F11971%2Fs  302

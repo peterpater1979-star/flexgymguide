@@ -60,10 +60,25 @@ Det lönar sig alltså att titta på några alternativ innan du bokar.
 1. **Träna utanför rusningstid.** En klass mitt på dagen eller tidigt på morgonen kostar ofta färre krediter än samma klass på kvällen.
 2. **Titta på liknande klasser.** Sök på aktivitet, som yoga eller spinning, och kolla krediterna per klass på några studior nära dig.
 3. **Blanda in gympass.** Ett gympass mellan klasserna är ofta ett billigare sätt att fortsätta träna.
-4. **Avboka i tid.** Sen avbokning eller utebliven närvaro kan kosta dig krediter eller en avgift. Kolla avbokningstiden innan du bokar.
+4. **Avboka i tid.** Avbokar du senare än 12 timmar innan eller dyker inte upp får du tillbaka dina krediter, men du betalar en avgift. Kolla avbokningstiden innan du bokar.
 5. **Använd överföringen.** En lugn månad? Dina oanvända krediter förs över till nästa månad inom ditt abonnemangs gräns. Hinner du inte träna? Du kan också använda krediter till massage, frisör eller spa. I vissa städer kan du också använda dem till mat och dryck.
 6. **Välj ett abonnemang som passar.** Tar krediterna ofta slut kan ett större abonnemang löna sig. Har du alltid krediter kvar sparar ett mindre pengar.
 7. **Kolla innan du reser.** Värdet på krediter utomlands kan vara annorlunda än hemma. Läs [ClassPass på resa](/se/classpass-pa-resa/).
+
+<h2 id="boka">Bra att veta</h2>
+
+Några saker som gör det enklare att boka och avboka:
+
+- **Var ute i god tid.** Kom gärna 10 till 15 minuter innan start, så hinner du byta om i lugn och ro. Vissa studior börjar prick och släpper inte in den som kommer sent.
+- **Hellre ett annat pass?** Avboka det första och boka det nya. Gör det minst 12 timmar innan, så kostar det ingenting.
+- **Avboka i appen.** Då får du tillbaka krediterna direkt och någon annan kan ta din plats.
+- **Förhindrad med mindre än 12 timmar kvar?** Avboka ändå. Det blir billigare än att utebli, och någon annan kan fortfarande få din plats.
+- **Försenad på vägen?** Punktering eller kö? Skicka gärna ett meddelande till studion. Många studior är förstående, men det kan du inte alltid räkna med.
+- **Var ser du dina bokningar?** I appen, bland dina kommande pass. Där ser du också om en avbokning gick igenom: passet är borta och du får ett bekräftelsemejl.
+- **Blir passet inställt?** Ställs passet in eller är instruktören inte där får du helt enkelt tillbaka dina krediter.
+- **Markerad som utebliven fast du var där?** Hör av dig till ClassPass inom 14 dagar, så reder de ut det med studion.
+
+<p class="klein">Vill du läsa allt i detalj? Se <a href="https://help.classpass.com/hc/en-us/articles/207942743">ClassPass avbokningsregler</a>. Reglerna kan ändras; i appen ser du vad som gäller nu.</p>
 
 <h2 id="hur-manga">Hur många krediter behöver du?</h2>
 
@@ -90,7 +105,7 @@ Ja. Dina krediter fungerar i alla länder där ClassPass finns, till det lokala 
 <details>
 <summary>Vad händer om jag avbokar för sent?</summary>
 
-En sen avbokning eller utebliven närvaro kan kosta dig krediterna eller en avgift. Reglerna skiljer sig mellan studior och städer, så kolla dem i appen innan du bokar.
+Du får tillbaka dina krediter, men du betalar en avgift. Det gäller om du avbokar senare än 12 timmar före start (eller efter studions egen gräns), och även om du inte dyker upp. Beloppet varierar mellan länder och pass, och du ser det i appen innan du bokar. Ibland behåller ClassPass krediterna i stället.
 
 </details>
 

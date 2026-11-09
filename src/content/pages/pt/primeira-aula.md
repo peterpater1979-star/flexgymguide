@@ -80,6 +80,8 @@ Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de f
 <li class="i-schoen"><a href="/go/traininn-pt-schoenen-heren/?ws=fgg-pt-primeira-aula-schoenen-heren">Sapatilhas de desporto de homem</a></li>
 <li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-primeira-aula-fles">Garrafa de água</a></li>
 <li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-primeira-aula-handdoek">Toalha de desporto</a></li>
+<li class="i-slot"><a href="/go/bricoinn-pt-cadenas/?ws=fgg-pt-primeira-aula-hangslot">Cadeado para o cacifo</a></li>
+<li class="i-sok"><a href="/go/traininn-pt-gripsokken/?ws=fgg-pt-primeira-aula-gripsokken">Meias grip para ioga e pilates</a></li>
 <li class="i-mat"><a href="/go/traininn-pt-mat/?ws=fgg-pt-primeira-aula-yogamat">Tapete de ioga ou exercício</a></li>
 <li class="i-bandage"><a href="/go/traininn-pt-bandages/?ws=fgg-pt-primeira-aula-bandages">Ligaduras de boxe</a></li>
 <li class="i-handschoen"><a href="/go/traininn-pt-handschoenen/?ws=fgg-pt-primeira-aula-bokshandschoenen">Luvas de boxe</a></li>

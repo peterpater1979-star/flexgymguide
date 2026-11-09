@@ -49,6 +49,8 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : L’Orange bleue et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="apercu">
 
 ## ClassPass et Basic-Fit en un coup d’œil
@@ -156,6 +158,40 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes à l’abonnement standard : 37 crédits pour 59 € par mois.
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
+
+<h2 id="autres">Autres salles à Bayonne</h2>
+
+<div class="kolommen vier">
+
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
+
+<h3 id="l-orange-bleue-bayonne">L’Orange bleue</h3>
+
+À Bayonne, L’Orange bleue a une salle (Bayonne – BAB). Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-bayonne">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Bayonne. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 ## Lequel te convient ?
 

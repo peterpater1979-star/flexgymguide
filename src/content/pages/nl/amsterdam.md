@@ -32,7 +32,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Voor vaste gymgangers</span></div>
+<div class="fotokop foto-trainmore"><span>Voor vaste gymgangers</span></div>
 
 ### Trainmore
 
@@ -69,6 +69,8 @@ Voordelige sportschoolketen met 17 clubs in Amsterdam, veel dag en nacht open.
 </div>
 
 </div>
+
+<p class="meer-aanbieders">En ook: Saints & Stars, Vondelgym, BigGym en Anytime Fitness. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
@@ -216,6 +218,68 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 </div>
 
+<h2 id="andere">Andere sportscholen in Amsterdam</h2>
+
+<div class="kolommen vier">
+
+<div id="saints-stars" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-saints-stars"><span>Boutique studio</span></div>
+
+<h3>Saints & Stars</h3>
+
+Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam: bij het Leidseplein, in Oud-West, Oud-Zuid en De Pijp. Gold kost € 139 per 4 weken met een jaarlidmaatschap, of € 169 met Flex.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/saints-stars/">Alles over Saints & Stars</a>
+</div>
+
+</div>
+
+<div id="vondelgym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-vondelgym"><span>Sportschool</span></div>
+
+<h3>Vondelgym</h3>
+
+Vondelgym heeft drie gyms in Amsterdam: aan de Overtoom bij het Vondelpark, aan de Wibautstraat bij het Oosterpark en op de Zuidas. Regular kost € 84,50 per 4 weken, alleen de gym vanaf € 51,50, en studenten betalen € 46,50.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/vondelgym/">Alles over Vondelgym</a>
+</div>
+
+</div>
+
+<div id="big-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
+
+<h3>BigGym</h3>
+
+BigGym heeft in Amsterdam een grote gym aan de Oostenburgermiddenstraat, op de Oostelijke Eilanden, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
+</div>
+
+</div>
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Sportschool</span></div>
+
+<h3>Anytime Fitness</h3>
+
+Anytime Fitness heeft in Amsterdam een club op de Zuidas, die 24 uur per dag open is. Met een jaarabonnement kost hij € 53,95 per 4 weken, met een halfjaarabonnement € 58,95.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
+</div>
+
+</div>
+
+</div>
+
 ## Welke past bij jou?
 
 <div class="kolommen">
@@ -255,6 +319,23 @@ Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass actief i
 ## Populaire activiteiten in Amsterdam
 
 Yoga · Pilates · Boksen · Spinning · Bootcamp · Krachttraining
+
+<h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
+
+Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-nl-amsterdam-kleding-dames">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-nl-amsterdam-kleding-heren">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-nl-amsterdam-schoenen-dames">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-nl-amsterdam-schoenen-heren">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-amsterdam-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-amsterdam-handdoek">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-amsterdam-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-amsterdam-gripsokken">Gripsokken voor yoga en pilates</a></li>
+</ul>
+
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 ## Veelgestelde vragen
 

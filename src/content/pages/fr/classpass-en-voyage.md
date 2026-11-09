@@ -18,7 +18,7 @@ Ton abonnement ClassPass ne fonctionne pas seulement dans ta ville. En vacances,
 
 | | |
 | --- | --- |
-| **Où** | Dans plus de 30 pays, dont 14 en Europe |
+| **Où** | Dans 31 pays, dont 14 en Europe |
 | **Frais en plus ?** | Non, tu réserves avec les crédits de ton propre abonnement |
 | **Crédits** | Un cours peut coûter plus ou moins de crédits que chez toi |
 | **Annuler** | Gratuit jusqu'à 12 heures avant ; les frais après varient selon le pays |
@@ -42,7 +42,7 @@ Hors d'Europe, il fonctionne entre autres aux États-Unis, au Canada, en Austral
 <h2 id="letop">À quoi faire attention</h2>
 
 - **Valeur des crédits différente.** Chaque ville est différente : le même type de cours peut coûter plus de crédits dans une ville que dans une autre. Jette donc un œil avant de réserver.
-- **Annuler.** Tu annules gratuitement jusqu'à 12 heures avant le début, sauf si le studio a un délai plus tôt. Ensuite, tu paies des frais, dont le montant varie selon le pays. Le Japon a ses propres règles.
+- **Annuler.** Tu annules gratuitement jusqu'à 12 heures avant le début, sauf si le studio a un délai plus tôt. Ensuite, tu paies des frais, dont le montant varie selon le pays. Tu récupères quand même tes crédits. Le Japon a ses propres règles.
 - **Décalage horaire.** Si tu réserves de chez toi un cours à destination, vérifie bien l'heure de début sur place.
 - **Essai.** Pendant l'essai, d'autres règles peuvent s'appliquer. Tu vois ce qui s'applique à toi lors de l'inscription.
 

@@ -54,7 +54,7 @@ En nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Fi
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gymkedja</span></div>
+<div class="fotokop foto-nordic-wellness"><span>Gymkedja</span></div>
 
 ### Nordic Wellness
 
@@ -138,6 +138,7 @@ De här länkarna tar dig direkt till Traininn, Tradeinns träningsbutik.
 <li class="i-fles"><a href="/go/traininn-sv-fles/?ws=fgg-se-index-fles">Vattenflaska</a></li>
 <li class="i-handdoek"><a href="/go/traininn-sv-handdoek/?ws=fgg-se-index-handdoek">Träningshandduk</a></li>
 <li class="i-slot"><a href="/go/bricoinn-sv-cadenas/?ws=fgg-se-index-hangslot">Hänglås till skåpet</a></li>
+<li class="i-sok"><a href="/go/traininn-sv-gripsokken/?ws=fgg-se-index-gripsokken">Gripstrumpor för yoga och pilates</a></li>
 </ul>
 
 <p class="klein commissie">Köper du via de här länkarna får vi en liten provision. Du betalar inget extra och guiden förblir gratis. Tack!</p>

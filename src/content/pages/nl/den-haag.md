@@ -32,7 +32,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Voor vaste gymgangers</span></div>
+<div class="fotokop foto-trainmore"><span>Voor vaste gymgangers</span></div>
 
 ### Trainmore
 
@@ -69,6 +69,8 @@ Voordelige sportschoolketen met 8 clubs in Den Haag, veel dag en nacht open.
 </div>
 
 </div>
+
+<p class="meer-aanbieders">En ook: Anytime Fitness. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
@@ -210,6 +212,26 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 </div>
 
+<h2 id="andere">Andere sportscholen in Den Haag</h2>
+
+<div class="kolommen vier">
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Sportschool</span></div>
+
+<h3>Anytime Fitness</h3>
+
+Anytime Fitness heeft in Den Haag een club in Wateringse Veld, die 24 uur per dag open is. Met een jaarabonnement kost hij € 49,95 per 4 weken, met een halfjaarabonnement € 54,95.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
+</div>
+
+</div>
+
+</div>
+
 ## Welke past bij jou?
 
 <div class="kolommen">
@@ -245,6 +267,23 @@ Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass actief i
 </div>
 
 </div>
+
+<h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
+
+Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-nl-den-haag-kleding-dames">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-nl-den-haag-kleding-heren">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-nl-den-haag-schoenen-dames">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-nl-den-haag-schoenen-heren">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-den-haag-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-den-haag-handdoek">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-den-haag-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-den-haag-gripsokken">Gripsokken voor yoga en pilates</a></li>
+</ul>
+
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 ## Veelgestelde vragen
 

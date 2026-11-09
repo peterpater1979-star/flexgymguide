@@ -60,10 +60,25 @@ Por isso vale a pena ver várias opções antes de reservar.
 1. **Treina fora das horas de ponta.** Uma aula a meio do dia ou cedo de manhã custa muitas vezes menos créditos do que a mesma aula à noite.
 2. **Vê aulas parecidas.** Pesquisa por atividade, como ioga ou spinning, e repara nos créditos por aula em alguns estúdios perto de ti.
 3. **Junta sessões de ginásio.** Uma sessão de ginásio entre aulas é muitas vezes uma forma mais barata de continuar a treinar.
-4. **Cancela a tempo.** Cancelar tarde ou faltar pode custar-te créditos ou uma taxa. Confirma o prazo de cancelamento antes de reservar.
+4. **Cancela a tempo.** Se cancelares com menos de 12 horas de antecedência ou faltares, recuperas os teus créditos, mas pagas uma taxa. Confirma o prazo de cancelamento antes de reservar.
 5. **Aproveita os créditos que passam.** Um mês mais calmo? Os créditos que não usaste passam para o mês seguinte, dentro do limite do teu plano. Não tens tempo para treinar? Também podes usar os créditos numa massagem, no cabeleireiro ou num spa. Em algumas cidades também os podes usar para comida e bebida.
 6. **Escolhe o plano certo.** Se ficas muitas vezes sem créditos, um plano maior pode compensar. Se te sobram sempre, um mais pequeno poupa-te dinheiro.
 7. **Confirma antes de viajar.** O valor dos créditos no estrangeiro pode ser diferente do de casa. Lê [ClassPass em viagem](/pt/classpass-em-viagem/).
+
+<h2 id="reservar">Bom saber</h2>
+
+Algumas coisas que facilitam reservar e cancelar:
+
+- **Chega com tempo.** O ideal é chegar 10 a 15 minutos antes, para te mudares com calma. Alguns estúdios começam à hora certa e já não deixam entrar quem chega atrasado.
+- **Preferes outra aula?** Cancela a primeira e reserva a nova. Faz isso pelo menos 12 horas antes e não pagas nada.
+- **Cancela-se na app.** Assim recuperas logo os créditos e outra pessoa pode ficar com o teu lugar.
+- **Não podes ir e faltam menos de 12 horas?** Cancela na mesma. Fica mais barato do que faltar e outra pessoa ainda pode ficar com o teu lugar.
+- **Um imprevisto pelo caminho?** Uma avaria ou trânsito? Manda à vontade uma mensagem ao estúdio. Muitos estúdios são compreensivos, mas nem sempre podes contar com isso.
+- **Onde vês as tuas reservas?** Na app, junto às tuas próximas aulas. Aí também vês se um cancelamento resultou: a aula já não aparece e recebes um e-mail de confirmação.
+- **A aula não se realiza?** Se a aula for cancelada ou o instrutor não estiver, recuperas simplesmente os créditos.
+- **Marcado como falta, mas foste?** Avisa o ClassPass no prazo de 14 dias e eles resolvem com o estúdio.
+
+<p class="klein">Queres ler tudo ao pormenor? Consulta <a href="https://help.classpass.com/hc/en-us/articles/207942743">a política de cancelamento do ClassPass</a>. As regras podem mudar; na app vês o que se aplica agora.</p>
 
 <h2 id="quantos">De quantos créditos precisas?</h2>
 
@@ -90,7 +105,7 @@ Sim. Os teus créditos funcionam em todos os países onde o ClassPass está pres
 <details>
 <summary>O que acontece se cancelar tarde?</summary>
 
-Cancelar tarde ou faltar pode custar-te os créditos ou uma taxa. As regras variam conforme o estúdio e a cidade, por isso confirma-as na app antes de reservar.
+Recuperas os teus créditos, mas pagas uma taxa. Isto acontece se cancelares com menos de 12 horas de antecedência (ou depois do prazo do estúdio), e também se faltares. O valor varia conforme o país e a aula, e vês-o na app antes de reservar. Às vezes o ClassPass fica com os créditos em vez disso.
 
 </details>
 

@@ -41,11 +41,11 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 Trainmore is een premium sportschoolketen met groepslessen en clubs in het centrum van de stad. Er is 1 club in Haarlem. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. Zo zagen de prijzen er in oktober 2026 uit bij Trainmore Haarlem Hortusplein (Black Label), met Home+ (je eigen club plus alle Regular-clubs), per 4 weken:
 
-| Looptijd | Prijs | Actie |
-| --- | --- | --- |
-| Flex | € 92 | |
-| 1 jaar | € 72 | 1e 3 mnd € 36 |
-| 2 jaar | € 65 | 1e 5 mnd € 32,50 |
+| Looptijd | Prijs |
+| --- | --- |
+| Flex | € 92 |
+| 1 jaar | € 72 |
+| 2 jaar | € 65 |
 
 **Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Hortusplein betaal je met een jaarcontract dan € 60 in plaats van € 72. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de uitleg van Trainmore.
 

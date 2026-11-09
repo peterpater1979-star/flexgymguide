@@ -74,6 +74,8 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 1 Club in Köln.
 
 </div>
 
+<p class="meer-aanbieders">Und auch: Basic-Fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <div id="ueberblick">
 
 ## ClassPass, Fitness First, McFit und Holmes Place auf einen Blick
@@ -240,6 +242,47 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 </div>
 
+<h2 id="andere">Weitere Fitnessstudios in Köln</h2>
+
+<div class="kolommen vier">
+
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Köln Clubs in der Spichernstraße und der Peter-Huppertz-Straße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
+<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+<h3>Mrs.Sporty</h3>
+
+Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Köln. 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
+</div>
+
+| Anbieter | Preis pro Monat | Laufzeit | In Köln |
+| --- | --- | --- | --- |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
+| **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | Mehrere Clubs |
+
+<p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
+
 ## Was passt zu dir?
 
 <div class="kolommen">
@@ -275,6 +318,23 @@ Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPa
 </div>
 
 </div>
+
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-de-koeln-kleding-dames">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-de-koeln-kleding-heren">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-de-koeln-schoenen-dames">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-de-koeln-schoenen-heren">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-koeln-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-koeln-handdoek">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-de-koeln-hangslot">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-de-koeln-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
+</ul>
+
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 ## Häufige Fragen
 

@@ -36,7 +36,7 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Sportschoolketen</span></div>
+<div class="fotokop foto-trainmore"><span>Sportschoolketen</span></div>
 
 ### Trainmore
 
@@ -91,25 +91,125 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 
 </div>
 
+<p class="meer-aanbieders">En ook: Saints & Stars, Vondelgym, BigGym, Anytime Fitness en Urban Sports Club. <a href="#andere">Bekijk de andere sportscholen</a></p>
+
 <div id="steden">
 
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness</span></li>
+<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym</span></li>
 <li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
 <li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore · SportCity</span></li>
 <li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/alkmaar/"><strong>Alkmaar</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym</span></li>
+<li><a href="/nl/alkmaar/"><strong>Alkmaar</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym</span></li>
 <li><a href="/nl/arnhem/"><strong>Arnhem</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/nl/nijmegen/"><strong>Nijmegen</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/nl/nijmegen/"><strong>Nijmegen</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym</span></li>
 <li><a href="/nl/den-bosch/"><strong>Den Bosch</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/nl/breda/"><strong>Breda</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 </ul>
+
+</div>
+
+<h2 id="andere">Andere sportscholen en studio's</h2>
+
+Sportscholen en studio's in een paar steden, met eigen lidmaatschappen, en de sportpas Urban Sports Club.
+
+<div class="kolommen drie">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-saints-stars"><span>Boutique studio</span></div>
+
+### Saints & Stars
+
+Lessen in kleine groepen op vier plekken in Amsterdam. Gold vanaf € 139 per 4 weken met een jaar, of per les met credits.
+
+- Goed als je veel lessen wilt
+- Flex: 4 weken opzegtermijn
+- Ook losse lessen met credits
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/saints-stars/">Alles over Saints & Stars</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-vondelgym"><span>Sportschool met lessen</span></div>
+
+### Vondelgym
+
+Drie gyms in Amsterdam met kracht, (kick)boksen, yoga en hardlopen. Regular € 84,50 per 4 weken, alleen gym vanaf € 51,50.
+
+- Goed als je van boksen en kracht houdt
+- Per 4 weken opzegbaar
+- Dagpas om eerst te proberen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/vondelgym/">Alles over Vondelgym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-big-gym"><span>Grote sportschool</span></div>
+
+### BigGym
+
+Grote gyms in 16 plaatsen, onder meer Amsterdam, Rotterdam en Utrecht. Unlimited € 30 tot € 35 per 4 weken met een contract, Flex € 45.
+
+- Goed als je vaak traint
+- Groepslessen en HYROX inbegrepen
+- Opzeggen alleen via de app
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>24 uur open</span></div>
+
+### Anytime Fitness
+
+Kleine sportscholen die dag en nacht open zijn, onder meer in Amsterdam, Rotterdam en Den Haag. Elke club bepaalt zelf de prijs.
+
+- Goed als je op rare tijden traint
+- Ook clubs in het buitenland
+- Minimaal een halfjaar
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+### Urban Sports Club
+
+Een vaste prijs per maand, met check-ins bij partnerlocaties. In Amsterdam kost Classic, volgens hun site het meest gekozen abonnement, € 75 per maand voor 10 bezoeken.
+
+- Goed als je een vaste prijs per maand wilt
+- Per maand opzegbaar, 3 dagen vooraf
+- Onlinelessen en video on demand inbegrepen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 
@@ -151,19 +251,20 @@ Je kunt je abonnement op elk moment aanpassen, pauzeren of opzeggen.
 
 <h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
 
-Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
+Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-dames/">Sportkleding dames</a></li>
-<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-heren/">Sportkleding heren</a></li>
-<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-dames/">Sportschoenen dames</a></li>
-<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-heren/">Sportschoenen heren</a></li>
-<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
-<li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
-<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-nl-index-kleding-dames">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-nl-index-kleding-heren">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-nl-index-schoenen-dames">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-nl-index-schoenen-heren">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-index-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-index-handdoek">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-index-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-index-gripsokken">Gripsokken voor yoga en pilates</a></li>
 </ul>
 
-<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 <h2 id="gidsen">Gidsen</h2>
 

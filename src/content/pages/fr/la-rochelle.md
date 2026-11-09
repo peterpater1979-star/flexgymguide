@@ -49,6 +49,8 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="apercu">
 
 ## ClassPass et Keepcool en un coup d’œil
@@ -58,7 +60,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass | Keepcool |
 | --- | --- | --- |
 | **Type** | Pass sport à crédits | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,90 € sans engagement |
+| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Une salle à Bruxelles |
@@ -123,7 +125,7 @@ Une petite offre : Iron Bodyfit La Rochelle (avenue de la Porte Royale), séance
 
 ## Keepcool à La Rochelle
 
-Keepcool a une salle à La Rochelle. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,90 €.
+Keepcool a une salle à La Rochelle. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
 
 ### Idéal pour
 
@@ -155,6 +157,26 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes à l’abonnement standard : 37 crédits pour 59 € par mois.
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
+
+<h2 id="autres">Autres salles à La Rochelle</h2>
+
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-la-rochelle">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à La Rochelle. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 ## Lequel te convient ?
 
@@ -218,7 +240,7 @@ Oui. Tes crédits marchent dans d’autres villes françaises et à l’étrange
 <details>
 <summary>Keepcool est-il sans engagement ?</summary>
 
-Oui, si tu veux : sans engagement, tu paies 44,90 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
 
 </details>
 

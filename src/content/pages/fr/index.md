@@ -1,7 +1,7 @@
 ---
 title: "Faire du sport sans engagement en France"
 path: "/fr/"
-description: "Faire du sport sans contrat long dans une seule salle ? Avec ClassPass, un abonnement donne accès à des studios et salles à Paris. Voici comment ça marche."
+description: "Faire du sport sans contrat long dans une seule salle ? Avec un pass sport comme ClassPass ou Urban Sports Club, un abonnement donne accès à des studios et salles. Voici comment ça marche."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -9,9 +9,9 @@ crumb: "France"
 kicker: "Guide pays France"
 ---
 
-Pas envie d’un long contrat dans une seule salle de sport ? Avec un pass sport comme ClassPass, un seul abonnement te donne accès à différents studios et salles. Voici comment ça marche en France, et dans quelles villes.
+Pas envie d’un long contrat dans une seule salle de sport ? Avec un pass sport comme ClassPass ou Urban Sports Club, un seul abonnement te donne accès à différents studios et salles. Voici comment ça marche en France, et dans quelles villes.
 
-<h2 id="options">Quatre façons de faire du sport en toute flexibilité</h2>
+<h2 id="options">ClassPass et les grandes chaînes de salles</h2>
 
 <div class="kolommen">
 
@@ -58,12 +58,11 @@ Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,
 
 ### Fitness Park
 
-Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans engagement : Classic 40 €, Access+ 55 € ou Ultimate 60 € toutes les 4 semaines. Avec engagement, c'est 10 € de moins.
+Plus de 300 clubs en France, ouverts 7j/7, certains 24h/24. Sans engagement dès 40 € toutes les 4 semaines, ou 10 € de moins avec engagement.
 
 - Idéal si tu t'entraînes trois fois par semaine ou plus
-- Cours collectifs, et selon le club un espace boxe ou un espace réservé aux femmes
+- Cours collectifs dans ta salle
 - Frais d'adhésion : 49 € sans engagement, 30 € avec
-- En octobre 2026 : les 4 premières semaines à 29 € (19 € avec engagement)
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>
@@ -77,7 +76,7 @@ Plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans
 
 ### Keepcool
 
-Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et des cours en petits groupes. Dès 34,99 € toutes les 4 semaines avec engagement d’un an, ou 44,90 € sans engagement.
+Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et des cours en petits groupes. Dès 34,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
 - Idéal si tu veux être accompagné par un coach
 - Cours en petits groupes (Small Groups)
@@ -91,56 +90,58 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, WellNess Sport Club, RITM et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="villes">
 
 ## Villes
 
 <ul class="stedenlijst">
-<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/bordeaux/"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/nice/"><strong>Nice</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/aix-en-provence/"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/toulouse/"><strong>Toulouse</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/nantes/"><strong>Nantes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/lille/"><strong>Lille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/strasbourg/"><strong>Strasbourg</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/montpellier/"><strong>Montpellier</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/rennes/"><strong>Rennes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool</span></li>
-<li><a href="/fr/cannes/"><strong>Cannes</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR · L’Appart Fitness · Gigafit · Liberty Gym · Urban Sports Club</span></li>
+<li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
+<li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/bordeaux/"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
+<li><a href="/fr/nice/"><strong>Nice</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
+<li><a href="/fr/aix-en-provence/"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/toulouse/"><strong>Toulouse</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/nantes/"><strong>Nantes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/lille/"><strong>Lille</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
+<li><a href="/fr/strasbourg/"><strong>Strasbourg</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · Urban Sports Club</span></li>
+<li><a href="/fr/montpellier/"><strong>Montpellier</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/rennes/"><strong>Rennes</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/cannes/"><strong>Cannes</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Urban Sports Club</span></li>
 </ul>
 
 <details class="meer-steden">
 <summary>Voir les 28 autres villes</summary>
 
 <ul class="stedenlijst">
-<li><a href="/fr/rouen/"><strong>Rouen</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/tours/"><strong>Tours</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/fr/orleans/"><strong>Orléans</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/dijon/"><strong>Dijon</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/clermont-ferrand/"><strong>Clermont-Ferrand</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/saint-etienne/"><strong>Saint-Étienne</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/le-havre/"><strong>Le Havre</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/angers/"><strong>Angers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/le-mans/"><strong>Le Mans</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/brest/"><strong>Brest</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/nimes/"><strong>Nîmes</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/annecy/"><strong>Annecy</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/amiens/"><strong>Amiens</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/avignon/"><strong>Avignon</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/reims/"><strong>Reims</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/troyes/"><strong>Troyes</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/fr/bayonne/"><strong>Bayonne</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/fr/poitiers/"><strong>Poitiers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/dunkerque/"><strong>Dunkerque</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/fr/annemasse/"><strong>Annemasse</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/fr/lorient/"><strong>Lorient</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/la-rochelle/"><strong>La Rochelle</strong></a> <span class="klein">ClassPass · Keepcool</span></li>
-<li><a href="/fr/beziers/"><strong>Béziers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool</span></li>
-<li><a href="/fr/arras/"><strong>Arras</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/fr/cergy/"><strong>Cergy</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/fr/poissy/"><strong>Poissy</strong></a> <span class="klein">ClassPass</span></li>
+<li><a href="/fr/rouen/"><strong>Rouen</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · Urban Sports Club</span></li>
+<li><a href="/fr/tours/"><strong>Tours</strong></a> <span class="klein">ClassPass · Basic-Fit · L’Orange bleue · Urban Sports Club</span></li>
+<li><a href="/fr/orleans/"><strong>Orléans</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/dijon/"><strong>Dijon</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Appart Fitness · Urban Sports Club</span></li>
+<li><a href="/fr/clermont-ferrand/"><strong>Clermont-Ferrand</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
+<li><a href="/fr/saint-etienne/"><strong>Saint-Étienne</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · L’Appart Fitness · Urban Sports Club</span></li>
+<li><a href="/fr/le-havre/"><strong>Le Havre</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/angers/"><strong>Angers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/le-mans/"><strong>Le Mans</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · ON AIR · Gigafit · Urban Sports Club</span></li>
+<li><a href="/fr/brest/"><strong>Brest</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · Urban Sports Club</span></li>
+<li><a href="/fr/nimes/"><strong>Nîmes</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/annecy/"><strong>Annecy</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · ON AIR · L’Appart Fitness · Urban Sports Club</span></li>
+<li><a href="/fr/amiens/"><strong>Amiens</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/avignon/"><strong>Avignon</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · Urban Sports Club</span></li>
+<li><a href="/fr/reims/"><strong>Reims</strong></a> <span class="klein">ClassPass · L’Orange bleue · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/troyes/"><strong>Troyes</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
+<li><a href="/fr/bayonne/"><strong>Bayonne</strong></a> <span class="klein">ClassPass · Basic-Fit · L’Orange bleue · Urban Sports Club</span></li>
+<li><a href="/fr/poitiers/"><strong>Poitiers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/dunkerque/"><strong>Dunkerque</strong></a> <span class="klein">ClassPass · Basic-Fit · Gigafit · Urban Sports Club</span></li>
+<li><a href="/fr/annemasse/"><strong>Annemasse</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/lorient/"><strong>Lorient</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · L’Orange bleue · L’Appart Fitness · Urban Sports Club</span></li>
+<li><a href="/fr/la-rochelle/"><strong>La Rochelle</strong></a> <span class="klein">ClassPass · Keepcool · Urban Sports Club</span></li>
+<li><a href="/fr/beziers/"><strong>Béziers</strong></a> <span class="klein">ClassPass · Basic-Fit · Keepcool · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/arras/"><strong>Arras</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Urban Sports Club</span></li>
+<li><a href="/fr/cergy/"><strong>Cergy</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Gigafit · Urban Sports Club</span></li>
+<li><a href="/fr/poissy/"><strong>Poissy</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
 <li><a href="/fr/maurepas/"><strong>Maurepas</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/fr/montevrain/"><strong>Montévrain</strong></a> <span class="klein">ClassPass</span></li>
 <li><a href="/fr/bussy-saint-georges/"><strong>Bussy-Saint-Georges</strong></a> <span class="klein">ClassPass</span></li>
@@ -149,6 +150,121 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 </details>
 
 ClassPass est aussi présent dans d’autres villes. Dans l’application, tu vois quels studios et salles participent près de chez toi.
+
+</div>
+
+<h2 id="autres">Autres salles et pass sport</h2>
+
+D’autres chaînes de salles, et Urban Sports Club, un pass sport à prix fixe.
+
+<div class="kolommen drie">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs et cours</span></div>
+
+### L’Orange bleue
+
+Environ 400 salles en France, en Espagne et au Portugal selon L’Orange bleue. Dès 35 € toutes les 4 semaines, avec engagement d’un ou deux ans, plus 60 € de frais d’adhésion.
+
+- Idéal si tu veux un coach dans la salle
+- Cours collectifs illimités
+- Frais d’adhésion offerts aux étudiants
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Grande salle de sport</span></div>
+
+### ON AIR
+
+Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 31,96 € toutes les 4 semaines, plus 50 € de frais d’inscription.
+
+- Idéal si tu veux beaucoup de matériel
+- Préavis de 8 semaines
+- Accès à tous les clubs ON AIR
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-appart-fitness"><span>Salle avec cours</span></div>
+
+### L’Appart Fitness
+
+118 salles en France selon L’Appart Fitness, surtout autour de Lyon. 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
+
+- Ouvert 7j/7 de 6h à 23h
+- 5 € de moins pour les étudiants
+- Séance d’essai à 9,99 €
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-wellness-sport-club"><span>Salle tout inclus</span></div>
+
+### WellNess Sport Club
+
+12 clubs dans 7 villes, tous sans engagement. Hors Paris dès 54 € par mois, à Paris dès 69 €, plus une licence et un dépôt de garantie.
+
+- Idéal si tu veux beaucoup de cours collectifs dans ta salle
+- Cours aquatiques, sauna et hammam
+- Tarif étudiant pour les moins de 26 ans
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-ritm"><span>Salle à Paris et Nantes</span></div>
+
+### RITM
+
+6 clubs à Paris et Boulogne, 2 à Nantes. Tu paies à la semaine : à Paris 24,99 € avec engagement de 52 semaines, ou 29,99 € sans engagement.
+
+- Pass jour, semaine ou mois sans abonnement
+- Option ROD - HYROX
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+### Urban Sports Club
+
+Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires. À Paris, Classic, la formule la plus choisie selon leur site, coûte 75 € par mois pour 10 visites.
+
+- Idéal si tu veux un prix fixe par mois
+- Résiliable avec 3 jours de préavis
+- Cours en ligne et vidéos à la demande inclus
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 
@@ -201,6 +317,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 <li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-index-fles">Gourde</a></li>
 <li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-index-handdoek">Serviette de sport</a></li>
 <li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-index-hangslot">Cadenas pour le casier</a></li>
+<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-index-gripsokken">Chaussettes grip pour yoga et pilates</a></li>
 </ul>
 
 <p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>

@@ -60,10 +60,25 @@ Kannattaa siis katsoa muutamaa vaihtoehtoa ennen varaamista.
 1. **Treenaa ruuhka-aikojen ulkopuolella.** Tunti keskellä päivää tai aikaisin aamulla maksaa usein vähemmän krediittejä kuin sama tunti illalla.
 2. **Katso samankaltaisia tunteja.** Hae lajin mukaan, esimerkiksi jooga tai spinning, ja katso krediitit tuntia kohden muutamassa lähistön studiossa.
 3. **Lisää mukaan salikäyntejä.** Salikäynti tuntien välissä on usein edullisempi tapa pitää treeni käynnissä.
-4. **Peru ajoissa.** Myöhäinen peruutus tai saapumatta jättäminen voi maksaa krediittejä tai maksun. Tarkista peruutusaika ennen varausta.
+4. **Peru ajoissa.** Jos perut alle 12 tuntia ennen tai et saavu, saat krediittisi takaisin, mutta maksat maksun. Tarkista peruutusaika ennen varausta.
 5. **Hyödynnä siirtyvät krediitit.** Hiljainen kuukausi? Käyttämättömät krediitit siirtyvät seuraavaan kuukauteen tilauksesi rajoissa. Etkö ehdi treenata? Voit käyttää krediittejä myös hierontaan, kampaajalle tai kylpylään. Joissakin kaupungeissa voit käyttää niitä myös ruokaan ja juomaan.
 6. **Valitse sopiva tilaus.** Jos krediitit loppuvat usein kesken, isompi tilaus voi kannattaa. Jos niitä jää aina yli, pienempi säästää rahaa.
 7. **Tarkista ennen matkaa.** Krediittien arvo ulkomailla voi olla eri kuin kotona. Lue [ClassPass matkoilla](/fi/classpass-matkoilla/).
+
+<h2 id="varaaminen">Hyvä tietää</h2>
+
+Muutama asia, jotka helpottavat varaamista ja perumista:
+
+- **Tule ajoissa.** Paras tulla 10–15 minuuttia ennen alkua, niin ehdit vaihtaa vaatteet rauhassa. Osa studioista aloittaa täsmälleen ajallaan eikä päästä myöhästyneitä sisään.
+- **Mieluummin toinen tunti?** Peru ensimmäinen ja varaa uusi. Tee se vähintään 12 tuntia ennen, niin se ei maksa mitään.
+- **Peruminen käy sovelluksessa.** Saat krediitit heti takaisin, ja joku muu voi saada paikkasi.
+- **Este tullut alle 12 tuntia ennen?** Peru silti. Se on edullisempaa kuin jättää tulematta, ja joku muu voi vielä saada paikkasi.
+- **Viivästys matkalla?** Rengasrikko tai ruuhka? Laita studiolle viesti. Moni studio suhtautuu ymmärtäväisesti, mutta siihen ei aina voi luottaa.
+- **Missä näet varauksesi?** Sovelluksessa tulevien tuntiesi kohdalla. Siitä näet myös, onnistuiko peruutus: tunti on poissa listalta ja saat vahvistuksen sähköpostiin.
+- **Eikö tuntia pidetäkään?** Jos tunti peruuntuu tai ohjaaja ei tule, saat krediitit yksinkertaisesti takaisin.
+- **Merkitty poissaolevaksi, vaikka olit paikalla?** Ilmoita ClassPassille 14 päivän sisällä, niin he selvittävät asian studion kanssa.
+
+<p class="klein">Haluatko lukea kaiken tarkemmin? Katso <a href="https://help.classpass.com/hc/en-us/articles/207942743">ClassPassin peruutusehdot</a>. Säännöt voivat muuttua; sovelluksesta näet, mitä nyt sovelletaan.</p>
 
 <h2 id="kuinka-monta">Montako krediittiä tarvitset?</h2>
 
@@ -90,7 +105,7 @@ Voit. Krediittisi toimivat kaikissa maissa, joissa ClassPass on käytössä, pai
 <details>
 <summary>Mitä tapahtuu, jos peruun liian myöhään?</summary>
 
-Myöhäinen peruutus tai saapumatta jättäminen voi maksaa krediitit tai maksun. Säännöt vaihtelevat studioittain ja kaupungeittain, joten tarkista ne sovelluksesta ennen varausta.
+Saat krediittisi takaisin, mutta maksat maksun. Näin käy, jos perut alle 12 tuntia ennen alkua (tai studion oman rajan jälkeen), ja myös jos et saavu paikalle. Maksun suuruus vaihtelee maittain ja tunneittain, ja näet sen sovelluksessa ennen varausta. Joskus ClassPass pitää krediitit maksun sijaan.
 
 </details>
 

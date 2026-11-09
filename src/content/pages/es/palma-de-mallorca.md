@@ -47,6 +47,8 @@ Cadena de gimnasios económica con clubes en toda España.
 
 </div>
 
+<p class="meer-aanbieders">Y también: Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+
 <div id="vistazo">
 
 ## ClassPass y Basic-Fit de un vistazo
@@ -147,6 +149,40 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 </div>
 
+<h2 id="otros">Otros gimnasios en Palma de Mallorca</h2>
+
+<div class="kolommen vier">
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
+
+<h3 id="anytime-fitness-palma-de-mallorca">Anytime Fitness</h3>
+
+En Palma, Anytime Fitness tiene tres clubes, entre ellos Foners y Fortí. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-palma-de-mallorca">Urban Sports Club</h3>
+
+Urban Sports Club también está en Palma de Mallorca. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
+
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
@@ -181,6 +217,23 @@ Elige ClassPass. Tu suscripción funciona también en los demás países donde e
 </div>
 
 </div>
+
+<h2 id="spullen">¿Te falta algo para el gimnasio?</h2>
+
+¿Te falta algo? Con estos enlaces vas directamente a Traininn, la tienda de fitness de Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-es-kleding-dames/?ws=fgg-es-palma-de-mallorca-kleding-dames">Ropa deportiva de mujer</a></li>
+<li class="i-kleding"><a href="/go/traininn-es-kleding-heren/?ws=fgg-es-palma-de-mallorca-kleding-heren">Ropa deportiva de hombre</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-dames/?ws=fgg-es-palma-de-mallorca-schoenen-dames">Zapatillas deportivas de mujer</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-palma-de-mallorca-schoenen-heren">Zapatillas deportivas de hombre</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-palma-de-mallorca-fles">Botella de agua</a></li>
+<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-palma-de-mallorca-handdoek">Toalla de deporte</a></li>
+<li class="i-slot"><a href="/go/bricoinn-es-cadenas/?ws=fgg-es-palma-de-mallorca-hangslot">Candado para la taquilla</a></li>
+<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-palma-de-mallorca-gripsokken">Calcetines grip para yoga y pilates</a></li>
+</ul>
+
+<p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>
 
 ## Preguntas frecuentes
 

@@ -18,7 +18,7 @@ Dein ClassPass-Abo funktioniert nicht nur in deiner eigenen Stadt. Im Urlaub, au
 
 | | |
 | --- | --- |
-| **Wo** | In über 30 Ländern, davon 14 in Europa |
+| **Wo** | In 31 Ländern, davon 14 in Europa |
 | **Extrakosten?** | Nein, du buchst mit den Credits deines eigenen Abos |
 | **Credits** | Ein Kurs kann mehr oder weniger Credits kosten als zu Hause |
 | **Stornieren** | Kostenlos bis 12 Stunden vorher; die Gebühr danach ist je nach Land verschieden |
@@ -42,7 +42,7 @@ Außerhalb Europas unter anderem in den USA, Kanada, Australien, Neuseeland, Jap
 <h2 id="letop">Worauf du achten solltest</h2>
 
 - **Anderer Wert der Credits.** Jede Stadt ist anders: Dieselbe Art Kurs kann in einer Stadt mehr Credits kosten als in einer anderen. Schau also kurz, bevor du buchst.
-- **Stornieren.** Bis 12 Stunden vor Beginn stornierst du kostenlos, außer das Studio hat eine frühere Frist. Danach zahlst du eine Gebühr, deren Höhe je nach Land verschieden ist. Japan hat eigene Regeln.
+- **Stornieren.** Bis 12 Stunden vor Beginn stornierst du kostenlos, außer das Studio hat eine frühere Frist. Danach zahlst du eine Gebühr, deren Höhe je nach Land verschieden ist. Deine Credits bekommst du aber zurück. Japan hat eigene Regeln.
 - **Zeitverschiebung.** Buchst du von zu Hause einen Kurs an deinem Reiseziel, achte genau auf die Startzeit vor Ort.
 - **Probezeit.** In der Probezeit können andere Regeln gelten. Bei der Anmeldung siehst du, was für dich gilt.
 
@@ -56,16 +56,16 @@ Außerhalb Europas unter anderem in den USA, Kanada, Australien, Neuseeland, Jap
 
 <h2 id="unterwegs">Praktisch im Koffer</h2>
 
-Leicht und klein, damit es gut ins Gepäck passt. Über diese Links suchst du bei Amazon.de:
+Leicht und klein, damit es gut ins Gepäck passt. Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-de-faltbare-flasche/">Faltbare Trinkflasche</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-reisehandtuch/">Kompaktes Mikrofaserhandtuch</a></li>
-<li class="i-mat"><a href="/go/amazon-de-reise-yogamatte/">Faltbare Reise-Yogamatte</a></li>
-<li class="i-band"><a href="/go/amazon-de-widerstandsbaender/">Widerstandsbänder fürs Hotelzimmer</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-classpass-auf-reisen-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-classpass-auf-reisen-handdoek">Kompaktes Mikrofaserhandtuch</a></li>
+<li class="i-mat"><a href="/go/traininn-de-mat/?ws=fgg-de-classpass-auf-reisen-yogamat">Yogamatte</a></li>
+<li class="i-band"><a href="/go/traininn-de-banden/?ws=fgg-de-classpass-auf-reisen-banden">Widerstandsbänder fürs Hotelzimmer</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 <h2 id="checklist">Checkliste</h2>
 

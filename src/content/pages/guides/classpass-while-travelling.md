@@ -1,8 +1,8 @@
 ---
 title: "ClassPass while travelling: how to work out in another city or country"
-seoTitle: "Is ClassPass good for travelling? Countries and tips"
+seoTitle: "Is ClassPass good for travelling? Yes, in 31 countries"
 path: "/guides/classpass-while-travelling/"
-description: "Can you use ClassPass in other countries? Yes: how it works on holiday or a work trip, which countries it covers, what changes with credits, and tips."
+description: "Yes, ClassPass works in 31 countries. How to use it on holiday or a work trip, what happens to your credits, and tips for booking in another city."
 lang: en
 land: guides
 byline: "Updated October 2026"
@@ -18,7 +18,7 @@ Your ClassPass plan doesn't only work in your own city. On holiday, on a work tr
 
 | | |
 | --- | --- |
-| **Where** | In more than 30 countries, 14 of them in Europe |
+| **Where** | In 31 countries, 14 of them in Europe |
 | **Extra cost?** | No, you book with the credits from your own plan |
 | **Credits** | A class can cost more or fewer credits than at home |
 | **Cancelling** | Free up to 12 hours before; the fee after that differs by country |
@@ -42,7 +42,7 @@ Outside Europe it works in the United States, Canada, Australia, New Zealand, Ja
 <h2 id="letop">What to watch out for</h2>
 
 - **Different credit values.** Every city is different: the same kind of class can cost more credits in one city than in another. So take a look before you book.
-- **Cancelling.** You can cancel for free up to 12 hours before the start, unless the studio has an earlier deadline. After that you pay a fee, and the amount differs by country. Japan has its own rules.
+- **Cancelling.** You can cancel for free up to 12 hours before the start, unless the studio has an earlier deadline. After that you pay a fee, and the amount differs by country. You do get your credits back. Japan has its own rules.
 - **Time difference.** If you book a class at your destination from home, check the local start time carefully.
 - **Trial.** Different rules may apply during the trial. You'll see what applies to you when you sign up.
 

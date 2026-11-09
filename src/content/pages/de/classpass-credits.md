@@ -60,10 +60,25 @@ Es lohnt sich also, vor dem Buchen ein paar Optionen anzuschauen.
 1. **Trainiere außerhalb der Stoßzeiten.** Ein Kurs mittags oder früh morgens kostet oft weniger Credits als derselbe Kurs am Abend.
 2. **Schau dir ähnliche Kurse an.** Suche nach Aktivität, etwa Yoga oder Spinning, und achte auf die Credits pro Kurs in ein paar Studios in deiner Nähe.
 3. **Mische Gym-Besuche dazu.** Ein Gym-Besuch zwischen den Kursen ist oft eine günstigere Art, dranzubleiben.
-4. **Sag rechtzeitig ab.** Späte Absagen und Nichterscheinen können dich Credits oder eine Gebühr kosten. Prüfe vor dem Buchen die Stornierungsfrist.
+4. **Sag rechtzeitig ab.** Sagst du später als 12 Stunden vorher ab oder erscheinst nicht, bekommst du deine Credits zurück, zahlst aber eine Gebühr. Prüfe vor dem Buchen die Stornierungsfrist.
 5. **Nutze dein Übertragsguthaben.** Ruhiger Monat? Deine ungenutzten Credits gehen in den nächsten Monat über, im Rahmen deines Abos. Kommst du nicht zum Sport? Du kannst Credits auch für eine Massage, den Friseur oder das Spa ausgeben. In manchen Städten bekommst du damit auch Essen und Getränke.
 6. **Wähle ein passendes Abo.** Gehen dir oft die Credits aus, kann ein größeres Abo günstiger sein. Bleiben immer Credits übrig, sparst du mit einem kleineren.
 7. **Schau vor der Reise nach.** Der Wert von Credits im Ausland kann anders sein als zu Hause. Lies [ClassPass auf Reisen](/de/classpass-auf-reisen/).
+
+<h2 id="buchen">Gut zu wissen</h2>
+
+Ein paar Dinge, die das Buchen und Absagen leichter machen:
+
+- **Sei rechtzeitig da.** Komm am besten 10 bis 15 Minuten vor Beginn, dann kannst du dich in Ruhe umziehen. Manche Studios starten pünktlich und lassen Zuspätkommende nicht mehr rein.
+- **Doch lieber ein anderer Kurs?** Sag den ersten Kurs ab und buch den neuen. Mach das mindestens 12 Stunden vorher, dann kostet es nichts.
+- **Absagen geht in der App.** So bekommst du deine Credits sofort zurück und jemand anders kann deinen Platz nehmen.
+- **Innerhalb von 12 Stunden doch verhindert?** Sag trotzdem noch ab. Das ist günstiger, als nicht zu kommen, und jemand anders kann deinen Platz noch bekommen.
+- **Unterwegs aufgehalten?** Panne oder Stau? Schreib dem Studio ruhig eine kurze Nachricht. Viele Studios zeigen Verständnis, darauf verlassen kannst du dich aber nicht immer.
+- **Wo siehst du deine Buchungen?** In der App bei deinen anstehenden Kursen. Dort siehst du auch, ob eine Absage geklappt hat: Der Kurs ist dann weg und du bekommst eine Bestätigungsmail.
+- **Fällt der Kurs aus?** Fällt der Kurs aus oder ist der Trainer nicht da, bekommst du deine Credits einfach zurück.
+- **Als verpasst markiert, obwohl du da warst?** Sag ClassPass innerhalb von 14 Tagen Bescheid, dann klären sie es mit dem Studio.
+
+<p class="klein">Alles genau nachlesen? Sieh dir <a href="https://help.classpass.com/hc/en-us/articles/207942743">die Stornierungsregeln von ClassPass</a> an. Regeln können sich ändern; in der App siehst du, was gerade gilt.</p>
 
 <h2 id="wie-viele">Wie viele Credits brauchst du?</h2>
 
@@ -90,7 +105,7 @@ Ja. Deine Credits funktionieren in jedem Land, in dem ClassPass aktiv ist, zum d
 <details>
 <summary>Was passiert, wenn ich zu spät absage?</summary>
 
-Eine späte Absage oder Nichterscheinen kann dich die Credits oder eine Gebühr kosten. Die Regeln sind je nach Studio und Stadt unterschiedlich, also prüfe sie vor dem Buchen in der App.
+Du bekommst deine Credits zurück, zahlst aber eine Gebühr. Das gilt, wenn du später als 12 Stunden vor Beginn absagst (oder nach der Frist des Studios), und auch, wenn du nicht erscheinst. Die Höhe ist je nach Land und Kurs unterschiedlich, du siehst sie vor dem Buchen in der App. Manchmal behält ClassPass stattdessen die Credits.
 
 </details>
 

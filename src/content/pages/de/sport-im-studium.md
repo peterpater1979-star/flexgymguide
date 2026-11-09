@@ -56,16 +56,15 @@ Laufen, Radfahren, ein Calisthenics-Park oder ein Yoga-Video zu Hause kosten nic
 
 <h2 id="zuhause">Günstig zu Hause trainieren</h2>
 
-Mit ein paar günstigen Sachen trainierst du auch in deinem Zimmer, zum Beispiel an Tagen ohne Fitnessstudio. Über diese Links suchst du bei Amazon.de:
+Mit ein paar günstigen Sachen trainierst du auch in deinem Zimmer, zum Beispiel an Tagen ohne Fitnessstudio. Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
 
 <ul class="spullen">
-<li class="i-mat"><a href="/go/amazon-de-yogamatte/">Yogamatte</a></li>
-<li class="i-band"><a href="/go/amazon-de-widerstandsbaender/">Widerstandsbänder</a></li>
-<li class="i-touw"><a href="/go/amazon-de-springseil/">Springseil</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-mat"><a href="/go/traininn-de-mat/?ws=fgg-de-sport-im-studium-yogamat">Yogamatte</a></li>
+<li class="i-band"><a href="/go/traininn-de-banden/?ws=fgg-de-sport-im-studium-banden">Widerstandsbänder</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-sport-im-studium-fles">Trinkflasche</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 <h2 id="tips">Tipps</h2>
 

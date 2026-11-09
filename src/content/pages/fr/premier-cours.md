@@ -83,7 +83,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 <li class="i-bandage"><a href="/go/traininn-fr-bandages/?ws=fgg-fr-premier-cours-bandages">Bandes de boxe</a></li>
 <li class="i-handschoen"><a href="/go/traininn-fr-vechtsport/?ws=fgg-fr-premier-cours-bokshandschoenen">Gants et matériel de boxe</a></li>
 <li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-premier-cours-hangslot">Cadenas pour le casier</a></li>
-<li class="i-sok"><a href="/go/traininn-fr-yogasokken/?ws=fgg-fr-premier-cours-yogasokken">Chaussettes antidérapantes pour yoga et pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-premier-cours-gripsokken">Chaussettes grip pour yoga et pilates</a></li>
 </ul>
 
 <p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>

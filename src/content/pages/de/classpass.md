@@ -25,9 +25,9 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 | | ClassPass |
 | --- | --- |
 | **Art** | Sportpass mit Credits |
-| **Preis pro Monat** | Je nach Zahl der Credits |
+| **Preis pro Monat** | Standard-Abo 59 € (42 Credits), sechs Abos von 19 bis 199 € |
 | **Was du machen kannst** | Yoga, Pilates, Boxen, Spinning, Krafttraining, Gym-Besuche und mehr |
-| **Kündigung** | Jederzeit anpassbar, pausierbar oder kündbar |
+| **Kündigung** | Keine Mindestlaufzeit, jederzeit anpassbar, pausierbar oder kündbar |
 | **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 31 Ländern |
 
@@ -48,6 +48,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 
 - Die Credits pro Kurs unterscheiden sich je nach Studio und Uhrzeit. Ein Kurs zu einer beliebten Zeit kann mehr Credits kosten
 - Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
+- Es gibt kein Tageslimit: Du kannst auch mehrere Kurse an einem Tag buchen
 
 </div>
 
@@ -61,6 +62,23 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 </div>
 
 </div>
+
+<h2 id="kosten">Was kostet ClassPass in Deutschland?</h2>
+
+Es gibt sechs Abos. Sie unterscheiden sich nur in der Zahl der Credits: Mit jedem Abo kannst du alle Studios, Gyms und Wellness-Angebote auf ClassPass buchen.
+
+| Abo pro Monat | Credits |
+| --- | --- |
+| 19 € | 11 |
+| 39 € | 25 |
+| **59 €** (Standard-Abo) | **42** |
+| 89 € | 63 |
+| 119 € | 85 |
+| 199 € | 142 |
+
+In München und Frankfurt gibt es außerdem drei Abos mit unbegrenztem Gym-Zugang zu Nebenzeiten: 64 € (25 Credits), 84 € (42 Credits) und 114 € (63 Credits).
+
+<p class="klein">Quelle: ClassPass (2026). Alle Abos ohne Mindestlaufzeit. Preise können sich ändern, prüfe die aktuellen Preise immer bei ClassPass.</p>
 
 <h2 id="fuer-wen">Für wen ist ClassPass?</h2>
 

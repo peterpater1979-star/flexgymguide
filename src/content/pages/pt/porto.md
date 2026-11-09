@@ -60,7 +60,7 @@ Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Sem fidelização</span></div>
+<div class="fotokop foto-vivagym"><span>Sem fidelização</span></div>
 
 ### VivaGym
 
@@ -250,6 +250,23 @@ Escolhe o Holmes Place. Um clube premium com tudo no mesmo sítio.
 </div>
 
 </div>
+
+<h2 id="spullen">Precisas de alguma coisa para o ginásio?</h2>
+
+Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de fitness da Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-dames/?ws=fgg-pt-porto-kleding-dames">Roupa desportiva de mulher</a></li>
+<li class="i-kleding"><a href="/go/traininn-pt-kleding-heren/?ws=fgg-pt-porto-kleding-heren">Roupa desportiva de homem</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-dames/?ws=fgg-pt-porto-schoenen-dames">Sapatilhas de desporto de mulher</a></li>
+<li class="i-schoen"><a href="/go/traininn-pt-schoenen-heren/?ws=fgg-pt-porto-schoenen-heren">Sapatilhas de desporto de homem</a></li>
+<li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-porto-fles">Garrafa de água</a></li>
+<li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-porto-handdoek">Toalha de desporto</a></li>
+<li class="i-slot"><a href="/go/bricoinn-pt-cadenas/?ws=fgg-pt-porto-hangslot">Cadeado para o cacifo</a></li>
+<li class="i-sok"><a href="/go/traininn-pt-gripsokken/?ws=fgg-pt-porto-gripsokken">Meias grip para ioga e pilates</a></li>
+</ul>
+
+<p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>
 
 ## Perguntas frequentes
 

@@ -11,7 +11,7 @@ crumb: "Cancelling Trainmore"
 kicker: "Guide"
 ---
 
-<div class="fotobanner foto-gymketen" role="img" aria-label="Gym"></div>
+<div class="fotobanner foto-trainmore" role="img" aria-label="Gym"></div>
 
 You cancel Trainmore in the Trainmore app or through the online contact form. The notice period is one month. With a 1- or 2-year contract, you stop at the end of that term. After that, your membership continues and you can cancel at any time, again with one month's notice.
 

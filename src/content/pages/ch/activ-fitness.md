@@ -9,7 +9,7 @@ crumb: "Activ Fitness"
 kicker: "Anbieter: Fitnesskette"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Fitnessstudio"></div>
+<div class="fotobanner smal foto-activ-fitness" role="img" aria-label="Fitnessstudio"></div>
 
 Activ Fitness ist eine Schweizer Fitnesskette der movemi AG mit über 120 Studios in fast allen Kantonen, davon 16 in Zürich. Du wählst eine Kategorie, die bestimmt, in welchen Studios du trainieren kannst, und dann ein Jahresabo oder ein Abo für einen Monat.
 
@@ -50,7 +50,6 @@ Mit einer höheren Kategorie trainierst du auch in allen Studios der tieferen Ka
 | **1 Monat**, im Voraus bezahlt | CHF 150 | CHF 150 | CHF 150 | CHF 210 |
 | **Einzeleintritt** | CHF 24 | CHF 29 | CHF 34 | CHF 39 |
 
-- **Aktionen:** Activ Fitness hat oft Aktionen auf das Jahresabo, im November 2026 zum Beispiel CHF 100 weniger bei Vorauszahlung. Schau im Abofinder nach dem aktuellen Preis.
 - **Monatlich zahlen:** Das ist ein Jahresabo. Dazu kommt einmalig eine Administrationsgebühr von CHF 70.
 - **Chip-Armband:** Beim Abschluss kaufst du einmalig ein Chip-Armband für CHF 10.
 - **Studierende:** Schüler, Lernende und Studierende an einer anerkannten Schweizer Schule bis zum 29. Geburtstag, mit einem Pensum von mindestens 50 Prozent. Den Ausweis zeigst du beim Start und bei jeder Erneuerung.

@@ -45,9 +45,9 @@ Fitness First has 4 clubs in and around Vienna, including Vösendorf, with a gym
 | Term | BASIS | ALL-IN | Students, pupils, trainees |
 | --- | --- | --- | --- |
 | 1 month | €11.90 | €13.90 | €11.90 |
-| 12 months | €8.90 | €10.90, first 12 weeks free | €8.90, first 12 weeks free |
+| 12 months | €8.90 | €10.90 | €8.90 |
 
-The 12 free weeks were an offer until 27 October 2026. The student plan includes what ALL-IN offers. Not sure yet? Book a free trial session first.
+The student plan includes what ALL-IN offers. Not sure yet? Book a free trial session first.
 
 <p class="klein">Source: the Wien Landstraße club page on fitnessfirst.at (October 2026). Always check the current price with the club.</p>
 

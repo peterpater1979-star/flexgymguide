@@ -71,7 +71,7 @@ Uma cadeia de clubes premium com 13 clubes em Portugal, todos com ginásio, aula
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Ginásio sem fidelização</span></div>
+<div class="fotokop foto-vivagym"><span>Ginásio sem fidelização</span></div>
 
 ### VivaGym
 
@@ -98,6 +98,30 @@ O ClassPass tem estúdios parceiros em [Lisboa](/pt/lisboa/), no [Porto](/pt/por
 <li><a href="/pt/porto/"><strong>Porto</strong></a> <span class="klein">ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
 </ul>
 
+
+</div>
+
+<h2 id="outros">Outro passe desportivo</h2>
+
+<div class="kolommen">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Passe desportivo com preço fixo</span></div>
+
+### Urban Sports Club
+
+Um preço fixo por mês, com check-ins em locais parceiros. Em Lisboa e no Porto, o Classic, o plano mais popular segundo o site deles, custa 75 € por mês por 10 visitas.
+
+- Ideal se queres um preço fixo por mês
+- Cancelas com 3 dias de antecedência
+- Aulas online e vídeos a pedido incluídos
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 
@@ -148,6 +172,8 @@ Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de f
 <li class="i-schoen"><a href="/go/traininn-pt-schoenen-heren/?ws=fgg-pt-index-schoenen-heren">Sapatilhas de desporto de homem</a></li>
 <li class="i-fles"><a href="/go/traininn-pt-fles/?ws=fgg-pt-index-fles">Garrafa de água</a></li>
 <li class="i-handdoek"><a href="/go/traininn-pt-handdoek/?ws=fgg-pt-index-handdoek">Toalha de desporto</a></li>
+<li class="i-slot"><a href="/go/bricoinn-pt-cadenas/?ws=fgg-pt-index-hangslot">Cadeado para o cacifo</a></li>
+<li class="i-sok"><a href="/go/traininn-pt-gripsokken/?ws=fgg-pt-index-gripsokken">Meias grip para ioga e pilates</a></li>
 </ul>
 
 <p class="klein commissie">Se comprares através destes links, recebemos uma pequena comissão. Não pagas nada a mais e assim este guia continua gratuito. Obrigado!</p>

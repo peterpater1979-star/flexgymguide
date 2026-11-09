@@ -17,7 +17,7 @@ Tu plan de ClassPass no solo funciona en tu ciudad. De vacaciones, en un viaje d
 
 | | |
 | --- | --- |
-| **Dónde** | En más de 30 países, 14 de ellos en Europa |
+| **Dónde** | En 31 países, 14 de ellos en Europa |
 | **¿Coste extra?** | No, reservas con los créditos de tu propio plan |
 | **Créditos** | Una clase puede costar más o menos créditos que en casa |
 | **Cancelar** | Gratis hasta 12 horas antes; la penalización después varía según el país |
@@ -41,7 +41,7 @@ Fuera de Europa funciona, entre otros, en Estados Unidos, Canadá, Australia, Nu
 <h2 id="letop">En qué fijarte</h2>
 
 - **Otro valor de los créditos.** Cada ciudad es distinta: el mismo tipo de clase puede costar más créditos en una ciudad que en otra. Así que echa un vistazo antes de reservar.
-- **Cancelar.** Cancelas gratis hasta 12 horas antes del inicio, salvo que el estudio tenga un plazo anterior. Después pagas una penalización, cuyo importe varía según el país. Japón tiene sus propias reglas.
+- **Cancelar.** Cancelas gratis hasta 12 horas antes del inicio, salvo que el estudio tenga un plazo anterior. Después pagas una penalización, cuyo importe varía según el país. Eso sí, recuperas tus créditos. Japón tiene sus propias reglas.
 - **Diferencia horaria.** Si reservas desde casa una clase en tu destino, fíjate bien en la hora de inicio local.
 - **Prueba.** Durante la prueba pueden aplicarse otras reglas. Al registrarte ves lo que se aplica a ti.
 

@@ -43,11 +43,11 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 Trainmore is a premium gym chain with group classes and clubs in the city centre. It has 2 clubs in Eindhoven. Besides a contract of 1 or 2 years there is Flex, which you cancel monthly. Flex costs more per 4 weeks, but you are not tied down. This is what prices looked like in October 2026 at Trainmore Eindhoven Lichttoren (Black Label), with Home+ (your own club plus all Regular clubs), per 4 weeks:
 
-| Term | Price | Offer |
-| --- | --- | --- |
-| Flex | €87 | |
-| 1 year | €67 | First 3 months €33.50 |
-| 2 years | €60 | First 5 months €30 |
+| Term | Price |
+| --- | --- |
+| Flex | €87 |
+| 1 year | €67 |
+| 2 years | €60 |
 
 **A discount when you train more.** At Trainmore you pay less the more often you go: you get €1 off per workout, at most one a day and €28 per 4 weeks, only with a 1- or 2-year contract, not with Flex. You check in and out with the QR code in the Trainmore app and train for at least 30 minutes; a group class on its own doesn't count. Every visit counts on its own, so you don't need a fixed schedule. This works at every Trainmore club: train three times a week and that saves about €12 per 4 weeks. At Lichttoren, for example, a 1-year contract then costs €55 instead of €67. Student memberships don't get it either.
 

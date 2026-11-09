@@ -166,6 +166,23 @@ Valitse ClassPass. Jäsenyytesi toimii myös muissa ClassPass-maissa.
 
 </div>
 
+<h2 id="spullen">Puuttuuko jotain treeneihin?</h2>
+
+Nämä linkit vievät suoraan Traininniin, Tradeinnin treenikauppaan.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-dames/?ws=fgg-fi-espoo-kleding-dames">Treenivaatteet naisille</a></li>
+<li class="i-kleding"><a href="/go/traininn-fi-kleding-heren/?ws=fgg-fi-espoo-kleding-heren">Treenivaatteet miehille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-dames/?ws=fgg-fi-espoo-schoenen-dames">Treenikengät naisille</a></li>
+<li class="i-schoen"><a href="/go/traininn-fi-schoenen-heren/?ws=fgg-fi-espoo-schoenen-heren">Treenikengät miehille</a></li>
+<li class="i-fles"><a href="/go/traininn-fi-fles/?ws=fgg-fi-espoo-fles">Juomapullo</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fi-handdoek/?ws=fgg-fi-espoo-handdoek">Treenipyyhe</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fi-cadenas/?ws=fgg-fi-espoo-hangslot">Lukko kaappiin</a></li>
+<li class="i-sok"><a href="/go/traininn-fi-gripsokken/?ws=fgg-fi-espoo-gripsokken">Grip-sukat joogaan ja pilatekseen</a></li>
+</ul>
+
+<p class="klein commissie">Kun ostat näiden linkkien kautta, saamme pienen palkkion. Se ei maksa sinulle mitään ylimääräistä, ja opas pysyy ilmaisena. Kiitos!</p>
+
 ## Usein kysyttyä
 
 <details open>

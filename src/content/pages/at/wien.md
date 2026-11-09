@@ -74,6 +74,8 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Wien.
 
 </div>
 
+<p class="meer-aanbieders">Und auch: clever fit, JOHN REED und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <div id="ueberblick">
 
 ## ClassPass, Fitness First, McFit und Holmes Place auf einen Blick
@@ -234,6 +236,62 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 3 Clubs in Wien. Die Cl
 
 </div>
 
+<h2 id="andere">Weitere Fitnessstudios in Wien</h2>
+
+<div class="kolommen vier">
+
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat Studios in Wien, unter anderem in der Brigittenau. Je nach Studio zum Beispiel 39,90 € (Red Label) bis 49,90 € (Black Label) im Monat, oft monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat Clubs in Wien, mit Design, Musik und Kursen. Flex ist monatlich kündbar, zum Beispiel 60 € im Monat in Cluster 2, plus 40 € Starterpaket.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+<h3>Mrs.Sporty</h3>
+
+Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit Clubs in vielen Wiener Bezirken. 30 Minuten Training, kostenloses Probetraining, Preise je Club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
+</div>
+
+| Anbieter | Preis pro Monat | Laufzeit | In Wien |
+| --- | --- | --- | --- |
+| **[clever fit](/at/clever-fit/)** | Je nach Studio, zum Beispiel 39,90 bis 49,90 € | Meist monatlich kündbar oder 6 bis 24 Monate | Mehrere Studios, u. a. Brigittenau |
+| **[JOHN REED](/at/john-reed/)** | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Clubs in Wien |
+| **[Mrs.Sporty](/at/mrs-sporty/)** | Je nach Club | Je nach Club | Rund 16 Clubs |
+
+<p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
+
 ## Was passt zu dir?
 
 <div class="kolommen">
@@ -269,6 +327,23 @@ Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPa
 </div>
 
 </div>
+
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-at-wien-kleding-dames">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-at-wien-kleding-heren">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-at-wien-schoenen-dames">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-at-wien-schoenen-heren">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-at-wien-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-at-wien-handdoek">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-at-wien-hangslot">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-at-wien-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
+</ul>
+
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 ## Häufige Fragen
 

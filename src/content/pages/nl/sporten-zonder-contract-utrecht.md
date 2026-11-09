@@ -22,6 +22,7 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Utrecht kun je ook
 | **Trainmore Flex** | Maandelijks | € 99/4 wkn (Home+, Black Label) | Premium sportschool met groepslessen, voor wie vaak traint <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Muntgebouw: Flex € 99, 1 jaar € 79, 2 jaar € 72 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="#trainmore">Alle prijzen</a></details> |
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98/4 wkn, plus € 19,99 inschrijving | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | City Plus € 69,99/4 wkn bij Wonderwoods, plus € 9,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
+| **BigGym Flex** | Elke 4 weken, 4 weken opzegtermijn | € 45/4 wkn, plus € 10 activatie; dagpas € 10 | Grote gym met groepslessen en HYROX, alle 16 BigGyms |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
 <p class="klein">Prijzen van oktober 2026. ClassPass: locatie Utrecht. Basic-Fit: landelijke prijzen. SportCity: club Wonderwoods. Trainmore: club Muntgebouw, Home+. Controleer de actuele prijs altijd bij de aanbieder.</p>
@@ -42,11 +43,11 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 Trainmore is een premium sportschoolketen met groepslessen en clubs in het centrum van de stad. Er zijn 3 clubs in Utrecht. Naast een contract van 1 of 2 jaar is er Flex, dat je maandelijks opzegt. Flex is duurder per 4 weken, maar je zit niet vast. Alle clubs in Utrecht zijn Black Label. Zo zagen de prijzen er in oktober 2026 uit bij Trainmore Utrecht Muntgebouw, met Home+ (je eigen club plus alle Regular-clubs), per 4 weken:
 
-| Looptijd | Prijs | Actie |
-| --- | --- | --- |
-| Flex | € 99 | |
-| 1 jaar | € 79 | 1e 3 mnd € 39,50 |
-| 2 jaar | € 72 | 1e 5 mnd € 36 |
+| Looptijd | Prijs |
+| --- | --- |
+| Flex | € 99 |
+| 1 jaar | € 79 |
+| 2 jaar | € 72 |
 
 **Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Muntgebouw bijvoorbeeld betaal je met een jaarcontract dan € 67 in plaats van € 79. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de uitleg van Trainmore.
 
@@ -83,9 +84,15 @@ Zo zagen de prijzen van City Plus er in oktober 2026 uit bij SportCity Utrecht W
 | 1 jaar | € 57,99 |
 | 2 jaar | € 54,99 |
 
-Bij Flex betaal je € 9,99 inschrijfgeld, in plaats van de gewone € 14,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. De prijs verschilt flink per club: bij Amsterdam Lijnbaansgracht was City Plus Flex € 39,99 per 4 weken. City One is goedkoper; bekijk de prijs van je club op de site van SportCity. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
+Bij Flex betaal je € 14,99 inschrijfgeld. De prijs verschilt flink per club: bij Amsterdam Lijnbaansgracht was City Plus Flex € 39,99 per 4 weken. City One is goedkoper; bekijk de prijs van je club op de site van SportCity. Wil je eerst proberen? Bij de club kun je ook een dagpas aanvragen.
 
 <p class="klein">Bron: sportcity.nl/lidmaatschap en de inschrijfpagina's voor Utrecht Wonderwoods en Amsterdam Lijnbaansgracht (oktober 2026). Controleer de actuele prijs altijd bij SportCity. Opzeggen: zie <a href="/nl/sportcity-opzeggen/">SportCity opzeggen</a>.</p>
+
+<h2 id="big-gym">BigGym Flex: elke 4 weken opzegbaar</h2>
+
+BigGym heeft een grote gym in Utrecht, met kracht, cardio, een HYROX-zone en groepslessen, en je traint in alle 16 BigGyms in Nederland. Met Unlimited Flex betaal je € 45 per 4 weken en zeg je elke 4 weken op, in de BigGym-app. Met een contract van 1 tot 3 jaar betaal je € 30 tot € 35. Daarbij komt eenmalig € 10 activatie. Eerst proberen? Een dagpas kost € 10.
+
+<p class="klein">Bron: biggym.com (november 2026). Meer in <a href="/nl/big-gym/">Alles over BigGym</a>.</p>
 
 <h2 id="los">Losse lessen en rittenkaarten</h2>
 

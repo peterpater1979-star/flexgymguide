@@ -75,6 +75,8 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+
 <div id="apercu">
 
 ## ClassPass, Basic-Fit, Fitness Park et Keepcool en un coup d’œil
@@ -84,7 +86,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass | Basic-Fit | Fitness Park | Keepcool |
 | --- | --- | --- | --- | --- |
 | **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec cours collectifs | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,90 € sans engagement |
+| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Avec ou sans engagement | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays | Clubs aussi en Espagne | Une salle à Bruxelles |
@@ -207,7 +209,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 ## Keepcool à Toulouse
 
-À Toulouse, Keepcool a trois salles : Capitole, Matabiau et Atlanta. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,90 €.
+À Toulouse, Keepcool a trois salles : Capitole, Matabiau et Atlanta. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
 
 ### Idéal pour
 
@@ -223,6 +225,54 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
 </div>
 
+</div>
+
+</div>
+
+</div>
+
+<h2 id="autres">Autres salles à Toulouse</h2>
+
+<div class="kolommen vier">
+
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
+
+<h3 id="l-orange-bleue-toulouse">L’Orange bleue</h3>
+
+L’Orange bleue n’a pas de salle dans Toulouse même, mais en périphérie, à Balma et à Cugnaux. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
+</div>
+
+</div>
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
+
+<h3 id="on-air-toulouse">ON AIR</h3>
+
+Près de Toulouse, ON AIR a un club à Blagnac. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-toulouse">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Toulouse. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>
@@ -275,6 +325,23 @@ Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
 
 </div>
 
+<h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
+
+Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-toulouse-kleding-dames">Vêtements de sport femme</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-toulouse-kleding-heren">Vêtements de sport homme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-toulouse-schoenen-dames">Chaussures de sport femme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-toulouse-schoenen-heren">Chaussures de sport homme</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-toulouse-fles">Gourde</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-toulouse-handdoek">Serviette de sport</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-toulouse-hangslot">Cadenas pour le casier</a></li>
+<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-toulouse-gripsokken">Chaussettes grip pour yoga et pilates</a></li>
+</ul>
+
+<p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
+
 ## Questions fréquentes
 
 <details open>
@@ -308,7 +375,7 @@ Oui, si tu veux. Sans engagement, tu paies 10 € de plus toutes les 4 semaines 
 <details>
 <summary>Keepcool est-il sans engagement ?</summary>
 
-Oui, si tu veux : sans engagement, tu paies 44,90 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
 
 </details>
 

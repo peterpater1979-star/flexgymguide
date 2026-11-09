@@ -47,6 +47,8 @@ Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terbo
 
 </div>
 
+<p class="meer-aanbieders">En ook: BigGym. <a href="#andere">Bekijk de andere sportscholen</a></p>
+
 <h2 id="op-een-rij">ClassPass en Basic-Fit op een rij</h2>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
@@ -156,6 +158,26 @@ Nieuw bij ClassPass? Je begint met 14 dagen gratis en 10 work-outs.
 4. **Aan het einde** krijg je een herinnering per mail. Zeg je niet op, dan ga je over op het standaardabonnement in Alkmaar: 40 credits voor € 59 per maand.
 
 Tip: zet een herinnering een paar dagen voor het einde, en boek populaire avond- en weekendlessen een paar dagen vooruit. Alles over de regels lees je in [ClassPass gratis proberen](/nl/classpass-proefperiode/).
+
+<h2 id="andere">Andere sportscholen in Alkmaar</h2>
+
+<div class="kolommen vier">
+
+<div id="big-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
+
+<h3>BigGym</h3>
+
+BigGym heeft in Alkmaar een grote gym aan de Helderseweg, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
+</div>
+
+</div>
+
+</div>
 
 ## Welke past bij jou?
 

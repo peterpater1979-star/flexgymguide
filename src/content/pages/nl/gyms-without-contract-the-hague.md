@@ -22,7 +22,7 @@ Just moved to The Hague, here for a few months, or not sure where you will live 
 | **ClassPass** | Any time, no notice period | Standard plan €59 a month (40 credits); smaller plans in the app | Variety at studios and gyms all over the city |
 | **Trainmore Flex** | Monthly | €79 to €106 per 4 weeks, depending on the club | Premium gym with group classes, for frequent training <details class="cel"><summary>Flex or contract?</summary>A 1-year contract is €20 per 4 weeks cheaper than Flex, 2 years €27. And once you're committed, you often go more often too. Only a contract also gets you €1 off per workout. For example at Laan van NOI: Flex €96, 1 year €76, 2 years €69 per 4 weeks. A one-year contract saves you about €260 a year (13 periods of 4 weeks). <a href="#trainmore">All prices</a></details> |
 | **Basic-Fit Flex** | No minimum term, 4 weeks' notice | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, open 24/7 |
-| **SportCity Flex** | Monthly | €37.99 per 4 weeks at Hollands Spoor (City One), plus €4.99 joining fee; varies per club | Gym with group classes, day pass available |
+| **SportCity Flex** | Monthly | €37.99 per 4 weeks at Hollands Spoor (City One), plus €9.99 joining fee; varies per club | Gym with group classes, day pass available |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location The Hague. Trainmore: clubs Dagelijkse Groenmarkt, Laan van NOI and Savornin. SportCity: club Hollands Spoor. Basic-Fit: national prices. Always check the current price with the provider.</p>
@@ -50,7 +50,7 @@ Trainmore is a premium gym chain with group classes and clubs in the city centre
 | 1 year | €59 | €76 | €79 | €86 |
 | 2 years | €52 | €69 | €72 | €79 |
 
-At a Regular club you only train at your own club. With Home+ you can also train at the other clubs that cost the same or less: with Home+ at Savornin that includes Laan van NOI and the Regular clubs. With City+ you can train at all clubs in The Hague; it cost the same at all three clubs. With a 1 or 2-year contract you get 50% off for the first months; how many depends on the club and membership. At Dagelijkse Groenmarkt (Home) it was 5 months for 1 year and 7 for 2 years, at Laan van NOI and Savornin (Home+) 4 and 6.
+At a Regular club you only train at your own club. With Home+ you can also train at the other clubs that cost the same or less: with Home+ at Savornin that includes Laan van NOI and the Regular clubs. With City+ you can train at all clubs in The Hague; it cost the same at all three clubs.
 
 **Student?** A student membership costs €45 per 4 weeks at Dagelijkse Groenmarkt, €62 at Laan van NOI and €65 at Savornin, with a 1-year contract and no startup costs. The discount per workout doesn't apply there.
 
@@ -85,7 +85,7 @@ This is what prices looked like in October 2026 at SportCity Den Haag Hollands S
 | 1 year | €32.99 | €33.99 |
 | 2 years | €29.99 | €30.99 |
 
-With Flex you pay a €4.99 joining fee instead of the usual €9.99. With the longer contracts the joining fee is waived for now. Other clubs can be more expensive. Want to try first? You can ask the club for a day pass.
+With Flex you pay a €9.99 joining fee. Other clubs can be more expensive. Want to try first? You can ask the club for a day pass.
 
 <p class="klein">Source: sportcity.nl/lidmaatschap and the sign-up page for Den Haag Hollands Spoor (October 2026). Always check the current price with SportCity. Cancelling: see <a href="/nl/cancel-sportcity/">Cancelling SportCity</a>.</p>
 

@@ -3,7 +3,7 @@ title: "Gyms without a contract in Paris: monthly and pay-as-you-go options"
 seoTitle: "Gyms without a contract in Paris: monthly options"
 path: "/fr/gyms-without-contract-paris/"
 vertaling: "/fr/salle-de-sport-sans-engagement-paris/"
-description: "No-contract gyms in Paris: ClassPass, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
+description: "No-contract gyms in Paris: ClassPass, WellNess Sport Club, RITM, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: fr
 byline: "Updated October 2026"
@@ -20,10 +20,15 @@ Just moved to Paris, here for a semester, or not sure how long you will stay? Yo
 | | Cancelling | Price | Good for |
 | --- | --- | --- | --- |
 | **ClassPass** | Any time, no notice period | Standard plan €75 a month (47 credits); smaller plans in the app | Variety at studios and gyms all over Paris |
+| **WellNess Sport Club** | No contract; end date per the terms and conditions | Liberté €79, Express €69 a month, plus a licence fee and a 2-month deposit | An all-inclusive gym with classes, aqua classes, sauna and hammam
+| **RITM Liberté** | One month's notice | €29.99 a week, plus a €90 joining fee; day pass €30, month pass €179 | A gym with classes in 6 clubs, or a pass without a membership
+| **ON AIR** | 8 weeks' notice | From €31.96 per 4 weeks, plus a €50 joining fee and €10 a year | A large high-end gym, six clubs in Paris |
+| **Club Maillot and Club Grenelle** | One month's notice | €79 a month, plus a €50 joining fee; 30-day pass €158 | Two high-end clubs in the 15th and 17th |
+| **Liberty Gym** | 8 weeks' notice | Happy €24.95, Premium €34.95 per 4 weeks, plus a €49 joining fee | A cheap gym in the 20th |
 | **Basic-Fit Flex** | 4 weeks' notice, no minimum term | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, often open 24/7 |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
-<p class="klein">Prices from October 2026. ClassPass: location Paris. Basic-Fit: national prices in France. Always check the current price with the provider.</p>
+<p class="klein">Prices from October 2026. ClassPass: location Paris. WellNess Sport Club and RITM: Paris clubs (November 2026). Basic-Fit: national prices in France. Always check the current price with the provider.</p>
 
 <h2 id="classpass">ClassPass: cancel any time</h2>
 
@@ -38,6 +43,51 @@ With ClassPass you get credits every month for classes and gym visits at studios
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-gyms-without-contract-paris">Try ClassPass</a>
 <a class="knop knop-rand" href="/guides/how-classpass-works/">How ClassPass works</a>
 </div>
+
+<h2 id="wellness-sport-club">WellNess Sport Club: all-inclusive, no contract</h2>
+
+In Paris, WellNess Sport Club has two clubs, at Porte Maillot (17th) and République (11th). Every plan is without a contract and includes the gym floor, group classes, aqua classes and the wellness area with sauna and hammam.
+
+- **Plans in Paris:** Liberté €79 a month, Express €69 a month (no access Monday to Thursday 11:45 to 13:30 and 16:45 to 19:30), November 2026.
+- **On top:** a licence fee (€149) and a deposit of 2 months.
+- **Students under 26:** €69 a month, licence fee €49.
+- **Cancelling:** at the club reception or by registered letter to your club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">WellNess Sport Club (in French)</a>
+</div>
+
+<h2 id="ritm">RITM: weekly, or with a pass</h2>
+
+RITM has six clubs in Paris and Boulogne-Billancourt, open 7 days a week. With the Hebdomadaire Liberté membership you pay €29.99 a week, without a contract, with one month's notice. On top comes a €90 joining fee.
+
+- **Without a membership:** day pass €30, week €89, month €179, and also 3, 6 or 12 months.
+- **ROD classes (HYROX, bootcamp):** €5 extra a week as an option, not included in the passes.
+- **Cancelling:** by registered letter, at least 10 days before the next payment.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/ritm/">RITM (in French)</a>
+</div>
+
+<h2 id="club-maillot-grenelle">Club Maillot and Club Grenelle: two high-end clubs</h2>
+
+Club Maillot (17th, near Porte Maillot) and Club Grenelle (15th) are two high-end clubs of the same group, the former CMG Sports Club clubs. The monthly plan gives you both clubs for €79 a month, no contract, with one month's notice. You also pay a €50 joining fee.
+
+- **Yearly:** €799 for 12 months, joining fee waived.
+- **Without a plan:** 30-day pass €158, day access €30.
+- **With ClassPass:** Club Maillot is also on ClassPass, see [ClassPass in Paris](/fr/classpass-paris/).
+
+<p class="klein">Source: clubgrenelle.com (November 2026). Always check current prices with the club.</p>
+
+<h2 id="liberty-gym">Liberty Gym: cheap, in the 20th</h2>
+
+Liberty Gym has a gym in the 20th, open 7 days a week from 6am to 11pm, with weights, cardio and coaches on the floor. Without a contract, Happy costs €24.95 and Premium €34.95 per 4 weeks. You also pay a €49 joining fee and €10 a year for equipment.
+
+- **Without a plan:** €79 for one month, €149 for 3 months, €199 for 6 months, €299 for a year, paid up front.
+- **Family and students:** €19.95 per person, but with a one-year contract.
+- **Cancel:** 8 weeks' notice, by registered letter.
+
+<p class="klein">Source: libertygym.fr (November 2026). Always check current prices with the club.</p>
 
 <h2 id="basic-fit">Basic-Fit Flex: no minimum term</h2>
 

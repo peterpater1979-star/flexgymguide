@@ -2,7 +2,7 @@
 title: "Salle de sport sans engagement à Paris : les options mois par mois"
 seoTitle: "Salle de sport sans engagement à Paris : mois par mois"
 path: "/fr/salle-de-sport-sans-engagement-paris/"
-description: "Faire du sport à Paris sans engagement d'un an : ClassPass, Basic-Fit Flex et cours à l'unité. Les prix, la résiliation et ce à quoi faire attention."
+description: "Faire du sport à Paris sans engagement d'un an : ClassPass, WellNess Sport Club, RITM, Basic-Fit Flex et cours à l'unité. Les prix, la résiliation et ce à quoi faire attention."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -19,10 +19,16 @@ Pas envie de t'engager un an dans une seule salle ? À Paris, tu peux aussi t'en
 | | Résiliation | Prix | Idéal pour |
 | --- | --- | --- | --- |
 | **ClassPass** | À tout moment, sans préavis | Abonnement standard 75 € par mois (47 crédits) ; plus petits dans l'appli | Varier les cours et les salles dans tout Paris |
+| **Urban Sports Club** | Abonnement mensuel : préavis de 3 jours | Essential 35 €, Classic 75 €, Premium 115 €, Max 165 € par mois | Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires |
+| **WellNess Sport Club** | Sans engagement ; la date de fin dépend des conditions générales | Liberté 79 €, Express 69 € par mois, plus licence et dépôt de garantie de 2 mois | Une salle tout inclus avec cours, cours aquatiques et espace bien-être
+| **RITM Liberté** | Préavis d'un mois | 29,99 € par semaine, plus 90 € de frais d'inscription ; pass jour 30 €, pass mois 179 € | Une salle avec cours dans 6 clubs, ou un pass sans abonnement
+| **ON AIR** | Préavis de 8 semaines | Dès 31,96 € toutes les 4 semaines, plus 50 € de frais d'inscription et 10 € par an | Une grande salle haut de gamme, six clubs dans Paris |
+| **Club Maillot et Club Grenelle** | Préavis d'un mois | 79 € par mois, plus 50 € de frais d'inscription ; pass 30 jours 158 € | Deux clubs haut de gamme dans le 15e et le 17e |
+| **Liberty Gym** | Préavis de 8 semaines | Happy 24,95 €, Premium 34,95 € toutes les 4 semaines, plus 49 € de frais d'adhésion | Une salle pas chère dans le 20e |
 | **Basic-Fit Flex** | Préavis de 4 semaines, sans durée minimale | À partir de 34,98 € toutes les 4 semaines, plus 19,99 € de frais d'inscription | S'entraîner souvent pour pas cher, souvent 24h/24 |
 | **Cours à l'unité ou carte** | Pas besoin | Selon le studio | Un cours de temps en temps dans ton studio préféré |
 
-<p class="klein">Prix d'octobre 2026. ClassPass : lieu Paris. Basic-Fit : prix nationaux en France. Vérifie toujours le prix actuel auprès du prestataire.</p>
+<p class="klein">Prix d'octobre 2026. ClassPass : lieu Paris. Urban Sports Club : abonnement mensuel à Paris (novembre 2026). WellNess Sport Club et RITM : clubs parisiens (novembre 2026). Basic-Fit : prix nationaux en France. Vérifie toujours le prix actuel auprès du prestataire.</p>
 
 <h2 id="classpass">ClassPass : résiliable à tout moment</h2>
 
@@ -37,6 +43,62 @@ Avec ClassPass, tu reçois chaque mois des crédits pour des cours et des séanc
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 </div>
+
+<h2 id="urban-sports-club">Urban Sports Club : un prix fixe par mois</h2>
+
+C’est un pass sport avec un prix fixe par mois. Tu fais des check-ins dans des salles et studios partenaires à Paris : salle, yoga, Pilates, boxe, natation et plus, selon ta formule. Avec l'abonnement mensuel, tu résilies avec 3 jours de préavis.
+
+- **Formules à Paris :** Essential 35 € (4 visites par mois), Classic 75 € (10), Premium 115 € (14) et Max 165 € (18), abonnement mensuel, novembre 2026.
+- **Par lieu :** selon le lieu, tous les jours, ou 4 ou 8 fois par mois, avec un seul check-in par jour.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+<h2 id="wellness-sport-club">WellNess Sport Club : tout inclus, sans engagement</h2>
+
+À Paris, WellNess Sport Club a deux clubs, à Porte Maillot (17e) et à République (11e). Toutes les formules sont sans engagement et comprennent la salle, les cours collectifs, les cours aquatiques et l'espace bien-être avec sauna et hammam.
+
+- **Formules à Paris :** Liberté 79 € par mois, Express 69 € par mois (pas du lundi au jeudi de 11h45 à 13h30 et de 16h45 à 19h30), novembre 2026.
+- **En plus :** une licence (149 €) et un dépôt de garantie de 2 mois.
+- **Étudiants de moins de 26 ans :** 69 € par mois, licence à 49 €.
+- **Résilier :** à l'accueil du club ou par lettre recommandée avec accusé de réception.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
+</div>
+
+<h2 id="ritm">RITM : à la semaine ou avec un pass</h2>
+
+RITM a six clubs à Paris et Boulogne-Billancourt, ouverts 7j/7. Avec l'abonnement Hebdomadaire Liberté, tu paies 29,99 € par semaine, sans engagement, avec un préavis d'un mois. Tu ajoutes 90 € de frais d'inscription.
+
+- **Sans abonnement :** pass jour 30 €, semaine 89 €, mois 179 €, et aussi 3, 6 ou 12 mois.
+- **Cours ROD (HYROX, bootcamp) :** 5 € de plus par semaine en option, pas compris dans les pass.
+- **Résilier :** par lettre recommandée avec accusé de réception, au moins 10 jours avant le prélèvement.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
+</div>
+
+<h2 id="club-maillot-grenelle">Club Maillot et Club Grenelle : deux clubs haut de gamme</h2>
+
+Club Maillot (17e, près de la porte Maillot) et Club Grenelle (15e) sont deux clubs haut de gamme du même groupe, les anciens clubs CMG Sports Club. Avec l'abonnement mensuel, tu as accès aux deux clubs pour 79 € par mois, sans engagement, avec un préavis d'un mois. Tu ajoutes 50 € de frais d'inscription.
+
+- **À l'année :** 799 € pour 12 mois, frais d'inscription offerts.
+- **Sans abonnement :** pass 30 jours 158 €, accès à la journée 30 €.
+- **Avec ClassPass :** Club Maillot est aussi sur ClassPass, voir [ClassPass à Paris](/fr/classpass-paris/).
+
+<p class="klein">Source : clubgrenelle.com (novembre 2026). Vérifie toujours les prix actuels avec le club.</p>
+
+<h2 id="liberty-gym">Liberty Gym : pas cher, dans le 20e</h2>
+
+Liberty Gym a une salle dans le 20e, ouverte 7j/7 de 6h à 23h, avec musculation, cardio et coachs dans la salle. Sans engagement, Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines. Tu ajoutes 49 € de frais d'adhésion et 10 € par an pour le matériel.
+
+- **Sans abonnement :** 79 € pour un mois, 149 € pour 3 mois, 199 € pour 6 mois, 299 € pour un an, payés en une fois.
+- **Famille et étudiants :** 19,95 € par personne, mais avec engagement d'un an.
+- **Résilier :** préavis de 8 semaines, par lettre recommandée avec accusé de réception.
+
+<p class="klein">Source : libertygym.fr (novembre 2026). Vérifie toujours les prix actuels avec le club.</p>
 
 <h2 id="basic-fit">Basic-Fit Flex : sans durée minimale</h2>
 

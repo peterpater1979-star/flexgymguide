@@ -166,6 +166,23 @@ Vælg ClassPass. Dit abonnement virker også i andre lande med ClassPass.
 
 </div>
 
+<h2 id="spullen">Mangler du noget til træningen?</h2>
+
+Disse links fører dig direkte til Traininn, fitnessbutikken hos Tradeinn.
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-da-kleding-dames/?ws=fgg-dk-aarhus-kleding-dames">Træningstøj til kvinder</a></li>
+<li class="i-kleding"><a href="/go/traininn-da-kleding-heren/?ws=fgg-dk-aarhus-kleding-heren">Træningstøj til mænd</a></li>
+<li class="i-schoen"><a href="/go/traininn-da-schoenen-dames/?ws=fgg-dk-aarhus-schoenen-dames">Træningssko til kvinder</a></li>
+<li class="i-schoen"><a href="/go/traininn-da-schoenen-heren/?ws=fgg-dk-aarhus-schoenen-heren">Træningssko til mænd</a></li>
+<li class="i-fles"><a href="/go/traininn-da-fles/?ws=fgg-dk-aarhus-fles">Drikkedunk</a></li>
+<li class="i-handdoek"><a href="/go/traininn-da-handdoek/?ws=fgg-dk-aarhus-handdoek">Træningshåndklæde</a></li>
+<li class="i-slot"><a href="/go/bricoinn-da-cadenas/?ws=fgg-dk-aarhus-hangslot">Hængelås til skabet</a></li>
+<li class="i-sok"><a href="/go/traininn-da-gripsokken/?ws=fgg-dk-aarhus-gripsokken">Gripsokker til yoga og pilates</a></li>
+</ul>
+
+<p class="klein commissie">Køber du via disse links, får vi en lille provision. Du betaler ikke mere, og guiden forbliver gratis. Tak!</p>
+
 ## Ofte stillede spørgsmål
 
 <details open>

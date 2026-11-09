@@ -11,7 +11,6 @@ FlexGymGuide is free to use. We earn money through affiliate links: links to a p
 - Pages with affiliate links show a notice at the top.
 - Affiliate links on this site start with **flexgymguide.com/go/**.
 - Our current partners: ClassPass in France and Spain (via Tradedoubler), the sports shop Tradeinn/Traininn (via Daisycon) and Decathlon in Ireland (via Awin). Other gyms are linked without commission.
-- As an Amazon Associate we earn from qualifying purchases.
 - A commission never decides whether we recommend a provider, or how we describe it.
 
 Questions? See [contact](/contact/).
@@ -23,7 +22,6 @@ FlexGymGuide is gratis. We verdienen geld met affiliatelinks. Sluit je via zo'n 
 - Pagina's met affiliatelinks hebben bovenaan de melding **Advertentie**.
 - Affiliatelinks op deze site beginnen met **flexgymguide.com/go/**.
 - Onze huidige partners: ClassPass in Frankrijk en Spanje (via Tradedoubler), de sportwinkel Tradeinn/Traininn (via Daisycon) en Decathlon in Ierland (via Awin). Andere sportscholen noemen we zonder vergoeding.
-- Als Amazon-partner verdienen wij aan in aanmerking komende aankopen (sportkleding en spullen in onze gidsen).
 - Een vergoeding bepaalt nooit of en hoe we een aanbieder aanraden.
 
 <h2 id="de">Werbehinweis (Deutsch)</h2>
@@ -33,5 +31,4 @@ FlexGymGuide ist kostenlos. Wir finanzieren uns über Affiliate-Links. Schließt
 - Seiten mit Affiliate-Links sind oben mit **Anzeige** gekennzeichnet.
 - Affiliate-Links auf dieser Seite beginnen mit **flexgymguide.com/go/**.
 - Unsere aktuellen Partner: ClassPass in Frankreich und Spanien (über Tradedoubler), der Sportshop Tradeinn/Traininn (über Daisycon) und Decathlon in Irland (über Awin). Andere Studios nennen wir ohne Provision.
-- Als Amazon-Partner verdienen wir an qualifizierten Verkäufen (Sportbekleidung und Ausrüstung in unseren Ratgebern).
 - Eine Provision entscheidet nie darüber, ob und wie wir einen Anbieter empfehlen.

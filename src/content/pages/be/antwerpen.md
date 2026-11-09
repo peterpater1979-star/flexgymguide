@@ -48,7 +48,7 @@ Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Met groepslessen</span></div>
+<div class="fotokop foto-jims"><span>Met groepslessen</span></div>
 
 ### Jims
 
@@ -230,6 +230,23 @@ Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass zit.
 </div>
 
 </div>
+
+<h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
+
+Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-be-antwerpen-kleding-dames">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-be-antwerpen-kleding-heren">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-be-antwerpen-schoenen-dames">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-be-antwerpen-schoenen-heren">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-be-antwerpen-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-be-antwerpen-handdoek">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-be-antwerpen-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-be-antwerpen-gripsokken">Gripsokken voor yoga en pilates</a></li>
+</ul>
+
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 ## Veelgestelde vragen
 

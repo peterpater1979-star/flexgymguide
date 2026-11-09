@@ -4,7 +4,7 @@ path: "/de/"
 description: "Ohne langen Vertrag trainieren: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Bedingungen. So findest du, was zu dir passt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Deutschland"
 kicker: "Länderguide Deutschland"
 ---
@@ -89,22 +89,146 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 </div>
 
+<h2 id="ueberblick">Alle Anbieter auf einen Blick</h2>
+
+<p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
+
+| Anbieter | Art | Preis pro Monat | Laufzeit | Standorte |
+| --- | --- | --- | --- | --- |
+| **[ClassPass](/de/classpass/)** | Sportpass mit Credits | Standard-Abo 59 € (42 Credits) | Jederzeit kündbar | In sehr vielen deutschen Städten, das meiste Angebot in den Großstädten. In 31 Ländern nutzbar |
+| **[Urban Sports Club](/de/urban-sports-club/)** | Sportpass mit festem Preis | Classic 75 € in Berlin, ab 45 € (Essential) | Monatlich kündbar, 3 Tage vorher | Viele deutsche Städte, auch in 5 weiteren Ländern |
+| **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | Über 230 Studios in Europa |
+| **[clever fit](/de/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Über 500 Studios in Deutschland und Europa |
+| **[FitX](/de/fitx/)** | Günstige Fitnesskette | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | Über 110 Studios in Deutschland |
+| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 220 Clubs in Deutschland |
+| **[JOHN REED](/de/john-reed/)** | Fitnessclub | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 47 Clubs in 8 Ländern |
+| **[Basic-Fit](/de/basic-fit/)** | Günstige Fitnesskette | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | Fast 100 Clubs in Deutschland |
+| **[EASYFITNESS](/de/easyfitness/)** | Fitnesskette | Ab 27,99 € | Flex, 12 oder 24 Monate | Über 200 Studios in Deutschland |
+| **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
+| **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
+
+<p class="meer-aanbieders">Und auch: Urban Sports Club, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <div id="steden">
 
 ## Städte
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Fitness First</span></li>
-<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place</span></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
-<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First · McFit</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Basic-Fit · clever fit</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty</span></li>
+<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Fitness First · clever fit</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · FitX · JOHN REED</span></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First · McFit · FitX · JOHN REED · clever fit</span></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First · McFit · FitX · Basic-Fit · JOHN REED</span></li>
 </ul>
+
+</div>
+
+<h2 id="andere">Weitere Fitnessstudios und Sportpässe</h2>
+
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+### Urban Sports Club
+
+Ein fester Preis pro Monat, mit Check-ins bei Partnerstudios. In Berlin kostet Classic, laut ihrer Website die beliebteste Mitgliedschaft, 75 € im Monat, mit einem Besuch pro Tag. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+### clever fit
+
+Nach Zahl der Studios die größte Fitnesskette Deutschlands, über 500 Studios. Preise je nach Studio, oft auch monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+### FitX
+
+Über 110 Studios in Deutschland, 24 Stunden geöffnet, Kurse inklusive. 29 € im Monat bei 12 Monaten Grundlaufzeit, danach monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+### Basic-Fit
+
+Fast 100 Clubs in Deutschland und über 1.700 in Europa. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex jederzeit kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+### JOHN REED
+
+Fitnessclubs mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatlich kündbar, 60 bis 80 € im Monat je nach Club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-easyfitness"><span>Fitnesskette</span></div>
+
+### EASYFITNESS
+
+Über 200 Studios, vor allem in Norddeutschland. Ab 27,99 € im Monat, mit Flex-Tarif monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/easyfitness/">Alles über EASYFITNESS</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+### Mrs.Sporty
+
+Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training, Preise je nach Club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
 
 </div>
 
@@ -146,19 +270,20 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 
 <h2 id="spullen">Noch etwas fürs Training nötig?</h2>
 
-Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de:
+Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportbekleidung Damen</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportbekleidung Herren</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Sportschuhe Damen</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Sportschuhe Herren</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-de-index-kleding-dames">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-de-index-kleding-heren">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-de-index-schoenen-dames">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-de-index-schoenen-heren">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-index-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-index-handdoek">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-de-index-hangslot">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-de-index-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 <h2 id="gidsen">Ratgeber</h2>
 

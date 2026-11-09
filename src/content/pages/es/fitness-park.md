@@ -1,7 +1,8 @@
 ---
 title: "Fitness Park en España: cuotas, precios y para quién es"
+seoTitle: "Fitness Park: precios y cuotas en España"
 path: "/es/fitness-park/"
-description: "Todo sobre Fitness Park en España: 170 clubes, cuotas Classic y Ultimate con o sin permanencia, matrícula y ciudades."
+description: "Cuotas de Fitness Park en España: Classic 37 € y Ultimate 57 € cada 4 semanas sin permanencia, desde 27 € con permanencia. Matrícula y clubes."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -56,6 +57,16 @@ Si eres socio nuevo, tienes una sesión gratis de 30 minutos con un entrenador p
 </ul>
 
 Todos los clubes están en el [buscador de clubes de Fitness Park](https://lesclubs.fitnesspark.fr/es/search?l=es&country=ES).
+
+<h2 id="baja">Darse de baja</h2>
+
+- **Sin permanencia**: te das de baja cuando quieras, con 4 semanas de preaviso desde que el club recibe tu correo.
+- **Con permanencia**: también con 4 semanas de preaviso, pero pagas la parte proporcional del periodo de permanencia que queda, junto con la última cuota. Nunca más que las cuotas que faltan hasta el final de la permanencia.
+- **Suspender por motivos médicos**: con un certificado médico oficial que indica que no puedes entrenar durante 3 meses o más. Durante ese tiempo no pagas y la permanencia no corre. No hay pausa por otros motivos.
+- **Cómo**: por correo electrónico a la dirección de tu club.
+- **A saber**: las cuotas pagadas no se devuelven por periodos que no usas.
+
+<p class="klein">Fuente: condiciones generales de venta de Fitness Park España (noviembre de 2026).</p>
 
 <h2 id="eleccion">¿Fitness Park, Basic-Fit o ClassPass?</h2>
 

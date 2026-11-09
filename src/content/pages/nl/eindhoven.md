@@ -32,7 +32,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Voor vaste gymgangers</span></div>
+<div class="fotokop foto-trainmore"><span>Voor vaste gymgangers</span></div>
 
 ### Trainmore
 
@@ -197,7 +197,7 @@ SportCity heeft 3 clubs in Eindhoven: Gerarduskerk, Mecklenburgstraat en Bisscho
 | 1 jaar | € 54,99 | € 57,99 |
 | 2 jaar | € 52,99 | € 54,99 |
 
-Bij Flex betaal je € 9,99 inschrijfgeld, in plaats van de gewone € 14,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Meer in [Alles over SportCity](/nl/sportcity/).
+Bij Flex betaal je € 14,99 inschrijfgeld. Meer in [Alles over SportCity](/nl/sportcity/).
 
 <p class="klein">Bron: de inschrijfpagina van SportCity Eindhoven Gerarduskerk en sportcity.nl/eindhoven (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
 

@@ -22,7 +22,10 @@ Just moved to Amsterdam, here for a few months, or not sure where you will live 
 | **ClassPass** | Any time, no notice period | From €19 a month (11 credits) | Variety at studios and gyms all over the city |
 | **Trainmore Flex** | Monthly | €74 to €116 per 4 weeks, depending on the club | Premium gym with group classes, for frequent training <details class="cel"><summary>Flex or contract?</summary>A 1-year contract is €20 per 4 weeks cheaper than Flex, 2 years €27. And once you're committed, you often go more often too. Only a contract also gets you €1 off per workout. For example at Koningin Wilhelminaplein: Flex €104, 1 year €84, 2 years €77 per 4 weeks. A one-year contract saves you about €260 a year (13 periods of 4 weeks). <a href="#trainmore">All prices</a></details> |
 | **Basic-Fit Flex** | No minimum term, 4 weeks' notice | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, open 24/7 |
-| **SportCity Flex** | Monthly | €37.99 per 4 weeks at Lijnbaansgracht (City One), plus €4.99 joining fee; varies per club | Gym with group classes, day pass available |
+| **SportCity Flex** | Monthly | €37.99 per 4 weeks at Lijnbaansgracht (City One), plus €9.99 joining fee; varies per club | Gym with group classes, day pass available |
+| **Saints & Stars Flex** | 4 weeks' notice | Gold €169 per 4 weeks, Premium €229; credits €15 to €20 per class | Boutique studio with small-group classes, four studios |
+| **Vondelgym** | Per 4 weeks, one period notice | Regular €84.50 per 4 weeks, gym only €61.50, students €46.50, plus €15 joining fee; day pass €19.50 | Gym with boxing and group classes, three gyms |
+| **BigGym Flex** | Every 4 weeks, 4 weeks' notice | €45 per 4 weeks, plus €10 activation; day pass €10 | Big gym with group classes and HYROX, all 16 BigGyms |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
 <p class="klein">Prices from October 2026. ClassPass: location Amsterdam. Trainmore: clubs Bos en Lommer, Koningin Wilhelminaplein and Amstelveenseweg, before discount. Basic-Fit: national prices. SportCity: club Lijnbaansgracht. Always check the current price with the provider.</p>
@@ -52,7 +55,7 @@ Trainmore is a premium gym chain with group classes and clubs in the city centre
 
 **A discount when you train more.** At Trainmore you pay less the more often you go: you get €1 off per workout, at most one a day and €28 per 4 weeks, only with a 1- or 2-year contract, not with Flex. You check in and out with the QR code in the Trainmore app and train for at least 30 minutes; a group class on its own doesn't count. Every visit counts on its own, so you don't need a fixed schedule. This works at every Trainmore club: train three times a week and that saves about €12 per 4 weeks. At Bos en Lommer, for example, a 1-year contract then costs €42 instead of €54. Student memberships don't get it either.
 
-At a Regular club you train only at your own club. A Red Label membership (Premium) also gives access to all Black Label and Regular clubs. With Flex you pay €29 one-off for the starter package; with a 1 or 2-year contract you often get 50% off for the first months. Students pay €40 per 4 weeks at Bos en Lommer, with a 1-year contract. With Flex you don't get the member discount at Trainmore's partner brands, but you do get the training plan in the app. You cancel in the app; see [Cancelling Trainmore](/nl/cancel-trainmore/).
+At a Regular club you train only at your own club. A Red Label membership (Premium) also gives access to all Black Label and Regular clubs. With Flex you pay €29 one-off for the starter package. Students pay €40 per 4 weeks at Bos en Lommer, with a 1-year contract. With Flex you don't get the member discount at Trainmore's partner brands, but you do get the training plan in the app. You cancel in the app; see [Cancelling Trainmore](/nl/cancel-trainmore/).
 
 <h2 id="basic-fit">Basic-Fit Flex: no minimum term</h2>
 
@@ -81,9 +84,27 @@ This is what prices looked like in October 2026 at SportCity Amsterdam Lijnbaans
 | 1 year | €32.99 | €33.99 |
 | 2 years | €29.99 | €30.99 |
 
-With Flex you pay a €4.99 joining fee instead of the usual €9.99. Prices differ a lot per club: at Amsterdam Weteringdwarsstraat, a few minutes away, City One started at €52.99 per 4 weeks. Want to try first? You can ask the club for a day pass.
+With Flex you pay a €9.99 joining fee. Prices differ a lot per club: at Amsterdam Weteringdwarsstraat, a few minutes away, City One started at €52.99 per 4 weeks. Want to try first? You can ask the club for a day pass.
 
 <p class="klein">Source: sportcity.nl/lidmaatschap, the Weteringdwarsstraat club page and the sign-up page for Lijnbaansgracht (October 2026). Always check the current price with SportCity. Cancelling: see <a href="/nl/cancel-sportcity/">Cancelling SportCity</a>.</p>
+
+<h2 id="saints-stars">Saints & Stars: Flex or pay per class</h2>
+
+Saints & Stars is a boutique studio with four locations in Amsterdam, offering HIIT, boxing, cycling, strength, yoga and reformer Pilates. With Flex you are not tied down: Gold costs €169 and Premium €229 per 4 weeks, with 4 weeks' notice. Don't want a membership at all? Buy credits: from €20 for one class to €15 per class for 20 classes, valid for 12 months.
+
+<p class="klein">Source: saints-stars.com (November 2026). More in <a href="/nl/saints-stars/">Alles over Saints & Stars</a> (in Dutch).</p>
+
+<h2 id="vondelgym">Vondelgym: per 4 weeks, or with a pass</h2>
+
+Vondelgym has three gyms in Amsterdam, in West, East and South (Zuidas), with a gym floor and group classes such as (kick)boxing, strength, yoga and running. You pay per 4 weeks, for at least two periods, and cancel with one 4-week period of notice. Regular costs €84.50, gym only €61.50 and students pay €46.50, plus a one-off €15 joining fee. Without a membership you can buy a day pass (€19.50), week pass (€62) or month pass (€138).
+
+<p class="klein">Source: vondelgym.nl (November 2026). More in <a href="/nl/vondelgym/">Alles over Vondelgym</a> (in Dutch).</p>
+
+<h2 id="big-gym">BigGym Flex: cancel every 4 weeks</h2>
+
+BigGym has a large gym in Amsterdam, with weights, cardio, a HYROX zone and group classes, and you can train at all 16 BigGyms in the Netherlands. Unlimited Flex costs €45 per 4 weeks and you cancel every 4 weeks, in the BigGym app. With a 1 to 3 year contract you pay €30 to €35. You also pay a one-off €10 activation fee. Want to try first? A day pass costs €10.
+
+<p class="klein">Source: biggym.com (November 2026). More in <a href="/nl/big-gym/">Alles over BigGym</a> (in Dutch).</p>
 
 <h2 id="drop-in">Drop-in classes and class cards</h2>
 

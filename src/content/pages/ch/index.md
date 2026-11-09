@@ -35,7 +35,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
+<div class="fotokop foto-activ-fitness"><span>Fitnesskette</span></div>
 
 ### Activ Fitness
 
@@ -95,6 +95,30 @@ ClassPass hat Partnerstudios in den grösseren Schweizer Städten, unter anderem
 
 </div>
 
+<h2 id="andere">Weiterer Sportpass</h2>
+
+<div class="kolommen">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-myclubs"><span>Sportpass</span></div>
+
+### myClubs
+
+Sportpass für Studios und Kurse, unter anderem in Zürich. FLEX 4 kostet CHF 95 im Monat für 4 Trainings, monatlich kündbar.
+
+- Gut, wenn du verschiedene Sportarten ausprobieren willst
+- Monatlich kündbar
+- Vergünstigung über einige Krankenkassen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ch/myclubs/">Alles über myClubs</a>
+</div>
+
+</div>
+
+</div>
+
 ## So funktioniert ClassPass in der Schweiz
 
 <div class="kolommen">
@@ -133,19 +157,20 @@ Du kannst dein Abo jederzeit ändern, pausieren oder kündigen.
 
 <h2 id="spullen">Noch etwas fürs Training nötig?</h2>
 
-Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de, das auch in die Schweiz liefert:
+Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportbekleidung Damen</a></li>
-<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportbekleidung Herren</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Sportschuhe Damen</a></li>
-<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Sportschuhe Herren</a></li>
-<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
-<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
-<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-ch-index-kleding-dames">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-ch-index-kleding-heren">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-ch-index-schoenen-dames">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-ch-index-schoenen-heren">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-ch-index-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-ch-index-handdoek">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-ch-index-hangslot">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-ch-index-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 <h2 id="gidsen">Ratgeber</h2>
 

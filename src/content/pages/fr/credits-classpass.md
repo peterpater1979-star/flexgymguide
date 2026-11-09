@@ -60,10 +60,25 @@ Le nombre de crédits d’un cours n’est pas fixe. Il dépend :
 1. **Entraîne-toi en heures creuses.** Un cours en milieu de journée ou tôt le matin coûte souvent moins de crédits que le même cours le soir.
 2. **Regarde des cours similaires.** Cherche par activité, comme le yoga ou le spinning, et regarde les crédits par cours dans quelques studios près de chez toi.
 3. **Ajoute des séances en salle.** Une séance en salle entre deux cours est souvent une façon moins chère de continuer.
-4. **Annule à temps.** Une annulation tardive ou une absence peut te coûter des crédits ou des frais. Vérifie le délai d’annulation avant de réserver.
+4. **Annule à temps.** Si tu annules moins de 12 heures avant ou si tu ne viens pas, tu récupères tes crédits, mais tu paies des frais. Vérifie le délai d’annulation avant de réserver.
 5. **Profite du report.** Un mois calme ? Tes crédits non utilisés passent au mois suivant, dans la limite de ton abonnement. Pas le temps de faire du sport ? Tu peux aussi utiliser tes crédits pour un massage, le coiffeur ou un spa. Dans certaines villes, tu peux aussi les utiliser pour manger et boire.
 6. **Choisis le bon abonnement.** Si tu manques souvent de crédits, un abonnement plus grand peut être plus avantageux. S’il t’en reste toujours, un plus petit te fait économiser.
 7. **Vérifie avant de voyager.** La valeur des crédits à l’étranger peut être différente de chez toi. Lis [ClassPass en voyage](/fr/classpass-en-voyage/).
+
+<h2 id="reserver">Bon à savoir</h2>
+
+Quelques astuces pour réserver et annuler sans souci :
+
+- **Arrive un peu en avance.** L’idéal, c’est 10 à 15 minutes avant le début, pour te changer tranquillement. Certains studios commencent pile à l’heure et ne laissent plus entrer les retardataires.
+- **Tu préfères un autre cours ?** Annule le premier et réserve le nouveau. Fais-le au moins 12 heures avant, et ça ne te coûte rien.
+- **On annule dans l’appli.** Tu récupères tout de suite tes crédits et quelqu’un d’autre peut prendre ta place.
+- **Empêché moins de 12 heures avant ?** Annule quand même. C’est moins cher que de ne pas venir, et quelqu’un d’autre peut encore prendre ta place.
+- **Un imprévu en route ?** Une panne ou des bouchons ? N’hésite pas à envoyer un petit message au studio. Beaucoup de studios sont compréhensifs, même si ce n’est pas garanti.
+- **Où voir tes réservations ?** Dans l’appli, avec tes cours à venir. Tu y vois aussi si une annulation a marché : le cours n’y est plus et tu reçois un e-mail de confirmation.
+- **Le cours n’a pas lieu ?** Si le cours est annulé ou si le coach n’est pas là, tu récupères simplement tes crédits.
+- **Marqué absent alors que tu étais là ?** Préviens ClassPass dans les 14 jours, ils régleront ça avec le studio.
+
+<p class="klein">Pour tout lire en détail, consulte <a href="/go/classpass-fr-annulation/?epi=fgg-fr-credits-classpass-annulation" rel="sponsored nofollow">la politique d’annulation de ClassPass</a>. Les règles peuvent changer ; l’appli t’indique ce qui s’applique.</p>
 
 <h2 id="combien">De combien de crédits as-tu besoin ?</h2>
 
@@ -90,7 +105,7 @@ Oui. Tes crédits fonctionnent dans tous les pays où ClassPass est présent, se
 <details>
 <summary>Que se passe-t-il si j’annule trop tard ?</summary>
 
-Une annulation tardive ou une absence peut te coûter les crédits ou des frais. Les règles varient selon le studio et la ville, alors vérifie-les dans l’appli avant de réserver.
+Tu récupères tes crédits, mais tu paies des frais. C’est le cas si tu annules moins de 12 heures avant le début (ou après le délai du studio), et aussi si tu ne viens pas. Le montant varie selon le pays et le cours, et tu le vois dans l’appli avant de réserver. Parfois, ClassPass garde les crédits à la place.
 
 </details>
 

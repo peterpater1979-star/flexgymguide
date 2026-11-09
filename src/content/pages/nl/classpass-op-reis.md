@@ -18,7 +18,7 @@ Je ClassPass-abonnement werkt niet alleen in je eigen stad. Op vakantie, voor je
 
 | | |
 | --- | --- |
-| **Waar** | In ruim 30 landen, waarvan 14 in Europa |
+| **Waar** | In 31 landen, waarvan 14 in Europa |
 | **Extra kosten?** | Nee, je boekt met de credits van je eigen abonnement |
 | **Credits** | Een les kan meer of minder credits kosten dan thuis |
 | **Afzeggen** | Gratis tot 12 uur van tevoren; de boete daarna verschilt per land |
@@ -42,7 +42,7 @@ Buiten Europa werkt het onder meer in de Verenigde Staten, Canada, Australië, N
 <h2 id="letop">Waar je op let</h2>
 
 - **Andere waarde van credits.** Elke stad is anders: dezelfde soort les kan in de ene stad meer credits kosten dan in de andere. Kijk dus even voordat je boekt.
-- **Afzeggen.** Tot 12 uur voor de start zeg je gratis af, tenzij de studio een eerdere grens heeft. Daarna betaal je een boete, en de hoogte daarvan verschilt per land. Japan heeft eigen regels.
+- **Afzeggen.** Tot 12 uur voor de start zeg je gratis af, tenzij de studio een eerdere grens heeft. Daarna betaal je een boete, en de hoogte daarvan verschilt per land. Je credits krijg je wel terug. Japan heeft eigen regels.
 - **Tijdsverschil.** Boek je vanuit huis een les op je bestemming, kijk dan goed naar de begintijd ter plekke.
 - **Proefperiode.** In de proefperiode kunnen andere regels gelden. Bij je aanmelding zie je wat er voor jou geldt.
 
@@ -56,16 +56,16 @@ Buiten Europa werkt het onder meer in de Verenigde Staten, Canada, Australië, N
 
 <h2 id="onderweg">Handig in je koffer</h2>
 
-Licht en klein, zodat het makkelijk in je bagage past. Via deze links zoek je bij Amazon.nl:
+Licht en klein, zodat het makkelijk in je bagage past. Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-nl-opvouwbare-fles/">Opvouwbare waterfles</a></li>
-<li class="i-handdoek"><a href="/go/amazon-nl-reishanddoek/">Compacte microvezelhanddoek</a></li>
-<li class="i-mat"><a href="/go/amazon-nl-reisyogamat/">Opvouwbare reisyogamat</a></li>
-<li class="i-band"><a href="/go/amazon-nl-weerstandsbanden/">Weerstandsbanden voor in je hotelkamer</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-classpass-op-reis-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-classpass-op-reis-handdoek">Compacte microvezelhanddoek</a></li>
+<li class="i-mat"><a href="/go/traininn-nl-mat/?ws=fgg-nl-classpass-op-reis-yogamat">Yogamat</a></li>
+<li class="i-band"><a href="/go/traininn-nl-banden/?ws=fgg-nl-classpass-op-reis-banden">Weerstandsbanden voor in je hotelkamer</a></li>
 </ul>
 
-<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 <h2 id="checklist">Checklist</h2>
 

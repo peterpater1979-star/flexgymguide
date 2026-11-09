@@ -70,6 +70,8 @@ The app shows which studios and gyms near you take part.
 
 </div>
 
+<p class="meer-aanbieders">And also: BD Gyms, Gym Plus, Snap Fitness and West Wood Club. <a href="#gyms">See more gyms</a></p>
+
 <h2 id="gyms">More gyms in Ireland</h2>
 
 <div class="kolommen">

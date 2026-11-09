@@ -75,10 +75,25 @@ Het loont dus om een paar opties te bekijken voordat je boekt.
 1. **Train buiten de spits.** Een les midden op de dag of vroeg in de ochtend kost vaak minder credits dan dezelfde les 's avonds.
 2. **Bekijk soortgelijke lessen.** Zoek op activiteit, zoals yoga of spinning, en kijk naar de credits per les bij een paar studio's in de buurt.
 3. **Wissel af met gymbezoeken.** Een gymbezoek tussen de lessen door is vaak een voordeliger manier om te blijven trainen.
-4. **Zeg op tijd af.** Te laat afzeggen of niet komen kan je credits of een boete kosten. Kijk voor het boeken naar de annuleringstermijn.
+4. **Zeg op tijd af.** Zeg je later af dan 12 uur van tevoren of kom je niet, dan krijg je je credits terug, maar betaal je wel kosten. Kijk voor het boeken naar de annuleringstermijn.
 5. **Gebruik wat je meeneemt.** Rustige maand gehad? Je ongebruikte credits gaan mee naar de volgende maand, binnen de grens van je abonnement. Kom je niet aan sporten toe? Je kunt credits ook uitgeven aan een massage, de kapper of de spa. In sommige steden kun je er ook eten en drinken mee halen.
 6. **Kies een abonnement dat past.** Kom je vaak credits tekort, dan is een groter abonnement voordeliger. Houd je altijd over, dan bespaart een kleiner abonnement geld.
 7. **Kijk voordat je op reis gaat.** De waarde van credits in het buitenland kan anders zijn dan thuis. Lees [ClassPass op reis](/nl/classpass-op-reis/).
+
+<h2 id="boeken">Handig om te weten</h2>
+
+Een paar dingen die het boeken en afzeggen makkelijker maken:
+
+- **Wees er op tijd.** Kom het liefst 10 tot 15 minuten voor de start, dan kun je rustig omkleden. Sommige studio's beginnen stipt en laten laatkomers niet meer binnen.
+- **Toch liever een andere les?** Zeg je eerste les af en boek de nieuwe. Doe dat minstens 12 uur van tevoren, dan kost het je niets.
+- **Afzeggen doe je in de app.** Zo krijg je je credits meteen terug en kan iemand anders je plekje krijgen.
+- **Binnen 12 uur toch verhinderd?** Zeg dan alsnog af. Dat is voordeliger dan niet komen en iemand anders kan je plekje nog krijgen.
+- **Onderweg opgehouden?** Pech onderweg of vast in het verkeer? Stuur de studio gerust een berichtje. Veel studio's zijn begripvol, al kun je daar niet altijd op rekenen.
+- **Waar zie je je boekingen?** In de app, bij je komende lessen. Daar zie je ook of een afzegging gelukt is: de les staat er dan niet meer en je krijgt een bevestigingsmail.
+- **Gaat de les niet door?** Valt de les uit of is de instructeur er niet, dan krijg je je credits gewoon terug.
+- **Toch als gemist aangemerkt terwijl je er was?** Laat het ClassPass binnen 14 dagen weten, dan zoeken ze het met de studio uit.
+
+<p class="klein">Alles precies nalezen? Bekijk <a href="https://help.classpass.com/hc/en-us/articles/207942743">de annuleringsregels van ClassPass</a>. Regels kunnen veranderen; in de app zie je wat nu geldt.</p>
 
 <h2 id="hoeveel">Hoeveel credits heb je nodig?</h2>
 
@@ -105,7 +120,7 @@ Ja. Je credits werken in elk land waar ClassPass actief is, tegen de lokale waar
 <details>
 <summary>Wat gebeurt er als ik te laat afzeg?</summary>
 
-Te laat afzeggen of niet komen kan je de credits of een boete kosten. De regels verschillen per studio en stad, dus kijk ze na in de app voordat je boekt.
+Je krijgt je credits terug, maar je betaalt wel kosten. Dat geldt als je later afzegt dan 12 uur voor de start (of later dan de grens van de studio), en ook als je niet komt opdagen. De hoogte verschilt per land en per les. Je ziet het bedrag in de app voordat je boekt. Soms houdt ClassPass in plaats daarvan de credits in.
 
 </details>
 

@@ -18,7 +18,7 @@ ClassPass-jäsenyytesi ei toimi vain omassa kaupungissasi. Lomalla, työmatkalla
 
 | | |
 | --- | --- |
-| **Missä** | Yli 30 maassa, joista 14 Euroopassa |
+| **Missä** | 31 maassa, joista 14 Euroopassa |
 | **Lisämaksu?** | Ei, varaat oman jäsenyytesi krediiteillä |
 | **Krediitit** | Tunti voi maksaa enemmän tai vähemmän krediittejä kuin kotona |
 | **Peruminen** | Ilmainen 12 tuntia ennen; sen jälkeinen maksu vaihtelee maittain |
@@ -42,7 +42,7 @@ Euroopan ulkopuolella se toimii muun muassa Yhdysvalloissa, Kanadassa, Australia
 <h2 id="letop">Mihin kannattaa kiinnittää huomiota</h2>
 
 - **Krediittien arvo vaihtelee.** Jokainen kaupunki on erilainen: samanlainen tunti voi maksaa yhdessä kaupungissa enemmän krediittejä kuin toisessa. Katso siis ennen kuin varaat.
-- **Peruminen.** Voit perua ilmaiseksi 12 tuntia ennen alkua, ellei studiolla ole aikaisempaa rajaa. Sen jälkeen maksat maksun, jonka suuruus vaihtelee maittain. Japanissa on omat sääntönsä.
+- **Peruminen.** Voit perua ilmaiseksi 12 tuntia ennen alkua, ellei studiolla ole aikaisempaa rajaa. Sen jälkeen maksat maksun, jonka suuruus vaihtelee maittain. Krediitit saat kuitenkin takaisin. Japanissa on omat sääntönsä.
 - **Aikaero.** Jos varaat kotoa tunnin matkakohteestasi, tarkista paikallinen alkamisaika huolellisesti.
 - **Kokeilujakso.** Kokeilujakson aikana voivat olla voimassa eri säännöt. Näet rekisteröityessäsi, mitä sinuun sovelletaan.
 

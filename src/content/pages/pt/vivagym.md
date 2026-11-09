@@ -10,7 +10,7 @@ crumb: "VivaGym"
 kicker: "Fornecedor: ginásio"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Ginásio"></div>
+<div class="fotobanner smal foto-vivagym" role="img" aria-label="Ginásio"></div>
 
 O VivaGym é uma cadeia de ginásios espanhola com mais de 40 ginásios em Portugal. Conheces talvez o nome Fitness Hut: o VivaGym comprou o Fitness Hut em 2018, e desde o fim de 2024 os ginásios chamam-se VivaGym. Os planos são sem fidelização. O preço depende do ginásio; vês o preço na página do teu ginásio em vivagym.com.
 

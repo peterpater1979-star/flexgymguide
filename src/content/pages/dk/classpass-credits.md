@@ -60,10 +60,25 @@ Det betaler sig altså at se på et par muligheder, før du booker.
 1. **Træn uden for myldretiden.** Et hold midt på dagen eller tidligt om morgenen koster ofte færre credits end det samme hold om aftenen.
 2. **Kig på lignende hold.** Søg på aktivitet, fx yoga eller spinning, og se på credits pr. hold i et par studier tæt på dig.
 3. **Bland fitnessbesøg ind.** Et fitnessbesøg mellem holdene er ofte en billigere måde at holde gang i træningen.
-4. **Meld afbud i tide.** Sent afbud eller udeblivelse kan koste dig credits eller et gebyr. Tjek afbudsfristen, før du booker.
+4. **Meld afbud i tide.** Melder du afbud senere end 12 timer før, eller møder du ikke op, får du dine credits tilbage, men du betaler et gebyr. Tjek afbudsfristen, før du booker.
 5. **Brug din overførsel.** En rolig måned? Dine ubrugte credits overføres til næste måned inden for dit abonnements grænse. Når du ikke at træne? Du kan også bruge credits på massage, frisør eller spa. I nogle byer kan du også bruge dem på mad og drikke.
 6. **Vælg et abonnement, der passer.** Løber du tit tør for credits, kan et større abonnement betale sig. Har du altid credits tilbage, sparer et mindre penge.
 7. **Tjek før du rejser.** Værdien af credits i udlandet kan være anderledes end hjemme. Læs [ClassPass på rejsen](/dk/classpass-paa-rejse/).
+
+<h2 id="booking">Godt at vide</h2>
+
+Et par ting, der gør det nemmere at booke og melde afbud:
+
+- **Kom i god tid.** Kom gerne 10 til 15 minutter før start, så du kan klæde om i ro og mag. Nogle studier starter præcist og lukker ikke folk ind, der kommer for sent.
+- **Hellere et andet hold?** Meld afbud til det første, og book det nye. Gør det mindst 12 timer før, så koster det ingenting.
+- **Afbud melder du i appen.** Så får du dine credits tilbage med det samme, og en anden kan få din plads.
+- **Forhindret med under 12 timer til start?** Meld alligevel afbud. Det er billigere end at blive væk, og en anden kan stadig få din plads.
+- **Forsinket undervejs?** Punktering eller kø? Send gerne studiet en besked. Mange studier er forstående, men det kan du ikke altid regne med.
+- **Hvor ser du dine bookinger?** I appen, blandt dine kommende hold. Der ser du også, om et afbud er gået igennem: holdet er væk, og du får en bekræftelsesmail.
+- **Bliver holdet aflyst?** Bliver holdet aflyst, eller er instruktøren der ikke, får du bare dine credits tilbage.
+- **Markeret som udeblevet, selvom du var der?** Giv ClassPass besked inden for 14 dage, så ordner de det med studiet.
+
+<p class="klein">Vil du læse det hele? Se <a href="https://help.classpass.com/hc/en-us/articles/207942743">ClassPass' aflysningsregler</a>. Reglerne kan ændre sig; i appen ser du, hvad der gælder nu.</p>
 
 <h2 id="hvor-mange">Hvor mange credits har du brug for?</h2>
 
@@ -90,7 +105,7 @@ Ja. Dine credits virker i alle lande, hvor ClassPass findes, til den lokale vær
 <details>
 <summary>Hvad sker der, hvis jeg melder afbud for sent?</summary>
 
-Sent afbud eller udeblivelse kan koste dig de credits eller et gebyr. Reglerne er forskellige fra studie til studie og fra by til by, så tjek dem i appen, før du booker.
+Du får dine credits tilbage, men du betaler et gebyr. Det gælder, hvis du melder afbud senere end 12 timer før start (eller efter studiets egen frist), og også hvis du ikke møder op. Beløbet varierer fra land til land og fra hold til hold, og du ser det i appen, før du booker. Nogle gange beholder ClassPass i stedet dine credits.
 
 </details>
 

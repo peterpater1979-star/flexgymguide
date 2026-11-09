@@ -60,6 +60,8 @@ Günstige Fitnesskette mit über 230 Studios, auch in Leipzig. Flex ohne feste L
 
 </div>
 
+<p class="meer-aanbieders">Und auch: clever fit, FitX und JOHN REED. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <div id="ueberblick">
 
 ## ClassPass, Fitness First und McFit auf einen Blick
@@ -198,6 +200,62 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 </div>
 
+<h2 id="andere">Weitere Fitnessstudios in Leipzig</h2>
+
+<div class="kolommen vier">
+
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Leipzig ein Studio in der Holzhäuser Straße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Leipzig Studios in Mockau und Neulindenau, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat einen Club in Leipzig, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+</div>
+
+| Anbieter | Preis pro Monat | Laufzeit | In Leipzig |
+| --- | --- | --- | --- |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 2 Studios |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club |
+
+<p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
+
 ## Was passt zu dir?
 
 <div class="kolommen">
@@ -233,6 +291,23 @@ Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPa
 </div>
 
 </div>
+
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-de-leipzig-kleding-dames">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-de-leipzig-kleding-heren">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-de-leipzig-schoenen-dames">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-de-leipzig-schoenen-heren">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-leipzig-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-leipzig-handdoek">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-de-leipzig-hangslot">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-de-leipzig-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
+</ul>
+
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 ## Häufige Fragen
 

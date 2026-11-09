@@ -71,22 +71,22 @@ Schoenen met een vlakke, stevige zool voor squats en tillen. Een handdoek voor o
 
 <h2 id="spullen">Nog iets nodig?</h2>
 
-Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
+Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-dames/">Sportkleding dames</a></li>
-<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-heren/">Sportkleding heren</a></li>
-<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-dames/">Sportschoenen dames</a></li>
-<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-heren/">Sportschoenen heren</a></li>
-<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
-<li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
-<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
-<li class="i-sok"><a href="/go/amazon-nl-yogasokken/">Antislipsokken voor yoga en pilates</a></li>
-<li class="i-bandage"><a href="/go/amazon-nl-boksbandages/">Boksbandages</a></li>
-<li class="i-handschoen"><a href="/go/amazon-nl-bokshandschoenen/">Bokshandschoenen</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-nl-eerste-les-kleding-dames">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-nl-eerste-les-kleding-heren">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-nl-eerste-les-schoenen-dames">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-nl-eerste-les-schoenen-heren">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-eerste-les-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-eerste-les-handdoek">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-eerste-les-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-eerste-les-gripsokken">Gripsokken voor yoga en pilates</a></li>
+<li class="i-bandage"><a href="/go/traininn-nl-bandages/?ws=fgg-nl-eerste-les-bandages">Boksbandages</a></li>
+<li class="i-handschoen"><a href="/go/traininn-nl-handschoenen/?ws=fgg-nl-eerste-les-handschoenen">Bokshandschoenen</a></li>
 </ul>
 
-<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 <h2 id="proberen">Verschillende studio's proberen</h2>
 

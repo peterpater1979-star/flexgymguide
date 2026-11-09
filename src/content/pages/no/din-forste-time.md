@@ -81,7 +81,7 @@ Disse lenkene tar deg direkte til Traininn, treningsbutikken til Tradeinn.
 <li class="i-fles"><a href="/go/traininn-no-fles/?ws=fgg-no-din-forste-time-fles">Drikkeflaske</a></li>
 <li class="i-handdoek"><a href="/go/traininn-no-handdoek/?ws=fgg-no-din-forste-time-handdoek">Treningshåndkle</a></li>
 <li class="i-slot"><a href="/go/bricoinn-no-cadenas/?ws=fgg-no-din-forste-time-hangslot">Hengelås til skapet</a></li>
-<li class="i-sok"><a href="/go/traininn-no-yogasokken/?ws=fgg-no-din-forste-time-yogasokken">Sklisikre sokker til yoga og pilates</a></li>
+<li class="i-sok"><a href="/go/traininn-no-gripsokken/?ws=fgg-no-din-forste-time-gripsokken">Gripsokker til yoga og pilates</a></li>
 <li class="i-bandage"><a href="/go/traininn-no-bandages/?ws=fgg-no-din-forste-time-bandages">Bokseteip</a></li>
 <li class="i-handschoen"><a href="/go/traininn-no-vechtsport/?ws=fgg-no-din-forste-time-bokshandschoenen">Boksehansker</a></li>
 </ul>

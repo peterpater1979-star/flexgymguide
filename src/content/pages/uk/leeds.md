@@ -32,7 +32,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>For regular gym-goers</span></div>
+<div class="fotokop foto-the-gym-group"><span>For regular gym-goers</span></div>
 
 ### The Gym Group
 
@@ -59,6 +59,8 @@ Budget gym chain with 8 gyms in Leeds, most open 24/7. No contract, from £18.99
 </div>
 
 </div>
+
+<p class="meer-aanbieders">And also: David Lloyd, Village Gym. <a href="#other">See the other gyms</a></p>
 
 <div id="overview">
 
@@ -189,6 +191,40 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 8 gyms in 
 
 </div>
 
+<h2 id="other">Other gyms in Leeds</h2>
+
+<div class="kolommen vier">
+
+<div id="david-lloyd" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
+
+<h3>David Lloyd</h3>
+
+David Lloyd has a health club in Moortown, Leeds, with an indoor and an outdoor pool, tennis, padel, squash and badminton, and a sauna and steam room. Each club sets its own price, with Platinum, Club Plus or Club memberships.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
+</div>
+
+</div>
+
+<div id="village-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+
+<h3>Village Gym</h3>
+
+Village Gym has two health clubs in Leeds: Leeds North in Headingley and Leeds South. Both have a gym floor, an indoor pool, a sauna and more than 100 classes a week. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
+</div>
+
+</div>
+
+</div>
+
 ## Which one suits you?
 
 <div class="kolommen">
@@ -224,6 +260,23 @@ Go for ClassPass. Your membership also works in other countries where ClassPass 
 </div>
 
 </div>
+
+<h2 id="spullen">Need anything for the gym?</h2>
+
+Missing something? These links take you straight to Traininn, the fitness shop of Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-uk-leeds-kleding-dames">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/traininn-en-kleding-heren/?ws=fgg-uk-leeds-kleding-heren">Sportswear for men</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-dames/?ws=fgg-uk-leeds-schoenen-dames">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/traininn-en-schoenen-heren/?ws=fgg-uk-leeds-schoenen-heren">Training shoes for men</a></li>
+<li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-uk-leeds-fles">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-uk-leeds-handdoek">Gym towel</a></li>
+<li class="i-slot"><a href="/go/bricoinn-en-cadenas/?ws=fgg-uk-leeds-hangslot">Locker padlock</a></li>
+<li class="i-sok"><a href="/go/traininn-en-gripsokken/?ws=fgg-uk-leeds-gripsokken">Grip socks for yoga and Pilates</a></li>
+</ul>
+
+<p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
 
 ## Frequently asked questions
 

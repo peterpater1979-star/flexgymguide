@@ -32,7 +32,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Voor vaste gymgangers</span></div>
+<div class="fotokop foto-trainmore"><span>Voor vaste gymgangers</span></div>
 
 ### Trainmore
 
@@ -69,6 +69,8 @@ Voordelige sportschoolketen met 6 clubs in Groningen, veel dag en nacht open.
 </div>
 
 </div>
+
+<p class="meer-aanbieders">En ook: BigGym. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
@@ -212,6 +214,26 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
+</div>
+
+</div>
+
+<h2 id="andere">Andere sportscholen in Groningen</h2>
+
+<div class="kolommen vier">
+
+<div id="big-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
+
+<h3>BigGym</h3>
+
+BigGym heeft in Groningen een grote gym aan de Protonstraat, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
+</div>
+
 </div>
 
 </div>

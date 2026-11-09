@@ -49,11 +49,11 @@ Fitness First has 17 clubs in Hamburg, with equipment, a large class schedule an
 | 12 months | €9.90 | €11.90 | €19.90 |
 | 24 months | €7.90 | €9.90 | €17.90 |
 
-With ALL-IN and BLACK for 24 months, the first 12 weeks were free. Students, pupils and trainees pay less: €12.90 per week without a minimum term at the RED club in Harburg, €22.90 at the BLACK club at Alsterufer.
+Students, pupils and trainees pay less: €12.90 per week without a minimum term at the RED club in Harburg, €22.90 at the BLACK club at Alsterufer.
 
 Without a minimum term you pay a one-off startup fee of €39. On top of that comes a training package of €39 or €49, charged every six months. With 24 months there is no startup fee, and you can pause for free for up to 12 weeks. You can switch to the 24-month membership at any time. Not sure? Book a free trial session first.
 
-<p class="klein">Source: the club pages for Hamburg Harburg Lüneburger Tor and Alsterufer and fitnessfirst.de/mitgliedschaft/1m (October 2026). The 12 free weeks were an offer until 27 October 2026. Always check the current price with the club. Cancelling: see <a href="/de/cancel-fitness-first-germany/">Cancelling Fitness First</a>.</p>
+<p class="klein">Source: the club pages for Hamburg Harburg Lüneburger Tor and Alsterufer and fitnessfirst.de/mitgliedschaft/1m (October 2026). Always check the current price with the club. Cancelling: see <a href="/de/cancel-fitness-first-germany/">Cancelling Fitness First</a>.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">All about Fitness First (in German)</a>

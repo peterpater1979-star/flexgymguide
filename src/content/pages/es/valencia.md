@@ -61,7 +61,7 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Sin permanencia</span></div>
+<div class="fotokop foto-vivagym"><span>Sin permanencia</span></div>
 
 ### VivaGym
 
@@ -74,6 +74,8 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 </div>
 
 </div>
+
+<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -234,6 +236,68 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
+<h2 id="otros">Otros gimnasios en Valencia</h2>
+
+<div class="kolommen vier">
+
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Gimnasio con entrenadores</span></div>
+
+<h3 id="l-orange-bleue-valencia">L’Orange bleue</h3>
+
+En Valencia, L’Orange bleue tiene un gimnasio en La Zaidía. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
+</div>
+
+</div>
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
+
+<h3 id="on-air-valencia">ON AIR</h3>
+
+En Valencia, ON AIR tiene tres gimnasios: Les Arts, Nuevo Centro y Ruzafa. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
+
+</div>
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
+
+<h3 id="anytime-fitness-valencia">Anytime Fitness</h3>
+
+En Valencia, Anytime Fitness tiene un club en Abastos, y otro en Mislata. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-valencia">Urban Sports Club</h3>
+
+Urban Sports Club también está en Valencia. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
+
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
@@ -268,6 +332,23 @@ Elige Fitness Park. Un gimnasio con clases colectivas, con o sin permanencia.
 </div>
 
 </div>
+
+<h2 id="spullen">¿Te falta algo para el gimnasio?</h2>
+
+¿Te falta algo? Con estos enlaces vas directamente a Traininn, la tienda de fitness de Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-es-kleding-dames/?ws=fgg-es-valencia-kleding-dames">Ropa deportiva de mujer</a></li>
+<li class="i-kleding"><a href="/go/traininn-es-kleding-heren/?ws=fgg-es-valencia-kleding-heren">Ropa deportiva de hombre</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-dames/?ws=fgg-es-valencia-schoenen-dames">Zapatillas deportivas de mujer</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-valencia-schoenen-heren">Zapatillas deportivas de hombre</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-valencia-fles">Botella de agua</a></li>
+<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-valencia-handdoek">Toalla de deporte</a></li>
+<li class="i-slot"><a href="/go/bricoinn-es-cadenas/?ws=fgg-es-valencia-hangslot">Candado para la taquilla</a></li>
+<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-valencia-gripsokken">Calcetines grip para yoga y pilates</a></li>
+</ul>
+
+<p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>
 
 ## Preguntas frecuentes
 

@@ -42,7 +42,7 @@ De prijs hangt af van de club, van City One of City Plus, en van hoe lang je vas
 | 1 jaar | € 32,99 | € 33,99 |
 | 2 jaar | € 29,99 | € 30,99 |
 
-Bij Flex betaal je € 4,99 inschrijfgeld, in plaats van de gewone € 9,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Andere clubs kunnen flink duurder zijn: bij Utrecht Wonderwoods was City Plus Flex € 69,99 per 4 weken. Bekijk de prijs van jouw club op de site van SportCity.
+Bij Flex betaal je € 9,99 inschrijfgeld. Andere clubs kunnen flink duurder zijn: bij Utrecht Wonderwoods was City Plus Flex € 69,99 per 4 weken. Bekijk de prijs van jouw club op de site van SportCity.
 
 **Student?** Met een studentenabonnement betaal je € 29,99 per 4 weken, met een contract van 1 jaar en zonder inschrijfgeld, vanaf 16 jaar. Lees ook [Sporten als student](/nl/sporten-als-student/).
 

@@ -32,7 +32,7 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Voor vaste gymgangers</span></div>
+<div class="fotokop foto-trainmore"><span>Voor vaste gymgangers</span></div>
 
 ### Trainmore
 
@@ -197,7 +197,7 @@ SportCity heeft 4 clubs in Haarlem: Raaks, Spaarneboog, Westergracht en Schalkwi
 | 1 jaar | € 54,99 | € 57,99 |
 | 2 jaar | € 52,99 | € 54,99 |
 
-Bij Flex betaal je € 9,99 inschrijfgeld, in plaats van de gewone € 14,99. Bij de langere contracten vervalt het inschrijfgeld tijdelijk. Andere clubs kunnen goedkoper of duurder zijn. Meer in [Alles over SportCity](/nl/sportcity/).
+Bij Flex betaal je € 14,99 inschrijfgeld. Andere clubs kunnen goedkoper of duurder zijn. Meer in [Alles over SportCity](/nl/sportcity/).
 
 <p class="klein">Bron: de inschrijfpagina van SportCity Haarlem Raaks en sportcity.nl/haarlem (oktober 2026). Controleer de actuele prijs altijd bij SportCity.</p>
 
@@ -260,6 +260,23 @@ Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass actief i
 </div>
 
 </div>
+
+<h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
+
+Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-nl-haarlem-kleding-dames">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-nl-haarlem-kleding-heren">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-nl-haarlem-schoenen-dames">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-nl-haarlem-schoenen-heren">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-haarlem-fles">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-haarlem-handdoek">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-haarlem-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-haarlem-gripsokken">Gripsokken voor yoga en pilates</a></li>
+</ul>
+
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 ## Veelgestelde vragen
 

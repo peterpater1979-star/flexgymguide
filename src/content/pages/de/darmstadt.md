@@ -48,6 +48,8 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 </div>
 
+<p class="meer-aanbieders">Und auch: clever fit. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+
 <div id="ueberblick">
 
 ## ClassPass und Fitness First auf einen Blick
@@ -162,6 +164,32 @@ Neu bei ClassPass? Du startest mit einem Monat gratis und 10 Workouts.
 
 Das Probeangebot gilt nur für neue Mitglieder. Alles zu den Regeln liest du unter [ClassPass Probezeit](/de/classpass-probezeit/).
 
+<h2 id="andere">Weitere Fitnessstudios in Darmstadt</h2>
+
+<div class="kolommen vier">
+
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Darmstadt ein Studio in der Pallaswiesenstraße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+</div>
+
+| Anbieter | Preis pro Monat | Laufzeit | In Darmstadt |
+| --- | --- | --- | --- |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
+
+<p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
+
 ## Was passt zu dir?
 
 <div class="kolommen">
@@ -197,6 +225,23 @@ Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPa
 </div>
 
 </div>
+
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-de-darmstadt-kleding-dames">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-de-darmstadt-kleding-heren">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-de-darmstadt-schoenen-dames">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-de-darmstadt-schoenen-heren">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-darmstadt-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-darmstadt-handdoek">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-de-darmstadt-hangslot">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-de-darmstadt-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
+</ul>
+
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
 
 ## Häufige Fragen
 

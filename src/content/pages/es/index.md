@@ -1,7 +1,7 @@
 ---
 title: "Entrenar sin permanencia en España"
 path: "/es/"
-description: "¿Deporte sin un contrato largo en un solo gimnasio? Con ClassPass, una suscripción da acceso a estudios y gimnasios en Madrid, Barcelona y más ciudades."
+description: "¿Deporte sin un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass o Urban Sports Club, una suscripción da acceso a estudios y gimnasios en Madrid, Barcelona y más ciudades."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -9,9 +9,9 @@ crumb: "España"
 kicker: "Guía de país España"
 ---
 
-¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
+¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass o Urban Sports Club, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
 
-<h2 id="opciones">Cuatro formas de entrenar con flexibilidad</h2>
+<h2 id="opciones">ClassPass y las grandes cadenas de gimnasios</h2>
 
 <div class="kolommen">
 
@@ -73,7 +73,7 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Gimnasio sin permanencia</span></div>
+<div class="fotokop foto-vivagym"><span>Gimnasio sin permanencia</span></div>
 
 ### VivaGym
 
@@ -91,24 +91,106 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 </div>
 
+<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+
 <div id="ciudades">
 
 ## Ciudades
 
 <ul class="stedenlijst">
-<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park</span></li>
-<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass</span></li>
-<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
+<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
+<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Urban Sports Club</span></li>
+<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
+<li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
+<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit · Anytime Fitness · Urban Sports Club</span></li>
 </ul>
 
 También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.
+
+</div>
+
+<h2 id="otros">Otros gimnasios y pases deportivos</h2>
+
+Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pase deportivo con precio fijo.
+
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Gimnasio con monitores</span></div>
+
+### L’Orange bleue
+
+Cadena francesa con unos 400 gimnasios según la propia cadena; en España en Madrid, Barcelona y Valencia. Desde 40 € cada 4 semanas, con permanencia de uno o dos años, más 60 € de pack de inicio.
+
+- Ideal si quieres un monitor en la sala
+- Clases colectivas ilimitadas
+- Pack de inicio gratis para estudiantes
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
+
+### ON AIR
+
+Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, desde 31,96 € cada 4 semanas, más 30 € de matrícula.
+
+- Ideal si quieres mucho material
+- 4 semanas de preaviso
+- Acceso a todos los clubes ON AIR
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
+
+### Anytime Fitness
+
+Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 clubes en todo el mundo. Cada club fija su cuota: de media 49,90 € al mes según la cadena.
+
+- Ideal si entrenas a horas raras
+- Ideal si viajas mucho
+- Cuota y permanencia según el club
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+### Urban Sports Club
+
+Un precio fijo al mes, con check-ins en gimnasios y estudios asociados. En Madrid y Barcelona, Classic, el plan más elegido según su web, cuesta 75 € al mes por 10 visitas.
+
+- Ideal si quieres un precio fijo al mes
+- Se cancela con 3 días de preaviso
+- Clases online y vídeos a la carta incluidos
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
 
 </div>
 
@@ -160,6 +242,8 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 <li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-index-schoenen-heren">Zapatillas deportivas de hombre</a></li>
 <li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-index-fles">Botella de agua</a></li>
 <li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-index-handdoek">Toalla de deporte</a></li>
+<li class="i-slot"><a href="/go/bricoinn-es-cadenas/?ws=fgg-es-index-hangslot">Candado para la taquilla</a></li>
+<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-index-gripsokken">Calcetines grip para yoga y pilates</a></li>
 </ul>
 
 <p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>

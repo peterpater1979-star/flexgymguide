@@ -54,7 +54,7 @@ En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finlan
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Treningskjede</span></div>
+<div class="fotokop foto-evo"><span>Treningskjede</span></div>
 
 ### EVO
 
@@ -136,6 +136,7 @@ Disse lenkene tar deg direkte til Traininn, treningsbutikken til Tradeinn.
 <li class="i-fles"><a href="/go/traininn-no-fles/?ws=fgg-no-index-fles">Drikkeflaske</a></li>
 <li class="i-handdoek"><a href="/go/traininn-no-handdoek/?ws=fgg-no-index-handdoek">Treningshåndkle</a></li>
 <li class="i-slot"><a href="/go/bricoinn-no-cadenas/?ws=fgg-no-index-hangslot">Hengelås til skapet</a></li>
+<li class="i-sok"><a href="/go/traininn-no-gripsokken/?ws=fgg-no-index-gripsokken">Gripsokker til yoga og pilates</a></li>
 </ul>
 
 <p class="klein commissie">Kjøper du via disse lenkene, får vi en liten provisjon. Du betaler ikke mer, og guiden forblir gratis. Takk!</p>

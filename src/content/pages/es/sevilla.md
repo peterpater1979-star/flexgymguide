@@ -61,7 +61,7 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-gymketen"><span>Sin permanencia</span></div>
+<div class="fotokop foto-vivagym"><span>Sin permanencia</span></div>
 
 ### VivaGym
 
@@ -74,6 +74,8 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 </div>
 
 </div>
+
+<p class="meer-aanbieders">Y también: Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -230,6 +232,26 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
+<h2 id="otros">Otros gimnasios en Sevilla</h2>
+
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-sevilla">Urban Sports Club</h3>
+
+Urban Sports Club también está en Sevilla. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
+
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
@@ -264,6 +286,23 @@ Elige Fitness Park. Un gimnasio con clases colectivas, con o sin permanencia.
 </div>
 
 </div>
+
+<h2 id="spullen">¿Te falta algo para el gimnasio?</h2>
+
+¿Te falta algo? Con estos enlaces vas directamente a Traininn, la tienda de fitness de Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-es-kleding-dames/?ws=fgg-es-sevilla-kleding-dames">Ropa deportiva de mujer</a></li>
+<li class="i-kleding"><a href="/go/traininn-es-kleding-heren/?ws=fgg-es-sevilla-kleding-heren">Ropa deportiva de hombre</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-dames/?ws=fgg-es-sevilla-schoenen-dames">Zapatillas deportivas de mujer</a></li>
+<li class="i-schoen"><a href="/go/traininn-es-schoenen-heren/?ws=fgg-es-sevilla-schoenen-heren">Zapatillas deportivas de hombre</a></li>
+<li class="i-fles"><a href="/go/traininn-es-fles/?ws=fgg-es-sevilla-fles">Botella de agua</a></li>
+<li class="i-handdoek"><a href="/go/traininn-es-handdoek/?ws=fgg-es-sevilla-handdoek">Toalla de deporte</a></li>
+<li class="i-slot"><a href="/go/bricoinn-es-cadenas/?ws=fgg-es-sevilla-hangslot">Candado para la taquilla</a></li>
+<li class="i-sok"><a href="/go/traininn-es-gripsokken/?ws=fgg-es-sevilla-gripsokken">Calcetines grip para yoga y pilates</a></li>
+</ul>
+
+<p class="klein commissie">Si compras a través de estos enlaces, recibimos una pequeña comisión. No pagas nada más y así esta guía sigue siendo gratuita. ¡Gracias!</p>
 
 ## Preguntas frecuentes
 
