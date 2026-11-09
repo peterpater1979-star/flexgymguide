@@ -95,6 +95,30 @@ ClassPass hat Partnerstudios in den grösseren Schweizer Städten, unter anderem
 
 </div>
 
+<h2 id="andere">Weiterer Sportpass</h2>
+
+<div class="kolommen">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-myclubs"><span>Sportpass</span></div>
+
+### myClubs
+
+Sportpass für Studios und Kurse, unter anderem in Zürich. FLEX 4 kostet CHF 95 im Monat für 4 Trainings, monatlich kündbar.
+
+- Gut, wenn du verschiedene Sportarten ausprobieren willst
+- Monatlich kündbar
+- Vergünstigung über einige Krankenkassen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ch/myclubs/">Alles über myClubs</a>
+</div>
+
+</div>
+
+</div>
+
 ## So funktioniert ClassPass in der Schweiz
 
 <div class="kolommen">
