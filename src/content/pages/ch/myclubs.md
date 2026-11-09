@@ -12,13 +12,14 @@ kicker: "Anbieter: Sportpass"
 
 <div class="fotobanner smal foto-myclubs" role="img" aria-label="Training im Studio"></div>
 
-myClubs ist ein Sportpass, mit dem du Kurse und Trainings bei Partnerstudios buchst: Gym, Yoga, Pilates, Spinning, Boxen und vieles mehr. In der Schweiz gibt es myClubs unter anderem in Zürich und in weiteren Städten. Du wählst ein Monatsabo mit einer festen Zahl Trainings oder einen 10er-Block ohne Abo.
+myClubs ist ein Sportpass, mit dem du Kurse und Trainings bei Partnerstudios buchst: über 35 Sportarten, von Gym, Yoga und Pilates bis Tennis, Boxen und Cross-Training, frei kombinierbar. In der Schweiz gibt es myClubs unter anderem in Zürich und in weiteren Städten. Du wählst ein Monatsabo mit einer festen Zahl Trainings oder einen 10er-Block ohne Abo.
 
 <h2 id="kurz">Kurz gesagt</h2>
 
 | | myClubs |
 | --- | --- |
 | **Art** | Sportpass mit festem Preis pro Monat oder 10er-Block |
+| **Sportarten** | Über 35, zum Beispiel Yoga, Tennis, Cross-Training und Boxen |
 | **Abos** | FLEX 4, FLEX 8 und Prepaid TEN |
 | **Preis** | Ab CHF 95 im Monat (FLEX 4) |
 | **Laufzeit** | Monatlich kündbar |

@@ -12,13 +12,14 @@ kicker: "Anbieter: Sportpass"
 
 <div class="fotobanner smal foto-myclubs" role="img" aria-label="Training im Studio"></div>
 
-myClubs ist ein Sportpass aus Österreich. Mit einer Mitgliedschaft buchst du Kurse und Trainings bei Partnerstudios: Gym, Yoga, Pilates, Spinning, Bouldern und vieles mehr. Das meiste Angebot gibt es in Wien, dazu kommen Studios in anderen österreichischen Städten. Du kannst alle Partner in Österreich nutzen.
+myClubs ist ein Sportpass aus Österreich. Mit einer Mitgliedschaft buchst du Kurse und Trainings bei Partnerstudios: über 35 Sportarten, von Gym, Yoga und Pilates bis Tennis, Boxen und Bouldern, frei kombinierbar. Das meiste Angebot gibt es in Wien, dazu kommen Studios in anderen österreichischen Städten. Du kannst alle Partner in Österreich nutzen.
 
 <h2 id="kurz">Kurz gesagt</h2>
 
 | | myClubs |
 | --- | --- |
 | **Art** | Sportpass mit festem Preis pro Monat oder 10er-Block |
+| **Sportarten** | Über 35, zum Beispiel Yoga, Tennis, Cross-Training und Boxen |
 | **Mitgliedschaften** | FLEX 4, UNLIMITED und Prepaid TEN |
 | **Preis** | Ab 55 € im Monat (FLEX 4) |
 | **Laufzeit** | Keine Bindung, monatlich kündbar |
