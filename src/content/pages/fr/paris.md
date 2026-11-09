@@ -184,7 +184,6 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 - Frais d’adhésion : 49 € sans engagement, 30 € avec
 - Espace boxe ou espace réservé aux femmes selon le club
-- Le club de Courbevoie, juste à côté de Paris, est aussi sur ClassPass
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>
@@ -213,7 +212,6 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 - Une séance d’essai gratuite par an
 - Selon la zone, le prix peut être un peu plus élevé
-- Le club de Puteaux, juste à côté de Paris, est aussi sur ClassPass
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>

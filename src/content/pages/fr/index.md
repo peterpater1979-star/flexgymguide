@@ -241,7 +241,6 @@ Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 
 
 - Pass jour, semaine ou mois sans abonnement
 - Option ROD - HYROX
-- À Paris aussi sur ClassPass
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>

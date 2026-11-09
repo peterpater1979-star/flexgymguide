@@ -24,7 +24,6 @@ Vondelgym is een sportschool met drie gyms in Amsterdam: bij het Vondelpark, bij
 | **Inschrijfgeld** | € 15, met een welkomsttas |
 | **Student** | <span class="ja" aria-hidden="true">✓</span> € 46,50 per 4 weken, overdag |
 | **Zonder lidmaatschap** | <span class="ja" aria-hidden="true">✓</span> Dagpas € 19,50, weekpas € 62, maandpas € 138 |
-| **ClassPass** | <span class="ja" aria-hidden="true">✓</span> Alle drie de gyms staan op ClassPass, West en Zuid ook met open gym |
 
 <p class="klein">Bron: vondelgym.nl, de veelgestelde vragen, de pagina's van de gyms en de algemene voorwaarden (november 2026). Waar de Nederlandse en Engelse site verschillen, staat hier de hoogste prijs. Controleer de actuele prijs altijd bij Vondelgym.</p>
 
@@ -71,7 +70,7 @@ Open van maandag tot en met donderdag van 6.30 tot 22.30 uur, op vrijdag tot 21.
 - **Jaarlidmaatschap:** niet tussentijds opzegbaar.
 - **Bedenktijd:** 14 dagen na je inschrijving, zolang je nog niet hebt getraind.
 
-<h2 id="classpass">Vondelgym of ClassPass?</h2>
+<h2 id="vergelijken">Vondelgym of Saints & Stars?</h2>
 
 <div class="kolommen">
 
@@ -80,14 +79,6 @@ Open van maandag tot en met donderdag van 6.30 tot 22.30 uur, op vrijdag tot 21.
 ### Vondelgym
 
 Handig als je vaak traint, van boksen en kracht houdt, en dicht bij een van de drie gyms woont of werkt.
-
-</div>
-
-<div class="kolom kaart">
-
-### ClassPass
-
-Alle drie de Vondelgyms staan ook op ClassPass. Met credits boek je daar lessen, en in West en Zuid ook de open gym, en wissel je af met andere studio's. Lees [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
 
 </div>
 

@@ -131,7 +131,7 @@ Lessen in kleine groepen op vier plekken in Amsterdam. Gold vanaf € 139 per 4 
 
 - Goed als je veel lessen wilt
 - Flex: 4 weken opzegtermijn
-- Ook op ClassPass
+- Ook losse lessen met credits
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/saints-stars/">Alles over Saints & Stars</a>
@@ -149,7 +149,7 @@ Drie gyms in Amsterdam met kracht, (kick)boksen, yoga en hardlopen. Regular € 
 
 - Goed als je van boksen en kracht houdt
 - Per 4 weken opzegbaar
-- Ook op ClassPass
+- Dagpas om eerst te proberen
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/vondelgym/">Alles over Vondelgym</a>

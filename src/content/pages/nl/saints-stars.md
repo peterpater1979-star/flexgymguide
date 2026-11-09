@@ -65,7 +65,7 @@ De studio's zijn elke dag open, doordeweeks meestal van 6 of 7 uur 's ochtends t
 - **Pauzeren:** met Flex pauzeer je zo vaak je wilt. Met een jaarlidmaatschap pauzeer je twee keer per jaar, samen tot 28 dagen.
 - **Bedenktijd:** na je inschrijving heb je 14 dagen bedenktijd. Train je in die tijd al, dan betaal je naar rato.
 
-<h2 id="classpass">Saints & Stars of ClassPass?</h2>
+<h2 id="vergelijken">Saints & Stars of Trainmore?</h2>
 
 <div class="kolommen">
 
@@ -74,14 +74,6 @@ De studio's zijn elke dag open, doordeweeks meestal van 6 of 7 uur 's ochtends t
 ### Saints & Stars
 
 Handig als je meerdere keren per week lessen in kleine groepen wilt, op een vaste plek, en het budget hebt voor een boutique studio.
-
-</div>
-
-<div class="kolom kaart">
-
-### ClassPass
-
-Saints & Stars staat ook op ClassPass. Met credits boek je daar een les, en wissel je af met andere studio's in de stad. Lees [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
 
 </div>
 
