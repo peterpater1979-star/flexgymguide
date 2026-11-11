@@ -41,7 +41,7 @@ Te das de baja en Dreamfit en la recepción de tu club o en el área personal de
 
 <h2 id="pausa">¿Y si solo quieres parar un tiempo?</h2>
 
-Dreamfit no tiene excedencia ni congelación de la cuota, tampoco por salud o traslado. Si paras un tiempo, te das de baja. Al volver pagas otra vez la inscripción (45 € en noviembre de 2026). Más sobre las cuotas en [Todo sobre Dreamfit](/es/dreamfit/).
+Dreamfit no tiene excedencia ni congelación de la cuota, tampoco por salud o traslado. Si paras un tiempo, te das de baja. Al volver pagas otra vez la inscripción (45 € en noviembre de 2026), y solo si hay plaza: cuando un club está lleno, hay lista de espera. Más sobre las cuotas en [Todo sobre Dreamfit](/es/dreamfit/).
 
 <h2 id="alternativas">¿Y ahora? Alternativas sin permanencia</h2>
 

@@ -62,7 +62,7 @@ Dreamfit tiene también clubes en Sant Boi de Llobregat y L’Hospitalet (cerca 
 
 - **Plazo:** pide la baja antes del día 20 del mes. Así ya no pagas el mes siguiente. Los recibos se cobran entre el 1 y el 5 de cada mes, y no se devuelven meses no usados.
 - **Cómo:** en la recepción de tu club o en el área personal de la web de Dreamfit. Según sus condiciones, una baja por otro canal, como el correo electrónico, no vale.
-- **Pausa:** Dreamfit no tiene excedencia ni congelación de la cuota, tampoco por salud o traslado. Si vuelves después de una baja, pagas de nuevo la inscripción.
+- **Pausa:** Dreamfit no tiene excedencia ni congelación de la cuota, tampoco por salud o traslado. Si vuelves después de una baja, pagas de nuevo la inscripción, y solo si hay plaza: cuando un club está lleno, hay lista de espera.
 
 Todo el detalle: [Darse de baja en Dreamfit](/es/baja-dreamfit/).
 
