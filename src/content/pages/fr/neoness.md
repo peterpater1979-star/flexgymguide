@@ -36,13 +36,13 @@ Neoness est une chaîne de salles de sport à petit prix, avec plus de 30 clubs,
 | **Access** | 29,99 € toutes les 4 semaines | 52 semaines | Accès aux clubs et vidéos à la demande |
 | **Prime** | 34,99 € toutes les 4 semaines | 52 semaines | Cours collectifs illimités, carte duo, pause vacances |
 | **Prime sans engagement** | Dès 44,99 € toutes les 4 semaines | Aucun, préavis de 4 semaines | Comme Prime ; inscription au club |
-| **Platinum** | 159,20 € par mois | 6 mois | Tout Prime, plus une séance de coaching individuel par semaine |
+| **Platinum** | 199 € par mois | 6 mois | Tout Prime, plus une séance de coaching individuel par semaine |
 
-- **Paris et environs :** Access et Prime (aussi sans engagement) coûtent 5 € de plus dans les clubs de Paris, La Défense, Boulogne, Asnières, Ivry et Marseille Vieux-Port. Platinum y coûte 199,20 € par mois.
+- **Paris et environs :** Access et Prime (aussi sans engagement) coûtent 5 € de plus dans les clubs de Paris, La Défense, Boulogne, Asnières, Ivry et Marseille Vieux-Port. Platinum y coûte 249 € par mois.
 - **Frais :** 49 € de frais d’adhésion pour toutes les formules, plus 9,90 € par an pour l’entretien.
 - **Access ou Prime ?** Pour 5 € de plus toutes les 4 semaines, Prime ajoute les cours collectifs illimités, la carte duo et la pause vacances. Avec Access, tu ne peux pas mettre ton abonnement en pause.
 
-<p class="klein">Prix affichés sur neoness.fr en novembre 2026. Neoness indique pour Platinum un prix barré de 199 € (249 € à Paris) : le prix réduit peut changer.</p>
+<p class="klein">Prix affichés sur neoness.fr en novembre 2026, sans les offres temporaires.</p>
 
 <h2 id="villes">Dans quelles villes ?</h2>
 
