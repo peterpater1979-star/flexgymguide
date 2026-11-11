@@ -28,7 +28,7 @@ GOfit es una cadena española de centros deportivos grandes, con unos 20 centros
 | **Edad mínima** | 16 años para la cuota individual |
 | **Baja** | En el centro o por correo electrónico, el plazo depende del centro |
 
-<p class="klein">Precios de la cuota individual de GOfit Ciudad Real y de un centro de Madrid en <a href="https://go-fit.es/centros/go-fit-ciudad-real/">go-fit.es</a>, noviembre de 2026. Los precios cambian según el centro. Comprueba siempre el precio actual con GOfit.</p>
+<p class="klein">Precios de la cuota individual de GOfit Ciudad Real y GOfit Sevilla en <a href="https://go-fit.es/centros/go-fit-ciudad-real/">go-fit.es</a>, noviembre de 2026. Los precios cambian según el centro. Comprueba siempre el precio actual con GOfit.</p>
 
 <h2 id="cuotas">Las cuotas</h2>
 
@@ -42,14 +42,14 @@ GOfit es una cadena española de centros deportivos grandes, con unos 20 centros
 - **Cuota familiar:** hay una cuota para familias, más barata por persona; los niños pueden usar los servicios GOfit Family.
 - **Lo que pagas aparte:** pistas de pádel, entrenamiento personal (desde 29 € la sesión), Small Groups (desde 15,50 € la sesión), escuelas y campamentos.
 
-<p class="klein">Precios de la cuota individual mensual en GOfit Ciudad Real y en un centro de Madrid, en go-fit.es (noviembre de 2026), sin las ofertas temporales. En otros centros el precio puede ser distinto.</p>
+<p class="klein">Precios de la cuota individual mensual en GOfit Ciudad Real y GOfit Sevilla, en go-fit.es (noviembre de 2026), sin las ofertas temporales. En otros centros el precio puede ser distinto.</p>
 
 <h2 id="centros">¿En qué ciudades?</h2>
 
 <ul class="stedenlijst">
 <li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">Montecarmelo, Peñagrande, Plaza Elíptica y Vallehermoso, y alrededor en Alcalá de Henares, Majadahonda y Torrejón</span></li>
 <li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">Huelin y Segalerva</span></li>
-<li><a href="/es/sevilla/"><strong>Sevilla</strong></a></li>
+<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">Avenida José Laguillo</span></li>
 <li><strong>Y también</strong> <span class="klein">Granada (Maracena), Córdoba, Ciudad Real, Oviedo, Santander, Valladolid, Vitoria, Las Palmas y Santa Cruz de Tenerife</span></li>
 </ul>
 

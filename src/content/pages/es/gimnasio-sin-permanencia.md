@@ -27,7 +27,7 @@ kicker: "Guía España"
 | **[ON AIR](/es/on-air/)** | Desde 31,96 € cada 4 semanas | 30 €, más 10 € al año | 4 semanas de preaviso |
 | **[GOfit](/es/go-fit/)** | Cuota mensual de 51,30 a 52,74 €, Plan Plus de 57,80 a 59,24 € al mes (mínimo 3 meses) | 37,19 a 51,30 € | Según el centro |
 
-<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. GOfit: Ciudad Real y un centro de Madrid. Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
+<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. GOfit: Ciudad Real y Sevilla. Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
 
 <h2 id="pase">Un pase deportivo: varios gimnasios y estudios</h2>
 
