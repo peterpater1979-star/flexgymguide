@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Poissy en toute flexibilité"
-seoTitle: "ClassPass Poissy : faire du sport sans engagement"
+seoTitle: "Sport sans engagement à Poissy : studios et cours"
 path: "/fr/poissy/"
-description: "À Poissy, fais du sport sans être lié à une seule salle : avec un pass sport, tu t’entraînes dans des studios de la ville."
+description: "À Poissy, fais du sport sans être lié à une seule salle : avec ClassPass, tu t’entraînes dans des studios de la ville."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

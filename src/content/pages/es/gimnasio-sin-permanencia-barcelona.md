@@ -101,6 +101,7 @@ Sí. Mucha gente entrena en su gimnasio y de vez en cuando hace con ClassPass un
 </details>
 
 <div class="knoppen">
+<a class="knop knop-rand" href="/es/gimnasio-sin-permanencia/">Sin permanencia en España</a>
 <a class="knop knop-rand" href="/es/">Hacer deporte en España</a>
 <a class="knop knop-rand" href="/es/pase-o-gimnasio/">¿Pase deportivo o gimnasio?</a>
 <a class="knop knop-rand" href="/es/gyms-without-contract-barcelona/">In English</a>

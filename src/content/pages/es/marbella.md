@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Marbella con flexibilidad"
-seoTitle: "ClassPass Marbella: entrenar sin permanencia"
+seoTitle: "Entrenar sin permanencia en Marbella: estudios"
 path: "/es/marbella/"
-description: "¿No quieres atarte a un solo gimnasio? En Marbella puedes usar un pase deportivo en estudios de toda la ciudad."
+description: "¿No quieres atarte a un solo gimnasio? En Marbella puedes usar ClassPass en estudios de toda la ciudad."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -35,7 +35,7 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 </div>
 
-<p class="meer-aanbieders">Y también: Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -120,6 +120,20 @@ En el centro, la Milla de Oro, Nueva Andalucía y San Pedro Alcántara, y a lo l
 <h2 id="otros">Otros gimnasios en Marbella</h2>
 
 <div class="kolommen vier">
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-marbella">Synergym</h3>
+
+Synergym tiene un club en Marbella, en la calle Juan Ramón Jiménez. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 

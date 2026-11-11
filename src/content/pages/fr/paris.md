@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Paris en toute flexibilité"
-seoTitle: "ClassPass Paris : faire du sport sans engagement"
+seoTitle: "Sport à Paris : pass sport, studios et salles"
 path: "/fr/paris/"
-description: "À Paris, fais du sport sans être lié à une seule salle : un pass sport dans des studios partout en ville, ou une salle avec ou sans engagement."
+description: "À Paris, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -75,7 +75,7 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : WellNess Sport Club, RITM, L’Orange bleue, ON AIR, L’Appart Fitness, Gigafit, Liberty Gym et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : WellNess Sport Club, RITM, L’Orange bleue, ON AIR, L’Appart Fitness, Gigafit, Liberty Gym, Neoness et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="apercu">
 
@@ -201,7 +201,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 ## Keepcool à Paris
 
-À Paris, Keepcool a huit salles, entre autres à Bastille, Saint-Germain, Monceau et Denfert-Rochereau. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
+À Paris, Keepcool a huit salles, entre autres à Bastille, Saint-Germain, Monceau et Denfert-Rochereau. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 29,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
 
 ### Idéal pour
 
@@ -321,6 +321,20 @@ Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la 
 
 </div>
 
+<div id="neoness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="neoness-paris">Neoness</h3>
+
+À Paris, Neoness a 19 clubs, entre autres Bourse-Opéra, Châtelet-Montorgueil, Madeleine, République, Bastille, Montparnasse, Batignolles, Beaugrenelle et Nation, et aussi à Boulogne-Billancourt, La Défense, Asnières, Colombes, Ivry-sur-Seine, Kremlin-Villejuif et Fontenay-sous-Bois. Dans Paris, à La Défense, Boulogne, Asnières et Ivry, Access coûte 34,99 € et Prime 39,99 € toutes les 4 semaines avec engagement d’un an, Prime sans engagement dès 49,99 €. Ailleurs, c’est 5 € de moins. Tu ajoutes 49 € de frais d’adhésion.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
+</div>
+
+</div>
+
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
@@ -433,7 +447,7 @@ Oui, si tu veux. Sans engagement, tu paies 10 € de plus toutes les 4 semaines 
 <details>
 <summary>Keepcool est-il sans engagement ?</summary>
 
-Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 29,99 €.
 
 </details>
 

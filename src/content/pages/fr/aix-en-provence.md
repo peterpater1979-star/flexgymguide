@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Aix-en-Provence en toute flexibilité"
-seoTitle: "ClassPass Aix-en-Provence : faire du sport sans engagement"
+seoTitle: "Salle de sport sans engagement à Aix-en-Provence"
 path: "/fr/aix-en-provence/"
-description: "À Aix-en-Provence, fais du sport sans être lié à une seule salle : un pass sport dans des studios partout en ville, ou une salle avec ou sans engagement."
+description: "À Aix-en-Provence, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -75,7 +75,7 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : WellNess Sport Club, ON AIR et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : WellNess Sport Club, ON AIR, Neoness et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="apercu">
 
@@ -199,7 +199,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 ## Keepcool à Aix-en-Provence
 
-À Aix-en-Provence, Keepcool a cinq salles : Centre, La Duranne, La Pioline, Les Milles et Rotonde. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
+À Aix-en-Provence, Keepcool a cinq salles : Centre, La Duranne, La Pioline, Les Milles et Rotonde. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 29,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
 
 ### Idéal pour
 
@@ -249,6 +249,20 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div id="neoness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="neoness-aix-en-provence">Neoness</h3>
+
+Neoness a un club à Aix-en-Provence. Access coûte 29,99 € et Prime 34,99 € toutes les 4 semaines avec engagement, Prime sans engagement dès 44,99 €, plus 49 € de frais d’adhésion.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
 </div>
 
 </div>
@@ -365,7 +379,7 @@ Oui, si tu veux. Sans engagement, tu paies 10 € de plus toutes les 4 semaines 
 <details>
 <summary>Keepcool est-il sans engagement ?</summary>
 
-Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 29,99 €.
 
 </details>
 

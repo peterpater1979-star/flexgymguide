@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Palma de Mallorca con flexibilidad"
-seoTitle: "ClassPass Palma de Mallorca: entrenar sin permanencia"
+seoTitle: "Gimnasio sin permanencia en Palma de Mallorca"
 path: "/es/palma-de-mallorca/"
-description: "¿No quieres atarte a un solo gimnasio? En Palma de Mallorca puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Palma de Mallorca puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -47,7 +47,7 @@ Cadena de gimnasios económica con clubes en toda España.
 
 </div>
 
-<p class="meer-aanbieders">Y también: Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Anytime Fitness, Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -163,6 +163,20 @@ En Palma, Anytime Fitness tiene tres clubes, entre ellos Foners y Fortí. Cada c
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-palma-de-mallorca">Synergym</h3>
+
+En Palma, Synergym tiene clubes en Camp Serralta, Escorxador y Les Estacions. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
 </div>

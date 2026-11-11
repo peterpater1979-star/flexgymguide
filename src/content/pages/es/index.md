@@ -91,7 +91,7 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 </div>
 
-<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
@@ -119,6 +119,60 @@ También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. 
 Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pase deportivo con precio fijo.
 
 <div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+### Synergym
+
+Cadena española con clubes en toda España, también en muchas ciudades medianas. Todas las cuotas sin permanencia: Club Unlimited de 24,99 a 30,99 € según el club, o Multiclub Premium 36,99 € al mes, más 30 € de matrícula.
+
+- Ideal si buscas un gimnasio barato cerca de casa
+- Bono día y bono semana sin cuota
+- Baja con preaviso hasta el día 19
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
+
+### Anytime Fitness
+
+Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 clubes en todo el mundo. Cada club fija su cuota: de media 49,90 € al mes según la cadena.
+
+- Ideal si entrenas a horas raras
+- Ideal si viajas mucho
+- Cuota y permanencia según el club
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+### GOfit
+
+Unos 20 centros deportivos grandes, sobre todo en Madrid, con piscinas, spa y más de 150 clases a la semana. Cuota mensual sin permanencia, de 51,30 a 61,62 € al mes según el centro.
+
+- Ideal si quieres piscina y spa
+- Ideal para familias
+- Sin permanencia con la cuota mensual
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
+</div>
+
+</div>
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -152,24 +206,6 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
-
-### Anytime Fitness
-
-Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 clubes en todo el mundo. Cada club fija su cuota: de media 49,90 € al mes según la cadena.
-
-- Ideal si entrenas a horas raras
-- Ideal si viajas mucho
-- Cuota y permanencia según el club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
 </div>
 
 </div>
@@ -250,6 +286,7 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 
 <h2 id="gidsen">Guías</h2>
 
+- **[Gimnasio sin permanencia](/es/gimnasio-sin-permanencia/)** · las cadenas y pases, uno al lado del otro
 - **[¿Pase o gimnasio?](/es/pase-o-gimnasio/)** · lo que encaja contigo
 - **[Los créditos de ClassPass](/es/creditos-classpass/)** · más clases con tu plan
 - **[Tu primera clase](/es/primera-clase/)** · qué llevar

@@ -197,6 +197,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .banner-pub { margin: 1.5rem 0; max-width: 36rem; }
 .banner-pub figcaption { font-size: .75rem; color: var(--muted, #666); margin-bottom: .25rem; }
 .banner-pub img { display: block; width: 100%; height: auto; border-radius: var(--radius); }
+.banner-pub-klein { max-width: 300px; }
 
 /* Verwijzing naar overige aanbieders onder de bovenste kaarten */
 .meer-aanbieders { max-width: 72ch; margin: 0 0 2rem; padding: .9rem 1.25rem; background: var(--white); border-left: 4px solid var(--accent); border-radius: var(--radius); box-shadow: var(--shadow); }

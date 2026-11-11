@@ -59,6 +59,11 @@ ClassPass es un pase deportivo: pagas una cuota mensual y recibes créditos. Los
 
 </div>
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Publi</figcaption>
+<a href="/go/classpass-es-banner/?epi=fgg-es-classpass-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25960034)a(3504160)" width="300" height="250" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="ciudades">Dónde usar ClassPass en España</h2>
 
 Donde más opciones tienes con ClassPass es en estas ciudades:

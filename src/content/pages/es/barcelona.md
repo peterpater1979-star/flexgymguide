@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Barcelona con flexibilidad"
-seoTitle: "ClassPass Barcelona: entrenar sin permanencia"
+seoTitle: "Entrenar en Barcelona: pases, estudios y gimnasios"
 path: "/es/barcelona/"
-description: "¿No quieres atarte a un solo gimnasio? En Barcelona puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Barcelona puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -75,7 +75,7 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
-<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness, Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -263,6 +263,20 @@ En Barcelona, Anytime Fitness tiene clubes en Les Corts, Pedralbes, Poblenou y R
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-barcelona">Synergym</h3>
+
+En Barcelona, Synergym tiene clubes en El Clot, Fabra i Puig, Las Arenas, Maragall y Plaza Cosmos, y también en Hospitalet, Cornellà, El Prat, Sabadell, Terrassa y Mataró. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
 </div>

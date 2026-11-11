@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Nîmes en toute flexibilité"
-seoTitle: "ClassPass Nîmes : faire du sport sans engagement"
+seoTitle: "Salle de sport sans engagement à Nîmes"
 path: "/fr/nimes/"
-description: "À Nîmes, fais du sport sans être lié à une seule salle : un pass sport dans des studios de la ville, ou une salle avec ou sans engagement."
+description: "À Nîmes, fais du sport sans être lié à une seule salle : ClassPass dans des studios de la ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -61,7 +61,7 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : ON AIR et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : ON AIR, Neoness et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="apercu">
 
@@ -169,7 +169,7 @@ Basic-Fit a des salles à Nîmes. C’est une chaîne de salles à petit prix, a
 
 ## Keepcool à Nîmes
 
-À Nîmes, Keepcool a trois salles : Centre, Mas Carbonnel et Ouest. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
+À Nîmes, Keepcool a trois salles : Centre, Mas Carbonnel et Ouest. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 29,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
 
 ### Idéal pour
 
@@ -205,6 +205,20 @@ Basic-Fit a des salles à Nîmes. C’est une chaîne de salles à petit prix, a
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div id="neoness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="neoness-nimes">Neoness</h3>
+
+Près de Nîmes, Neoness a un club à Marguerittes. Access coûte 29,99 € et Prime 34,99 € toutes les 4 semaines avec engagement, Prime sans engagement dès 44,99 €, plus 49 € de frais d’adhésion.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
 </div>
 
 </div>
@@ -297,7 +311,7 @@ Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies
 <details>
 <summary>Keepcool est-il sans engagement ?</summary>
 
-Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 29,99 €.
 
 </details>
 

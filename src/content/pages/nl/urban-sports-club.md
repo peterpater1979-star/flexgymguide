@@ -26,7 +26,7 @@ Urban Sports Club is een sportpas met een vaste prijs per maand. Met je abonneme
 | **Steden** | Amsterdam, Rotterdam en andere grote steden |
 | **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Partnerlocaties in meerdere Europese landen |
 
-<p class="klein">Bron: urbansportsclub.com, prijzen van het maandabonnement in Amsterdam en Rotterdam (november 2026), inclusief btw. Prijzen kunnen per stad verschillen. Check altijd de actuele prijzen op hun site.</p>
+<p class="klein">Bron: urbansportsclub.com, prijzen van het maandabonnement in Amsterdam en Rotterdam (november 2026). Prijzen kunnen per stad verschillen. Check altijd de actuele prijzen op hun site.</p>
 
 <h2 id="abonnementen">De abonnementen in Amsterdam en Rotterdam</h2>
 

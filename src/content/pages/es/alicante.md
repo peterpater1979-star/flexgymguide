@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Alicante con flexibilidad"
-seoTitle: "ClassPass Alicante: entrenar sin permanencia"
+seoTitle: "Gimnasio sin permanencia en Alicante"
 path: "/es/alicante/"
-description: "¿No quieres atarte a un solo gimnasio? En Alicante puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Alicante puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -61,7 +61,7 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 </div>
 
-<p class="meer-aanbieders">Y también: Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -189,6 +189,20 @@ Fitness Park es una cadena de gimnasios francesa con 170 clubes en España. En e
 <h2 id="otros">Otros gimnasios en Alicante</h2>
 
 <div class="kolommen vier">
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-alicante">Synergym</h3>
+
+En Alicante, Synergym tiene un club en Benalúa, y también en San Vicente del Raspeig. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 

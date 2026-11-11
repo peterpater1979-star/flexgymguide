@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Lille en toute flexibilité"
-seoTitle: "ClassPass Lille : faire du sport sans engagement"
+seoTitle: "Salle de sport sans engagement à Lille"
 path: "/fr/lille/"
-description: "À Lille, fais du sport sans être lié à une seule salle : un pass sport dans des studios partout en ville, ou une salle avec ou sans engagement."
+description: "À Lille, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -199,7 +199,7 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 ## Keepcool à Lille
 
-À Lille, Keepcool a trois salles, dont Lille Centre et Solférino, et une autre à Villeneuve-d’Ascq. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
+À Lille, Keepcool a trois salles, dont Lille Centre et Solférino, et une autre à Villeneuve-d’Ascq. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 29,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
 
 ### Idéal pour
 
@@ -337,7 +337,7 @@ Oui, si tu veux. Sans engagement, tu paies 10 € de plus toutes les 4 semaines 
 <details>
 <summary>Keepcool est-il sans engagement ?</summary>
 
-Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 29,99 €.
 
 </details>
 

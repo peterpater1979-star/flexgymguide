@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Bussy-Saint-Georges en toute flexibilité"
-seoTitle: "ClassPass Bussy-Saint-Georges : sport sans engagement"
+seoTitle: "Sport sans engagement à Bussy-Saint-Georges"
 path: "/fr/bussy-saint-georges/"
-description: "À Bussy-Saint-Georges, fais du sport sans être lié à une seule salle : avec un pass sport, tu t’entraînes dans des studios de la ville."
+description: "À Bussy-Saint-Georges, fais du sport sans être lié à une seule salle : avec ClassPass, tu t’entraînes dans des studios de la ville."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

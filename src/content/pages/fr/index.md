@@ -76,7 +76,7 @@ Plus de 300 clubs en France, ouverts 7j/7, certains 24h/24. Sans engagement dès
 
 ### Keepcool
 
-Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et des cours en petits groupes. Dès 34,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
+Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et des cours en petits groupes. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
 - Idéal si tu veux être accompagné par un coach
 - Cours en petits groupes (Small Groups)
@@ -90,7 +90,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, WellNess Sport Club, RITM et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, Neoness, WellNess Sport Club, RITM et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="villes">
 
@@ -157,7 +157,7 @@ ClassPass est aussi présent dans d’autres villes. Dans l’application, tu vo
 
 D’autres chaînes de salles, et Urban Sports Club, un pass sport à prix fixe.
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -209,6 +209,24 @@ Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+### Neoness
+
+Surtout en Île-de-France, avec accès à environ 270 clubs du réseau Neoness et Keepcool. Access 29,99 € ou Prime 34,99 € toutes les 4 semaines avec engagement, Prime sans engagement dès 44,99 €, plus 49 € de frais d’adhésion.
+
+- Idéal si tu vas souvent à la salle toute l’année
+- Cours collectifs et pause vacances avec Prime
+- Prime aussi sans engagement, au club
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
 </div>
 
 </div>
@@ -324,6 +342,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 
 <h2 id="gidsen">Guides</h2>
 
+- **[Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/)** · les chaînes et pass sport côte à côte
 - **[Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)** · ce qui te correspond
 - **[Les crédits ClassPass](/fr/credits-classpass/)** · plus de cours avec ton abonnement
 - **[Ton premier cours](/fr/premier-cours/)** · quoi emporter

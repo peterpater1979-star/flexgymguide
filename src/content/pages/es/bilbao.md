@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Bilbao con flexibilidad"
-seoTitle: "ClassPass Bilbao: entrenar sin permanencia"
+seoTitle: "Gimnasio sin permanencia en Bilbao"
 path: "/es/bilbao/"
-description: "¿No quieres atarte a un solo gimnasio? En Bilbao puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Bilbao puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -75,7 +75,7 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
-<p class="meer-aanbieders">Y también: Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -234,6 +234,20 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 <h2 id="otros">Otros gimnasios en Bilbao</h2>
 
 <div class="kolommen vier">
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-bilbao">Synergym</h3>
+
+En Bilbao, Synergym tiene clubes en Deusto, Indautxu, Sarriko y Ametzola, y también en Getxo y Portugalete. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 

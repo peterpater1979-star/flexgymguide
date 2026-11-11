@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Madrid con flexibilidad"
-seoTitle: "ClassPass Madrid: entrenar sin permanencia"
+seoTitle: "Entrenar en Madrid: pases, estudios y gimnasios"
 path: "/es/madrid/"
-description: "¿No quieres atarte a un solo gimnasio? En Madrid puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Madrid puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -75,7 +75,7 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
-<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness, Synergym, GOfit y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -263,6 +263,34 @@ En Madrid, Anytime Fitness tiene seis clubes: Arganzuela, Bravo Murillo, Ciudad 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-madrid">Synergym</h3>
+
+En Madrid, Synergym tiene clubes en Almagro, Prosperidad, Retiro y Santa Eugenia, y también en Alcobendas, Getafe, Fuenlabrada y Torrejón. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+<div id="go-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+<h3 id="go-fit-madrid">GOfit</h3>
+
+En Madrid, GOfit tiene centros en Montecarmelo, Peñagrande, Plaza Elíptica y Vallehermoso, y alrededor en Alcalá de Henares, Majadahonda y Torrejón. Con piscinas, spa y clases dirigidas. En GOfit Plaza Elíptica, la cuota mensual sin permanencia cuesta 61,62 € al mes y el Plan Plus 68,12 €, más 33,50 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
 </div>
 
 </div>

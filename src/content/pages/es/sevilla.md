@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Sevilla con flexibilidad"
-seoTitle: "ClassPass Sevilla: entrenar sin permanencia"
+seoTitle: "Gimnasio sin permanencia en Sevilla"
 path: "/es/sevilla/"
-description: "¿No quieres atarte a un solo gimnasio? En Sevilla puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Sevilla puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -75,7 +75,7 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
-<p class="meer-aanbieders">Y también: Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym, GOfit y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -235,6 +235,34 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 <h2 id="otros">Otros gimnasios en Sevilla</h2>
 
 <div class="kolommen vier">
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-sevilla">Synergym</h3>
+
+En Sevilla, Synergym tiene clubes en Sevilla Este, Rosaleda, Nervión, Triana (Salado y Tejares) y Bellavista. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+<div id="go-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+<h3 id="go-fit-sevilla">GOfit</h3>
+
+GOfit tiene un centro en Sevilla, en la avenida José Laguillo, con piscinas, spa y clases dirigidas. La cuota mensual sin permanencia cuesta 52,74 € al mes y el Plan Plus 59,24 €, más 37,19 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
+</div>
+
+</div>
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 

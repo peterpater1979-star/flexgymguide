@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Málaga con flexibilidad"
-seoTitle: "ClassPass Málaga: entrenar sin permanencia"
+seoTitle: "Gimnasio sin permanencia en Málaga"
 path: "/es/malaga/"
-description: "¿No quieres atarte a un solo gimnasio? En Málaga puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Málaga puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -47,7 +47,7 @@ Cadena de gimnasios económica con clubes en toda España.
 
 </div>
 
-<p class="meer-aanbieders">Y también: ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: ON AIR, Anytime Fitness, Synergym, GOfit y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -176,6 +176,34 @@ En Málaga, Anytime Fitness tiene un club en la avenida de Velázquez. Cada club
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-malaga">Synergym</h3>
+
+En Málaga, Synergym tiene clubes en Los Tilos, Guindos, Trinidad y Reding. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+<div id="go-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+<h3 id="go-fit-malaga">GOfit</h3>
+
+En Málaga, GOfit tiene dos centros: Huelin y Segalerva. Con piscinas, spa y clases dirigidas. Cuota mensual sin permanencia, de 51,30 a 61,62 € al mes según el centro.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
 </div>
 
 </div>
