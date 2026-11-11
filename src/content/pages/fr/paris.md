@@ -327,7 +327,7 @@ Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la 
 
 <h3 id="neoness-paris">Neoness</h3>
 
-À Paris, Neoness a 19 clubs, entre autres Bourse-Opéra, Châtelet-Montorgueil, Madeleine, République, Bastille, Montparnasse, Batignolles, Beaugrenelle et Nation, et aussi à Boulogne-Billancourt, La Défense, Asnières, Colombes, Ivry-sur-Seine, Kremlin-Villejuif et Fontenay-sous-Bois. Ici, Access coûte 34,99 € et Prime 39,99 € toutes les 4 semaines avec engagement, Prime sans engagement dès 49,99 €, plus 49 € de frais d’adhésion.
+À Paris, Neoness a 19 clubs, entre autres Bourse-Opéra, Châtelet-Montorgueil, Madeleine, République, Bastille, Montparnasse, Batignolles, Beaugrenelle et Nation, et aussi à Boulogne-Billancourt, La Défense, Asnières, Colombes, Ivry-sur-Seine, Kremlin-Villejuif et Fontenay-sous-Bois. Dans Paris, à La Défense, Boulogne, Asnières et Ivry, Access coûte 34,99 € et Prime 39,99 € toutes les 4 semaines avec engagement d’un an, Prime sans engagement dès 49,99 €. Ailleurs, c’est 5 € de moins. Tu ajoutes 49 € de frais d’adhésion.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>

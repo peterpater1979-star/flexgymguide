@@ -21,7 +21,7 @@ Neoness est une chaîne de salles de sport à petit prix, avec plus de 30 clubs,
 | **Type** | Salle de sport à petit prix, avec cours collectifs selon la formule |
 | **Clubs** | Environ 270 dans le réseau Neoness et Keepcool |
 | **Prix** | Dès 29,99 € toutes les 4 semaines (Access) |
-| **Engagement** | 52 semaines (Access), 56 semaines (Prime), 6 mois (Platinum) |
+| **Engagement** | 52 semaines (Access et Prime), 6 mois (Platinum) |
 | **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Prime dès 44,99 € toutes les 4 semaines, au club |
 | **Frais d’adhésion** | 49 €, plus 9,90 € par an pour l’entretien |
 | **En ligne** | <span class="ja" aria-hidden="true">✓</span> Plus de 500 cours en vidéo à la demande |
@@ -34,7 +34,7 @@ Neoness est une chaîne de salles de sport à petit prix, avec plus de 30 clubs,
 | Formule | Prix | Engagement | Ce que tu as en plus |
 | --- | --- | --- | --- |
 | **Access** | 29,99 € toutes les 4 semaines | 52 semaines | Accès aux clubs et vidéos à la demande |
-| **Prime** | 34,99 € toutes les 4 semaines | 56 semaines | Cours collectifs illimités, carte duo, pause vacances |
+| **Prime** | 34,99 € toutes les 4 semaines | 52 semaines | Cours collectifs illimités, carte duo, pause vacances |
 | **Prime sans engagement** | Dès 44,99 € toutes les 4 semaines | Aucun, préavis de 4 semaines | Comme Prime ; inscription au club |
 | **Platinum** | 159,20 € par mois | 6 mois | Tout Prime, plus une séance de coaching individuel par semaine |
 
