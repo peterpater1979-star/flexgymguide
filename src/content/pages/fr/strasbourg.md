@@ -122,17 +122,9 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Dans le centre (Grande Île, Neudorf) et au boulevard de Nancy, et aussi au nord et à l’ouest de la ville (Lampertheim, Souffelweyersheim, Wiwersheim). Une sélection par sport, entre autres :
+Dans le centre (Grande Île, Neudorf) et au boulevard de Nancy, et aussi au nord et à l’ouest de la ville (Lampertheim, Souffelweyersheim, Wiwersheim). Les studios par quartier et par sport sont sur ClassPass à Strasbourg.
 
-- **[Pilates](/go/classpass-fr-strasbourg-pilates/?epi=fgg-fr-strasbourg)** : Pilates Reformer chez The New Me ruelle des Pelletiers et chez Core & Cup à Wiwersheim, Pilates classique chez Harmonie Pilates rue des Orfèvres, et aussi Studio Pilates Pascalin à Souffelweyersheim et POSES à Lampertheim
-- **[Yoga](/go/classpass-fr-strasbourg-yoga/?epi=fgg-fr-strasbourg)** : Swedish Fit rue des Greniers et Core & Cup à Wiwersheim
-- **[Barre](/go/classpass-fr-strasbourg-barre/?epi=fgg-fr-strasbourg)** : POSES à Lampertheim
-- **[HIIT](/go/classpass-fr-strasbourg-hiit/?epi=fgg-fr-strasbourg)** : O’Zone Hiit Studios boulevard de Nancy, avec boxing, cycling et Pilates en groupe
-- **[Boxe](/go/classpass-fr-strasbourg-boxe/?epi=fgg-fr-strasbourg)** : O’Zone Hiit Studios et Cercle Boxing Strasbourg à Lampertheim (boxe sur sacs à eau et bootcamp)
-- **[Renforcement et bootcamp](/go/classpass-fr-strasbourg-bootcamp/?epi=fgg-fr-strasbourg)** : Swedish Fit à Neudorf (rue du Lazaret et rue de la Charité) et Cercle Boxing Strasbourg
-- **[Accès à la salle](/go/classpass-fr-strasbourg-salle/?epi=fgg-fr-strasbourg)** : à voir selon les créneaux du moment
-
-[Voir les studios à Strasbourg sur ClassPass](/go/classpass-fr-strasbourg/?epi=fgg-fr-strasbourg)
+[Voir les studios à Strasbourg par quartier et par sport](/fr/classpass-strasbourg/)
 
 ### Ce que tu as
 
