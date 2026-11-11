@@ -2,7 +2,7 @@
 title: "Magic Form : formules, prix et sans engagement"
 seoTitle: "Magic Form : tarifs et prix des abonnements"
 path: "/fr/magic-form/"
-description: "Prix Magic Form : Magic One dès 30 €, Magic+ 40 € toutes les 4 semaines avec engagement, Magic Full sans engagement 50 €. Droits d’entrée, carte de membre et options."
+description: "Prix Magic Form : Magic One dès 30 €, Magic+ 40 € toutes les 4 semaines avec engagement, Magic Full sans engagement 50 €. Droits d’entrée, options et 30 salles."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -12,13 +12,14 @@ kicker: "Fournisseur : salle de sport"
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
 
-Magic Form est une chaîne de salles de sport avec cardio, musculation et, selon la formule, des cours collectifs avec coachs. Tu choisis entre Magic One pour un seul club, Magic+ avec plusieurs clubs et deux options, et Magic Full avec toutes les options. Tu peux t’engager pour 52 semaines et payer 10 € de moins toutes les 4 semaines, ou rester sans engagement.
+Magic Form est une chaîne de 30 salles de sport, surtout en Île-de-France, avec cardio, musculation et, selon la formule, des cours collectifs avec coachs. Tu choisis entre Magic One pour un seul club, Magic+ avec plusieurs clubs et deux options, et Magic Full avec toutes les options. Tu peux t’engager pour 52 semaines et payer 10 € de moins toutes les 4 semaines, ou rester sans engagement.
 
 <h2 id="resume">En bref</h2>
 
 | | Magic Form |
 | --- | --- |
 | **Type** | Salle de sport avec cardio, musculation et cours collectifs selon la formule |
+| **Clubs** | 30, dont 24 en Île-de-France |
 | **Prix** | Dès 30 € toutes les 4 semaines (Magic One avec engagement) |
 | **Engagement** | 52 semaines, ou sans engagement |
 | **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Magic One 40 €, Magic+ et Magic Full 50 € toutes les 4 semaines |
@@ -44,15 +45,19 @@ Prix toutes les 4 semaines. Pour toutes les formules, tu paies 40 € de droits 
 
 <h2 id="villes">Dans quelles villes ?</h2>
 
-Magic Form a des salles dans plusieurs villes, entre autres :
+Magic Form a 30 salles : 24 en Île-de-France et 6 ailleurs en France.
 
 <ul class="stedenlijst">
+<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">12e (rue des Fonds Verts) et 14e (rue Pierre Larousse)</span></li>
+<li><a href="/fr/bordeaux/"><strong>Bordeaux</strong></a> <span class="klein">cours d’Albret, et Le Taillan-Médoc</span></li>
+<li><a href="/fr/angers/"><strong>Angers</strong></a> <span class="klein">boulevard Gaston Birgé</span></li>
 <li><a href="/fr/dijon/"><strong>Dijon</strong></a> <span class="klein">boulevard Carnot</span></li>
-<li><a href="/fr/troyes/"><strong>Troyes</strong></a> <span class="klein">boulevard du 14 Juillet</span></li>
-<li><a href="/fr/bussy-saint-georges/"><strong>Lagny-sur-Marne</strong></a> <span class="klein">avenue du Général Leclerc, près de Bussy-Saint-Georges et Montévrain</span></li>
+<li><a href="/fr/troyes/"><strong>Troyes</strong></a> <span class="klein">boulevard du 14 Juillet, et Romilly-sur-Seine</span></li>
 </ul>
 
-Les autres clubs et leurs horaires sont sur le site de Magic Form.
+**En Île-de-France**, aussi à Cachan, Choisy-le-Roi, Clamart, Courbevoie, Dourdan, Épône, Gif-sur-Yvette, Le Bourget, Le Plessis-Trévise, Le Raincy, Massy, Mennecy, Meudon, Montreuil, Mormant, Nemours (Saint-Pierre-lès-Nemours), Provins, Saint-Maur-des-Fossés, Sucy-en-Brie, Versailles, Villeneuve-le-Roi et Vitry-sur-Seine.
+
+Avec Magic+ et Magic Full, tu as accès à plusieurs clubs ; avec Magic One et l’Abo Jeune, seulement à ton club d’inscription.
 
 <h2 id="choix">Magic Form ou ClassPass ?</h2>
 
@@ -97,6 +102,6 @@ Dès 30 € toutes les 4 semaines pour Magic One avec engagement, et 20 € pour
 <details>
 <summary>Magic Form est-il sur ClassPass ?</summary>
 
-Certaines salles Magic Form sont sur ClassPass, par exemple à Dijon, à Troyes et à Lagny-sur-Marne. Les salles qui participent en ce moment sont dans l’app ClassPass.
+Certaines salles Magic Form sont sur ClassPass, par exemple à Dijon et à Troyes. Les salles qui participent en ce moment sont dans l’app ClassPass.
 
 </details>
