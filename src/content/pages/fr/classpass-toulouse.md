@@ -86,6 +86,6 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - [Faire du sport à Toulouse](/fr/toulouse/)
 - [Salle de sport sans engagement à Toulouse](/fr/salle-de-sport-sans-engagement-toulouse/)
 - [Les crédits ClassPass expliqués](/fr/credits-classpass/) · [Essayer ClassPass](/fr/essai-classpass/)
-- [ClassPass à Lyon](/fr/classpass-lyon/) · [ClassPass à Marseille](/fr/classpass-marseille/)
+- [ClassPass à Montpellier](/fr/classpass-montpellier/) · [ClassPass à Lyon](/fr/classpass-lyon/) · [ClassPass à Marseille](/fr/classpass-marseille/)
 
 </details>
