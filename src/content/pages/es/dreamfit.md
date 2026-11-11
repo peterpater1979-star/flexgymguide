@@ -63,6 +63,8 @@ Dreamfit tiene también clubes en Sant Boi de Llobregat y L’Hospitalet (cerca 
 - **Cómo:** en la recepción de tu club o en el área personal de la web de Dreamfit. Según sus condiciones, una baja por otro canal, como el correo electrónico, no vale.
 - **Pausa:** Dreamfit no tiene excedencia ni congelación de la cuota, tampoco por salud o traslado. Si vuelves después de una baja, pagas de nuevo la inscripción.
 
+Todo el detalle: [Darse de baja en Dreamfit](/es/baja-dreamfit/).
+
 <p class="klein">Fuente: preguntas frecuentes y condiciones de dreamfit.es (noviembre de 2026). Comprueba las condiciones de tu contrato.</p>
 
 <h2 id="eleccion">¿Dreamfit, VivaGym o ClassPass?</h2>

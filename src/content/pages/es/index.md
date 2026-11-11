@@ -333,6 +333,7 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 - **[Darse de baja en Synergym](/es/baja-synergym/)** · plazo y excedencia
 - **[Darse de baja en Fitness Park](/es/baja-fitness-park/)** · preaviso y permanencia
 - **[Darse de baja en VivaGym](/es/baja-vivagym/)** · plazo y app
+- **[Darse de baja en Dreamfit](/es/baja-dreamfit/)** · plazo y sin excedencia
 - **[Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/)** · opciones mes a mes
 - **[Gimnasio sin permanencia en Valencia](/es/gimnasio-sin-permanencia-valencia/)** · opciones mes a mes
 - **[Gimnasio sin permanencia en Sevilla](/es/gimnasio-sin-permanencia-sevilla/)** · opciones mes a mes
