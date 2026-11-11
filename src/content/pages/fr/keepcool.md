@@ -128,7 +128,7 @@ Moins cher, avec plus de 300 clubs en France. Lis [Tout sur Basic-Fit](/fr/basic
 
 ### ClassPass
 
-Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Certaines salles Keepcool sont aussi sur ClassPass, entre autres à Puteaux, à Marseille et à Plan de Campagne. Lis [Tout sur ClassPass](/fr/classpass/).
+Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 
@@ -154,6 +154,13 @@ Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € san
 <summary>Puis-je essayer Keepcool gratuitement ?</summary>
 
 Oui. Tu peux faire une séance d’essai gratuite par an, dans la salle de ton choix, avec un coach.
+
+</details>
+
+<details>
+<summary>Keepcool est-il sur ClassPass ?</summary>
+
+Certaines salles Keepcool sont sur ClassPass, par exemple à Puteaux, à Marseille (5e et Rabatau) et à Plan de Campagne. Les salles qui participent en ce moment sont dans l’app ClassPass.
 
 </details>
 

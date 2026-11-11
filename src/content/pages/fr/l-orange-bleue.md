@@ -100,7 +100,7 @@ Aussi des coachs dans la salle, avec des cours en petits groupes, et une formule
 
 ### ClassPass
 
-Sans engagement, idéal si tu aimes varier les studios. Certaines salles L’Orange bleue sont aussi sur ClassPass. Lis [Tout sur ClassPass](/fr/classpass/).
+Sans engagement, idéal si tu aimes varier les studios. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 

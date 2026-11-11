@@ -87,7 +87,7 @@ Des coachs dans la salle et des cours en petits groupes, plus de 270 salles. Lis
 
 ### ClassPass
 
-Idéal si tu aimes varier les studios. À Lyon, L’Appart Fitness est aussi sur ClassPass. Lis [Tout sur ClassPass](/fr/classpass/).
+Idéal si tu aimes varier les studios. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 
