@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Málaga"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -45,9 +45,77 @@ Cadena de gimnasios económica con clubes en toda España.
 
 </div>
 
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
+
+<h3 id="on-air-malaga">ON AIR</h3>
+
+En Málaga, ON AIR tiene dos gimnasios en el centro: Armengual y Soho. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
 </div>
 
-<p class="meer-aanbieders">Y también: ON AIR, Anytime Fitness, Synergym, GOfit y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
+
+<h3 id="anytime-fitness-malaga">Anytime Fitness</h3>
+
+En Málaga, Anytime Fitness tiene un club en la avenida de Velázquez. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-malaga">Synergym</h3>
+
+En Málaga, Synergym tiene clubes en Los Tilos, Guindos, Trinidad y Reding. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+<div id="go-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+<h3 id="go-fit-malaga">GOfit</h3>
+
+En Málaga, GOfit tiene dos centros: Huelin y Segalerva. Con piscinas, spa y clases dirigidas. Cuota mensual sin permanencia, de 51,30 a 61,62 € al mes según el centro.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-malaga">Urban Sports Club</h3>
+
+Urban Sports Club también está en Málaga. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -145,86 +213,9 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El c
 
 </div>
 
-<h2 id="otros">Otros gimnasios en Málaga</h2>
-
-<div class="kolommen vier">
-
-<div id="on-air" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
-
-<h3 id="on-air-malaga">ON AIR</h3>
-
-En Málaga, ON AIR tiene dos gimnasios en el centro: Armengual y Soho. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
-</div>
-
-</div>
-
-<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
-
-<h3 id="anytime-fitness-malaga">Anytime Fitness</h3>
-
-En Málaga, Anytime Fitness tiene un club en la avenida de Velázquez. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
-</div>
-
-</div>
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-malaga">Synergym</h3>
-
-En Málaga, Synergym tiene clubes en Los Tilos, Guindos, Trinidad y Reding. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
-<div id="go-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
-
-<h3 id="go-fit-malaga">GOfit</h3>
-
-En Málaga, GOfit tiene dos centros: Huelin y Segalerva. Con piscinas, spa y clases dirigidas. Cuota mensual sin permanencia, de 51,30 a 61,62 € al mes según el centro.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-malaga">Urban Sports Club</h3>
-
-Urban Sports Club también está en Málaga. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
-
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

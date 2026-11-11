@@ -14,7 +14,7 @@ Pas envie d’être lié à une seule salle ? Au Mans, tu peux réserver des cou
 
 <h2 id="en-bref">En bref</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -59,9 +59,63 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
+
+<h3 id="l-orange-bleue-le-mans">L’Orange bleue</h3>
+
+Au Mans, L’Orange bleue a deux salles : Antarès et Le Mans ouest. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
 
-<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, Gigafit et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+</div>
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
+
+<h3 id="on-air-le-mans">ON AIR</h3>
+
+Au Mans, ON AIR a un club au nord de la ville. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div id="gigafit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gigafit"><span>Salle de sport</span></div>
+
+<h3 id="gigafit-le-mans">Gigafit</h3>
+
+Au Mans, Gigafit a un club au nord, à Saint-Pavace : de 30 € (étudiants) à 40 € toutes les 4 semaines, avec engagement d’un an. Les frais d’inscription sont en général de 39 €.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-le-mans">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Le Mans. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="apercu">
 
@@ -185,68 +239,6 @@ Keepcool a une salle au Mans. C’est une chaîne française avec plus de 270 sa
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="autres">Autres salles à Le Mans</h2>
-
-<div class="kolommen vier">
-
-<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
-
-<h3 id="l-orange-bleue-le-mans">L’Orange bleue</h3>
-
-Au Mans, L’Orange bleue a deux salles : Antarès et Le Mans ouest. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
-</div>
-
-</div>
-
-<div id="on-air" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
-
-<h3 id="on-air-le-mans">ON AIR</h3>
-
-Au Mans, ON AIR a un club au nord de la ville. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
-</div>
-
-</div>
-
-<div id="gigafit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gigafit"><span>Salle de sport</span></div>
-
-<h3 id="gigafit-le-mans">Gigafit</h3>
-
-Au Mans, Gigafit a un club au nord, à Saint-Pavace : de 30 € (étudiants) à 40 € toutes les 4 semaines, avec engagement d’un an. Les frais d’inscription sont en général de 39 €.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-le-mans">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Le Mans. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>

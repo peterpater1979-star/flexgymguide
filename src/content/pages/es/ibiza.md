@@ -16,7 +16,7 @@ La oferta de ClassPass en Ibiza ciudad es más pequeña que en Palma, pero tiene
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -33,9 +33,21 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-ibiza">Urban Sports Club</h3>
+
+Urban Sports Club también está en Ibiza ciudad. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
-<p class="meer-aanbieders">Y también: Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -114,30 +126,9 @@ Una oferta más pequeña, repartida por Eivissa ciudad y Marina Botafoch, y tamb
 
 </div>
 
-<h2 id="otros">Otros gimnasios en Ibiza ciudad</h2>
-
-<div class="kolommen vier">
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-ibiza">Urban Sports Club</h3>
-
-Urban Sports Club también está en Ibiza ciudad. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
-
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

@@ -14,7 +14,7 @@ Don't want to be tied to one gym? In Birmingham you can join a low-cost gym with
 
 <h2 id="glance">At a glance</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -58,9 +58,21 @@ Budget gym chain with 7 gyms in Birmingham, most open 24/7. No contract, from £
 
 </div>
 
+<div id="david-lloyd" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
+
+<h3>David Lloyd</h3>
+
+David Lloyd has a health club in Great Barr, Birmingham, with an indoor and a heated outdoor pool, 10 tennis courts, padel, a sauna and a steam room. Each club sets its own price, with Platinum, Club Plus or Club memberships.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
 </div>
 
-<p class="meer-aanbieders">And also: David Lloyd. <a href="#other">See the other gyms</a></p>
+</div>
+
+</div>
 
 <div id="overview">
 
@@ -186,26 +198,6 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 7 gyms in 
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="other">Other gyms in Birmingham</h2>
-
-<div class="kolommen vier">
-
-<div id="david-lloyd" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
-
-<h3>David Lloyd</h3>
-
-David Lloyd has a health club in Great Barr, Birmingham, with an indoor and a heated outdoor pool, 10 tennis courts, padel, a sauna and a steam room. Each club sets its own price, with Platinum, Club Plus or Club memberships.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
 </div>
 
 </div>

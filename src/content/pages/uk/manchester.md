@@ -14,7 +14,7 @@ Don't want to be tied to one gym? In Manchester you can use a fitness pass at st
 
 <h2 id="glance">At a glance</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -58,9 +58,63 @@ Budget gym chain with 9 gyms in Manchester, most open 24/7. No contract, from £
 
 </div>
 
+<div id="david-lloyd" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
+
+<h3>David Lloyd</h3>
+
+David Lloyd has two health clubs in Manchester: Manchester North and Manchester Trafford City. Trafford City has an indoor and an outdoor pool, indoor and outdoor tennis courts, padel and a spa. Each club sets its own price, with Platinum, Club Plus or Club memberships.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
 </div>
 
-<p class="meer-aanbieders">And also: David Lloyd, Virgin Active, Anytime Fitness, Village Gym. <a href="#other">See the other gyms</a></p>
+</div>
+
+<div id="virgin-active" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-virgin-active"><span>Health club with spa</span></div>
+
+<h3>Virgin Active</h3>
+
+Virgin Active has a health club at Salford Quays, near MediaCity, with a 20-metre pool, a spa and unlimited classes such as Reformer Pilates, yoga and cycle. Each club sets its own price, with a 12-month or a rolling monthly membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
+</div>
+
+</div>
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
+
+<h3>Anytime Fitness</h3>
+
+Anytime Fitness has a gym in Manchester Central that is open 24/7, with classes included. A 12-month agreement costs £39.95 a month, a rolling monthly contract £47.95 and a student membership £35.95, plus a one-off joining fee of £30.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="village-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+
+<h3>Village Gym</h3>
+
+Village Gym has four health clubs around Manchester: in Ashton Moss, Bury, Cheadle and Hyde. Each has a gym floor, an indoor pool, a sauna and more than 100 classes a week, and Cheadle, Hyde and Bury also have squash courts. A day pass costs £25 at Cheadle. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="overview">
 
@@ -185,69 +239,6 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 9 gyms in 
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
-</div>
-
-</div>
-
-
-</div>
-
-<h2 id="other">Other gyms in Manchester</h2>
-
-<div class="kolommen vier">
-
-<div id="david-lloyd" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
-
-<h3>David Lloyd</h3>
-
-David Lloyd has two health clubs in Manchester: Manchester North and Manchester Trafford City. Trafford City has an indoor and an outdoor pool, indoor and outdoor tennis courts, padel and a spa. Each club sets its own price, with Platinum, Club Plus or Club memberships.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
-</div>
-
-</div>
-
-<div id="virgin-active" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-virgin-active"><span>Health club with spa</span></div>
-
-<h3>Virgin Active</h3>
-
-Virgin Active has a health club at Salford Quays, near MediaCity, with a 20-metre pool, a spa and unlimited classes such as Reformer Pilates, yoga and cycle. Each club sets its own price, with a 12-month or a rolling monthly membership.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
-</div>
-
-</div>
-
-<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
-
-<h3>Anytime Fitness</h3>
-
-Anytime Fitness has a gym in Manchester Central that is open 24/7, with classes included. A 12-month agreement costs £39.95 a month, a rolling monthly contract £47.95 and a student membership £35.95, plus a one-off joining fee of £30.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
-</div>
-
-</div>
-
-<div id="village-gym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
-
-<h3>Village Gym</h3>
-
-Village Gym has four health clubs around Manchester: in Ashton Moss, Bury, Cheadle and Hyde. Each has a gym floor, an indoor pool, a sauna and more than 100 classes a week, and Cheadle, Hyde and Bury also have squash courts. A day pass costs £25 at Cheadle. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
 </div>
 
 </div>

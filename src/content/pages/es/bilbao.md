@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Bilbao"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -73,9 +73,35 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-bilbao">Synergym</h3>
+
+En Bilbao, Synergym tiene clubes en Deusto, Indautxu, Sarriko y Ametzola, y también en Getxo y Portugalete. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-bilbao">Urban Sports Club</h3>
+
+Urban Sports Club también está en Bilbao. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -230,44 +256,9 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
-<h2 id="otros">Otros gimnasios en Bilbao</h2>
-
-<div class="kolommen vier">
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-bilbao">Synergym</h3>
-
-En Bilbao, Synergym tiene clubes en Deusto, Indautxu, Sarriko y Ametzola, y también en Getxo y Portugalete. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-bilbao">Urban Sports Club</h3>
-
-Urban Sports Club también está en Bilbao. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
-
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

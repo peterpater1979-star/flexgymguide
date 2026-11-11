@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Madrid"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -73,9 +73,91 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Gimnasio con entrenadores</span></div>
+
+<h3 id="l-orange-bleue-madrid">L’Orange bleue</h3>
+
+En Madrid, L’Orange bleue tiene cuatro gimnasios: Cuatro Caminos, Ciudad Lineal, Valverde y Vicálvaro, y otro en Fuenlabrada. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
 </div>
 
-<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness, Synergym, GOfit y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
+
+<h3 id="on-air-madrid">ON AIR</h3>
+
+En Madrid, ON AIR tiene un gimnasio en Delicias (Arganzuela). Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
+
+</div>
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
+
+<h3 id="anytime-fitness-madrid">Anytime Fitness</h3>
+
+En Madrid, Anytime Fitness tiene seis clubes: Arganzuela, Bravo Murillo, Ciudad Universitaria, Goya, Hortaleza e Imperial. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-madrid">Synergym</h3>
+
+En Madrid, Synergym tiene clubes en Almagro, Prosperidad, Retiro y Santa Eugenia, y también en Alcobendas, Getafe, Fuenlabrada y Torrejón. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+<div id="go-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+<h3 id="go-fit-madrid">GOfit</h3>
+
+En Madrid, GOfit tiene centros en Montecarmelo, Peñagrande, Plaza Elíptica y Vallehermoso, y alrededor en Alcalá de Henares, Majadahonda y Torrejón. Con piscinas, spa y clases dirigidas. En GOfit Plaza Elíptica, la cuota mensual sin permanencia cuesta 61,62 € al mes y el Plan Plus 68,12 €, más 33,50 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-madrid">Urban Sports Club</h3>
+
+Urban Sports Club también está en Madrid. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -221,100 +303,9 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
-<h2 id="otros">Otros gimnasios en Madrid</h2>
-
-<div class="kolommen vier">
-
-<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-l-orange-bleue"><span>Gimnasio con entrenadores</span></div>
-
-<h3 id="l-orange-bleue-madrid">L’Orange bleue</h3>
-
-En Madrid, L’Orange bleue tiene cuatro gimnasios: Cuatro Caminos, Ciudad Lineal, Valverde y Vicálvaro, y otro en Fuenlabrada. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
-</div>
-
-</div>
-
-<div id="on-air" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
-
-<h3 id="on-air-madrid">ON AIR</h3>
-
-En Madrid, ON AIR tiene un gimnasio en Delicias (Arganzuela). Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
-</div>
-
-</div>
-
-<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
-
-<h3 id="anytime-fitness-madrid">Anytime Fitness</h3>
-
-En Madrid, Anytime Fitness tiene seis clubes: Arganzuela, Bravo Murillo, Ciudad Universitaria, Goya, Hortaleza e Imperial. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
-</div>
-
-</div>
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-madrid">Synergym</h3>
-
-En Madrid, Synergym tiene clubes en Almagro, Prosperidad, Retiro y Santa Eugenia, y también en Alcobendas, Getafe, Fuenlabrada y Torrejón. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
-<div id="go-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
-
-<h3 id="go-fit-madrid">GOfit</h3>
-
-En Madrid, GOfit tiene centros en Montecarmelo, Peñagrande, Plaza Elíptica y Vallehermoso, y alrededor en Alcalá de Henares, Majadahonda y Torrejón. Con piscinas, spa y clases dirigidas. En GOfit Plaza Elíptica, la cuota mensual sin permanencia cuesta 61,62 € al mes y el Plan Plus 68,12 €, más 33,50 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-madrid">Urban Sports Club</h3>
-
-Urban Sports Club también está en Madrid. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
-
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

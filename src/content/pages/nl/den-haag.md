@@ -14,7 +14,7 @@ Geen zin in een jaarcontract bij één sportschool? In Den Haag kun je met een s
 
 <h2 id="kort">In het kort</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -68,9 +68,35 @@ Voordelige sportschoolketen met 8 clubs in Den Haag, veel dag en nacht open.
 
 </div>
 
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Sportschool</span></div>
+
+<h3>Anytime Fitness</h3>
+
+Anytime Fitness heeft in Den Haag een club in Wateringse Veld, die 24 uur per dag open is. Met een jaarabonnement kost hij € 49,95 per 4 weken, met een halfjaarabonnement € 54,95.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
 </div>
 
-<p class="meer-aanbieders">En ook: Anytime Fitness en Urban Sports Club. <a href="#andere">Bekijk de andere sportscholen</a></p>
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club zit ook in Den Haag. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 <h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
@@ -207,40 +233,6 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
-</div>
-
-</div>
-
-<h2 id="andere">Andere sportscholen in Den Haag</h2>
-
-<div class="kolommen vier">
-
-<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-anytime-fitness"><span>Sportschool</span></div>
-
-<h3>Anytime Fitness</h3>
-
-Anytime Fitness heeft in Den Haag een club in Wateringse Veld, die 24 uur per dag open is. Met een jaarabonnement kost hij € 49,95 per 4 weken, met een halfjaarabonnement € 54,95.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
-
-<h3>Urban Sports Club</h3>
-
-Urban Sports Club zit ook in Den Haag. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
-</div>
-
 </div>
 
 </div>

@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Alicante"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -59,9 +59,35 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 </div>
 
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-alicante">Synergym</h3>
+
+En Alicante, Synergym tiene un club en Benalúa, y también en San Vicente del Raspeig. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-alicante">Urban Sports Club</h3>
+
+Urban Sports Club también está en Alicante. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -184,44 +210,9 @@ Fitness Park es una cadena de gimnasios francesa con 170 clubes en España. En e
 
 </div>
 
-<h2 id="otros">Otros gimnasios en Alicante</h2>
-
-<div class="kolommen vier">
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-alicante">Synergym</h3>
-
-En Alicante, Synergym tiene un club en Benalúa, y también en San Vicente del Raspeig. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-alicante">Urban Sports Club</h3>
-
-Urban Sports Club también está en Alicante. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
-
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

@@ -16,7 +16,7 @@ In Brussel vind je het ClassPass-aanbod vooral in Elsene, Etterbeek, Sint-Joost-
 
 <h2 id="kort">In het kort</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -56,6 +56,20 @@ Sportschoolketen met 8 clubs in Brussel, met fitness en groepslessen met een coa
 
 <div class="knoppen">
 <a class="knop" href="/be/jims/">Bekijk Jims</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club zit ook in Brussel. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
 </div>
 
 </div>
@@ -194,26 +208,6 @@ Nieuw bij ClassPass? Je begint met 14 dagen gratis en 10 work-outs.
 4. **Aan het einde** krijg je een herinnering per mail. Zeg je niet op, dan ga je over op het standaardabonnement: 35 credits voor € 49 per maand.
 
 De proefperiode is alleen voor nieuwe leden. Alles over de regels lees je in [ClassPass gratis proberen](/nl/classpass-proefperiode/).
-
-<h2 id="andere">Ook in Brussel</h2>
-
-<div class="kolommen vier">
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
-
-<h3>Urban Sports Club</h3>
-
-Urban Sports Club zit ook in Brussel. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
 
 ## Wat past bij jou?
 

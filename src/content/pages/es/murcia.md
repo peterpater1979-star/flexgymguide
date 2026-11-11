@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Murcia"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -59,9 +59,21 @@ Tres clubes con clases colectivas, con o sin permanencia.
 
 </div>
 
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-murcia">Synergym</h3>
+
+En Murcia, Synergym tiene cinco clubes: Centro, Ranero, Río Segura, Ronda Sur y Juan XXIII. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -165,26 +177,6 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="otros">Otros gimnasios en Murcia</h2>
-
-<div class="kolommen vier">
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-murcia">Synergym</h3>
-
-En Murcia, Synergym tiene cinco clubes: Centro, Ranero, Río Segura, Ronda Sur y Juan XXIII. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
 </div>

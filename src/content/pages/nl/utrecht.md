@@ -14,7 +14,7 @@ Geen zin in een jaarcontract bij één sportschool? In Utrecht kun je met een sp
 
 <h2 id="kort">In het kort</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -68,9 +68,35 @@ Voordelige sportschoolketen met 6 clubs in Utrecht, veel dag en nacht open.
 
 </div>
 
+<div id="big-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
+
+<h3>BigGym</h3>
+
+BigGym heeft in Utrecht een grote gym aan de Proostwetering, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
 </div>
 
-<p class="meer-aanbieders">En ook: BigGym en Urban Sports Club. <a href="#andere">Bekijk de andere sportscholen</a></p>
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club zit ook in Utrecht. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 <h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
@@ -207,40 +233,6 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
-</div>
-
-</div>
-
-<h2 id="andere">Andere sportscholen in Utrecht</h2>
-
-<div class="kolommen vier">
-
-<div id="big-gym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
-
-<h3>BigGym</h3>
-
-BigGym heeft in Utrecht een grote gym aan de Proostwetering, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
-
-<h3>Urban Sports Club</h3>
-
-Urban Sports Club zit ook in Utrecht. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
-</div>
-
 </div>
 
 </div>

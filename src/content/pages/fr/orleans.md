@@ -14,7 +14,7 @@ Pas envie d’être lié à une seule salle ? À Orléans, tu peux réserver des
 
 <h2 id="en-bref">En bref</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -59,9 +59,49 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
+
+<h3 id="l-orange-bleue-orleans">L’Orange bleue</h3>
+
+Près d’Orléans, L’Orange bleue a une salle à Saint-Jean-de-Braye. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
 
-<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+</div>
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
+
+<h3 id="on-air-orleans">ON AIR</h3>
+
+À Orléans, ON AIR a un club dans le centre. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-orleans">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Orléans. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="apercu">
 
@@ -186,54 +226,6 @@ Basic-Fit a des salles à Orléans. C’est une chaîne de salles à petit prix,
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="autres">Autres salles à Orléans</h2>
-
-<div class="kolommen vier">
-
-<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
-
-<h3 id="l-orange-bleue-orleans">L’Orange bleue</h3>
-
-Près d’Orléans, L’Orange bleue a une salle à Saint-Jean-de-Braye. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
-</div>
-
-</div>
-
-<div id="on-air" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
-
-<h3 id="on-air-orleans">ON AIR</h3>
-
-À Orléans, ON AIR a un club dans le centre. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-orleans">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Orléans. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>

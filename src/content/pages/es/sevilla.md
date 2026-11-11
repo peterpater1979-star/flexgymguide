@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Sevilla"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -73,9 +73,49 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-sevilla">Synergym</h3>
+
+En Sevilla, Synergym tiene clubes en Sevilla Este, Rosaleda, Nervión, Triana (Salado y Tejares) y Bellavista. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym, GOfit y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+<div id="go-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+<h3 id="go-fit-sevilla">GOfit</h3>
+
+GOfit tiene un centro en Sevilla, en la avenida José Laguillo, con piscinas, spa y clases dirigidas. La cuota mensual sin permanencia cuesta 52,74 € al mes y el Plan Plus 59,24 €, más 37,19 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-sevilla">Urban Sports Club</h3>
+
+Urban Sports Club también está en Sevilla. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -230,58 +270,9 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
-<h2 id="otros">Otros gimnasios en Sevilla</h2>
-
-<div class="kolommen vier">
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-sevilla">Synergym</h3>
-
-En Sevilla, Synergym tiene clubes en Sevilla Este, Rosaleda, Nervión, Triana (Salado y Tejares) y Bellavista. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
-<div id="go-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
-
-<h3 id="go-fit-sevilla">GOfit</h3>
-
-GOfit tiene un centro en Sevilla, en la avenida José Laguillo, con piscinas, spa y clases dirigidas. La cuota mensual sin permanencia cuesta 52,74 € al mes y el Plan Plus 59,24 €, más 37,19 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-sevilla">Urban Sports Club</h3>
-
-Urban Sports Club también está en Sevilla. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
-
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

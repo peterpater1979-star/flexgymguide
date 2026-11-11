@@ -14,7 +14,7 @@ Geen zin in een jaarcontract bij één sportschool? In Groningen kun je met een 
 
 <h2 id="kort">In het kort</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -68,9 +68,21 @@ Voordelige sportschoolketen met 6 clubs in Groningen, veel dag en nacht open.
 
 </div>
 
+<div id="big-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
+
+<h3>BigGym</h3>
+
+BigGym heeft in Groningen een grote gym aan de Protonstraat, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
 </div>
 
-<p class="meer-aanbieders">En ook: BigGym. <a href="#andere">Bekijk de andere sportscholen</a></p>
+</div>
+
+</div>
 
 <h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
@@ -136,7 +148,6 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 </div>
-
 
 </div>
 
@@ -214,26 +225,6 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
-</div>
-
-</div>
-
-<h2 id="andere">Andere sportscholen in Groningen</h2>
-
-<div class="kolommen vier">
-
-<div id="big-gym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
-
-<h3>BigGym</h3>
-
-BigGym heeft in Groningen een grote gym aan de Protonstraat, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
-</div>
-
 </div>
 
 </div>
@@ -347,6 +338,5 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 </div>
 
 </div>
-
 
 </details>
