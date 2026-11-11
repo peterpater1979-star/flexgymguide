@@ -256,7 +256,7 @@ En Sevilla, Synergym tiene clubes en Sevilla Este, Rosaleda, Nervión, Triana (S
 
 <h3 id="go-fit-sevilla">GOfit</h3>
 
-GOfit tiene un centro en Sevilla, con piscinas, spa y clases dirigidas. Cuota mensual sin permanencia, 51,30 € al mes en Ciudad Real; el precio cambia según el centro.
+GOfit tiene un centro en Sevilla, con piscinas, spa y clases dirigidas. Cuota mensual sin permanencia, de 51,30 a 52,74 € al mes según el centro.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>

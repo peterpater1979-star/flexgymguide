@@ -25,9 +25,9 @@ kicker: "Guía España"
 | **[Basic-Fit](/es/basic-fit/) Flex** | Desde 29,98 € cada 4 semanas | 19,99 € | 4 semanas de preaviso |
 | **[Fitness Park](/es/fitness-park/)** | Classic 37 €, Ultimate 57 € cada 4 semanas | 50 € | 4 semanas de preaviso |
 | **[ON AIR](/es/on-air/)** | Desde 31,96 € cada 4 semanas | 30 €, más 10 € al año | 4 semanas de preaviso |
-| **[GOfit](/es/go-fit/)** | Cuota mensual 51,30 €, Plan Plus 57,80 € al mes (mínimo 3 meses) | 51,30 € | Según el centro |
+| **[GOfit](/es/go-fit/)** | Cuota mensual de 51,30 a 52,74 €, Plan Plus de 57,80 a 59,24 € al mes (mínimo 3 meses) | 37,19 a 51,30 € | Según el centro |
 
-<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. GOfit: el centro de Ciudad Real. Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
+<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. GOfit: Ciudad Real y un centro de Madrid. Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
 
 <h2 id="pase">Un pase deportivo: varios gimnasios y estudios</h2>
 
@@ -78,7 +78,7 @@ Gimnasios de gama alta en Madrid, Barcelona, Málaga y Valencia, todas las cuota
 
 ### GOfit
 
-Centros deportivos grandes con piscinas, spa y clases, sobre todo en Madrid. La cuota mensual no tiene permanencia: 51,30 € al mes en Ciudad Real, más 51,30 € de matrícula. El Plan Plus, con acceso a otros centros, cuesta 57,80 € con un mínimo de 3 meses. Lee [Todo sobre GOfit](/es/go-fit/).
+Centros deportivos grandes con piscinas, spa y clases, sobre todo en Madrid. La cuota mensual no tiene permanencia: de 51,30 a 52,74 € al mes según el centro, más una matrícula de 37,19 a 51,30 €. El Plan Plus, con acceso a otros centros, cuesta de 57,80 a 59,24 € con un mínimo de 3 meses. Lee [Todo sobre GOfit](/es/go-fit/).
 
 ### ¿Y las demás?
 
