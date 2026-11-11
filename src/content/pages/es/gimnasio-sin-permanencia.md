@@ -88,7 +88,7 @@ En [Anytime Fitness](/es/anytime-fitness/), cada club fija su cuota y su permane
 
 ¿Buscas gimnasio en tu ciudad? En nuestras guías de ciudad encuentras los estudios y gimnasios de la zona, con ClassPass y las cadenas que hay allí.
 
-- [Madrid](/es/gimnasio-sin-permanencia-madrid/) · [Barcelona](/es/gimnasio-sin-permanencia-barcelona/) · [Valencia](/es/valencia/) · [Sevilla](/es/sevilla/) · [Málaga](/es/malaga/) · [Alicante](/es/alicante/) · [Bilbao](/es/bilbao/) · [Palma de Mallorca](/es/palma-de-mallorca/) · [Zaragoza](/es/zaragoza/)
+- [Madrid](/es/gimnasio-sin-permanencia-madrid/) · [Barcelona](/es/gimnasio-sin-permanencia-barcelona/) · [Valencia](/es/valencia/) · [Sevilla](/es/sevilla/) · [Málaga](/es/malaga/) · [Alicante](/es/alicante/) · [Bilbao](/es/bilbao/) · [Palma de Mallorca](/es/palma-de-mallorca/) · [Murcia](/es/murcia/) · [Zaragoza](/es/zaragoza/)
 - Todas las ciudades: [Entrenar sin permanencia en España](/es/)
 
 <h2 id="atencion">En qué fijarse</h2>

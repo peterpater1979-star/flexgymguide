@@ -12,7 +12,7 @@ kicker: "Proveedor: gimnasio"
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Gimnasio"></div>
 
-Synergym es una cadena española de gimnasios low cost, con clubes en toda España: de Madrid y Barcelona a Valencia, Sevilla, Málaga, Bilbao, [Zaragoza](/es/zaragoza/) y muchas ciudades medianas. Todas las cuotas son sin permanencia. Eliges entre entrenar solo en tu club o en todos los clubes Synergym.
+Synergym es una cadena española de gimnasios low cost, con clubes en toda España: de Madrid y Barcelona a Valencia, Sevilla, Málaga, Bilbao, [Zaragoza](/es/zaragoza/), [Murcia](/es/murcia/) y muchas ciudades medianas. Todas las cuotas son sin permanencia. Eliges entre entrenar solo en tu club o en todos los clubes Synergym.
 
 <h2 id="resumen">En resumen</h2>
 

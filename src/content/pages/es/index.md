@@ -108,6 +108,7 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 <li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
 <li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
 <li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/murcia/"><strong>Murcia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym</span></li>
 <li><a href="/es/zaragoza/"><strong>Zaragoza</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym</span></li>
 </ul>
 
