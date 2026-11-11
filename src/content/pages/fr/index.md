@@ -183,9 +183,9 @@ Environ 400 salles en France, en Espagne et au Portugal selon L’Orange bleue. 
 
 ### ON AIR
 
-Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 31,96 € toutes les 4 semaines, plus 50 € de frais d’inscription.
+Plus de 120 clubs selon ON AIR, surtout en France, avec beaucoup de matériel. Sans engagement annuel, dès 31,96 € toutes les 4 semaines, plus 50 € de frais d’inscription.
 
-- Idéal si tu veux beaucoup de matériel
+- Idéal si tu t’entraînes souvent
 - Préavis de 8 semaines
 - Accès à tous les clubs ON AIR
 
@@ -219,10 +219,10 @@ Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 
 
 ### Neoness
 
-Surtout en Île-de-France, avec accès à environ 270 clubs du réseau Neoness et Keepcool. Access 29,99 € ou Prime 34,99 € toutes les 4 semaines avec engagement, Prime sans engagement dès 44,99 €, plus 49 € de frais d’adhésion.
+Surtout en Île-de-France, avec accès à environ 270 clubs Neoness et Keepcool. Dès 29,99 € toutes les 4 semaines avec engagement, plus 49 € de frais d’adhésion.
 
-- Idéal si tu vas souvent à la salle toute l’année
-- Cours collectifs et pause vacances avec Prime
+- Idéal si tu vas souvent à la salle
+- Cours collectifs avec Prime
 - Prime aussi sans engagement, au club
 
 <div class="knoppen">
@@ -257,8 +257,9 @@ Surtout en Île-de-France, avec accès à environ 270 clubs du réseau Neoness e
 
 6 clubs à Paris et Boulogne, 2 à Nantes. Tu paies à la semaine : à Paris 24,99 € avec engagement de 52 semaines, ou 29,99 € sans engagement.
 
+- Idéal si tu veux payer à la semaine
 - Pass jour, semaine ou mois sans abonnement
-- Option ROD - HYROX
+- Une séance d’essai offerte
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
@@ -272,11 +273,11 @@ Surtout en Île-de-France, avec accès à environ 270 clubs du réseau Neoness e
 
 ### Urban Sports Club
 
-Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires. À Paris, Classic, la formule la plus choisie selon leur site, coûte 75 € par mois pour 10 visites.
+Un prix fixe par mois pour des check-ins dans des salles et studios partenaires. À Paris, Classic, la formule la plus choisie selon leur site, coûte 75 € par mois.
 
 - Idéal si tu veux un prix fixe par mois
-- Résiliable avec 3 jours de préavis
-- Cours en ligne et vidéos à la demande inclus
+- Résiliable chaque mois
+- Cours en ligne et vidéos à la demande
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>

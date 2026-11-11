@@ -138,7 +138,7 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 ### Urban Sports Club
 
-Ein fester Preis pro Monat, mit Check-ins bei Partnerstudios. In Berlin kostet Classic, laut ihrer Website die beliebteste Mitgliedschaft, 75 € im Monat, mit einem Besuch pro Tag. Monatlich kündbar.
+Ein fester Preis pro Monat für Check-ins bei Partnerstudios. Classic, laut Website am beliebtesten, kostet in Berlin 75 € im Monat. Monatlich kündbar.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
@@ -152,7 +152,7 @@ Ein fester Preis pro Monat, mit Check-ins bei Partnerstudios. In Berlin kostet C
 
 ### clever fit
 
-Nach Zahl der Studios die größte Fitnesskette Deutschlands, über 500 Studios. Preise je nach Studio, oft auch monatlich kündbar.
+Nach Zahl der Studios die größte Fitnesskette Deutschlands, mit über 500 Studios. Preise je nach Studio, oft auch monatlich kündbar.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
@@ -194,7 +194,7 @@ Fast 100 Clubs in Deutschland und über 1.700 in Europa. Ab 24,99 € pro 4 Woch
 
 ### JOHN REED
 
-Fitnessclubs mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatlich kündbar, 60 bis 80 € im Monat je nach Club.
+47 Fitnessclubs in 8 Ländern, mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatlich kündbar, 60 bis 80 € im Monat je nach Club.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
@@ -208,7 +208,7 @@ Fitnessclubs mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatli
 
 ### EASYFITNESS
 
-Über 200 Studios, vor allem in Norddeutschland. Ab 27,99 € im Monat, mit Flex-Tarif monatlich kündbar.
+Über 200 Studios, vor allem in Norddeutschland, mit Geräten, Cardio und Functional-Bereich. Ab 27,99 € im Monat, mit Flex-Tarif monatlich kündbar.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/easyfitness/">Alles über EASYFITNESS</a>
@@ -222,7 +222,7 @@ Fitnessclubs mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatli
 
 ### Mrs.Sporty
 
-Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training, Preise je nach Club.
+Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training in einer kleinen Gruppe, zwei- bis dreimal pro Woche. Preise je nach Club.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>

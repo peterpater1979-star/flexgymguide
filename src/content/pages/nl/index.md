@@ -199,11 +199,11 @@ Kleine sportscholen die dag en nacht open zijn, onder meer in Amsterdam, Rotterd
 
 ### Urban Sports Club
 
-Een vaste prijs per maand, met check-ins bij partnerlocaties. In Amsterdam kost Classic, volgens hun site het meest gekozen abonnement, € 75 per maand voor 10 bezoeken.
+Een vaste prijs per maand voor check-ins bij partnerlocaties. Classic, volgens hun site het meest gekozen, kost in Amsterdam € 75 per maand.
 
-- Goed als je een vaste prijs per maand wilt
-- Per maand opzegbaar, 3 dagen vooraf
-- Onlinelessen en video on demand inbegrepen
+- Goed als je een vaste prijs wilt
+- Per maand opzegbaar
+- Onlinelessen en video on demand
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>

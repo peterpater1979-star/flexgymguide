@@ -83,7 +83,7 @@ ClassPass har partnerstudier i flere byer, blandt andet:
 <li><a href="/dk/aarhus/"><strong>Aarhus</strong></a> <span class="klein">ClassPass · PureGym</span></li>
 </ul>
 
-I appen kan du se, hvilke studier og fitnesscentre i nærheden der er med.
+I appen kan du se, hvilke studier og fitnesscentre i nærheden der er med. Dine credits kan du også bruge, når du rejser, i over 30 lande.
 
 </div>
 

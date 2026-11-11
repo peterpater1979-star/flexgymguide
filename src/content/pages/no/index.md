@@ -58,11 +58,11 @@ En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finlan
 
 ### EVO
 
-Treningskjede med sentre over hele Norge, åpent hver dag 05–24. 439 kr i måneden uten binding.
+Treningskjede med sentre over hele Norge, åpent hver dag 05–24. 439 kr i måneden uten binding, eller årsmedlemskap fra 333 kr i måneden.
 
 - Bra hvis du vil trene billig og ofte
-- Ingen binding
-- Har ofte tilbud
+- Ingen binding på månedsmedlemskap
+- Åpent tidlig og sent, hver dag
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/evo/">Alt om EVO</a>
@@ -82,7 +82,7 @@ ClassPass har partnerstudioer i og rundt:
 <li><a href="/no/oslo/"><strong>Oslo</strong></a> <span class="klein">ClassPass · SATS · EVO</span></li>
 </ul>
 
-I appen ser du hvilke studioer og treningssentre i nærheten som er med.
+I appen ser du hvilke studioer og treningssentre i nærheten som er med. Kredittene dine kan du også bruke når du reiser, i over 30 land.
 
 </div>
 
