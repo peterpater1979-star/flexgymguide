@@ -91,7 +91,7 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym, L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym, Anytime Fitness, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
@@ -140,6 +140,24 @@ Cadena española con clubes en toda España, también en muchas ciudades mediana
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
+
+### Anytime Fitness
+
+Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 clubes en todo el mundo. Cada club fija su cuota: de media 49,90 € al mes según la cadena.
+
+- Ideal si entrenas a horas raras
+- Ideal si viajas mucho
+- Cuota y permanencia según el club
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-l-orange-bleue"><span>Gimnasio con monitores</span></div>
 
 ### L’Orange bleue
@@ -170,24 +188,6 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
-
-### Anytime Fitness
-
-Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 clubes en todo el mundo. Cada club fija su cuota: de media 49,90 € al mes según la cadena.
-
-- Ideal si entrenas a horas raras
-- Ideal si viajas mucho
-- Cuota y permanencia según el club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
 </div>
 
 </div>
