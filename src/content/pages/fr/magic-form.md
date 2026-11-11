@@ -26,7 +26,7 @@ Magic Form est une chaîne de 30 salles de sport, surtout en Île-de-France, ave
 | **Frais** | 40 € de droits d’entrée, 10 € de carte de membre, plus 9,90 € par an pour l’entretien |
 | **Jeunes** | Abo Jeune à 20 € toutes les 4 semaines pour les moins de 20 ans |
 
-<p class="klein">Source : page des abonnements de <a href="https://www.magic-form.fr/">magic-form.fr</a> (novembre 2026), sans les offres temporaires. Vérifie toujours les prix actuels avec ton club Magic Form.</p>
+<p class="klein">Source : page des abonnements de <a href="https://magic-form.fr/">magic-form.fr</a> (novembre 2026), sans les offres temporaires. Vérifie toujours les prix actuels avec ton club Magic Form.</p>
 
 <h2 id="formules">Les formules</h2>
 
@@ -111,5 +111,5 @@ Certaines salles Magic Form sont sur ClassPass, par exemple à Dijon et à Troye
 </details>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.magic-form.fr/">Magic Form</a>
+<a class="knop knop-rand" href="https://magic-form.fr/">Magic Form</a>
 </div>
