@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Berlin: Studios nach Bezirk und Sportart"
 path: "/de/classpass-berlin/"
-description: "ClassPass in Berlin: Studios nach Bezirk und Sportart, von Lagree und Reformer-Pilates bis Boxen, Yoga, Tanz, Wellness und Beauty."
+description: "ClassPass in Berlin: Studios nach Bezirk und Sportart, von Lagree und Reformer-Pilates bis Boxen, Yoga und Tanz."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -21,7 +21,7 @@ Berlin hat auf ClassPass ein sehr großes Angebot, verteilt über die ganze Stad
 | **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) |
 | **Ausprobieren** | 1 Monat gratis, 10 Workouts |
 | **Wo** | In der ganzen Stadt, vor allem in Mitte, Prenzlauer Berg, Kreuzberg, Friedrichshain und Charlottenburg |
-| **Was du machen kannst** | Lagree, Reformer-Pilates, Barre, Yoga, HIIT, Indoor-Cycling, Rudern, Boxen, Tanz, Laufen, Outdoor-Kurse und Gym-Besuche, dazu Wellness- und Beauty-Termine |
+| **Was du machen kannst** | Lagree, Reformer-Pilates, Barre, Yoga, HIIT, Indoor-Cycling, Rudern, Boxen, Tanz, Laufen, Outdoor-Kurse und Gym-Besuche |
 
 </div>
 
@@ -33,7 +33,7 @@ Einige Beispiele pro Bezirk. Es gibt viel mehr Studios als die hier genannten: D
 
 ### Mitte
 
-HIIT bei Barry's in der Friedrichstraße, Indoor-Cycling bei BECYCLE & BEYOND, Rocycle und ride.bln, Yoga und Meditation bei ŌHIA und Krafttraining bei HAGIUS in der Torstraße. Dazu Lagree bei Shapesty, Barre bei barrio barré, Yoga bei YOGA REBELLION, CrossFit beim Win Club, Bootcamp bei STORM und Urban Gladiators, Frauenfitness bei Pink Frauen Fitness und Matten-Pilates bei HALE.NOW.
+HIIT bei Barry's in der Friedrichstraße, Indoor-Cycling bei BECYCLE & BEYOND, Rocycle und ride.bln, Yoga bei ŌHIA und Krafttraining bei HAGIUS in der Torstraße. Dazu Lagree bei Shapesty, Barre bei barrio barré, Yoga bei YOGA REBELLION, CrossFit beim Win Club, Bootcamp bei STORM und Urban Gladiators, Frauenfitness bei Pink Frauen Fitness und Matten-Pilates bei HALE.NOW.
 
 ### Prenzlauer Berg
 
@@ -41,7 +41,7 @@ Lagree bei Framework, Reformer-Pilates bei PILATES4all, Yoga und Pilates bei SHA
 
 ### Kreuzberg und Neukölln
 
-Lagree bei Framework in der Oranienstraße, Pilates, Yoga und Sauna bei BEYOND BLN, SHA-LA Waterfront an der Spree, Yoga bei SUNYOGA am Mehringdamm, Bootcamp bei STORM an der Hasenheide, Ballett-Workouts bei Fit'Ballet und Studio 64 by BalleTonic und Kurse bei OPEN in Neukölln.
+Lagree bei Framework in der Oranienstraße, Pilates und Yoga bei BEYOND BLN, SHA-LA Waterfront an der Spree, Yoga bei SUNYOGA am Mehringdamm, Bootcamp bei STORM an der Hasenheide, Ballett-Workouts bei Fit'Ballet und Studio 64 by BalleTonic und Kurse bei OPEN in Neukölln.
 
 ### Friedrichshain
 
@@ -75,13 +75,10 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Outdoor:** unter anderem Hot Pilates von Inferno im Lietzenseepark und im Volkspark Friedrichshain (nur für Frauen), Sashtangi Yoga im Körnerpark, Training mit Stay Hungry Fam am Schloss Charlottenburg, Rooftop-Yoga bei Yoga at Lobe, The Playground an der Landsberger Allee und Contemporary Rollerblade in Neukölln
 - **CrossFit und Gym:** unter anderem Win Club CrossFit, Spree CrossFit, NOIR Boutique Gym und der DEEN Fitness Club
 
-Mit deinen Credits buchst du in Berlin nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
-
 <h2 id="tipps">Tipps</h2>
 
 - Beliebte Kurse in Mitte und Prenzlauer Berg sind am frühen Morgen und nach Feierabend schnell voll. Buch ein paar Tage im Voraus.
 - Wie viele Credits ein Kurs kostet, hängt vom Studio und von der Uhrzeit ab. Kurse außerhalb der Stoßzeiten sind oft günstiger.
-- Manche Wellness- und Beauty-Studios wollen, dass du den Termin vorher telefonisch oder über ihr eigenes Buchungssystem bestätigst. Lies die Hinweise beim Studio, bevor du buchst.
 - Dein Berliner Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt.
 
 [Sieh dir die Studios in Berlin auf ClassPass an.](https://classpass.com/search/berlin/fitness-classes/5275bm9hp3q)

@@ -78,8 +78,6 @@ Een flink aanbod aan krachttraining en vechtsport, vooral in en rond het centrum
 
 [Bekijk de studio's in Nijmegen op ClassPass.](https://classpass.com/search/in-kaart-gebrachte-omgeving/fitness-classes/5wEYm8BjLrj)
 
-Ook voor ontspanning: Kuuma Sauna, shiatsu bij Astrid Oudenhoven en massage bij Brouns Massages aan de Graafseweg. Net buiten de stad massage in Zevenaar en beautybehandelingen in Huissen.
-
 <div class="kolommen">
 
 <div class="kolom">

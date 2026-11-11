@@ -76,8 +76,6 @@ Een kleiner aanbod, met een paar goede adressen. Krachttraining, HIIT en boksen 
 
 [Bekijk de studio's in Den Bosch op ClassPass.](https://classpass.com/search/s-hertogenbosch/fitness-classes/47Ld2sCp1x3)
 
-Ook voor ontspanning: huidbehandelingen bij Mourits Skin Therapy aan de Hinthamerstraat en massage bij Wish2Connect in Helvoirt.
-
 <div class="kolommen">
 
 <div class="kolom">

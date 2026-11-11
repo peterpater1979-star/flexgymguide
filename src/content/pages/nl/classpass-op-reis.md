@@ -52,7 +52,6 @@ Buiten Europa werkt het onder meer in de Verenigde Staten, Canada, Australië, N
 2. **Kijk vooraf rond.** Zoek thuis al op je bestemming, dan weet je welke studio's er zijn en wat ze kosten.
 3. **Boek op tijd.** Populaire lessen lopen snel vol, ook op vakantie.
 4. **Denk ook aan een gym.** Een gymbezoek bij je hotel in de buurt is een makkelijke manier om tussendoor te trainen.
-5. **Ontspan na je reis.** Je kunt credits ook gebruiken voor een massage of de spa.
 
 <h2 id="onderweg">Handig in je koffer</h2>
 

@@ -27,7 +27,7 @@ Nieuwe leden kunnen ClassPass eerst proberen. Je bezoekt dan een aantal studio's
 
 - **Eén keer per locatie.** Je kunt elke studio of sportschool één keer bezoeken. Boek je een les en annuleer je die, dan kun je daar tijdens de proefperiode niet opnieuw boeken.
 - **Annuleringskosten gelden ook.** Annuleer je te laat of kom je niet opdagen, dan betaal je de gewone kosten, ook in de proefperiode.
-- **Extra credits.** Bij sommige proefaanbiedingen kun je extra credits kopen, bijvoorbeeld om een studio nog eens te bezoeken of voor een spa- of salonafspraak.
+- **Extra credits.** Bij sommige proefaanbiedingen kun je extra credits kopen, bijvoorbeeld om een studio nog eens te bezoeken.
 - **Eerder overstappen.** Bij sommige aanbiedingen kun je meteen overstappen op een maandabonnement. Dan kun je ook vaker naar dezelfde studio.
 
 <h2 id="einde">Als de proefperiode afloopt</h2>

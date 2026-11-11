@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Amsterdam: studio's per buurt en per sport"
 path: "/nl/classpass-amsterdam/"
-description: "ClassPass in Amsterdam: studio's per buurt en per sport, van pilates, yoga en spinning tot HIIT, boksen, dans, open gym en wellness."
+description: "ClassPass in Amsterdam: studio's per buurt en per sport, van pilates, yoga en spinning tot HIIT, boksen, dans en open gym."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
@@ -21,7 +21,7 @@ Amsterdam heeft op ClassPass een heel groot aanbod, verspreid over de hele stad.
 | **Prijs per maand** | Standaardabonnement € 69 per maand (47 credits) |
 | **Uitproberen** | 14 dagen gratis, 10 workouts |
 | **Waar** | In de hele stad, van het Centrum en de Jordaan tot De Pijp, Oost, Zuid en Noord |
-| **Wat je kunt doen** | Pilates, yoga, spinning, roeien, HIIT, bootcamp, boksen, vechtsport, dansen, hardlopen, buitensporten en open gym, plus wellness- en beauty-afspraken |
+| **Wat je kunt doen** | Pilates, yoga, spinning, roeien, HIIT, bootcamp, boksen, vechtsport, dansen, hardlopen, buitensporten en open gym |
 
 </div>
 
@@ -89,14 +89,11 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - **[Buitensporten](https://classpass.com/search/amsterdam/outdoors-classes/5YRTtPKhz5u):** onder andere Fitmundo in het Noorderpark, het Oosterpark en aan de IJpromenade, IMOOV en Fostering Fitness in het Vondelpark en Train with Tommy bij het Olympiaplein
 - **[Open gym](https://classpass.com/search/amsterdam/gym-time-classes/5srvjYtRtoR):** ruim twintig clubs van [Trainmore](/nl/trainmore/), plus Vondelgym West en Zuid, Sportstudio 79 en Underground Sportclub
 
-Met je credits boek je in Amsterdam niet alleen lessen, maar ook wellness- en beauty-afspraken.
-
 <h2 id="tips">Tips</h2>
 
 - Populaire lessen in het Centrum, De Pijp en Oud-West zitten 's ochtends vroeg en na werktijd snel vol. Boek een paar dagen van tevoren.
 - Hoeveel credits een les kost, hangt af van de studio en het tijdstip. Lessen buiten de spits zijn vaak goedkoper.
 - Voor reformer-pilates heb je meestal sokken met grip nodig. Kom de eerste keer iets eerder.
-- Sommige wellness- en beautysalons willen dat je je afspraak eerst telefonisch of via hun eigen systeem bevestigt. Lees de informatie bij de salon voordat je boekt.
 - Je Amsterdamse abonnement werkt ook in andere Nederlandse steden en in het buitenland, overal waar ClassPass actief is.
 
 [Bekijk de studio's in Amsterdam op ClassPass.](https://classpass.com/search/amsterdam/fitness-classes/5p9zGeT3hPM)

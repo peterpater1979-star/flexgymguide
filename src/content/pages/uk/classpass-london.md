@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in London: studios by area and type of workout"
 path: "/uk/classpass-london/"
-description: "ClassPass in London: studios by area and by type of workout, from HIIT and reformer Pilates to boxing, yoga, wellness and beauty."
+description: "ClassPass in London: studios by area and by type of workout, from HIIT and reformer Pilates to boxing and yoga."
 lang: en
 land: uk
 byline: "Updated October 2026"
@@ -21,7 +21,7 @@ London has a huge choice of studios and gyms on ClassPass, spread across the who
 | **Price per month** | Standard plan £69 a month (52 credits) |
 | **Try it first** | 14 days free, 10 workouts |
 | **Where** | All over London, from the West End and the City to Clapham, Hackney and the suburbs |
-| **What you can do** | HIIT, reformer Pilates, Lagree, indoor cycling, boxing, yoga, dance, outdoor classes and gym visits, plus wellness and beauty appointments |
+| **What you can do** | HIIT, reformer Pilates, Lagree, indoor cycling, boxing, yoga, dance, outdoor classes and gym visits |
 
 </div>
 
@@ -67,16 +67,12 @@ A selection of studios for each type of workout. You'll find all studios on Clas
 - **Yoga:** among others, Yogahome, Yogarise, 3Tribes, The Hot Spot Yoga, Mission E1, bhuti, The Life Centre in Notting Hill, TRIPSPACE in Haggerston, Om Being in Hackney Downs, Hello Studio in Finsbury Park and Sadhana and The Space in Clapham
 - **CrossFit and strength:** among others, Momentum Training and Gymbox
 - **Dance:** among others, FRAME, LoveDance, Salsateca and MB Studios
-- **Recovery:** among others, saunas and cold plunges at 1Rebel Reset in Kensington, Chelsea, Clapham, Euston and Leadenhall, and at The Sanctuary on Cheshire Street in Shoreditch
 - **Gyms:** among others, Gymbox, Nuffield Health and Fitness4Less, plus private sessions at Solo60
-
-Your credits are not just for classes. In London you can also book wellness and beauty appointments.
 
 <h2 id="tips">Tips</h2>
 
 - Popular classes in central London book up fast, especially early mornings and after work. Book a few days ahead.
 - Credits per class vary by studio and time of day. Off-peak classes are often cheaper.
-- Some wellness and beauty studios ask you to confirm by phone or through their own booking system first. Read the notes on the studio page before you book.
 - Your London plan also works in other UK cities and abroad, wherever ClassPass is available.
 
 [See the studios in London on ClassPass.](https://classpass.com/search/london/fitness-classes/3rFZWUyMHP5)
