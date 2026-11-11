@@ -104,8 +104,6 @@ Estudios repartidos por la ciudad, entre otros en el centro y en el PAU 1, y tam
 - **[HIIT](/go/classpass-es-alicante-hiit/?epi=fgg-es-alicante)** y **[bootcamp](/go/classpass-es-alicante-bootcamp/?epi=fgg-es-alicante)**: Mvp-Workout, PULSE ZONE, Movement4U y MOVE MORE LEGACY
 - **[Baile](/go/classpass-es-alicante-baile/?epi=fgg-es-alicante)**: pole dance en IPD - POLE DANCE ALICANTE
 - **[Gimnasio](/go/classpass-es-alicante-gimnasio/?epi=fgg-es-alicante)**: El Local, Centro de Entrenamiento, en Sant Joan d’Alacant
-- **[Bienestar](/go/classpass-es-alicante-bienestar/?epi=fgg-es-alicante)**: masajes y sauna en MasQi Alicante, en la calle Susana Llaneras
-- También **[belleza](/go/classpass-es-alicante-belleza/?epi=fgg-es-alicante)**
 
 ### Qué tienes
 

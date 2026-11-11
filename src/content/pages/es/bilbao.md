@@ -119,7 +119,6 @@ Una oferta más pequeña, sobre todo en Abando y el Ensanche, y también en Sant
 - **[Boxeo](/go/classpass-es-bilbao-boxeo/?epi=fgg-es-bilbao)**: Brooklyn Fitboxing en Santutxu y en Barakaldo
 - **[Baile](/go/classpass-es-bilbao-baile/?epi=fgg-es-bilbao)**: BIZIO en la alameda de Urquijo, con música e iluminación
 - **[Gimnasio](/go/classpass-es-bilbao-gimnasio/?epi=fgg-es-bilbao)**: moveBilbao
-- **[Bienestar](/go/classpass-es-bilbao-bienestar/?epi=fgg-es-bilbao)**: masajes en Arcadea Wellness Studio en Uribitarte
 - También **[cycling](/go/classpass-es-bilbao-cycling/?epi=fgg-es-bilbao)** y el método GYROTONIC en GYROTONIC BILBAO, en la alameda de Recalde
 
 [Ver los estudios en Bilbao en ClassPass](/go/classpass-es-bilbao/?epi=fgg-es-bilbao)

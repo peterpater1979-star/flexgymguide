@@ -51,7 +51,6 @@ Fuera de Europa funciona, entre otros, en Estados Unidos, Canadá, Australia, Nu
 2. **Mira antes de ir.** Busca tu destino desde casa, así sabes qué estudios hay y cuánto cuestan.
 3. **Reserva pronto.** Las clases populares se llenan rápido, también en vacaciones.
 4. **Piensa también en un gimnasio.** Ir a un gimnasio cerca del hotel es una forma fácil de entrenar entre visita y visita.
-5. **Relájate después del viaje.** También puedes usar créditos para un masaje o un spa.
 
 <h2 id="onderweg">Práctico para la maleta</h2>
 

@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Nantes : studios par quartier et par sport"
 path: "/fr/classpass-nantes/"
-description: "ClassPass à Nantes : les studios par quartier et par sport, du Pilates Reformer et du yoga au cycling, à la boxe et au bien-être."
+description: "ClassPass à Nantes : les studios par quartier et par sport, du Pilates Reformer et du yoga au cycling et à la boxe."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -21,7 +21,7 @@ kicker: "Pass sport"
 | **Prix par mois** | Abonnement standard 59 € par mois (37 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Surtout dans le centre (Bouffay, Graslin, Madeleine, Coudray), sur l’île de Nantes et à Jamet, et aussi à Saint-Herblain, La Chapelle-sur-Erdre et Saint-Sébastien-sur-Loire |
-| **Ce que tu peux faire** | Pilates Reformer, yoga, barre, HIIT, renforcement, cycling, boxe, danse, cours en plein air et accès à la salle, ainsi que des séances bien-être et des massages |
+| **Ce que tu peux faire** | Pilates Reformer, yoga, barre, HIIT, renforcement, cycling, boxe, danse, cours en plein air et accès à la salle |
 
 </div>
 
@@ -33,7 +33,7 @@ Quelques exemples par quartier. Il y a plus de studios que ceux cités ici : cli
 
 ### Centre, Bouffay et Graslin
 
-Pilates Reformer chez The New Me rue Scribe et chez Éos Studio rue du Couëdic, Pilates chez De Se Mouvoir avenue de l’Hôtel-Dieu, et yoga et Pilates chez Chez June rue des Cadeniers. FitBoxing, cardio et renfo chez Kombo Studio rue du Chapeau-Rouge, cycling chez Ô35 rue Saint-Léonard, et bien-être et massages chez ORA rue Franklin.
+Pilates Reformer chez The New Me rue Scribe et chez Éos Studio rue du Couëdic, Pilates chez De Se Mouvoir avenue de l’Hôtel-Dieu, et yoga et Pilates chez Chez June rue des Cadeniers. FitBoxing, cardio et renfo chez Kombo Studio rue du Chapeau-Rouge et cycling chez Ô35 rue Saint-Léonard.
 
 ### Madeleine, Coudray et Saint-Stanislas
 
@@ -66,13 +66,6 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **[En plein air](/go/classpass-fr-nantes-outdoor/?epi=fgg-fr-classpass-nantes) :** entre autres Echo sur l’île de Nantes
 - **[Course à pied](/go/classpass-fr-nantes-running/?epi=fgg-fr-classpass-nantes) :** entre autres GPC Coaching
 - **[Accès à la salle](/go/classpass-fr-nantes-salle/?epi=fgg-fr-classpass-nantes) :** entre autres Ethik Sport Club et L’Orange Bleue
-
-<h2 id="bien-etre">Bien-être</h2>
-
-Avec tes crédits, tu réserves aussi des séances bien-être. Clique sur une catégorie pour voir toute l’offre.
-
-- **[Bien-être](/go/classpass-fr-nantes-bien-etre/?epi=fgg-fr-classpass-nantes) :** entre autres l’hydromassage et le sauna japonais chez ORA rue Franklin et l’espace bien-être d’Ô35
-- **[Massage](/go/classpass-fr-nantes-massage/?epi=fgg-fr-classpass-nantes) :** entre autres chez ORA, dans le quartier Graslin
 
 <h2 id="conseils">Conseils</h2>
 

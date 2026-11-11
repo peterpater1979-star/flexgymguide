@@ -1,7 +1,7 @@
 ---
 title: "ClassPass en Madrid: estudios por barrio y por deporte"
 path: "/es/classpass-madrid/"
-description: "ClassPass en Madrid: estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el cycling y el baile, y bienestar."
+description: "ClassPass en Madrid: estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el cycling y el baile."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"
@@ -21,7 +21,7 @@ Madrid tiene una oferta enorme en ClassPass, repartida por toda la ciudad, con m
 | **Precio al mes** | Plan estándar 59 € al mes (37 créditos) |
 | **Para probar** | 14 días gratis, 10 sesiones |
 | **Dónde** | Sobre todo en Salamanca, Chamberí, Centro, Chamartín y Retiro, y también en Arganzuela y junto a Madrid Río |
-| **Qué puedes hacer** | Pilates, Lagree, barre, yoga, HIIT, bootcamp, cycling, boxeo, artes marciales, baile, running, clases al aire libre y acceso al gimnasio, además de sesiones de bienestar y belleza |
+| **Qué puedes hacer** | Pilates, Lagree, barre, yoga, HIIT, bootcamp, cycling, boxeo, artes marciales, baile, running, clases al aire libre y acceso al gimnasio |
 
 </div>
 
@@ -72,25 +72,12 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - **[Al aire libre](/go/classpass-es-madrid-aire-libre/?epi=fgg-es-classpass-madrid):** entre otros Trivus en el parque del Retiro, CruzLorenFit, MoveBon, Training Hub, Desafío Personal y Kona House
 - **[Acceso al gimnasio](/go/classpass-es-madrid-gimnasio/?epi=fgg-es-classpass-madrid):** entre otros REVIVE, Pomona Club, Kona House, Kaïro House, Nine Fitness, Distrito 280, Infinit Fitness, Functional Feel Chamberí, Opera Gym y Anytime Fitness
 
-<h2 id="bienestar">Bienestar y belleza</h2>
-
-Con tus créditos no solo reservas clases en Madrid, sino también sesiones de bienestar y belleza. Aquí tienes algunas direcciones; haz clic en una categoría para ver toda la oferta.
-
-- **[Recuperación](/go/classpass-es-madrid-recuperacion/?epi=fgg-es-classpass-madrid):** entre otros REVIVE - Recovery en María de Molina, ARO en Bárbara de Braganza, Meri en Velázquez, Pomona Club Wellness, Olimpia TWC Wellness y BioSpa Madrid
-- **[Masaje](/go/classpass-es-madrid-masaje/?epi=fgg-es-classpass-madrid):** entre otros LUM MASSAGE BAR en Espronceda, Seijaku Balance en Hermosilla, Vilma León Masajes, Vibra Bienestar Masajes, Royal Touch en Almagro, Calma Rituals Studio, The Queens Rituals y ROWSE The Greenhouse
-- **[Sauna](/go/classpass-es-madrid-sauna/?epi=fgg-es-classpass-madrid):** entre otros ARO, Meri - Wellness, Pomona Club Wellness en Serrano, Kaïro House Wellness, Olimpia TWC Wellness, BioSpa Madrid y PULS
-- **[Faciales](/go/classpass-es-madrid-faciales/?epi=fgg-es-classpass-madrid):** entre otros Slow Beautiful Salesas, Velvare Beauty, ESPACIO LUMIERE en Fuencarral, Tornasol en Castelló, New Mersi Beauty, Harmony Esthetic & Spa y La Esmaltería
-- **[Meditación](/go/classpass-es-madrid-meditacion/?epi=fgg-es-classpass-madrid):** entre otros Casa Kavi, Gaia Yoga & Soul Studio, the studiOM yoga, Zentro Urban Yoga, Centro de Yoga Sivananda Madrid, SOMATIKA STUDIO y Bonanza Casa Wellness
-- **[Peluquería](/go/classpass-es-madrid-peluqueria/?epi=fgg-es-classpass-madrid):** entre otros Once23 Beauty y Hair Studio Luis Acosta
-- **[Uñas, pestañas y más](/go/classpass-es-madrid-belleza/?epi=fgg-es-classpass-madrid):** entre otros La Esmaltería (con varios centros en Madrid), Muse Manicure, Mua Madrid, D-uñas, Dubi Beauty Studio, The Glam Loft Madrid y LashesDL
-
 <h2 id="consejos">Consejos</h2>
 
 - Las clases populares a primera hora y después del trabajo se llenan rápido. Reserva con unos días de antelación.
 - Los créditos por clase dependen del estudio y de la hora. Las clases fuera de las horas punta suelen costar menos.
 - Para el Pilates reformer y el barre normalmente necesitas calcetines antideslizantes. La primera vez, llega un poco antes.
 - Algunas cadenas, como Brooklyn Fitboxing, Distrito 280 o Infinit Fitness, tienen varios centros en Madrid: elige bien el centro al reservar.
-- Algunos centros de bienestar y belleza piden confirmar la cita por teléfono o con su propio sistema de reservas. Lee las indicaciones del centro antes de reservar.
 - Tu plan funciona también en otras ciudades de España y en el extranjero, allí donde haya ClassPass.
 
 [Ver los estudios de Madrid en ClassPass.](/go/classpass-es-madrid/?epi=fgg-es-classpass-madrid)

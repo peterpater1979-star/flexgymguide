@@ -52,7 +52,6 @@ Outside Europe it works in the United States, Canada, Australia, New Zealand, Ja
 2. **Look around in advance.** Search your destination from home, so you know which studios there are and what they cost.
 3. **Book early.** Popular classes fill up fast, on holiday too.
 4. **Think of a gym as well.** A gym visit near your hotel is an easy way to fit in a workout.
-5. **Relax after your trip.** You can also use credits for a massage or the spa.
 
 <h2 id="onderweg">Handy in your suitcase</h2>
 

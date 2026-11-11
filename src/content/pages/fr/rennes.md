@@ -117,7 +117,6 @@ Surtout dans le centre (Victor-Hugo, Jean-Janvier, Tour-d’Auvergne, Laennec), 
 - **[Renforcement et bootcamp](/go/classpass-fr-rennes-bootcamp/?epi=fgg-fr-rennes)** : Jomo Studio boulevard de la Tour-d’Auvergne (bootcamp de 50 minutes, cardio et renforcement)
 - **[Accès à la salle](/go/classpass-fr-rennes-salle/?epi=fgg-fr-rennes)** : Phenix by ergo boulevard René-Laennec et Ethik Sport Club à Cesson-Sévigné
 - **[HIIT](/go/classpass-fr-rennes-hiit/?epi=fgg-fr-rennes)** et **[boxe](/go/classpass-fr-rennes-boxe/?epi=fgg-fr-rennes)** : à voir selon les créneaux du moment
-- **[Bien-être](/go/classpass-fr-rennes-bien-etre/?epi=fgg-fr-rennes)** : massages et soins du visage dans le centre
 
 [Voir les studios à Rennes sur ClassPass](/go/classpass-fr-rennes/?epi=fgg-fr-rennes)
 

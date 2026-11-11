@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Lille : studios par quartier et par sport"
 path: "/fr/classpass-lille/"
-description: "ClassPass à Lille et dans la métropole : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe et à la danse, plus le bien-être."
+description: "ClassPass à Lille et dans la métropole : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe et à la danse."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -21,7 +21,7 @@ kicker: "Pass sport"
 | **Prix par mois** | Abonnement standard 59 € par mois (37 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Le Vieux-Lille et le centre, Wazemmes, et dans la métropole à Marcq-en-Barœul, La Madeleine, Croix et Villeneuve-d’Ascq |
-| **Ce que tu peux faire** | Pilates Reformer et au sol, yoga, boxe, renforcement musculaire, cycling, danse et accès à la salle, ainsi que quelques séances bien-être |
+| **Ce que tu peux faire** | Pilates Reformer et au sol, yoga, boxe, renforcement musculaire, cycling, danse et accès à la salle |
 
 </div>
 
@@ -45,7 +45,7 @@ Pilates Reformer chez The New Me rue de Menin, yoga, Pilates et plus chez ALOYA 
 
 ### Villeneuve-d’Ascq
 
-Yoga, Pilates et bien-être chez POSÉ boulevard Comte-de-Montalembert, coaching en petit groupe chez Moscion, small group avec électrostimulation chez Onme Studio et flottaison chez bodyfloat boulevard de Valmy.
+Yoga et Pilates chez POSÉ boulevard Comte-de-Montalembert, coaching en petit groupe chez Moscion et small group avec électrostimulation chez Onme Studio.
 
 ### Sud et ouest de la métropole
 
@@ -61,12 +61,6 @@ Pour chaque sport, une sélection de studios. Tous les studios sont sur ClassPas
 - **Renforcement et coaching :** entre autres Le Hook, In Sport, Moscion et Onme Studio
 - **Danse :** entre autres Waka Waka Dance Academy
 - **Accès à la salle :** entre autres Fitness Park dans le Vieux-Lille, In Sport à Croix et L’Orange Bleue à Englos
-
-<h2 id="bien-etre">Bien-être</h2>
-
-Avec tes crédits, tu réserves aussi des séances bien-être. Clique sur la catégorie pour voir toute l’offre.
-
-- **[Bien-être](/go/classpass-fr-lille-bien-etre/?epi=fgg-fr-classpass-lille) :** entre autres la flottaison chez bodyfloat et les séances bien-être chez POSÉ à Villeneuve-d’Ascq et chez ALOYA à Marcq-en-Barœul
 
 <h2 id="conseils">Conseils</h2>
 

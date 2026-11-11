@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Lyon : studios par quartier et par sport"
 path: "/fr/classpass-lyon/"
-description: "ClassPass à Lyon : les studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp et au cycling, plus le bien-être."
+description: "ClassPass à Lyon : les studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp et au cycling."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -21,7 +21,7 @@ Lyon a une très belle offre sur ClassPass, surtout en Pilates et en yoga. Tu tr
 | **Prix par mois** | Abonnement standard 59 € par mois (37 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Surtout sur la Presqu’île, à la Croix-Rousse, dans le 6e (Brotteaux, Foch), à la Part-Dieu et à la Guillotière, et aussi à Villeurbanne |
-| **Ce que tu peux faire** | Pilates, Lagree, yoga, barre, HIIT, bootcamp, cycling, boxe, danse, natation et accès à la salle, ainsi que des séances bien-être et beauté |
+| **Ce que tu peux faire** | Pilates, Lagree, yoga, barre, HIIT, bootcamp, cycling, boxe, danse, natation et accès à la salle |
 
 </div>
 
@@ -74,19 +74,11 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **Natation :** entre autres des cours de natation chez Swim stars à Villeurbanne
 - **[Accès à la salle](/go/classpass-fr-lyon-salle/?epi=fgg-fr-classpass-lyon) :** entre autres L’Appart Fitness (une dizaine de clubs à Lyon et à Villeurbanne), Planète Fitness, Chevreul Sport, Swedish Fit, NEKO et Urban Tonic
 
-<h2 id="bien-etre">Bien-être et beauté</h2>
-
-Avec tes crédits, tu ne réserves pas seulement des cours à Lyon, mais aussi des séances bien-être et beauté. Voici quelques adresses ; clique sur une catégorie pour voir toute l’offre.
-
-- **[Bien-être](/go/classpass-fr-lyon-bien-etre/?epi=fgg-fr-classpass-lyon) :** entre autres des massages chez FEI SHU rue Garibaldi, Marjorie Finiels Massage rue des Farges et Opale Harmonie By Marie (pour femmes uniquement), et des séances chez Savasana Social Club à la Croix-Rousse
-- **[Beauté](/go/classpass-fr-lyon-beaute/?epi=fgg-fr-classpass-lyon) :** entre autres les ongles chez YK Atelier, la coiffure chez Julie Borne - Coiffure Création et les soins du visage chez Seasonly rue Childebert
-
 <h2 id="conseils">Conseils</h2>
 
 - Les cours populaires tôt le matin et après le travail sont vite complets. Réserve quelques jours à l’avance.
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
 - L’Appart Fitness a plusieurs clubs à Lyon : choisis bien le bon club au moment de réserver.
-- Certains instituts bien-être et beauté demandent de confirmer le rendez-vous par téléphone ou par leur propre système de réservation. Lis les consignes du studio avant de réserver.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
 [Voir les studios à Lyon sur ClassPass.](/go/classpass-fr-lyon/?epi=fgg-fr-classpass-lyon)

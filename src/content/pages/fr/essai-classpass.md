@@ -27,7 +27,7 @@ Les nouveaux membres peuvent d'abord essayer ClassPass. Tu visites alors plusieu
 
 - **Une fois par lieu.** Tu peux visiter chaque studio ou salle une fois. Si tu réserves un cours puis l'annules, tu ne peux plus y réserver pendant l'essai.
 - **Les frais d'annulation s'appliquent aussi.** Si tu annules trop tard ou ne viens pas, tu paies les frais habituels, même pendant l'essai.
-- **Crédits supplémentaires.** Certaines offres d'essai permettent d'acheter des crédits en plus, par exemple pour retourner dans un studio ou pour un rendez-vous spa ou salon.
+- **Crédits supplémentaires.** Certaines offres d'essai permettent d'acheter des crédits en plus, par exemple pour retourner dans un studio.
 - **Passer plus tôt à l'abonnement.** Certaines offres te permettent de passer tout de suite à une formule mensuelle. Tu peux alors retourner dans le même studio.
 
 <h2 id="fin">À la fin de l'essai</h2>

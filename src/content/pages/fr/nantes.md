@@ -110,7 +110,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Surtout dans le centre (Bouffay, Graslin, Madeleine, Coudray), sur l’île de Nantes et à Jamet, et aussi à Saint-Herblain, La Chapelle-sur-Erdre et Saint-Sébastien-sur-Loire. Pilates (dont Reformer), yoga, HIIT, cycling, boxe et bien-être. Les studios par quartier et par sport sont sur ClassPass à Nantes.
+Surtout dans le centre (Bouffay, Graslin, Madeleine, Coudray), sur l’île de Nantes et à Jamet, et aussi à Saint-Herblain, La Chapelle-sur-Erdre et Saint-Sébastien-sur-Loire. Pilates (dont Reformer), yoga, HIIT, cycling et boxe. Les studios par quartier et par sport sont sur ClassPass à Nantes.
 
 [Voir les studios à Nantes par quartier et par sport](/fr/classpass-nantes/)
 
