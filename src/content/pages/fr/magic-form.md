@@ -25,6 +25,7 @@ Magic Form est une chaîne de 30 salles de sport, surtout en Île-de-France, ave
 | **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Magic One 40 €, Magic+ et Magic Full 50 € toutes les 4 semaines |
 | **Frais** | 40 € de droits d’entrée, 10 € de carte de membre, plus 9,90 € par an pour l’entretien |
 | **Jeunes** | Abo Jeune à 20 € toutes les 4 semaines pour les moins de 20 ans |
+| **Essayer** | Séance d’essai à 10 € en ligne, puis 15 € la séance |
 
 <p class="klein">Source : page des abonnements de <a href="https://magic-form.fr/">magic-form.fr</a> (novembre 2026), sans les offres temporaires. Vérifie toujours les prix actuels avec ton club Magic Form.</p>
 
@@ -106,6 +107,13 @@ Oui. Sans engagement, Magic One coûte 40 €, Magic+ et Magic Full 50 € toute
 <summary>Combien coûte Magic Form ?</summary>
 
 Dès 30 € toutes les 4 semaines pour Magic One avec engagement, et 20 € pour l’Abo Jeune (moins de 20 ans). Tu ajoutes 40 € de droits d’entrée, 10 € de carte de membre et 9,90 € par an pour l’entretien (novembre 2026).
+
+</details>
+
+<details>
+<summary>Peut-on essayer Magic Form ?</summary>
+
+Oui. Tu réserves une séance d’essai en ligne pour 10 €, dans le club de ton choix. Les séances suivantes coûtent 15 € (novembre 2026).
 
 </details>
 
