@@ -90,7 +90,7 @@ Cadena española con más de 240 clubes. Todas las cuotas sin permanencia, de 32
 
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym, Dreamfit, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
@@ -135,6 +135,24 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio con clases incluidas</span></div>
+
+### Dreamfit
+
+26 gimnasios grandes, casi la mitad en Madrid y alrededores. Sin permanencia, DREAM de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción.
+
+- Más de 600 clases al mes incluidas
+- Pase puntual de 15 € para probar
+- Baja hasta el día 20 del mes anterior
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
 </div>
 
 </div>

@@ -87,6 +87,20 @@ En Alicante, Synergym tiene un club en Benalúa, y también en San Vicente del R
 
 </div>
 
+<div id="dreamfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio con clases incluidas</span></div>
+
+<h3 id="dreamfit-alicante">Dreamfit</h3>
+
+En Alicante, Dreamfit tiene un club en Vistahermosa. Gimnasio grande con clases colectivas incluidas en la cuota, sin permanencia, más 45 € de inscripción. El precio depende del club: DREAM cuesta de 42,90 a 44,90 € al mes en Madrid.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">

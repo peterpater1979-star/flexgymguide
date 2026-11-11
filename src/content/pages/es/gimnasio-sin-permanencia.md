@@ -2,7 +2,7 @@
 title: "Gimnasio sin permanencia en España: las opciones mes a mes"
 seoTitle: "Gimnasio sin permanencia: precios de las cadenas"
 path: "/es/gimnasio-sin-permanencia/"
-description: "Gimnasios sin permanencia en España: Basic-Fit Flex, VivaGym, Synergym, Fitness Park, ON AIR, GOfit, ClassPass y Urban Sports Club: precios y preaviso."
+description: "Gimnasios sin permanencia en España: Basic-Fit Flex, VivaGym, Synergym, Dreamfit, Fitness Park, ON AIR, GOfit, ClassPass y Urban Sports Club: precios y preaviso."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"
@@ -25,9 +25,10 @@ kicker: "Guía España"
 | **[Basic-Fit](/es/basic-fit/) Flex** | Desde 29,98 € cada 4 semanas | 19,99 € | 4 semanas de preaviso |
 | **[Fitness Park](/es/fitness-park/)** | Classic 37 €, Ultimate 57 € cada 4 semanas | 50 € | 4 semanas de preaviso |
 | **[ON AIR](/es/on-air/)** | Desde 31,96 € cada 4 semanas | 30 €, más 10 € al año | 4 semanas de preaviso |
+| **[Dreamfit](/es/dreamfit/)** | DREAM de 42,90 a 44,90 € al mes según el club | 45 € | Hasta el día 20 del mes anterior |
 | **[GOfit](/es/go-fit/)** | Cuota mensual de 51,30 a 61,62 €, Plan Plus de 57,80 a 68,12 € al mes (mínimo 3 meses) | 33,50 a 51,30 € | Según el centro |
 
-<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. GOfit: Ciudad Real, Sevilla y Plaza Elíptica (Madrid). Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
+<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. Dreamfit: Aluche y Majadahonda (Madrid). GOfit: Ciudad Real, Sevilla y Plaza Elíptica (Madrid). Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
 
 <h2 id="pase">Un pase deportivo: varios gimnasios y estudios</h2>
 
@@ -79,6 +80,10 @@ Gimnasios de gama alta en Madrid, Barcelona, Málaga y Valencia, todas las cuota
 ### GOfit
 
 Centros deportivos grandes con piscinas, spa y clases, sobre todo en Madrid. La cuota mensual no tiene permanencia: de 51,30 a 61,62 € al mes según el centro, más una matrícula de 33,50 a 51,30 €. El Plan Plus, con acceso a otros centros, cuesta de 57,80 a 68,12 € con un mínimo de 3 meses. Lee [Todo sobre GOfit](/es/go-fit/).
+
+### Dreamfit
+
+26 gimnasios grandes, casi la mitad en Madrid y alrededores, con más de 600 clases al mes incluidas. Pagas mes a mes: DREAM cuesta de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción. Te das de baja como muy tarde el día 20 del mes anterior, en recepción o en el área personal. Lee [Todo sobre Dreamfit](/es/dreamfit/).
 
 ### ¿Y las demás?
 
