@@ -50,6 +50,9 @@ Keepcool est une chaîne française de salles de sport, avec plus de 270 salles 
 - **Cours en vidéo** à suivre dans la salle ou à la maison
 - **Coaching individuel** en plus, dès 45 € la séance
 
+- **Small Groups :** tu réserves ta place dans l’appli Keepcool ou par téléphone auprès de ton club.
+- **Carte duo (Prime) :** ton invité vient s’entraîner avec toi, pas sans toi.
+
 <h2 id="villes">Dans quelles villes ?</h2>
 
 Keepcool a des salles entre autres dans ces villes :
@@ -94,6 +97,7 @@ Toutes les salles sont sur [keepcool.fr](https://www.keepcool.fr/nos-salles-de-s
 - **Avec engagement** : tu es engagé pour 52 semaines. Ensuite, ton abonnement continue par périodes de 4 semaines, et tu résilies avec un préavis de 4 semaines.
 - **Partir plus tôt** : en cas d’incapacité médicale définitive, de déménagement ou de mutation à plus de 30 km d’une salle Keepcool, tu peux arrêter avant la fin de l’engagement. Envoie le justificatif (certificat médical, attestation de l’employeur ou justificatif de domicile) dans la semaine qui suit.
 - **Suspendre** : avec Pause Vacances, tu suspends ton abonnement jusqu’à 30 jours par an, sans justificatif. En cas de maladie ou d’absence de plus de 4 semaines, tu peux aussi suspendre, avec un justificatif.
+- **Changer de formule** : demande-le à un coach de ton club. Pour arrêter les avantages Prime pendant un engagement, tu attends la date de renouvellement de ton contrat.
 - **Comment** : par courrier ou par e-mail à ton club ou à contact@keepcool.fr, ou via le site de Keepcool.
 - **À savoir** : en plus des frais d’inscription, Keepcool demande 9,90 € par an pour le matériel. Une nouvelle carte coûte 10 €.
 
