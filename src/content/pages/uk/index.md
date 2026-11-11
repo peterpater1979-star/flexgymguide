@@ -127,7 +127,7 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 
 <h2 id="other">Other gyms</h2>
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
