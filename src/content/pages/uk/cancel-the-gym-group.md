@@ -2,7 +2,7 @@
 title: "Cancel The Gym Group: deadline, refunds and Saver plans"
 seoTitle: "Cancel The Gym Group: deadline and refunds"
 path: "/uk/cancel-the-gym-group/"
-description: "Cancelling The Gym Group: no contract on monthly plans, cancel at least four working days before your next payment, the 14-day refund, Saver plans and alternatives."
+description: "Cancelling The Gym Group: no contract on monthly plans, cancel at least four working days before your next payment, how to cancel by direct debit or card, the 14-day refund and Saver plans."
 lang: en
 land: uk
 byline: "Updated November 2026"
@@ -26,17 +26,22 @@ Monthly memberships at The Gym Group have no contract and no minimum term. You c
 
 <h2 id="steps">How to cancel</h2>
 
-1. **Check your next payment date**, and cancel at least four working days before it.
-2. **Cancel with The Gym Group.** The current way to do it is on The Gym Group website.
-3. **Keep the confirmation**, and check that no further payment is taken.
+1. **Check your next payment date.** Cancel at least four working days before it, or you pay one more month.
+2. **Want to keep training until the end of the month?** Contact the member service team first. If you cancel your direct debit without telling them, your gym access stops straight away.
+3. **Cancel.** How depends on how you pay:
+   - **Direct debit:** cancel the direct debit with your bank, or contact the member service team.
+   - **Card payment:** contact the member service team through Live Chat. You find it in the app or the Member Area, under My membership.
+4. **Wait for the confirmation.** A cancellation through the member service team only counts once they have confirmed it. Then check that no further payment is taken.
+
+You reach the member service team at [support.thegymgroup.com](https://support.thegymgroup.com/support/home).
 
 <h2 id="good-to-know">Good to know</h2>
 
 - **First 14 days.** On any plan you can cancel in the first 14 days and get a refund, minus the cost of any visits.
 - **Saver plans.** You pay for 9 or 12 months up front, or in 3 instalments. After the first 14 days you can't cancel early or get a refund for unused months, and you can't freeze a Saver plan.
-- **Freeze instead?** With an Ultimate membership you can freeze for free for one month a year. Off-peak and Standard don't include a free freeze.
+- **Freeze instead?** With an Ultimate membership you can freeze for free for one month a year. With Off-peak and Standard you can freeze for a fee, in the app or the Member Area. You see the cost before you confirm. Freeze at least four working days before your next payment date.
 
-<p class="klein">Source: <a href="/uk/the-gym-group/">our page about The Gym Group</a>, based on thegymgroup.com (October 2026). Always check the current terms with The Gym Group.</p>
+<p class="klein">Sources: the <a href="https://www.thegymgroup.com/legal/membership-agreement/">The Gym Group membership agreement</a> and its help centre (articles of July 2026, checked November 2026). Always check the current terms with The Gym Group.</p>
 
 <h2 id="alternatives">What next? Flexible alternatives</h2>
 
@@ -55,7 +60,7 @@ Not on monthly plans: no contract and no minimum term. Saver plans are paid up f
 <details>
 <summary>When do I need to cancel The Gym Group?</summary>
 
-At least four working days before your next payment date.
+At least four working days before your next payment date. Pay by direct debit? Then you can also cancel the direct debit with your bank, but tell the member service team first if you want to keep training until the end of the month.
 
 </details>
 
