@@ -105,7 +105,7 @@ Ja, Holmes Place ist eine Premium-Kette. Wie viel du zahlst, hörst du im Club.
 <details>
 <summary>Ist Holmes Place auf ClassPass?</summary>
 
-Die Clubs selbst haben wir dort nicht gefunden. In Berlin stehen aber zwei Studios der Marke Reform von Holmes Place auf ClassPass: am Potsdamer Platz und in Friedrichshain. Welche Studios gerade mitmachen, siehst du in der ClassPass-App.
+In Berlin stehen zwei Studios der Marke Reform von Holmes Place auf ClassPass: am Potsdamer Platz und in Friedrichshain. Welche Studios gerade mitmachen, siehst du in der ClassPass-App.
 
 </details>
 

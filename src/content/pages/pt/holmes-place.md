@@ -105,7 +105,7 @@ Sim, o Holmes Place é uma cadeia premium. Quanto pagas, ficas a saber no clube.
 <details>
 <summary>O Holmes Place está no ClassPass?</summary>
 
-Os clubes em si não os encontrámos lá. Mas alguns estúdios do Holmes Place estão no ClassPass: Pilat3s em Lisboa (Palácio Sottomayor), Cascais e Vila Nova de Gaia, e Trib3 em Oeiras. Que estúdios participam neste momento vês na app do ClassPass.
+Alguns estúdios do Holmes Place estão no ClassPass: Pilat3s em Lisboa (Palácio Sottomayor), Cascais e Vila Nova de Gaia, e Trib3 em Oeiras. Que estúdios participam neste momento vês na app do ClassPass.
 
 </details>
 
