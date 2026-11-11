@@ -60,7 +60,7 @@ Günstige Fitnesskette mit über 230 Studios, auch in München. Flex ohne feste 
 
 </div>
 
-<p class="meer-aanbieders">Und auch: clever fit, FitX, Basic-Fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: clever fit, FitX, Basic-Fit, Mrs.Sporty und Urban Sports Club. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="ueberblick">
 
@@ -120,7 +120,6 @@ Ein sehr großes Angebot, verteilt über die ganze Stadt, von Reformer-Pilates u
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
 </div>
-
 
 </div>
 
@@ -260,6 +259,20 @@ Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in München
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club gibt es auch in München. Ein Sportpass mit festem Preis pro Monat: Du checkst in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
 </div>
 
 | Anbieter | Preis pro Monat | Laufzeit | In München |
@@ -380,6 +393,5 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 </div>
 
 </div>
-
 
 </details>

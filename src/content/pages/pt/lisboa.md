@@ -216,6 +216,26 @@ O VivaGym é o antigo Fitness Hut, com mais de 40 ginásios em Portugal. Escolhe
 
 </div>
 
+<h2 id="outros">Também em Lisboa</h2>
+
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Passe desportivo com preço fixo</span></div>
+
+<h3>Urban Sports Club</h3>
+
+O Urban Sports Club também está em Lisboa. É um passe desportivo com um preço fixo por mês: fazes check-in em locais parceiros, conforme o teu plano, para ginásio, aulas ou outros desportos. Cancelas todos os meses.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
+
 ## O que te convém?
 
 <div class="kolommen">

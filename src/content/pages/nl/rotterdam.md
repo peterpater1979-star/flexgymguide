@@ -70,7 +70,7 @@ Voordelige sportschoolketen met 13 clubs in Rotterdam, veel dag en nacht open.
 
 </div>
 
-<p class="meer-aanbieders">En ook: BigGym en Anytime Fitness. <a href="#andere">Bekijk de andere sportscholen</a></p>
+<p class="meer-aanbieders">En ook: BigGym, Anytime Fitness en Urban Sports Club. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
 
@@ -136,7 +136,6 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 </div>
-
 
 </div>
 
@@ -240,6 +239,20 @@ Anytime Fitness heeft in Rotterdam een club op de Kop van Zuid, die 24 uur per d
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club zit ook in Rotterdam. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
 </div>
 
 </div>
@@ -372,6 +385,5 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 </div>
 
 </div>
-
 
 </details>

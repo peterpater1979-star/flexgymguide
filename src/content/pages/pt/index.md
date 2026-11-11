@@ -94,8 +94,8 @@ Uma cadeia de clubes premium com 13 clubes em Portugal, todos com ginásio, aula
 O ClassPass tem estúdios parceiros em [Lisboa](/pt/lisboa/), no [Porto](/pt/porto/) e noutras cidades portuguesas. Na app vês que estúdios e ginásios participam perto de ti. Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
 
 <ul class="stedenlijst">
-<li><a href="/pt/lisboa/"><strong>Lisboa</strong></a> <span class="klein">ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
-<li><a href="/pt/porto/"><strong>Porto</strong></a> <span class="klein">ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
+<li><a href="/pt/lisboa/"><strong>Lisboa</strong></a> <span class="klein">Urban Sports Club · ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
+<li><a href="/pt/porto/"><strong>Porto</strong></a> <span class="klein">Urban Sports Club · ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
 </ul>
 
 

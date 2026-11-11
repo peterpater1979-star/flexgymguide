@@ -195,6 +195,26 @@ Nieuw bij ClassPass? Je begint met 14 dagen gratis en 10 work-outs.
 
 De proefperiode is alleen voor nieuwe leden. Alles over de regels lees je in [ClassPass gratis proberen](/nl/classpass-proefperiode/).
 
+<h2 id="andere">Ook in Brussel</h2>
+
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club zit ook in Brussel. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
+
+</div>
+
 ## Wat past bij jou?
 
 <div class="kolommen">
