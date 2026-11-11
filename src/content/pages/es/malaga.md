@@ -200,7 +200,7 @@ En Málaga, Synergym tiene clubes en Los Tilos, Guindos, Trinidad y Reding. Mult
 
 <h3 id="go-fit-malaga">GOfit</h3>
 
-En Málaga, GOfit tiene dos centros: Huelin y Segalerva. Con piscinas, spa y clases dirigidas. Cuota mensual sin permanencia, de 51,30 a 52,74 € al mes según el centro.
+En Málaga, GOfit tiene dos centros: Huelin y Segalerva. Con piscinas, spa y clases dirigidas. Cuota mensual sin permanencia, de 51,30 a 61,62 € al mes según el centro.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>

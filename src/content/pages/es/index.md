@@ -162,7 +162,7 @@ Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 cl
 
 ### GOfit
 
-Unos 20 centros deportivos grandes, sobre todo en Madrid, con piscinas, spa y más de 150 clases a la semana. Cuota mensual sin permanencia, de 51,30 a 52,74 € al mes según el centro.
+Unos 20 centros deportivos grandes, sobre todo en Madrid, con piscinas, spa y más de 150 clases a la semana. Cuota mensual sin permanencia, de 51,30 a 61,62 € al mes según el centro.
 
 - Ideal si quieres piscina y spa
 - Ideal para familias
