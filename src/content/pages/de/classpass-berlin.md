@@ -75,13 +75,7 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Outdoor:** unter anderem Hot Pilates von Inferno im Lietzenseepark und im Volkspark Friedrichshain (nur für Frauen), Sashtangi Yoga im Körnerpark, Training mit Stay Hungry Fam am Schloss Charlottenburg, Rooftop-Yoga bei Yoga at Lobe, The Playground an der Landsberger Allee und Contemporary Rollerblade in Neukölln
 - **CrossFit und Gym:** unter anderem Win Club CrossFit, Spree CrossFit, NOIR Boutique Gym und der DEEN Fitness Club
 
-<h2 id="wellness">Wellness und Beauty</h2>
-
 Mit deinen Credits buchst du in Berlin nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
-
-- **Sauna und Spa:** unter anderem ANTI Spa in der Brunnenstraße, die Sauna bei BEYOND BLN in Kreuzberg, Gezer Spa & Fitness am Alexanderplatz und Rotlicht-Sessions bei HALE.NOW in Prenzlauer Berg und am Ku'damm
-- **Massage:** unter anderem Backrub Collective in der Torstraße, Yaya Spa in der Möckernstraße, Thai Massage Haus in der Mall of Berlin, Reshape Berlin in Mitte, Dien Chan 2.0 an der Prenzlauer Allee und Wellness Juwel in Weißensee
-- **Beauty:** unter anderem Glowy Beauty Bar in Mitte und Prenzlauer Berg, Tulit Beauty & More in der Torstraße, CILOLA für Wimpern und Augenbrauen, Vanity in der Wilmersdorfer Straße und BEAUTY AND THE BOX in der Kantstraße
 
 <h2 id="tipps">Tipps</h2>
 

@@ -72,14 +72,7 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Bewegung und Mobility:** unter anderem Brain Based Movement, Movement Practice und School of Movement
 - **Gym:** unter anderem Fitness First, Sports Club und der Burmeister Personal Fitness Club
 
-<h2 id="wellness">Wellness und Beauty</h2>
-
 Mit deinen Credits buchst du in Hamburg nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
-
-- **Sauna:** unter anderem private Infrarot-Sauna bei Radiance Bar in Winterhude und geführte Saunagänge bei Hytte Studios in Eimsbüttel
-- **Massage:** unter anderem Petcharat Thai Wellness in der ABC-Straße, Wasana's Smile in Harvestehude, Sai Lom Thai Massage und Phens Wellness in Bahrenfeld
-- **Head Spa:** unter anderem HEADSPA by Lasercouture in Winterhude und Ottensen und Lamea Studio
-- **Beauty:** unter anderem Waxcat in der Innenstadt, in Eimsbüttel und in Wandsbek, Kala Studio in Winterhude, Hamburg Lashes in Uhlenhorst und Cy Studio in der Grindelallee
 
 <h2 id="tipps">Tipps</h2>
 

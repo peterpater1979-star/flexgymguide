@@ -70,14 +70,7 @@ A selection of studios for each type of workout. You'll find all studios on Clas
 - **Recovery:** among others, saunas and cold plunges at 1Rebel Reset in Kensington, Chelsea, Clapham, Euston and Leadenhall, and at The Sanctuary on Cheshire Street in Shoreditch
 - **Gyms:** among others, Gymbox, Nuffield Health and Fitness4Less, plus private sessions at Solo60
 
-<h2 id="wellness">Wellness and beauty</h2>
-
 Your credits are not just for classes. In London you can also book wellness and beauty appointments.
-
-- **Spa and massage:** among others, Bamford Wellness Spa on Draycott Avenue, Wumman Spa in Fitzrovia and The Skin Co Spa on Fournier Street in Spitalfields
-- **Meditation:** among others 7 Breaths Meditation Studio at Rathbone Square, close to Tottenham Court Road
-- **Nails and beauty:** among others, The Nail Garden in Shoreditch, Soho, Leicester Square and Greenwich, Serenity Nails and Beauty in Earls Court, Chelsea and Holborn, Iris Avenue on Store Street and Seiso on Great Titchfield Street
-- **Barbers:** among others, The Gentleman's Barber in Holborn and Fitzrovia
 
 <h2 id="tips">Tips</h2>
 

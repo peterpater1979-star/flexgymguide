@@ -77,13 +77,7 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Boxen:** unter anderem Solid People und R1
 - **Gym:** unter anderem body + soul, Pace Club und THE GOOD GYM (nur für Frauen)
 
-<h2 id="wellness">Wellness und Beauty</h2>
-
 Mit deinen Credits buchst du in München nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
-
-- **Massage:** unter anderem 5 Elements Spa & Massage in Schwabing und im Glockenbachviertel und Thai-Massage bei Haedeza in der Maxvorstadt
-- **Kosmetik:** unter anderem C1 Kosmetik in der Isarvorstadt, in der Maxvorstadt und am Gärtnerplatz und der feelgoodsalon in Schwabing
-- **Waxing:** unter anderem Sugar Company in Schwabing und JM Touch of Class in Neuhausen
 
 <h2 id="tipps">Tipps</h2>
 

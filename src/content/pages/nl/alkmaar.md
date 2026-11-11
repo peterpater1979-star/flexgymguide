@@ -78,7 +78,7 @@ Een overzichtelijk aanbod, vooral in en rond het centrum. Krachttraining, open g
 
 [Bekijk de studio's in Alkmaar op ClassPass.](https://classpass.com/search/alkmaar/fitness-classes/5b72jZbeZ83)
 
-Ook voor ontspanning: massage bij City Gym aan het Laat en huid-, nagel- en wenkbrauwbehandelingen bij More Beauty aan het Groot Nieuwland. Bekijk [wellness](https://classpass.com/search/alkmaar/wellness-sessions/6AApoED1fSX) en [beauty](https://classpass.com/search/alkmaar/beauty-appointments/4EaJpSyULSK) in Alkmaar op ClassPass.
+Ook voor ontspanning: massage bij City Gym aan het Laat en huid-, nagel- en wenkbrauwbehandelingen bij More Beauty aan het Groot Nieuwland.
 
 <div class="kolommen">
 
