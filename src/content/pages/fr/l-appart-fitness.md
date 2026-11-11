@@ -116,6 +116,13 @@ Oui. Les étudiants paient 5 € de moins toutes les 4 semaines.
 
 </details>
 
+<details>
+<summary>L’Appart Fitness est-il sur ClassPass ?</summary>
+
+Certains clubs L’Appart Fitness sont sur ClassPass, par exemple à Paris (13e Charléty, 18e Jules Joffrin, 19e Bellevue), Malakoff, Saint-Germain-en-Laye et Orgeval. Les clubs qui participent en ce moment sont dans l’app ClassPass.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.lappartfitness.com/">L’Appart Fitness</a>
 </div>
