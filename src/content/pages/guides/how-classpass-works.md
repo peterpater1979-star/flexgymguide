@@ -3,7 +3,7 @@ title: "How ClassPass works: credits, plans and using it abroad"
 seoTitle: "How does ClassPass work? Credits, plans and cost"
 path: "/guides/how-classpass-works/"
 zoekwoorden: "class pass classpass price prices cost costs expensive cheap plan membership fitness pass"
-description: "ClassPass gives you one membership for classes, gym visits and wellness at thousands of studios. How credits work, what to watch out for and what it costs."
+description: "ClassPass gives you one membership for fitness classes and gym visits at thousands of studios. How credits work, what to watch out for and what it costs."
 lang: en
 land: guides
 byline: "Updated October 2026"
@@ -13,7 +13,7 @@ kicker: "Guide"
 
 <div class="fotobanner smal foto-classpass" role="img" aria-label="Group class"></div>
 
-ClassPass gives you one membership for fitness classes, gym visits and wellness at thousands of studios. Here's how credits work, what to watch out for, and how to use it when you travel.
+ClassPass gives you one membership for fitness classes and gym visits at thousands of studios. Here's how credits work, what to watch out for, and how to use it when you travel.
 
 <h2 id="try">Try ClassPass for free</h2>
 
@@ -29,7 +29,7 @@ We'll take you to the ClassPass offer for your country, with local prices and pl
 
 ## What is ClassPass?
 
-ClassPass is a monthly membership that gives you access to fitness studios, gyms, spas and salons. Instead of joining one gym, you book classes and visits at different places in your city, all from one app.
+ClassPass is a monthly membership that gives you access to fitness studios and gyms. Instead of joining one gym, you book classes and visits at different places in your city, all from one app.
 
 You don't need a separate account or payment details at each studio. You simply book in the ClassPass app and pay with credits.
 

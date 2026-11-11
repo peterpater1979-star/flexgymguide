@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Paris : studios par quartier et par sport"
 path: "/fr/classpass-paris/"
-description: "ClassPass à Paris : les studios par quartier et par sport, du Lagree et du Pilates Reformer à la boxe, au yoga et à la danse, plus le bien-être."
+description: "ClassPass à Paris : les studios par quartier et par sport, du Lagree et du Pilates Reformer à la boxe, au yoga et à la danse."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -21,7 +21,7 @@ Paris a une très grande offre sur ClassPass, répartie dans toute la ville. Tu 
 | **Prix par mois** | Abonnement standard 75 € par mois (47 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Dans toute la ville, surtout autour de l’Opéra et de la Bourse, au Marais, au canal Saint-Martin, à Bastille, à Saint-Germain et dans le 16e |
-| **Ce que tu peux faire** | Lagree, Pilates Reformer, barre, yoga, HIIT, bootcamp, cycling, rameur, boxe, arts martiaux, danse, running, cours en plein air et accès à la salle, ainsi que des séances bien-être et beauté |
+| **Ce que tu peux faire** | Lagree, Pilates Reformer, barre, yoga, HIIT, bootcamp, cycling, rameur, boxe, arts martiaux, danse, running, cours en plein air et accès à la salle |
 
 </div>
 
@@ -85,22 +85,11 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **[En plein air](/go/classpass-fr-paris-outdoor/?epi=fgg-fr-classpass-paris) :** entre autres The Outdoor Club, Pilates Garden boulevard Kellermann et Flag Training
 - **[Accès à la salle](/go/classpass-fr-paris-salle/?epi=fgg-fr-classpass-paris) :** entre autres RITM aux Champs-Élysées et à Saint-Germain, Fitness Park à Courbevoie, Keepcool à Puteaux, Gigafit à Paris, R2 Training à Vendôme et à Bastille, Club Maillot, easyGym à Palais-Royal et sur les Grands Boulevards, L’Appart Fitness dans le 13e, le 18e et le 19e, Magic Form dans le 12e et le 14e, GymPark à Bercy et Gigafit dans le 18e
 
-<h2 id="bien-etre">Bien-être et beauté</h2>
-
-Avec tes crédits, tu ne réserves pas seulement des cours à Paris, mais aussi des séances bien-être et beauté. Voici quelques adresses ; clique sur une catégorie pour voir toute l’offre.
-
-- **[Sauna](/go/classpass-fr-paris-sauna/?epi=fgg-fr-classpass-paris) :** entre autres Carbonne boulevard Saint-Martin, HOOM Paris rue Saint-Sauveur, Gong Paris rue Desaix, Dropp Sauna boulevard Poniatowski et Maison Thaï Spa boulevard de Magenta
-- **[Massage](/go/classpass-fr-paris-massage/?epi=fgg-fr-classpass-paris) :** entre autres Maison Thaï Spa, LAMOON THAÏ SPA rue de Turin, Nakhon Spa avenue Victor-Hugo, Spa Thai Luxe dans le Marais, Ban Sin Thai rue de Vaugirard, CALMA PARIS rue Christine et ORA Massage rue des Mathurins
-- **[Méditation](/go/classpass-fr-paris-meditation/?epi=fgg-fr-classpass-paris) :** entre autres relaxation par le son chez Zen & Sounds boulevard de Charonne, le Centre de Yoga Sivananda, Le Centre Element dans le Marais, Ground to Grow et des séances chez KORE et Modo Yoga
-- **[Soins du visage](/go/classpass-fr-paris-visage/?epi=fgg-fr-classpass-paris) :** entre autres Institut Alixe Fougères à plusieurs adresses, Skin and Soul Studio rue Cadet, Madame Z Institut passage du Grand-Cerf, Better than cream rue du Caire et Cercle Delacre, soins pour hommes avenue George-V
-- **[Beauté](/go/classpass-fr-paris-beaute/?epi=fgg-fr-classpass-paris) :** entre autres ongles chez PERLIE NAILS rue Le Peletier, Studio Palma rue Théophile-Roussel, W Ongles près du canal Saint-Martin, Triomphe Nail Bar rue Belidor et Sweet Salon rue de Penthièvre, soins et épilation chez Zen d’amour rue du Temple, You Rêve Paris près du Louvre, Miss U dans le Marais et Fil’me in rue Tiquetonne et rue Beaurepaire, coiffure chez Salon Rémi Thor rue Laffitte et soins pour hommes chez Le barbier des voyeurs à Saint-Germain et aux Ternes
-
 <h2 id="conseils">Conseils</h2>
 
 - Les cours populaires tôt le matin et après le travail sont vite complets. Réserve quelques jours à l’avance.
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
 - Beaucoup de studios ont plusieurs adresses dans Paris. Regarde bien l’adresse au moment de réserver.
-- Certains instituts bien-être et beauté demandent de confirmer le rendez-vous par téléphone ou par leur propre système de réservation. Lis les consignes du studio avant de réserver.
 - Ton abonnement parisien marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
 [Voir les studios à Paris sur ClassPass.](/go/classpass-fr-paris/?epi=fgg-fr-classpass-paris)

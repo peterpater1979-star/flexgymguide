@@ -92,8 +92,6 @@ El centro, Santa Catalina, Ponent y Llevant, y también en Portals Nous, Palmano
 - **[Baile](/go/classpass-es-palma-de-mallorca-baile/?epi=fgg-es-palma-de-mallorca)**: pole dance en Art & Danses en Coll d’en Rabassa
 - **[Gimnasio](/go/classpass-es-palma-de-mallorca-gimnasio/?epi=fgg-es-palma-de-mallorca)**: The Glute Shop, solo para mujeres, en Ponent
 - **[Running](/go/classpass-es-palma-de-mallorca-running/?epi=fgg-es-palma-de-mallorca)**: Re-generation Mallorca
-- **[Masaje](/go/classpass-es-palma-de-mallorca-masaje/?epi=fgg-es-palma-de-mallorca)** y **[bienestar](/go/classpass-es-palma-de-mallorca-bienestar/?epi=fgg-es-palma-de-mallorca)**: HEAT Palma junto al paseo del Born, Ginger Redwood en la avenida de Joan Miró y SO MALLORCA
-- **[Belleza](/go/classpass-es-palma-de-mallorca-belleza/?epi=fgg-es-palma-de-mallorca)**: faciales en Ginger Redwood
 - También **[al aire libre](/go/classpass-es-palma-de-mallorca-aire-libre/?epi=fgg-es-palma-de-mallorca)**
 
 [Ver los estudios en Palma en ClassPass](/go/classpass-es-palma-de-mallorca/?epi=fgg-es-palma-de-mallorca)

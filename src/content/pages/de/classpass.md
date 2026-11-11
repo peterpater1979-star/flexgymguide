@@ -65,7 +65,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 
 <h2 id="kosten">Was kostet ClassPass in Deutschland?</h2>
 
-Es gibt sechs Abos. Sie unterscheiden sich nur in der Zahl der Credits: Mit jedem Abo kannst du alle Studios, Gyms und Wellness-Angebote auf ClassPass buchen.
+Es gibt sechs Abos. Sie unterscheiden sich nur in der Zahl der Credits: Mit jedem Abo kannst du alle Studios und Gyms auf ClassPass buchen.
 
 | Abo pro Monat | Credits |
 | --- | --- |

@@ -27,7 +27,7 @@ New members can try ClassPass first. You visit a number of studios and gyms, eac
 
 - **Once per location.** You can visit each studio or gym once. If you book a class and cancel it, you can't book there again during the trial.
 - **Cancellation fees still apply.** If you cancel late or don't show up, you pay the usual fee, also during the trial.
-- **Extra credits.** Some trial offers let you buy extra credits, for example to visit a studio again or for a spa or salon appointment.
+- **Extra credits.** Some trial offers let you buy extra credits, for example to visit a studio again.
 - **Upgrading early.** Some offers let you switch to a monthly plan straight away. Then you can also go back to the same studio.
 
 <h2 id="end">When the trial ends</h2>

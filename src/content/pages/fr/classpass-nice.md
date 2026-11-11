@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Nice : studios par quartier et par sport"
 path: "/fr/classpass-nice/"
-description: "ClassPass à Nice : les studios par quartier et par sport, du Pilates Reformer et du Lagree au yoga et au cycling, plus le bien-être et la beauté."
+description: "ClassPass à Nice : les studios par quartier et par sport, du Pilates Reformer et du Lagree au yoga et au cycling."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -21,7 +21,7 @@ Nice a une belle offre sur ClassPass, avec beaucoup de Pilates Reformer et de La
 | **Prix par mois** | Abonnement standard 59 € par mois (37 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Surtout dans le centre autour de l’avenue Jean-Médecin, au Carré d’Or, au Port et à Cimiez |
-| **Ce que tu peux faire** | Pilates Reformer, Lagree, barre, yoga, cycling, HIIT, renforcement musculaire et danse, ainsi que des séances bien-être et beauté |
+| **Ce que tu peux faire** | Pilates Reformer, Lagree, barre, yoga, cycling, HIIT, renforcement musculaire et danse |
 
 </div>
 
@@ -33,11 +33,11 @@ Quelques exemples par quartier. Il y a plus de studios que ceux cités ici : cli
 
 ### Centre et Jean-Médecin
 
-Cycling chez Amplify et renforcement et Pilates chez A CASA FIT rue Gioffredo, Pilates Reformer chez A CASA FIT rue Gubernatis, Neoformer et Reformer chez Studio A avenue Jean-Médecin et danse et yoga chez Sopolendance à la même adresse. Lagree chez Shakeen Studio rue Biscarra et chez Pulse Effect boulevard Dubouchage, yoga chez InnerMove rue de la Liberté et sport et bien-être chez Flexx Club rue Sacha-Guitry.
+Cycling chez Amplify et renforcement et Pilates chez A CASA FIT rue Gioffredo, Pilates Reformer chez A CASA FIT rue Gubernatis, Neoformer et Reformer chez Studio A avenue Jean-Médecin et danse et yoga chez Sopolendance à la même adresse. Lagree chez Shakeen Studio rue Biscarra et chez Pulse Effect boulevard Dubouchage, yoga chez InnerMove rue de la Liberté et danse chez Flexx Club rue Sacha-Guitry.
 
 ### Carré d’Or, Musiciens et Gambetta
 
-Cycling et Pilates chez La Parenthèse rue du Congrès, Lagree et renforcement chez My Time Coaching rue du Maréchal-Joffre, yoga chez Karène Yoga Rituel et Soins (Seven Garden) rue Rosanoff et renforcement et boxe chez Oracless rue de la Buffa. Pilates chez Define Studio rue Guiglia et chez Jeydance Pilates rue Vernier, et yoga chez Yurvedik Yoga rue Rancher.
+Cycling et Pilates chez La Parenthèse rue du Congrès, Lagree et renforcement chez My Time Coaching rue du Maréchal-Joffre, yoga chez Karène Yoga (Seven Garden) rue Rosanoff et renforcement et boxe chez Oracless rue de la Buffa. Pilates chez Define Studio rue Guiglia et chez Jeydance Pilates rue Vernier, et yoga chez Yurvedik Yoga rue Rancher.
 
 ### Port, Garibaldi et Riquier
 
@@ -58,18 +58,11 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **[Pilates](/go/classpass-fr-nice-pilates/?epi=fgg-fr-classpass-nice) :** entre autres A CASA FIT, Studio A, Panterra, Le Temple, Studio 52, All You Club, La Parenthèse, Define Studio, Jeydance Pilates et The New Me
 - **Lagree :** entre autres Shakeen Studio, Pulse Effect, INHER Studio et My Time Coaching
 - **[Barre](/go/classpass-fr-nice-barre/?epi=fgg-fr-classpass-nice) :** entre autres All You Club
-- **[Yoga](/go/classpass-fr-nice-yoga/?epi=fgg-fr-classpass-nice) :** entre autres Yurvedik Yoga, InnerMove, Karène Yoga Rituel et Soins et Sopolendance
+- **[Yoga](/go/classpass-fr-nice-yoga/?epi=fgg-fr-classpass-nice) :** entre autres Yurvedik Yoga, InnerMove, Karène Yoga et Sopolendance
 - **[Cycling](/go/classpass-fr-nice-cycling/?epi=fgg-fr-classpass-nice) :** entre autres Amplify, LE LAB Cycling et La Parenthèse
 - **[HIIT et renforcement](/go/classpass-fr-nice-hiit/?epi=fgg-fr-classpass-nice) :** entre autres Oracless, Athlètes Fabrik, Raise Studio, A CASA FIT, LE LAB Cycling et Flexx Club
 - **Danse :** entre autres Sopolendance, Flexx Club et Jeydance Pilates
 - **Boxe :** entre autres Oracless et Le Temple
-
-<h2 id="bien-etre">Bien-être et beauté</h2>
-
-Avec tes crédits, tu ne réserves pas seulement des cours à Nice, mais aussi des séances bien-être et beauté. Voici quelques adresses ; clique sur une catégorie pour voir toute l’offre.
-
-- **[Bien-être](/go/classpass-fr-nice-bien-etre/?epi=fgg-fr-classpass-nice) :** entre autres des massages et des séances de méditation en groupe chez Silence boulevard Risso et des soins manuels chez Thérapeute Postural rue Gioffredo
-- **[Beauté](/go/classpass-fr-nice-beaute/?epi=fgg-fr-classpass-nice) :** entre autres les soins du visage chez Seasonly rue Masséna
 
 <h2 id="conseils">Conseils</h2>
 

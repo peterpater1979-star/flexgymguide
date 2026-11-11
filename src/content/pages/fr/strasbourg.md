@@ -119,7 +119,6 @@ Dans le centre (Grande Île, Neudorf) et au boulevard de Nancy, et aussi au nord
 - **[Boxe](/go/classpass-fr-strasbourg-boxe/?epi=fgg-fr-strasbourg)** : O’Zone Hiit Studios et Cercle Boxing Strasbourg à Lampertheim (boxe sur sacs à eau et bootcamp)
 - **[Renforcement et bootcamp](/go/classpass-fr-strasbourg-bootcamp/?epi=fgg-fr-strasbourg)** : Swedish Fit à Neudorf (rue du Lazaret et rue de la Charité) et Cercle Boxing Strasbourg
 - **[Accès à la salle](/go/classpass-fr-strasbourg-salle/?epi=fgg-fr-strasbourg)** : à voir selon les créneaux du moment
-- **[Bien-être](/go/classpass-fr-strasbourg-bien-etre/?epi=fgg-fr-strasbourg)** : massages et méditation, entre autres à Illkirch-Graffenstaden
 
 [Voir les studios à Strasbourg sur ClassPass](/go/classpass-fr-strasbourg/?epi=fgg-fr-strasbourg)
 

@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Bordeaux : studios par quartier et par sport"
 path: "/fr/classpass-bordeaux/"
-description: "ClassPass à Bordeaux : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe, au bootcamp et au cycling, plus le bien-être."
+description: "ClassPass à Bordeaux : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe, au bootcamp et au cycling."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -21,7 +21,7 @@ Bordeaux a une belle offre sur ClassPass, surtout en yoga et en Pilates. Tu trou
 | **Prix par mois** | Abonnement standard 59 € par mois (37 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Surtout dans le centre (Pey-Berland, Saint-Pierre), aux Chartrons, à Saint-Genès et à la Bastide |
-| **Ce que tu peux faire** | Pilates Reformer, Lagree, yoga, barre, HIIT, bootcamp, cycling, boxe, danse, running, cours en plein air et accès à la salle, ainsi que des séances bien-être et beauté |
+| **Ce que tu peux faire** | Pilates Reformer, Lagree, yoga, barre, HIIT, bootcamp, cycling, boxe, danse, running, cours en plein air et accès à la salle |
 
 </div>
 
@@ -72,20 +72,10 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **[En plein air](/go/classpass-fr-bordeaux-outdoor/?epi=fgg-fr-classpass-bordeaux) :** entre autres EXPERT SPORTIF aux Bassins à flot et YogaTravelers
 - **[Accès à la salle](/go/classpass-fr-bordeaux-salle/?epi=fgg-fr-classpass-bordeaux) :** entre autres Square Gym, Crossfit 3 moons et O‑ZONE
 
-<h2 id="bien-etre">Bien-être et beauté</h2>
-
-Avec tes crédits, tu ne réserves pas seulement des cours à Bordeaux, mais aussi des séances bien-être et beauté. Voici quelques adresses ; clique sur une catégorie pour voir toute l’offre.
-
-- **[Massage](/go/classpass-fr-bordeaux-massage/?epi=fgg-fr-classpass-bordeaux) :** entre autres Sane Massages rue Ausone, Maison Mana’o boulevard du Président-Wilson, Sensibelle rue du Loup, Barbara & Moi chez The Sport Society et Amandine sérénité massage
-- **[Sauna](/go/classpass-fr-bordeaux-sauna/?epi=fgg-fr-classpass-bordeaux) :** entre autres Fedor Club et Naturôme rue des Menuts
-- **[Méditation](/go/classpass-fr-bordeaux-meditation/?epi=fgg-fr-classpass-bordeaux) :** entre autres Lemon Twist Social Club
-- **[Beauté](/go/classpass-fr-bordeaux-beaute/?epi=fgg-fr-classpass-bordeaux) :** entre autres Seasonly cours Georges-Clemenceau, Calvin and Lane et Morgane Paul
-
 <h2 id="conseils">Conseils</h2>
 
 - Les cours populaires tôt le matin et après le travail sont vite complets. Réserve quelques jours à l’avance.
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
-- Certains instituts bien-être et beauté demandent de confirmer le rendez-vous par téléphone ou par leur propre système de réservation. Lis les consignes du studio avant de réserver.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
 [Voir les studios à Bordeaux sur ClassPass.](/go/classpass-fr-bordeaux/?epi=fgg-fr-classpass-bordeaux)

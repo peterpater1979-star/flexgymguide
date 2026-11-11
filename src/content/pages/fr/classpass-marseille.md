@@ -1,7 +1,7 @@
 ---
 title: "ClassPass à Marseille : studios par quartier et par sport"
 path: "/fr/classpass-marseille/"
-description: "ClassPass à Marseille : les studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp et à la danse, plus le bien-être."
+description: "ClassPass à Marseille : les studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp et à la danse."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -21,7 +21,7 @@ Marseille a une belle offre sur ClassPass, surtout en Pilates et en yoga. Tu tro
 | **Prix par mois** | Abonnement standard 59 € par mois (37 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Surtout autour du Vieux-Port, à Castellane et au Prado, à Endoume, à Longchamp et aux Cinq-Avenues |
-| **Ce que tu peux faire** | Pilates, yoga, barre, HIIT, bootcamp, cycling, boxe, arts martiaux, danse, cours en plein air et accès à la salle, ainsi que des séances bien-être et beauté |
+| **Ce que tu peux faire** | Pilates, yoga, barre, HIIT, bootcamp, cycling, boxe, arts martiaux, danse, cours en plein air et accès à la salle |
 
 </div>
 
@@ -71,19 +71,11 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **[En plein air](/go/classpass-fr-marseille-outdoor/?epi=fgg-fr-classpass-marseille) :** entre autres Flow Studio, Move with ajna, A Little Family et Launomad yoga
 - **[Accès à la salle](/go/classpass-fr-marseille-salle/?epi=fgg-fr-classpass-marseille) :** entre autres Keepcool rue d’Alger, boulevard Rabatau et rue Peyssonnel, L’Orange Bleue, Fitnesscity, Athletics Club, easyGym et Samfit
 
-<h2 id="bien-etre">Bien-être et beauté</h2>
-
-Avec tes crédits, tu ne réserves pas seulement des cours à Marseille, mais aussi des séances bien-être et beauté. Voici quelques adresses ; clique sur une catégorie pour voir toute l’offre.
-
-- **[Bien-être](/go/classpass-fr-marseille-bien-etre/?epi=fgg-fr-classpass-marseille) :** entre autres des massages chez Nature&Vi boulevard Gustave-Ganay, Maofa rue d’Endoume, A Little Family, Océane Lemaitre rue du Rouet et En Equilibre dans le 9e, le sauna infrarouge by KUBE rue Grignan et la méditation sonore en groupe à la Maison R près du parc Longchamp
-- **[Beauté](/go/classpass-fr-marseille-beaute/?epi=fgg-fr-classpass-marseille) :** entre autres Les Instituts Bovi et les soins du visage chez Patricia Alvarez rue d’Alsace
-
 <h2 id="conseils">Conseils</h2>
 
 - Les cours populaires tôt le matin et après le travail sont vite complets. Réserve quelques jours à l’avance.
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
 - Beaucoup de cours en plein air ont lieu au bord de la mer. Regarde bien le point de rendez-vous au moment de réserver.
-- Certains instituts bien-être et beauté demandent de confirmer le rendez-vous par téléphone ou par leur propre système de réservation. Lis les consignes du studio avant de réserver.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
 [Voir les studios à Marseille sur ClassPass.](/go/classpass-fr-marseille/?epi=fgg-fr-classpass-marseille)

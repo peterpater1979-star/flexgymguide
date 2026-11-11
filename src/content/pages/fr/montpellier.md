@@ -118,7 +118,6 @@ Dans le centre (Écusson, Arceaux, Saint-Roch) et aux Prés d’Arènes, et auss
 - **[Accès à la salle](/go/classpass-fr-montpellier-salle/?epi=fgg-fr-montpellier)** : Movida Club, Training Go et Ethik Sport Club
 - **[Danse](/go/classpass-fr-montpellier-danse/?epi=fgg-fr-montpellier)** : chez Training Go à Castelnau-le-Lez
 - **[Barre](/go/classpass-fr-montpellier-barre/?epi=fgg-fr-montpellier)**, **[HIIT](/go/classpass-fr-montpellier-hiit/?epi=fgg-fr-montpellier)**, **[arts martiaux](/go/classpass-fr-montpellier-arts-martiaux/?epi=fgg-fr-montpellier)**, **[boxe](/go/classpass-fr-montpellier-boxe/?epi=fgg-fr-montpellier)** et **[vélo en salle](/go/classpass-fr-montpellier-cycling/?epi=fgg-fr-montpellier)** : à voir selon les créneaux du moment
-- **[Bien-être](/go/classpass-fr-montpellier-bien-etre/?epi=fgg-fr-montpellier)** : massages au Cabinet du Deep Tissue, au centre commercial Polygone
 
 [Voir les studios à Montpellier sur ClassPass](/go/classpass-fr-montpellier/?epi=fgg-fr-montpellier)
 

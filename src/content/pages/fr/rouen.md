@@ -100,7 +100,7 @@ Surtout dans le centre et aux Docks 76, avec par sport :
 
 - **Pilates Reformer** : deux studios The New Me, rue Rollon et place du Général-de-Gaulle, et des cours de Pilates chez Lab.Rouen rue de l’Ancienne-Prison
 - **Renforcement en petit groupe** : Lab.Rouen, et Gym One rue de Fontenelle (coaching privé et boxe)
-- **Accès à la salle** : Accrosport aux Docks 76, avec cardio, musculation, vélo et sauna
+- **Accès à la salle** : Accrosport aux Docks 76, avec cardio, musculation et vélo
 - **En été** : le parc AccroCamp rue Sainte-Amélie
 
 ### Bon pour

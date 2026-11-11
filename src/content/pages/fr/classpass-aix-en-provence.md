@@ -22,7 +22,7 @@ Aix-en-Provence a une belle offre sur ClassPass pour une ville de sa taille, sur
 | **Prix par mois** | Abonnement standard 59 € par mois (37 crédits) |
 | **Pour essayer** | 14 jours gratuits, 10 séances |
 | **Où** | Surtout dans le centre historique autour du cours Mirabeau, au Pôle d’Activités et aux Milles, et aussi à Éguilles et Venelles |
-| **Ce que tu peux faire** | Pilates Reformer, Lagree, Hot Pilates, barre, yoga, boxe, HYROX, danse, cours en plein air et accès à la salle, ainsi que quelques séances bien-être |
+| **Ce que tu peux faire** | Pilates Reformer, Lagree, Hot Pilates, barre, yoga, boxe, HYROX, danse, cours en plein air et accès à la salle |
 
 </div>
 
@@ -62,12 +62,6 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **[En plein air](/go/classpass-fr-aix-en-provence-outdoor/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres JR Fitn’aix au stade Carcassonne
 - **[Accès à la salle](/go/classpass-fr-aix-en-provence-salle/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres Fitness Park dans le centre et 510 Training Club à Éguilles
 - **Escalade :** entre autres Climb Up à Bouc-Bel-Air
-
-<h2 id="bien-etre">Bien-être</h2>
-
-Avec tes crédits, tu réserves aussi des séances bien-être. L’offre à Aix est encore petite.
-
-- **[Bien-être](/go/classpass-fr-aix-en-provence-bien-etre/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres des séances de récupération chez Maison Susa rue Manuel
 
 <h2 id="conseils">Conseils</h2>
 

@@ -120,7 +120,6 @@ Surtout dans le centre, autour des Carmes, du Capitole, de Matabiau et du Grand-
 - **[Arts martiaux et boxe](/go/classpass-fr-toulouse-arts-martiaux/?epi=fgg-fr-toulouse)** : MMA, grappling et boxe anglaise chez Martial Art Family rue Roquelaine
 - **[Danse](/go/classpass-fr-toulouse-danse/?epi=fgg-fr-toulouse)** : pole dance chez Miss Pole rue Boulbonne et rue d’Alsace-Lorraine
 - **[Accès à la salle](/go/classpass-fr-toulouse-salle/?epi=fgg-fr-toulouse)** : GARY’S à Montaudran
-- **[Bien-être](/go/classpass-fr-toulouse-bien-etre/?epi=fgg-fr-toulouse)** : massages chez EVENERGIE rue Saint-Bertrand et à Montrabé, et méditation chez ZenLab Studio
 
 [Voir les studios à Toulouse sur ClassPass](/go/classpass-fr-toulouse/?epi=fgg-fr-toulouse)
 

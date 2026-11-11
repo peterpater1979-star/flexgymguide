@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in München: Studios nach Viertel und Sportart"
 path: "/de/classpass-muenchen/"
-description: "ClassPass in München: Studios nach Viertel und Sportart, von Reformer-Pilates und Lagree bis Indoor-Cycling, Bootcamp, Yoga und Beauty."
+description: "ClassPass in München: Studios nach Viertel und Sportart, von Reformer-Pilates und Lagree bis Indoor-Cycling, Bootcamp und Yoga."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -21,7 +21,7 @@ München hat auf ClassPass ein sehr großes Angebot, verteilt über die ganze St
 | **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) |
 | **Ausprobieren** | 1 Monat gratis, 10 Workouts |
 | **Wo** | In der ganzen Stadt, vor allem in der Maxvorstadt, in Schwabing, im Glockenbachviertel und in Haidhausen |
-| **Was du machen kannst** | Reformer-Pilates, Lagree, Barre, Yoga, Indoor-Cycling, HIIT, Bootcamp, HYROX, Boxen und Gym-Besuche, dazu Wellness- und Beauty-Termine |
+| **Was du machen kannst** | Reformer-Pilates, Lagree, Barre, Yoga, Indoor-Cycling, HIIT, Bootcamp, HYROX, Boxen und Gym-Besuche |
 
 </div>
 
@@ -77,20 +77,11 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Boxen:** unter anderem Solid People und R1
 - **Gym:** unter anderem body + soul, Pace Club und THE GOOD GYM (nur für Frauen)
 
-<h2 id="wellness">Wellness und Beauty</h2>
-
-Mit deinen Credits buchst du in München nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
-
-- **Massage:** unter anderem 5 Elements Spa & Massage in Schwabing und im Glockenbachviertel und Thai-Massage bei Haedeza in der Maxvorstadt
-- **Kosmetik:** unter anderem C1 Kosmetik in der Isarvorstadt, in der Maxvorstadt und am Gärtnerplatz und der feelgoodsalon in Schwabing
-- **Waxing:** unter anderem Sugar Company in Schwabing und JM Touch of Class in Neuhausen
-
 <h2 id="tipps">Tipps</h2>
 
 - Beliebte Reformer-Kurse in der Maxvorstadt und in Schwabing sind am frühen Morgen und nach Feierabend schnell voll. Buch ein paar Tage im Voraus.
 - Für Reformer- und Lagree-Kurse brauchst du fast immer Socken mit Grip. Komm beim ersten Mal etwa 15 Minuten früher.
 - Wie viele Credits ein Kurs kostet, hängt vom Studio und von der Uhrzeit ab. Kurse außerhalb der Stoßzeiten sind oft günstiger.
-- Manche Beauty-Studios wollen, dass du den Termin vorher telefonisch bestätigst. Lies die Hinweise beim Studio, bevor du buchst.
 - Dein Münchner Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt.
 
 [Sieh dir die Studios in München auf ClassPass an.](https://classpass.com/search/munich/fitness-classes/5ibjGreKWLX)
