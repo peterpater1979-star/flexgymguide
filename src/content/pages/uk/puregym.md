@@ -1,5 +1,3 @@
-Cancelling, step by step: [how to cancel PureGym](/uk/cancel-puregym/).
-
 ---
 title: "PureGym: no-contract gym memberships, prices and plans"
 path: "/uk/puregym/"
@@ -38,6 +36,8 @@ PureGym is a budget gym chain with over 450 gyms across the UK, most of them ope
 | **Plus** | More gyms and extras; book classes 14 days ahead instead of 8 |
 
 What each plan costs depends on the gym. You'll see the exact price when you pick a gym on the PureGym site.
+
+Cancelling, step by step: [how to cancel PureGym](/uk/cancel-puregym/).
 
 <h2 id="classpass">PureGym or ClassPass?</h2>
 

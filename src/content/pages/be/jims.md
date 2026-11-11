@@ -1,5 +1,3 @@
-Opzeggen, stap voor stap: [Jims opzeggen](/be/jims-opzeggen/).
-
 ---
 title: "Jims: abonnementen, prijzen en groepslessen in België"
 path: "/be/jims/"
@@ -38,6 +36,8 @@ Jims is een Belgische sportschoolketen met meer dan 80 clubs in België. Je kies
 | **All-in** | Vanaf € 59,99 | € 49,99 | Het ruimste abonnement; wat erbij zit staat op jims.be |
 
 Jims biedt ook een jaarabonnement en een prepaid-pas. Een dagpas kost € 15 in de club; schrijf je je daarna in, dan krijg je dat bedrag terug als korting.
+
+Opzeggen, stap voor stap: [Jims opzeggen](/be/jims-opzeggen/).
 
 <h2 id="classpass">Jims of ClassPass?</h2>
 
