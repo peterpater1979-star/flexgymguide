@@ -90,7 +90,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, WellNess Sport Club, RITM et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, Neoness, L’Appart Fitness, WellNess Sport Club, RITM et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="villes">
 
@@ -191,6 +191,24 @@ Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+### Neoness
+
+Surtout en Île-de-France, avec accès à environ 270 clubs du réseau Neoness et Keepcool. Access 29,99 € ou Prime 34,99 € toutes les 4 semaines, avec engagement, plus 49 € de frais d’adhésion.
+
+- Idéal si tu vas souvent à la salle toute l’année
+- Cours collectifs et pause vacances avec Prime
+- Pas de formule sans engagement
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
 </div>
 
 </div>

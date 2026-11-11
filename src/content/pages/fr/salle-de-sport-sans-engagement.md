@@ -82,7 +82,7 @@ Des clubs tout inclus avec cours collectifs, cours aquatiques et espace bien-êt
 
 ### Et les autres ?
 
-Chez [L’Orange bleue](/fr/l-orange-bleue/), les formules sont avec un engagement d’un ou deux ans. Chez [Gigafit](/fr/gigafit/), ça dépend du club : certains proposent une formule sans engagement pour quelques euros de plus.
+Chez [L’Orange bleue](/fr/l-orange-bleue/), les formules sont avec un engagement d’un ou deux ans. Chez [Neoness](/fr/neoness/), toutes les formules sont avec engagement (52 semaines pour Access, dès 29,99 € toutes les 4 semaines). Chez [Gigafit](/fr/gigafit/), ça dépend du club : certains proposent une formule sans engagement pour quelques euros de plus.
 
 <h2 id="villes">Par ville</h2>
 
