@@ -12,14 +12,14 @@ kicker: "Proveedor: gimnasio"
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Gimnasio"></div>
 
-DiR es una cadena de gimnasios de Barcelona, con más de 20 clubes en la ciudad y otros en Sant Cugat y el resto de Cataluña. Muchos clubes tienen piscina, zona termal y muchas clases colectivas. Eliges una cuota para tu club y para la franja horaria en la que entrenas: todo el día, solo por la mañana, al mediodía o el fin de semana. Con Premium All Clubs entras en todos los clubes.
+DiR es una cadena de gimnasios de Barcelona, con 37 clubes: 21 en la ciudad y el resto en Cataluña. Muchos clubes tienen piscina, zona termal y muchas clases colectivas. Eliges una cuota para tu club y para la franja horaria en la que entrenas: todo el día, solo por la mañana, al mediodía o el fin de semana. Con Premium All Clubs entras en todos los clubes.
 
 <h2 id="resumen">En resumen</h2>
 
 | | DiR |
 | --- | --- |
 | **Tipo** | Gimnasios con clases colectivas, muchos con piscina y spa |
-| **Clubes** | Más de 20 en Barcelona, y otros en Cataluña |
+| **Clubes** | 37, de ellos 21 en Barcelona |
 | **Precio** | Todo el día de 40,60 a 44,10 € al mes, según el club |
 | **Más barato** | Mañana, mediodía o fin de semana, desde 22,40 € al mes |
 | **Todos los clubes** | Premium All Clubs, desde 89,10 € al mes |
@@ -50,10 +50,10 @@ Son precios "desde", al mes. Cada club tiene su propio precio: en DiR Gràcia pa
 <h2 id="clubes">Los clubes</h2>
 
 <ul class="stedenlijst">
-<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">DiR Av. Madrid, Campus, Castillejos, Claret, Claris, Diagonal, Gràcia, Hispà, Maragall, Tarragona, Tres Torres, Tuset y Up&amp;Down, y los BDiR Alcúdia, Calvet, Granados, Lesseps, Llúria y Mallorca</span></li>
+<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">DiR Av. Madrid, Campus, Castillejos, Claret, Claris, Diagonal, Esportiu Rocafort, Gràcia, Hispà, Maragall, Tarragona, Tres Torres, Tuset y Up&amp;Down, y los BDiR Alcúdia, Calvet, Granados, Lesseps, Llúria, Mallorca y Putxet</span></li>
 </ul>
 
-Fuera de Barcelona, DiR tiene clubes entre otros en Sant Cugat del Vallès, Sabadell, Cornellà, Mataró, Manresa y Vic. Todos los clubes están en [dir.cat](https://www.dir.cat/es/).
+Fuera de Barcelona, DiR tiene clubes en Sant Cugat del Vallès, Sabadell, Sant Quirze del Vallès, Cornellà, Mataró, Premià de Dalt (Maresme), Parets del Vallès, Polinyà, Palau-solità i Plegamans, Manresa, Vic, Piera, Figueres, Platja d’Aro, Tarragona (Golf Costa Daurada) y Alp (Fontanals). Todos los clubes están en [dir.cat](https://www.dir.cat/es/).
 
 <h2 id="baja">Darse de baja</h2>
 
