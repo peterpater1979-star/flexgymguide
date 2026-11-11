@@ -1,7 +1,8 @@
 ---
 title: "Basic-Fit : formules, Flex sans engagement et prix"
+seoTitle: "Basic-Fit : formules et prix en France"
 path: "/fr/basic-fit/"
-description: "Tout sur Basic-Fit en France : plus de 300 clubs, Comfort, Premium et Ultimate, abonnement d’un an ou Flex sans engagement, frais et résiliation."
+description: "Prix Basic-Fit : Comfort dès 24,99 €, Premium et Ultimate, toutes les 4 semaines avec engagement d’un an, ou Flex sans engagement dès 34,98 €. Frais et résiliation."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

@@ -1,7 +1,8 @@
 ---
 title: "Keepcool : formules, prix et pour qui c’est fait"
+seoTitle: "Keepcool : tarifs et prix des abonnements"
 path: "/fr/keepcool/"
-description: "Tout sur Keepcool en France : plus de 270 salles, coachs et cours en petits groupes, prix avec ou sans engagement, séance d’essai et villes."
+description: "Prix Keepcool : dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement. Frais d’inscription, formules, séance d’essai et villes."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

@@ -26,7 +26,7 @@ Urban Sports Club est un pass sport avec un prix fixe par mois. Avec ton abonnem
 | **Villes** | Paris et de nombreuses autres villes en France |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Lieux partenaires dans 6 pays européens |
 
-<p class="klein">Source : urbansportsclub.com, prix de l’abonnement mensuel à Paris (novembre 2026), TVA comprise. Les prix peuvent varier selon la ville. Vérifie toujours les prix actuels sur leur site.</p>
+<p class="klein">Source : urbansportsclub.com, prix de l’abonnement mensuel à Paris (novembre 2026). Les prix peuvent varier selon la ville. Vérifie toujours les prix actuels sur leur site.</p>
 
 <h2 id="formules">Les formules à Paris</h2>
 

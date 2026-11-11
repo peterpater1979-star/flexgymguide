@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Reims en toute flexibilité"
-seoTitle: "ClassPass Reims : faire du sport sans engagement"
+seoTitle: "Sport sans engagement à Reims : studios et cours"
 path: "/fr/reims/"
-description: "À Reims, fais du sport sans être lié à une seule salle : avec un pass sport, tu t’entraînes dans des studios de la ville."
+description: "À Reims, fais du sport sans être lié à une seule salle : avec ClassPass, tu t’entraînes dans des studios de la ville."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"

@@ -26,7 +26,7 @@ Urban Sports Club es un pase deportivo con un precio fijo al mes. Con tu suscrip
 | **Ciudades** | Madrid, Barcelona y muchas otras ciudades de España |
 | **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Centros asociados en 6 países europeos |
 
-<p class="klein">Fuente: urbansportsclub.com, precios de la suscripción mensual en Madrid y Barcelona (noviembre de 2026), IVA incluido. Los precios pueden variar según la ciudad. Consulta siempre los precios actuales en su web.</p>
+<p class="klein">Fuente: urbansportsclub.com, precios de la suscripción mensual en Madrid y Barcelona (noviembre de 2026). Los precios pueden variar según la ciudad. Consulta siempre los precios actuales en su web.</p>
 
 <h2 id="planes">Los planes en Madrid y Barcelona</h2>
 

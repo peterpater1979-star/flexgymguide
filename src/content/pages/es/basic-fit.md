@@ -1,7 +1,8 @@
 ---
 title: "Basic-Fit en España: cuotas, Flex sin permanencia y precios"
+seoTitle: "Basic-Fit España: precios y cuota Flex sin permanencia"
 path: "/es/basic-fit/"
-description: "Todo sobre Basic-Fit en España: cuotas Comfort, Premium y Ultimate, contrato anual o Flex sin permanencia, inscripción y cómo darse de baja."
+description: "Precios de Basic-Fit en España: Comfort desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 €. Inscripción, cuotas y la baja."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

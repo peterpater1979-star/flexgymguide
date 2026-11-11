@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Valencia con flexibilidad"
-seoTitle: "ClassPass Valencia: entrenar sin permanencia"
+seoTitle: "Gimnasio sin permanencia en Valencia"
 path: "/es/valencia/"
-description: "¿No quieres atarte a un solo gimnasio? En Valencia puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Valencia puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

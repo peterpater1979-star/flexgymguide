@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Madrid con flexibilidad"
-seoTitle: "ClassPass Madrid: entrenar sin permanencia"
+seoTitle: "Entrenar en Madrid: pases, estudios y gimnasios"
 path: "/es/madrid/"
-description: "¿No quieres atarte a un solo gimnasio? En Madrid puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Madrid puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

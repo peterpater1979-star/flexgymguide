@@ -324,6 +324,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 
 <h2 id="gidsen">Guides</h2>
 
+- **[Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/)** · les chaînes et pass sport côte à côte
 - **[Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)** · ce qui te correspond
 - **[Les crédits ClassPass](/fr/credits-classpass/)** · plus de cours avec ton abonnement
 - **[Ton premier cours](/fr/premier-cours/)** · quoi emporter

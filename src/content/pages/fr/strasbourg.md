@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Strasbourg en toute flexibilité"
-seoTitle: "ClassPass Strasbourg : faire du sport sans engagement"
+seoTitle: "Salle de sport sans engagement à Strasbourg"
 path: "/fr/strasbourg/"
-description: "À Strasbourg, fais du sport sans être lié à une seule salle : un pass sport dans des studios partout en ville, ou une salle avec ou sans engagement."
+description: "À Strasbourg, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

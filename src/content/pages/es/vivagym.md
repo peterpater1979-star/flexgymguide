@@ -1,7 +1,8 @@
 ---
 title: "VivaGym en España: cuotas sin permanencia y para quién es"
+seoTitle: "VivaGym: precios y cuotas sin permanencia"
 path: "/es/vivagym/"
-description: "Todo sobre VivaGym en España: más de 240 gimnasios, cuotas ONE, FLEX y PRIME sin permanencia, pase de un día, descuento para menores de 26 y la baja."
+description: "Precios de VivaGym: ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes sin permanencia, matrícula, pase de un día, descuento para menores de 26 y la baja."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

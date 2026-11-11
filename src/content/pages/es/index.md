@@ -250,6 +250,7 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 
 <h2 id="gidsen">Guías</h2>
 
+- **[Gimnasio sin permanencia](/es/gimnasio-sin-permanencia/)** · las cadenas y pases, uno al lado del otro
 - **[¿Pase o gimnasio?](/es/pase-o-gimnasio/)** · lo que encaja contigo
 - **[Los créditos de ClassPass](/es/creditos-classpass/)** · más clases con tu plan
 - **[Tu primera clase](/es/primera-clase/)** · qué llevar

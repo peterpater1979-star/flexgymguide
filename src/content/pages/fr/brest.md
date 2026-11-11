@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Brest en toute flexibilité"
-seoTitle: "ClassPass Brest : faire du sport sans engagement"
+seoTitle: "Salle de sport sans engagement à Brest"
 path: "/fr/brest/"
-description: "À Brest, fais du sport sans être lié à une seule salle : un pass sport dans des studios de la ville, ou une salle avec ou sans engagement."
+description: "À Brest, fais du sport sans être lié à une seule salle : ClassPass dans des studios de la ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

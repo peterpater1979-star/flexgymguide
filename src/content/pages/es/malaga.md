@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Málaga con flexibilidad"
-seoTitle: "ClassPass Málaga: entrenar sin permanencia"
+seoTitle: "Gimnasio sin permanencia en Málaga"
 path: "/es/malaga/"
-description: "¿No quieres atarte a un solo gimnasio? En Málaga puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Málaga puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

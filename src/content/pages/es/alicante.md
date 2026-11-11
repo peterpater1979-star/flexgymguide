@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Alicante con flexibilidad"
-seoTitle: "ClassPass Alicante: entrenar sin permanencia"
+seoTitle: "Gimnasio sin permanencia en Alicante"
 path: "/es/alicante/"
-description: "¿No quieres atarte a un solo gimnasio? En Alicante puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Alicante puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"

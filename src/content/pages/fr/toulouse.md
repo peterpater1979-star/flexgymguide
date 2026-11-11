@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Toulouse en toute flexibilité"
-seoTitle: "ClassPass Toulouse : faire du sport sans engagement"
+seoTitle: "Salle de sport sans engagement à Toulouse"
 path: "/fr/toulouse/"
-description: "À Toulouse, fais du sport sans être lié à une seule salle : un pass sport dans des studios partout en ville, ou une salle avec ou sans engagement."
+description: "À Toulouse, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

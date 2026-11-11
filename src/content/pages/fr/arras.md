@@ -1,8 +1,8 @@
 ---
 title: "Faire du sport à Arras en toute flexibilité"
-seoTitle: "ClassPass Arras : faire du sport sans engagement"
+seoTitle: "Salle de sport sans engagement à Arras"
 path: "/fr/arras/"
-description: "À Arras, fais du sport sans être lié à une seule salle : un pass sport dans des studios de la ville, ou une salle avec ou sans engagement."
+description: "À Arras, fais du sport sans être lié à une seule salle : ClassPass dans des studios de la ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"

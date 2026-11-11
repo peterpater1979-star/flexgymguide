@@ -1,8 +1,8 @@
 ---
 title: "Entrenar en Barcelona con flexibilidad"
-seoTitle: "ClassPass Barcelona: entrenar sin permanencia"
+seoTitle: "Entrenar en Barcelona: pases, estudios y gimnasios"
 path: "/es/barcelona/"
-description: "¿No quieres atarte a un solo gimnasio? En Barcelona puedes usar un pase deportivo en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
+description: "¿No quieres atarte a un solo gimnasio? En Barcelona puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
