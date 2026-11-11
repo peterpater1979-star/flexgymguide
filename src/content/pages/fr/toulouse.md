@@ -150,18 +150,9 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Surtout dans le centre, autour des Carmes, du Capitole, de Matabiau et du Grand-Rond, et aussi à Balma, L’Union, Tournefeuille et Plaisance-du-Touch. Une sélection par sport, entre autres :
+Surtout dans le centre, autour des Carmes, du Capitole, de Matabiau et du Grand-Rond, et aussi à Balma, L’Union, Tournefeuille et Plaisance-du-Touch. Les studios par quartier et par sport sont sur ClassPass à Toulouse.
 
-- **[Pilates](/go/classpass-fr-toulouse-pilates/?epi=fgg-fr-toulouse)** : Body Pilates boulevard Lazare-Carnot, Ora Club aux Carmes, PYC Studio, Ren Studio, Noya Studio, Nala Studio (réservé aux femmes), Reflect Studio à Balma et FloorS Pilates à Tournefeuille
-- **[Yoga](/go/classpass-fr-toulouse-yoga/?epi=fgg-fr-toulouse)** : Sattva Yoga boulevard Matabiau, Body Pilates, PYC Studio, le hot yoga chez Holistique Academia à Balma et le yoga aérien chez ZenLab Studio à L’Union
-- **[Barre](/go/classpass-fr-toulouse-barre/?epi=fgg-fr-toulouse)** : Ora Club et Body Pilates
-- **[HIIT et HYROX](/go/classpass-fr-toulouse-hiit/?epi=fgg-fr-toulouse)** : H Training Club rue Héliot, Grand Rond Athletic, LØFTE Gym Studiø Club, GARY’S à Montaudran et F45 Training à Balma
-- **[Renforcement et bootcamp](/go/classpass-fr-toulouse-bootcamp/?epi=fgg-fr-toulouse)** : Swedish Fit rue Malbec et rue de l’Abbé-Sicard, LØFTE et Studio Sport Santé à L’Union
-- **[Arts martiaux et boxe](/go/classpass-fr-toulouse-arts-martiaux/?epi=fgg-fr-toulouse)** : MMA, grappling et boxe anglaise chez Martial Art Family rue Roquelaine
-- **[Danse](/go/classpass-fr-toulouse-danse/?epi=fgg-fr-toulouse)** : pole dance chez Miss Pole rue Boulbonne et rue d’Alsace-Lorraine
-- **[Accès à la salle](/go/classpass-fr-toulouse-salle/?epi=fgg-fr-toulouse)** : GARY’S à Montaudran
-
-[Voir les studios à Toulouse sur ClassPass](/go/classpass-fr-toulouse/?epi=fgg-fr-toulouse)
+[Voir les studios à Toulouse par quartier et par sport](/fr/classpass-toulouse/)
 
 ### Ce que tu as
 

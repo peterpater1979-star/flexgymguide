@@ -34,7 +34,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour des cours et des séanc
 
 - **Abonnement à Toulouse :** l’abonnement standard, c’est 37 crédits pour 59 € par mois. Il existe des abonnements plus petits et plus grands dans l’appli. Voir [Les crédits ClassPass expliqués](/fr/credits-classpass/).
 - **Essayer d’abord :** 14 jours gratuits avec 10 séances. Lis [Essayer ClassPass gratuitement](/fr/essai-classpass/).
-- **Les studios :** regarde [Faire du sport à Toulouse](/fr/toulouse/#classpass) et l’appli ClassPass.
+- **Les studios :** voir [ClassPass à Toulouse](/fr/classpass-toulouse/), par quartier et par sport.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-salle-de-sport-sans-engagement-toulouse">Profitez de 10 séances gratuites en 14 jours</a>
