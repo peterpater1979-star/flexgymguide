@@ -354,6 +354,9 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 - **[Résilier Keepcool](/fr/resilier-keepcool/)** · préavis et alternatives
 - **[Résilier L’Orange bleue](/fr/resilier-l-orange-bleue/)** · préavis et alternatives
 - **[Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/)** · les options mois par mois
+- **[Salle de sport sans engagement à Lyon](/fr/salle-de-sport-sans-engagement-lyon/)** · les options mois par mois
+- **[Salle de sport sans engagement à Marseille](/fr/salle-de-sport-sans-engagement-marseille/)** · les options mois par mois
+- **[Salle de sport sans engagement à Toulouse](/fr/salle-de-sport-sans-engagement-toulouse/)** · les options mois par mois
 
 ## Questions fréquentes
 

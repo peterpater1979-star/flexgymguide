@@ -1,6 +1,6 @@
 ---
 title: "Faire du sport à Lyon en toute flexibilité"
-seoTitle: "Salle de sport sans engagement à Lyon"
+seoTitle: "Sport à Lyon : pass sport, studios et salles"
 path: "/fr/lyon/"
 description: "À Lyon, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
@@ -10,7 +10,7 @@ crumb: "Lyon"
 kicker: "Guide ville Lyon"
 ---
 
-Pas envie d’être lié à une seule salle ? À Lyon, tu peux réserver des cours dans des studios partout en ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
+Pas envie d’être lié à une seule salle ? À Lyon, tu peux réserver des cours dans des studios partout en ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient. Tu ne veux aucun engagement ? Lis [Salle de sport sans engagement à Lyon](/fr/salle-de-sport-sans-engagement-lyon/).
 
 <h2 id="en-bref">En bref</h2>
 

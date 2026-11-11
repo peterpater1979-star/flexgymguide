@@ -1,6 +1,6 @@
 ---
 title: "Entrenar en Valencia con flexibilidad"
-seoTitle: "Gimnasio sin permanencia en Valencia"
+seoTitle: "Entrenar en Valencia: pases, estudios y gimnasios"
 path: "/es/valencia/"
 description: "¿No quieres atarte a un solo gimnasio? En Valencia puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
@@ -10,7 +10,7 @@ crumb: "Valencia"
 kicker: "Guía de ciudad Valencia"
 ---
 
-¿No te apetece atarte a un solo gimnasio? En Valencia puedes reservar clases en estudios de toda la ciudad con un pase deportivo, o apuntarte a un gimnasio con o sin permanencia. Aquí ves qué te conviene.
+¿No te apetece atarte a un solo gimnasio? En Valencia puedes reservar clases en estudios de toda la ciudad con un pase deportivo, o apuntarte a un gimnasio con o sin permanencia. Aquí ves qué te conviene. ¿No quieres ninguna permanencia? Lee [Gimnasio sin permanencia en Valencia](/es/gimnasio-sin-permanencia-valencia/).
 
 <h2 id="resumen">En resumen</h2>
 
@@ -178,21 +178,9 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 ### Dónde
 
-Sobre todo en Ruzafa y L’Eixample, y también en Ciutat Vella, El Carmen, Benimaclet, El Pla del Real, Campanar y Camins al Grau, con clases al aire libre en el jardín del Turia. Una selección por deporte, entre otros:
+Sobre todo en Ruzafa y L’Eixample, y también en Ciutat Vella, El Carmen, Benimaclet, El Pla del Real, Campanar y Camins al Grau, con clases al aire libre en el jardín del Turia. Los estudios por deporte están en ClassPass en Valencia.
 
-- **[Pilates](/go/classpass-es-valencia-pilates/?epi=fgg-es-valencia)**: TRIB3/PILAT3S, Wellnest Studio, Soma Club en Ruzafa y en Camins al Grau, Club Pilates en la Gran Vía, Onfitt Woman Studio, The Reform Studio, Ayre Pilates Reformer, Space Pilates, Tempo Pilates, Ohana Pilates Studio en Extramurs, Kina Pilates en Blasco Ibáñez, PRANA, Be Balance Center en Campanar y Studio130
-- **[Yoga](/go/classpass-es-valencia-yoga/?epi=fgg-es-valencia)**: Surya Vida junto al Botánico, Sala Peig Yoga y THE YOGA BOX en la calle Lluís Vives, Mārgaṇa Yoga Studio en Ruzafa, Yoga en Lastrellas, De Moon Yoga, Hava Yoga, Casa Lenta, Velcam Yoga Center, Oleka Yoga Studio, The Yoga Room en Benimaclet y el hot yoga de Bikram Yoga Valencia
-- **[Barre](/go/classpass-es-valencia-barre/?epi=fgg-es-valencia)**: Club Barre en Universidades, Barre Centro, BLŌŌM Barre & Reformer Studio, Resset Studio, Live & Joy Barre, RED SPOT VLC, Nexum en Benimaclet y Barre Club Catarroja
-- **[Cycling](/go/classpass-es-valencia-cycling/?epi=fgg-es-valencia)**: Solo Cyclo y Fargo Fitness
-- **[HIIT](/go/classpass-es-valencia-hiit/?epi=fgg-es-valencia)** y **[bootcamp](/go/classpass-es-valencia-bootcamp/?epi=fgg-es-valencia)**: BeatCore, SWEAT Campanar, EPIC Boutique Fitness, Rebel Box y Be Balance Training Club
-- **Fuerza y CrossFit**: Raw Coffee Training en la calle Zamora y en la calle Brasil, CrossFit Gorgos, Box 015 Campanar, HUMAN FITNESS en la avenida del Puerto, Kurago Gym, WAVE TRAINING en los Poblados Marítimos y Calistenia Valencia
-- **[Boxeo](/go/classpass-es-valencia-boxeo/?epi=fgg-es-valencia)**: fitboxing en Uniq Fitboxing & Cross
-- **[Baile](/go/classpass-es-valencia-baile/?epi=fgg-es-valencia)**: Home Dance Studio y Barre Centro
-- **[Al aire libre](/go/classpass-es-valencia-aire-libre/?epi=fgg-es-valencia)**: yoga en el jardín del Turia con UNPACKED y Martha Yogaflow, y en la playa de La Patacona
-- **[Gimnasio](/go/classpass-es-valencia-gimnasio/?epi=fgg-es-valencia)**: RZ75 en Ruzafa, ClassicFit, GROUND TRAINING STUDIO y EPIC Boutique Fitness
-- También **[artes marciales](/go/classpass-es-valencia-artes-marciales/?epi=fgg-es-valencia)** y **[running](/go/classpass-es-valencia-running/?epi=fgg-es-valencia)**
-
-[Ver los estudios en Valencia en ClassPass](/go/classpass-es-valencia/?epi=fgg-es-valencia)
+[Ver los estudios de Valencia por deporte](/es/classpass-valencia/)
 
 ### Qué tienes
 

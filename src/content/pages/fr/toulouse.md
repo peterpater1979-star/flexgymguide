@@ -1,6 +1,6 @@
 ---
 title: "Faire du sport à Toulouse en toute flexibilité"
-seoTitle: "Salle de sport sans engagement à Toulouse"
+seoTitle: "Sport à Toulouse : pass sport, studios et salles"
 path: "/fr/toulouse/"
 description: "À Toulouse, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
@@ -10,7 +10,7 @@ crumb: "Toulouse"
 kicker: "Guide ville Toulouse"
 ---
 
-Pas envie d’être lié à une seule salle ? À Toulouse, tu peux réserver des cours dans des studios partout en ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
+Pas envie d’être lié à une seule salle ? À Toulouse, tu peux réserver des cours dans des studios partout en ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient. Tu ne veux aucun engagement ? Lis [Salle de sport sans engagement à Toulouse](/fr/salle-de-sport-sans-engagement-toulouse/).
 
 <h2 id="en-bref">En bref</h2>
 

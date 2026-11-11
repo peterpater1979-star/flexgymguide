@@ -1,6 +1,6 @@
 ---
 title: "Faire du sport à Marseille en toute flexibilité"
-seoTitle: "Salle de sport sans engagement à Marseille"
+seoTitle: "Sport à Marseille : pass sport, studios et salles"
 path: "/fr/marseille/"
 description: "À Marseille, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
@@ -10,7 +10,7 @@ crumb: "Marseille"
 kicker: "Guide ville Marseille"
 ---
 
-Pas envie d’être lié à une seule salle ? À Marseille, tu peux réserver des cours dans des studios partout en ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
+Pas envie d’être lié à une seule salle ? À Marseille, tu peux réserver des cours dans des studios partout en ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient. Tu ne veux aucun engagement ? Lis [Salle de sport sans engagement à Marseille](/fr/salle-de-sport-sans-engagement-marseille/).
 
 <h2 id="en-bref">En bref</h2>
 

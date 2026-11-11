@@ -93,7 +93,7 @@ Chez [L’Orange bleue](/fr/l-orange-bleue/), les formules sont avec un engageme
 
 Tu cherches une salle dans ta ville ? Dans nos guides ville, tu trouves les salles et studios du coin, avec ClassPass et les chaînes présentes sur place.
 
-- [Paris](/fr/salle-de-sport-sans-engagement-paris/) · [Lyon](/fr/lyon/) · [Marseille](/fr/marseille/) · [Toulouse](/fr/toulouse/) · [Nice](/fr/nice/) · [Nantes](/fr/nantes/) · [Bordeaux](/fr/bordeaux/) · [Lille](/fr/lille/) · [Montpellier](/fr/montpellier/) · [Strasbourg](/fr/strasbourg/) · [Rennes](/fr/rennes/)
+- [Paris](/fr/salle-de-sport-sans-engagement-paris/) · [Lyon](/fr/salle-de-sport-sans-engagement-lyon/) · [Marseille](/fr/salle-de-sport-sans-engagement-marseille/) · [Toulouse](/fr/salle-de-sport-sans-engagement-toulouse/) · [Nice](/fr/nice/) · [Nantes](/fr/nantes/) · [Bordeaux](/fr/bordeaux/) · [Lille](/fr/lille/) · [Montpellier](/fr/montpellier/) · [Strasbourg](/fr/strasbourg/) · [Rennes](/fr/rennes/)
 - Toutes les villes : [Faire du sport en France](/fr/)
 
 <h2 id="attention">À quoi faire attention</h2>
