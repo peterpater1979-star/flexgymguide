@@ -2,7 +2,7 @@
 title: "Gimnasio sin permanencia en España: las opciones mes a mes"
 seoTitle: "Gimnasio sin permanencia: precios de las cadenas"
 path: "/es/gimnasio-sin-permanencia/"
-description: "Gimnasios sin permanencia en España: Basic-Fit Flex, VivaGym, Synergym, Fitness Park, ON AIR, ClassPass y Urban Sports Club. Precios, matrícula y preaviso."
+description: "Gimnasios sin permanencia en España: Basic-Fit Flex, VivaGym, Synergym, Fitness Park, ON AIR, GOfit, ClassPass y Urban Sports Club: precios y preaviso."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"
@@ -25,8 +25,9 @@ kicker: "Guía España"
 | **[Basic-Fit](/es/basic-fit/) Flex** | Desde 29,98 € cada 4 semanas | 19,99 € | 4 semanas de preaviso |
 | **[Fitness Park](/es/fitness-park/)** | Classic 37 €, Ultimate 57 € cada 4 semanas | 50 € | 4 semanas de preaviso |
 | **[ON AIR](/es/on-air/)** | Desde 31,96 € cada 4 semanas | 30 €, más 10 € al año | 4 semanas de preaviso |
+| **[GOfit](/es/go-fit/)** | Cuota mensual 51,30 €, Plan Plus 57,80 € al mes (mínimo 3 meses) | 51,30 € | Según el centro |
 
-<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
+<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. GOfit: el centro de Ciudad Real. Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
 
 <h2 id="pase">Un pase deportivo: varios gimnasios y estudios</h2>
 
@@ -75,9 +76,13 @@ Con Flex no tienes contrato anual y te das de baja con 4 semanas de preaviso. Co
 
 Gimnasios de gama alta en Madrid, Barcelona, Málaga y Valencia, todas las cuotas sin permanencia, desde 31,96 € cada 4 semanas. Lee [Todo sobre ON AIR](/es/on-air/).
 
+### GOfit
+
+Centros deportivos grandes con piscinas, spa y clases, sobre todo en Madrid. La cuota mensual no tiene permanencia: 51,30 € al mes en Ciudad Real, más 51,30 € de matrícula. El Plan Plus, con acceso a otros centros, cuesta 57,80 € con un mínimo de 3 meses. Lee [Todo sobre GOfit](/es/go-fit/).
+
 ### ¿Y las demás?
 
-En [Anytime Fitness](/es/anytime-fitness/), cada club fija su cuota y su permanencia: pregunta siempre antes de apuntarte. En [L’Orange Bleue](/es/l-orange-bleue/), las cuotas son con permanencia de uno o dos años. En [GOfit](/es/go-fit/), con piscinas y spa, pregunta en tu centro por la matrícula y la permanencia.
+En [Anytime Fitness](/es/anytime-fitness/), cada club fija su cuota y su permanencia: pregunta siempre antes de apuntarte. En [L’Orange Bleue](/es/l-orange-bleue/), las cuotas son con permanencia de uno o dos años.
 
 <h2 id="ciudades">Por ciudad</h2>
 
@@ -98,7 +103,7 @@ En [Anytime Fitness](/es/anytime-fitness/), cada club fija su cuota y su permane
 <details open>
 <summary>¿Qué gimnasios no tienen permanencia?</summary>
 
-VivaGym, Synergym, Fitness Park (cuota sin permanencia), Basic-Fit (Flex) y ON AIR tienen cuotas sin permanencia. Un pase deportivo como ClassPass o Urban Sports Club tampoco tiene permanencia.
+VivaGym, Synergym, Fitness Park (cuota sin permanencia), Basic-Fit (Flex), ON AIR y GOfit (cuota mensual) tienen cuotas sin permanencia. Un pase deportivo como ClassPass o Urban Sports Club tampoco tiene permanencia.
 
 </details>
 

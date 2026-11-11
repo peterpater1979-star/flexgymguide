@@ -287,7 +287,7 @@ En Madrid, Synergym tiene clubes en Almagro, Prosperidad, Retiro y Santa Eugenia
 
 <h3 id="go-fit-madrid">GOfit</h3>
 
-En Madrid, GOfit tiene centros en Montecarmelo, Peñagrande, Plaza Elíptica y Vallehermoso, y alrededor en Alcalá de Henares, Majadahonda y Torrejón. Con piscinas, spa y clases dirigidas. Cuota individual desde 42,75 € al mes según el centro.
+En Madrid, GOfit tiene centros en Montecarmelo, Peñagrande, Plaza Elíptica y Vallehermoso, y alrededor en Alcalá de Henares, Majadahonda y Torrejón. Con piscinas, spa y clases dirigidas. Cuota mensual sin permanencia, 51,30 € al mes en Ciudad Real; el precio cambia según el centro.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>

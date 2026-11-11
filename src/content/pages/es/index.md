@@ -162,11 +162,11 @@ Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 cl
 
 ### GOfit
 
-Unos 20 centros deportivos grandes, sobre todo en Madrid, con piscinas, spa y más de 150 clases a la semana. Cuota individual desde 42,75 € al mes según el centro, y cuota familiar.
+Unos 20 centros deportivos grandes, sobre todo en Madrid, con piscinas, spa y más de 150 clases a la semana. Cuota mensual sin permanencia, 51,30 € al mes en Ciudad Real, más 51,30 € de matrícula.
 
 - Ideal si quieres piscina y spa
 - Ideal para familias
-- Pádel y entrenamiento personal aparte
+- Sin permanencia con la cuota mensual
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>

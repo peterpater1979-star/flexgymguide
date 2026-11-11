@@ -2,7 +2,7 @@
 title: "GOfit: cuotas, precios y para quién es"
 seoTitle: "GOfit: precios y cuotas de los centros"
 path: "/es/go-fit/"
-description: "Precios de GOfit: cuota individual desde 42,75 € y familiar desde 27,38 € por persona al mes, con piscinas, spa y clases. Centros, matrícula y la baja."
+description: "Precios de GOfit: cuota mensual sin permanencia de 51,30 €, Plan Plus 57,80 € al mes, con piscinas, spa y clases. Matrícula, cuota familiar, centros y la baja."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"
@@ -20,26 +20,29 @@ GOfit es una cadena española de centros deportivos grandes, con unos 20 centros
 | --- | --- |
 | **Tipo** | Centro deportivo con piscinas, spa, sala fitness y clases dirigidas |
 | **Centros** | Unos 20 en España |
-| **Precio** | Cuota individual desde 42,75 € al mes, familiar desde 27,38 € por persona al mes |
+| **Precio** | Cuota individual 51,30 € al mes, Plan Plus 57,80 € al mes |
+| **Sin permanencia** | <span class="ja" aria-hidden="true">✓</span> Cuota mensual (Plan Plus: mínimo 3 meses) |
+| **Matrícula** | 51,30 € |
 | **Incluido** | Sala fitness, clases dirigidas, piscinas cubiertas y exteriores, spa y parking |
 | **Familias** | Con la cuota familiar, los niños entran gratis con sus padres |
 | **Edad mínima** | 16 años para la cuota individual |
 | **Baja** | En el centro o por correo electrónico, el plazo depende del centro |
 
-<p class="klein">Precios de GOfit Ciudad Real en <a href="https://go-fit.es/centros/go-fit-ciudad-real/">go-fit.es</a>, noviembre de 2026. Los precios cambian según el centro. Comprueba siempre el precio actual con GOfit.</p>
+<p class="klein">Precios de la cuota individual de GOfit Ciudad Real en <a href="https://go-fit.es/centros/go-fit-ciudad-real/">go-fit.es</a>, noviembre de 2026. Los precios cambian según el centro. Comprueba siempre el precio actual con GOfit.</p>
 
 <h2 id="cuotas">Las cuotas</h2>
 
-| Cuota | Precio | Para quién |
+| Cuota | Precio | Lo que tienes |
 | --- | --- | --- |
-| **Individual** | Desde 42,75 € al mes | Un adulto mayor de 16 años |
-| **Familiar** | Desde 27,38 € por persona al mes | Familias; los niños pueden usar los servicios GOfit Family |
+| **GOfit** | 51,30 € al mes | Tu centro: sala fitness, clases dirigidas, piscinas, spa y parking, con valoración inicial, plan de entrenamiento y app |
+| **Plan Plus** | 57,80 € al mes, mínimo 3 meses | Todo lo anterior, más acceso a otros centros GOfit (según el centro), 3 invitaciones al mes, 1 hora más de parking (3 horas en total) y más de 2.500 entrenamientos en gofit.tv |
 
-- **Lo que tienes con las dos:** sala fitness, clases dirigidas, piscinas cubiertas y exteriores (según el centro), spa con sauna y baño turco, vestuarios y parking.
+- **Sin permanencia:** la cuota mensual no tiene duración mínima. Al apuntarte pagas solo los días que quedan del mes, más la matrícula de 51,30 €.
+- **Pago anual:** también puedes pagar el año de una vez o a plazos. Pregunta el precio en tu centro.
+- **Cuota familiar:** hay una cuota para familias, más barata por persona; los niños pueden usar los servicios GOfit Family.
 - **Lo que pagas aparte:** pistas de pádel, entrenamiento personal (desde 29 € la sesión), Small Groups (desde 15,50 € la sesión), escuelas y campamentos.
-- **Al apuntarte:** pagas la primera cuota, la matrícula y la llave inteligente (10 € en el centro). Pregunta en tu centro cuánto es la matrícula y si hay permanencia.
 
-<p class="klein">Precios «desde» de GOfit Ciudad Real (noviembre de 2026), sin las ofertas temporales. En Madrid y otras ciudades pueden ser más altos.</p>
+<p class="klein">Precios de GOfit Ciudad Real, cuota individual mensual, en go-fit.es (noviembre de 2026), sin las ofertas temporales. En Madrid y otras ciudades pueden ser distintos.</p>
 
 <h2 id="centros">¿En qué ciudades?</h2>
 
@@ -71,7 +74,7 @@ Ideal si quieres piscina y spa además del gimnasio, o buscas un centro para tod
 
 ### Synergym
 
-Más barato y sin permanencia, pero sin piscina. Lee [Todo sobre Synergym](/es/synergym/).
+Más barato, pero sin piscina ni spa. Lee [Todo sobre Synergym](/es/synergym/).
 
 </div>
 
@@ -85,14 +88,21 @@ Ideal si te gusta variar y entrenas de una a tres veces por semana. Cancelas cua
 
 </div>
 
-¿Prefieres no atarte? Mira [Gimnasio sin permanencia](/es/gimnasio-sin-permanencia/).
+¿Comparas cadenas? Mira [Gimnasio sin permanencia](/es/gimnasio-sin-permanencia/).
 
 ## Preguntas frecuentes
 
 <details open>
 <summary>¿Cuánto cuesta GOfit?</summary>
 
-En GOfit Ciudad Real, la cuota individual cuesta desde 42,75 € al mes y la familiar desde 27,38 € por persona (noviembre de 2026). El precio cambia según el centro, y al apuntarte pagas también la matrícula y la llave.
+En GOfit Ciudad Real, la cuota individual mensual cuesta 51,30 € y el Plan Plus 57,80 € al mes, más 51,30 € de matrícula (noviembre de 2026). El precio cambia según el centro.
+
+</details>
+
+<details>
+<summary>¿GOfit tiene permanencia?</summary>
+
+No con la cuota mensual: no tiene duración mínima. El Plan Plus tiene un mínimo de 3 meses. El plazo para darte de baja depende del centro.
 
 </details>
 
