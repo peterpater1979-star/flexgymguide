@@ -20,7 +20,7 @@ kicker: "Guía Barcelona"
 | **ClassPass** | En cualquier momento, sin preaviso | Plan estándar 59 € al mes (37 créditos); más pequeños en la app | Variar entre estudios y gimnasios por todo Barcelona |
 | **Urban Sports Club** | Suscripción mensual: 3 días de preaviso | Essential 35 €, Classic 75 €, Premium 115 €, Max 165 € al mes | Un precio fijo al mes, con check-ins en gimnasios y estudios asociados |
 | **ON AIR** | 4 semanas de preaviso | Desde 31,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año | Un gimnasio grande de gama alta; un gimnasio (Universitat) |
-| **[DiR](/es/dir/)** | Según las condiciones generales, sin permanencia | Todo el día de 40,60 a 44,10 € al mes según el club; mañanas, tardes o fin de semana más baratas | Un club de barrio completo, a menudo con piscina |
+| **[DiR](/es/dir/)** | Según las condiciones generales, sin permanencia | Todo el día de 40,60 a 44,10 € al mes según el club; mañana, mediodía o fin de semana más baratas | Un club de barrio completo, a menudo con piscina |
 | **Basic-Fit Flex** | 4 semanas de preaviso, sin permanencia | Desde 29,98 € cada 4 semanas, más 19,99 € de inscripción | Entrenar a menudo y barato |
 | **Clase suelta o bono** | No hace falta | Según el estudio | Una clase de vez en cuando en tu estudio favorito |
 

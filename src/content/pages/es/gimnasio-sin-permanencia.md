@@ -88,7 +88,7 @@ Centros deportivos grandes con piscinas, spa y clases, sobre todo en Madrid. La 
 
 ### DiR
 
-Más de 20 clubes en Barcelona, muchos con piscina y spa. La cuota es mes a mes: todo el día de 40,60 a 44,10 € al mes según el club, y más barata si solo entrenas por la mañana, por la tarde o el fin de semana. Con 12 meses de permanencia tienes un 10 % de descuento. Lee [Todo sobre DiR](/es/dir/).
+Más de 20 clubes en Barcelona, muchos con piscina y spa. La cuota es mes a mes: todo el día de 40,60 a 44,10 € al mes según el club, y más barata si solo entrenas por la mañana, al mediodía o el fin de semana. Con 12 meses de permanencia tienes un 10 % de descuento. Lee [Todo sobre DiR](/es/dir/).
 
 ### ¿Y las demás?
 

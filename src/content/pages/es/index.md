@@ -165,8 +165,8 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 Más de 20 clubes en Barcelona, muchos con piscina y spa. Todo el día desde 40,60 € al mes según el club, sin permanencia.
 
-- Cuotas de mañanas, tardes o fin de semana
-- Premium para todos los clubes
+- Cuotas de mañana, mediodía o fin de semana
+- Premium All Clubs para todos los clubes
 - 10 % menos con 12 meses
 
 <div class="knoppen">

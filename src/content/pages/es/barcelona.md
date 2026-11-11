@@ -149,7 +149,7 @@ En Barcelona, Synergym tiene clubes en El Clot, Fabra i Puig, Las Arenas, Maraga
 
 <h3 id="dir-barcelona">DiR</h3>
 
-DiR tiene más de 20 clubes en Barcelona, entre ellos Diagonal, Claris, Gràcia, Tuset y Campus, muchos con piscina y zona termal. La cuota de todo el día cuesta desde 40,60 € al mes según el club; mañanas, tardes o fin de semana son más baratas. Con Premium (89,10 €) entras en todos los clubes. Sin permanencia, o 10 % menos con 12 meses.
+DiR tiene más de 20 clubes en Barcelona, entre ellos Diagonal, Claris, Gràcia, Tuset y Campus, muchos con piscina y zona termal. La cuota de todo el día cuesta desde 40,60 € al mes según el club; mañana, mediodía o fin de semana son más baratas. Con Premium All Clubs (89,10 €) entras en todos los clubes. Sin permanencia, o 10 % menos con 12 meses.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dir/">Todo sobre DiR</a>
