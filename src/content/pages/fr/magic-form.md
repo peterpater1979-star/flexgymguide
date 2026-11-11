@@ -26,7 +26,7 @@ Magic Form est une chaîne de 30 salles de sport, surtout en Île-de-France, ave
 | **Frais** | 40 € de droits d’entrée, 10 € de carte de membre, plus 9,90 € par an pour l’entretien |
 | **Jeunes** | Abo Jeune à 20 € toutes les 4 semaines pour les moins de 20 ans |
 
-<p class="klein">Source : page des abonnements de Magic Form (novembre 2026), sans les offres temporaires. Vérifie toujours les prix actuels avec ton club Magic Form.</p>
+<p class="klein">Source : page des abonnements de <a href="https://www.magic-form.fr/">magic-form.fr</a> (novembre 2026), sans les offres temporaires. Vérifie toujours les prix actuels avec ton club Magic Form.</p>
 
 <h2 id="formules">Les formules</h2>
 
@@ -58,6 +58,10 @@ Magic Form a 30 salles : 24 en Île-de-France et 6 ailleurs en France.
 **En Île-de-France**, aussi à Cachan, Choisy-le-Roi, Clamart, Courbevoie, Dourdan, Épône, Gif-sur-Yvette, Le Bourget, Le Plessis-Trévise, Le Raincy, Massy, Mennecy, Meudon, Montreuil, Mormant, Nemours (Saint-Pierre-lès-Nemours), Provins, Saint-Maur-des-Fossés, Sucy-en-Brie, Versailles, Villeneuve-le-Roi et Vitry-sur-Seine.
 
 Avec Magic+ et Magic Full, tu as accès à plusieurs clubs ; avec Magic One et l’Abo Jeune, seulement à ton club d’inscription.
+
+<h2 id="resilier">Résilier</h2>
+
+Tu résilies en ligne, via la [page de résiliation de Magic Form](https://inscription.magic-form.fr/abonnement/resiliation). Le préavis et les conditions sont dans les conditions générales de ton contrat.
 
 <h2 id="choix">Magic Form ou ClassPass ?</h2>
 
@@ -105,3 +109,7 @@ Dès 30 € toutes les 4 semaines pour Magic One avec engagement, et 20 € pour
 Certaines salles Magic Form sont sur ClassPass, par exemple à Dijon et à Troyes. Les salles qui participent en ce moment sont dans l’app ClassPass.
 
 </details>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://www.magic-form.fr/">Magic Form</a>
+</div>
