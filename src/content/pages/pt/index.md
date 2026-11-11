@@ -71,6 +71,30 @@ Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic 
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-vivagym"><span>Ginásio sem fidelização</span></div>
+
+### VivaGym
+
+O antigo Fitness Hut: mais de 40 ginásios em Portugal, planos ONE, FLEX e PRIME sem fidelização. O preço depende do ginásio.
+
+- Ideal se treinas três vezes por semana ou mais
+- Aulas de grupo incluídas
+- Com PRIME também em Espanha
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/vivagym/">Tudo sobre o VivaGym</a>
+</div>
+
+</div>
+
+</div>
+
+<h2 id="outros">Outro ginásio</h2>
+
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-holmes-place"><span>Clube premium</span></div>
 
 ### Holmes Place
@@ -87,39 +111,16 @@ Uma cadeia de clubes premium com 13 clubes em Portugal, todos com ginásio, aula
 
 </div>
 
-</div>
+<div class="kolom breed" id="cidades">
 
-<div id="cidades">
+### Em que cidades?
 
 O ClassPass tem estúdios parceiros em [Lisboa](/pt/lisboa/), no [Porto](/pt/porto/) e noutras cidades portuguesas. Na app vês que estúdios e ginásios participam perto de ti. Vais para Lisboa? Lê [Ginásio sem fidelização em Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) ([in English](/pt/gyms-without-contract-lisbon/)).
 
 <ul class="stedenlijst">
-<li><a href="/pt/lisboa/"><strong>Lisboa</strong></a> <span class="klein">Urban Sports Club · ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
-<li><a href="/pt/porto/"><strong>Porto</strong></a> <span class="klein">Urban Sports Club · ClassPass · Element Gyms · Holmes Place · VivaGym</span></li>
+<li><a href="/pt/lisboa/"><strong>Lisboa</strong></a> <span class="klein">Urban Sports Club · ClassPass · Element Gyms · VivaGym · Holmes Place</span></li>
+<li><a href="/pt/porto/"><strong>Porto</strong></a> <span class="klein">Urban Sports Club · ClassPass · Element Gyms · VivaGym · Holmes Place</span></li>
 </ul>
-
-
-</div>
-
-<h2 id="outros">Outro ginásio</h2>
-
-<div class="kolommen">
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-vivagym"><span>Ginásio sem fidelização</span></div>
-
-### VivaGym
-
-O antigo Fitness Hut: mais de 40 ginásios em Portugal, planos ONE, FLEX e PRIME sem fidelização. O preço depende do ginásio.
-
-- Ideal se treinas três vezes por semana ou mais
-- Aulas de grupo incluídas
-- Com PRIME também em Espanha
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/pt/vivagym/">Tudo sobre o VivaGym</a>
-</div>
 
 </div>
 
