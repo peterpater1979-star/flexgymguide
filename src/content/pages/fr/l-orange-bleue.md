@@ -129,6 +129,13 @@ Oui. Tu réserves une séance d’essai gratuite et sans engagement dans la sall
 
 </details>
 
+<details>
+<summary>L’Orange bleue est-il sur ClassPass ?</summary>
+
+Certaines salles L’Orange bleue sont sur ClassPass, par exemple à Gournay-sur-Marne, Plaisir, Englos (près de Lille), Bouguenais (près de Nantes), Mâcon et Montceau-les-Mines. Les salles qui participent en ce moment sont dans l’app ClassPass.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.lorangebleue.fr/">L’Orange bleue</a>
 </div>
