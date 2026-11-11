@@ -51,31 +51,6 @@ An Irish gym chain without a contract: 20 gyms in Dublin, plus Cork and Galway. 
 
 </div>
 
-<div class="kolom kaart" id="steden">
-
-<div class="fotokop foto-sporttas"><span>Cities</span></div>
-
-### Where does it work?
-
-ClassPass has partner studios in several cities, including:
-
-<ul class="stedenlijst">
-<li><a href="/ie/dublin/"><strong>Dublin</strong></a> <span class="klein">ClassPass · Flyefit · BD Gyms · Gym Plus · West Wood Club</span></li>
-<li><a href="/ie/cork/"><strong>Cork</strong></a> <span class="klein">ClassPass · Flyefit · Gym Plus</span></li>
-</ul>
-
-The app shows which studios and gyms near you take part.
-
-</div>
-
-</div>
-
-<p class="meer-aanbieders">And also: BD Gyms, Gym Plus, Snap Fitness and West Wood Club. <a href="#gyms">See more gyms</a></p>
-
-<h2 id="gyms">More gyms in Ireland</h2>
-
-<div class="kolommen">
-
 <div class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-bd-gyms"><span>Gym chain</span></div>
@@ -83,6 +58,10 @@ The app shows which studios and gyms near you take part.
 ### BD Gyms
 
 Four gyms in Dublin and one in Portlaoise. €36 a month, no contract and no joining fee.
+
+- Good if you want a low-cost gym
+- No joining fee
+- Membership for your own club
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/bd-gyms/">All about BD Gyms</a>
@@ -96,13 +75,25 @@ Four gyms in Dublin and one in Portlaoise. €36 a month, no contract and no joi
 
 ### Gym Plus
 
-Seven clubs in Dublin, Cork, Ashbourne, Drogheda and Naas, most with a pool. From €59 a month.
+Seven clubs in Dublin, Cork, Ashbourne, Drogheda and Naas, most with a pool. €69 a month, or €59 in Cork.
+
+- Good if you want a pool
+- Good if you train three times a week or more
+- Monthly members: 3-month minimum
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/gym-plus/">All about Gym Plus</a>
 </div>
 
 </div>
+
+</div>
+
+<p class="meer-aanbieders">And also: Snap Fitness and West Wood Club. <a href="#gyms">See more gyms</a></p>
+
+<h2 id="gyms">More gyms in Ireland</h2>
+
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -129,6 +120,21 @@ Six health clubs in Dublin with pools, classes and spa facilities.
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/west-wood-club/">All about West Wood Club</a>
 </div>
+
+</div>
+
+<div class="kolom breed2" id="steden">
+
+### Where does it work?
+
+ClassPass has partner studios in several cities, including:
+
+<ul class="stedenlijst">
+<li><a href="/ie/dublin/"><strong>Dublin</strong></a> <span class="klein">ClassPass · Flyefit · BD Gyms · Gym Plus · West Wood Club</span></li>
+<li><a href="/ie/cork/"><strong>Cork</strong></a> <span class="klein">ClassPass · Flyefit · Gym Plus</span></li>
+</ul>
+
+The app shows which studios and gyms near you take part.
 
 </div>
 
