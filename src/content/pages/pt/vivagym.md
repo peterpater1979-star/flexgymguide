@@ -42,6 +42,8 @@ Nos ginásios do Algarve pagas também um seguro de acidentes quando te inscreve
 
 Cancelas na app ou na área de cliente. Se pedires até ao dia 20, o cancelamento vale no último dia desse mês. Depois do dia 20, só no fim do mês seguinte.
 
+Passo a passo: [Cancelar o VivaGym](/pt/cancelar-vivagym/).
+
 <h2 id="cidades">Em que cidades?</h2>
 
 <ul class="stedenlijst">

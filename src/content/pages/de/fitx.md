@@ -87,6 +87,8 @@ Der Vertrag läuft weiter und ist jederzeit mit einem Monat Frist kündbar. Du k
 
 <p class="klein">Quelle: <a href="https://www.fitx.de/unternehmen/agb">AGB von FitX</a> (Stand 11/2025).</p>
 
+Schritt für Schritt: [FitX kündigen](/de/fitx-kuendigen/).
+
 <h2 id="staedte">FitX in deiner Stadt</h2>
 
 FitX hat Studios in diesen Städten aus unserem Ratgeber:

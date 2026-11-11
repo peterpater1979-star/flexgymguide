@@ -10,7 +10,7 @@ crumb: "Gent"
 kicker: "Stadsgids Gent"
 ---
 
-Geen zin om vast te zitten aan één sportschool? In Gent boek je met een sportpas lessen bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou.
+Geen zin om vast te zitten aan één sportschool? In Gent boek je met een sportpas lessen bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou. Geen contract? Lees [Sporten zonder contract in Gent](/be/sporten-zonder-contract-gent/).
 
 In Gent vind je het ClassPass-aanbod in het centrum, rond Dok-Noord en in Sint-Denijs-Westrem, en ook in Merelbeke. Je kunt er pilates, krachttraining, yoga en spinning doen. Handig als je graag afwisselt. Train je liever vaak aan toestellen? Dan zijn Basic-Fit en Jims ook in Gent.
 

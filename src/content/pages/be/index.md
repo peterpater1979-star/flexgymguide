@@ -161,6 +161,9 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
 - **[Sporten als student](/nl/sporten-als-student/)** · goedkoop en flexibel
 - **[Eten en drinken rond je training](/nl/eten-en-drinken-rond-je-training/)** · simpel en zonder gedoe
+- **[Basic-Fit opzeggen](/be/basic-fit-opzeggen/)** · opzegtermijn en bevriezen
+- **[Jims opzeggen](/be/jims-opzeggen/)** · opzegtermijn en pauzeren
+- **Sporten zonder contract:** [Brussel](/be/sporten-zonder-contract-brussel/) · [Antwerpen](/be/sporten-zonder-contract-antwerpen/) · [Gent](/be/sporten-zonder-contract-gent/)
 
 En français : [Ton premier cours](/fr/premier-cours/) · ce qu’il faut emporter
 

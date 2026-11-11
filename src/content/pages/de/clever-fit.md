@@ -82,6 +82,8 @@ Günstiger pro Monat, dafür bist du länger gebunden. Frist und Bedingungen ste
 
 </div>
 
+Schritt für Schritt: [clever fit kündigen](/de/clever-fit-kuendigen/).
+
 <h2 id="staedte">clever fit in deiner Stadt</h2>
 
 clever fit hat Studios in diesen Städten aus unserem Ratgeber:

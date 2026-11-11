@@ -264,6 +264,9 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 - **[Working out as a student](/guides/working-out-as-a-student/)** · flexible and affordable
 - **[Eating and drinking around your workout](/guides/eating-and-drinking-around-your-workout/)** · simple, no fuss
 - **[Cancel Fitness First](/uk/cancel-fitness-first/)** · notice period and freezing
+- **[Cancel PureGym](/uk/cancel-puregym/)** · deadline and cooling-off
+- **[Cancel The Gym Group](/uk/cancel-the-gym-group/)** · deadline and refunds
+- **[Gyms without a contract in the UK](/uk/gyms-without-contract/)** · month-by-month options
 
 ## Frequently asked questions
 

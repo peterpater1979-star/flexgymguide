@@ -10,7 +10,7 @@ crumb: "Dortmund"
 kicker: "Stadtguide Dortmund"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Dortmund trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Dortmund trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Keine lange Bindung? Lies [Fitnessstudio ohne Vertrag in Dortmund](/de/fitnessstudio-ohne-vertrag-dortmund/).
 
 <h2 id="blick">Auf einen Blick</h2>
 

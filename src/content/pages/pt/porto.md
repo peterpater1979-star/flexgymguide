@@ -10,7 +10,7 @@ crumb: "Porto"
 kicker: "Guia da cidade Porto"
 ---
 
-Não te apetece ficar preso a um só ginásio? Em Porto podes reservar aulas em estúdios de toda a cidade com um passe desportivo, treinar num ginásio sem fidelização ou escolher um clube premium com piscina. Vê o que te convém.
+Não te apetece ficar preso a um só ginásio? Em Porto podes reservar aulas em estúdios de toda a cidade com um passe desportivo, treinar num ginásio sem fidelização ou escolher um clube premium com piscina. Vê o que te convém. Não queres fidelização? Lê [Ginásio sem fidelização no Porto](/pt/ginasio-sem-fidelizacao-porto/).
 
 <h2 id="resumo">Em resumo</h2>
 

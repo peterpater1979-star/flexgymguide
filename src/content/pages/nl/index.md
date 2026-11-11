@@ -276,6 +276,8 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Basic-Fit opzeggen](/nl/basic-fit-opzeggen/)** · opzegtermijn en alternatieven
 - **[SportCity opzeggen](/nl/sportcity-opzeggen/)** · opzegtermijn en alternatieven
 - **[Trainmore opzeggen](/nl/trainmore-opzeggen/)** · opzegtermijn en bevriezen
+- **[Anytime Fitness opzeggen](/nl/anytime-fitness-opzeggen/)** · opzegtermijn en pauzeren
+- **[Sporten zonder contract](/nl/sporten-zonder-contract/)** · de opties per maand
 
 ## Veelgestelde vragen
 

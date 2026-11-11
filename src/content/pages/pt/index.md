@@ -186,6 +186,9 @@ Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de f
 - **[A tua primeira aula](/pt/primeira-aula/)** · o que levar
 - **[Desporto como estudante](/pt/desporto-estudante/)** · barato e flexível
 - **[Comer e beber no treino](/pt/comer-e-beber-no-treino/)** · simples
+- **[Cancelar o VivaGym](/pt/cancelar-vivagym/)** · como e até que dia
+- **[Cancelar a Element Gyms](/pt/cancelar-element-gyms/)** · aviso prévio
+- **Ginásio sem fidelização:** [Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) · [Porto](/pt/ginasio-sem-fidelizacao-porto/)
 
 ## Perguntas frequentes
 

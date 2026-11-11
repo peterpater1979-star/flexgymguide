@@ -10,7 +10,7 @@ crumb: "Brussel"
 kicker: "Stadsgids Brussel"
 ---
 
-Geen zin om vast te zitten aan één sportschool? In Brussel boek je met een sportpas lessen bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou.
+Geen zin om vast te zitten aan één sportschool? In Brussel boek je met een sportpas lessen bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou. Geen contract? Lees [Sporten zonder contract in Brussel](/be/sporten-zonder-contract-brussel/).
 
 In Brussel vind je het ClassPass-aanbod vooral in Elsene, Etterbeek, Sint-Joost-ten-Node, Sint-Gillis en Vorst, met vooral yoga en pilates. Handig als je in de stad werkt of studeert en graag bij verschillende studio's lessen volgt. Train je liever vaak aan toestellen? Dan zijn Basic-Fit en Jims ook in Brussel.
 

@@ -1,3 +1,5 @@
+Cancelling, step by step: [how to cancel PureGym](/uk/cancel-puregym/).
+
 ---
 title: "PureGym: no-contract gym memberships, prices and plans"
 path: "/uk/puregym/"

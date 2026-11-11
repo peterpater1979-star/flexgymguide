@@ -51,6 +51,8 @@ A maioria dos ginásios abre de segunda a sexta das 6h30 às 22h30, e ao fim de 
 - **Férias:** não é possível suspender os pagamentos. Se cancelares e voltares mais tarde, podes ter de pagar outra vez a taxa de inscrição.
 - **Não gostaste?** Nos primeiros 14 dias após a inscrição podes pedir o dinheiro de volta.
 
+Passo a passo: [Cancelar a Element Gyms](/pt/cancelar-element-gyms/).
+
 <h2 id="idade">Idade mínima</h2>
 
 A partir dos 14 anos.

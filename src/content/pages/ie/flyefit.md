@@ -57,6 +57,8 @@ Flyefit gyms are open 364 days a year. Most open at 5.30 on weekdays and close b
 - **Yearly membership:** you can cancel within 14 days for a refund if you haven't used the gym, by emailing Flyefit.
 - **Pausing:** a monthly membership costs €5 a month while paused, and you can't use the gym. A yearly membership can be paused for up to 90 days in total.
 
+Step by step: [how to cancel Flyefit](/ie/cancel-flyefit/).
+
 <h2 id="age">Minimum age</h2>
 
 You need to be 16. Between 16 and 18 you need consent from a parent.

@@ -10,7 +10,7 @@ crumb: "Birmingham"
 kicker: "City guide Birmingham"
 ---
 
-Don't want to be tied to one gym? In Birmingham you can join a low-cost gym without a contract, or use a fitness pass at studios in the city. Here's what suits you.
+Don't want to be tied to one gym? In Birmingham you can join a low-cost gym without a contract, or use a fitness pass at studios in the city. Here's what suits you. Don’t want a contract? Read [Gyms without a contract in Birmingham](/uk/gyms-without-contract-birmingham/).
 
 <h2 id="glance">At a glance</h2>
 

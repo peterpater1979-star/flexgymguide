@@ -201,6 +201,8 @@ Decathlon has an Irish webshop in euro, with delivery in Ireland. These links ta
 - **[Your first class](/guides/first-class/)** · what to bring
 - **[Working out as a student](/guides/working-out-as-a-student/)** · flexible and affordable
 - **[Eating and drinking around your workout](/guides/eating-and-drinking-around-your-workout/)** · simple, no fuss
+- **[Cancel Flyefit](/ie/cancel-flyefit/)** · how to do it in MYFLYE
+- **[Gyms without a contract in Dublin](/ie/gyms-without-contract-dublin/)** · month-by-month options
 
 ## Frequently asked questions
 

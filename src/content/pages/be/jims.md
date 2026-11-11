@@ -1,3 +1,5 @@
+Opzeggen, stap voor stap: [Jims opzeggen](/be/jims-opzeggen/).
+
 ---
 title: "Jims: abonnementen, prijzen en groepslessen in België"
 path: "/be/jims/"

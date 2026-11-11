@@ -105,6 +105,8 @@ You pay for 9 or 12 months up front. After the first 14 days you can't cancel ea
 
 </div>
 
+Step by step: [how to cancel The Gym Group](/uk/cancel-the-gym-group/).
+
 <h2 id="who-for">Who is The Gym Group for?</h2>
 
 <div class="kolommen">

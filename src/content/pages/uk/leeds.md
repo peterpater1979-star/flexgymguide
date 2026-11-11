@@ -10,7 +10,7 @@ crumb: "Leeds"
 kicker: "City guide Leeds"
 ---
 
-Don't want to be tied to one gym? In Leeds you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you.
+Don't want to be tied to one gym? In Leeds you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you. Don’t want a contract? Read [Gyms without a contract in Leeds](/uk/gyms-without-contract-leeds/).
 
 <h2 id="glance">At a glance</h2>
 
