@@ -53,6 +53,7 @@ Si eres socio nuevo, tienes una sesión gratis de 30 minutos con un entrenador p
 <li><a href="https://www.fitnesspark.es/valencia/"><strong>Valencia</strong></a></li>
 <li><a href="https://www.fitnesspark.es/sevilla/"><strong>Sevilla</strong></a></li>
 <li><a href="https://www.fitnesspark.es/alicante/"><strong>Alicante</strong></a></li>
+<li><a href="/es/zaragoza/"><strong>Zaragoza</strong></a> <span class="klein">Puerto Venecia, Delicias, Goya, Actur y Las Fuentes</span></li>
 <li><a href="https://www.fitnesspark.es/pais-vasco/"><strong>Bilbao</strong></a> <span class="klein">y otros clubes en el País Vasco</span></li>
 </ul>
 
