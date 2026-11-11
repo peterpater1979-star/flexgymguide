@@ -89,15 +89,9 @@ Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den Preis erf
 
 </div>
 
-<div id="steden">
-
-ClassPass hat Partnerstudios in den grösseren Schweizer Städten, unter anderem in [Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/), Genf, Basel und Lausanne. In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
-
-</div>
-
 <h2 id="andere">Weiteres Fitnessstudio</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -114,6 +108,18 @@ Günstige Fitnesskette, früher basefit.swiss, meist rund um die Uhr offen. Mona
 <div class="knoppen">
 <a class="knop knop-rand" href="/ch/puregym/">Alles über PureGym</a>
 </div>
+
+</div>
+
+<div class="kolom breed" id="steden">
+
+### In welchen Städten?
+
+ClassPass hat Partnerstudios in den grösseren Schweizer Städten, unter anderem in [Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/), Genf, Basel und Lausanne. In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
+
+Activ Fitness hat über 120 Studios in fast allen Kantonen, davon 16 in Zürich.
+
+Trainierst du in Zürich? Lies [Fitnessstudio ohne Vertrag in Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/).
 
 </div>
 
