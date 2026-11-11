@@ -18,6 +18,20 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Wien trainierst du m
 
 <div class="kolom kaart">
 
+<div class="fotokop foto-myclubs"><span>Sportpass</span></div>
+
+### myClubs
+
+Sportpass aus Österreich mit dem meisten Angebot in Wien. FLEX 4 kostet 55 € im Monat für 4 Trainings, monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop" href="/at/myclubs/">myClubs ansehen</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
 
 ### ClassPass
