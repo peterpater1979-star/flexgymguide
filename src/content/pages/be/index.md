@@ -17,6 +17,24 @@ Geen zin in een lang contract bij één sportschool? Met een sportpas als ClassP
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+### Urban Sports Club
+
+Een vaste prijs per maand voor check-ins bij partnerlocaties. Classic, volgens hun site het meest gekozen, kost in Brussel € 75 per maand.
+
+- Goed als je een vaste prijs wilt
+- Per maand opzegbaar
+- Onlinelessen en video on demand inbegrepen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-classpass"><span>Sportpas</span></div>
 
 ### ClassPass
@@ -51,24 +69,6 @@ Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 pe
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-jims"><span>Sportschoolketen</span></div>
-
-### Jims
-
-Belgische sportschoolketen met meer dan 80 clubs, met fitness en groepslessen met een coach. Vanaf € 39,99 per 4 weken, flexibel opzegbaar met 4 weken opzegtermijn.
-
-- Goed als je groepslessen met een coach wilt
-- Jongeren onder 25: € 10 per 4 weken minder
-- Eén gratis probeerdag per jaar
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/be/jims/">Alles over Jims</a>
-</div>
-
-</div>
-
 <div class="kolom kaart" id="steden">
 
 <div class="fotokop foto-sporttas"><span>Steden</span></div>
@@ -89,24 +89,24 @@ In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
 
 </div>
 
-<h2 id="andere">Andere sportpas</h2>
+<h2 id="andere">Andere sportschool</h2>
 
 <div class="kolommen">
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+<div class="fotokop foto-jims"><span>Sportschoolketen</span></div>
 
-### Urban Sports Club
+### Jims
 
-Een vaste prijs per maand, met check-ins bij partnerlocaties. In Brussel kost Classic, volgens hun site het meest gekozen abonnement, € 75 per maand voor 10 bezoeken.
+Belgische sportschoolketen met meer dan 80 clubs, met fitness en groepslessen met een coach. Vanaf € 39,99 per 4 weken, flexibel opzegbaar met 4 weken opzegtermijn.
 
-- Goed als je een vaste prijs per maand wilt
-- Per maand opzegbaar, 3 dagen vooraf
-- Onlinelessen en video on demand inbegrepen
+- Goed als je groepslessen met een coach wilt
+- Jongeren onder 25: € 10 per 4 weken minder
+- Eén gratis probeerdag per jaar
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
+<a class="knop knop-rand" href="/be/jims/">Alles over Jims</a>
 </div>
 
 </div>

@@ -19,6 +19,24 @@ Ausführlich im [Stadtguide Wien](/at/wien/).
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-myclubs"><span>Sportpass</span></div>
+
+### myClubs
+
+Sportpass aus Österreich mit einem Abo für viele Studios und Kurse, vor allem in Wien. FLEX 4 kostet 55 € im Monat für 4 Trainings, UNLIMITED 109 €.
+
+- Gut, wenn du Abwechslung magst
+- Monatlich kündbar
+- Vor allem in Wien
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/myclubs/">Alles über myClubs</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-classpass"><span>Sportpass</span></div>
 
 ### ClassPass
@@ -71,24 +89,6 @@ Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den Preis erfährst 
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-mcfit"><span>Günstige Fitnesskette</span></div>
-
-### McFit
-
-Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 € im Monat, mit 12 Monaten Laufzeit ab 24,90 €.
-
-- Gut, wenn du günstig und oft trainieren willst
-- Flex: monatlich kündbar
-- Einmalig 30 € für das Starterpaket
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
-</div>
-
-</div>
-
 </div>
 
 <h2 id="ueberblick">Alle Anbieter auf einen Blick</h2>
@@ -106,7 +106,7 @@ Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 
 | **[Mrs.Sporty](/at/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Rund 50 Clubs, viele in Wien |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 3 Clubs in Wien |
 
-<p class="meer-aanbieders">Und auch: myClubs, JOHN REED, clever fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: McFit, JOHN REED, clever fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <h2 id="steden">Wo funktioniert ClassPass?</h2>
 
@@ -122,14 +122,14 @@ ClassPass gibt es in Österreich vor allem in Wien, mit Studios unter anderem in
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-myclubs"><span>Sportpass</span></div>
+<div class="fotokop foto-mcfit"><span>Günstige Fitnesskette</span></div>
 
-### myClubs
+### McFit
 
-Sportpass aus Österreich für Studios und Kurse, vor allem in Wien. FLEX 4 kostet 55 € im Monat für 4 Trainings, monatlich kündbar.
+Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 € im Monat, mit 12 Monaten Laufzeit ab 24,90 €.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/at/myclubs/">Alles über myClubs</a>
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
 </div>
 
 </div>

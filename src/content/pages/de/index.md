@@ -17,6 +17,24 @@ Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mi
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+### Urban Sports Club
+
+Ein fester Preis pro Monat für Check-ins bei Partnerstudios. Classic, laut Website am beliebtesten, kostet in Berlin 75 € im Monat.
+
+- Gut, wenn du einen festen Preis willst
+- Monatlich kündbar
+- Online-Kurse und Video on Demand
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-classpass"><span>Sportpass</span></div>
 
 ### ClassPass
@@ -69,24 +87,6 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
-
-### Holmes Place
-
-Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kursen und Wellness. Den Preis erfährst du bei einem Besuch im Club.
-
-- Gut, wenn dir Service und Wellness wichtig sind
-- Preis nur im Club
-- Auch in Wien, der Schweiz und Portugal
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
-</div>
-
-</div>
-
 </div>
 
 <h2 id="ueberblick">Alle Anbieter auf einen Blick</h2>
@@ -107,7 +107,7 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
 
-<p class="meer-aanbieders">Und auch: Urban Sports Club, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="steden">
 
@@ -134,14 +134,14 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
 
-### Urban Sports Club
+### Holmes Place
 
-Ein fester Preis pro Monat für Check-ins bei Partnerstudios. Classic, laut Website am beliebtesten, kostet in Berlin 75 € im Monat. Monatlich kündbar.
+Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kursen und Wellness. Den Preis erfährst du bei einem Besuch im Club.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
 </div>
 
 </div>

@@ -17,6 +17,24 @@ Não te apetece um contrato longo num só ginásio? Com um passe desportivo como
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-urban-sports"><span>Passe desportivo com preço fixo</span></div>
+
+### Urban Sports Club
+
+Um preço fixo por mês para check-ins em locais parceiros. Em Lisboa e no Porto, o Classic, o mais popular segundo o site deles, custa 75 € por mês.
+
+- Ideal se queres um preço fixo
+- Cancelas todos os meses
+- Aulas online e vídeos a pedido incluídos
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-classpass"><span>Passe desportivo</span></div>
 
 ### ClassPass
@@ -69,24 +87,6 @@ Uma cadeia de clubes premium com 13 clubes em Portugal, todos com ginásio, aula
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-vivagym"><span>Ginásio sem fidelização</span></div>
-
-### VivaGym
-
-O antigo Fitness Hut: mais de 40 ginásios em Portugal, planos ONE, FLEX e PRIME sem fidelização. O preço depende do ginásio.
-
-- Ideal se treinas três vezes por semana ou mais
-- Aulas de grupo incluídas
-- Com PRIME também em Espanha
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/pt/vivagym/">Tudo sobre o VivaGym</a>
-</div>
-
-</div>
-
 </div>
 
 <div id="cidades">
@@ -101,24 +101,24 @@ O ClassPass tem estúdios parceiros em [Lisboa](/pt/lisboa/), no [Porto](/pt/por
 
 </div>
 
-<h2 id="outros">Outro passe desportivo</h2>
+<h2 id="outros">Outro ginásio</h2>
 
 <div class="kolommen">
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-urban-sports"><span>Passe desportivo com preço fixo</span></div>
+<div class="fotokop foto-vivagym"><span>Ginásio sem fidelização</span></div>
 
-### Urban Sports Club
+### VivaGym
 
-Um preço fixo por mês, com check-ins em locais parceiros. Em Lisboa e no Porto, o Classic, o plano mais popular segundo o site deles, custa 75 € por mês por 10 visitas.
+O antigo Fitness Hut: mais de 40 ginásios em Portugal, planos ONE, FLEX e PRIME sem fidelização. O preço depende do ginásio.
 
-- Ideal se queres um preço fixo por mês
-- Cancelas com 3 dias de antecedência
-- Aulas online e vídeos a pedido incluídos
+- Ideal se treinas três vezes por semana ou mais
+- Aulas de grupo incluídas
+- Com PRIME também em Espanha
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>
+<a class="knop knop-rand" href="/pt/vivagym/">Tudo sobre o VivaGym</a>
 </div>
 
 </div>
