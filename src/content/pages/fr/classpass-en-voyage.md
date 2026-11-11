@@ -52,7 +52,6 @@ Hors d'Europe, il fonctionne entre autres aux États-Unis, au Canada, en Austral
 2. **Regarde à l'avance.** Cherche ta destination depuis chez toi, pour savoir quels studios il y a et ce qu'ils coûtent.
 3. **Réserve tôt.** Les cours populaires se remplissent vite, en vacances aussi.
 4. **Pense aussi à une salle de sport.** Une séance dans une salle près de ton hôtel est un moyen simple de t'entraîner entre deux visites.
-5. **Détends-toi après le voyage.** Tu peux aussi utiliser tes crédits pour un massage ou un spa.
 
 <h2 id="checklist">Check-list</h2>
 

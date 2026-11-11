@@ -76,8 +76,6 @@ Een flink aanbod, vooral rond het station en in het centrum. Spinning, barre, yo
 
 [Bekijk de studio's in Breda op ClassPass.](https://classpass.com/search/breda/fitness-classes/4SkFexxzLnj)
 
-Ook voor ontspanning en beauty: ontharen en wimpers bij Farzana Clinic en spabehandelingen bij Pretty Lashes and Beauty. [Bekijk wellness en beauty in Breda op ClassPass.](https://classpass.com/search/breda/wellness-sessions/3vwRFcG8eLP)
-
 <div class="kolommen">
 
 <div class="kolom">

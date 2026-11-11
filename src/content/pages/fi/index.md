@@ -39,7 +39,7 @@ Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningii
 
 ### ELIXIA
 
-SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa: Helsingissä, Espoossa, Vantaalla, Tampereella ja Turussa. Mukana kuntosali ja ryhmäliikunta.
+SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa, esimerkiksi Helsingissä ja Tampereella. Mukana kuntosali ja ryhmäliikunta.
 
 - Hyvä, jos treenaat kolme kertaa viikossa tai useammin
 - Hyvä, jos haluat yhden vakiopaikan
@@ -66,7 +66,7 @@ ClassPassilla on yhteistyöstudioita useissa kaupungeissa, muun muassa:
 <li><a href="/fi/turku/"><strong>Turku</strong></a> <span class="klein">ClassPass · ELIXIA</span></li>
 </ul>
 
-Sovelluksesta näet, mitkä lähistön studiot ja kuntosalit ovat mukana.
+Sovelluksesta näet, mitkä lähistön studiot ja kuntosalit ovat mukana. Krediittejä voit käyttää myös matkoilla, yli 30 maassa.
 
 </div>
 

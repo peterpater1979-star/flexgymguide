@@ -17,6 +17,24 @@ Keine Lust auf einen langen Vertrag in einem einzigen Studio? Mit einem Sportpas
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-myclubs"><span>Sportpass</span></div>
+
+### myClubs
+
+Sportpass für Studios und Kurse, unter anderem in Zürich. FLEX 4 kostet CHF 95 im Monat für 4 Trainings, monatlich kündbar.
+
+- Gut, wenn du verschiedene Sportarten ausprobieren willst
+- Monatlich kündbar
+- Vergünstigung über einige Krankenkassen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ch/myclubs/">Alles über myClubs</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-classpass"><span>Sportpass</span></div>
 
 ### ClassPass
@@ -69,6 +87,18 @@ Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den Preis erf
 
 </div>
 
+</div>
+
+<div id="steden">
+
+ClassPass hat Partnerstudios in den grösseren Schweizer Städten, unter anderem in [Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/), Genf, Basel und Lausanne. In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
+
+</div>
+
+<h2 id="andere">Weiteres Fitnessstudio</h2>
+
+<div class="kolommen">
+
 <div class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-puregym"><span>Günstige Fitnesskette</span></div>
@@ -83,36 +113,6 @@ Günstige Fitnesskette, früher basefit.swiss, meist rund um die Uhr offen. Mona
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ch/puregym/">Alles über PureGym</a>
-</div>
-
-</div>
-
-</div>
-
-<div id="steden">
-
-ClassPass hat Partnerstudios in den grösseren Schweizer Städten, unter anderem in [Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/), Genf, Basel und Lausanne. In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
-
-</div>
-
-<h2 id="andere">Weiterer Sportpass</h2>
-
-<div class="kolommen">
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-myclubs"><span>Sportpass</span></div>
-
-### myClubs
-
-Sportpass für Studios und Kurse, unter anderem in Zürich. FLEX 4 kostet CHF 95 im Monat für 4 Trainings, monatlich kündbar.
-
-- Gut, wenn du verschiedene Sportarten ausprobieren willst
-- Monatlich kündbar
-- Vergünstigung über einige Krankenkassen
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/ch/myclubs/">Alles über myClubs</a>
 </div>
 
 </div>

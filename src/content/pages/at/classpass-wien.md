@@ -82,16 +82,7 @@ Pro Sportart eine Auswahl an Studios. Klick auf die Sportart, um alle Studios be
 - **Mit Baby:** unter anderem Kanga mit Iris in Simmering und Enzersdorf an der Fischa
 - **[Gym](https://classpass.com/search/vienna/gym-time-classes/4u97vHy6GZV):** unter anderem Penthouse Sports & Wellness und The Golden Tree
 
-<h2 id="wellness">Wellness und Beauty</h2>
-
 Mit deinen Credits buchst du in Wien nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
-
-- **[Massage](https://classpass.com/search/vienna/massage-sessions/4L9dM92tnf9):** unter anderem The Golden Tree im Vienna Marriott am Parkring und im InterContinental in der Johannesgasse, WellBeing Health & More am Alsergrund, Shiatsu bei der Hara Shiatsu Praxis und Ayurveda-Massage bei My Ayurveda Ritual in Margareten
-- **[Sauna und Erholung](https://classpass.com/search/vienna/sports-recovery-sessions/5BRUUiSaVsd):** unter anderem geführte Sauna- und Eisbad-Kurse bei WeBorn, Sauna und Infrarotkabine bei Penthouse Sports & Wellness und Bodywork im Johanna Fell Studio
-- **Pool:** unter anderem The Golden Tree im Vienna Marriott, mit Hallenbad und Gym
-- **[Meditation](https://classpass.com/search/vienna/meditation-sessions/5kzj3n8SNK1):** unter anderem Doktor Yoga am Passauer Platz
-- **[Gesichtsbehandlung und Waxing](https://classpass.com/search/vienna/facial-appointments/4nH9GgNEik7):** unter anderem Real Beauty in der Inneren Stadt
-- **[Fußpflege, Nägel und Kosmetik](https://classpass.com/search/vienna/beauty-appointments/4Mxd81VWbKV):** unter anderem Fußpflege & Kosmetik Claudia in der Gassergasse, in der Maschlgasse und Zur Spinnerin
 
 <h2 id="tipps">Tipps</h2>
 

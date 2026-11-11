@@ -95,7 +95,7 @@ With ClassPass you get monthly credits to book classes and gym visits at studios
 
 ### Where
 
-A mix of gyms and smaller studios, spread across Bristol and the surrounding area, from the Harbourside and Clifton to Stoke Gifford, Bradley Stoke and Keynsham. Here is a small selection. For reformer Pilates there is Soul Pilates at Paintworks, and for boxing workouts there is Fight Klub in Henbury and Patchway. Sivo Wellness at Leigh Court has a sauna and ice baths. For gym visits there are Workout Bristol on the Harbourside, Nuffield Health on Queens Road and in Stoke Gifford, and Village Gym, which has a pool. Further out there is Team Bath at the University of Bath.
+A mix of gyms and smaller studios, spread across Bristol and the surrounding area, from the Harbourside and Clifton to Stoke Gifford, Bradley Stoke and Keynsham. Here is a small selection. For reformer Pilates there is Soul Pilates at Paintworks, and for boxing workouts there is Fight Klub in Henbury and Patchway. For gym visits there are Workout Bristol on the Harbourside, Nuffield Health on Queens Road and in Stoke Gifford, and Village Gym, which has a pool. Further out there is Team Bath at the University of Bath.
 
 [See the studios in Bristol on ClassPass.](https://classpass.com/search/bristol/fitness-classes/4uDXi4qMjHy)
 

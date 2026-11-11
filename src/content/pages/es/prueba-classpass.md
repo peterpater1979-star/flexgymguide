@@ -27,7 +27,7 @@ Los nuevos miembros pueden probar ClassPass primero. Visitas varios estudios y g
 
 - **Una vez por centro.** Puedes visitar cada estudio o gimnasio una vez. Si reservas una clase y la cancelas, no puedes volver a reservar allí durante la prueba.
 - **También hay cargos por cancelación.** Si cancelas tarde o no te presentas, pagas el cargo habitual, también durante la prueba.
-- **Créditos extra.** Algunas ofertas de prueba te dejan comprar créditos extra, por ejemplo para repetir en un estudio o para una cita de spa o salón.
+- **Créditos extra.** Algunas ofertas de prueba te dejan comprar créditos extra, por ejemplo para repetir en un estudio.
 - **Pasar antes al plan.** Algunas ofertas te dejan pasar enseguida a un plan mensual. Así también puedes volver al mismo estudio.
 
 <h2 id="final">Cuando termina la prueba</h2>

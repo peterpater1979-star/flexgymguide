@@ -17,6 +17,24 @@ Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mi
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+### Urban Sports Club
+
+Ein fester Preis pro Monat für Check-ins bei Partnerstudios. Classic, laut Website am beliebtesten, kostet in Berlin 75 € im Monat.
+
+- Gut, wenn du einen festen Preis willst
+- Monatlich kündbar
+- Online-Kurse und Video on Demand
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-classpass"><span>Sportpass</span></div>
 
 ### ClassPass
@@ -69,24 +87,6 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
-
-### Holmes Place
-
-Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kursen und Wellness. Den Preis erfährst du bei einem Besuch im Club.
-
-- Gut, wenn dir Service und Wellness wichtig sind
-- Preis nur im Club
-- Auch in Wien, der Schweiz und Portugal
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
-</div>
-
-</div>
-
 </div>
 
 <h2 id="ueberblick">Alle Anbieter auf einen Blick</h2>
@@ -107,7 +107,7 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
 
-<p class="meer-aanbieders">Und auch: Urban Sports Club, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="steden">
 
@@ -134,14 +134,14 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
 
-### Urban Sports Club
+### Holmes Place
 
-Ein fester Preis pro Monat, mit Check-ins bei Partnerstudios. In Berlin kostet Classic, laut ihrer Website die beliebteste Mitgliedschaft, 75 € im Monat, mit einem Besuch pro Tag. Monatlich kündbar.
+Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kursen und Wellness. Den Preis erfährst du bei einem Besuch im Club.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
 </div>
 
 </div>
@@ -152,7 +152,7 @@ Ein fester Preis pro Monat, mit Check-ins bei Partnerstudios. In Berlin kostet C
 
 ### clever fit
 
-Nach Zahl der Studios die größte Fitnesskette Deutschlands, über 500 Studios. Preise je nach Studio, oft auch monatlich kündbar.
+Nach Zahl der Studios die größte Fitnesskette Deutschlands, mit über 500 Studios. Preise je nach Studio, oft auch monatlich kündbar.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
@@ -194,7 +194,7 @@ Fast 100 Clubs in Deutschland und über 1.700 in Europa. Ab 24,99 € pro 4 Woch
 
 ### JOHN REED
 
-Fitnessclubs mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatlich kündbar, 60 bis 80 € im Monat je nach Club.
+47 Fitnessclubs in 8 Ländern, mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatlich kündbar, 60 bis 80 € im Monat je nach Club.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
@@ -208,7 +208,7 @@ Fitnessclubs mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatli
 
 ### EASYFITNESS
 
-Über 200 Studios, vor allem in Norddeutschland. Ab 27,99 € im Monat, mit Flex-Tarif monatlich kündbar.
+Über 200 Studios, vor allem in Norddeutschland, mit Geräten, Cardio und Functional-Bereich. Ab 27,99 € im Monat, mit Flex-Tarif monatlich kündbar.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/easyfitness/">Alles über EASYFITNESS</a>
@@ -222,7 +222,7 @@ Fitnessclubs mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatli
 
 ### Mrs.Sporty
 
-Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training, Preise je nach Club.
+Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training in einer kleinen Gruppe, zwei- bis dreimal pro Woche. Preise je nach Club.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>

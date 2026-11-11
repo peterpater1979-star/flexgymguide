@@ -1,7 +1,7 @@
 ---
 title: "ClassPass in Hamburg: Studios nach Stadtteil und Sportart"
 path: "/de/classpass-hamburg/"
-description: "ClassPass in Hamburg: Studios nach Stadtteil und Sportart, von Lagree und Hot Pilates bis Yoga, Barre, Indoor-Cycling, Wellness und Beauty."
+description: "ClassPass in Hamburg: Studios nach Stadtteil und Sportart, von Lagree und Hot Pilates bis Yoga, Barre und Indoor-Cycling."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -21,7 +21,7 @@ Hamburg hat auf ClassPass ein großes Angebot, verteilt über die ganze Stadt. H
 | **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) |
 | **Ausprobieren** | 1 Monat gratis, 10 Workouts |
 | **Wo** | In der ganzen Stadt, vor allem in Eppendorf, Eimsbüttel, Winterhude, Altona und in der Innenstadt |
-| **Was du machen kannst** | Lagree, Reformer- und Hot Pilates, Barre, Yoga, Indoor-Cycling, Bootcamp, HYROX und Gym-Besuche, dazu Wellness- und Beauty-Termine |
+| **Was du machen kannst** | Lagree, Reformer- und Hot Pilates, Barre, Yoga, Indoor-Cycling, Bootcamp, HYROX und Gym-Besuche |
 
 </div>
 
@@ -45,7 +45,7 @@ Club Pilates in der Gertigstraße, Barre und Pilates bei Juun Studios, Hot Pilat
 
 ### Eimsbüttel
 
-Yoga bei TRIBE Yoga Base am Weidenstieg, bei The Shala und Studio78 in der Emilienstraße und Kurse bei Movement Practice. Für Wärme nach dem Training gibt es geführte Saunagänge bei Hytte Studios.
+Yoga bei TRIBE Yoga Base am Weidenstieg, bei The Shala und Studio78 in der Emilienstraße und Kurse bei Movement Practice.
 
 ### Altona, Ottensen und St. Pauli
 
@@ -71,15 +71,6 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **HIIT, Bootcamp und HYROX:** unter anderem STORM, BEAT81 und Urban Heroes
 - **Bewegung und Mobility:** unter anderem Brain Based Movement, Movement Practice und School of Movement
 - **Gym:** unter anderem Fitness First, Sports Club und der Burmeister Personal Fitness Club
-
-<h2 id="wellness">Wellness und Beauty</h2>
-
-Mit deinen Credits buchst du in Hamburg nicht nur Kurse, sondern auch Wellness- und Beauty-Termine.
-
-- **Sauna:** unter anderem private Infrarot-Sauna bei Radiance Bar in Winterhude und geführte Saunagänge bei Hytte Studios in Eimsbüttel
-- **Massage:** unter anderem Petcharat Thai Wellness in der ABC-Straße, Wasana's Smile in Harvestehude, Sai Lom Thai Massage und Phens Wellness in Bahrenfeld
-- **Head Spa:** unter anderem HEADSPA by Lasercouture in Winterhude und Ottensen und Lamea Studio
-- **Beauty:** unter anderem Waxcat in der Innenstadt, in Eimsbüttel und in Wandsbek, Kala Studio in Winterhude, Hamburg Lashes in Uhlenhorst und Cy Studio in der Grindelallee
 
 <h2 id="tipps">Tipps</h2>
 

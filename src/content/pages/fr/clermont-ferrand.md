@@ -101,7 +101,6 @@ Une petite offre, mais variée :
 - **Pilates Reformer** : The New Me rue la Tour-d’Auvergne
 - **Yoga et étirements** : DHARMA YOGA rue de Gravenoire (aussi du yoga postnatal) et Sensorium Studio rue Michel-Rocard
 - **Accès à la salle** : Nemea Health Club à Fontgiève et à Cournon-d’Auvergne, avec musculation et étirements
-- **[Bien-être](/go/classpass-fr-clermont-ferrand-bien-etre/?epi=fgg-fr-clermont-ferrand)** : séances chez Nemea Health Club, à Fontgiève et à Cournon-d’Auvergne
 
 ### Bon pour
 

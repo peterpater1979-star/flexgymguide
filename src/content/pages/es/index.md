@@ -58,12 +58,11 @@ Cadena de gimnasios económica con clubes en toda España. Contrato anual desde 
 
 ### Fitness Park
 
-Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Príncipe Pío: sin permanencia Classic 37 € o Ultimate 57 € cada 4 semanas; con permanencia (52 semanas) desde 27 €.
+Cadena francesa con 170 clubes en España y clases colectivas. Sin permanencia desde 37 € cada 4 semanas, con permanencia desde 27 € (club Madrid Príncipe Pío).
 
 - Ideal si entrenas tres veces por semana o más
-- Ultimate: clases colectivas con monitor e invitado en cada visita
-- Matrícula: 50 € sin permanencia, 30 € con permanencia
-- Los precios pueden variar según el club (octubre de 2026)
+- Ultimate: clases con monitor
+- Matrícula de 30 o 50 €
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/fitness-park/">Todo sobre Fitness Park</a>
@@ -77,7 +76,7 @@ Cadena de gimnasios francesa con 170 clubes en España. En el club Madrid Prínc
 
 ### VivaGym
 
-Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia: en el club Madrid Príncipe de Vergara ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes.
+Cadena española con más de 240 clubes. Todas las cuotas sin permanencia, de 32,90 a 37,90 € al mes (club Madrid Príncipe de Vergara).
 
 - Ideal si entrenas tres veces por semana o más
 - Clases colectivas incluidas
@@ -108,6 +107,8 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 <li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
 <li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
 <li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/murcia/"><strong>Murcia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym</span></li>
+<li><a href="/es/zaragoza/"><strong>Zaragoza</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym</span></li>
 </ul>
 
 También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.
@@ -126,11 +127,11 @@ Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pas
 
 ### Synergym
 
-Cadena española con clubes en toda España, también en muchas ciudades medianas. Todas las cuotas sin permanencia: Club Unlimited de 24,99 a 30,99 € según el club, o Multiclub Premium 36,99 € al mes, más 30 € de matrícula.
+Cadena española con clubes en toda España, también en ciudades medianas. Sin permanencia, de 24,99 a 36,99 € al mes según la cuota y el club.
 
-- Ideal si buscas un gimnasio barato cerca de casa
-- Bono día y bono semana sin cuota
-- Baja con preaviso hasta el día 19
+- Ideal si buscas un gimnasio barato
+- Bono día y bono semana
+- Baja hasta el día 19
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
@@ -144,7 +145,7 @@ Cadena española con clubes en toda España, también en muchas ciudades mediana
 
 ### Anytime Fitness
 
-Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 clubes en todo el mundo. Cada club fija su cuota: de media 49,90 € al mes según la cadena.
+Unos 60 gimnasios en España, abiertos las 24 horas. Cada club fija su cuota: de media 49,90 € al mes según la cadena.
 
 - Ideal si entrenas a horas raras
 - Ideal si viajas mucho
@@ -162,11 +163,11 @@ Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 cl
 
 ### GOfit
 
-Unos 20 centros deportivos grandes, sobre todo en Madrid, con piscinas, spa y más de 150 clases a la semana. Cuota mensual sin permanencia, de 51,30 a 61,62 € al mes según el centro.
+Unos 20 centros grandes, sobre todo en Madrid, con piscinas y spa. Sin permanencia, de 51,30 a 61,62 € al mes según el centro.
 
 - Ideal si quieres piscina y spa
 - Ideal para familias
-- Sin permanencia con la cuota mensual
+- Más de 150 clases a la semana
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
@@ -180,11 +181,11 @@ Unos 20 centros deportivos grandes, sobre todo en Madrid, con piscinas, spa y m�
 
 ### L’Orange bleue
 
-Cadena francesa con unos 400 gimnasios según la propia cadena; en España en Madrid, Barcelona y Valencia. Desde 40 € cada 4 semanas, con permanencia de uno o dos años, más 60 € de pack de inicio.
+Cadena francesa; en España en Madrid, Barcelona y Valencia. Desde 40 € cada 4 semanas, con permanencia de uno o dos años.
 
 - Ideal si quieres un monitor en la sala
 - Clases colectivas ilimitadas
-- Pack de inicio gratis para estudiantes
+- Pack de inicio de 60 €
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
@@ -202,7 +203,7 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 - Ideal si quieres mucho material
 - 4 semanas de preaviso
-- Acceso a todos los clubes ON AIR
+- Acceso a todos los clubes
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
@@ -216,11 +217,11 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 ### Urban Sports Club
 
-Un precio fijo al mes, con check-ins en gimnasios y estudios asociados. En Madrid y Barcelona, Classic, el plan más elegido según su web, cuesta 75 € al mes por 10 visitas.
+Un precio fijo al mes, con check-ins en gimnasios y estudios. Classic, el plan más elegido según su web, cuesta 75 € al mes por 10 visitas.
 
-- Ideal si quieres un precio fijo al mes
-- Se cancela con 3 días de preaviso
-- Clases online y vídeos a la carta incluidos
+- Ideal si quieres un precio fijo
+- 3 días de preaviso
+- Clases online incluidas
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>

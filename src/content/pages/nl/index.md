@@ -17,6 +17,24 @@ Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een 
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+### Urban Sports Club
+
+Een vaste prijs per maand voor check-ins bij partnerlocaties. Classic, volgens hun site het meest gekozen, kost in Amsterdam € 75 per maand.
+
+- Goed als je een vaste prijs wilt
+- Per maand opzegbaar
+- Onlinelessen en video on demand
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-classpass"><span>Sportpas</span></div>
 
 ### ClassPass
@@ -71,27 +89,9 @@ Gym met live groepslessen in heel Nederland. Kies City One (één club) of City 
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Voordelige sportschool</span></div>
-
-### Basic-Fit
-
-Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan dag en nacht open. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
-
-- Goed als je goedkoop en vaak wilt trainen
-- Flex: opzegtermijn 4 weken
-- Met Premium ook in 5 andere landen
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
 </div>
 
-</div>
-
-</div>
-
-<p class="meer-aanbieders">En ook: Saints & Stars, Vondelgym, BigGym, Anytime Fitness en Urban Sports Club. <a href="#andere">Bekijk de andere sportscholen</a></p>
+<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym en Anytime Fitness. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <div id="steden">
 
@@ -117,9 +117,27 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 
 <h2 id="andere">Andere sportscholen en studio's</h2>
 
-Sportscholen en studio's in een paar steden, met eigen lidmaatschappen, en de sportpas Urban Sports Club.
+Sportscholen en studio's met eigen lidmaatschappen, van de grote keten Basic-Fit tot gyms in een paar steden.
 
 <div class="kolommen drie">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Voordelige sportschool</span></div>
+
+### Basic-Fit
+
+Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan dag en nacht open. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
+
+- Goed als je goedkoop en vaak wilt trainen
+- Flex: opzegtermijn 4 weken
+- Met Premium ook in 5 andere landen
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
+</div>
+
+</div>
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -189,24 +207,6 @@ Kleine sportscholen die dag en nacht open zijn, onder meer in Amsterdam, Rotterd
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
-
-### Urban Sports Club
-
-Een vaste prijs per maand, met check-ins bij partnerlocaties. In Amsterdam kost Classic, volgens hun site het meest gekozen abonnement, € 75 per maand voor 10 bezoeken.
-
-- Goed als je een vaste prijs per maand wilt
-- Per maand opzegbaar, 3 dagen vooraf
-- Onlinelessen en video on demand inbegrepen
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
 </div>
 
 </div>

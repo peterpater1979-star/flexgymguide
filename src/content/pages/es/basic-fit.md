@@ -43,7 +43,7 @@ Precios cada 4 semanas. El contrato anual dura al menos 52 semanas; después te 
 
 <h2 id="ciudades">Basic-Fit en tu ciudad</h2>
 
-Lee nuestras guías de ciudad: [Madrid](/es/madrid/), [Barcelona](/es/barcelona/), [Valencia](/es/valencia/), [Sevilla](/es/sevilla/), [Málaga](/es/malaga/), [Alicante](/es/alicante/), [Bilbao](/es/bilbao/) y [Palma de Mallorca](/es/palma-de-mallorca/).
+Lee nuestras guías de ciudad: [Madrid](/es/madrid/), [Barcelona](/es/barcelona/), [Valencia](/es/valencia/), [Sevilla](/es/sevilla/), [Málaga](/es/malaga/), [Alicante](/es/alicante/), [Bilbao](/es/bilbao/), [Palma de Mallorca](/es/palma-de-mallorca/), [Murcia](/es/murcia/) y [Zaragoza](/es/zaragoza/).
 
 <h2 id="eleccion">¿Basic-Fit, Fitness Park o ClassPass?</h2>
 

@@ -80,7 +80,6 @@ En el centro, la Milla de Oro, Nueva Andalucía y San Pedro Alcántara, y a lo l
 - **[Gimnasio](/go/classpass-es-marbella-gimnasio/?epi=fgg-es-marbella)**: Apolo GYM en Nueva Andalucía
 - **[Baile](/go/classpass-es-marbella-baile/?epi=fgg-es-marbella)**: pole, heels y exotic en TY LOVES 2 POLE en la calle Salvador Rueda, e Isla Rose Dance Academy en San Pedro Alcántara
 - **[Aire libre](/go/classpass-es-marbella-aire-libre/?epi=fgg-es-marbella)**: hatha yoga en la playa con Yoga with Séana
-- **[Bienestar](/go/classpass-es-marbella-bienestar/?epi=fgg-es-marbella)**: sauna finlandesa, sauna de infrarrojos y baños de agua fría en Pulse Sauna & Ice Club, masajes en Somatic Marbella (Nueva Andalucía) y sauna en The 24th Hour
 - También **[boxeo](/go/classpass-es-marbella-boxeo/?epi=fgg-es-marbella)**
 
 [Ver los estudios en Marbella en ClassPass](/go/classpass-es-marbella/?epi=fgg-es-marbella)

@@ -84,15 +84,12 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 Teatinos, el Centro, El Perchel, Pedregalejo y Cruz de Humilladero, y también en Rincón de la Victoria, Torremolinos y Benalmádena. Una selección por deporte, entre otros:
 
-- **[Pilates](/go/classpass-es-malaga-pilates/?epi=fgg-es-malaga)**: Bloomies Pilates Club, Mocca Pilates House, Yndico Pilates Studio, Studio53 Pilates Maquina, Momento Studio Pilates en el Centro, MR Pilates, DiPilates Estudio y Distrito junto a la estación María Zambrano
+- **[Pilates](/go/classpass-es-malaga-pilates/?epi=fgg-es-malaga)**: Bloomies Pilates Club, Mocca Pilates House, Yndico Pilates Studio, Studio53 Pilates Maquina, Momento Studio Pilates en el Centro, MR Pilates, DiPilates Estudio, Boutique Fitness Augusto y Distrito junto a la estación María Zambrano
 - **[Yoga](/go/classpass-es-malaga-yoga/?epi=fgg-es-malaga)**: YogaOne en El Perchel, Teatinos, Velázquez y Rincón de la Victoria, El Refugio de Beth, Indra Yoga y Brilla Yoga en Teatinos
 - **[Barre](/go/classpass-es-malaga-barre/?epi=fgg-es-malaga)**: ROLA BARRE en Pedregalejo y Teatinos, Studio53 Barre, Movest Pilates y Saten Barre en Rincón de la Victoria
-- **[HIIT](/go/classpass-es-malaga-hiit/?epi=fgg-es-malaga)** y **[bootcamp](/go/classpass-es-malaga-bootcamp/?epi=fgg-es-malaga)**: La Tribu Malaka, Benchmark Club, Yndico Training Center, The Bunker Box, SACABA BEACH BOX, DKN CROSSTRAINING y el entrenamiento funcional de AmeliaSpa
+- **[HIIT](/go/classpass-es-malaga-hiit/?epi=fgg-es-malaga)** y **[bootcamp](/go/classpass-es-malaga-bootcamp/?epi=fgg-es-malaga)**: La Tribu Malaka, Benchmark Club, Yndico Training Center, The Bunker Box, SACABA BEACH BOX, DKN CROSSTRAINING, Integra Health & Sport y el entrenamiento funcional de AmeliaSpa
 - **[Artes marciales](/go/classpass-es-malaga-artes-marciales/?epi=fgg-es-malaga)**: DAIKAN DOJO y ABADÁ CAPOEIRA MÁLAGA en el Camino de los Guindos
 - **[Running](/go/classpass-es-malaga-running/?epi=fgg-es-malaga)**: La Tribu Malaka
-- **[Masaje](/go/classpass-es-malaga-masaje/?epi=fgg-es-malaga)**: Harmony Sanctuary en la calle Especería y en Torremolinos, y MASAJE DAIKAN
-- **[Meditación](/go/classpass-es-malaga-meditacion/?epi=fgg-es-malaga)** y **[bienestar](/go/classpass-es-malaga-bienestar/?epi=fgg-es-malaga)**: YogaOne Velázquez e Indra Yoga
-- **[Belleza](/go/classpass-es-malaga-belleza/?epi=fgg-es-malaga)**: uñas y pestañas en La Esmaltería en Teatinos
 - También **[baile](/go/classpass-es-malaga-baile/?epi=fgg-es-malaga)**
 
 [Ver los estudios en Málaga en ClassPass](/go/classpass-es-malaga/?epi=fgg-es-malaga)

@@ -99,12 +99,11 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 Une petite offre dans le centre, surtout du Pilates Reformer :
 
 - **Pilates Reformer** : The New Me rue de Paris (tous niveaux) et Soleà Studio rue Dauphine, studio Pilates et café réservé aux femmes
-- **[Bien-être](/go/classpass-fr-le-havre-bien-etre/?epi=fgg-fr-le-havre)** : massages et soins du visage chez Draine Moi, boulevard François-Ier
 
 ### Bon pour
 
 - Ceux qui veulent essayer le Pilates Reformer sans s’engager dans un seul studio
-- Ceux qui combinent une salle classique avec quelques cours ou un massage par mois
+- Ceux qui combinent une salle classique avec quelques cours par mois
 - Ceux qui vont souvent à Rouen ou à Paris et veulent y réserver des cours avec les mêmes crédits
 
 [Voir les studios au Havre sur ClassPass](/go/classpass-fr-le-havre/?epi=fgg-fr-le-havre)

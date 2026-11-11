@@ -72,17 +72,7 @@ For each type of workout, a selection of studios. Click the name of the workout 
 - **[Outdoor](https://classpass.com/search/dublin/outdoors-classes/5gAWS3NP4bZ):** among others open-air yoga with James Yoga Flow in Sandycove, BeatBox Fitness Classes, Insanity Fitness Pollyhops, and The Hot Box Sauna in Inchicore and on Killiney Beach
 - **[Gym visits](https://classpass.com/search/dublin/gym-time-classes/5AX2XAaCt7H):** among others Energie Fitness, First Class Fitness Gym, Motivation Fitness, TalbotFit, Fianna Gym & Recovery and Saint James Gate Health and Fitness Club
 
-<h2 id="wellness">Wellness and beauty</h2>
-
-With your credits you can book more than classes in Dublin: there are wellness and beauty appointments too. Here are a few places; click a category to see everything on offer.
-
-- **[Recovery](https://classpass.com/search/dublin/sports-recovery-sessions/4iKF1pP8EQX):** among others SAINT Studios on South William Street, Recovery at The Hub in Santry, Fianna Gym & Recovery at Elm Park and UN1T Dublin
-- **[Massage](https://classpass.com/search/dublin/massage-sessions/5u2V6m5qib9):** among others Deep Relief Spa on Sackville Place, Ziba Wellness House in Temple Bar, The Buff Day Spa on King Street South, Lucy's Spa and Aura's Spa on O'Connell Street, Laviê Spa on Grafton Street and Lais Fernanda Spa & Beauty on Leeson Street
-- **[Sauna](https://classpass.com/search/dublin/sauna-sessions/55FDZ22jk47):** among others The Hot Box Sauna at Bolands Mills, in Inchicore and on Killiney Beach, RISE Nordic Spa and Align Wellness in Harold's Cross, Sandycove Saunas by the Forty Foot, the Helios floating sauna in Dún Laoghaire and YogaVeda Living in Blackrock
-- **[Facials](https://classpass.com/search/dublin/facial-appointments/5KjTXKdnX8j):** among others Ziba Wellness House, The Buff Day Spa, Lais Fernanda Spa & Beauty and Blend Beauty Artisans on Capel Street
-- **[Meditation](https://classpass.com/search/dublin/meditation-sessions/68uhc1UeuBu):** among others Yoga Dublin, Mandala Yoga Dublin, OSLO Health and Align Wellness
-- **[Hair](https://classpass.com/search/dublin/hair-appointments/62Wgz1kqpLf):** among others Barbershop Rodrigues on Dorset Street, Blend Beauty Artisans and Poise Hair Salon in Milltown
-- **[Nails, lashes and brows](https://classpass.com/search/dublin/all-experiences/5MNYErjovnj):** among others Freedom Beauty Space on Earlsfort Terrace, SF Lashes and Beauty and Camila Lima Nails & Beauty on Grafton Street, Rochas Beauty and Adel nails&eyebrows in Portobello, Vinny Micro and ClassicTouch beauty in Blackrock
+With your credits you can book more than classes in Dublin: there are wellness and beauty appointments too.
 
 <h2 id="tips">Tips</h2>
 

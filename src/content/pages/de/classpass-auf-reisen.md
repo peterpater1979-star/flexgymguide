@@ -52,7 +52,6 @@ Außerhalb Europas unter anderem in den USA, Kanada, Australien, Neuseeland, Jap
 2. **Schau dich vorher um.** Such schon zu Hause an deinem Reiseziel, dann weißt du, welche Studios es gibt und was sie kosten.
 3. **Buch rechtzeitig.** Beliebte Kurse sind schnell voll, auch im Urlaub.
 4. **Denk auch an ein Fitnessstudio.** Ein Besuch im Fitnessstudio in der Nähe deines Hotels ist eine einfache Art, zwischendurch zu trainieren.
-5. **Entspann dich nach der Reise.** Du kannst Credits auch für eine Massage oder das Spa nutzen.
 
 <h2 id="unterwegs">Praktisch im Koffer</h2>
 

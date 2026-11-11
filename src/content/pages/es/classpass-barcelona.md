@@ -21,7 +21,7 @@ Barcelona tiene una oferta enorme en ClassPass, repartida por toda la ciudad, co
 | **Precio al mes** | Plan estándar 59 € al mes (37 créditos) |
 | **Para probar** | 14 días gratis, 10 sesiones |
 | **Dónde** | Sobre todo en l'Eixample, Sant Gervasi, Gràcia, el Born y Poblenou, y también junto a la playa |
-| **Qué puedes hacer** | Pilates, barre, yoga, HIIT, bootcamp, cycling, boxeo, artes marciales, baile, running, remo y paddle surf, clases al aire libre y acceso al gimnasio, además de sesiones de bienestar y belleza |
+| **Qué puedes hacer** | Pilates, barre, yoga, HIIT, bootcamp, cycling, boxeo, artes marciales, baile, running, remo y paddle surf, clases al aire libre y acceso al gimnasio |
 
 </div>
 
@@ -77,26 +77,12 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - **[Al aire libre](/go/classpass-es-barcelona-aire-libre/?epi=fgg-es-classpass-barcelona):** entre otros SUP Yoga, Yoga by The Sea with Bodhi, Barcelona Beach House, STREETERCISE, EntrenArte Barcelona, FITBUDDY y Band&Build Squad
 - **[Acceso al gimnasio](/go/classpass-es-barcelona-gimnasio/?epi=fgg-es-classpass-barcelona):** entre otros COSMOFIT, TRIB3, Tabula Rasa Barcelona, STG Fitness Club, Mast Fitness, GreenFit, Energie Fitness Poblenou, Snap Fitness y los CEM municipales como OKEYMAS Parc de la Ciutadella
 
-<h2 id="bienestar">Bienestar y belleza</h2>
-
-Con tus créditos no solo reservas clases en Barcelona, sino también sesiones de bienestar y belleza. Aquí tienes algunas direcciones; haz clic en una categoría para ver toda la oferta.
-
-- **[Recuperación](/go/classpass-es-barcelona-recuperacion/?epi=fgg-es-classpass-barcelona):** entre otros Rokka Studio en Muntaner, ILO STUDIOS en Bailèn, VICTAS - Wellness, CRAFT - Wellness y COSMOGLOW - Wellness
-- **[Masaje](/go/classpass-es-barcelona-masaje/?epi=fgg-es-classpass-barcelona):** entre otros el hammam Dunas del Rif, Ocean Spa, Koan Club, Ananda Spa, Pole Pole Wellness Studio, Lotus de Bali & Thai, Heaven Massage Barcelona y Porvapor BCN Nordic SPA
-- **[Sauna](/go/classpass-es-barcelona-sauna/?epi=fgg-es-classpass-barcelona):** entre otros ILO STUDIOS, Rokka Studio, Spa Zen Men y The Recovery Crew
-- **[Faciales](/go/classpass-es-barcelona-faciales/?epi=fgg-es-classpass-barcelona):** entre otros La Brush, KōAN BEAUTY LAB, FRENCH KISS BEAUTY, KIM & CO Beauty, Musas Beauty Studio, Termas Bonay y Mayan Secret Spa
-- **[Meditación](/go/classpass-es-barcelona-meditacion/?epi=fgg-es-classpass-barcelona):** entre otros KMC Barcelona, (Silencio) Barcelona, SABDA, Sincronia Yoga, Satya Yoga Studio, YogaOne y Under The Elements Yoga en la Mar Bella
-- **[Peluquería](/go/classpass-es-barcelona-peluqueria/?epi=fgg-es-classpass-barcelona):** entre otros Amar Studio, Integral. Nature for Hair, Backstage BCN, Font The Beauty House y Anterea House of Beauty
-- **[Uñas](/go/classpass-es-barcelona-unas/?epi=fgg-es-classpass-barcelona):** entre otros Sunset Nail Salon, La Esmaltería, ARMONIA NAILS CONCEPT, DE|NOISE beauty salon y Eleva Beauty
-- **[Más belleza](/go/classpass-es-barcelona-belleza/?epi=fgg-es-classpass-barcelona):** entre otros IVY STUDIO BCN en Gràcia, Wonder Beauty Spa y HAIR CUT DAY
-
 <h2 id="consejos">Consejos</h2>
 
 - Las clases populares a primera hora y después del trabajo se llenan rápido. Reserva con unos días de antelación.
 - Los créditos por clase dependen del estudio y de la hora. Las clases fuera de las horas punta suelen costar menos.
 - Para el Pilates reformer y el barre normalmente necesitas calcetines antideslizantes. La primera vez, llega un poco antes.
 - Muchas clases en la playa dependen del tiempo. Mira bien el punto de encuentro al reservar.
-- Algunos centros de bienestar y belleza piden confirmar la cita por teléfono o con su propio sistema de reservas. Lee las indicaciones del centro antes de reservar.
 - Tu plan funciona también en otras ciudades de España y en el extranjero, allí donde haya ClassPass.
 
 [Ver los estudios de Barcelona en ClassPass.](/go/classpass-es-barcelona/?epi=fgg-es-classpass-barcelona)
