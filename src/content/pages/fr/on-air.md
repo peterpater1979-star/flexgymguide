@@ -136,6 +136,13 @@ Oui. Avec chaque formule, tu as accès à tous les clubs ON AIR.
 
 </details>
 
+<details>
+<summary>ON AIR est-il sur ClassPass ?</summary>
+
+Au moins une salle ON AIR est sur ClassPass : celle de Malakoff, près de Paris. Les salles qui participent en ce moment sont dans l’app ClassPass.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="https://onair-fitness.fr/">ON AIR</a>
 </div>

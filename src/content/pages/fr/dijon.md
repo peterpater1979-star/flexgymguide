@@ -87,6 +87,20 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<div id="magic-form" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle avec options</span></div>
+
+<h3 id="magic-form-dijon">Magic Form</h3>
+
+À Dijon, Magic Form a une salle boulevard Carnot, avec cardio, musculation et cours collectifs selon la formule. Magic One coûte 30 € toutes les 4 semaines avec engagement de 52 semaines, ou 40 € sans engagement ; Magic Full, sans engagement et avec toutes les options, 50 €. Tu ajoutes 40 € de droits d’entrée et 10 € de carte de membre.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="apercu">
@@ -124,7 +138,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Surtout des salles de sport en accès libre, avec des cours collectifs sur place :
 
-- **Accès à la salle** : L’Appart Fitness dans le centre (boulevard de Brosses), aux Bourroches (près du tram) et à la Toison d’Or, et Magic Form boulevard Carnot
+- **Accès à la salle** : L’Appart Fitness dans le centre (boulevard de Brosses), aux Bourroches (près du tram) et à la Toison d’Or, et [Magic Form](/fr/magic-form/) boulevard Carnot
 - **Cours collectifs** : chez L’Appart Fitness centre, entre autres cross training, bodypump, bodycombat, circuit training, Pilates et yoga
 
 ### Bon pour

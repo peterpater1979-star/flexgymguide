@@ -90,7 +90,7 @@ Cadena española con más de 240 clubes. Todas las cuotas sin permanencia, de 32
 
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym, Dreamfit, DiR, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
@@ -135,6 +135,42 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio con clases incluidas</span></div>
+
+### Dreamfit
+
+26 gimnasios grandes, casi la mitad en Madrid y alrededores. Sin permanencia, DREAM de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción.
+
+- Más de 600 clases al mes incluidas
+- Pase puntual de 15 € para probar
+- Baja antes del día 20 del mes
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio de barrio con piscina</span></div>
+
+### DiR
+
+Más de 20 clubes en Barcelona, muchos con piscina y spa. Todo el día desde 40,60 € al mes según el club, sin permanencia.
+
+- Cuotas de mañana, mediodía o fin de semana
+- Premium All Clubs para todos los clubes
+- 10 % menos con 12 meses
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/dir/">Todo sobre DiR</a>
 </div>
 
 </div>
@@ -297,6 +333,7 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 - **[Darse de baja en Synergym](/es/baja-synergym/)** · plazo y excedencia
 - **[Darse de baja en Fitness Park](/es/baja-fitness-park/)** · preaviso y permanencia
 - **[Darse de baja en VivaGym](/es/baja-vivagym/)** · plazo y app
+- **[Darse de baja en Dreamfit](/es/baja-dreamfit/)** · plazo y sin excedencia
 - **[Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/)** · opciones mes a mes
 - **[Gimnasio sin permanencia en Valencia](/es/gimnasio-sin-permanencia-valencia/)** · opciones mes a mes
 - **[Gimnasio sin permanencia en Sevilla](/es/gimnasio-sin-permanencia-sevilla/)** · opciones mes a mes

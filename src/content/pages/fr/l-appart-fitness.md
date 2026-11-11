@@ -87,7 +87,7 @@ Des coachs dans la salle et des cours en petits groupes, plus de 270 salles. Lis
 
 ### ClassPass
 
-Idéal si tu aimes varier les studios. À Lyon, L’Appart Fitness est aussi sur ClassPass. Lis [Tout sur ClassPass](/fr/classpass/).
+Idéal si tu aimes varier les studios. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 
@@ -113,6 +113,13 @@ Oui, si tu veux : sans engagement, tu paies 10 € de plus toutes les 4 semaines
 <summary>Y a-t-il un tarif étudiant ?</summary>
 
 Oui. Les étudiants paient 5 € de moins toutes les 4 semaines.
+
+</details>
+
+<details>
+<summary>L’Appart Fitness est-il sur ClassPass ?</summary>
+
+Certains clubs L’Appart Fitness sont sur ClassPass, par exemple à Lyon, à Paris (13e Charléty, 18e Jules Joffrin, 19e Bellevue), à Malakoff, à Saint-Germain-en-Laye et à Orgeval. Les clubs qui participent en ce moment sont dans l’app ClassPass.
 
 </details>
 

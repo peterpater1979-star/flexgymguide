@@ -157,6 +157,20 @@ En Madrid, GOfit tiene centros en Montecarmelo, Peñagrande, Plaza Elíptica y V
 
 </div>
 
+<div id="dreamfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio con clases incluidas</span></div>
+
+<h3 id="dreamfit-madrid">Dreamfit</h3>
+
+En Madrid, Dreamfit tiene clubes en Aluche, Valdebernardo, Vallecas, Villaverde, Ventas y Moratalaz, y alrededor en Alcorcón, Coslada, Majadahonda, Móstoles, Parla y San Sebastián de los Reyes. Gimnasios grandes con más de 600 clases al mes incluidas. Sin permanencia: DREAM cuesta 42,90 € al mes en Aluche y 44,90 € en Majadahonda, más 45 € de inscripción.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">

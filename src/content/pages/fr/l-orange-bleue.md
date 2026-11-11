@@ -100,7 +100,7 @@ Aussi des coachs dans la salle, avec des cours en petits groupes, et une formule
 
 ### ClassPass
 
-Sans engagement, idéal si tu aimes varier les studios. Certaines salles L’Orange bleue sont aussi sur ClassPass. Lis [Tout sur ClassPass](/fr/classpass/).
+Sans engagement, idéal si tu aimes varier les studios. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 
@@ -126,6 +126,13 @@ START coûte 35 €, BOOST et PRIME 45 € toutes les 4 semaines, plus 60 € de
 <summary>Puis-je essayer L’Orange bleue gratuitement ?</summary>
 
 Oui. Tu réserves une séance d’essai gratuite et sans engagement dans la salle de ton choix.
+
+</details>
+
+<details>
+<summary>L’Orange bleue est-il sur ClassPass ?</summary>
+
+Certaines salles L’Orange bleue sont sur ClassPass, par exemple à Gournay-sur-Marne, Plaisir, Englos (près de Lille), Bouguenais (près de Nantes), Mâcon et Montceau-les-Mines. Les salles qui participent en ce moment sont dans l’app ClassPass.
 
 </details>
 

@@ -269,6 +269,8 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 <h2 id="gidsen">Gidsen</h2>
 
 - **[Sportpas of abonnement?](/nl/sportpas-of-abonnement/)** · wat past bij hoe jij traint
+- **[Urban Sports Club en ClassPass](/nl/urban-sports-club-en-classpass/)** · de verschillen
+- **[Urban Sports Club opzeggen](/nl/urban-sports-club-opzeggen/)** · termijn en pauzeren
 - **[ClassPass-credits uitgelegd](/nl/classpass-credits/)** · meer lessen uit je abonnement
 - **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
 - **[Sporten als student](/nl/sporten-als-student/)** · goedkoop en flexibel

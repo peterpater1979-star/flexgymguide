@@ -168,6 +168,7 @@ Oui. Ton abonnement fonctionne dans les lieux partenaires d’autres villes fran
 - [Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)
 - [Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/)
 - [Tout sur ClassPass](/fr/classpass/)
+- [Urban Sports Club et ClassPass : les différences](/fr/urban-sports-club-et-classpass/)
 
 </details>
 

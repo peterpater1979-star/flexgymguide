@@ -143,6 +143,20 @@ En Valencia, Synergym tiene clubes en Abastos, Constitución, Gran Vía, Peset, 
 
 </div>
 
+<div id="dreamfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio con clases incluidas</span></div>
+
+<h3 id="dreamfit-valencia">Dreamfit</h3>
+
+En Valencia, Dreamfit tiene un club en el centro comercial Gran Turia, en Xirivella. Gimnasio grande con clases colectivas incluidas en la cuota y sin permanencia: DREAM cuesta 42,90 € al mes y PASS (todos los Dreamfit de España) 46,90 €, más 45 € de inscripción.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">

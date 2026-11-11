@@ -103,7 +103,7 @@ Moins cher, avec plus de 300 clubs en France. Lis [Salle de sport sans engagemen
 
 ### ClassPass
 
-Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Certains clubs Fitness Park sont aussi sur ClassPass, par exemple à Courbevoie, à Aix-en-Provence (centre) et à Lille. Lis [Tout sur ClassPass](/fr/classpass/).
+Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine. Résiliable à tout moment. Lis [Tout sur ClassPass](/fr/classpass/).
 
 </div>
 
@@ -129,6 +129,13 @@ Sans engagement : Classic 40 €, Access+ 55 € ou Ultimate 60 € toutes les 4
 <summary>Fitness Park est-il ouvert 24h/24 ?</summary>
 
 Certains clubs, oui. Les autres sont ouverts 7j/7 de 6h à 23h.
+
+</details>
+
+<details>
+<summary>Fitness Park est-il sur ClassPass ?</summary>
+
+Certains clubs Fitness Park sont sur ClassPass, par exemple à Courbevoie, à Aix-en-Provence (centre) et à Lille. Les clubs qui participent en ce moment sont dans l’app ClassPass.
 
 </details>
 

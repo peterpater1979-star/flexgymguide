@@ -288,6 +288,8 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 <h2 id="gidsen">Ratgeber</h2>
 
 - **[Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)** · was zu deinem Training passt
+- **[Urban Sports Club und ClassPass](/de/urban-sports-club-und-classpass/)** · die Unterschiede
+- **[Urban Sports Club kündigen](/de/urban-sports-club-kuendigen/)** · Frist und Pause
 - **[ClassPass-Credits erklärt](/de/classpass-credits/)** · mehr Kurse aus deinem Abo
 - **[Dein erstes Training](/de/erstes-training/)** · was du mitnimmst
 - **[Sport im Studium](/de/sport-im-studium/)** · günstig und flexibel

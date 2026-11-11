@@ -47,6 +47,20 @@ Urban Sports Club est aussi présent à Troyes. C’est un pass sport avec un pr
 
 </div>
 
+<div id="magic-form" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle avec options</span></div>
+
+<h3 id="magic-form-troyes">Magic Form</h3>
+
+À Troyes, Magic Form a une salle boulevard du 14 Juillet, et une autre à Romilly-sur-Seine. Magic One coûte 30 € toutes les 4 semaines avec engagement de 52 semaines, ou 40 € sans engagement ; Magic Full, sans engagement et avec toutes les options, 50 €. Tu ajoutes 40 € de droits d’entrée et 10 € de carte de membre.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="apercu">
@@ -82,7 +96,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre : Magic Form (boulevard du 14 Juillet), une salle de remise en forme ouverte 7 jours sur 7, avec musculation et étirements.
+Une petite offre : [Magic Form](/fr/magic-form/) (boulevard du 14 Juillet), une salle de remise en forme ouverte 7 jours sur 7, avec musculation et étirements.
 
 [Voir les studios à Troyes sur ClassPass](/go/classpass-fr-troyes/?epi=fgg-fr-troyes)
 

@@ -90,7 +90,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, Neoness, WellNess Sport Club, RITM et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, Neoness, WellNess Sport Club, RITM, Magic Form et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="villes">
 
@@ -269,6 +269,24 @@ Surtout en Île-de-France, avec accès à environ 270 clubs Neoness et Keepcool.
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-gymketen"><span>Salle avec options</span></div>
+
+### Magic Form
+
+Cardio, musculation et cours collectifs selon la formule. Dès 30 € toutes les 4 semaines avec engagement, ou Magic Full sans engagement à 50 €.
+
+- Idéal si tu vas souvent à la salle
+- Formules avec options au choix
+- Abo Jeune pour les moins de 20 ans
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 ### Urban Sports Club
@@ -345,6 +363,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 
 - **[Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/)** · les chaînes et pass sport côte à côte
 - **[Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)** · ce qui te correspond
+- **[Urban Sports Club et ClassPass](/fr/urban-sports-club-et-classpass/)** · les différences
 - **[Les crédits ClassPass](/fr/credits-classpass/)** · plus de cours avec ton abonnement
 - **[Ton premier cours](/fr/premier-cours/)** · quoi emporter
 - **[Faire du sport quand on est étudiant](/fr/sport-etudiant/)** · pas cher et flexible
