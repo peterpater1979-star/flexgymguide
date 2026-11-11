@@ -60,10 +60,12 @@ Avec ton abonnement, tu vas aussi dans les salles Keepcool : voir [Keepcool](/fr
 
 <h2 id="pause">Pause, changement et résiliation</h2>
 
+- **Cours collectifs :** tu vois le planning et tu réserves ta place dans l’appli Neoness, jusqu’à une semaine à l’avance.
 - **Pause vacances :** avec Prime et Platinum, tu peux mettre ton abonnement en pause gratuitement jusqu’à 30 jours. Pas avec Access.
 - **Suspendre :** pour un déplacement professionnel à plus de 30 km d’un club ou une incapacité médicale temporaire de longue durée, tu demandes une suspension dans ton espace client ou dans l’appli Neoness.
 - **Changer de formule :** pendant ton engagement, tu peux passer à une formule plus chère ; la durée qui reste est reprise. Pour une formule moins chère, tu attends la fin de ton engagement. Le changement se fait à l’accueil d’un club.
 - **Après l’engagement :** ton abonnement continue par mois ou par périodes de 4 semaines. Sans engagement, ou après ton engagement, tu changes ou tu arrêtes avec un préavis de 4 semaines.
+- **Comment résilier :** par lettre recommandée à ton club ou via le formulaire de résiliation sur le site de Neoness. Une demande en ligne ne met pas fin à ton engagement en cours.
 - **Arrêter pendant l’engagement :** possible si tu déménages à plus de 30 km d’un club, avec un justificatif de domicile récent à ton nom. Tu envoies ta demande en recommandé au club ou via le formulaire de résiliation sur le site.
 
 <p class="klein">Source : FAQ de neoness.fr (novembre 2026). Vérifie les conditions générales de ton contrat.</p>
