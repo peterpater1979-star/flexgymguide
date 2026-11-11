@@ -31,6 +31,20 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-madrid">Urban Sports Club</h3>
+
+Urban Sports Club también está en Madrid. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-basic-fit"><span>Gimnasio económico</span></div>
@@ -139,20 +153,6 @@ En Madrid, GOfit tiene centros en Montecarmelo, Peñagrande, Plaza Elíptica y V
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-madrid">Urban Sports Club</h3>
-
-Urban Sports Club también está en Madrid. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 </div>

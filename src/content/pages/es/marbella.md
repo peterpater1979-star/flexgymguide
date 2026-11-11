@@ -33,20 +33,6 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 </div>
 
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-marbella">Synergym</h3>
-
-Synergym tiene un club en Marbella, en la calle Juan Ramón Jiménez. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
@@ -57,6 +43,20 @@ Urban Sports Club también está en Marbella. Es un pase deportivo con un precio
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-marbella">Synergym</h3>
+
+Synergym tiene un club en Marbella, en la calle Juan Ramón Jiménez. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
 </div>

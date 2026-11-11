@@ -33,20 +33,6 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 </div>
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-keepcool"><span>Salle avec coachs</span></div>
-
-### Keepcool
-
-Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
-
-<div class="knoppen">
-<a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
-</div>
-
-</div>
-
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
@@ -57,6 +43,20 @@ Urban Sports Club est aussi présent à La Rochelle. C’est un pass sport avec 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-keepcool"><span>Salle avec coachs</span></div>
+
+### Keepcool
+
+Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
+
+<div class="knoppen">
+<a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
 </div>
 
 </div>

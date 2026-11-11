@@ -31,6 +31,20 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-valencia">Urban Sports Club</h3>
+
+Urban Sports Club también está en Valencia. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-basic-fit"><span>Gimnasio económico</span></div>
@@ -125,20 +139,6 @@ En Valencia, Synergym tiene clubes en Abastos, Constitución, Gran Vía, Peset, 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-valencia">Urban Sports Club</h3>
-
-Urban Sports Club también está en Valencia. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 </div>

@@ -31,6 +31,20 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-reims">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Reims. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
 <div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
@@ -55,20 +69,6 @@ Près de Reims, ON AIR a un club à Cormontreuil. Essential coûte 31,96 €, Or
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-reims">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Reims. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>

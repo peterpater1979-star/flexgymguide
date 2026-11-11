@@ -18,6 +18,20 @@ In Antwerpen vind je het ClassPass-aanbod in het centrum, op het Zuid, het Eilan
 
 <div class="kolommen vier">
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club zit ook in Antwerpen. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-classpass"><span>Voor afwisseling</span></div>
@@ -56,20 +70,6 @@ Sportschoolketen met 3 clubs in Antwerpen, met fitness en groepslessen met een c
 
 <div class="knoppen">
 <a class="knop" href="/be/jims/">Bekijk Jims</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
-
-<h3>Urban Sports Club</h3>
-
-Urban Sports Club zit ook in Antwerpen. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
 </div>
 
 </div>

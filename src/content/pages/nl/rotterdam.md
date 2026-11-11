@@ -16,6 +16,20 @@ Geen zin in een jaarcontract bij één sportschool? In Rotterdam kun je met een 
 
 <div class="kolommen vier">
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club zit ook in Rotterdam. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-classpass"><span>Voor afwisseling</span></div>
@@ -32,18 +46,6 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-trainmore"><span>Voor vaste gymgangers</span></div>
-
-### Trainmore
-
-Eigen clubs met gym en groepslessen: 7 in Rotterdam, 53 in heel Nederland. Bij Coolsingel vanaf € 62 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Met een contract krijg je € 1 korting per workout.
-
-[Bekijk Trainmore](/nl/trainmore/)
-
-</div>
-
-<div class="kolom kaart">
-
 <div class="fotokop foto-sporttas"><span>Gym met lessen</span></div>
 
 ### SportCity
@@ -51,6 +53,18 @@ Eigen clubs met gym en groepslessen: 7 in Rotterdam, 53 in heel Nederland. Bij C
 Gym met groepslessen, met City One (één club) of City Plus (121 clubs in Nederland). Flex is maandelijks opzegbaar: € 37,99 per 4 weken voor City One bij Conradstraat.
 
 [Bekijk SportCity](/nl/sportcity/)
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-trainmore"><span>Voor vaste gymgangers</span></div>
+
+### Trainmore
+
+Eigen clubs met gym en groepslessen: 7 in Rotterdam, 53 in heel Nederland. Bij Coolsingel vanaf € 62 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Met een contract krijg je € 1 korting per workout.
+
+[Bekijk Trainmore](/nl/trainmore/)
 
 </div>
 
@@ -92,20 +106,6 @@ Anytime Fitness heeft in Rotterdam een club op de Kop van Zuid, die 24 uur per d
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
-
-<h3>Urban Sports Club</h3>
-
-Urban Sports Club zit ook in Rotterdam. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
 </div>
 
 </div>

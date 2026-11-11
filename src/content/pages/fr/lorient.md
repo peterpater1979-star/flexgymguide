@@ -31,6 +31,20 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-lorient">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Lorient. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-basic-fit"><span>Salle à petit prix</span></div>
@@ -83,20 +97,6 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-lorient">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Lorient. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>

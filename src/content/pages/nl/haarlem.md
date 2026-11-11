@@ -32,18 +32,6 @@ Yoga, pilates, boksen en meer met één abonnement op basis van credits.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-trainmore"><span>Voor vaste gymgangers</span></div>
-
-### Trainmore
-
-Eigen clubs met gym en groepslessen: 1 in Haarlem, 53 in heel Nederland. Bij Hortusplein vanaf € 65 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Met een contract krijg je € 1 korting per workout.
-
-[Bekijk Trainmore](/nl/trainmore/)
-
-</div>
-
-<div class="kolom kaart">
-
 <div class="fotokop foto-sporttas"><span>Gym met lessen</span></div>
 
 ### SportCity
@@ -65,6 +53,18 @@ Voordelige sportschoolketen met 3 clubs in Haarlem, veel dag en nacht open.
 <div class="knoppen">
 <a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>
 </div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-trainmore"><span>Voor vaste gymgangers</span></div>
+
+### Trainmore
+
+Eigen clubs met gym en groepslessen: 1 in Haarlem, 53 in heel Nederland. Bij Hortusplein vanaf € 65 per 4 weken met een contract van 2 jaar, of Flex: maandelijks opzegbaar. Met een contract krijg je € 1 korting per workout.
+
+[Bekijk Trainmore](/nl/trainmore/)
 
 </div>
 

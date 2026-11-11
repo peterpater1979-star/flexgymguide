@@ -31,6 +31,20 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-rennes">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Rennes. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-basic-fit"><span>Salle à petit prix</span></div>
@@ -97,20 +111,6 @@ Près de Rennes, ON AIR a un club à Saint-Grégoire. Essential coûte 31,96 €
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-rennes">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Rennes. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>

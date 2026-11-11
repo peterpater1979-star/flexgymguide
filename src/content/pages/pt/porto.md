@@ -16,6 +16,20 @@ Não te apetece ficar preso a um só ginásio? Em Porto podes reservar aulas em 
 
 <div class="kolommen vier">
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Passe desportivo com preço fixo</span></div>
+
+<h3>Urban Sports Club</h3>
+
+O Urban Sports Club também está em Porto. É um passe desportivo com um preço fixo por mês: fazes check-in em locais parceiros, conforme o teu plano, para ginásio, aulas ou outros desportos. Cancelas todos os meses.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-classpass"><span>Para variar</span></div>
@@ -68,20 +82,6 @@ O antigo Fitness Hut: ginásio com aulas de grupo, sem fidelização.
 
 <div class="knoppen">
 <a class="knop" href="/pt/vivagym/">Ver VivaGym</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Passe desportivo com preço fixo</span></div>
-
-<h3>Urban Sports Club</h3>
-
-O Urban Sports Club também está em Porto. É um passe desportivo com um preço fixo por mês: fazes check-in em locais parceiros, conforme o teu plano, para ginásio, aulas ou outros desportos. Cancelas todos os meses.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>
 </div>
 
 </div>
