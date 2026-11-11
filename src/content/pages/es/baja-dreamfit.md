@@ -31,7 +31,13 @@ Te das de baja en Dreamfit en la recepción de tu club o en el área personal de
 2. **Pide la baja a tiempo:** antes del día 20 del mes. Ejemplo: para no pagar enero, pides la baja antes del 20 de diciembre.
 3. **Guarda la confirmación** y comprueba que no se cobra otro mes.
 
-<p class="klein">Fuente: preguntas frecuentes y condiciones de <a href="https://www.dreamfit.es/faq">dreamfit.es</a> (noviembre de 2026). Comprueba siempre las condiciones actuales con Dreamfit.</p>
+<h2 id="extras">Pilates con máquinas y taquilla de alquiler</h2>
+
+- **Con tu baja se acaban también:** si dejas Dreamfit, el pilates con máquinas y la taquilla de alquiler se cancelan solos. Vacía la taquilla antes de irte.
+- **Solo quieres dejar el extra:** firma el formulario de baja en la recepción del club, antes del día 20 del mes anterior al mes en que quieres terminar.
+- **Recibo devuelto:** si un recibo no se paga, Dreamfit cobra 3,90 € de gastos.
+
+<p class="klein">Fuente: preguntas frecuentes, normativa de los centros (octubre de 2025) y condiciones de <a href="https://www.dreamfit.es/faq">dreamfit.es</a> (noviembre de 2026). Comprueba siempre las condiciones actuales con Dreamfit.</p>
 
 <h2 id="pausa">¿Y si solo quieres parar un tiempo?</h2>
 
