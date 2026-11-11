@@ -90,7 +90,7 @@ Cadena española con más de 240 clubes. Todas las cuotas sin permanencia, de 32
 
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym, Dreamfit, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym, Dreamfit, DiR, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
@@ -153,6 +153,24 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio de barrio con piscina</span></div>
+
+### DiR
+
+Más de 20 clubes en Barcelona, muchos con piscina y spa. Todo el día desde 40,60 € al mes según el club, sin permanencia.
+
+- Cuotas de mañanas, tardes o fin de semana
+- Premium para todos los clubes
+- 10 % menos con 12 meses
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/dir/">Todo sobre DiR</a>
 </div>
 
 </div>

@@ -26,9 +26,10 @@ kicker: "Guía España"
 | **[Fitness Park](/es/fitness-park/)** | Classic 37 €, Ultimate 57 € cada 4 semanas | 50 € | 4 semanas de preaviso |
 | **[ON AIR](/es/on-air/)** | Desde 31,96 € cada 4 semanas | 30 €, más 10 € al año | 4 semanas de preaviso |
 | **[Dreamfit](/es/dreamfit/)** | DREAM de 42,90 a 44,90 € al mes según el club | 45 € | Hasta el día 20 del mes anterior |
+| **[DiR](/es/dir/)** (Barcelona) | Todo el día de 40,60 a 44,10 € al mes según el club, Premium 89,10 € | Según la promoción | Según las condiciones generales |
 | **[GOfit](/es/go-fit/)** | Cuota mensual de 51,30 a 61,62 €, Plan Plus de 57,80 a 68,12 € al mes (mínimo 3 meses) | 33,50 a 51,30 € | Según el centro |
 
-<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. Dreamfit: Aluche y Majadahonda (Madrid). GOfit: Ciudad Real, Sevilla y Plaza Elíptica (Madrid). Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
+<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. Dreamfit: Aluche y Majadahonda (Madrid). DiR: Campus y Av. Madrid (Barcelona). GOfit: Ciudad Real, Sevilla y Plaza Elíptica (Madrid). Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
 
 <h2 id="pase">Un pase deportivo: varios gimnasios y estudios</h2>
 
@@ -84,6 +85,10 @@ Centros deportivos grandes con piscinas, spa y clases, sobre todo en Madrid. La 
 ### Dreamfit
 
 26 gimnasios grandes, casi la mitad en Madrid y alrededores, con más de 600 clases al mes incluidas. Pagas mes a mes: DREAM cuesta de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción. Te das de baja como muy tarde el día 20 del mes anterior, en recepción o en el área personal. Lee [Todo sobre Dreamfit](/es/dreamfit/).
+
+### DiR
+
+Más de 20 clubes en Barcelona, muchos con piscina y spa. La cuota es mes a mes: todo el día de 40,60 a 44,10 € al mes según el club, y más barata si solo entrenas por la mañana, por la tarde o el fin de semana. Con 12 meses de permanencia tienes un 10 % de descuento. Lee [Todo sobre DiR](/es/dir/).
 
 ### ¿Y las demás?
 
