@@ -82,7 +82,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Une petite offre : Magic Form (boulevard du 14 Juillet), une salle de remise en forme ouverte 7 jours sur 7, avec musculation et étirements.
+Une petite offre : [Magic Form](/fr/magic-form/) (boulevard du 14 Juillet), une salle de remise en forme ouverte 7 jours sur 7, avec musculation et étirements.
 
 [Voir les studios à Troyes sur ClassPass](/go/classpass-fr-troyes/?epi=fgg-fr-troyes)
 

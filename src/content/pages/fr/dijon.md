@@ -124,7 +124,7 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 Surtout des salles de sport en accès libre, avec des cours collectifs sur place :
 
-- **Accès à la salle** : L’Appart Fitness dans le centre (boulevard de Brosses), aux Bourroches (près du tram) et à la Toison d’Or, et Magic Form boulevard Carnot
+- **Accès à la salle** : L’Appart Fitness dans le centre (boulevard de Brosses), aux Bourroches (près du tram) et à la Toison d’Or, et [Magic Form](/fr/magic-form/) boulevard Carnot
 - **Cours collectifs** : chez L’Appart Fitness centre, entre autres cross training, bodypump, bodycombat, circuit training, Pilates et yoga
 
 ### Bon pour

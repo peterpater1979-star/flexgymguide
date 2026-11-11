@@ -26,6 +26,7 @@ Pas envie de t’engager un an ? En France, la plupart des grandes chaînes ont 
 | **[ON AIR](/fr/on-air/)** | Dès 31,96 € toutes les 4 semaines | 50 €, plus 10 € par an | 8 semaines |
 | **[Neoness](/fr/neoness/)** | Prime dès 44,99 € toutes les 4 semaines | 49 €, plus 9,90 € par an | 4 semaines |
 | **[L’Appart Fitness](/fr/l-appart-fitness/)** | 49,96 € toutes les 4 semaines | 49 € | 4 semaines |
+| **[Magic Form](/fr/magic-form/)** | Magic One 40 €, Magic+ et Magic Full 50 € toutes les 4 semaines | 40 €, plus 10 € de carte et 9,90 € par an | Selon les conditions générales |
 | **[WellNess Sport Club](/fr/wellness-sport-club/)** | Hors Paris dès 54 € par mois, à Paris dès 69 € | Licence 149 €, dépôt de garantie de 2 mois | Selon les conditions générales |
 
 <p class="klein">Prix d’octobre et novembre 2026, repris de nos pages sur chaque prestataire. ClassPass : abonnement standard dans la plupart des villes, et à Paris. Urban Sports Club : abonnement mensuel. Selon le club ou la ville, le prix peut être différent. Vérifie toujours le prix actuel auprès du prestataire.</p>
