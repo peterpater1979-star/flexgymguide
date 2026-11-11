@@ -75,7 +75,7 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : WellNess Sport Club, L’Orange bleue, ON AIR, L’Appart Fitness et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : WellNess Sport Club, L’Orange bleue, ON AIR, L’Appart Fitness, Neoness et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="apercu">
 
@@ -277,6 +277,20 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
+
+</div>
+
+<div id="neoness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="neoness-lyon">Neoness</h3>
+
+À Lyon, Neoness a deux clubs : Lyon 6 Part-Dieu et Mairie du 8e. Access coûte 29,99 € et Prime 34,99 € toutes les 4 semaines avec engagement, Prime sans engagement dès 44,99 €, plus 49 € de frais d’adhésion.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
 </div>
 
 </div>

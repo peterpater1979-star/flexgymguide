@@ -75,7 +75,7 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : WellNess Sport Club, RITM, L’Orange bleue, ON AIR, L’Appart Fitness, Gigafit, Liberty Gym et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : WellNess Sport Club, RITM, L’Orange bleue, ON AIR, L’Appart Fitness, Gigafit, Liberty Gym, Neoness et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="apercu">
 
@@ -318,6 +318,20 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 <h3 id="liberty-gym-paris">Liberty Gym</h3>
 
 Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la salle, ouverte 7j/7 de 6h à 23h. Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines, sans engagement.
+
+</div>
+
+<div id="neoness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="neoness-paris">Neoness</h3>
+
+À Paris, Neoness a 19 clubs, entre autres Bourse-Opéra, Châtelet-Montorgueil, Madeleine, République, Bastille, Montparnasse, Batignolles, Beaugrenelle et Nation, et aussi à Boulogne-Billancourt, La Défense, Asnières, Colombes, Ivry-sur-Seine, Kremlin-Villejuif et Fontenay-sous-Bois. Ici, Access coûte 34,99 € et Prime 39,99 € toutes les 4 semaines avec engagement, Prime sans engagement dès 49,99 €, plus 49 € de frais d’adhésion.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
+</div>
 
 </div>
 

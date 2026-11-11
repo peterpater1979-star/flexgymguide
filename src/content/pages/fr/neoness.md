@@ -12,7 +12,7 @@ kicker: "Fournisseur : salle de sport"
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
 
-Neoness est une chaîne de salles de sport à petit prix, surtout en Île-de-France. Avec ton abonnement, tu as accès à environ 270 clubs du réseau Neoness et Keepcool. Tu choisis entre trois formules : Access, Prime et Platinum, avec engagement. Prime existe aussi sans engagement, à prendre directement au club.
+Neoness est une chaîne de salles de sport à petit prix, avec plus de 30 clubs, surtout à Paris et autour, et aussi à Lyon, Marseille, Aix-en-Provence et près de Nîmes. Avec ton abonnement, tu as accès à environ 270 clubs du réseau Neoness et Keepcool. Tu choisis entre trois formules : Access, Prime et Platinum, avec engagement. Prime existe aussi sans engagement, à prendre directement au club.
 
 <h2 id="resume">En bref</h2>
 
@@ -43,6 +43,20 @@ Neoness est une chaîne de salles de sport à petit prix, surtout en Île-de-Fra
 - **Access ou Prime ?** Pour 5 € de plus toutes les 4 semaines, Prime ajoute les cours collectifs illimités, la carte duo et la pause vacances. Avec Access, tu ne peux pas mettre ton abonnement en pause.
 
 <p class="klein">Prix affichés sur neoness.fr en novembre 2026. Neoness indique pour Platinum un prix barré de 199 € (249 € à Paris) : le prix réduit peut changer.</p>
+
+<h2 id="villes">Dans quelles villes ?</h2>
+
+Neoness a plus de 30 clubs, surtout à Paris et autour :
+
+<ul class="stedenlijst">
+<li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">19 clubs, et Boulogne-Billancourt, La Défense, Asnières (2), Colombes, Ivry-sur-Seine, Kremlin-Villejuif et Fontenay-sous-Bois</span></li>
+<li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">Part-Dieu et Mairie du 8e</span></li>
+<li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">Vieux-Port</span></li>
+<li><a href="/fr/aix-en-provence/"><strong>Aix-en-Provence</strong></a></li>
+<li><a href="/fr/nimes/"><strong>Nîmes</strong></a> <span class="klein">Marguerittes</span></li>
+</ul>
+
+Avec ton abonnement, tu vas aussi dans les salles Keepcool : voir [Keepcool](/fr/keepcool/).
 
 <h2 id="pause">Pause, changement et résiliation</h2>
 
