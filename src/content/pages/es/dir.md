@@ -26,7 +26,7 @@ DiR es una cadena de gimnasios de Barcelona, con más de 20 clubes en la ciudad 
 | **Permanencia** | Opcional: con 12 meses tienes un 10 % de descuento |
 | **Invitar** | Un no socio puede entrar con invitación 2 veces al año |
 
-<p class="klein">Precios de los clubes DiR Campus y DiR Av. Madrid en la página de alta de DiR (noviembre de 2026). El precio puede variar según el club y tu edad. Fuente de las condiciones: <a href="https://www.dir.cat/es/">dir.cat</a> y sus preguntas frecuentes. Comprueba siempre el precio de tu club con DiR.</p>
+<p class="klein">Precios de los clubes DiR Campus, Av. Madrid y Gràcia en la página de alta de DiR (noviembre de 2026). El precio puede variar según el club y tu edad. Fuente de las condiciones: <a href="https://www.dir.cat/es/">dir.cat</a> y sus preguntas frecuentes. Comprueba siempre el precio de tu club con DiR.</p>
 
 <h2 id="cuotas">Las cuotas</h2>
 
@@ -38,14 +38,14 @@ DiR es una cadena de gimnasios de Barcelona, con más de 20 clubes en la ciudad 
 | **Fin de semana** | Tu club, sábado y domingo | 22,40 € | 24,30 € |
 | **Premium todos los clubes** | Todos los clubes, a cualquier hora | 89,10 € | 89,10 € |
 
-Son precios "desde", al mes. Cada club tiene su propio precio; Premium cuesta lo mismo en los dos.
+Son precios "desde", al mes. Cada club tiene su propio precio: en DiR Gràcia pagas lo mismo que en Av. Madrid, salvo tardes (38,60 €). Premium cuesta 89,10 € en todos.
 
 - **Sin permanencia o con 12 meses:** la cuota normal es mes a mes. Si te comprometes 12 meses, tienes un 10 % de descuento sobre la cuota mensual. Si te vas antes, pagas las mensualidades que faltan.
 - **Incluido según el club:** salas de fitness, clases colectivas, taquillas, zonas termales y solárium.
 - **Con coste extra:** entrenador personal, fisioterapia, pádel y algunos servicios del club.
-- **Otros clubes:** con una cuota de un solo club, el acceso a otros clubes es limitado.
+- **Otros clubes:** solo con Premium entras en todos los clubes. Con las demás cuotas entrenas en tu club.
 
-<p class="klein">Precios de DiR Campus y DiR Av. Madrid, noviembre de 2026, sin promociones.</p>
+<p class="klein">Precios de DiR Campus, Av. Madrid y Gràcia, noviembre de 2026, sin promociones.</p>
 
 <h2 id="clubes">Los clubes</h2>
 
@@ -115,7 +115,7 @@ La cuota de todo el día cuesta desde 40,60 € al mes en DiR Campus y desde 44,
 <details>
 <summary>¿Puedo ir a todos los clubes DiR?</summary>
 
-Sí, con la cuota Premium todos los clubes. Con una cuota de un solo club, el acceso a otros clubes es limitado.
+Sí, pero solo con la cuota Premium todos los clubes. Con las demás cuotas entrenas en tu club.
 
 </details>
 
