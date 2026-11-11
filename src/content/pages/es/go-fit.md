@@ -25,6 +25,7 @@ GOfit es una cadena española de centros deportivos grandes, con unos 20 centros
 | **Matrícula** | De 37,19 a 51,30 € según el centro |
 | **Incluido** | Sala fitness, clases dirigidas, piscinas cubiertas y exteriores, spa y parking |
 | **Familias** | Con la cuota familiar, los niños entran gratis con sus padres |
+| **Horario** | Lunes a viernes de 7:00 a 23:00, sábados de 9:00 a 22:00, domingos y festivos de 9:00 a 20:00 (Ciudad Real y Sevilla) |
 | **Edad mínima** | 16 años para la cuota individual |
 | **Baja** | En el centro o por correo electrónico, el plazo depende del centro |
 
