@@ -31,20 +31,21 @@ Dreamfit es una cadena española de gimnasios grandes, con 26 clubes, casi la mi
 
 <h2 id="cuotas">Las cuotas</h2>
 
-Con **DREAM** entrenas en tu propio club. Algunos clubes tienen además una cuota para entrar en todos los Dreamfit de España: **PASS** o **PLUS**. Dos ejemplos, sin ofertas temporales:
+Con **DREAM** entrenas en tu propio club. Algunos clubes tienen además una cuota para entrar en todos los Dreamfit de España: **PASS** o **PLUS**. Tres ejemplos, sin ofertas temporales:
 
 | Club | DREAM (tu club) | Todos los clubes | Inscripción |
 | --- | --- | --- | --- |
 | **Aluche** (Madrid) | 42,90 € al mes | PASS 46,90 € al mes | 45 € |
 | **Majadahonda** (Madrid) | 44,90 € al mes | PLUS 54,90 € al mes, con zona recovery | 45 € |
+| **Sant Boi** (cerca de Barcelona) | 44,90 € al mes | PASS 46,90 € al mes | 45 € |
 
-- **Clases:** más de 600 clases colectivas al mes, sin pago extra. Las reservas en la app, hasta 14 días antes.
+- **Clases:** más de 600 clases colectivas al mes, también Les Mills y Hyrox, sin pago extra. También un análisis InBody. Las reservas en la app, hasta 14 días antes.
 - **Según el club:** sauna, baño turco, piscina de agua fría y parking.
 - **Con coste extra:** pilates con máquinas, taquilla de alquiler y entrenamiento personal.
 - **Pago:** el primer mes y la inscripción con tarjeta o en efectivo, después por domiciliación bancaria. Si te apuntas a mitad de mes, pagas la parte proporcional.
 - **Toalla:** obligatoria en todo el gimnasio, también en clases y sauna.
 
-<p class="klein">Precios de las páginas de alta de Dreamfit Aluche y Dreamfit Majadahonda, noviembre de 2026.</p>
+<p class="klein">Precios de las páginas de alta de Dreamfit Aluche, Majadahonda y Sant Boi, noviembre de 2026.</p>
 
 <h2 id="ciudades">¿En qué ciudades?</h2>
 
@@ -112,7 +113,7 @@ No. Pagas mes a mes y te das de baja antes del día 20 del mes; así ya no pagas
 <details>
 <summary>¿Cuánto cuesta Dreamfit?</summary>
 
-DREAM cuesta de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción. Para entrar en todos los clubes pagas más: PASS 46,90 € en Aluche, PLUS 54,90 € en Majadahonda (noviembre de 2026).
+DREAM cuesta de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción. Para entrar en todos los clubes pagas más: PASS 46,90 € en Aluche y Sant Boi, PLUS 54,90 € en Majadahonda (noviembre de 2026).
 
 </details>
 
