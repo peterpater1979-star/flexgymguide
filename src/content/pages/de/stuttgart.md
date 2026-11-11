@@ -36,7 +36,7 @@ Urban Sports Club gibt es auch in Stuttgart. Ein Sportpass mit festem Preis pro 
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
+Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
@@ -50,7 +50,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-220 Clubs in Deutschland, 4 in Stuttgart. Mit Kursen, Wellness und teils Schwimmbad.
+220 Clubs in Deutschland, 4 in Stuttgart. Mit Kursen, Sauna und in BLACK-Clubs oft auch Pool. RED oder BLACK, mit 1, 12 oder 24 Monaten Laufzeit.
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -64,7 +64,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### McFit
 
-Günstige Fitnesskette mit über 230 Studios, auch in Stuttgart. Flex ohne feste Laufzeit.
+Günstige Fitnesskette mit über 230 Studios, auch in Stuttgart. Flex ohne feste Laufzeit für 49,90 € im Monat, mit 12 Monaten 29,90 €, mit 24 Monaten 24,90 €.
 
 <div class="knoppen">
 <a class="knop" href="/de/mcfit/">McFit ansehen</a>

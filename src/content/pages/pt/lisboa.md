@@ -36,7 +36,7 @@ O Urban Sports Club também está em Lisboa. É um passe desportivo com um preç
 
 ### ClassPass
 
-Yoga, Pilates, treino de força e mais com uma só subscrição de créditos.
+Yoga, Pilates, treino de força e mais com uma só subscrição de créditos, em estúdios por toda a cidade. Cancelas quando quiseres, e o plano funciona também noutras cidades.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/pt/classpass/">Ver ClassPass</a>
@@ -50,7 +50,7 @@ Yoga, Pilates, treino de força e mais com uma só subscrição de créditos.
 
 ### Element Gyms
 
-Cadeia de ginásios sem fidelização, com mais de 50 ginásios em Portugal.
+Cadeia de ginásios low-cost sem fidelização, com mais de 50 ginásios em Portugal. Desde 2,99 € por semana, mais uma taxa de inscrição de 5 € a 15 €, conforme o plano.
 
 <div class="knoppen">
 <a class="knop" href="/pt/element-gyms/">Ver Element Gyms</a>
@@ -64,7 +64,7 @@ Cadeia de ginásios sem fidelização, com mais de 50 ginásios em Portugal.
 
 ### Holmes Place
 
-Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana.
+Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana. São 13 clubes em Portugal; o preço sabes no clube, onde também podes fazer um treino experimental.
 
 <div class="knoppen">
 <a class="knop" href="/pt/holmes-place/">Ver Holmes Place</a>
@@ -78,7 +78,7 @@ Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana.
 
 ### VivaGym
 
-O antigo Fitness Hut: ginásio com aulas de grupo, sem fidelização.
+O antigo Fitness Hut: ginásio com aulas de grupo, com mais de 40 ginásios em Portugal. Planos ONE, FLEX e PRIME sem fidelização; com PRIME também em Espanha.
 
 <div class="knoppen">
 <a class="knop" href="/pt/vivagym/">Ver VivaGym</a>

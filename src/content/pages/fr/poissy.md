@@ -24,7 +24,7 @@ Il n’y a pas encore de studio ClassPass à Poissy même, mais tu trouves une s
 
 ### ClassPass
 
-Des cours et des séances en salle avec un seul abonnement à crédits.
+Des cours et des séances en salle avec un seul abonnement à crédits, dans des studios de la ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-poissy">Profitez de 10 séances gratuites en 14 jours</a>

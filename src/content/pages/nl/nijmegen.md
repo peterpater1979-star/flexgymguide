@@ -23,7 +23,7 @@ Geen zin in een jaarcontract bij één sportschool? In Nijmegen kun je met een s
 
 ### ClassPass
 
-Krachttraining, kickboksen, pilates, dans en meer met één abonnement op basis van credits.
+Krachttraining, kickboksen, pilates, dans en meer met één abonnement op basis van credits. Maandelijks opzegbaar, en je abonnement werkt ook in andere steden.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
@@ -37,7 +37,7 @@ Krachttraining, kickboksen, pilates, dans en meer met één abonnement op basis 
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met 3 clubs in Nijmegen, waarvan 2 dag en nacht open.
+Voordelige sportschoolketen met 3 clubs in Nijmegen, waarvan 2 dag en nacht open. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>

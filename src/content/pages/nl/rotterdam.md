@@ -36,7 +36,7 @@ Urban Sports Club zit ook in Rotterdam. Een sportpas met een vaste prijs per maa
 
 ### ClassPass
 
-Yoga, pilates, boksen en meer met één abonnement op basis van credits.
+Yoga, pilates, boksen en meer met één abonnement op basis van credits, bij studio’s in de hele stad. Maandelijks opzegbaar, en je abonnement werkt ook in andere steden.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
@@ -74,7 +74,7 @@ Eigen clubs met gym en groepslessen: 7 in Rotterdam, 53 in heel Nederland. Bij C
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met 13 clubs in Rotterdam, veel dag en nacht open.
+Voordelige sportschoolketen met 13 clubs in Rotterdam, veel dag en nacht open. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>

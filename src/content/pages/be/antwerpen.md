@@ -38,7 +38,7 @@ Urban Sports Club zit ook in Antwerpen. Een sportpas met een vaste prijs per maa
 
 ### ClassPass
 
-Yoga, pilates, krachttraining en meer met één abonnement met credits.
+Yoga, pilates, krachttraining en meer met één abonnement met credits, bij studio’s in de hele stad. Maandelijks opzegbaar, en je abonnement werkt ook in andere steden.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/be/classpass/">Bekijk ClassPass</a>
@@ -52,7 +52,7 @@ Yoga, pilates, krachttraining en meer met één abonnement met credits.
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
+Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/be/basic-fit/">Bekijk Basic-Fit</a>
@@ -66,7 +66,7 @@ Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
 
 ### Jims
 
-Sportschoolketen met 3 clubs in Antwerpen, met fitness en groepslessen met een coach.
+Sportschoolketen met 3 clubs in Antwerpen, met fitness en groepslessen met een coach. Vanaf € 39,99 per 4 weken, flexibel opzegbaar met 4 weken opzegtermijn, en één gratis probeerdag per jaar.
 
 <div class="knoppen">
 <a class="knop" href="/be/jims/">Bekijk Jims</a>

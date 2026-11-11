@@ -36,7 +36,7 @@ Sportpass aus Österreich mit dem meisten Angebot in Wien. FLEX 4 kostet 55 € 
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
+Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/at/classpass/">ClassPass ansehen</a>
@@ -50,7 +50,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-4 Clubs in und um Wien. Mit Geräten, Kursen und Wellness.
+4 Clubs in und um Wien. Mit Geräten, Kursen und Wellness. Der Preis hängt von Club und Laufzeit ab; frag am besten direkt im Club nach.
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -64,7 +64,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### McFit
 
-Günstiges Gym mit mehreren Studios in Wien. Flex ab 34,90 € im Monat.
+Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 € im Monat, mit 12 Monaten Laufzeit ab 24,90 €.
 
 <div class="knoppen">
 <a class="knop" href="/de/mcfit/">McFit ansehen</a>
@@ -78,7 +78,7 @@ Günstiges Gym mit mehreren Studios in Wien. Flex ab 34,90 € im Monat.
 
 ### Holmes Place
 
-Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Wien.
+Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Wien. Den Preis erfährst du bei einem Besuch im Club; dort kannst du dich auch beraten lassen.
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>

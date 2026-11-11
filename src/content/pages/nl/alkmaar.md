@@ -23,7 +23,7 @@ Geen zin in een jaarcontract bij één sportschool? In Alkmaar kun je met een sp
 
 ### ClassPass
 
-Pilates, yoga, krachttraining, boksen en dans met één abonnement op basis van credits. Ook studio's in Heerhugowaard en Heiloo.
+Pilates, yoga, krachttraining, boksen en dans met één abonnement op basis van credits. Ook studio's in Heerhugowaard en Heiloo. Maandelijks opzegbaar.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
@@ -37,7 +37,7 @@ Pilates, yoga, krachttraining, boksen en dans met één abonnement op basis van 
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terborchlaan dag en nacht open is.
+Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terborchlaan dag en nacht open is. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>

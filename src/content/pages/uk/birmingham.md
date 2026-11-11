@@ -22,7 +22,7 @@ Don't want to be tied to one gym? In Birmingham you can join a low-cost gym with
 
 ### ClassPass
 
-Yoga, Pilates, boxing and more with one credit-based membership.
+Yoga, Pilates, boxing and more with one credit-based membership, at studios across the city. Cancel anytime, and your plan also works in other cities.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -36,7 +36,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### The Gym Group
 
-9 low-cost gyms in Birmingham, without a contract and most of them open 24/7.
+9 low-cost gyms in Birmingham, without a contract and most of them open 24/7. Classes are included in every membership: Off-peak, Standard or Ultimate.
 
 <div class="knoppen">
 <a class="knop" href="/uk/the-gym-group/">See The Gym Group</a>
@@ -50,7 +50,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### PureGym
 
-Budget gym chain with 7 gyms in Birmingham, most open 24/7. No contract, from £18.99 a month.
+Budget gym chain with 7 gyms in Birmingham, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
 
 <div class="knoppen">
 <a class="knop" href="/uk/puregym/">See PureGym</a>

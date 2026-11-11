@@ -22,7 +22,7 @@ Don't want to be tied to one gym? In London you can use a fitness pass at studio
 
 ### ClassPass
 
-Yoga, Pilates, boxing and more with one credit-based membership.
+Yoga, Pilates, boxing and more with one credit-based membership, at studios across the city. Cancel anytime, and your plan also works in other cities.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -36,7 +36,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### Fitness First
 
-17 clubs in London, with group classes and multi-club access.
+17 clubs in London, with group classes and multi-club access. Prices vary by club and membership tier, with minimum terms from 1 to 12 months depending on the club.
 
 <div class="knoppen">
 <a class="knop" href="/uk/fitness-first/">See Fitness First</a>
@@ -62,7 +62,7 @@ Low-cost gyms without a contract, most of them open 24/7.
 
 ### PureGym
 
-Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.99 a month.
+Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
 
 <div class="knoppen">
 <a class="knop" href="/uk/puregym/">See PureGym</a>

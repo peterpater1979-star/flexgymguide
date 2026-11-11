@@ -22,7 +22,7 @@ kicker: "Guía de ciudad Barcelona"
 
 ### ClassPass
 
-Yoga, pilates, fuerza y más con una sola suscripción de créditos.
+Yoga, pilates, fuerza y más con una sola suscripción de créditos, en estudios de toda la ciudad. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-barcelona">Prueba 10 sesiones gratis en 14 días</a>
@@ -37,7 +37,7 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 <h3 id="urban-sports-club-barcelona">Urban Sports Club</h3>
 
-Urban Sports Club también está en Barcelona. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
+Urban Sports Club también está en Barcelona. Haces check-in en gimnasios y estudios asociados con un precio fijo al mes. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
@@ -51,7 +51,7 @@ Urban Sports Club también está en Barcelona. En Madrid y Barcelona, la suscrip
 
 ### Basic-Fit
 
-Cadena de gimnasios económica con clubes en toda España.
+Cadena de gimnasios económica con clubes en toda España. Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 €, más 19,99 € de inscripción.
 
 <div class="knoppen">
 <a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
@@ -65,7 +65,7 @@ Cadena de gimnasios económica con clubes en toda España.
 
 ### Fitness Park
 
-Gimnasio con clases colectivas, con o sin permanencia.
+Gimnasio con clases colectivas, con o sin permanencia. Sin permanencia, Classic 37 € y Ultimate 57 € cada 4 semanas; con permanencia desde 27 € (club de Madrid).
 
 <div class="knoppen">
 <a class="knop" href="/es/fitness-park/">Ver Fitness Park</a>
@@ -79,7 +79,7 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 ### VivaGym
 
-Gimnasio con clases colectivas y cuotas sin permanencia.
+Gimnasio con clases colectivas y cuotas sin permanencia: ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes en Madrid, según el club. Menores de 26: 2 € de descuento al mes.
 
 <div class="knoppen">
 <a class="knop" href="/es/vivagym/">Ver VivaGym</a>

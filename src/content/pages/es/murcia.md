@@ -22,7 +22,7 @@ kicker: "Guía de ciudad Murcia"
 
 ### ClassPass
 
-Entrenamiento en grupo y EMS con una sola suscripción de créditos.
+Entrenamiento en grupo y EMS con una sola suscripción de créditos. La oferta es pequeña, pero tu plan vale también en otras ciudades. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-murcia">Prueba 10 sesiones gratis en 14 días</a>
@@ -37,7 +37,7 @@ Entrenamiento en grupo y EMS con una sola suscripción de créditos.
 
 ### Basic-Fit
 
-Cuatro clubes en Murcia, con contrato anual o Flex sin permanencia.
+Cuatro clubes en Murcia, con contrato anual o Flex sin permanencia. Desde 24,99 € cada 4 semanas con contrato anual, o Flex desde 29,98 €, más 19,99 € de inscripción.
 
 <div class="knoppen">
 <a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
@@ -51,7 +51,7 @@ Cuatro clubes en Murcia, con contrato anual o Flex sin permanencia.
 
 ### Fitness Park
 
-Tres clubes con clases colectivas, con o sin permanencia.
+Tres clubes con clases colectivas, con o sin permanencia. Sin permanencia, Classic 37 € y Ultimate 57 € cada 4 semanas; con permanencia desde 27 € (club de Madrid).
 
 <div class="knoppen">
 <a class="knop" href="/es/fitness-park/">Ver Fitness Park</a>

@@ -101,7 +101,7 @@ Seven clubs in Dublin, Cork, Ashbourne, Drogheda and Naas, most with a pool. €
 
 ### Snap Fitness
 
-24/7 gyms in Galway, Waterford, Naas and other towns, with access to Snap gyms abroad.
+24/7 gyms in Galway, Waterford, Naas and other towns, with classes at most gyms and access to Snap gyms abroad. For example €41.99 a month in Waterford; cancel with 30 days’ notice.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/snap-fitness/">All about Snap Fitness</a>
@@ -115,7 +115,7 @@ Seven clubs in Dublin, Cork, Ashbourne, Drogheda and Naas, most with a pool. €
 
 ### West Wood Club
 
-Six health clubs in Dublin with pools, classes and spa facilities.
+Six health clubs in Dublin with pools and group classes included. One Global membership covers all clubs. Try it free for 4 days (from age 18); after the minimum term, 60 days’ notice.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/west-wood-club/">All about West Wood Club</a>

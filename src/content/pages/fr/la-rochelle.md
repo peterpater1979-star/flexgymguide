@@ -24,7 +24,7 @@ L’offre ClassPass à La Rochelle est encore petite : pour l’instant surtout 
 
 ### ClassPass
 
-Des cours et des séances en salle avec un seul abonnement à crédits.
+Des cours et des séances en salle avec un seul abonnement à crédits, dans des studios de la ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-la-rochelle">Profitez de 10 séances gratuites en 14 jours</a>
@@ -53,7 +53,7 @@ Urban Sports Club est aussi présent à La Rochelle. C’est un pass sport avec 
 
 ### Keepcool
 
-Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
+Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
@@ -72,7 +72,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass | Keepcool |
 | --- | --- | --- |
 | **Type** | Pass sport à crédits | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
+| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 29,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Une salle à Bruxelles |

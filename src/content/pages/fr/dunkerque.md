@@ -24,7 +24,7 @@ L’offre ClassPass à Dunkerque est encore petite : tu y trouves surtout du Pil
 
 ### ClassPass
 
-Des cours et des séances en salle avec un seul abonnement à crédits.
+Des cours et des séances en salle avec un seul abonnement à crédits, dans des studios de la ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-dunkerque">Profitez de 10 séances gratuites en 14 jours</a>
@@ -53,7 +53,7 @@ Urban Sports Club est aussi présent à Dunkerque. C’est un pass sport avec un
 
 ### Basic-Fit
 
-Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24.
+Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Dès 24,99 € toutes les 4 semaines avec engagement d’un an, ou Flex sans engagement pour 9,99 € de plus.
 
 <div class="knoppen">
 <a class="knop" href="/fr/basic-fit/">Voir Basic-Fit</a>

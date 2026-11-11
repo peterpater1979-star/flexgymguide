@@ -24,7 +24,7 @@ La oferta de ClassPass en Marbella es más pequeña que en Málaga, pero variada
 
 ### ClassPass
 
-Yoga, pilates, fuerza y más con una sola suscripción de créditos.
+Yoga, pilates, fuerza y más con una sola suscripción de créditos, en estudios de toda la ciudad. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-marbella">Prueba 10 sesiones gratis en 14 días</a>

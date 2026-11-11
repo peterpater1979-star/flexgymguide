@@ -24,7 +24,7 @@ Das ClassPass-Angebot in Darmstadt ist klein, aber vielseitig: Yoga und Reformer
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
+Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
@@ -38,7 +38,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-220 Clubs in Deutschland, 10 in Darmstadt. Mit Kursen, Wellness und teils Schwimmbad.
+220 Clubs in Deutschland, 10 in Darmstadt. Mit Kursen, Sauna und in BLACK-Clubs oft auch Pool. RED oder BLACK, mit 1, 12 oder 24 Monaten Laufzeit.
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>

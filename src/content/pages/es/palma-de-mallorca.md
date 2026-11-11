@@ -22,7 +22,7 @@ kicker: "Guía de ciudad Palma de Mallorca"
 
 ### ClassPass
 
-Yoga, pilates, fuerza y más con una sola suscripción de créditos.
+Yoga, pilates, fuerza y más con una sola suscripción de créditos, en estudios de toda la ciudad. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-palma-de-mallorca">Prueba 10 sesiones gratis en 14 días</a>
@@ -51,7 +51,7 @@ Urban Sports Club también está en Palma de Mallorca. Es un pase deportivo con 
 
 ### Basic-Fit
 
-Cadena de gimnasios económica con clubes en toda España.
+Cadena de gimnasios económica con clubes en toda España. Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 €, más 19,99 € de inscripción.
 
 <div class="knoppen">
 <a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
