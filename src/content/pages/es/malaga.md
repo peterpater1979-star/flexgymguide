@@ -47,7 +47,7 @@ Cadena de gimnasios económica con clubes en toda España.
 
 </div>
 
-<p class="meer-aanbieders">Y también: ON AIR, Anytime Fitness, Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: ON AIR, Anytime Fitness, Synergym, GOfit y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -190,6 +190,20 @@ En Málaga, Synergym tiene clubes en Los Tilos, Guindos, Trinidad y Reding. Mult
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+<div id="go-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+<h3 id="go-fit-malaga">GOfit</h3>
+
+En Málaga, GOfit tiene dos centros: Huelin y Segalerva. Con piscinas, spa y clases dirigidas. Cuota individual desde 42,75 € al mes según el centro.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
 </div>
 
 </div>

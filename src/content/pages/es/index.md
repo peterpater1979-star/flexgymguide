@@ -91,7 +91,7 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym, Anytime Fitness, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
@@ -152,6 +152,24 @@ Unos 60 gimnasios en España, abiertos las 24 horas, y acceso a más de 6.000 cl
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+### GOfit
+
+Unos 20 centros deportivos grandes, sobre todo en Madrid, con piscinas, spa y más de 150 clases a la semana. Cuota individual desde 42,75 € al mes según el centro, y cuota familiar.
+
+- Ideal si quieres piscina y spa
+- Ideal para familias
+- Pádel y entrenamiento personal aparte
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
 </div>
 
 </div>

@@ -77,7 +77,7 @@ Gimnasios de gama alta en Madrid, Barcelona, Málaga y Valencia, todas las cuota
 
 ### ¿Y las demás?
 
-En [Anytime Fitness](/es/anytime-fitness/), cada club fija su cuota y su permanencia: pregunta siempre antes de apuntarte. En [L’Orange Bleue](/es/l-orange-bleue/), las cuotas son con permanencia de uno o dos años.
+En [Anytime Fitness](/es/anytime-fitness/), cada club fija su cuota y su permanencia: pregunta siempre antes de apuntarte. En [L’Orange Bleue](/es/l-orange-bleue/), las cuotas son con permanencia de uno o dos años. En [GOfit](/es/go-fit/), con piscinas y spa, pregunta en tu centro por la matrícula y la permanencia.
 
 <h2 id="ciudades">Por ciudad</h2>
 
