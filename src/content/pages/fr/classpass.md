@@ -100,6 +100,8 @@ C’est dans ces villes que tu as le plus de choix avec ClassPass :
 
 ClassPass est aussi présent à [Rouen](/fr/rouen/), [Tours](/fr/tours/), [Orléans](/fr/orleans/), [Dijon](/fr/dijon/), [Clermont-Ferrand](/fr/clermont-ferrand/), [Saint-Étienne](/fr/saint-etienne/), [Le Havre](/fr/le-havre/), [Angers](/fr/angers/), [Le Mans](/fr/le-mans/), [Brest](/fr/brest/), [Nîmes](/fr/nimes/), [Annecy](/fr/annecy/), [Amiens](/fr/amiens/), [Avignon](/fr/avignon/) et [Reims](/fr/reims/), dans de plus petites villes comme [Troyes](/fr/troyes/), [Bayonne](/fr/bayonne/), [Poitiers](/fr/poitiers/), [Dunkerque](/fr/dunkerque/), [Annemasse](/fr/annemasse/), [Lorient](/fr/lorient/), [La Rochelle](/fr/la-rochelle/), [Béziers](/fr/beziers/) et [Arras](/fr/arras/), et en Île-de-France à [Cergy](/fr/cergy/), [Poissy](/fr/poissy/), [Maurepas](/fr/maurepas/), [Montévrain](/fr/montevrain/) et [Bussy-Saint-Georges](/fr/bussy-saint-georges/). Dans l’application, tu vois quels studios et salles participent près de chez toi.
 
+Tu hésites avec Urban Sports Club ? Lis [Urban Sports Club et ClassPass : les différences](/fr/urban-sports-club-et-classpass/).
+
 <h2 id="etranger">ClassPass à l’étranger</h2>
 
 Ton abonnement fonctionne aussi hors de France, dans plus de 2 500 villes et 31 pays. En voyage, tu réserves simplement un cours avec tes crédits. Les prix et l’offre varient selon le pays.

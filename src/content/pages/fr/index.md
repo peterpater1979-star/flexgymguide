@@ -345,6 +345,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 
 - **[Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/)** · les chaînes et pass sport côte à côte
 - **[Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)** · ce qui te correspond
+- **[Urban Sports Club et ClassPass](/fr/urban-sports-club-et-classpass/)** · les différences
 - **[Les crédits ClassPass](/fr/credits-classpass/)** · plus de cours avec ton abonnement
 - **[Ton premier cours](/fr/premier-cours/)** · quoi emporter
 - **[Faire du sport quand on est étudiant](/fr/sport-etudiant/)** · pas cher et flexible

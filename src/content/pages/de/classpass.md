@@ -219,6 +219,7 @@ Das hängt davon ab, wie oft du trainierst. Trainierst du ein- bis dreimal pro W
 ### Erklärt
 
 - [How ClassPass works (EN)](/guides/how-classpass-works/)
+- [Urban Sports Club und ClassPass: die Unterschiede](/de/urban-sports-club-und-classpass/)
 
 </div>
 

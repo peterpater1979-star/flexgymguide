@@ -201,6 +201,7 @@ Dat hangt af van hoe vaak je sport. Sport je één tot drie keer per week en wil
 ### Uitgelegd
 
 - [How ClassPass works (EN)](/guides/how-classpass-works/)
+- [Urban Sports Club en ClassPass: de verschillen](/nl/urban-sports-club-en-classpass/)
 
 </div>
 

@@ -101,6 +101,8 @@ Urban Sports Club hat Partnerstudios in Deutschland, Belgien, Spanien, Frankreic
 - **Monatliche Mitgliedschaft**: 3 Tage vor dem Ende deines Mitgliedsmonats kündigen.
 - **Widerruf**: innerhalb von 14 Tagen nach der Anmeldung, ohne Angabe von Gründen.
 
+Schritt für Schritt: [Urban Sports Club kündigen](/de/urban-sports-club-kuendigen/).
+
 ## Häufige Fragen
 
 <details open>
@@ -136,6 +138,7 @@ Ja. Deine Mitgliedschaft gilt bei Partnerstudios in anderen deutschen Städten u
 
 - [Flexibel trainieren in Deutschland](/de/)
 - [Alles über ClassPass](/de/classpass/)
+- [Urban Sports Club und ClassPass: die Unterschiede](/de/urban-sports-club-und-classpass/)
 
 </details>
 
