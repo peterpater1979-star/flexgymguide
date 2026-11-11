@@ -2,7 +2,7 @@
 title: "Salle de sport sans engagement en France : les options mois par mois"
 seoTitle: "Salle de sport sans engagement : prix des chaînes"
 path: "/fr/salle-de-sport-sans-engagement/"
-description: "Salle de sport sans engagement en France : Basic-Fit Flex, Fitness Park, Keepcool, ON AIR, L’Appart Fitness, ClassPass et Urban Sports Club. Prix, frais et préavis."
+description: "Salle de sport sans engagement : Basic-Fit Flex, Fitness Park, Keepcool, Neoness, ON AIR, L’Appart Fitness, ClassPass et Urban Sports Club. Prix et préavis."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -24,6 +24,7 @@ Pas envie de t’engager un an ? En France, la plupart des grandes chaînes ont 
 | **[Fitness Park](/fr/fitness-park/)** | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines | 49 € | 4 semaines avant le prélèvement |
 | **[Keepcool](/fr/keepcool/)** | 44,99 € toutes les 4 semaines | 39 € | 4 semaines |
 | **[ON AIR](/fr/on-air/)** | Dès 31,96 € toutes les 4 semaines | 50 €, plus 10 € par an | 8 semaines |
+| **[Neoness](/fr/neoness/)** | Prime dès 44,99 € toutes les 4 semaines | 49 €, plus 9,90 € par an | 4 semaines |
 | **[L’Appart Fitness](/fr/l-appart-fitness/)** | 49,96 € toutes les 4 semaines | 49 € | 4 semaines |
 | **[WellNess Sport Club](/fr/wellness-sport-club/)** | Hors Paris dès 54 € par mois, à Paris dès 69 € | Licence 149 €, dépôt de garantie de 2 mois | Selon les conditions générales |
 
@@ -72,6 +73,10 @@ Des salles avec coachs et cours en petits groupes. Sans engagement, tu paies 44,
 
 Des salles haut de gamme, toutes sans engagement annuel, dès 31,96 € toutes les 4 semaines. Attention au préavis : 8 semaines. Lis [Tout sur ON AIR](/fr/on-air/).
 
+### Neoness
+
+Surtout en Île-de-France, avec accès à environ 270 clubs du réseau Neoness et Keepcool. Sans engagement, tu prends Prime dès 44,99 € toutes les 4 semaines, directement au club, contre 34,99 € avec engagement. Lis [Tout sur Neoness](/fr/neoness/).
+
 ### L’Appart Fitness
 
 Surtout autour de Lyon. Sans engagement, 49,96 € toutes les 4 semaines, 10 € de plus qu’avec engagement, avec un préavis de 4 semaines. Lis [Tout sur L’Appart Fitness](/fr/l-appart-fitness/).
@@ -82,7 +87,7 @@ Des clubs tout inclus avec cours collectifs, cours aquatiques et espace bien-êt
 
 ### Et les autres ?
 
-Chez [L’Orange bleue](/fr/l-orange-bleue/), les formules sont avec un engagement d’un ou deux ans. Chez [Neoness](/fr/neoness/), toutes les formules sont avec engagement (52 semaines pour Access, dès 29,99 € toutes les 4 semaines). Chez [Gigafit](/fr/gigafit/), ça dépend du club : certains proposent une formule sans engagement pour quelques euros de plus.
+Chez [L’Orange bleue](/fr/l-orange-bleue/), les formules sont avec un engagement d’un ou deux ans. Chez [Gigafit](/fr/gigafit/), ça dépend du club : certains proposent une formule sans engagement pour quelques euros de plus.
 
 <h2 id="villes">Par ville</h2>
 
@@ -103,7 +108,7 @@ Tu cherches une salle dans ta ville ? Dans nos guides ville, tu trouves les sall
 <details open>
 <summary>Quelle salle de sport est sans engagement ?</summary>
 
-Basic-Fit (option Flex), Fitness Park, Keepcool, ON AIR, L’Appart Fitness et WellNess Sport Club ont une formule sans engagement. Un pass sport comme ClassPass ou Urban Sports Club est aussi sans engagement.
+Basic-Fit (option Flex), Fitness Park, Keepcool, Neoness (Prime), ON AIR, L’Appart Fitness et WellNess Sport Club ont une formule sans engagement. Un pass sport comme ClassPass ou Urban Sports Club est aussi sans engagement.
 
 </details>
 

@@ -201,11 +201,11 @@ Plus de 120 clubs selon ON AIR, surtout en France. Sans engagement annuel, dès 
 
 ### Neoness
 
-Surtout en Île-de-France, avec accès à environ 270 clubs du réseau Neoness et Keepcool. Access 29,99 € ou Prime 34,99 € toutes les 4 semaines, avec engagement, plus 49 € de frais d’adhésion.
+Surtout en Île-de-France, avec accès à environ 270 clubs du réseau Neoness et Keepcool. Access 29,99 € ou Prime 34,99 € toutes les 4 semaines avec engagement, Prime sans engagement dès 44,99 €, plus 49 € de frais d’adhésion.
 
 - Idéal si tu vas souvent à la salle toute l’année
 - Cours collectifs et pause vacances avec Prime
-- Pas de formule sans engagement
+- Prime aussi sans engagement, au club
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>

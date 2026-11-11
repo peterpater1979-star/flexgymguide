@@ -2,7 +2,7 @@
 title: "Neoness : formules, prix et pour qui c’est fait"
 seoTitle: "Neoness : tarifs et prix des abonnements"
 path: "/fr/neoness/"
-description: "Prix Neoness : Access 29,99 € et Prime 34,99 € toutes les 4 semaines avec engagement, Platinum avec coaching. Frais d’adhésion, pause, réseau de 270 clubs avec Keepcool."
+description: "Prix Neoness : Access 29,99 € et Prime 34,99 € toutes les 4 semaines avec engagement, Prime sans engagement dès 44,99 €. Frais d’adhésion, pause, résiliation et 270 clubs."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -12,7 +12,7 @@ kicker: "Fournisseur : salle de sport"
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
 
-Neoness est une chaîne de salles de sport à petit prix, surtout en Île-de-France. Avec ton abonnement, tu as accès à environ 270 clubs du réseau Neoness et Keepcool. Tu choisis entre trois formules : Access, Prime et Platinum. Les trois sont avec engagement.
+Neoness est une chaîne de salles de sport à petit prix, surtout en Île-de-France. Avec ton abonnement, tu as accès à environ 270 clubs du réseau Neoness et Keepcool. Tu choisis entre trois formules : Access, Prime et Platinum, avec engagement. Prime existe aussi sans engagement, à prendre directement au club.
 
 <h2 id="resume">En bref</h2>
 
@@ -22,11 +22,12 @@ Neoness est une chaîne de salles de sport à petit prix, surtout en Île-de-Fra
 | **Clubs** | Environ 270 dans le réseau Neoness et Keepcool |
 | **Prix** | Dès 29,99 € toutes les 4 semaines (Access) |
 | **Engagement** | 52 semaines (Access), 56 semaines (Prime), 6 mois (Platinum) |
-| **Sans engagement** | Pas de formule sans engagement sur la page des abonnements |
+| **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Prime dès 44,99 € toutes les 4 semaines, au club |
 | **Frais d’adhésion** | 49 €, plus 9,90 € par an pour l’entretien |
 | **En ligne** | <span class="ja" aria-hidden="true">✓</span> Plus de 500 cours en vidéo à la demande |
+| **Âge minimum** | 16 ans, accompagné d’un adulte à l’inscription jusqu’à 18 ans |
 
-<p class="klein">Source : <a href="https://www.neoness.fr/">neoness.fr</a>, page des abonnements (novembre 2026). Vérifie toujours les prix actuels avec Neoness.</p>
+<p class="klein">Source : <a href="https://www.neoness.fr/">neoness.fr</a>, page des abonnements et FAQ (novembre 2026). Vérifie toujours les prix actuels avec Neoness.</p>
 
 <h2 id="formules">Les formules</h2>
 
@@ -34,18 +35,24 @@ Neoness est une chaîne de salles de sport à petit prix, surtout en Île-de-Fra
 | --- | --- | --- | --- |
 | **Access** | 29,99 € toutes les 4 semaines | 52 semaines | Accès aux clubs et vidéos à la demande |
 | **Prime** | 34,99 € toutes les 4 semaines | 56 semaines | Cours collectifs illimités, carte duo, pause vacances |
+| **Prime sans engagement** | Dès 44,99 € toutes les 4 semaines | Aucun, préavis de 4 semaines | Comme Prime ; inscription au club |
 | **Platinum** | 159,20 € par mois | 6 mois | Tout Prime, plus une séance de coaching individuel par semaine |
 
-- **Paris et environs :** Access et Prime coûtent 5 € de plus dans les clubs de Paris, La Défense, Boulogne, Asnières, Ivry et Marseille Vieux-Port. Platinum y coûte 199,20 € par mois.
+- **Paris et environs :** Access et Prime (aussi sans engagement) coûtent 5 € de plus dans les clubs de Paris, La Défense, Boulogne, Asnières, Ivry et Marseille Vieux-Port. Platinum y coûte 199,20 € par mois.
 - **Frais :** 49 € de frais d’adhésion pour toutes les formules, plus 9,90 € par an pour l’entretien.
 - **Access ou Prime ?** Pour 5 € de plus toutes les 4 semaines, Prime ajoute les cours collectifs illimités, la carte duo et la pause vacances. Avec Access, tu ne peux pas mettre ton abonnement en pause.
 
 <p class="klein">Prix affichés sur neoness.fr en novembre 2026. Neoness indique pour Platinum un prix barré de 199 € (249 € à Paris) : le prix réduit peut changer.</p>
 
-<h2 id="pause">Pause et résiliation</h2>
+<h2 id="pause">Pause, changement et résiliation</h2>
 
 - **Pause vacances :** avec Prime et Platinum, tu peux mettre ton abonnement en pause gratuitement jusqu’à 30 jours. Pas avec Access.
-- **Engagement :** tu paies jusqu’à la fin de ta période d’engagement (52 ou 56 semaines, ou 6 mois). Vérifie dans les conditions générales comment ton abonnement continue ensuite et quel préavis s’applique.
+- **Suspendre :** pour un déplacement professionnel à plus de 30 km d’un club ou une incapacité médicale temporaire de longue durée, tu demandes une suspension dans ton espace client ou dans l’appli Neoness.
+- **Changer de formule :** pendant ton engagement, tu peux passer à une formule plus chère ; la durée qui reste est reprise. Pour une formule moins chère, tu attends la fin de ton engagement. Le changement se fait à l’accueil d’un club.
+- **Après l’engagement :** ton abonnement continue par mois ou par périodes de 4 semaines. Sans engagement, ou après ton engagement, tu changes ou tu arrêtes avec un préavis de 4 semaines.
+- **Arrêter pendant l’engagement :** possible si tu déménages à plus de 30 km d’un club, avec un justificatif de domicile récent à ton nom. Tu envoies ta demande en recommandé au club ou via le formulaire de résiliation sur le site.
+
+<p class="klein">Source : FAQ de neoness.fr (novembre 2026). Vérifie les conditions générales de ton contrat.</p>
 
 <h2 id="choix">Neoness, Keepcool ou ClassPass ?</h2>
 
@@ -55,7 +62,7 @@ Neoness est une chaîne de salles de sport à petit prix, surtout en Île-de-Fra
 
 ### Neoness
 
-Idéal si tu cherches une salle pas chère près de chez toi en Île-de-France et que tu y vas souvent toute l’année.
+Idéal si tu cherches une salle pas chère en Île-de-France et que tu y vas souvent. Prime existe aussi sans engagement.
 
 </div>
 
@@ -63,7 +70,7 @@ Idéal si tu cherches une salle pas chère près de chez toi en Île-de-France e
 
 ### Keepcool
 
-Même réseau de clubs, avec des coachs dans la salle et une formule sans engagement. Lis [Tout sur Keepcool](/fr/keepcool/).
+Même réseau de clubs, avec des coachs dans la salle et des cours en petits groupes. Lis [Tout sur Keepcool](/fr/keepcool/).
 
 </div>
 
@@ -84,14 +91,14 @@ Tu ne veux pas t’engager ? Regarde [Salle de sport sans engagement](/fr/salle-
 <details open>
 <summary>Neoness est-il sans engagement ?</summary>
 
-Non. Sur la page des abonnements (novembre 2026), toutes les formules sont avec engagement : 52 semaines pour Access, 56 semaines pour Prime et 6 mois pour Platinum.
+Oui, avec Prime : sans engagement, c’est dès 44,99 € toutes les 4 semaines (5 € de plus selon la région), à prendre directement au club. Access et Platinum sont avec engagement (novembre 2026).
 
 </details>
 
 <details>
 <summary>Combien coûte Neoness ?</summary>
 
-Access coûte 29,99 € et Prime 34,99 € toutes les 4 semaines, 5 € de plus à Paris et dans quelques clubs autour. Tu ajoutes 49 € de frais d’adhésion et 9,90 € par an pour l’entretien (novembre 2026).
+Avec engagement, Access coûte 29,99 € et Prime 34,99 € toutes les 4 semaines. Prime sans engagement coûte dès 44,99 €. C’est 5 € de plus à Paris et dans quelques clubs autour. Tu ajoutes 49 € de frais d’adhésion et 9,90 € par an pour l’entretien (novembre 2026).
 
 </details>
 
