@@ -350,6 +350,9 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 - **[Faire du sport quand on est étudiant](/fr/sport-etudiant/)** · pas cher et flexible
 - **[Manger et boire autour du sport](/fr/manger-et-boire-autour-du-sport/)** · simple
 - **[Résilier Basic-Fit](/fr/resilier-basic-fit/)** · préavis et alternatives
+- **[Résilier Fitness Park](/fr/resilier-fitness-park/)** · préavis et alternatives
+- **[Résilier Keepcool](/fr/resilier-keepcool/)** · préavis et alternatives
+- **[Résilier L’Orange bleue](/fr/resilier-l-orange-bleue/)** · préavis et alternatives
 - **[Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/)** · les options mois par mois
 
 ## Questions fréquentes

@@ -52,6 +52,8 @@ Los bonos son para el club donde los compras, personales e intransferibles. Prá
 - **Sin permanencia:** todas las cuotas se renuevan solas, cada mes o cada 3 meses. Para darte de baja, avisa como tarde el día 19 del mes.
 - **Pausar:** con Multiclub Premium tienes tres meses de excedencia gratis.
 
+Todo el detalle: [Darse de baja en Synergym](/es/baja-synergym/).
+
 <h2 id="eleccion">¿Synergym, VivaGym o ClassPass?</h2>
 
 <div class="kolommen">

@@ -294,6 +294,9 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 - **[Deporte siendo estudiante](/es/deporte-estudiante/)** · barato y flexible
 - **[Comer y beber al entrenar](/es/comer-y-beber-al-entrenar/)** · fácil
 - **[Darse de baja en Basic-Fit](/es/baja-basic-fit/)** · preaviso y alternativas
+- **[Darse de baja en Synergym](/es/baja-synergym/)** · plazo y excedencia
+- **[Darse de baja en Fitness Park](/es/baja-fitness-park/)** · preaviso y permanencia
+- **[Darse de baja en VivaGym](/es/baja-vivagym/)** · plazo y app
 - **[Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/)** · opciones mes a mes
 - **[Gimnasio sin permanencia en Barcelona](/es/gimnasio-sin-permanencia-barcelona/)** · opciones mes a mes
 

@@ -75,6 +75,8 @@ Tous les clubs sont sur [fitnesspark.fr/club](https://www.fitnesspark.fr/club/).
 - **Comment** : dans ton espace adhérent (« Résilier mon abonnement »), ou par lettre recommandée avec accusé de réception à ton club.
 - **À savoir** : si tu te réinscris plus tard, tu paies à nouveau les frais d’adhésion. Un prélèvement rejeté coûte 8 €. Inscrit en ligne ? Tu as 14 jours pour te rétracter.
 
+Tout le détail : [Résilier Fitness Park](/fr/resilier-fitness-park/).
+
 <p class="klein">Source : conditions générales de vente de Fitness Park (novembre 2026). Chaque club peut avoir ses propres conditions : vérifie celles de ton club avant de t’inscrire.</p>
 
 <h2 id="choix">Fitness Park, Basic-Fit ou ClassPass ?</h2>

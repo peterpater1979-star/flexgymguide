@@ -67,6 +67,7 @@ Todos los clubes están en el [buscador de clubes de Fitness Park](https://lescl
 - **Suspender por motivos médicos**: con un certificado médico oficial que indica que no puedes entrenar durante 3 meses o más. Durante ese tiempo no pagas y la permanencia no corre. No hay pausa por otros motivos.
 - **Cómo**: por correo electrónico a la dirección de tu club.
 - **A saber**: las cuotas pagadas no se devuelven por periodos que no usas.
+- **Todo el detalle**: [Darse de baja en Fitness Park](/es/baja-fitness-park/).
 
 <p class="klein">Fuente: condiciones generales de venta de Fitness Park España (noviembre de 2026).</p>
 

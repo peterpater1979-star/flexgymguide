@@ -44,7 +44,7 @@ Algunos clubes ofrecen además una cuota con 12 meses de permanencia, a un preci
 
 <h2 id="baja">Darse de baja</h2>
 
-Te das de baja en la app o en el área de cliente. Si lo pides antes del día 20, la baja vale a final de ese mes. En algunos clubes el plazo es el día 15.
+Te das de baja en la app o en el área de cliente. Si lo pides antes del día 20, la baja vale a final de ese mes. En algunos clubes el plazo es el día 15. Todo el detalle: [Darse de baja en VivaGym](/es/baja-vivagym/).
 
 <h2 id="ciudades">¿En qué ciudades?</h2>
 
