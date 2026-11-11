@@ -47,7 +47,7 @@ Cadena de gimnasios económica con clubes en toda España.
 
 </div>
 
-<p class="meer-aanbieders">Y también: Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Anytime Fitness, Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -163,6 +163,20 @@ En Palma, Anytime Fitness tiene tres clubes, entre ellos Foners y Fortí. Cada c
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-palma-de-mallorca">Synergym</h3>
+
+En Palma, Synergym tiene clubes en Camp Serralta, Escorxador y Les Estacions. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
 </div>

@@ -91,7 +91,7 @@ Cadena de gimnasios española con más de 240 clubes en España. Sin permanencia
 
 </div>
 
-<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym, L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
@@ -119,6 +119,24 @@ También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. 
 Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pase deportivo con precio fijo.
 
 <div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+### Synergym
+
+Cadena española con clubes en toda España, también en muchas ciudades medianas. Todas las cuotas sin permanencia: Club Unlimited 30,99 € o Multiclub Premium 36,99 € al mes, más 30 € de matrícula.
+
+- Ideal si buscas un gimnasio barato cerca de casa
+- Bono día y bono semana sin cuota
+- Baja con preaviso hasta el día 19
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
 
 <div class="kolom kaart aanbiederkaart">
 

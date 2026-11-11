@@ -2,7 +2,7 @@
 title: "Gimnasio sin permanencia en España: las opciones mes a mes"
 seoTitle: "Gimnasio sin permanencia: precios de las cadenas"
 path: "/es/gimnasio-sin-permanencia/"
-description: "Gimnasios sin permanencia en España: Basic-Fit Flex, VivaGym, Fitness Park, ON AIR, ClassPass y Urban Sports Club. Precios, matrícula y preaviso."
+description: "Gimnasios sin permanencia en España: Basic-Fit Flex, VivaGym, Synergym, Fitness Park, ON AIR, ClassPass y Urban Sports Club. Precios, matrícula y preaviso."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"
@@ -21,11 +21,12 @@ kicker: "Guía España"
 | **[ClassPass](/es/classpass/)** | 49 € al mes (30 créditos), en Madrid y Barcelona 59 € (37 créditos) | No | Cuando quieras, antes de la renovación |
 | **[Urban Sports Club](/es/urban-sports-club/)** | Essential 35 €, Classic 75 €, Premium 115 €, Max 165 € al mes | No | 3 días de preaviso |
 | **[VivaGym](/es/vivagym/)** | ONE 32,90 €, FLEX 35,90 €, PRIME 37,90 € al mes | 29 € | Antes del día 20, vale a final de mes |
+| **[Synergym](/es/synergym/)** | Club Unlimited 30,99 €, Multiclub Premium 36,99 € al mes | 30 € | Preaviso hasta el día 19 |
 | **[Basic-Fit](/es/basic-fit/) Flex** | Desde 29,98 € cada 4 semanas | 19,99 € | 4 semanas de preaviso |
 | **[Fitness Park](/es/fitness-park/)** | Classic 37 €, Ultimate 57 € cada 4 semanas | 50 € | 4 semanas de preaviso |
 | **[ON AIR](/es/on-air/)** | Desde 31,96 € cada 4 semanas | 30 €, más 10 € al año | 4 semanas de preaviso |
 
-<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
+<p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym, Synergym y Fitness Park: precios de un club de Madrid. Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>
 
 <h2 id="pase">Un pase deportivo: varios gimnasios y estudios</h2>
 
@@ -57,6 +58,10 @@ Un precio fijo al mes, con check-ins en gimnasios y estudios asociados. Cuanto m
 ### VivaGym
 
 Más de 240 gimnasios en España, y todas las cuotas son sin permanencia. En el club Madrid Príncipe de Vergara, ONE cuesta 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes, más 29 € de matrícula. Lee [Todo sobre VivaGym](/es/vivagym/).
+
+### Synergym
+
+Clubes en toda España, también en muchas ciudades medianas, y todas las cuotas sin permanencia. En un club de Madrid, Club Unlimited (solo tu club) cuesta 30,99 € y Multiclub Premium (todos los clubes) 36,99 € al mes, más 30 € de matrícula. Para un día o una semana hay bonos desde 8,99 €. Lee [Todo sobre Synergym](/es/synergym/).
 
 ### Basic-Fit Flex
 
@@ -93,14 +98,14 @@ En [Anytime Fitness](/es/anytime-fitness/), cada club fija su cuota y su permane
 <details open>
 <summary>¿Qué gimnasios no tienen permanencia?</summary>
 
-VivaGym, Fitness Park (cuota sin permanencia), Basic-Fit (Flex) y ON AIR tienen cuotas sin permanencia. Un pase deportivo como ClassPass o Urban Sports Club tampoco tiene permanencia.
+VivaGym, Synergym, Fitness Park (cuota sin permanencia), Basic-Fit (Flex) y ON AIR tienen cuotas sin permanencia. Un pase deportivo como ClassPass o Urban Sports Club tampoco tiene permanencia.
 
 </details>
 
 <details>
 <summary>¿Cuál es el gimnasio sin permanencia más barato?</summary>
 
-Según nuestros precios de noviembre de 2026, Basic-Fit Flex (desde 29,98 €) y ON AIR (desde 31,96 €) cada 4 semanas, y VivaGym ONE (32,90 € al mes). Cuenta también la matrícula y el preaviso.
+Según nuestros precios de noviembre de 2026, Basic-Fit Flex (desde 29,98 €) y ON AIR (desde 31,96 €) cada 4 semanas, y Synergym Club Unlimited (30,99 € al mes) y VivaGym ONE (32,90 € al mes). Cuenta también la matrícula y el preaviso.
 
 </details>
 

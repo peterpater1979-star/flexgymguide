@@ -75,7 +75,7 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
-<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness, Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -263,6 +263,20 @@ En Barcelona, Anytime Fitness tiene clubes en Les Corts, Pedralbes, Poblenou y R
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-barcelona">Synergym</h3>
+
+En Barcelona, Synergym tiene clubes en El Clot, Fabra i Puig, Las Arenas, Maragall y Plaza Cosmos, y también en Hospitalet, Cornellà, El Prat, Sabadell, Terrassa y Mataró. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
 </div>

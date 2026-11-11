@@ -75,7 +75,7 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
-<p class="meer-aanbieders">Y también: Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="vistazo">
 
@@ -234,6 +234,20 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 <h2 id="otros">Otros gimnasios en Bilbao</h2>
 
 <div class="kolommen vier">
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-bilbao">Synergym</h3>
+
+En Bilbao, Synergym tiene clubes en Deusto, Indautxu, Sarriko y Ametzola, y también en Getxo y Portugalete. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
