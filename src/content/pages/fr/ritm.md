@@ -143,13 +143,6 @@ Non. Pour les cours ROD (HYROX Training, bootcamp, cross-training), tu prends l�
 
 </details>
 
-<details>
-<summary>RITM est-il sur ClassPass ?</summary>
-
-Certains clubs RITM sont sur ClassPass, pour la salle et pour les cours collectifs : à Paris (Champs-Élysées, Saint-Germain, Ternes) et à Boulogne-Billancourt. Les clubs qui participent en ce moment sont dans l’app ClassPass.
-
-</details>
-
 <div class="knoppen">
 <a class="knop knop-rand" href="https://ritm-sport.fr/">RITM</a>
 </div>
