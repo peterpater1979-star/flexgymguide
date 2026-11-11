@@ -126,7 +126,7 @@ Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pas
 
 ### Synergym
 
-Cadena española con clubes en toda España, también en muchas ciudades medianas. Todas las cuotas sin permanencia: Club Unlimited 30,99 € o Multiclub Premium 36,99 € al mes, más 30 € de matrícula.
+Cadena española con clubes en toda España, también en muchas ciudades medianas. Todas las cuotas sin permanencia: Club Unlimited de 24,99 a 30,99 € según el club, o Multiclub Premium 36,99 € al mes, más 30 € de matrícula.
 
 - Ideal si buscas un gimnasio barato cerca de casa
 - Bono día y bono semana sin cuota

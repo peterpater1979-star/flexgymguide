@@ -273,7 +273,7 @@ En Madrid, Anytime Fitness tiene seis clubes: Arganzuela, Bravo Murillo, Ciudad 
 
 <h3 id="synergym-madrid">Synergym</h3>
 
-En Madrid, Synergym tiene clubes en Almagro, Prosperidad, Retiro y Santa Eugenia, y también en Alcobendas, Getafe, Fuenlabrada y Torrejón. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+En Madrid, Synergym tiene clubes en Almagro, Prosperidad, Retiro y Santa Eugenia, y también en Alcobendas, Getafe, Fuenlabrada y Torrejón. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>

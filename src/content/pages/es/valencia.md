@@ -288,7 +288,7 @@ En Valencia, Anytime Fitness tiene un club en Abastos, y otro en Mislata. Cada c
 
 <h3 id="synergym-valencia">Synergym</h3>
 
-En Valencia, Synergym tiene clubes en Abastos, Constitución, Gran Vía, Peset, Puerto y Nueva Fe, y también en Burjassot, Paterna, Xirivella y Torrent. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+En Valencia, Synergym tiene clubes en Abastos, Constitución, Gran Vía, Peset, Puerto y Nueva Fe, y también en Burjassot, Paterna, Xirivella y Torrent. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>

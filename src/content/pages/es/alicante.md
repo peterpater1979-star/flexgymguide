@@ -196,7 +196,7 @@ Fitness Park es una cadena de gimnasios francesa con 170 clubes en España. En e
 
 <h3 id="synergym-alicante">Synergym</h3>
 
-En Alicante, Synergym tiene un club en Benalúa, y también en San Vicente del Raspeig. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+En Alicante, Synergym tiene un club en Benalúa, y también en San Vicente del Raspeig. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>

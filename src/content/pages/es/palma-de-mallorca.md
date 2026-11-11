@@ -173,7 +173,7 @@ En Palma, Anytime Fitness tiene tres clubes, entre ellos Foners y Fortí. Cada c
 
 <h3 id="synergym-palma-de-mallorca">Synergym</h3>
 
-En Palma, Synergym tiene clubes en Camp Serralta, Escorxador y Les Estacions. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+En Palma, Synergym tiene clubes en Camp Serralta, Escorxador y Les Estacions. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>

@@ -273,7 +273,7 @@ En Barcelona, Anytime Fitness tiene clubes en Les Corts, Pedralbes, Poblenou y R
 
 <h3 id="synergym-barcelona">Synergym</h3>
 
-En Barcelona, Synergym tiene clubes en El Clot, Fabra i Puig, Las Arenas, Maragall y Plaza Cosmos, y también en Hospitalet, Cornellà, El Prat, Sabadell, Terrassa y Mataró. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+En Barcelona, Synergym tiene clubes en El Clot, Fabra i Puig, Las Arenas, Maragall y Plaza Cosmos, y también en Hospitalet, Cornellà, El Prat, Sabadell, Terrassa y Mataró. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>

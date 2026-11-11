@@ -127,7 +127,7 @@ En el centro, la Milla de Oro, Nueva Andalucía y San Pedro Alcántara, y a lo l
 
 <h3 id="synergym-marbella">Synergym</h3>
 
-Synergym tiene un club en Marbella, en la calle Juan Ramón Jiménez. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+Synergym tiene un club en Marbella, en la calle Juan Ramón Jiménez. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>

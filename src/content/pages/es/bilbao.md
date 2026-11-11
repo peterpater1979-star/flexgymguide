@@ -241,7 +241,7 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 <h3 id="synergym-bilbao">Synergym</h3>
 
-En Bilbao, Synergym tiene clubes en Deusto, Indautxu, Sarriko y Ametzola, y también en Getxo y Portugalete. Club Unlimited cuesta 30,99 € y Multiclub Premium 36,99 € al mes, sin permanencia, más 30 € de matrícula (precios de un club de Madrid).
+En Bilbao, Synergym tiene clubes en Deusto, Indautxu, Sarriko y Ametzola, y también en Getxo y Portugalete. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
