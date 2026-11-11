@@ -49,8 +49,7 @@ Keepcool est une chaîne française de salles de sport, avec plus de 270 salles 
 - **Small Groups** : des cours en petits groupes
 - **Cours en vidéo** à suivre dans la salle ou à la maison
 - **Coaching individuel** en plus, dès 45 € la séance
-
-- **Small Groups :** tu réserves ta place dans l’appli Keepcool ou par téléphone auprès de ton club.
+- **Réserver :** tu réserves ta place en Small Group dans l’appli Keepcool ou par téléphone auprès de ton club.
 - **Carte duo (Prime) :** ton invité vient s’entraîner avec toi, pas sans toi.
 
 <h2 id="villes">Dans quelles villes ?</h2>
