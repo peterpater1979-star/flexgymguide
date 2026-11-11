@@ -54,6 +54,24 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-sporttas"><span>Sportschoolketen</span></div>
+
+### SportCity
+
+Gym met live groepslessen in heel Nederland. Kies City One (één club) of City Plus (121 clubs), met Flex maandelijks opzegbaar of een contract van 3 maanden, 1 of 2 jaar.
+
+- Goed als je één vaste plek wilt
+- Flex: maandelijks opzegbaar, met een maand opzegtermijn
+- Prijs verschilt per club
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/sportcity/">Alles over SportCity</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-trainmore"><span>Sportschoolketen</span></div>
 
 ### Trainmore
@@ -71,24 +89,6 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-sporttas"><span>Sportschoolketen</span></div>
-
-### SportCity
-
-Gym met live groepslessen in heel Nederland. Kies City One (één club) of City Plus (121 clubs), met Flex maandelijks opzegbaar of een contract van 3 maanden, 1 of 2 jaar.
-
-- Goed als je één vaste plek wilt
-- Flex: maandelijks opzegbaar, met een maand opzegtermijn
-- Prijs verschilt per club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/sportcity/">Alles over SportCity</a>
-</div>
-
-</div>
-
 </div>
 
 <p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym en Anytime Fitness. <a href="#andere">Bekijk de andere sportscholen</a></p>
@@ -98,10 +98,10 @@ Gym met live groepslessen in heel Nederland. Kies City One (één club) of City 
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness</span></li>
-<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness</span></li>
-<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness</span></li>
-<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness</span></li>
+<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym</span></li>
 <li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
 <li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore · SportCity</span></li>
 <li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
@@ -119,7 +119,7 @@ Gym met live groepslessen in heel Nederland. Kies City One (één club) of City 
 
 Sportscholen en studio's met eigen lidmaatschappen, van de grote keten Basic-Fit tot gyms in een paar steden.
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -276,6 +276,8 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Basic-Fit opzeggen](/nl/basic-fit-opzeggen/)** · opzegtermijn en alternatieven
 - **[SportCity opzeggen](/nl/sportcity-opzeggen/)** · opzegtermijn en alternatieven
 - **[Trainmore opzeggen](/nl/trainmore-opzeggen/)** · opzegtermijn en bevriezen
+- **[Anytime Fitness opzeggen](/nl/anytime-fitness-opzeggen/)** · opzegtermijn en pauzeren
+- **[Sporten zonder contract](/nl/sporten-zonder-contract/)** · de opties per maand
 
 ## Veelgestelde vragen
 

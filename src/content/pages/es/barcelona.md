@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Barcelona"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,11 +22,25 @@ kicker: "Guía de ciudad Barcelona"
 
 ### ClassPass
 
-Yoga, pilates, fuerza y más con una sola suscripción de créditos.
+Yoga, pilates, fuerza y más con una sola suscripción de créditos, en estudios de toda la ciudad. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-barcelona">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-barcelona">Urban Sports Club</h3>
+
+Urban Sports Club también está en Barcelona. Haces check-in en gimnasios y estudios asociados con un precio fijo al mes. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 </div>
@@ -37,7 +51,7 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 ### Basic-Fit
 
-Cadena de gimnasios económica con clubes en toda España.
+Cadena de gimnasios económica con clubes en toda España. Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 €, más 19,99 € de inscripción.
 
 <div class="knoppen">
 <a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
@@ -51,7 +65,7 @@ Cadena de gimnasios económica con clubes en toda España.
 
 ### Fitness Park
 
-Gimnasio con clases colectivas, con o sin permanencia.
+Gimnasio con clases colectivas, con o sin permanencia. Sin permanencia, Classic 37 € y Ultimate 57 € cada 4 semanas; con permanencia desde 27 € (club de Madrid).
 
 <div class="knoppen">
 <a class="knop" href="/es/fitness-park/">Ver Fitness Park</a>
@@ -65,7 +79,7 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 ### VivaGym
 
-Gimnasio con clases colectivas y cuotas sin permanencia.
+Gimnasio con clases colectivas y cuotas sin permanencia: ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes en Madrid, según el club. Menores de 26: 2 € de descuento al mes.
 
 <div class="knoppen">
 <a class="knop" href="/es/vivagym/">Ver VivaGym</a>
@@ -73,9 +87,63 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Gimnasio con entrenadores</span></div>
+
+<h3 id="l-orange-bleue-barcelona">L’Orange bleue</h3>
+
+En Barcelona, L’Orange bleue tiene dos gimnasios: Nou Barris y Guinardó. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
 </div>
 
-<p class="meer-aanbieders">Y también: L’Orange bleue, ON AIR, Anytime Fitness, Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
+
+<h3 id="on-air-barcelona">ON AIR</h3>
+
+En Barcelona, ON AIR tiene un gimnasio en Universitat (L’Eixample). Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
+
+</div>
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
+
+<h3 id="anytime-fitness-barcelona">Anytime Fitness</h3>
+
+En Barcelona, Anytime Fitness tiene clubes en Les Corts, Pedralbes, Poblenou y Rocafort, y alrededor en L’Hospitalet, Esplugues y Badalona. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
+</div>
+
+</div>
+
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-barcelona">Synergym</h3>
+
+En Barcelona, Synergym tiene clubes en El Clot, Fabra i Puig, Las Arenas, Maragall y Plaza Cosmos, y también en Hospitalet, Cornellà, El Prat, Sabadell, Terrassa y Mataró. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -221,86 +289,9 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
-<h2 id="otros">Otros gimnasios en Barcelona</h2>
-
-<div class="kolommen vier">
-
-<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-l-orange-bleue"><span>Gimnasio con entrenadores</span></div>
-
-<h3 id="l-orange-bleue-barcelona">L’Orange bleue</h3>
-
-En Barcelona, L’Orange bleue tiene dos gimnasios: Nou Barris y Guinardó. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
-</div>
-
-</div>
-
-<div id="on-air" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-on-air"><span>Gimnasio de gama alta</span></div>
-
-<h3 id="on-air-barcelona">ON AIR</h3>
-
-En Barcelona, ON AIR tiene un gimnasio en Universitat (L’Eixample). Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
-</div>
-
-</div>
-
-<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-anytime-fitness"><span>Gimnasio 24 horas</span></div>
-
-<h3 id="anytime-fitness-barcelona">Anytime Fitness</h3>
-
-En Barcelona, Anytime Fitness tiene clubes en Les Corts, Pedralbes, Poblenou y Rocafort, y alrededor en L’Hospitalet, Esplugues y Badalona. Cada club fija su cuota: de media 49,90 € al mes según Anytime Fitness.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
-</div>
-
-</div>
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-barcelona">Synergym</h3>
-
-En Barcelona, Synergym tiene clubes en El Clot, Fabra i Puig, Las Arenas, Maragall y Plaza Cosmos, y también en Hospitalet, Cornellà, El Prat, Sabadell, Terrassa y Mataró. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-barcelona">Urban Sports Club</h3>
-
-Urban Sports Club también está en Barcelona. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
-
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

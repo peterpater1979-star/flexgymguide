@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Málaga"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,11 +22,25 @@ kicker: "Guía de ciudad Málaga"
 
 ### ClassPass
 
-Yoga, pilates, fuerza y más con una sola suscripción de créditos.
+Yoga, pilates, fuerza y más con una sola suscripción de créditos, en estudios de toda la ciudad. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-malaga">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-malaga">Urban Sports Club</h3>
+
+Urban Sports Club también está en Málaga. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 </div>
@@ -37,117 +51,13 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 ### Basic-Fit
 
-Cadena de gimnasios económica con clubes en toda España.
+Cadena de gimnasios económica con clubes en toda España. Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 €, más 19,99 € de inscripción.
 
 <div class="knoppen">
 <a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
 </div>
 
 </div>
-
-</div>
-
-<p class="meer-aanbieders">Y también: ON AIR, Anytime Fitness, Synergym, GOfit y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
-
-<div id="vistazo">
-
-## ClassPass y Basic-Fit de un vistazo
-
-Los precios y las condiciones cambian a menudo. Comprueba siempre la información actual con el proveedor.
-
-| | ClassPass | Basic-Fit |
-| --- | --- | --- |
-| **Tipo** | Pase deportivo con créditos | Gimnasio económico |
-| **Precio** | Plan estándar 49 € al mes (30 créditos) | Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 € |
-| **Permanencia** | Ninguna, cancelas cuando quieras | Un año, o Flex con 4 semanas de preaviso |
-| **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones | Según el club |
-| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en todos los clubes de 6 países |
-| **Más información** | [Todo sobre ClassPass](/es/classpass/) | [Todo sobre Basic-Fit](/es/basic-fit/) |
-
-<p class="klein">Precios de octubre de 2026. Basic-Fit: precios nacionales en España.</p>
-
-</div>
-
-<div class="kolommen">
-
-<div class="kolom">
-
-<div id="classpass">
-
-<p class="kicker">Pase deportivo</p>
-
-## ClassPass en Málaga
-
-Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimnasio en estudios de la ciudad. Ideal si te gusta variar y no quieres atarte a un solo sitio.
-
-### Dónde
-
-Teatinos, el Centro, El Perchel, Pedregalejo y Cruz de Humilladero, y también en Rincón de la Victoria, Torremolinos y Benalmádena. Una selección por deporte, entre otros:
-
-- **[Pilates](/go/classpass-es-malaga-pilates/?epi=fgg-es-malaga)**: Bloomies Pilates Club, Mocca Pilates House, Yndico Pilates Studio, Studio53 Pilates Maquina, Momento Studio Pilates en el Centro, MR Pilates, DiPilates Estudio, Boutique Fitness Augusto y Distrito junto a la estación María Zambrano
-- **[Yoga](/go/classpass-es-malaga-yoga/?epi=fgg-es-malaga)**: YogaOne en El Perchel, Teatinos, Velázquez y Rincón de la Victoria, El Refugio de Beth, Indra Yoga y Brilla Yoga en Teatinos
-- **[Barre](/go/classpass-es-malaga-barre/?epi=fgg-es-malaga)**: ROLA BARRE en Pedregalejo y Teatinos, Studio53 Barre, Movest Pilates y Saten Barre en Rincón de la Victoria
-- **[HIIT](/go/classpass-es-malaga-hiit/?epi=fgg-es-malaga)** y **[bootcamp](/go/classpass-es-malaga-bootcamp/?epi=fgg-es-malaga)**: La Tribu Malaka, Benchmark Club, Yndico Training Center, The Bunker Box, SACABA BEACH BOX, DKN CROSSTRAINING, Integra Health & Sport y el entrenamiento funcional de AmeliaSpa
-- **[Artes marciales](/go/classpass-es-malaga-artes-marciales/?epi=fgg-es-malaga)**: DAIKAN DOJO y ABADÁ CAPOEIRA MÁLAGA en el Camino de los Guindos
-- **[Running](/go/classpass-es-malaga-running/?epi=fgg-es-malaga)**: La Tribu Malaka
-- También **[baile](/go/classpass-es-malaga-baile/?epi=fgg-es-malaga)**
-
-[Ver los estudios en Málaga en ClassPass](/go/classpass-es-malaga/?epi=fgg-es-malaga)
-
-### Qué tienes
-
-- Créditos cada mes para clases y sesiones de gimnasio
-- Plan estándar 49 € al mes (30 créditos)
-- 14 días gratis con 10 sesiones para probar
-- Funciona también en más de 2.500 ciudades de 31 países
-
-### A tener en cuenta
-
-- Los créditos por clase dependen del estudio y de la hora
-- Cancelas cuando quieras
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-malaga">Prueba 10 sesiones gratis en 14 días</a>
-<a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
-<div id="basic-fit">
-
-<p class="kicker">Gimnasio económico</p>
-
-## Basic-Fit en Málaga
-
-Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El contrato anual empieza en 24,99 € cada 4 semanas. Con Flex no tienes permanencia, desde 29,98 € cada 4 semanas.
-
-### Ideal para
-
-- Entrenar tres veces por semana o más por poco dinero
-- Tener un gimnasio fijo cerca de casa o del trabajo
-
-### A tener en cuenta
-
-- Flex: 4 semanas de preaviso
-- Las clases colectivas dependen del club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/basic-fit/">Todo sobre Basic-Fit</a>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<h2 id="otros">Otros gimnasios en Málaga</h2>
-
-<div class="kolommen vier">
 
 <div id="on-air" class="kolom kaart aanbiederkaart">
 
@@ -205,16 +115,90 @@ En Málaga, GOfit tiene dos centros: Huelin y Segalerva. Con piscinas, spa y cla
 
 </div>
 
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+</div>
 
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+<div id="vistazo">
 
-<h3 id="urban-sports-club-malaga">Urban Sports Club</h3>
+## ClassPass y Basic-Fit de un vistazo
 
-Urban Sports Club también está en Málaga. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+Los precios y las condiciones cambian a menudo. Comprueba siempre la información actual con el proveedor.
+
+| | ClassPass | Basic-Fit |
+| --- | --- | --- |
+| **Tipo** | Pase deportivo con créditos | Gimnasio económico |
+| **Precio** | Plan estándar 49 € al mes (30 créditos) | Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 € |
+| **Permanencia** | Ninguna, cancelas cuando quieras | Un año, o Flex con 4 semanas de preaviso |
+| **Probar** | <span class="ja" aria-hidden="true">✓</span> 14 días gratis, 10 sesiones | Según el club |
+| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Sí, en 31 países | Con Premium o Ultimate, en todos los clubes de 6 países |
+| **Más información** | [Todo sobre ClassPass](/es/classpass/) | [Todo sobre Basic-Fit](/es/basic-fit/) |
+
+<p class="klein">Precios de octubre de 2026. Basic-Fit: precios nacionales en España.</p>
+
+</div>
+
+<div class="kolommen">
+
+<div class="kolom">
+
+<div id="classpass">
+
+<p class="kicker">Pase deportivo</p>
+
+## ClassPass en Málaga
+
+Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimnasio en estudios de la ciudad. Ideal si te gusta variar y no quieres atarte a un solo sitio.
+
+### Dónde
+
+Teatinos, el Centro, El Perchel, Pedregalejo y Cruz de Humilladero, y también en Rincón de la Victoria, Torremolinos y Benalmádena. Los estudios por deporte están en ClassPass en Málaga.
+
+[Ver los estudios de Málaga por deporte](/es/classpass-malaga/)
+
+### Qué tienes
+
+- Créditos cada mes para clases y sesiones de gimnasio
+- Plan estándar 49 € al mes (30 créditos)
+- 14 días gratis con 10 sesiones para probar
+- Funciona también en más de 2.500 ciudades de 31 países
+
+### A tener en cuenta
+
+- Los créditos por clase dependen del estudio y de la hora
+- Cancelas cuando quieras
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-malaga">Prueba 10 sesiones gratis en 14 días</a>
+<a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="basic-fit">
+
+<p class="kicker">Gimnasio económico</p>
+
+## Basic-Fit en Málaga
+
+Basic-Fit es una cadena de gimnasios económica con clubes en toda España. El contrato anual empieza en 24,99 € cada 4 semanas. Con Flex no tienes permanencia, desde 29,98 € cada 4 semanas.
+
+### Ideal para
+
+- Entrenar tres veces por semana o más por poco dinero
+- Tener un gimnasio fijo cerca de casa o del trabajo
+
+### A tener en cuenta
+
+- Flex: 4 semanas de preaviso
+- Las clases colectivas dependen del club
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/basic-fit/">Todo sobre Basic-Fit</a>
+</div>
+
 </div>
 
 </div>
@@ -224,7 +208,6 @@ Urban Sports Club también está en Málaga. Es un pase deportivo con un precio 
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Bilbao"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,11 +22,25 @@ kicker: "Guía de ciudad Bilbao"
 
 ### ClassPass
 
-Yoga, pilates, fuerza y más con una sola suscripción de créditos.
+Yoga, pilates, fuerza y más con una sola suscripción de créditos, en estudios de toda la ciudad. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-bilbao">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-bilbao">Urban Sports Club</h3>
+
+Urban Sports Club también está en Bilbao. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 </div>
@@ -37,7 +51,7 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 ### Basic-Fit
 
-Cadena de gimnasios económica con clubes en toda España.
+Cadena de gimnasios económica con clubes en toda España. Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 €, más 19,99 € de inscripción.
 
 <div class="knoppen">
 <a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
@@ -51,7 +65,7 @@ Cadena de gimnasios económica con clubes en toda España.
 
 ### Fitness Park
 
-Gimnasio con clases colectivas, con o sin permanencia.
+Gimnasio con clases colectivas, con o sin permanencia. Sin permanencia, Classic 37 € y Ultimate 57 € cada 4 semanas; con permanencia desde 27 € (club de Madrid).
 
 <div class="knoppen">
 <a class="knop" href="/es/fitness-park/">Ver Fitness Park</a>
@@ -65,7 +79,7 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 ### VivaGym
 
-Gimnasio con clases colectivas y cuotas sin permanencia.
+Gimnasio con clases colectivas y cuotas sin permanencia: ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes en Madrid, según el club. Menores de 26: 2 € de descuento al mes.
 
 <div class="knoppen">
 <a class="knop" href="/es/vivagym/">Ver VivaGym</a>
@@ -73,9 +87,21 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-bilbao">Synergym</h3>
+
+En Bilbao, Synergym tiene clubes en Deusto, Indautxu, Sarriko y Ametzola, y también en Getxo y Portugalete. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -230,44 +256,9 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
-<h2 id="otros">Otros gimnasios en Bilbao</h2>
-
-<div class="kolommen vier">
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-bilbao">Synergym</h3>
-
-En Bilbao, Synergym tiene clubes en Deusto, Indautxu, Sarriko y Ametzola, y también en Getxo y Portugalete. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-bilbao">Urban Sports Club</h3>
-
-Urban Sports Club también está en Bilbao. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
-
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

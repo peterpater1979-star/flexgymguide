@@ -10,11 +10,11 @@ crumb: "Birmingham"
 kicker: "City guide Birmingham"
 ---
 
-Don't want to be tied to one gym? In Birmingham you can join a low-cost gym without a contract, or use a fitness pass at studios in the city. Here's what suits you.
+Don't want to be tied to one gym? In Birmingham you can join a low-cost gym without a contract, or use a fitness pass at studios in the city. Here's what suits you. Don’t want a contract? Read [Gyms without a contract in Birmingham](/uk/gyms-without-contract-birmingham/).
 
 <h2 id="glance">At a glance</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,7 +22,7 @@ Don't want to be tied to one gym? In Birmingham you can join a low-cost gym with
 
 ### ClassPass
 
-Yoga, Pilates, boxing and more with one credit-based membership.
+Yoga, Pilates, boxing and more with one credit-based membership, at studios across the city. Cancel anytime, and your plan also works in other cities.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -36,7 +36,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### The Gym Group
 
-9 low-cost gyms in Birmingham, without a contract and most of them open 24/7.
+9 low-cost gyms in Birmingham, without a contract and most of them open 24/7. Classes are included in every membership: Off-peak, Standard or Ultimate.
 
 <div class="knoppen">
 <a class="knop" href="/uk/the-gym-group/">See The Gym Group</a>
@@ -50,7 +50,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### PureGym
 
-Budget gym chain with 7 gyms in Birmingham, most open 24/7. No contract, from £18.99 a month.
+Budget gym chain with 7 gyms in Birmingham, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
 
 <div class="knoppen">
 <a class="knop" href="/uk/puregym/">See PureGym</a>
@@ -58,9 +58,21 @@ Budget gym chain with 7 gyms in Birmingham, most open 24/7. No contract, from £
 
 </div>
 
+<div id="david-lloyd" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
+
+<h3>David Lloyd</h3>
+
+David Lloyd has a health club in Great Barr, Birmingham, with an indoor and a heated outdoor pool, 10 tennis courts, padel, a sauna and a steam room. Each club sets its own price, with Platinum, Club Plus or Club memberships.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
 </div>
 
-<p class="meer-aanbieders">And also: David Lloyd. <a href="#other">See the other gyms</a></p>
+</div>
+
+</div>
 
 <div id="overview">
 
@@ -186,26 +198,6 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 7 gyms in 
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="other">Other gyms in Birmingham</h2>
-
-<div class="kolommen vier">
-
-<div id="david-lloyd" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
-
-<h3>David Lloyd</h3>
-
-David Lloyd has a health club in Great Barr, Birmingham, with an indoor and a heated outdoor pool, 10 tennis courts, padel, a sauna and a steam room. Each club sets its own price, with Platinum, Club Plus or Club memberships.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
 </div>
 
 </div>

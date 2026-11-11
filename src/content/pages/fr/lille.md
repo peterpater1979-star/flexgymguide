@@ -14,7 +14,7 @@ Pas envie d’être lié à une seule salle ? À Lille, tu peux réserver des co
 
 <h2 id="en-bref">En bref</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,11 +22,25 @@ Pas envie d’être lié à une seule salle ? À Lille, tu peux réserver des co
 
 ### ClassPass
 
-Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
+Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits, dans des studios partout en ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lille">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-lille">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Lille. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>
@@ -37,7 +51,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 ### Basic-Fit
 
-Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24.
+Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Dès 24,99 € toutes les 4 semaines avec engagement d’un an, ou Flex sans engagement pour 9,99 € de plus.
 
 <div class="knoppen">
 <a class="knop" href="/fr/basic-fit/">Voir Basic-Fit</a>
@@ -51,7 +65,7 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 ### Fitness Park
 
-Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clubs 24h/24.
+Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clubs 24h/24. Sans engagement Classic 40 €, Access+ 55 € ou Ultimate 60 € toutes les 4 semaines ; 10 € de moins avec engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/fitness-park/">Voir Fitness Park</a>
@@ -65,7 +79,7 @@ Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clu
 
 ### Keepcool
 
-Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
+Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
@@ -74,8 +88,6 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 </div>
 
 </div>
-
-<p class="meer-aanbieders">Et aussi : Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="apercu">
 
@@ -86,7 +98,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass | Basic-Fit | Fitness Park | Keepcool |
 | --- | --- | --- | --- | --- |
 | **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec cours collectifs | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
+| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 29,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Avec ou sans engagement | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays | Clubs aussi en Espagne | Une salle à Bruxelles |
@@ -215,26 +227,6 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="autres">Autres salles à Lille</h2>
-
-<div class="kolommen vier">
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-lille">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Lille. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>

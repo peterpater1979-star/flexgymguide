@@ -37,6 +37,8 @@ PureGym is a budget gym chain with over 450 gyms across the UK, most of them ope
 
 What each plan costs depends on the gym. You'll see the exact price when you pick a gym on the PureGym site.
 
+Cancelling, step by step: [how to cancel PureGym](/uk/cancel-puregym/).
+
 <h2 id="classpass">PureGym or ClassPass?</h2>
 
 Do you go to the same gym three times a week or more and want to pay as little as possible? Then PureGym is often the cheaper choice. Want to switch between yoga, pilates, boxing and spinning in different studios, or do you work out one to three times a week? Then ClassPass often suits you better. Read [Gym pass or membership?](/guides/gym-pass-or-membership/)

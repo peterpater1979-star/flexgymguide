@@ -10,11 +10,25 @@ crumb: "Leipzig"
 kicker: "Stadtguide Leipzig"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Leipzig trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In Leipzig trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Keine lange Bindung? Lies [Fitnessstudio ohne Vertrag in Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club gibt es auch in Leipzig. Ein Sportpass mit festem Preis pro Monat: Du checkst in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
 
 <div class="kolom kaart">
 
@@ -22,7 +36,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Leipzig trainierst d
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
+Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
@@ -36,7 +50,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-220 Clubs in Deutschland, 2 in Leipzig. Mit Kursen, Wellness und teils Schwimmbad.
+220 Clubs in Deutschland, 2 in Leipzig. Mit Kursen, Sauna und in BLACK-Clubs oft auch Pool. RED oder BLACK, mit 1, 12 oder 24 Monaten Laufzeit.
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -50,7 +64,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### McFit
 
-Günstige Fitnesskette mit über 230 Studios, auch in Leipzig. Flex ohne feste Laufzeit.
+Günstige Fitnesskette mit über 230 Studios, auch in Leipzig. Flex ohne feste Laufzeit für 49,90 € im Monat, mit 12 Monaten 29,90 €, mit 24 Monaten 24,90 €.
 
 <div class="knoppen">
 <a class="knop" href="/de/mcfit/">McFit ansehen</a>
@@ -58,9 +72,49 @@ Günstige Fitnesskette mit über 230 Studios, auch in Leipzig. Flex ohne feste L
 
 </div>
 
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Leipzig ein Studio in der Holzhäuser Straße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
 
-<p class="meer-aanbieders">Und auch: clever fit, FitX und JOHN REED. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+</div>
+
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Leipzig Studios in Mockau und Neulindenau, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat einen Club in Leipzig, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="ueberblick">
 
@@ -120,7 +174,6 @@ Ein überschaubares Angebot, vor allem im Zentrum. Yoga bei Hot Yoga Leipzig, Be
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
 </div>
-
 
 </div>
 
@@ -201,52 +254,6 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Leipzig</h2>
-
-<div class="kolommen vier">
-
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Leipzig ein Studio in der Holzhäuser Straße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
-</div>
-
-</div>
-
-<div id="fitx" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
-
-<h3>FitX</h3>
-
-FitX hat in Leipzig Studios in Mockau und Neulindenau, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
-</div>
-
-</div>
-
-<div id="john-reed" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
-
-<h3>JOHN REED</h3>
-
-JOHN REED hat einen Club in Leipzig, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
-</div>
-
-</div>
-
-</div>
 
 | Anbieter | Preis pro Monat | Laufzeit | In Leipzig |
 | --- | --- | --- | --- |
@@ -365,6 +372,5 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 </div>
 
 </div>
-
 
 </details>

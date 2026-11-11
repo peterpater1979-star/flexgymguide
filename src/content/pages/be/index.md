@@ -11,7 +11,7 @@ kicker: "Landengids België"
 
 Geen zin in een lang contract bij één sportschool? Met een sportpas als ClassPass sport je met één abonnement bij verschillende studio's en gyms. Hier lees je hoe dat in België werkt en in welke steden.
 
-<h2 id="opties">Drie manieren om flexibel te sporten</h2>
+<h2 id="opties">Vier manieren om flexibel te sporten</h2>
 
 <div class="kolommen">
 
@@ -69,30 +69,6 @@ Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 pe
 
 </div>
 
-<div class="kolom kaart" id="steden">
-
-<div class="fotokop foto-sporttas"><span>Steden</span></div>
-
-### Waar werkt het?
-
-ClassPass heeft partnerstudio's in de grotere Belgische steden, onder meer:
-
-<ul class="stedenlijst">
-<li><a href="/be/brussel/"><strong>Brussel</strong></a> <span class="klein">ClassPass · Basic-Fit · Jims</span></li>
-<li><a href="/be/antwerpen/"><strong>Antwerpen</strong></a> <span class="klein">ClassPass · Basic-Fit · Jims</span></li>
-<li><a href="/be/gent/"><strong>Gent</strong></a> <span class="klein">ClassPass · Basic-Fit · Jims</span></li>
-</ul>
-
-In de app zie je welke studio's en gyms bij jou in de buurt meedoen.
-
-</div>
-
-</div>
-
-<h2 id="andere">Andere sportschool</h2>
-
-<div class="kolommen">
-
 <div class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-jims"><span>Sportschoolketen</span></div>
@@ -110,6 +86,18 @@ Belgische sportschoolketen met meer dan 80 clubs, met fitness en groepslessen me
 </div>
 
 </div>
+
+</div>
+
+<div id="steden">
+
+## Steden
+
+<ul class="stedenlijst">
+<li><a href="/be/brussel/"><strong>Brussel</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims</span></li>
+<li><a href="/be/antwerpen/"><strong>Antwerpen</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims</span></li>
+<li><a href="/be/gent/"><strong>Gent</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims</span></li>
+</ul>
 
 </div>
 
@@ -173,6 +161,9 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Je eerste les](/nl/eerste-les/)** · wat neem je mee
 - **[Sporten als student](/nl/sporten-als-student/)** · goedkoop en flexibel
 - **[Eten en drinken rond je training](/nl/eten-en-drinken-rond-je-training/)** · simpel en zonder gedoe
+- **[Basic-Fit opzeggen](/be/basic-fit-opzeggen/)** · opzegtermijn en bevriezen
+- **[Jims opzeggen](/be/jims-opzeggen/)** · opzegtermijn en pauzeren
+- **Sporten zonder contract:** [Brussel](/be/sporten-zonder-contract-brussel/) · [Antwerpen](/be/sporten-zonder-contract-antwerpen/) · [Gent](/be/sporten-zonder-contract-gent/)
 
 En français : [Ton premier cours](/fr/premier-cours/) · ce qu’il faut emporter
 

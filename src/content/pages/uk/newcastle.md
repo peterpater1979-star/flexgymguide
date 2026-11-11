@@ -14,7 +14,7 @@ Don't want to be tied to one gym? In Newcastle you can use a fitness pass at stu
 
 <h2 id="glance">At a glance</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,7 +22,7 @@ Don't want to be tied to one gym? In Newcastle you can use a fitness pass at stu
 
 ### ClassPass
 
-Yoga, Pilates, boxing and more with one credit-based membership.
+Yoga, Pilates, boxing and more with one credit-based membership, at studios across the city. Cancel anytime, and your plan also works in other cities.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -36,7 +36,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### The Gym Group
 
-3 low-cost gyms in Newcastle, without a contract and most of them open 24/7.
+3 low-cost gyms in Newcastle, without a contract and most of them open 24/7. Classes are included in every membership: Off-peak, Standard or Ultimate.
 
 <div class="knoppen">
 <a class="knop" href="/uk/the-gym-group/">See The Gym Group</a>
@@ -50,7 +50,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### PureGym
 
-Budget gym chain with 3 gyms in Newcastle, most open 24/7. No contract, from £18.99 a month.
+Budget gym chain with 3 gyms in Newcastle, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
 
 <div class="knoppen">
 <a class="knop" href="/uk/puregym/">See PureGym</a>
@@ -58,9 +58,35 @@ Budget gym chain with 3 gyms in Newcastle, most open 24/7. No contract, from £1
 
 </div>
 
+<div id="david-lloyd" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
+
+<h3>David Lloyd</h3>
+
+David Lloyd has a health club in Newcastle with an indoor pool and group classes. Each club sets its own price, with Platinum, Club Plus or Club memberships.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
 </div>
 
-<p class="meer-aanbieders">And also: David Lloyd, Village Gym. <a href="#other">See the other gyms</a></p>
+</div>
+
+<div id="village-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+
+<h3>Village Gym</h3>
+
+Village Gym has a health club at the Silverlink in North Tyneside, with a gym floor, a 25-metre indoor pool, a sauna and more than 100 classes a week. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="overview">
 
@@ -186,40 +212,6 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 3 gyms in 
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="other">Other gyms in Newcastle</h2>
-
-<div class="kolommen vier">
-
-<div id="david-lloyd" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
-
-<h3>David Lloyd</h3>
-
-David Lloyd has a health club in Newcastle with an indoor pool and group classes. Each club sets its own price, with Platinum, Club Plus or Club memberships.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
-</div>
-
-</div>
-
-<div id="village-gym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
-
-<h3>Village Gym</h3>
-
-Village Gym has a health club at the Silverlink in North Tyneside, with a gym floor, a 25-metre indoor pool, a sauna and more than 100 classes a week. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
 </div>
 
 </div>

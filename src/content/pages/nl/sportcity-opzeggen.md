@@ -48,6 +48,7 @@ Verhuizen, een medische reden of je lidmaatschap bevriezen? Daarover staat niets
 
 Stop je bij SportCity omdat je meer afwisseling wilt, of omdat je niet meer vast wilt zitten? Dit zijn opties zonder lang contract:
 
+- **Urban Sports Club:** een sportpas met een vaste maandprijs voor sportscholen, lessen en andere sporten, maandelijks opzegbaar. Lees [Alles over Urban Sports Club](/nl/urban-sports-club/).
 - **ClassPass:** elke maand credits voor lessen en gyms bij studio's in je stad, op elk moment opzegbaar. Lees [hoe ClassPass werkt](/nl/classpass/) of [ClassPass gratis proberen](/nl/classpass-proefperiode/).
 - **Maandelijks opzegbaar bij een andere sportschool:** zie de overzichten voor [Amsterdam](/nl/sporten-zonder-contract-amsterdam/), [Rotterdam](/nl/sporten-zonder-contract-rotterdam/), [Den Haag](/nl/sporten-zonder-contract-den-haag/) en [Utrecht](/nl/sporten-zonder-contract-utrecht/).
 - **Twijfel je wat bij je past?** Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)

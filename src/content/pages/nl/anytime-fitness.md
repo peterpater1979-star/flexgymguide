@@ -64,6 +64,8 @@ Alle clubs in Nederland vind je op [anytimefitness.nl](https://www.anytimefitnes
 - **Andere club:** train je vaker dan de helft van de tijd in een andere club, dan word je naar die club overgezet.
 - **Clubbijdrage:** deelnemende clubs rekenen twee keer per jaar, in mei en november, € 15 voor onderhoud.
 
+Stap voor stap: [Anytime Fitness opzeggen](/nl/anytime-fitness-opzeggen/).
+
 <h2 id="classpass">Anytime Fitness, Basic-Fit of ClassPass?</h2>
 
 <div class="kolommen">

@@ -49,6 +49,7 @@ Bei McFit kannst du eine Ruhezeit beantragen, etwa bei Krankheit. Beachte: Eine 
 
 Hörst du bei McFit auf, weil du mehr Abwechslung willst oder dich nicht mehr binden möchtest? Das sind Möglichkeiten ohne lange Laufzeit:
 
+- **Urban Sports Club:** ein Sportpass mit festem Monatspreis für Gyms, Kurse und andere Sportarten, monatlich kündbar. Lies [Alles über Urban Sports Club](/de/urban-sports-club/).
 - **ClassPass:** jeden Monat Credits für Kurse und Gyms in Studios in deiner Stadt, jederzeit kündbar. Lies [Alles über ClassPass](/de/classpass/) oder [ClassPass kostenlos testen](/de/classpass-probezeit/).
 - **Monatlich kündbar in einem anderen Studio:** siehe die Übersichten für [Berlin](/de/fitnessstudio-ohne-vertrag-berlin/), [Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/), [München](/de/fitnessstudio-ohne-vertrag-muenchen/) und [Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 - **Unsicher, was zu dir passt?** Lies [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)

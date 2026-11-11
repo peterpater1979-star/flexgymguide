@@ -14,7 +14,7 @@ Pas envie d’être lié à une seule salle ? À Montpellier, tu peux réserver 
 
 <h2 id="en-bref">En bref</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,11 +22,25 @@ Pas envie d’être lié à une seule salle ? À Montpellier, tu peux réserver 
 
 ### ClassPass
 
-Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
+Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits, dans des studios partout en ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-montpellier">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-montpellier">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Montpellier. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>
@@ -37,7 +51,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 ### Basic-Fit
 
-Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24.
+Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Dès 24,99 € toutes les 4 semaines avec engagement d’un an, ou Flex sans engagement pour 9,99 € de plus.
 
 <div class="knoppen">
 <a class="knop" href="/fr/basic-fit/">Voir Basic-Fit</a>
@@ -51,7 +65,7 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 ### Fitness Park
 
-Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clubs 24h/24.
+Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clubs 24h/24. Sans engagement Classic 40 €, Access+ 55 € ou Ultimate 60 € toutes les 4 semaines ; 10 € de moins avec engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/fitness-park/">Voir Fitness Park</a>
@@ -65,7 +79,7 @@ Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clu
 
 ### Keepcool
 
-Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
+Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
@@ -73,9 +87,35 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
+
+<h3 id="l-orange-bleue-montpellier">L’Orange bleue</h3>
+
+L’Orange bleue n’a pas de salle dans Montpellier même. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
 
-<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+</div>
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
+
+<h3 id="on-air-montpellier">ON AIR</h3>
+
+À Montpellier, ON AIR a deux clubs : Celleneuve et Odysseum, et aussi à Grabels et à Saint-Jean-de-Védas. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="apercu">
 
@@ -86,7 +126,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass | Basic-Fit | Fitness Park | Keepcool |
 | --- | --- | --- | --- | --- |
 | **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec cours collectifs | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
+| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 29,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Avec ou sans engagement | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays | Clubs aussi en Espagne | Une salle à Bruxelles |
@@ -110,16 +150,9 @@ Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et 
 
 ### Où
 
-Dans le centre (Écusson, Arceaux, Saint-Roch) et aux Prés d’Arènes, et aussi à Castelnau-le-Lez, Lattes, Pérols et Mauguio. Une sélection par sport, entre autres :
+Dans le centre (Écusson, Arceaux, Saint-Roch) et aux Prés d’Arènes, et aussi à Castelnau-le-Lez, Lattes, Pérols et Mauguio. Les studios par quartier et par sport sont sur ClassPass à Montpellier.
 
-- **[Pilates](/go/classpass-fr-montpellier-pilates/?epi=fgg-fr-montpellier)** : Pilates Reformer chez PIA avenue Germaine-Tillion et chez The New Me à Castelnau-le-Lez, Lagree et Pilates chez Lemon Studio place du Marché-aux-Fleurs, et aussi JOY Maison Wellness rue Estelle, Le Club à Lattes, HOLIN à Mauguio et Calesa Studio à Lattes (pensé pour les femmes)
-- **[Yoga](/go/classpass-fr-montpellier-yoga/?epi=fgg-fr-montpellier)** : L’Intuitive Yoga rue Magnol aux Arceaux, JOY Maison Wellness, Le Club à Lattes et HOLIN à Mauguio
-- **[Renforcement et bootcamp](/go/classpass-fr-montpellier-bootcamp/?epi=fgg-fr-montpellier)** : Training Go à Castelnau-le-Lez, Pérols et aux Prés d’Arènes, Movida Club rue Favre-de-Saint-Castor et Ethik Sport Club à Saint-Roch et à Castelnau-le-Lez
-- **[Accès à la salle](/go/classpass-fr-montpellier-salle/?epi=fgg-fr-montpellier)** : Movida Club, Training Go et Ethik Sport Club
-- **[Danse](/go/classpass-fr-montpellier-danse/?epi=fgg-fr-montpellier)** : chez Training Go à Castelnau-le-Lez
-- **[Barre](/go/classpass-fr-montpellier-barre/?epi=fgg-fr-montpellier)**, **[HIIT](/go/classpass-fr-montpellier-hiit/?epi=fgg-fr-montpellier)**, **[arts martiaux](/go/classpass-fr-montpellier-arts-martiaux/?epi=fgg-fr-montpellier)**, **[boxe](/go/classpass-fr-montpellier-boxe/?epi=fgg-fr-montpellier)** et **[vélo en salle](/go/classpass-fr-montpellier-cycling/?epi=fgg-fr-montpellier)** : à voir selon les créneaux du moment
-
-[Voir les studios à Montpellier sur ClassPass](/go/classpass-fr-montpellier/?epi=fgg-fr-montpellier)
+[Voir les studios à Montpellier par quartier et par sport](/fr/classpass-montpellier/)
 
 ### Ce que tu as
 
@@ -222,54 +255,6 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="autres">Autres salles à Montpellier</h2>
-
-<div class="kolommen vier">
-
-<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
-
-<h3 id="l-orange-bleue-montpellier">L’Orange bleue</h3>
-
-L’Orange bleue n’a pas de salle dans Montpellier même. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
-</div>
-
-</div>
-
-<div id="on-air" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
-
-<h3 id="on-air-montpellier">ON AIR</h3>
-
-À Montpellier, ON AIR a deux clubs : Celleneuve et Odysseum, et aussi à Grabels et à Saint-Jean-de-Védas. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-montpellier">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Montpellier. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>

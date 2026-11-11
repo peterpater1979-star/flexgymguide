@@ -10,13 +10,27 @@ crumb: "Gent"
 kicker: "Stadsgids Gent"
 ---
 
-Geen zin om vast te zitten aan één sportschool? In Gent boek je met een sportpas lessen bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou.
+Geen zin om vast te zitten aan één sportschool? In Gent boek je met een sportpas lessen bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou. Geen contract? Lees [Sporten zonder contract in Gent](/be/sporten-zonder-contract-gent/).
 
 In Gent vind je het ClassPass-aanbod in het centrum, rond Dok-Noord en in Sint-Denijs-Westrem, en ook in Merelbeke. Je kunt er pilates, krachttraining, yoga en spinning doen. Handig als je graag afwisselt. Train je liever vaak aan toestellen? Dan zijn Basic-Fit en Jims ook in Gent.
 
 <h2 id="kort">In het kort</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club zit ook in Gent. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
 
 <div class="kolom kaart">
 
@@ -24,7 +38,7 @@ In Gent vind je het ClassPass-aanbod in het centrum, rond Dok-Noord en in Sint-D
 
 ### ClassPass
 
-Yoga, pilates, krachttraining en meer met één abonnement met credits.
+Yoga, pilates, krachttraining en meer met één abonnement met credits, bij studio’s in de hele stad. Maandelijks opzegbaar, en je abonnement werkt ook in andere steden.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/be/classpass/">Bekijk ClassPass</a>
@@ -38,7 +52,7 @@ Yoga, pilates, krachttraining en meer met één abonnement met credits.
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
+Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/be/basic-fit/">Bekijk Basic-Fit</a>
@@ -52,7 +66,7 @@ Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
 
 ### Jims
 
-Sportschoolketen met 6 clubs in Gent, met fitness en groepslessen met een coach.
+Sportschoolketen met 6 clubs in Gent, met fitness en groepslessen met een coach. Vanaf € 39,99 per 4 weken, flexibel opzegbaar met 4 weken opzegtermijn, en één gratis probeerdag per jaar.
 
 <div class="knoppen">
 <a class="knop" href="/be/jims/">Bekijk Jims</a>

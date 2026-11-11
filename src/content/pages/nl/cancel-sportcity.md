@@ -49,6 +49,7 @@ Moving, a medical reason or freezing your membership? SportCity's cancellation p
 
 Leaving SportCity because you want more variety, or because you don't want to be tied down? These options have no long contract:
 
+- **Urban Sports Club:** a sports pass with a fixed monthly price for gyms, classes and other sports, cancel monthly. Read [all about Urban Sports Club](/nl/urban-sports-club/) (in Dutch).
 - **ClassPass:** credits every month for classes and gyms at studios in your city, cancel any time. Read [How ClassPass works](/guides/how-classpass-works/) or [Trying ClassPass for free](/guides/classpass-free-trial/).
 - **Month-to-month at another gym:** see the overviews for [Amsterdam](/nl/gyms-without-contract-amsterdam/), [Rotterdam](/nl/gyms-without-contract-rotterdam/), [The Hague](/nl/gyms-without-contract-the-hague/) and [Utrecht](/nl/gyms-without-contract-utrecht/).
 - **Not sure what suits you?** Read [Gym pass or membership?](/guides/gym-pass-or-membership/)

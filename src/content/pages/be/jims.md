@@ -37,6 +37,8 @@ Jims is een Belgische sportschoolketen met meer dan 80 clubs in België. Je kies
 
 Jims biedt ook een jaarabonnement en een prepaid-pas. Een dagpas kost € 15 in de club; schrijf je je daarna in, dan krijg je dat bedrag terug als korting.
 
+Opzeggen, stap voor stap: [Jims opzeggen](/be/jims-opzeggen/).
+
 <h2 id="classpass">Jims of ClassPass?</h2>
 
 Ga je drie keer per week of vaker naar dezelfde club? Dan is een abonnement bij Jims meestal voordeliger. Wil je afwisselen tussen yoga, pilates, boksen en spinning bij verschillende studio's, of sport je één tot drie keer per week? Dan past ClassPass vaak beter. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)

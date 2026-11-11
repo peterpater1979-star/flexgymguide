@@ -1,6 +1,6 @@
 ---
 title: "Entrenar en Sevilla con flexibilidad"
-seoTitle: "Gimnasio sin permanencia en Sevilla"
+seoTitle: "Entrenar en Sevilla: pases, estudios y gimnasios"
 path: "/es/sevilla/"
 description: "¿No quieres atarte a un solo gimnasio? En Sevilla puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
@@ -10,11 +10,11 @@ crumb: "Sevilla"
 kicker: "Guía de ciudad Sevilla"
 ---
 
-¿No te apetece atarte a un solo gimnasio? En Sevilla puedes reservar clases en estudios de toda la ciudad con un pase deportivo, o apuntarte a un gimnasio con o sin permanencia. Aquí ves qué te conviene.
+¿No te apetece atarte a un solo gimnasio? En Sevilla puedes reservar clases en estudios de toda la ciudad con un pase deportivo, o apuntarte a un gimnasio con o sin permanencia. Aquí ves qué te conviene. ¿No quieres ninguna permanencia? Lee [Gimnasio sin permanencia en Sevilla](/es/gimnasio-sin-permanencia-sevilla/).
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,11 +22,25 @@ kicker: "Guía de ciudad Sevilla"
 
 ### ClassPass
 
-Yoga, pilates, fuerza y más con una sola suscripción de créditos.
+Yoga, pilates, fuerza y más con una sola suscripción de créditos, en estudios de toda la ciudad. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-sevilla">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+<h3 id="urban-sports-club-sevilla">Urban Sports Club</h3>
+
+Urban Sports Club también está en Sevilla. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 </div>
@@ -37,7 +51,7 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos.
 
 ### Basic-Fit
 
-Cadena de gimnasios económica con clubes en toda España.
+Cadena de gimnasios económica con clubes en toda España. Desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 €, más 19,99 € de inscripción.
 
 <div class="knoppen">
 <a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
@@ -51,7 +65,7 @@ Cadena de gimnasios económica con clubes en toda España.
 
 ### Fitness Park
 
-Gimnasio con clases colectivas, con o sin permanencia.
+Gimnasio con clases colectivas, con o sin permanencia. Sin permanencia, Classic 37 € y Ultimate 57 € cada 4 semanas; con permanencia desde 27 € (club de Madrid).
 
 <div class="knoppen">
 <a class="knop" href="/es/fitness-park/">Ver Fitness Park</a>
@@ -65,7 +79,7 @@ Gimnasio con clases colectivas, con o sin permanencia.
 
 ### VivaGym
 
-Gimnasio con clases colectivas y cuotas sin permanencia.
+Gimnasio con clases colectivas y cuotas sin permanencia: ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes en Madrid, según el club. Menores de 26: 2 € de descuento al mes.
 
 <div class="knoppen">
 <a class="knop" href="/es/vivagym/">Ver VivaGym</a>
@@ -73,9 +87,35 @@ Gimnasio con clases colectivas y cuotas sin permanencia.
 
 </div>
 
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-sevilla">Synergym</h3>
+
+En Sevilla, Synergym tiene clubes en Sevilla Este, Rosaleda, Nervión, Triana (Salado y Tejares) y Bellavista. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym, GOfit y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+<div id="go-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
+
+<h3 id="go-fit-sevilla">GOfit</h3>
+
+GOfit tiene un centro en Sevilla, en la avenida José Laguillo, con piscinas, spa y clases dirigidas. La cuota mensual sin permanencia cuesta 52,74 € al mes y el Plan Plus 59,24 €, más 37,19 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -110,18 +150,9 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 ### Dónde
 
-Triana, Los Remedios, San Bernardo, Nervión y el Casco Antiguo, y también en Tomares, Gines y Alcalá de Guadaíra. Una selección por deporte, entre otros:
+Triana, Los Remedios, San Bernardo, Nervión y el Casco Antiguo, y también en Tomares, Gines y Alcalá de Guadaíra. Los estudios por deporte están en ClassPass en Sevilla.
 
-- **[Pilates](/go/classpass-es-sevilla-pilates/?epi=fgg-es-sevilla)**: Flow Training en la calle Enramadilla, en Los Remedios, en Tomares, en Gines y en Alcalá de Guadaíra, Pilatísimo Studio, EnForma Pilates cerca de Gran Plaza y Art in Movement en Triana
-- **[Yoga](/go/classpass-es-sevilla-yoga/?epi=fgg-es-sevilla)**: yuj es yoga junto a San Bernardo, The Paradise Yoga, Studio Keep Moving, Viba Estudio, Sannu Fisioterapia & Yoga en el Casco Antiguo, Rocío Luque Yoga y Suryiananda Yoga en Alcalá de Guadaíra
-- **[Barre](/go/classpass-es-sevilla-barre/?epi=fgg-es-sevilla)**: Klúb Barre (solo mujeres) y Viba Estudio
-- **[HIIT](/go/classpass-es-sevilla-hiit/?epi=fgg-es-sevilla)** y **[bootcamp](/go/classpass-es-sevilla-bootcamp/?epi=fgg-es-sevilla)**: F45 Training en San Bernardo, Duna Training Club, R3Entrenamiento, Ristori Centro de Entrenamiento, el crosstraining de Impulso Trainning, Ritmo Sevilla y FDZ Funcional
-- **[Boxeo](/go/classpass-es-sevilla-boxeo/?epi=fgg-es-sevilla)**: fitbox en Hook Fitbox Republica en Triana, Hook Fitbox Club y SBM fit&box
-- **[Baile](/go/classpass-es-sevilla-baile/?epi=fgg-es-sevilla)**: Art in Movement en Triana
-- **[Gimnasio](/go/classpass-es-sevilla-gimnasio/?epi=fgg-es-sevilla)**: FDZ Funcional
-- También **[al aire libre](/go/classpass-es-sevilla-aire-libre/?epi=fgg-es-sevilla)** y **[running](/go/classpass-es-sevilla-running/?epi=fgg-es-sevilla)**
-
-[Ver los estudios en Sevilla en ClassPass](/go/classpass-es-sevilla/?epi=fgg-es-sevilla)
+[Ver los estudios de Sevilla por deporte](/es/classpass-sevilla/)
 
 ### Qué tienes
 
@@ -230,58 +261,9 @@ VivaGym es una cadena de gimnasios española con más de 240 clubes en España. 
 
 </div>
 
-<h2 id="otros">Otros gimnasios en Sevilla</h2>
-
-<div class="kolommen vier">
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-sevilla">Synergym</h3>
-
-En Sevilla, Synergym tiene clubes en Sevilla Este, Rosaleda, Nervión, Triana (Salado y Tejares) y Bellavista. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
-</div>
-
-</div>
-
-<div id="go-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Centro deportivo con piscina</span></div>
-
-<h3 id="go-fit-sevilla">GOfit</h3>
-
-GOfit tiene un centro en Sevilla, en la avenida José Laguillo, con piscinas, spa y clases dirigidas. La cuota mensual sin permanencia cuesta 52,74 € al mes y el Plan Plus 59,24 €, más 37,19 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-<h3 id="urban-sports-club-sevilla">Urban Sports Club</h3>
-
-Urban Sports Club también está en Sevilla. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
-
 ## ¿Cuál te conviene?
 
 <div class="kolommen">
-
 
 <div class="kolom">
 

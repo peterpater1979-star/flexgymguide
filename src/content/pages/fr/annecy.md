@@ -14,7 +14,7 @@ Pas envie d’être lié à une seule salle ? À Annecy, tu peux réserver des c
 
 <h2 id="en-bref">En bref</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,11 +22,25 @@ Pas envie d’être lié à une seule salle ? À Annecy, tu peux réserver des c
 
 ### ClassPass
 
-Des cours et des séances en salle avec un seul abonnement à crédits.
+Des cours et des séances en salle avec un seul abonnement à crédits, dans des studios de la ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-annecy">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-annecy">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Annecy. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>
@@ -37,7 +51,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 ### Basic-Fit
 
-Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24.
+Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Dès 24,99 € toutes les 4 semaines avec engagement d’un an, ou Flex sans engagement pour 9,99 € de plus.
 
 <div class="knoppen">
 <a class="knop" href="/fr/basic-fit/">Voir Basic-Fit</a>
@@ -51,7 +65,7 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 ### Keepcool
 
-Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
+Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
@@ -59,9 +73,35 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
+
+<h3 id="on-air-annecy">ON AIR</h3>
+
+À Annecy, ON AIR a un club dans le centre, et un autre à Seynod. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
 </div>
 
-<p class="meer-aanbieders">Et aussi : ON AIR, L’Appart Fitness et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+</div>
+
+<div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-appart-fitness"><span>Salle avec cours</span></div>
+
+<h3 id="l-appart-fitness-annecy">L’Appart Fitness</h3>
+
+À Annecy, L’Appart Fitness a des salles au centre, à Pringy et à Epagny. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement (10 € de plus à Epagny).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="apercu">
 
@@ -72,7 +112,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass | Basic-Fit | Keepcool |
 | --- | --- | --- | --- |
 | **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
+| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Dès 29,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays | Une salle à Bruxelles |
@@ -173,54 +213,6 @@ Keepcool a une salle à Annecy. C’est une chaîne française avec plus de 270 
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="autres">Autres salles à Annecy</h2>
-
-<div class="kolommen vier">
-
-<div id="on-air" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
-
-<h3 id="on-air-annecy">ON AIR</h3>
-
-À Annecy, ON AIR a un club dans le centre, et un autre à Seynod. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
-</div>
-
-</div>
-
-<div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-l-appart-fitness"><span>Salle avec cours</span></div>
-
-<h3 id="l-appart-fitness-annecy">L’Appart Fitness</h3>
-
-À Annecy, L’Appart Fitness a des salles au centre, à Pringy et à Epagny. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement (10 € de plus à Epagny).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-annecy">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Annecy. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>

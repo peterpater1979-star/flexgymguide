@@ -14,7 +14,21 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Düsseldorf trainier
 
 <h2 id="blick">Auf einen Blick</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club gibt es auch in Düsseldorf. Ein Sportpass mit festem Preis pro Monat: Du checkst in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
 
 <div class="kolom kaart">
 
@@ -22,7 +36,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Düsseldorf trainier
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
+Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
@@ -36,7 +50,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-220 Clubs in Deutschland, 5 in Düsseldorf. Mit Kursen, Wellness und teils Schwimmbad.
+220 Clubs in Deutschland, 5 in Düsseldorf. Mit Kursen, Sauna und in BLACK-Clubs oft auch Pool. RED oder BLACK, mit 1, 12 oder 24 Monaten Laufzeit.
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -50,7 +64,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### McFit
 
-Günstige Fitnesskette mit über 230 Studios, auch in Düsseldorf. Flex ohne feste Laufzeit.
+Günstige Fitnesskette mit über 230 Studios, auch in Düsseldorf. Flex ohne feste Laufzeit für 49,90 € im Monat, mit 12 Monaten 29,90 €, mit 24 Monaten 24,90 €.
 
 <div class="knoppen">
 <a class="knop" href="/de/mcfit/">McFit ansehen</a>
@@ -64,7 +78,7 @@ Günstige Fitnesskette mit über 230 Studios, auch in Düsseldorf. Flex ohne fes
 
 ### Holmes Place
 
-Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Düsseldorf.
+Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Düsseldorf. Den Preis erfährst du bei einem Besuch im Club; dort kannst du dich auch beraten lassen.
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
@@ -72,9 +86,35 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Düsseldorf
 
 </div>
 
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
 </div>
 
-<p class="meer-aanbieders">Und auch: FitX und JOHN REED. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat in Düsseldorf Clubs in Bilk, Friedrichstadt und in den Düsseldorf Arcaden, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="ueberblick">
 
@@ -134,7 +174,6 @@ Ein gutes Angebot, vor allem in der Innenstadt, in Carlstadt, Pempelfort, Unterb
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
 </div>
-
 
 </div>
 
@@ -243,38 +282,6 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Düsseldorf</h2>
-
-<div class="kolommen vier">
-
-<div id="fitx" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
-
-<h3>FitX</h3>
-
-FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
-</div>
-
-</div>
-
-<div id="john-reed" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
-
-<h3>JOHN REED</h3>
-
-JOHN REED hat in Düsseldorf Clubs in Bilk, Friedrichstadt und in den Düsseldorf Arcaden, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
-</div>
-
-</div>
-
-</div>
 
 | Anbieter | Preis pro Monat | Laufzeit | In Düsseldorf |
 | --- | --- | --- | --- |
@@ -392,6 +399,5 @@ Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen F
 </div>
 
 </div>
-
 
 </details>

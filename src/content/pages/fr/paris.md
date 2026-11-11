@@ -14,7 +14,7 @@ Pas envie d’être lié à une seule salle ? À Paris, tu peux réserver des co
 
 <h2 id="en-bref">En bref</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,11 +22,25 @@ Pas envie d’être lié à une seule salle ? À Paris, tu peux réserver des co
 
 ### ClassPass
 
-Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits.
+Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits, dans des studios partout en ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-paris">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Paris. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires. L’abonnement mensuel commence à 35 € par mois (Essential).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>
@@ -37,7 +51,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 ### Basic-Fit
 
-Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24.
+Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Dès 24,99 € toutes les 4 semaines avec engagement d’un an, ou Flex sans engagement pour 9,99 € de plus.
 
 <div class="knoppen">
 <a class="knop" href="/fr/basic-fit/">Voir Basic-Fit</a>
@@ -51,7 +65,7 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 ### Fitness Park
 
-Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clubs 24h/24.
+Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clubs 24h/24. Sans engagement Classic 40 €, Access+ 55 € ou Ultimate 60 € toutes les 4 semaines ; 10 € de moins avec engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/fitness-park/">Voir Fitness Park</a>
@@ -65,7 +79,7 @@ Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clu
 
 ### Keepcool
 
-Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France.
+Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
@@ -73,9 +87,115 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
+<div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-wellness-sport-club"><span>Salle tout inclus</span></div>
+
+<h3 id="wellness-sport-club-paris">WellNess Sport Club</h3>
+
+À Paris, WellNess Sport Club a deux clubs : Porte Maillot (17e) et République (11e), ouverts 7j/7. Liberté coûte 79 € par mois, Express 69 € (pas aux heures de pointe du lundi au jeudi).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
 </div>
 
-<p class="meer-aanbieders">Et aussi : WellNess Sport Club, RITM, L’Orange bleue, ON AIR, L’Appart Fitness, Gigafit, Liberty Gym, Neoness et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+</div>
+
+<div id="ritm" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-ritm"><span>Salle avec cours</span></div>
+
+<h3 id="ritm-paris">RITM</h3>
+
+À Paris, RITM a cinq clubs : Champs-Élysées, Ternes, La Fontaine, La Motte-Picquet et Saint-Germain, et un sixième juste à côté, à Boulogne-Billancourt. Tu paies à la semaine : Essentiel 24,99 € avec engagement de 52 semaines, Liberté 29,99 € sans engagement, plus 90 € de frais d’inscription.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
+</div>
+
+</div>
+
+<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
+
+<h3 id="l-orange-bleue-paris">L’Orange bleue</h3>
+
+L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche banlieue : Montrouge, Vanves, Clichy et Villejuif. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
+</div>
+
+</div>
+
+<div id="on-air" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
+
+<h3 id="on-air-paris">ON AIR</h3>
+
+À Paris, ON AIR a six clubs : Voltaire (11e), Daumesnil (12e), BNF (13e), Montparnasse (14e), Clignancourt (18e) et Flandre (19e), et beaucoup d’autres en banlieue. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-l-appart-fitness"><span>Salle avec cours</span></div>
+
+<h3 id="l-appart-fitness-paris">L’Appart Fitness</h3>
+
+À Paris, L’Appart Fitness a des salles à Bastille (11e), Charléty (13e), dans le 18e et le 19e, et aussi à Malakoff. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
+
+</div>
+
+<div id="gigafit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gigafit"><span>Salle de sport</span></div>
+
+<h3 id="gigafit-paris">Gigafit</h3>
+
+À Paris, Gigafit a des clubs dans le 18e (rue Ordener) et le 19e (rue Petit), et juste à côté à Gennevilliers, avec une formule sans engagement à 40 € toutes les 4 semaines. À Paris, Gigafit est aussi sur ClassPass.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
+</div>
+
+</div>
+
+<div id="liberty-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-liberty-gym"><span>Salle de sport</span></div>
+
+<h3 id="liberty-gym-paris">Liberty Gym</h3>
+
+Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la salle, ouverte 7j/7 de 6h à 23h. Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines, sans engagement.
+
+</div>
+
+<div id="neoness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="neoness-paris">Neoness</h3>
+
+À Paris, Neoness a 19 clubs, entre autres Bourse-Opéra, Châtelet-Montorgueil, Madeleine, République, Bastille, Montparnasse, Batignolles, Beaugrenelle et Nation, et aussi à Boulogne-Billancourt, La Défense, Asnières, Colombes, Ivry-sur-Seine, Kremlin-Villejuif et Fontenay-sous-Bois. Dans Paris, à La Défense, Boulogne, Asnières et Ivry, Access coûte 34,99 € et Prime 39,99 € toutes les 4 semaines avec engagement d’un an, Prime sans engagement dès 49,99 €. Ailleurs, c’est 5 € de moins. Tu ajoutes 49 € de frais d’adhésion.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="apercu">
 
@@ -86,7 +206,7 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 | | ClassPass | Basic-Fit | Fitness Park | Keepcool |
 | --- | --- | --- | --- | --- |
 | **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec cours collectifs | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 75 € par mois (47 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 34,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
+| **Prix** | Abonnement standard 75 € par mois (47 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 29,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
 | **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Avec ou sans engagement | Un an, ou sans engagement |
 | **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
 | **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays | Clubs aussi en Espagne | Une salle à Bruxelles |
@@ -217,134 +337,6 @@ Fitness Park est une chaîne française avec plus de 300 clubs en France, ouvert
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="autres">Autres salles à Paris</h2>
-
-<div class="kolommen vier">
-
-<div id="wellness-sport-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-wellness-sport-club"><span>Salle tout inclus</span></div>
-
-<h3 id="wellness-sport-club-paris">WellNess Sport Club</h3>
-
-À Paris, WellNess Sport Club a deux clubs : Porte Maillot (17e) et République (11e), ouverts 7j/7. Liberté coûte 79 € par mois, Express 69 € (pas aux heures de pointe du lundi au jeudi).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
-</div>
-
-</div>
-
-<div id="ritm" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-ritm"><span>Salle avec cours</span></div>
-
-<h3 id="ritm-paris">RITM</h3>
-
-À Paris, RITM a cinq clubs : Champs-Élysées, Ternes, La Fontaine, La Motte-Picquet et Saint-Germain, et un sixième juste à côté, à Boulogne-Billancourt. Tu paies à la semaine : Essentiel 24,99 € avec engagement de 52 semaines, Liberté 29,99 € sans engagement, plus 90 € de frais d’inscription.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
-</div>
-
-</div>
-
-<div id="l-orange-bleue" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-l-orange-bleue"><span>Salle avec coachs</span></div>
-
-<h3 id="l-orange-bleue-paris">L’Orange bleue</h3>
-
-L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche banlieue : Montrouge, Vanves, Clichy et Villejuif. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
-</div>
-
-</div>
-
-<div id="on-air" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-on-air"><span>Salle haut de gamme</span></div>
-
-<h3 id="on-air-paris">ON AIR</h3>
-
-À Paris, ON AIR a six clubs : Voltaire (11e), Daumesnil (12e), BNF (13e), Montparnasse (14e), Clignancourt (18e) et Flandre (19e), et beaucoup d’autres en banlieue. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
-</div>
-
-</div>
-
-<div id="l-appart-fitness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-l-appart-fitness"><span>Salle avec cours</span></div>
-
-<h3 id="l-appart-fitness-paris">L’Appart Fitness</h3>
-
-À Paris, L’Appart Fitness a des salles à Bastille (11e), Charléty (13e), dans le 18e et le 19e, et aussi à Malakoff. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
-</div>
-
-</div>
-
-<div id="gigafit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gigafit"><span>Salle de sport</span></div>
-
-<h3 id="gigafit-paris">Gigafit</h3>
-
-À Paris, Gigafit a des clubs dans le 18e (rue Ordener) et le 19e (rue Petit), et juste à côté à Gennevilliers, avec une formule sans engagement à 40 € toutes les 4 semaines. À Paris, Gigafit est aussi sur ClassPass.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
-</div>
-
-</div>
-
-<div id="liberty-gym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-liberty-gym"><span>Salle de sport</span></div>
-
-<h3 id="liberty-gym-paris">Liberty Gym</h3>
-
-Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la salle, ouverte 7j/7 de 6h à 23h. Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines, sans engagement.
-
-</div>
-
-<div id="neoness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
-
-<h3 id="neoness-paris">Neoness</h3>
-
-À Paris, Neoness a 19 clubs, entre autres Bourse-Opéra, Châtelet-Montorgueil, Madeleine, République, Bastille, Montparnasse, Batignolles, Beaugrenelle et Nation, et aussi à Boulogne-Billancourt, La Défense, Asnières, Colombes, Ivry-sur-Seine, Kremlin-Villejuif et Fontenay-sous-Bois. Dans Paris, à La Défense, Boulogne, Asnières et Ivry, Access coûte 34,99 € et Prime 39,99 € toutes les 4 semaines avec engagement d’un an, Prime sans engagement dès 49,99 €. Ailleurs, c’est 5 € de moins. Tu ajoutes 49 € de frais d’adhésion.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-paris">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Paris. À Paris, l’abonnement mensuel commence à 35 € par mois (Essential).
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>

@@ -14,7 +14,21 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Wien trainierst du m
 
 <h2 id="blick">Auf einen Blick</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-myclubs"><span>Sportpass</span></div>
+
+### myClubs
+
+Sportpass aus Österreich mit dem meisten Angebot in Wien. FLEX 4 kostet 55 € im Monat für 4 Trainings, monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop" href="/at/myclubs/">myClubs ansehen</a>
+</div>
+
+</div>
 
 <div class="kolom kaart">
 
@@ -22,7 +36,7 @@ Keine Lust, dich lange an ein einziges Studio zu binden? In Wien trainierst du m
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
+Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/at/classpass/">ClassPass ansehen</a>
@@ -36,7 +50,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### Fitness First
 
-4 Clubs in und um Wien. Mit Geräten, Kursen und Wellness.
+4 Clubs in und um Wien. Mit Geräten, Kursen und Wellness. Der Preis hängt von Club und Laufzeit ab; frag am besten direkt im Club nach.
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -50,7 +64,7 @@ Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis.
 
 ### McFit
 
-Günstiges Gym mit mehreren Studios in Wien. Flex ab 34,90 € im Monat.
+Günstiges Gym mit mehreren Studios in Wien. Flex ohne Mindestlaufzeit ab 34,90 € im Monat, mit 12 Monaten Laufzeit ab 24,90 €.
 
 <div class="knoppen">
 <a class="knop" href="/de/mcfit/">McFit ansehen</a>
@@ -64,7 +78,7 @@ Günstiges Gym mit mehreren Studios in Wien. Flex ab 34,90 € im Monat.
 
 ### Holmes Place
 
-Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Wien.
+Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Wien. Den Preis erfährst du bei einem Besuch im Club; dort kannst du dich auch beraten lassen.
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
@@ -72,9 +86,49 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Wien.
 
 </div>
 
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat Studios in Wien, unter anderem in der Brigittenau. Je nach Studio zum Beispiel 39,90 € (Red Label) bis 49,90 € (Black Label) im Monat, oft monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/clever-fit/">Alles über clever fit</a>
 </div>
 
-<p class="meer-aanbieders">Und auch: clever fit, JOHN REED und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat Clubs in Wien, mit Design, Musik und Kursen. Flex ist monatlich kündbar, zum Beispiel 60 € im Monat in Cluster 2, plus 40 € Starterpaket.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+<h3>Mrs.Sporty</h3>
+
+Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit Clubs in vielen Wiener Bezirken. 30 Minuten Training, kostenloses Probetraining, Preise je Club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="ueberblick">
 
@@ -135,7 +189,6 @@ Viele Studios in der Inneren Stadt, in Mariahilf, Neubau, der Josefstadt und am 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/at/classpass/">Alles über ClassPass</a>
 </div>
-
 
 </div>
 
@@ -237,52 +290,6 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 3 Clubs in Wien. Die Cl
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Wien</h2>
-
-<div class="kolommen vier">
-
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat Studios in Wien, unter anderem in der Brigittenau. Je nach Studio zum Beispiel 39,90 € (Red Label) bis 49,90 € (Black Label) im Monat, oft monatlich kündbar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/at/clever-fit/">Alles über clever fit</a>
-</div>
-
-</div>
-
-<div id="john-reed" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
-
-<h3>JOHN REED</h3>
-
-JOHN REED hat Clubs in Wien, mit Design, Musik und Kursen. Flex ist monatlich kündbar, zum Beispiel 60 € im Monat in Cluster 2, plus 40 € Starterpaket.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/at/john-reed/">Alles über JOHN REED</a>
-</div>
-
-</div>
-
-<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
-
-<h3>Mrs.Sporty</h3>
-
-Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit Clubs in vielen Wiener Bezirken. 30 Minuten Training, kostenloses Probetraining, Preise je Club.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/at/mrs-sporty/">Alles über Mrs.Sporty</a>
-</div>
-
-</div>
-
-</div>
 
 | Anbieter | Preis pro Monat | Laufzeit | In Wien |
 | --- | --- | --- | --- |
@@ -394,6 +401,5 @@ Ja. Du kannst online ein kostenloses und unverbindliches Probetraining in einem 
 </div>
 
 </div>
-
 
 </details>

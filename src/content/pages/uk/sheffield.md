@@ -14,7 +14,7 @@ Don't want to be tied to one gym? In Sheffield you can use a fitness pass at stu
 
 <h2 id="glance">At a glance</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,7 +22,7 @@ Don't want to be tied to one gym? In Sheffield you can use a fitness pass at stu
 
 ### ClassPass
 
-Yoga, Pilates, boxing and more with one credit-based membership.
+Yoga, Pilates, boxing and more with one credit-based membership, at studios across the city. Cancel anytime, and your plan also works in other cities.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -36,7 +36,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### The Gym Group
 
-3 low-cost gyms in Sheffield, without a contract and most of them open 24/7.
+3 low-cost gyms in Sheffield, without a contract and most of them open 24/7. Classes are included in every membership: Off-peak, Standard or Ultimate.
 
 <div class="knoppen">
 <a class="knop" href="/uk/the-gym-group/">See The Gym Group</a>
@@ -50,7 +50,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### PureGym
 
-Budget gym chain with gyms in Sheffield, most open 24/7. No contract, from £18.99 a month.
+Budget gym chain with gyms in Sheffield, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
 
 <div class="knoppen">
 <a class="knop" href="/uk/puregym/">See PureGym</a>
@@ -58,9 +58,21 @@ Budget gym chain with gyms in Sheffield, most open 24/7. No contract, from £18.
 
 </div>
 
+<div id="virgin-active" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-virgin-active"><span>Health club with spa</span></div>
+
+<h3>Virgin Active</h3>
+
+Virgin Active has a health club at Broadfield Park, with a 25-metre pool, a sauna, a steam room, a climbing wall and unlimited classes. Each club sets its own price, with a 12-month or a rolling monthly membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
 </div>
 
-<p class="meer-aanbieders">And also: Virgin Active. <a href="#other">See the other gyms</a></p>
+</div>
+
+</div>
 
 <div id="overview">
 
@@ -186,26 +198,6 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including gyms in Sh
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="other">Other gyms in Sheffield</h2>
-
-<div class="kolommen vier">
-
-<div id="virgin-active" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-virgin-active"><span>Health club with spa</span></div>
-
-<h3>Virgin Active</h3>
-
-Virgin Active has a health club at Broadfield Park, with a 25-metre pool, a sauna, a steam room, a climbing wall and unlimited classes. Each club sets its own price, with a 12-month or a rolling monthly membership.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
 </div>
 
 </div>

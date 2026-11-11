@@ -48,7 +48,7 @@ main { padding-top: 0; }
 .kolommen > .kaart:only-child { max-width: 26rem; }
 @media (min-width: 720px) { .kolommen.drie { grid-template-columns: repeat(3, 1fr); } }
 @media (min-width: 640px) { .kolommen.vier { grid-template-columns: repeat(2, 1fr); } }
-@media (min-width: 1000px) { .kolommen.vier { grid-template-columns: repeat(4, 1fr); } }
+@media (min-width: 1000px) { .kolommen.vier { grid-template-columns: repeat(4, 1fr); } .kolommen.vier > .breed { grid-column: span 3; } .kolommen.vier > .breed2 { grid-column: span 2; } }
 .kaart.klein-blok { font-size: .95rem; }
 .kolom > :first-child { margin-top: 0; }
 .kaart { background: var(--white); border-radius: var(--radius); padding: 1.75rem; box-shadow: var(--shadow); }

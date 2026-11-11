@@ -74,6 +74,8 @@ Toutes les salles sont sur [lorangebleue.fr](https://www.lorangebleue.fr/nos-sal
 - **Après l’engagement** : ton abonnement continue sans engagement, et tu résilies avec un préavis de 4 semaines. Tu peux déjà envoyer ta résiliation avant la fin de l’engagement.
 - **Comment** : par lettre recommandée avec accusé de réception.
 
+Tout le détail : [Résilier L’Orange bleue](/fr/resilier-l-orange-bleue/).
+
 <h2 id="choix">L’Orange bleue, Keepcool ou ClassPass ?</h2>
 
 <div class="kolommen">

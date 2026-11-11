@@ -14,7 +14,7 @@ kicker: "Guía de ciudad Zaragoza"
 
 <h2 id="resumen">En resumen</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,7 +22,7 @@ kicker: "Guía de ciudad Zaragoza"
 
 ### ClassPass
 
-Fuerza, F45, pilates y yoga con una sola suscripción de créditos.
+Fuerza, F45, pilates y yoga con una sola suscripción de créditos. Tu plan vale también en otras ciudades. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-zaragoza">Prueba 10 sesiones gratis en 14 días</a>
@@ -37,7 +37,7 @@ Fuerza, F45, pilates y yoga con una sola suscripción de créditos.
 
 ### Basic-Fit
 
-Unos 9 clubes en Zaragoza, con contrato anual o Flex sin permanencia.
+Unos 9 clubes en Zaragoza, con contrato anual o Flex sin permanencia. Desde 24,99 € cada 4 semanas con contrato anual, o Flex desde 29,98 €, más 19,99 € de inscripción.
 
 <div class="knoppen">
 <a class="knop" href="/es/basic-fit/">Ver Basic-Fit</a>
@@ -51,7 +51,7 @@ Unos 9 clubes en Zaragoza, con contrato anual o Flex sin permanencia.
 
 ### Fitness Park
 
-Cinco clubes con clases colectivas, con o sin permanencia.
+Cinco clubes con clases colectivas, con o sin permanencia. Sin permanencia, Classic 37 € y Ultimate 57 € cada 4 semanas; con permanencia desde 27 € (club de Madrid).
 
 <div class="knoppen">
 <a class="knop" href="/es/fitness-park/">Ver Fitness Park</a>
@@ -59,9 +59,21 @@ Cinco clubes con clases colectivas, con o sin permanencia.
 
 </div>
 
+<div id="synergym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
+
+<h3 id="synergym-zaragoza">Synergym</h3>
+
+En Zaragoza, Synergym tiene unos 9 clubes, entre otros en El Pilar, Las Fuentes, Universidad, Aljafería, Valdespartera y La Jota. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
-<p class="meer-aanbieders">Y también: Synergym. <a href="#otros">Ver los otros gimnasios</a></p>
+</div>
+
+</div>
 
 <div id="vistazo">
 
@@ -166,26 +178,6 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<h2 id="otros">Otros gimnasios en Zaragoza</h2>
-
-<div class="kolommen vier">
-
-<div id="synergym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Gimnasio low cost</span></div>
-
-<h3 id="synergym-zaragoza">Synergym</h3>
-
-En Zaragoza, Synergym tiene unos 9 clubes, entre otros en El Pilar, Las Fuentes, Universidad, Aljafería, Valdespartera y La Jota. Multiclub Premium (todos los clubes) cuesta 36,99 € al mes; Club Unlimited (solo tu club), de 24,99 € a 30,99 € según el club. Sin permanencia, más 30 € de matrícula.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
 </div>
 
 </div>

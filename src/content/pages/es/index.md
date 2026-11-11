@@ -97,16 +97,16 @@ Cadena española con más de 240 clubes. Todas las cuotas sin permanencia, de 32
 ## Ciudades
 
 <ul class="stedenlijst">
-<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
-<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
-<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
-<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
-<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Basic-Fit · ON AIR · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness</span></li>
+<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness</span></li>
+<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness</span></li>
+<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym</span></li>
+<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · ON AIR · Anytime Fitness</span></li>
 <li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
-<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Urban Sports Club</span></li>
-<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · VivaGym · Urban Sports Club</span></li>
+<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park</span></li>
+<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym</span></li>
 <li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
-<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Basic-Fit · Anytime Fitness · Urban Sports Club</span></li>
+<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Anytime Fitness</span></li>
 <li><a href="/es/murcia/"><strong>Murcia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym</span></li>
 <li><a href="/es/zaragoza/"><strong>Zaragoza</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym</span></li>
 </ul>
@@ -294,7 +294,12 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 - **[Deporte siendo estudiante](/es/deporte-estudiante/)** · barato y flexible
 - **[Comer y beber al entrenar](/es/comer-y-beber-al-entrenar/)** · fácil
 - **[Darse de baja en Basic-Fit](/es/baja-basic-fit/)** · preaviso y alternativas
+- **[Darse de baja en Synergym](/es/baja-synergym/)** · plazo y excedencia
+- **[Darse de baja en Fitness Park](/es/baja-fitness-park/)** · preaviso y permanencia
+- **[Darse de baja en VivaGym](/es/baja-vivagym/)** · plazo y app
 - **[Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/)** · opciones mes a mes
+- **[Gimnasio sin permanencia en Valencia](/es/gimnasio-sin-permanencia-valencia/)** · opciones mes a mes
+- **[Gimnasio sin permanencia en Sevilla](/es/gimnasio-sin-permanencia-sevilla/)** · opciones mes a mes
 - **[Gimnasio sin permanencia en Barcelona](/es/gimnasio-sin-permanencia-barcelona/)** · opciones mes a mes
 
 ## Preguntas frecuentes

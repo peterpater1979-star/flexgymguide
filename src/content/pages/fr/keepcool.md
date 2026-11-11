@@ -100,6 +100,8 @@ Toutes les salles sont sur [keepcool.fr](https://www.keepcool.fr/nos-salles-de-s
 - **Comment** : par courrier ou par e-mail à ton club ou à contact@keepcool.fr, ou via le site de Keepcool.
 - **À savoir** : en plus des frais d’inscription, Keepcool demande 9,90 € par an pour le matériel. Une nouvelle carte coûte 10 €.
 
+Tout le détail : [Résilier Keepcool](/fr/resilier-keepcool/).
+
 <p class="klein">Source : conditions générales de vente de Keepcool (version avril 2026).</p>
 
 <h2 id="choix">Keepcool, Basic-Fit ou ClassPass ?</h2>

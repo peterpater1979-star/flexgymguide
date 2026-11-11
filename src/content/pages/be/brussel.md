@@ -10,13 +10,27 @@ crumb: "Brussel"
 kicker: "Stadsgids Brussel"
 ---
 
-Geen zin om vast te zitten aan één sportschool? In Brussel boek je met een sportpas lessen bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou.
+Geen zin om vast te zitten aan één sportschool? In Brussel boek je met een sportpas lessen bij studio's in de hele stad, of je kiest een sportschool met of zonder looptijd. Dit past bij jou. Geen contract? Lees [Sporten zonder contract in Brussel](/be/sporten-zonder-contract-brussel/).
 
 In Brussel vind je het ClassPass-aanbod vooral in Elsene, Etterbeek, Sint-Joost-ten-Node, Sint-Gillis en Vorst, met vooral yoga en pilates. Handig als je in de stad werkt of studeert en graag bij verschillende studio's lessen volgt. Train je liever vaak aan toestellen? Dan zijn Basic-Fit en Jims ook in Brussel.
 
 <h2 id="kort">In het kort</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpas met vaste prijs</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Urban Sports Club zit ook in Brussel. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
+</div>
+
+</div>
 
 <div class="kolom kaart">
 
@@ -24,7 +38,7 @@ In Brussel vind je het ClassPass-aanbod vooral in Elsene, Etterbeek, Sint-Joost-
 
 ### ClassPass
 
-Yoga, pilates, krachttraining en meer met één abonnement met credits.
+Yoga, pilates, krachttraining en meer met één abonnement met credits, bij studio’s in de hele stad. Maandelijks opzegbaar, en je abonnement werkt ook in andere steden.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/be/classpass/">Bekijk ClassPass</a>
@@ -38,7 +52,7 @@ Yoga, pilates, krachttraining en meer met één abonnement met credits.
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
+Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/be/basic-fit/">Bekijk Basic-Fit</a>
@@ -52,7 +66,7 @@ Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open.
 
 ### Jims
 
-Sportschoolketen met 8 clubs in Brussel, met fitness en groepslessen met een coach.
+Sportschoolketen met 8 clubs in Brussel, met fitness en groepslessen met een coach. Vanaf € 39,99 per 4 weken, flexibel opzegbaar met 4 weken opzegtermijn, en één gratis probeerdag per jaar.
 
 <div class="knoppen">
 <a class="knop" href="/be/jims/">Bekijk Jims</a>

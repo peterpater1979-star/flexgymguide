@@ -16,7 +16,7 @@ L’offre ClassPass à Dunkerque est encore petite : tu y trouves surtout du Pil
 
 <h2 id="en-bref">En bref</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -24,11 +24,25 @@ L’offre ClassPass à Dunkerque est encore petite : tu y trouves surtout du Pil
 
 ### ClassPass
 
-Des cours et des séances en salle avec un seul abonnement à crédits.
+Des cours et des séances en salle avec un seul abonnement à crédits, dans des studios de la ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-dunkerque">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
+
+<h3 id="urban-sports-club-dunkerque">Urban Sports Club</h3>
+
+Urban Sports Club est aussi présent à Dunkerque. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
 
 </div>
@@ -39,7 +53,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 ### Basic-Fit
 
-Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24.
+Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Dès 24,99 € toutes les 4 semaines avec engagement d’un an, ou Flex sans engagement pour 9,99 € de plus.
 
 <div class="knoppen">
 <a class="knop" href="/fr/basic-fit/">Voir Basic-Fit</a>
@@ -47,9 +61,21 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 </div>
 
+<div id="gigafit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gigafit"><span>Salle de sport</span></div>
+
+<h3 id="gigafit-dunkerque">Gigafit</h3>
+
+À Dunkerque, Gigafit a un club quai Wilson, avec aussi des formules moins chères pour le week-end ou les heures creuses. Chaque club fixe ses prix : en général de 30 à 50 € toutes les 4 semaines, le plus souvent avec engagement d’un an, plus 39 € de frais d’inscription.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
 </div>
 
-<p class="meer-aanbieders">Et aussi : Gigafit et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+</div>
+
+</div>
 
 <div id="apercu">
 
@@ -157,40 +183,6 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 4. **À la fin**, tu reçois un rappel par e-mail. Si tu ne résilies pas, tu passes à l’abonnement standard : 37 crédits pour 59 € par mois.
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
-
-<h2 id="autres">Autres salles à Dunkerque</h2>
-
-<div class="kolommen vier">
-
-<div id="gigafit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gigafit"><span>Salle de sport</span></div>
-
-<h3 id="gigafit-dunkerque">Gigafit</h3>
-
-À Dunkerque, Gigafit a un club quai Wilson, avec aussi des formules moins chères pour le week-end ou les heures creuses. Chaque club fixe ses prix : en général de 30 à 50 € toutes les 4 semaines, le plus souvent avec engagement d’un an, plus 39 € de frais d’inscription.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
-</div>
-
-</div>
-
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
-
-<h3 id="urban-sports-club-dunkerque">Urban Sports Club</h3>
-
-Urban Sports Club est aussi présent à Dunkerque. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
-</div>
-
-</div>
-
-</div>
 
 ## Lequel te convient ?
 

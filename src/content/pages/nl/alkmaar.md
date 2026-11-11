@@ -15,7 +15,7 @@ Geen zin in een jaarcontract bij één sportschool? In Alkmaar kun je met een sp
 
 <h2 id="kort">In het kort</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -23,7 +23,7 @@ Geen zin in een jaarcontract bij één sportschool? In Alkmaar kun je met een sp
 
 ### ClassPass
 
-Pilates, yoga, krachttraining, boksen en dans met één abonnement op basis van credits. Ook studio's in Heerhugowaard en Heiloo.
+Pilates, yoga, krachttraining, boksen en dans met één abonnement op basis van credits. Ook studio's in Heerhugowaard en Heiloo. Maandelijks opzegbaar.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
@@ -37,7 +37,7 @@ Pilates, yoga, krachttraining, boksen en dans met één abonnement op basis van 
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terborchlaan dag en nacht open is.
+Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terborchlaan dag en nacht open is. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>
@@ -45,9 +45,21 @@ Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terbo
 
 </div>
 
+<div id="big-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
+
+<h3>BigGym</h3>
+
+BigGym heeft in Alkmaar een grote gym aan de Helderseweg, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
 </div>
 
-<p class="meer-aanbieders">En ook: BigGym. <a href="#andere">Bekijk de andere sportscholen</a></p>
+</div>
+
+</div>
 
 <h2 id="op-een-rij">ClassPass en Basic-Fit op een rij</h2>
 
@@ -156,26 +168,6 @@ Nieuw bij ClassPass? Je begint met 14 dagen gratis en 10 work-outs.
 4. **Aan het einde** krijg je een herinnering per mail. Zeg je niet op, dan ga je over op het standaardabonnement in Alkmaar: 40 credits voor € 59 per maand.
 
 Tip: zet een herinnering een paar dagen voor het einde, en boek populaire avond- en weekendlessen een paar dagen vooruit. Alles over de regels lees je in [ClassPass gratis proberen](/nl/classpass-proefperiode/).
-
-<h2 id="andere">Andere sportscholen in Alkmaar</h2>
-
-<div class="kolommen vier">
-
-<div id="big-gym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-big-gym"><span>Sportschoolketen</span></div>
-
-<h3>BigGym</h3>
-
-BigGym heeft in Alkmaar een grote gym aan de Helderseweg, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
-</div>
-
-</div>
-
-</div>
 
 ## Welke past bij jou?
 

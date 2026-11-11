@@ -40,6 +40,8 @@ Prijzen per 4 weken. Inschrijfkosten bij een jaarabonnement: € 19,99 (Comfort)
 - **Bevriezen:** € 2,99 per 4 weken bij Comfort en Premium, maximaal 4 weken per keer en twee keer per jaar. Bij Ultimate is het gratis.
 - **Opzeggen:** met 4 weken opzegtermijn, via My Basic-Fit.
 
+Stap voor stap: [Basic-Fit opzeggen](/be/basic-fit-opzeggen/).
+
 <h2 id="steden">Basic-Fit in jouw stad</h2>
 
 Lees onze stadsgidsen voor [Brussel](/be/brussel/), [Antwerpen](/be/antwerpen/) en [Gent](/be/gent/).

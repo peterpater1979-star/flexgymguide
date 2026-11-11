@@ -14,7 +14,7 @@ Don't want to be tied to one gym? In London you can use a fitness pass at studio
 
 <h2 id="glance">At a glance</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart">
 
@@ -22,7 +22,7 @@ Don't want to be tied to one gym? In London you can use a fitness pass at studio
 
 ### ClassPass
 
-Yoga, Pilates, boxing and more with one credit-based membership.
+Yoga, Pilates, boxing and more with one credit-based membership, at studios across the city. Cancel anytime, and your plan also works in other cities.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -36,7 +36,7 @@ Yoga, Pilates, boxing and more with one credit-based membership.
 
 ### Fitness First
 
-17 clubs in London, with group classes and multi-club access.
+17 clubs in London, with group classes and multi-club access. Prices vary by club and membership tier, with minimum terms from 1 to 12 months depending on the club.
 
 <div class="knoppen">
 <a class="knop" href="/uk/fitness-first/">See Fitness First</a>
@@ -62,7 +62,7 @@ Low-cost gyms without a contract, most of them open 24/7.
 
 ### PureGym
 
-Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.99 a month.
+Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
 
 <div class="knoppen">
 <a class="knop" href="/uk/puregym/">See PureGym</a>
@@ -70,9 +70,49 @@ Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.
 
 </div>
 
+<div id="david-lloyd" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
+
+<h3>David Lloyd</h3>
+
+David Lloyd has more than 20 health clubs in Greater London, including Fulham, Hammersmith, Kensington, Notting Hill, Finchley, Kingston and Acton Park. Every club has an indoor pool and classes, and many also have tennis or padel courts. Each club sets its own price, with Platinum, Club Plus or Club memberships.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
 </div>
 
-<p class="meer-aanbieders">And also: David Lloyd, Virgin Active, Anytime Fitness. <a href="#other">See the other gyms</a></p>
+</div>
+
+<div id="virgin-active" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-virgin-active"><span>Health club with spa</span></div>
+
+<h3>Virgin Active</h3>
+
+Virgin Active has 21 health clubs in London, from the City (Bank, Moorgate, Aldersgate, Cannon Street) to Mayfair, Kensington, Notting Hill, Chiswick, Clapham, Fulham and Wimbledon. All have a spa and unlimited classes, and all but Cannon Street have a pool. Each club sets its own price, with a 12-month or a rolling monthly membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
+</div>
+
+</div>
+
+<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
+
+<h3>Anytime Fitness</h3>
+
+Anytime Fitness has small gyms in London that are open 24/7, for example in Aldgate. There, a 12-month agreement costs £44.99 a month and a rolling monthly contract £59.99, plus £40 once for your key.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
+</div>
+
+</div>
+
+</div>
 
 <div id="overview">
 
@@ -133,7 +173,6 @@ A huge choice, spread across the whole city, from HIIT at Barry's and 1Rebel to 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
 </div>
-
 
 </div>
 
@@ -199,55 +238,6 @@ PureGym is a budget gym chain with over 450 gyms in the UK, including 90 gyms in
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
-</div>
-
-</div>
-
-
-</div>
-
-<h2 id="other">Other gyms in London</h2>
-
-<div class="kolommen vier">
-
-<div id="david-lloyd" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
-
-<h3>David Lloyd</h3>
-
-David Lloyd has more than 20 health clubs in Greater London, including Fulham, Hammersmith, Kensington, Notting Hill, Finchley, Kingston and Acton Park. Every club has an indoor pool and classes, and many also have tennis or padel courts. Each club sets its own price, with Platinum, Club Plus or Club memberships.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
-</div>
-
-</div>
-
-<div id="virgin-active" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-virgin-active"><span>Health club with spa</span></div>
-
-<h3>Virgin Active</h3>
-
-Virgin Active has 21 health clubs in London, from the City (Bank, Moorgate, Aldersgate, Cannon Street) to Mayfair, Kensington, Notting Hill, Chiswick, Clapham, Fulham and Wimbledon. All have a spa and unlimited classes, and all but Cannon Street have a pool. Each club sets its own price, with a 12-month or a rolling monthly membership.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
-</div>
-
-</div>
-
-<div id="anytime-fitness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
-
-<h3>Anytime Fitness</h3>
-
-Anytime Fitness has small gyms in London that are open 24/7, for example in Aldgate. There, a 12-month agreement costs £44.99 a month and a rolling monthly contract £59.99, plus £40 once for your key.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
 </div>
 
 </div>
@@ -357,6 +347,5 @@ That depends on your membership. You can use any club at your membership tier or
 </div>
 
 </div>
-
 
 </details>
