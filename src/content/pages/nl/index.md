@@ -54,6 +54,24 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-sporttas"><span>Sportschoolketen</span></div>
+
+### SportCity
+
+Gym met live groepslessen in heel Nederland. Kies City One (één club) of City Plus (121 clubs), met Flex maandelijks opzegbaar of een contract van 3 maanden, 1 of 2 jaar.
+
+- Goed als je één vaste plek wilt
+- Flex: maandelijks opzegbaar, met een maand opzegtermijn
+- Prijs verschilt per club
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/sportcity/">Alles over SportCity</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-trainmore"><span>Sportschoolketen</span></div>
 
 ### Trainmore
@@ -68,24 +86,6 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
 </div>
 
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-sporttas"><span>Sportschoolketen</span></div>
-
-### SportCity
-
-Gym met live groepslessen in heel Nederland. Kies City One (één club) of City Plus (121 clubs), met Flex maandelijks opzegbaar of een contract van 3 maanden, 1 of 2 jaar.
-
-- Goed als je één vaste plek wilt
-- Flex: maandelijks opzegbaar, met een maand opzegtermijn
-- Prijs verschilt per club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/nl/sportcity/">Alles over SportCity</a>
-</div>
 
 </div>
 
@@ -119,7 +119,7 @@ Gym met live groepslessen in heel Nederland. Kies City One (één club) of City 
 
 Sportscholen en studio's met eigen lidmaatschappen, van de grote keten Basic-Fit tot gyms in een paar steden.
 
-<div class="kolommen drie">
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
