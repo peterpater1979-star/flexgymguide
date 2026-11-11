@@ -25,7 +25,7 @@ kicker: "Guía España"
 | **[Basic-Fit](/es/basic-fit/) Flex** | Desde 29,98 € cada 4 semanas | 19,99 € | 4 semanas de preaviso |
 | **[Fitness Park](/es/fitness-park/)** | Classic 37 €, Ultimate 57 € cada 4 semanas | 50 € | 4 semanas de preaviso |
 | **[ON AIR](/es/on-air/)** | Desde 31,96 € cada 4 semanas | 30 €, más 10 € al año | 4 semanas de preaviso |
-| **[Dreamfit](/es/dreamfit/)** | DREAM de 42,90 a 44,90 € al mes según el club | 45 € | Hasta el día 20 del mes anterior |
+| **[Dreamfit](/es/dreamfit/)** | DREAM de 42,90 a 44,90 € al mes según el club | 45 € | Antes del día 20, no pagas el mes siguiente |
 | **[DiR](/es/dir/)** (Barcelona) | Todo el día de 40,60 a 44,10 € al mes según el club, Premium 89,10 € | Según la promoción | Según las condiciones generales |
 | **[GOfit](/es/go-fit/)** | Cuota mensual de 51,30 a 61,62 €, Plan Plus de 57,80 a 68,12 € al mes (mínimo 3 meses) | 33,50 a 51,30 € | Según el centro |
 
@@ -84,7 +84,7 @@ Centros deportivos grandes con piscinas, spa y clases, sobre todo en Madrid. La 
 
 ### Dreamfit
 
-26 gimnasios grandes, casi la mitad en Madrid y alrededores, con más de 600 clases al mes incluidas. Pagas mes a mes: DREAM cuesta de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción. Te das de baja como muy tarde el día 20 del mes anterior, en recepción o en el área personal. Lee [Todo sobre Dreamfit](/es/dreamfit/).
+26 gimnasios grandes, casi la mitad en Madrid y alrededores, con más de 600 clases al mes incluidas. Pagas mes a mes: DREAM cuesta de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción. Te das de baja antes del día 20 del mes, en recepción o en el área personal. Lee [Todo sobre Dreamfit](/es/dreamfit/).
 
 ### DiR
 

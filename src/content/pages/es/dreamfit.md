@@ -41,7 +41,8 @@ Con **DREAM** entrenas en tu propio club. Algunos clubes tienen además una cuot
 - **Clases:** más de 600 clases colectivas al mes, sin pago extra. Las reservas en la app, hasta 14 días antes.
 - **Según el club:** sauna, baño turco, piscina de agua fría y parking.
 - **Con coste extra:** pilates con máquinas, taquilla de alquiler y entrenamiento personal.
-- **Pago:** el primer mes con tarjeta, después por domiciliación bancaria.
+- **Pago:** el primer mes y la inscripción con tarjeta o en efectivo, después por domiciliación bancaria. Si te apuntas a mitad de mes, pagas la parte proporcional.
+- **Toalla:** obligatoria en todo el gimnasio, también en clases y sauna.
 
 <p class="klein">Precios de las páginas de alta de Dreamfit Aluche y Dreamfit Majadahonda, noviembre de 2026.</p>
 
@@ -59,7 +60,7 @@ Dreamfit tiene también clubes en Sant Boi de Llobregat y L’Hospitalet (cerca 
 
 <h2 id="baja">Darse de baja</h2>
 
-- **Plazo:** tu baja debe llegar al club como muy tarde el día 20 del mes anterior al mes en que quieres terminar.
+- **Plazo:** pide la baja antes del día 20 del mes. Así ya no pagas el mes siguiente. Los recibos se cobran entre el 1 y el 5 de cada mes, y no se devuelven meses no usados.
 - **Cómo:** en la recepción de tu club o en el área personal de la web de Dreamfit. Según sus condiciones, una baja por otro canal, como el correo electrónico, no vale.
 - **Pausa:** Dreamfit no tiene excedencia ni congelación de la cuota, tampoco por salud o traslado. Si vuelves después de una baja, pagas de nuevo la inscripción.
 
@@ -104,7 +105,7 @@ Ideal si te gusta variar y entrenas de una a tres veces por semana. Cancelas cua
 <details open>
 <summary>¿Dreamfit tiene permanencia?</summary>
 
-No. Pagas mes a mes y te das de baja como muy tarde el día 20 del mes anterior.
+No. Pagas mes a mes y te das de baja antes del día 20 del mes; así ya no pagas el mes siguiente.
 
 </details>
 

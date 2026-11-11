@@ -149,7 +149,7 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 - Más de 600 clases al mes incluidas
 - Pase puntual de 15 € para probar
-- Baja hasta el día 20 del mes anterior
+- Baja antes del día 20 del mes
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
