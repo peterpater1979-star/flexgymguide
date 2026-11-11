@@ -67,7 +67,7 @@ Plus de 300 clubs en France, avec cours collectifs. Sans engagement, Classic co�
 
 ### Keepcool
 
-Des salles avec coachs et cours en petits groupes. Sans engagement, tu paies 44,99 € toutes les 4 semaines, contre 34,99 € avec un engagement d’un an. Les frais d’inscription sont de 39 €. Lis [Tout sur Keepcool](/fr/keepcool/).
+Des salles avec coachs et cours en petits groupes. Sans engagement, tu paies 44,99 € toutes les 4 semaines, contre 29,99 € (Access) ou 34,99 € (Prime) avec un engagement d’un an. Les frais d’inscription sont de 39 €. Lis [Tout sur Keepcool](/fr/keepcool/).
 
 ### ON AIR
 

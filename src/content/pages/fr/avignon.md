@@ -157,7 +157,7 @@ Basic-Fit a des salles à Avignon. C’est une chaîne de salles à petit prix, 
 
 ## Keepcool à Avignon
 
-Autour d’Avignon, Keepcool a trois salles : Fontcouverte, Le Pontet et Les Angles. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 34,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
+Autour d’Avignon, Keepcool a trois salles : Fontcouverte, Le Pontet et Les Angles. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 29,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
 
 ### Idéal pour
 
@@ -285,7 +285,7 @@ Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies
 <details>
 <summary>Keepcool est-il sans engagement ?</summary>
 
-Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 34,99 €.
+Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 29,99 €.
 
 </details>
 

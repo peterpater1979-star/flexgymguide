@@ -76,7 +76,7 @@ Plus de 300 clubs en France, ouverts 7j/7, certains 24h/24. Sans engagement dès
 
 ### Keepcool
 
-Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et des cours en petits groupes. Dès 34,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
+Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et des cours en petits groupes. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
 - Idéal si tu veux être accompagné par un coach
 - Cours en petits groupes (Small Groups)
