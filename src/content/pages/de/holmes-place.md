@@ -73,11 +73,17 @@ Günstiger, oft mit kurzer Laufzeit. Zum Beispiel [Fitness First](/de/fitness-fi
 
 ### ClassPass
 
-Gut, wenn du Abwechslung willst und ein- bis dreimal pro Woche trainierst. Jederzeit kündbar. Mehr in [Alles über ClassPass](/de/classpass/).
+Gut, wenn du Abwechslung willst und ein- bis dreimal pro Woche trainierst. Jederzeit kündbar. Du kannst ClassPass 1 Monat gratis mit 10 Workouts testen.
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
+
+</div>
+
+**ClassPass in deiner Stadt:** [Berlin](/de/classpass-berlin/) · [Hamburg](/de/classpass-hamburg/) · [München](/de/classpass-muenchen/) · [Frankfurt](/de/classpass-frankfurt/) · [Köln](/de/classpass-koeln/) · [Düsseldorf](/de/classpass-duesseldorf/) · [Stuttgart](/de/classpass-stuttgart/) · [Leipzig](/de/classpass-leipzig/)
 
 ## Häufige Fragen
 

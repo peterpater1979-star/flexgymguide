@@ -85,11 +85,17 @@ Aussi des cours collectifs et un coach dans la salle, avec environ 400 salles. L
 
 ### ClassPass
 
-Sans engagement, idéal si tu aimes varier les studios. À Paris, tu peux aussi aller chez Gigafit avec ClassPass. Lis [Tout sur ClassPass](/fr/classpass/).
+Sans engagement, idéal si tu aimes varier les studios. À Paris, tu peux aussi aller chez Gigafit avec ClassPass. Tu peux tester 10 séances gratuites en 14 jours.
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
 </div>
 
 </div>
+
+</div>
+
+**ClassPass dans ta ville :** [Paris](/fr/classpass-paris/) · [Lyon](/fr/classpass-lyon/) · [Marseille](/fr/classpass-marseille/) · [Toulouse](/fr/classpass-toulouse/) · [Bordeaux](/fr/classpass-bordeaux/) · [Lille](/fr/classpass-lille/) · [Nantes](/fr/classpass-nantes/) · [Nice](/fr/classpass-nice/) · [Montpellier](/fr/classpass-montpellier/) · [Strasbourg](/fr/classpass-strasbourg/) · [Aix-en-Provence](/fr/classpass-aix-en-provence/)
 
 ## Questions fréquentes
 
