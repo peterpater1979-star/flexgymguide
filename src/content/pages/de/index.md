@@ -107,7 +107,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 | **[EASYFITNESS](/de/easyfitness/)** | Fitnesskette | Ab 27,99 € | Flex, 12 oder 24 Monate | Über 200 Studios in Deutschland |
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
-| **[Rostudios](/de/rostudios/)** | Boutique-Studio (Indoor-Cycling und Reformer) | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs | 9 Studios: Berlin (5), München, Hamburg, Frankfurt, Düsseldorf |
+| **[Rostudios](/de/rostudios/)** | Boutique-Studio (Indoor-Cycling und Reformer) | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs | 11 Studios: Berlin (5), Köln (2), München, Hamburg, Frankfurt, Düsseldorf |
 
 <p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS, Mrs.Sporty und Rostudios. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
@@ -119,7 +119,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 <li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios</span></li>
 <li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · Rostudios</span></li>
 <li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Basic-Fit · clever fit · Rostudios</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios</span></li>
 <li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Fitness First · clever fit</span></li>
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit</span></li>
@@ -238,7 +238,7 @@ Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training in einer 
 
 ### Rostudios
 
-Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), mit fünf Studios in Berlin und je einem in München, Hamburg, Frankfurt und Düsseldorf. Unlimited 79 € pro Monat.
+Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), mit fünf Studios in Berlin, zwei in Köln und je einem in München, Hamburg, Frankfurt und Düsseldorf. Unlimited 79 € pro Monat.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
