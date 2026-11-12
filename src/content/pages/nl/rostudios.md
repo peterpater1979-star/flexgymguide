@@ -60,7 +60,7 @@ Een les van 50 minuten op de reformer, rustig en op je ademhaling, met veel krac
 | **Rotterdam City** | Mariniersweg 39-41 | Rocycle |
 | **Den Haag City** | In het centrum | Roform |
 | **Utrecht Moreelsepark** | Moreelsepark 11, bij het station | Roform |
-| **Groningen City** | Boterdiep 5-7 | Rocycle |
+| **Groningen City** | Boterdiep 5-7 | Rocycle en Roform |
 
 De studio's in Amsterdam zijn elke dag open van 6.30 tot 21.15 uur. Er komen studio's bij, onder meer een Roform-studio aan de Bredestraathof in Rotterdam en een in Eindhoven. Het actuele overzicht zie je op de site van Rostudios.
 

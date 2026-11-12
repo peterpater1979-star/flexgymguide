@@ -88,7 +88,7 @@ BigGym heeft in Groningen een grote gym aan de Protonstraat, met kracht, cardio,
 
 <h3>Rostudios</h3>
 
-Rostudios geeft Rocycle, indoor cycling op muziek, aan het Boterdiep. Unlimited kost € 79 per maand met 12 maanden looptijd, of je betaalt per les.
+Rostudios heeft aan het Boterdiep een studio met Rocycle (indoor cycling) en Roform (reformer). Unlimited kost € 79 per maand met 12 maanden looptijd, of je betaalt per les.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>
