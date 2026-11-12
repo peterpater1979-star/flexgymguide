@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in Frankfurt"
-seoTitle: "ClassPass Frankfurt: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudio in Frankfurt monatlich kündbar: deine Optionen"
 path: "/de/frankfurt/"
 description: "Flexibel trainieren in Frankfurt am Main: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 12 Clubs trainieren."
 lang: de
@@ -136,6 +136,8 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Wo
 
 Ein großes Angebot, vor allem in der Innenstadt, im Westend, im Nordend, in Bornheim und in Sachsenhausen. Eine kleine Auswahl: Reformer-Pilates bei corelab, JULY BABY Pilates, novi studio und Sculpture, Hot Pilates und Barre bei refine room und Drops Barre, HIIT bei Barry's und Boxen bei BURN BXNG. Dazu Yoga bei Yoga by Stephan Suh und Balance Yoga und Indoor-Cycling bei CYCLETIC.
+
+[Alle Studios in Frankfurt nach Stadtteil und Sportart ansehen.](/de/classpass-frankfurt/)
 
 [Sieh dir die Studios in Frankfurt auf ClassPass an.](/go/classpass-de-frankfurt/?epi=fgg-de-frankfurt)
 
