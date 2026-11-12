@@ -102,7 +102,7 @@ Anytime Fitness heeft in Den Haag een club in Wateringse Veld, die 24 uur per da
 
 <h3>Rostudios</h3>
 
-Rostudios geeft in het centrum Roform, lessen op de reformer die op pilates lijken. Unlimited kost € 79 per maand met 12 maanden looptijd, of je betaalt per les.
+Rostudios geeft aan de Amsterdamse Veerkade in het centrum Roform, lessen op de reformer die op pilates lijken. Unlimited kost € 79 per maand met 12 maanden looptijd, of je betaalt per les.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>

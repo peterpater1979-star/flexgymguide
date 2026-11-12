@@ -58,7 +58,7 @@ Een les van 50 minuten op de reformer, rustig en op je ademhaling, met veel krac
 | **Amsterdam Zuidas** | Gustav Mahlerlaan 635 | Rocycle |
 | **Amsterdam Noord** | Klaprozenweg 36 C1 | Roform |
 | **Rotterdam City** | Mariniersweg 39-41 | Rocycle |
-| **Den Haag City** | In het centrum | Roform |
+| **Den Haag City** | Amsterdamse Veerkade 52-72 | Roform |
 | **Utrecht Moreelsepark** | Moreelsepark 11, bij het station | Roform |
 | **Groningen City** | Boterdiep 5-7 | Rocycle en Roform |
 
