@@ -121,8 +121,12 @@ Anytime Fitness heeft in Den Haag een club in Wateringse Veld, die 24 uur per da
 
 In Den Haag kost het standaardabonnement € 59 per maand voor 40 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
+[Bekijk de studio's in Den Haag per buurt en per sport.](/nl/classpass-den-haag/)
+
+[Bekijk de studio's in Den Haag op ClassPass.](https://classpass.com/search/the-hague/fitness-classes/4bounoCSzVD)
+
 - Studio's door heel Den Haag: het centrum, Zeeheldenkwartier, Bezuidenhout, Scheveningen en langs de Laan van Meerdervoort
-- Vooral veel yoga en pilates (ook reformer en hot yoga), maar ook krachttraining en boksen
+- Vooral veel pilates en yoga (ook reformer en hot yoga), maar ook spinning, boksen, vechtsport, dans en surfles in Scheveningen
 - Ook studio's in Voorburg, Rijswijk, Leidschendam, Wassenaar en Delft
 
 <div class="knoppen">
