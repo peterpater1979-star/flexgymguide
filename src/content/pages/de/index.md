@@ -315,6 +315,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 - **[Basic-Fit kündigen](/de/basic-fit-kuendigen/)** · Fristen und Pause
 - **[clever fit kündigen](/de/clever-fit-kuendigen/)** · Fristen und Flex-Tarif
 - **[FitX kündigen](/de/fitx-kuendigen/)** · Fristen und Ruhezeit
+- **[Rostudios kündigen](/de/rostudios-kuendigen/)** · Unlimited, Frist und Pause
 - **[Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/)** · monatlich kündbare Optionen
 - **[Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/)** · was gilt und was du tun kannst
 

@@ -72,11 +72,12 @@ Bald kommen Roform-Studios in Berlin-Schöneberg, Köln-Lindenthal, Stuttgart un
 
 - **Unlimited:** 79 € pro Monat. Du buchst höchstens einen Kurs pro Tag und bis zu drei Wochen im Voraus. Die Laufzeit ist 12 Monate, abgebucht wird alle 28 Tage.
 - **Pro Kurs:** Du kaufst Einzelkurse oder ein Paket in der App. Es gibt auch Monats- und Jahresmitgliedschaften. Die Preise siehst du in der App von Rostudios.
-- **Zu spät abgesagt:** Sagst du mit Unlimited zu spät ab oder kommst nicht, zahlst du 10 €.
+- **Zu spät abgesagt:** Absagen geht bis 12 Stunden vor dem Kurs. Sagst du mit Unlimited später ab oder kommst nicht, zahlst du 10 €.
+- **Gültigkeit der Pakete:** ein Einzelkurs 1 Monat, 4 Kurse 3 Monate, 8 Kurse 6 Monate, 16 Kurse 9 Monate, 30 Kurse 12 Monate.
 
 <h2 id="kuendigen">Kündigen</h2>
 
-Unlimited läuft nach den ersten 12 Monaten weiter, bis du kündigst. Die Kündigungsfrist steht in den Bedingungen von Rostudios. Willst du dich gar nicht binden, kauf Einzelkurse oder ein Paket.
+Im ersten Jahr kannst du Unlimited nicht kündigen. Danach läuft die Mitgliedschaft unbefristet weiter und du kündigst jederzeit mit einem Monat Frist, in deinem Konto oder per E-Mail. Willst du dich gar nicht binden, kauf Einzelkurse oder ein Paket. Schritt für Schritt: [Rostudios kündigen](/de/rostudios-kuendigen/).
 
 ## Häufige Fragen
 
