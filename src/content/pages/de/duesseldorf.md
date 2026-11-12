@@ -36,10 +36,11 @@ Urban Sports Club gibt es auch in Düsseldorf. Ein Sportpass mit festem Preis pr
 
 ### ClassPass
 
-Ein Abo auf Credit-Basis für Reformer-Pilates, Barre und Yoga, von Pempelfort bis Oberkassel. Jederzeit kündbar.
+Ein Abo auf Credit-Basis für Reformer-Pilates, Barre und Yoga, von Pempelfort bis Oberkassel. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-duesseldorf">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>

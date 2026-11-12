@@ -36,10 +36,11 @@ Urban Sports Club gibt es auch in Hamburg. Ein Sportpass mit festem Preis pro Mo
 
 ### ClassPass
 
-Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Eppendorf, Eimsbüttel und Altona. Jederzeit kündbar.
+Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Eppendorf, Eimsbüttel und Altona. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-hamburg">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>

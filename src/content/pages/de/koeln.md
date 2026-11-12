@@ -36,10 +36,11 @@ Urban Sports Club gibt es auch in Köln. Ein Sportpass mit festem Preis pro Mona
 
 ### ClassPass
 
-Ein Abo auf Credit-Basis für Barre, Yoga, Kampfsport und Tanz, vom Belgischen Viertel bis Sülz. Jederzeit kündbar.
+Ein Abo auf Credit-Basis für Barre, Yoga, Kampfsport und Tanz, vom Belgischen Viertel bis Sülz. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-koeln">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
