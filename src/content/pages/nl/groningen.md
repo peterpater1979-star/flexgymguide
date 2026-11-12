@@ -107,8 +107,12 @@ BigGym heeft in Groningen een grote gym aan de Protonstraat, met kracht, cardio,
 
 In Groningen kost het standaardabonnement € 59 per maand voor 40 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
+[Bekijk de studio's in Groningen per buurt en per sport.](/nl/classpass-groningen/)
+
+[Bekijk de studio's in Groningen op ClassPass.](https://classpass.com/search/groningen/fitness-classes/3u16nFVBFFD)
+
 - Studio's in de binnenstad (onder meer rond de Oosterstraat, het Boterdiep en het Damsterdiep) en daarbuiten
-- Vooral krachttraining en gyms, maar ook pilates, spinning, yoga, boksen en dans
+- Vooral krachttraining en gyms, maar ook spinning bij Rocycle en Cyber cycle, pilates, yoga, HIIT, boksen en dans
 - Ook een yogastudio in Roden
 
 <div class="knoppen">

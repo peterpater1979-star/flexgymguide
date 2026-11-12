@@ -29,7 +29,7 @@ Groningen is a student city, and many international students would rather not si
 
 <h2 id="classpass">ClassPass: cancel any time</h2>
 
-With ClassPass you get credits every month for classes and gym visits at studios across Groningen. You are not tied down: you cancel whenever you want and keep training until the end of your month.
+With ClassPass you get credits every month for classes and gym visits at studios across Groningen. You are not tied down: you cancel whenever you want and keep training until the end of your month. Which studios there are, from spin to boxing, is on [ClassPass in Groningen](/nl/classpass-groningen/) (in Dutch).
 
 - **Plans in Groningen:** the standard plan is 40 credits for €59 a month. There are smaller and bigger plans in the app. See [ClassPass credits explained](/guides/classpass-credits/).
 - **Try it first:** 14 days free with 10 workouts. Read [Trying ClassPass for free](/guides/classpass-free-trial/).

@@ -28,7 +28,7 @@ Groningen is een echte studentenstad, en veel studenten zitten liever niet een j
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
-Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Groningen. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand.
+Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Groningen. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand. Welke studio's er zijn, van spinning tot boksen, zie je op [ClassPass in Groningen](/nl/classpass-groningen/).
 
 - **Abonnement in Groningen:** het standaardabonnement is 40 credits voor € 59 per maand. Er zijn kleinere en grotere abonnementen; die zie je in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 - **Eerst proberen:** 14 dagen gratis met 10 work-outs. Lees [ClassPass gratis proberen](/nl/classpass-proefperiode/).
