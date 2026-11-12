@@ -10,7 +10,7 @@ crumb: "ClassPass in Utrecht"
 kicker: "Aanbieder: sportpas"
 ---
 
-Utrecht heeft op ClassPass een groot aanbod, met de Oudegracht en de buurt rond het station als middelpunt. Yoga is er sterk, met meerdere studio's van Yoga Moves, waaronder twee voor hot yoga, en voor reformer-pilates heb je de keus uit grote en kleine studio's. Daarnaast vind je boksen, HYROX, paaldans en open gym bij Trainmore. Hieronder een selectie per buurt en per sport. De volledige, actuele lijst staat altijd op ClassPass zelf.
+Utrecht heeft op ClassPass een groot aanbod, met de Oudegracht en de buurt rond het station als middelpunt. Yoga is er sterk, met meerdere studio's van Yoga Moves, waaronder twee voor hot yoga, en voor reformer-pilates heb je de keus uit grote en kleine studio's. Daarnaast vind je boksen, HYROX, paaldans, buiten bootcampen in de parken en open gym bij Trainmore. Hieronder een selectie per buurt en per sport. De volledige, actuele lijst staat altijd op ClassPass zelf.
 
 <h2 id="kort">In het kort</h2>
 
@@ -22,7 +22,7 @@ Utrecht heeft op ClassPass een groot aanbod, met de Oudegracht en de buurt rond 
 | **Prijs per maand** | Standaardabonnement € 59 per maand (40 credits) |
 | **Uitproberen** | 14 dagen gratis, 10 workouts |
 | **Waar** | In de hele stad, van de binnenstad en het station tot Lombok, Oost, Zuilen, Overvecht, Rivierenwijk en Leidsche Rijn, plus Bilthoven, Maarssen, De Meern en Zeist |
-| **Wat je kunt doen** | Yoga en hot yoga, (reformer-)pilates, barre, spinning, HIIT, HYROX, boksen, vechtsport, paaldans en open gym |
+| **Wat je kunt doen** | Yoga en hot yoga, (reformer-)pilates, barre, spinning, HIIT, HYROX, boksen, vechtsport, paaldans, hardlopen, buiten bootcampen en open gym |
 
 </div>
 
@@ -56,6 +56,10 @@ Yoga bij Yoga Point Zuilen aan de Wallesteinlaan en boksen voor vrouwen bij WE B
 
 Yoga en pilates bij Yoga Moves aan de Musicallaan in Terwijde, en krachttraining, spinning en gym bij Sportcentrum De Meern.
 
+### Buiten trainen
+
+In het Griftpark geeft Gonna-B bootcamp in groepen van maximaal 16, in het Máximapark train je met Start To Finish en Sporten Voor je Deur traint buiten in een hele rij wijken, van Dichterswijk tot Tuinwijk, en ook in Houten en Bunnik. Voor hardlopen in een groep, met aandacht voor techniek, is er Flow-Motion.
+
 ### Rond Utrecht
 
 In Bilthoven zitten Trainmore (Black Label) en PILAT3S aan de Leyenseweg en yoga bij MIKA yoga & coffee. In Maarssen geeft Pilatique reformer- en matpilates alleen voor vrouwen, en in Zeist train je in kleine groepen bij GRIP.
@@ -69,12 +73,13 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - **[Barre](https://classpass.com/search/utrecht/barre-classes/3tQMButB6ej):** onder andere EQUAL en Balanzs
 - **[Spinning](https://classpass.com/search/utrecht/cycling-classes/4FhDNE3DoYb):** onder andere Rocycle in de Kaatstraat en WattCycling bij Lead Out Gym
 - **[HIIT](https://classpass.com/search/utrecht/hiit-classes/42pFnt1J2K1):** kijk ook bij The CLB, Gonna-B, Stadsgym en de HIIT Boxing-les van Reflex Training
-- **[Bootcamp](https://classpass.com/search/utrecht/bootcamp-classes/4u4DESbAakw):** kijk ook bij de groepslessen en HYROX van Dutch Gym, Lead Out Gym en EMPOWER
+- **[Bootcamp](https://classpass.com/search/utrecht/bootcamp-classes/4u4DESbAakw):** onder andere Gonna-B Outdoor in het Griftpark en Sporten Voor je Deur, en kijk ook bij de groepslessen en HYROX van Dutch Gym, Lead Out Gym en EMPOWER
 - **[Boksen](https://classpass.com/search/utrecht/boxing-classes/5eoCj2JP3ew):** onder andere Reflex Training, IMPACT Fit, EMPOWER, UDP FITNESS, en voor vrouwen WE Boxing & Health Club en Ladies Only Gym Proud
 - **[Vechtsport](https://classpass.com/search/utrecht/martial-arts-classes/5h78UixPYkf):** onder andere kickboksen, Brazilian jiu-jitsu en MMA bij IMPACT Fit
 - **[Dansen](https://classpass.com/search/utrecht/dance-classes/5effKezUzxX):** onder andere paaldans bij Studio Aeris en Aerial Studio
 - **[Open gym](https://classpass.com/search/utrecht/gym-time-classes/4Ymb4r2s6Y7):** onder andere [Trainmore](/nl/trainmore/) aan het Stationsplein, het Janskerkhof, in het Muntgebouw en in Bilthoven, plus De Workout, ALL INN Fitness & Health, COMMIT, Lead Out Gym en Elevate Lifestyle
-- **[Hardlopen](https://classpass.com/search/utrecht/running-classes/4Rm52hUUsX5)** en **[buitensporten](https://classpass.com/search/utrecht/outdoors-classes/3z9Vh8zi13u):** onder andere Flow Motion
+- **[Hardlopen](https://classpass.com/search/utrecht/running-classes/4Rm52hUUsX5):** onder andere looptrainingen in groepen bij Flow-Motion
+- **[Buitensporten](https://classpass.com/search/utrecht/outdoors-classes/3z9Vh8zi13u):** onder andere bootcamp bij Gonna-B in het Griftpark, Start To Finish in het Máximapark, Sporten Voor je Deur in wijken als Dichterswijk, Tuinwijk, Rivierenwijk en Nieuw Engeland, Futureu Training in Transwijk, Gbodyworkouts in Vleuten en tai chi bij Tai Chi B One
 - **[Roeien](https://classpass.com/search/utrecht/rowing-classes/55qPDXbjgcf):** klik voor de studio's die roeilessen geven
 
 <h2 id="tips">Tips</h2>
