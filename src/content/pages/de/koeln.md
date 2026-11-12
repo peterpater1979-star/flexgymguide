@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in Köln"
-seoTitle: "ClassPass Köln: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudio in Köln monatlich kündbar: deine Optionen"
 path: "/de/koeln/"
 description: "Flexibel trainieren in Köln: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 14 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -150,6 +150,8 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Wo
 
 Ein gutes Angebot, vor allem im Belgischen Viertel, in der Innenstadt, in der Südstadt, in Sülz und in Lindenthal. Eine kleine Auswahl: Barre bei GlowBarre, Drops Barre und JuunStudios, Reformer-Pilates bei Roform, Yoga bei Yoga Liebe und Indoor-Cycling bei Rocycle. Dazu Krafttraining bei BEAT81 und STORM Bootcamp und Tanz bei ON POINT.
+
+[Alle Studios in Köln nach Veedel und Sportart ansehen.](/de/classpass-koeln/)
 
 [Sieh dir die Studios in Köln auf ClassPass an.](/go/classpass-de-koeln/?epi=fgg-de-koeln)
 

@@ -67,6 +67,18 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 - **[Laufen](/go/classpass-de-frankfurt-laufen/?epi=fgg-de-classpass-frankfurt)** und **[Outdoor](/go/classpass-de-frankfurt-outdoor/?epi=fgg-de-classpass-frankfurt):** unter anderem Lauftreffs im Lyoner Quartier und in Höchst und buggyFit, das Outdoor-Workout mit Baby, in mehreren Parks
 - **[Gym](/go/classpass-de-frankfurt-gym/?epi=fgg-de-classpass-frankfurt):** unter anderem Happy Fitness, das INJOY in Offenbach und EASYFITNESS in Mörfelden-Walldorf
 
+<h3 id="tanz">Tanz in Frankfurt: welche Stile?</h3>
+
+| Stil | Wo, unter anderem |
+| --- | --- |
+| **Hip Hop** | Groove Dance Classes in der Wächtersbacher Straße |
+| **Bollywood** | BollyStep in der Marburger Straße, mit Fitness- und Choreo-Kursen |
+| **Aerial Dance** | Chromotion in der Flinschstraße (erst eine Schnupperstunde) |
+| **Pole Dance** | Pole and Art in Offenbach |
+| **Weitere** | Momento Cubano in Bockenheim und Ashanti Dance |
+
+[Alle Tanzkurse in Frankfurt auf ClassPass ansehen.](/go/classpass-de-frankfurt-tanzen/?epi=fgg-de-classpass-frankfurt)
+
 <h2 id="tipps">Tipps</h2>
 
 - Reformer-Kurse haben nur wenige Plätze. Beliebte Zeiten am Morgen und nach Feierabend sind schnell voll, also buch ein paar Tage im Voraus.

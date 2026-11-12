@@ -71,6 +71,10 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 - **[Outdoor](/go/classpass-de-duesseldorf-outdoor/?epi=fgg-de-classpass-duesseldorf)** und **[Laufen](/go/classpass-de-duesseldorf-laufen/?epi=fgg-de-classpass-duesseldorf):** unter anderem Original Bootcamp, Parkletix, Power Tiger, HYRAYSE und Running Krew in Krefeld
 - **[Gym](/go/classpass-de-duesseldorf-gym/?epi=fgg-de-classpass-duesseldorf):** unter anderem ELEVATE, Fitklusiv, die MOVE Kletterhalle und clever fit in Langenfeld
 
+<h3 id="tanz">Tanz in Düsseldorf</h3>
+
+Tanzkurse gibt es unter anderem bei ChriTa Sports in der Hüttenstraße (zusammen mit Kampfkunst und Fitness) und bei DoJumps Loft. Pole Dance, Aerial Hoop und Aerial Silks lernst du bei LIFT OFF in Mönchengladbach. [Alle Tanzkurse in Düsseldorf auf ClassPass ansehen.](/go/classpass-de-duesseldorf-tanzen/?epi=fgg-de-classpass-duesseldorf)
+
 <h2 id="tipps">Tipps</h2>
 
 - Reformer-Kurse haben nur wenige Plätze. Beliebte Zeiten am Morgen und nach Feierabend sind schnell voll, also buch ein paar Tage im Voraus.
