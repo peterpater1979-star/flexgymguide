@@ -88,24 +88,7 @@ Village Gym has two health clubs in Leeds: Leeds North in Headingley and Leeds S
 
 </div>
 
-<div id="overview">
-
-## ClassPass, The Gym Group and PureGym at a glance
-
-Prices and terms change regularly. Always check the latest details with the provider.
-
-| Feature | ClassPass | The Gym Group | PureGym |
-| --- | --- | --- | --- |
-| **Type** | Fitness pass with credits | Low-cost gym chain | Budget gym chain |
-| **Price per month** | Standard plan £49 a month (36 credits) | Budget prices that vary by gym. Choose Off-peak, Standard or Ultimate | From £18.99 (Off-Peak); varies by gym |
-| **How it works** | Monthly credits for classes and gym visits | Membership at your home gym, classes included. Ultimate adds access to other gyms | Membership at your home gym, classes included at most gyms |
-| **Locations in Leeds** | Studios in the city centre, Chapel Allerton, Kirkstall and Pudsey | 4 gyms (over 260 in the UK) | 8 gyms (over 450 in the UK) |
-| **Cancelling** | Change or cancel any time | No contract on monthly plans. Saver plans run 9 or 12 months | No contract, cancel any time |
-| **Try it first** | <span class="ja" aria-hidden="true">✓</span> 14 days free, 10 workouts | Day pass | – |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Yes, in 31 countries | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only | – |
-| **Find out more** | [All about ClassPass](/uk/classpass/) | [All about The Gym Group](/uk/the-gym-group/) | [All about PureGym](/uk/puregym/) |
-
-</div>
+<p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>
 
 <div class="kolommen">
 
@@ -161,7 +144,7 @@ The Gym Group has 4 gyms in Leeds: Crown Point, Headingley, Meanwood and York Ro
 
 ## PureGym in Leeds
 
-PureGym is a budget gym chain with over 450 gyms in the UK, including 8 gyms in Leeds. Most are open 24/7. Every plan is without a contract, prices start at £18.99 a month for Off-Peak, and classes are included at most gyms.
+PureGym has 8 gyms in Leeds, most open 24/7. No contract, from £18.99 a month for Off-Peak, with classes at most gyms.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>

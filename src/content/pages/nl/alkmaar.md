@@ -37,7 +37,7 @@ Pilates, yoga, krachttraining, boksen en dans met één abonnement op basis van 
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terborchlaan dag en nacht open is. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
+Voordelige sportschoolketen met 2 clubs in Alkmaar, waarvan de club aan de Terborchlaan dag en nacht open is. Vanaf € 24,99 per 4 weken, Flex € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>
@@ -61,20 +61,7 @@ BigGym heeft in Alkmaar een grote gym aan de Helderseweg, met kracht, cardio, ee
 
 </div>
 
-<h2 id="op-een-rij">ClassPass en Basic-Fit op een rij</h2>
-
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
-
-| Kenmerk | ClassPass | Basic-Fit |
-| --- | --- | --- |
-| **Soort** | Sportpas met credits | Voordelige sportschoolketen |
-| **Prijs per maand** | Standaardabonnement € 59 per maand (40 credits) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
-| **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Abonnement bij een sportschoolketen |
-| **Locaties in Alkmaar** | Studio's in en rond het centrum, plus Heerhugowaard en Heiloo | 2 clubs (meer dan 250 in Nederland) |
-| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Jaarabonnement, of Flex met 4 weken opzegtermijn |
-| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 workouts | – |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in alle clubs in 6 landen |
-| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Basic-Fit](/nl/basic-fit/) |
 
 <div id="classpass" class="aanbieder">
 
