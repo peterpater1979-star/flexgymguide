@@ -19,7 +19,7 @@ Rostudios ist ein Boutique-Studio mit Standorten in den Niederlanden, Belgien un
 | | Rostudios |
 | --- | --- |
 | **Art** | Boutique-Studio mit Kursen: Indoor-Cycling (Rocycle) und Reformer (Roform) |
-| **Studios** | Fünf in Berlin, je zwei in Köln, Hamburg und Düsseldorf, dazu Frankfurt und München |
+| **Studios** | Fünf in Berlin, je zwei in Köln, Hamburg, Düsseldorf und München, dazu Frankfurt |
 | **Unlimited** | 79 € pro Monat, ein Kurs pro Tag, 12 Monate Laufzeit |
 | **Pro Kurs** | <span class="ja" aria-hidden="true">✓</span> Einzelkurse und Kurspakete, Preis in der App |
 | **Ausprobieren** | Für Neukunden 2 Kurse für 22 € |
@@ -34,7 +34,7 @@ Rostudios ist ein Boutique-Studio mit Standorten in den Niederlanden, Belgien un
 
 ### Rocycle
 
-Ein Indoor-Cycling-Kurs von 45 Minuten zu Musik, für den ganzen Körper. Es gibt auch längere Fahrten und eine Variante mit Hanteln für den Oberkörper. In Deutschland in Berlin, Köln und Hamburg.
+Ein Indoor-Cycling-Kurs von 45 Minuten zu Musik, für den ganzen Körper. Es gibt auch längere Fahrten und eine Variante mit Hanteln für den Oberkörper. In Deutschland in Berlin, Köln, Hamburg und München.
 
 </div>
 
@@ -60,6 +60,7 @@ Ein Roform-Kurs dauert 50 Minuten auf dem Reformer. Du trainierst ruhig und im T
 | **Köln Friesenplatz** | Friesenplatz 10 | Rocycle |
 | **Köln Ebertplatz** | Ebertplatz 15-17 | Roform |
 | **München Schwabing** | Hohenzollernstraße 9 | Roform |
+| **München Maxvorstadt** | Theresienstraße 22 | Rocycle |
 | **Hamburg Altona** | Friedensallee 11 | Roform |
 | **Hamburg Hoheluft** | Hoheluftchaussee 59-61 | Rocycle |
 | **Frankfurt Bornheim** | Berger Straße 211 | Roform |
@@ -98,7 +99,7 @@ Ja, wenn du pro Kurs zahlst, mit Einzelkursen oder einem Paket. Nur Unlimited ha
 <details>
 <summary>Gibt es Rocycle in Deutschland?</summary>
 
-Ja, in Berlin (Mitte, Friedrichshain und Ku’damm) in Köln am Friesenplatz und in Hamburg-Hoheluft. In den anderen deutschen Städten bietet Rostudios Roform auf dem Reformer an.
+Ja, in Berlin (Mitte, Friedrichshain und Ku’damm) in Köln am Friesenplatz, in Hamburg-Hoheluft und in der Münchner Maxvorstadt. In Frankfurt und Düsseldorf gibt es nur Roform. 
 
 </details>
 
