@@ -99,7 +99,7 @@ Ja, unter anderem in den USA, Japan, Australien und Singapur. Die ganze Liste st
 <p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/205433735">ClassPass Hilfe-Center zum Reisen</a> und <a href="https://help.classpass.com/hc/en-us/articles/207942743">die Stornierungsregeln</a> (September 2026). Regeln können sich ändern; in der App siehst du, was jetzt gilt.</p>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-auf-reisen">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-auf-reisen">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
 <a class="knop knop-rand" href="/de/classpass-probezeit/">Probezeit von ClassPass erklärt</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>

@@ -82,7 +82,7 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 [Sieh dir die Studios in Hamburg auf ClassPass an.](/go/classpass-de-hamburg/?epi=fgg-de-classpass-hamburg)
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-hamburg">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-hamburg">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/hamburg/">Flexibel trainieren in Hamburg</a>
 </div>

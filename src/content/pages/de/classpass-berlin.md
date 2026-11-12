@@ -84,7 +84,7 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 [Sieh dir die Studios in Berlin auf ClassPass an.](/go/classpass-de-berlin/?epi=fgg-de-classpass-berlin)
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-berlin">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-berlin">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/berlin/">Flexibel trainieren in Berlin</a>
 </div>

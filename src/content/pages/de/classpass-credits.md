@@ -82,7 +82,7 @@ Ein paar Dinge, die das Buchen und Absagen leichter machen:
 
 <h2 id="wie-viele">Wie viele Credits brauchst du?</h2>
 
-Das hängt davon ab, wie oft du trainierst und welche Studios du magst. Starte mit dem kostenlosen Testzeitraum und notiere, wie viele Credits deine Lieblingskurse kosten. Multipliziere das mit der Zahl deiner Trainings pro Monat, und du siehst, welches Abo passt.
+Das hängt davon ab, wie oft du trainierst und welche Studios du magst. Starte mit dem Probemonat (1 Monat gratis mit 10 Workouts) und notiere, wie viele Credits deine Lieblingskurse kosten. Multipliziere das mit der Zahl deiner Trainings pro Monat, und du siehst, welches Abo passt.
 
 Du trainierst dreimal pro Woche oder öfter im selben Studio? Dann passt eine normale Mitgliedschaft vielleicht besser. Lies [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
@@ -110,7 +110,7 @@ Du bekommst deine Credits zurück, zahlst aber eine Gebühr. Das gilt, wenn du s
 </details>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-credits">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-credits">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/classpass-kuendigen/">ClassPass kündigen oder pausieren</a>
 <a class="knop knop-rand" href="/de/classpass-auf-reisen/">ClassPass auf Reisen</a>

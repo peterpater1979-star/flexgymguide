@@ -89,7 +89,7 @@ Nein. ClassPass hat keinen Studentenrabatt. Manche Arbeitgeber bieten ClassPass 
 <p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Hilfe-Center</a> (Januar 2026) und die Anmeldeseiten von ClassPass Deutschland, Österreich und Schweiz (Oktober 2026). Regeln können sich ändern, prüfe die aktuellen Angaben immer bei der Anmeldung oder in deinem Konto.</p>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-probezeit">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-probezeit">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
 <a class="knop knop-rand" href="/de/classpass-kuendigen/">ClassPass kündigen oder pausieren</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
