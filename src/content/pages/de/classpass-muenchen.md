@@ -84,9 +84,10 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - Wie viele Credits ein Kurs kostet, hängt vom Studio und von der Uhrzeit ab. Kurse außerhalb der Stoßzeiten sind oft günstiger.
 - Dein Münchner Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt.
 
-[Sieh dir die Studios in München auf ClassPass an.](https://classpass.com/search/munich/fitness-classes/5ibjGreKWLX)
+[Sieh dir die Studios in München auf ClassPass an.](/go/classpass-de-muenchen/?epi=fgg-de-classpass-muenchen)
 
 <div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-muenchen">ClassPass kostenlos testen</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/muenchen/">Flexibel trainieren in München</a>
 </div>

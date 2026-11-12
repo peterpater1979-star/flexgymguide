@@ -110,6 +110,7 @@ Du bekommst deine Credits zurück, zahlst aber eine Gebühr. Das gilt, wenn du s
 </details>
 
 <div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-credits">ClassPass kostenlos testen</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/classpass-kuendigen/">ClassPass kündigen oder pausieren</a>
 <a class="knop knop-rand" href="/de/classpass-auf-reisen/">ClassPass auf Reisen</a>

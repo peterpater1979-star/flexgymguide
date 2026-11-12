@@ -151,7 +151,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 Ein überschaubares Angebot. In Dortmund selbst gibt es Pilates und Yoga bei LiVeri Studio, Yoga bei Strahlkraft und Yoga-by-Linda, Lagree im Lagree Loft am Phoenixsee, Tanz bei Vi-Dance und Bootcamp draußen im Westpark bei Original Bootcamp. In der Umgebung kommen Reformer-Pilates bei Luma Room und Gym-Besuche bei Fitklusiv in Herne dazu, Yoga bei Strahlkraft und Yogability und Pilates bei The Pulseclub in Bochum und Gym-Besuche bei wellyou in Holzwickede.
 
-[Sieh dir die Studios in Dortmund auf ClassPass an.](https://classpass.com/search/dortmund/fitness-classes/5nTQZFeaDtB)
+[Sieh dir die Studios in Dortmund auf ClassPass an.](/go/classpass-de-dortmund/?epi=fgg-de-dortmund)
 
 ### Das bekommst du
 

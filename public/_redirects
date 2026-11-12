@@ -15,8 +15,30 @@
 
 /go/classpass-nl/  epi=:epi  https://classpass.com/  302
 /go/classpass-nl/            https://classpass.com/  302
-/go/classpass-de/  epi=:epi  https://classpass.com/  302
-/go/classpass-de/            https://classpass.com/  302
+# ClassPass DE goedgekeurd bij Tradedoubler (programma 374022, site 3504126), 12-11-2026
+/go/classpass-de/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi  302
+/go/classpass-de/            https://clk.tradedoubler.com/click?p=374022&a=3504126  302
+# Deeplinks per Duitse stad (Tradedoubler &url= met de ClassPass-zoekpagina van die stad)
+/go/classpass-de-berlin/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fberlin%2Ffitness-classes%2F5275bm9hp3q  302
+/go/classpass-de-berlin/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fberlin%2Ffitness-classes%2F5275bm9hp3q  302
+/go/classpass-de-hamburg/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fhamburg%2Ffitness-classes%2F3yrbeRao6Sb  302
+/go/classpass-de-hamburg/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fhamburg%2Ffitness-classes%2F3yrbeRao6Sb  302
+/go/classpass-de-muenchen/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmunich%2Ffitness-classes%2F5ibjGreKWLX  302
+/go/classpass-de-muenchen/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmunich%2Ffitness-classes%2F5ibjGreKWLX  302
+/go/classpass-de-stuttgart/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fstuttgart%2Ffitness-classes%2F4VPmKStLP8B  302
+/go/classpass-de-stuttgart/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fstuttgart%2Ffitness-classes%2F4VPmKStLP8B  302
+/go/classpass-de-frankfurt/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ffrankfurt%2Ffitness-classes%2F62iciBov2fR  302
+/go/classpass-de-frankfurt/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ffrankfurt%2Ffitness-classes%2F62iciBov2fR  302
+/go/classpass-de-darmstadt/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdarmstadt%2Ffitness-classes%2F5GMybpVKYvs  302
+/go/classpass-de-darmstadt/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdarmstadt%2Ffitness-classes%2F5GMybpVKYvs  302
+/go/classpass-de-koeln/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fcologne%2Ffitness-classes%2F4QTzWpMNzFh  302
+/go/classpass-de-koeln/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fcologne%2Ffitness-classes%2F4QTzWpMNzFh  302
+/go/classpass-de-leipzig/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fleipzig%2Ffitness-classes%2F4Kt3iBBecUF  302
+/go/classpass-de-leipzig/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fleipzig%2Ffitness-classes%2F4Kt3iBBecUF  302
+/go/classpass-de-dortmund/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdortmund%2Ffitness-classes%2F5nTQZFeaDtB  302
+/go/classpass-de-dortmund/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdortmund%2Ffitness-classes%2F5nTQZFeaDtB  302
+/go/classpass-de-duesseldorf/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdsseldorf%2Ffitness-classes%2F4jqqNAEmdZZ  302
+/go/classpass-de-duesseldorf/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdsseldorf%2Ffitness-classes%2F4jqqNAEmdZZ  302
 /go/classpass-uk/  epi=:epi  https://classpass.com/  302
 /go/classpass-uk/            https://classpass.com/  302
 # ClassPass FR goedgekeurd bij Tradedoubler (programma 374042, site 3504154), 27-10-2026

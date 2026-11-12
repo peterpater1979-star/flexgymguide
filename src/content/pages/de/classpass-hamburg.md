@@ -79,9 +79,10 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - Manche Studios wollen, dass du den Termin vorher telefonisch oder über ihr eigenes Buchungssystem bestätigst. Lies die Hinweise beim Studio, bevor du buchst.
 - Dein Hamburger Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt.
 
-[Sieh dir die Studios in Hamburg auf ClassPass an.](https://classpass.com/search/hamburg/fitness-classes/3yrbeRao6Sb)
+[Sieh dir die Studios in Hamburg auf ClassPass an.](/go/classpass-de-hamburg/?epi=fgg-de-classpass-hamburg)
 
 <div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-hamburg">ClassPass kostenlos testen</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/hamburg/">Flexibel trainieren in Hamburg</a>
 </div>
