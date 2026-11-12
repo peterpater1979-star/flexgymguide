@@ -10,7 +10,7 @@ crumb: "Haarlem"
 kicker: "Stadsgids Haarlem"
 ---
 
-Haarlem heeft op ClassPass een kleiner aanbod, met yoga, pilates en dans, maar met hetzelfde abonnement train je ook in Amsterdam, een kwartier met de trein. Liever een vaste club? SportCity, Trainmore en Basic-Fit zitten in de stad. Hieronder zie je wat elk kost en hoe je opzegt. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Haarlem](/nl/sporten-zonder-contract-haarlem/).
+Haarlem heeft op ClassPass vooral veel reformer-pilates in en rond het centrum, plus hot yoga, kickboksen, dans en bootcamp in het Florapark, en met hetzelfde abonnement train je ook in Amsterdam, een kwartier met de trein. Liever een vaste club? SportCity, Trainmore en Basic-Fit zitten in de stad. Hieronder zie je wat elk kost en hoe je opzegt. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Haarlem](/nl/sporten-zonder-contract-haarlem/).
 
 <h2 id="kort">In het kort</h2>
 
@@ -22,7 +22,7 @@ Haarlem heeft op ClassPass een kleiner aanbod, met yoga, pilates en dans, maar m
 
 ### ClassPass
 
-Yoga, pilates en dans met één abonnement op basis van credits, en met hetzelfde abonnement veel meer keuze in Amsterdam.
+Vooral (reformer) pilates, maar ook hot yoga, kickboksen en dans, met één abonnement op basis van credits. Ook te gebruiken in Amsterdam.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
@@ -93,7 +93,9 @@ Eigen clubs met gym en groepslessen: 1 in Haarlem, 53 in heel Nederland. Bij Hor
 
 In Haarlem kost het standaardabonnement € 69 per maand voor 47 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
-- Een kleiner aanbod in Haarlem zelf, zoals yoga en pilates in het centrum en dansles
+[Bekijk de studio's in Haarlem per buurt en per sport.](/nl/classpass-haarlem/)
+
+- Vooral (reformer) pilates in en rond het centrum, maar ook hot yoga, barre, kickboksen, dans, bootcamp en open gym bij Trainmore
 - Werk of woon je ook in Amsterdam? Daar heb je met hetzelfde abonnement veel meer keuze
 - Ook studio's in Beverwijk, Aalsmeer en Sassenheim
 

@@ -27,7 +27,7 @@ In Haarlem is de keus kleiner dan in Amsterdam, maar je kunt prima zonder jaarco
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
-Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Haarlem. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand.
+Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Haarlem. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand. Welke studio's er zijn, van reformer-pilates tot kickboksen, zie je op [ClassPass in Haarlem](/nl/classpass-haarlem/).
 
 - **Abonnement in Haarlem:** het standaardabonnement is 47 credits voor € 69 per maand, net als in Amsterdam. Er zijn kleinere en grotere abonnementen; die zie je in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 - **Eerst proberen:** 14 dagen gratis met 10 work-outs. Lees [ClassPass gratis proberen](/nl/classpass-proefperiode/).

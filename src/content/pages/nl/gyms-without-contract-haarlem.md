@@ -28,7 +28,7 @@ Haarlem has less choice than Amsterdam, but you can easily train without a yearl
 
 <h2 id="classpass">ClassPass: cancel any time</h2>
 
-With ClassPass you get credits every month for classes and gym visits at studios across Haarlem. You are not tied down: you cancel whenever you want and keep training until the end of your month.
+With ClassPass you get credits every month for classes and gym visits at studios across Haarlem. You are not tied down: you cancel whenever you want and keep training until the end of your month. Which studios there are, from reformer Pilates to kickboxing, is on [ClassPass in Haarlem](/nl/classpass-haarlem/) (in Dutch).
 
 - **Plans in Haarlem:** the standard plan is 47 credits for €69 a month, the same as in Amsterdam. There are smaller and bigger plans in the app. See [ClassPass credits explained](/guides/classpass-credits/).
 - **Try it first:** 14 days free with 10 workouts. Read [Trying ClassPass for free](/guides/classpass-free-trial/).
