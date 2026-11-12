@@ -116,7 +116,7 @@ Anytime Fitness heeft in Rotterdam een club op de Kop van Zuid, die 24 uur per d
 
 <h3>Rostudios</h3>
 
-Rostudios geeft Rocycle, indoor cycling op muziek, aan de Mariniersweg in het centrum. Unlimited kost € 79 per maand met 12 maanden looptijd, of je betaalt per les.
+Rostudios heeft Rocycle (indoor cycling) en Roform (reformer) aan de Mariniersweg, en Roform aan de Bredestraathof. Unlimited kost € 79 per maand met 12 maanden looptijd.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>
