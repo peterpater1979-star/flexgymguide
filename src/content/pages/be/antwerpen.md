@@ -74,6 +74,20 @@ Sportschoolketen met 3 clubs in Antwerpen, met fitness en groepslessen met een c
 
 </div>
 
+<div id="rostudios" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Boutique studio</span></div>
+
+<h3>Rostudios</h3>
+
+Rostudios geeft Roform, lessen op de reformer, aan de Frankrijklei in de Theaterbuurt. Unlimited kost € 49 per maand met 12 maanden looptijd, of je betaalt per les.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/rostudios/">Alles over Rostudios</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overzicht">

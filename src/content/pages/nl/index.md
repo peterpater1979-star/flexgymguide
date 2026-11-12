@@ -91,21 +91,21 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 
 </div>
 
-<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym en Anytime Fitness. <a href="#andere">Bekijk de andere sportscholen</a></p>
+<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness en Rostudios. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <div id="steden">
 
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness</span></li>
-<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness</span></li>
-<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness</span></li>
-<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness · Rostudios</span></li>
+<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness · Rostudios</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios</span></li>
 <li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
 <li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore · SportCity</span></li>
 <li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios</span></li>
 <li><a href="/nl/alkmaar/"><strong>Alkmaar</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym</span></li>
 <li><a href="/nl/arnhem/"><strong>Arnhem</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
 <li><a href="/nl/nijmegen/"><strong>Nijmegen</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym</span></li>
@@ -207,6 +207,24 @@ Kleine sportscholen die dag en nacht open zijn, onder meer in Amsterdam, Rotterd
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios"><span>Boutique studio</span></div>
+
+### Rostudios
+
+Indoor cycling (Rocycle) en reformer (Roform) in Amsterdam, Rotterdam, Den Haag, Utrecht en Groningen. Unlimited € 79 per maand, of per les.
+
+- Goed als je van spinning of reformer houdt
+- Unlimited: 12 maanden vast
+- Nieuwe klanten: 2 lessen voor € 22
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>
 </div>
 
 </div>

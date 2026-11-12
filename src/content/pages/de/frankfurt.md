@@ -101,6 +101,20 @@ Basic-Fit hat in Frankfurt Clubs am Grüneburgweg und an der Europa-Allee. Ab 24
 
 </div>
 
+<div id="rostudios" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Reformer-Studio</span></div>
+
+<h3>Rostudios</h3>
+
+Rostudios hat in Bornheim ein Studio für Roform, Reformer-Kurse ähnlich wie Pilates. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -185,6 +199,7 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 | --- | --- | --- | --- |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Höchst) |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
+| **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 1 Reformer-Studio (Bornheim) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

@@ -96,6 +96,20 @@ BigGym heeft in Utrecht een grote gym aan de Proostwetering, met kracht, cardio,
 
 </div>
 
+<div id="rostudios" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Boutique studio</span></div>
+
+<h3>Rostudios</h3>
+
+Rostudios geeft Roform, lessen op de reformer die op pilates lijken, aan het Moreelsepark bij het station. Unlimited kost € 79 per maand met 12 maanden looptijd.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>

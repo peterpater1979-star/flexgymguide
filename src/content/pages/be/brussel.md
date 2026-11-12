@@ -74,6 +74,20 @@ Sportschoolketen met 8 clubs in Brussel, met fitness en groepslessen met een coa
 
 </div>
 
+<div id="rostudios" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios"><span>Boutique studio</span></div>
+
+<h3>Rostudios</h3>
+
+Rostudios heeft in Elsene een studio met Rocycle (indoor cycling) en Roform (reformer). Unlimited kost € 79 per maand met 12 maanden looptijd, of je betaalt per les.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/rostudios/">Alles over Rostudios</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overzicht">
