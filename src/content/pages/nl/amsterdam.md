@@ -144,7 +144,7 @@ Anytime Fitness heeft in Amsterdam een club op de Zuidas, die 24 uur per dag ope
 
 <h3>Rostudios</h3>
 
-Rostudios geeft Rocycle, indoor cycling op muziek, in De Pijp aan de Ceintuurbaan. Unlimited kost € 79 per maand met 12 maanden looptijd, of je betaalt per les.
+Rostudios heeft vijf studio's in Amsterdam: Rocycle (indoor cycling) bij het Leidseplein, in De Pijp, Oost en op de Zuidas, en Roform (reformer) in Noord. Unlimited kost € 79 per maand met 12 maanden looptijd.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>

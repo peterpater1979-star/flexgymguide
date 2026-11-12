@@ -19,7 +19,7 @@ Rostudios is een boutique studio met twee soorten lessen: Rocycle, indoor cyclin
 | | Rostudios |
 | --- | --- |
 | **Soort** | Boutique studio met groepslessen: indoor cycling (Rocycle) en reformer (Roform) |
-| **Studio's** | Amsterdam, Rotterdam, Den Haag, Utrecht en Groningen |
+| **Studio's** | Vijf in Amsterdam, en verder Rotterdam, Den Haag, Utrecht en Groningen |
 | **Unlimited** | € 79 per maand, één les per dag, 12 maanden vast |
 | **Per les** | <span class="ja" aria-hidden="true">✓</span> Losse lessen en lespakketten, prijs in de app |
 | **Uitproberen** | Voor nieuwe klanten 2 lessen voor € 22 |
@@ -52,13 +52,17 @@ Een les van 50 minuten op de reformer, rustig en op je ademhaling, met veel krac
 
 | Studio | Adres | Lessen |
 | --- | --- | --- |
+| **Amsterdam City** | Nieuwe Passeerdersstraat 12, bij het Leidseplein | Rocycle |
 | **Amsterdam De Pijp** | Ceintuurbaan 77-79 | Rocycle |
+| **Amsterdam Oost** | Eerste Oosterparkstraat 92 | Rocycle |
+| **Amsterdam Zuidas** | Gustav Mahlerlaan 635 | Rocycle |
+| **Amsterdam Noord** | Klaprozenweg 36 C1 | Roform |
 | **Rotterdam City** | Mariniersweg 39-41 | Rocycle |
 | **Den Haag City** | In het centrum | Roform |
 | **Utrecht Moreelsepark** | Moreelsepark 11, bij het station | Roform |
 | **Groningen City** | Boterdiep 5-7 | Rocycle |
 
-Er komen studio's bij, onder meer een Roform-studio aan de Bredestraathof in Rotterdam en een in Eindhoven. Het actuele overzicht zie je op de site van Rostudios.
+De studio's in Amsterdam zijn elke dag open van 6.30 tot 21.15 uur. Er komen studio's bij, onder meer een Roform-studio aan de Bredestraathof in Rotterdam en een in Eindhoven. Het actuele overzicht zie je op de site van Rostudios.
 
 <h2 id="prijzen">Unlimited en losse lessen</h2>
 
