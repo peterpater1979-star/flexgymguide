@@ -22,7 +22,7 @@ kicker: "Guide ville Nice"
 
 ### ClassPass
 
-Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédits, dans des studios partout en ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
+Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-nice">Profitez de 10 séances gratuites en 14 jours</a>
@@ -37,7 +37,7 @@ Yoga, Pilates, renforcement musculaire et plus avec un seul abonnement à crédi
 
 <h3 id="urban-sports-club-nice">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Nice. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Nice.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
@@ -51,7 +51,7 @@ Urban Sports Club est aussi présent à Nice. C’est un pass sport avec un prix
 
 ### Basic-Fit
 
-Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Dès 24,99 € toutes les 4 semaines avec engagement d’un an, ou Flex sans engagement pour 9,99 € de plus.
+Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaines sur un an, ou Flex sans engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/basic-fit/">Voir Basic-Fit</a>
@@ -65,7 +65,7 @@ Salle de sport à petit prix, avec plus de 300 clubs en France, souvent ouverts 
 
 ### Fitness Park
 
-Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clubs 24h/24. Sans engagement Classic 40 €, Access+ 55 € ou Ultimate 60 € toutes les 4 semaines ; 10 € de moins avec engagement.
+Cours collectifs, ouvert 7j/7. Sans engagement dès 40 € toutes les 4 semaines, 10 € de moins avec engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/fitness-park/">Voir Fitness Park</a>
@@ -79,7 +79,7 @@ Salle de sport avec cours collectifs, ouverte 7j/7 de 6h à 23h, et certains clu
 
 ### Keepcool
 
-Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
+Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un an, ou 44,99 € sans engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
@@ -131,24 +131,7 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
-<div id="apercu">
-
-## ClassPass, Basic-Fit, Fitness Park et Keepcool en un coup d’œil
-
-Les prix et conditions changent régulièrement. Vérifie toujours la situation actuelle auprès du prestataire.
-
-| | ClassPass | Basic-Fit | Fitness Park | Keepcool |
-| --- | --- | --- | --- | --- |
-| **Type** | Pass sport à crédits | Salle de sport à petit prix | Salle de sport avec cours collectifs | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 24,99 € toutes les 4 semaines avec engagement d’un an, Flex sans engagement 9,99 € de plus | Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement ; 10 € de moins avec engagement | Dès 29,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
-| **Engagement** | Aucun, résiliable à tout moment | Un an, ou Flex avec 4 semaines de préavis | Avec ou sans engagement | Un an, ou sans engagement |
-| **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | Selon le club | Selon le club | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Avec Premium ou Ultimate, dans tous les clubs de 6 pays | Clubs aussi en Espagne | Une salle à Bruxelles |
-| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Basic-Fit](/fr/basic-fit/) | [Tout sur Fitness Park](/fr/fitness-park/) | [Tout sur Keepcool](/fr/keepcool/) |
-
-<p class="klein">Prix d’octobre 2026. Basic-Fit, Fitness Park et Keepcool : prix nationaux en France, qui peuvent varier selon le club.</p>
-
-</div>
+<p class="klein">Prix d’octobre 2026, qui peuvent varier selon le club. Vérifie toujours la situation actuelle auprès du prestataire.</p>
 
 <div class="kolommen">
 

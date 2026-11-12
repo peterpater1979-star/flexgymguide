@@ -24,7 +24,7 @@ L’offre ClassPass à La Rochelle est encore petite : pour l’instant surtout 
 
 ### ClassPass
 
-Des cours et des séances en salle avec un seul abonnement à crédits, dans des studios de la ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
+Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-la-rochelle">Profitez de 10 séances gratuites en 14 jours</a>
@@ -39,7 +39,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits, dans des
 
 <h3 id="urban-sports-club-la-rochelle">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à La Rochelle. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à La Rochelle.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
@@ -53,7 +53,7 @@ Urban Sports Club est aussi présent à La Rochelle. C’est un pass sport avec 
 
 ### Keepcool
 
-Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en France. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
+Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un an, ou 44,99 € sans engagement.
 
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
@@ -63,24 +63,7 @@ Salle de sport avec coachs et cours en petits groupes, plus de 270 salles en Fra
 
 </div>
 
-<div id="apercu">
-
-## ClassPass et Keepcool en un coup d’œil
-
-Les prix et conditions changent régulièrement. Vérifie toujours la situation actuelle auprès du prestataire.
-
-| | ClassPass | Keepcool |
-| --- | --- | --- |
-| **Type** | Pass sport à crédits | Salle de sport avec coachs |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) | Dès 29,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement |
-| **Engagement** | Aucun, résiliable à tout moment | Un an, ou sans engagement |
-| **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances | <span class="ja" aria-hidden="true">✓</span> Une séance d’essai gratuite |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays | Une salle à Bruxelles |
-| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) | [Tout sur Keepcool](/fr/keepcool/) |
-
-<p class="klein">Prix d’octobre 2026. Keepcool : prix national en France, qui peut varier selon la zone.</p>
-
-</div>
+<p class="klein">Prix d’octobre 2026, qui peuvent varier selon le club. Vérifie toujours la situation actuelle auprès du prestataire.</p>
 
 <div class="kolommen">
 
