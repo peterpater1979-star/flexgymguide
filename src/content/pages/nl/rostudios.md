@@ -2,7 +2,7 @@
 title: "Rostudios: indoor cycling en reformer in Nederland"
 seoTitle: "Rostudios: Rocycle en Roform, prijzen en studio's"
 path: "/nl/rostudios/"
-description: "Alles over Rostudios in Nederland: Rocycle (indoor cycling) en Roform (reformer) in Amsterdam, Rotterdam, Den Haag, Utrecht en Groningen. Unlimited, losse lessen en proberen."
+description: "Alles over Rostudios in Nederland: Rocycle (indoor cycling) en Roform (reformer) in Amsterdam, Rotterdam, Den Haag, Utrecht en Groningen. Unlimited, losse lessen en opzeggen."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"
@@ -22,9 +22,8 @@ Rostudios is een boutique studio met twee soorten lessen: Rocycle, indoor cyclin
 | **Studio's** | Vijf in Amsterdam, drie in Utrecht, twee in Rotterdam, en verder Den Haag en Groningen |
 | **Unlimited** | € 79 per maand, één les per dag, 12 maanden vast |
 | **Per les** | <span class="ja" aria-hidden="true">✓</span> Losse lessen en lespakketten, prijs in de app |
-| **Uitproberen** | Voor nieuwe klanten 2 lessen voor € 22 |
 
-<p class="klein">Bron: ro-studios.com, de pagina's over studio's, Unlimited en nieuwe klanten (november 2026). Controleer de actuele prijs altijd bij Rostudios.</p>
+<p class="klein">Bron: ro-studios.com, de pagina's over studio's en Unlimited (november 2026). Controleer de actuele prijs altijd bij Rostudios.</p>
 
 <h2 id="lessen">Rocycle en Roform</h2>
 
@@ -71,7 +70,6 @@ De studio's in Amsterdam zijn elke dag open van 6.30 tot 21.15 uur. Er komen stu
 
 - **Unlimited:** € 79 per maand. Je boekt maximaal één les per dag en tot drie weken vooruit. Je zit 12 maanden vast en je betaalt elke 28 dagen.
 - **Per les:** je koopt losse lessen of een pakket in de app. Er zijn ook maand- en jaarlidmaatschappen. De prijzen zie je in de app van Rostudios.
-- **Nieuwe klanten:** 2 lessen voor € 22, om Rocycle en Roform te proberen.
 - **Te laat afmelden:** meld je je met Unlimited te laat af of kom je niet, dan betaal je € 10.
 
 <h2 id="opzeggen">Opzeggen</h2>
@@ -83,7 +81,7 @@ Unlimited loopt na de eerste 12 maanden door tot je opzegt. De opzegtermijn staa
 <details open>
 <summary>Wat kost Rostudios?</summary>
 
-Unlimited kost € 79 per maand met een looptijd van 12 maanden. Nieuwe klanten proberen 2 lessen voor € 22. Losse lessen en pakketten koop je in de app (november 2026).
+Unlimited kost € 79 per maand met een looptijd van 12 maanden. Losse lessen en pakketten koop je in de app (november 2026).
 
 </details>
 

@@ -2,7 +2,7 @@
 title: "Rostudios: indoor cycling en reformer in België"
 seoTitle: "Rostudios Brussel en Antwerpen: prijzen en studio's"
 path: "/be/rostudios/"
-description: "Alles over Rostudios in België: Rocycle (indoor cycling) en Roform (reformer) in Brussel en Antwerpen. Unlimited, losse lessen, proberen en Urban Sports Club."
+description: "Alles over Rostudios in België: Rocycle (indoor cycling) en Roform (reformer) in Brussel en Antwerpen. Unlimited, losse lessen en Urban Sports Club."
 lang: nl
 land: be
 byline: "Bijgewerkt in november 2026"
@@ -22,9 +22,8 @@ Rostudios is een boutique studio met twee soorten lessen: Rocycle, indoor cyclin
 | **Studio's** | Brussel Elsene (Rocycle en Roform) en Antwerpen Theaterbuurt (Roform) |
 | **Unlimited** | Brussel € 79 per maand, Antwerpen € 49 per maand (alleen reformer), 12 maanden vast |
 | **Per les** | <span class="ja" aria-hidden="true">✓</span> Losse lessen en lespakketten, prijs in de app |
-| **Uitproberen** | Voor nieuwe klanten 2 lessen voor € 22 |
 
-<p class="klein">Bron: ro-studios.com, de pagina's over studio's, Unlimited en nieuwe klanten (november 2026). Controleer de actuele prijs altijd bij Rostudios.</p>
+<p class="klein">Bron: ro-studios.com, de pagina's over studio's en Unlimited (november 2026). Controleer de actuele prijs altijd bij Rostudios.</p>
 
 <h2 id="lessen">Rocycle en Roform</h2>
 
@@ -63,7 +62,6 @@ Het actuele overzicht zie je op de site van Rostudios.
 - **Unlimited Antwerpen:** € 49 per maand, voor Roform.
 - **Voorwaarden Unlimited:** je boekt maximaal één les per dag en tot drie weken vooruit. Je zit 12 maanden vast en je betaalt elke 28 dagen. Meld je je te laat af of kom je niet, dan betaal je € 10.
 - **Per les:** je koopt losse lessen of een pakket in de app. Er zijn ook maand- en jaarlidmaatschappen. De prijzen zie je in de app van Rostudios.
-- **Nieuwe klanten:** 2 lessen voor € 22.
 
 <h2 id="opzeggen">Opzeggen</h2>
 
@@ -74,7 +72,7 @@ Unlimited loopt na de eerste 12 maanden door tot je opzegt. De opzegtermijn staa
 <details open>
 <summary>Wat kost Rostudios in België?</summary>
 
-Unlimited kost € 79 per maand in Brussel en € 49 per maand in Antwerpen, met een looptijd van 12 maanden. Nieuwe klanten proberen 2 lessen voor € 22 (november 2026).
+Unlimited kost € 79 per maand in Brussel en € 49 per maand in Antwerpen, met een looptijd van 12 maanden (november 2026).
 
 </details>
 

@@ -221,7 +221,7 @@ Indoor cycling (Rocycle) en reformer (Roform) in Amsterdam, Rotterdam, Den Haag,
 
 - Goed als je van spinning of reformer houdt
 - Unlimited: 12 maanden vast
-- Nieuwe klanten: 2 lessen voor € 22
+- Ook losse lessen en pakketten
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>

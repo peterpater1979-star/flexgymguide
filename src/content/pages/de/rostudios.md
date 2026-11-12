@@ -2,7 +2,7 @@
 title: "Rostudios: Indoor-Cycling und Reformer in Deutschland"
 seoTitle: "Rostudios: Rocycle und Roform, Preise und Studios"
 path: "/de/rostudios/"
-description: "Alles über Rostudios in Deutschland: Rocycle (Indoor-Cycling) und Roform (Reformer) in Berlin, Köln, München, Hamburg, Frankfurt und Düsseldorf. Unlimited, Einzelkurse und Probieren."
+description: "Alles über Rostudios in Deutschland: Rocycle (Indoor-Cycling) und Roform (Reformer) in Berlin, Köln, München, Hamburg, Frankfurt und Düsseldorf. Unlimited, Einzelkurse und Kündigen."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -22,9 +22,8 @@ Rostudios ist ein Boutique-Studio mit Standorten in den Niederlanden, Belgien un
 | **Studios** | Fünf in Berlin, je zwei in Köln, Hamburg, Düsseldorf und München, dazu Frankfurt |
 | **Unlimited** | 79 € pro Monat, ein Kurs pro Tag, 12 Monate Laufzeit |
 | **Pro Kurs** | <span class="ja" aria-hidden="true">✓</span> Einzelkurse und Kurspakete, Preis in der App |
-| **Ausprobieren** | Für Neukunden 2 Kurse für 22 € |
 
-<p class="klein">Quelle: ro-studios.com, die Seiten zu Studios, Unlimited und Neukunden (November 2026). Prüfe den aktuellen Preis immer bei Rostudios.</p>
+<p class="klein">Quelle: ro-studios.com, die Seiten zu Studios und Unlimited (November 2026). Prüfe den aktuellen Preis immer bei Rostudios.</p>
 
 <h2 id="kurse">Rocycle und Roform</h2>
 
@@ -73,7 +72,6 @@ Bald kommen Roform-Studios in Berlin-Schöneberg, Köln-Lindenthal, Stuttgart un
 
 - **Unlimited:** 79 € pro Monat. Du buchst höchstens einen Kurs pro Tag und bis zu drei Wochen im Voraus. Die Laufzeit ist 12 Monate, abgebucht wird alle 28 Tage.
 - **Pro Kurs:** Du kaufst Einzelkurse oder ein Paket in der App. Es gibt auch Monats- und Jahresmitgliedschaften. Die Preise siehst du in der App von Rostudios.
-- **Neukunden:** 2 Kurse für 22 €.
 - **Zu spät abgesagt:** Sagst du mit Unlimited zu spät ab oder kommst nicht, zahlst du 10 €.
 
 <h2 id="kuendigen">Kündigen</h2>
@@ -85,7 +83,7 @@ Unlimited läuft nach den ersten 12 Monaten weiter, bis du kündigst. Die Kündi
 <details open>
 <summary>Was kostet Rostudios?</summary>
 
-Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit. Neukunden probieren 2 Kurse für 22 €. Einzelkurse und Pakete kaufst du in der App (November 2026).
+Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit. Einzelkurse und Pakete kaufst du in der App (November 2026).
 
 </details>
 
