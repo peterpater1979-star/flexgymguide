@@ -5,12 +5,12 @@ path: "/de/duesseldorf/"
 description: "Flexibel trainieren in Düsseldorf: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 5 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Düsseldorf"
 kicker: "Stadtguide Düsseldorf"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Düsseldorf trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
+In Düsseldorf findest du auf ClassPass viel Reformer-Pilates, Barre und Yoga, vor allem in der Innenstadt, in Pempelfort, Unterbilk, Flingern und Oberkassel, und im Rheinpark trainierst du draußen. Für ein festes Gym gibt es Fitness First mit 5 Clubs, Holmes Place mit 3 Clubs, FitX, JOHN REED und McFit. Hier siehst du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -36,7 +36,7 @@ Urban Sports Club gibt es auch in Düsseldorf. Ein Sportpass mit festem Preis pr
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
+Ein Abo auf Credit-Basis für Reformer-Pilates, Barre und Yoga, von Pempelfort bis Oberkassel. Jederzeit kündbar.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
@@ -145,7 +145,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 ## ClassPass in Düsseldorf
 
-Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
+In Düsseldorf liegen viele ClassPass-Studios in der Innenstadt, in Pempelfort und in Unterbilk, mit viel Reformer-Pilates und Barre. Im Rheinpark Golzheim gibt es Outdoor-Bootcamps, und mit demselben Abo trainierst du auch in Neuss, Meerbusch und Wuppertal.
 
 ### Wo
 
@@ -157,21 +157,7 @@ Ein gutes Angebot, vor allem in der Innenstadt, in Carlstadt, Pempelfort, Unterb
 
 ### Das bekommst du
 
-- Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo in Düsseldorf: 42 Credits für 59 € im Monat
-- 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
-
-### Gut für
-
-- Alle, die gern verschiedene Sportarten ausprobieren
-- Alle, die ein- bis dreimal pro Woche trainieren
-- Expats und Vielreisende
-
-### Achte darauf
-
-- Die Credits pro Kurs unterscheiden sich je nach Studio und Uhrzeit
-- Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
+Das Standard-Abo kostet in Düsseldorf 59 € im Monat für 42 Credits. Neu bei ClassPass? Dann testest du zuerst 1 Monat gratis mit 10 Workouts. Wie die Credits funktionieren, liest du unter [ClassPass-Credits erklärt](/de/classpass-credits/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
@@ -190,23 +176,6 @@ Ein gutes Angebot, vor allem in der Innenstadt, in Carlstadt, Pempelfort, Unterb
 ## Fitness First in Düsseldorf
 
 Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 5 in Düsseldorf. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
-
-### Das bekommst du
-
-- Zugang zu allen oder ausgewählten Clubs, je nach Mitgliedschaft
-- Großes Kursprogramm, unter anderem HYROX, Les Mills, Yoga und Aqua
-- Wellnessbereich, in einigen Clubs auch ein Schwimmbad
-- Freunde kostenlos zum Training mitbringen
-
-### Gut für
-
-- Alle, die dreimal pro Woche oder öfter trainieren
-- Alle, die Gym, Kurse und Wellness an einem Ort wollen
-
-### Achte darauf
-
-- Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- Nur in Deutschland und Österreich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -232,16 +201,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 - Flex ohne feste Laufzeit für 49,90 € im Monat
 - Mit 12 Monaten Laufzeit 29,90 €, mit 24 Monaten 24,90 € im Monat
 - Live-Kurse in den teilnehmenden Studios
-
-### Gut für
-
-- Alle, die günstig und oft an Geräten trainieren
-- Alle, die keinen großen Wellnessbereich brauchen
-
-### Achte darauf
-
 - Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (laut McFit)
-- Weniger Kurse und Extras als bei Fitness First
 
 <p class="klein">Preise von Oktober 2026, laut mcfit.com. Prüfe den aktuellen Preis immer bei McFit.</p>
 
@@ -263,16 +223,6 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland, davon 3 in Düsseldorf. Die Clubs setzen auf Service, Kurse und Entspannung. Den Preis nennt Holmes Place nicht online; du erfährst ihn bei einem Besuch im Club.
 
-### Gut für
-
-- Alle, denen Service und Wellness wichtig sind
-- Kurse und Training an einem festen Ort
-
-### Achte darauf
-
-- Teurer als eine normale Fitnesskette
-- Frag beim Besuch nach Laufzeit und Kündigungsfrist
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
 </div>
@@ -292,25 +242,25 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
-## Was passt zu dir?
+## Was passt zu dir in Düsseldorf?
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Du willst jede Woche etwas anderes machen
+### Du wohnst in Pempelfort, Unterbilk oder Flingern
 
-Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
+Nimm ClassPass. Dort findest du viele Studios für Pilates, Barre, Yoga und HYROX.
 
-[Zu ClassPass](/de/classpass/)
+[Studios nach Stadtteil](/de/classpass-duesseldorf/)
 
 </div>
 
 <div class="kolom">
 
-### Du trainierst dreimal pro Woche oder öfter
+### Du willst Gym, Kurse und Wellness in einem Club
 
-Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
+Nimm Fitness First mit 5 Clubs in Düsseldorf, oder Holmes Place mit 3 Clubs, wenn dir Service wichtig ist.
 
 [Zu Fitness First](/de/fitness-first/)
 
@@ -318,11 +268,11 @@ Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
 <div class="kolom">
 
-### Du bist oft unterwegs
+### Du willst rund um die Uhr trainieren
 
-Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPass aktiv ist.
+FitX hat Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet.
 
-[ClassPass im Ausland](/de/classpass/#ausland)
+[Ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/)
 
 </div>
 
@@ -348,9 +298,16 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 ## Häufige Fragen
 
 <details open>
-<summary>Was ist günstiger: ClassPass oder ein Fitnessstudio?</summary>
+<summary>Wo gibt es in Düsseldorf viele ClassPass-Studios?</summary>
 
-Das hängt davon ab, wie oft du trainierst und was du machen willst. Trainierst du vor allem im Gym, vergleiche den Monatsbeitrag mit der Zahl deiner Besuche. Willst du zwischen Studios wechseln, passt ein Sportpass besser.
+Vor allem in der Innenstadt, in Carlstadt, Pempelfort, Unterbilk, Flingern und Oberkassel. Eine Auswahl pro Stadtteil findest du unter [ClassPass in Düsseldorf](/de/classpass-duesseldorf/).
+
+</details>
+
+<details>
+<summary>Welche Fitnessstudios in Düsseldorf sind monatlich kündbar?</summary>
+
+McFit und JOHN REED haben einen Flex-Tarif. Bei FitX bindest du dich zuerst 12 Monate, danach ist die Mitgliedschaft monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
 
 </details>
 

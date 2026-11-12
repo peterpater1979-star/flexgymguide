@@ -5,7 +5,7 @@ path: "/de/darmstadt/"
 description: "Flexibel trainieren in Darmstadt: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 10 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Darmstadt"
 kicker: "Stadtguide Darmstadt"
 ---
@@ -24,7 +24,7 @@ Das ClassPass-Angebot in Darmstadt ist klein, aber vielseitig: Yoga und Reformer
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
+Ein Abo auf Credit-Basis für Yoga, Reformer-Pilates und Aerial in der Region, und dasselbe Abo gilt in Frankfurt. Jederzeit kündbar.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
@@ -91,7 +91,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 ## ClassPass in Darmstadt
 
-Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der Region einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
+In Darmstadt ist ClassPass vor allem interessant, wenn du gern Yoga, Reformer-Pilates oder Aerial machst, oder wenn du oft in Frankfurt bist. Dort nutzt du mit demselben Abo viel mehr Studios.
 
 ### Wo
 
@@ -101,21 +101,10 @@ Ein kleines Angebot. In Darmstadt selbst gibt es Yoga und Reformer-Pilates bei B
 
 ### Das bekommst du
 
-- Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo in Darmstadt: 42 Credits für 59 € im Monat
-- 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
-
-### Gut für
-
-- Alle, die gern verschiedene Sportarten ausprobieren
-- Alle, die ein- bis dreimal pro Woche trainieren
-- Expats und Vielreisende
+Das Standard-Abo kostet in Darmstadt 59 € im Monat für 42 Credits. Neu bei ClassPass? Dann testest du zuerst 1 Monat gratis mit 10 Workouts. Wie die Credits funktionieren, liest du unter [ClassPass-Credits erklärt](/de/classpass-credits/).
 
 ### Achte darauf
 
-- Die Credits pro Kurs unterscheiden sich je nach Studio und Uhrzeit
-- Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
 - Beim Reformer-Pilates sind rutschfeste Socken fast immer Pflicht, und es gibt nur wenige Geräte pro Kurs: buche ein paar Tage im Voraus
 - Ein Teil des Angebots liegt in Griesheim, Riedstadt und Eppertshausen: achte beim Buchen auf die Adresse
 
@@ -136,23 +125,6 @@ Ein kleines Angebot. In Darmstadt selbst gibt es Yoga und Reformer-Pilates bei B
 ## Fitness First in Darmstadt
 
 Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 10 in Darmstadt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
-
-### Das bekommst du
-
-- Zugang zu allen oder ausgewählten Clubs, je nach Mitgliedschaft
-- Großes Kursprogramm, unter anderem HYROX, Les Mills, Yoga und Aqua
-- Wellnessbereich, in einigen Clubs auch ein Schwimmbad
-- Freunde kostenlos zum Training mitbringen
-
-### Gut für
-
-- Alle, die dreimal pro Woche oder öfter trainieren
-- Alle, die Gym, Kurse und Wellness an einem Ort wollen
-
-### Achte darauf
-
-- Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- Nur in Deutschland und Österreich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -183,17 +155,17 @@ Das Probeangebot gilt nur für neue Mitglieder. Alles zu den Regeln liest du unt
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
-## Was passt zu dir?
+## Was passt zu dir in Darmstadt?
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Du willst jede Woche etwas anderes machen
+### Du pendelst nach Frankfurt
 
-Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
+Nimm ClassPass. Mit einem Abo trainierst du in Darmstadt und in den vielen Studios in Frankfurt.
 
-[Zu ClassPass](/de/classpass/)
+[ClassPass in Frankfurt](/de/classpass-frankfurt/)
 
 </div>
 
@@ -201,7 +173,7 @@ Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
 
 ### Du trainierst dreimal pro Woche oder öfter
 
-Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
+Nimm Fitness First. Gym, Kurse und Wellness in einem Club, mit kostenlosem Probetraining.
 
 [Zu Fitness First](/de/fitness-first/)
 
@@ -209,11 +181,11 @@ Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
 <div class="kolom">
 
-### Du bist oft unterwegs
+### Du willst Pole Dance oder Aerial ausprobieren
 
-Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPass aktiv ist.
+Mit ClassPass kannst du bei Slow Motion in Griesheim einen Kurs buchen, ohne dich an das Studio zu binden.
 
-[ClassPass im Ausland](/de/classpass/#ausland)
+[Zu ClassPass](/de/classpass/)
 
 </div>
 
@@ -239,9 +211,9 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 ## Häufige Fragen
 
 <details open>
-<summary>Was ist günstiger: ClassPass oder ein Fitnessstudio?</summary>
+<summary>Welche Fitnessstudios in Darmstadt sind monatlich kündbar?</summary>
 
-Das hängt davon ab, wie oft du trainierst und was du machen willst. Trainierst du vor allem im Gym, vergleiche den Monatsbeitrag mit der Zahl deiner Besuche. Willst du zwischen Studios wechseln, passt ein Sportpass besser.
+Bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif. ClassPass kannst du jederzeit kündigen. Bei Fitness First hängt die Laufzeit von der Mitgliedschaft ab.
 
 </details>
 
