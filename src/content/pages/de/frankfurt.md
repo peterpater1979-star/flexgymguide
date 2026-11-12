@@ -137,7 +137,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 Ein großes Angebot, vor allem in der Innenstadt, im Westend, im Nordend, in Bornheim und in Sachsenhausen. Eine kleine Auswahl: Reformer-Pilates bei corelab, JULY BABY Pilates, novi studio und Sculpture, Hot Pilates und Barre bei refine room und Drops Barre, HIIT bei Barry's und Boxen bei BURN BXNG. Dazu Yoga bei Yoga by Stephan Suh und Balance Yoga und Indoor-Cycling bei CYCLETIC.
 
-[Sieh dir die Studios in Frankfurt auf ClassPass an.](https://classpass.com/search/frankfurt/fitness-classes/62iciBov2fR)
+[Sieh dir die Studios in Frankfurt auf ClassPass an.](/go/classpass-de-frankfurt/?epi=fgg-de-frankfurt)
 
 ### Das bekommst du
 

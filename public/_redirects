@@ -15,8 +15,32 @@
 
 /go/classpass-nl/  epi=:epi  https://classpass.com/  302
 /go/classpass-nl/            https://classpass.com/  302
-/go/classpass-de/  epi=:epi  https://classpass.com/  302
-/go/classpass-de/            https://classpass.com/  302
+# ClassPass DE goedgekeurd bij Tradedoubler (programma 374022, site 3504126), 12-11-2026
+/go/classpass-de/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi  302
+/go/classpass-de/            https://clk.tradedoubler.com/click?p=374022&a=3504126  302
+/go/classpass-de-banner/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&g=25805232&epi=:epi  302
+/go/classpass-de-banner/            https://clk.tradedoubler.com/click?p=374022&a=3504126&g=25805232  302
+# Deeplinks per Duitse stad (Tradedoubler &url= met de ClassPass-zoekpagina van die stad)
+/go/classpass-de-berlin/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fberlin%2Ffitness-classes%2F5275bm9hp3q  302
+/go/classpass-de-berlin/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fberlin%2Ffitness-classes%2F5275bm9hp3q  302
+/go/classpass-de-hamburg/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fhamburg%2Ffitness-classes%2F3yrbeRao6Sb  302
+/go/classpass-de-hamburg/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fhamburg%2Ffitness-classes%2F3yrbeRao6Sb  302
+/go/classpass-de-muenchen/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmunich%2Ffitness-classes%2F5ibjGreKWLX  302
+/go/classpass-de-muenchen/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fmunich%2Ffitness-classes%2F5ibjGreKWLX  302
+/go/classpass-de-stuttgart/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fstuttgart%2Ffitness-classes%2F4VPmKStLP8B  302
+/go/classpass-de-stuttgart/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fstuttgart%2Ffitness-classes%2F4VPmKStLP8B  302
+/go/classpass-de-frankfurt/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ffrankfurt%2Ffitness-classes%2F62iciBov2fR  302
+/go/classpass-de-frankfurt/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Ffrankfurt%2Ffitness-classes%2F62iciBov2fR  302
+/go/classpass-de-darmstadt/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdarmstadt%2Ffitness-classes%2F5GMybpVKYvs  302
+/go/classpass-de-darmstadt/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdarmstadt%2Ffitness-classes%2F5GMybpVKYvs  302
+/go/classpass-de-koeln/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fcologne%2Ffitness-classes%2F4QTzWpMNzFh  302
+/go/classpass-de-koeln/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fcologne%2Ffitness-classes%2F4QTzWpMNzFh  302
+/go/classpass-de-leipzig/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fleipzig%2Ffitness-classes%2F4Kt3iBBecUF  302
+/go/classpass-de-leipzig/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fleipzig%2Ffitness-classes%2F4Kt3iBBecUF  302
+/go/classpass-de-dortmund/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdortmund%2Ffitness-classes%2F5nTQZFeaDtB  302
+/go/classpass-de-dortmund/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdortmund%2Ffitness-classes%2F5nTQZFeaDtB  302
+/go/classpass-de-duesseldorf/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdsseldorf%2Ffitness-classes%2F4jqqNAEmdZZ  302
+/go/classpass-de-duesseldorf/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fdsseldorf%2Ffitness-classes%2F4jqqNAEmdZZ  302
 /go/classpass-uk/  epi=:epi  https://classpass.com/  302
 /go/classpass-uk/            https://classpass.com/  302
 # ClassPass FR goedgekeurd bij Tradedoubler (programma 374042, site 3504154), 27-10-2026
@@ -922,16 +946,25 @@
 /go/bricoinn-pt-cadenas/            https://partners.tradeinn.com/c/?si=20617&li=1874239&wi=442019&dl=bricoinn%2Fpt%2Fhardware-cadeados-e-ferrolhos%2F17700%2Fs%23fq%3Did_familia%3D11564%26sort%3Dv30_sum%3Bdesc%40tm17%3Basc%26fe%3D%26pf%3D%40marca%3D1363%40id_subfamilia%3D17700%26start%3D0  302
 
 # Decathlon Ierland via Awin (awinmid 37550), goedgekeurd 2 nov 2026, commissie 1,5%.
-# Label in clickref (fgg-ie-[pagina]); ued = categorie- of productpagina op decathlon.ie (door Peter gekozen). Publisher-ID 371173.
-/go/decathlon-ie-sportswear-women/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fwomen%2Fwomen-s-activewear  302
-/go/decathlon-ie-sportswear-men/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fmen%2Fmen-s-gym-tops-and-t-shirts  302
-/go/decathlon-ie-training-shoes-women/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fwomen%2Fwomen-s-trainers%2Ff-brand_adidas_asics_new-balance_nike_puma_reebok  302
-/go/decathlon-ie-training-shoes-men/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fmen%2Fmen-s-trainers%2Ff-brand_adidas_asics_converse_k-swiss_new-balance_nike_puma_reebok  302
-/go/decathlon-ie-water-bottle/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsports%2Fcamping-bivouac%2Fcamping-water-bottles  302
-/go/decathlon-ie-towel/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fp%2Fultra-compact-microfibre-towel-size-l-80-x-130-cm-green%2F158325%2Fc273c192m8543246  302
-/go/decathlon-ie-padlock/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsports%2Fhiking-trekking%2Fhiking-backpack-accessories%2Ff-commercial-product-nature_lock  302
-/go/decathlon-ie-shaker/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fnutrition-health%2Fshakers  302
-/go/decathlon-ie-yoga-mat/  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsports%2Fyoga%2Fyoga-mats-and-bags  302
+# Label in clickref (fgg-ie-[pagina]-[product]) via ?clickref= op de link, zelfde opbouw als Traininn; zonder parameter valt hij terug op fgg-ie-index; ued = categorie- of productpagina op decathlon.ie (door Peter gekozen). Publisher-ID 371173.
+/go/decathlon-ie-sportswear-women/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.decathlon.ie%2Fwomen%2Fwomen-s-activewear  302
+/go/decathlon-ie-sportswear-women/            https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fwomen%2Fwomen-s-activewear  302
+/go/decathlon-ie-sportswear-men/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.decathlon.ie%2Fmen%2Fmen-s-gym-tops-and-t-shirts  302
+/go/decathlon-ie-sportswear-men/            https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fmen%2Fmen-s-gym-tops-and-t-shirts  302
+/go/decathlon-ie-training-shoes-women/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.decathlon.ie%2Fwomen%2Fwomen-s-trainers%2Ff-brand_adidas_asics_new-balance_nike_puma_reebok  302
+/go/decathlon-ie-training-shoes-women/            https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fwomen%2Fwomen-s-trainers%2Ff-brand_adidas_asics_new-balance_nike_puma_reebok  302
+/go/decathlon-ie-training-shoes-men/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.decathlon.ie%2Fmen%2Fmen-s-trainers%2Ff-brand_adidas_asics_converse_k-swiss_new-balance_nike_puma_reebok  302
+/go/decathlon-ie-training-shoes-men/            https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fmen%2Fmen-s-trainers%2Ff-brand_adidas_asics_converse_k-swiss_new-balance_nike_puma_reebok  302
+/go/decathlon-ie-water-bottle/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsports%2Fcamping-bivouac%2Fcamping-water-bottles  302
+/go/decathlon-ie-water-bottle/            https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsports%2Fcamping-bivouac%2Fcamping-water-bottles  302
+/go/decathlon-ie-towel/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.decathlon.ie%2Fp%2Fultra-compact-microfibre-towel-size-l-80-x-130-cm-green%2F158325%2Fc273c192m8543246  302
+/go/decathlon-ie-towel/            https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fp%2Fultra-compact-microfibre-towel-size-l-80-x-130-cm-green%2F158325%2Fc273c192m8543246  302
+/go/decathlon-ie-padlock/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsports%2Fhiking-trekking%2Fhiking-backpack-accessories%2Ff-commercial-product-nature_lock  302
+/go/decathlon-ie-padlock/            https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsports%2Fhiking-trekking%2Fhiking-backpack-accessories%2Ff-commercial-product-nature_lock  302
+/go/decathlon-ie-shaker/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.decathlon.ie%2Fnutrition-health%2Fshakers  302
+/go/decathlon-ie-shaker/            https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fnutrition-health%2Fshakers  302
+/go/decathlon-ie-yoga-mat/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsports%2Fyoga%2Fyoga-mats-and-bags  302
+/go/decathlon-ie-yoga-mat/            https://www.awin1.com/cread.php?awinmid=37550&awinaffid=371173&clickref=fgg-ie-index&ued=https%3A%2F%2Fwww.decathlon.ie%2Fsports%2Fyoga%2Fyoga-mats-and-bags  302
 
 # Netlify-adres en www naar het hoofddomein
 https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!

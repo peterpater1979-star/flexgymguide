@@ -27,6 +27,7 @@ Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studio
 <h2 id="regeln">Die Regeln</h2>
 
 - **Einmal pro Standort.** Du kannst jedes Studio einmal besuchen. Buchst du einen Kurs und sagst ihn ab, kannst du dort während der Probezeit nicht noch einmal buchen.
+- **Weniger Plätze möglich.** Für Testmitglieder können die Plätze pro Kurs begrenzt sein, je nach Studio.
 - **Stornogebühren gelten auch.** Sagst du zu spät ab oder erscheinst nicht, zahlst du die übliche Gebühr, auch in der Probezeit.
 - **Extra Credits.** Bei manchen Probeangeboten kannst du zusätzliche Credits kaufen, zum Beispiel für einen zweiten Besuch.
 - **Früher wechseln.** Bei manchen Angeboten kannst du sofort zu einem Monatsabo wechseln. Dann kannst du auch öfter ins selbe Studio.
@@ -89,6 +90,7 @@ Nein. ClassPass hat keinen Studentenrabatt. Manche Arbeitgeber bieten ClassPass 
 <p class="klein">Quelle: <a href="https://help.classpass.com/hc/en-us/articles/209629223">ClassPass Hilfe-Center</a> (Januar 2026) und die Anmeldeseiten von ClassPass Deutschland, Österreich und Schweiz (Oktober 2026). Regeln können sich ändern, prüfe die aktuellen Angaben immer bei der Anmeldung oder in deinem Konto.</p>
 
 <div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-probezeit">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass-credits/">ClassPass-Credits erklärt</a>
 <a class="knop knop-rand" href="/de/classpass-kuendigen/">ClassPass kündigen oder pausieren</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>

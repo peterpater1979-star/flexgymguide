@@ -23,7 +23,7 @@ Du kannst auf zwei Arten flexibel trainieren: mit einem Sportpass, der in vielen
 | **Abwechslung** | Yoga, Pilates, Boxen, Spinning, Kraft und mehr, an verschiedenen Orten | Die Kurse und Geräte dieser Kette |
 | **Passt, wenn du trainierst** | Ein- bis dreimal pro Woche | Dreimal pro Woche oder öfter |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Funktioniert in 31 Ländern | Meist nur im eigenen Land |
-| **Erst ausprobieren** | Kostenloser Testzeitraum | Kostenloses Probetraining |
+| **Erst ausprobieren** | 1 Monat gratis mit 10 Workouts | Kostenloses Probetraining |
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
 
@@ -99,7 +99,7 @@ Das hängt davon ab, wie oft du gehst. Trainierst du ein- oder zweimal pro Woche
 <details>
 <summary>Kann ich beides zuerst ausprobieren?</summary>
 
-Ja. ClassPass hat einen kostenlosen Testzeitraum und bei Fitness First buchst du ein kostenloses Probetraining. Eine Woche beides testen sagt mehr als jede Preisliste.
+Ja. Bei ClassPass testest du in Deutschland 1 Monat gratis mit 10 Workouts, und bei Fitness First buchst du ein kostenloses Probetraining. Eine Woche beides testen sagt mehr als jede Preisliste.
 
 </details>
 

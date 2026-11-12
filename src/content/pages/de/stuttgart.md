@@ -151,7 +151,7 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 
 Ein gutes Angebot, vor allem im Stuttgarter Westen, in der Mitte und im Süden. Eine kleine Auswahl: Reformer-Pilates bei JUST Social Health Club, SPRING SOCIETY, Élysio, PILACHA und OHEMIA, Lagree bei Holistic House und Matten-Pilates bei U Pilates Hub. Dazu Yoga bei OM Yoga, Namotoyoga und YOGA13, Boxen bei SECRETBOXING, Functional Training beim FT-Club und HYROX-Training bei THE BACE.
 
-[Sieh dir die Studios in Stuttgart auf ClassPass an.](https://classpass.com/search/stuttgart/fitness-classes/4VPmKStLP8B)
+[Sieh dir die Studios in Stuttgart auf ClassPass an.](/go/classpass-de-stuttgart/?epi=fgg-de-stuttgart)
 
 ### Das bekommst du
 

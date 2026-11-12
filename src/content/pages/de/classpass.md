@@ -13,10 +13,10 @@ kicker: "Anbieter: Sportpass"
 
 <div class="fotobanner smal foto-classpass" role="img" aria-label="Gruppenkurs"></div>
 
-ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür Credits. Die löst du für Kurse und Gym-Besuche in Studios und Fitnessstudios ein, die bei ClassPass mitmachen. So bist du nicht an einen Ort oder eine Sportart gebunden.
+ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür Credits. Die löst du für Kurse und Gym-Besuche in Studios und Fitnessstudios ein, die bei ClassPass mitmachen. So bist du nicht an einen Ort oder eine Sportart gebunden. Neu bei ClassPass? In Deutschland testest du derzeit 1 Monat gratis mit 10 Workouts.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="#staedte">ClassPass in deiner Stadt</a>
 </div>
 
@@ -28,7 +28,7 @@ ClassPass ist ein Sportpass: Du zahlst einen Monatsbeitrag und bekommst dafür C
 | **Preis pro Monat** | Standard-Abo 59 € (42 Credits), sechs Abos von 19 bis 199 € |
 | **Was du machen kannst** | Yoga, Pilates, Boxen, Spinning, Krafttraining, Gym-Besuche und mehr |
 | **Kündigung** | Keine Mindestlaufzeit, jederzeit anpassbar, pausierbar oder kündbar |
-| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> Kostenloser Testzeitraum |
+| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> 1 Monat gratis mit 10 Workouts, für neue Mitglieder |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in über 2.500 Städten in 31 Ländern |
 
 <p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer bei ClassPass.</p>
@@ -108,6 +108,11 @@ In München und Frankfurt gibt es außerdem drei Abos mit unbegrenztem Gym-Zugan
 
 Trainierst du vor allem im Gym und mehrmals pro Woche? Dann schau dir auch [Fitness First](/de/fitness-first/) an, eine Fitnessstudiokette mit eigenen Clubs.
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="staedte">ClassPass in deiner Stadt</h2>
 
 Pro Stadt stellen wir die Optionen nebeneinander:
@@ -144,12 +149,19 @@ Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten i
 
 <p class="kicker">Ausprobieren</p>
 
-## ClassPass kostenlos testen
+## 1 Monat gratis testen
 
-Mit dem kostenlosen Testzeitraum kannst du ClassPass zuerst ausprobieren.
+Neu bei ClassPass? In Deutschland startest du derzeit mit einem Monat gratis und 10 Workouts. So funktioniert es:
+
+1. **Melde dich an** über den Button unten. Das Probeangebot siehst du bei der Anmeldung.
+2. **Buche deine Workouts.** Jedes Studio und Fitnessstudio kannst du einmal besuchen. Für Testmitglieder können die Plätze pro Kurs begrenzt sein. Workouts, die du nicht nutzt, verfallen am Ende der Probezeit.
+3. **Sag rechtzeitig ab.** Sagst du zu spät ab oder erscheinst nicht, zahlst du die übliche Gebühr, auch in der Probezeit.
+4. **Am Ende** bekommst du eine Erinnerung per E-Mail. Kündigst du nicht, wechselst du automatisch zum Monatsabo, derzeit 42 Credits für 59 € pro Monat.
+
+Das Angebot gilt nur für neue Mitglieder, einmal pro Person. Alle Details liest du in [ClassPass kostenlos testen](/de/classpass-probezeit/).
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass">ClassPass kostenlos testen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-probe">Teste 1 Monat gratis mit 10 Workouts</a>
 </div>
 
 <p class="klein">Danach jederzeit kündbar</p>
