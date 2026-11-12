@@ -6,14 +6,14 @@ vertaling: "/de/fitnessstudio-ohne-vertrag-muenchen/"
 description: "No-contract gyms in Munich: ClassPass, Fitness First, McFit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: de
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in Munich"
 kicker: "City guide Munich"
 ---
 
 <div class="fotobanner foto-fitness-first-de" role="img" aria-label="Gym"></div>
 
-Just moved to Munich, here for a semester, or not sure how long you will stay? You don't have to sign a one or two-year gym contract. These are the options to work out month by month, or only when you go.
+Just moved to Munich, here for a semester, or not sure how long you will stay? You don't have to sign a long gym contract. Munich has a large ClassPass offer in Maxvorstadt, Schwabing and Glockenbachviertel, Fitness First has 8 clubs with a monthly membership, and McFit, Basic-Fit and FitX are cheaper options for training on equipment. New in Germany? Read [Gyms without a contract in Germany](/de/gyms-without-contract/) for the German rules on notice periods and fees.
 
 <h2 id="short">In short</h2>
 
@@ -30,9 +30,10 @@ Just moved to Munich, here for a semester, or not sure how long you will stay? Y
 
 With ClassPass you get credits every month for classes and gym visits at studios all over Munich. You are not tied down: you cancel whenever you want and keep training until the end of your month.
 
+Most studios are in Maxvorstadt, Schwabing, Glockenbachviertel and Haidhausen, with reformer pilates, Lagree, indoor cycling, bootcamps and yoga. A selection per neighbourhood is on [ClassPass in Munich](/de/classpass-muenchen/) (in German).
+
 - **Plans in Munich:** the standard plan is 42 credits for €59 a month. There are smaller and bigger plans in the app. See [ClassPass credits explained](/guides/classpass-credits/).
 - **Try it first:** one month free with 10 workouts. Read [Trying ClassPass for free](/guides/classpass-free-trial/).
-- **Pausing:** when you cancel, ClassPass often offers a free pause. Read [Cancelling or pausing ClassPass](/guides/cancel-or-pause-classpass/).
 - **Travelling a lot?** Your plan also works in other cities. Read [ClassPass while travelling](/guides/classpass-while-travelling/).
 
 <div class="knoppen">
@@ -41,7 +42,7 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 <h2 id="fitness-first">Fitness First: membership without a minimum term</h2>
 
-Fitness First has 8 clubs in Munich, with equipment, a large class schedule and a wellness area, and a pool in some clubs. Besides a 24-month membership there is one for 12 months and one without a minimum term, which you cancel monthly. Fitness First charges per week, and the price depends on the club: there are RED and BLACK clubs. In Munich one club is RED (Moosach); the others are BLACK. At a RED club you choose between BASIC and ALL-IN; ALL-IN includes classes, unlimited drinks and the wellness area, among other things. This is what prices looked like in October 2026, per week:
+Fitness First has 8 clubs in Munich, and you can join without a minimum term and cancel monthly. Prices are per week and differ per club. In Munich one club is RED (Moosach); the others are BLACK. This is what they looked like in October 2026 at two clubs in Munich:
 
 | Term | RED BASIC (Moosach) | RED ALL-IN (Moosach) | BLACK (Marienplatz) |
 | --- | --- | --- | --- |
@@ -51,7 +52,7 @@ Fitness First has 8 clubs in Munich, with equipment, a large class schedule and 
 
 Students, pupils and trainees pay less: €12.90 per week without a minimum term at the RED club in Moosach, €24.90 at the BLACK club at Marienplatz.
 
-Without a minimum term you pay a one-off startup fee of €39. On top of that comes a training package of €39 or €49, charged every six months. With 24 months there is no startup fee, and you can pause for free for up to 12 weeks. You can switch to the 24-month membership at any time. Not sure? Book a free trial session first.
+Without a minimum term you also pay a startup fee and a training package; how RED, BLACK, BASIC and ALL-IN work is explained in [Gyms without a contract in Germany](/de/gyms-without-contract/#fitness-first). Not sure? Book a free trial session first.
 
 <p class="klein">Source: the club pages for Munich Moosach and Innenstadt am Marienplatz and fitnessfirst.de/mitgliedschaft/1m (October 2026). Always check the current price with the club. Cancelling: see <a href="/de/cancel-fitness-first-germany/">Cancelling Fitness First</a>.</p>
 
@@ -61,32 +62,16 @@ Without a minimum term you pay a one-off startup fee of €39. On top of that co
 
 <h2 id="mcfit">McFit Flex: cancel monthly</h2>
 
-McFit is Germany's largest gym chain by number of members, with more than 230 gyms in Germany, Austria and Italy, also in Munich. It is cheap and belongs to the RSG Group. Besides 12 and 24-month contracts there is Flex, without a fixed term. This is what prices looked like in October 2026, per month:
+McFit has several gyms in Munich. With Flex you pay €49.90 a month and cancel monthly; with a 12 or 24-month contract it is cheaper. Prices and the first-month fee are explained in [Gyms without a contract in Germany](/de/gyms-without-contract/#mcfit).
 
-| Plan | Price | Term |
-| --- | --- | --- |
-| Flex | €49.90 | No fixed term |
-| 12 months Standard | €29.90 | 12 months |
-| 24 months Standard | €24.90 | 24 months |
+<h2 id="other">Other gyms in Munich with a flexible plan</h2>
 
-In the first month you pay €88.90 in total with Flex (total price according to McFit). So Flex costs almost twice as much as a 24-month contract, but you are not tied down. With every plan you can train at more than 230 McFit gyms in Europe, with live classes at participating gyms.
+- **FitX:** 4 gyms, €29 a month with a 12-month minimum term (then monthly).
+- **Basic-Fit:** clubs in Marsstraße and Moosacher Straße, Flex €9.99 more per 4 weeks than the yearly contract.
+- **clever fit:** several gyms, most with a monthly plan.
+- **Mrs.Sporty:** several women-only clubs; prices are set per club.
 
-<p class="klein">Source: mcfit.com/mitgliedschaft (October 2026). Always check the current price with McFit.</p>
-
-<h2 id="drop-in">Drop-in classes and 10-class cards</h2>
-
-Many yoga, pilates and boxing studios sell single classes or a card for a number of classes. You only pay when you go, which is handy if you have one favourite studio. Check the studio's website; prices and validity differ.
-
-<h2 id="tips">Tips if you are new in Germany</h2>
-
-- **Websites in German.** Many gym websites and sign-up pages are only in German. Your browser can translate them.
-- **Per week, not per month.** Fitness First shows prices per week. Multiply by about 4.3 for a monthly amount.
-- **One-off and recurring fees.** Many gyms charge a startup fee, and some charge a training or service package every few months.
-- **Direct debit.** Gyms usually collect payment by SEPA direct debit, so have your IBAN ready.
-- **Notice period.** "Monthly" often means one month's notice. Read the terms before you leave the country.
-- **Cancelling online.** If you signed up online, the gym has to offer a cancel button on its website.
-- **After the minimum term.** For contracts since March 2022, a yearly contract no longer renews for a whole year after the minimum term. You can then cancel with one month's notice.
-- **How often you go.** If you train three times a week or more at the same place, a fixed contract is often cheaper. Read [Gym pass or membership?](/guides/gym-pass-or-membership/)
+<p class="klein">Prices from October and November 2026, from our pages about each chain. Always check the current price and terms with the gym.</p>
 
 ## Frequently asked questions
 
@@ -98,9 +83,9 @@ Yes. With ClassPass you cancel any time, Fitness First and McFit have membership
 </details>
 
 <details>
-<summary>What is the cheapest way to work out without a contract?</summary>
+<summary>Munich is expensive. What is the cheapest way to train without a contract?</summary>
 
-That depends on how often you go. For a few classes a month, a small ClassPass plan or a drop-in class is cheapest. If you often train at one place, a monthly gym membership is usually cheaper per visit.
+For a few classes a month, a small ClassPass plan or a drop-in class is cheapest. If you mainly use equipment, McFit or Basic-Fit with a Flex plan costs less per visit than a premium club.
 
 </details>
 
@@ -112,6 +97,6 @@ Pick something you can cancel quickly. ClassPass has no notice period, so you ca
 </details>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/guides/gym-pass-or-membership/">Gym pass or membership?</a>
+<a class="knop knop-rand" href="/de/gyms-without-contract/">Gyms without a contract in Germany</a>
 <a class="knop knop-rand" href="/de/fitnessstudio-ohne-vertrag-muenchen/">Deutsche Version</a>
 </div>

@@ -125,6 +125,13 @@ In vielen Studios ja, mit Cross Check-in bis zu viermal im Monat. Frag in deinem
 
 </details>
 
+<details>
+<summary>Ist clever fit auf ClassPass?</summary>
+
+Einige Studios ja, zum Beispiel in Berlin-Marzahn, Erftstadt, Greifswald, Langenfeld (Rheinland), Oberlungwitz und Voerde (Niederrhein). Welche Studios gerade mitmachen, siehst du in der ClassPass-App.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/">Trainieren in Deutschland</a>
 </div>

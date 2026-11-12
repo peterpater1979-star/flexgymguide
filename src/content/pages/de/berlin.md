@@ -5,12 +5,12 @@ path: "/de/berlin/"
 description: "Flexibel trainieren in Berlin: ClassPass mit Studios in der ganzen Stadt oder Fitness First mit 15 Clubs und kostenlosem Probetraining."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Berlin"
 kicker: "Stadtguide Berlin"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Berlin trainierst du mit einem Sportpass in Studios in der ganzen Stadt oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Berlin](/de/fitnessstudio-ohne-vertrag-berlin/).
+Berlin hat beim flexiblen Training eine riesige Auswahl. Auf ClassPass findest du Studios von Mitte und Prenzlauer Berg bis Kreuzberg und Charlottenburg, von Lagree bis Rudern. Dazu kommen Fitness First mit 15 Clubs, Holmes Place mit 6 Clubs und günstige Ketten wie McFit, FitX und Basic-Fit. Hier siehst du, was zu deinem Alltag passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Berlin](/de/fitnessstudio-ohne-vertrag-berlin/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -36,10 +36,11 @@ Urban Sports Club gibt es auch in Berlin. Ein Sportpass mit festem Preis pro Mon
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
+Ein Abo auf Credit-Basis für Studios in ganz Berlin, von Lagree in Mitte bis Boxen in Kreuzberg. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-berlin">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -187,7 +188,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 ## ClassPass in Berlin
 
-Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
+In Berlin lohnt sich ClassPass vor allem, wenn du in Mitte, Prenzlauer Berg, Kreuzberg oder Friedrichshain wohnst oder arbeitest. Dort liegen viele Studios nah beieinander, sodass du an einem Tag Reformer-Pilates und am nächsten Boxen machen kannst.
 
 ### Wo
 
@@ -197,21 +198,7 @@ Ein sehr großes Angebot, verteilt über die ganze Stadt, von Lagree und Reforme
 
 ### Das bekommst du
 
-- Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo in Berlin: 42 Credits für 59 € im Monat
-- 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
-
-### Gut für
-
-- Alle, die gern verschiedene Sportarten ausprobieren
-- Alle, die ein- bis dreimal pro Woche trainieren
-- Expats und Vielreisende
-
-### Achte darauf
-
-- Die Credits pro Kurs unterscheiden sich je nach Studio und Uhrzeit
-- Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
+Das Standard-Abo kostet in Berlin 59 € im Monat für 42 Credits. Neu bei ClassPass? Dann testest du zuerst 1 Monat gratis mit 10 Workouts. Wie die Credits funktionieren, liest du unter [ClassPass-Credits erklärt](/de/classpass-credits/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
@@ -230,23 +217,6 @@ Ein sehr großes Angebot, verteilt über die ganze Stadt, von Lagree und Reforme
 ## Fitness First in Berlin
 
 Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 15 in Berlin. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
-
-### Das bekommst du
-
-- Zugang zu allen oder ausgewählten Clubs, je nach Mitgliedschaft
-- Großes Kursprogramm, unter anderem HYROX, Les Mills, Yoga und Aqua
-- Wellnessbereich, in einigen Clubs auch ein Schwimmbad
-- Freunde kostenlos zum Training mitbringen
-
-### Gut für
-
-- Alle, die dreimal pro Woche oder öfter trainieren
-- Alle, die Gym, Kurse und Wellness an einem Ort wollen
-
-### Achte darauf
-
-- Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- Nur in Deutschland und Österreich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -272,16 +242,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 - Flex ohne feste Laufzeit für 49,90 € im Monat
 - Mit 12 Monaten Laufzeit 29,90 €, mit 24 Monaten 24,90 € im Monat
 - Live-Kurse in den teilnehmenden Studios
-
-### Gut für
-
-- Alle, die günstig und oft an Geräten trainieren
-- Alle, die keinen großen Wellnessbereich brauchen
-
-### Achte darauf
-
 - Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (laut McFit)
-- Weniger Kurse und Extras als bei Fitness First
 
 <p class="klein">Preise von Oktober 2026, laut mcfit.com. Prüfe den aktuellen Preis immer bei McFit.</p>
 
@@ -302,16 +263,6 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 ## Holmes Place in Berlin
 
 Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland, davon 6 in Berlin. Die Clubs setzen auf Service, Kurse und Entspannung. Den Preis nennt Holmes Place nicht online; du erfährst ihn bei einem Besuch im Club.
-
-### Gut für
-
-- Alle, denen Service und Wellness wichtig sind
-- Kurse und Training an einem festen Ort
-
-### Achte darauf
-
-- Teurer als eine normale Fitnesskette
-- Frag beim Besuch nach Laufzeit und Kündigungsfrist
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
@@ -335,25 +286,25 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
-## Was passt zu dir?
+## Was passt zu dir in Berlin?
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Du willst jede Woche etwas anderes machen
+### Du wohnst in Mitte, Prenzlauer Berg oder Kreuzberg
 
-Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
+Nimm ClassPass. In diesen Bezirken erreichst du viele Studios zu Fuß oder mit dem Rad.
 
-[Zu ClassPass](/de/classpass/)
+[Studios nach Bezirk](/de/classpass-berlin/)
 
 </div>
 
 <div class="kolom">
 
-### Du trainierst dreimal pro Woche oder öfter
+### Du willst Gym, Kurse und Sauna an einem Ort
 
-Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
+Nimm Fitness First mit 15 Clubs in Berlin. Ist dir Service wichtiger als der Preis, sieh dir Holmes Place an.
 
 [Zu Fitness First](/de/fitness-first/)
 
@@ -361,11 +312,11 @@ Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
 <div class="kolom">
 
-### Du bist oft unterwegs
+### Du trainierst vor allem an Geräten
 
-Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPass aktiv ist.
+Nimm eine günstige Kette wie McFit, FitX oder Basic-Fit. Mit Flex-Tarifen bindest du dich nicht lange.
 
-[ClassPass im Ausland](/de/classpass/#ausland)
+[Ohne Vertrag in Berlin](/de/fitnessstudio-ohne-vertrag-berlin/)
 
 </div>
 
@@ -391,9 +342,16 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 ## Häufige Fragen
 
 <details open>
-<summary>Was ist günstiger: ClassPass oder ein Fitnessstudio?</summary>
+<summary>Wo gibt es in Berlin viele ClassPass-Studios?</summary>
 
-Das hängt davon ab, wie oft du trainierst und was du machen willst. Trainierst du vor allem im Gym, vergleiche den Monatsbeitrag mit der Zahl deiner Besuche. Willst du zwischen Studios wechseln, passt ein Sportpass besser.
+Vor allem in Mitte, Prenzlauer Berg, Kreuzberg, Friedrichshain und Charlottenburg. Eine Auswahl pro Bezirk findest du unter [ClassPass in Berlin](/de/classpass-berlin/).
+
+</details>
+
+<details>
+<summary>Welche Fitnessstudios in Berlin sind monatlich kündbar?</summary>
+
+McFit, Basic-Fit und JOHN REED haben einen Flex-Tarif, den du monatlich kündigen kannst, und bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Berlin](/de/fitnessstudio-ohne-vertrag-berlin/).
 
 </details>
 

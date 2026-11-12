@@ -5,12 +5,12 @@ path: "/fr/dijon/"
 description: "À Dijon, fais du sport sans être lié à une seule salle : ClassPass dans des studios de la ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Dijon"
 kicker: "Guide ville Dijon"
 ---
 
-Pas envie d’être lié à une seule salle ? À Dijon, tu peux réserver des cours dans des studios de la ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
+À Dijon, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 4 chaînes de salles : Basic-Fit, Keepcool, L’Appart Fitness et Magic Form. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 <h2 id="en-bref">En bref</h2>
 
@@ -132,8 +132,6 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 ## ClassPass à Dijon
 
-Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
-
 ### Où
 
 Surtout des salles de sport en accès libre, avec des cours collectifs sur place :
@@ -149,20 +147,12 @@ Surtout des salles de sport en accès libre, avec des cours collectifs sur place
 
 [Voir les studios à Dijon sur ClassPass](/go/classpass-fr-dijon/?epi=fgg-fr-dijon)
 
-### Ce que tu as
-
-- Des crédits chaque mois pour des cours et des séances en salle
-- Abonnement standard à Dijon : 37 crédits pour 59 € par mois
-- 14 jours gratuits avec 10 séances pour essayer
-- Ça marche aussi dans plus de 2 500 villes et 31 pays
+À Dijon, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure
 - Chez Magic Form, prends des chaussures réservées à la salle, une serviette et un cadenas
 - L’Appart Fitness a trois adresses : vérifie bien laquelle tu réserves
-- Les crédits non utilisés passent au mois suivant ; s’ils ne sont toujours pas utilisés, ils expirent
-- Résiliable à tout moment
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-dijon">Profitez de 10 séances gratuites en 14 jours</a>
@@ -173,116 +163,14 @@ Surtout des salles de sport en accès libre, avec des cours collectifs sur place
 
 </div>
 
-<div class="kolom">
-
-<div id="basic-fit">
-
-<p class="kicker">Salle à petit prix</p>
-
-## Basic-Fit à Dijon
-
-Basic-Fit a des salles à Dijon. C’est une chaîne de salles à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. L’abonnement d’un an commence à 24,99 € toutes les 4 semaines. Avec Flex, tu es sans engagement pour 9,99 € de plus, plus 19,99 € de frais d’inscription.
-
-### Idéal pour
-
-- T’entraîner trois fois par semaine ou plus pour pas cher
-- Avoir une salle fixe près de chez toi ou du travail
-
-### À savoir
-
-- Flex : préavis de 4 semaines
-- Les cours collectifs dépendent du club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
-<div id="keepcool">
-
-<p class="kicker">Salle avec coachs</p>
-
-## Keepcool à Dijon
-
-À Dijon, Keepcool a une salle à Valmy, et une autre à Quetigny. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 29,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
-
-### Idéal pour
-
-- Être accompagné par un coach
-- T’entraîner en petits groupes
-
-### À savoir
-
-- Une séance d’essai gratuite par an
-- Selon la zone, le prix peut être un peu plus élevé
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-## Lequel te convient ?
-
-<div class="kolommen">
-
-<div class="kolom">
-
-### Tu veux changer chaque semaine
-
-Choisis ClassPass. Passe librement d’un studio et d’un cours à l’autre.
-
-[Voir ClassPass](/fr/classpass/)
-
-</div>
-
-<div class="kolom">
-
-### Tu t’entraînes trois fois par semaine ou plus
-
-Choisis Basic-Fit. Une salle à petit prix, avec ou sans engagement.
-
-[Voir Basic-Fit](/fr/basic-fit/)
-
-</div>
-
-<div class="kolom">
-
-### Tu voyages beaucoup
-
-Choisis ClassPass. Ton abonnement marche aussi dans les autres pays où ClassPass est présent.
-
-[ClassPass à l’étranger](/fr/classpass/#etranger)
-
-</div>
-
-<div class="kolom">
-
-### Tu veux être accompagné
-
-Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
-
-[Voir Keepcool](/fr/keepcool/)
-
-</div>
-
 </div>
 
 ## Questions fréquentes
 
 <details open>
-<summary>ClassPass est-il moins cher qu’une salle de sport à Dijon ?</summary>
+<summary>Peut-on faire du sport sans engagement à Dijon ?</summary>
 
-Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+Oui. ClassPass se résilie à tout moment, et Basic-Fit et Keepcool ont une formule sans engagement à Dijon, un peu plus chère que l’abonnement d’un an. Les prix et préavis sont comparés dans [Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/).
 
 </details>
 
@@ -290,20 +178,6 @@ Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
 <summary>Puis-je utiliser ClassPass en dehors de Dijon ?</summary>
 
 Oui. Tes crédits marchent dans d’autres villes françaises et à l’étranger, partout où ClassPass est présent.
-
-</details>
-
-<details>
-<summary>Basic-Fit est-il sans engagement ?</summary>
-
-Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies avec 4 semaines de préavis. L’abonnement normal t’engage pour un an.
-
-</details>
-
-<details>
-<summary>Keepcool est-il sans engagement ?</summary>
-
-Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 29,99 €.
 
 </details>
 

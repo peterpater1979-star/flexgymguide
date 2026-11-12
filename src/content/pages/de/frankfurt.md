@@ -1,16 +1,16 @@
 ---
 title: "Flexibel trainieren in Frankfurt"
-seoTitle: "ClassPass Frankfurt: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudio in Frankfurt monatlich kündbar: deine Optionen"
 path: "/de/frankfurt/"
 description: "Flexibel trainieren in Frankfurt am Main: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 12 Clubs trainieren."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Frankfurt am Main"
 kicker: "Stadtguide Frankfurt am Main"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Frankfurt am Main trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
+Frankfurt ist eine Pilates-Stadt: Auf ClassPass findest du besonders viele Reformer-Studios, vor allem im Nordend, in Bornheim, in Sachsenhausen und in der Innenstadt, dazu HIIT, Boxen und Indoor-Cycling. Lieber ein festes Gym? Fitness First hat 12 Clubs in Frankfurt, dazu kommen McFit, clever fit und Basic-Fit. Hier siehst du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -36,10 +36,11 @@ Urban Sports Club gibt es auch in Frankfurt. Ein Sportpass mit festem Preis pro 
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
+Ein Abo auf Credit-Basis mit besonders viel Reformer-Pilates, dazu HIIT, Boxen und Indoor-Cycling. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-frankfurt">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -131,31 +132,19 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 ## ClassPass in Frankfurt
 
-Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
+In Frankfurt lohnt sich ClassPass vor allem für Reformer-Pilates: Im Nordend, in Bornheim und in Sachsenhausen liegen viele Studios nah beieinander. Arbeitest du in der Innenstadt, findest du dort HIIT, Indoor-Cycling und Yoga für die Mittagspause oder nach Feierabend.
 
 ### Wo
 
 Ein großes Angebot, vor allem in der Innenstadt, im Westend, im Nordend, in Bornheim und in Sachsenhausen. Eine kleine Auswahl: Reformer-Pilates bei corelab, JULY BABY Pilates, novi studio und Sculpture, Hot Pilates und Barre bei refine room und Drops Barre, HIIT bei Barry's und Boxen bei BURN BXNG. Dazu Yoga bei Yoga by Stephan Suh und Balance Yoga und Indoor-Cycling bei CYCLETIC.
 
+[Alle Studios in Frankfurt nach Stadtteil und Sportart ansehen.](/de/classpass-frankfurt/)
+
 [Sieh dir die Studios in Frankfurt auf ClassPass an.](/go/classpass-de-frankfurt/?epi=fgg-de-frankfurt)
 
 ### Das bekommst du
 
-- Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo in Frankfurt: 42 Credits für 59 € im Monat
-- 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
-
-### Gut für
-
-- Alle, die gern verschiedene Sportarten ausprobieren
-- Alle, die ein- bis dreimal pro Woche trainieren
-- Expats und Vielreisende
-
-### Achte darauf
-
-- Die Credits pro Kurs unterscheiden sich je nach Studio und Uhrzeit
-- Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
+Das Standard-Abo kostet in Frankfurt 59 € im Monat für 42 Credits. Neu bei ClassPass? Dann testest du zuerst 1 Monat gratis mit 10 Workouts. Wie die Credits funktionieren, liest du unter [ClassPass-Credits erklärt](/de/classpass-credits/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
@@ -174,23 +163,6 @@ Ein großes Angebot, vor allem in der Innenstadt, im Westend, im Nordend, in Bor
 ## Fitness First in Frankfurt
 
 Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 12 in Frankfurt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
-
-### Das bekommst du
-
-- Zugang zu allen oder ausgewählten Clubs, je nach Mitgliedschaft
-- Großes Kursprogramm, unter anderem HYROX, Les Mills, Yoga und Aqua
-- Wellnessbereich, in einigen Clubs auch ein Schwimmbad
-- Freunde kostenlos zum Training mitbringen
-
-### Gut für
-
-- Alle, die dreimal pro Woche oder öfter trainieren
-- Alle, die Gym, Kurse und Wellness an einem Ort wollen
-
-### Achte darauf
-
-- Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- Nur in Deutschland und Österreich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -216,16 +188,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 - Flex ohne feste Laufzeit für 49,90 € im Monat
 - Mit 12 Monaten Laufzeit 29,90 €, mit 24 Monaten 24,90 € im Monat
 - Live-Kurse in den teilnehmenden Studios
-
-### Gut für
-
-- Alle, die günstig und oft an Geräten trainieren
-- Alle, die keinen großen Wellnessbereich brauchen
-
-### Achte darauf
-
 - Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (laut McFit)
-- Weniger Kurse und Extras als bei Fitness First
 
 <p class="klein">Preise von Oktober 2026, laut mcfit.com. Prüfe den aktuellen Preis immer bei McFit.</p>
 
@@ -248,25 +211,25 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
-## Was passt zu dir?
+## Was passt zu dir in Frankfurt?
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Du willst jede Woche etwas anderes machen
+### Du willst Reformer-Pilates machen
 
-Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
+Nimm ClassPass. Frankfurt hat besonders viele Reformer-Studios, vom Nordend bis Sachsenhausen.
 
-[Zu ClassPass](/de/classpass/)
+[Studios nach Stadtteil](/de/classpass-frankfurt/)
 
 </div>
 
 <div class="kolom">
 
-### Du trainierst dreimal pro Woche oder öfter
+### Du willst Gym, Kurse und Wellness an einem Ort
 
-Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
+Nimm Fitness First mit 12 Clubs in Frankfurt. Probier ihn zuerst mit einem kostenlosen Probetraining aus.
 
 [Zu Fitness First](/de/fitness-first/)
 
@@ -274,11 +237,11 @@ Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
 <div class="kolom">
 
-### Du bist oft unterwegs
+### Du arbeitest in der Innenstadt
 
-Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPass aktiv ist.
+Nimm ClassPass für HIIT, Boxen oder Indoor-Cycling vor oder nach der Arbeit, etwa am Opernplatz oder im Europaviertel.
 
-[ClassPass im Ausland](/de/classpass/#ausland)
+[Zu ClassPass](/de/classpass/)
 
 </div>
 
@@ -304,9 +267,16 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 ## Häufige Fragen
 
 <details open>
-<summary>Was ist günstiger: ClassPass oder ein Fitnessstudio?</summary>
+<summary>Wo gibt es in Frankfurt Reformer-Pilates mit ClassPass?</summary>
 
-Das hängt davon ab, wie oft du trainierst und was du machen willst. Trainierst du vor allem im Gym, vergleiche den Monatsbeitrag mit der Zahl deiner Besuche. Willst du zwischen Studios wechseln, passt ein Sportpass besser.
+Vor allem im Nordend, in Bornheim, im Ostend, in Sachsenhausen und in der Innenstadt, unter anderem bei corelab, JULY BABY Pilates, novi studio und Classy Pilates. Mehr unter [ClassPass in Frankfurt](/de/classpass-frankfurt/).
+
+</details>
+
+<details>
+<summary>Welche Fitnessstudios in Frankfurt sind monatlich kündbar?</summary>
+
+McFit und Basic-Fit haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 
 </details>
 

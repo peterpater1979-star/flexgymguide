@@ -5,14 +5,14 @@ path: "/de/fitnessstudio-ohne-vertrag-muenchen/"
 description: "Fitnessstudio in München ohne Mindestlaufzeit: ClassPass, Fitness First, McFit Flex und Einzelstunden. Was es kostet und wie du kündigst."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Fitnessstudio ohne Vertrag in München"
 kicker: "Stadtguide München"
 ---
 
 <div class="fotobanner foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
 
-Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In München kannst du auch mit einem Abo trainieren, das du jeden Monat kündigst, oder einfach pro Kurs bezahlen. Das sind deine Möglichkeiten.
+Neu in München, nur für ein Semester hier oder einfach keine Lust auf einen langen Vertrag? München hat ein großes ClassPass-Angebot in der Maxvorstadt, in Schwabing und im Glockenbachviertel, Fitness First hat 8 Clubs mit monatlich kündbarer Mitgliedschaft, und McFit, Basic-Fit und FitX sind günstigere Optionen fürs Training an Geräten. Neu in Deutschland? Die wichtigsten Regeln zu Fristen und Gebühren liest du unter [Fitnessstudio ohne Vertrag in Deutschland](/de/fitnessstudio-ohne-vertrag/).
 
 <h2 id="kurz">Kurz gesagt</h2>
 
@@ -29,9 +29,10 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In München kannst
 
 Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Studios in ganz München. Du bist an nichts gebunden: Du kündigst, wann du willst, und trainierst bis zum Ende deines Monats weiter.
 
+Die meisten Studios liegen in der Maxvorstadt, in Schwabing, im Glockenbachviertel und in Haidhausen, mit Reformer-Pilates, Lagree, Indoor-Cycling, Bootcamp und Yoga. Eine Auswahl pro Viertel findest du unter [ClassPass in München](/de/classpass-muenchen/).
+
 - **Abo in München:** Das Standardabo hat 42 Credits für 59 € im Monat. Es gibt kleinere und größere Abos, die du in der App siehst. Mehr dazu in [ClassPass-Credits erklärt](/de/classpass-credits/).
 - **Erst ausprobieren:** einen Monat kostenlos mit 10 Workouts. Lies [ClassPass kostenlos testen](/de/classpass-probezeit/).
-- **Pausieren:** Beim Kündigen bietet ClassPass oft eine kostenlose Pause an. Lies [ClassPass kündigen oder pausieren](/de/classpass-kuendigen/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
@@ -39,7 +40,7 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Stud
 
 <h2 id="fitness-first">Fitness First: Mitgliedschaft ohne Mindestlaufzeit</h2>
 
-Fitness First hat 8 Clubs in München, mit Geräten, einem großen Kursprogramm und Wellnessbereich, in einigen Clubs auch mit Schwimmbad. Neben der Mitgliedschaft über 24 Monate gibt es eine über 12 Monate und eine ohne Mindestlaufzeit, die du monatlich kündigst. Fitness First rechnet pro Woche ab, und der Preis hängt vom Club ab: Es gibt RED- und BLACK-Clubs; in München ist ein Club RED (Moosach), die anderen sind BLACK. In einem RED-Club wählst du zwischen BASIC und ALL-IN; ALL-IN enthält unter anderem Kurse, Getränke-Flat und Wellnessbereich. So sahen die Preise im Oktober 2026 aus, pro Woche:
+Fitness First hat 8 Clubs in München, und du kannst ohne Mindestlaufzeit einsteigen und monatlich kündigen. Die Preise gelten pro Woche und hängen vom Club ab. In München ist ein Club RED (Moosach), die anderen sind BLACK. So sahen sie im Oktober 2026 aus:
 
 | Laufzeit | RED BASIC (Moosach) | RED ALL-IN (Moosach) | BLACK (Marienplatz) |
 | --- | --- | --- | --- |
@@ -49,7 +50,7 @@ Fitness First hat 8 Clubs in München, mit Geräten, einem großen Kursprogramm 
 
 Studierende, Schüler und Azubis zahlen weniger: im BLACK-Club am Marienplatz 24,90 € pro Woche ohne Mindestlaufzeit, 18,90 € mit 12 Monaten und 16,90 € mit 24 Monaten. Im RED-Club Moosach waren es 12,90 € ohne Mindestlaufzeit, 9,90 € mit 12 Monaten und 7,90 € mit 24 Monaten.
 
-Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Du kannst jederzeit zur 24-Monats-Mitgliedschaft wechseln. Unsicher? Buch zuerst ein kostenloses Probetraining.
+Ohne Mindestlaufzeit kommen eine Startgebühr und ein Trainingspaket dazu; wie RED, BLACK, BASIC und ALL-IN funktionieren, liest du unter [Fitnessstudio ohne Vertrag in Deutschland](/de/fitnessstudio-ohne-vertrag/#fitness-first). Unsicher? Buch zuerst ein kostenloses Probetraining.
 
 <p class="klein">Quelle: die Clubseiten München-Moosach und München Innenstadt am Marienplatz und fitnessfirst.de/mitgliedschaft/1m (Oktober 2026). Prüfe den aktuellen Preis immer beim Club. Kündigen: siehe <a href="/de/fitness-first-kuendigen/">Fitness First kündigen</a>.</p>
 
@@ -59,29 +60,16 @@ Bei der Mitgliedschaft ohne Mindestlaufzeit zahlst du eine einmalige Startgebüh
 
 <h2 id="mcfit">McFit Flex: monatlich kündbar</h2>
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in München. Die Kette ist günstig und gehört zur RSG Group. Neben Verträgen über 12 oder 24 Monate gibt es Flex, ohne feste Vertragslaufzeit. So sahen die Preise im Oktober 2026 aus, pro Monat:
+McFit hat mehrere Studios in München. Mit Flex zahlst du 49,90 € im Monat und kündigst monatlich; mit 12 oder 24 Monaten Laufzeit ist es günstiger. Preise und den ersten Monat erklären wir unter [Fitnessstudio ohne Vertrag in Deutschland](/de/fitnessstudio-ohne-vertrag/#mcfit). Kündigen: siehe [McFit kündigen](/de/mcfit-kuendigen/).
 
-| Tarif | Preis | Laufzeit |
-| --- | --- | --- |
-| Flex | 49,90 € | Keine feste Laufzeit |
-| 12 Monate Standard | 29,90 € | 12 Monate |
-| 24 Monate Standard | 24,90 € | 24 Monate |
+<h2 id="weitere">Weitere Studios in München mit flexiblem Tarif</h2>
 
-Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (Gesamtpreis laut McFit). Flex kostet also fast das Doppelte eines 24-Monats-Vertrags, dafür bist du nicht gebunden. Mit allen Tarifen trainierst du in über 230 McFit-Studios in Europa, mit Live-Kursen in den teilnehmenden Studios.
+- **FitX:** 4 Studios, 29 € im Monat mit 12 Monaten Grundlaufzeit (danach monatlich).
+- **Basic-Fit:** Clubs in der Marsstraße und der Moosacher Straße, Flex 9,99 € mehr pro 4 Wochen als der Jahresvertrag.
+- **clever fit:** mehrere Studios, meist mit monatlich kündbarem Tarif.
+- **Mrs.Sporty:** mehrere Clubs nur für Frauen; die Preise legt jeder Club selbst fest.
 
-<p class="klein">Quelle: mcfit.com/mitgliedschaft (Oktober 2026). Prüfe den aktuellen Preis immer bei McFit. Kündigen: siehe <a href="/de/mcfit-kuendigen/">McFit kündigen</a>.</p>
-
-<h2 id="einzeln">Einzelstunden und 10er-Karten</h2>
-
-Viele Yoga-, Pilates- und Boxstudios verkaufen auch Einzelstunden oder Karten für mehrere Kurse. Du zahlst nur, wenn du hingehst. Das ist praktisch, wenn du ein festes Lieblingsstudio hast. Schau auf der Website des Studios nach; Preise und Gültigkeit sind unterschiedlich.
-
-<h2 id="achtung">Darauf solltest du achten</h2>
-
-- **Einmalige Gebühren.** Viele Studios verlangen eine Anmelde- oder Startgebühr. Manche berechnen zusätzlich regelmäßig ein Trainings- oder Servicepaket.
-- **Kündigungsfrist.** "Monatlich kündbar" heißt oft: ein Monat Kündigungsfrist. Lies die Bedingungen.
-- **Online kündigen.** Hast du den Vertrag online abgeschlossen, muss das Studio auf seiner Website einen Kündigungsbutton anbieten.
-- **Nach der Mindestlaufzeit.** Bei Verträgen seit März 2022 verlängert sich ein Jahresvertrag nach der Mindestlaufzeit nicht mehr um ein ganzes Jahr. Du kannst dann mit einem Monat Frist kündigen.
-- **Wie oft du trainierst.** Trainierst du dreimal pro Woche oder öfter am selben Ort, ist ein fester Vertrag oft günstiger. Lies [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
+<p class="klein">Preise von Oktober und November 2026, von unseren Seiten über die einzelnen Ketten. Prüfe den aktuellen Preis und die Bedingungen immer beim Studio.</p>
 
 ## Häufige Fragen
 
@@ -93,9 +81,9 @@ Ja. Mit ClassPass kündigst du jederzeit, Fitness First und McFit haben Mitglied
 </details>
 
 <details>
-<summary>Was ist die günstigste Art, ohne Vertrag zu trainieren?</summary>
+<summary>München ist teuer. Wie trainiere ich am günstigsten ohne Vertrag?</summary>
 
-Das hängt davon ab, wie oft du trainierst. Für ein paar Kurse im Monat ist ein kleines ClassPass-Abo oder eine Einzelstunde am günstigsten. Trainierst du oft am selben Ort, ist eine monatlich kündbare Mitgliedschaft meist günstiger pro Besuch.
+Für ein paar Kurse im Monat ist ein kleines ClassPass-Abo oder eine Einzelstunde am günstigsten. Trainierst du vor allem an Geräten, kostet McFit oder Basic-Fit mit Flex-Tarif pro Besuch weniger als ein Premium-Club.
 
 </details>
 
@@ -108,6 +96,6 @@ Ja. Viele trainieren im Gym ihres Studios und machen ab und zu über ClassPass e
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/muenchen/">Flexibel trainieren in München</a>
-<a class="knop knop-rand" href="/de/sportpass-oder-mitgliedschaft/">Sportpass oder Mitgliedschaft?</a>
+<a class="knop knop-rand" href="/de/fitnessstudio-ohne-vertrag/">Ohne Vertrag in Deutschland</a>
 <a class="knop knop-rand" href="/de/gyms-without-contract-munich/">In English</a>
 </div>

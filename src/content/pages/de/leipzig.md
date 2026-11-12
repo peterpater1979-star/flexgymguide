@@ -1,16 +1,16 @@
 ---
 title: "Flexibel trainieren in Leipzig"
-seoTitle: "ClassPass Leipzig: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudio in Leipzig monatlich kündbar: deine Optionen"
 path: "/de/leipzig/"
 description: "Flexibel trainieren in Leipzig: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 2 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Leipzig"
 kicker: "Stadtguide Leipzig"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Leipzig trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Keine lange Bindung? Lies [Fitnessstudio ohne Vertrag in Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/).
+In Leipzig ist das Angebot für flexibles Training überschaubar, aber vielseitig: Auf ClassPass findest du Yoga und Hot Yoga, Pilates, Pole Dance und Bootcamp im Clara-Zetkin-Park, vor allem im Zentrum und im Leipziger Westen. Für ein festes Gym gibt es FitX in Mockau und Neulindenau, McFit, JOHN REED, clever fit und 2 Fitness First Clubs. Hier siehst du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -36,10 +36,11 @@ Urban Sports Club gibt es auch in Leipzig. Ein Sportpass mit festem Preis pro Mo
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
+Ein Abo auf Credit-Basis für Yoga, Pilates und Bootcamp im Park, vor allem im Zentrum und im Westen. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-leipzig">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -145,7 +146,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 ## ClassPass in Leipzig
 
-Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
+In Leipzig ist ClassPass vor allem etwas für Yoga, Pilates und Training im Freien. Die meisten Studios liegen im Zentrum und im Westen, und BootCamp trainiert draußen im Clara-Zetkin-Park und am Völkerschlachtdenkmal.
 
 ### Wo
 
@@ -153,23 +154,11 @@ Ein überschaubares Angebot, vor allem im Zentrum. Yoga bei Hot Yoga Leipzig, Be
 
 [Sieh dir die Studios in Leipzig auf ClassPass an.](/go/classpass-de-leipzig/?epi=fgg-de-leipzig)
 
+[Alle Studios in Leipzig nach Stadtteil und Sportart ansehen.](/de/classpass-leipzig/)
+
 ### Das bekommst du
 
-- Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo in Leipzig: 42 Credits für 59 € im Monat
-- 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
-
-### Gut für
-
-- Alle, die gern verschiedene Sportarten ausprobieren
-- Alle, die ein- bis dreimal pro Woche trainieren
-- Expats und Vielreisende
-
-### Achte darauf
-
-- Die Credits pro Kurs unterscheiden sich je nach Studio und Uhrzeit
-- Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
+Das Standard-Abo kostet in Leipzig 59 € im Monat für 42 Credits. Neu bei ClassPass? Dann testest du zuerst 1 Monat gratis mit 10 Workouts. Wie die Credits funktionieren, liest du unter [ClassPass-Credits erklärt](/de/classpass-credits/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
@@ -188,23 +177,6 @@ Ein überschaubares Angebot, vor allem im Zentrum. Yoga bei Hot Yoga Leipzig, Be
 ## Fitness First in Leipzig
 
 Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 2 in Leipzig. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
-
-### Das bekommst du
-
-- Zugang zu allen oder ausgewählten Clubs, je nach Mitgliedschaft
-- Großes Kursprogramm, unter anderem HYROX, Les Mills, Yoga und Aqua
-- Wellnessbereich, in einigen Clubs auch ein Schwimmbad
-- Freunde kostenlos zum Training mitbringen
-
-### Gut für
-
-- Alle, die dreimal pro Woche oder öfter trainieren
-- Alle, die Gym, Kurse und Wellness an einem Ort wollen
-
-### Achte darauf
-
-- Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- Nur in Deutschland und Österreich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -230,16 +202,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 - Flex ohne feste Laufzeit für 49,90 € im Monat
 - Mit 12 Monaten Laufzeit 29,90 €, mit 24 Monaten 24,90 € im Monat
 - Live-Kurse in den teilnehmenden Studios
-
-### Gut für
-
-- Alle, die günstig und oft an Geräten trainieren
-- Alle, die keinen großen Wellnessbereich brauchen
-
-### Achte darauf
-
 - Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (laut McFit)
-- Weniger Kurse und Extras als bei Fitness First
 
 <p class="klein">Preise von Oktober 2026, laut mcfit.com. Prüfe den aktuellen Preis immer bei McFit.</p>
 
@@ -263,37 +226,37 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
-## Was passt zu dir?
+## Was passt zu dir in Leipzig?
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Du willst jede Woche etwas anderes machen
+### Du machst gern Yoga oder Pilates
 
-Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
+Nimm ClassPass. Im Zentrum und in Plagwitz findest du Hot Yoga, Pilates und kleine Yogastudios.
 
-[Zu ClassPass](/de/classpass/)
-
-</div>
-
-<div class="kolom">
-
-### Du trainierst dreimal pro Woche oder öfter
-
-Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
-
-[Zu Fitness First](/de/fitness-first/)
+[Studios nach Stadtteil](/de/classpass-leipzig/)
 
 </div>
 
 <div class="kolom">
 
-### Du bist oft unterwegs
+### Du trainierst gern draußen
 
-Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPass aktiv ist.
+Nimm ClassPass für BootCamp im Clara-Zetkin-Park und am Völkerschlachtdenkmal.
 
-[ClassPass im Ausland](/de/classpass/#ausland)
+[Outdoor in Leipzig](/de/classpass-leipzig/#stadtteile)
+
+</div>
+
+<div class="kolom">
+
+### Du willst rund um die Uhr an Geräten trainieren
+
+FitX hat Studios in Mockau und Neulindenau, alle 24 Stunden geöffnet. Günstige Flex-Tarife gibt es auch bei McFit.
+
+[Ohne Vertrag in Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/)
 
 </div>
 
@@ -319,9 +282,16 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 ## Häufige Fragen
 
 <details open>
-<summary>Was ist günstiger: ClassPass oder ein Fitnessstudio?</summary>
+<summary>Welche Sportarten gibt es bei ClassPass in Leipzig?</summary>
 
-Das hängt davon ab, wie oft du trainierst und was du machen willst. Trainierst du vor allem im Gym, vergleiche den Monatsbeitrag mit der Zahl deiner Besuche. Willst du zwischen Studios wechseln, passt ein Sportpass besser.
+Vor allem Yoga und Hot Yoga, Pilates, Bootcamp drinnen und draußen, Functional Training in kleinen Gruppen und Pole Dance. Eine Auswahl findest du unter [ClassPass in Leipzig](/de/classpass-leipzig/).
+
+</details>
+
+<details>
+<summary>Welche Fitnessstudios in Leipzig sind monatlich kündbar?</summary>
+
+McFit und JOHN REED haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. Bei FitX bindest du dich zuerst 12 Monate. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/).
 
 </details>
 

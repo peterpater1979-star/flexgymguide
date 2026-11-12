@@ -5,12 +5,12 @@ path: "/de/hamburg/"
 description: "Flexibel trainieren in Hamburg: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 17 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Hamburg"
 kicker: "Stadtguide Hamburg"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In Hamburg trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
+In Hamburg trainierst du flexibel vor allem in Eppendorf, Eimsbüttel, Winterhude, Altona und der Innenstadt, wo es auf ClassPass viele Studios für Pilates, Barre und Yoga gibt. Lieber ein festes Gym? Fitness First hat 17 Clubs in Hamburg, dazu kommen FitX, EASYFITNESS, JOHN REED und Holmes Place. Hier siehst du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -36,10 +36,11 @@ Urban Sports Club gibt es auch in Hamburg. Ein Sportpass mit festem Preis pro Mo
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
+Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Eppendorf, Eimsbüttel und Altona. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-hamburg">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -201,7 +202,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 ## ClassPass in Hamburg
 
-Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
+In Hamburg findest du auf ClassPass besonders viel Pilates, von Lagree über Reformer bis Hot Pilates. Die meisten Studios liegen in Eppendorf, Eimsbüttel, Winterhude und Altona, also gut erreichbar mit U-Bahn oder Rad.
 
 ### Wo
 
@@ -211,21 +212,7 @@ Ein großes Angebot, verteilt über die Stadt, von Lagree, Reformer- und Hot Pil
 
 ### Das bekommst du
 
-- Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo in Hamburg: 42 Credits für 59 € im Monat
-- 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
-
-### Gut für
-
-- Alle, die gern verschiedene Sportarten ausprobieren
-- Alle, die ein- bis dreimal pro Woche trainieren
-- Expats und Vielreisende
-
-### Achte darauf
-
-- Die Credits pro Kurs unterscheiden sich je nach Studio und Uhrzeit
-- Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
+Das Standard-Abo kostet in Hamburg 59 € im Monat für 42 Credits. Neu bei ClassPass? Dann testest du zuerst 1 Monat gratis mit 10 Workouts. Wie die Credits funktionieren, liest du unter [ClassPass-Credits erklärt](/de/classpass-credits/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
@@ -244,23 +231,6 @@ Ein großes Angebot, verteilt über die Stadt, von Lagree, Reformer- und Hot Pil
 ## Fitness First in Hamburg
 
 Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 17 in Hamburg. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
-
-### Das bekommst du
-
-- Zugang zu allen oder ausgewählten Clubs, je nach Mitgliedschaft
-- Großes Kursprogramm, unter anderem HYROX, Les Mills, Yoga und Aqua
-- Wellnessbereich, in einigen Clubs auch ein Schwimmbad
-- Freunde kostenlos zum Training mitbringen
-
-### Gut für
-
-- Alle, die dreimal pro Woche oder öfter trainieren
-- Alle, die Gym, Kurse und Wellness an einem Ort wollen
-
-### Achte darauf
-
-- Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- Nur in Deutschland und Österreich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -286,16 +256,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 - Flex ohne feste Laufzeit für 49,90 € im Monat
 - Mit 12 Monaten Laufzeit 29,90 €, mit 24 Monaten 24,90 € im Monat
 - Live-Kurse in den teilnehmenden Studios
-
-### Gut für
-
-- Alle, die günstig und oft an Geräten trainieren
-- Alle, die keinen großen Wellnessbereich brauchen
-
-### Achte darauf
-
 - Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (laut McFit)
-- Weniger Kurse und Extras als bei Fitness First
 
 <p class="klein">Preise von Oktober 2026, laut mcfit.com. Prüfe den aktuellen Preis immer bei McFit.</p>
 
@@ -316,16 +277,6 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 ## Holmes Place in Hamburg
 
 Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland, davon 2 in Hamburg. Die Clubs setzen auf Service, Kurse und Entspannung. Den Preis nennt Holmes Place nicht online; du erfährst ihn bei einem Besuch im Club.
-
-### Gut für
-
-- Alle, denen Service und Wellness wichtig sind
-- Kurse und Training an einem festen Ort
-
-### Achte darauf
-
-- Teurer als eine normale Fitnesskette
-- Frag beim Besuch nach Laufzeit und Kündigungsfrist
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
@@ -350,25 +301,25 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
-## Was passt zu dir?
+## Was passt zu dir in Hamburg?
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Du willst jede Woche etwas anderes machen
+### Du wohnst in Eppendorf, Eimsbüttel oder Altona
 
-Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
+Nimm ClassPass. In diesen Stadtteilen hast du viele Pilates-, Barre- und Yogastudios in der Nähe.
 
-[Zu ClassPass](/de/classpass/)
+[Studios nach Stadtteil](/de/classpass-hamburg/)
 
 </div>
 
 <div class="kolom">
 
-### Du trainierst dreimal pro Woche oder öfter
+### Du willst Gym, Kurse und Wellness in einem Club
 
-Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
+Nimm Fitness First mit 17 Clubs in Hamburg, oder Holmes Place, wenn dir Service wichtiger ist als der Preis.
 
 [Zu Fitness First](/de/fitness-first/)
 
@@ -376,11 +327,11 @@ Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
 <div class="kolom">
 
-### Du bist oft unterwegs
+### Du willst rund um die Uhr trainieren
 
-Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPass aktiv ist.
+FitX hat 4 Studios in Hamburg, alle 24 Stunden geöffnet. Günstige Flex-Tarife gibt es auch bei McFit, Basic-Fit und EASYFITNESS.
 
-[ClassPass im Ausland](/de/classpass/#ausland)
+[Ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/)
 
 </div>
 
@@ -406,9 +357,16 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 ## Häufige Fragen
 
 <details open>
-<summary>Was ist günstiger: ClassPass oder ein Fitnessstudio?</summary>
+<summary>Wo gibt es in Hamburg viele ClassPass-Studios?</summary>
 
-Das hängt davon ab, wie oft du trainierst und was du machen willst. Trainierst du vor allem im Gym, vergleiche den Monatsbeitrag mit der Zahl deiner Besuche. Willst du zwischen Studios wechseln, passt ein Sportpass besser.
+Vor allem in Eppendorf, Eimsbüttel, Winterhude, Altona und der Innenstadt. Eine Auswahl pro Stadtteil findest du unter [ClassPass in Hamburg](/de/classpass-hamburg/).
+
+</details>
+
+<details>
+<summary>Welche Fitnessstudios in Hamburg sind monatlich kündbar?</summary>
+
+McFit, Basic-Fit, JOHN REED und EASYFITNESS haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. Bei FitX bindest du dich zuerst 12 Monate, danach ist die Mitgliedschaft monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
 
 </details>
 

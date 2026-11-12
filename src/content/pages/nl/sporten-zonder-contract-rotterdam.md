@@ -5,14 +5,14 @@ path: "/nl/sporten-zonder-contract-rotterdam/"
 description: "Sporten in Rotterdam zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex, SportCity Flex en losse lessen. Wat het kost en hoe je opzegt."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Sporten zonder contract in Rotterdam"
 kicker: "Stadsgids Rotterdam"
 ---
 
 <div class="fotobanner foto-gymketen" role="img" aria-label="Sportschool"></div>
 
-Geen zin om een jaar vast te zitten aan één sportschool? In Rotterdam kun je ook sporten met een abonnement dat je elke maand opzegt, of gewoon per les betalen. Dit zijn de opties.
+In Rotterdam sport je zonder jaarcontract bij een van de 7 Trainmore-clubs, zoals aan de Coolsingel, bij SportCity, BigGym of Basic-Fit, of je wisselt af met ClassPass. Dit zijn de opties, met prijzen per club.
 
 <h2 id="kort">In het kort</h2>
 
@@ -29,11 +29,10 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Rotterdam kun je o
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
-Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Rotterdam. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand.
+Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Rotterdam. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand. Welke studio's er zijn, van pilates tot CrossFit, zie je op [ClassPass in Rotterdam](/nl/classpass-rotterdam/).
 
 - **Abonnement in Rotterdam:** het standaardabonnement is 40 credits voor € 59 per maand. Er zijn kleinere en grotere abonnementen; die zie je in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 - **Eerst proberen:** 14 dagen gratis met 10 work-outs. Lees [ClassPass gratis proberen](/nl/classpass-proefperiode/).
-- **Pauzeren:** bij opzeggen biedt ClassPass vaak een gratis pauze aan. Lees [ClassPass opzeggen of pauzeren](/nl/classpass-opzeggen/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
@@ -53,7 +52,7 @@ Trainmore is een premium sportschoolketen met groepslessen en clubs in het centr
 
 **Student?** Bij Coolsingel kost een studentenlidmaatschap € 55 per 4 weken, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
 
-**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Coolsingel bijvoorbeeld betaal je met een jaarcontract dan € 57 in plaats van € 69. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de uitleg van Trainmore.
+**Korting als je vaker traint.** Met een contract van 1 of 2 jaar krijg je € 1 korting per workout, tot € 28 per 4 weken; met Flex niet. Bij Coolsingel bijvoorbeeld betaal je met een jaarcontract dan € 57 in plaats van € 69. Hoe het werkt, lees je bij [korting per workout](/nl/trainmore/#korting).
 
 Met City+ kun je in alle Black Label-clubs in Rotterdam trainen. Dat kost € 86 per 4 weken bij 1 jaar en € 79 bij 2 jaar; Flex is er niet bij City+. Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
@@ -63,17 +62,7 @@ Met City+ kun je in alle Black Label-clubs in Rotterdam trainen. Dat kost € 86
 
 <h2 id="basic-fit">Basic-Fit Flex: zonder minimale looptijd</h2>
 
-Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaarabonnement van 52 weken is er Flex, zonder minimale looptijd. Flex kost € 9,99 per 4 weken meer dan het jaarabonnement, en de welkomstacties voor jaarabonnementen gelden er niet voor.
-
-| Flex | Per 4 weken | Wat je krijgt |
-| --- | --- | --- |
-| Comfort | € 34,98 | Alle clubs in Nederland |
-| Premium | € 39,98 | Alle clubs in 6 landen, één gast per week, massagestoelen |
-| Ultimate | € 44,98 | Alle clubs in 6 landen, onbeperkt gasten, sportwater, gratis pauzeren |
-
-Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) en [Alles over Basic-Fit](/nl/basic-fit/).
-
-<p class="klein">Bron: basic-fit.com/nl-nl/prijs (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
+Basic-Fit heeft Flex zonder minimale looptijd: € 9,99 per 4 weken meer dan het jaarabonnement, dus vanaf € 34,98 per 4 weken, plus eenmalig € 19,99 inschrijving. Je zegt op met 4 weken opzegtermijn. Wat Comfort, Premium en Ultimate verschillen, zie je in [Sporten zonder contract](/nl/sporten-zonder-contract/#basic-fit). Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/).
 
 <h2 id="sportcity">SportCity Flex: maandelijks opzegbaar</h2>
 
@@ -98,17 +87,6 @@ BigGym heeft een grote gym in Rotterdam, met kracht, cardio, een HYROX-zone en g
 
 <p class="klein">Bron: biggym.com (november 2026). Meer in <a href="/nl/big-gym/">Alles over BigGym</a>.</p>
 
-<h2 id="los">Losse lessen en rittenkaarten</h2>
-
-Veel yoga-, pilates- en boksstudio's verkopen ook losse lessen of een kaart voor een aantal lessen. Je betaalt dan alleen als je gaat. Dat is handig als je één vaste studio hebt waar je af en toe naartoe wilt. Kijk op de site van de studio wat ze aanbieden; prijzen en geldigheid verschillen per studio.
-
-<h2 id="letop">Waar je op let</h2>
-
-- **Inschrijfkosten.** Sommige sportscholen rekenen eenmalige kosten bij een flexibel lidmaatschap.
-- **Per maand of per 4 weken.** Bij betalen per 4 weken betaal je 13 keer per jaar.
-- **Opzegtermijn.** "Maandelijks opzegbaar" kan betekenen dat je nog een maand doorbetaalt. Lees de voorwaarden.
-- **Hoe vaak je gaat.** Train je drie keer per week of vaker op dezelfde plek, dan is een vast contract vaak goedkoper. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
-
 ## Veelgestelde vragen
 
 <details open>
@@ -119,9 +97,9 @@ Ja. Met ClassPass zeg je op elk moment op, Trainmore, Basic-Fit en SportCity heb
 </details>
 
 <details>
-<summary>Wat is de goedkoopste manier om zonder contract te sporten?</summary>
+<summary>Welke sportschool in Rotterdam kan ik elke 4 weken opzeggen?</summary>
 
-Dat hangt af van hoe vaak je gaat. Voor een paar lessen per maand is een klein ClassPass-abonnement of een losse les het voordeligst. Train je vaak op één plek, dan is een maandelijks opzegbaar lidmaatschap bij een sportschool vaak goedkoper per keer.
+BigGym Unlimited Flex zeg je elke 4 weken op in de app. Trainmore Flex en SportCity Flex zijn maandelijks opzegbaar, en Basic-Fit Flex heeft 4 weken opzegtermijn. ClassPass zeg je op elk moment op.
 
 </details>
 
@@ -135,5 +113,5 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/gyms-without-contract-rotterdam/">In English</a>
 <a class="knop knop-rand" href="/nl/rotterdam/">Flexibel sporten in Rotterdam</a>
-<a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
+<a class="knop knop-rand" href="/nl/sporten-zonder-contract/">Zonder contract in Nederland</a>
 </div>

@@ -5,12 +5,12 @@ path: "/fr/annemasse/"
 description: "À Annemasse, fais du sport sans être lié à une seule salle : ClassPass dans des studios de la ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Annemasse"
 kicker: "Guide ville Annemasse"
 ---
 
-Pas envie d’être lié à une seule salle ? À Annemasse, tu peux réserver des cours dans des studios de la ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
+À Annemasse, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 2 chaînes de salles : Basic-Fit et ON AIR. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 L’offre ClassPass à Annemasse est petite mais originale : pole dance et cerceau aérien chez Air Flow Studio, et tout près du Pilates en petits groupes à Cranves-Sales et à Ville-la-Grand. Pratique si tu travailles à Genève, car tes crédits marchent aussi en Suisse, partout où ClassPass est présent.
 
@@ -106,8 +106,6 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 ## ClassPass à Annemasse
 
-Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
-
 ### Où
 
 Une petite offre : Air Flow Studio à Annemasse (pole dance, cerceau aérien, renforcement et mobilité, aussi en cours particuliers), et tout près deux studios de Pilates en petits groupes, El Pilates Studio à Cranves-Sales (Reformer et Mat, 8 personnes maximum) et ALOÏA à Ville-la-Grand.
@@ -118,54 +116,17 @@ Une petite offre : Air Flow Studio à Annemasse (pole dance, cerceau aérien, re
 
 - Ceux qui veulent essayer la pole dance, le cerceau aérien ou le Pilates Reformer sans s’engager
 - Les frontaliers qui veulent aussi réserver des cours à Genève
-- Ceux qui s’entraînent une à trois fois par semaine
 
-### Ce que tu as
-
-- Des crédits chaque mois pour des cours et des séances en salle
-- Abonnement standard à Annemasse : 37 crédits pour 59 € par mois
-- 14 jours gratuits avec 10 séances pour essayer
-- Ça marche aussi dans plus de 2 500 villes et 31 pays
+À Annemasse, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
 - Les cours de Pilates chez El Pilates Studio sont limités à 8 personnes : réserve quelques jours à l’avance
 - Pour le Pilates Reformer, les chaussettes antidérapantes sont presque toujours obligatoires
-- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
-- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-annemasse">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
-<div id="basic-fit">
-
-<p class="kicker">Salle à petit prix</p>
-
-## Basic-Fit à Annemasse
-
-Basic-Fit est présent à Annemasse. C’est une chaîne de salles à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. L’abonnement d’un an commence à 24,99 € toutes les 4 semaines. Avec Flex, tu es sans engagement pour 9,99 € de plus, plus 19,99 € de frais d’inscription.
-
-### Idéal pour
-
-- T’entraîner trois fois par semaine ou plus pour pas cher
-- Avoir une salle fixe près de chez toi ou du travail
-
-### À savoir
-
-- Flex : préavis de 4 semaines
-- Les cours collectifs dépendent du club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
 </div>
 
 </div>
@@ -185,48 +146,12 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
-## Lequel te convient ?
-
-<div class="kolommen">
-
-<div class="kolom">
-
-### Tu veux changer chaque semaine
-
-Choisis ClassPass. Passe librement d’un studio et d’un cours à l’autre.
-
-[Voir ClassPass](/fr/classpass/)
-
-</div>
-
-<div class="kolom">
-
-### Tu t’entraînes trois fois par semaine ou plus
-
-Choisis Basic-Fit. Une salle à petit prix, avec ou sans engagement.
-
-[Voir Basic-Fit](/fr/basic-fit/)
-
-</div>
-
-<div class="kolom">
-
-### Tu voyages beaucoup
-
-Choisis ClassPass. Ton abonnement marche aussi dans les autres pays où ClassPass est présent.
-
-[ClassPass à l’étranger](/fr/classpass/#etranger)
-
-</div>
-
-</div>
-
 ## Questions fréquentes
 
 <details open>
-<summary>ClassPass est-il moins cher qu’une salle de sport à Annemasse ?</summary>
+<summary>Peut-on faire du sport sans engagement à Annemasse ?</summary>
 
-Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+Oui. ClassPass se résilie à tout moment, et Basic-Fit a une formule sans engagement à Annemasse, un peu plus chère que l’abonnement d’un an. Les prix et préavis sont comparés dans [Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/).
 
 </details>
 
@@ -241,13 +166,6 @@ Surtout de la pole dance, du cerceau aérien, du renforcement et de la mobilité
 <summary>Puis-je utiliser ClassPass en dehors de Annemasse ?</summary>
 
 Oui. Tes crédits marchent dans d’autres villes françaises et à l’étranger, partout où ClassPass est présent.
-
-</details>
-
-<details>
-<summary>Basic-Fit est-il sans engagement ?</summary>
-
-Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies avec 4 semaines de préavis. L’abonnement normal t’engage pour un an.
 
 </details>
 

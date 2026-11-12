@@ -11,7 +11,7 @@ kicker: "Stadsgids Alkmaar"
 zoekwoorden: "alkmaar heiloo heerhugowaard bergen castricum dijk en waard noord-holland"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Alkmaar kun je met een sportpas bij verschillende studio's terecht, of kiezen voor een voordelige sportschoolketen die je maandelijks kunt opzeggen. Woon je in Heiloo of Heerhugowaard? Dan zijn de studio's en clubs in Alkmaar ook voor jou dichtbij.
+In Alkmaar sport je flexibel met ClassPass, bij studio's in het centrum en in Heerhugowaard en Heiloo, of bij een vaste sportschool: Basic-Fit voor weinig geld, of BigGym met kracht, cardio en groepslessen. Hieronder zie je wat elk kost en hoe je opzegt. Woon je in Heiloo of Heerhugowaard? Dan zijn de studio's en clubs in Alkmaar ook voor jou dichtbij.
 
 <h2 id="kort">In het kort</h2>
 
@@ -82,51 +82,17 @@ BigGym heeft in Alkmaar een grote gym aan de Helderseweg, met kracht, cardio, ee
 
 ## ClassPass in Alkmaar
 
-Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's in Alkmaar en in de rest van het land. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
-
 ### Waar
 
 Een overzichtelijk aanbod, vooral in en rond het centrum. Krachttraining, open gym en reformer pilates bij City Gym aan het Laat, yoga en pilates bij Bluebirds in de Pieterstraat, reformer pilates bij Studio Vitale, krachttraining en boksen bij Among Strong en dansles bij Dansstudio Dentro. Ook Snap Fitness aan de Edisonweg, dag en nacht open. Net buiten de stad: City Gym en Gym072 in Heerhugowaard en Your Fitmind in Heiloo, met kickboksen en circuittraining.
 
 [Bekijk de studio's in Alkmaar op ClassPass.](https://classpass.com/search/alkmaar/fitness-classes/5b72jZbeZ83)
 
-<div class="kolommen">
+In Alkmaar kost het standaardabonnement € 59 per maand voor 40 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
-<div class="kolom">
-
-### Wat je krijgt
-
-- Maandelijkse credits voor lessen en gymbezoeken
-- Standaardabonnement in Alkmaar: 40 credits voor € 59 per maand
-- 14 dagen gratis met 10 workouts om te proberen
 - Studio's in Alkmaar, Heerhugowaard en Heiloo: krachttraining, open gym, (reformer) pilates, yoga, boksen en dans
 - Werk of studeer je ook in Amsterdam of Haarlem? Daar heb je met hetzelfde abonnement veel meer keuze
-- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
-
-</div>
-
-<div class="kolom">
-
-### Goed voor
-
-- Wie graag verschillende sporten probeert
-- Wie één tot drie keer per week sport
 - Forenzen die ook in Amsterdam of Haarlem willen sporten
-
-</div>
-
-<div class="kolom">
-
-### Let op
-
-- Bij reformer pilates zijn antislipsokken bijna altijd verplicht, en er zijn maar een paar machines per les: boek op tijd
-- Het aantal credits per les verschilt per studio en tijdstip
-- Ongebruikte credits van een maand kun je één maand doorschuiven. Gebruik je ze dan nog niet, dan vervallen ze
-- Alleen als je opzegt tijdens de gratis proefperiode, stopt je toegang meteen. Met een betaald abonnement train je door tot het einde van je maand. Daarna vervallen je resterende credits
-
-</div>
-
-</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
@@ -141,16 +107,6 @@ Een overzichtelijk aanbod, vooral in en rond het centrum. Krachttraining, open g
 ## Basic-Fit in Alkmaar
 
 Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland, waarvan 2 in Alkmaar: aan de Oosterweezenstraat en aan de Terborchlaan, die dag en nacht open is. Een jaarabonnement begint bij € 24,99 per 4 weken. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
-
-### Goed voor
-
-- Drie keer per week of vaker trainen voor weinig geld
-- Een vaste sportschool dicht bij huis of werk
-
-### Let op
-
-- Flex: 4 weken opzegtermijn
-- Met Comfort train je alleen in Nederland, met Premium of Ultimate ook in 5 andere landen
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
@@ -169,52 +125,9 @@ Nieuw bij ClassPass? Je begint met 14 dagen gratis en 10 work-outs.
 
 Tip: zet een herinnering een paar dagen voor het einde, en boek populaire avond- en weekendlessen een paar dagen vooruit. Alles over de regels lees je in [ClassPass gratis proberen](/nl/classpass-proefperiode/).
 
-## Welke past bij jou?
-
-<div class="kolommen">
-
-<div class="kolom kaart">
-
-### Je wilt elke week iets anders doen
-
-Kies ClassPass. Je wisselt tussen pilates, yoga, boksen en dans, en sport ook in andere steden.
-
-[Naar ClassPass](/nl/classpass/)
-
-</div>
-
-<div class="kolom kaart">
-
-### Je traint meerdere keren per week
-
-Kies Basic-Fit. Een vaste club voor weinig geld, met Flex maandelijks opzegbaar.
-
-[Naar Basic-Fit](/nl/basic-fit/)
-
-</div>
-
-<div class="kolom kaart">
-
-### Je bent vaak op reis
-
-Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass actief is.
-
-[Lees: How ClassPass works (EN)](/guides/how-classpass-works/)
-
-</div>
-
-</div>
-
 ## Veelgestelde vragen
 
 <details open>
-<summary>Wat is goedkoper: ClassPass of een sportschool?</summary>
-
-Dat hangt af van hoe vaak je sport en wat je wilt doen. Train je vooral in de gym, zet dan de maandprijs van een lidmaatschap af tegen het aantal bezoeken. Wil je afwisselen tussen studio's, dan past een sportpas beter.
-
-</details>
-
-<details>
 <summary>Kan ik ClassPass ook buiten Alkmaar gebruiken?</summary>
 
 Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden, zoals Haarlem en Amsterdam, en in het buitenland, overal waar ClassPass actief is.
@@ -229,9 +142,12 @@ Ja. Met ClassPass zijn er ook studio's in je eigen plaats: City Gym en Gym072 in
 </details>
 
 <details>
-<summary>Kan ik ClassPass op elk moment opzeggen?</summary>
+<summary>Welke sportscholen in Alkmaar zijn maandelijks opzegbaar?</summary>
 
-Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatum, dan betaal je niet voor een nieuwe maand. Bij een betaald abonnement kun je ClassPass gebruiken tot het einde van die maand. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen. Resterende credits vervallen als je stopt. Lees ook [ClassPass opzeggen](/nl/classpass-opzeggen/).
+- **Basic-Fit Flex:** 4 weken opzegtermijn
+- **BigGym Unlimited Flex:** elke 4 weken opzegbaar
+
+Een sportpas is nog flexibeler: ClassPass zeg je op elk moment op. Prijzen en opzegtermijnen vind je in [Sporten zonder contract](/nl/sporten-zonder-contract/).
 
 </details>
 

@@ -11,7 +11,7 @@ kicker: "Stadsgids Arnhem"
 zoekwoorden: "arnhem velp oosterbeek duiven rheden renkum westervoort elst wageningen bemmel huissen zevenaar gelderland"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Arnhem kun je met een sportpas bij verschillende studio's terecht, of kiezen voor een voordelige sportschoolketen die je maandelijks kunt opzeggen. Woon je in Velp, Oosterbeek of Duiven? Dan zijn de studio's en clubs in Arnhem ook voor jou dichtbij.
+In Arnhem sport je met een sportpas vooral bij kleinere studio's en personal trainers: met ClassPass wissel je af tussen krachttraining, aerial, bootcamp en aikido, ook in Velp en Westervoort. Wil je liever een vaste gym voor weinig geld, dan is er Basic-Fit. Woon je in Velp, Oosterbeek of Duiven? Dan zijn de studio's en clubs in Arnhem ook voor jou dichtbij.
 
 <h2 id="kort">In het kort</h2>
 
@@ -68,49 +68,15 @@ Voordelige sportschoolketen met 5 clubs in Arnhem, waarvan de meeste dag en nach
 
 ## ClassPass in Arnhem
 
-Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's in Arnhem en in de rest van het land. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
-
 ### Waar
 
 Vooral kleinere studio's en personal training. In Arnhem zelf onder andere krachttraining en boksen bij YOU The Gym aan de Beekstraat, krachttraining bij Personal Fitness Nederland en Gelukkig Lijf aan de Snelliusweg, aerial en dans bij Aerial Studio in de Varkensstraat, bootcamp bij Lekkerbuiten.nu en aikido bij Jiki Shin Kan. In de regio: yoga bij Room4 Yoga in Velp, yoga en qigong bij Life-Force Yoga in Westervoort, HIT Personal Training in Elst, GoalTrainers in Wageningen en KI-Aikido in Bemmel.
 
 [Bekijk de studio's in Arnhem op ClassPass.](https://classpass.com/search/arnhem/fitness-classes/3skPJ5A6cqV)
 
-<div class="kolommen">
+In Arnhem kost het standaardabonnement € 59 per maand voor 40 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
-<div class="kolom">
-
-### Wat je krijgt
-
-- Maandelijkse credits voor lessen en gymbezoeken
-- Standaardabonnement in Arnhem: 40 credits voor € 59 per maand
-- 14 dagen gratis met 10 workouts om te proberen
 - Studio's in Arnhem en de regio: krachttraining, boksen, aerial, dans, bootcamp, yoga en aikido
-- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
-
-</div>
-
-<div class="kolom">
-
-### Goed voor
-
-- Wie graag verschillende sporten probeert
-- Wie één tot drie keer per week sport
-- Studenten en forenzen die ook in andere steden willen sporten
-
-</div>
-
-<div class="kolom">
-
-### Let op
-
-- Het aantal credits per les verschilt per studio en tijdstip
-- Ongebruikte credits van een maand kun je één maand doorschuiven. Gebruik je ze dan nog niet, dan vervallen ze
-- Alleen als je opzegt tijdens de gratis proefperiode, stopt je toegang meteen. Met een betaald abonnement train je door tot het einde van je maand. Daarna vervallen je resterende credits
-
-</div>
-
-</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
@@ -125,16 +91,6 @@ Vooral kleinere studio's en personal training. In Arnhem zelf onder andere krach
 ## Basic-Fit in Arnhem
 
 Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland, waarvan 5 in Arnhem, onder andere aan de Walstraat in het centrum en aan de Hanzestraat, de Groningensingel en de Batavierenweg. Die laatste drie zijn dag en nacht open. Een jaarabonnement begint bij € 24,99 per 4 weken. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
-
-### Goed voor
-
-- Drie keer per week of vaker trainen voor weinig geld
-- Een vaste sportschool dicht bij huis of werk
-
-### Let op
-
-- Flex: 4 weken opzegtermijn
-- Met Comfort train je alleen in Nederland, met Premium of Ultimate ook in 5 andere landen
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
@@ -153,52 +109,9 @@ Nieuw bij ClassPass? Je begint met 14 dagen gratis en 10 work-outs.
 
 Tip: zet een herinnering een paar dagen voor het einde, en boek populaire avond- en weekendlessen een paar dagen vooruit. Alles over de regels lees je in [ClassPass gratis proberen](/nl/classpass-proefperiode/).
 
-## Welke past bij jou?
-
-<div class="kolommen">
-
-<div class="kolom kaart">
-
-### Je wilt elke week iets anders doen
-
-Kies ClassPass. Je wisselt tussen verschillende studio's en sporten, en sport ook in andere steden.
-
-[Naar ClassPass](/nl/classpass/)
-
-</div>
-
-<div class="kolom kaart">
-
-### Je traint meerdere keren per week
-
-Kies Basic-Fit. Een vaste club voor weinig geld, met Flex maandelijks opzegbaar.
-
-[Naar Basic-Fit](/nl/basic-fit/)
-
-</div>
-
-<div class="kolom kaart">
-
-### Je bent vaak op reis
-
-Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass actief is.
-
-[Lees: How ClassPass works (EN)](/guides/how-classpass-works/)
-
-</div>
-
-</div>
-
 ## Veelgestelde vragen
 
 <details open>
-<summary>Wat is goedkoper: ClassPass of een sportschool?</summary>
-
-Dat hangt af van hoe vaak je sport en wat je wilt doen. Train je vooral in de gym, zet dan de maandprijs van een lidmaatschap af tegen het aantal bezoeken. Wil je afwisselen tussen studio's, dan past een sportpas beter.
-
-</details>
-
-<details>
 <summary>Kan ik ClassPass ook buiten Arnhem gebruiken?</summary>
 
 Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden, zoals Utrecht en Amsterdam, en in het buitenland, overal waar ClassPass actief is.
@@ -213,9 +126,11 @@ Ja. Met ClassPass is er yoga bij Room4 Yoga in Velp en bij Life-Force Yoga in We
 </details>
 
 <details>
-<summary>Kan ik ClassPass op elk moment opzeggen?</summary>
+<summary>Welke sportscholen in Arnhem zijn maandelijks opzegbaar?</summary>
 
-Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatum, dan betaal je niet voor een nieuwe maand. Bij een betaald abonnement kun je ClassPass gebruiken tot het einde van die maand. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen. Resterende credits vervallen als je stopt. Lees ook [ClassPass opzeggen](/nl/classpass-opzeggen/).
+- **Basic-Fit Flex:** 4 weken opzegtermijn
+
+Een sportpas is nog flexibeler: ClassPass zeg je op elk moment op. Prijzen en opzegtermijnen vind je in [Sporten zonder contract](/nl/sporten-zonder-contract/).
 
 </details>
 

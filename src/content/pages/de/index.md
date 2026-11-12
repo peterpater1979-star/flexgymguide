@@ -39,14 +39,15 @@ Ein fester Preis pro Monat für Check-ins bei Partnerstudios. Classic, laut Webs
 
 ### ClassPass
 
-Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studios in der ganzen Stadt, auch im Ausland.
+Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studios in der ganzen Stadt, auch im Ausland. Zum Ausprobieren: 1 Monat gratis mit 10 Workouts.
 
 - Gut, wenn du Abwechslung magst
 - Gut bei ein- bis dreimal Training pro Woche
 - Funktioniert auch in 30 anderen Ländern
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-land">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 </div>
 
 </div>

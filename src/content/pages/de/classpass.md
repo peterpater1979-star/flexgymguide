@@ -1,6 +1,6 @@
 ---
 title: "ClassPass in Deutschland: so funktioniert es, Kosten und Kündigung"
-seoTitle: "ClassPass Deutschland: Kosten, Credits und Kündigung"
+seoTitle: "ClassPass Deutschland: Kosten, Credits und 1 Monat gratis"
 path: "/de/classpass/"
 zoekwoorden: "class pass classpass Preis Preise Kosten kostet teuer günstig Abo Mitgliedschaft Sportpass"
 description: "Was kostet ClassPass, wie funktionieren die Credits und wie kündigst du? Alles über den Sportpass in Deutschland, mit den Städten, in denen er gilt."
@@ -120,13 +120,13 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 <ul class="stedenlijst">
 <li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">Kreuzberg, Charlottenburg, Mitte, Prenzlauer Berg und Friedrichshain · <a href="/de/classpass-berlin/">nach Bezirk</a></span></li>
 <li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">Eimsbüttel, Ottensen, St. Pauli, Winterhude und Eppendorf · <a href="/de/classpass-hamburg/">nach Stadtteil</a></span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">Innenstadt, Sachsenhausen, Bornheim und Westend, viel Pilates</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">Innenstadt, Belgisches Viertel, Ehrenfeld und Nippes</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">Innenstadt, Sachsenhausen, Bornheim und Westend, viel Pilates · <a href="/de/classpass-frankfurt/">nach Stadtteil</a></span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">Innenstadt, Belgisches Viertel, Ehrenfeld und Nippes · <a href="/de/classpass-koeln/">nach Veedel</a></span></li>
 <li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">Maxvorstadt, Schwabing, Glockenbachviertel und Neuhausen, viel Pilates · <a href="/de/classpass-muenchen/">nach Viertel</a></span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">Kleines Angebot, mehr Auswahl in Frankfurt</span></li>
-<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">Mitte und West, viel Pilates</span></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">Stadtmitte, Carlstadt, Pempelfort und Bilk</span></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">Kleineres Angebot, vor allem im Zentrum</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">Mitte, West und Süd, viel Pilates · <a href="/de/classpass-stuttgart/">nach Stadtbezirk</a></span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">Stadtmitte, Carlstadt, Pempelfort und Bilk · <a href="/de/classpass-duesseldorf/">nach Stadtteil</a></span></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">Kleineres Angebot, vor allem im Zentrum und im Westen · <a href="/de/classpass-leipzig/">nach Stadtteil</a></span></li>
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">Kleineres Angebot, auch in Bochum</span></li>
 </ul>
 

@@ -5,12 +5,12 @@ path: "/fr/toulouse/"
 description: "À Toulouse, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Toulouse"
 kicker: "Guide ville Toulouse"
 ---
 
-Pas envie d’être lié à une seule salle ? À Toulouse, tu peux réserver des cours dans des studios partout en ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient. Tu ne veux aucun engagement ? Lis [Salle de sport sans engagement à Toulouse](/fr/salle-de-sport-sans-engagement-toulouse/).
+À Toulouse, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 5 chaînes de salles : Basic-Fit, Fitness Park, Keepcool, L’Orange bleue et ON AIR. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place. Tu ne veux aucun engagement ? Lis [Salle de sport sans engagement à Toulouse](/fr/salle-de-sport-sans-engagement-toulouse/).
 
 <h2 id="en-bref">En bref</h2>
 
@@ -146,25 +146,13 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 ## ClassPass à Toulouse
 
-Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
-
 ### Où
 
 Surtout dans le centre, autour des Carmes, du Capitole, de Matabiau et du Grand-Rond, et aussi à Balma, L’Union, Tournefeuille et Plaisance-du-Touch. Les studios par quartier et par sport sont sur ClassPass à Toulouse.
 
 [Voir les studios à Toulouse par quartier et par sport](/fr/classpass-toulouse/)
 
-### Ce que tu as
-
-- Des crédits chaque mois pour des cours et des séances en salle
-- Abonnement standard à Toulouse : 37 crédits pour 59 € par mois
-- 14 jours gratuits avec 10 séances pour essayer
-- Ça marche aussi dans plus de 2 500 villes et 31 pays
-
-### À savoir
-
-- Le nombre de crédits par cours dépend du studio et de l’heure
-- Résiliable à tout moment
+À Toulouse, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-toulouse">Profitez de 10 séances gratuites en 14 jours</a>
@@ -175,161 +163,14 @@ Surtout dans le centre, autour des Carmes, du Capitole, de Matabiau et du Grand-
 
 </div>
 
-<div class="kolom">
-
-<div id="basic-fit">
-
-<p class="kicker">Salle à petit prix</p>
-
-## Basic-Fit à Toulouse
-
-Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. L’abonnement d’un an commence à 24,99 € toutes les 4 semaines. Avec Flex, tu es sans engagement pour 9,99 € de plus, plus 19,99 € de frais d’inscription.
-
-### Idéal pour
-
-- T’entraîner trois fois par semaine ou plus pour pas cher
-- Avoir une salle fixe près de chez toi ou du travail
-
-### À savoir
-
-- Flex : préavis de 4 semaines
-- Les cours collectifs dépendent du club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
 </div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
-<div id="fitness-park">
-
-<p class="kicker">Salle avec cours</p>
-
-## Fitness Park à Toulouse
-
-Fitness Park est une chaîne française avec plus de 300 clubs en France, ouverts 7j/7 de 6h à 23h, et certains 24h/24. Sans engagement, tu paies 40 € (Classic), 55 € (Access+) ou 60 € (Ultimate) toutes les 4 semaines. Avec engagement, c’est 10 € de moins.
-
-### Idéal pour
-
-- T’entraîner trois fois par semaine ou plus
-- Avoir des cours collectifs dans ta salle
-
-### À savoir
-
-- Frais d’adhésion : 49 € sans engagement, 30 € avec
-- Espace boxe ou espace réservé aux femmes selon le club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
-<div id="keepcool">
-
-<p class="kicker">Salle avec coachs</p>
-
-## Keepcool à Toulouse
-
-À Toulouse, Keepcool a trois salles : Capitole, Matabiau et Atlanta. C’est une chaîne française avec plus de 270 salles en France selon Keepcool, des coachs dans la salle et des cours en petits groupes. Avec engagement d’un an, l’abonnement commence à 29,99 € toutes les 4 semaines. Sans engagement, c’est 44,99 €.
-
-### Idéal pour
-
-- Être accompagné par un coach
-- T’entraîner en petits groupes
-
-### À savoir
-
-- Une séance d’essai gratuite par an
-- Selon la zone, le prix peut être un peu plus élevé
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-## Lequel te convient ?
-
-<div class="kolommen">
-
-<div class="kolom">
-
-### Tu veux changer chaque semaine
-
-Choisis ClassPass. Passe librement du yoga au Pilates, à la boxe ou au spinning.
-
-[Voir ClassPass](/fr/classpass/)
-
-</div>
-
-<div class="kolom">
-
-### Tu t’entraînes trois fois par semaine ou plus
-
-Choisis Basic-Fit. Une salle à petit prix, avec ou sans engagement.
-
-[Voir Basic-Fit](/fr/basic-fit/)
-
-</div>
-
-<div class="kolom">
-
-### Tu veux des cours dans ta salle
-
-Choisis Fitness Park. Une salle avec cours collectifs, avec ou sans engagement.
-
-[Voir Fitness Park](/fr/fitness-park/)
-
-</div>
-
-<div class="kolom">
-
-### Tu veux être accompagné
-
-Choisis Keepcool. Des coachs dans la salle et des cours en petits groupes.
-
-[Voir Keepcool](/fr/keepcool/)
-
-</div>
-
-</div>
-
-<h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
-
-Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
-
-<ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-toulouse-kleding-dames">Vêtements de sport femme</a></li>
-<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-toulouse-kleding-heren">Vêtements de sport homme</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-toulouse-schoenen-dames">Chaussures de sport femme</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-toulouse-schoenen-heren">Chaussures de sport homme</a></li>
-<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-toulouse-fles">Gourde</a></li>
-<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-toulouse-handdoek">Serviette de sport</a></li>
-<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-toulouse-hangslot">Cadenas pour le casier</a></li>
-<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-toulouse-gripsokken">Chaussettes grip pour yoga et pilates</a></li>
-</ul>
-
-<p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
 
 ## Questions fréquentes
 
 <details open>
-<summary>ClassPass est-il moins cher qu’une salle de sport à Toulouse ?</summary>
+<summary>Peut-on faire du sport sans engagement à Toulouse ?</summary>
 
-Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+Oui. ClassPass se résilie à tout moment, et Basic-Fit, Fitness Park et Keepcool ont une formule sans engagement à Toulouse, un peu plus chère que l’abonnement d’un an. Les prix et préavis sont comparés dans [Salle de sport sans engagement à Toulouse](/fr/salle-de-sport-sans-engagement-toulouse/).
 
 </details>
 
@@ -337,27 +178,6 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 <summary>Puis-je utiliser ClassPass en dehors de Toulouse ?</summary>
 
 Oui. Tes crédits marchent dans d’autres villes françaises et à l’étranger, partout où ClassPass est présent.
-
-</details>
-
-<details>
-<summary>Basic-Fit est-il sans engagement ?</summary>
-
-Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies avec 4 semaines de préavis. L’abonnement normal t’engage pour un an.
-
-</details>
-
-<details>
-<summary>Fitness Park est-il sans engagement ?</summary>
-
-Oui, si tu veux. Sans engagement, tu paies 10 € de plus toutes les 4 semaines et 49 € de frais d’adhésion au lieu de 30 €.
-
-</details>
-
-<details>
-<summary>Keepcool est-il sans engagement ?</summary>
-
-Oui, si tu veux : sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec engagement d’un an, ça commence à 29,99 €.
 
 </details>
 

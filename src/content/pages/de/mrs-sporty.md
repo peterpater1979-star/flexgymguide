@@ -74,6 +74,13 @@ Jeder Club wird von einer Franchisepartnerin oder einem Franchisepartner geführ
 
 </details>
 
+<details>
+<summary>Ist Mrs.Sporty auf ClassPass?</summary>
+
+Einige Clubs ja, zum Beispiel in Berlin-Karlshorst, Berlin-Westend, Hamburg-Ottensen, Bietigheim-Bissingen und Erftstadt. Manche Clubs bitten dich, dich vor der ersten Buchung zu melden; das steht dann in der App beim Club. Welche Clubs gerade mitmachen, siehst du in der ClassPass-App.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/">Trainieren in Deutschland</a>
 </div>

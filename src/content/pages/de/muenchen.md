@@ -5,12 +5,12 @@ path: "/de/muenchen/"
 description: "Flexibel trainieren in München: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 8 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "München"
 kicker: "Stadtguide München"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In München trainierst du mit einem Sportpass in vielen Studios oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in München](/de/fitnessstudio-ohne-vertrag-muenchen/).
+München hat ein großes Angebot für flexibles Training, vor allem in der Maxvorstadt, in Schwabing, im Glockenbachviertel und in Haidhausen. Dort findest du auf ClassPass viele Studios für Reformer-Pilates, Lagree, Indoor-Cycling und Yoga. Für ein festes Gym gibt es Fitness First mit 8 Clubs, McFit, FitX und Basic-Fit. Hier siehst du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in München](/de/fitnessstudio-ohne-vertrag-muenchen/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -36,10 +36,11 @@ Urban Sports Club gibt es auch in München. Ein Sportpass mit festem Preis pro M
 
 ### ClassPass
 
-Yoga, Pilates, Boxen und mehr mit einem Abo auf Credit-Basis, in Studios in der ganzen Stadt. Ohne Bindung an ein Studio, jederzeit kündbar, und dein Abo gilt auch in anderen Städten.
+Ein Abo auf Credit-Basis für Reformer-Pilates, Indoor-Cycling und Yoga, vor allem in Schwabing und der Maxvorstadt. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/de/classpass/">ClassPass ansehen</a>
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-muenchen">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
 </div>
 
 </div>
@@ -159,7 +160,7 @@ Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben i
 
 ## ClassPass in München
 
-Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche in Studios in der ganzen Stadt einlöst. Ideal, wenn du gern abwechselst und dich nicht an einen Ort binden willst.
+In München liegen viele ClassPass-Studios in der Maxvorstadt, in Schwabing und im Glockenbachviertel. Wohnst oder arbeitest du dort, hast du die Wahl zwischen Reformer-Pilates, Indoor-Cycling, Bootcamp und Yoga in Gehweite.
 
 ### Wo
 
@@ -169,21 +170,7 @@ Ein sehr großes Angebot, verteilt über die ganze Stadt, von Reformer-Pilates u
 
 ### Das bekommst du
 
-- Monatliche Credits für Kurse und Gym-Besuche
-- Standard-Abo in München: 42 Credits für 59 € im Monat
-- 1 Monat gratis mit 10 Workouts zum Ausprobieren
-- Auch in über 2.500 anderen Städten in 31 Ländern nutzbar
-
-### Gut für
-
-- Alle, die gern verschiedene Sportarten ausprobieren
-- Alle, die ein- bis dreimal pro Woche trainieren
-- Expats und Vielreisende
-
-### Achte darauf
-
-- Die Credits pro Kurs unterscheiden sich je nach Studio und Uhrzeit
-- Nicht genutzte Credits kannst du einen Monat mitnehmen. Nutzt du sie dann nicht, verfallen sie
+Das Standard-Abo kostet in München 59 € im Monat für 42 Credits. Neu bei ClassPass? Dann testest du zuerst 1 Monat gratis mit 10 Workouts. Wie die Credits funktionieren, liest du unter [ClassPass-Credits erklärt](/de/classpass-credits/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/de/classpass/">Alles über ClassPass</a>
@@ -202,23 +189,6 @@ Ein sehr großes Angebot, verteilt über die ganze Stadt, von Reformer-Pilates u
 ## Fitness First in München
 
 Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 8 in München. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
-
-### Das bekommst du
-
-- Zugang zu allen oder ausgewählten Clubs, je nach Mitgliedschaft
-- Großes Kursprogramm, unter anderem HYROX, Les Mills, Yoga und Aqua
-- Wellnessbereich, in einigen Clubs auch ein Schwimmbad
-- Freunde kostenlos zum Training mitbringen
-
-### Gut für
-
-- Alle, die dreimal pro Woche oder öfter trainieren
-- Alle, die Gym, Kurse und Wellness an einem Ort wollen
-
-### Achte darauf
-
-- Vertragslaufzeit und Kündigungsfrist hängen von der Mitgliedschaft ab. Prüfe sie vor dem Abschluss
-- Nur in Deutschland und Österreich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -244,16 +214,7 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 - Flex ohne feste Laufzeit für 49,90 € im Monat
 - Mit 12 Monaten Laufzeit 29,90 €, mit 24 Monaten 24,90 € im Monat
 - Live-Kurse in den teilnehmenden Studios
-
-### Gut für
-
-- Alle, die günstig und oft an Geräten trainieren
-- Alle, die keinen großen Wellnessbereich brauchen
-
-### Achte darauf
-
 - Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (laut McFit)
-- Weniger Kurse und Extras als bei Fitness First
 
 <p class="klein">Preise von Oktober 2026, laut mcfit.com. Prüfe den aktuellen Preis immer bei McFit.</p>
 
@@ -278,25 +239,25 @@ McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit 
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
-## Was passt zu dir?
+## Was passt zu dir in München?
 
 <div class="kolommen">
 
 <div class="kolom">
 
-### Du willst jede Woche etwas anderes machen
+### Du wohnst in Schwabing, der Maxvorstadt oder im Glockenbach
 
-Nimm ClassPass. Du wechselst frei zwischen Yoga, Pilates, Boxen und Spinning.
+Nimm ClassPass. Dort liegen viele Studios nah beieinander, ideal für Abwechslung.
 
-[Zu ClassPass](/de/classpass/)
+[Studios nach Viertel](/de/classpass-muenchen/)
 
 </div>
 
 <div class="kolom">
 
-### Du trainierst dreimal pro Woche oder öfter
+### Du willst Gym, Kurse und Wellness an einem Ort
 
-Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
+Nimm Fitness First mit 8 Clubs in München. Probier ihn zuerst mit einem kostenlosen Probetraining aus.
 
 [Zu Fitness First](/de/fitness-first/)
 
@@ -304,11 +265,11 @@ Nimm Fitness First. Gym, Kurse und Wellness in einem Club in deiner Nähe.
 
 <div class="kolom">
 
-### Du bist oft unterwegs
+### Du willst günstig an Geräten trainieren
 
-Nimm ClassPass. Dein Abo funktioniert auch in anderen Ländern, in denen ClassPass aktiv ist.
+Nimm McFit, FitX oder Basic-Fit. Basic-Fit hat Clubs in der Marsstraße und der Moosacher Straße.
 
-[ClassPass im Ausland](/de/classpass/#ausland)
+[Ohne Vertrag in München](/de/fitnessstudio-ohne-vertrag-muenchen/)
 
 </div>
 
@@ -334,9 +295,16 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 ## Häufige Fragen
 
 <details open>
-<summary>Was ist günstiger: ClassPass oder ein Fitnessstudio?</summary>
+<summary>Wo gibt es in München viele ClassPass-Studios?</summary>
 
-Das hängt davon ab, wie oft du trainierst und was du machen willst. Trainierst du vor allem im Gym, vergleiche den Monatsbeitrag mit der Zahl deiner Besuche. Willst du zwischen Studios wechseln, passt ein Sportpass besser.
+Vor allem in der Maxvorstadt, in Schwabing, im Glockenbachviertel und in Haidhausen. Eine Auswahl pro Viertel findest du unter [ClassPass in München](/de/classpass-muenchen/).
+
+</details>
+
+<details>
+<summary>Welche Fitnessstudios in München sind monatlich kündbar?</summary>
+
+McFit und Basic-Fit haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. Bei FitX bindest du dich zuerst 12 Monate. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in München](/de/fitnessstudio-ohne-vertrag-muenchen/).
 
 </details>
 

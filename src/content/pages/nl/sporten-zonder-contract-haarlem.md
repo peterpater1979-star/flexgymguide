@@ -5,14 +5,14 @@ path: "/nl/sporten-zonder-contract-haarlem/"
 description: "Sporten in Haarlem zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex en losse lessen. Wat het kost en hoe je opzegt."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Sporten zonder contract in Haarlem"
 kicker: "Stadsgids Haarlem"
 ---
 
 <div class="fotobanner foto-gymketen" role="img" aria-label="Sportschool"></div>
 
-Geen zin om een jaar vast te zitten aan één sportschool? In Haarlem kun je ook sporten met een abonnement dat je elke maand opzegt, of gewoon per les betalen. Dit zijn de opties.
+In Haarlem is de keus kleiner dan in Amsterdam, maar je kunt prima zonder jaarcontract sporten: bij Trainmore aan het Hortusplein, bij Basic-Fit met Flex, of met ClassPass. Je ClassPass-abonnement werkt ook in Amsterdam, vlakbij met de trein. Dit zijn de opties, met de prijzen van oktober 2026.
 
 <h2 id="kort">In het kort</h2>
 
@@ -27,11 +27,10 @@ Geen zin om een jaar vast te zitten aan één sportschool? In Haarlem kun je ook
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
-Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Haarlem. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand.
+Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Haarlem. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand. Welke studio's er zijn, van reformer-pilates tot kickboksen, zie je op [ClassPass in Haarlem](/nl/classpass-haarlem/).
 
 - **Abonnement in Haarlem:** het standaardabonnement is 47 credits voor € 69 per maand, net als in Amsterdam. Er zijn kleinere en grotere abonnementen; die zie je in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 - **Eerst proberen:** 14 dagen gratis met 10 work-outs. Lees [ClassPass gratis proberen](/nl/classpass-proefperiode/).
-- **Pauzeren:** bij opzeggen biedt ClassPass vaak een gratis pauze aan. Lees [ClassPass opzeggen of pauzeren](/nl/classpass-opzeggen/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
@@ -47,7 +46,7 @@ Trainmore is een premium sportschoolketen met groepslessen en clubs in het centr
 | 1 jaar | € 72 |
 | 2 jaar | € 65 |
 
-**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Hortusplein betaal je met een jaarcontract dan € 60 in plaats van € 72. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de uitleg van Trainmore.
+**Korting als je vaker traint.** Met een contract van 1 of 2 jaar krijg je € 1 korting per workout, tot € 28 per 4 weken; met Flex niet. Bij Hortusplein betaal je met een jaarcontract dan € 60 in plaats van € 72. Hoe het werkt, lees je bij [korting per workout](/nl/trainmore/#korting).
 
 Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
@@ -57,28 +56,7 @@ Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het 
 
 <h2 id="basic-fit">Basic-Fit Flex: zonder minimale looptijd</h2>
 
-Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaarabonnement van 52 weken is er Flex, zonder minimale looptijd. Flex kost € 9,99 per 4 weken meer dan het jaarabonnement, en de welkomstacties voor jaarabonnementen gelden er niet voor.
-
-| Flex | Per 4 weken | Wat je krijgt |
-| --- | --- | --- |
-| Comfort | € 34,98 | Alle clubs in Nederland |
-| Premium | € 39,98 | Alle clubs in 6 landen, één gast per week, massagestoelen |
-| Ultimate | € 44,98 | Alle clubs in 6 landen, onbeperkt gasten, sportwater, gratis pauzeren |
-
-Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) en [Alles over Basic-Fit](/nl/basic-fit/).
-
-<p class="klein">Bron: basic-fit.com/nl-nl/prijs (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
-
-<h2 id="los">Losse lessen en rittenkaarten</h2>
-
-Veel yoga-, pilates- en boksstudio's verkopen ook losse lessen of een kaart voor een aantal lessen. Je betaalt dan alleen als je gaat. Dat is handig als je één vaste studio hebt waar je af en toe naartoe wilt. Kijk op de site van de studio wat ze aanbieden; prijzen en geldigheid verschillen per studio.
-
-<h2 id="letop">Waar je op let</h2>
-
-- **Inschrijfkosten.** Sommige sportscholen rekenen eenmalige kosten bij een flexibel lidmaatschap.
-- **Per maand of per 4 weken.** Bij betalen per 4 weken betaal je 13 keer per jaar.
-- **Opzegtermijn.** "Maandelijks opzegbaar" kan betekenen dat je nog een maand doorbetaalt. Lees de voorwaarden.
-- **Hoe vaak je gaat.** Train je drie keer per week of vaker op dezelfde plek, dan is een vast contract vaak goedkoper. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
+Basic-Fit heeft Flex zonder minimale looptijd: € 9,99 per 4 weken meer dan het jaarabonnement, dus vanaf € 34,98 per 4 weken, plus eenmalig € 19,99 inschrijving. Je zegt op met 4 weken opzegtermijn. Wat Comfort, Premium en Ultimate verschillen, zie je in [Sporten zonder contract](/nl/sporten-zonder-contract/#basic-fit). Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/).
 
 ## Veelgestelde vragen
 
@@ -90,9 +68,9 @@ Ja. Met ClassPass zeg je op elk moment op, Trainmore en Basic-Fit hebben een Fle
 </details>
 
 <details>
-<summary>Wat is de goedkoopste manier om zonder contract te sporten?</summary>
+<summary>Kan ik met ClassPass uit Haarlem ook in Amsterdam sporten?</summary>
 
-Dat hangt af van hoe vaak je gaat. Voor een paar lessen per maand is een klein ClassPass-abonnement of een losse les het voordeligst. Train je vaak op één plek, dan is een maandelijks opzegbaar lidmaatschap bij een sportschool vaak goedkoper per keer.
+Ja. Met hetzelfde abonnement boek je ook lessen bij studio's in Amsterdam en in andere steden. Welke studio's er in Amsterdam zijn, zie je op [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
 
 </details>
 
@@ -105,6 +83,6 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/haarlem/">Flexibel sporten in Haarlem</a>
-<a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
+<a class="knop knop-rand" href="/nl/sporten-zonder-contract/">Zonder contract in Nederland</a>
 <a class="knop knop-rand" href="/nl/gyms-without-contract-haarlem/">In English</a>
 </div>

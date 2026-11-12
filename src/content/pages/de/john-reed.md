@@ -125,6 +125,13 @@ JOHN REED teilt die Clubs in Kategorien ein. Wie viel du zahlst, hängt von der 
 
 </details>
 
+<details>
+<summary>Ist JOHN REED auf ClassPass?</summary>
+
+Eine Mitgliedschaft bei JOHN REED bekommst du über ClassPass nicht. In Berlin bietet aber EZA Personal Training über ClassPass Training in drei JOHN REED Clubs an: in Prenzlauer Berg, Gesundbrunnen und am Kottbusser Tor. Welche Angebote gerade dabei sind, siehst du in der ClassPass-App.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/">Trainieren in Deutschland</a>
 <a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>

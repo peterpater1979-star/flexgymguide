@@ -1,5 +1,6 @@
 ---
 title: "ClassPass in Berlin: Studios nach Bezirk und Sportart"
+seoTitle: "ClassPass Berlin: Studios nach Bezirk und 1 Monat gratis"
 path: "/de/classpass-berlin/"
 description: "ClassPass in Berlin: Studios nach Bezirk und Sportart, von Lagree und Reformer-Pilates bis Boxen, Yoga und Tanz."
 lang: de

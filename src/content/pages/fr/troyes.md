@@ -5,12 +5,12 @@ path: "/fr/troyes/"
 description: "À Troyes, fais du sport sans être lié à une seule salle : avec ClassPass, tu t’entraînes dans des studios de la ville."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Troyes"
 kicker: "Guide ville Troyes"
 ---
 
-Pas envie d’être lié à une seule salle ? À Troyes, tu peux réserver des cours dans des studios de la ville avec un pass sport. Voici ce qui te convient.
+À Troyes, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 1 chaîne de salles : Magic Form. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 L’offre ClassPass à Troyes est encore petite : tu y trouves surtout une salle de remise en forme ouverte 7 jours sur 7. Ça vaut le coup si tu veux t’entraîner sans engagement ou si tu voyages souvent, car tes crédits marchent aussi à Reims, à Paris et ailleurs.
 
@@ -92,8 +92,6 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 ## ClassPass à Troyes
 
-Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
-
 ### Où
 
 Une petite offre : [Magic Form](/fr/magic-form/) (boulevard du 14 Juillet), une salle de remise en forme ouverte 7 jours sur 7, avec musculation et étirements.
@@ -102,23 +100,13 @@ Une petite offre : [Magic Form](/fr/magic-form/) (boulevard du 14 Juillet), une 
 
 ### Bon pour
 
-- Ceux qui veulent une salle sans engagement à long terme
 - Ceux qui vont souvent à Reims ou à Paris et veulent y réserver des cours
-- Ceux qui s’entraînent une à trois fois par semaine
 
-### Ce que tu as
-
-- Des crédits chaque mois pour des cours et des séances en salle
-- Abonnement standard à Troyes : 37 crédits pour 59 € par mois
-- 14 jours gratuits avec 10 séances pour essayer
-- Ça marche aussi dans plus de 2 500 villes et 31 pays
+À Troyes, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
 - L’offre à Troyes est petite : regarde aussi les studios à Reims si tu y passes souvent
-- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
-- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-troyes">Profitez de 10 séances gratuites en 14 jours</a>
@@ -149,9 +137,9 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 ## Questions fréquentes
 
 <details open>
-<summary>ClassPass est-il moins cher qu’une salle de sport à Troyes ?</summary>
+<summary>Peut-on faire du sport sans engagement à Troyes ?</summary>
 
-Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+Oui, avec ClassPass, que tu résilies à tout moment. Les autres options sont comparées dans [Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/).
 
 </details>
 

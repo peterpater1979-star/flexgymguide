@@ -88,6 +88,13 @@ Ab 27,99 € im Monat. Der genaue Preis hängt vom Studio und von der Laufzeit a
 
 </details>
 
+<details>
+<summary>Ist EASYFITNESS auf ClassPass?</summary>
+
+Einige Studios ja, zum Beispiel in Brandenburg an der Havel, Hamburg-Rahlstedt, Hannover und Mörfelden-Walldorf. Welche Studios gerade mitmachen, siehst du in der ClassPass-App.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/">Trainieren in Deutschland</a>
 </div>

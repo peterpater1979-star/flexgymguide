@@ -10,7 +10,7 @@ crumb: "Birmingham"
 kicker: "City guide Birmingham"
 ---
 
-Don't want to be tied to one gym? In Birmingham you can join a low-cost gym without a contract, or use a fitness pass at studios in the city. Here's what suits you. Don’t want a contract? Read [Gyms without a contract in Birmingham](/uk/gyms-without-contract-birmingham/).
+Birmingham has plenty of low-cost gyms: The Gym Group has 9 in the city and PureGym 7, all without a contract on monthly plans, and David Lloyd is here too. On ClassPass you mostly find gym access across the West Midlands, with a few boutique studios. Here's what each costs and how flexible it is. Don't want a contract? Read [Gyms without a contract in Birmingham](/uk/gyms-without-contract-birmingham/).
 
 <h2 id="glance">At a glance</h2>
 
@@ -22,7 +22,7 @@ Don't want to be tied to one gym? In Birmingham you can join a low-cost gym with
 
 ### ClassPass
 
-Yoga, Pilates, boxing and more with one credit-based membership, at studios across the city. Cancel anytime, and your plan also works in other cities.
+Mostly gym access across Birmingham and the West Midlands, plus reformer Pilates, yoga and boxing. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -103,33 +103,16 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 ## ClassPass in Birmingham
 
-With ClassPass you get monthly credits to book classes and gym visits at studios and gyms across the city. Ideal if you like variety and don't want to commit to one place.
-
 ### Where
 
 Mostly gym access, spread across Birmingham and the wider West Midlands, including Wolverhampton, West Bromwich, Walsall and Dudley. Here is a small selection. In Birmingham there are Nuffield Health at Broadway Plaza, Anytime Fitness on Hagley Road and in Yardley, and 18Y Ultimate Fitness in Balsall Heath. Nearby there are énergie Fitness in Wolverhampton and Motion Health and Leisure at Merry Hill, which has a pool. There are only a few boutique studios, so you can also look at martial arts classes and outdoor bootcamps.
 
 [See the studios in Birmingham on ClassPass.](https://classpass.com/search/birmingham/fitness-classes/4qGM2VuRV2P)
 
-### What you get
+In Birmingham the standard plan costs £49 a month for 36 credits, and you can try it first with 14 days free and 10 workouts. How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
-- Monthly credits for classes and gym visits
-- Standard plan in Birmingham: 36 credits for £49 a month
-- 14 days free with 10 workouts to try it out
 - Reformer Pilates, yoga, boxing and gyms in the city centre, the Jewellery Quarter, Digbeth, Edgbaston and Harborne
 - Also studios in Solihull, Sutton Coldfield and the wider West Midlands
-- Use it in more than 2,500 other cities in 31 countries
-
-### Good for
-
-- People who like to try different workouts
-- Training one to three times a week
-- Students and frequent travellers
-
-### Watch out for
-
-- Credits per class vary by studio and time of day
-- Unused credits roll over for one month. If you still don't use them, they expire
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
@@ -149,22 +132,6 @@ Mostly gym access, spread across Birmingham and the wider West Midlands, includi
 
 The Gym Group has 9 gyms in Birmingham: Broad Street, Digbeth, Hagley Road, Kings Heath, Kingsbury Road, Perry Barr, Selly Oak, Sheldon and Stechford. Monthly memberships have no contract, and most gyms are open 24/7.
 
-### What you get
-
-- A gym floor with classes included
-- 24/7 access at most gyms with Standard or Ultimate
-- Access to other gyms with Ultimate
-
-### Good for
-
-- Training three times a week or more on a budget
-- Students and anyone who wants no contract
-
-### Watch out for
-
-- Off-peak only gives access at quieter hours
-- 24/7 access is not available at every gym
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>
@@ -183,58 +150,11 @@ The Gym Group has 9 gyms in Birmingham: Broad Street, Digbeth, Hagley Road, King
 
 PureGym is a budget gym chain with over 450 gyms in the UK, including 7 gyms in Birmingham. Most are open 24/7. Every plan is without a contract, prices start at £18.99 a month for Off-Peak, and classes are included at most gyms.
 
-### Good for
-
-- Training three times a week or more for little money
-- Not being tied to a contract
-
-### Keep in mind
-
-- The price differs per gym
-- Off-Peak only gives access outside peak hours
-- Joining fee from £10
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
 </div>
-
-</div>
-
-</div>
-
-## Which one suits you?
-
-<div class="kolommen">
-
-<div class="kolom">
-
-### You want something different every week
-
-Go for ClassPass. Switch freely between yoga, Pilates, boxing and spin.
-
-[Go to ClassPass](/uk/classpass/)
-
-</div>
-
-<div class="kolom">
-
-### You train three times a week or more
-
-Go for The Gym Group. A low-cost gym without a contract, close to home or work.
-
-[Go to The Gym Group](/uk/the-gym-group/)
-
-</div>
-
-<div class="kolom">
-
-### You travel a lot
-
-Go for ClassPass. Your membership also works in other countries where ClassPass is available.
-
-[ClassPass abroad](/uk/classpass/#abroad)
 
 </div>
 
@@ -260,13 +180,6 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 ## Frequently asked questions
 
 <details open>
-<summary>Is ClassPass cheaper than a gym membership in Birmingham?</summary>
-
-It depends on how often you train and what you want to do. If you mostly use the gym floor, a low-cost gym is usually cheaper. If you want to mix studios and classes, a fitness pass is usually the better fit.
-
-</details>
-
-<details>
 <summary>Can I use ClassPass outside Birmingham?</summary>
 
 Yes. You can use your credits in other UK cities and abroad, wherever ClassPass is available.
@@ -274,9 +187,9 @@ Yes. You can use your credits in other UK cities and abroad, wherever ClassPass 
 </details>
 
 <details>
-<summary>Does The Gym Group have a contract?</summary>
+<summary>Which gyms in Birmingham have no contract?</summary>
 
-Not on monthly plans. Saver plans run for 9 or 12 months in exchange for a lower price.
+The Gym Group and PureGym: their monthly memberships have no minimum term. ClassPass doesn't tie you down either. Prices and how to cancel are in [Gyms without a contract in Birmingham](/uk/gyms-without-contract-birmingham/).
 
 </details>
 
