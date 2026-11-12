@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in Stuttgart"
-seoTitle: "ClassPass Stuttgart: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudio in Stuttgart monatlich kündbar: deine Optionen"
 path: "/de/stuttgart/"
 description: "Flexibel trainieren in Stuttgart: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 4 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -152,6 +152,8 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 Ein gutes Angebot, vor allem im Stuttgarter Westen, in der Mitte und im Süden. Eine kleine Auswahl: Reformer-Pilates bei JUST Social Health Club, SPRING SOCIETY, Élysio, PILACHA und OHEMIA, Lagree bei Holistic House und Matten-Pilates bei U Pilates Hub. Dazu Yoga bei OM Yoga, Namotoyoga und YOGA13, Boxen bei SECRETBOXING, Functional Training beim FT-Club und HYROX-Training bei THE BACE.
 
 [Sieh dir die Studios in Stuttgart auf ClassPass an.](/go/classpass-de-stuttgart/?epi=fgg-de-stuttgart)
+
+[Alle Studios in Stuttgart nach Stadtbezirk und Sportart ansehen.](/de/classpass-stuttgart/)
 
 ### Das bekommst du
 
