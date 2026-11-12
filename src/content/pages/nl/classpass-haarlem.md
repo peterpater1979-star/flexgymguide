@@ -71,6 +71,8 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - Met je credits kun je bij een paar zaken ook iets te eten of drinken halen, bijvoorbeeld koffie bij het café van Moov Studio in de Kloosterstraat of bij Pür Coffee, in hetzelfde pand als PILAT3S.
 - Je Haarlemse abonnement werkt ook in Amsterdam, een kwartier met de trein, en in de rest van Nederland en het buitenland. Zie [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
 
+[Bekijk de studio's in Haarlem op ClassPass.](https://classpass.com/search/haarlem/fitness-classes/6HKVuynhb67)
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/classpass/">Alles over ClassPass</a>
 <a class="knop knop-rand" href="/nl/haarlem/">Flexibel sporten in Haarlem</a>

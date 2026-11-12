@@ -95,6 +95,8 @@ In Haarlem kost het standaardabonnement € 69 per maand voor 47 credits, en je 
 
 [Bekijk de studio's in Haarlem per buurt en per sport.](/nl/classpass-haarlem/)
 
+[Bekijk de studio's in Haarlem op ClassPass.](https://classpass.com/search/haarlem/fitness-classes/6HKVuynhb67)
+
 - Vooral (reformer) pilates in en rond het centrum, maar ook hot yoga, barre, kickboksen, dans, bootcamp en open gym bij Trainmore
 - Werk of woon je ook in Amsterdam? Daar heb je met hetzelfde abonnement veel meer keuze
 - Ook studio's in Beverwijk, Aalsmeer en Sassenheim
