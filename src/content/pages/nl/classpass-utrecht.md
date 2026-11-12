@@ -74,7 +74,8 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - **[Vechtsport](https://classpass.com/search/utrecht/martial-arts-classes/5h78UixPYkf):** onder andere kickboksen, Brazilian jiu-jitsu en MMA bij IMPACT Fit
 - **[Dansen](https://classpass.com/search/utrecht/dance-classes/5effKezUzxX):** onder andere paaldans bij Studio Aeris en Aerial Studio
 - **[Open gym](https://classpass.com/search/utrecht/gym-time-classes/4Ymb4r2s6Y7):** onder andere [Trainmore](/nl/trainmore/) aan het Stationsplein, het Janskerkhof, in het Muntgebouw en in Bilthoven, plus De Workout, ALL INN Fitness & Health, COMMIT, Lead Out Gym en Elevate Lifestyle
-- Verder staan er lessen voor **[roeien](https://classpass.com/search/utrecht/rowing-classes/55qPDXbjgcf)**, **[hardlopen](https://classpass.com/search/utrecht/running-classes/4Rm52hUUsX5)** en **[buitensporten](https://classpass.com/search/utrecht/outdoors-classes/3z9Vh8zi13u)** op ClassPass. Klik voor het actuele aanbod.
+- **[Hardlopen](https://classpass.com/search/utrecht/running-classes/4Rm52hUUsX5)** en **[buitensporten](https://classpass.com/search/utrecht/outdoors-classes/3z9Vh8zi13u):** onder andere Flow Motion
+- **[Roeien](https://classpass.com/search/utrecht/rowing-classes/55qPDXbjgcf):** klik voor de studio's die roeilessen geven
 
 <h2 id="tips">Tips</h2>
 
