@@ -5,12 +5,12 @@ path: "/fr/cannes/"
 description: "À Cannes, fais du sport sans être lié à une seule salle : ClassPass dans des studios partout en ville, ou une salle avec ou sans engagement."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Cannes"
 kicker: "Guide ville Cannes"
 ---
 
-Pas envie d’être lié à une seule salle ? À Cannes, tu peux réserver des cours dans des studios partout en ville avec un pass sport, ou t’inscrire dans une salle de sport avec ou sans engagement. Voici ce qui te convient.
+À Cannes, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 2 chaînes de salles : Basic-Fit et ON AIR. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 L’offre ClassPass à Cannes même est petite, mais elle grandit vite dès que tu sors de la ville : au Cannet, à Antibes, à Mougins et à Mandelieu, et surtout à Nice. On y trouve surtout du Pilates. Pratique si tu bouges sur la Côte d’Azur, car tu gardes le même abonnement partout.
 
@@ -106,8 +106,6 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 ## ClassPass à Cannes
 
-Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
-
 ### Où
 
 Une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu, et beaucoup plus à Nice. Surtout du Pilates.
@@ -118,54 +116,17 @@ Une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu
 
 - Ceux qui veulent faire du Pilates sans prendre un abonnement dans un seul studio
 - Ceux qui se déplacent entre Cannes, Antibes et Nice
-- Ceux qui s’entraînent une à trois fois par semaine
 
-### Ce que tu as
-
-- Des crédits chaque mois pour des cours et des séances en salle
-- Abonnement standard à Cannes : 37 crédits pour 59 € par mois
-- 14 jours gratuits avec 10 séances pour essayer
-- Ça marche aussi dans plus de 2 500 villes et 31 pays
+À Cannes, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
 - Une grande partie de l’offre est autour de Cannes et à Nice : regarde bien l’adresse et le trajet au moment de réserver
 - Pour le Pilates Reformer, les chaussettes antidérapantes sont presque toujours obligatoires
-- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
-- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-cannes">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
-<div id="basic-fit">
-
-<p class="kicker">Salle à petit prix</p>
-
-## Basic-Fit à Cannes
-
-Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. L’abonnement d’un an commence à 24,99 € toutes les 4 semaines. Avec Flex, tu es sans engagement pour 9,99 € de plus, plus 19,99 € de frais d’inscription.
-
-### Idéal pour
-
-- T’entraîner trois fois par semaine ou plus pour pas cher
-- Avoir une salle fixe près de chez toi ou du travail
-
-### À savoir
-
-- Flex : préavis de 4 semaines
-- Les cours collectifs dépendent du club
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
 </div>
 
 </div>
@@ -185,65 +146,12 @@ Nouveau sur ClassPass ? Tu commences par un essai gratuit de 14 jours avec 10 s�
 
 L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 
-## Lequel te convient ?
-
-<div class="kolommen">
-
-<div class="kolom">
-
-### Tu veux changer chaque semaine
-
-Choisis ClassPass. Passe librement du yoga au Pilates, à la boxe ou au spinning.
-
-[Voir ClassPass](/fr/classpass/)
-
-</div>
-
-<div class="kolom">
-
-### Tu t’entraînes trois fois par semaine ou plus
-
-Choisis Basic-Fit. Une salle à petit prix, avec ou sans engagement.
-
-[Voir Basic-Fit](/fr/basic-fit/)
-
-</div>
-
-<div class="kolom">
-
-### Tu voyages beaucoup
-
-Choisis ClassPass. Ton abonnement marche aussi dans les autres pays où ClassPass est présent.
-
-[ClassPass à l’étranger](/fr/classpass/#etranger)
-
-</div>
-
-</div>
-
-<h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
-
-Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
-
-<ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-cannes-kleding-dames">Vêtements de sport femme</a></li>
-<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-cannes-kleding-heren">Vêtements de sport homme</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-cannes-schoenen-dames">Chaussures de sport femme</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-cannes-schoenen-heren">Chaussures de sport homme</a></li>
-<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-cannes-fles">Gourde</a></li>
-<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-cannes-handdoek">Serviette de sport</a></li>
-<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-cannes-hangslot">Cadenas pour le casier</a></li>
-<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-cannes-gripsokken">Chaussettes grip pour yoga et pilates</a></li>
-</ul>
-
-<p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
-
 ## Questions fréquentes
 
 <details open>
-<summary>ClassPass est-il moins cher qu’une salle de sport à Cannes ?</summary>
+<summary>Peut-on faire du sport sans engagement à Cannes ?</summary>
 
-Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+Oui. ClassPass se résilie à tout moment, et Basic-Fit a une formule sans engagement à Cannes, un peu plus chère que l’abonnement d’un an. Les prix et préavis sont comparés dans [Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/).
 
 </details>
 
@@ -258,13 +166,6 @@ Surtout du Pilates, à Cannes et autour, au Cannet, à Antibes, à Mougins et à
 <summary>Puis-je utiliser ClassPass en dehors de Cannes ?</summary>
 
 Oui. Tes crédits marchent dans d’autres villes françaises et à l’étranger, partout où ClassPass est présent.
-
-</details>
-
-<details>
-<summary>Basic-Fit est-il sans engagement ?</summary>
-
-Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies avec 4 semaines de préavis. L’abonnement normal t’engage pour un an.
 
 </details>
 

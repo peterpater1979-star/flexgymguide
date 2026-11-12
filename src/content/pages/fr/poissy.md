@@ -5,12 +5,12 @@ path: "/fr/poissy/"
 description: "À Poissy, fais du sport sans être lié à une seule salle : avec ClassPass, tu t’entraînes dans des studios de la ville."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Poissy"
 kicker: "Guide ville Poissy"
 ---
 
-Pas envie d’être lié à une seule salle ? À Poissy, tu peux réserver des cours dans des studios de la ville avec un pass sport. Voici ce qui te convient.
+À Poissy, tu as le choix entre les pass sport ClassPass et Urban Sports Club. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 Il n’y a pas encore de studio ClassPass à Poissy même, mais tu trouves une salle en accès libre à Orgeval et du Pilates Reformer à Saint-Germain-en-Laye, à quelques minutes. Et tes crédits marchent aussi à Paris et dans le reste des Yvelines.
 
@@ -78,8 +78,6 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 ## ClassPass à Poissy
 
-Avec ClassPass, tu reçois chaque mois des crédits pour réserver des cours et des séances en salle dans des studios de la ville. Idéal si tu aimes varier et que tu ne veux pas t’engager dans un seul lieu.
-
 ### Où
 
 Pas de studio à Poissy même, mais deux adresses tout près : L’Appart Fitness à Orgeval (salle de sport en accès libre, appareils Technogym et Matrix) et The New Me à Saint-Germain-en-Laye (place du Marché Neuf), studio de Pilates Reformer avec café.
@@ -92,20 +90,12 @@ Pas de studio à Poissy même, mais deux adresses tout près : L’Appart Fitnes
 - Ceux qui aiment alterner salle et cours en studio
 - Ceux qui travaillent à Paris et veulent aussi réserver près du bureau
 
-### Ce que tu as
-
-- Des crédits chaque mois pour des cours et des séances en salle
-- Abonnement standard à Poissy : 37 crédits pour 59 € par mois
-- 14 jours gratuits avec 10 séances pour essayer
-- Ça marche aussi dans plus de 2 500 villes et 31 pays
+À Poissy, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 
 ### À savoir
 
-- Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher
 - Pour le Pilates Reformer, les chaussettes antidérapantes sont presque toujours obligatoires
 - Les cours de Reformer ont peu de places : réserve quelques jours à l’avance
-- Tu peux reporter tes crédits non utilisés sur le mois suivant ; ensuite, ils expirent
-- Résiliable à tout moment, avant la date de renouvellement
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-poissy">Profitez de 10 séances gratuites en 14 jours</a>
@@ -136,9 +126,9 @@ L’essai est réservé aux nouveaux membres. Tout le détail dans [Essayer Clas
 ## Questions fréquentes
 
 <details open>
-<summary>ClassPass est-il moins cher qu’une salle de sport à Poissy ?</summary>
+<summary>Peut-on faire du sport sans engagement à Poissy ?</summary>
 
-Ça dépend de combien de fois tu t’entraînes et de ce que tu veux faire. Si tu vas surtout en salle, une salle de sport à petit prix revient souvent moins cher. Si tu veux varier les studios et les cours, un pass sport te convient mieux.
+Oui, avec ClassPass, que tu résilies à tout moment. Les autres options sont comparées dans [Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/).
 
 </details>
 
