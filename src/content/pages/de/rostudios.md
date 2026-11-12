@@ -108,6 +108,13 @@ Ja, zum Beispiel Hamburg Altona und München Schwabing. In Hamburg buchst du mit
 
 </details>
 
+<details>
+<summary>Ist Rostudios auf ClassPass?</summary>
+
+Auf ClassPass haben wir Rostudios in Düsseldorf (Flingern-Nord und Pempelfort) und in Köln am Friesenplatz gefunden.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/berlin/">Training in Berlin</a>
 <a class="knop knop-rand" href="/de/muenchen/">Training in München</a>

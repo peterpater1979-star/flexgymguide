@@ -97,6 +97,13 @@ Ja, Antwerpen Theaterbuurt. Met Premium of Max boek je daar tot 8 lessen per maa
 
 </details>
 
+<details>
+<summary>Staat Rostudios op ClassPass?</summary>
+
+Op ClassPass vonden we Rostudios in Antwerpen en in Brussel (Elsene).
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/brussel/">Sporten in Brussel</a>
 <a class="knop knop-rand" href="/be/antwerpen/">Sporten in Antwerpen</a>
