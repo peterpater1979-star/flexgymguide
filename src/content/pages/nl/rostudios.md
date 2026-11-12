@@ -106,6 +106,13 @@ Een deel van de studio's wel, bijvoorbeeld Den Haag City. Welke studio's en met 
 
 </details>
 
+<details>
+<summary>Staat Rostudios op ClassPass?</summary>
+
+Op ClassPass vonden we Rostudios Rotterdam City, met Rocycle en Roform.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/amsterdam/">Sporten in Amsterdam</a>
 <a class="knop knop-rand" href="https://www.ro-studios.com/">Rostudios</a>
