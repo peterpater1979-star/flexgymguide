@@ -121,6 +121,10 @@ BigGym heeft in Utrecht een grote gym aan de Proostwetering, met kracht, cardio,
 
 In Utrecht kost het standaardabonnement € 59 per maand voor 40 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
+[Bekijk de studio's in Utrecht per buurt en per sport.](/nl/classpass-utrecht/)
+
+[Bekijk de studio's in Utrecht op ClassPass.](https://classpass.com/search/utrecht/fitness-classes/4JLwFb1QeLf)
+
 - Studio's door heel Utrecht: de binnenstad (vooral rond de Oudegracht), Lombok, Oost, Zuilen, Rivierenwijk en Leidsche Rijn
 - Vooral veel yoga (ook hot yoga) en pilates, maar ook krachttraining en boksen
 - Ook studio's in De Meern, Maarssen en Bilthoven
