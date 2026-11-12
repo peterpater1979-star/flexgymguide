@@ -1,5 +1,6 @@
 ---
 title: "ClassPass in München: Studios nach Viertel und Sportart"
+seoTitle: "ClassPass München: Studios nach Viertel und 1 Monat gratis"
 path: "/de/classpass-muenchen/"
 description: "ClassPass in München: Studios nach Viertel und Sportart, von Reformer-Pilates und Lagree bis Indoor-Cycling, Bootcamp und Yoga."
 lang: de

@@ -1,5 +1,6 @@
 ---
 title: "ClassPass in Hamburg: Studios nach Stadtteil und Sportart"
+seoTitle: "ClassPass Hamburg: Studios nach Stadtteil und 1 Monat gratis"
 path: "/de/classpass-hamburg/"
 description: "ClassPass in Hamburg: Studios nach Stadtteil und Sportart, von Lagree und Hot Pilates bis Yoga, Barre und Indoor-Cycling."
 lang: de

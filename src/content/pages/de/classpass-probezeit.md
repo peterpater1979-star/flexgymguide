@@ -1,8 +1,8 @@
 ---
 title: "ClassPass kostenlos testen: So funktioniert die Probezeit"
-seoTitle: "ClassPass Probeabo: so funktioniert die kostenlose Probezeit"
+seoTitle: "ClassPass Probeabo: 1 Monat gratis mit 10 Workouts"
 path: "/de/classpass-probezeit/"
-description: "Was du in der ClassPass-Probezeit bekommst, welche Regeln gelten, was passiert, wenn sie endet, und wie du das Beste daraus machst."
+description: "ClassPass kostenlos testen: In Deutschland bekommst du 1 Monat gratis mit 10 Workouts. Welche Regeln gelten, was nach der Probezeit passiert und wie du rechtzeitig kündigst."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
