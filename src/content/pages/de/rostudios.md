@@ -99,7 +99,7 @@ Ja, wenn du pro Kurs zahlst, mit Einzelkursen oder einem Paket. Nur Unlimited ha
 <details>
 <summary>Gibt es Rocycle in Deutschland?</summary>
 
-Ja, in Berlin (Mitte, Friedrichshain und Ku’damm) in Köln am Friesenplatz, in Hamburg-Hoheluft und in der Münchner Maxvorstadt. In Frankfurt und Düsseldorf gibt es nur Roform. 
+Ja, in Berlin (Mitte, Friedrichshain und Ku’damm), in Köln am Friesenplatz, in Hamburg-Hoheluft und in der Münchner Maxvorstadt. In Frankfurt und Düsseldorf gibt es nur Roform.
 
 </details>
 
