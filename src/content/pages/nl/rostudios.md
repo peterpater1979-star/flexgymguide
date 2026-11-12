@@ -70,11 +70,11 @@ De studio's in Amsterdam zijn elke dag open van 6.30 tot 21.15 uur. Er komen stu
 
 - **Unlimited:** € 79 per maand. Je boekt maximaal één les per dag en tot drie weken vooruit. Je zit 12 maanden vast en je betaalt elke 28 dagen.
 - **Per les:** je koopt losse lessen of een pakket in de app. Er zijn ook maand- en jaarlidmaatschappen. De prijzen zie je in de app van Rostudios.
-- **Te laat afmelden:** meld je je met Unlimited te laat af of kom je niet, dan betaal je € 10.
+- **Te laat afmelden:** afmelden kan tot 12 uur voor de les. Meld je je met Unlimited later af of kom je niet, dan betaal je € 10.
 
 <h2 id="opzeggen">Opzeggen</h2>
 
-Unlimited loopt na de eerste 12 maanden door tot je opzegt. De opzegtermijn staat in de voorwaarden van Rostudios. Wil je nergens aan vastzitten, koop dan losse lessen of een pakket.
+In het eerste jaar kun je Unlimited niet opzeggen. Daarna loopt het lidmaatschap door voor onbepaalde tijd en zeg je op elk moment op met 1 maand opzegtermijn, via je account of per e-mail. Wil je nergens aan vastzitten, koop dan losse lessen of een pakket. Stap voor stap: [Rostudios opzeggen](/nl/rostudios-opzeggen/).
 
 ## Veelgestelde vragen
 
