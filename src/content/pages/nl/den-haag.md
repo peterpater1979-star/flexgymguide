@@ -10,7 +10,7 @@ crumb: "Den Haag"
 kicker: "Stadsgids Den Haag"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Den Haag kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Den Haag](/nl/sporten-zonder-contract-den-haag/).
+In Den Haag kies je tussen twee sportpassen, Urban Sports Club en ClassPass, met veel yoga en pilates van het centrum tot Scheveningen, of een vaste club bij SportCity, Trainmore, Basic-Fit of Anytime Fitness. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Den Haag](/nl/sporten-zonder-contract-den-haag/).
 
 <h2 id="kort">In het kort</h2>
 
@@ -36,7 +36,7 @@ Urban Sports Club zit ook in Den Haag. Een sportpas met een vaste prijs per maan
 
 ### ClassPass
 
-Yoga, pilates, boksen en meer met één abonnement op basis van credits, bij studio’s in de hele stad. Maandelijks opzegbaar, en je abonnement werkt ook in andere steden.
+Vooral yoga en pilates, ook reformer en hot yoga, met één abonnement op basis van credits. Van het centrum tot Scheveningen, maandelijks opzegbaar.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
@@ -119,45 +119,11 @@ Anytime Fitness heeft in Den Haag een club in Wateringse Veld, die 24 uur per da
 
 ## ClassPass in Den Haag
 
-Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's door de hele stad. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
+In Den Haag kost het standaardabonnement € 59 per maand voor 40 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
-<div class="kolommen">
-
-<div class="kolom">
-
-### Wat je krijgt
-
-- Maandelijkse credits voor lessen en gymbezoeken
-- Standaardabonnement in Den Haag: 40 credits voor € 59 per maand
-- 14 dagen gratis met 10 workouts om te proberen
 - Studio's door heel Den Haag: het centrum, Zeeheldenkwartier, Bezuidenhout, Scheveningen en langs de Laan van Meerdervoort
 - Vooral veel yoga en pilates (ook reformer en hot yoga), maar ook krachttraining en boksen
 - Ook studio's in Voorburg, Rijswijk, Leidschendam, Wassenaar en Delft
-- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
-
-</div>
-
-<div class="kolom">
-
-### Goed voor
-
-- Wie graag verschillende sporten probeert
-- Wie één tot drie keer per week sport
-- Expats en mensen die vaak reizen
-
-</div>
-
-<div class="kolom">
-
-### Let op
-
-- Het aantal credits per les verschilt per studio en tijdstip
-- Ongebruikte credits van een maand kun je één maand doorschuiven. Gebruik je ze dan nog niet, dan vervallen ze
-- Alleen als je opzegt tijdens de gratis proefperiode, stopt je toegang meteen. Met een betaald abonnement train je door tot het einde van je maand. Daarna vervallen je resterende credits
-
-</div>
-
-</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
@@ -173,39 +139,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 Trainmore heeft 53 clubs in Nederland, waarvan 3 in Den Haag. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
-<div class="kolommen">
-
-<div class="kolom">
-
-### Wat je krijgt
-
-- Toegang tot de gym en groepslessen
-- 53 clubs in Nederland, 3 in Den Haag
-- €1 korting per workout bij een contract (maximaal 1 per dag, niet bij Flex): hoe vaker je traint, hoe minder je betaalt. Drie keer per week scheelt zo'n €12 per 4 weken
-- Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
-- Een gratis proefles om eerst te testen
-
-</div>
-
-<div class="kolom">
-
-### Goed voor
-
-- Vaker dan één keer per week trainen: hoe vaker je gaat, hoe goedkoper
-- Kracht en cardio op een vaste plek
-
-</div>
-
-<div class="kolom">
-
-### Let op
-
-- Alleen in Nederland
-- De prijs hangt af van het label van de club (Black, Red of Regular) en van je contract: 2 jaar, 1 jaar of Flex (maandelijks opzegbaar). Je betaalt per 4 weken. Bekijk de prijs van jouw club op de site van Trainmore
-
-</div>
-
-</div>
+Bij Laan van NOI betaal je € 96 per 4 weken met Flex, € 76 met een contract van 1 jaar en € 69 met 2 jaar. Met een contract krijg je daarbovenop € 1 korting per workout, maximaal één per dag. De prijs verschilt per club, afhankelijk van het label (Black, Red of Regular).
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
@@ -221,54 +155,8 @@ Trainmore heeft 53 clubs in Nederland, waarvan 3 in Den Haag. Met een lidmaatsch
 
 Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland, waarvan 8 in Den Haag. Veel clubs zijn dag en nacht open. Een jaarabonnement begint bij € 24,99 per 4 weken. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
 
-### Goed voor
-
-- Drie keer per week of vaker trainen voor weinig geld
-- Een vaste sportschool dicht bij huis of werk
-
-### Let op
-
-- Flex: 4 weken opzegtermijn
-- Met Comfort train je alleen in Nederland, met Premium of Ultimate ook in 5 andere landen
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
-</div>
-
-</div>
-
-## Welke past bij jou?
-
-<div class="kolommen">
-
-<div class="kolom kaart">
-
-### Je wilt elke week iets anders doen
-
-Kies ClassPass. Je wisselt vrij tussen yoga, pilates, boksen en spinning.
-
-[Naar ClassPass](/nl/classpass/)
-
-</div>
-
-<div class="kolom kaart">
-
-### Je traint meerdere keren per week
-
-Kies Trainmore. Een vaste club met gym en lessen, dicht bij huis of werk.
-
-[Naar Trainmore](/nl/trainmore/)
-
-</div>
-
-<div class="kolom kaart">
-
-### Je bent vaak op reis
-
-Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass actief is.
-
-[Lees: How ClassPass works (EN)](/guides/how-classpass-works/)
-
 </div>
 
 </div>
@@ -293,13 +181,6 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 ## Veelgestelde vragen
 
 <details open>
-<summary>Wat is goedkoper: ClassPass of een sportschool?</summary>
-
-Dat hangt af van hoe vaak je sport en wat je wilt doen. Train je vooral in de gym, zet dan de maandprijs van een lidmaatschap af tegen het aantal bezoeken. Wil je afwisselen tussen studio's, dan past een sportpas beter.
-
-</details>
-
-<details>
 <summary>Kan ik ClassPass ook buiten Den Haag gebruiken?</summary>
 
 Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden en in het buitenland, overal waar ClassPass actief is.
@@ -307,16 +188,13 @@ Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden en in het buit
 </details>
 
 <details>
-<summary>Kan ik ClassPass op elk moment opzeggen?</summary>
+<summary>Welke sportscholen in Den Haag zijn maandelijks opzegbaar?</summary>
 
-Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatum, dan betaal je niet voor een nieuwe maand. Bij een betaald abonnement kun je ClassPass gebruiken tot het einde van die maand. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen. Resterende credits vervallen als je stopt. Lees hoe het werkt in [ClassPass opzeggen](/nl/classpass-opzeggen/).
+- **Trainmore Flex:** maandelijks opzegbaar
+- **SportCity Flex:** maandelijks opzegbaar, met een maand opzegtermijn
+- **Basic-Fit Flex:** 4 weken opzegtermijn
 
-</details>
-
-<details>
-<summary>Heeft Trainmore een gratis proefles?</summary>
-
-Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
+Een sportpas is nog flexibeler: ClassPass zeg je op elk moment op, Urban Sports Club per maand. Prijzen en opzegtermijnen vind je in [Sporten zonder contract in Den Haag](/nl/sporten-zonder-contract-den-haag/).
 
 </details>
 

@@ -10,7 +10,7 @@ crumb: "Haarlem"
 kicker: "Stadsgids Haarlem"
 ---
 
-Geen zin in een jaarcontract bij één sportschool? In Haarlem kun je met een sportpas bij allerlei gyms en studio's terecht, of kiezen voor een sportschoolketen met een gratis proefles. Zo kies je wat bij je past. Wil je je helemaal niet vastleggen? Lees [Sporten zonder contract in Haarlem](/nl/sporten-zonder-contract-haarlem/).
+Haarlem heeft op ClassPass een kleiner aanbod, met yoga, pilates en dans, maar met hetzelfde abonnement train je ook in Amsterdam, een kwartier met de trein. Liever een vaste club? SportCity, Trainmore en Basic-Fit zitten in de stad. Hieronder zie je wat elk kost en hoe je opzegt. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Haarlem](/nl/sporten-zonder-contract-haarlem/).
 
 <h2 id="kort">In het kort</h2>
 
@@ -22,7 +22,7 @@ Geen zin in een jaarcontract bij één sportschool? In Haarlem kun je met een sp
 
 ### ClassPass
 
-Yoga, pilates, boksen en meer met één abonnement op basis van credits.
+Yoga, pilates en dans met één abonnement op basis van credits, en met hetzelfde abonnement veel meer keuze in Amsterdam.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Bekijk ClassPass</a>
@@ -91,50 +91,15 @@ Eigen clubs met gym en groepslessen: 1 in Haarlem, 53 in heel Nederland. Bij Hor
 
 ## ClassPass in Haarlem
 
-Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's in Haarlem, in de regio en in Amsterdam. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
+In Haarlem kost het standaardabonnement € 69 per maand voor 47 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
-<div class="kolommen">
-
-<div class="kolom">
-
-### Wat je krijgt
-
-- Maandelijkse credits voor lessen en gymbezoeken
-- Standaardabonnement in Haarlem: 47 credits voor € 69 per maand
-- 14 dagen gratis met 10 workouts om te proberen
 - Een kleiner aanbod in Haarlem zelf, zoals yoga en pilates in het centrum en dansles
 - Werk of woon je ook in Amsterdam? Daar heb je met hetzelfde abonnement veel meer keuze
 - Ook studio's in Beverwijk, Aalsmeer en Sassenheim
-- Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
-
-</div>
-
-<div class="kolom">
-
-### Goed voor
-
-- Wie graag verschillende sporten probeert
-- Wie één tot drie keer per week sport
-- Expats en mensen die vaak reizen
-
-</div>
-
-<div class="kolom">
-
-### Let op
-
-- Het aantal credits per les verschilt per studio en tijdstip
-- Ongebruikte credits van een maand kun je één maand doorschuiven. Gebruik je ze dan nog niet, dan vervallen ze
-- Alleen als je opzegt tijdens de gratis proefperiode, stopt je toegang meteen. Met een betaald abonnement train je door tot het einde van je maand. Daarna vervallen je resterende credits
-
-</div>
-
-</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 </div>
-
 
 </div>
 
@@ -146,39 +111,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 
 Trainmore heeft 53 clubs in Nederland, waarvan 1 in Haarlem. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
-<div class="kolommen">
-
-<div class="kolom">
-
-### Wat je krijgt
-
-- Toegang tot de gym en groepslessen
-- 53 clubs in Nederland, 1 in Haarlem
-- €1 korting per workout bij een contract (maximaal 1 per dag, niet bij Flex): hoe vaker je traint, hoe minder je betaalt. Drie keer per week scheelt zo'n €12 per 4 weken
-- Gratis proteïneshakes, koffie en thee in clubs met een Red of Black Label
-- Een gratis proefles om eerst te testen
-
-</div>
-
-<div class="kolom">
-
-### Goed voor
-
-- Vaker dan één keer per week trainen: hoe vaker je gaat, hoe goedkoper
-- Kracht en cardio op een vaste plek
-
-</div>
-
-<div class="kolom">
-
-### Let op
-
-- Alleen in Nederland
-- De prijs hangt af van het label van de club (Black, Red of Regular) en van je contract: 2 jaar, 1 jaar of Flex (maandelijks opzegbaar). Je betaalt per 4 weken. Bekijk de prijs van jouw club op de site van Trainmore
-
-</div>
-
-</div>
+Bij Hortusplein betaal je € 92 per 4 weken met Flex, € 72 met een contract van 1 jaar en € 65 met 2 jaar. Met een contract krijg je daarbovenop € 1 korting per workout, maximaal één per dag. De prijs verschilt per club, afhankelijk van het label (Black, Red of Regular).
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
@@ -209,54 +142,8 @@ Bij Flex betaal je € 14,99 inschrijfgeld. Andere clubs kunnen goedkoper of duu
 
 Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland, waarvan 3 in Haarlem. Veel clubs zijn dag en nacht open. Een jaarabonnement begint bij € 24,99 per 4 weken. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
 
-### Goed voor
-
-- Drie keer per week of vaker trainen voor weinig geld
-- Een vaste sportschool dicht bij huis of werk
-
-### Let op
-
-- Flex: 4 weken opzegtermijn
-- Met Comfort train je alleen in Nederland, met Premium of Ultimate ook in 5 andere landen
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
-</div>
-
-</div>
-
-## Welke past bij jou?
-
-<div class="kolommen">
-
-<div class="kolom kaart">
-
-### Je wilt elke week iets anders doen
-
-Kies ClassPass. Je wisselt vrij tussen yoga, pilates, boksen en spinning.
-
-[Naar ClassPass](/nl/classpass/)
-
-</div>
-
-<div class="kolom kaart">
-
-### Je traint meerdere keren per week
-
-Kies Trainmore. Een vaste club met gym en lessen, dicht bij huis of werk.
-
-[Naar Trainmore](/nl/trainmore/)
-
-</div>
-
-<div class="kolom kaart">
-
-### Je bent vaak op reis
-
-Kies ClassPass. Je abonnement werkt ook in andere landen waar ClassPass actief is.
-
-[Lees: How ClassPass works (EN)](/guides/how-classpass-works/)
-
 </div>
 
 </div>
@@ -281,13 +168,6 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 ## Veelgestelde vragen
 
 <details open>
-<summary>Wat is goedkoper: ClassPass of een sportschool?</summary>
-
-Dat hangt af van hoe vaak je sport en wat je wilt doen. Train je vooral in de gym, zet dan de maandprijs van een lidmaatschap af tegen het aantal bezoeken. Wil je afwisselen tussen studio's, dan past een sportpas beter.
-
-</details>
-
-<details>
 <summary>Kan ik ClassPass ook buiten Haarlem gebruiken?</summary>
 
 Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden en in het buitenland, overal waar ClassPass actief is.
@@ -295,16 +175,13 @@ Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden en in het buit
 </details>
 
 <details>
-<summary>Kan ik ClassPass op elk moment opzeggen?</summary>
+<summary>Welke sportscholen in Haarlem zijn maandelijks opzegbaar?</summary>
 
-Ja, ClassPass heeft geen opzegtermijn. Zeg op vóór je volgende verlengingsdatum, dan betaal je niet voor een nieuwe maand. Bij een betaald abonnement kun je ClassPass gebruiken tot het einde van die maand. Zeg je op tijdens de gratis proefperiode, dan stopt je toegang meteen. Resterende credits vervallen als je stopt. Lees hoe het werkt in [ClassPass opzeggen](/nl/classpass-opzeggen/).
+- **Trainmore Flex:** maandelijks opzegbaar
+- **SportCity Flex:** maandelijks opzegbaar, met een maand opzegtermijn
+- **Basic-Fit Flex:** 4 weken opzegtermijn
 
-</details>
-
-<details>
-<summary>Heeft Trainmore een gratis proefles?</summary>
-
-Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
+Een sportpas is nog flexibeler: ClassPass zeg je op elk moment op. Prijzen en opzegtermijnen vind je in [Sporten zonder contract in Haarlem](/nl/sporten-zonder-contract-haarlem/).
 
 </details>
 
@@ -351,6 +228,5 @@ Ja, je kunt online een gratis proefles plannen in een Trainmore-club.
 </div>
 
 </div>
-
 
 </details>
