@@ -10,7 +10,7 @@ crumb: "Manchester"
 kicker: "City guide Manchester"
 ---
 
-Don't want to be tied to one gym? In Manchester you can use a fitness pass at studios across the city, or join a low-cost gym without a contract. Here's what suits you. Don't want to be tied down at all? Read [Gyms without a contract in Manchester](/uk/gyms-without-contract-manchester/).
+Manchester has a big choice on ClassPass, from HIIT at Barry's and F45 to reformer Pilates around Deansgate, the Northern Quarter and Ancoats. For a gym without a contract there are The Gym Group, with 8 gyms in and around the city, and PureGym, and David Lloyd, Virgin Active, Anytime Fitness and Village Gym are here too. Here's what each costs and how flexible it is. Don't want a contract? Read [Gyms without a contract in Manchester](/uk/gyms-without-contract-manchester/).
 
 <h2 id="glance">At a glance</h2>
 
@@ -22,7 +22,7 @@ Don't want to be tied to one gym? In Manchester you can use a fitness pass at st
 
 ### ClassPass
 
-Yoga, Pilates, boxing and more with one credit-based membership, at studios across the city. Cancel anytime, and your plan also works in other cities.
+HIIT, indoor cycling and lots of reformer Pilates, from Deansgate to Ancoats and Salford. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -145,32 +145,15 @@ Prices and terms change regularly. Always check the latest details with the prov
 
 ## ClassPass in Manchester
 
-With ClassPass you get monthly credits to book classes and gym visits at studios across the city. Ideal if you like variety and don't want to commit to one place.
-
 ### Where
 
 A good choice, mostly in the city centre around Deansgate, Spinningfields, the Northern Quarter and Ancoats, and also in Salford, Stockport and Oldham. Here is a small selection. For HIIT there are Barry's, TRIB3 and F45, and for indoor cycling there is RYDE. For reformer Pilates there are Bondi Pilates, The Reformer Studio, Formula MCR, MMOVE and Kore Studios, and for treadmill and sculpt classes there is RE:SCULPT. You can also do hot classes at Deansgate Haus, yoga at Yoga Republic and bodyweight training at Manchester Calisthenics.
 
 [See the studios in Manchester on ClassPass.](https://classpass.com/search/manchester/fitness-classes/3vG4r9qNkJK)
 
-### What you get
+In Manchester the standard plan costs £49 a month for 36 credits, and you can try it first with 14 days free and 10 workouts. How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
-- Monthly credits for classes and gym visits
-- Standard plan in Manchester: 36 credits for £49 a month
-- 14 days free with 10 workouts to try it out
 - Studios in the city centre, the Northern Quarter, Chorlton and Salford
-- Use it in more than 2,500 other cities in 31 countries
-
-### Good for
-
-- People who like to try different workouts
-- Training one to three times a week
-- Students and frequent travellers
-
-### Watch out for
-
-- Credits per class vary by studio and time of day
-- Unused credits roll over for one month. If you still don't use them, they expire
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
@@ -190,22 +173,6 @@ A good choice, mostly in the city centre around Deansgate, Spinningfields, the N
 
 The Gym Group has 8 gyms in and around Manchester, including Ancoats, Oxford Road, Portland Street, Fallowfield and Old Trafford. Monthly memberships have no contract, and most gyms are open 24/7.
 
-### What you get
-
-- A gym floor with classes included
-- 24/7 access at most gyms with Standard or Ultimate
-- Access to other gyms with Ultimate
-
-### Good for
-
-- Training three times a week or more on a budget
-- Students and anyone who wants no contract
-
-### Watch out for
-
-- Off-peak only gives access at quieter hours
-- 24/7 access is not available at every gym
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>
@@ -224,58 +191,11 @@ The Gym Group has 8 gyms in and around Manchester, including Ancoats, Oxford Roa
 
 PureGym is a budget gym chain with over 450 gyms in the UK, including 9 gyms in Manchester. Most are open 24/7. Every plan is without a contract, prices start at £18.99 a month for Off-Peak, and classes are included at most gyms.
 
-### Good for
-
-- Training three times a week or more for little money
-- Not being tied to a contract
-
-### Keep in mind
-
-- The price differs per gym
-- Off-Peak only gives access outside peak hours
-- Joining fee from £10
-
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
 </div>
-
-</div>
-
-</div>
-
-## Which one suits you?
-
-<div class="kolommen">
-
-<div class="kolom">
-
-### You want something different every week
-
-Go for ClassPass. Switch freely between yoga, Pilates, boxing and spin.
-
-[Go to ClassPass](/uk/classpass/)
-
-</div>
-
-<div class="kolom">
-
-### You train three times a week or more
-
-Go for The Gym Group. A low-cost gym without a contract, close to home or work.
-
-[Go to The Gym Group](/uk/the-gym-group/)
-
-</div>
-
-<div class="kolom">
-
-### You travel a lot
-
-Go for ClassPass. Your membership also works in other countries where ClassPass is available.
-
-[ClassPass abroad](/uk/classpass/#abroad)
 
 </div>
 
@@ -301,13 +221,6 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 ## Frequently asked questions
 
 <details open>
-<summary>Is ClassPass cheaper than a gym membership in Manchester?</summary>
-
-It depends on how often you train and what you want to do. If you mostly use the gym floor, a low-cost gym is usually cheaper. If you want to mix studios and classes, a fitness pass is usually the better fit.
-
-</details>
-
-<details>
 <summary>Can I use ClassPass outside Manchester?</summary>
 
 Yes. You can use your credits in other UK cities and abroad, wherever ClassPass is available.
@@ -315,9 +228,9 @@ Yes. You can use your credits in other UK cities and abroad, wherever ClassPass 
 </details>
 
 <details>
-<summary>Does The Gym Group have a contract?</summary>
+<summary>Which gyms in Manchester have no contract?</summary>
 
-Not on monthly plans. Saver plans run for 9 or 12 months in exchange for a lower price.
+The Gym Group and PureGym: their monthly memberships have no minimum term. ClassPass doesn't tie you down either. Prices and how to cancel are in [Gyms without a contract in Manchester](/uk/gyms-without-contract-manchester/).
 
 </details>
 
