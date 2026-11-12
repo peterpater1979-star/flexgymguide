@@ -12,14 +12,14 @@ kicker: "Anbieter: Boutique-Studio"
 
 <div class="fotobanner smal foto-rostudios-reformer" role="img" aria-label="Reformer"></div>
 
-Rostudios ist ein Boutique-Studio mit Standorten in den Niederlanden, Belgien und Deutschland und zwei Kursarten: Rocycle, Indoor-Cycling zu Musik, und Roform, ein Kurs auf dem Reformer, ähnlich wie Pilates. In Deutschland gibt es fünf Studios in Berlin, zwei in Köln, dazu Roform in München, Hamburg, Frankfurt und Düsseldorf. Du buchst alles in der App von Rostudios, mit einer Unlimited-Mitgliedschaft oder pro Kurs.
+Rostudios ist ein Boutique-Studio mit Standorten in den Niederlanden, Belgien und Deutschland und zwei Kursarten: Rocycle, Indoor-Cycling zu Musik, und Roform, ein Kurs auf dem Reformer, ähnlich wie Pilates. In Deutschland gibt es Studios in Berlin, Köln, Hamburg, Düsseldorf, Frankfurt und München. Du buchst alles in der App von Rostudios, mit einer Unlimited-Mitgliedschaft oder pro Kurs.
 
 <h2 id="kurz">Kurz und knapp</h2>
 
 | | Rostudios |
 | --- | --- |
 | **Art** | Boutique-Studio mit Kursen: Indoor-Cycling (Rocycle) und Reformer (Roform) |
-| **Studios** | Fünf in Berlin, zwei in Köln, dazu München, Hamburg, Frankfurt und Düsseldorf |
+| **Studios** | Fünf in Berlin, je zwei in Köln, Hamburg und Düsseldorf, dazu Frankfurt und München |
 | **Unlimited** | 79 € pro Monat, ein Kurs pro Tag, 12 Monate Laufzeit |
 | **Pro Kurs** | <span class="ja" aria-hidden="true">✓</span> Einzelkurse und Kurspakete, Preis in der App |
 | **Ausprobieren** | Für Neukunden 2 Kurse für 22 € |
@@ -34,7 +34,7 @@ Rostudios ist ein Boutique-Studio mit Standorten in den Niederlanden, Belgien un
 
 ### Rocycle
 
-Ein Indoor-Cycling-Kurs von 45 Minuten zu Musik, für den ganzen Körper. Es gibt auch längere Fahrten und eine Variante mit Hanteln für den Oberkörper. In Deutschland in Berlin und Köln.
+Ein Indoor-Cycling-Kurs von 45 Minuten zu Musik, für den ganzen Körper. Es gibt auch längere Fahrten und eine Variante mit Hanteln für den Oberkörper. In Deutschland in Berlin, Köln und Hamburg.
 
 </div>
 
@@ -61,8 +61,10 @@ Ein Roform-Kurs dauert 50 Minuten auf dem Reformer. Du trainierst ruhig und im T
 | **Köln Ebertplatz** | Ebertplatz 15-17 | Roform |
 | **München Schwabing** | Hohenzollernstraße 9 | Roform |
 | **Hamburg Altona** | Friedensallee 11 | Roform |
+| **Hamburg Hoheluft** | Hoheluftchaussee 59-61 | Rocycle |
 | **Frankfurt Bornheim** | Berger Straße 211 | Roform |
 | **Düsseldorf Flingern-Nord** | Ackerstraße 133 | Roform |
+| **Düsseldorf Pempelfort** | Nordstraße 27 | Roform |
 
 Bald kommen Roform-Studios in Berlin-Schöneberg, Köln-Lindenthal, Stuttgart und Münster dazu. Den aktuellen Stand siehst du auf der Website von Rostudios.
 
@@ -96,7 +98,7 @@ Ja, wenn du pro Kurs zahlst, mit Einzelkursen oder einem Paket. Nur Unlimited ha
 <details>
 <summary>Gibt es Rocycle in Deutschland?</summary>
 
-Ja, in Berlin (Mitte, Friedrichshain und Ku’damm) und in Köln am Friesenplatz. In den anderen deutschen Städten bietet Rostudios Roform auf dem Reformer an.
+Ja, in Berlin (Mitte, Friedrichshain und Ku’damm) in Köln am Friesenplatz und in Hamburg-Hoheluft. In den anderen deutschen Städten bietet Rostudios Roform auf dem Reformer an.
 
 </details>
 

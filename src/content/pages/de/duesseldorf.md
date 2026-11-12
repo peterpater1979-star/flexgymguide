@@ -121,7 +121,7 @@ JOHN REED hat in Düsseldorf Clubs in Bilk, Friedrichstadt und in den Düsseldor
 
 <h3>Rostudios</h3>
 
-Rostudios hat in Flingern-Nord ein Studio für Roform, Reformer-Kurse ähnlich wie Pilates. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
+Rostudios hat in Flingern-Nord und Pempelfort zwei Studios für Roform, Reformer-Kurse ähnlich wie Pilates. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
@@ -231,7 +231,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 | --- | --- | --- | --- |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 4 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 3 Clubs |
-| **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 1 Reformer-Studio (Flingern-Nord) |
+| **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Reformer-Studios (Flingern-Nord, Pempelfort) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
