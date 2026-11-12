@@ -68,6 +68,13 @@ Ja, das Probetraining ist kostenlos.
 
 </details>
 
+<details>
+<summary>Ist Mrs.Sporty auf ClassPass?</summary>
+
+In Innsbruck ist ein Club auf ClassPass. Welche Clubs gerade mitmachen, siehst du in der ClassPass-App.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/at/">Trainieren in Österreich</a>
 </div>
