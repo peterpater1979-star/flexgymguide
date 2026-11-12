@@ -19,6 +19,19 @@ function wijzigingsdata() {
 }
 const lastmod = wijzigingsdata();
 
+// Pagina's met noindex: true horen niet in de sitemap.
+function noindexPaden() {
+  const paden = new Set();
+  for (const f of readdirSync('src/content/pages', { recursive: true })) {
+    if (!String(f).endsWith('.md')) continue;
+    const tekst = readFileSync(`src/content/pages/${f}`, 'utf8');
+    const pad = tekst.match(/^path: "?([^"\n]+)"?$/m)?.[1];
+    if (pad && /^noindex: true$/m.test(tekst)) paden.add(new URL(pad, 'https://flexgymguide.com').href);
+  }
+  return paden;
+}
+const zonderIndex = noindexPaden();
+
 // Links naar /go/ (affiliate) en naar andere websites openen in een nieuw tabblad.
 // /go/-links krijgen rel="sponsored nofollow", zoals ThirstyAffiliates dat deed.
 function externeLinks() {
@@ -52,7 +65,7 @@ export default defineConfig({
   trailingSlash: 'always',
   build: { format: 'directory' },
   integrations: [sitemap({
-    filter: (url) => !url.includes('/contact/thanks/'),
+    filter: (url) => !url.includes('/contact/thanks/') && !zonderIndex.has(url),
     serialize: (item) => (lastmod.has(item.url) ? { ...item, lastmod: lastmod.get(item.url) } : item),
   })],
   markdown: { rehypePlugins: [externeLinks] },

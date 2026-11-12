@@ -3,6 +3,7 @@ title: "Faire du sport à Lorient en toute flexibilité"
 seoTitle: "Salle de sport sans engagement à Lorient"
 path: "/fr/lorient/"
 description: "À Lorient, fais du sport sans être lié à une seule salle : ClassPass dans des studios de la ville, ou une salle avec ou sans engagement."
+noindex: true
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"

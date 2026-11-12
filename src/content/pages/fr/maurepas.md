@@ -3,6 +3,7 @@ title: "Faire du sport à Maurepas en toute flexibilité"
 seoTitle: "Sport sans engagement à Maurepas : studios et cours"
 path: "/fr/maurepas/"
 description: "À Maurepas, fais du sport sans être lié à une seule salle : avec ClassPass, tu t’entraînes dans des studios de la ville."
+noindex: true
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
