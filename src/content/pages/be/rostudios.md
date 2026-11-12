@@ -60,12 +60,12 @@ Het actuele overzicht zie je op de site van Rostudios.
 
 - **Unlimited Brussel:** € 79 per maand, voor Rocycle en Roform.
 - **Unlimited Antwerpen:** € 49 per maand, voor Roform.
-- **Voorwaarden Unlimited:** je boekt maximaal één les per dag en tot drie weken vooruit. Je zit 12 maanden vast en je betaalt elke 28 dagen. Meld je je te laat af of kom je niet, dan betaal je € 10.
+- **Voorwaarden Unlimited:** je boekt maximaal één les per dag en tot drie weken vooruit. Je zit 12 maanden vast en je betaalt elke 28 dagen. Afmelden kan tot 12 uur voor de les. Meld je je later af of kom je niet, dan betaal je € 10.
 - **Per les:** je koopt losse lessen of een pakket in de app. Er zijn ook maand- en jaarlidmaatschappen. De prijzen zie je in de app van Rostudios.
 
 <h2 id="opzeggen">Opzeggen</h2>
 
-Unlimited loopt na de eerste 12 maanden door tot je opzegt. De opzegtermijn staat in de voorwaarden van Rostudios. Wil je nergens aan vastzitten, koop dan losse lessen of een pakket.
+In het eerste jaar kun je Unlimited niet opzeggen. Daarna loopt het lidmaatschap door voor onbepaalde tijd en zeg je op elk moment op met 1 maand opzegtermijn, via je account. Wil je nergens aan vastzitten, koop dan losse lessen of een pakket. Stap voor stap: [Rostudios opzeggen](/be/rostudios-opzeggen/).
 
 ## Veelgestelde vragen
 
