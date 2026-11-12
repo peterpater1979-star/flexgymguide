@@ -27,6 +27,7 @@ Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studio
 <h2 id="regeln">Die Regeln</h2>
 
 - **Einmal pro Standort.** Du kannst jedes Studio einmal besuchen. Buchst du einen Kurs und sagst ihn ab, kannst du dort während der Probezeit nicht noch einmal buchen.
+- **Weniger Plätze möglich.** Für Testmitglieder können die Plätze pro Kurs begrenzt sein, je nach Studio.
 - **Stornogebühren gelten auch.** Sagst du zu spät ab oder erscheinst nicht, zahlst du die übliche Gebühr, auch in der Probezeit.
 - **Extra Credits.** Bei manchen Probeangeboten kannst du zusätzliche Credits kaufen, zum Beispiel für einen zweiten Besuch.
 - **Früher wechseln.** Bei manchen Angeboten kannst du sofort zu einem Monatsabo wechseln. Dann kannst du auch öfter ins selbe Studio.

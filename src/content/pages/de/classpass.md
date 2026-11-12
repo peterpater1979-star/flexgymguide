@@ -149,7 +149,7 @@ Dein Abo funktioniert auch außerhalb von Deutschland, in über 2.500 Städten i
 Neu bei ClassPass? In Deutschland startest du derzeit mit einem Monat gratis und 10 Workouts. So funktioniert es:
 
 1. **Melde dich an** über den Button unten. Das Probeangebot siehst du bei der Anmeldung.
-2. **Buche deine Workouts.** Jedes Studio und Fitnessstudio kannst du einmal besuchen. Workouts, die du nicht nutzt, verfallen am Ende der Probezeit.
+2. **Buche deine Workouts.** Jedes Studio und Fitnessstudio kannst du einmal besuchen. Für Testmitglieder können die Plätze pro Kurs begrenzt sein. Workouts, die du nicht nutzt, verfallen am Ende der Probezeit.
 3. **Sag rechtzeitig ab.** Sagst du zu spät ab oder erscheinst nicht, zahlst du die übliche Gebühr, auch in der Probezeit.
 4. **Am Ende** bekommst du eine Erinnerung per E-Mail. Kündigst du nicht, wechselst du automatisch zum Monatsabo, derzeit 42 Credits für 59 € pro Monat.
 
