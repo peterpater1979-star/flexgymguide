@@ -137,6 +137,8 @@ In Rotterdam kost het standaardabonnement € 59 per maand voor 40 credits, en j
 
 [Bekijk de studio's in Rotterdam per buurt en per sport.](/nl/classpass-rotterdam/)
 
+[Bekijk de studio's in Rotterdam op ClassPass.](https://classpass.com/search/rotterdam/fitness-classes/5WXmCWGrKXu)
+
 - Studio's door heel Rotterdam: het centrum, Kralingen, Hillegersberg, Noord en Zuid
 - Vooral veel pilates en yoga, maar ook krachttraining, CrossFit, kickboksen, vechtsport en paaldans
 - Ook studio's in Schiedam, Capelle aan den IJssel en Delft

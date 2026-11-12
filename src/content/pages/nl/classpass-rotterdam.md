@@ -82,6 +82,8 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - Met je credits kun je bij een paar zaken ook iets te eten of drinken halen, bijvoorbeeld in het café van Kula aan de Coolhaven of een poké bowl bij The Poké Box in de Posthoornstraat.
 - Je Rotterdamse abonnement werkt ook in andere Nederlandse steden en in het buitenland, overal waar ClassPass actief is, bijvoorbeeld in [Amsterdam](/nl/classpass-amsterdam/).
 
+[Bekijk de studio's in Rotterdam op ClassPass.](https://classpass.com/search/rotterdam/fitness-classes/5WXmCWGrKXu)
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/classpass/">Alles over ClassPass</a>
 <a class="knop knop-rand" href="/nl/rotterdam/">Flexibel sporten in Rotterdam</a>
