@@ -93,6 +93,10 @@ Eigen clubs met gym en groepslessen: 2 in Eindhoven, 53 in heel Nederland. Bij L
 
 Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbezoeken bij studio's door de hele stad. Handig als je graag afwisselt en je niet aan één locatie wilt binden. [Lees alles over ClassPass](/nl/classpass/).
 
+[Bekijk de studio's in Eindhoven per buurt en per sport.](/nl/classpass-eindhoven/)
+
+[Bekijk de studio's in Eindhoven op ClassPass.](https://classpass.com/search/eindhoven/fitness-classes/5m9jQQxE7jD)
+
 <div class="kolommen">
 
 <div class="kolom">
@@ -103,7 +107,7 @@ Met ClassPass krijg je elke maand credits die je inwisselt voor lessen en gymbez
 - Standaardabonnement in Eindhoven: 40 credits voor € 59 per maand
 - 14 dagen gratis met 10 workouts om te proberen
 - Studio's in het centrum (onder meer bij de Lichttoren), op Strijp-S, in Stratum en daarbuiten
-- Vooral veel (reformer) pilates en krachttraining, maar ook yoga, kickboksen, karate en dans
+- Vooral veel (reformer) pilates en krachttraining, maar ook yoga, kickboksen, karate en paaldans
 - Ook studio's in Nuenen, Valkenswaard en Oirschot
 - Ook te gebruiken in meer dan 2.500 andere steden in 31 landen
 
