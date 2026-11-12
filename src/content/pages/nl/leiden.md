@@ -79,8 +79,9 @@ Eigen clubs met gym en groepslessen: 1 in Leiden, 53 in heel Nederland. Flex is 
 
 In Leiden kost het standaardabonnement € 59 per maand voor 40 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
-- Studio's in het centrum (Breestraat, Hogewoerd), rond de Rooseveltstraat en in Leiderdorp
-- Vooral krachttraining, (reformer) pilates, boksen en vechtsport, maar ook yoga
+[Bekijk de studio's in Leiden per buurt en per sport.](/nl/classpass-leiden/)
+
+[Bekijk de studio's in Leiden op ClassPass.](https://classpass.com/search/leiden/fitness-classes/556jVRfqGP9)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>

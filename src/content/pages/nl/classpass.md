@@ -102,7 +102,7 @@ ClassPass is in Nederland vooral actief in de grote steden. Per stad zetten we d
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Centrum, Zeeheldenkwartier, Bezuidenhout en Scheveningen, veel pilates · <a href="/nl/classpass-den-haag/">per buurt</a></span></li>
 <li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Binnenstad, Lombok, Oost en Leidsche Rijn, veel (hot) yoga · <a href="/nl/classpass-utrecht/">per buurt</a></span></li>
 <li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">Veel reformer-pilates in het centrum, ook hot yoga en kickboksen · <a href="/nl/classpass-haarlem/">per buurt</a></span></li>
-<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">Centrum, Rooseveltstraat en Leiderdorp</span></li>
+<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">Binnenstad, Rooseveltstraat en Leiderdorp, veel reformer-pilates · <a href="/nl/classpass-leiden/">per buurt</a></span></li>
 <li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">Centrum, Strijp-S en Stratum, veel pilates · <a href="/nl/classpass-eindhoven/">per buurt</a></span></li>
 <li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">Binnenstad, veel krachttraining en spinning · <a href="/nl/classpass-groningen/">per buurt</a></span></li>
 </ul>
