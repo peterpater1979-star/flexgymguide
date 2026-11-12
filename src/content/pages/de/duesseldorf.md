@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in Düsseldorf"
-seoTitle: "ClassPass Düsseldorf: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudio in Düsseldorf monatlich kündbar: deine Optionen"
 path: "/de/duesseldorf/"
 description: "Flexibel trainieren in Düsseldorf: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 5 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -150,6 +150,8 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 ### Wo
 
 Ein gutes Angebot, vor allem in der Innenstadt, in Carlstadt, Pempelfort, Unterbilk und Flingern. Eine kleine Auswahl: Reformer-Pilates bei égoïste, JOSEF P, Roform und corelab, Lagree bei Fitbodylab und Barre bei Youpila und the MOVE STUDIO. Dazu Indoor-Cycling bei BECYCLE, Hot Workouts bei Burn Baby Burn und Krafttraining bei BEAT81.
+
+[Alle Studios in Düsseldorf nach Stadtteil und Sportart ansehen.](/de/classpass-duesseldorf/)
 
 [Sieh dir die Studios in Düsseldorf auf ClassPass an.](/go/classpass-de-duesseldorf/?epi=fgg-de-duesseldorf)
 

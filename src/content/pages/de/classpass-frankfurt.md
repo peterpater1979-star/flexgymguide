@@ -104,7 +104,7 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 
 - [Alles über ClassPass](/de/classpass/)
 - [ClassPass-Credits erklärt](/de/classpass-credits/)
-- [ClassPass in Hamburg](/de/classpass-hamburg/)
+- [ClassPass in Düsseldorf](/de/classpass-duesseldorf/)
 
 </div>
 
