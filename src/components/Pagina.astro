@@ -5,8 +5,7 @@ import Advertentiemelding from './Advertentiemelding.astro';
 import Kruimelpad from './Kruimelpad.astro';
 import Delen from './Delen.astro';
 import TipFormulier from './TipFormulier.astro';
-import { getCollection } from 'astro:content';
-import { hreflang, ogLocale, gewijzigd, organisatie } from '../data/seo';
+import { hreflang, ogLocale, gewijzigd, organisatie, hreflangGroep } from '../data/seo';
 
 const { page } = Astro.props as { page: CollectionEntry<'pages'> };
 const { Content } = await render(page);
@@ -17,10 +16,11 @@ const affiliate = /\]\(\/go\/|href="\/go\//.test(page.body ?? '');
 // Zoekfunctie (Pagefind): alleen geïndexeerde pagina's. De titel telt zwaar mee; land en taal bepalen de volgorde van de resultaten.
 const zoek = !d.noindex;
 const zoekAttr = zoek ? { 'data-pagefind-body': '' } : {};
-// Zelfde pagina in een andere taal (hreflang). `vertaling` staat aan één kant; hier zoeken we beide richtingen.
-const alle = await getCollection('pages', (p) => !p.data.draft && !p.data.noindex);
-const partner = d.vertaling ? alle.find((p) => p.data.path === d.vertaling) : alle.find((p) => p.data.vertaling === d.path);
-const alternates = partner && !d.noindex ? [d, partner.data].map((x) => ({ hreflang: hreflang(x.lang, x.land), href: x.path })) : [];
+// Zelfde pagina in een andere taal of ander land (hreflang): zie src/data/vertalingen.ts.
+const groep = d.noindex ? [] : await hreflangGroep(d.path);
+const alternates = groep.length > 1
+  ? [...groep.map((x) => ({ hreflang: hreflang(x.lang, x.land), href: x.path })), ...(groep.some((x) => x.path === '/') ? [{ hreflang: 'x-default', href: '/' }] : [])]
+  : [];
 // Structured data: website en organisatie op de homepage, artikel met datum op gidsen en aanbiederpagina's.
 const url = new URL(d.path, 'https://flexgymguide.com').href;
 const datum = gewijzigd(page.filePath);
@@ -46,7 +46,8 @@ const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : 
     {zoek && <span hidden data-pagefind-ignore data-pagefind-meta="land">{d.land}</span>}
     {zoek && <span hidden data-pagefind-ignore data-pagefind-meta="taal">{d.lang}</span>}
     {zoek && d.description && <span hidden data-pagefind-ignore data-pagefind-meta="beschrijving">{d.description}</span>}
-    {zoek && d.zoekwoorden && <span hidden data-pagefind-weight="10">{d.zoekwoorden}</span>}
+    {/* Extra zoektermen als attribuut, niet als (verborgen) tekst: Pagefind leest het attribuut, Google ziet geen verborgen trefwoorden. */}
+    {zoek && d.zoekwoorden && <span data-pagefind-weight="10" data-pagefind-index-attrs="data-zoekwoorden" data-zoekwoorden={d.zoekwoorden}></span>}
     <Content />
     <div data-pagefind-ignore="all">
       {tip && <TipFormulier lang={d.lang} pagina={d.path} stad={stad} />}
