@@ -39,7 +39,7 @@ Ein Abo auf Credit-Basis für Yoga, Reformer-Pilates und Aerial in der Region, u
 
 ### Fitness First
 
-220 Clubs in Deutschland, 10 in Darmstadt. Mit Kursen, Sauna und in BLACK-Clubs oft auch Pool. RED oder BLACK, mit 1, 12 oder 24 Monaten Laufzeit.
+220 Clubs in Deutschland, 10 in Darmstadt. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -63,24 +63,7 @@ clever fit hat in Darmstadt ein Studio in der Pallaswiesenstraße. Preise je nac
 
 </div>
 
-<div id="ueberblick">
-
-## ClassPass und Fitness First auf einen Blick
-
-Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.
-
-| Merkmal | ClassPass | Fitness First |
-| --- | --- | --- |
-| **Art** | Sportpass mit Credits | Fitnessstudiokette |
-| **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) | Je nach Club und Mitgliedschaft |
-| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs |
-| **Standorte in Darmstadt** | Wenige Studios in Darmstadt selbst, mehr Auswahl in Frankfurt, Mainz und Wiesbaden | 10 Clubs |
-| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club |
-| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> 1 Monat gratis, 10 Workouts | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich |
-| **Mehr erfahren** | [Alles über ClassPass](/de/classpass/) | [Alles über Fitness First](/de/fitness-first/) |
-
-</div>
+<p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
 
 <div class="kolommen">
 
@@ -229,13 +212,6 @@ Vor allem Yoga und Reformer-Pilates bei Balance Yoga, Pole Dance und Aerial bei 
 <summary>Kann ich ClassPass auch außerhalb von Darmstadt nutzen?</summary>
 
 Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nutzen, überall dort, wo ClassPass aktiv ist.
-
-</details>
-
-<details>
-<summary>Bietet Fitness First ein kostenloses Probetraining an?</summary>
-
-Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen Fitness First Clubs in Deutschland.
 
 </details>
 
