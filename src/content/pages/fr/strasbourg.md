@@ -122,6 +122,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Dans le centre (Grande Île, Neudorf) et au boulevard de Nancy, et aussi au nord et à l’ouest de la ville (Lampertheim, Souffelweyersheim, Wiwersheim). Les studios par quartier et par sport sont sur ClassPass à Strasbourg.
 
+Quelques studios par sport, entre autres :
+
+- Pilates : The New Me, Harmonie Pilates et Core & Cup
+- Yoga : Swedish Fit rue des Greniers et Core & Cup
+- Barre : POSES à Lampertheim
+- HIIT : O’Zone Hiit Studios
+- Boxe : O’Zone Hiit Studios et Cercle Boxing Strasbourg
+
 [Voir les studios à Strasbourg par quartier et par sport](/fr/classpass-strasbourg/)
 
 À Strasbourg, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
@@ -158,7 +166,7 @@ Oui. Tes crédits marchent dans d’autres villes françaises et à l’étrange
 
 - [Faire du sport à Montpellier](/fr/montpellier/)
 - [Faire du sport à Rennes](/fr/rennes/)
-- [Faire du sport à Cannes](/fr/cannes/)
+- [Faire du sport à Lille](/fr/lille/)
 - [Tout sur ClassPass](/fr/classpass/)
 - [Tout sur Keepcool](/fr/keepcool/)
 - [Tout sur Fitness Park](/fr/fitness-park/)

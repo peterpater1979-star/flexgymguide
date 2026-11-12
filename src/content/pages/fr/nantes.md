@@ -178,6 +178,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Surtout dans le centre (Bouffay, Graslin, Madeleine, Coudray), sur l’île de Nantes et à Jamet, et aussi à Saint-Herblain, La Chapelle-sur-Erdre et Saint-Sébastien-sur-Loire. Pilates (dont Reformer), yoga, HIIT, cycling et boxe. Les studios par quartier et par sport sont sur ClassPass à Nantes.
 
+Quelques studios par sport, entre autres :
+
+- Pilates : The New Me, Éos Studio et Studio Pilates 44
+- Yoga : Chez June, Studio Cours Hamon et Jamet sporting club
+- Barre : Studio Cours Hamon
+- HIIT : Kombo Studio, Jamet sporting club et Fit and Fight
+- Renforcement et bootcamp : Swedish Fit et Wake Up Form
+
 [Voir les studios à Nantes par quartier et par sport](/fr/classpass-nantes/)
 
 À Nantes, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).

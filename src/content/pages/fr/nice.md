@@ -164,6 +164,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Surtout le centre et le Carré d’Or, mais aussi le Port et Cimiez. Beaucoup de Pilates, du renforcement musculaire et du yoga. Les studios par quartier et par sport sont sur ClassPass à Nice.
 
+Quelques studios par sport, entre autres :
+
+- Pilates : A CASA FIT, Studio A et Panterra
+- Barre : All You Club
+- Yoga : Yurvedik Yoga, InnerMove et Karène Yoga
+- Cycling : Amplify, LE LAB Cycling et La Parenthèse
+- HIIT et renforcement : Oracless, Athlètes Fabrik et Raise Studio
+
 [Voir les studios à Nice par quartier et par sport](/fr/classpass-nice/)
 
 À Nice, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).

@@ -150,6 +150,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Dans le centre (Écusson, Arceaux, Saint-Roch) et aux Prés d’Arènes, et aussi à Castelnau-le-Lez, Lattes, Pérols et Mauguio. Les studios par quartier et par sport sont sur ClassPass à Montpellier.
 
+Quelques studios par sport, entre autres :
+
+- Pilates et Lagree : PIA, The New Me et Lemon Studio
+- Yoga : L’Intuitive Yoga, JOY Maison Wellness et Le Club
+- Bootcamp et renforcement : Training Go, Movida Club et Ethik Sport Club
+- Boxe : Ethik Sport Club à Castelnau-le-Lez
+- Accès à la salle : Movida Club, Training Go et Ethik Sport Club
+
 [Voir les studios à Montpellier par quartier et par sport](/fr/classpass-montpellier/)
 
 À Montpellier, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
@@ -185,7 +193,7 @@ Oui. Tes crédits marchent dans d’autres villes françaises et à l’étrange
 <summary>À lire aussi</summary>
 
 - [Faire du sport à Rennes](/fr/rennes/)
-- [Faire du sport à Cannes](/fr/cannes/)
+- [Faire du sport à Marseille](/fr/marseille/)
 - [Faire du sport à Paris](/fr/paris/)
 - [Tout sur ClassPass](/fr/classpass/)
 - [Tout sur Keepcool](/fr/keepcool/)

@@ -164,6 +164,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Surtout dans le centre historique, autour du cours Mirabeau, et aussi aux Milles. Beaucoup de Pilates, du renforcement musculaire et de la boxe, et aussi à Éguilles et Venelles. Les studios par quartier et par sport sont sur ClassPass à Aix-en-Provence.
 
+Quelques studios par sport, entre autres :
+
+- Pilates : The New Me, Maison Susa et UMI Pilates Club
+- Barre : STORM
+- Yoga : Maluja studio et le studio DYP
+- HIIT et HYROX : 510 Training Club et Club Muniz Boxing Academy
+- Boxe : Club Muniz Boxing Academy et Boxing Club LM 13
+
 [Voir les studios à Aix-en-Provence par quartier et par sport](/fr/classpass-aix-en-provence/)
 
 À Aix-en-Provence, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).

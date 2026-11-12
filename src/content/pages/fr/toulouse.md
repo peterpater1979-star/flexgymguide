@@ -150,6 +150,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Surtout dans le centre, autour des Carmes, du Capitole, de Matabiau et du Grand-Rond, et aussi à Balma, L’Union, Tournefeuille et Plaisance-du-Touch. Les studios par quartier et par sport sont sur ClassPass à Toulouse.
 
+Quelques studios par sport, entre autres :
+
+- Pilates : Body Pilates, Ora Club et PYC Studio
+- Yoga : Sattva Yoga Shala, Body Pilates et PYC Studio
+- Barre : Ora Club
+- HIIT et HYROX : H Training Club, Grand Rond Athletic et LØFTE
+- Bootcamp et renforcement : Swedish Fit, LØFTE et Studio Sport Santé à L’Union
+
 [Voir les studios à Toulouse par quartier et par sport](/fr/classpass-toulouse/)
 
 À Toulouse, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).

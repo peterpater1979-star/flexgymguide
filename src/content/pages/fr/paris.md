@@ -244,6 +244,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Une très grande offre dans toute la ville : du Pilates, du Lagree, de la barre et du yoga jusqu’au HIIT, à la boxe, au cycling et à la danse. Les studios par quartier et par sport sont sur ClassPass à Paris.
 
+Quelques studios par sport, entre autres :
+
+- Yoga : jivamukti, Mama Yoga et Modo Yoga
+- Pilates et Lagree : DNA Pilates, KORE et Lagreeness
+- Barre : Kalon, POSES et BarreShape
+- HIIT : RITM, Barry’s Bootcamp et KAH Studio
+- Bootcamp : BOLD Sport Studio, EPISOD et SORE
+
 [Voir les studios à Paris par quartier et par sport](/fr/classpass-paris/)
 
 En Île-de-France, ClassPass est aussi présent plus loin, par exemple à [Cergy](/fr/cergy/), [Poissy](/fr/poissy/), [Maurepas](/fr/maurepas/), [Montévrain](/fr/montevrain/) et [Bussy-Saint-Georges](/fr/bussy-saint-georges/).

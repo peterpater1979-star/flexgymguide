@@ -194,7 +194,7 @@ Oui. Tes crédits marchent dans d’autres villes françaises et à l’étrange
 <details class="verder">
 <summary>À lire aussi</summary>
 
-- [Faire du sport à Cannes](/fr/cannes/)
+- [Faire du sport à Nantes](/fr/nantes/)
 - [Faire du sport à Paris](/fr/paris/)
 - [Faire du sport à Lyon](/fr/lyon/)
 - [Tout sur ClassPass](/fr/classpass/)

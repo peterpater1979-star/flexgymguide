@@ -192,6 +192,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Presqu’île, Croix-Rousse, la Part-Dieu, les Brotteaux et la Guillotière. Surtout du yoga et du Pilates, et aussi à Villeurbanne et Caluire. Les studios par quartier et par sport sont sur ClassPass à Lyon.
 
+Quelques studios par sport, entre autres :
+
+- Pilates et Lagree : REFORME - Studio Lagree, The New Me et Casa Pilates
+- Yoga : FAUVES YOGA, OLYA et Flowlab
+- Barre : Flowlab, O Yoga Studio et Elixir Studio
+- HIIT : Uniqe Club, AMFIT TIME et DRIP Lyon
+- Bootcamp : SHE IS FIT, Swedish Fit et NEKO
+
 [Voir les studios à Lyon par quartier et par sport](/fr/classpass-lyon/)
 
 À Lyon, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).

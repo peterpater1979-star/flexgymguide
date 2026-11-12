@@ -178,6 +178,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Chartrons, Saint-Pierre, Saint-Genès, Pey-Berland et la Bastide. Surtout du yoga et du Pilates, et aussi à Talence, Pessac, Mérignac et au Bouscat. Les studios par quartier et par sport sont sur ClassPass à Bordeaux.
 
+Quelques studios par sport, entre autres :
+
+- Pilates et Lagree : Lagree Lab, Sculpt Pilates Reformer et Black Milk
+- Yoga : Yoga Pop, Yoon Studio et Bikram Yoga Bordeaux
+- Barre : Oxxy Club, The Sport Society et Maison Fitzen
+- HIIT : Method Training, Oxxy Club et Swedish Fit
+- Bootcamp : Blast Studio, Le Spot Fitness Club et Calvin and Lane
+
 [Voir les studios à Bordeaux par quartier et par sport](/fr/classpass-bordeaux/)
 
 À Bordeaux, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).

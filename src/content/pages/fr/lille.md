@@ -122,6 +122,15 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Le Vieux-Lille et le centre, et surtout Marcq-en-Barœul, La Madeleine et Villeneuve-d’Ascq. Pilates (dont Reformer), yoga, boxe et accès à la salle. Les studios par quartier et par sport sont sur ClassPass à Lille.
 
+Quelques studios par sport, entre autres :
+
+- Pilates : The New Me, Healthilona et Studio Pilates MCR®
+- Yoga : Yoga Corner, POSÉ et ALOYA
+- Boxe : Le Hook, Apollo Sporting Club et Slash Sport Club
+- Renforcement et coaching : Le Hook, In Sport et Moscion
+- Danse : Waka Waka Dance Academy
+
+
 [Voir les studios à Lille par quartier et par sport](/fr/classpass-lille/)
 
 À Lille, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).

@@ -178,6 +178,14 @@ Les prix et conditions changent régulièrement. Vérifie toujours la situation 
 
 Vieux-Port, Castellane, Longchamp et Château-Gombert. Yoga, Pilates et renforcement musculaire, et aussi à Cassis. Les studios par quartier et par sport sont sur ClassPass à Marseille.
 
+Quelques studios par sport, entre autres :
+
+- Pilates : My Body Studio, PULSE PILATES CLUB et InfinityCore
+- Yoga : Hot Yoga Studio Marseille, Pura Vida Studio et Gaïa Yoga
+- Barre : POSES Marseille, STUDIO 24 et Boost Club
+- HIIT : REBORN STUDIO, ROAD SOCIAL CLUB et The Square Studio
+- Bootcamp : KUBE Bootcamp, Wondercamp et SWC Club Outdoor Prado
+
 [Voir les studios à Marseille par quartier et par sport](/fr/classpass-marseille/)
 
 À Marseille, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
