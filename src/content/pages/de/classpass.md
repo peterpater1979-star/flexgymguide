@@ -108,6 +108,11 @@ In München und Frankfurt gibt es außerdem drei Abos mit unbegrenztem Gym-Zugan
 
 Trainierst du vor allem im Gym und mehrmals pro Woche? Dann schau dir auch [Fitness First](/de/fitness-first/) an, eine Fitnessstudiokette mit eigenen Clubs.
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="staedte">ClassPass in deiner Stadt</h2>
 
 Pro Stadt stellen wir die Optionen nebeneinander:

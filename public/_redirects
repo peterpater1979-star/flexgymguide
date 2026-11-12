@@ -18,6 +18,8 @@
 # ClassPass DE goedgekeurd bij Tradedoubler (programma 374022, site 3504126), 12-11-2026
 /go/classpass-de/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi  302
 /go/classpass-de/            https://clk.tradedoubler.com/click?p=374022&a=3504126  302
+/go/classpass-de-banner/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&g=25805232&epi=:epi  302
+/go/classpass-de-banner/            https://clk.tradedoubler.com/click?p=374022&a=3504126&g=25805232  302
 # Deeplinks per Duitse stad (Tradedoubler &url= met de ClassPass-zoekpagina van die stad)
 /go/classpass-de-berlin/  epi=:epi  https://clk.tradedoubler.com/click?p=374022&a=3504126&epi=:epi&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fberlin%2Ffitness-classes%2F5275bm9hp3q  302
 /go/classpass-de-berlin/            https://clk.tradedoubler.com/click?p=374022&a=3504126&url=https%3A%2F%2Fclasspass.com%2Fsearch%2Fberlin%2Ffitness-classes%2F5275bm9hp3q  302
