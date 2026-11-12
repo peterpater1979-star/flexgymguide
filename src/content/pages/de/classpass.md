@@ -126,7 +126,7 @@ Pro Stadt stellen wir die Optionen nebeneinander:
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">Kleines Angebot, mehr Auswahl in Frankfurt</span></li>
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">Mitte, West und Süd, viel Pilates · <a href="/de/classpass-stuttgart/">nach Stadtbezirk</a></span></li>
 <li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">Stadtmitte, Carlstadt, Pempelfort und Bilk · <a href="/de/classpass-duesseldorf/">nach Stadtteil</a></span></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">Kleineres Angebot, vor allem im Zentrum</span></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">Kleineres Angebot, vor allem im Zentrum und im Westen · <a href="/de/classpass-leipzig/">nach Stadtteil</a></span></li>
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">Kleineres Angebot, auch in Bochum</span></li>
 </ul>
 

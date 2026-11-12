@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in Leipzig"
-seoTitle: "ClassPass Leipzig: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudio in Leipzig monatlich kündbar: deine Optionen"
 path: "/de/leipzig/"
 description: "Flexibel trainieren in Leipzig: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 2 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -152,6 +152,8 @@ Mit ClassPass bekommst du jeden Monat Credits, die du für Kurse und Gym-Besuche
 Ein überschaubares Angebot, vor allem im Zentrum. Yoga bei Hot Yoga Leipzig, Be Light Yoga Studio, jayayoga und Studio G14, Pilates bei Pada Pilates und Spannkraft, Krafttraining bei AURUM Fit und Pole Dance bei Delight. Dazu BootCamp drinnen und draußen, etwa am Völkerschlachtdenkmal und im Clara-Zetkin-Park.
 
 [Sieh dir die Studios in Leipzig auf ClassPass an.](/go/classpass-de-leipzig/?epi=fgg-de-leipzig)
+
+[Alle Studios in Leipzig nach Stadtteil und Sportart ansehen.](/de/classpass-leipzig/)
 
 ### Das bekommst du
 
