@@ -181,15 +181,15 @@ You can change, pause or cancel your plan at any time.
 Decathlon has an Irish webshop in euro, with delivery in Ireland. These links take you straight to decathlon.ie.
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/decathlon-ie-sportswear-women/">Sportswear for women</a></li>
-<li class="i-kleding"><a href="/go/decathlon-ie-sportswear-men/">Gym tops for men</a></li>
-<li class="i-schoen"><a href="/go/decathlon-ie-training-shoes-women/">Training shoes for women</a></li>
-<li class="i-schoen"><a href="/go/decathlon-ie-training-shoes-men/">Training shoes for men</a></li>
-<li class="i-fles"><a href="/go/decathlon-ie-water-bottle/">Water bottle</a></li>
-<li class="i-handdoek"><a href="/go/decathlon-ie-towel/">Gym towel</a></li>
-<li class="i-slot"><a href="/go/decathlon-ie-padlock/">Locker padlock</a></li>
-<li class="i-fles"><a href="/go/decathlon-ie-shaker/">Protein shaker</a></li>
-<li class="i-mat"><a href="/go/decathlon-ie-yoga-mat/">Yoga mat</a></li>
+<li class="i-kleding"><a href="/go/decathlon-ie-sportswear-women/?clickref=fgg-ie-index-sportswear-women">Sportswear for women</a></li>
+<li class="i-kleding"><a href="/go/decathlon-ie-sportswear-men/?clickref=fgg-ie-index-sportswear-men">Gym tops for men</a></li>
+<li class="i-schoen"><a href="/go/decathlon-ie-training-shoes-women/?clickref=fgg-ie-index-training-shoes-women">Training shoes for women</a></li>
+<li class="i-schoen"><a href="/go/decathlon-ie-training-shoes-men/?clickref=fgg-ie-index-training-shoes-men">Training shoes for men</a></li>
+<li class="i-fles"><a href="/go/decathlon-ie-water-bottle/?clickref=fgg-ie-index-water-bottle">Water bottle</a></li>
+<li class="i-handdoek"><a href="/go/decathlon-ie-towel/?clickref=fgg-ie-index-towel">Gym towel</a></li>
+<li class="i-slot"><a href="/go/decathlon-ie-padlock/?clickref=fgg-ie-index-padlock">Locker padlock</a></li>
+<li class="i-fles"><a href="/go/decathlon-ie-shaker/?clickref=fgg-ie-index-shaker">Protein shaker</a></li>
+<li class="i-mat"><a href="/go/decathlon-ie-yoga-mat/?clickref=fgg-ie-index-yoga-mat">Yoga mat</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
