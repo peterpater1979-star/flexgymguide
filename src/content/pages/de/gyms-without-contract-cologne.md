@@ -6,14 +6,14 @@ vertaling: "/de/fitnessstudio-ohne-vertrag-koeln/"
 description: "No-contract gyms in Cologne: ClassPass, Fitness First, McFit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: de
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in Cologne"
 kicker: "City guide Cologne"
 ---
 
 <div class="fotobanner foto-fitness-first-de" role="img" aria-label="Gym"></div>
 
-Just moved to Cologne, here for a semester, or not sure how long you will stay? You don't have to sign a one or two-year gym contract. These are the options to work out month by month, or only when you go.
+Just moved to Cologne, here for a semester, or not sure how long you will stay? You don't have to sign a long gym contract. Cologne has a lively ClassPass scene with lots of barre, yoga, martial arts and dance from salsa to pole, Fitness First has 14 clubs with a monthly membership, and McFit and Basic-Fit are cheaper options. New in Germany? Read [Gyms without a contract in Germany](/de/gyms-without-contract/) for the German rules on notice periods and fees.
 
 <h2 id="short">In short</h2>
 
@@ -30,9 +30,10 @@ Just moved to Cologne, here for a semester, or not sure how long you will stay? 
 
 With ClassPass you get credits every month for classes and gym visits at studios all over Cologne. You are not tied down: you cancel whenever you want and keep training until the end of your month.
 
+Most studios are in the Belgian Quarter, the city centre, the Südstadt and Sülz. Cologne has a lot of barre, outdoor classes in the Stadtwald and Mediapark, and dance classes from salsa and bachata to hip hop and pole dance. A selection per neighbourhood is on [ClassPass in Cologne](/de/classpass-koeln/) (in German).
+
 - **Plans in Cologne:** the standard plan is 42 credits for €59 a month. There are smaller and bigger plans in the app. See [ClassPass credits explained](/guides/classpass-credits/).
 - **Try it first:** one month free with 10 workouts. Read [Trying ClassPass for free](/guides/classpass-free-trial/).
-- **Pausing:** when you cancel, ClassPass often offers a free pause. Read [Cancelling or pausing ClassPass](/guides/cancel-or-pause-classpass/).
 - **Travelling a lot?** Your plan also works in other cities. Read [ClassPass while travelling](/guides/classpass-while-travelling/).
 
 <div class="knoppen">
@@ -41,7 +42,7 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 <h2 id="fitness-first">Fitness First: membership without a minimum term</h2>
 
-Fitness First has 14 clubs in Cologne, with equipment, a large class schedule and a wellness area, and a pool in some clubs. Besides a 24-month membership there is one for 12 months and one without a minimum term, which you cancel monthly. Fitness First charges per week, and the price depends on the club: there are RED and BLACK clubs. At a RED club you choose between BASIC and ALL-IN; ALL-IN includes classes, a drinks flat rate and the wellness area, among other things. This is what prices looked like in October 2026, per week:
+Fitness First has 14 clubs in Cologne, and you can join without a minimum term and cancel monthly. Prices are per week and differ per club. This is what they looked like in October 2026 at two clubs in Cologne:
 
 | Term | RED BASIC (Breite Straße) | RED ALL-IN (Breite Straße) | BLACK (Mediapark) |
 | --- | --- | --- | --- |
@@ -51,7 +52,7 @@ Fitness First has 14 clubs in Cologne, with equipment, a large class schedule an
 
 Students, pupils and trainees pay less: at the BLACK club Mediapark €22.90 per week without a minimum term, €16.90 with 12 months and €14.90 with 24 months. At the RED club Breite Straße it was €14.90 without a minimum term, €11.90 with 12 months and €9.90 with 24 months.
 
-Without a minimum term you pay a one-off startup fee of €39. On top of that comes a training package of €39 or €49, charged every six months. With 24 months there is no startup fee, and you can pause for free for up to 12 weeks a year. You can switch to the 24-month membership at any time. Not sure? Book a free trial session first.
+Without a minimum term you also pay a startup fee and a training package; how RED, BLACK, BASIC and ALL-IN work is explained in [Gyms without a contract in Germany](/de/gyms-without-contract/#fitness-first). Not sure? Book a free trial session first.
 
 <p class="klein">Source: the club pages for Köln Breite Straße and Köln Mediapark and fitnessfirst.de/mitgliedschaft/1m (October 2026). Always check the current price with the club. Cancelling: see <a href="/de/cancel-fitness-first-germany/">Cancelling Fitness First</a>.</p>
 
@@ -61,32 +62,15 @@ Without a minimum term you pay a one-off startup fee of €39. On top of that co
 
 <h2 id="mcfit">McFit Flex: cancel monthly</h2>
 
-McFit is Germany's largest gym chain by number of members, with more than 230 gyms in Germany, Austria and Italy, including Cologne. It is cheap and belongs to the RSG Group. Besides 12 and 24-month contracts there is Flex, without a fixed term. This is what prices looked like in October 2026, per month:
+McFit has several gyms in Cologne. With Flex you pay €49.90 a month and cancel monthly; with a 12 or 24-month contract it is cheaper. Prices and the first-month fee are explained in [Gyms without a contract in Germany](/de/gyms-without-contract/#mcfit).
 
-| Plan | Price | Term |
-| --- | --- | --- |
-| Flex | €49.90 | No fixed term |
-| 12 months Standard | €29.90 | 12 months |
-| 24 months Standard | €24.90 | 24 months |
+<h2 id="other">Other gyms in Cologne with a flexible plan</h2>
 
-In the first month you pay €88.90 in total with Flex (total price according to McFit). So Flex costs almost twice as much as a 24-month contract, but you are not tied down. With every plan you can train at more than 230 McFit gyms in Europe, with live classes at participating gyms.
+- **Basic-Fit:** clubs in Spichernstraße and Peter-Huppertz-Straße, Flex €9.99 more per 4 weeks than the yearly contract.
+- **Holmes Place:** 1 premium club; ask about the terms during a visit.
+- **Mrs.Sporty:** several women-only clubs; prices are set per club.
 
-<p class="klein">Source: mcfit.com/mitgliedschaft (October 2026). Always check the current price with McFit. Cancelling: see <a href="/de/mcfit-kuendigen/">McFit kündigen</a> (in German).</p>
-
-<h2 id="drop-in">Drop-in classes and 10-class cards</h2>
-
-Many yoga, pilates and boxing studios sell single classes or a card for a number of classes. You only pay when you go, which is handy if you have one favourite studio. Check the studio's website; prices and validity differ.
-
-<h2 id="tips">Tips if you are new in Germany</h2>
-
-- **Websites in German.** Many gym websites and sign-up pages are only in German. Your browser can translate them.
-- **Per week, not per month.** Fitness First shows prices per week. Multiply by about 4.3 for a monthly amount.
-- **One-off and recurring fees.** Many gyms charge a startup fee, and some charge a training or service package every few months.
-- **Direct debit.** Gyms usually collect payment by SEPA direct debit, so have your IBAN ready.
-- **Notice period.** "Monthly" often means one month's notice. Read the terms before you leave the country.
-- **Cancelling online.** If you signed up online, the gym has to offer a cancel button on its website.
-- **After the minimum term.** For contracts since March 2022, a yearly contract no longer renews for a whole year after the minimum term. You can then cancel with one month's notice.
-- **How often you go.** If you train three times a week or more at the same place, a fixed contract is often cheaper. Read [Gym pass or membership?](/guides/gym-pass-or-membership/)
+<p class="klein">Prices from October and November 2026, from our pages about each chain. Always check the current price and terms with the gym.</p>
 
 ## Frequently asked questions
 
@@ -98,9 +82,9 @@ Yes. With ClassPass you cancel any time, Fitness First and McFit have membership
 </details>
 
 <details>
-<summary>What is the cheapest way to work out without a contract?</summary>
+<summary>Can I take dance classes in Cologne without signing up at a dance school?</summary>
 
-That depends on how often you go. For a few classes a month, a small ClassPass plan or a drop-in class is cheapest. If you often train at one place, a monthly gym membership is usually cheaper per visit.
+Yes. On ClassPass you can book single dance classes, for example salsa and bachata, hip hop, ballet, zumba or pole dance, without a membership at the school itself.
 
 </details>
 
@@ -112,6 +96,6 @@ Pick something you can cancel quickly. ClassPass has no notice period, so you ca
 </details>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/guides/gym-pass-or-membership/">Gym pass or membership?</a>
+<a class="knop knop-rand" href="/de/gyms-without-contract/">Gyms without a contract in Germany</a>
 <a class="knop knop-rand" href="/de/fitnessstudio-ohne-vertrag-koeln/">Deutsche Version</a>
 </div>
