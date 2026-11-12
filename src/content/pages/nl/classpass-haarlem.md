@@ -68,6 +68,7 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - Sommige studio's hebben een annuleringstermijn van 24 uur. Annuleer je later, dan ben je je credits kwijt.
 - Hoeveel credits een les kost, hangt af van de studio en het tijdstip. Lessen buiten de spits zijn vaak goedkoper.
 - Voor reformer-pilates heb je meestal sokken met grip nodig. Kom de eerste keer iets eerder.
+- Met je credits kun je bij een paar zaken ook iets te eten of drinken halen, bijvoorbeeld koffie bij het café van Moov Studio in de Kloosterstraat of bij Pür Coffee, in hetzelfde pand als PILAT3S.
 - Je Haarlemse abonnement werkt ook in Amsterdam, een kwartier met de trein, en in de rest van Nederland en het buitenland. Zie [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
 
 <div class="knoppen">

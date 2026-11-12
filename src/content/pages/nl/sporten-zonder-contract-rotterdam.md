@@ -29,7 +29,7 @@ In Rotterdam sport je zonder jaarcontract bij een van de 7 Trainmore-clubs, zoal
 
 <h2 id="classpass">ClassPass: op elk moment opzeggen</h2>
 
-Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Rotterdam. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand.
+Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio's door heel Rotterdam. Je zit nergens aan vast: je zegt op wanneer je wilt, en je traint door tot het einde van je maand. Welke studio's er zijn, van pilates tot CrossFit, zie je op [ClassPass in Rotterdam](/nl/classpass-rotterdam/).
 
 - **Abonnement in Rotterdam:** het standaardabonnement is 40 credits voor € 59 per maand. Er zijn kleinere en grotere abonnementen; die zie je in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 - **Eerst proberen:** 14 dagen gratis met 10 work-outs. Lees [ClassPass gratis proberen](/nl/classpass-proefperiode/).

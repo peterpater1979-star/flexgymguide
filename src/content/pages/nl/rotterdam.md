@@ -135,8 +135,10 @@ Anytime Fitness heeft in Rotterdam een club op de Kop van Zuid, die 24 uur per d
 
 In Rotterdam kost het standaardabonnement € 59 per maand voor 40 credits, en je kunt eerst 14 dagen gratis proberen met 10 workouts. Hoe credits werken, lees je in [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 
+[Bekijk de studio's in Rotterdam per buurt en per sport.](/nl/classpass-rotterdam/)
+
 - Studio's door heel Rotterdam: het centrum, Kralingen, Hillegersberg, Noord en Zuid
-- Vooral veel yoga en pilates, maar ook krachttraining, aerial en vechtsport
+- Vooral veel pilates en yoga, maar ook krachttraining, CrossFit, kickboksen, vechtsport en paaldans
 - Ook studio's in Schiedam, Capelle aan den IJssel en Delft
 
 <div class="knoppen">
@@ -151,7 +153,7 @@ In Rotterdam kost het standaardabonnement € 59 per maand voor 40 credits, en j
 
 ## Trainmore in Rotterdam
 
-Trainmore heeft 53 clubs in Nederland, waarvan 7 in Rotterdam. De nieuwste is Trainmore Rijnhaven, die in oktober 2026 opent. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
+Trainmore heeft 53 clubs in Nederland, waarvan 7 in Rotterdam. De nieuwste is Trainmore Rijnhaven, sinds oktober 2026. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
 Bij Coolsingel betaal je € 89 per 4 weken met Flex, € 69 met een contract van 1 jaar en € 62 met 2 jaar. Met een contract krijg je daarbovenop € 1 korting per workout, maximaal één per dag. De prijs verschilt per club, afhankelijk van het label (Black, Red of Regular).
 

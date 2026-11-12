@@ -70,6 +70,7 @@ Per sport een selectie van studio's. Klik op de sport om alle studio's op ClassP
 - Hoeveel credits een les kost, hangt af van de studio en het tijdstip. Lessen buiten de spits zijn vaak goedkoper.
 - Voor reformer-pilates heb je meestal sokken met grip nodig. Kom de eerste keer iets eerder.
 - Bij Trainmore staan via ClassPass zowel open gym als lessen in de app. Kijk goed welke van de twee je boekt.
+- Met je credits kun je ook iets te eten halen, bijvoorbeeld een açaí-bowl bij OAKBERRY in de Vrijstraat.
 - Je Eindhovense abonnement werkt ook in andere Nederlandse steden en in het buitenland, overal waar ClassPass actief is, bijvoorbeeld in [Amsterdam](/nl/classpass-amsterdam/).
 
 [Bekijk de studio's in Eindhoven op ClassPass.](https://classpass.com/search/eindhoven/fitness-classes/5m9jQQxE7jD)
