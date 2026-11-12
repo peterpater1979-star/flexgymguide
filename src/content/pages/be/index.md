@@ -89,15 +89,37 @@ Belgische sportschoolketen met meer dan 80 clubs, met fitness en groepslessen me
 
 </div>
 
+<p class="meer-aanbieders">En ook: Rostudios voor indoor cycling en reformer. <a href="#andere">Bekijk de andere studio's</a></p>
+
 <div id="steden">
 
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/be/brussel/"><strong>Brussel</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims</span></li>
-<li><a href="/be/antwerpen/"><strong>Antwerpen</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims</span></li>
+<li><a href="/be/brussel/"><strong>Brussel</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims · Rostudios</span></li>
+<li><a href="/be/antwerpen/"><strong>Antwerpen</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims · Rostudios</span></li>
 <li><a href="/be/gent/"><strong>Gent</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims</span></li>
 </ul>
+
+</div>
+
+<h2 id="andere">Andere studio's</h2>
+
+<div class="kolommen vier">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios"><span>Boutique studio</span></div>
+
+### Rostudios
+
+Indoor cycling (Rocycle) en reformer (Roform) in Brussel, en reformer in Antwerpen. Unlimited € 79 per maand in Brussel, € 49 in Antwerpen, of per les.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/rostudios/">Alles over Rostudios</a>
+</div>
+
+</div>
 
 </div>
 
@@ -163,6 +185,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Eten en drinken rond je training](/nl/eten-en-drinken-rond-je-training/)** · simpel en zonder gedoe
 - **[Basic-Fit opzeggen](/be/basic-fit-opzeggen/)** · opzegtermijn en bevriezen
 - **[Jims opzeggen](/be/jims-opzeggen/)** · opzegtermijn en pauzeren
+- **[Rostudios opzeggen](/be/rostudios-opzeggen/)** · Unlimited, opzegtermijn en bevriezen
 - **Sporten zonder contract:** [Brussel](/be/sporten-zonder-contract-brussel/) · [Antwerpen](/be/sporten-zonder-contract-antwerpen/) · [Gent](/be/sporten-zonder-contract-gent/)
 
 En français : [Ton premier cours](/fr/premier-cours/) · ce qu’il faut emporter
