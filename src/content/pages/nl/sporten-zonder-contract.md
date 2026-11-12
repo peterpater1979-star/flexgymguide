@@ -47,6 +47,16 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoek bij studio’
 
 Naast het jaarabonnement heeft Basic-Fit Flex, zonder minimale looptijd: € 9,99 per 4 weken meer, dus vanaf € 34,98. Je zegt op met 4 weken opzegtermijn. Lees [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/).
 
+| Flex | Per 4 weken | Wat je krijgt |
+| --- | --- | --- |
+| Comfort | € 34,98 | Alle clubs in Nederland |
+| Premium | € 39,98 | Alle clubs in 6 landen, één gast per week, massagestoelen |
+| Ultimate | € 44,98 | Alle clubs in 6 landen, onbeperkt gasten, sportwater, gratis pauzeren |
+
+Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten, en de welkomstacties voor jaarabonnementen gelden er niet voor. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club.
+
+<p class="klein">Bron: basic-fit.com/nl-nl/prijs (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
 </div>
@@ -67,12 +77,24 @@ Trainmore heeft 53 clubs in Nederland. Met Flex zeg je maandelijks op; een contr
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
 </div>
 
+<h2 id="big-gym">BigGym Flex: elke 4 weken opzegbaar</h2>
+
+BigGym heeft 16 grote gyms in Nederland, met kracht, cardio en groepslessen. Met Unlimited Flex zeg je elke 4 weken op, in de BigGym-app; met een contract van 1 tot 3 jaar betaal je minder. Een dagpas kan ook.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
+</div>
+
+<h2 id="los">Losse lessen en rittenkaarten</h2>
+
+Veel yoga-, pilates- en boksstudio's verkopen ook losse lessen of een kaart voor een aantal lessen. Je betaalt dan alleen als je gaat. Dat is handig als je één vaste studio hebt waar je af en toe naartoe wilt. Kijk op de site van de studio wat ze aanbieden; prijzen en geldigheid verschillen per studio.
+
 <h2 id="letop">Waar moet je op letten?</h2>
 
 - **Inschrijfkosten.** Veel sportscholen rekenen eenmalige kosten, ook zonder lang contract.
 - **Per 4 weken of per maand.** Betaal je per 4 weken, dan betaal je 13 keer per jaar.
 - **Opzegtermijn.** “Zonder contract” is niet “zonder opzegtermijn”: vaak betaal je nog 4 weken na je opzegging.
-- **Hoe vaak je gaat.** Train je drie keer per week of vaker op dezelfde plek, dan is een jaarabonnement vaak goedkoper.
+- **Hoe vaak je gaat.** Train je drie keer per week of vaker op dezelfde plek, dan is een jaarabonnement vaak goedkoper. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
 
 ## Veelgestelde vragen
 
@@ -94,6 +116,7 @@ Ja. Veel mensen trainen in hun sportschool en nemen af en toe via ClassPass een 
 <summary>Lees ook</summary>
 
 - Per stad: [Amsterdam](/nl/sporten-zonder-contract-amsterdam/) · [Rotterdam](/nl/sporten-zonder-contract-rotterdam/) · [Den Haag](/nl/sporten-zonder-contract-den-haag/) · [Utrecht](/nl/sporten-zonder-contract-utrecht/) · [Eindhoven](/nl/sporten-zonder-contract-eindhoven/) · [Groningen](/nl/sporten-zonder-contract-groningen/) · [Haarlem](/nl/sporten-zonder-contract-haarlem/)
+- [In English](/nl/gyms-without-contract/)
 - [Anytime Fitness opzeggen](/nl/anytime-fitness-opzeggen/) · [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/)
 
 </details>

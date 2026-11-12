@@ -5,14 +5,14 @@ path: "/nl/sporten-zonder-contract-den-haag/"
 description: "Sporten in Den Haag zonder jaarcontract: ClassPass, Trainmore Flex, Basic-Fit Flex, SportCity Flex en losse lessen. Wat het kost en hoe je opzegt."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Sporten zonder contract in Den Haag"
 kicker: "Stadsgids Den Haag"
 ---
 
 <div class="fotobanner foto-gymketen" role="img" aria-label="Sportschool"></div>
 
-Geen zin om een jaar vast te zitten aan één sportschool? In Den Haag kun je ook sporten met een abonnement dat je elke maand opzegt, of gewoon per les betalen. Dit zijn de opties.
+Werk je tijdelijk in Den Haag, bijvoorbeeld bij een internationale organisatie, of wil je je gewoon niet een jaar vastleggen? Dan sport je zonder jaarcontract bij Trainmore, onder meer aan de Dagelijkse Groenmarkt en het De Savornin Lohmanplein, bij SportCity of Basic-Fit, of je wisselt af met ClassPass. Dit zijn de opties, met prijzen per club.
 
 <h2 id="kort">In het kort</h2>
 
@@ -32,7 +32,6 @@ Met ClassPass krijg je elke maand credits voor lessen en gymbezoeken bij studio'
 
 - **Abonnement in Den Haag:** het standaardabonnement is 40 credits voor € 59 per maand. Er zijn kleinere en grotere abonnementen; die zie je in de app. Zie [ClassPass-credits uitgelegd](/nl/classpass-credits/).
 - **Eerst proberen:** 14 dagen gratis met 10 work-outs. Lees [ClassPass gratis proberen](/nl/classpass-proefperiode/).
-- **Pauzeren:** bij opzeggen biedt ClassPass vaak een gratis pauze aan. Lees [ClassPass opzeggen of pauzeren](/nl/classpass-opzeggen/).
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
@@ -52,7 +51,7 @@ Bij een Regular-club train je alleen in je eigen club. Met Home+ train je ook in
 
 **Student?** Een studentenlidmaatschap kost € 45 per 4 weken bij Dagelijkse Groenmarkt, € 62 bij Laan van NOI en € 65 bij Savornin, met een contract van 1 jaar en zonder opstartkosten. De korting per workout geldt daar niet.
 
-**Korting als je vaker traint.** Bij Trainmore betaal je minder naarmate je vaker komt: je krijgt € 1 korting per workout, maximaal één per dag en € 28 per 4 weken, alleen bij een contract van 1 of 2 jaar, niet bij Flex. Je checkt in én uit met de QR-code in de Trainmore-app en traint minstens 30 minuten; alleen een groepsles telt niet mee. Elke keer telt apart, dus je hoeft geen vast schema aan te houden. Dat werkt bij elke Trainmore-club: train je drie keer per week, dan scheelt dat zo'n € 12 per 4 weken. Bij Dagelijkse Groenmarkt bijvoorbeeld betaal je met een jaarcontract dan € 47 in plaats van € 59. Ook studentenlidmaatschappen hebben deze korting niet. Meer uitleg: [korting per workout](/nl/trainmore/#korting) en de uitleg van Trainmore.
+**Korting als je vaker traint.** Met een contract van 1 of 2 jaar krijg je € 1 korting per workout, tot € 28 per 4 weken; met Flex niet. Bij Dagelijkse Groenmarkt bijvoorbeeld betaal je met een jaarcontract dan € 47 in plaats van € 59. Hoe het werkt, lees je bij [korting per workout](/nl/trainmore/#korting).
 
 Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het trainingsschema in de app. Bij een contract van 2 jaar betaal je geen opstartkosten. Opzeggen kan in de app.
 
@@ -62,17 +61,7 @@ Bij Flex krijg je geen ledenkorting bij de partnermerken van Trainmore, wel het 
 
 <h2 id="basic-fit">Basic-Fit Flex: zonder minimale looptijd</h2>
 
-Basic-Fit is een budgetketen met clubs die dag en nacht open zijn. Naast een jaarabonnement van 52 weken is er Flex, zonder minimale looptijd. Flex kost € 9,99 per 4 weken meer dan het jaarabonnement, en de welkomstacties voor jaarabonnementen gelden er niet voor.
-
-| Flex | Per 4 weken | Wat je krijgt |
-| --- | --- | --- |
-| Comfort | € 34,98 | Alle clubs in Nederland |
-| Premium | € 39,98 | Alle clubs in 6 landen, één gast per week, massagestoelen |
-| Ultimate | € 44,98 | Alle clubs in 6 landen, onbeperkt gasten, sportwater, gratis pauzeren |
-
-Bij alle Flex-abonnementen betaal je eenmalig € 19,99 inschrijfkosten. Groepslessen zijn inbegrepen in clubs die ze aanbieden. Opzeggen doe je via Mijn Basic-Fit, de app of de zuil in de club, met een opzegtermijn van 4 weken. Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) en [Alles over Basic-Fit](/nl/basic-fit/).
-
-<p class="klein">Bron: basic-fit.com/nl-nl/prijs (oktober 2026). Controleer de actuele prijs altijd bij Basic-Fit.</p>
+Basic-Fit heeft Flex zonder minimale looptijd: € 9,99 per 4 weken meer dan het jaarabonnement, dus vanaf € 34,98 per 4 weken, plus eenmalig € 19,99 inschrijving. Je zegt op met 4 weken opzegtermijn. Wat Comfort, Premium en Ultimate verschillen, zie je in [Sporten zonder contract](/nl/sporten-zonder-contract/#basic-fit). Zie ook [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/).
 
 <h2 id="sportcity">SportCity Flex: maandelijks opzegbaar</h2>
 
@@ -91,17 +80,6 @@ Bij Flex betaal je € 9,99 inschrijfgeld. Andere clubs kunnen duurder zijn. Wil
 
 <p class="klein">Bron: sportcity.nl/lidmaatschap en de inschrijfpagina voor Den Haag Hollands Spoor (oktober 2026). Controleer de actuele prijs altijd bij SportCity. Opzeggen: zie <a href="/nl/sportcity-opzeggen/">SportCity opzeggen</a>.</p>
 
-<h2 id="los">Losse lessen en rittenkaarten</h2>
-
-Veel yoga-, pilates- en boksstudio's verkopen ook losse lessen of een kaart voor een aantal lessen. Je betaalt dan alleen als je gaat. Dat is handig als je één vaste studio hebt waar je af en toe naartoe wilt. Kijk op de site van de studio wat ze aanbieden; prijzen en geldigheid verschillen per studio.
-
-<h2 id="letop">Waar je op let</h2>
-
-- **Inschrijfkosten.** Sommige sportscholen rekenen eenmalige kosten bij een flexibel lidmaatschap.
-- **Per maand of per 4 weken.** Bij betalen per 4 weken betaal je 13 keer per jaar.
-- **Opzegtermijn.** "Maandelijks opzegbaar" kan betekenen dat je nog een maand doorbetaalt. Lees de voorwaarden.
-- **Hoe vaak je gaat.** Train je drie keer per week of vaker op dezelfde plek, dan is een vast contract vaak goedkoper. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
-
 ## Veelgestelde vragen
 
 <details open>
@@ -112,9 +90,9 @@ Ja. Met ClassPass zeg je op elk moment op, Trainmore, Basic-Fit en SportCity heb
 </details>
 
 <details>
-<summary>Wat is de goedkoopste manier om zonder contract te sporten?</summary>
+<summary>Ik werk tijdelijk in Den Haag. Wat kies ik?</summary>
 
-Dat hangt af van hoe vaak je gaat. Voor een paar lessen per maand is een klein ClassPass-abonnement of een losse les het voordeligst. Train je vaak op één plek, dan is een maandelijks opzegbaar lidmaatschap bij een sportschool vaak goedkoper per keer.
+Met ClassPass zit je nergens aan vast: je stopt aan het einde van elke maand. Trainmore Flex en SportCity Flex zeg je maandelijks op, Basic-Fit Flex met 4 weken opzegtermijn. Zeg op tijd op voordat je vertrekt.
 
 </details>
 
@@ -127,6 +105,6 @@ Ja. Veel mensen trainen in de gym bij een sportschool en doen af en toe een les 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/den-haag/">Flexibel sporten in Den Haag</a>
-<a class="knop knop-rand" href="/nl/sportpas-of-abonnement/">Sportpas of abonnement?</a>
+<a class="knop knop-rand" href="/nl/sporten-zonder-contract/">Zonder contract in Nederland</a>
 <a class="knop knop-rand" href="/nl/gyms-without-contract-the-hague/">In English</a>
 </div>
