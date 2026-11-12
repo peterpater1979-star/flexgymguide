@@ -22,7 +22,7 @@ In Rotterdam kies je tussen twee sportpassen, Urban Sports Club en ClassPass, me
 
 <h3>Urban Sports Club</h3>
 
-Urban Sports Club zit ook in Rotterdam. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
+Sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties in Rotterdam. Per maand opzegbaar.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
@@ -74,7 +74,7 @@ Eigen clubs met gym en groepslessen: 7 in Rotterdam, 53 in heel Nederland. Bij C
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met 13 clubs in Rotterdam, veel dag en nacht open. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
+Voordelige sportschoolketen met 13 clubs in Rotterdam, veel dag en nacht open. Vanaf € 24,99 per 4 weken, Flex € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>
@@ -112,20 +112,7 @@ Anytime Fitness heeft in Rotterdam een club op de Kop van Zuid, die 24 uur per d
 
 </div>
 
-<h2 id="op-een-rij">ClassPass, Trainmore en SportCity op een rij</h2>
-
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
-
-| Kenmerk | ClassPass | Trainmore | SportCity | Basic-Fit |
-| --- | --- | --- | --- | --- |
-| **Soort** | Sportpas met credits | Sportschoolketen | Sportschoolketen | Voordelige sportschoolketen |
-| **Prijs per maand** | Standaardabonnement € 59 per maand (40 credits) | Verschilt per clublabel (Black, Red, Regular), per 4 wkn, €1 korting per workout bij een contract | Bij Conradstraat € 29,99 tot € 37,99 per 4 wkn (City One) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
-| **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Lidmaatschap bij de eigen clubs | City One (één club) of City Plus (121 clubs) | Abonnement bij een sportschoolketen, veel clubs dag en nacht open |
-| **Locaties in Rotterdam** | Studio's in het centrum, Kralingen, Hillegersberg, Noord en Zuid | 7 clubs (53 in heel Nederland) | Clubs in de stad (121 in heel Nederland) | 13 clubs (meer dan 250 in Nederland) |
-| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Flex maandelijks opzegbaar. Bij 1 of 2 jaar zeg je op per einde contract, daarna geldt een opzegtermijn van 1 maand. Opzeggen kan in de app <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Coolsingel: Flex € 89, 1 jaar € 69, 2 jaar € 62 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="/nl/trainmore/#prijzen">Alle prijzen</a></details> | Flex maandelijks opzegbaar, met een maand opzegtermijn | Jaarabonnement, of Flex met 4 weken opzegtermijn |
-| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 workouts | <span class="ja" aria-hidden="true">✓</span> Gratis proefles | <span class="ja" aria-hidden="true">✓</span> Dagpas via de club | – |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | <span class="nee" aria-hidden="true">✗</span> Nee, alleen Nederland | Met Premium of Ultimate, in alle clubs in 6 landen |
-| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Trainmore](/nl/trainmore/) | [Alles over SportCity](/nl/sportcity/) | [Alles over Basic-Fit](/nl/basic-fit/) |
 
 <div id="classpass" class="aanbieder">
 

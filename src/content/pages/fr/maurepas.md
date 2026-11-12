@@ -3,6 +3,7 @@ title: "Faire du sport à Maurepas en toute flexibilité"
 seoTitle: "Sport sans engagement à Maurepas : studios et cours"
 path: "/fr/maurepas/"
 description: "À Maurepas, fais du sport sans être lié à une seule salle : avec ClassPass, tu t’entraînes dans des studios de la ville."
+noindex: true
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -35,24 +36,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 </div>
 
-<div id="apercu">
-
-## ClassPass en un coup d’œil
-
-Les prix et conditions changent régulièrement. Vérifie toujours la situation actuelle auprès du prestataire.
-
-| | ClassPass |
-| --- | --- |
-| **Type** | Pass sport à crédits |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) |
-| **Engagement** | Aucun, résiliable à tout moment |
-| **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays |
-| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) |
-
-<p class="klein">Prix d’octobre 2026.</p>
-
-</div>
+<p class="klein">Prix d’octobre 2026, qui peuvent varier selon le club. Vérifie toujours la situation actuelle auprès du prestataire.</p>
 
 <div class="kolommen">
 

@@ -37,7 +37,7 @@ Krachttraining, kickboksen, pilates, dans en meer met één abonnement op basis 
 
 ### Basic-Fit
 
-Voordelige sportschoolketen met 3 clubs in Nijmegen, waarvan 2 dag en nacht open. Vanaf € 24,99 per 4 weken met jaarabonnement, of Flex zonder lang contract voor € 9,99 meer.
+Voordelige sportschoolketen met 3 clubs in Nijmegen, waarvan 2 dag en nacht open. Vanaf € 24,99 per 4 weken, Flex € 9,99 meer.
 
 <div class="knoppen">
 <a class="knop" href="/nl/basic-fit/">Bekijk Basic-Fit</a>
@@ -61,20 +61,7 @@ BigGym heeft in Nijmegen een grote gym aan de Hatertseweg, met kracht, cardio, e
 
 </div>
 
-<h2 id="op-een-rij">ClassPass en Basic-Fit op een rij</h2>
-
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
-
-| Kenmerk | ClassPass | Basic-Fit |
-| --- | --- | --- |
-| **Soort** | Sportpas met credits | Voordelige sportschoolketen |
-| **Prijs per maand** | Standaardabonnement € 59 per maand (40 credits) | Vanaf € 24,99 per 4 weken met jaarabonnement, Flex vanaf € 34,98 |
-| **Hoe werkt het** | Credits p/m, per les of bezoek in te wisselen | Abonnement bij een sportschoolketen |
-| **Locaties in Nijmegen** | Studio's in en rond het centrum en in Dukenburg, plus Elst en Bemmel | 3 clubs (meer dan 250 in Nederland) |
-| **Opzeggen** | Op elk moment, zonder opzegtermijn. Zeg op vóór je volgende verlengingsdatum | Jaarabonnement, of Flex met 4 weken opzegtermijn |
-| **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> 14 dagen gratis, 10 workouts | – |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 landen | Met Premium of Ultimate, in alle clubs in 6 landen |
-| **Meer informatie** | [Alles over ClassPass](/nl/classpass/) | [Alles over Basic-Fit](/nl/basic-fit/) |
 
 <div id="classpass" class="aanbieder">
 

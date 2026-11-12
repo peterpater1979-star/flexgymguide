@@ -22,7 +22,7 @@ Pas envie d’être lié à une seule salle ? À Reims, tu peux réserver des co
 
 ### ClassPass
 
-Des cours et des séances en salle avec un seul abonnement à crédits, dans des studios de la ville. Résiliable à tout moment, avec 14 jours gratuits et 10 séances pour essayer.
+Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-reims">Profitez de 10 séances gratuites en 14 jours</a>
@@ -37,7 +37,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits, dans des
 
 <h3 id="urban-sports-club-reims">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Reims. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires, selon ta formule pour la salle, des cours ou d’autres sports.
+Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Reims.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
@@ -75,22 +75,7 @@ Près de Reims, ON AIR a un club à Cormontreuil. Essential coûte 31,96 €, Or
 
 </div>
 
-<div id="apercu">
-
-## ClassPass en un coup d’œil
-
-Les prix et conditions changent régulièrement. Vérifie toujours la situation actuelle auprès du prestataire.
-
-| | ClassPass |
-| --- | --- |
-| **Type** | Pass sport à crédits |
-| **Prix** | Abonnement standard 59 € par mois (37 crédits) |
-| **Engagement** | Aucun, résiliable à tout moment |
-| **Essayer** | <span class="ja" aria-hidden="true">✓</span> 14 jours gratuits, 10 séances |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Oui, dans 31 pays |
-| **En savoir plus** | [Tout sur ClassPass](/fr/classpass/) |
-
-</div>
+<p class="klein">Prix d’octobre 2026, qui peuvent varier selon le club. Vérifie toujours la situation actuelle auprès du prestataire.</p>
 
 <div class="kolommen">
 

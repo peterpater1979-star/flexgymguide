@@ -22,7 +22,7 @@ In Stuttgart trainierst du flexibel vor allem im Westen, in der Mitte und im Sü
 
 <h3>Urban Sports Club</h3>
 
-Urban Sports Club gibt es auch in Stuttgart. Ein Sportpass mit festem Preis pro Monat: Du checkst in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Monatlich kündbar.
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Stuttgart ein. Monatlich kündbar.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
@@ -51,7 +51,7 @@ Ein Abo auf Credit-Basis für Pilates, Yoga, Indoor-Cycling und Boxen, vor allem
 
 ### Fitness First
 
-220 Clubs in Deutschland, 4 in Stuttgart. Mit Kursen, Sauna und in BLACK-Clubs oft auch Pool. RED oder BLACK, mit 1, 12 oder 24 Monaten Laufzeit.
+220 Clubs in Deutschland, 4 in Stuttgart. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -65,7 +65,7 @@ Ein Abo auf Credit-Basis für Pilates, Yoga, Indoor-Cycling und Boxen, vor allem
 
 ### McFit
 
-Günstige Fitnesskette mit über 230 Studios, auch in Stuttgart. Flex ohne feste Laufzeit für 49,90 € im Monat, mit 12 Monaten 29,90 €, mit 24 Monaten 24,90 €.
+Günstige Kette, auch in Stuttgart. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
 
 <div class="knoppen">
 <a class="knop" href="/de/mcfit/">McFit ansehen</a>
@@ -117,24 +117,7 @@ Basic-Fit hat in Stuttgart einen Club in der Wiener Straße in Feuerbach. Ab 24,
 
 </div>
 
-<div id="ueberblick">
-
-## ClassPass, Fitness First und McFit auf einen Blick
-
-Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.
-
-| Merkmal | ClassPass | Fitness First | McFit |
-| --- | --- | --- | --- |
-| **Art** | Sportpass mit Credits | Fitnessstudiokette | Günstige Fitnesskette |
-| **Preis pro Monat** | Standard-Abo 59 € im Monat (42 Credits) | Je nach Club und Mitgliedschaft | Flex 49,90 €, mit 24 Monaten Laufzeit 24,90 € |
-| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche | Mitgliedschaft RED oder BLACK in den eigenen Clubs | Flex oder Vertrag über 12 oder 24 Monate, Zugang zu allen McFit-Studios |
-| **Standorte in Stuttgart** | Studios in Stuttgart-Mitte, im Westen, Süden und Osten | 4 Clubs | Mehrere Studios in Stuttgart |
-| **Kündigung** | Jederzeit anpassbar oder kündbar | Je nach Mitgliedschaft, prüfe die Bedingungen beim Club | Flex monatlich kündbar, sonst nach 12 oder 24 Monaten |
-| **Ausprobieren** | <span class="ja" aria-hidden="true">✓</span> 1 Monat gratis, 10 Workouts | <span class="ja" aria-hidden="true">✓</span> Kostenloses Probetraining | Mit Flex ohne lange Bindung |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Ja, in 31 Ländern | 220 Clubs in Deutschland und 5 in Österreich | <span class="ja" aria-hidden="true">✓</span> Über 230 Studios in Europa |
-| **Mehr erfahren** | [Alles über ClassPass](/de/classpass/) | [Alles über Fitness First](/de/fitness-first/) | [Alles über McFit](/de/mcfit/) |
-
-</div>
+<p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
 
 <div class="kolommen">
 
@@ -196,13 +179,7 @@ Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 4 in Stuttgar
 
 McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Stuttgart. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/).
 
-### Das bekommst du
-
-- Zugang zu über 230 McFit-Studios in Europa, mit jedem Tarif
-- Flex ohne feste Laufzeit für 49,90 € im Monat
-- Mit 12 Monaten Laufzeit 29,90 €, mit 24 Monaten 24,90 € im Monat
-- Live-Kurse in den teilnehmenden Studios
-- Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (laut McFit)
+Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
 <p class="klein">Preise von Oktober 2026, laut mcfit.com. Prüfe den aktuellen Preis immer bei McFit.</p>
 
@@ -299,13 +276,6 @@ McFit, Basic-Fit und JOHN REED haben einen Flex-Tarif, und bei clever fit gibt e
 <summary>Kann ich ClassPass auch außerhalb von Stuttgart nutzen?</summary>
 
 Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nutzen, überall dort, wo ClassPass aktiv ist.
-
-</details>
-
-<details>
-<summary>Bietet Fitness First ein kostenloses Probetraining an?</summary>
-
-Ja. Du kannst online ein kostenloses Probetraining buchen, einlösbar in allen Fitness First Clubs in Deutschland.
 
 </details>
 
