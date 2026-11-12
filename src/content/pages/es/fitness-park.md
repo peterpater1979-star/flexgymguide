@@ -31,8 +31,8 @@ Fitness Park es una cadena de gimnasios francesa con 170 clubes en España. Elig
 
 | Cada 4 semanas | Sin permanencia | Con permanencia (52 semanas) |
 | --- | --- | --- |
-| **Classic** | 37 € | 17 € las 4 primeras semanas, luego 27 € |
-| **Ultimate** | 37 € las 4 primeras semanas, luego 57 € | 17 € las 4 primeras semanas, luego 47 € |
+| **Classic** | 37 € | 27 € |
+| **Ultimate** | 57 € | 47 € |
 | **Matrícula** | 50 € | 30 € |
 
 ¿Prefieres pagar el año de una vez? Con el pago anual, Classic cuesta 341 € y Ultimate 581 € al año.
