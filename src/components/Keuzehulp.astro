@@ -1,0 +1,179 @@
+---
+// Keuzehulp "Sportpas of sportschool?" in drie vragen (stad, hoe vaak, wat telt het zwaarst).
+// Staat in de paginakop van de landenhomepages en stadspagina's van ES, FR en DE, zodat er op de telefoon zonder scrollen een duidelijke knop in beeld is.
+// Advies linkt alleen naar onze eigen pagina's (geen externe links, geen /go/-links) en noemt geen prijzen.
+// Volgorde van de sportpassen per land (afspraak Peter): DE eerst Urban Sports Club, dan ClassPass; FR en ES eerst ClassPass, dan Urban Sports Club.
+// De stedenlijst komt uit de stadspagina's zelf: Urban Sports Club telt alleen mee als de stadspagina naar de USC-pagina linkt.
+import { getCollection } from 'astro:content';
+
+type Land = 'es' | 'fr' | 'de';
+const { land, stad = '' } = Astro.props as { land: Land; stad?: string };
+
+const kicker = { es: /^Guía de ciudad/, fr: /^Guide ville/, de: /^Stadtguide/ }[land];
+const zonderContract = { es: 'gimnasio-sin-permanencia', fr: 'salle-de-sport-sans-engagement', de: 'fitnessstudio-ohne-vertrag' }[land];
+const pages = await getCollection('pages', (p) => !p.data.draft && p.data.land === land);
+const paden = new Set(pages.map((p) => p.data.path));
+const steden = pages
+  .filter((p) => kicker.test(p.data.kicker ?? '') && !p.data.noindex && !p.data.path.includes(zonderContract) && /^\/[a-z]{2}\/[^/]+\/$/.test(p.data.path))
+  .map((p) => {
+    const slug = p.data.path.split('/')[2];
+    const cp = `/${land}/classpass-${slug}/`;
+    const zc = `/${land}/${zonderContract}-${slug}/`;
+    return {
+      slug,
+      naam: p.data.crumb ?? slug,
+      pagina: p.data.path,
+      usc: (p.body ?? '').includes(`/${land}/urban-sports-club/`),
+      classpass: paden.has(cp) ? cp : null,
+      zonderContract: paden.has(zc) ? zc : null,
+    };
+  })
+  .sort((a, b) => a.naam.localeCompare(b.naam, land));
+
+const t = {
+  es: {
+    open: '¿Pase deportivo o gimnasio?', openKlein: 'Descúbrelo en 3 preguntas',
+    v1: '¿Dónde entrenas?', kies: 'Elige tu ciudad', ander: 'Otra ciudad',
+    v2: '¿Cuántas veces por semana?', f: ['Una vez o menos', '2 o 3 veces', '4 o más'],
+    v3: '¿Qué es lo más importante?', p: ['Pagar poco', 'Variedad de clases', 'Un sitio fijo'],
+    advies: 'Nuestro consejo', ook: 'También te puede interesar:', opnieuw: 'Empezar de nuevo', vergelijk: 'Comparación completa: pase o gimnasio',
+    noot: 'Un consejo orientativo según tus respuestas. Comprueba siempre precios y condiciones.',
+    cp: 'ClassPass', usc: 'Urban Sports Club', gym: 'Un gimnasio sin permanencia',
+    cpStad: 'ClassPass en {s}', cpLand: 'Todo sobre ClassPass', uscLand: 'Todo sobre Urban Sports Club', gymStad: 'Gimnasios en {s}', gymZc: 'Gimnasios sin permanencia en {s}', gymLand: 'Gimnasios sin permanencia en España',
+    rVariatie: 'Con un pase deportivo reservas yoga, pilates, boxeo o spinning en distintos estudios, sin atarte a un solo sitio.',
+    rWeinig: 'Si entrenas poco, con un pase pequeño no pagas una cuota mensual que luego no aprovechas.',
+    rVaakGoedkoop: 'Si entrenas a menudo y quieres pagar poco, un gimnasio low cost suele salir más a cuenta que un pase.',
+    rVast: 'Si prefieres entrenar siempre en el mismo sitio, elige un gimnasio sin permanencia cerca de casa o del trabajo.',
+    uscCheck: 'Comprueba antes si Urban Sports Club está en tu ciudad.',
+  },
+  fr: {
+    open: 'Pass sport ou salle de sport ?', openKlein: 'Réponds à 3 questions',
+    v1: 'Où fais-tu du sport ?', kies: 'Choisis ta ville', ander: 'Une autre ville',
+    v2: 'Combien de fois par semaine ?', f: ['Une fois ou moins', '2 ou 3 fois', '4 fois ou plus'],
+    v3: 'Qu’est-ce qui compte le plus ?', p: ['Payer peu', 'Varier les cours', 'Un endroit fixe'],
+    advies: 'Notre conseil', ook: 'À voir aussi :', opnieuw: 'Recommencer', vergelijk: 'Comparaison complète : pass ou abonnement',
+    noot: 'Un conseil indicatif selon tes réponses. Vérifie toujours les prix et les conditions.',
+    cp: 'ClassPass', usc: 'Urban Sports Club', gym: 'Une salle sans engagement',
+    cpStad: 'ClassPass à {s}', cpLand: 'Tout sur ClassPass', uscLand: 'Tout sur Urban Sports Club', gymStad: 'Salles de sport à {s}', gymZc: 'Salles sans engagement à {s}', gymLand: 'Salles de sport sans engagement',
+    rVariatie: 'Avec un pass sport, tu réserves yoga, pilates, boxe ou vélo dans différents studios, sans être lié à un seul endroit.',
+    rWeinig: 'Si tu fais peu de sport, un petit pass t’évite de payer un abonnement que tu n’utilises pas.',
+    rVaakGoedkoop: 'Si tu t’entraînes souvent et veux payer peu, une salle low cost revient en général moins cher qu’un pass.',
+    rVast: 'Si tu préfères t’entraîner toujours au même endroit, choisis une salle sans engagement près de chez toi ou du travail.',
+    uscCheck: 'Vérifie d’abord si Urban Sports Club est présent dans ta ville.',
+  },
+  de: {
+    open: 'Sportpass oder Fitnessstudio?', openKlein: 'Finde es mit 3 Fragen heraus',
+    v1: 'Wo trainierst du?', kies: 'Wähle deine Stadt', ander: 'Andere Stadt',
+    v2: 'Wie oft pro Woche?', f: ['Einmal oder seltener', '2- bis 3-mal', '4-mal oder öfter'],
+    v3: 'Was ist dir am wichtigsten?', p: ['Wenig zahlen', 'Abwechslung', 'Ein fester Ort'],
+    advies: 'Unser Tipp', ook: 'Auch interessant:', opnieuw: 'Neu starten', vergelijk: 'Ausführlicher Vergleich: Sportpass oder Mitgliedschaft',
+    noot: 'Ein grober Tipp nach deinen Antworten. Prüfe Preise und Bedingungen immer selbst.',
+    cp: 'ClassPass', usc: 'Urban Sports Club', gym: 'Ein Fitnessstudio ohne Vertrag',
+    cpStad: 'ClassPass in {s}', cpLand: 'Alles über ClassPass', uscLand: 'Alles über Urban Sports Club', gymStad: 'Fitnessstudios in {s}', gymZc: 'Fitnessstudios ohne Vertrag in {s}', gymLand: 'Fitnessstudios ohne Vertrag',
+    rVariatie: 'Mit einem Sportpass buchst du Yoga, Pilates, Boxen oder Spinning in verschiedenen Studios, ohne dich an einen Ort zu binden.',
+    rWeinig: 'Trainierst du selten, zahlst du mit einem kleinen Sportpass keinen Monatsbeitrag für ein Studio, das du kaum nutzt.',
+    rVaakGoedkoop: 'Trainierst du oft und willst wenig zahlen, ist ein günstiges Fitnessstudio meist preiswerter als ein Sportpass.',
+    rVast: 'Trainierst du lieber immer am selben Ort, nimm ein Fitnessstudio ohne Vertrag in der Nähe von Zuhause oder Arbeit.',
+    uscCheck: 'Prüfe vorher, ob Urban Sports Club in deiner Stadt ist.',
+  },
+}[land];
+
+const vergelijkHref = { es: '/es/pase-o-gimnasio/', fr: '/fr/pass-sport-ou-abonnement/', de: '/de/sportpass-oder-mitgliedschaft/' }[land];
+const data = { land, steden, t, vergelijk: vergelijkHref, zonderContractLand: `/${land}/${zonderContract}/` };
+const id = 'keuzehulp';
+---
+<details class="keuzehulp" data-keuzehulp={JSON.stringify(data)}>
+  <summary><span class="kh-titel">{t.open}</span> <span class="kh-sub">{t.openKlein} <span aria-hidden="true">→</span></span></summary>
+  <form class="kh-vragen" onsubmit="return false">
+    <label class="kh-vraag" for={`${id}-stad`}>1. {t.v1}</label>
+    <select id={`${id}-stad`} name="stad">
+      <option value="" disabled selected={!stad}>{t.kies}</option>
+      {steden.map((s) => <option value={s.slug} selected={s.slug === stad}>{s.naam}</option>)}
+      <option value="ander">{t.ander}</option>
+    </select>
+    <fieldset>
+      <legend class="kh-vraag">2. {t.v2}</legend>
+      <div class="kh-keuzes">{t.f.map((x, i) => <label><input type="radio" name="vaak" value={i} /><span>{x}</span></label>)}</div>
+    </fieldset>
+    <fieldset>
+      <legend class="kh-vraag">3. {t.v3}</legend>
+      <div class="kh-keuzes">{t.p.map((x, i) => <label><input type="radio" name="prio" value={i} /><span>{x}</span></label>)}</div>
+    </fieldset>
+    <div class="kh-advies" aria-live="polite" hidden></div>
+  </form>
+</details>
+
+<script>
+  type Stad = { slug: string; naam: string; pagina: string; usc: boolean; classpass: string | null; zonderContract: string | null };
+  document.querySelectorAll<HTMLDetailsElement>('details[data-keuzehulp]').forEach((el) => {
+    const d = JSON.parse(el.dataset.keuzehulp!);
+    const t = d.t;
+    const form = el.querySelector('form')!;
+    const uit = el.querySelector<HTMLDivElement>('.kh-advies')!;
+    const bereken = () => {
+      const f = new FormData(form);
+      const slug = f.get('stad') as string | null;
+      const vaak = f.get('vaak');
+      const prio = f.get('prio');
+      if (!slug || vaak === null || prio === null) { uit.hidden = true; return; }
+      const s: Stad | undefined = d.steden.find((x: Stad) => x.slug === slug);
+      const vul = (x: string) => x.replace('{s}', s?.naam ?? '');
+      const cp = { naam: t.cp, href: s?.classpass ?? `/${d.land}/classpass/`, label: s?.classpass ? vul(t.cpStad) : t.cpLand };
+      const usc = { naam: t.usc, href: `/${d.land}/urban-sports-club/`, label: t.uscLand };
+      const gym = { naam: t.gym, href: s ? (s.zonderContract ?? s.pagina) : d.zonderContractLand, label: s ? vul(s.zonderContract ? t.gymZc : t.gymStad) : t.gymLand };
+      // Sportpassen in de volgorde van het land; USC alleen als de stad het heeft (bij "andere stad" in DE met een controle-zin).
+      const uscHier = s ? s.usc : d.land === 'de';
+      const passen = d.land === 'de' ? [...(uscHier ? [usc] : []), cp] : [cp, ...(uscHier ? [usc] : [])];
+      const v = Number(vaak), p = Number(prio);
+      let hoofd, ook, reden;
+      if (p === 1) { hoofd = passen[0]; ook = passen[1] ?? gym; reden = t.rVariatie; }
+      else if (p === 2) { hoofd = gym; ook = passen[0]; reden = t.rVast; }
+      else if (v === 0) { hoofd = passen[0]; ook = gym; reden = t.rWeinig; }
+      else { hoofd = gym; ook = passen[0]; reden = t.rVaakGoedkoop; }
+      const check = !s && (hoofd === usc || ook === usc) ? ` ${t.uscCheck}` : '';
+      // Met DOM-elementen opbouwen (geen HTML-tekst), zodat er niets uit de antwoorden als HTML wordt gelezen.
+      const el = (tag: string, cls = '', tekst = '') => { const e = document.createElement(tag); if (cls) e.className = cls; if (tekst) e.textContent = tekst; return e; };
+      const link = (cls: string, href: string, tekst: string) => { const a = el('a', cls, tekst) as HTMLAnchorElement; a.setAttribute('href', href); return a; };
+      const knoppen = el('div', 'knoppen');
+      knoppen.append(link('knop', hoofd.href, hoofd.label), link('knop knop-rand', ook.href, ook.label));
+      const opnieuw = el('button', 'kh-opnieuw', t.opnieuw) as HTMLButtonElement;
+      opnieuw.type = 'button';
+      opnieuw.addEventListener('click', () => { form.querySelectorAll<HTMLInputElement>('input[type=radio]').forEach((r) => (r.checked = false)); uit.hidden = true; });
+      const verder = el('p', 'klein');
+      verder.append(link('', d.vergelijk, t.vergelijk), ' · ', opnieuw);
+      uit.replaceChildren(el('p', 'kh-label', t.advies), el('p', 'kh-naam', hoofd.naam), el('p', '', reden + check), knoppen, verder, el('p', 'klein kh-noot', t.noot));
+      uit.hidden = false;
+    };
+    form.addEventListener('change', bereken);
+    bereken();
+  });
+</script>
+
+<style is:global>
+  /* Globaal (onder .keuzehulp), omdat het advies met JavaScript wordt ingevoegd. */
+  .keuzehulp { margin: .9rem 0 .25rem; background: var(--white); border-radius: 12px; box-shadow: var(--shadow); max-width: 40rem; }
+  .keuzehulp summary { list-style: none; cursor: pointer; padding: .8rem 1rem; display: flex; flex-wrap: wrap; align-items: baseline; column-gap: .6rem; row-gap: .1rem; border-radius: 12px; background: var(--cta); color: var(--text); }
+  .keuzehulp summary::-webkit-details-marker { display: none; }
+  .keuzehulp summary:hover { background: var(--cta-hover); }
+  .keuzehulp[open] summary { border-radius: 12px 12px 0 0; }
+  .keuzehulp .kh-titel { font-weight: 700; font-size: 1.02rem; }
+  .keuzehulp .kh-sub { font-size: .9rem; font-weight: 500; }
+  .keuzehulp .kh-vragen { padding: .25rem 1rem 1rem; }
+  .keuzehulp .kh-vragen fieldset { border: 0; padding: 0; margin: 0; }
+  .keuzehulp .kh-vraag { display: block; font-weight: 600; font-size: .95rem; margin: .9rem 0 .4rem; padding: 0; }
+  .keuzehulp .kh-vragen select { width: 100%; max-width: 22rem; font: inherit; font-size: 1rem; padding: .55rem .7rem; border: 1px solid var(--line); border-radius: 8px; background: var(--white); color: var(--text); min-height: 44px; }
+  .keuzehulp .kh-keuzes { display: flex; flex-wrap: wrap; gap: .5rem; }
+  .keuzehulp .kh-keuzes label { margin: 0; font-weight: 500; }
+  .keuzehulp .kh-keuzes input { position: absolute; opacity: 0; pointer-events: none; }
+  .keuzehulp .kh-keuzes span { display: inline-flex; align-items: center; min-height: 44px; padding: .45rem .9rem; border: 1.5px solid var(--line); border-radius: 999px; font-size: .95rem; cursor: pointer; background: var(--white); }
+  .keuzehulp .kh-keuzes input:checked + span { border-color: var(--accent); background: var(--surface); color: var(--accent); font-weight: 600; }
+  .keuzehulp .kh-keuzes input:focus-visible + span { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .keuzehulp .kh-advies { margin-top: 1.1rem; padding: 1rem 1.1rem; border-radius: 10px; background: var(--surface); border-left: 4px solid var(--accent); }
+  .keuzehulp .kh-advies p { margin: 0 0 .5rem; line-height: 1.5; }
+  .keuzehulp .kh-label { font-size: .75rem; text-transform: uppercase; letter-spacing: .1em; font-weight: 600; color: var(--muted); }
+  .keuzehulp .kh-naam { font-size: 1.25rem; font-weight: 700; }
+  .keuzehulp .kh-advies .knoppen { margin: .75rem 0; }
+  .keuzehulp .kh-opnieuw { background: none; border: 0; padding: 0; font: inherit; color: var(--accent); text-decoration: underline; cursor: pointer; }
+  .keuzehulp .kh-noot { margin-bottom: 0 !important; font-size: .78rem; }
+  .keuzehulp .kh-keuzes label { display: inline-block; margin: 0; }
+</style>

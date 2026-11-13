@@ -204,3 +204,12 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 /* Verwijzing naar overige aanbieders onder de bovenste kaarten */
 .meer-aanbieders { max-width: 72ch; margin: 0 0 2rem; padding: .9rem 1.25rem; background: var(--white); border-left: 4px solid var(--accent); border-radius: var(--radius); box-shadow: var(--shadow); }
 .meer-aanbieders a { font-weight: 600; white-space: nowrap; }
+
+/* Mobiel: belangrijkste inhoud en een knop eerder in beeld (zonder scrollen) */
+@media (max-width: 640px) {
+  .kop { padding: .75rem 0 1rem; margin-bottom: .75rem; }
+  .kop h1 { font-size: 1.6rem; margin: .1rem 0 .35rem; }
+  .prose h2 { margin-top: 2.5rem; }
+  .kaart > .fotokop, .kolom > .fotokop:first-child { height: 96px; }
+  .fotobanner, .fotobanner.smal { height: 120px; margin-bottom: 1rem; }
+}
