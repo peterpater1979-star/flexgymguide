@@ -138,16 +138,16 @@ En Bilbao, el plan estándar cuesta 49 € al mes por 30 créditos, y puedes pro
 
 Una oferta más pequeña, sobre todo en Abando y el Ensanche, y también en Santutxu y Barakaldo. Sobre todo entrenamiento de fuerza y funcional, además de Pilates, barre, yoga y fitboxing. Una selección por deporte, entre otros:
 
-- **[Pilates](/go/classpass-es-bilbao-pilates/?epi=fgg-es-bilbao)**: Vera Barre en la calle Colón de Larreátegui, Loratze Yoga Studio en Mazarredo y Distrito 480 en Abando
-- **[Barre](/go/classpass-es-bilbao-barre/?epi=fgg-es-bilbao)**: BIOBA BARRE ESTUDIO en la plaza del Museo y Vera Barre
-- **[Yoga](/go/classpass-es-bilbao-yoga/?epi=fgg-es-bilbao)**: Loratze Yoga Studio y las clases de yoga de Distrito 480
-- **[HIIT](/go/classpass-es-bilbao-hiit/?epi=fgg-es-bilbao)** y **[bootcamp](/go/classpass-es-bilbao-bootcamp/?epi=fgg-es-bilbao)**: Distrito 480 (BootCamp, WOD y D45), Summit Fitness Studio en Lersundi y en Barakaldo, moveBilbao y Arima Training, en grupos reducidos
-- **[Boxeo](/go/classpass-es-bilbao-boxeo/?epi=fgg-es-bilbao)**: Brooklyn Fitboxing en Santutxu y en Barakaldo
-- **[Baile](/go/classpass-es-bilbao-baile/?epi=fgg-es-bilbao)**: BIZIO en la alameda de Urquijo, con música e iluminación
-- **[Gimnasio](/go/classpass-es-bilbao-gimnasio/?epi=fgg-es-bilbao)**: moveBilbao
-- También **[cycling](/go/classpass-es-bilbao-cycling/?epi=fgg-es-bilbao)** y el método GYROTONIC en GYROTONIC BILBAO, en la alameda de Recalde
+- **Pilates**: Vera Barre en la calle Colón de Larreátegui, Loratze Yoga Studio en Mazarredo y Distrito 480 en Abando
+- **Barre**: BIOBA BARRE ESTUDIO en la plaza del Museo y Vera Barre
+- **Yoga**: Loratze Yoga Studio y las clases de yoga de Distrito 480
+- **HIIT** y **bootcamp**: Distrito 480 (BootCamp, WOD y D45), Summit Fitness Studio en Lersundi y en Barakaldo, moveBilbao y Arima Training, en grupos reducidos
+- **Boxeo**: Brooklyn Fitboxing en Santutxu y en Barakaldo
+- **Baile**: BIZIO en la alameda de Urquijo, con música e iluminación
+- **Gimnasio**: moveBilbao
+- También **cycling** y el método GYROTONIC en GYROTONIC BILBAO, en la alameda de Recalde
 
-[Ver los estudios en Bilbao en ClassPass](/go/classpass-es-bilbao/?epi=fgg-es-bilbao)
+[Prueba ClassPass gratis y reserva estudios en Bilbao.](/go/classpass-es/?epi=fgg-es-bilbao)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-bilbao">Prueba 10 sesiones gratis en 14 días</a>

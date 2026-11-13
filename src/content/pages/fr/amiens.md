@@ -114,7 +114,7 @@ Une petite offre, mais originale :
 - Ceux qui combinent la salle et l’aquagym, avec une voiture pour aller à Glisy
 - Ceux qui vont souvent à Paris ou à Lille et veulent y réserver d’autres sports avec les mêmes crédits
 
-[Voir les studios à Amiens sur ClassPass](/go/classpass-fr-amiens/?epi=fgg-fr-amiens)
+[Essaie ClassPass gratuitement et réserve des studios à Amiens.](/go/classpass-fr/?epi=fgg-fr-amiens)
 
 À Amiens, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

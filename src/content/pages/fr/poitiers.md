@@ -105,7 +105,7 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 Une petite offre : Pandora Studio (rue du Chemin Vert), avec des séances d’électrostimulation.
 
-[Voir les studios à Poitiers sur ClassPass](/go/classpass-fr-poitiers/?epi=fgg-fr-poitiers)
+[Essaie ClassPass gratuitement et réserve des studios à Poitiers.](/go/classpass-fr/?epi=fgg-fr-poitiers)
 
 À Poitiers, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

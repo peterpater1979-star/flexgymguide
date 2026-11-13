@@ -128,7 +128,7 @@ Surtout des salles de sport en accès libre, avec des cours collectifs sur place
 - Ceux qui changent de quartier : centre, Bourroches ou Toison d’Or selon la journée
 - Ceux qui vont souvent à Lyon ou à Paris et veulent y réserver des studios avec les mêmes crédits
 
-[Voir les studios à Dijon sur ClassPass](/go/classpass-fr-dijon/?epi=fgg-fr-dijon)
+[Essaie ClassPass gratuitement et réserve des studios à Dijon.](/go/classpass-fr/?epi=fgg-fr-dijon)
 
 À Dijon, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

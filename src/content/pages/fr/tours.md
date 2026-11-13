@@ -94,7 +94,7 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 
 Pour l’instant, ClassPass ne propose pas de studio à Tours. Vérifie l’offre dans l’application avant de t’abonner. Tes crédits marchent dans les autres villes, par exemple à [Orléans](/fr/orleans/) ou [Poitiers](/fr/poitiers/).
 
-[Voir l’offre actuelle à Tours sur ClassPass](/go/classpass-fr-tours/?epi=fgg-fr-tours)
+[Essaie ClassPass gratuitement et réserve des studios à Tours.](/go/classpass-fr/?epi=fgg-fr-tours)
 
 ### Bon pour
 

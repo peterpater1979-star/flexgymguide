@@ -80,7 +80,7 @@ Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios 
 
 Une petite offre : [Magic Form](/fr/magic-form/) (boulevard du 14 Juillet), une salle de remise en forme ouverte 7 jours sur 7, avec musculation et étirements.
 
-[Voir les studios à Troyes sur ClassPass](/go/classpass-fr-troyes/?epi=fgg-fr-troyes)
+[Essaie ClassPass gratuitement et réserve des studios à Troyes.](/go/classpass-fr/?epi=fgg-fr-troyes)
 
 ### Bon pour
 

@@ -120,7 +120,7 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 Une petite offre : Rythme Yoga Lorient (rue du Sous-Marin Vénus), un studio de yoga chaleureux, ouvert depuis 2022.
 
-[Voir les studios à Lorient sur ClassPass](/go/classpass-fr-lorient/?epi=fgg-fr-lorient)
+[Essaie ClassPass gratuitement et réserve des studios à Lorient.](/go/classpass-fr/?epi=fgg-fr-lorient)
 
 À Lorient, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

@@ -55,17 +55,17 @@ Swedish Fit à Saint-Sébastien-sur-Loire et à La Chapelle-sur-Erdre, cycling c
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Pilates](/go/classpass-fr-nantes-pilates/?epi=fgg-fr-classpass-nantes) :** entre autres The New Me, Éos Studio, Studio Pilates 44, De Se Mouvoir, Chez June et Studio Cours Hamon
-- **[Yoga](/go/classpass-fr-nantes-yoga/?epi=fgg-fr-classpass-nantes) :** entre autres Chez June, Studio Cours Hamon, Jamet sporting club et Elsa Duneigre
-- **[Barre](/go/classpass-fr-nantes-barre/?epi=fgg-fr-classpass-nantes) :** entre autres Studio Cours Hamon
-- **[HIIT](/go/classpass-fr-nantes-hiit/?epi=fgg-fr-classpass-nantes) :** entre autres Kombo Studio, Jamet sporting club et Fit and Fight
-- **[Renforcement et bootcamp](/go/classpass-fr-nantes-bootcamp/?epi=fgg-fr-classpass-nantes) :** entre autres Swedish Fit et Wake Up Form
-- **[Cycling](/go/classpass-fr-nantes-cycling/?epi=fgg-fr-classpass-nantes) :** entre autres Ô35, Wake Up Form et L’Orange Bleue
-- **[Boxe et arts martiaux](/go/classpass-fr-nantes-arts-martiaux/?epi=fgg-fr-classpass-nantes) :** entre autres Fit and Fight et AK44SD
-- **[Danse](/go/classpass-fr-nantes-danse/?epi=fgg-fr-classpass-nantes) :** entre autres Echo
-- **[En plein air](/go/classpass-fr-nantes-outdoor/?epi=fgg-fr-classpass-nantes) :** entre autres Echo sur l’île de Nantes
-- **[Course à pied](/go/classpass-fr-nantes-running/?epi=fgg-fr-classpass-nantes) :** entre autres GPC Coaching
-- **[Accès à la salle](/go/classpass-fr-nantes-salle/?epi=fgg-fr-classpass-nantes) :** entre autres Ethik Sport Club et L’Orange Bleue
+- **Pilates :** entre autres The New Me, Éos Studio, Studio Pilates 44, De Se Mouvoir, Chez June et Studio Cours Hamon
+- **Yoga :** entre autres Chez June, Studio Cours Hamon, Jamet sporting club et Elsa Duneigre
+- **Barre :** entre autres Studio Cours Hamon
+- **HIIT :** entre autres Kombo Studio, Jamet sporting club et Fit and Fight
+- **Renforcement et bootcamp :** entre autres Swedish Fit et Wake Up Form
+- **Cycling :** entre autres Ô35, Wake Up Form et L’Orange Bleue
+- **Boxe et arts martiaux :** entre autres Fit and Fight et AK44SD
+- **Danse :** entre autres Echo
+- **En plein air :** entre autres Echo sur l’île de Nantes
+- **Course à pied :** entre autres GPC Coaching
+- **Accès à la salle :** entre autres Ethik Sport Club et L’Orange Bleue
 
 <h2 id="conseils">Conseils</h2>
 
@@ -75,7 +75,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Nantes sur ClassPass.](/go/classpass-fr-nantes/?epi=fgg-fr-classpass-nantes)
+[Essaie ClassPass gratuitement et réserve des studios à Nantes.](/go/classpass-fr/?epi=fgg-fr-classpass-nantes)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-nantes">Profitez de 10 séances gratuites en 14 jours</a>

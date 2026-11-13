@@ -32,13 +32,13 @@ En Málaga tienes con ClassPass estudios por toda la ciudad, sobre todo de Pilat
 
 Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte para ver todos los estudios en ClassPass.
 
-- **[Pilates](/go/classpass-es-malaga-pilates/?epi=fgg-es-classpass-malaga)**: Bloomies Pilates Club, Mocca Pilates House, Yndico Pilates Studio, Studio53 Pilates Maquina, Momento Studio Pilates en el Centro, MR Pilates, DiPilates Estudio, Boutique Fitness Augusto y Distrito junto a la estación María Zambrano
-- **[Yoga](/go/classpass-es-malaga-yoga/?epi=fgg-es-classpass-malaga)**: YogaOne en El Perchel, Teatinos, Velázquez y Rincón de la Victoria, El Refugio de Beth, Indra Yoga y Brilla Yoga en Teatinos
-- **[Barre](/go/classpass-es-malaga-barre/?epi=fgg-es-classpass-malaga)**: ROLA BARRE en Pedregalejo y Teatinos, Studio53 Barre, Movest Pilates y Saten Barre en Rincón de la Victoria
-- **[HIIT](/go/classpass-es-malaga-hiit/?epi=fgg-es-classpass-malaga)** y **[bootcamp](/go/classpass-es-malaga-bootcamp/?epi=fgg-es-classpass-malaga)**: La Tribu Malaka, Benchmark Club, Yndico Training Center, The Bunker Box, SACABA BEACH BOX, DKN CROSSTRAINING, Integra Health & Sport
-- **[Artes marciales](/go/classpass-es-malaga-artes-marciales/?epi=fgg-es-classpass-malaga)**: DAIKAN DOJO y ABADÁ CAPOEIRA MÁLAGA en el Camino de los Guindos
-- **[Running](/go/classpass-es-malaga-running/?epi=fgg-es-classpass-malaga)**: La Tribu Malaka
-- También **[baile](/go/classpass-es-malaga-baile/?epi=fgg-es-classpass-malaga)**
+- **Pilates**: Bloomies Pilates Club, Mocca Pilates House, Yndico Pilates Studio, Studio53 Pilates Maquina, Momento Studio Pilates en el Centro, MR Pilates, DiPilates Estudio, Boutique Fitness Augusto y Distrito junto a la estación María Zambrano
+- **Yoga**: YogaOne en El Perchel, Teatinos, Velázquez y Rincón de la Victoria, El Refugio de Beth, Indra Yoga y Brilla Yoga en Teatinos
+- **Barre**: ROLA BARRE en Pedregalejo y Teatinos, Studio53 Barre, Movest Pilates y Saten Barre en Rincón de la Victoria
+- **HIIT** y **bootcamp**: La Tribu Malaka, Benchmark Club, Yndico Training Center, The Bunker Box, SACABA BEACH BOX, DKN CROSSTRAINING, Integra Health & Sport
+- **Artes marciales**: DAIKAN DOJO y ABADÁ CAPOEIRA MÁLAGA en el Camino de los Guindos
+- **Running**: La Tribu Malaka
+- También **baile**
 
 <h2 id="consejos">Consejos</h2>
 
@@ -48,7 +48,7 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - Algunos estudios tienen varios centros en Málaga o alrededores: elige bien el centro al reservar.
 - Tu plan funciona también en otras ciudades de España y en el extranjero, allí donde haya ClassPass.
 
-[Ver los estudios de Málaga en ClassPass.](/go/classpass-es-malaga/?epi=fgg-es-classpass-malaga)
+[Prueba ClassPass gratis y reserva estudios en Málaga.](/go/classpass-es/?epi=fgg-es-classpass-malaga)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass-malaga">Prueba 10 sesiones gratis en 14 días</a>

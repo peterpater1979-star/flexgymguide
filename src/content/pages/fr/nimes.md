@@ -129,7 +129,7 @@ Tu vas souvent à Montpellier ? Là-bas, tes crédits te donnent accès à beauc
 - Ceux qui travaillent ou sortent souvent à Montpellier et veulent y réserver d’autres sports avec les mêmes crédits
 - Ceux qui voyagent et veulent pouvoir réserver des cours dans d’autres villes
 
-[Voir les studios à Nîmes sur ClassPass](/go/classpass-fr-nimes/?epi=fgg-fr-nimes)
+[Essaie ClassPass gratuitement et réserve des studios à Nîmes.](/go/classpass-fr/?epi=fgg-fr-nimes)
 
 À Nîmes, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

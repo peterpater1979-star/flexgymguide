@@ -81,7 +81,7 @@ In Darmstadt ist ClassPass vor allem interessant, wenn du gern Yoga, Reformer-Pi
 
 Ein kleines Angebot. In Darmstadt selbst gibt es Yoga und Reformer-Pilates bei Balance Yoga in der Kirchstraße. In der Umgebung kommen Pole Dance und Aerial bei Slow Motion in Griesheim dazu, und Gym-Besuche bei AG Medical Fitness in Riedstadt und Eppertshausen. Viel mehr Auswahl hast du in Frankfurt, etwa 30 Minuten mit der S-Bahn.
 
-[Sieh dir die Studios in Darmstadt auf ClassPass an.](/go/classpass-de-darmstadt/?epi=fgg-de-darmstadt)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Darmstadt.](/go/classpass-de/?epi=fgg-de-darmstadt)
 
 ### Das bekommst du
 

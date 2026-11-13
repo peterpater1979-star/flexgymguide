@@ -93,7 +93,7 @@ Près d’Annemasse, ON AIR a un club à Cranves-Sales. Essential coûte 31,96 �
 
 Une petite offre : Air Flow Studio à Annemasse (pole dance, cerceau aérien, renforcement et mobilité, aussi en cours particuliers), et tout près deux studios de Pilates en petits groupes, El Pilates Studio à Cranves-Sales (Reformer et Mat, 8 personnes maximum) et ALOÏA à Ville-la-Grand.
 
-[Voir les studios à Annemasse sur ClassPass](/go/classpass-fr-annemasse/?epi=fgg-fr-annemasse)
+[Essaie ClassPass gratuitement et réserve des studios à Annemasse.](/go/classpass-fr/?epi=fgg-fr-annemasse)
 
 ### Bon pour
 

@@ -82,7 +82,7 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - Wie viele Credits ein Kurs kostet, hängt vom Studio und von der Uhrzeit ab. Kurse außerhalb der Stoßzeiten sind oft günstiger.
 - Dein Berliner Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt.
 
-[Sieh dir die Studios in Berlin auf ClassPass an.](/go/classpass-de-berlin/?epi=fgg-de-classpass-berlin)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Berlin.](/go/classpass-de/?epi=fgg-de-classpass-berlin)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-berlin">Teste 1 Monat gratis mit 10 Workouts</a>

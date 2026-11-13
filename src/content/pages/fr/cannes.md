@@ -94,7 +94,7 @@ Près de Cannes, ON AIR a un club au Cannet. Essential coûte 31,96 €, Origina
 
 Une petite offre en ville, davantage au Cannet, à Antibes, Mougins et Mandelieu, et beaucoup plus à Nice. Surtout du Pilates.
 
-[Voir les studios à Cannes et autour sur ClassPass](/go/classpass-fr-cannes/?epi=fgg-fr-cannes)
+[Essaie ClassPass gratuitement et réserve des studios à Cannes et autour.](/go/classpass-fr/?epi=fgg-fr-cannes)
 
 ### Bon pour
 

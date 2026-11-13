@@ -69,7 +69,7 @@ Pour chaque sport, une sélection de studios. Tous les studios sont sur ClassPas
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Lille sur ClassPass.](/go/classpass-fr-lille/?epi=fgg-fr-classpass-lille)
+[Essaie ClassPass gratuitement et réserve des studios à Lille.](/go/classpass-fr/?epi=fgg-fr-classpass-lille)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-lille">Profitez de 10 séances gratuites en 14 jours</a>

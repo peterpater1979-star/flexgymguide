@@ -141,7 +141,7 @@ Une petite offre dans le centre, surtout du Pilates Reformer :
 - Ceux qui ont déjà une salle classique et veulent ajouter quelques cours de Reformer par mois
 - Ceux qui vont souvent à Nantes ou à Paris et veulent y réserver d’autres sports avec les mêmes crédits
 
-[Voir les studios à Angers sur ClassPass](/go/classpass-fr-angers/?epi=fgg-fr-angers)
+[Essaie ClassPass gratuitement et réserve des studios à Angers.](/go/classpass-fr/?epi=fgg-fr-angers)
 
 À Angers, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

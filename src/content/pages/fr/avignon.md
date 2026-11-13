@@ -105,7 +105,7 @@ Près d’Avignon, L’Orange bleue a une salle à Vedène. Les formules affich�
 
 Une petite offre, surtout des salles de sport : easyGym dans le centre (passage de l’Oratoire) et aux Angles, de l’autre côté du Rhône (cardio, musculation, aussi du yoga et des étirements), et 4D Gym Club au Thor (ouvert 24 h/24, 7 j/7).
 
-[Voir les studios à Avignon sur ClassPass](/go/classpass-fr-avignon/?epi=fgg-fr-avignon)
+[Essaie ClassPass gratuitement et réserve des studios à Avignon.](/go/classpass-fr/?epi=fgg-fr-avignon)
 
 À Avignon, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

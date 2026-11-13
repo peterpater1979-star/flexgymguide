@@ -179,7 +179,7 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 - **Pilates**: H3 en la calle Félix Latassa
 - **Yoga y meditación**: MENTO en el Casco Antiguo
 
-[Ver los estudios en Zaragoza en ClassPass](/go/classpass-es-zaragoza/?epi=fgg-es-zaragoza)
+[Prueba ClassPass gratis y reserva estudios en Zaragoza.](/go/classpass-es/?epi=fgg-es-zaragoza)
 
 ### A tener en cuenta
 

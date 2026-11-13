@@ -52,15 +52,15 @@ HYROX et cross-training chez 510 Training Club à Éguilles, Pilates chez Chacha
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Pilates](/go/classpass-fr-aix-en-provence-pilates/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres The New Me, Maison Susa, UMI Pilates Club, The Pilates Place, Almea Studio, LE BOUDOIR, Soleil du sud, Pilates for you et Chacha Pilates Studio
+- **Pilates :** entre autres The New Me, Maison Susa, UMI Pilates Club, The Pilates Place, Almea Studio, LE BOUDOIR, Soleil du sud, Pilates for you et Chacha Pilates Studio
 - **Lagree :** entre autres STORM, UMI Lagree Club, WALTERY CLUB et Almea Studio
-- **[Barre](/go/classpass-fr-aix-en-provence-barre/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres STORM
-- **[Yoga](/go/classpass-fr-aix-en-provence-yoga/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres Maluja studio et le studio DYP
-- **[HIIT et HYROX](/go/classpass-fr-aix-en-provence-hiit/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres 510 Training Club et Club Muniz Boxing Academy
-- **[Boxe](/go/classpass-fr-aix-en-provence-boxe/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres Club Muniz Boxing Academy et Boxing Club LM 13
-- **[Danse](/go/classpass-fr-aix-en-provence-danse/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres la Heels Dance chez Maison Susa
-- **[En plein air](/go/classpass-fr-aix-en-provence-outdoor/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres JR Fitn’aix au stade Carcassonne
-- **[Accès à la salle](/go/classpass-fr-aix-en-provence-salle/?epi=fgg-fr-classpass-aix-en-provence) :** entre autres Fitness Park dans le centre et 510 Training Club à Éguilles
+- **Barre :** entre autres STORM
+- **Yoga :** entre autres Maluja studio et le studio DYP
+- **HIIT et HYROX :** entre autres 510 Training Club et Club Muniz Boxing Academy
+- **Boxe :** entre autres Club Muniz Boxing Academy et Boxing Club LM 13
+- **Danse :** entre autres la Heels Dance chez Maison Susa
+- **En plein air :** entre autres JR Fitn’aix au stade Carcassonne
+- **Accès à la salle :** entre autres Fitness Park dans le centre et 510 Training Club à Éguilles
 - **Escalade :** entre autres Climb Up à Bouc-Bel-Air
 
 <h2 id="conseils">Conseils</h2>
@@ -71,7 +71,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
 - Ton abonnement marche aussi à Marseille et dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Aix-en-Provence sur ClassPass.](/go/classpass-fr-aix-en-provence/?epi=fgg-fr-classpass-aix-en-provence)
+[Essaie ClassPass gratuitement et réserve des studios à Aix-en-Provence.](/go/classpass-fr/?epi=fgg-fr-classpass-aix-en-provence)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-aix-en-provence">Profitez de 10 séances gratuites en 14 jours</a>

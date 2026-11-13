@@ -56,14 +56,14 @@ Pilates chez Ren Studio avenue Jean-Rieux, renforcement chez Swedish Fit rue de 
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Pilates](/go/classpass-fr-toulouse-pilates/?epi=fgg-fr-classpass-toulouse) :** entre autres Body Pilates, Ora Club, PYC Studio, Ren Studio, Noya Studio, Nala Studio (réservé aux femmes), LØFTE, Reflect Studio à Balma, Kaizen Pilates Club et FloorS Pilates
-- **[Yoga](/go/classpass-fr-toulouse-yoga/?epi=fgg-fr-classpass-toulouse) :** entre autres Sattva Yoga Shala, Body Pilates, PYC Studio et le hot yoga chez Holistique Academia à Balma
-- **[Barre](/go/classpass-fr-toulouse-barre/?epi=fgg-fr-classpass-toulouse) :** entre autres Ora Club, le premier studio de barre moderne à Toulouse
-- **[HIIT et HYROX](/go/classpass-fr-toulouse-hiit/?epi=fgg-fr-classpass-toulouse) :** entre autres H Training Club, Grand Rond Athletic, LØFTE, GARY’S et F45 Training à Balma
-- **[Bootcamp et renforcement](/go/classpass-fr-toulouse-bootcamp/?epi=fgg-fr-classpass-toulouse) :** entre autres Swedish Fit (deux lieux), LØFTE et Studio Sport Santé à L’Union
-- **[Arts martiaux et boxe](/go/classpass-fr-toulouse-arts-martiaux/?epi=fgg-fr-classpass-toulouse) :** entre autres Martial Art Family
-- **[Danse](/go/classpass-fr-toulouse-danse/?epi=fgg-fr-classpass-toulouse) :** entre autres la pole dance chez Miss Pole, rue Boulbonne et rue d’Alsace-Lorraine
-- **[Accès à la salle](/go/classpass-fr-toulouse-salle/?epi=fgg-fr-classpass-toulouse) :** entre autres GARY’S à Montaudran
+- **Pilates :** entre autres Body Pilates, Ora Club, PYC Studio, Ren Studio, Noya Studio, Nala Studio (réservé aux femmes), LØFTE, Reflect Studio à Balma, Kaizen Pilates Club et FloorS Pilates
+- **Yoga :** entre autres Sattva Yoga Shala, Body Pilates, PYC Studio et le hot yoga chez Holistique Academia à Balma
+- **Barre :** entre autres Ora Club, le premier studio de barre moderne à Toulouse
+- **HIIT et HYROX :** entre autres H Training Club, Grand Rond Athletic, LØFTE, GARY’S et F45 Training à Balma
+- **Bootcamp et renforcement :** entre autres Swedish Fit (deux lieux), LØFTE et Studio Sport Santé à L’Union
+- **Arts martiaux et boxe :** entre autres Martial Art Family
+- **Danse :** entre autres la pole dance chez Miss Pole, rue Boulbonne et rue d’Alsace-Lorraine
+- **Accès à la salle :** entre autres GARY’S à Montaudran
 
 <h2 id="conseils">Conseils</h2>
 
@@ -72,7 +72,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - Swedish Fit et Miss Pole ont deux lieux à Toulouse : choisis bien le bon au moment de réserver.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Toulouse sur ClassPass.](/go/classpass-fr-toulouse/?epi=fgg-fr-classpass-toulouse)
+[Essaie ClassPass gratuitement et réserve des studios à Toulouse.](/go/classpass-fr/?epi=fgg-fr-classpass-toulouse)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-toulouse">Profitez de 10 séances gratuites en 14 jours</a>

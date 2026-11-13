@@ -151,7 +151,7 @@ Ein gutes Angebot, vor allem in der Innenstadt, in Carlstadt, Pempelfort, Unterb
 
 [Alle Studios in Düsseldorf nach Stadtteil und Sportart ansehen.](/de/classpass-duesseldorf/)
 
-[Sieh dir die Studios in Düsseldorf auf ClassPass an.](/go/classpass-de-duesseldorf/?epi=fgg-de-duesseldorf)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Düsseldorf.](/go/classpass-de/?epi=fgg-de-duesseldorf)
 
 ### Das bekommst du
 

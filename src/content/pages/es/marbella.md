@@ -98,17 +98,17 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 En el centro, la Milla de Oro, Nueva Andalucía y San Pedro Alcántara, y a lo largo de la N-340 hacia Estepona. Una selección por deporte, entre otros:
 
-- **[Pilates](/go/classpass-es-marbella-pilates/?epi=fgg-es-marbella)**: Lagree en Megaformer en Palm Sporting Club, Reformer en AYANA STUDIO (C.C. Tembo) y en The 24th Hour (C.C. Mustang), y HOUSE OF YAGE en el Camino Viejo de Istán
-- **[Yoga](/go/classpass-es-marbella-yoga/?epi=fgg-es-marbella)**: The Sanctum Space en Nueva Andalucía (vinyasa, ashtanga, hatha), The 24th Hour, The Barre House y Palm Sporting Club
-- **[Barre](/go/classpass-es-marbella-barre/?epi=fgg-es-marbella)**: The Barre House en la avenida de Nabeul y AYANA STUDIO
-- **[HIIT](/go/classpass-es-marbella-hiit/?epi=fgg-es-marbella)**: Barry’s x Nikki Beach en la carretera de Cádiz
-- **[Bootcamp y fuerza](/go/classpass-es-marbella-bootcamp/?epi=fgg-es-marbella)**: CrossFit Marbella y Barry’s x Nikki Beach
-- **[Gimnasio](/go/classpass-es-marbella-gimnasio/?epi=fgg-es-marbella)**: Apolo GYM en Nueva Andalucía
-- **[Baile](/go/classpass-es-marbella-baile/?epi=fgg-es-marbella)**: pole, heels y exotic en TY LOVES 2 POLE en la calle Salvador Rueda, e Isla Rose Dance Academy en San Pedro Alcántara
-- **[Aire libre](/go/classpass-es-marbella-aire-libre/?epi=fgg-es-marbella)**: hatha yoga en la playa con Yoga with Séana
-- También **[boxeo](/go/classpass-es-marbella-boxeo/?epi=fgg-es-marbella)**
+- **Pilates**: Lagree en Megaformer en Palm Sporting Club, Reformer en AYANA STUDIO (C.C. Tembo) y en The 24th Hour (C.C. Mustang), y HOUSE OF YAGE en el Camino Viejo de Istán
+- **Yoga**: The Sanctum Space en Nueva Andalucía (vinyasa, ashtanga, hatha), The 24th Hour, The Barre House y Palm Sporting Club
+- **Barre**: The Barre House en la avenida de Nabeul y AYANA STUDIO
+- **HIIT**: Barry’s x Nikki Beach en la carretera de Cádiz
+- **Bootcamp y fuerza**: CrossFit Marbella y Barry’s x Nikki Beach
+- **Gimnasio**: Apolo GYM en Nueva Andalucía
+- **Baile**: pole, heels y exotic en TY LOVES 2 POLE en la calle Salvador Rueda, e Isla Rose Dance Academy en San Pedro Alcántara
+- **Aire libre**: hatha yoga en la playa con Yoga with Séana
+- También **boxeo**
 
-[Ver los estudios en Marbella en ClassPass](/go/classpass-es-marbella/?epi=fgg-es-marbella)
+[Prueba ClassPass gratis y reserva estudios en Marbella.](/go/classpass-es/?epi=fgg-es-marbella)
 
 ### Ideal para
 

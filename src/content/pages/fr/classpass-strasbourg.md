@@ -48,13 +48,13 @@ Boxing, cycling et Pilates en groupe chez O’Zone Hiit Studios boulevard de Nan
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Pilates](/go/classpass-fr-strasbourg-pilates/?epi=fgg-fr-classpass-strasbourg) :** entre autres The New Me, Harmonie Pilates, Core & Cup, Studio Pilates Pascalin, POSES et O’Zone Hiit Studios
-- **[Yoga](/go/classpass-fr-strasbourg-yoga/?epi=fgg-fr-classpass-strasbourg) :** entre autres Swedish Fit rue des Greniers et Core & Cup
-- **[Barre](/go/classpass-fr-strasbourg-barre/?epi=fgg-fr-classpass-strasbourg) :** entre autres POSES à Lampertheim
-- **[HIIT](/go/classpass-fr-strasbourg-hiit/?epi=fgg-fr-classpass-strasbourg) :** entre autres O’Zone Hiit Studios
-- **[Boxe](/go/classpass-fr-strasbourg-boxe/?epi=fgg-fr-classpass-strasbourg) :** entre autres O’Zone Hiit Studios et Cercle Boxing Strasbourg
-- **[Renforcement et bootcamp](/go/classpass-fr-strasbourg-bootcamp/?epi=fgg-fr-classpass-strasbourg) :** entre autres Swedish Fit (trois lieux) et Cercle Boxing Strasbourg
-- **[Accès à la salle](/go/classpass-fr-strasbourg-salle/?epi=fgg-fr-classpass-strasbourg) :** selon les créneaux du moment
+- **Pilates :** entre autres The New Me, Harmonie Pilates, Core & Cup, Studio Pilates Pascalin, POSES et O’Zone Hiit Studios
+- **Yoga :** entre autres Swedish Fit rue des Greniers et Core & Cup
+- **Barre :** entre autres POSES à Lampertheim
+- **HIIT :** entre autres O’Zone Hiit Studios
+- **Boxe :** entre autres O’Zone Hiit Studios et Cercle Boxing Strasbourg
+- **Renforcement et bootcamp :** entre autres Swedish Fit (trois lieux) et Cercle Boxing Strasbourg
+- **Accès à la salle :** selon les créneaux du moment
 
 <h2 id="conseils">Conseils</h2>
 
@@ -63,7 +63,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - Swedish Fit a trois lieux à Strasbourg : choisis bien le bon au moment de réserver.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Strasbourg sur ClassPass.](/go/classpass-fr-strasbourg/?epi=fgg-fr-classpass-strasbourg)
+[Essaie ClassPass gratuitement et réserve des studios à Strasbourg.](/go/classpass-fr/?epi=fgg-fr-classpass-strasbourg)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-strasbourg">Profitez de 10 séances gratuites en 14 jours</a>

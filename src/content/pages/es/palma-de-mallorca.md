@@ -124,17 +124,17 @@ En Palma de Mallorca, el plan estándar cuesta 49 € al mes por 30 créditos, y
 
 El centro, Santa Catalina, Ponent y Llevant, y también en Portals Nous, Palmanova y Coll d’en Rabassa. Una selección por deporte, entre otros:
 
-- **[Pilates](/go/classpass-es-palma-de-mallorca-pilates/?epi=fgg-es-palma-de-mallorca)**: JOSEF P Reformer Pilates en el centro, PILAT3S, TEMPO, INTUÉ Pilates, Studio 38 con Hot Pilates, Nexes Pilates, Fit It Woman (para mujeres), SO MALLORCA en Llevant, Fusion Pilates en Portals Nous y Glow & Reform en Palmanova
-- **[Yoga](/go/classpass-es-palma-de-mallorca-yoga/?epi=fgg-es-palma-de-mallorca)**: Earth Yoga en Santa Catalina, YogaOne Palma, Leve Pausa Yoga en la avenida de Jaume III, Movisiento y SO MALLORCA
-- **[Barre](/go/classpass-es-palma-de-mallorca-barre/?epi=fgg-es-palma-de-mallorca)**: INTUÉ Barre, Studio 38, Nexes Pilates y Glow & Reform
-- **[Cycling](/go/classpass-es-palma-de-mallorca-cycling/?epi=fgg-es-palma-de-mallorca)**: RADI STUDIOS en la avenida de Alemania
-- **[HIIT](/go/classpass-es-palma-de-mallorca-hiit/?epi=fgg-es-palma-de-mallorca)** y **[bootcamp](/go/classpass-es-palma-de-mallorca-bootcamp/?epi=fgg-es-palma-de-mallorca)**: TRIB3, TEMPO, Beats Training Club y Re-generation Mallorca en Ponent
-- **[Baile](/go/classpass-es-palma-de-mallorca-baile/?epi=fgg-es-palma-de-mallorca)**: pole dance en Art & Danses en Coll d’en Rabassa
-- **[Gimnasio](/go/classpass-es-palma-de-mallorca-gimnasio/?epi=fgg-es-palma-de-mallorca)**: The Glute Shop, solo para mujeres, en Ponent
-- **[Running](/go/classpass-es-palma-de-mallorca-running/?epi=fgg-es-palma-de-mallorca)**: Re-generation Mallorca
-- También **[al aire libre](/go/classpass-es-palma-de-mallorca-aire-libre/?epi=fgg-es-palma-de-mallorca)**
+- **Pilates**: JOSEF P Reformer Pilates en el centro, PILAT3S, TEMPO, INTUÉ Pilates, Studio 38 con Hot Pilates, Nexes Pilates, Fit It Woman (para mujeres), SO MALLORCA en Llevant, Fusion Pilates en Portals Nous y Glow & Reform en Palmanova
+- **Yoga**: Earth Yoga en Santa Catalina, YogaOne Palma, Leve Pausa Yoga en la avenida de Jaume III, Movisiento y SO MALLORCA
+- **Barre**: INTUÉ Barre, Studio 38, Nexes Pilates y Glow & Reform
+- **Cycling**: RADI STUDIOS en la avenida de Alemania
+- **HIIT** y **bootcamp**: TRIB3, TEMPO, Beats Training Club y Re-generation Mallorca en Ponent
+- **Baile**: pole dance en Art & Danses en Coll d’en Rabassa
+- **Gimnasio**: The Glute Shop, solo para mujeres, en Ponent
+- **Running**: Re-generation Mallorca
+- También **al aire libre**
 
-[Ver los estudios en Palma en ClassPass](/go/classpass-es-palma-de-mallorca/?epi=fgg-es-palma-de-mallorca)
+[Prueba ClassPass gratis y reserva estudios en Palma.](/go/classpass-es/?epi=fgg-es-palma-de-mallorca)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-palma-de-mallorca">Prueba 10 sesiones gratis en 14 días</a>

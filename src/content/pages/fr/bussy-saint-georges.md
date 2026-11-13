@@ -51,7 +51,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 Pas de studio à Bussy même, mais deux adresses tout près, à Lagny-sur-Marne : Magic Form (avenue du Général Leclerc), salle de sport avec musculation et cours de danse, et My Big Bang (rue Vacheresse), séances de 20 minutes en électrostimulation.
 
-[Voir les studios autour de Bussy-Saint-Georges sur ClassPass](/go/classpass-fr-bussy-saint-georges/?epi=fgg-fr-bussy-saint-georges)
+[Essaie ClassPass gratuitement et réserve des studios autour de Bussy-Saint-Georges.](/go/classpass-fr/?epi=fgg-fr-bussy-saint-georges)
 
 ### Bon pour
 

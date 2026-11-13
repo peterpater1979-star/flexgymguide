@@ -52,20 +52,20 @@ In Ludwigsburg Pilates bei Boutique Pilates, Pole Dance und Aerial Hoop im Aeria
 
 Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle Studios dafür bei ClassPass.
 
-- **[Pilates](/go/classpass-de-stuttgart-pilates/?epi=fgg-de-classpass-stuttgart):** unter anderem Rostudios (Roform), OHEMIA, Élysio, PILACHA, SPRING SOCIETY, Holistic House, HALO, U Pilates Hub, Minato Studios, Newstyle Pilates und Boutique Pilates in Ludwigsburg
-- **[Barre](/go/classpass-de-stuttgart-barre/?epi=fgg-de-classpass-stuttgart):** unter anderem SPRING SOCIETY Matness, OHEMIA, Heaven's Healthy Hub und Axia Studios in Remseck
-- **[Yoga](/go/classpass-de-stuttgart-yoga/?epi=fgg-de-classpass-stuttgart):** unter anderem OM Yoga, Namotoyoga, YOGA13, Yoga Stuttgart, ASHTANGA YOGA SHALA, Heaven's Healthy Hub und Ananda Jyoti Yoga
-- **[HIIT](/go/classpass-de-stuttgart-hiit/?epi=fgg-de-classpass-stuttgart):** unter anderem FT-Club, THE BACE und Élysio
-- **[Bootcamp und HYROX](/go/classpass-de-stuttgart-bootcamp/?epi=fgg-de-classpass-stuttgart):** unter anderem THE BACE und Pink Power Sport in Böblingen
-- **[Indoor-Cycling](/go/classpass-de-stuttgart-cycling/?epi=fgg-de-classpass-stuttgart):** unter anderem INDOOR CYCLING in der Wilhelmstraße und blackBIKE
-- **[Boxen](/go/classpass-de-stuttgart-boxen/?epi=fgg-de-classpass-stuttgart)** und **[Kampfsport](/go/classpass-de-stuttgart-kampfsport/?epi=fgg-de-classpass-stuttgart):** unter anderem SECRETBOXING, Kickboxen und Thaiboxen bei Yoni Sports, Krav Maga in der Kraftmacherei in Ludwigsburg und im Krav Maga Center in Kornwestheim
-- **[Tanz](/go/classpass-de-stuttgart-tanzen/?epi=fgg-de-classpass-stuttgart):** unter anderem Tanzloft, Tanzstudio1 und Aerial Loft in Ludwigsburg
-- **[Outdoor](/go/classpass-de-stuttgart-outdoor/?epi=fgg-de-classpass-stuttgart)** und **[Laufen](/go/classpass-de-stuttgart-laufen/?epi=fgg-de-classpass-stuttgart):** unter anderem Yoga an Pop-up-Orten bei YogaThrive, Pilates an besonderen Orten bei REFORM und Pink Power Sport in Böblingen
-- **[Gym](/go/classpass-de-stuttgart-gym/?epi=fgg-de-classpass-stuttgart):** unter anderem THE BACE, Fitness &amp; Sport Fellbach und Blue Star Fitness in Wernau
+- **Pilates:** unter anderem Rostudios (Roform), OHEMIA, Élysio, PILACHA, SPRING SOCIETY, Holistic House, HALO, U Pilates Hub, Minato Studios, Newstyle Pilates und Boutique Pilates in Ludwigsburg
+- **Barre:** unter anderem SPRING SOCIETY Matness, OHEMIA, Heaven's Healthy Hub und Axia Studios in Remseck
+- **Yoga:** unter anderem OM Yoga, Namotoyoga, YOGA13, Yoga Stuttgart, ASHTANGA YOGA SHALA, Heaven's Healthy Hub und Ananda Jyoti Yoga
+- **HIIT:** unter anderem FT-Club, THE BACE und Élysio
+- **Bootcamp und HYROX:** unter anderem THE BACE und Pink Power Sport in Böblingen
+- **Indoor-Cycling:** unter anderem INDOOR CYCLING in der Wilhelmstraße und blackBIKE
+- **Boxen** und **Kampfsport:** unter anderem SECRETBOXING, Kickboxen und Thaiboxen bei Yoni Sports, Krav Maga in der Kraftmacherei in Ludwigsburg und im Krav Maga Center in Kornwestheim
+- **Tanz:** unter anderem Tanzloft, Tanzstudio1 und Aerial Loft in Ludwigsburg
+- **Outdoor** und **Laufen:** unter anderem Yoga an Pop-up-Orten bei YogaThrive, Pilates an besonderen Orten bei REFORM und Pink Power Sport in Böblingen
+- **Gym:** unter anderem THE BACE, Fitness &amp; Sport Fellbach und Blue Star Fitness in Wernau
 
 <h3 id="tanz">Tanz in Stuttgart</h3>
 
-Tanz- und Fitnesskurse gibt es unter anderem im Tanzloft in der Leuschnerstraße, Modern Jazz Dance bei Tanzstudio1. Pole Dance und Akrobatik mit dem Hoop lernst du im Aerial Loft in Ludwigsburg. [Alle Tanzkurse in Stuttgart auf ClassPass ansehen.](/go/classpass-de-stuttgart-tanzen/?epi=fgg-de-classpass-stuttgart)
+Tanz- und Fitnesskurse gibt es unter anderem im Tanzloft in der Leuschnerstraße, Modern Jazz Dance bei Tanzstudio1. Pole Dance und Akrobatik mit dem Hoop lernst du im Aerial Loft in Ludwigsburg. [Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Tanzkurse in Stuttgart.](/go/classpass-de/?epi=fgg-de-classpass-stuttgart)
 
 <h2 id="tipps">Tipps</h2>
 
@@ -75,7 +75,7 @@ Tanz- und Fitnesskurse gibt es unter anderem im Tanzloft in der Leuschnerstraße
 - Manche Kurse finden an wechselnden Orten statt, etwa die Pop-up-Stunden von YogaThrive. Prüf vor dem Kurs, wo er stattfindet.
 - Dein Stuttgarter Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt.
 
-[Sieh dir die Studios in Stuttgart auf ClassPass an.](/go/classpass-de-stuttgart/?epi=fgg-de-classpass-stuttgart)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Stuttgart.](/go/classpass-de/?epi=fgg-de-classpass-stuttgart)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-stuttgart">Teste 1 Monat gratis mit 10 Workouts</a>

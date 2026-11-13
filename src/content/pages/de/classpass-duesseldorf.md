@@ -60,20 +60,20 @@ Reformer-Pilates bei Levae in Neuss und miucoco in Meerbusch, égoïste und Kraf
 
 Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle Studios dafür bei ClassPass.
 
-- **[Pilates](/go/classpass-de-duesseldorf-pilates/?epi=fgg-de-classpass-duesseldorf):** unter anderem égoïste, JOSEF P, corelab, YTTP Reformer, Youpila, Rostudios (Roform), Vela Pilates, SLOW BURN STUDIO, The Sunnyloft und Lagree bei Fitbodylab
-- **[Barre](/go/classpass-de-duesseldorf-barre/?epi=fgg-de-classpass-duesseldorf):** unter anderem Youpila, BECYCLE und DoJumps Loft
-- **[Yoga](/go/classpass-de-duesseldorf-yoga/?epi=fgg-de-classpass-duesseldorf):** unter anderem YogaKula, VAYU yoga &amp; more, Palmhouse Yoga, YogaKitchen, yogaloft, Inside Flow Studio und oxy studio
-- **[HIIT](/go/classpass-de-duesseldorf-hiit/?epi=fgg-de-classpass-duesseldorf):** unter anderem BEAT81 HYBRID, the MOVE STUDIO, Burn Baby Burn und 3rd Place
-- **[Bootcamp und HYROX](/go/classpass-de-duesseldorf-bootcamp/?epi=fgg-de-classpass-duesseldorf):** unter anderem Pace Club, Box 360, HYRAYSE und BURN, BABY
-- **[Indoor-Cycling](/go/classpass-de-duesseldorf-cycling/?epi=fgg-de-classpass-duesseldorf):** unter anderem BECYCLE und BEAT81 RIDE
-- **[Boxen](/go/classpass-de-duesseldorf-boxen/?epi=fgg-de-classpass-duesseldorf)** und **[Kampfsport](/go/classpass-de-duesseldorf-kampfsport/?epi=fgg-de-classpass-duesseldorf):** unter anderem ChriTa Sports und Ageless Body
-- **[Tanz](/go/classpass-de-duesseldorf-tanzen/?epi=fgg-de-classpass-duesseldorf):** unter anderem DoJumps Loft, ChriTa Sports und LIFT OFF in Mönchengladbach
-- **[Outdoor](/go/classpass-de-duesseldorf-outdoor/?epi=fgg-de-classpass-duesseldorf)** und **[Laufen](/go/classpass-de-duesseldorf-laufen/?epi=fgg-de-classpass-duesseldorf):** unter anderem Original Bootcamp, Parkletix, Power Tiger, HYRAYSE und Running Krew in Krefeld
-- **[Gym](/go/classpass-de-duesseldorf-gym/?epi=fgg-de-classpass-duesseldorf):** unter anderem ELEVATE, Fitklusiv, die MOVE Kletterhalle und clever fit in Langenfeld
+- **Pilates:** unter anderem égoïste, JOSEF P, corelab, YTTP Reformer, Youpila, Rostudios (Roform), Vela Pilates, SLOW BURN STUDIO, The Sunnyloft und Lagree bei Fitbodylab
+- **Barre:** unter anderem Youpila, BECYCLE und DoJumps Loft
+- **Yoga:** unter anderem YogaKula, VAYU yoga &amp; more, Palmhouse Yoga, YogaKitchen, yogaloft, Inside Flow Studio und oxy studio
+- **HIIT:** unter anderem BEAT81 HYBRID, the MOVE STUDIO, Burn Baby Burn und 3rd Place
+- **Bootcamp und HYROX:** unter anderem Pace Club, Box 360, HYRAYSE und BURN, BABY
+- **Indoor-Cycling:** unter anderem BECYCLE und BEAT81 RIDE
+- **Boxen** und **Kampfsport:** unter anderem ChriTa Sports und Ageless Body
+- **Tanz:** unter anderem DoJumps Loft, ChriTa Sports und LIFT OFF in Mönchengladbach
+- **Outdoor** und **Laufen:** unter anderem Original Bootcamp, Parkletix, Power Tiger, HYRAYSE und Running Krew in Krefeld
+- **Gym:** unter anderem ELEVATE, Fitklusiv, die MOVE Kletterhalle und clever fit in Langenfeld
 
 <h3 id="tanz">Tanz in Düsseldorf</h3>
 
-Tanzkurse gibt es unter anderem bei ChriTa Sports in der Hüttenstraße (zusammen mit Kampfkunst und Fitness) und bei DoJumps Loft. Pole Dance, Aerial Hoop und Aerial Silks lernst du bei LIFT OFF in Mönchengladbach. [Alle Tanzkurse in Düsseldorf auf ClassPass ansehen.](/go/classpass-de-duesseldorf-tanzen/?epi=fgg-de-classpass-duesseldorf)
+Tanzkurse gibt es unter anderem bei ChriTa Sports in der Hüttenstraße (zusammen mit Kampfkunst und Fitness) und bei DoJumps Loft. Pole Dance, Aerial Hoop und Aerial Silks lernst du bei LIFT OFF in Mönchengladbach. [Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Tanzkurse in Düsseldorf.](/go/classpass-de/?epi=fgg-de-classpass-duesseldorf)
 
 <h2 id="tipps">Tipps</h2>
 
@@ -83,7 +83,7 @@ Tanzkurse gibt es unter anderem bei ChriTa Sports in der Hüttenstraße (zusamme
 - Für Reformer-Pilates brauchst du oft Socken mit Antirutschsohle. Lies die Hinweise beim Studio, bevor du buchst.
 - Dein Düsseldorfer Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt.
 
-[Sieh dir die Studios in Düsseldorf auf ClassPass an.](/go/classpass-de-duesseldorf/?epi=fgg-de-classpass-duesseldorf)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Düsseldorf.](/go/classpass-de/?epi=fgg-de-classpass-duesseldorf)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-duesseldorf">Teste 1 Monat gratis mit 10 Workouts</a>

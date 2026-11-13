@@ -59,17 +59,17 @@ Bootcamp chez Wondercamp boulevard Michelet, cours chez Swella au technopôle de
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Pilates](/go/classpass-fr-marseille-pilates/?epi=fgg-fr-classpass-marseille) :** entre autres My Body Studio, PULSE PILATES CLUB, InfinityCore, Aelia Pilates, Aro Pilates Club, Energy Pilates, ORAH studio, POSES Marseille et boni
-- **[Yoga](/go/classpass-fr-marseille-yoga/?epi=fgg-fr-classpass-marseille) :** entre autres Hot Yoga Studio Marseille, Pura Vida Studio, Gaïa Yoga, Yogat, Studio Anelfé, Flow Studio, Launomad yoga et Lila Kundalini
-- **[Barre](/go/classpass-fr-marseille-barre/?epi=fgg-fr-classpass-marseille) :** entre autres POSES Marseille, STUDIO 24, Boost Club, ORAH studio et Aelia Pilates
-- **[HIIT](/go/classpass-fr-marseille-hiit/?epi=fgg-fr-classpass-marseille) :** entre autres REBORN STUDIO, ROAD SOCIAL CLUB, The Square Studio, FLX Studio et Seven Club
-- **[Bootcamp](/go/classpass-fr-marseille-bootcamp/?epi=fgg-fr-classpass-marseille) :** entre autres KUBE Bootcamp, Wondercamp, SWC Club Outdoor Prado, azstudiomarseille et VIBES Fitness
-- **[Cycling](/go/classpass-fr-marseille-cycling/?epi=fgg-fr-classpass-marseille) :** entre autres Dynamo Cycling avenue du Prado et VIBES Fitness
-- **[Boxe](/go/classpass-fr-marseille-boxe/?epi=fgg-fr-classpass-marseille) :** entre autres Punch Boxing, Club Sisko, Ares Studio, FLX Studio et Origine Martial Arts
-- **[Arts martiaux](/go/classpass-fr-marseille-arts-martiaux/?epi=fgg-fr-classpass-marseille) :** entre autres Krav Maga Experts Marseille, Origine Martial Arts et Lutte Olympique Massalia
-- **[Danse](/go/classpass-fr-marseille-danse/?epi=fgg-fr-classpass-marseille) :** entre autres Pole Dance Marseille, Pole Position, Studio JOMA et PULSE PILATES CLUB
-- **[En plein air](/go/classpass-fr-marseille-outdoor/?epi=fgg-fr-classpass-marseille) :** entre autres Flow Studio, Move with ajna, A Little Family et Launomad yoga
-- **[Accès à la salle](/go/classpass-fr-marseille-salle/?epi=fgg-fr-classpass-marseille) :** entre autres Keepcool rue d’Alger, boulevard Rabatau et rue Peyssonnel, L’Orange Bleue, Fitnesscity, Athletics Club, easyGym et Samfit
+- **Pilates :** entre autres My Body Studio, PULSE PILATES CLUB, InfinityCore, Aelia Pilates, Aro Pilates Club, Energy Pilates, ORAH studio, POSES Marseille et boni
+- **Yoga :** entre autres Hot Yoga Studio Marseille, Pura Vida Studio, Gaïa Yoga, Yogat, Studio Anelfé, Flow Studio, Launomad yoga et Lila Kundalini
+- **Barre :** entre autres POSES Marseille, STUDIO 24, Boost Club, ORAH studio et Aelia Pilates
+- **HIIT :** entre autres REBORN STUDIO, ROAD SOCIAL CLUB, The Square Studio, FLX Studio et Seven Club
+- **Bootcamp :** entre autres KUBE Bootcamp, Wondercamp, SWC Club Outdoor Prado, azstudiomarseille et VIBES Fitness
+- **Cycling :** entre autres Dynamo Cycling avenue du Prado et VIBES Fitness
+- **Boxe :** entre autres Punch Boxing, Club Sisko, Ares Studio, FLX Studio et Origine Martial Arts
+- **Arts martiaux :** entre autres Krav Maga Experts Marseille, Origine Martial Arts et Lutte Olympique Massalia
+- **Danse :** entre autres Pole Dance Marseille, Pole Position, Studio JOMA et PULSE PILATES CLUB
+- **En plein air :** entre autres Flow Studio, Move with ajna, A Little Family et Launomad yoga
+- **Accès à la salle :** entre autres Keepcool rue d’Alger, boulevard Rabatau et rue Peyssonnel, L’Orange Bleue, Fitnesscity, Athletics Club, easyGym et Samfit
 
 <h2 id="conseils">Conseils</h2>
 
@@ -78,7 +78,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - Beaucoup de cours en plein air ont lieu au bord de la mer. Regarde bien le point de rendez-vous au moment de réserver.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Marseille sur ClassPass.](/go/classpass-fr-marseille/?epi=fgg-fr-classpass-marseille)
+[Essaie ClassPass gratuitement et réserve des studios à Marseille.](/go/classpass-fr/?epi=fgg-fr-classpass-marseille)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-marseille">Profitez de 10 séances gratuites en 14 jours</a>

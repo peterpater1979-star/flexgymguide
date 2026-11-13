@@ -51,7 +51,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 Pas de studio à Montévrain même, mais deux adresses tout près, à Lagny-sur-Marne : Magic Form (avenue du Général Leclerc), salle de sport avec musculation et cours de danse, et My Big Bang (rue Vacheresse), séances de 20 minutes en électrostimulation.
 
-[Voir les studios autour de Montévrain sur ClassPass](/go/classpass-fr-montevrain/?epi=fgg-fr-montevrain)
+[Essaie ClassPass gratuitement et réserve des studios autour de Montévrain.](/go/classpass-fr/?epi=fgg-fr-montevrain)
 
 ### Bon pour
 

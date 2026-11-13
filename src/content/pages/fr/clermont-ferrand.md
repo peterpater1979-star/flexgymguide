@@ -157,7 +157,7 @@ Une petite offre, mais variée :
 - Ceux qui habitent entre Clermont-Ferrand et Cournon et veulent choisir le club le plus proche selon la journée
 - Ceux qui vont souvent à Lyon ou à Paris et veulent y réserver des cours avec les mêmes crédits
 
-[Voir les studios à Clermont-Ferrand sur ClassPass](/go/classpass-fr-clermont-ferrand/?epi=fgg-fr-clermont-ferrand)
+[Essaie ClassPass gratuitement et réserve des studios à Clermont-Ferrand.](/go/classpass-fr/?epi=fgg-fr-clermont-ferrand)
 
 À Clermont-Ferrand, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

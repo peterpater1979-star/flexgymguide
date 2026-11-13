@@ -55,12 +55,12 @@ Yoga chez Karène (Yoga Mala) boulevard Lech-Walesa et Pilates Reformer chez The
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Pilates](/go/classpass-fr-nice-pilates/?epi=fgg-fr-classpass-nice) :** entre autres A CASA FIT, Studio A, Panterra, Le Temple, Studio 52, All You Club, La Parenthèse, Define Studio, Jeydance Pilates et The New Me
+- **Pilates :** entre autres A CASA FIT, Studio A, Panterra, Le Temple, Studio 52, All You Club, La Parenthèse, Define Studio, Jeydance Pilates et The New Me
 - **Lagree :** entre autres Shakeen Studio, Pulse Effect, INHER Studio et My Time Coaching
-- **[Barre](/go/classpass-fr-nice-barre/?epi=fgg-fr-classpass-nice) :** entre autres All You Club
-- **[Yoga](/go/classpass-fr-nice-yoga/?epi=fgg-fr-classpass-nice) :** entre autres Yurvedik Yoga, InnerMove, Karène Yoga et Sopolendance
-- **[Cycling](/go/classpass-fr-nice-cycling/?epi=fgg-fr-classpass-nice) :** entre autres Amplify, LE LAB Cycling et La Parenthèse
-- **[HIIT et renforcement](/go/classpass-fr-nice-hiit/?epi=fgg-fr-classpass-nice) :** entre autres Oracless, Athlètes Fabrik, Raise Studio, A CASA FIT, LE LAB Cycling et Flexx Club
+- **Barre :** entre autres All You Club
+- **Yoga :** entre autres Yurvedik Yoga, InnerMove, Karène Yoga et Sopolendance
+- **Cycling :** entre autres Amplify, LE LAB Cycling et La Parenthèse
+- **HIIT et renforcement :** entre autres Oracless, Athlètes Fabrik, Raise Studio, A CASA FIT, LE LAB Cycling et Flexx Club
 - **Danse :** entre autres Sopolendance, Flexx Club et Jeydance Pilates
 - **Boxe :** entre autres Oracless et Le Temple
 
@@ -72,7 +72,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
 - Ton abonnement marche aussi à Cannes, à Antibes et dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Nice sur ClassPass.](/go/classpass-fr-nice/?epi=fgg-fr-classpass-nice)
+[Essaie ClassPass gratuitement et réserve des studios à Nice.](/go/classpass-fr/?epi=fgg-fr-classpass-nice)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-nice">Profitez de 10 séances gratuites en 14 jours</a>

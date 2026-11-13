@@ -48,12 +48,12 @@ BootCamp Outdoor trainiert an mehreren Orten: im Clara-Zetkin-Park, am Völkersc
 
 Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle Studios dafür bei ClassPass.
 
-- **[Pilates](/go/classpass-de-leipzig-pilates/?epi=fgg-de-classpass-leipzig):** unter anderem Pada Pilates, Spannkraft, Studio G14 und HOT YOGA LEIPZIG
-- **[Yoga](/go/classpass-de-leipzig-yoga/?epi=fgg-de-classpass-leipzig):** unter anderem Be Light Yoga, HOT YOGA LEIPZIG in der Lionstraße, jayayoga, Studio G14, Chamundi Yoga und Yoga Zauber
-- **[HIIT](/go/classpass-de-leipzig-hiit/?epi=fgg-de-classpass-leipzig):** unter anderem Fit Squad Gym und AURUM Fit
-- **[Bootcamp](/go/classpass-de-leipzig-bootcamp/?epi=fgg-de-classpass-leipzig):** unter anderem BootCamp, drinnen in der Zentralstraße und draußen in den Parks
-- **[Tanz](/go/classpass-de-leipzig-tanzen/?epi=fgg-de-classpass-leipzig):** unter anderem Pole Dance, Tanz und Akrobatik bei Delight Poledance &amp; Tanzstudio
-- **[Outdoor](/go/classpass-de-leipzig-outdoor/?epi=fgg-de-classpass-leipzig)** und **[Laufen](/go/classpass-de-leipzig-laufen/?epi=fgg-de-classpass-leipzig):** unter anderem BootCamp Outdoor im Clara-Zetkin-Park und am Völkerschlachtdenkmal und Be Light Yoga
+- **Pilates:** unter anderem Pada Pilates, Spannkraft, Studio G14 und HOT YOGA LEIPZIG
+- **Yoga:** unter anderem Be Light Yoga, HOT YOGA LEIPZIG in der Lionstraße, jayayoga, Studio G14, Chamundi Yoga und Yoga Zauber
+- **HIIT:** unter anderem Fit Squad Gym und AURUM Fit
+- **Bootcamp:** unter anderem BootCamp, drinnen in der Zentralstraße und draußen in den Parks
+- **Tanz:** unter anderem Pole Dance, Tanz und Akrobatik bei Delight Poledance &amp; Tanzstudio
+- **Outdoor** und **Laufen:** unter anderem BootCamp Outdoor im Clara-Zetkin-Park und am Völkerschlachtdenkmal und Be Light Yoga
 
 <h2 id="tipps">Tipps</h2>
 
@@ -63,7 +63,7 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 - Bei Hot Yoga trainierst du in einem warmen Raum. Nimm Wasser und ein Handtuch mit.
 - Dein Leipziger Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt, zum Beispiel in Berlin.
 
-[Sieh dir die Studios in Leipzig auf ClassPass an.](/go/classpass-de-leipzig/?epi=fgg-de-classpass-leipzig)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Leipzig.](/go/classpass-de/?epi=fgg-de-classpass-leipzig)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-leipzig">Teste 1 Monat gratis mit 10 Workouts</a>

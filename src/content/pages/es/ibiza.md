@@ -84,14 +84,14 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 Una oferta más pequeña, repartida por Eivissa ciudad y Marina Botafoch, y también en Sant Jordi, Puig d’en Valls y Sant Josep de sa Talaia. Una selección por deporte, entre otros:
 
-- **[Pilates y Lagree](/go/classpass-es-ibiza-pilates/?epi=fgg-es-ibiza)**: Lagree Society Ibiza frente al mar en Marina Botafoch y en Sant Jordi, Anaya Studio en el paseo Abel Matutes, DBalance Ibiza en la calle Cabrera, Pilates mat en Daya y Casa Club en Sant Josep de sa Talaia
-- **[Yoga](/go/classpass-es-ibiza-yoga/?epi=fgg-es-ibiza)**: AWA YOGA, un estudio de estilo japonés en el agroturismo Xereca en Puig d’en Valls, Anaya Studio y yoga nidra en Daya
-- **[Barre](/go/classpass-es-ibiza-barre/?epi=fgg-es-ibiza)**: Maison Barrelié en la calle Catalunya, junto al café Maison Savannah, y Anaya Studio
-- **[HIIT](/go/classpass-es-ibiza-hiit/?epi=fgg-es-ibiza)**: F45 Training en la calle Agapito Llobet, Beast Ibiza e IBIZA TRAINING BOUTIQUE (grupos reducidos con la máquina T.Former)
-- **[Bootcamp y fuerza](/go/classpass-es-ibiza-bootcamp/?epi=fgg-es-ibiza)**: BEN’S GYM IBIZA en la avenida 8 d’Agost, Beast Ibiza y Casa Club
-- También **[boxeo](/go/classpass-es-ibiza-boxeo/?epi=fgg-es-ibiza)** y **[baile](/go/classpass-es-ibiza-baile/?epi=fgg-es-ibiza)**
+- **Pilates y Lagree**: Lagree Society Ibiza frente al mar en Marina Botafoch y en Sant Jordi, Anaya Studio en el paseo Abel Matutes, DBalance Ibiza en la calle Cabrera, Pilates mat en Daya y Casa Club en Sant Josep de sa Talaia
+- **Yoga**: AWA YOGA, un estudio de estilo japonés en el agroturismo Xereca en Puig d’en Valls, Anaya Studio y yoga nidra en Daya
+- **Barre**: Maison Barrelié en la calle Catalunya, junto al café Maison Savannah, y Anaya Studio
+- **HIIT**: F45 Training en la calle Agapito Llobet, Beast Ibiza e IBIZA TRAINING BOUTIQUE (grupos reducidos con la máquina T.Former)
+- **Bootcamp y fuerza**: BEN’S GYM IBIZA en la avenida 8 d’Agost, Beast Ibiza y Casa Club
+- También **boxeo** y **baile**
 
-[Ver los estudios en Ibiza en ClassPass](/go/classpass-es-ibiza/?epi=fgg-es-ibiza)
+[Prueba ClassPass gratis y reserva estudios en Ibiza.](/go/classpass-es/?epi=fgg-es-ibiza)
 
 ### Ideal para
 

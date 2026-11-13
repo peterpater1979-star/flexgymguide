@@ -56,16 +56,16 @@ In Offenbach Pilates bei Motto Pilates, Yoga im Yogaladen, Pole Dance bei Pole a
 
 Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle Studios dafür bei ClassPass.
 
-- **[Pilates](/go/classpass-de-frankfurt-pilates/?epi=fgg-de-classpass-frankfurt):** unter anderem corelab, JULY BABY Pilates, novi studio, Sculpture, Classy Pilates, Lona Pilates Club, Pilates Twentyfour, Club Pilates, Pilatix, AIRE, Lumi und Rostudios (Roform)
-- **[Barre](/go/classpass-de-frankfurt-barre/?epi=fgg-de-classpass-frankfurt):** unter anderem Drops Barre, refine room und Pilates Infused
-- **[Yoga](/go/classpass-de-frankfurt-yoga/?epi=fgg-de-classpass-frankfurt):** unter anderem Yoga by Stephan Suh, Balance Yoga, Inside Yoga, YOGA LOFT, Dschungel Yoga, Shiva Yoga und Pankaj Yoga
-- **[HIIT](/go/classpass-de-frankfurt-hiit/?epi=fgg-de-classpass-frankfurt):** unter anderem Barry's, BURN BXNG, PAX Functional Sports Club und L1FE
-- **[Boxen](/go/classpass-de-frankfurt-boxen/?epi=fgg-de-classpass-frankfurt)** und **[Kampfsport](/go/classpass-de-frankfurt-kampfsport/?epi=fgg-de-classpass-frankfurt):** unter anderem No Limit Fitness, Fontana Klub, STRIKEFIT, Koi Gym und Evoque Boxing Club
-- **[Bootcamp und CrossFit](/go/classpass-de-frankfurt-bootcamp/?epi=fgg-de-classpass-frankfurt):** unter anderem CrossFit 069, FFM Crossfit und CrossFit MainBox
-- **[Indoor-Cycling](/go/classpass-de-frankfurt-cycling/?epi=fgg-de-classpass-frankfurt):** unter anderem CYCLETIC
-- **[Tanz](/go/classpass-de-frankfurt-tanzen/?epi=fgg-de-classpass-frankfurt):** unter anderem Groove Dance Classes, Momento Cubano, BollyStep und Chromotion Aerial Dance Studio
-- **[Laufen](/go/classpass-de-frankfurt-laufen/?epi=fgg-de-classpass-frankfurt)** und **[Outdoor](/go/classpass-de-frankfurt-outdoor/?epi=fgg-de-classpass-frankfurt):** unter anderem Lauftreffs im Lyoner Quartier und in Höchst und buggyFit, das Outdoor-Workout mit Baby, in mehreren Parks
-- **[Gym](/go/classpass-de-frankfurt-gym/?epi=fgg-de-classpass-frankfurt):** unter anderem Happy Fitness, das INJOY in Offenbach und EASYFITNESS in Mörfelden-Walldorf
+- **Pilates:** unter anderem corelab, JULY BABY Pilates, novi studio, Sculpture, Classy Pilates, Lona Pilates Club, Pilates Twentyfour, Club Pilates, Pilatix, AIRE, Lumi und Rostudios (Roform)
+- **Barre:** unter anderem Drops Barre, refine room und Pilates Infused
+- **Yoga:** unter anderem Yoga by Stephan Suh, Balance Yoga, Inside Yoga, YOGA LOFT, Dschungel Yoga, Shiva Yoga und Pankaj Yoga
+- **HIIT:** unter anderem Barry's, BURN BXNG, PAX Functional Sports Club und L1FE
+- **Boxen** und **Kampfsport:** unter anderem No Limit Fitness, Fontana Klub, STRIKEFIT, Koi Gym und Evoque Boxing Club
+- **Bootcamp und CrossFit:** unter anderem CrossFit 069, FFM Crossfit und CrossFit MainBox
+- **Indoor-Cycling:** unter anderem CYCLETIC
+- **Tanz:** unter anderem Groove Dance Classes, Momento Cubano, BollyStep und Chromotion Aerial Dance Studio
+- **Laufen** und **Outdoor:** unter anderem Lauftreffs im Lyoner Quartier und in Höchst und buggyFit, das Outdoor-Workout mit Baby, in mehreren Parks
+- **Gym:** unter anderem Happy Fitness, das INJOY in Offenbach und EASYFITNESS in Mörfelden-Walldorf
 
 <h3 id="tanz">Tanz in Frankfurt: welche Stile?</h3>
 
@@ -77,7 +77,7 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 | **Pole Dance** | Pole and Art in Offenbach |
 | **Weitere** | Momento Cubano in Bockenheim und Ashanti Dance |
 
-[Alle Tanzkurse in Frankfurt auf ClassPass ansehen.](/go/classpass-de-frankfurt-tanzen/?epi=fgg-de-classpass-frankfurt)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Tanzkurse in Frankfurt.](/go/classpass-de/?epi=fgg-de-classpass-frankfurt)
 
 <h2 id="tipps">Tipps</h2>
 
@@ -87,7 +87,7 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 - Manche Studios, etwa für Aerial Dance, verlangen eine Schnupperstunde oder Vorkenntnisse. Das steht in der Beschreibung des Studios.
 - Dein Frankfurter Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt.
 
-[Sieh dir die Studios in Frankfurt auf ClassPass an.](/go/classpass-de-frankfurt/?epi=fgg-de-classpass-frankfurt)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Frankfurt.](/go/classpass-de/?epi=fgg-de-classpass-frankfurt)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-frankfurt">Teste 1 Monat gratis mit 10 Workouts</a>

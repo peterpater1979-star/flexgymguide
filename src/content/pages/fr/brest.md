@@ -114,7 +114,7 @@ Une petite offre dans le centre :
 - Ceux qui veulent comparer deux studios de Reformer avant de choisir
 - Ceux qui vont souvent à Rennes, Nantes ou Paris et veulent y réserver d’autres sports avec les mêmes crédits
 
-[Voir les studios à Brest sur ClassPass](/go/classpass-fr-brest/?epi=fgg-fr-brest)
+[Essaie ClassPass gratuitement et réserve des studios à Brest.](/go/classpass-fr/?epi=fgg-fr-brest)
 
 À Brest, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

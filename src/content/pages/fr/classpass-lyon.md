@@ -63,16 +63,16 @@ Pilates chez Nous Studio et chez Allme, yoga et Pilates chez Yoga is now et chez
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Pilates et Lagree](/go/classpass-fr-lyon-pilates/?epi=fgg-fr-classpass-lyon) :** entre autres REFORME - Studio Lagree, The New Me, Casa Pilates, Inspire Pilates Studio, Derya Tuna Reformer, Pilates Social Club, ONZE, Noon club, Nous Studio et CL Pilates
-- **[Yoga](/go/classpass-fr-lyon-yoga/?epi=fgg-fr-classpass-lyon) :** entre autres FAUVES YOGA, OLYA, Flowlab, Yoga Korner, Onlyoga, Savasana Social Club, Yoga Escapade, Porteña Tango Yoga Studio, Yoga is now et Pandi Panda Yoga
-- **[Barre](/go/classpass-fr-lyon-barre/?epi=fgg-fr-classpass-lyon) :** entre autres Flowlab, O Yoga Studio, Elixir Studio et Gym Sports Loisirs Bellecour
-- **[HIIT](/go/classpass-fr-lyon-hiit/?epi=fgg-fr-classpass-lyon) :** entre autres Uniqe Club, AMFIT TIME, DRIP Lyon, Chevreul Sport, Last Round Boxing Gym, Swedish Fit et Studio Multifa
-- **[Bootcamp](/go/classpass-fr-lyon-bootcamp/?epi=fgg-fr-classpass-lyon) :** entre autres SHE IS FIT, Swedish Fit, NEKO, Savasana Social Club, XF Coaching Sportif et OXYTUDE Sport au parc Blandan
-- **[Cycling](/go/classpass-fr-lyon-cycling/?epi=fgg-fr-classpass-lyon) :** entre autres Beyond Cycling Studio rue Henri-IV
-- **[Boxe](/go/classpass-fr-lyon-boxe/?epi=fgg-fr-classpass-lyon) :** entre autres Le Cercle Boxing Lyon, Apollo Sporting Club, Last Round Boxing Gym, United Club, Renouveau Boxe et Uniqe Club
-- **[Danse](/go/classpass-fr-lyon-danse/?epi=fgg-fr-classpass-lyon) :** entre autres FAUVES YOGA, SHE IS FIT, Chevreul Sport, Yoga Escapade et Studio Multifa
+- **Pilates et Lagree :** entre autres REFORME - Studio Lagree, The New Me, Casa Pilates, Inspire Pilates Studio, Derya Tuna Reformer, Pilates Social Club, ONZE, Noon club, Nous Studio et CL Pilates
+- **Yoga :** entre autres FAUVES YOGA, OLYA, Flowlab, Yoga Korner, Onlyoga, Savasana Social Club, Yoga Escapade, Porteña Tango Yoga Studio, Yoga is now et Pandi Panda Yoga
+- **Barre :** entre autres Flowlab, O Yoga Studio, Elixir Studio et Gym Sports Loisirs Bellecour
+- **HIIT :** entre autres Uniqe Club, AMFIT TIME, DRIP Lyon, Chevreul Sport, Last Round Boxing Gym, Swedish Fit et Studio Multifa
+- **Bootcamp :** entre autres SHE IS FIT, Swedish Fit, NEKO, Savasana Social Club, XF Coaching Sportif et OXYTUDE Sport au parc Blandan
+- **Cycling :** entre autres Beyond Cycling Studio rue Henri-IV
+- **Boxe :** entre autres Le Cercle Boxing Lyon, Apollo Sporting Club, Last Round Boxing Gym, United Club, Renouveau Boxe et Uniqe Club
+- **Danse :** entre autres FAUVES YOGA, SHE IS FIT, Chevreul Sport, Yoga Escapade et Studio Multifa
 - **Natation :** entre autres des cours de natation chez Swim stars à Villeurbanne
-- **[Accès à la salle](/go/classpass-fr-lyon-salle/?epi=fgg-fr-classpass-lyon) :** entre autres L’Appart Fitness (une dizaine de clubs à Lyon et à Villeurbanne), Planète Fitness, Chevreul Sport, Swedish Fit, NEKO et Urban Tonic
+- **Accès à la salle :** entre autres L’Appart Fitness (une dizaine de clubs à Lyon et à Villeurbanne), Planète Fitness, Chevreul Sport, Swedish Fit, NEKO et Urban Tonic
 
 <h2 id="conseils">Conseils</h2>
 
@@ -81,7 +81,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - L’Appart Fitness a plusieurs clubs à Lyon : choisis bien le bon club au moment de réserver.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Lyon sur ClassPass.](/go/classpass-fr-lyon/?epi=fgg-fr-classpass-lyon)
+[Essaie ClassPass gratuitement et réserve des studios à Lyon.](/go/classpass-fr/?epi=fgg-fr-classpass-lyon)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-lyon">Profitez de 10 séances gratuites en 14 jours</a>

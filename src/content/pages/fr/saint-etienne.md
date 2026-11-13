@@ -127,7 +127,7 @@ Une petite offre, surtout du Pilates Reformer et des salles de sport :
 - Ceux qui veulent mélanger la salle et quelques cours de Reformer, sans deux abonnements
 - Ceux qui vont souvent à Lyon et veulent y réserver des cours avec les mêmes crédits
 
-[Voir les studios à Saint-Étienne sur ClassPass](/go/classpass-fr-saint-etienne/?epi=fgg-fr-saint-etienne)
+[Essaie ClassPass gratuitement et réserve des studios à Saint-Étienne.](/go/classpass-fr/?epi=fgg-fr-saint-etienne)
 
 À Saint-Étienne, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 
