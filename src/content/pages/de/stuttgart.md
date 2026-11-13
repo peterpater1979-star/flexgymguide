@@ -135,7 +135,7 @@ In Stuttgart liegen die meisten ClassPass-Studios im Westen, in der Mitte und im
 
 Ein gutes Angebot, vor allem im Stuttgarter Westen, in der Mitte und im Süden. Eine kleine Auswahl: Reformer-Pilates bei JUST Social Health Club, SPRING SOCIETY, Élysio, PILACHA und OHEMIA, Lagree bei Holistic House und Matten-Pilates bei U Pilates Hub. Dazu Yoga bei OM Yoga, Namotoyoga und YOGA13, Boxen bei SECRETBOXING, Functional Training beim FT-Club und HYROX-Training bei THE BACE.
 
-[Sieh dir die Studios in Stuttgart auf ClassPass an.](/go/classpass-de-stuttgart/?epi=fgg-de-stuttgart)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Stuttgart.](/go/classpass-de/?epi=fgg-de-stuttgart)
 
 [Alle Studios in Stuttgart nach Stadtbezirk und Sportart ansehen.](/de/classpass-stuttgart/)
 

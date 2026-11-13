@@ -63,19 +63,19 @@ TRIB3 en Joan Güell, entrenamiento en Serotonin Studio y en Heaven Studios en J
 
 Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte para ver todos los estudios en ClassPass.
 
-- **[Pilates](/go/classpass-es-barcelona-pilates/?epi=fgg-es-classpass-barcelona):** entre otros PILAT3S, Corehaus, Form Studio Pilates Club, MUDRA Pilates Reformer, Reform U, MOVE Pilates, Drip Hot Pilates Studio, Mou Pilates, Born to Move y CIRCL PROJECT
-- **[Barre](/go/classpass-es-barcelona-barre/?epi=fgg-es-classpass-barcelona):** entre otros The Barrefit Studio, Casa Barré, Concept Barre, Be Barre Barcelona, SHE Barre Studio, Élevé Barre Studio, B3B, Barre Room Studio y VICTAS (solo mujeres)
-- **[Yoga](/go/classpass-es-barcelona-yoga/?epi=fgg-es-classpass-barcelona):** entre otros Hotcore Studios, SABDA, Shanti Vida, Senda Studio, Sincronia Yoga, Tattva Yoga Studio, Soma Yoga Barcelona, YogaOne, Hara Yoga Studio y Casa Namaste
-- **[HIIT](/go/classpass-es-barcelona-hiit/?epi=fgg-es-classpass-barcelona):** entre otros Barry's, Lapso Studios, F45 Training, TRIB3, Iron Studios, Goodfit, HYBRD ACADEMY, BFT, Letsrise y Heaven Studios
-- **[Bootcamp](/go/classpass-es-barcelona-bootcamp/?epi=fgg-es-classpass-barcelona):** entre otros Ambia Lab, Casa Focco, Fabrik Training Club, CIRCL PROJECT, DJAM, Barrio Bravo y Kratos Calisthenics
-- **[Cycling](/go/classpass-es-barcelona-cycling/?epi=fgg-es-classpass-barcelona):** entre otros Lapso Studios, Stickman Ride, LoveCycle, Ambia Lab, Pulso Estudio Fitness, Amira training y Arda Studios
-- **[Boxeo](/go/classpass-es-barcelona-boxeo/?epi=fgg-es-classpass-barcelona):** entre otros COSMOFIT, Brooklyn Fitboxing, Troopers FitBoxing, RED CORNER, Legacy Fight Club, Barrio Bravo, Epic Kickboxing y Akaboxfit
-- **[Artes marciales](/go/classpass-es-barcelona-artes-marciales/?epi=fgg-es-classpass-barcelona):** entre otros Gullo Jiu-Jitsu, Anaconda Martial Arts Academy, Legends R Born, Jujitsuka, Escola Budo Sensei y Temple Martial Arts
-- **[Baile](/go/classpass-es-barcelona-baile/?epi=fgg-es-classpass-barcelona):** entre otros Dance Emotion, Pole Animals, Pole Dance Factory, Let's Fly, Acadèmia Dansa Alina Babayan, Leo Zunda Escuela de Danza y Teatro, Afrocaribe BCN y Barredance Barcelona
-- **[Running](/go/classpass-es-barcelona-running/?epi=fgg-es-classpass-barcelona):** entre otros Barry's, HYBRD ACADEMY, Fabrik Training Club, Prepnation, Activa Barcelona y montjuicwarriors
-- **[Remo y paddle surf](/go/classpass-es-barcelona-remo/?epi=fgg-es-classpass-barcelona):** entre otros MOANA Paddle Surf & Beach Activities
-- **[Al aire libre](/go/classpass-es-barcelona-aire-libre/?epi=fgg-es-classpass-barcelona):** entre otros SUP Yoga, Yoga by The Sea with Bodhi, Barcelona Beach House, STREETERCISE, EntrenArte Barcelona, FITBUDDY y Band&Build Squad
-- **[Acceso al gimnasio](/go/classpass-es-barcelona-gimnasio/?epi=fgg-es-classpass-barcelona):** entre otros COSMOFIT, TRIB3, Tabula Rasa Barcelona, STG Fitness Club, Mast Fitness, GreenFit, Energie Fitness Poblenou, Snap Fitness y los CEM municipales como OKEYMAS Parc de la Ciutadella
+- **Pilates:** entre otros PILAT3S, Corehaus, Form Studio Pilates Club, MUDRA Pilates Reformer, Reform U, MOVE Pilates, Drip Hot Pilates Studio, Mou Pilates, Born to Move y CIRCL PROJECT
+- **Barre:** entre otros The Barrefit Studio, Casa Barré, Concept Barre, Be Barre Barcelona, SHE Barre Studio, Élevé Barre Studio, B3B, Barre Room Studio y VICTAS (solo mujeres)
+- **Yoga:** entre otros Hotcore Studios, SABDA, Shanti Vida, Senda Studio, Sincronia Yoga, Tattva Yoga Studio, Soma Yoga Barcelona, YogaOne, Hara Yoga Studio y Casa Namaste
+- **HIIT:** entre otros Barry's, Lapso Studios, F45 Training, TRIB3, Iron Studios, Goodfit, HYBRD ACADEMY, BFT, Letsrise y Heaven Studios
+- **Bootcamp:** entre otros Ambia Lab, Casa Focco, Fabrik Training Club, CIRCL PROJECT, DJAM, Barrio Bravo y Kratos Calisthenics
+- **Cycling:** entre otros Lapso Studios, Stickman Ride, LoveCycle, Ambia Lab, Pulso Estudio Fitness, Amira training y Arda Studios
+- **Boxeo:** entre otros COSMOFIT, Brooklyn Fitboxing, Troopers FitBoxing, RED CORNER, Legacy Fight Club, Barrio Bravo, Epic Kickboxing y Akaboxfit
+- **Artes marciales:** entre otros Gullo Jiu-Jitsu, Anaconda Martial Arts Academy, Legends R Born, Jujitsuka, Escola Budo Sensei y Temple Martial Arts
+- **Baile:** entre otros Dance Emotion, Pole Animals, Pole Dance Factory, Let's Fly, Acadèmia Dansa Alina Babayan, Leo Zunda Escuela de Danza y Teatro, Afrocaribe BCN y Barredance Barcelona
+- **Running:** entre otros Barry's, HYBRD ACADEMY, Fabrik Training Club, Prepnation, Activa Barcelona y montjuicwarriors
+- **Remo y paddle surf:** entre otros MOANA Paddle Surf & Beach Activities
+- **Al aire libre:** entre otros SUP Yoga, Yoga by The Sea with Bodhi, Barcelona Beach House, STREETERCISE, EntrenArte Barcelona, FITBUDDY y Band&Build Squad
+- **Acceso al gimnasio:** entre otros COSMOFIT, TRIB3, Tabula Rasa Barcelona, STG Fitness Club, Mast Fitness, GreenFit, Energie Fitness Poblenou, Snap Fitness y los CEM municipales como OKEYMAS Parc de la Ciutadella
 
 <h2 id="consejos">Consejos</h2>
 
@@ -85,7 +85,7 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - Muchas clases en la playa dependen del tiempo. Mira bien el punto de encuentro al reservar.
 - Tu plan funciona también en otras ciudades de España y en el extranjero, allí donde haya ClassPass.
 
-[Ver los estudios de Barcelona en ClassPass.](/go/classpass-es-barcelona/?epi=fgg-es-classpass-barcelona)
+[Prueba ClassPass gratis y reserva estudios en Barcelona.](/go/classpass-es/?epi=fgg-es-classpass-barcelona)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass-barcelona">Prueba 10 sesiones gratis en 14 días</a>

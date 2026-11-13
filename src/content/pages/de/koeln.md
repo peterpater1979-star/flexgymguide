@@ -151,7 +151,7 @@ Ein gutes Angebot, vor allem im Belgischen Viertel, in der Innenstadt, in der S�
 
 [Alle Studios in Köln nach Veedel und Sportart ansehen.](/de/classpass-koeln/)
 
-[Sieh dir die Studios in Köln auf ClassPass an.](/go/classpass-de-koeln/?epi=fgg-de-koeln)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Köln.](/go/classpass-de/?epi=fgg-de-koeln)
 
 ### Das bekommst du
 

@@ -137,7 +137,7 @@ Ein großes Angebot, vor allem in der Innenstadt, im Westend, im Nordend, in Bor
 
 [Alle Studios in Frankfurt nach Stadtteil und Sportart ansehen.](/de/classpass-frankfurt/)
 
-[Sieh dir die Studios in Frankfurt auf ClassPass an.](/go/classpass-de-frankfurt/?epi=fgg-de-frankfurt)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Frankfurt.](/go/classpass-de/?epi=fgg-de-frankfurt)
 
 ### Das bekommst du
 

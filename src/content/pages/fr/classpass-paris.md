@@ -71,19 +71,19 @@ Fitboxing chez Brooklyn Fitboxing rue de la Convention, CrossFit Lutèce rue Cam
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Yoga](/go/classpass-fr-paris-yoga/?epi=fgg-fr-classpass-paris) :** entre autres jivamukti, Mama Yoga, Modo Yoga, Baba Yoga Club, RIISE, NOT YOGA, Rasa Yoga, Yoga Village, Bandha Yoga et The Space
-- **[Pilates et Lagree](/go/classpass-fr-paris-pilates/?epi=fgg-fr-classpass-paris) :** entre autres DNA Pilates, KORE, Lagreeness, Silo Lagree Studio, EVOCORE Lagree Studio, Method Lagree Studio, Reformation, Snake & Twist et Social Reformers
-- **[Barre](/go/classpass-fr-paris-barre/?epi=fgg-fr-classpass-paris) :** entre autres Kalon, POSES, BarreShape, Hera Club et Fit’Ballet
-- **[HIIT](/go/classpass-fr-paris-hiit/?epi=fgg-fr-classpass-paris) :** entre autres RITM, Barry’s Bootcamp, KAH Studio, KURV Studio, DRIP et Punch Studios
-- **[Bootcamp](/go/classpass-fr-paris-bootcamp/?epi=fgg-fr-classpass-paris) :** entre autres BOLD Sport Studio, EPISOD, SORE, Le Hyve et OUT SPORTS CLUB
-- **[Cycling](/go/classpass-fr-paris-cycling/?epi=fgg-fr-classpass-paris) :** entre autres Dynamo Cycling, Summit Cycle, SPACE CYCLE et EPISOD, plus l’aquabike chez Aqua by
-- **[Rameur](/go/classpass-fr-paris-rowing/?epi=fgg-fr-classpass-paris) :** entre autres Spark Club, Zones Sport Studio et CrossFit Lutèce
-- **[Boxe](/go/classpass-fr-paris-boxe/?epi=fgg-fr-classpass-paris) :** entre autres Le Cercle Boxing, Apollo Sporting Club, Punch Studios, Brooklyn Fitboxing et Le Loft Boxing
-- **[Arts martiaux](/go/classpass-fr-paris-arts-martiaux/?epi=fgg-fr-classpass-paris) :** entre autres Krav Maga Paris, Free Fight Academy, France Muay-Thai, Paris Boxing Club et HI KICK
-- **[Danse](/go/classpass-fr-paris-danse/?epi=fgg-fr-classpass-paris) :** entre autres Fit’Ballet, Wild Pole Studio, SalsAlianza, DECIBEL, Pole Dance Paris et Vingtième Danse
-- **[Running](/go/classpass-fr-paris-running/?epi=fgg-fr-classpass-paris) :** entre autres The Runship, avec des points de départ aux Champs-Élysées et avenue de Suffren
-- **[En plein air](/go/classpass-fr-paris-outdoor/?epi=fgg-fr-classpass-paris) :** entre autres The Outdoor Club, Pilates Garden boulevard Kellermann et Flag Training
-- **[Accès à la salle](/go/classpass-fr-paris-salle/?epi=fgg-fr-classpass-paris) :** entre autres RITM aux Champs-Élysées et à Saint-Germain, Fitness Park à Courbevoie, Keepcool à Puteaux, Gigafit à Paris, R2 Training à Vendôme et à Bastille, Club Maillot, easyGym à Palais-Royal et sur les Grands Boulevards, L’Appart Fitness dans le 13e, le 18e et le 19e, Magic Form dans le 12e et le 14e, GymPark à Bercy et Gigafit dans le 18e
+- **Yoga :** entre autres jivamukti, Mama Yoga, Modo Yoga, Baba Yoga Club, RIISE, NOT YOGA, Rasa Yoga, Yoga Village, Bandha Yoga et The Space
+- **Pilates et Lagree :** entre autres DNA Pilates, KORE, Lagreeness, Silo Lagree Studio, EVOCORE Lagree Studio, Method Lagree Studio, Reformation, Snake & Twist et Social Reformers
+- **Barre :** entre autres Kalon, POSES, BarreShape, Hera Club et Fit’Ballet
+- **HIIT :** entre autres RITM, Barry’s Bootcamp, KAH Studio, KURV Studio, DRIP et Punch Studios
+- **Bootcamp :** entre autres BOLD Sport Studio, EPISOD, SORE, Le Hyve et OUT SPORTS CLUB
+- **Cycling :** entre autres Dynamo Cycling, Summit Cycle, SPACE CYCLE et EPISOD, plus l’aquabike chez Aqua by
+- **Rameur :** entre autres Spark Club, Zones Sport Studio et CrossFit Lutèce
+- **Boxe :** entre autres Le Cercle Boxing, Apollo Sporting Club, Punch Studios, Brooklyn Fitboxing et Le Loft Boxing
+- **Arts martiaux :** entre autres Krav Maga Paris, Free Fight Academy, France Muay-Thai, Paris Boxing Club et HI KICK
+- **Danse :** entre autres Fit’Ballet, Wild Pole Studio, SalsAlianza, DECIBEL, Pole Dance Paris et Vingtième Danse
+- **Running :** entre autres The Runship, avec des points de départ aux Champs-Élysées et avenue de Suffren
+- **En plein air :** entre autres The Outdoor Club, Pilates Garden boulevard Kellermann et Flag Training
+- **Accès à la salle :** entre autres RITM aux Champs-Élysées et à Saint-Germain, Fitness Park à Courbevoie, Keepcool à Puteaux, Gigafit à Paris, R2 Training à Vendôme et à Bastille, Club Maillot, easyGym à Palais-Royal et sur les Grands Boulevards, L’Appart Fitness dans le 13e, le 18e et le 19e, Magic Form dans le 12e et le 14e, GymPark à Bercy et Gigafit dans le 18e
 
 <h2 id="conseils">Conseils</h2>
 
@@ -92,7 +92,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - Beaucoup de studios ont plusieurs adresses dans Paris. Regarde bien l’adresse au moment de réserver.
 - Ton abonnement parisien marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Paris sur ClassPass.](/go/classpass-fr-paris/?epi=fgg-fr-classpass-paris)
+[Essaie ClassPass gratuitement et réserve des studios à Paris.](/go/classpass-fr/?epi=fgg-fr-classpass-paris)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-paris">Profitez de 10 séances gratuites en 14 jours</a>

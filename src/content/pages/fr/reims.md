@@ -91,13 +91,13 @@ Près de Reims, ON AIR a un club à Cormontreuil. Essential coûte 31,96 €, Or
 
 Surtout dans le centre, autour de la cathédrale et du boulevard Lundy, et aussi à Tinqueux et Cormontreuil. Une sélection par sport, entre autres :
 
-- **[Pilates](/go/classpass-fr-reims-pilates/?epi=fgg-fr-reims)** : Pilates Reformer chez The Core Studio passage Talleyrand et boulevard Lundy, chez The New Me rue du Clou-dans-le-Fer et chez Killtraining rue Diderot, et Pilates chez L’inspiration
-- **[Yoga](/go/classpass-fr-reims-yoga/?epi=fgg-fr-reims)** : L’inspiration rue du Colonel-Fabien
-- **[HIIT](/go/classpass-fr-reims-hiit/?epi=fgg-fr-reims)** et **[renforcement](/go/classpass-fr-reims-bootcamp/?epi=fgg-fr-reims)** : Doum Studio rue Flodoart, Killtraining (circuit training et TRX) et Le Cercle à Tinqueux
-- **[Boxe](/go/classpass-fr-reims-boxe/?epi=fgg-fr-reims)** et **[arts martiaux](/go/classpass-fr-reims-arts-martiaux/?epi=fgg-fr-reims)** : OLYMPE rue du Colonel-Charbonneaux et Ringside Arena à Cormontreuil
-- **[Accès à la salle](/go/classpass-fr-reims-salle/?epi=fgg-fr-reims)** : GYM K rue de Courcelles et rue Gabriel-Voisin, avec cours collectifs, et Le Cercle à Tinqueux
+- **Pilates** : Pilates Reformer chez The Core Studio passage Talleyrand et boulevard Lundy, chez The New Me rue du Clou-dans-le-Fer et chez Killtraining rue Diderot, et Pilates chez L’inspiration
+- **Yoga** : L’inspiration rue du Colonel-Fabien
+- **HIIT** et **renforcement** : Doum Studio rue Flodoart, Killtraining (circuit training et TRX) et Le Cercle à Tinqueux
+- **Boxe** et **arts martiaux** : OLYMPE rue du Colonel-Charbonneaux et Ringside Arena à Cormontreuil
+- **Accès à la salle** : GYM K rue de Courcelles et rue Gabriel-Voisin, avec cours collectifs, et Le Cercle à Tinqueux
 
-[Voir les studios à Reims sur ClassPass](/go/classpass-fr-reims/?epi=fgg-fr-reims)
+[Essaie ClassPass gratuitement et réserve des studios à Reims.](/go/classpass-fr/?epi=fgg-fr-reims)
 
 ### Bon pour
 

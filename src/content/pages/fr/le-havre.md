@@ -127,7 +127,7 @@ Une petite offre dans le centre, surtout du Pilates Reformer :
 - Ceux qui combinent une salle classique avec quelques cours par mois
 - Ceux qui vont souvent à Rouen ou à Paris et veulent y réserver des cours avec les mêmes crédits
 
-[Voir les studios au Havre sur ClassPass](/go/classpass-fr-le-havre/?epi=fgg-fr-le-havre)
+[Essaie ClassPass gratuitement et réserve des studios au Havre.](/go/classpass-fr/?epi=fgg-fr-le-havre)
 
 Au Havre, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

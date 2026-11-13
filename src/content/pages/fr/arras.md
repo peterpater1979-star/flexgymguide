@@ -94,7 +94,7 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 
 Une petite offre : Studio Pilates Arras (rue Émile Legrelle), avec des cours de Pilates pour tous les niveaux.
 
-[Voir les studios à Arras sur ClassPass](/go/classpass-fr-arras/?epi=fgg-fr-arras)
+[Essaie ClassPass gratuitement et réserve des studios à Arras.](/go/classpass-fr/?epi=fgg-fr-arras)
 
 ### Bon pour
 

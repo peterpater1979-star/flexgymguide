@@ -101,7 +101,7 @@ Surtout dans le centre et aux Docks 76, avec par sport :
 - Ceux qui veulent mélanger une grande salle et des cours de Pilates Reformer avec un seul abonnement
 - Ceux qui vont souvent à Paris ou au Havre et veulent y réserver des cours avec les mêmes crédits
 
-[Voir les studios à Rouen sur ClassPass](/go/classpass-fr-rouen/?epi=fgg-fr-rouen)
+[Essaie ClassPass gratuitement et réserve des studios à Rouen.](/go/classpass-fr/?epi=fgg-fr-rouen)
 
 À Rouen, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

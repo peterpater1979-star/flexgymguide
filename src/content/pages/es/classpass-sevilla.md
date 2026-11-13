@@ -32,14 +32,14 @@ En Sevilla tienes con ClassPass estudios por toda la ciudad, sobre todo de Pilat
 
 Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte para ver todos los estudios en ClassPass.
 
-- **[Pilates](/go/classpass-es-sevilla-pilates/?epi=fgg-es-classpass-sevilla)**: Flow Training en la calle Enramadilla, en Los Remedios, en Tomares, en Gines y en Alcalá de Guadaíra, Pilatísimo Studio, EnForma Pilates cerca de Gran Plaza y Art in Movement en Triana
-- **[Yoga](/go/classpass-es-sevilla-yoga/?epi=fgg-es-classpass-sevilla)**: yuj es yoga junto a San Bernardo, The Paradise Yoga, Studio Keep Moving, Viba Estudio, Sannu Fisioterapia & Yoga en el Casco Antiguo, Rocío Luque Yoga y Suryiananda Yoga en Alcalá de Guadaíra
-- **[Barre](/go/classpass-es-sevilla-barre/?epi=fgg-es-classpass-sevilla)**: Klúb Barre (solo mujeres) y Viba Estudio
-- **[HIIT](/go/classpass-es-sevilla-hiit/?epi=fgg-es-classpass-sevilla)** y **[bootcamp](/go/classpass-es-sevilla-bootcamp/?epi=fgg-es-classpass-sevilla)**: F45 Training en San Bernardo, Duna Training Club, R3Entrenamiento, Ristori Centro de Entrenamiento, el crosstraining de Impulso Trainning, Ritmo Sevilla y FDZ Funcional
-- **[Boxeo](/go/classpass-es-sevilla-boxeo/?epi=fgg-es-classpass-sevilla)**: fitbox en Hook Fitbox Republica en Triana, Hook Fitbox Club y SBM fit&box
-- **[Baile](/go/classpass-es-sevilla-baile/?epi=fgg-es-classpass-sevilla)**: Art in Movement en Triana
-- **[Gimnasio](/go/classpass-es-sevilla-gimnasio/?epi=fgg-es-classpass-sevilla)**: FDZ Funcional
-- También **[al aire libre](/go/classpass-es-sevilla-aire-libre/?epi=fgg-es-classpass-sevilla)** y **[running](/go/classpass-es-sevilla-running/?epi=fgg-es-classpass-sevilla)**
+- **Pilates**: Flow Training en la calle Enramadilla, en Los Remedios, en Tomares, en Gines y en Alcalá de Guadaíra, Pilatísimo Studio, EnForma Pilates cerca de Gran Plaza y Art in Movement en Triana
+- **Yoga**: yuj es yoga junto a San Bernardo, The Paradise Yoga, Studio Keep Moving, Viba Estudio, Sannu Fisioterapia & Yoga en el Casco Antiguo, Rocío Luque Yoga y Suryiananda Yoga en Alcalá de Guadaíra
+- **Barre**: Klúb Barre (solo mujeres) y Viba Estudio
+- **HIIT** y **bootcamp**: F45 Training en San Bernardo, Duna Training Club, R3Entrenamiento, Ristori Centro de Entrenamiento, el crosstraining de Impulso Trainning, Ritmo Sevilla y FDZ Funcional
+- **Boxeo**: fitbox en Hook Fitbox Republica en Triana, Hook Fitbox Club y SBM fit&box
+- **Baile**: Art in Movement en Triana
+- **Gimnasio**: FDZ Funcional
+- También **al aire libre** y **running**
 
 <h2 id="consejos">Consejos</h2>
 
@@ -49,7 +49,7 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - Algunos estudios tienen varios centros en Sevilla o alrededores: elige bien el centro al reservar.
 - Tu plan funciona también en otras ciudades de España y en el extranjero, allí donde haya ClassPass.
 
-[Ver los estudios de Sevilla en ClassPass.](/go/classpass-es-sevilla/?epi=fgg-es-classpass-sevilla)
+[Prueba ClassPass gratis y reserva estudios en Sevilla.](/go/classpass-es/?epi=fgg-es-classpass-sevilla)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass-sevilla">Prueba 10 sesiones gratis en 14 días</a>

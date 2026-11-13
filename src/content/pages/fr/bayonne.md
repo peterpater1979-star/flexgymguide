@@ -93,7 +93,7 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 
 En ville, AOC Yoga (rue de Gramont, yoga en français et en anglais). L’essentiel de l’offre est à Biarritz, à 10 minutes : YOGANG (yoga, aussi en version chaude, et Pilates), AOC Yoga, Maison Sportive (Pilates), QG Boxing Gym (cardio-boxing) et le club premium Mouvement (musculation, natation). À Anglet, L’Escale Electrofit propose de l’électrostimulation.
 
-[Voir les studios à Bayonne sur ClassPass](/go/classpass-fr-bayonne/?epi=fgg-fr-bayonne)
+[Essaie ClassPass gratuitement et réserve des studios à Bayonne.](/go/classpass-fr/?epi=fgg-fr-bayonne)
 
 ### Bon pour
 

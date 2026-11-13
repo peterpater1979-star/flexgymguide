@@ -119,7 +119,7 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 Une belle offre dans le centre, surtout autour de l’avenue du Parmelan : Pilates Reformer chez The New Me, Lagree chez Moon, yoga et Pilates dans la pénombre chez RIISE et indoor cycling chez Dynamo Cycling. Aussi be. et BFS Studio (Pilates, yoga), ReActivCare (Pilates, aussi postnatal) et, à Argonay, le BootCamp d’Eclips (course et renforcement).
 
-[Voir les studios à Annecy sur ClassPass](/go/classpass-fr-annecy/?epi=fgg-fr-annecy)
+[Essaie ClassPass gratuitement et réserve des studios à Annecy.](/go/classpass-fr/?epi=fgg-fr-annecy)
 
 À Annecy, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

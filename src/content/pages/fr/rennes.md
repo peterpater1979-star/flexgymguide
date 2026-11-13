@@ -133,13 +133,13 @@ Près de Rennes, ON AIR a un club à Saint-Grégoire. Essential coûte 31,96 €
 
 Surtout dans le centre (Victor-Hugo, Jean-Janvier, Tour-d’Auvergne, Laennec), et aussi à Cesson-Sévigné, où l’on trouve même des cours de natation. Une sélection par sport, entre autres :
 
-- **[Pilates](/go/classpass-fr-rennes-pilates/?epi=fgg-fr-rennes)** : Pilates Reformer chez The New Me avenue Jean-Janvier et chez Toda Studio rue Victor-Hugo (avec un healthy bar), et aussi Cambre Studio rue Beaumanoir
-- **[Yoga](/go/classpass-fr-rennes-yoga/?epi=fgg-fr-rennes)** et **[barre](/go/classpass-fr-rennes-barre/?epi=fgg-fr-rennes)** : Cambre Studio, dans un appartement lumineux rue Beaumanoir
-- **[Renforcement et bootcamp](/go/classpass-fr-rennes-bootcamp/?epi=fgg-fr-rennes)** : Jomo Studio boulevard de la Tour-d’Auvergne (bootcamp de 50 minutes, cardio et renforcement)
-- **[Accès à la salle](/go/classpass-fr-rennes-salle/?epi=fgg-fr-rennes)** : Phenix by ergo boulevard René-Laennec et Ethik Sport Club à Cesson-Sévigné
-- **[HIIT](/go/classpass-fr-rennes-hiit/?epi=fgg-fr-rennes)** et **[boxe](/go/classpass-fr-rennes-boxe/?epi=fgg-fr-rennes)** : à voir selon les créneaux du moment
+- **Pilates** : Pilates Reformer chez The New Me avenue Jean-Janvier et chez Toda Studio rue Victor-Hugo (avec un healthy bar), et aussi Cambre Studio rue Beaumanoir
+- **Yoga** et **barre** : Cambre Studio, dans un appartement lumineux rue Beaumanoir
+- **Renforcement et bootcamp** : Jomo Studio boulevard de la Tour-d’Auvergne (bootcamp de 50 minutes, cardio et renforcement)
+- **Accès à la salle** : Phenix by ergo boulevard René-Laennec et Ethik Sport Club à Cesson-Sévigné
+- **HIIT** et **boxe** : à voir selon les créneaux du moment
 
-[Voir les studios à Rennes sur ClassPass](/go/classpass-fr-rennes/?epi=fgg-fr-rennes)
+[Essaie ClassPass gratuitement et réserve des studios à Rennes.](/go/classpass-fr/?epi=fgg-fr-rennes)
 
 À Rennes, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

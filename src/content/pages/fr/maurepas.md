@@ -52,7 +52,7 @@ Des cours et des séances en salle avec un seul abonnement à crédits.
 
 Pas de studio à Maurepas même, mais du Pilates Reformer tout près : Motiō Saint-Quentin-en-Yvelines à Trappes (tous niveaux), et au Mesnil-Saint-Denis StudioDMN (8 personnes maximum) et Le Reformer by LK (5 personnes maximum).
 
-[Voir les studios autour de Maurepas sur ClassPass](/go/classpass-fr-maurepas/?epi=fgg-fr-maurepas)
+[Essaie ClassPass gratuitement et réserve des studios autour de Maurepas.](/go/classpass-fr/?epi=fgg-fr-maurepas)
 
 ### Bon pour
 

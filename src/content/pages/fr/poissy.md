@@ -65,7 +65,7 @@ Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios 
 
 Pas de studio à Poissy même, mais deux adresses tout près : L’Appart Fitness à Orgeval (salle de sport en accès libre, appareils Technogym et Matrix) et The New Me à Saint-Germain-en-Laye (place du Marché Neuf), studio de Pilates Reformer avec café.
 
-[Voir les studios autour de Poissy sur ClassPass](/go/classpass-fr-poissy/?epi=fgg-fr-poissy)
+[Essaie ClassPass gratuitement et réserve des studios autour de Poissy.](/go/classpass-fr/?epi=fgg-fr-poissy)
 
 ### Bon pour
 

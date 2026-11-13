@@ -59,18 +59,18 @@ Pilates et yoga chez Maison Fitzen avenue de la République, HIIT, Pilates et cy
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Pilates et Lagree](/go/classpass-fr-bordeaux-pilates/?epi=fgg-fr-classpass-bordeaux) :** entre autres Lagree Lab, Sculpt Pilates Reformer, Black Milk, Define Studio, Soda Studio, Pilates Park et Maison KLA
-- **[Yoga](/go/classpass-fr-bordeaux-yoga/?epi=fgg-fr-classpass-bordeaux) :** entre autres Yoga Pop, Yoon Studio, Bikram Yoga Bordeaux, RIISE, Satnam Club, Nalynn Yoga, YOW Yoga et Bivouac Darwin
-- **[Barre](/go/classpass-fr-bordeaux-barre/?epi=fgg-fr-classpass-bordeaux) :** entre autres Oxxy Club, The Sport Society et Maison Fitzen
-- **[HIIT](/go/classpass-fr-bordeaux-hiit/?epi=fgg-fr-classpass-bordeaux) :** entre autres Method Training, Oxxy Club, Swedish Fit, Lemon Twist Social Club et La Bulle d O
-- **[Bootcamp](/go/classpass-fr-bordeaux-bootcamp/?epi=fgg-fr-classpass-bordeaux) :** entre autres Blast Studio, Le Spot Fitness Club, Calvin and Lane, Crossfit 3 moons et EXPERT SPORTIF
-- **[Cycling](/go/classpass-fr-bordeaux-cycling/?epi=fgg-fr-classpass-bordeaux) :** entre autres Dynamo Cycling, Balancelab.co et La Bulle d O
-- **[Boxe](/go/classpass-fr-bordeaux-boxe/?epi=fgg-fr-classpass-bordeaux) :** entre autres NOW BOXING STUDIO, Battling Club Bordeaux, Blast Studio et The Sport Society
-- **[Arts martiaux](/go/classpass-fr-bordeaux-arts-martiaux/?epi=fgg-fr-classpass-bordeaux) :** entre autres Square Gym
-- **[Danse](/go/classpass-fr-bordeaux-danse/?epi=fgg-fr-classpass-bordeaux) :** entre autres Satnam Club, Lemon Twist Social Club, Oxxy Club et L’Art et Fact Studio
-- **[Running](/go/classpass-fr-bordeaux-running/?epi=fgg-fr-classpass-bordeaux) :** entre autres Method Training
-- **[En plein air](/go/classpass-fr-bordeaux-outdoor/?epi=fgg-fr-classpass-bordeaux) :** entre autres EXPERT SPORTIF aux Bassins à flot et YogaTravelers
-- **[Accès à la salle](/go/classpass-fr-bordeaux-salle/?epi=fgg-fr-classpass-bordeaux) :** entre autres Square Gym, Crossfit 3 moons et O‑ZONE
+- **Pilates et Lagree :** entre autres Lagree Lab, Sculpt Pilates Reformer, Black Milk, Define Studio, Soda Studio, Pilates Park et Maison KLA
+- **Yoga :** entre autres Yoga Pop, Yoon Studio, Bikram Yoga Bordeaux, RIISE, Satnam Club, Nalynn Yoga, YOW Yoga et Bivouac Darwin
+- **Barre :** entre autres Oxxy Club, The Sport Society et Maison Fitzen
+- **HIIT :** entre autres Method Training, Oxxy Club, Swedish Fit, Lemon Twist Social Club et La Bulle d O
+- **Bootcamp :** entre autres Blast Studio, Le Spot Fitness Club, Calvin and Lane, Crossfit 3 moons et EXPERT SPORTIF
+- **Cycling :** entre autres Dynamo Cycling, Balancelab.co et La Bulle d O
+- **Boxe :** entre autres NOW BOXING STUDIO, Battling Club Bordeaux, Blast Studio et The Sport Society
+- **Arts martiaux :** entre autres Square Gym
+- **Danse :** entre autres Satnam Club, Lemon Twist Social Club, Oxxy Club et L’Art et Fact Studio
+- **Running :** entre autres Method Training
+- **En plein air :** entre autres EXPERT SPORTIF aux Bassins à flot et YogaTravelers
+- **Accès à la salle :** entre autres Square Gym, Crossfit 3 moons et O‑ZONE
 
 <h2 id="conseils">Conseils</h2>
 
@@ -78,7 +78,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Bordeaux sur ClassPass.](/go/classpass-fr-bordeaux/?epi=fgg-fr-classpass-bordeaux)
+[Essaie ClassPass gratuitement et réserve des studios à Bordeaux.](/go/classpass-fr/?epi=fgg-fr-classpass-bordeaux)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-bordeaux">Profitez de 10 séances gratuites en 14 jours</a>

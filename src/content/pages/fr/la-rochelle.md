@@ -79,7 +79,7 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 Une petite offre : Iron Bodyfit La Rochelle (avenue de la Porte Royale), séances d’électrostimulation avec un coach.
 
-[Voir les studios à La Rochelle sur ClassPass](/go/classpass-fr-la-rochelle/?epi=fgg-fr-la-rochelle)
+[Essaie ClassPass gratuitement et réserve des studios à La Rochelle.](/go/classpass-fr/?epi=fgg-fr-la-rochelle)
 
 ### Bon pour
 

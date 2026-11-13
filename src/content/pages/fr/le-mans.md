@@ -142,7 +142,7 @@ Une petite offre, avec deux styles bien différents :
 - Ceux qui veulent tester le CrossFit ou le Reformer avant de s’inscrire dans un club
 - Ceux qui vont souvent à Paris, Angers ou Tours et veulent y réserver des cours avec les mêmes crédits
 
-[Voir les studios au Mans sur ClassPass](/go/classpass-fr-le-mans/?epi=fgg-fr-le-mans)
+[Essaie ClassPass gratuitement et réserve des studios au Mans.](/go/classpass-fr/?epi=fgg-fr-le-mans)
 
 Au Mans, l’abonnement standard coûte 59 € par mois pour 37 crédits, et tu peux d’abord essayer 14 jours gratuitement avec 10 séances. Le fonctionnement des crédits est expliqué dans [Tout sur ClassPass](/fr/classpass/).
 

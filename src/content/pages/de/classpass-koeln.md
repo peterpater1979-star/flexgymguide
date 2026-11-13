@@ -60,15 +60,15 @@ Boxen und Kampfsport bei den Cologne Scorpions in Kalk und Mülheim, Tanz an der
 
 Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle Studios dafür bei ClassPass.
 
-- **[Barre](/go/classpass-de-koeln-barre/?epi=fgg-de-classpass-koeln):** unter anderem GlowBarre, JuunStudios, Drops Barre, barrespiration und Reholist
-- **[Pilates](/go/classpass-de-koeln-pilates/?epi=fgg-de-classpass-koeln):** unter anderem Rostudios (Roform), Reholist, Eos Club, Studio.five Oh, Yoga Liebe und Reform &amp; Perform in Troisdorf
-- **[Yoga](/go/classpass-de-koeln-yoga/?epi=fgg-de-classpass-koeln):** unter anderem Yoga Liebe, 50:70 Studio, Marami Studio, Agentur Shanti, ZenYoga, I'm possible Yoga und Yogadrop
-- **[Indoor-Cycling](/go/classpass-de-koeln-cycling/?epi=fgg-de-classpass-koeln):** unter anderem Rocycle von Rostudios und BEAT81 RIDE in Sülz, Nippes und am Zülpicher Platz
-- **[HIIT](/go/classpass-de-koeln-hiit/?epi=fgg-de-classpass-koeln):** unter anderem BEAT81, NOCH 3 und BLACK BOX ATHLETICS
-- **[Bootcamp](/go/classpass-de-koeln-bootcamp/?epi=fgg-de-classpass-koeln):** unter anderem STORM Bootcamp, Bootbox und Dein Trainingslager
-- **[Boxen](/go/classpass-de-koeln-boxen/?epi=fgg-de-classpass-koeln)** und **[Kampfsport](/go/classpass-de-koeln-kampfsport/?epi=fgg-de-classpass-koeln):** unter anderem CAGE MMA Cologne (MMA, BJJ, Kickboxen), Cologne Scorpions, MAINDO und Tai Chi bei Filip Gutknecht
-- **[Outdoor](/go/classpass-de-koeln-outdoor/?epi=fgg-de-classpass-koeln)** und **[Laufen](/go/classpass-de-koeln-laufen/?epi=fgg-de-classpass-koeln):** unter anderem Parkletix, Fit mit Sven, BEAT81 OUTDOOR im Rheinauhafen, RunCrewCologne und für Mamas buggyFit und Laufmamalauf
-- **[Gym](/go/classpass-de-koeln-gym/?epi=fgg-de-classpass-koeln):** unter anderem all inclusive Fitness in Sülz, Ossendorf, Poll und Porz und das Fitklusiv in Leverkusen
+- **Barre:** unter anderem GlowBarre, JuunStudios, Drops Barre, barrespiration und Reholist
+- **Pilates:** unter anderem Rostudios (Roform), Reholist, Eos Club, Studio.five Oh, Yoga Liebe und Reform &amp; Perform in Troisdorf
+- **Yoga:** unter anderem Yoga Liebe, 50:70 Studio, Marami Studio, Agentur Shanti, ZenYoga, I'm possible Yoga und Yogadrop
+- **Indoor-Cycling:** unter anderem Rocycle von Rostudios und BEAT81 RIDE in Sülz, Nippes und am Zülpicher Platz
+- **HIIT:** unter anderem BEAT81, NOCH 3 und BLACK BOX ATHLETICS
+- **Bootcamp:** unter anderem STORM Bootcamp, Bootbox und Dein Trainingslager
+- **Boxen** und **Kampfsport:** unter anderem CAGE MMA Cologne (MMA, BJJ, Kickboxen), Cologne Scorpions, MAINDO und Tai Chi bei Filip Gutknecht
+- **Outdoor** und **Laufen:** unter anderem Parkletix, Fit mit Sven, BEAT81 OUTDOOR im Rheinauhafen, RunCrewCologne und für Mamas buggyFit und Laufmamalauf
+- **Gym:** unter anderem all inclusive Fitness in Sülz, Ossendorf, Poll und Porz und das Fitklusiv in Leverkusen
 
 <h3 id="tanz">Tanz in Köln: welche Stile?</h3>
 
@@ -83,7 +83,7 @@ Tanzen ist in Köln eine eigene Welt auf ClassPass. Eine Auswahl der Stile:
 | **Pole Dance und Aerial** | SweatnDance in der Innenstadt und der Südstadt, One8dance in Bergisch Gladbach |
 | **Capoeira** | ON POINT am Barbarossaplatz |
 
-[Alle Tanzkurse in Köln auf ClassPass ansehen.](/go/classpass-de-koeln-tanzen/?epi=fgg-de-classpass-koeln)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Tanzkurse in Köln.](/go/classpass-de/?epi=fgg-de-classpass-koeln)
 
 <h2 id="tipps">Tipps</h2>
 
@@ -93,7 +93,7 @@ Tanzen ist in Köln eine eigene Welt auf ClassPass. Eine Auswahl der Stile:
 - Outdoor-Kurse im Stadtwald, im Grüngürtel und im Mediapark finden bei fast jedem Wetter statt.
 - Dein Kölner Abo gilt auch in anderen Städten in Deutschland und im Ausland, überall dort, wo es ClassPass gibt.
 
-[Sieh dir die Studios in Köln auf ClassPass an.](/go/classpass-de-koeln/?epi=fgg-de-classpass-koeln)
+[Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Studios in Köln.](/go/classpass-de/?epi=fgg-de-classpass-koeln)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-koeln">Teste 1 Monat gratis mit 10 Workouts</a>

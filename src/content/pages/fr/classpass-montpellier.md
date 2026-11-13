@@ -52,13 +52,13 @@ Pilates et yoga chez Le Club dans le complexe Moov à Lattes, Pilates et renforc
 
 Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour voir tous les studios sur ClassPass.
 
-- **[Pilates et Lagree](/go/classpass-fr-montpellier-pilates/?epi=fgg-fr-classpass-montpellier) :** entre autres PIA, The New Me, Lemon Studio, JOY Maison Wellness, Le Club, Calesa Studio et HOLIN
-- **[Yoga](/go/classpass-fr-montpellier-yoga/?epi=fgg-fr-classpass-montpellier) :** entre autres L’Intuitive Yoga, JOY Maison Wellness, Le Club et HOLIN
-- **[Bootcamp et renforcement](/go/classpass-fr-montpellier-bootcamp/?epi=fgg-fr-classpass-montpellier) :** entre autres Training Go (trois salles), Movida Club, Ethik Sport Club et Calesa Studio
-- **[Boxe](/go/classpass-fr-montpellier-boxe/?epi=fgg-fr-classpass-montpellier) :** entre autres Ethik Sport Club à Castelnau-le-Lez
-- **[Danse](/go/classpass-fr-montpellier-danse/?epi=fgg-fr-classpass-montpellier) :** selon les créneaux du moment
-- **[Accès à la salle](/go/classpass-fr-montpellier-salle/?epi=fgg-fr-classpass-montpellier) :** entre autres Movida Club, Training Go et Ethik Sport Club
-- Aussi **[barre](/go/classpass-fr-montpellier-barre/?epi=fgg-fr-classpass-montpellier)**, **[HIIT](/go/classpass-fr-montpellier-hiit/?epi=fgg-fr-classpass-montpellier)**, **[arts martiaux](/go/classpass-fr-montpellier-arts-martiaux/?epi=fgg-fr-classpass-montpellier)** et **[vélo en salle](/go/classpass-fr-montpellier-cycling/?epi=fgg-fr-classpass-montpellier)**, selon les créneaux du moment
+- **Pilates et Lagree :** entre autres PIA, The New Me, Lemon Studio, JOY Maison Wellness, Le Club, Calesa Studio et HOLIN
+- **Yoga :** entre autres L’Intuitive Yoga, JOY Maison Wellness, Le Club et HOLIN
+- **Bootcamp et renforcement :** entre autres Training Go (trois salles), Movida Club, Ethik Sport Club et Calesa Studio
+- **Boxe :** entre autres Ethik Sport Club à Castelnau-le-Lez
+- **Danse :** selon les créneaux du moment
+- **Accès à la salle :** entre autres Movida Club, Training Go et Ethik Sport Club
+- Aussi **barre**, **HIIT**, **arts martiaux** et **vélo en salle**, selon les créneaux du moment
 
 <h2 id="conseils">Conseils</h2>
 
@@ -67,7 +67,7 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - Training Go et Ethik Sport Club ont plusieurs salles : choisis bien la bonne au moment de réserver.
 - Ton abonnement marche aussi dans les autres villes de France et à l’étranger, partout où il y a ClassPass.
 
-[Voir les studios à Montpellier sur ClassPass.](/go/classpass-fr-montpellier/?epi=fgg-fr-classpass-montpellier)
+[Essaie ClassPass gratuitement et réserve des studios à Montpellier.](/go/classpass-fr/?epi=fgg-fr-classpass-montpellier)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-montpellier">Profitez de 10 séances gratuites en 14 jours</a>

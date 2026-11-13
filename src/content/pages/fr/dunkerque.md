@@ -93,7 +93,7 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 
 Une petite offre : Studio Pilates by Sarah Caux (boulevard Sainte-Barbe), Pilates et barre, surtout pour les femmes.
 
-[Voir les studios à Dunkerque sur ClassPass](/go/classpass-fr-dunkerque/?epi=fgg-fr-dunkerque)
+[Essaie ClassPass gratuitement et réserve des studios à Dunkerque.](/go/classpass-fr/?epi=fgg-fr-dunkerque)
 
 ### Bon pour
 

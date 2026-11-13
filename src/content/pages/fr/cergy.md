@@ -108,7 +108,7 @@ Près de Cergy, Gigafit a un club à Pierrelaye : 32 € toutes les 4 semaines a
 
 Une petite offre autour de Cergy : à Pontoise, [si] le pilates (rue Pierre Butin) et Share ur Coach (rue Albert Simon, coaching sportif), et à Jouy-le-Moutier, CrossFit Red Legion (CrossFit et HYROX).
 
-[Voir les studios autour de Cergy sur ClassPass](/go/classpass-fr-cergy/?epi=fgg-fr-cergy)
+[Essaie ClassPass gratuitement et réserve des studios autour de Cergy.](/go/classpass-fr/?epi=fgg-fr-cergy)
 
 ### Bon pour
 

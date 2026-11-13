@@ -59,18 +59,18 @@ Gimnasio en Nine Fitness y entrenamiento en Nalu Training en el paseo de las Aca
 
 Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte para ver todos los estudios en ClassPass.
 
-- **[Pilates y Lagree](/go/classpass-es-madrid-pilates/?epi=fgg-es-classpass-madrid):** entre otros HEAT HÕUSE, PILAT3S, Solid Studio, DAN'S, Kore Lab Lagree, Pinar Pilates, Cerclé Studio (solo mujeres), Rubi Pilates, Pilates Rizzo y BZ55
-- **[Barre](/go/classpass-es-madrid-barre/?epi=fgg-es-classpass-madrid):** entre otros Casa Barré, Barrefit Studio Madrid, Into Barre, Batelier Studio, Barrelatte, esBarré, Lean Barre Studio, Koleo Barre, Royal Barre, B3B y Boutique Barre (solo mujeres)
-- **[Yoga](/go/classpass-es-madrid-yoga/?epi=fgg-es-classpass-madrid):** entre otros Barquillo Yoga, Casa Kavi, Gaia Yoga & Soul Studio, Hot Yoga Madrid, Inhala Hot Yoga, Bikram Yoga Spain Maldonado, More Yoga Madrid, Zentro Urban Yoga, the studiOM yoga y YOGAOMMMstudio
-- **[HIIT](/go/classpass-es-madrid-hiit/?epi=fgg-es-classpass-madrid):** entre otros Barry's Madrid, Commando Studio, F45 Training, TRIB3, SQUARE Fitness Studio, BeatCore, REVIVE, Pomona Club, WEMOOV y LOONA Fitness Experience
-- **[Bootcamp](/go/classpass-es-madrid-bootcamp/?epi=fgg-es-classpass-madrid):** entre otros Bam Labs, SOMMOS, BOOSTCONCEPT, Distrito 280, CrossFit La Catedral, BOX 28012, Hotcore Studios y The Melt
-- **[Cycling](/go/classpass-es-madrid-cycling/?epi=fgg-es-classpass-madrid):** entre otros Síclo en el paseo de La Habana y en Fernando VI, Tumbao Studio, Sessions Studios, TopCycle, Commando Studio y TRIB3
-- **[Boxeo](/go/classpass-es-madrid-boxeo/?epi=fgg-es-classpass-madrid):** entre otros Brooklyn Fitboxing (con varios centros por la ciudad), Fabela Boxing Club, Gloves Box, Bandah Box, Ren Coach, The Palace Boxing Club, Box Ragnarok y Spartan Boxing Club Madrid
-- **[Artes marciales](/go/classpass-es-madrid-artes-marciales/?epi=fgg-es-classpass-madrid):** entre otros Shaolin Temple, THE WOD CLUB, Club Deportivo Tsunami, Imperial Fitness Center y Capoeira Mucumbé
-- **[Baile](/go/classpass-es-madrid-baile/?epi=fgg-es-classpass-madrid):** entre otros DAN'S, Batelier Studio, Maria Rosa Dance Center, Portalo's Escuela de Baile y Pilates, Connection Dance Center, Baile Orlander, ATTITUDE y Kinétika
-- **[Running](/go/classpass-es-madrid-running/?epi=fgg-es-classpass-madrid):** entre otros Stride Running House, Commando Studio, Barry's Madrid, MoveBon, Training Hub y Desafío Personal
-- **[Al aire libre](/go/classpass-es-madrid-aire-libre/?epi=fgg-es-classpass-madrid):** entre otros Trivus en el parque del Retiro, CruzLorenFit, MoveBon, Training Hub, Desafío Personal y Kona House
-- **[Acceso al gimnasio](/go/classpass-es-madrid-gimnasio/?epi=fgg-es-classpass-madrid):** entre otros REVIVE, Pomona Club, Kona House, Kaïro House, Nine Fitness, Distrito 280, Infinit Fitness, Functional Feel Chamberí, Opera Gym y Anytime Fitness
+- **Pilates y Lagree:** entre otros HEAT HÕUSE, PILAT3S, Solid Studio, DAN'S, Kore Lab Lagree, Pinar Pilates, Cerclé Studio (solo mujeres), Rubi Pilates, Pilates Rizzo y BZ55
+- **Barre:** entre otros Casa Barré, Barrefit Studio Madrid, Into Barre, Batelier Studio, Barrelatte, esBarré, Lean Barre Studio, Koleo Barre, Royal Barre, B3B y Boutique Barre (solo mujeres)
+- **Yoga:** entre otros Barquillo Yoga, Casa Kavi, Gaia Yoga & Soul Studio, Hot Yoga Madrid, Inhala Hot Yoga, Bikram Yoga Spain Maldonado, More Yoga Madrid, Zentro Urban Yoga, the studiOM yoga y YOGAOMMMstudio
+- **HIIT:** entre otros Barry's Madrid, Commando Studio, F45 Training, TRIB3, SQUARE Fitness Studio, BeatCore, REVIVE, Pomona Club, WEMOOV y LOONA Fitness Experience
+- **Bootcamp:** entre otros Bam Labs, SOMMOS, BOOSTCONCEPT, Distrito 280, CrossFit La Catedral, BOX 28012, Hotcore Studios y The Melt
+- **Cycling:** entre otros Síclo en el paseo de La Habana y en Fernando VI, Tumbao Studio, Sessions Studios, TopCycle, Commando Studio y TRIB3
+- **Boxeo:** entre otros Brooklyn Fitboxing (con varios centros por la ciudad), Fabela Boxing Club, Gloves Box, Bandah Box, Ren Coach, The Palace Boxing Club, Box Ragnarok y Spartan Boxing Club Madrid
+- **Artes marciales:** entre otros Shaolin Temple, THE WOD CLUB, Club Deportivo Tsunami, Imperial Fitness Center y Capoeira Mucumbé
+- **Baile:** entre otros DAN'S, Batelier Studio, Maria Rosa Dance Center, Portalo's Escuela de Baile y Pilates, Connection Dance Center, Baile Orlander, ATTITUDE y Kinétika
+- **Running:** entre otros Stride Running House, Commando Studio, Barry's Madrid, MoveBon, Training Hub y Desafío Personal
+- **Al aire libre:** entre otros Trivus en el parque del Retiro, CruzLorenFit, MoveBon, Training Hub, Desafío Personal y Kona House
+- **Acceso al gimnasio:** entre otros REVIVE, Pomona Club, Kona House, Kaïro House, Nine Fitness, Distrito 280, Infinit Fitness, Functional Feel Chamberí, Opera Gym y Anytime Fitness
 
 <h2 id="consejos">Consejos</h2>
 
@@ -80,7 +80,7 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - Algunas cadenas, como Brooklyn Fitboxing, Distrito 280 o Infinit Fitness, tienen varios centros en Madrid: elige bien el centro al reservar.
 - Tu plan funciona también en otras ciudades de España y en el extranjero, allí donde haya ClassPass.
 
-[Ver los estudios de Madrid en ClassPass.](/go/classpass-es-madrid/?epi=fgg-es-classpass-madrid)
+[Prueba ClassPass gratis y reserva estudios en Madrid.](/go/classpass-es/?epi=fgg-es-classpass-madrid)
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass-madrid">Prueba 10 sesiones gratis en 14 días</a>

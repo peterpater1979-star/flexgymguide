@@ -164,7 +164,7 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 - **Entrenamiento en grupo**: 180 Training Club en la avenida Antonio Martínez Guirao y en el paseo de Florencia (Ronda Sur), con grupos por nivel
 - **Fuerza y EMS**: Total 20 en la calle Emigrante, con entrenamiento de fuerza y electroestimulación (EMS)
 
-[Ver los estudios en Murcia en ClassPass](/go/classpass-es-murcia/?epi=fgg-es-murcia)
+[Prueba ClassPass gratis y reserva estudios en Murcia.](/go/classpass-es/?epi=fgg-es-murcia)
 
 ### A tener en cuenta
 
