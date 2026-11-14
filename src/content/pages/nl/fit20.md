@@ -98,6 +98,13 @@ Ja, met een gratis kennismakingstraining bij een studio bij jou in de buurt.
 
 </details>
 
+<details>
+<summary>Staat fit20 op ClassPass?</summary>
+
+Op ClassPass vonden we fit20 Utrecht Leidsche Rijn. Meer over ClassPass in de stad lees je in [ClassPass in Utrecht](/nl/classpass-utrecht/).
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/">Sporten in Nederland</a>
 <a class="knop knop-rand" href="https://www.fit20.com/nl/home#fit_country">fit20 gratis ervaren</a>
