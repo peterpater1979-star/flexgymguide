@@ -24,16 +24,7 @@ In Dortmund ist das Angebot für flexibles Training kleiner als in Köln oder D�
 
 Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Dortmund ein. Monatlich kündbar.
 
-<div class="usc-plan">
-<p class="usc-plan-kop"><strong>Classic</strong></p>
-<ul>
-<li>1 Check-in pro Tag</li>
-<li>Über 17.200 Partnerstandorte in 7 europäischen Ländern</li>
-<li>Bis zu 30 Live-Online-Kurse</li>
-<li>Video on Demand ohne Limit</li>
-<li>Kündigung 3 Tage vor der Verlängerung</li>
-</ul>
-</div>
+<p class="usc-plan kort"><strong>Classic</strong> · 1 Check-in pro Tag · monatlich kündbar</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>

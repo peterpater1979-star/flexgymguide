@@ -39,16 +39,7 @@ Yoga, Pilates, fuerza y barre en estudios de Chamberí, Salamanca, Centro y much
 
 Urban Sports Club también está en Madrid. Haces check-in en gimnasios y estudios asociados con un precio fijo al mes.
 
-<div class="usc-plan">
-<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € al mes</span></p>
-<ul>
-<li>10 check-ins al mes</li>
-<li>Más de 17.200 centros asociados en 7 países europeos</li>
-<li>Hasta 8 clases online en directo</li>
-<li>Vídeos a la carta ilimitados</li>
-<li>Baja con 3 días de preaviso antes de la renovación</li>
-</ul>
-</div>
+<p class="usc-plan kort"><strong>Classic</strong> · 75 € al mes · 10 check-ins al mes · baja con 3 días de preaviso</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>

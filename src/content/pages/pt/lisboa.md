@@ -24,16 +24,7 @@ Não te apetece ficar preso a um só ginásio? Em Lisboa podes reservar aulas em
 
 O Urban Sports Club também está em Lisboa. É um passe desportivo com um preço fixo por mês: fazes check-in em locais parceiros, conforme o teu plano, para ginásio, aulas ou outros desportos. Cancelas todos os meses.
 
-<div class="usc-plan">
-<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € por mês</span></p>
-<ul>
-<li>10 check-ins por mês</li>
-<li>Mais de 17.200 locais parceiros em 7 países europeus</li>
-<li>Até 8 aulas online ao vivo</li>
-<li>Vídeos a pedido ilimitados</li>
-<li>Cancelas com 3 dias de antecedência da renovação</li>
-</ul>
-</div>
+<p class="usc-plan kort"><strong>Classic</strong> · 75 € por mês · 10 check-ins por mês · cancelas todos os meses</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>

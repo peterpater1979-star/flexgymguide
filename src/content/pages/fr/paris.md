@@ -39,16 +39,7 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Urban Sports Club est aussi présent à Paris. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires.
 
-<div class="usc-plan">
-<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € par mois</span></p>
-<ul>
-<li>10 check-ins par mois</li>
-<li>Plus de 17 200 lieux partenaires dans 7 pays européens</li>
-<li>Jusqu’à 8 cours en ligne en direct</li>
-<li>Vidéos à la demande illimitées</li>
-<li>Résiliable 3 jours avant le renouvellement</li>
-</ul>
-</div>
+<p class="usc-plan kort"><strong>Classic</strong> · 75 € par mois · 10 check-ins par mois · résiliable chaque mois</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>

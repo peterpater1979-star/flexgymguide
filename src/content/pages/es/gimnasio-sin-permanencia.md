@@ -52,16 +52,7 @@ Recibes cada mes créditos para clases y sesiones de gimnasio. Cancelas cuando q
 
 Un precio fijo al mes, con check-ins en gimnasios y estudios asociados. Cuanto más grande el plan, más visitas al mes. Con la suscripción mensual te das de baja con 3 días de preaviso.
 
-<div class="usc-plan">
-<p class="usc-plan-kop"><strong>Classic</strong></p>
-<ul>
-<li>10 check-ins al mes</li>
-<li>Más de 17.200 centros asociados en 7 países europeos</li>
-<li>Hasta 8 clases online en directo</li>
-<li>Vídeos a la carta ilimitados</li>
-<li>Baja con 3 días de preaviso antes de la renovación</li>
-</ul>
-</div>
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins al mes · baja con 3 días de preaviso</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>

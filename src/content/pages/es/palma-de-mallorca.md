@@ -39,16 +39,7 @@ Mucho Pilates, también yoga, barre y cycling, del centro a Santa Catalina y Por
 
 Urban Sports Club también está en Palma de Mallorca. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
 
-<div class="usc-plan">
-<p class="usc-plan-kop"><strong>Classic</strong></p>
-<ul>
-<li>10 check-ins al mes</li>
-<li>Más de 17.200 centros asociados en 7 países europeos</li>
-<li>Hasta 8 clases online en directo</li>
-<li>Vídeos a la carta ilimitados</li>
-<li>Baja con 3 días de preaviso antes de la renovación</li>
-</ul>
-</div>
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins al mes · baja con 3 días de preaviso</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>

@@ -220,3 +220,4 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .usc-plan .usc-plan-kop span { font-weight: 600; color: var(--accent); }
 .usc-plan ul { margin: 0; padding-left: 1.1rem; }
 .usc-plan li { margin: .15rem 0; }
+.usc-plan.kort { padding: .55rem .85rem; margin: .75rem 0 1rem; }
