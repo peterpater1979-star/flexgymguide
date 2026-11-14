@@ -33,6 +33,7 @@ Urban Sports Club zit ook in Brussel. Een sportpas met een vaste prijs per maand
 <li>Meer dan 17.200 partnerlocaties in 7 Europese landen</li>
 <li>Tot 8 live onlinelessen</li>
 <li>Onbeperkt video on demand</li>
+<li>Opzeggen tot 3 dagen voor verlenging</li>
 </ul>
 </div>
 

@@ -31,6 +31,7 @@ Sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties in Amst
 <li>Meer dan 17.200 partnerlocaties in 7 Europese landen</li>
 <li>Tot 8 live onlinelessen</li>
 <li>Onbeperkt video on demand</li>
+<li>Opzeggen tot 3 dagen voor verlenging</li>
 </ul>
 </div>
 

@@ -31,6 +31,7 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Köln ein. Mon
 <li>Über 17.200 Partnerstandorte in 7 europäischen Ländern</li>
 <li>Bis zu 30 Live-Online-Kurse</li>
 <li>Video on Demand ohne Limit</li>
+<li>Kündigung 3 Tage vor der Verlängerung</li>
 </ul>
 </div>
 

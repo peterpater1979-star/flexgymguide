@@ -46,6 +46,7 @@ Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios 
 <li>Plus de 17 200 lieux partenaires dans 7 pays européens</li>
 <li>Jusqu’à 8 cours en ligne en direct</li>
 <li>Vidéos à la demande illimitées</li>
+<li>Résiliable 3 jours avant le renouvellement</li>
 </ul>
 </div>
 

@@ -262,6 +262,7 @@ Un precio fijo al mes, con check-ins en gimnasios y estudios.
 <li>Más de 17.200 centros asociados en 7 países europeos</li>
 <li>Hasta 8 clases online en directo</li>
 <li>Vídeos a la carta ilimitados</li>
+<li>Baja con 3 días de preaviso antes de la renovación</li>
 </ul>
 </div>
 

@@ -31,6 +31,7 @@ O Urban Sports Club também está em Porto. É um passe desportivo com um preço
 <li>Mais de 17.200 locais parceiros em 7 países europeus</li>
 <li>Até 8 aulas online ao vivo</li>
 <li>Vídeos a pedido ilimitados</li>
+<li>Cancelas com 3 dias de antecedência da renovação</li>
 </ul>
 </div>
 

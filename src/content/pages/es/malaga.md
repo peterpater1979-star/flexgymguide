@@ -46,6 +46,7 @@ Urban Sports Club también está en Málaga. Es un pase deportivo con un precio 
 <li>Más de 17.200 centros asociados en 7 países europeos</li>
 <li>Hasta 8 clases online en directo</li>
 <li>Vídeos a la carta ilimitados</li>
+<li>Baja con 3 días de preaviso antes de la renovación</li>
 </ul>
 </div>
 

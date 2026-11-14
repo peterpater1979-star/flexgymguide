@@ -30,6 +30,7 @@ Ein fester Preis pro Monat für Check-ins bei Partnerstudios.
 <li>Über 17.200 Partnerstandorte in 7 europäischen Ländern</li>
 <li>Bis zu 30 Live-Online-Kurse</li>
 <li>Video on Demand ohne Limit</li>
+<li>Kündigung 3 Tage vor der Verlängerung</li>
 </ul>
 </div>
 
