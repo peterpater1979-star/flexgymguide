@@ -10,7 +10,7 @@ crumb: "Rotterdam"
 kicker: "Stadsgids Rotterdam"
 ---
 
-In Rotterdam kies je tussen twee sportpassen, Urban Sports Club en ClassPass, met studio's van Kralingen tot Zuid, of een vaste club bij Trainmore, SportCity, Basic-Fit, BigGym, Anytime Fitness of Go! Health Clubs. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Rotterdam](/nl/sporten-zonder-contract-rotterdam/).
+In Rotterdam kies je tussen twee sportpassen, Urban Sports Club en ClassPass, met studio's van Kralingen tot Zuid, of een vaste club bij Trainmore, SportCity, Basic-Fit, BigGym, Anytime Fitness of Go! Health Clubs. Zwem je liever, dan heeft Sportfondsen vier zwembaden in de stad. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Rotterdam](/nl/sporten-zonder-contract-rotterdam/).
 
 <h2 id="kort">In het kort</h2>
 
@@ -162,6 +162,24 @@ fit20 heeft studio's in Hillegersberg en Overschie: één keer per week 20 minut
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/fit20/">Alles over fit20</a>
+</div>
+
+</div>
+
+<div id="sportfondsen" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sportfondsen"><span>Zwemmen</span></div>
+
+<h3>Sportfondsen</h3>
+
+Sportfondsen heeft in Rotterdam vier zwembaden, waaronder het Oostelijk Zwembad in Kralingen en het Van Maanenbad in Noord. Je zwemt baantjes, volgt aquales of zwemles, met een los kaartje of een strippenkaart.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Zonder abonnement zwemmen</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/sportfondsen/">Alles over Sportfondsen</a>
 </div>
 
 </div>

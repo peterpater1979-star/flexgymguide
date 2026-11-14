@@ -59,9 +59,9 @@ Bij Mercator vraag je op de site een [gratis dagpas](https://www.mercatorfitness
 | Stad | Locaties |
 | --- | --- |
 | [Amsterdam](/nl/amsterdam/) | Mercator (Amsterdam-West) en Amsterdam-Oost |
-| Rotterdam | Zevenkampse Ring, Oostelijk Zwembad, Van Maanenbad en Oostervant |
+| [Rotterdam](/nl/rotterdam/) | [Oostelijk Zwembad](https://oostelijkzwembad.sportfondsen.nl/) (Gerdesiaweg), [Van Maanenbad](https://vanmaanenbad.sportfondsen.nl/) (Van Maanenstraat), Zevenkampse Ring en Oostervant |
 | Nijmegen | Nijmegen-West, Goffertbad, Erica Terpstrabad en Dukenburg |
-| Den Bosch | Sportiom |
+| Den Bosch | Sportiom, met [Sportiom Fitness](https://www.sportiomfitness.nl/) voor fitness en groepslessen |
 | Eindhoven | IJssportcentrum Eindhoven |
 
 Verder zit Sportfondsen onder meer in Badhoevedorp, Heemstede, Hoofddorp, Hilversum, Bussum, Leiderdorp, Voorschoten, Voorburg, Wassenaar, Delft, Wageningen, Etten-Leur, Roosendaal en Borne. Op de site van Sportfondsen zie je alle locaties.
