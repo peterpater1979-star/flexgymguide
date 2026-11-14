@@ -23,9 +23,14 @@ Don't want a long contract at a single gym? With a fitness pass like ClassPass, 
 
 A membership with credits for yoga, Pilates, boxing, spinning and gym visits at studios across the city, and abroad too.
 
-- Good if you like variety
-- Good if you train one to three times a week
-- Also works in 30 other countries
+
+<div class="infoblok">
+<ul>
+<li>Good if you like variety</li>
+<li>Good if you train one to three times a week</li>
+<li>Also works in 30 other countries</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/ie/classpass/">All about ClassPass</a>
@@ -41,9 +46,15 @@ A membership with credits for yoga, Pilates, boxing, spinning and gym visits at 
 
 An Irish gym chain without a contract: 20 gyms in Dublin, plus Cork and Galway. From €38 a month for one gym.
 
-- Good if you train three times a week or more
-- Good if you want one regular place
-- No minimum term
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Day pass from €14</p>
+<ul>
+<li>Good if you train three times a week or more</li>
+<li>Good if you want one regular place</li>
+<li>No minimum term</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/flyefit/">All about Flyefit</a>
@@ -59,9 +70,14 @@ An Irish gym chain without a contract: 20 gyms in Dublin, plus Cork and Galway. 
 
 Four gyms in Dublin and one in Portlaoise. €36 a month, no contract and no joining fee.
 
-- Good if you want a low-cost gym
-- No joining fee
-- Membership for your own club
+
+<div class="infoblok">
+<ul>
+<li>Good if you want a low-cost gym</li>
+<li>No joining fee</li>
+<li>Membership for your own club</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/bd-gyms/">All about BD Gyms</a>
@@ -77,9 +93,15 @@ Four gyms in Dublin and one in Portlaoise. €36 a month, no contract and no joi
 
 Seven clubs in Dublin, Cork, Ashbourne, Drogheda and Naas, most with a pool. €69 a month, or €59 in Cork.
 
-- Good if you want a pool
-- Good if you train three times a week or more
-- Monthly members: 3-month minimum
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Free 1-day guest pass</p>
+<ul>
+<li>Good if you want a pool</li>
+<li>Good if you train three times a week or more</li>
+<li>Monthly members: 3-month minimum</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/gym-plus/">All about Gym Plus</a>

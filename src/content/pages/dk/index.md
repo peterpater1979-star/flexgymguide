@@ -23,9 +23,14 @@ Har du ikke lyst til en lang kontrakt i ét fitnesscenter? Med et træningspas s
 
 Et medlemskab med credits til yoga, pilates, boksning, spinning og fitness i studier over hele byen, også i udlandet.
 
-- God, hvis du kan lide variation
-- God, hvis du træner én til tre gange om ugen
-- Fungerer også i 30 andre lande
+
+<div class="infoblok">
+<ul>
+<li>God, hvis du kan lide variation</li>
+<li>God, hvis du træner én til tre gange om ugen</li>
+<li>Fungerer også i 30 andre lande</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/dk/classpass/">Alt om ClassPass</a>
@@ -41,9 +46,14 @@ Et medlemskab med credits til yoga, pilates, boksning, spinning og fitness i stu
 
 En nordisk fitnesskæde med over 275 centre i Danmark, Sverige, Norge og Finland, med træningssal og holdtræning.
 
-- Godt hvis du træner tre gange om ugen eller mere
-- Godt hvis du vil have ét fast sted
-- Findes i fire nordiske lande
+
+<div class="infoblok">
+<ul>
+<li>Godt hvis du træner tre gange om ugen eller mere</li>
+<li>Godt hvis du vil have ét fast sted</li>
+<li>Findes i fire nordiske lande</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/dk/sats/">Alt om SATS</a>
@@ -60,9 +70,15 @@ En nordisk fitnesskæde med over 275 centre i Danmark, Sverige, Norge og Finland
 
 Fitnesskæde med lave priser og 128 centre i Danmark. Fra 249 kr. om måneden, og du kan også købe adgang for en enkelt dag.
 
-- Godt hvis du vil træne billigt og ofte
-- Opsigelse: løbende måned plus én måned
-- Prepaid fra 79 kr. for en dag
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Prepaid fra 79 kr. for en dag</p>
+<ul>
+<li>Godt hvis du vil træne billigt og ofte</li>
+<li>Opsigelse: løbende måned plus én måned</li>
+<li>Prepaid fra 79 kr. for en dag</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/dk/puregym/">Alt om PureGym</a>

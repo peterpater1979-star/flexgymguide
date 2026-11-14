@@ -110,6 +110,10 @@ Er is geen gratis proefperiode. Nieuwe klanten kunnen wel 3 lessen voor € 30 k
 
 </details>
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proefles</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/amsterdam/">Sporten in Amsterdam</a>
 <a class="knop knop-rand" href="https://www.saints-stars.com/nl">Saints & Stars</a>

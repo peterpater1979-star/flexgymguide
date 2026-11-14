@@ -38,6 +38,10 @@ Lots of reformer Pilates, plus Lagree, barre and gyms, from the city centre to t
 
 7 low-cost gyms in Glasgow, without a contract and most of them open 24/7. Classes are included in every membership: Off-peak, Standard or Ultimate.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day pass (1, 3 or 5 days)</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/uk/the-gym-group/">See The Gym Group</a>
 </div>

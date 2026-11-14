@@ -155,6 +155,10 @@ JOHN REED hat in Hamburg Clubs in Harburg und Wandsbek, mit Design, Musik und Ku
 
 Basic-Fit hat in Hamburg einen Club in der Fuhlsbüttler Straße in Barmbek. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>

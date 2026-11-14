@@ -52,6 +52,10 @@ Nordisk fitnesskæde med træningssal og holdtræning.
 
 Fitnesskæde med 128 centre i Danmark, fra 249 kr. om måneden.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Prepaid fra 79 kr. for en dag</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/dk/puregym/">Se PureGym</a>
 </div>

@@ -122,6 +122,10 @@ JOHN REED hat Clubs in Wien, mit Design, Musik und Kursen. Flex ist monatlich k�
 
 Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit Clubs in vielen Wiener Bezirken. 30 Minuten Training, kostenloses Probetraining, Preise je Club.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/at/mrs-sporty/">Alles über Mrs.Sporty</a>
 </div>

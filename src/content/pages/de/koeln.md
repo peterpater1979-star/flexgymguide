@@ -101,6 +101,10 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 1 Club in Köln. Den P
 
 Basic-Fit hat in Köln Clubs in der Spichernstraße und der Peter-Huppertz-Straße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>

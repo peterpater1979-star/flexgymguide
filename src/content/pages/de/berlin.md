@@ -155,6 +155,10 @@ JOHN REED hat in Berlin Clubs in Kreuzberg, Prenzlauer Berg, Friedrichshain, Cha
 
 Basic-Fit hat in Berlin mehrere Clubs, unter anderem in der Oranienburger Straße und der Gerichtstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>

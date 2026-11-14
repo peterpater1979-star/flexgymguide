@@ -92,6 +92,10 @@ Voordelige sportschoolketen met 6 clubs in Utrecht, veel dag en nacht open. Vana
 
 BigGym heeft in Utrecht een grote gym aan de Proostwetering, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Dagpas € 10</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
 </div>

@@ -115,6 +115,10 @@ Ja, met een dagpas van € 19,50. Schrijf je je binnen 24 uur in, dan krijg je d
 
 </details>
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Nieuwe klanten: 3 lessen voor € 30</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/amsterdam/">Sporten in Amsterdam</a>
 <a class="knop knop-rand" href="https://www.vondelgym.nl/">Vondelgym</a>

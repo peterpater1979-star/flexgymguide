@@ -23,9 +23,14 @@ Keine Lust auf einen langen Vertrag in einem einzigen Studio? Mit einem Sportpas
 
 Sportpass für Studios und Kurse, unter anderem in Zürich. FLEX 4 kostet CHF 95 im Monat für 4 Trainings, monatlich kündbar.
 
-- Gut, wenn du verschiedene Sportarten ausprobieren willst
-- Monatlich kündbar
-- Vergünstigung über einige Krankenkassen
+
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du verschiedene Sportarten ausprobieren willst</li>
+<li>Monatlich kündbar</li>
+<li>Vergünstigung über einige Krankenkassen</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ch/myclubs/">Alles über myClubs</a>
@@ -41,9 +46,14 @@ Sportpass für Studios und Kurse, unter anderem in Zürich. FLEX 4 kostet CHF 95
 
 Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studios in der ganzen Stadt, auch im Ausland.
 
-- Gut, wenn du Abwechslung magst
-- Gut bei ein- bis dreimal Training pro Woche
-- Funktioniert auch in 30 anderen Ländern
+
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du Abwechslung magst</li>
+<li>Gut bei ein- bis dreimal Training pro Woche</li>
+<li>Funktioniert auch in 30 anderen Ländern</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/ch/classpass/">Alles über ClassPass</a>
@@ -59,9 +69,15 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 Eine Schweizer Fitnesskette mit über 120 Studios, davon 16 in Zürich. Neben dem Jahresabo gibt es ein Abo für einen Monat, für CHF 150.
 
-- Gut bei dreimal Training pro Woche oder öfter
-- Gut, wenn du einen festen Ort willst
-- Nur in der Schweiz
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining, bis 60 Minuten</p>
+<ul>
+<li>Gut bei dreimal Training pro Woche oder öfter</li>
+<li>Gut, wenn du einen festen Ort willst</li>
+<li>Nur in der Schweiz</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ch/activ-fitness/">Alles über Activ Fitness</a>
@@ -77,9 +93,14 @@ Eine Schweizer Fitnesskette mit über 120 Studios, davon 16 in Zürich. Neben de
 
 Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den Preis erfährst du erst bei einem Besuch im Club.
 
-- Gut, wenn du mehr Luxus und Service willst
-- Gut bei dreimal Training pro Woche oder öfter
-- Auch in Österreich, Deutschland und Portugal
+
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du mehr Luxus und Service willst</li>
+<li>Gut bei dreimal Training pro Woche oder öfter</li>
+<li>Auch in Österreich, Deutschland und Portugal</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
@@ -101,9 +122,14 @@ Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den Preis erf
 
 Günstige Fitnesskette, früher basefit.swiss, meist rund um die Uhr offen. Monatsabo ab CHF 57, jederzeit kündbar, oder Jahresabo ab CHF 47 pro Monat.
 
-- Gut, wenn du günstig und oft trainieren willst
-- Monatsabo: laufend kündbar
-- Preis je nach Standort
+
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du günstig und oft trainieren willst</li>
+<li>Monatsabo: laufend kündbar</li>
+<li>Preis je nach Standort</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ch/puregym/">Alles über PureGym</a>

@@ -123,6 +123,10 @@ JOHN REED hat einen neuen Club in Stuttgart, mit Design, Musik und Kursen. Flex 
 
 Basic-Fit hat in Stuttgart einen Club in der Wiener Straße in Feuerbach. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>

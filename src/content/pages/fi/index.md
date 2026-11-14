@@ -23,9 +23,14 @@ Eikö pitkä sopimus yhdellä kuntosalilla houkuttele? ClassPassin kaltaisella t
 
 Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningiin ja kuntosalikäynteihin studioissa ympäri kaupunkia, myös ulkomailla.
 
-- Sopii, jos pidät vaihtelusta
-- Sopii, jos treenaat yhdestä kolmeen kertaan viikossa
-- Toimii myös 30 muussa maassa
+
+<div class="infoblok">
+<ul>
+<li>Sopii, jos pidät vaihtelusta</li>
+<li>Sopii, jos treenaat yhdestä kolmeen kertaan viikossa</li>
+<li>Toimii myös 30 muussa maassa</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/fi/classpass/">Kaikki ClassPassista</a>
@@ -41,9 +46,14 @@ Jäsenyys, jolla saat krediittejä joogaan, pilatekseen, nyrkkeilyyn, spinningii
 
 SATS Groupin kuntosaliketju, jolla on yli 30 kuntokeskusta Suomessa, esimerkiksi Helsingissä ja Tampereella. Mukana kuntosali ja ryhmäliikunta.
 
-- Hyvä, jos treenaat kolme kertaa viikossa tai useammin
-- Hyvä, jos haluat yhden vakiopaikan
-- SATS-salit myös muissa Pohjoismaissa
+
+<div class="infoblok">
+<ul>
+<li>Hyvä, jos treenaat kolme kertaa viikossa tai useammin</li>
+<li>Hyvä, jos haluat yhden vakiopaikan</li>
+<li>SATS-salit myös muissa Pohjoismaissa</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fi/elixia/">Kaikki ELIXIAsta</a>

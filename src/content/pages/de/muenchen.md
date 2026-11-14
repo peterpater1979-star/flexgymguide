@@ -123,6 +123,10 @@ FitX hat in München Studios am Lenbachplatz, in Schwabing-Freimann, Neuperlach 
 
 Basic-Fit hat in München Clubs in der Marsstraße und der Moosacher Straße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>

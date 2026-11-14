@@ -38,6 +38,10 @@ Reformer Pilates, barre, yoga, spin, boxing and gyms, from Clifton to the Harbou
 
 4 low-cost gyms in Bristol, without a contract and most of them open 24/7. Classes are included in every membership: Off-peak, Standard or Ultimate.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day pass (1, 3 or 5 days)</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/uk/the-gym-group/">See The Gym Group</a>
 </div>

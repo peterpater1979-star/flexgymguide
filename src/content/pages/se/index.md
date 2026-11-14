@@ -23,9 +23,14 @@ Har du ingen lust med ett långt avtal på ett enda gym? Med ett träningspass s
 
 Ett medlemskap med krediter för yoga, pilates, boxning, spinning och gymbesök på studior i hela staden, även utomlands.
 
-- Passar dig som gillar variation
-- Passar dig som tränar en till tre gånger i veckan
-- Fungerar även i 30 andra länder
+
+<div class="infoblok">
+<ul>
+<li>Passar dig som gillar variation</li>
+<li>Passar dig som tränar en till tre gånger i veckan</li>
+<li>Fungerar även i 30 andra länder</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/se/classpass/">Allt om ClassPass</a>
@@ -41,9 +46,14 @@ Ett medlemskap med krediter för yoga, pilates, boxning, spinning och gymbesök 
 
 En nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Finland, med gym och gruppträning.
 
-- Bra om du tränar tre gånger i veckan eller mer
-- Bra om du vill ha ett fast ställe
-- Finns i fyra nordiska länder
+
+<div class="infoblok">
+<ul>
+<li>Bra om du tränar tre gånger i veckan eller mer</li>
+<li>Bra om du vill ha ett fast ställe</li>
+<li>Finns i fyra nordiska länder</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/se/sats/">Allt om SATS</a>
@@ -60,9 +70,14 @@ En nordisk gymkedja med över 275 anläggningar i Sverige, Norge, Danmark och Fi
 
 Svensk gymkedja med över 400 klubbar, med gym och gruppträning. Från 299 kr i månaden.
 
-- Bra om du tränar tre gånger i veckan eller mer
-- Finns i hela Sverige
-- Bindningstid beror på medlemskapet
+
+<div class="infoblok">
+<ul>
+<li>Bra om du tränar tre gånger i veckan eller mer</li>
+<li>Finns i hela Sverige</li>
+<li>Bindningstid beror på medlemskapet</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/se/nordic-wellness/">Allt om Nordic Wellness</a>

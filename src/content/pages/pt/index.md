@@ -48,9 +48,14 @@ Um preço fixo por mês para check-ins em locais parceiros.
 
 Uma subscrição com créditos para ioga, pilates, boxe, spinning e ginásio, em estúdios por toda a cidade e também no estrangeiro.
 
-- Ideal se gostas de variar
-- Ideal se treinas uma a três vezes por semana
-- Funciona também em mais 30 países
+
+<div class="infoblok">
+<ul>
+<li>Ideal se gostas de variar</li>
+<li>Ideal se treinas uma a três vezes por semana</li>
+<li>Funciona também em mais 30 países</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/pt/classpass/">Tudo sobre o ClassPass</a>
@@ -66,9 +71,14 @@ Uma subscrição com créditos para ioga, pilates, boxe, spinning e ginásio, em
 
 Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic treinas nos ginásios da tua região por 5,99 € por semana, mais 5 € de inscrição.
 
-- Ideal se treinas três vezes por semana ou mais
-- Ideal se queres um sítio fixo
-- Só em Portugal
+
+<div class="infoblok">
+<ul>
+<li>Ideal se treinas três vezes por semana ou mais</li>
+<li>Ideal se queres um sítio fixo</li>
+<li>Só em Portugal</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/element-gyms/">Tudo sobre a Element Gyms</a>
@@ -84,9 +94,15 @@ Ginásios sem fidelização em Portugal, vários em Lisboa. Com o plano Classic 
 
 O antigo Fitness Hut: mais de 40 ginásios em Portugal, planos ONE, FLEX e PRIME sem fidelização. O preço depende do ginásio.
 
-- Ideal se treinas três vezes por semana ou mais
-- Aulas de grupo incluídas
-- Com PRIME também em Espanha
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Entrada avulso 11,90 € por um dia</p>
+<ul>
+<li>Ideal se treinas três vezes por semana ou mais</li>
+<li>Aulas de grupo incluídas</li>
+<li>Com PRIME também em Espanha</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/vivagym/">Tudo sobre o VivaGym</a>
@@ -108,9 +124,15 @@ O antigo Fitness Hut: mais de 40 ginásios em Portugal, planos ONE, FLEX e PRIME
 
 Uma cadeia de clubes premium com 13 clubes em Portugal, todos com ginásio, aulas, piscina e sauna. O preço só é dado quando visitas o clube.
 
-- Ideal se queres mais luxo e serviço
-- Ideal se treinas três vezes por semana ou mais
-- Também na Suíça, na Áustria e na Alemanha
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Treino experimental de um dia</p>
+<ul>
+<li>Ideal se queres mais luxo e serviço</li>
+<li>Ideal se treinas três vezes por semana ou mais</li>
+<li>Também na Suíça, na Áustria e na Alemanha</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/holmes-place/">Tudo sobre o Holmes Place</a>

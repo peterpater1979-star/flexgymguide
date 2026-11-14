@@ -70,6 +70,10 @@ Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open. V
 
 Sportschoolketen met 6 clubs in Gent, met fitness en groepslessen met een coach. Vanaf € 39,99 per 4 weken, flexibel opzegbaar met 4 weken opzegtermijn, en één gratis probeerdag per jaar.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Eén gratis probeerdag per jaar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/be/jims/">Bekijk Jims</a>
 </div>

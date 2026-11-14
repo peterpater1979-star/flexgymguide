@@ -212,6 +212,10 @@ Nach Zahl der Studios die größte Fitnesskette Deutschlands, mit über 500 Stud
 
 Fast 100 Clubs in Deutschland und über 1.700 in Europa. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex jederzeit kündbar.
 
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>

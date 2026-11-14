@@ -92,6 +92,10 @@ Voordelige sportschoolketen met 17 clubs in Amsterdam, veel dag en nacht open. V
 
 Saints & Stars is een boutique fitnessstudio met vier vestigingen in Amsterdam: bij het Leidseplein, in Oud-West, Oud-Zuid en De Pijp. Gold kost € 139 per 4 weken met een jaarlidmaatschap, of € 169 met Flex.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Nieuwe klanten: 3 lessen voor € 30</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/saints-stars/">Alles over Saints & Stars</a>
 </div>
@@ -119,6 +123,10 @@ Vondelgym heeft drie gyms in Amsterdam: aan de Overtoom bij het Vondelpark, aan 
 <h3>BigGym</h3>
 
 BigGym heeft in Amsterdam een grote gym aan de Oostenburgermiddenstraat, op de Oostelijke Eilanden, met kracht, cardio, een HYROX-zone en groepslessen. Met een contract kost Unlimited € 30 tot € 35 per 4 weken, met Flex € 45, plus eenmalig € 10 activatie.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Dagpas € 10</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
