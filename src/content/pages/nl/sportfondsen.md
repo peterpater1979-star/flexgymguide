@@ -64,7 +64,7 @@ Bij Mercator vraag je op de site een [gratis dagpas](https://www.mercatorfitness
 | Den Bosch | Sportiom, met [Sportiom Fitness](https://www.sportiomfitness.nl/) voor fitness en groepslessen |
 | Eindhoven | IJssportcentrum Eindhoven |
 
-Verder zit Sportfondsen onder meer in Badhoevedorp, Heemstede, Hoofddorp, Hilversum, Bussum, Leiderdorp, Voorschoten, Voorburg, Wassenaar, Delft, Wageningen, Etten-Leur, Roosendaal en Borne. Op de site van Sportfondsen zie je alle locaties.
+Verder zit Sportfondsen in Appelscha, Badhoevedorp, Bemmel, Bergschenhoek, Beverwijk, Borne, Buchten, Bussum, Coevorden, Cuijk, Delft, Deurne, Dirkshorn, Doorn, Driebergen, Eersel, Etten-Leur, Geertruidenberg, Geldermalsen, Geldrop, Gennep, Goirle, Grave, Haelen, Heemstede, 's-Heerenberg, Heinkenszand, Hellevoetsluis, Hendrik-Ido-Ambacht, Heythuysen, Hillegom, Hilvarenbeek, Hilversum, Hoensbroek, Hoofddorp, Hoogerheide, IJsselstein, Kruiningen, Leerdam, Leiderdorp, Leidschendam, Lisse, Malden, Markelo, Melick, Monnickendam, Naarden, Nederweert, Nieuw-Vennep, Noordwijk, Nuenen, Oirschot, Oosterwolde, Oudenbosch, Panningen, Pijnacker, Poortugaal, Raamsdonksveer, Rhenen, Roosendaal, Schagen, Spijkenisse, Strijen, Terborg, Venray, Vlissingen, Voerendaal, Volendam, Voorburg, Voorschoten, Vught, Wageningen, Warmenhuizen, Wassenaar, Wezep, Wormer, Zaltbommel en Zierikzee. Adressen, tijden en de site van elk bad vind je in het [overzicht van alle locaties](https://www.sportfondsen.nl/sportfondsen/accommodaties/) van Sportfondsen.
 
 <h2 id="opzeggen">Opzeggen</h2>
 
