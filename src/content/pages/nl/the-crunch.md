@@ -60,7 +60,7 @@ Wil je eerst kijken of de club bij je past? Vraag een gratis proefles aan via he
 - **Wanneer:** uiterlijk een maand voor het einde van je looptijd. Zeg je niet op, dan loopt je lidmaatschap door. Betaal je per automatische incasso, dan zeg je daarna maandelijks op.
 - **Eerder stoppen:** alleen bij een medische reden of als je meer dan 10 km verderop gaat wonen, met bewijs en 1 kalendermaand opzegtermijn.
 - **Pauzeren:** alleen bij een medische reden, als de directie akkoord gaat.
-- **Chip:** lever je toegangschip in als je stopt, anders betaal je € 15.
+- **Chip:** lever je toegangschip binnen een week na het einde in, anders betaal je € 15.
 
 Stap voor stap: [The Crunch opzeggen](/nl/the-crunch-opzeggen/).
 

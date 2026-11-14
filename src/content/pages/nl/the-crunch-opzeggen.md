@@ -37,7 +37,9 @@ Je zegt The Crunch alleen schriftelijk op, per e-mail. Doe dat uiterlijk een maa
 - **Niet op tijd opgezegd?** Dan wordt je lidmaatschap verlengd. Betaal je per automatische incasso, dan zeg je daarna maandelijks op.
 - **Eerder stoppen.** Tussentijds stoppen kan niet, behalve bij een medische reden of als je meer dan 10 km van de club gaat wonen. Je stuurt dan een doktersverklaring of bewijs van inschrijving in je nieuwe gemeente mee, met 1 kalendermaand opzegtermijn.
 - **Pauzeren.** Alleen op medische gronden, en de directie beslist.
-- **Chip.** Lever je de toegangschip niet in, dan betaal je € 15.
+- **Chip.** Lever je de toegangschip niet binnen een week na het einde in, dan betaal je € 15.
+- **Later terugkomen?** Na opzeggen vervalt je inschrijving, dus dan betaal je opnieuw € 30 inschrijfgeld.
+- **Ander abonnement.** Overstappen kan altijd, na afloop van je lopende termijn.
 
 <p class="klein">Bron: <a href="/nl/the-crunch/">onze pagina over The Crunch</a>, op basis van thecrunch.nl en de algemene voorwaarden (november 2026). Controleer de actuele voorwaarden altijd bij The Crunch.</p>
 
