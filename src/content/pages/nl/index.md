@@ -362,10 +362,10 @@ Eén keer per week 20 minuten krachttraining met een eigen trainer, in studio's 
 
 ### Sportfondsen
 
-Zwembaden en sportcentra op ongeveer 90 plekken, een deel met fitness en lessen. Zwemmen kan met losse kaartjes; bij Mercator in Amsterdam all-in € 67,50 tot € 87,50 per maand.
+Zwembaden en sportcentra op ongeveer 90 plekken, een deel met fitness en groepslessen. Baantjes zwemmen, aquales en zwemles, met prijzen per locatie.
 
 <div class="infoblok">
-<p class="proef"><span aria-hidden="true">✓</span> Gratis dagpas (Mercator)</p>
+<p class="proef"><span aria-hidden="true">✓</span> Gratis dagpas of proefles op veel locaties</p>
 <ul>
 <li>Goed als je graag zwemt</li>
 <li>Goed als je zonder abonnement wilt zwemmen</li>
