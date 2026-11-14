@@ -204,7 +204,7 @@ fit20 heeft studio's in Centrum, Nieuw-West en Zuidoost: één keer per week 20 
 
 <h3>Sportfondsen</h3>
 
-Sportfondsen Mercator in West heeft een zwembad, fitness, sauna en meer dan 30 groepslessen: all-in € 67,50 tot € 87,50 per maand. In Oost zwem je met een los kaartje van € 6,40.
+Sportfondsen Mercator in West heeft een zwembad, fitness, sauna en meer dan 30 groepslessen: all-in € 67,50 tot € 87,50 per maand, of een dagpas voor fitness en zwemmen van € 20. In Oost zwem je met een los kaartje van € 6,40.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Gratis dagpas (Mercator)</p>

@@ -22,6 +22,7 @@ Sportfondsen is een groep van zwembaden en sportcentra, met ongeveer 90 locaties
 | **Locaties** | Ongeveer 90 in Nederland, vooral in Noord- en Zuid-Holland, Brabant en Gelderland |
 | **Prijs** | Per locatie. Bij Mercator in Amsterdam: all-in fitness en zwemmen € 67,50 tot € 87,50 per maand |
 | **Zonder contract** | <span class="ja" aria-hidden="true">✓</span> Losse kaartjes en strippenkaarten, en bij Mercator één maand vooruit |
+| **Dagpas** | € 20 voor fitness en zwemmen bij Mercator |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis dagpas bij Mercator |
 | **Openingstijden** | Per locatie, niet 24/7 |
 
@@ -38,7 +39,7 @@ Sportfondsen Mercator aan de Jan van Galenstraat in Amsterdam-West heeft een zwe
 | 3 maanden | € 87,50 |
 | 1 maand, vooruit betaald | € 110 |
 
-Studenten betalen € 187,50 voor 3 maanden of € 332,50 voor 6 maanden, vooruit. Train je liever af en toe? Een dagpas kost € 20, een kaart voor 12 bezoeken € 200. Daarbij komt eenmalig € 6,50 voor je pas.
+Studenten betalen € 187,50 voor 3 maanden of € 332,50 voor 6 maanden, vooruit. Train je liever af en toe? Met de **Dagpas Fitness & Zwembad** van € 20 gebruik je een dag lang de fitness, de lessen en het zwembad. Een kaart voor 12 bezoeken kost € 200. Daarbij komt eenmalig € 6,50 voor je pas.
 
 De fitness is doordeweeks open van 7.00 tot 22.00 uur en in het weekend van 8.00 tot 18.00 uur.
 
@@ -93,7 +94,7 @@ Dat verschilt per locatie. Bij Mercator in Amsterdam kost All-in Fitness & Zwemb
 <details>
 <summary>Kan ik bij Sportfondsen zwemmen zonder abonnement?</summary>
 
-Ja. Je koopt een los kaartje of een strippenkaart, en zit dan nergens aan vast.
+Ja. Je koopt een los kaartje of een strippenkaart, en zit dan nergens aan vast. Bij Mercator kun je ook een Dagpas Fitness & Zwembad kopen, voor € 20.
 
 </details>
 
