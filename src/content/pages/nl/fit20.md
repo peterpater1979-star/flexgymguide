@@ -71,6 +71,8 @@ Verder zit fit20 onder meer in Almere, Amersfoort, Apeldoorn, Deventer, Dordrech
 - **Hoe:** je tekent een beëindigingsformulier bij je studio.
 - **Voorwaarden per studio:** elke studio stuurt je zijn eigen voorwaarden. Vraag bij je studio naar de opzegtermijn en of je kunt pauzeren.
 
+Stap voor stap: [fit20 opzeggen](/nl/fit20-opzeggen/).
+
 <h2 id="classpass">fit20 of ClassPass?</h2>
 
 fit20 is voor wie weinig tijd heeft en toch sterker wil worden, met een trainer die op je let. Het is wel een vaste afspraak per week. Wil je juist afwisselen tussen yoga, boksen en spinning, en zelf kiezen wanneer je gaat, dan past een sportpas als ClassPass beter. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)

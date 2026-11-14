@@ -70,6 +70,8 @@ Open van maandag tot en met donderdag van 6.30 tot 22.30 uur, op vrijdag tot 21.
 - **Jaarlidmaatschap:** niet tussentijds opzegbaar.
 - **Bedenktijd:** 14 dagen na je inschrijving, zolang je nog niet hebt getraind.
 
+Stap voor stap: [Vondelgym opzeggen](/nl/vondelgym-opzeggen/).
+
 <h2 id="vergelijken">Vondelgym of Saints & Stars?</h2>
 
 <div class="kolommen">

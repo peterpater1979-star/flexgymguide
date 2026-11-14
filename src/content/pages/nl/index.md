@@ -427,6 +427,10 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Rostudios opzeggen](/nl/rostudios-opzeggen/)** · Unlimited, opzegtermijn en bevriezen
 - **[Go! Health Clubs opzeggen](/nl/go-health-clubs-opzeggen/)** · opzegtermijn en looptijd
 - **[Dutch Gym opzeggen](/nl/dutch-gym-opzeggen/)** · per e-mail, opzegtermijn
+- **[BigGym opzeggen](/nl/big-gym-opzeggen/)** · alleen via de app
+- **[Saints & Stars opzeggen](/nl/saints-stars-opzeggen/)** · Flex, jaar en afkopen
+- **[Vondelgym opzeggen](/nl/vondelgym-opzeggen/)** · opzegtermijn en pauzeren
+- **[fit20 opzeggen](/nl/fit20-opzeggen/)** · na zes maanden maandelijks
 - **[Sporten zonder contract](/nl/sporten-zonder-contract/)** · de opties per maand
 
 ## Veelgestelde vragen

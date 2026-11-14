@@ -78,6 +78,8 @@ BigGym zit ook in Almelo, Deventer, Enschede, Heerhugowaard, Hengelo, Hoogeveen,
 - **Verhuizen:** woon je meer dan 30 km van de dichtstbijzijnde BigGym, dan kun je je contract afkopen.
 - **Bedenktijd:** 14 dagen na online inschrijven.
 
+Stap voor stap: [BigGym opzeggen](/nl/big-gym-opzeggen/).
+
 <h2 id="classpass">BigGym of ClassPass?</h2>
 
 Ga je drie keer per week of vaker naar dezelfde gym, dan is BigGym met € 30 tot € 45 per 4 weken voordelig. Wil je afwisselen tussen yoga, boksen en spinning bij verschillende studio's, of sport je één tot drie keer per week, dan past een sportpas als ClassPass vaak beter. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
