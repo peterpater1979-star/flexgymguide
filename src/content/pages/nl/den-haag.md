@@ -112,6 +112,24 @@ Rostudios geeft aan de Amsterdamse Veerkade in het centrum Roform, lessen op de 
 
 </div>
 
+<div id="fit20" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Personal training</span></div>
+
+<h3>fit20</h3>
+
+fit20 heeft een studio in Den Haag West: één keer per week 20 minuten krachttraining met een trainer, op afspraak. Adviesprijs € 84 tot € 140 per maand, na zes maanden maandelijks opzegbaar.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis kennismakingstraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/fit20/">Alles over fit20</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>

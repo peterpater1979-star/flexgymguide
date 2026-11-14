@@ -114,26 +114,26 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 
 </div>
 
-<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness, Rostudios, Go!&nbsp;Health&nbsp;Clubs en Dutch&nbsp;Gym. <a href="#andere">Bekijk de andere sportscholen</a></p>
+<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness, Rostudios, Go!&nbsp;Health&nbsp;Clubs, Dutch&nbsp;Gym en fit20. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <div id="steden">
 
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs</span></li>
-<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs</span></li>
-<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness · Rostudios</span></li>
-<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios · Dutch&nbsp;Gym</span></li>
-<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore · SportCity</span></li>
-<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
-<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios</span></li>
-<li><a href="/nl/alkmaar/"><strong>Alkmaar</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym</span></li>
-<li><a href="/nl/arnhem/"><strong>Arnhem</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/nl/nijmegen/"><strong>Nijmegen</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs · fit20</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs · fit20</span></li>
+<li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness · Rostudios · fit20</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios · Dutch&nbsp;Gym · fit20</span></li>
+<li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · fit20</span></li>
+<li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore · SportCity · fit20</span></li>
+<li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · fit20</span></li>
+<li><a href="/nl/groningen/"><strong>Groningen</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios · fit20</span></li>
+<li><a href="/nl/alkmaar/"><strong>Alkmaar</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym · fit20</span></li>
+<li><a href="/nl/arnhem/"><strong>Arnhem</strong></a> <span class="klein">ClassPass · Basic-Fit · fit20</span></li>
+<li><a href="/nl/nijmegen/"><strong>Nijmegen</strong></a> <span class="klein">ClassPass · Basic-Fit · BigGym · fit20</span></li>
 <li><a href="/nl/den-bosch/"><strong>Den Bosch</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
-<li><a href="/nl/breda/"><strong>Breda</strong></a> <span class="klein">ClassPass · Basic-Fit</span></li>
+<li><a href="/nl/breda/"><strong>Breda</strong></a> <span class="klein">ClassPass · Basic-Fit · fit20</span></li>
 </ul>
 
 </div>
@@ -328,6 +328,30 @@ Drie clubs in Utrecht die dag en nacht open zijn, met groepslessen en sauna. Pre
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/dutch-gym/">Alles over Dutch Gym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Personal training</span></div>
+
+### fit20
+
+Eén keer per week 20 minuten krachttraining met een eigen trainer, in studio's door heel Nederland. Adviesprijs € 84 tot € 140 per maand.
+
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis kennismakingstraining</p>
+<ul>
+<li>Goed als je weinig tijd hebt</li>
+<li>Vaste afspraak per week</li>
+<li>Minimaal 6 maanden</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/fit20/">Alles over fit20</a>
 </div>
 
 </div>
