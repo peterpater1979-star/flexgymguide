@@ -10,7 +10,7 @@ crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
 ---
 
-Amsterdam heeft een heel groot aanbod. Met de sportpassen Urban Sports Club en ClassPass train je bij studio's in elke buurt, en daarnaast kies je uit een lange rij sportscholen: Trainmore met 31 clubs in de stad, SportCity, Basic-Fit, BigGym, Saints & Stars, Vondelgym en Anytime Fitness op de Zuidas. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Amsterdam](/nl/sporten-zonder-contract-amsterdam/) (in English: [Gyms without a contract](/nl/gyms-without-contract-amsterdam/)).
+Amsterdam heeft een heel groot aanbod. Met de sportpassen Urban Sports Club en ClassPass train je bij studio's in elke buurt, en daarnaast kies je uit een lange rij sportscholen: Trainmore met 31 clubs in de stad, SportCity, Basic-Fit, BigGym, Saints & Stars, Vondelgym, Go! Health Clubs aan de Overtoom en Anytime Fitness op de Zuidas. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Amsterdam](/nl/sporten-zonder-contract-amsterdam/) (in English: [Gyms without a contract](/nl/gyms-without-contract-amsterdam/)).
 
 <h2 id="kort">In het kort</h2>
 
@@ -158,6 +158,24 @@ Rostudios heeft vijf studio's in Amsterdam: Rocycle (indoor cycling) bij het Lei
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>
+</div>
+
+</div>
+
+<div id="go-health-clubs" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-go-health-clubs"><span>Training met begeleiding</span></div>
+
+<h3>Go! Health Clubs</h3>
+
+Go! Health Clubs heeft een club aan de Overtoom, bij het Vondelpark: circuittraining van 30 minuten met een coach, small group trainingen en buitenlessen in het park. € 59 tot € 79 per 4 weken, met 1 tot 3 jaar looptijd.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proeftraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/go-health-clubs/">Alles over Go! Health Clubs</a>
 </div>
 
 </div>

@@ -10,7 +10,7 @@ crumb: "Rotterdam"
 kicker: "Stadsgids Rotterdam"
 ---
 
-In Rotterdam kies je tussen twee sportpassen, Urban Sports Club en ClassPass, met studio's van Kralingen tot Zuid, of een vaste club bij Trainmore, SportCity, Basic-Fit, BigGym of Anytime Fitness. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Rotterdam](/nl/sporten-zonder-contract-rotterdam/).
+In Rotterdam kies je tussen twee sportpassen, Urban Sports Club en ClassPass, met studio's van Kralingen tot Zuid, of een vaste club bij Trainmore, SportCity, Basic-Fit, BigGym, Anytime Fitness of Go! Health Clubs. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Rotterdam](/nl/sporten-zonder-contract-rotterdam/).
 
 <h2 id="kort">In het kort</h2>
 
@@ -126,6 +126,24 @@ Rostudios heeft Rocycle (indoor cycling) en Roform (reformer) aan de Marinierswe
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>
+</div>
+
+</div>
+
+<div id="go-health-clubs" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-go-health-clubs"><span>Training met begeleiding</span></div>
+
+<h3>Go! Health Clubs</h3>
+
+Go! Health Clubs heeft een club in Hillegersberg, aan het Elgarhof: circuittraining van 30 minuten met een coach, groepslessen en fysiotherapie. € 59 tot € 79 per 4 weken, met 1 tot 3 jaar looptijd.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proeftraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/go-health-clubs/">Alles over Go! Health Clubs</a>
 </div>
 
 </div>

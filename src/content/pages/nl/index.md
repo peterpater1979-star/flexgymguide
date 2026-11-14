@@ -114,15 +114,15 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 
 </div>
 
-<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness en Rostudios. <a href="#andere">Bekijk de andere sportscholen</a></p>
+<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness, Rostudios en Go!&nbsp;Health&nbsp;Clubs. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <div id="steden">
 
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios</span></li>
-<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness · Rostudios</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs</span></li>
+<li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs</span></li>
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness · Rostudios</span></li>
 <li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios</span></li>
 <li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
@@ -280,6 +280,30 @@ Indoor cycling (Rocycle) en reformer (Roform) in Amsterdam, Rotterdam, Den Haag,
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-go-health-clubs"><span>Training met begeleiding</span></div>
+
+### Go! Health Clubs
+
+Circuittraining van 30 minuten op slimme apparaten, met een coach erbij, in 22 plaatsen. € 59 tot € 79 per 4 weken, met 1 tot 3 jaar looptijd.
+
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proeftraining</p>
+<ul>
+<li>Goed als je weinig tijd hebt</li>
+<li>Goed als je begeleiding wilt</li>
+<li>Minimaal 12 maanden vast</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/go-health-clubs/">Alles over Go! Health Clubs</a>
 </div>
 
 </div>
