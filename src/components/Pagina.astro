@@ -30,9 +30,11 @@ const jsonld: object[] = d.noindex ? [] : d.path === '/'
   : d.byline
     ? [{ '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description, inLanguage: d.lang, url, mainEntityOfPage: url, ...(datum && { dateModified: datum }), author: { '@type': 'Person', name: 'Peter Pater', url: 'https://flexgymguide.com/about/' }, publisher: organisatie, image: 'https://flexgymguide.com/og-image.png' }]
     : [];
-// Keuzehulp in de kop: landenhomepage en (geïndexeerde) stadspagina's van ES, FR en DE.
-const khLand = ['es', 'fr', 'de'].includes(d.land) && d.lang === d.land ? (d.land as 'es' | 'fr' | 'de') : null;
-const khStad = khLand && /^(Guía de ciudad|Guide ville|Stadtguide)/.test(d.kicker ?? '') && /^\/[a-z]{2}\/[^/]+\/$/.test(d.path) && !/(sin-permanencia|sans-engagement|ohne-vertrag)/.test(d.path) && !d.noindex ? d.path.split('/')[2] : null;
+// Keuzehulp in de kop: landenhomepage en (geïndexeerde) stadspagina's van ES, FR, DE, NL, BE, PT en UK, alleen in de taal van het land.
+const khTaal = { es: 'es', fr: 'fr', de: 'de', nl: 'nl', be: 'nl', pt: 'pt', uk: 'en' } as const;
+type KhLand = keyof typeof khTaal;
+const khLand = d.land in khTaal && d.lang === khTaal[d.land as KhLand] ? (d.land as KhLand) : null;
+const khStad = khLand && /^(Guía de ciudad|Guide ville|Stadtguide|Stadsgids|Guia da cidade|City guide)/.test(d.kicker ?? '') && /^\/[a-z]{2}\/[^/]+\/$/.test(d.path) && !/(sin-permanencia|sans-engagement|ohne-vertrag|zonder-contract|sem-fidelizacao|without-contract)/.test(d.path) && !d.noindex ? d.path.split('/')[2] : null;
 const keuzehulp = khLand && (d.path === `/${khLand}/` || khStad);
 const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : d.lang, { dateStyle: 'long' }).format(date);
 ---
