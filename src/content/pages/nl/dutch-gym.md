@@ -2,7 +2,7 @@
 title: "Dutch Gym: 24/7 sportschool met wellness in Utrecht"
 seoTitle: "Dutch Gym Utrecht: prijzen, clubs en opzeggen"
 path: "/nl/dutch-gym/"
-description: "Alles over Dutch Gym in Utrecht: drie clubs (West, Oost en Dutch Gym XL aan het Vredenburg), 24/7 open, Premium, Standard, Flex en Sport nu Gratis, dagpas, rittenkaart en opzeggen."
+description: "Alles over Dutch Gym in Utrecht: drie clubs (West, Oost en Dutch Gym XL aan het Vredenburg), 24/7 open, Premium, Standard en Flex, dagpas, rittenkaart en opzeggen."
 lang: nl
 land: nl
 byline: "Bijgewerkt in november 2026"
