@@ -66,18 +66,6 @@ Bij Mercator vraag je op de site een [gratis dagpas](https://www.mercatorfitness
 
 Verder zit Sportfondsen in Appelscha, Badhoevedorp, Bemmel, Bergschenhoek, Beverwijk, Borne, Buchten, Bussum, Coevorden, Cuijk, Delft, Deurne, Dirkshorn, Doorn, Driebergen, Eersel, Etten-Leur, Geertruidenberg, Geldermalsen, Geldrop, Gennep, Goirle, Grave, Haelen, Heemstede, 's-Heerenberg, Heinkenszand, Hellevoetsluis, Hendrik-Ido-Ambacht, Heythuysen, Hillegom, Hilvarenbeek, Hilversum, Hoensbroek, Hoofddorp, Hoogerheide, IJsselstein, Kruiningen, Leerdam, Leiderdorp, Leidschendam, Lisse, Malden, Markelo, Melick, Monnickendam, Naarden, Nederweert, Nieuw-Vennep, Noordwijk, Nuenen, Oirschot, Oosterwolde, Oudenbosch, Panningen, Pijnacker, Poortugaal, Raamsdonksveer, Rhenen, Roosendaal, Schagen, Spijkenisse, Strijen, Terborg, Venray, Vlissingen, Voerendaal, Volendam, Voorburg, Voorschoten, Vught, Wageningen, Warmenhuizen, Wassenaar, Wezep, Wormer, Zaltbommel en Zierikzee. Adressen, tijden en de site van elk bad vind je in het [overzicht van alle locaties](https://www.sportfondsen.nl/sportfondsen/accommodaties/) van Sportfondsen.
 
-<h2 id="opzeggen">Opzeggen</h2>
-
-Dit geldt bij Mercator:
-
-- **Looptijd:** je kiest een eerste periode van 3, 12 of 24 maanden. In die periode kun je niet tussentijds stoppen. Daarna loopt je abonnement per maand door.
-- **Opzegtermijn:** 1 kalendermaand.
-- **Hoe:** per e-mail aan Mercator.
-- **Pauzeren:** alleen bij een medische reden of zwangerschap waardoor je langer dan drie weken niet kunt sporten, en hooguit drie maanden.
-- **Vooruit betaald:** stopt vanzelf aan het einde van de periode.
-
-Andere locaties hebben eigen voorwaarden. Stap voor stap: [Sportfondsen opzeggen](/nl/sportfondsen-opzeggen/).
-
 <h2 id="classpass">Sportfondsen of ClassPass?</h2>
 
 Zwem je graag en wil je ook fitness en lessen op één plek, dan is een all-in abonnement bij Mercator handig. Zwem je alleen af en toe, dan is een strippenkaart vaak genoeg. Wil je afwisselen tussen zwemmen, yoga, boksen en spinning bij verschillende studio's, dan past een sportpas als ClassPass beter. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
@@ -98,6 +86,18 @@ Ga je zwemmen bij Sportfondsen? Via deze links ga je direct naar Swiminn, de zwe
 </ul>
 
 <p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
+
+<h2 id="opzeggen">Opzeggen</h2>
+
+Dit geldt bij Mercator:
+
+- **Looptijd:** je kiest een eerste periode van 3, 12 of 24 maanden. In die periode kun je niet tussentijds stoppen. Daarna loopt je abonnement per maand door.
+- **Opzegtermijn:** 1 kalendermaand.
+- **Hoe:** per e-mail aan Mercator.
+- **Pauzeren:** alleen bij een medische reden of zwangerschap waardoor je langer dan drie weken niet kunt sporten, en hooguit drie maanden.
+- **Vooruit betaald:** stopt vanzelf aan het einde van de periode.
+
+Andere locaties hebben eigen voorwaarden. Stap voor stap: [Sportfondsen opzeggen](/nl/sportfondsen-opzeggen/).
 
 ## Veelgestelde vragen
 
