@@ -119,7 +119,7 @@ Ja, met een gratis proeftraining. Die vraag je aan op de site, en de club belt o
 <details>
 <summary>Staat Go! Health Clubs op ClassPass?</summary>
 
-Op ClassPass vonden we de club in Amsterdam, aan de Overtoom.
+Op ClassPass vonden we de club in Amsterdam, aan de Overtoom. Meer over ClassPass in de stad lees je in [ClassPass in Amsterdam](/nl/classpass-amsterdam/).
 
 </details>
 
