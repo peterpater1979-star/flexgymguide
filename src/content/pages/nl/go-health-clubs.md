@@ -48,7 +48,11 @@ Je kiest een looptijd van 1, 2 of 3 jaar. Hoe langer, hoe lager de prijs per 4 w
 | 24 maanden (Lifestyle) | € 69 |
 | 36 maanden (Lifestyle PRO) | € 59 |
 
-Daarbij komen eenmalig € 75 startkosten, inclusief je polsband. Je betaalt per 4 weken, dus 13 keer per jaar. Koffie en thee in de lounge zijn inbegrepen. De prijs kan per club verschillen; je ziet hem bij het inschrijven. Een maandelijks opzegbaar lidmaatschap zonder looptijd zagen we niet.
+Daarbij komen eenmalig € 75 startkosten, inclusief je polsband. Je betaalt per 4 weken, dus 13 keer per jaar.
+
+Bij elk lidmaatschap krijg je een persoonlijke intake en een trainingsprogramma op maat, begeleiding door een trainer en elke 20e training een nieuw programma. Groepslessen, en koffie en thee in de lounge, zijn ook inbegrepen.
+
+De prijs kan per club verschillen; je ziet hem bij het inschrijven. Een maandelijks opzegbaar lidmaatschap zonder looptijd zagen we niet.
 
 <h2 id="proeftraining">Gratis proeftraining</h2>
 
