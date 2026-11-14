@@ -114,14 +114,14 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 
 </div>
 
-<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness, Rostudios, Go!&nbsp;Health&nbsp;Clubs, Dutch&nbsp;Gym, fit20 en Sportfondsen. <a href="#andere">Bekijk de andere sportscholen</a></p>
+<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness, Rostudios, Go!&nbsp;Health&nbsp;Clubs, Dutch&nbsp;Gym, fit20, Sportfondsen en The&nbsp;Crunch. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <div id="steden">
 
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs · fit20 · Sportfondsen</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs · fit20 · Sportfondsen · The&nbsp;Crunch</span></li>
 <li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs · fit20 · Sportfondsen</span></li>
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness · Rostudios · fit20</span></li>
 <li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios · Dutch&nbsp;Gym · fit20</span></li>
@@ -379,6 +379,29 @@ Zwembaden en sportcentra op ongeveer 90 plekken, een deel met fitness en groepsl
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-the-crunch"><span>Fitness en healthclub</span></div>
+
+### The Crunch
+
+Eén club in Amsterdam-Noord met fitness, groepslessen van spinning tot Hyrox, sauna en een fysiotherapeut. Lidmaatschap, dagkaart of 10x-kaart.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proefles</p>
+<ul>
+<li>Goed als je in Noord woont of werkt</li>
+<li>Goed als je ook sauna wilt</li>
+<li>Gratis parkeren (90 minuten)</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/the-crunch/">Alles over The Crunch</a>
+</div>
+
+</div>
+
 </div>
 
 ## Zo werkt ClassPass in Nederland
@@ -455,6 +478,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Vondelgym opzeggen](/nl/vondelgym-opzeggen/)** · opzegtermijn en pauzeren
 - **[fit20 opzeggen](/nl/fit20-opzeggen/)** · na zes maanden maandelijks
 - **[Sportfondsen opzeggen](/nl/sportfondsen-opzeggen/)** · opzegtermijn en pauzeren
+- **[The Crunch opzeggen](/nl/the-crunch-opzeggen/)** · per e-mail, opzegtermijn
 - **[Sporten zonder contract](/nl/sporten-zonder-contract/)** · de opties per maand
 
 ## Veelgestelde vragen
