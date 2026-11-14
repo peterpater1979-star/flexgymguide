@@ -1115,3 +1115,9 @@ https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!
 /go/classpass-es-murcia/            https://clk.tradedoubler.com/click?p=374043&a=3504160  302
 /go/classpass-es-zaragoza/  epi=:epi  https://clk.tradedoubler.com/click?p=374043&a=3504160&epi=:epi  302
 /go/classpass-es-zaragoza/            https://clk.tradedoubler.com/click?p=374043&a=3504160  302
+
+# Gains Nutrition VK via Awin (awinmid 73265), goedgekeurd 14 nov 2026. Label in clickref (fgg-uk-[pagina]-[product] / fgg-guides-...); zonder parameter fgg-uk-index. Alleen categorieën Protein en Creatine, geen claims.
+/go/gains-uk-protein/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fprotein%2F  302
+/go/gains-uk-protein/            https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=fgg-uk-index&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fprotein%2F  302
+/go/gains-uk-creatine/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fcreatine%2F  302
+/go/gains-uk-creatine/            https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=fgg-uk-index&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fcreatine%2F  302

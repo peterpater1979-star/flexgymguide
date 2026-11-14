@@ -1,25 +1,35 @@
 ---
 // Keuzehulp "Sportpas of sportschool?" in drie vragen (stad, hoe vaak, wat telt het zwaarst).
-// Staat in de paginakop van de landenhomepages en stadspagina's van ES, FR en DE, zodat er op de telefoon zonder scrollen een duidelijke knop in beeld is.
+// Staat in de paginakop van de landenhomepages en stadspagina's van ES, FR, DE, NL, BE, PT en UK, zodat er op de telefoon zonder scrollen een duidelijke knop in beeld is.
 // Neutraal (afspraak Peter 13-11): het advies noemt een SOORT (sportpas, sportschool of allebei), nooit één merk als winnaar.
 // Links gaan alleen naar onze eigen overzichten (stadspagina met alle aanbieders, sportscholen zonder contract), geen externe of /go/-links, geen prijzen.
 import { getCollection } from 'astro:content';
 
-type Land = 'es' | 'fr' | 'de';
+type Land = 'es' | 'fr' | 'de' | 'nl' | 'pt' | 'uk' | 'be';
 const { land, stad = '' } = Astro.props as { land: Land; stad?: string };
 
-const kicker = { es: /^Guía de ciudad/, fr: /^Guide ville/, de: /^Stadtguide/ }[land];
-const zonderContract = { es: 'gimnasio-sin-permanencia', fr: 'salle-de-sport-sans-engagement', de: 'fitnessstudio-ohne-vertrag' }[land];
+// Per land: taal van de pagina's, kicker van de stadspagina's, slug van de zonder-contractpagina's,
+// anker van het overzicht op stads- en landenpagina, vergelijkingsgids en landelijke zonder-contractpagina (null als die er niet is).
+const cfg = {
+  es: { lang: 'es', kicker: /^Guía de ciudad/, zc: 'gimnasio-sin-permanencia', stadAnker: '#resumen', landAnker: '/es/#opciones', vergelijk: '/es/pase-o-gimnasio/', zcLand: '/es/gimnasio-sin-permanencia/' },
+  fr: { lang: 'fr', kicker: /^Guide ville/, zc: 'salle-de-sport-sans-engagement', stadAnker: '#en-bref', landAnker: '/fr/#options', vergelijk: '/fr/pass-sport-ou-abonnement/', zcLand: '/fr/salle-de-sport-sans-engagement/' },
+  de: { lang: 'de', kicker: /^Stadtguide/, zc: 'fitnessstudio-ohne-vertrag', stadAnker: '#blick', landAnker: '/de/#opties', vergelijk: '/de/sportpass-oder-mitgliedschaft/', zcLand: '/de/fitnessstudio-ohne-vertrag/' },
+  nl: { lang: 'nl', kicker: /^Stadsgids/, zc: 'sporten-zonder-contract', stadAnker: '#kort', landAnker: '/nl/#opties', vergelijk: '/nl/sportpas-of-abonnement/', zcLand: '/nl/sporten-zonder-contract/' },
+  be: { lang: 'nl', kicker: /^Stadsgids/, zc: 'sporten-zonder-contract', stadAnker: '#kort', landAnker: '/be/#opties', vergelijk: '/nl/sportpas-of-abonnement/', zcLand: null },
+  pt: { lang: 'pt', kicker: /^Guia da cidade/, zc: 'ginasio-sem-fidelizacao', stadAnker: '#resumo', landAnker: '/pt/#opcoes', vergelijk: '/pt/passe-ou-ginasio/', zcLand: null },
+  uk: { lang: 'en', kicker: /^City guide/, zc: 'gyms-without-contract', stadAnker: '#glance', landAnker: '/uk/#opties', vergelijk: '/guides/gym-pass-or-membership/', zcLand: '/uk/gyms-without-contract/' },
+}[land];
+const zonderContract = cfg.zc;
 const pages = await getCollection('pages', (p) => !p.data.draft && p.data.land === land);
 const paden = new Set(pages.map((p) => p.data.path));
 const steden = pages
-  .filter((p) => kicker.test(p.data.kicker ?? '') && !p.data.noindex && !p.data.path.includes(zonderContract) && /^\/[a-z]{2}\/[^/]+\/$/.test(p.data.path))
+  .filter((p) => p.data.lang === cfg.lang && cfg.kicker.test(p.data.kicker ?? '') && !p.data.noindex && !p.data.path.includes(zonderContract) && /^\/[a-z]{2}\/[^/]+\/$/.test(p.data.path))
   .map((p) => {
     const slug = p.data.path.split('/')[2];
     const zc = `/${land}/${zonderContract}-${slug}/`;
     return { slug, naam: p.data.crumb ?? slug, pagina: p.data.path, zonderContract: paden.has(zc) ? zc : null };
   })
-  .sort((a, b) => a.naam.localeCompare(b.naam, land));
+  .sort((a, b) => a.naam.localeCompare(b.naam, cfg.lang));
 
 const t = {
   es: {
@@ -61,13 +71,52 @@ const t = {
     rMix: 'Nach deinen Antworten können ein Sportpass und ein Fitnessstudio passen. Vergleiche, was es in deiner Stadt gibt.',
     pasStad: 'Sportpässe und Studios in {s}', pasLand: 'Alle Möglichkeiten in Deutschland', alles: 'Alle Möglichkeiten in {s}', gymStad: 'Fitnessstudios in {s}', gymLand: 'Fitnessstudios in Deutschland', zcStad: 'Ohne Vertrag in {s}', zcLand: 'Fitnessstudios ohne Vertrag',
   },
-}[land];
+  nl: {
+    open: 'Sportpas of sportschool?', openKlein: 'Ontdek het met 3 vragen',
+    v1: 'Waar sport je?', kies: 'Kies je stad', ander: 'Andere stad',
+    v2: 'Hoe vaak per week?', f: ['Eén keer of minder', '2 of 3 keer', '4 keer of vaker'],
+    v3: 'Wat vind je het belangrijkst?', p: ['Weinig betalen', 'Afwisseling', 'Een vaste plek'],
+    advies: 'Dit past misschien bij je', opnieuw: 'Opnieuw beginnen', vergelijk: 'Uitgebreide vergelijking: sportpas of abonnement',
+    noot: 'Een richting op basis van je antwoorden, geen advies voor één bepaald merk. Vergelijk prijzen en voorwaarden altijd zelf.',
+    pas: 'Een sportpas', gym: 'Een sportschool', mix: 'Allebei kan',
+    rPas: 'Met een sportpas boek je lessen bij verschillende studio\'s en sportscholen, zonder vast te zitten aan één plek. Past vaak als je af en toe sport of graag afwisselt.',
+    rGym: 'Sport je vaak of liever altijd op dezelfde plek, dan past een sportschool dicht bij huis of werk misschien beter.',
+    rMix: 'Op basis van je antwoorden kunnen een sportpas en een sportschool allebei passen. Vergelijk wat er in je stad is.',
+    pasStad: 'Sportpassen en sportscholen in {s}', pasLand: 'Alle opties in {l}', alles: 'Alle opties in {s}', gymStad: 'Sportscholen in {s}', gymLand: 'Sportscholen in {l}', zcStad: 'Zonder contract in {s}', zcLand: 'Sporten zonder contract',
+  },
+  pt: {
+    open: 'Passe desportivo ou ginásio?', openKlein: 'Descobre em 3 perguntas',
+    v1: 'Onde treinas?', kies: 'Escolhe a tua cidade', ander: 'Outra cidade',
+    v2: 'Quantas vezes por semana?', f: ['Uma vez ou menos', '2 ou 3 vezes', '4 ou mais'],
+    v3: 'O que é mais importante?', p: ['Pagar pouco', 'Variedade', 'Um sítio fixo'],
+    advies: 'O que pode servir-te', opnieuw: 'Recomeçar', vergelijk: 'Comparação completa: passe ou ginásio',
+    noot: 'Uma orientação com base nas tuas respostas, não a recomendação de uma marca. Compara sempre preços e condições.',
+    pas: 'Um passe desportivo', gym: 'Um ginásio', mix: 'As duas opções',
+    rPas: 'Com um passe desportivo reservas aulas em vários estúdios e ginásios, sem ficares preso a um só sítio. Costuma servir se treinas de vez em quando ou gostas de variar.',
+    rGym: 'Se treinas muitas vezes ou preferes ir sempre ao mesmo sítio, um ginásio perto de casa ou do trabalho pode servir-te melhor.',
+    rMix: 'Pelas tuas respostas, tanto um passe desportivo como um ginásio podem servir-te. Compara o que há na tua cidade.',
+    pasStad: 'Passes e ginásios em {s}', pasLand: 'Todas as opções em Portugal', alles: 'Todas as opções em {s}', gymStad: 'Ginásios em {s}', gymLand: 'Ginásios em Portugal', zcStad: 'Sem fidelização em {s}', zcLand: '',
+  },
+  uk: {
+    open: 'Fitness pass or gym?', openKlein: 'Find out in 3 questions',
+    v1: 'Where do you train?', kies: 'Choose your city', ander: 'Another city',
+    v2: 'How often a week?', f: ['Once or less', '2 or 3 times', '4 or more'],
+    v3: 'What matters most?', p: ['Paying little', 'Variety', 'One regular place'],
+    advies: 'What might suit you', opnieuw: 'Start again', vergelijk: 'Full comparison: fitness pass or membership',
+    noot: 'A pointer based on your answers, not a recommendation for any one brand. Always compare prices and terms yourself.',
+    pas: 'A fitness pass', gym: 'A gym', mix: 'Either could work',
+    rPas: 'With a fitness pass you book classes at different studios and gyms, without being tied to one place. Often a good fit if you train now and then or like variety.',
+    rGym: 'If you train often or prefer the same place every time, a gym near home or work may suit you better.',
+    rMix: 'Based on your answers, a fitness pass and a gym could both work. Compare what your city has.',
+    pasStad: 'Passes and gyms in {s}', pasLand: 'All options in the UK', alles: 'All options in {s}', gymStad: 'Gyms in {s}', gymLand: 'Gyms in the UK', zcStad: 'No contract in {s}', zcLand: 'Gyms without a contract',
+  },
+}[land === 'be' ? 'nl' : land];
+// Landnaam voor de NL-teksten ({l}): Nederland of België.
+const landNaam = land === 'be' ? 'België' : 'Nederland';
+for (const k of ['pasLand', 'gymLand'] as const) t[k] = t[k].replace('{l}', landNaam);
 
 // Anker van het overzicht met alle aanbieders: op de stadspagina en op de landenhomepage.
-const overzichtStad = { es: '#resumen', fr: '#en-bref', de: '#blick' }[land];
-const overzichtLand = { es: '/es/#opciones', fr: '/fr/#options', de: '/de/#opties' }[land];
-const vergelijkHref = { es: '/es/pase-o-gimnasio/', fr: '/fr/pass-sport-ou-abonnement/', de: '/de/sportpass-oder-mitgliedschaft/' }[land];
-const data = { steden, t, vergelijk: vergelijkHref, zonderContractLand: `/${land}/${zonderContract}/`, overzichtStad, overzichtLand };
+const data = { steden, t, vergelijk: cfg.vergelijk, zonderContractLand: cfg.zcLand, overzichtStad: cfg.stadAnker, overzichtLand: cfg.landAnker };
 const id = 'keuzehulp';
 ---
 <details class="keuzehulp" data-keuzehulp={JSON.stringify(data)}>
@@ -109,7 +158,7 @@ const id = 'keuzehulp';
       // Alleen een soort, geen merk: sportpas, sportschool of allebei.
       // Alle knoppen gaan naar het overzicht met alle aanbieders (stad of land); sportscholen zonder contract alleen als extra knop.
       const overzicht = s ? s.pagina + d.overzichtStad : d.overzichtLand;
-      const zc = s ? (s.zonderContract ? { href: s.zonderContract, label: vul(t.zcStad) } : null) : { href: d.zonderContractLand, label: t.zcLand };
+      const zc = s ? (s.zonderContract ? { href: s.zonderContract, label: vul(t.zcStad) } : null) : (d.zonderContractLand ? { href: d.zonderContractLand, label: t.zcLand } : null);
       const v = Number(vaak), p = Number(prio);
       // p: 0 = wenig betalen, 1 = afwisseling, 2 = vaste plek. v: 0 = 1x of minder, 1 = 2-3x, 2 = 4x of vaker.
       const soort = p === 1 ? (v === 2 ? 'mix' : 'pas')

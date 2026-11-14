@@ -10,7 +10,7 @@ crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
 ---
 
-Amsterdam heeft een heel groot aanbod. Met de sportpassen Urban Sports Club en ClassPass train je bij studio's in elke buurt, en daarnaast kies je uit een lange rij sportscholen: Trainmore met 31 clubs in de stad, SportCity, Basic-Fit, BigGym, Saints & Stars, Vondelgym, Go! Health Clubs aan de Overtoom, Anytime Fitness op de Zuidas en Sportfondsen met zwembad en fitness in West. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Amsterdam](/nl/sporten-zonder-contract-amsterdam/) (in English: [Gyms without a contract](/nl/gyms-without-contract-amsterdam/)).
+Amsterdam heeft een heel groot aanbod. Met de sportpassen Urban Sports Club en ClassPass train je bij studio's in elke buurt, en daarnaast kies je uit een lange rij sportscholen: Trainmore met 31 clubs in de stad, SportCity, Basic-Fit, BigGym, Saints & Stars, Vondelgym, Go! Health Clubs aan de Overtoom, Anytime Fitness op de Zuidas, Sportfondsen met zwembad en fitness in West en The Crunch in Noord. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Amsterdam](/nl/sporten-zonder-contract-amsterdam/) (in English: [Gyms without a contract](/nl/gyms-without-contract-amsterdam/)).
 
 <h2 id="kort">In het kort</h2>
 
@@ -212,6 +212,24 @@ Sportfondsen Mercator in West heeft een zwembad, fitness, sauna en meer dan 30 g
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/sportfondsen/">Alles over Sportfondsen</a>
+</div>
+
+</div>
+
+<div id="the-crunch" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-the-crunch"><span>Fitness en healthclub</span></div>
+
+<h3>The Crunch</h3>
+
+The Crunch aan de Vlierweg in Noord heeft fitness, groepslessen als spinning, boksen en Hyrox, een sauna en een fysiotherapeut. Crunch Classic kost € 69,95 per maand bij jaarlijkse betaling, een dagkaart € 20.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proefles</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/the-crunch/">Alles over The Crunch</a>
 </div>
 
 </div>

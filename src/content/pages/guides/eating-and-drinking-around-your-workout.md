@@ -53,11 +53,13 @@ When choosing one, look at:
 - **Taste and how well it mixes.** Start with a small pack before buying a big bag.
 - **Vegan or lactose-free?** There are also pea or soy-based options.
 
-A bottle, protein powder or bars? These links take you to Traininn, the fitness shop of Tradeinn:
+A bottle, protein powder or bars? The first links take you to Traininn, the fitness shop of Tradeinn. In the UK you can also order protein powder and creatine from Gains Nutrition:
 
 <ul class="spullen">
 <li class="i-fles"><a href="/go/traininn-en-fles/?ws=fgg-guides-eating-and-drinking-around-your-workout-fles">Water bottle</a></li>
 <li class="i-fles"><a href="/go/traininn-en-voeding/?ws=fgg-guides-eating-and-drinking-around-your-workout-voeding">Protein and sports nutrition</a></li>
+<li class="i-fles"><a href="/go/gains-uk-protein/?clickref=fgg-guides-eating-and-drinking-around-your-workout-protein">Protein powder from Gains Nutrition (UK)</a></li>
+<li class="i-fles"><a href="/go/gains-uk-creatine/?clickref=fgg-guides-eating-and-drinking-around-your-workout-creatine">Creatine from Gains Nutrition (UK)</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>

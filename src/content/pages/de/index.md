@@ -135,16 +135,16 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 ## Städte
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · Rostudios</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Basic-Fit · clever fit · Rostudios</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · Rostudios</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Basic-Fit · clever fit · Rostudios</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Fitness First · clever fit</span></li>
-<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit</span></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · Holmes Place · FitX · JOHN REED · Rostudios</span></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · FitX · JOHN REED · clever fit</span></li>
-<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">Urban Sports Club · ClassPass · Fitness First · McFit · FitX · Basic-Fit · JOHN REED</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Basic-Fit · JOHN REED · clever fit</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · FitX · JOHN REED · Rostudios</span></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · FitX · JOHN REED · clever fit</span></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · FitX · Basic-Fit · JOHN REED</span></li>
 </ul>
 
 </div>

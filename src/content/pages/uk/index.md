@@ -283,7 +283,7 @@ You can change, pause or cancel your plan at any time.
 
 <h2 id="spullen">Need anything for the gym?</h2>
 
-Missing something? These links take you straight to Traininn, the fitness shop of Tradeinn:
+Missing something? Most links take you straight to Traininn, the fitness shop of Tradeinn. Protein powder and creatine come from Gains Nutrition, a UK shop:
 
 <ul class="spullen">
 <li class="i-kleding"><a href="/go/traininn-en-kleding-dames/?ws=fgg-uk-index-kleding-dames">Sportswear for women</a></li>
@@ -294,6 +294,8 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 <li class="i-handdoek"><a href="/go/traininn-en-handdoek/?ws=fgg-uk-index-handdoek">Gym towel</a></li>
 <li class="i-slot"><a href="/go/bricoinn-en-cadenas/?ws=fgg-uk-index-hangslot">Locker padlock</a></li>
 <li class="i-sok"><a href="/go/traininn-en-gripsokken/?ws=fgg-uk-index-gripsokken">Grip socks for yoga and Pilates</a></li>
+<li class="i-fles"><a href="/go/gains-uk-protein/?clickref=fgg-uk-index-protein">Protein powder</a></li>
+<li class="i-fles"><a href="/go/gains-uk-creatine/?clickref=fgg-uk-index-creatine">Creatine</a></li>
 </ul>
 
 <p class="klein commissie">Buy through these links and we get a small commission. It costs you nothing extra and keeps this guide free. Thanks!</p>
