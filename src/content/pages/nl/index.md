@@ -114,7 +114,7 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 
 </div>
 
-<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness, Rostudios en Go!&nbsp;Health&nbsp;Clubs. <a href="#andere">Bekijk de andere sportscholen</a></p>
+<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness, Rostudios, Go!&nbsp;Health&nbsp;Clubs en Dutch&nbsp;Gym. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <div id="steden">
 
@@ -124,7 +124,7 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 <li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs</span></li>
 <li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs</span></li>
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness · Rostudios</span></li>
-<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios</span></li>
+<li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios · Dutch&nbsp;Gym</span></li>
 <li><a href="/nl/haarlem/"><strong>Haarlem</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
 <li><a href="/nl/leiden/"><strong>Leiden</strong></a> <span class="klein">ClassPass · Trainmore · SportCity</span></li>
 <li><a href="/nl/eindhoven/"><strong>Eindhoven</strong></a> <span class="klein">ClassPass · Trainmore · Basic-Fit · SportCity</span></li>
@@ -308,6 +308,30 @@ Circuittraining van 30 minuten op slimme apparaten, met een coach erbij, in 22 p
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-dutch-gym"><span>24/7 met wellness</span></div>
+
+### Dutch Gym
+
+Drie clubs in Utrecht die dag en nacht open zijn, met groepslessen en sauna. Premium vanaf € 60,95 per 4 weken, Flex € 74,95 per maand.
+
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Dagpas € 15</p>
+<ul>
+<li>Goed als je ook wellness wilt</li>
+<li>Flex: zonder contract</li>
+<li>Alleen in Utrecht</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/dutch-gym/">Alles over Dutch Gym</a>
+</div>
+
+</div>
+
 </div>
 
 ## Zo werkt ClassPass in Nederland
@@ -378,6 +402,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Anytime Fitness opzeggen](/nl/anytime-fitness-opzeggen/)** · opzegtermijn en pauzeren
 - **[Rostudios opzeggen](/nl/rostudios-opzeggen/)** · Unlimited, opzegtermijn en bevriezen
 - **[Go! Health Clubs opzeggen](/nl/go-health-clubs-opzeggen/)** · opzegtermijn en looptijd
+- **[Dutch Gym opzeggen](/nl/dutch-gym-opzeggen/)** · per e-mail, opzegtermijn
 - **[Sporten zonder contract](/nl/sporten-zonder-contract/)** · de opties per maand
 
 ## Veelgestelde vragen
