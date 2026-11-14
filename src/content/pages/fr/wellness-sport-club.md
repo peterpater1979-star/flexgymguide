@@ -93,11 +93,17 @@ Moins cher, avec plus de 270 salles en France, des coachs et des cours en petits
 
 ### ClassPass
 
-Idéal si tu aimes varier les studios et que tu fais du sport une à trois fois par semaine. Lis [Tout sur ClassPass](/fr/classpass/).
+Idéal si tu aimes varier les studios et que tu fais du sport une à trois fois par semaine. Tu peux tester 10 séances gratuites en 14 jours.
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
 </div>
 
 </div>
+
+</div>
+
+**ClassPass dans ta ville :** [Paris](/fr/classpass-paris/) · [Lyon](/fr/classpass-lyon/) · [Marseille](/fr/classpass-marseille/) · [Toulouse](/fr/classpass-toulouse/) · [Bordeaux](/fr/classpass-bordeaux/) · [Lille](/fr/classpass-lille/) · [Nantes](/fr/classpass-nantes/) · [Nice](/fr/classpass-nice/) · [Montpellier](/fr/classpass-montpellier/) · [Strasbourg](/fr/classpass-strasbourg/) · [Aix-en-Provence](/fr/classpass-aix-en-provence/)
 
 ## Questions fréquentes
 

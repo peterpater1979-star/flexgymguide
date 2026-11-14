@@ -94,6 +94,14 @@ Die meisten Clubs liegen in Nordrhein-Westfalen und Norddeutschland. Alle Clubs 
 
 Gehst du oft ins Gym und brauchst keine Kurse in anderen Studios, ist Basic-Fit sehr günstig. Willst du zwischen Yoga, Boxen und Spinning wechseln, passt ein Sportpass wie ClassPass oft besser. Lies [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
+Du kannst ClassPass 1 Monat gratis mit 10 Workouts testen.
+
+**ClassPass in deiner Stadt:** [Berlin](/de/classpass-berlin/) · [Hamburg](/de/classpass-hamburg/) · [München](/de/classpass-muenchen/) · [Frankfurt](/de/classpass-frankfurt/) · [Köln](/de/classpass-koeln/) · [Düsseldorf](/de/classpass-duesseldorf/) · [Stuttgart](/de/classpass-stuttgart/) · [Leipzig](/de/classpass-leipzig/)
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
 Schritt für Schritt: [Basic-Fit kündigen](/de/basic-fit-kuendigen/).
 
 ## Häufige Fragen

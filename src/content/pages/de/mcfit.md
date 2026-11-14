@@ -82,6 +82,14 @@ McFit-Preise und andere Möglichkeiten ohne lange Laufzeit findest du in:
 
 Gehst du dreimal pro Woche oder öfter ins selbe Gym, ist ein Studio wie McFit meistens günstiger. Willst du zwischen Yoga, Boxen und Spinning in verschiedenen Studios wechseln oder trainierst du ein- bis dreimal pro Woche, passt ein Sportpass wie ClassPass oft besser. Lies [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
+Du kannst ClassPass 1 Monat gratis mit 10 Workouts testen.
+
+**ClassPass in deiner Stadt:** [Berlin](/de/classpass-berlin/) · [Hamburg](/de/classpass-hamburg/) · [München](/de/classpass-muenchen/) · [Frankfurt](/de/classpass-frankfurt/) · [Köln](/de/classpass-koeln/) · [Düsseldorf](/de/classpass-duesseldorf/) · [Stuttgart](/de/classpass-stuttgart/) · [Leipzig](/de/classpass-leipzig/)
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
 ## Häufige Fragen
 
 <details open>

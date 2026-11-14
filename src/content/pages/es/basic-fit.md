@@ -69,11 +69,17 @@ Gimnasio con clases colectivas, con o sin permanencia. Lee [Todo sobre Fitness P
 
 ### ClassPass
 
-Ideal si te gusta variar y entrenas de una a tres veces por semana. Lee [Todo sobre ClassPass](/es/classpass/).
+Ideal si te gusta variar y entrenas de una a tres veces por semana. Pruebas 10 sesiones gratis en 14 días.
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
+
+</div>
+
+**ClassPass en tu ciudad:** [Madrid](/es/classpass-madrid/) · [Barcelona](/es/classpass-barcelona/) · [Valencia](/es/classpass-valencia/) · [Sevilla](/es/classpass-sevilla/) · [Málaga](/es/classpass-malaga/)
 
 ## Preguntas frecuentes
 
