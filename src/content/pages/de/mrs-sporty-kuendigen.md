@@ -34,7 +34,7 @@ Mrs.Sporty ist ein Fitnessclub nur für Frauen, mit kurzen Trainings von 30 Minu
 - **Jeder Club ist anders.** Was eine Freundin in einem anderen Club zahlt oder wie lange sie gebunden ist, muss für dich nicht gelten.
 - **Eine E-Mail reicht.** Seit Oktober 2021 ist für die Kündigung kein unterschriebener Brief mehr nötig.
 - **Erstlaufzeit vorbei?** Bei Verträgen seit März 2022 kannst du danach jederzeit mit höchstens einem Monat Frist kündigen.
-- **Initialservice.** Hast du beim Start einen einmaligen Initialservice bezahlt, bekommst du ihn bei der Kündigung in der Regel nicht zurück. Frag im Zweifel in deinem Club.
+- **Initialservice.** Hast du beim Start einen einmaligen Initialservice bezahlt? Ob du davon etwas zurückbekommst, steht in deinem Vertrag. Frag im Zweifel in deinem Club.
 - **Umzug?** Was dann gilt, liest du in [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
 
 <p class="klein">Mrs.Sporty nennt keine einheitlichen Kündigungsregeln; jeder Club hat eigene Bedingungen (November 2026). Die gesetzlichen Regeln gelten für Verträge in Deutschland.</p>
