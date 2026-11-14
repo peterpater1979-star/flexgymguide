@@ -42,8 +42,6 @@ Dutch Gym is een Utrechtse sportschool met drie clubs die 24 uur per dag open zi
 
 **Flex** heeft geen contract: € 74,95 per maand, of € 64,95 voor studenten. Je krijgt dan alles wat Premium ook heeft: alle clubs, groepslessen, small group trainingen en de wellness.
 
-**Sport nu Gratis** werkt als Premium, maar met een prijs die daalt naarmate je vaker traint. Train je in een periode niet, dan betaal je het volle bedrag: € 70,95 per 4 weken bij 2 jaar, € 74,95 bij 1 jaar, € 64,95 voor studenten. Train je elke dag, minimaal een uur, dan betaal je niets. De eerste termijn betaal je altijd volledig.
-
 Bij elk lidmaatschap betaal je eenmalig € 30 voor de 24/7-toegang en beveiliging. Met een contract betaal je per 4 weken, dus 13 keer per jaar.
 
 <h2 id="dagpas">Dagpas en rittenkaart</h2>
@@ -68,7 +66,7 @@ Buiten de bemande uren kom je binnen met de app. De sauna en andere wellness geb
 
 - **Met contract:** je zit vast aan 52 of 104 weken. Zeg uiterlijk een maand voor het einde op. Doe je dat niet, dan loopt je lidmaatschap door en zeg je daarna op met 4 weken opzegtermijn.
 - **Hoe:** per e-mail aan cancelation@dutchgym.nl, met je lidmaatschapsnummer, naam, adres en reden.
-- **Eerder stoppen:** alleen bij een medische reden of als je meer dan 15 km verderop gaat wonen, met bewijs en 1 maand opzegtermijn. Je betaalt dan administratiekosten (tot € 75) en de helft van de resterende termijnen.
+- **Eerder stoppen:** alleen bij een medische reden of als je meer dan 15 km verderop gaat wonen, met bewijs en 1 maand opzegtermijn. Je betaalt dan € 75 administratiekosten en de helft van de resterende termijnen.
 - **Pauzeren:** daarover vonden we niets in de voorwaarden.
 
 Stap voor stap: [Dutch Gym opzeggen](/nl/dutch-gym-opzeggen/).

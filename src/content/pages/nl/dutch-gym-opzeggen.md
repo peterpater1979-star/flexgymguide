@@ -34,7 +34,7 @@ Je zegt Dutch Gym op per e-mail. Heb je een contract van 52 of 104 weken, dan ze
 <h2 id="wanneer">Goed om te weten</h2>
 
 - **Niet op tijd opgezegd?** Dan loopt je lidmaatschap door zonder vaste looptijd, met een toeslag van € 5 per 4 weken voor maandelijks opzeggen. Kortingen vervallen dan.
-- **Eerder stoppen.** Kan alleen bij een medische reden of als je meer dan 15 km verderop gaat wonen, met bewijs en 1 maand opzegtermijn. Je betaalt administratiekosten (de voorwaarden noemen € 25, de veelgestelde vragen € 75) en de helft van de resterende termijnen.
+- **Eerder stoppen.** Kan alleen bij een medische reden of als je meer dan 15 km verderop gaat wonen, met bewijs en 1 maand opzegtermijn. Je betaalt € 75 administratiekosten en de helft van de resterende termijnen.
 - **Flex.** Zonder contract betaal je per maand en zeg je maandelijks op.
 
 <p class="klein">Bron: <a href="/nl/dutch-gym/">onze pagina over Dutch Gym</a>, op basis van dutchgym.nl en de algemene voorwaarden (november 2026). Controleer de actuele voorwaarden altijd bij Dutch Gym.</p>
@@ -66,7 +66,7 @@ Ja, per e-mail aan cancelation@dutchgym.nl, met je lidmaatschapsnummer, naam, ad
 <details>
 <summary>Kan ik Dutch Gym tussentijds opzeggen?</summary>
 
-Alleen bij een medische reden of een verhuizing van meer dan 15 km, met bewijs. Je betaalt dan administratiekosten en de helft van de resterende termijnen.
+Alleen bij een medische reden of een verhuizing van meer dan 15 km, met bewijs. Je betaalt dan € 75 administratiekosten en de helft van de resterende termijnen.
 
 </details>
 
