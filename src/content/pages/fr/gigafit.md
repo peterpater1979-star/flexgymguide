@@ -61,6 +61,8 @@ Gigafit a aussi des clubs entre autres à Beauvais, Dreux, Guérande, Dinard et 
 - **Comment** : avec le formulaire de résiliation en ligne sur le site de Gigafit, en choisissant ton club.
 - **À savoir** : le préavis dépend de ton contrat et de ton club. Demande-le à l’accueil avant de t’inscrire.
 
+Tout le détail : [Résilier Gigafit](/fr/resilier-gigafit/).
+
 <h2 id="choix">Gigafit, L’Orange bleue ou ClassPass ?</h2>
 
 <div class="kolommen">

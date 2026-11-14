@@ -426,6 +426,14 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 - **[Résilier Fitness Park](/fr/resilier-fitness-park/)** · préavis et alternatives
 - **[Résilier Keepcool](/fr/resilier-keepcool/)** · préavis et alternatives
 - **[Résilier L’Orange bleue](/fr/resilier-l-orange-bleue/)** · préavis et alternatives
+- **[Résilier Gigafit](/fr/resilier-gigafit/)** · préavis et alternatives
+- **[Résilier L’Appart Fitness](/fr/resilier-l-appart-fitness/)** · préavis et alternatives
+- **[Résilier Magic Form](/fr/resilier-magic-form/)** · préavis et alternatives
+- **[Résilier Neoness](/fr/resilier-neoness/)** · préavis et alternatives
+- **[Résilier ON AIR](/fr/resilier-on-air/)** · préavis et alternatives
+- **[Résilier RITM](/fr/resilier-ritm/)** · préavis et alternatives
+- **[Résilier Urban Sports Club](/fr/resilier-urban-sports-club/)** · préavis et alternatives
+- **[Résilier WellNess Sport Club](/fr/resilier-wellness-sport-club/)** · préavis et alternatives
 - **[Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/)** · les options mois par mois
 - **[Salle de sport sans engagement à Lyon](/fr/salle-de-sport-sans-engagement-lyon/)** · les options mois par mois
 - **[Salle de sport sans engagement à Marseille](/fr/salle-de-sport-sans-engagement-marseille/)** · les options mois par mois

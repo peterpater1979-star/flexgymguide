@@ -68,6 +68,8 @@ Avec ton abonnement, tu vas aussi dans les salles Keepcool : voir [Keepcool](/fr
 - **Comment résilier :** par lettre recommandée à ton club ou via le formulaire de résiliation sur le site de Neoness. Une demande en ligne ne met pas fin à ton engagement en cours.
 - **Arrêter pendant l’engagement :** possible si tu déménages à plus de 30 km d’un club, avec un justificatif de domicile récent à ton nom. Tu envoies ta demande en recommandé au club ou via le formulaire de résiliation sur le site.
 
+Tout le détail : [Résilier Neoness](/fr/resilier-neoness/).
+
 <p class="klein">Source : FAQ de neoness.fr (novembre 2026). Vérifie les conditions générales de ton contrat.</p>
 
 <h2 id="choix">Neoness, Keepcool ou ClassPass ?</h2>

@@ -70,6 +70,8 @@ Tu résilies en ligne, avec le formulaire sur la [page de résiliation de Magic 
 
 La durée du préavis est dans les conditions générales de ton contrat.
 
+Tout le détail : [Résilier Magic Form](/fr/resilier-magic-form/).
+
 <h2 id="choix">Magic Form ou ClassPass ?</h2>
 
 <div class="kolommen">

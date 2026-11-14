@@ -63,6 +63,8 @@ Toutes les salles sont sur [lappartfitness.com](https://clubs.lappartfitness.com
 - **Sans engagement** : tu résilies quand tu veux, avec un préavis de 4 semaines.
 - **Inscrit en ligne ?** Tu as 14 jours pour changer d’avis.
 
+Tout le détail : [Résilier L’Appart Fitness](/fr/resilier-l-appart-fitness/).
+
 <h2 id="choix">L’Appart Fitness, Keepcool ou ClassPass ?</h2>
 
 <div class="kolommen">

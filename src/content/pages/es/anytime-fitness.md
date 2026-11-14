@@ -54,6 +54,8 @@ Todos los clubes están en [anytimefitness.com](https://www.anytimefitness.com/e
 - **Pausar:** pide una pausa a tu club; la duración y el precio dependen del club.
 - **Mudarte:** si te mudas a más de 16 km, puedes pasar tu cuota a otro club sin coste.
 
+Todo el detalle: [Darse de baja en Anytime Fitness](/es/baja-anytime-fitness/).
+
 <h2 id="eleccion">¿Anytime Fitness, Basic-Fit o ClassPass?</h2>
 
 <div class="kolommen">

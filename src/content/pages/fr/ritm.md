@@ -76,6 +76,8 @@ Les clubs sont ouverts 7j/7, et les jours fériés aux horaires du dimanche (sau
 - **Comment résilier** : par lettre recommandée avec accusé de réception, au moins 10 jours avant le prélèvement, à l’adresse indiquée dans les conditions générales de vente. Pendant le mois de préavis, tu peux encore t’entraîner.
 - **À savoir** : les frais d’inscription ne sont jamais remboursés. Le club peut demander une empreinte de carte bancaire, ou sinon un mois de caution. Un badge perdu ou non rendu coûte 15 €.
 
+Tout le détail : [Résilier RITM](/fr/resilier-ritm/).
+
 <h2 id="choix">RITM, WellNess Sport Club ou ClassPass ?</h2>
 
 <div class="kolommen">
