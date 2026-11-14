@@ -224,6 +224,10 @@ Decathlon has an Irish webshop in euro, with delivery in Ireland. These links ta
 - **[Working out as a student](/guides/working-out-as-a-student/)** · flexible and affordable
 - **[Eating and drinking around your workout](/guides/eating-and-drinking-around-your-workout/)** · simple, no fuss
 - **[Cancel Flyefit](/ie/cancel-flyefit/)** · how to do it in MYFLYE
+- **[Cancel BD Gyms](/ie/cancel-bd-gyms/)** · notice period and alternatives
+- **[Cancel Gym Plus](/ie/cancel-gym-plus/)** · notice period and alternatives
+- **[Cancel Snap Fitness](/ie/cancel-snap-fitness/)** · notice period and alternatives
+- **[Cancel West Wood Club](/ie/cancel-west-wood-club/)** · notice period and alternatives
 - **[Gyms without a contract in Dublin](/ie/gyms-without-contract-dublin/)** · month-by-month options
 
 ## Frequently asked questions

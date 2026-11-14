@@ -23,6 +23,7 @@ In Utrecht sport je zonder jaarcontract bij Trainmore (3 clubs, allemaal Black L
 | **Basic-Fit Flex** | Zonder minimale looptijd, opzegtermijn 4 weken | Vanaf € 34,98/4 wkn, plus € 19,99 inschrijving | Goedkoop en vaak trainen, 24/7 open |
 | **SportCity Flex** | Maandelijks | City Plus € 69,99/4 wkn bij Wonderwoods, plus € 9,99 inschrijfgeld; verschilt per club | Gym met groepslessen, ook een dagpas |
 | **BigGym Flex** | Elke 4 weken, 4 weken opzegtermijn | € 45/4 wkn, plus € 10 activatie; dagpas € 10 | Grote gym met groepslessen en HYROX, alle 16 BigGyms |
+| **Dutch Gym Flex** | Maandabonnement, zonder contract | € 74,95 per maand, student € 64,95, plus eenmalig € 30; dagpas € 15 | 24/7 met groepslessen en sauna, alle drie de clubs |
 | **Losse les of rittenkaart** | Niet nodig | Verschilt per studio | Af en toe een les bij je favoriete studio |
 
 <p class="klein">Prijzen van oktober 2026. ClassPass: locatie Utrecht. Basic-Fit: landelijke prijzen. SportCity: club Wonderwoods. Trainmore: club Muntgebouw, Home+. Controleer de actuele prijs altijd bij de aanbieder.</p>
@@ -82,6 +83,12 @@ Bij Flex betaal je € 14,99 inschrijfgeld. De prijs verschilt flink per club: b
 BigGym heeft een grote gym in Utrecht, met kracht, cardio, een HYROX-zone en groepslessen, en je traint in alle 16 BigGyms in Nederland. Met Unlimited Flex betaal je € 45 per 4 weken en zeg je elke 4 weken op, in de BigGym-app. Met een contract van 1 tot 3 jaar betaal je € 30 tot € 35. Daarbij komt eenmalig € 10 activatie. Eerst proberen? Een dagpas kost € 10.
 
 <p class="klein">Bron: biggym.com (november 2026). Meer in <a href="/nl/big-gym/">Alles over BigGym</a>.</p>
+
+<h2 id="dutch-gym">Dutch Gym Flex: zonder contract</h2>
+
+Dutch Gym heeft drie clubs in Utrecht, die 24 uur per dag open zijn: West, Oost en Dutch Gym XL aan het Vredenburg. Met Flex betaal je € 74,95 per maand, of € 64,95 als student, zonder contract. Je krijgt dan toegang tot alle clubs, groepslessen en de wellness met sauna. Daarbij komt eenmalig € 30 voor de 24/7-toegang. Liever af en toe? Een dagpas kost € 15, 10 bezoeken € 129,95.
+
+<p class="klein">Bron: dutchgym.nl (november 2026). Meer in <a href="/nl/dutch-gym/">Alles over Dutch Gym</a>.</p>
 
 ## Veelgestelde vragen
 

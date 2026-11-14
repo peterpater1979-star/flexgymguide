@@ -138,6 +138,10 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-saints-stars { --foto: url(/img/foto/saints-stars.jpg); }
 .foto-rostudios { --foto: url(/img/foto/rostudios.jpg); }
 .foto-rostudios-reformer { --foto: url(/img/foto/rostudios-reformer.jpg); }
+.foto-go-health-clubs { --foto: url(/img/foto/go-health-clubs.jpg); }
+.foto-dutch-gym { --foto: url(/img/foto/dutch-gym.jpg); }
+.foto-fit20 { --foto: url(/img/foto/fit20.jpg); }
+.foto-sportfondsen { --foto: url(/img/foto/sportfondsen.jpg); }
 .foto-on-air { --foto: url(/img/foto/on-air.jpg); }
 .foto-l-appart-fitness { --foto: url(/img/foto/l-appart-fitness.jpg); }
 .foto-fitx { --foto: url(/img/foto/fitx.jpg); }
@@ -179,6 +183,9 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .spullen .i-handdoek { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M5 3h11a3 3 0 0 1 3 3v15H8V6a3 3 0 0 0-3-3zM5 3a3 3 0 0 0-3 3v2h6M11 16h5'/%3E%3C/svg%3E"); }
 .spullen .i-slot { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M6 11h12v10H6zM8 11V7a4 4 0 0 1 8 0v4M12 15v2'/%3E%3C/svg%3E"); }
 .spullen .i-sok { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M8 2h7v9l3 4a3 3 0 0 1-2 5h-3l-6-4a3 3 0 0 1-1-3l2-3zM8 6h7'/%3E%3C/svg%3E"); }
+.spullen .i-bril { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M3.5 12a3.5 3.5 0 1 0 7 0a3.5 3.5 0 1 0-7 0zM13.5 12a3.5 3.5 0 1 0 7 0a3.5 3.5 0 1 0-7 0zM10.5 12h3M2 10.5l1.5 1.5M22 10.5l-1.5 1.5'/%3E%3C/svg%3E"); }
+.spullen .i-badmuts { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M4 16a8 8 0 0 1 16 0zM4 16v2h16v-2'/%3E%3C/svg%3E"); }
+.spullen .i-tas { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M4 8h16l-1 13H5zM9 8V6a3 3 0 0 1 6 0v2'/%3E%3C/svg%3E"); }
 .spullen .i-bandage { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M4 9a5 5 0 1 0 10 0 5 5 0 1 0-10 0M7 9a2 2 0 1 0 4 0 2 2 0 1 0-4 0M9 14h11v4H9'/%3E%3C/svg%3E"); }
 .spullen .i-handschoen { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M7 4h7a4 4 0 0 1 4 4v5a4 4 0 0 1-4 4H9l-3-3V9a5 5 0 0 1 1-5zM7 17v4h8v-4M11 8v4'/%3E%3C/svg%3E"); }
 .spullen .i-mat { --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linejoin='round' stroke-linecap='round'%3E%3Cpath d='M3 7h14a3 3 0 0 1 0 6H3zM17 13v4H3V7'/%3E%3C/svg%3E"); }

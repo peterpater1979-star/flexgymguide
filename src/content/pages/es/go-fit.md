@@ -59,6 +59,8 @@ GOfit es una cadena española de centros deportivos grandes, con unos 20 centros
 - **La baja:** la pides en el centro o por correo electrónico a la dirección del centro. El plazo depende del centro: lo ves en tu área privada de la web o en la recepción.
 - **Cambiar de cuota:** de individual a familiar o al revés, o de pago mensual a anual. Pídelo antes del día 20 del mes anterior al cambio; en algunos centros antes del día 15.
 
+Todo el detalle: [Darse de baja en GOfit](/es/baja-go-fit/).
+
 <h2 id="eleccion">¿GOfit, Synergym o ClassPass?</h2>
 
 <div class="kolommen">

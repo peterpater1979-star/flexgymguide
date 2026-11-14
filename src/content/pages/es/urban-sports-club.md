@@ -102,6 +102,8 @@ Urban Sports Club tiene centros asociados en 6 países europeos: Alemania, Bélg
 - **Suscripción mensual**: 3 días de preaviso antes de la renovación.
 - **Desistimiento**: 14 días después de darte de alta, sin dar motivos.
 
+Todo el detalle: [Darse de baja en Urban Sports Club](/es/baja-urban-sports-club/).
+
 ## Preguntas frecuentes
 
 <details open>

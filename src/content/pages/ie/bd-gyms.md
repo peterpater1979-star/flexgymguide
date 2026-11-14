@@ -69,6 +69,8 @@ Only training once? A guest pass costs €10 a day at reception. You need to be 
 - **6 and 12 months:** paid upfront and not refundable, except within 14 days if you haven't used the gym.
 - **Pausing:** only a 12-month membership can be paused, on medical grounds with a doctor's note, for up to 6 months. Monthly memberships can't be paused.
 
+Step by step: [Cancel BD Gyms](/ie/cancel-bd-gyms/).
+
 <h2 id="age">Minimum age</h2>
 
 You need to be 16 and show ID, such as a passport, driving licence or Garda Age Card.

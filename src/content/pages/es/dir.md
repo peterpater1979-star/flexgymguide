@@ -62,6 +62,8 @@ Fuera de Barcelona, DiR tiene clubes en Sant Cugat del Vallès, Sabadell, Sant Q
 - **Con permanencia:** si te vas antes de los 12 meses, pagas las mensualidades que faltan.
 - **Pausa:** DiR tiene varias bajas temporales, por ejemplo por verano o por motivos médicos, con una cuota reducida. No todas las cuotas y promociones las permiten.
 
+Todo el detalle: [Darse de baja en DiR](/es/baja-dir/).
+
 <p class="klein">Fuente: preguntas frecuentes y condiciones generales de dir.cat (noviembre de 2026). Comprueba las condiciones de tu contrato.</p>
 
 <h2 id="eleccion">¿DiR, Dreamfit o ClassPass?</h2>

@@ -67,6 +67,8 @@ Ask your own club about:
 - **Rolling monthly:** no fixed term. In Manchester Central you give one calendar month's notice; check the notice period with your own club.
 - **Freeze:** ask your club; whether you can and what it costs depends on the club.
 
+Step by step: [Cancel Anytime Fitness](/uk/cancel-anytime-fitness/).
+
 <h2 id="classpass">Anytime Fitness, PureGym or ClassPass?</h2>
 
 <div class="kolommen">

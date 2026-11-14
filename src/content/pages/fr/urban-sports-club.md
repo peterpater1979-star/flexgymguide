@@ -131,6 +131,8 @@ Urban Sports Club a des lieux partenaires dans 6 pays européens : l’Allemagne
 - **Abonnement mensuel** : préavis de 3 jours avant la fin du mois d’abonnement.
 - **Rétractation** : 14 jours après l’inscription, sans donner de raison.
 
+Tout le détail : [Résilier Urban Sports Club](/fr/resilier-urban-sports-club/).
+
 ## Questions fréquentes
 
 <details open>

@@ -10,7 +10,7 @@ crumb: "Utrecht"
 kicker: "Stadsgids Utrecht"
 ---
 
-In Utrecht kies je tussen twee sportpassen, Urban Sports Club en ClassPass, met veel yoga en pilates van de Oudegracht tot Leidsche Rijn, of een vaste club bij Trainmore, SportCity, Basic-Fit of de grote BigGym aan de Proostwetering. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Utrecht](/nl/sporten-zonder-contract-utrecht/).
+In Utrecht kies je tussen twee sportpassen, Urban Sports Club en ClassPass, met veel yoga en pilates van de Oudegracht tot Leidsche Rijn, of een vaste club bij Trainmore, SportCity, Basic-Fit, de grote BigGym aan de Proostwetering of Dutch Gym, met drie clubs die 24/7 open zijn. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Utrecht](/nl/sporten-zonder-contract-utrecht/).
 
 <h2 id="kort">In het kort</h2>
 
@@ -116,6 +116,42 @@ Rostudios heeft drie studio's in Utrecht: Rocycle (indoor cycling) aan de Kaatst
 
 </div>
 
+<div id="dutch-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-dutch-gym"><span>24/7 met wellness</span></div>
+
+<h3>Dutch Gym</h3>
+
+Dutch Gym heeft drie clubs in Utrecht: West aan de Groeneweg, Oost aan het Fockema Andreaeplein en Dutch Gym XL aan het Vredenburg. Premium met groepslessen en sauna kost € 60,95 tot € 64,95 per 4 weken met een contract, Flex € 74,95 per maand.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Dagpas € 15</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/dutch-gym/">Alles over Dutch Gym</a>
+</div>
+
+</div>
+
+<div id="fit20" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Personal training</span></div>
+
+<h3>fit20</h3>
+
+fit20 heeft studio's in Utrecht Oost en Leidsche Rijn: één keer per week 20 minuten krachttraining met een trainer, op afspraak. Adviesprijs € 84 tot € 140 per maand, na zes maanden maandelijks opzegbaar.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis kennismakingstraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/fit20/">Alles over fit20</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele situatie altijd bij de aanbieder.</p>
@@ -205,6 +241,7 @@ Ja. Je kunt je credits ook gebruiken in andere Nederlandse steden en in het buit
 - **SportCity Flex:** maandelijks opzegbaar, met een maand opzegtermijn
 - **Basic-Fit Flex:** 4 weken opzegtermijn
 - **BigGym Unlimited Flex:** elke 4 weken opzegbaar
+- **Dutch Gym Flex:** maandabonnement zonder contract
 
 Een sportpas is nog flexibeler: ClassPass zeg je op elk moment op, Urban Sports Club per maand. Prijzen en opzegtermijnen vind je in [Sporten zonder contract in Utrecht](/nl/sporten-zonder-contract-utrecht/).
 

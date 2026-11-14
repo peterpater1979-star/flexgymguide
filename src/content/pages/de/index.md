@@ -351,6 +351,10 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 - **[clever fit kündigen](/de/clever-fit-kuendigen/)** · Fristen und Flex-Tarif
 - **[FitX kündigen](/de/fitx-kuendigen/)** · Fristen und Ruhezeit
 - **[Rostudios kündigen](/de/rostudios-kuendigen/)** · Unlimited, Frist und Pause
+- **[EASYFITNESS kündigen](/de/easyfitness-kuendigen/)** · Fristen und Alternativen
+- **[JOHN REED kündigen](/de/john-reed-kuendigen/)** · Fristen und Alternativen
+- **[Holmes Place kündigen](/de/holmes-place-kuendigen/)** · Fristen und Alternativen
+- **[Mrs.Sporty kündigen](/de/mrs-sporty-kuendigen/)** · Fristen und Alternativen
 - **[Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/)** · monatlich kündbare Optionen
 - **[Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/)** · was gilt und was du tun kannst
 

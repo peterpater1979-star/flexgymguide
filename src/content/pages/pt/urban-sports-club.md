@@ -93,6 +93,8 @@ O Urban Sports Club tem locais parceiros na Alemanha, Bélgica, Espanha, França
 - **Subscrição mensal**: cancela 3 dias antes do fim do teu mês de subscrição.
 - **Direito de livre resolução**: 14 dias após a inscrição, sem indicar motivo.
 
+Passo a passo: [Cancelar o Urban Sports Club](/pt/cancelar-urban-sports-club/).
+
 ## Perguntas frequentes
 
 <details open>

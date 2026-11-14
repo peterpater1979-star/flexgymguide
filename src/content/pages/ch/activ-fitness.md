@@ -62,6 +62,8 @@ Mit einer höheren Kategorie trainierst du auch in allen Studios der tieferen Ka
 - **1-Monats-Abo:** Es endet von selbst. Zurücktreten kannst du nicht.
 - **Pausieren:** Für Ferien kannst du dein Abo einmal pro Vertragsdauer für 1 bis 4 Monate unterbrechen, gegen eine Gebühr von CHF 50. Bei Krankheit, Unfall, Militärdienst oder einem längeren Aufenthalt im Ausland ist ein Unterbruch von 1 bis 9 Monaten möglich. Die Zeit wird hinten angehängt; bei monatlicher Zahlung laufen die Beiträge weiter.
 
+Schritt für Schritt: [Activ Fitness kündigen](/ch/activ-fitness-kuendigen/).
+
 <h2 id="alter">Ab welchem Alter?</h2>
 
 Ab 15 Jahren. Bis 17 brauchst du eine unterschriebene Einverständniserklärung deiner Eltern.

@@ -386,6 +386,12 @@ Puedes cambiar, pausar o cancelar tu plan en cualquier momento.
 - **[Darse de baja en Fitness Park](/es/baja-fitness-park/)** · preaviso y permanencia
 - **[Darse de baja en VivaGym](/es/baja-vivagym/)** · plazo y app
 - **[Darse de baja en Dreamfit](/es/baja-dreamfit/)** · plazo y sin excedencia
+- **[Darse de baja en Anytime Fitness](/es/baja-anytime-fitness/)** · preaviso y alternativas
+- **[Darse de baja en DiR](/es/baja-dir/)** · preaviso y alternativas
+- **[Darse de baja en GOfit](/es/baja-go-fit/)** · preaviso y alternativas
+- **[Darse de baja en L’Orange bleue](/es/baja-l-orange-bleue/)** · preaviso y alternativas
+- **[Darse de baja en ON AIR](/es/baja-on-air/)** · preaviso y alternativas
+- **[Darse de baja en Urban Sports Club](/es/baja-urban-sports-club/)** · preaviso y alternativas
 - **[Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/)** · opciones mes a mes
 - **[Gimnasio sin permanencia en Valencia](/es/gimnasio-sin-permanencia-valencia/)** · opciones mes a mes
 - **[Gimnasio sin permanencia en Sevilla](/es/gimnasio-sin-permanencia-sevilla/)** · opciones mes a mes

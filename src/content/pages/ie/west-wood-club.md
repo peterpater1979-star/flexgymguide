@@ -67,6 +67,8 @@ West Wood Club offers a free 4-day trial for adults aged 18 and over. You choose
 - **Freezing:** possible for medical or special reasons. You pay a small admin fee while your membership is frozen.
 - **Rejoining:** you pay a new joining fee, although former members sometimes get a rejoin offer.
 
+Step by step: [Cancel West Wood Club](/ie/cancel-west-wood-club/).
+
 <h2 id="age">Minimum age</h2>
 
 You can join from age 13. Members under 18 have to do an induction first. There are junior memberships for families with children.

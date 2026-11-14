@@ -70,6 +70,8 @@ Ask your own club about:
 - **Freeze:** once a year for 2 to 9 months, at 25% of your monthly fee. With a medical reason you pay nothing. A freeze in your first term makes that term longer.
 - **Early exit:** possible with proof, for example after a medical condition, losing your job or moving more than 10 miles from a club.
 
+Step by step: [Cancel David Lloyd](/uk/cancel-david-lloyd/).
+
 <h2 id="other-clubs">Training at other clubs</h2>
 
 Club Plus and Club are for your home club. With Platinum you can use selected other clubs. At least half of your visits each month should be at your home club; if not, David Lloyd can move your membership to the club you use most, possibly at a higher price.

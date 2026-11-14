@@ -10,7 +10,7 @@ crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
 ---
 
-Amsterdam heeft een heel groot aanbod. Met de sportpassen Urban Sports Club en ClassPass train je bij studio's in elke buurt, en daarnaast kies je uit een lange rij sportscholen: Trainmore met 31 clubs in de stad, SportCity, Basic-Fit, BigGym, Saints & Stars, Vondelgym en Anytime Fitness op de Zuidas. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Amsterdam](/nl/sporten-zonder-contract-amsterdam/) (in English: [Gyms without a contract](/nl/gyms-without-contract-amsterdam/)).
+Amsterdam heeft een heel groot aanbod. Met de sportpassen Urban Sports Club en ClassPass train je bij studio's in elke buurt, en daarnaast kies je uit een lange rij sportscholen: Trainmore met 31 clubs in de stad, SportCity, Basic-Fit, BigGym, Saints & Stars, Vondelgym, Go! Health Clubs aan de Overtoom, Anytime Fitness op de Zuidas en Sportfondsen met zwembad en fitness in West. Hieronder zie je wat elk kost en hoe flexibel je bent. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Amsterdam](/nl/sporten-zonder-contract-amsterdam/) (in English: [Gyms without a contract](/nl/gyms-without-contract-amsterdam/)).
 
 <h2 id="kort">In het kort</h2>
 
@@ -158,6 +158,60 @@ Rostudios heeft vijf studio's in Amsterdam: Rocycle (indoor cycling) bij het Lei
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>
+</div>
+
+</div>
+
+<div id="go-health-clubs" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-go-health-clubs"><span>Training met begeleiding</span></div>
+
+<h3>Go! Health Clubs</h3>
+
+Go! Health Clubs heeft een club aan de Overtoom, bij het Vondelpark: circuittraining van 30 minuten met een coach, small group trainingen en buitenlessen in het park. € 59 tot € 79 per 4 weken, met 1 tot 3 jaar looptijd.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proeftraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/go-health-clubs/">Alles over Go! Health Clubs</a>
+</div>
+
+</div>
+
+<div id="fit20" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Personal training</span></div>
+
+<h3>fit20</h3>
+
+fit20 heeft studio's in Centrum, Nieuw-West en Zuidoost: één keer per week 20 minuten krachttraining met een trainer, op afspraak. Adviesprijs € 84 tot € 140 per maand, na zes maanden maandelijks opzegbaar.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis kennismakingstraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/fit20/">Alles over fit20</a>
+</div>
+
+</div>
+
+<div id="sportfondsen" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sportfondsen"><span>Zwemmen en fitness</span></div>
+
+<h3>Sportfondsen</h3>
+
+Sportfondsen Mercator in West heeft een zwembad, fitness, sauna en meer dan 30 groepslessen: all-in € 67,50 tot € 87,50 per maand, of een dagpas voor fitness en zwemmen van € 20. In Oost zwem je met een los kaartje van € 6,40.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis dagpas (Mercator)</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/sportfondsen/">Alles over Sportfondsen</a>
 </div>
 
 </div>

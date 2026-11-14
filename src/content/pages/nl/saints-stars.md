@@ -65,6 +65,8 @@ De studio's zijn elke dag open, doordeweeks meestal van 6 of 7 uur 's ochtends t
 - **Pauzeren:** met Flex pauzeer je zo vaak je wilt. Met een jaarlidmaatschap pauzeer je twee keer per jaar, samen tot 28 dagen.
 - **Bedenktijd:** na je inschrijving heb je 14 dagen bedenktijd. Train je in die tijd al, dan betaal je naar rato.
 
+Stap voor stap: [Saints & Stars opzeggen](/nl/saints-stars-opzeggen/).
+
 <h2 id="vergelijken">Saints & Stars of Trainmore?</h2>
 
 <div class="kolommen">

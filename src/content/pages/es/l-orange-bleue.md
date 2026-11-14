@@ -54,6 +54,8 @@ Todos los gimnasios están en [lorangebleue.es](https://www.lorangebleue.es/nues
 - **Durante la permanencia**: sigues hasta el final del año o de los dos años. Puedes salir antes por motivos médicos o por un traslado de trabajo a más de 20 km.
 - **Cómo**: por burofax o carta certificada con acuse de recibo, con un preaviso de cuatro semanas.
 
+Todo el detalle: [Darse de baja en L’Orange bleue](/es/baja-l-orange-bleue/).
+
 <h2 id="eleccion">¿L’Orange bleue, VivaGym o ClassPass?</h2>
 
 <div class="kolommen">

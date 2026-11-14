@@ -308,6 +308,10 @@ Missing something? These links take you straight to Traininn, the fitness shop o
 - **[Cancel Fitness First](/uk/cancel-fitness-first/)** · notice period and freezing
 - **[Cancel PureGym](/uk/cancel-puregym/)** · deadline and cooling-off
 - **[Cancel The Gym Group](/uk/cancel-the-gym-group/)** · deadline and refunds
+- **[Cancel Anytime Fitness](/uk/cancel-anytime-fitness/)** · notice period and alternatives
+- **[Cancel David Lloyd](/uk/cancel-david-lloyd/)** · notice period and alternatives
+- **[Cancel Village Gym](/uk/cancel-village-gym/)** · notice period and alternatives
+- **[Cancel Virgin Active](/uk/cancel-virgin-active/)** · notice period and alternatives
 - **[Gyms without a contract in the UK](/uk/gyms-without-contract/)** · month-by-month options
 
 ## Frequently asked questions

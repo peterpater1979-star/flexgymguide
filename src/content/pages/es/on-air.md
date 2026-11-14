@@ -53,6 +53,8 @@ Según ON AIR, hay gimnasios en construcción en, entre otras, Sevilla, Bilbao, 
 - **Sin permanencia**: te das de baja cuando quieras, con 4 semanas de preaviso.
 - **Cómo**: en tu área de socio en línea o por carta certificada a tu gimnasio.
 
+Todo el detalle: [Darse de baja en ON AIR](/es/baja-on-air/).
+
 <h2 id="eleccion">¿ON AIR, VivaGym o ClassPass?</h2>
 
 <div class="kolommen">

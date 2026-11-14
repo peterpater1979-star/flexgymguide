@@ -79,6 +79,8 @@ According to Virgin Active's multi-club access guide, a membership with multi-cl
 
 Virgin Active doesn't publish its membership contract on the website. Check the notice period, the rules for freezing and what it costs in your contract or with your club before you join. A 12-month membership runs for the full 12 months.
 
+Step by step: [Cancel Virgin Active](/uk/cancel-virgin-active/).
+
 <h2 id="classpass">Virgin Active, PureGym or ClassPass?</h2>
 
 <div class="kolommen">

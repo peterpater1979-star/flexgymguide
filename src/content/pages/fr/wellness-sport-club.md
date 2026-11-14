@@ -69,6 +69,8 @@ Les deux clubs parisiens sont ouverts 7j/7, du lundi au vendredi de 7h à 22h et
 - **Séance d’essai** : sur rendez-vous, dans le cours collectif de ton choix.
 - **Résilier** : comme c’est sans engagement, tu résilies quand tu veux, à l’accueil du club ou par lettre recommandée avec accusé de réception à ton club. La date de fin dépend des conditions générales de vente.
 
+Tout le détail : [Résilier WellNess Sport Club](/fr/resilier-wellness-sport-club/).
+
 <h2 id="choix">WellNess Sport Club, Keepcool ou ClassPass ?</h2>
 
 <div class="kolommen">

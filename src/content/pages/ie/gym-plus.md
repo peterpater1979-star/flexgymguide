@@ -67,6 +67,8 @@ Gym Plus offers a free 1-day guest pass, so you can see a club before you join. 
 - **Freezing:** from 1 to 3 months in a row, with at least 15 days' written notice to your club. Freezing costs €10 a month.
 - **Paying:** monthly by card, or a year upfront at a lower price.
 
+Step by step: [Cancel Gym Plus](/ie/cancel-gym-plus/).
+
 <h2 id="age">Minimum age</h2>
 
 You can use the gym from 16. Between 16 and 18 you need consent from a parent. Children and teens up to 16 can join with a children's membership at the family clubs, but can't use the gym floor.

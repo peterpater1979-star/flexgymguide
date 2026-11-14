@@ -83,6 +83,8 @@ Tous les clubs sont sur [onair-fitness.fr](https://onair-fitness.fr/club/).
 - **Comment** : dans ton espace membre en ligne, ou par lettre recommandée à ton club.
 - **À savoir** : changer de formule coûte 15 €, une carte perdue aussi 15 €.
 
+Tout le détail : [Résilier ON AIR](/fr/resilier-on-air/).
+
 <h2 id="choix">ON AIR, Fitness Park ou ClassPass ?</h2>
 
 <div class="kolommen">

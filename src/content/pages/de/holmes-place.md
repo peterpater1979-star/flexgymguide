@@ -49,6 +49,8 @@ Frag beim Besuch nach:
 - **Mehrere Clubs:** Kannst du auch in anderen Clubs trainieren?
 - **Probetraining:** Kannst du vorher einmal kostenlos trainieren?
 
+Schritt für Schritt: [Holmes Place kündigen](/de/holmes-place-kuendigen/).
+
 <h2 id="passt">Holmes Place, eine Fitnesskette oder ClassPass?</h2>
 
 <div class="kolommen">
