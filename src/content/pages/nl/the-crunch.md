@@ -45,7 +45,7 @@ Crunch Classic is het meest gekozen lidmaatschap. Bij een nieuw lidmaatschap bet
 - **Dagkaart:** € 20, zonder inschrijfgeld.
 - **10x-kaart:** € 160.
 
-Wil je eerst kijken of de club bij je past? Vraag een gratis proefles aan via het formulier op de site. Je kiest daarbij zelf welke les je wilt proberen.
+Wil je eerst kijken of de club bij je past? Vraag een gratis proefles aan via het formulier op de site. Je kiest daarbij zelf wat je wilt proberen: krachttraining, BBB, boksen, bootcamp, Crunch Pump, HIIT, outdoortraining, Rhythm Cycle, spinning, total body workout, yoga of Zumba.
 
 <h2 id="lessen">Lessen en faciliteiten</h2>
 
