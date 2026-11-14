@@ -222,7 +222,7 @@ Sportfondsen Mercator in West heeft een zwembad, fitness, sauna en meer dan 30 g
 
 <h3>The Crunch</h3>
 
-The Crunch aan de Vlierweg in Noord heeft fitness, groepslessen als spinning, boksen en Hyrox, een sauna en een fysiotherapeut. Met een lidmaatschap, dagkaart of 10x-kaart.
+The Crunch aan de Vlierweg in Noord heeft fitness, groepslessen als spinning, boksen en Hyrox, een sauna en een fysiotherapeut. Crunch Classic kost € 69,95 per maand bij jaarlijkse betaling, een dagkaart € 20.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Gratis proefles</p>
