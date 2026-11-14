@@ -21,11 +21,17 @@ Não te apetece um contrato longo num só ginásio? Com um passe desportivo como
 
 ### Urban Sports Club
 
-Um preço fixo por mês para check-ins em locais parceiros. Em Lisboa e no Porto, o Classic, o mais popular segundo o site deles, custa 75 € por mês.
+Um preço fixo por mês para check-ins em locais parceiros.
 
-- Ideal se queres um preço fixo
-- Cancelas todos os meses
-- Aulas online e vídeos a pedido incluídos
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € por mês</span></p>
+<ul>
+<li>10 check-ins por mês</li>
+<li>Mais de 17.200 locais parceiros em 7 países europeus</li>
+<li>Até 8 aulas online ao vivo</li>
+<li>Vídeos a pedido ilimitados</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>

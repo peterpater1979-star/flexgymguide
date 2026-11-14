@@ -21,11 +21,17 @@ Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mi
 
 ### Urban Sports Club
 
-Ein fester Preis pro Monat für Check-ins bei Partnerstudios. Classic, laut Website am beliebtesten, kostet in Berlin 75 € im Monat.
+Ein fester Preis pro Monat für Check-ins bei Partnerstudios.
 
-- Gut, wenn du einen festen Preis willst
-- Monatlich kündbar
-- Online-Kurse und Video on Demand
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € im Monat</span></p>
+<ul>
+<li>1 Check-in pro Tag</li>
+<li>Über 17.200 Partnerstandorte in 7 europäischen Ländern</li>
+<li>Bis zu 30 Live-Online-Kurse</li>
+<li>Video on Demand ohne Limit</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>

@@ -41,6 +41,16 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos, en estudios
 
 Urban Sports Club también está en Ibiza ciudad. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
 
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong></p>
+<ul>
+<li>10 check-ins al mes</li>
+<li>Más de 17.200 centros asociados en 7 países europeos</li>
+<li>Hasta 8 clases online en directo</li>
+<li>Vídeos a la carta ilimitados</li>
+</ul>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>

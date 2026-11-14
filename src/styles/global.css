@@ -213,3 +213,10 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
   .kaart > .fotokop, .kolom > .fotokop:first-child { height: 96px; }
   .fotobanner, .fotobanner.smal { height: 120px; margin-bottom: 1rem; }
 }
+
+/* Urban Sports Club: populairste maandabonnement (Classic) op de tegels */
+.usc-plan { background: var(--surface); border-radius: 10px; padding: .75rem 1rem; margin: 1rem 0; font-size: .92rem; line-height: 1.45; }
+.usc-plan .usc-plan-kop { margin: 0 0 .35rem; display: flex; flex-wrap: wrap; justify-content: space-between; gap: .25rem .75rem; font-size: 1rem; }
+.usc-plan .usc-plan-kop span { font-weight: 600; color: var(--accent); }
+.usc-plan ul { margin: 0; padding-left: 1.1rem; }
+.usc-plan li { margin: .15rem 0; }

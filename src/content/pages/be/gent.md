@@ -26,6 +26,16 @@ In Gent vind je het ClassPass-aanbod in het centrum, rond Dok-Noord en in Sint-D
 
 Urban Sports Club zit ook in Gent. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
 
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong></p>
+<ul>
+<li>10 check-ins per maand</li>
+<li>Meer dan 17.200 partnerlocaties in 7 Europese landen</li>
+<li>Tot 8 live onlinelessen</li>
+<li>Onbeperkt video on demand</li>
+</ul>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
 </div>

@@ -291,11 +291,17 @@ Cardio, musculation et cours collectifs selon la formule. Dès 30 € toutes les
 
 ### Urban Sports Club
 
-Un prix fixe par mois pour des check-ins dans des salles et studios partenaires. À Paris, Classic, la formule la plus choisie selon leur site, coûte 75 € par mois.
+Un prix fixe par mois pour des check-ins dans des salles et studios partenaires.
 
-- Idéal si tu veux un prix fixe par mois
-- Résiliable chaque mois
-- Cours en ligne et vidéos à la demande
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € par mois</span></p>
+<ul>
+<li>10 check-ins par mois</li>
+<li>Plus de 17 200 lieux partenaires dans 7 pays européens</li>
+<li>Jusqu’à 8 cours en ligne en direct</li>
+<li>Vidéos à la demande illimitées</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>

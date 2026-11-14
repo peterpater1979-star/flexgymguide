@@ -21,11 +21,17 @@ Geen zin in een lang contract bij één sportschool? Met een sportpas als ClassP
 
 ### Urban Sports Club
 
-Een vaste prijs per maand voor check-ins bij partnerlocaties. Classic, volgens hun site het meest gekozen, kost in Brussel € 75 per maand.
+Een vaste prijs per maand voor check-ins bij partnerlocaties.
 
-- Goed als je een vaste prijs wilt
-- Per maand opzegbaar
-- Onlinelessen en video on demand inbegrepen
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>€ 75 per maand</span></p>
+<ul>
+<li>10 check-ins per maand</li>
+<li>Meer dan 17.200 partnerlocaties in 7 Europese landen</li>
+<li>Tot 8 live onlinelessen</li>
+<li>Onbeperkt video on demand</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>

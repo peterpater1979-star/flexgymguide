@@ -24,6 +24,16 @@ München hat ein großes Angebot für flexibles Training, vor allem in der Maxvo
 
 Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in München ein. Monatlich kündbar.
 
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong></p>
+<ul>
+<li>1 Check-in pro Tag</li>
+<li>Über 17.200 Partnerstandorte in 7 europäischen Ländern</li>
+<li>Bis zu 30 Live-Online-Kurse</li>
+<li>Video on Demand ohne Limit</li>
+</ul>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>

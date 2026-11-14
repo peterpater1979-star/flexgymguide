@@ -37,7 +37,17 @@ Yoga, Pilates, fuerza y barre del Eixample a Poblenou y Gràcia, con una suscrip
 
 <h3 id="urban-sports-club-barcelona">Urban Sports Club</h3>
 
-Urban Sports Club también está en Barcelona. Haces check-in en gimnasios y estudios asociados con un precio fijo al mes. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
+Urban Sports Club también está en Barcelona. Haces check-in en gimnasios y estudios asociados con un precio fijo al mes.
+
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € al mes</span></p>
+<ul>
+<li>10 check-ins al mes</li>
+<li>Más de 17.200 centros asociados en 7 países europeos</li>
+<li>Hasta 8 clases online en directo</li>
+<li>Vídeos a la carta ilimitados</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>

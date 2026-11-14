@@ -253,11 +253,17 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 ### Urban Sports Club
 
-Un precio fijo al mes, con check-ins en gimnasios y estudios. Classic, el plan más elegido según su web, cuesta 75 € al mes por 10 visitas.
+Un precio fijo al mes, con check-ins en gimnasios y estudios.
 
-- Ideal si quieres un precio fijo
-- 3 días de preaviso
-- Clases online incluidas
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € al mes</span></p>
+<ul>
+<li>10 check-ins al mes</li>
+<li>Más de 17.200 centros asociados en 7 países europeos</li>
+<li>Hasta 8 clases online en directo</li>
+<li>Vídeos a la carta ilimitados</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>

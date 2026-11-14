@@ -39,6 +39,16 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires au Mans.
 
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong></p>
+<ul>
+<li>10 check-ins par mois</li>
+<li>Plus de 17 200 lieux partenaires dans 7 pays européens</li>
+<li>Jusqu’à 8 cours en ligne en direct</li>
+<li>Vidéos à la demande illimitées</li>
+</ul>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
