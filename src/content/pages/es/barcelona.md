@@ -37,7 +37,9 @@ Yoga, Pilates, fuerza y barre del Eixample a Poblenou y Gràcia, con una suscrip
 
 <h3 id="urban-sports-club-barcelona">Urban Sports Club</h3>
 
-Urban Sports Club también está en Barcelona. Haces check-in en gimnasios y estudios asociados con un precio fijo al mes. En Madrid y Barcelona, la suscripción mensual empieza en 35 € al mes (Essential).
+Urban Sports Club también está en Barcelona. Haces check-in en gimnasios y estudios asociados con un precio fijo al mes.
+
+<p class="usc-plan kort"><strong>Classic</strong> · 75 € al mes · 10 check-ins al mes · baja con 3 días de preaviso</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
@@ -95,6 +97,10 @@ Gimnasio con clases colectivas y cuotas sin permanencia: ONE 32,90 €, FLEX 35,
 
 En Barcelona, L’Orange bleue tiene dos gimnasios: Nou Barris y Guinardó. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Primera sesión gratis</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
 </div>
@@ -108,6 +114,10 @@ En Barcelona, L’Orange bleue tiene dos gimnasios: Nou Barris y Guinardó. Las 
 <h3 id="on-air-barcelona">ON AIR</h3>
 
 En Barcelona, ON AIR tiene un gimnasio en Universitat (L’Eixample). Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Sesión de prueba con cita previa</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>

@@ -52,6 +52,8 @@ Tu reçois chaque mois des crédits pour des cours et des séances en salle. Tu 
 
 Un prix fixe par mois, avec des check-ins dans des salles et studios partenaires. Plus ta formule est grande, plus tu as de visites par mois. Avec l’abonnement mensuel, tu résilies avec 3 jours de préavis.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins par mois · résiliable chaque mois</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>

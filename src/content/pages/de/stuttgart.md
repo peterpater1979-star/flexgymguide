@@ -24,6 +24,8 @@ In Stuttgart trainierst du flexibel vor allem im Westen, in der Mitte und im Sü
 
 Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Stuttgart ein. Monatlich kündbar.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 1 Check-in pro Tag · monatlich kündbar</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
@@ -53,6 +55,10 @@ Ein Abo auf Credit-Basis für Pilates, Yoga, Indoor-Cycling und Boxen, vor allem
 
 220 Clubs in Deutschland, 4 in Stuttgart. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
@@ -81,6 +87,10 @@ Günstige Kette, auch in Stuttgart. Flex 49,90 € im Monat, mit Laufzeit ab 24,
 
 clever fit hat in Stuttgart ein Studio in Vaihingen. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
@@ -95,6 +105,10 @@ clever fit hat in Stuttgart ein Studio in Vaihingen. Preise je nach Studio, zum 
 
 JOHN REED hat einen neuen Club in Stuttgart, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
 </div>
@@ -108,6 +122,10 @@ JOHN REED hat einen neuen Club in Stuttgart, mit Design, Musik und Kursen. Flex 
 <h3>Basic-Fit</h3>
 
 Basic-Fit hat in Stuttgart einen Club in der Wiener Straße in Feuerbach. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>

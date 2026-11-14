@@ -24,6 +24,8 @@ Berlin hat beim flexiblen Training eine riesige Auswahl. Auf ClassPass findest d
 
 Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Berlin ein. Monatlich kündbar.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 75 € im Monat · 1 Check-in pro Tag · monatlich kündbar</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
@@ -52,6 +54,10 @@ Ein Abo auf Credit-Basis für Studios in ganz Berlin, von Lagree in Mitte bis Bo
 ### Fitness First
 
 220 Clubs in Deutschland, 15 in Berlin. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -95,6 +101,10 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 6 Clubs in Berlin. Den
 
 clever fit hat in Berlin mehrere Studios, unter anderem in Charlottenburg, Marzahn, Pankow und Zehlendorf. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
@@ -108,6 +118,10 @@ clever fit hat in Berlin mehrere Studios, unter anderem in Charlottenburg, Marza
 <h3>FitX</h3>
 
 FitX hat in Berlin über zehn Studios, unter anderem am Alexanderplatz, in Moabit, Schöneberg und am Ku'damm, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
@@ -123,6 +137,10 @@ FitX hat in Berlin über zehn Studios, unter anderem am Alexanderplatz, in Moabi
 
 JOHN REED hat in Berlin Clubs in Kreuzberg, Prenzlauer Berg, Friedrichshain, Charlottenburg und Gesundbrunnen, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
 </div>
@@ -136,6 +154,10 @@ JOHN REED hat in Berlin Clubs in Kreuzberg, Prenzlauer Berg, Friedrichshain, Cha
 <h3>Basic-Fit</h3>
 
 Basic-Fit hat in Berlin mehrere Clubs, unter anderem in der Oranienburger Straße und der Gerichtstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>

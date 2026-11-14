@@ -40,6 +40,8 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Lorient.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins par mois · résiliable chaque mois</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
@@ -68,6 +70,10 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 
 Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un an, ou 44,99 € sans engagement.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai gratuite par an</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
 </div>
@@ -82,6 +88,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 À Lorient, L’Orange bleue a une salle, et une autre à Lanester. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
@@ -95,6 +105,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 <h3 id="l-appart-fitness-lorient">L’Appart Fitness</h3>
 
 À Lorient, L’Appart Fitness a une salle. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 9,99 €, offerte si tu t’abonnes</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>

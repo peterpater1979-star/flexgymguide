@@ -24,6 +24,8 @@ Não te apetece ficar preso a um só ginásio? Em Lisboa podes reservar aulas em
 
 O Urban Sports Club também está em Lisboa. É um passe desportivo com um preço fixo por mês: fazes check-in em locais parceiros, conforme o teu plano, para ginásio, aulas ou outros desportos. Cancelas todos os meses.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 75 € por mês · 10 check-ins por mês · cancelas todos os meses</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/pt/urban-sports-club/">Tudo sobre o Urban Sports Club</a>
 </div>
@@ -66,6 +68,10 @@ Cadeia de ginásios low-cost sem fidelização, com mais de 50 ginásios em Port
 
 Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana. São 13 clubes em Portugal; o preço sabes no clube, onde também podes fazer um treino experimental.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Treino experimental de um dia</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/pt/holmes-place/">Ver Holmes Place</a>
 </div>
@@ -79,6 +85,10 @@ Clubes premium com ginásio, piscina, sauna e mais de 120 aulas por semana. São
 ### VivaGym
 
 O antigo Fitness Hut: ginásio com aulas de grupo, com mais de 40 ginásios em Portugal. Planos ONE, FLEX e PRIME sem fidelização; com PRIME também em Espanha.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Entrada avulso 11,90 € por um dia</p>
+</div>
 
 <div class="knoppen">
 <a class="knop" href="/pt/vivagym/">Ver VivaGym</a>

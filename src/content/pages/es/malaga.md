@@ -39,6 +39,8 @@ Estudios de Teatinos al Centro y Pedregalejo, y también en Torremolinos y Benal
 
 Urban Sports Club también está en Málaga. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins al mes · baja con 3 días de preaviso</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
@@ -66,6 +68,10 @@ Cadena de gimnasios económica con clubes en toda España. Desde 24,99 € cada 
 <h3 id="on-air-malaga">ON AIR</h3>
 
 En Málaga, ON AIR tiene dos gimnasios en el centro: Armengual y Soho. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Sesión de prueba con cita previa</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>

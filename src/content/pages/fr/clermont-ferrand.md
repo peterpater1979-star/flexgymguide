@@ -39,6 +39,8 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Clermont-Ferrand.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins par mois · résiliable chaque mois</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
@@ -67,6 +69,10 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 
 Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un an, ou 44,99 € sans engagement.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai gratuite par an</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
 </div>
@@ -80,6 +86,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 <h3 id="wellness-sport-club-clermont-ferrand">WellNess Sport Club</h3>
 
 À Clermont-Ferrand, WellNess Sport Club a un club avenue de la République. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi).
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai sur rendez-vous</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
@@ -95,6 +105,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périphérie, à Cournon-d’Auvergne et à Gerzat. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
@@ -109,6 +123,10 @@ L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périph
 
 À Clermont-Ferrand, ON AIR a deux clubs : Jaude et La Pardieu. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
 </div>
@@ -122,6 +140,10 @@ L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périph
 <h3 id="l-appart-fitness-clermont-ferrand">L’Appart Fitness</h3>
 
 Près de Clermont-Ferrand, L’Appart Fitness a une salle à Aubière. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 9,99 €, offerte si tu t’abonnes</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>

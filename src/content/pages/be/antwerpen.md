@@ -26,6 +26,8 @@ In Antwerpen vind je het ClassPass-aanbod in het centrum, op het Zuid, het Eilan
 
 Urban Sports Club zit ook in Antwerpen. Een sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties, afhankelijk van je abonnement voor de gym, lessen of andere sporten. Per maand opzegbaar.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins per maand · maandelijks opzegbaar</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
 </div>
@@ -67,6 +69,10 @@ Voordelige sportschoolketen met meer dan 230 clubs in België, veel 24/7 open. V
 ### Jims
 
 Sportschoolketen met 3 clubs in Antwerpen, met fitness en groepslessen met een coach. Vanaf € 39,99 per 4 weken, flexibel opzegbaar met 4 weken opzegtermijn, en één gratis probeerdag per jaar.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Eén gratis probeerdag per jaar</p>
+</div>
 
 <div class="knoppen">
 <a class="knop" href="/be/jims/">Bekijk Jims</a>

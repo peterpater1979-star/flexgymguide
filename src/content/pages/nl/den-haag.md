@@ -24,6 +24,8 @@ In Den Haag kies je tussen twee sportpassen, Urban Sports Club en ClassPass, met
 
 Sportpas met een vaste prijs per maand: je checkt in bij partnerlocaties in Den Haag. Per maand opzegbaar.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins per maand · maandelijks opzegbaar</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
 </div>

@@ -88,6 +88,10 @@ In Eindhoven kost het standaardabonnement € 59 per maand voor 40 credits, en j
 - Vooral veel (reformer) pilates en krachttraining, maar ook yoga, kickboksen, karate en paaldans
 - Ook studio's in Nuenen, Valkenswaard en Oirschot
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proefles</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 </div>

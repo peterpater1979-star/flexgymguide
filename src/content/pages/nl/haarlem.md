@@ -88,6 +88,10 @@ In Haarlem kost het standaardabonnement € 69 per maand voor 47 credits, en je 
 - Werk of woon je ook in Amsterdam? Daar heb je met hetzelfde abonnement veel meer keuze
 - Ook studio's in Beverwijk, Aalsmeer en Sassenheim
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proefles</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 </div>

@@ -24,6 +24,8 @@ In Düsseldorf findest du auf ClassPass viel Reformer-Pilates, Barre und Yoga, v
 
 Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Düsseldorf ein. Monatlich kündbar.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 1 Check-in pro Tag · monatlich kündbar</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
@@ -52,6 +54,10 @@ Ein Abo auf Credit-Basis für Reformer-Pilates, Barre und Yoga, von Pempelfort b
 ### Fitness First
 
 220 Clubs in Deutschland, 5 in Düsseldorf. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -95,6 +101,10 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Düsseldorf
 
 FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
 </div>
@@ -108,6 +118,10 @@ FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, 
 <h3>JOHN REED</h3>
 
 JOHN REED hat in Düsseldorf Clubs in Bilk, Friedrichstadt und in den Düsseldorf Arcaden, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>

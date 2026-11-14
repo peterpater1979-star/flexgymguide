@@ -88,11 +88,17 @@ Gimnasios grandes con muchas clases incluidas, sin permanencia, sobre todo en Ma
 
 ### ClassPass
 
-Ideal si te gusta variar y entrenas de una a tres veces por semana. Cancelas cuando quieras. Lee [Todo sobre ClassPass](/es/classpass/).
+Ideal si te gusta variar y entrenas de una a tres veces por semana. Cancelas cuando quieras. Pruebas 10 sesiones gratis en 14 días.
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
+
+</div>
+
+**ClassPass en tu ciudad:** [Madrid](/es/classpass-madrid/) · [Barcelona](/es/classpass-barcelona/) · [Valencia](/es/classpass-valencia/) · [Sevilla](/es/classpass-sevilla/) · [Málaga](/es/classpass-malaga/)
 
 ¿Buscas más opciones mes a mes en la ciudad? Mira [Gimnasio sin permanencia en Barcelona](/es/gimnasio-sin-permanencia-barcelona/).
 

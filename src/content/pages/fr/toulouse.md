@@ -39,6 +39,8 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Toulouse.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins par mois · résiliable chaque mois</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
@@ -81,6 +83,10 @@ Cours collectifs, ouvert 7j/7. Sans engagement dès 40 € toutes les 4 semaines
 
 Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un an, ou 44,99 € sans engagement.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai gratuite par an</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
 </div>
@@ -95,6 +101,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 L’Orange bleue n’a pas de salle dans Toulouse même, mais en périphérie, à Balma et à Cugnaux. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
@@ -108,6 +118,10 @@ L’Orange bleue n’a pas de salle dans Toulouse même, mais en périphérie, �
 <h3 id="on-air-toulouse">ON AIR</h3>
 
 Près de Toulouse, ON AIR a un club à Blagnac. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>

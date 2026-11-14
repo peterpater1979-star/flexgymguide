@@ -42,6 +42,8 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Troyes.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins par mois · résiliable chaque mois</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
@@ -55,6 +57,10 @@ Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios 
 <h3 id="magic-form-troyes">Magic Form</h3>
 
 À Troyes, Magic Form a une salle boulevard du 14 Juillet, et une autre à Romilly-sur-Seine. Magic One coûte 30 € toutes les 4 semaines avec engagement de 52 semaines, ou 40 € sans engagement ; Magic Full, sans engagement et avec toutes les options, 50 €. Tu ajoutes 40 € de droits d’entrée et 10 € de carte de membre.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 10 € en ligne</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>

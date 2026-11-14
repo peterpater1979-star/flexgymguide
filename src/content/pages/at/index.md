@@ -25,9 +25,14 @@ Ausführlich im [Stadtguide Wien](/at/wien/).
 
 Sportpass aus Österreich mit einem Abo für viele Studios und Kurse, vor allem in Wien. FLEX 4 kostet 55 € im Monat für 4 Trainings, UNLIMITED 109 €.
 
-- Gut, wenn du Abwechslung magst
-- Monatlich kündbar
-- Vor allem in Wien
+
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du Abwechslung magst</li>
+<li>Monatlich kündbar</li>
+<li>Vor allem in Wien</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/at/myclubs/">Alles über myClubs</a>
@@ -43,9 +48,14 @@ Sportpass aus Österreich mit einem Abo für viele Studios und Kurse, vor allem 
 
 Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studios in der ganzen Stadt, auch im Ausland.
 
-- Gut, wenn du Abwechslung magst
-- Gut bei ein- bis dreimal Training pro Woche
-- Funktioniert auch in 30 anderen Ländern
+
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du Abwechslung magst</li>
+<li>Gut bei ein- bis dreimal Training pro Woche</li>
+<li>Funktioniert auch in 30 anderen Ländern</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/at/classpass/">Alles über ClassPass</a>
@@ -61,9 +71,14 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 4 Clubs in und um Wien und 1 in Gleisdorf bei Graz, mit Geräten, Kursen und Wellness. Dazu kommen 220 Clubs in Deutschland.
 
-- Gut bei dreimal Training pro Woche oder öfter
-- Gym, Kurse und Wellness an einem Ort
-- Kostenloses Probetraining
+
+<div class="infoblok">
+<ul>
+<li>Gut bei dreimal Training pro Woche oder öfter</li>
+<li>Gym, Kurse und Wellness an einem Ort</li>
+<li>Kostenloses Probetraining</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -79,9 +94,14 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den Preis erfährst du erst bei einem Besuch im Club.
 
-- Gut, wenn du mehr Luxus und Service willst
-- Gut bei dreimal Training pro Woche oder öfter
-- Auch in der Schweiz, Deutschland und Portugal
+
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du mehr Luxus und Service willst</li>
+<li>Gut bei dreimal Training pro Woche oder öfter</li>
+<li>Auch in der Schweiz, Deutschland und Portugal</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
@@ -169,6 +189,10 @@ Günstige Fitnesskette mit Studios in Wien. Je nach Studio zum Beispiel 39,90 bi
 ### Mrs.Sporty
 
 Fitnessstudio nur für Frauen mit vielen Clubs in Wien. 30 Minuten Training, kostenloses Probetraining, Preise je Club.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/at/mrs-sporty/">Alles über Mrs.Sporty</a>

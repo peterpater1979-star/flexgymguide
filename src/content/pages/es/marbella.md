@@ -41,6 +41,8 @@ Yoga, pilates, fuerza y más con una sola suscripción de créditos, en estudios
 
 Urban Sports Club también está en Marbella. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins al mes · baja con 3 días de preaviso</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>

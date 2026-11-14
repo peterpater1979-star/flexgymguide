@@ -21,11 +21,17 @@ Geen zin in een lang contract bij één sportschool? Met een sportpas als ClassP
 
 ### Urban Sports Club
 
-Een vaste prijs per maand voor check-ins bij partnerlocaties. Classic, volgens hun site het meest gekozen, kost in Brussel € 75 per maand.
+Een vaste prijs per maand voor check-ins bij meer dan 17.200 partnerlocaties in 7 Europese landen.
 
-- Goed als je een vaste prijs wilt
-- Per maand opzegbaar
-- Onlinelessen en video on demand inbegrepen
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>€ 75 per maand</span></p>
+<ul>
+<li>10 check-ins per maand</li>
+<li>Tot 8 live onlinelessen</li>
+<li>Onbeperkt video on demand</li>
+<li>Opzeggen tot 3 dagen voor verlenging</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/urban-sports-club/">Alles over Urban Sports Club</a>
@@ -41,9 +47,14 @@ Een vaste prijs per maand voor check-ins bij partnerlocaties. Classic, volgens h
 
 Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoek bij studio's in de hele stad, ook in het buitenland.
 
-- Goed als je van afwisseling houdt
-- Goed bij één tot drie keer sporten per week
-- Werkt ook in 30 andere landen
+
+<div class="infoblok">
+<ul>
+<li>Goed als je van afwisseling houdt</li>
+<li>Goed bij één tot drie keer sporten per week</li>
+<li>Werkt ook in 30 andere landen</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/be/classpass/">Alles over ClassPass</a>
@@ -59,9 +70,14 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoek bi
 
 Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 per 4 weken, of Flex zonder looptijd vanaf € 34,98.
 
-- Goed als je drie keer per week of vaker traint
-- Goed als je één vaste plek wilt
-- Flex: € 9,99 per 4 weken meer dan een jaarabonnement
+
+<div class="infoblok">
+<ul>
+<li>Goed als je drie keer per week of vaker traint</li>
+<li>Goed als je één vaste plek wilt</li>
+<li>Flex: € 9,99 per 4 weken meer dan een jaarabonnement</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/basic-fit/">Alles over Basic-Fit</a>
@@ -77,9 +93,15 @@ Meer dan 230 clubs in België, veel 24/7 open. Jaarabonnement vanaf € 24,99 pe
 
 Belgische sportschoolketen met meer dan 80 clubs, met fitness en groepslessen met een coach. Vanaf € 39,99 per 4 weken, flexibel opzegbaar met 4 weken opzegtermijn.
 
-- Goed als je groepslessen met een coach wilt
-- Jongeren onder 25: € 10 per 4 weken minder
-- Eén gratis probeerdag per jaar
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Eén gratis probeerdag per jaar</p>
+<ul>
+<li>Goed als je groepslessen met een coach wilt</li>
+<li>Jongeren onder 25: € 10 per 4 weken minder</li>
+<li>Eén gratis probeerdag per jaar</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/be/jims/">Alles over Jims</a>

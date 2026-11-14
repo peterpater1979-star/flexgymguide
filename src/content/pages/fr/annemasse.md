@@ -41,6 +41,8 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Annemasse.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins par mois · résiliable chaque mois</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
@@ -68,6 +70,10 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 <h3 id="on-air-annemasse">ON AIR</h3>
 
 Près d’Annemasse, ON AIR a un club à Cranves-Sales. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>

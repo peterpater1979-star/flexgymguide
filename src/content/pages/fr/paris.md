@@ -37,7 +37,9 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 <h3 id="urban-sports-club-paris">Urban Sports Club</h3>
 
-Urban Sports Club est aussi présent à Paris. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires. L’abonnement mensuel commence à 35 € par mois (Essential).
+Urban Sports Club est aussi présent à Paris. C’est un pass sport avec un prix fixe par mois : tu fais des check-ins dans des salles et studios partenaires.
+
+<p class="usc-plan kort"><strong>Classic</strong> · 75 € par mois · 10 check-ins par mois · résiliable chaque mois</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
@@ -81,6 +83,10 @@ Cours collectifs, ouvert 7j/7. Sans engagement dès 40 € toutes les 4 semaines
 
 Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un an, ou 44,99 € sans engagement.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai gratuite par an</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
 </div>
@@ -94,6 +100,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 <h3 id="wellness-sport-club-paris">WellNess Sport Club</h3>
 
 À Paris, WellNess Sport Club a deux clubs : Porte Maillot (17e) et République (11e), ouverts 7j/7. Liberté coûte 79 € par mois, Express 69 € (pas aux heures de pointe du lundi au jeudi).
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai sur rendez-vous</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
@@ -109,6 +119,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 À Paris, RITM a cinq clubs : Champs-Élysées, Ternes, La Fontaine, La Motte-Picquet et Saint-Germain, et un sixième juste à côté, à Boulogne-Billancourt. Tu paies à la semaine : Essentiel 24,99 € avec engagement de 52 semaines, Liberté 29,99 € sans engagement, plus 90 € de frais d’inscription.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai offerte</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
 </div>
@@ -122,6 +136,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 <h3 id="l-orange-bleue-paris">L’Orange bleue</h3>
 
 L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche banlieue : Montrouge, Vanves, Clichy et Villejuif. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
@@ -137,6 +155,10 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 À Paris, ON AIR a six clubs : Voltaire (11e), Daumesnil (12e), BNF (13e), Montparnasse (14e), Clignancourt (18e) et Flandre (19e), et beaucoup d’autres en banlieue. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
 </div>
@@ -151,6 +173,10 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 À Paris, L’Appart Fitness a des salles à Bastille (11e), Charléty (13e), dans le 18e et le 19e, et aussi à Malakoff. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 9,99 €, offerte si tu t’abonnes</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
 </div>
@@ -164,6 +190,10 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 <h3 id="gigafit-paris">Gigafit</h3>
 
 À Paris, Gigafit a des clubs dans le 18e (rue Ordener) et le 19e (rue Petit), et juste à côté à Gennevilliers, avec une formule sans engagement à 40 € toutes les 4 semaines. À Paris, Gigafit est aussi sur ClassPass.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à réserver au club</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
@@ -202,6 +232,10 @@ Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la 
 <h3 id="magic-form-paris">Magic Form</h3>
 
 À Paris, Magic Form a deux salles : rue des Fonds Verts (12e) et rue Pierre Larousse (14e), et plus de 20 autres en Île-de-France, entre autres à Montreuil, Vitry-sur-Seine, Courbevoie, Massy et Versailles. Magic One coûte 30 € toutes les 4 semaines avec engagement de 52 semaines, ou 40 € sans engagement ; Magic Full, sans engagement et avec toutes les options, 50 €. Tu ajoutes 40 € de droits d’entrée et 10 € de carte de membre.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 10 € en ligne</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>

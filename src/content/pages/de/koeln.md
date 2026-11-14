@@ -24,6 +24,8 @@ Köln ist eine gute Stadt für flexibles Training: Auf ClassPass findest du viel
 
 Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Köln ein. Monatlich kündbar.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 1 Check-in pro Tag · monatlich kündbar</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
@@ -52,6 +54,10 @@ Ein Abo auf Credit-Basis für Barre, Yoga, Kampfsport und Tanz, vom Belgischen V
 ### Fitness First
 
 220 Clubs in Deutschland, 14 in Köln. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -94,6 +100,10 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 1 Club in Köln. Den P
 <h3>Basic-Fit</h3>
 
 Basic-Fit hat in Köln Clubs in der Spichernstraße und der Peter-Huppertz-Straße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>

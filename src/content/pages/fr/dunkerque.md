@@ -41,6 +41,8 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Dunkerque.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins par mois · résiliable chaque mois</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
@@ -68,6 +70,10 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 <h3 id="gigafit-dunkerque">Gigafit</h3>
 
 À Dunkerque, Gigafit a un club quai Wilson, avec aussi des formules moins chères pour le week-end ou les heures creuses. Chaque club fixe ses prix : en général de 30 à 50 € toutes les 4 semaines, le plus souvent avec engagement d’un an, plus 39 € de frais d’inscription.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à réserver au club</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>

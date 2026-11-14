@@ -24,6 +24,8 @@ In Hamburg trainierst du flexibel vor allem in Eppendorf, Eimsbüttel, Winterhud
 
 Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Hamburg ein. Monatlich kündbar.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 1 Check-in pro Tag · monatlich kündbar</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
@@ -52,6 +54,10 @@ Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Ep
 ### Fitness First
 
 220 Clubs in Deutschland, 17 in Hamburg. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
@@ -95,6 +101,10 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 2 Clubs in Hamburg. De
 
 clever fit hat in Hamburg ein Studio in Finkenwerder, mit Sauna und Les-Mills-Kursen. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
@@ -108,6 +118,10 @@ clever fit hat in Hamburg ein Studio in Finkenwerder, mit Sauna und Les-Mills-Ku
 <h3>FitX</h3>
 
 FitX hat in Hamburg Studios in Altona, Bahrenfeld, Steilshoop und am Flughafen, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
@@ -123,6 +137,10 @@ FitX hat in Hamburg Studios in Altona, Bahrenfeld, Steilshoop und am Flughafen, 
 
 JOHN REED hat in Hamburg Clubs in Harburg und Wandsbek, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
 </div>
@@ -136,6 +154,10 @@ JOHN REED hat in Hamburg Clubs in Harburg und Wandsbek, mit Design, Musik und Ku
 <h3>Basic-Fit</h3>
 
 Basic-Fit hat in Hamburg einen Club in der Fuhlsbüttler Straße in Barmbek. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>

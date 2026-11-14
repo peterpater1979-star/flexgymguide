@@ -39,6 +39,8 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Reims.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins par mois · résiliable chaque mois</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
@@ -53,6 +55,10 @@ Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios 
 
 Près de Reims, L’Orange bleue a une salle à Bezannes. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
@@ -66,6 +72,10 @@ Près de Reims, L’Orange bleue a une salle à Bezannes. Les formules affichée
 <h3 id="on-air-reims">ON AIR</h3>
 
 Près de Reims, ON AIR a un club à Cormontreuil. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>

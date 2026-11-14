@@ -78,11 +78,17 @@ Cuotas sin permanencia y muchos más gimnasios en España. Lee [Todo sobre VivaG
 
 ### ClassPass
 
-Sin permanencia, ideal si te gusta variar de estudio. Lee [Todo sobre ClassPass](/es/classpass/).
+Sin permanencia, ideal si te gusta variar de estudio. Pruebas 10 sesiones gratis en 14 días.
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
+
+</div>
+
+**ClassPass en tu ciudad:** [Madrid](/es/classpass-madrid/) · [Barcelona](/es/classpass-barcelona/) · [Valencia](/es/classpass-valencia/) · [Sevilla](/es/classpass-sevilla/) · [Málaga](/es/classpass-malaga/)
 
 ## Preguntas frecuentes
 

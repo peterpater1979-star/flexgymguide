@@ -39,6 +39,8 @@ Un abonnement à crédits pour réserver dans différents studios. 14 jours grat
 
 Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios partenaires à Lyon.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins par mois · résiliable chaque mois</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
 </div>
@@ -81,6 +83,10 @@ Cours collectifs, ouvert 7j/7. Sans engagement dès 40 € toutes les 4 semaines
 
 Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un an, ou 44,99 € sans engagement.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai gratuite par an</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
 </div>
@@ -94,6 +100,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 <h3 id="wellness-sport-club-lyon">WellNess Sport Club</h3>
 
 À Lyon, WellNess Sport Club a trois clubs : Confluence, Vendôme et Gambetta, et autour de Lyon un club à Villeurbanne (Gratte-Ciel) et un à Tassin la Demi-Lune. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi).
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai sur rendez-vous</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
@@ -109,6 +119,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 À Lyon, L’Orange bleue a une salle dans le 8e arrondissement. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
@@ -123,6 +137,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 À Lyon, ON AIR a cinq clubs : Brotteaux, Cordeliers, Gerland, Jean Macé et Saxe Gambetta, et aussi à Bron et à Décines. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
 </div>
@@ -136,6 +154,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 <h3 id="l-appart-fitness-lyon">L’Appart Fitness</h3>
 
 À Lyon, L’Appart Fitness a huit salles en ville, et aussi à Villeurbanne et à Caluire. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 9,99 €, offerte si tu t’abonnes</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>

@@ -93,11 +93,17 @@ Más de 240 clubes en España, también sin permanencia. Lee [Todo sobre VivaGym
 
 ### ClassPass
 
-Ideal si te gusta variar y entrenas de una a tres veces por semana. Cancelas cuando quieras. Lee [Todo sobre ClassPass](/es/classpass/).
+Ideal si te gusta variar y entrenas de una a tres veces por semana. Cancelas cuando quieras. Pruebas 10 sesiones gratis en 14 días.
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
+
+</div>
+
+**ClassPass en tu ciudad:** [Madrid](/es/classpass-madrid/) · [Barcelona](/es/classpass-barcelona/) · [Valencia](/es/classpass-valencia/) · [Sevilla](/es/classpass-sevilla/) · [Málaga](/es/classpass-malaga/)
 
 ¿Buscas más opciones mes a mes? Mira [Gimnasio sin permanencia](/es/gimnasio-sin-permanencia/).
 

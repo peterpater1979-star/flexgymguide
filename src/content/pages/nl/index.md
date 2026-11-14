@@ -21,11 +21,17 @@ Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een 
 
 ### Urban Sports Club
 
-Een vaste prijs per maand voor check-ins bij partnerlocaties. Classic, volgens hun site het meest gekozen, kost in Amsterdam € 75 per maand.
+Een vaste prijs per maand voor check-ins bij meer dan 17.200 partnerlocaties in 7 Europese landen.
 
-- Goed als je een vaste prijs wilt
-- Per maand opzegbaar
-- Onlinelessen en video on demand
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>€ 75 per maand</span></p>
+<ul>
+<li>10 check-ins per maand</li>
+<li>Tot 8 live onlinelessen</li>
+<li>Onbeperkt video on demand</li>
+<li>Opzeggen tot 3 dagen voor verlenging</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/urban-sports-club/">Alles over Urban Sports Club</a>
@@ -41,9 +47,14 @@ Een vaste prijs per maand voor check-ins bij partnerlocaties. Classic, volgens h
 
 Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken bij studio's door de hele stad, en ook in het buitenland.
 
-- Goed als je graag afwisselt
-- Goed bij één tot drie keer per week sporten
-- Werkt ook in 30 andere landen
+
+<div class="infoblok">
+<ul>
+<li>Goed als je graag afwisselt</li>
+<li>Goed bij één tot drie keer per week sporten</li>
+<li>Werkt ook in 30 andere landen</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
@@ -60,9 +71,15 @@ Eén abonnement met credits voor yoga, pilates, boksen, spinning en gymbezoeken 
 
 Gym met live groepslessen in heel Nederland. Kies City One (één club) of City Plus (121 clubs), met Flex maandelijks opzegbaar of een contract van 3 maanden, 1 of 2 jaar.
 
-- Goed als je één vaste plek wilt
-- Flex: maandelijks opzegbaar, met een maand opzegtermijn
-- Prijs verschilt per club
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Dagpas via de club</p>
+<ul>
+<li>Goed als je één vaste plek wilt</li>
+<li>Flex: maandelijks opzegbaar, met een maand opzegtermijn</li>
+<li>Prijs verschilt per club</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/sportcity/">Alles over SportCity</a>
@@ -78,9 +95,15 @@ Gym met live groepslessen in heel Nederland. Kies City One (één club) of City 
 
 Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een contract krijg je €1 korting per workout, dus hoe vaker je gaat, hoe minder je betaalt.
 
-- Goed als je drie keer per week of vaker traint
-- Goed als je één vaste plek wilt
-- Alleen in Nederland
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proefles</p>
+<ul>
+<li>Goed als je drie keer per week of vaker traint</li>
+<li>Goed als je één vaste plek wilt</li>
+<li>Alleen in Nederland</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>
@@ -129,9 +152,14 @@ Sportscholen en studio's met eigen lidmaatschappen, van de grote keten Basic-Fit
 
 Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan dag en nacht open. Met Flex zit je nergens aan vast, vanaf € 34,98 per 4 weken.
 
-- Goed als je goedkoop en vaak wilt trainen
-- Flex: opzegtermijn 4 weken
-- Met Premium ook in 5 andere landen
+
+<div class="infoblok">
+<ul>
+<li>Goed als je goedkoop en vaak wilt trainen</li>
+<li>Flex: opzegtermijn 4 weken</li>
+<li>Met Premium ook in 5 andere landen</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/basic-fit/">Alles over Basic-Fit</a>
@@ -147,9 +175,15 @@ Voordelige sportschoolketen met ongeveer 250 clubs in Nederland, veel daarvan da
 
 Lessen in kleine groepen op vier plekken in Amsterdam. Gold vanaf € 139 per 4 weken met een jaar, of per les met credits.
 
-- Goed als je veel lessen wilt
-- Flex: 4 weken opzegtermijn
-- Ook losse lessen met credits
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Nieuwe klanten: 3 lessen voor € 30</p>
+<ul>
+<li>Goed als je veel lessen wilt</li>
+<li>Flex: 4 weken opzegtermijn</li>
+<li>Ook losse lessen met credits</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/saints-stars/">Alles over Saints & Stars</a>
@@ -165,9 +199,14 @@ Lessen in kleine groepen op vier plekken in Amsterdam. Gold vanaf € 139 per 4 
 
 Drie gyms in Amsterdam met kracht, (kick)boksen, yoga en hardlopen. Regular € 84,50 per 4 weken, alleen gym vanaf € 51,50.
 
-- Goed als je van boksen en kracht houdt
-- Per 4 weken opzegbaar
-- Dagpas om eerst te proberen
+
+<div class="infoblok">
+<ul>
+<li>Goed als je van boksen en kracht houdt</li>
+<li>Per 4 weken opzegbaar</li>
+<li>Dagpas om eerst te proberen</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/vondelgym/">Alles over Vondelgym</a>
@@ -183,9 +222,15 @@ Drie gyms in Amsterdam met kracht, (kick)boksen, yoga en hardlopen. Regular € 
 
 Grote gyms in 16 plaatsen, onder meer Amsterdam, Rotterdam en Utrecht. Unlimited € 30 tot € 35 per 4 weken met een contract, Flex € 45.
 
-- Goed als je vaak traint
-- Groepslessen en HYROX inbegrepen
-- Opzeggen alleen via de app
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Dagpas € 10</p>
+<ul>
+<li>Goed als je vaak traint</li>
+<li>Groepslessen en HYROX inbegrepen</li>
+<li>Opzeggen alleen via de app</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/big-gym/">Alles over BigGym</a>
@@ -201,9 +246,14 @@ Grote gyms in 16 plaatsen, onder meer Amsterdam, Rotterdam en Utrecht. Unlimited
 
 Kleine sportscholen die dag en nacht open zijn, onder meer in Amsterdam, Rotterdam en Den Haag. Elke club bepaalt zelf de prijs.
 
-- Goed als je op rare tijden traint
-- Ook clubs in het buitenland
-- Minimaal een halfjaar
+
+<div class="infoblok">
+<ul>
+<li>Goed als je op rare tijden traint</li>
+<li>Ook clubs in het buitenland</li>
+<li>Minimaal een halfjaar</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/anytime-fitness/">Alles over Anytime Fitness</a>
@@ -219,9 +269,14 @@ Kleine sportscholen die dag en nacht open zijn, onder meer in Amsterdam, Rotterd
 
 Indoor cycling (Rocycle) en reformer (Roform) in Amsterdam, Rotterdam, Den Haag, Utrecht en Groningen. Unlimited € 79 per maand, of per les.
 
-- Goed als je van spinning of reformer houdt
-- Unlimited: 12 maanden vast
-- Ook losse lessen en pakketten
+
+<div class="infoblok">
+<ul>
+<li>Goed als je van spinning of reformer houdt</li>
+<li>Unlimited: 12 maanden vast</li>
+<li>Ook losse lessen en pakketten</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/rostudios/">Alles over Rostudios</a>

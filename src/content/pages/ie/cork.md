@@ -40,6 +40,10 @@ Yoga, Pilates, strength training and more with one credit-based membership.
 
 Irish gym chain without a contract, from €38 a month for one gym.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day pass from €14</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/ie/flyefit/">See Flyefit</a>
 </div>
@@ -53,6 +57,10 @@ Irish gym chain without a contract, from €38 a month for one gym.
 ### Gym Plus
 
 A club in Cork, €59 a month with access to all seven Gym Plus clubs.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Free 1-day guest pass</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/gym-plus/">See Gym Plus</a>

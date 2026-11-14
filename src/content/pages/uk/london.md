@@ -38,6 +38,10 @@ Yoga, Pilates, boxing and more with one credit-based membership, at studios acro
 
 17 clubs in London, with group classes and multi-club access. Prices vary by club and membership tier, with minimum terms from 1 to 12 months depending on the club.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day passes at selected clubs</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/uk/fitness-first/">See Fitness First</a>
 </div>

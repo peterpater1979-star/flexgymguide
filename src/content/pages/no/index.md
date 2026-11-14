@@ -23,9 +23,14 @@ Har du ikke lyst på en lang avtale på ett enkelt treningssenter? Med et trenin
 
 Et medlemskap med kreditter til yoga, pilates, boksing, spinning og treningssenterbesøk på studioer i hele byen, også i utlandet.
 
-- Bra hvis du liker variasjon
-- Bra hvis du trener én til tre ganger i uken
-- Fungerer også i 30 andre land
+
+<div class="infoblok">
+<ul>
+<li>Bra hvis du liker variasjon</li>
+<li>Bra hvis du trener én til tre ganger i uken</li>
+<li>Fungerer også i 30 andre land</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/no/classpass/">Alt om ClassPass</a>
@@ -41,9 +46,14 @@ Et medlemskap med kreditter til yoga, pilates, boksing, spinning og treningssent
 
 En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finland, med treningssal og gruppetimer.
 
-- Bra hvis du trener tre ganger i uka eller mer
-- Bra hvis du vil ha ett fast sted
-- Finnes i fire nordiske land
+
+<div class="infoblok">
+<ul>
+<li>Bra hvis du trener tre ganger i uka eller mer</li>
+<li>Bra hvis du vil ha ett fast sted</li>
+<li>Finnes i fire nordiske land</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/sats/">Alt om SATS</a>
@@ -60,9 +70,14 @@ En nordisk treningskjede med over 275 sentre i Norge, Sverige, Danmark og Finlan
 
 Treningskjede med sentre over hele Norge, åpent hver dag 05–24. 439 kr i måneden uten binding, eller årsmedlemskap fra 333 kr i måneden.
 
-- Bra hvis du vil trene billig og ofte
-- Ingen binding på månedsmedlemskap
-- Åpent tidlig og sent, hver dag
+
+<div class="infoblok">
+<ul>
+<li>Bra hvis du vil trene billig og ofte</li>
+<li>Ingen binding på månedsmedlemskap</li>
+<li>Åpent tidlig og sent, hver dag</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/no/evo/">Alt om EVO</a>

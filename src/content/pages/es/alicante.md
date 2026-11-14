@@ -39,6 +39,8 @@ Sobre todo Pilates Reformer, en el centro, el PAU 1 y Sant Joan d’Alacant, con
 
 Urban Sports Club también está en Alicante. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins al mes · baja con 3 días de preaviso</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
@@ -94,6 +96,10 @@ En Alicante, Synergym tiene un club en Benalúa, y también en San Vicente del R
 <h3 id="dreamfit-alicante">Dreamfit</h3>
 
 En Alicante, Dreamfit tiene un club en Vistahermosa. Gimnasio grande con clases colectivas incluidas en la cuota, sin permanencia, más 45 € de inscripción. El precio depende del club: DREAM cuesta de 42,90 a 44,90 € al mes en Madrid.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Pase de 15 € para probar</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>

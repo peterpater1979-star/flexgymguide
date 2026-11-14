@@ -70,6 +70,10 @@ In Leiden kost het standaardabonnement € 59 per maand voor 40 credits, en je k
 
 [Bekijk de studio's in Leiden op ClassPass.](https://classpass.com/search/leiden/fitness-classes/556jVRfqGP9)
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis proefles</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/nl/classpass/">Alles over ClassPass</a>
 </div>

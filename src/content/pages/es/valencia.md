@@ -39,6 +39,8 @@ Estudios sobre todo en Ruzafa y L’Eixample, y clases al aire libre en el jard�
 
 Urban Sports Club también está en Valencia. Es un pase deportivo con un precio fijo al mes: haces check-in en gimnasios y estudios asociados, según tu plan para el gimnasio, clases u otros deportes.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins al mes · baja con 3 días de preaviso</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
@@ -95,6 +97,10 @@ Gimnasio con clases colectivas y cuotas sin permanencia: ONE 32,90 €, FLEX 35,
 
 En Valencia, L’Orange bleue tiene un gimnasio en La Zaidía. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Primera sesión gratis</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
 </div>
@@ -108,6 +114,10 @@ En Valencia, L’Orange bleue tiene un gimnasio en La Zaidía. Las cuotas tienen
 <h3 id="on-air-valencia">ON AIR</h3>
 
 En Valencia, ON AIR tiene tres gimnasios: Les Arts, Nuevo Centro y Ruzafa. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Sesión de prueba con cita previa</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
@@ -150,6 +160,10 @@ En Valencia, Synergym tiene clubes en Abastos, Constitución, Gran Vía, Peset, 
 <h3 id="dreamfit-valencia">Dreamfit</h3>
 
 En Valencia, Dreamfit tiene un club en el centro comercial Gran Turia, en Xirivella. Gimnasio grande con clases colectivas incluidas en la cuota y sin permanencia: DREAM cuesta 42,90 € al mes y PASS (todos los Dreamfit de España) 46,90 €, más 45 € de inscripción.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Pase de 15 € para probar</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>

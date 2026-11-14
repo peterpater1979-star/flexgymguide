@@ -52,6 +52,8 @@ Recibes cada mes créditos para clases y sesiones de gimnasio. Cancelas cuando q
 
 Un precio fijo al mes, con check-ins en gimnasios y estudios asociados. Cuanto más grande el plan, más visitas al mes. Con la suscripción mensual te das de baja con 3 días de preaviso.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 10 check-ins al mes · baja con 3 días de preaviso</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>

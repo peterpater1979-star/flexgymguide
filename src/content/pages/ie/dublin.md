@@ -40,6 +40,10 @@ Yoga, Pilates, strength training and more with one credit-based membership.
 
 Irish gym chain without a contract, from €38 a month for one gym.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day pass from €14</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/ie/flyefit/">See Flyefit</a>
 </div>
@@ -67,6 +71,10 @@ Four gyms in Dublin, €36 a month without a contract. Classes included.
 ### Gym Plus
 
 Clubs in Ballsbridge, Rathfarnham and Swords, €69 a month for all seven clubs.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Free 1-day guest pass</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/ie/gym-plus/">See Gym Plus</a>

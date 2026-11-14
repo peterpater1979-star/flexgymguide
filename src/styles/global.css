@@ -204,3 +204,28 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 /* Verwijzing naar overige aanbieders onder de bovenste kaarten */
 .meer-aanbieders { max-width: 72ch; margin: 0 0 2rem; padding: .9rem 1.25rem; background: var(--white); border-left: 4px solid var(--accent); border-radius: var(--radius); box-shadow: var(--shadow); }
 .meer-aanbieders a { font-weight: 600; white-space: nowrap; }
+
+/* Mobiel: belangrijkste inhoud en een knop eerder in beeld (zonder scrollen) */
+@media (max-width: 640px) {
+  .kop { padding: .75rem 0 1rem; margin-bottom: .75rem; }
+  .kop h1 { font-size: 1.6rem; margin: .1rem 0 .35rem; }
+  .prose h2 { margin-top: 2.5rem; }
+  .kaart > .fotokop, .kolom > .fotokop:first-child { height: 96px; }
+  .fotobanner, .fotobanner.smal { height: 120px; margin-bottom: 1rem; }
+}
+
+/* Urban Sports Club: populairste maandabonnement (Classic) op de tegels */
+.usc-plan { background: var(--surface); border-radius: 10px; padding: .75rem 1rem; margin: 1rem 0; font-size: .92rem; line-height: 1.45; }
+.usc-plan .usc-plan-kop { margin: 0 0 .35rem; display: flex; flex-wrap: wrap; justify-content: space-between; gap: .25rem .75rem; font-size: 1rem; }
+.usc-plan .usc-plan-kop span { font-weight: 600; color: var(--accent); }
+.usc-plan ul { margin: 0; padding-left: 1.1rem; }
+.usc-plan li { margin: .15rem 0; }
+.usc-plan.kort { padding: .55rem .85rem; margin: .75rem 0 1rem; }
+
+/* Groen infoblok op tegels (zelfde stijl als het Classic-blok van Urban Sports Club) */
+.infoblok { background: var(--surface); border-radius: 10px; padding: .75rem 1rem; margin: 1rem 0; font-size: .92rem; line-height: 1.45; }
+.infoblok ul { margin: 0; padding-left: 1.1rem; }
+.infoblok li { margin: .15rem 0; }
+.infoblok .proef { margin: 0 0 .35rem; font-weight: 600; color: var(--accent); }
+.infoblok .proef:last-child { margin-bottom: 0; }
+.infoblok.kort { padding: .55rem .85rem; margin: .75rem 0 1rem; }

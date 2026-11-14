@@ -35,4 +35,6 @@ const ld = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemLi
   .terug-b:hover { background: none; color: var(--accent-hover); text-decoration: underline; }
   .kruimel { font-size: .75rem; color: var(--muted); opacity: .85; margin-bottom: .5rem; display: block; }
   .kruimel a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  /* Op de telefoon is de terugknop genoeg; het kruimelpad blijft voor Google in de code (BreadcrumbList) staan. */
+  @media (max-width: 640px) { .kruimel { display: none; } }
 </style>

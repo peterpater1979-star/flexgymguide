@@ -5,6 +5,7 @@ import Advertentiemelding from './Advertentiemelding.astro';
 import Kruimelpad from './Kruimelpad.astro';
 import Delen from './Delen.astro';
 import TipFormulier from './TipFormulier.astro';
+import Keuzehulp from './Keuzehulp.astro';
 import { hreflang, ogLocale, gewijzigd, organisatie, hreflangGroep } from '../data/seo';
 
 const { page } = Astro.props as { page: CollectionEntry<'pages'> };
@@ -29,6 +30,10 @@ const jsonld: object[] = d.noindex ? [] : d.path === '/'
   : d.byline
     ? [{ '@context': 'https://schema.org', '@type': 'Article', headline: d.title, description: d.description, inLanguage: d.lang, url, mainEntityOfPage: url, ...(datum && { dateModified: datum }), author: { '@type': 'Person', name: 'Peter Pater', url: 'https://flexgymguide.com/about/' }, publisher: organisatie, image: 'https://flexgymguide.com/og-image.png' }]
     : [];
+// Keuzehulp in de kop: landenhomepage en (geïndexeerde) stadspagina's van ES, FR en DE.
+const khLand = ['es', 'fr', 'de'].includes(d.land) && d.lang === d.land ? (d.land as 'es' | 'fr' | 'de') : null;
+const khStad = khLand && /^(Guía de ciudad|Guide ville|Stadtguide)/.test(d.kicker ?? '') && /^\/[a-z]{2}\/[^/]+\/$/.test(d.path) && !/(sin-permanencia|sans-engagement|ohne-vertrag)/.test(d.path) && !d.noindex ? d.path.split('/')[2] : null;
+const keuzehulp = khLand && (d.path === `/${khLand}/` || khStad);
 const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : d.lang, { dateStyle: 'long' }).format(date);
 ---
 <Base title={d.title} seoTitle={d.seoTitle} description={d.description} lang={d.lang} land={d.land} noindex={d.noindex} alternates={alternates} jsonld={jsonld} locale={ogLocale(d.lang, d.land)}>
@@ -39,6 +44,7 @@ const fmt = (date: Date) => new Intl.DateTimeFormat(d.lang === 'en' ? 'en-GB' : 
       <h1>{d.title}</h1>
       {d.byline && <p class="klein meta">{d.byline}</p>}
       {!d.byline && d.updated && <p class="klein meta">{fmt(d.updated)}</p>}
+      {keuzehulp && <Keuzehulp land={khLand} stad={khStad ?? ''} />}
     </div>
   </div>
   <article class="wrap prose" {...zoekAttr}>

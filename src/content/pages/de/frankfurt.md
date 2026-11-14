@@ -24,6 +24,8 @@ Frankfurt ist eine Pilates-Stadt: Auf ClassPass findest du besonders viele Refor
 
 Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Frankfurt ein. Monatlich kündbar.
 
+<p class="usc-plan kort"><strong>Classic</strong> · 1 Check-in pro Tag · monatlich kündbar</p>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
@@ -53,6 +55,10 @@ Ein Abo auf Credit-Basis mit besonders viel Reformer-Pilates, dazu HIIT, Boxen u
 
 220 Clubs in Deutschland, 12 in Frankfurt. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
@@ -81,6 +87,10 @@ Günstige Kette, auch in Frankfurt. Flex 49,90 € im Monat, mit Laufzeit ab 24,
 
 clever fit hat in Frankfurt ein Studio in Höchst. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
@@ -94,6 +104,10 @@ clever fit hat in Frankfurt ein Studio in Höchst. Preise je nach Studio, zum Be
 <h3>Basic-Fit</h3>
 
 Basic-Fit hat in Frankfurt Clubs am Grüneburgweg und an der Europa-Allee. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>

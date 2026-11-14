@@ -21,11 +21,17 @@ Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mi
 
 ### Urban Sports Club
 
-Ein fester Preis pro Monat für Check-ins bei Partnerstudios. Classic, laut Website am beliebtesten, kostet in Berlin 75 € im Monat.
+Ein fester Preis pro Monat für Check-ins an über 17.200 Partnerstandorten in 7 europäischen Ländern.
 
-- Gut, wenn du einen festen Preis willst
-- Monatlich kündbar
-- Online-Kurse und Video on Demand
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € im Monat</span></p>
+<ul>
+<li>1 Check-in pro Tag</li>
+<li>Bis zu 30 Live-Online-Kurse</li>
+<li>Video on Demand ohne Limit</li>
+<li>Kündigung 3 Tage vor der Verlängerung</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
@@ -41,9 +47,13 @@ Ein fester Preis pro Monat für Check-ins bei Partnerstudios. Classic, laut Webs
 
 Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studios in der ganzen Stadt, auch im Ausland. Zum Ausprobieren: 1 Monat gratis mit 10 Workouts.
 
-- Gut, wenn du Abwechslung magst
-- Gut bei ein- bis dreimal Training pro Woche
-- Funktioniert auch in 30 anderen Ländern
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du Abwechslung magst</li>
+<li>Gut bei ein- bis dreimal Training pro Woche</li>
+<li>Funktioniert auch in 30 anderen Ländern</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-land">Teste 1 Monat gratis mit 10 Workouts</a>
@@ -60,9 +70,14 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 220 Clubs in Deutschland und 5 in Österreich.
 
-- Gut, wenn du dreimal pro Woche oder öfter trainierst
-- Gut, wenn du einen festen Ort willst
-- Meist nur in Deutschland
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+<ul>
+<li>Gut, wenn du dreimal pro Woche oder öfter trainierst</li>
+<li>Gut, wenn du einen festen Ort willst</li>
+<li>Meist nur in Deutschland</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -78,9 +93,13 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 
 Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
 
-- Gut, wenn du günstig und oft trainieren willst
-- Flex: monatlich kündbar
-- Über 230 Studios in Europa
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du günstig und oft trainieren willst</li>
+<li>Flex: monatlich kündbar</li>
+<li>Über 230 Studios in Europa</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
@@ -156,6 +175,10 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 Nach Zahl der Studios die größte Fitnesskette Deutschlands, mit über 500 Studios. Preise je nach Studio, oft auch monatlich kündbar.
 
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
@@ -169,6 +192,10 @@ Nach Zahl der Studios die größte Fitnesskette Deutschlands, mit über 500 Stud
 ### FitX
 
 Über 110 Studios in Deutschland, 24 Stunden geöffnet, Kurse inklusive. 29 € im Monat bei 12 Monaten Grundlaufzeit, danach monatlich kündbar.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
@@ -184,6 +211,10 @@ Nach Zahl der Studios die größte Fitnesskette Deutschlands, mit über 500 Stud
 
 Fast 100 Clubs in Deutschland und über 1.700 in Europa. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex jederzeit kündbar.
 
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>
@@ -197,6 +228,10 @@ Fast 100 Clubs in Deutschland und über 1.700 in Europa. Ab 24,99 € pro 4 Woch
 ### JOHN REED
 
 47 Fitnessclubs in 8 Ländern, mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatlich kündbar, 60 bis 80 € im Monat je nach Club.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>

@@ -78,11 +78,17 @@ También sin permanencia, con más de 240 gimnasios en España. Lee [Todo sobre 
 
 ### ClassPass
 
-Ideal si te gusta variar y entrenas de una a tres veces por semana. Cancelas cuando quieras. Lee [Todo sobre ClassPass](/es/classpass/).
+Ideal si te gusta variar y entrenas de una a tres veces por semana. Cancelas cuando quieras. Pruebas 10 sesiones gratis en 14 días.
 
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
+
+</div>
+
+**ClassPass en tu ciudad:** [Madrid](/es/classpass-madrid/) · [Barcelona](/es/classpass-barcelona/) · [Valencia](/es/classpass-valencia/) · [Sevilla](/es/classpass-sevilla/) · [Málaga](/es/classpass-malaga/)
 
 ¿Comparas cadenas? Mira [Gimnasio sin permanencia](/es/gimnasio-sin-permanencia/).
 
