@@ -22,6 +22,7 @@ Go! Health Clubs is een Nederlandse sportschoolketen rond één idee: een circui
 | **Clubs** | 22 in Nederland, vooral in Noord- en Zuid-Holland |
 | **Prijs** | € 59 tot € 79 per 4 weken, afhankelijk van de looptijd |
 | **Zonder contract** | Nee: minimaal 12 maanden |
+| **Andere clubs** | Je hebt een thuisclub; sporten bij andere clubs kan, met voorwaarden per club |
 | **Startkosten** | € 75, inclusief je polsband |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proeftraining |
 | **Openingstijden** | Per club, niet 24/7 |
@@ -69,6 +70,8 @@ Wil je het eerst proberen? Vraag op de site van Go! Health Clubs een gratis proe
 
 Go! Health Clubs zit verder in Alkmaar, Almere, Alphen aan den Rijn, Bergen, Breukelen, Ede, Goirle, Heerhugowaard, Heiloo, Nieuwerkerk aan den IJssel, Oegstgeest, Rijnsburg, Sliedrecht, Spijkenisse, Valkenburg, Veghel, Vlaardingen en Voorthuizen. De clubs in Alkmaar en Heerhugowaard waren eerst 't Gymlokaal. Adressen en openingstijden zie je op de pagina van elke club.
 
+Je lidmaatschap hoort bij één thuisclub. Volgens Go! Health Clubs kun je als lid ook bij hun andere clubs sporten, maar de voorwaarden verschillen per club. Vraag dus bij je eigen club na wat er mag.
+
 De openingstijden verschillen per club. In Amsterdam is de club bijvoorbeeld doordeweeks open van 7.00 tot 21.00 uur, op vrijdag tot 18.00 uur en in het weekend 's ochtends.
 
 <h2 id="opzeggen">Opzeggen</h2>
@@ -96,6 +99,13 @@ Bij een looptijd van 12 maanden € 79 per 4 weken, bij 24 maanden € 69 en bij
 <summary>Kan ik Go! Health Clubs maandelijks opzeggen?</summary>
 
 Nee, niet vanaf het begin. Je kiest een looptijd van minimaal 12 maanden. Daarna geldt een opzegtermijn van 1 maand. Opzeggen doe je in de club.
+
+</details>
+
+<details>
+<summary>Kan ik bij alle clubs van Go! Health Clubs sporten?</summary>
+
+Je schrijft je in bij één thuisclub. Volgens Go! Health Clubs kun je ook bij hun andere clubs sporten, maar de voorwaarden verschillen per club. Vraag het na bij je eigen club.
 
 </details>
 
