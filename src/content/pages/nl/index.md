@@ -385,7 +385,7 @@ Zwembaden en sportcentra op ongeveer 90 plekken, een deel met fitness en groepsl
 
 ### The Crunch
 
-Eén club in Amsterdam-Noord met fitness, groepslessen van spinning tot Hyrox, sauna en een fysiotherapeut. Lidmaatschap, dagkaart of 10x-kaart.
+Eén club in Amsterdam-Noord met fitness, groepslessen van spinning tot Hyrox, sauna en een fysiotherapeut. Crunch Classic € 69,95 per maand, dagkaart € 20.
 
 <div class="infoblok">
 <p class="proef"><span aria-hidden="true">✓</span> Gratis proefles</p>

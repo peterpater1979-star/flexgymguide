@@ -20,30 +20,30 @@ The Crunch is een fitness- en healthclub met één club, aan de Vlierweg in Amst
 | --- | --- |
 | **Soort** | Sportschool met groepslessen, wellness en fysiotherapie |
 | **Club** | Eén, Vlierweg 44 in Amsterdam-Noord |
-| **Prijs** | Crunch Classic vanaf [PRIJS], Crunch Complete vanaf [PRIJS] |
-| **Eenmalig** | [PRIJS] inschrijfgeld |
+| **Prijs** | Crunch Classic € 69,95 en Crunch Complete € 111 per maand, bij jaarlijkse betaling |
+| **Eenmalig** | € 30 inschrijfgeld |
 | **Uitproberen** | <span class="ja" aria-hidden="true">✓</span> Gratis proefles |
-| **Zonder abonnement** | <span class="ja" aria-hidden="true">✓</span> Dagkaart of 10x-kaart |
+| **Zonder abonnement** | <span class="ja" aria-hidden="true">✓</span> Dagkaart € 20, 10x-kaart € 160 |
 | **Openingstijden** | Ma-vr 7.00-22.00 uur, za-zo 8.00-19.00 uur |
 
 <p class="klein">Bron: thecrunch.nl, de pagina's over lidmaatschappen en de gratis proefles, en de algemene voorwaarden (november 2026). Controleer de actuele prijs altijd bij The Crunch.</p>
 
 <h2 id="prijzen">Lidmaatschappen</h2>
 
-The Crunch noemt de prijzen bij jaarlijkse betaling.
+De prijzen gelden bij jaarlijkse betaling.
 
-| Lidmaatschap | Wat je krijgt | Prijs |
+| Lidmaatschap | Wat je krijgt | Per maand |
 | --- | --- | --- |
-| **Crunch Classic** | Fitness, cardio, groepslessen, sauna, stoombad en relaxruimte, tijdens de openingstijden | Vanaf [PRIJS] |
-| **Crunch Complete** | Alles van Classic, plus handdoek, kluisje en onbeperkt fruit, koffie en thee als je komt sporten | Vanaf [PRIJS] |
-| **College (student)** | Op vertoon van je studentenpas, minimaal 3 maanden | Vanaf [PRIJS] per maand |
+| **Crunch Classic** | Fitness, cardio, groepslessen, sauna, stoombad en relaxruimte, tijdens de openingstijden | € 69,95 |
+| **Crunch Complete** | Alles van Classic, plus handdoek, kluisje en onbeperkt fruit, koffie en thee als je komt sporten | € 111 |
+| **College (student)** | Op vertoon van je studentenpas, minimaal 3 maanden | € 50 |
 
-Crunch Classic is het meest gekozen lidmaatschap. Bij een nieuw lidmaatschap betaal je eenmalig [PRIJS] inschrijfgeld, voor de administratie, je toegangschip en een intake.
+Crunch Classic is het meest gekozen lidmaatschap. Bij een nieuw lidmaatschap betaal je eenmalig € 30 inschrijfgeld. Daarbij horen de administratie, je toegangschip in bruikleen, een intake, een fitheidstest en begeleiding in de fitness.
 
 <h2 id="los">Dagkaart en 10x-kaart</h2>
 
-- **Dagkaart:** [PRIJS], zonder inschrijfgeld.
-- **10x-kaart:** [PRIJS].
+- **Dagkaart:** € 20, zonder inschrijfgeld.
+- **10x-kaart:** € 160.
 
 Wil je eerst kijken of de club bij je past? Vraag een gratis proefles aan via het formulier op de site. Je kiest daarbij zelf welke les je wilt proberen.
 
@@ -73,7 +73,7 @@ Woon of werk je in Noord en train je een paar keer per week, met lessen en sauna
 <details open>
 <summary>Wat kost The Crunch?</summary>
 
-Crunch Classic kost vanaf [PRIJS] en Crunch Complete vanaf [PRIJS], bij jaarlijkse betaling. Studenten betalen vanaf [PRIJS] per maand. Daarbij komt eenmalig [PRIJS] inschrijfgeld (november 2026).
+Crunch Classic kost € 69,95 en Crunch Complete € 111 per maand, bij jaarlijkse betaling. Studenten betalen € 50 per maand. Daarbij komt eenmalig € 30 inschrijfgeld. Een dagkaart kost € 20 (november 2026).
 
 </details>
 
