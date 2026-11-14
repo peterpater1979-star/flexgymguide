@@ -66,10 +66,6 @@ Bij Mercator vraag je op de site een [gratis dagpas](https://www.mercatorfitness
 
 Verder zit Sportfondsen in Appelscha, Badhoevedorp, Bemmel, Bergschenhoek, Beverwijk, Borne, Buchten, Bussum, Coevorden, Cuijk, Delft, Deurne, Dirkshorn, Doorn, Driebergen, Eersel, Etten-Leur, Geertruidenberg, Geldermalsen, Geldrop, Gennep, Goirle, Grave, Haelen, Heemstede, 's-Heerenberg, Heinkenszand, Hellevoetsluis, Hendrik-Ido-Ambacht, Heythuysen, Hillegom, Hilvarenbeek, Hilversum, Hoensbroek, Hoofddorp, Hoogerheide, IJsselstein, Kruiningen, Leerdam, Leiderdorp, Leidschendam, Lisse, Malden, Markelo, Melick, Monnickendam, Naarden, Nederweert, Nieuw-Vennep, Noordwijk, Nuenen, Oirschot, Oosterwolde, Oudenbosch, Panningen, Pijnacker, Poortugaal, Raamsdonksveer, Rhenen, Roosendaal, Schagen, Spijkenisse, Strijen, Terborg, Venray, Vlissingen, Voerendaal, Volendam, Voorburg, Voorschoten, Vught, Wageningen, Warmenhuizen, Wassenaar, Wezep, Wormer, Zaltbommel en Zierikzee. Adressen, tijden en de site van elk bad vind je in het [overzicht van alle locaties](https://www.sportfondsen.nl/sportfondsen/accommodaties/) van Sportfondsen.
 
-<h2 id="classpass">Sportfondsen of ClassPass?</h2>
-
-Zwem je graag en wil je ook fitness en lessen op één plek, dan is een all-in abonnement bij Mercator handig. Zwem je alleen af en toe, dan is een strippenkaart vaak genoeg. Wil je afwisselen tussen zwemmen, yoga, boksen en spinning bij verschillende studio's, dan past een sportpas als ClassPass beter. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
-
 <h2 id="spullen">Wat neem je mee naar het zwembad?</h2>
 
 Ga je zwemmen bij Sportfondsen? Via deze links ga je direct naar Swiminn, de zwemwinkel van Tradeinn:
@@ -86,6 +82,10 @@ Ga je zwemmen bij Sportfondsen? Via deze links ga je direct naar Swiminn, de zwe
 </ul>
 
 <p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
+
+<h2 id="classpass">Sportfondsen of ClassPass?</h2>
+
+Zwem je graag en wil je ook fitness en lessen op één plek, dan is een all-in abonnement bij Mercator handig. Zwem je alleen af en toe, dan is een strippenkaart vaak genoeg. Wil je afwisselen tussen zwemmen, yoga, boksen en spinning bij verschillende studio's, dan past een sportpas als ClassPass beter. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
 
 <h2 id="opzeggen">Opzeggen</h2>
 
