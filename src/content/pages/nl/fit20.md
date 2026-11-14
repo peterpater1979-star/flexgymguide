@@ -42,7 +42,7 @@ Bij inschrijving betaal je eenmalig € 59 startgeld voor het instellen van je a
 
 <h2 id="proeftraining">Gratis kennismakingstraining</h2>
 
-Wil je het eerst proberen? Op de site van fit20 vraag je een gratis kennismakingstraining aan bij een studio bij jou in de buurt.
+Wil je het eerst proberen? Op de site van fit20 vraag je een gratis kennismakingstraining aan bij een studio bij jou in de buurt. Je vindt het formulier via de knop onderaan deze pagina.
 
 <h2 id="studios">De studio's</h2>
 
@@ -100,5 +100,5 @@ Ja, met een gratis kennismakingstraining bij een studio bij jou in de buurt.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/">Sporten in Nederland</a>
-<a class="knop knop-rand" href="https://www.fit20.com/nl/home">fit20</a>
+<a class="knop knop-rand" href="https://www.fit20.com/nl/home#fit_country">fit20 gratis ervaren</a>
 </div>
