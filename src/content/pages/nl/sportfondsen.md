@@ -82,6 +82,23 @@ Andere locaties hebben eigen voorwaarden. Stap voor stap: [Sportfondsen opzeggen
 
 Zwem je graag en wil je ook fitness en lessen op één plek, dan is een all-in abonnement bij Mercator handig. Zwem je alleen af en toe, dan is een strippenkaart vaak genoeg. Wil je afwisselen tussen zwemmen, yoga, boksen en spinning bij verschillende studio's, dan past een sportpas als ClassPass beter. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)
 
+<h2 id="spullen">Wat neem je mee naar het zwembad?</h2>
+
+Ga je zwemmen bij Sportfondsen? Via deze links ga je direct naar Swiminn, de zwemwinkel van Tradeinn:
+
+<ul class="spullen">
+<li class="i-bril"><a href="/go/swiminn-nl-zwembril/?ws=fgg-nl-sportfondsen-zwembril">Zwembril</a></li>
+<li class="i-kleding"><a href="/go/swiminn-nl-bikini/?ws=fgg-nl-sportfondsen-bikini">Bikini's en tankini's</a></li>
+<li class="i-kleding"><a href="/go/swiminn-nl-badpak/?ws=fgg-nl-sportfondsen-badpak">Badpakken</a></li>
+<li class="i-kleding"><a href="/go/swiminn-nl-zwembroek/?ws=fgg-nl-sportfondsen-zwembroek">Zwembroeken</a></li>
+<li class="i-badmuts"><a href="/go/swiminn-nl-badmuts/?ws=fgg-nl-sportfondsen-badmuts">Badmuts</a></li>
+<li class="i-handdoek"><a href="/go/swiminn-nl-handdoek/?ws=fgg-nl-sportfondsen-handdoek">Handdoek</a></li>
+<li class="i-tas"><a href="/go/swiminn-nl-zwemtas/?ws=fgg-nl-sportfondsen-zwemtas">Zwemtas</a></li>
+<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-sportfondsen-hangslot">Hangslot voor het kluisje</a></li>
+</ul>
+
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
+
 ## Veelgestelde vragen
 
 <details open>
