@@ -115,6 +115,10 @@ En Valencia, L’Orange bleue tiene un gimnasio en La Zaidía. Las cuotas tienen
 
 En Valencia, ON AIR tiene tres gimnasios: Les Arts, Nuevo Centro y Ruzafa. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Sesión de prueba con cita previa</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
 </div>
@@ -156,6 +160,10 @@ En Valencia, Synergym tiene clubes en Abastos, Constitución, Gran Vía, Peset, 
 <h3 id="dreamfit-valencia">Dreamfit</h3>
 
 En Valencia, Dreamfit tiene un club en el centro comercial Gran Turia, en Xirivella. Gimnasio grande con clases colectivas incluidas en la cuota y sin permanencia: DREAM cuesta 42,90 € al mes y PASS (todos los Dreamfit de España) 46,90 €, más 45 € de inscripción.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Pase de 15 € para probar</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>

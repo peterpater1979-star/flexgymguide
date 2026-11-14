@@ -101,6 +101,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 À Lyon, WellNess Sport Club a trois clubs : Confluence, Vendôme et Gambetta, et autour de Lyon un club à Villeurbanne (Gratte-Ciel) et un à Tassin la Demi-Lune. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai sur rendez-vous</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
 </div>
@@ -150,6 +154,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 <h3 id="l-appart-fitness-lyon">L’Appart Fitness</h3>
 
 À Lyon, L’Appart Fitness a huit salles en ville, et aussi à Villeurbanne et à Caluire. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 9,99 €, offerte si tu t’abonnes</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>

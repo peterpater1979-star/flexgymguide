@@ -101,6 +101,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 À Marseille, WellNess Sport Club a un club au Prado (8e). Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai sur rendez-vous</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
 </div>

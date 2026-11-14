@@ -87,6 +87,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 À Clermont-Ferrand, WellNess Sport Club a un club avenue de la République. Liberté coûte 59 € par mois, Express 54 € (pas aux heures de pointe du lundi au jeudi).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai sur rendez-vous</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
 </div>
@@ -136,6 +140,10 @@ L’Orange bleue n’a pas de salle dans Clermont-Ferrand même, mais en périph
 <h3 id="l-appart-fitness-clermont-ferrand">L’Appart Fitness</h3>
 
 Près de Clermont-Ferrand, L’Appart Fitness a une salle à Aubière. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 9,99 €, offerte si tu t’abonnes</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>

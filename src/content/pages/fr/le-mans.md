@@ -123,6 +123,10 @@ Au Mans, ON AIR a un club au nord de la ville. Essential coûte 31,96 €, Origi
 
 Au Mans, Gigafit a un club au nord, à Saint-Pavace : de 30 € (étudiants) à 40 € toutes les 4 semaines, avec engagement d’un an. Les frais d’inscription sont en général de 39 €.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à réserver au club</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
 </div>

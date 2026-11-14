@@ -90,6 +90,10 @@ Près de Cergy, ON AIR a un club à Pontoise. Essential coûte 31,96 €, Origin
 
 Près de Cergy, Gigafit a un club à Pierrelaye : 32 € toutes les 4 semaines avec engagement d’un an, ou 44 € sans engagement. Les frais d’inscription sont en général de 39 €.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à réserver au club</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
 </div>

@@ -119,6 +119,10 @@ FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, 
 
 JOHN REED hat in Düsseldorf Clubs in Bilk, Friedrichstadt und in den Düsseldorf Arcaden, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
 </div>

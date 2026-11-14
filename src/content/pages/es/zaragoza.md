@@ -81,6 +81,10 @@ En Zaragoza, Synergym tiene unos 9 clubes, entre otros en El Pilar, Las Fuentes,
 
 En Zaragoza, Dreamfit tiene un club en Los Enlaces. Gimnasio grande con clases colectivas incluidas en la cuota, sin permanencia, más 45 € de inscripción. El precio depende del club: DREAM cuesta de 42,90 a 44,90 € al mes en Madrid.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Pase de 15 € para probar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
 </div>

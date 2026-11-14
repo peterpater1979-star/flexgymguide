@@ -101,6 +101,10 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 6 Clubs in Berlin. Den
 
 clever fit hat in Berlin mehrere Studios, unter anderem in Charlottenburg, Marzahn, Pankow und Zehlendorf. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
@@ -132,6 +136,10 @@ FitX hat in Berlin über zehn Studios, unter anderem am Alexanderplatz, in Moabi
 <h3>JOHN REED</h3>
 
 JOHN REED hat in Berlin Clubs in Kreuzberg, Prenzlauer Berg, Friedrichshain, Charlottenburg und Gesundbrunnen, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>

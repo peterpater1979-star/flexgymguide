@@ -58,6 +58,10 @@ Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios 
 
 À Troyes, Magic Form a une salle boulevard du 14 Juillet, et une autre à Romilly-sur-Seine. Magic One coûte 30 € toutes les 4 semaines avec engagement de 52 semaines, ou 40 € sans engagement ; Magic Full, sans engagement et avec toutes les options, 50 €. Tu ajoutes 40 € de droits d’entrée et 10 € de carte de membre.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 10 € en ligne</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>
 </div>

@@ -230,10 +230,10 @@ Plus de 120 clubs selon ON AIR, surtout en France, avec beaucoup de matériel. S
 118 salles en France selon L’Appart Fitness, surtout autour de Lyon. 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
 
 <div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 9,99 €, offerte si tu t’abonnes</p>
 <ul>
 <li>Ouvert 7j/7 de 6h à 23h</li>
 <li>5 € de moins pour les étudiants</li>
-<li>Séance d’essai à 9,99 €</li>
 </ul>
 </div>
 
@@ -274,6 +274,7 @@ Surtout en Île-de-France, avec accès à environ 270 clubs Neoness et Keepcool.
 12 clubs dans 7 villes, tous sans engagement. Hors Paris dès 54 € par mois, à Paris dès 69 €, plus une licence et un dépôt de garantie.
 
 <div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai sur rendez-vous</p>
 <ul>
 <li>Idéal si tu veux beaucoup de cours collectifs dans ta salle</li>
 <li>Cours aquatiques, sauna et hammam</li>
@@ -318,6 +319,7 @@ Surtout en Île-de-France, avec accès à environ 270 clubs Neoness et Keepcool.
 Cardio, musculation et cours collectifs selon la formule. Dès 30 € toutes les 4 semaines avec engagement, ou Magic Full sans engagement à 50 €.
 
 <div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 10 € en ligne</p>
 <ul>
 <li>Idéal si tu vas souvent à la salle</li>
 <li>Formules avec options au choix</li>

@@ -101,6 +101,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 À Paris, WellNess Sport Club a deux clubs : Porte Maillot (17e) et République (11e), ouverts 7j/7. Liberté coûte 79 € par mois, Express 69 € (pas aux heures de pointe du lundi au jeudi).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai sur rendez-vous</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
 </div>
@@ -169,6 +173,10 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 À Paris, L’Appart Fitness a des salles à Bastille (11e), Charléty (13e), dans le 18e et le 19e, et aussi à Malakoff. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 9,99 €, offerte si tu t’abonnes</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
 </div>
@@ -182,6 +190,10 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 <h3 id="gigafit-paris">Gigafit</h3>
 
 À Paris, Gigafit a des clubs dans le 18e (rue Ordener) et le 19e (rue Petit), et juste à côté à Gennevilliers, avec une formule sans engagement à 40 € toutes les 4 semaines. À Paris, Gigafit est aussi sur ClassPass.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à réserver au club</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/gigafit/">Tout sur Gigafit</a>
@@ -220,6 +232,10 @@ Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la 
 <h3 id="magic-form-paris">Magic Form</h3>
 
 À Paris, Magic Form a deux salles : rue des Fonds Verts (12e) et rue Pierre Larousse (14e), et plus de 20 autres en Île-de-France, entre autres à Montreuil, Vitry-sur-Seine, Courbevoie, Massy et Versailles. Magic One coûte 30 € toutes les 4 semaines avec engagement de 52 semaines, ou 40 € sans engagement ; Magic Full, sans engagement et avec toutes les options, 50 €. Tu ajoutes 40 € de droits d’entrée et 10 € de carte de membre.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 10 € en ligne</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>

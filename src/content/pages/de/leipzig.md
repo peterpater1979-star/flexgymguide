@@ -87,6 +87,10 @@ Günstige Kette, auch in Leipzig. Flex 49,90 € im Monat, mit Laufzeit ab 24,90
 
 clever fit hat in Leipzig ein Studio in der Holzhäuser Straße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
@@ -118,6 +122,10 @@ FitX hat in Leipzig Studios in Mockau und Neulindenau, alle 24 Stunden geöffnet
 <h3>JOHN REED</h3>
 
 JOHN REED hat einen Club in Leipzig, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>

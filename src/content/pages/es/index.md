@@ -168,9 +168,9 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 26 gimnasios grandes, casi la mitad en Madrid y alrededores. Sin permanencia, DREAM de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción.
 
 <div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Pase de 15 € para probar</p>
 <ul>
 <li>Más de 600 clases al mes incluidas</li>
-<li>Pase puntual de 15 € para probar</li>
 <li>Baja antes del día 20 del mes</li>
 </ul>
 </div>
@@ -279,6 +279,7 @@ Cadena francesa; en España en Madrid, Barcelona y Valencia. Desde 40 € cada 4
 Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, desde 31,96 € cada 4 semanas, más 30 € de matrícula.
 
 <div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Sesión de prueba con cita previa</p>
 <ul>
 <li>Ideal si quieres mucho material</li>
 <li>4 semanas de preaviso</li>

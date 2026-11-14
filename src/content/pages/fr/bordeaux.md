@@ -137,6 +137,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 Près de Bordeaux, L’Appart Fitness a une salle à Talence. L’abonnement coûte 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 9,99 €, offerte si tu t’abonnes</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
 </div>
@@ -150,6 +154,10 @@ Près de Bordeaux, L’Appart Fitness a une salle à Talence. L’abonnement co�
 <h3 id="magic-form-bordeaux">Magic Form</h3>
 
 À Bordeaux, Magic Form a une salle cours d’Albret, et une autre au Taillan-Médoc. Magic One coûte 30 € toutes les 4 semaines avec engagement de 52 semaines, ou 40 € sans engagement ; Magic Full, sans engagement et avec toutes les options, 50 €. Tu ajoutes 40 € de droits d’entrée et 10 € de carte de membre.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 10 € en ligne</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>

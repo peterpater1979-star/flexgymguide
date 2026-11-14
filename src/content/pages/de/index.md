@@ -176,6 +176,10 @@ Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kurse
 
 Nach Zahl der Studios die größte Fitnesskette Deutschlands, mit über 500 Studios. Preise je nach Studio, oft auch monatlich kündbar.
 
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
@@ -221,6 +225,10 @@ Fast 100 Clubs in Deutschland und über 1.700 in Europa. Ab 24,99 € pro 4 Woch
 ### JOHN REED
 
 47 Fitnessclubs in 8 Ländern, mit Design, Musik und Kursen, McFit-Studios inklusive. Flex monatlich kündbar, 60 bis 80 € im Monat je nach Club.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>

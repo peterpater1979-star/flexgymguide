@@ -69,6 +69,10 @@ Cadena de gimnasios económica con clubes en toda España. Desde 24,99 € cada 
 
 En Málaga, ON AIR tiene dos gimnasios en el centro: Armengual y Soho. Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Sesión de prueba con cita previa</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
 </div>

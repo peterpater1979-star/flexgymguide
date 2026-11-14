@@ -59,6 +59,10 @@ Ein Abo auf Credit-Basis für Yoga, Reformer-Pilates und Aerial in der Region, u
 
 clever fit hat in Darmstadt ein Studio in der Pallaswiesenstraße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>

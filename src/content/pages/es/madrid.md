@@ -115,6 +115,10 @@ En Madrid, L’Orange bleue tiene cuatro gimnasios: Cuatro Caminos, Ciudad Linea
 
 En Madrid, ON AIR tiene un gimnasio en Delicias (Arganzuela). Essential cuesta 31,96 €, Original 39,96 € y Ultra 43,96 € cada 4 semanas, más 30 € de matrícula y 10 € al año de garantía del material.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Sesión de prueba con cita previa</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
 </div>
@@ -170,6 +174,10 @@ En Madrid, GOfit tiene centros en Montecarmelo, Peñagrande, Plaza Elíptica y V
 <h3 id="dreamfit-madrid">Dreamfit</h3>
 
 En Madrid, Dreamfit tiene clubes en Aluche, Valdebernardo, Vallecas, Villaverde, Ventas y Moratalaz, y alrededor en Alcorcón, Coslada, Majadahonda, Móstoles, Parla y San Sebastián de los Reyes. Gimnasios grandes con más de 600 clases al mes incluidas. Sin permanencia: DREAM cuesta 42,90 € al mes en Aluche y 44,90 € en Majadahonda, más 45 € de inscripción.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Pase de 15 € para probar</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
