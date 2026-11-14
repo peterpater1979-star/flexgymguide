@@ -114,14 +114,14 @@ Een lidmaatschap met gym en groepslessen in 53 clubs in heel Nederland. Met een 
 
 </div>
 
-<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness, Rostudios, Go!&nbsp;Health&nbsp;Clubs, Dutch&nbsp;Gym en fit20. <a href="#andere">Bekijk de andere sportscholen</a></p>
+<p class="meer-aanbieders">En ook: Basic-Fit, Saints & Stars, Vondelgym, BigGym, Anytime Fitness, Rostudios, Go!&nbsp;Health&nbsp;Clubs, Dutch&nbsp;Gym, fit20 en Sportfondsen. <a href="#andere">Bekijk de andere sportscholen</a></p>
 
 <div id="steden">
 
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs · fit20</span></li>
+<li><a href="/nl/amsterdam/"><strong>Amsterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Saints &amp; Stars · Vondelgym · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs · fit20 · Sportfondsen</span></li>
 <li><a href="/nl/rotterdam/"><strong>Rotterdam</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Anytime Fitness · Rostudios · Go!&nbsp;Health&nbsp;Clubs · fit20</span></li>
 <li><a href="/nl/den-haag/"><strong>Den Haag</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · Anytime Fitness · Rostudios · fit20</span></li>
 <li><a href="/nl/utrecht/"><strong>Utrecht</strong></a> <span class="klein">Urban Sports Club · ClassPass · Trainmore · Basic-Fit · SportCity · BigGym · Rostudios · Dutch&nbsp;Gym · fit20</span></li>
@@ -356,6 +356,29 @@ Eén keer per week 20 minuten krachttraining met een eigen trainer, in studio's 
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-sportfondsen"><span>Zwemmen en fitness</span></div>
+
+### Sportfondsen
+
+Zwembaden en sportcentra op ongeveer 90 plekken, een deel met fitness en lessen. Zwemmen kan met losse kaartjes; bij Mercator in Amsterdam all-in € 67,50 tot € 87,50 per maand.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Gratis dagpas (Mercator)</p>
+<ul>
+<li>Goed als je graag zwemt</li>
+<li>Goed als je zonder abonnement wilt zwemmen</li>
+<li>Prijzen per locatie</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/nl/sportfondsen/">Alles over Sportfondsen</a>
+</div>
+
+</div>
+
 </div>
 
 ## Zo werkt ClassPass in Nederland
@@ -431,6 +454,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Saints & Stars opzeggen](/nl/saints-stars-opzeggen/)** · Flex, jaar en afkopen
 - **[Vondelgym opzeggen](/nl/vondelgym-opzeggen/)** · opzegtermijn en pauzeren
 - **[fit20 opzeggen](/nl/fit20-opzeggen/)** · na zes maanden maandelijks
+- **[Sportfondsen opzeggen](/nl/sportfondsen-opzeggen/)** · opzegtermijn en pauzeren
 - **[Sporten zonder contract](/nl/sporten-zonder-contract/)** · de opties per maand
 
 ## Veelgestelde vragen
