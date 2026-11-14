@@ -21,13 +21,12 @@ Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mi
 
 ### Urban Sports Club
 
-Ein fester Preis pro Monat für Check-ins bei Partnerstudios.
+Ein fester Preis pro Monat für Check-ins an über 17.200 Partnerstandorten in 7 europäischen Ländern.
 
 <div class="usc-plan">
 <p class="usc-plan-kop"><strong>Classic</strong> <span>75 € im Monat</span></p>
 <ul>
 <li>1 Check-in pro Tag</li>
-<li>Über 17.200 Partnerstandorte in 7 europäischen Ländern</li>
 <li>Bis zu 30 Live-Online-Kurse</li>
 <li>Video on Demand ohne Limit</li>
 <li>Kündigung 3 Tage vor der Verlängerung</li>

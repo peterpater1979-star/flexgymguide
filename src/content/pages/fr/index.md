@@ -339,13 +339,12 @@ Cardio, musculation et cours collectifs selon la formule. Dès 30 € toutes les
 
 ### Urban Sports Club
 
-Un prix fixe par mois pour des check-ins dans des salles et studios partenaires.
+Un prix fixe par mois pour des check-ins dans plus de 17 200 salles et studios partenaires, dans 7 pays européens.
 
 <div class="usc-plan">
 <p class="usc-plan-kop"><strong>Classic</strong> <span>75 € par mois</span></p>
 <ul>
 <li>10 check-ins par mois</li>
-<li>Plus de 17 200 lieux partenaires dans 7 pays européens</li>
 <li>Jusqu’à 8 cours en ligne en direct</li>
 <li>Vidéos à la demande illimitées</li>
 <li>Résiliable 3 jours avant le renouvellement</li>

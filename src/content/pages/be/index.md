@@ -21,13 +21,12 @@ Geen zin in een lang contract bij één sportschool? Met een sportpas als ClassP
 
 ### Urban Sports Club
 
-Een vaste prijs per maand voor check-ins bij partnerlocaties.
+Een vaste prijs per maand voor check-ins bij meer dan 17.200 partnerlocaties in 7 Europese landen.
 
 <div class="usc-plan">
 <p class="usc-plan-kop"><strong>Classic</strong> <span>€ 75 per maand</span></p>
 <ul>
 <li>10 check-ins per maand</li>
-<li>Meer dan 17.200 partnerlocaties in 7 Europese landen</li>
 <li>Tot 8 live onlinelessen</li>
 <li>Onbeperkt video on demand</li>
 <li>Opzeggen tot 3 dagen voor verlenging</li>
