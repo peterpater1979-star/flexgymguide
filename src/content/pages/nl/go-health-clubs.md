@@ -82,6 +82,8 @@ De openingstijden verschillen per club. In Amsterdam is de club bijvoorbeeld doo
 - **Ziek of geblesseerd:** kun je langer dan een maand niet trainen, dan kan je contract met die tijd worden verlengd, zonder extra kosten voor die periode.
 - **Bedenktijd:** 14 dagen na online inschrijven.
 
+Stap voor stap: [Go! Health Clubs opzeggen](/nl/go-health-clubs-opzeggen/).
+
 <h2 id="classpass">Go! Health Clubs of ClassPass?</h2>
 
 Wil je vooral efficiënt trainen met begeleiding, twee of drie keer per week, dan past Go! Health Clubs goed. Je zit wel minimaal een jaar vast. Wil je afwisselen tussen yoga, boksen en spinning bij verschillende studio's, of wil je je niet vastleggen, dan past een sportpas als ClassPass vaak beter. Lees [Sportpas of abonnement?](/nl/sportpas-of-abonnement/)

@@ -377,6 +377,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Trainmore opzeggen](/nl/trainmore-opzeggen/)** · opzegtermijn en bevriezen
 - **[Anytime Fitness opzeggen](/nl/anytime-fitness-opzeggen/)** · opzegtermijn en pauzeren
 - **[Rostudios opzeggen](/nl/rostudios-opzeggen/)** · Unlimited, opzegtermijn en bevriezen
+- **[Go! Health Clubs opzeggen](/nl/go-health-clubs-opzeggen/)** · opzegtermijn en looptijd
 - **[Sporten zonder contract](/nl/sporten-zonder-contract/)** · de opties per maand
 
 ## Veelgestelde vragen

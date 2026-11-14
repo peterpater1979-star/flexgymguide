@@ -117,6 +117,6 @@ Ja. Veel mensen trainen in hun sportschool en nemen af en toe via ClassPass een 
 
 - Per stad: [Amsterdam](/nl/sporten-zonder-contract-amsterdam/) · [Rotterdam](/nl/sporten-zonder-contract-rotterdam/) · [Den Haag](/nl/sporten-zonder-contract-den-haag/) · [Utrecht](/nl/sporten-zonder-contract-utrecht/) · [Eindhoven](/nl/sporten-zonder-contract-eindhoven/) · [Groningen](/nl/sporten-zonder-contract-groningen/) · [Haarlem](/nl/sporten-zonder-contract-haarlem/)
 - [In English](/nl/gyms-without-contract/)
-- [Anytime Fitness opzeggen](/nl/anytime-fitness-opzeggen/) · [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/)
+- [Anytime Fitness opzeggen](/nl/anytime-fitness-opzeggen/) · [Basic-Fit opzeggen](/nl/basic-fit-opzeggen/) · [Go! Health Clubs opzeggen](/nl/go-health-clubs-opzeggen/)
 
 </details>
