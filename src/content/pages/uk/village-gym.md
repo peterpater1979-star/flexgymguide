@@ -74,6 +74,8 @@ Most clubs open at 5am on weekdays and close at 10 or 11pm. At weekends they usu
 - **Freeze:** from 1 to 12 months, at £10 a month. Ask before the 20th of the month before. A freeze extends your 12-month term.
 - **Joining fee:** not refunded, even if you cancel in the first days.
 
+Step by step: [Cancel Village Gym](/uk/cancel-village-gym/).
+
 <h2 id="other-clubs">Training at other clubs</h2>
 
 Your membership is for one home club. You can visit other Village clubs with an upgraded membership or by paying a guest fee. If you train more often at another club than at your own, Village can move your membership to that club, possibly at a higher price.

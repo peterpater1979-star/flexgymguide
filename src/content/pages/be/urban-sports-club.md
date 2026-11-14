@@ -95,6 +95,8 @@ Urban Sports Club heeft partnerlocaties in Duitsland, België, Spanje, Frankrijk
 - **Maandabonnement**: 3 dagen voor het einde van je abonnementsmaand opzeggen.
 - **Bedenktijd**: 14 dagen na je aanmelding, zonder opgaaf van reden.
 
+Stap voor stap: [Urban Sports Club opzeggen](/be/urban-sports-club-opzeggen/).
+
 ## Veelgestelde vragen
 
 <details open>

@@ -43,6 +43,8 @@ Mrs.Sporty passt zu dir, wenn du lieber unter Frauen trainierst und kurze, feste
 
 Einen Einheitspreis gibt es nicht. Jeder Club legt seine eigenen Preise fest. Du findest sie auf der Seite deines Clubs oder bei einem Probetraining. Frag nach der Laufzeit, der Kündigungsfrist und ob ein Initialservice dazukommt.
 
+Schritt für Schritt: [Mrs.Sporty kündigen](/de/mrs-sporty-kuendigen/).
+
 <h2 id="staedte">Mrs.Sporty in deiner Stadt</h2>
 
 Mrs.Sporty hat mehrere Clubs in diesen Städten aus unserem Ratgeber:

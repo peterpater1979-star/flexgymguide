@@ -2,7 +2,7 @@
 title: "Darse de baja en Urban Sports Club: cómo hacerlo, preaviso y lo que debes saber"
 seoTitle: "Darse de baja en Urban Sports Club: cómo hacerlo y preaviso"
 path: "/es/baja-urban-sports-club/"
-description: "Cómo cancelar Urban Sports Club en España: en línea en tu cuenta, 3 días de preaviso antes de la renovación, desistimiento de 14 días y alternativas."
+description: "Cómo cancelar Urban Sports Club en España: por escrito, 3 días de preaviso antes de la renovación, desistimiento de 14 días y alternativas."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"
@@ -12,21 +12,21 @@ kicker: "Guía"
 
 <div class="fotobanner smal foto-urban-sports" role="img" aria-label="Gimnasio"></div>
 
-Cancelas Urban Sports Club en línea, en tu cuenta. Con la suscripción mensual, el preaviso es de 3 días antes de la renovación. Después de darte de alta tienes 14 días para desistir sin dar motivos.
+Cancelas Urban Sports Club por escrito: con el formulario de baja de su web o por correo electrónico. Con la suscripción mensual, el preaviso es de 3 días antes de la renovación. Después de darte de alta tienes 14 días para desistir sin dar motivos.
 
 <h2 id="resumen">En resumen</h2>
 
 | | |
 | --- | --- |
-| **Dónde** | En línea, en tu cuenta de Urban Sports Club |
+| **Dónde** | Por escrito: formulario de baja en su web o correo electrónico |
 | **Preaviso** | 3 días antes de la renovación |
 | **Permanencia** | Ninguna con la suscripción mensual |
 | **Desistimiento** | 14 días después de darte de alta |
 
 <h2 id="pasos">Cómo darte de baja</h2>
 
-1. **Mira tu fecha de renovación** en tu cuenta.
-2. **Cancela en tu cuenta**, al menos 3 días antes de esa fecha.
+1. **Mira tu fecha de renovación.**
+2. **Cancela por escrito**, con el formulario de su web o por correo electrónico, al menos 3 días antes de esa fecha.
 3. **Guarda el correo de confirmación.**
 
 <h2 id="saber">Bueno saber</h2>
@@ -54,7 +54,7 @@ Cancelas Urban Sports Club en línea, en tu cuenta. Con la suscripción mensual,
 <details>
 <summary>¿Cómo cancelo Urban Sports Club?</summary>
 
-En línea, en tu cuenta.
+Por escrito: con el formulario de baja de su web o por correo electrónico.
 
 </details>
 

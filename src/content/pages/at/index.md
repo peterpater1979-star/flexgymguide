@@ -262,6 +262,10 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 - **[Dein erstes Training](/de/erstes-training/)** · was du mitnimmst
 - **[Sport im Studium](/de/sport-im-studium/)** · günstig und flexibel
 - **[Essen und Trinken rund ums Training](/de/essen-und-trinken-rund-ums-training/)** · einfach und unkompliziert
+- **[clever fit kündigen](/at/clever-fit-kuendigen/)** · Fristen und Alternativen
+- **[JOHN REED kündigen](/at/john-reed-kuendigen/)** · Fristen und Alternativen
+- **[Mrs.Sporty kündigen](/at/mrs-sporty-kuendigen/)** · Fristen und Alternativen
+- **[myClubs kündigen](/at/myclubs-kuendigen/)** · Fristen und Alternativen
 
 ## Häufige Fragen
 

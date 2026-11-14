@@ -85,6 +85,8 @@ Günstiger pro Monat, dafür bist du länger gebunden. Prüf vor dem Abschluss, 
 
 </div>
 
+Schritt für Schritt: [JOHN REED kündigen](/de/john-reed-kuendigen/).
+
 <h2 id="staedte">JOHN REED in deiner Stadt</h2>
 
 JOHN REED hat Clubs in diesen Städten aus unserem Ratgeber:

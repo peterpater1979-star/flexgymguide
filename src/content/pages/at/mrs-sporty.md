@@ -42,6 +42,8 @@ Zum Probetraining brauchst du nur Sportkleidung und Sportschuhe. Schließt du ei
 
 Einen Einheitspreis gibt es nicht. Laufzeit und Preis wählst du im Club, deshalb sind die Preise laut Mrs.Sporty "sehr individuell". Frag beim Probetraining nach dem Monatsbeitrag, der Laufzeit und der Kündigungsfrist.
 
+Schritt für Schritt: [Mrs.Sporty kündigen](/at/mrs-sporty-kuendigen/).
+
 <h2 id="wien">Mrs.Sporty in Wien</h2>
 
 In [Wien](/at/wien/#mrs-sporty) hat Mrs.Sporty Clubs in vielen Bezirken, unter anderem in der Leopoldstadt, Landstraße, Margareten, Alsergrund, Favoriten, Simmering, Meidling, Hietzing, Penzing, Hernals, Döbling und Brigittenau, in Alterlaa und in Aspern.

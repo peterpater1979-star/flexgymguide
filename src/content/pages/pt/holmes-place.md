@@ -49,6 +49,8 @@ Pergunta na visita:
 - **Vários clubes:** podes treinar também noutros clubes?
 - **Promoções:** há alguma oferta especial neste momento?
 
+Passo a passo: [Cancelar o Holmes Place](/pt/cancelar-holmes-place/).
+
 <h2 id="escolha">Holmes Place, um ginásio low-cost ou o ClassPass?</h2>
 
 <div class="kolommen">

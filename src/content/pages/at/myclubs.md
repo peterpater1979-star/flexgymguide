@@ -75,6 +75,8 @@ Die Mitgliedschaft startet direkt nach dem Kauf. Special Workouts sind zum Beisp
 - **Kündigen**: monatlich, mit 7 Tagen Kündigungsfrist.
 - **Pausieren**: 14 Tage bis 3 Monate, kostenlos.
 
+Schritt für Schritt: [myClubs kündigen](/at/myclubs-kuendigen/).
+
 ## Häufige Fragen
 
 <details open>

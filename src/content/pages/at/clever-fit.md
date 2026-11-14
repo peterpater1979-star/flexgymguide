@@ -37,6 +37,8 @@ clever fit bietet in Österreich mehrere Tarife an. Je höher der Tarif, desto m
 
 Deine Mitgliedschaft verwaltest du in der CF App: Dort kannst du bis zu 6 Monate pausieren und auch kündigen.
 
+Schritt für Schritt: [clever fit kündigen](/at/clever-fit-kuendigen/).
+
 <h2 id="wien">clever fit in Wien</h2>
 
 In [Wien](/at/wien/#clever-fit) hat clever fit unter anderem ein Studio in der Brigittenau (Dresdner Straße), geöffnet Montag bis Freitag von 6 bis 24 Uhr und am Wochenende von 8 bis 22 Uhr. Alle Studios findest du bei [clever fit](https://www.clever-fit.com/de-AT/fitnessstudio/).

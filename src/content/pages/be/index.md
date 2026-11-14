@@ -208,6 +208,7 @@ Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van
 - **[Basic-Fit opzeggen](/be/basic-fit-opzeggen/)** · opzegtermijn en bevriezen
 - **[Jims opzeggen](/be/jims-opzeggen/)** · opzegtermijn en pauzeren
 - **[Rostudios opzeggen](/be/rostudios-opzeggen/)** · Unlimited, opzegtermijn en bevriezen
+- **[Urban Sports Club opzeggen](/be/urban-sports-club-opzeggen/)** · termijn en bedenktijd
 - **Sporten zonder contract:** [Brussel](/be/sporten-zonder-contract-brussel/) · [Antwerpen](/be/sporten-zonder-contract-antwerpen/) · [Gent](/be/sporten-zonder-contract-gent/)
 
 En français : [Ton premier cours](/fr/premier-cours/) · ce qu’il faut emporter

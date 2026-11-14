@@ -69,6 +69,8 @@ Die meisten Kurse musst du reservieren; kostenlos stornieren geht innerhalb der 
 
 </div>
 
+Schritt für Schritt: [myClubs kündigen](/ch/myclubs-kuendigen/).
+
 ## Häufige Fragen
 
 <details open>

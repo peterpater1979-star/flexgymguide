@@ -12,21 +12,21 @@ kicker: "Guide"
 
 <div class="fotobanner smal foto-urban-sports" role="img" aria-label="Salle de sport"></div>
 
-Tu résilies Urban Sports Club en ligne, dans ton compte. Avec l'abonnement mensuel, le préavis est de 3 jours avant la fin de ton mois d'abonnement. Après une nouvelle inscription, tu as 14 jours pour changer d'avis.
+Tu résilies Urban Sports Club par écrit : avec le formulaire de résiliation sur leur site, ou par e-mail. Avec l'abonnement mensuel, le préavis est de 3 jours avant la fin de ton mois d'abonnement. Après une nouvelle inscription, tu as 14 jours pour changer d'avis.
 
 <h2 id="resume">En bref</h2>
 
 | | |
 | --- | --- |
-| **Où** | En ligne, dans ton compte Urban Sports Club |
+| **Où** | Par écrit : formulaire de résiliation sur leur site, ou e-mail |
 | **Préavis** | 3 jours avant la fin de ton mois d'abonnement |
 | **Engagement** | Aucun avec l'abonnement mensuel |
 | **Rétractation** | 14 jours après l'inscription |
 
 <h2 id="etapes">Comment résilier</h2>
 
-1. **Regarde ta date de renouvellement** dans ton compte.
-2. **Résilie dans ton compte**, au moins 3 jours avant cette date.
+1. **Regarde ta date de renouvellement.**
+2. **Résilie par écrit**, avec le formulaire sur leur site ou par e-mail, au moins 3 jours avant cette date.
 3. **Garde le mail de confirmation.**
 
 <h2 id="a-savoir">Bon à savoir</h2>
@@ -54,7 +54,7 @@ Tu résilies Urban Sports Club en ligne, dans ton compte. Avec l'abonnement mens
 <details>
 <summary>Comment résilier Urban Sports Club ?</summary>
 
-En ligne, dans ton compte.
+Par écrit : avec le formulaire de résiliation sur leur site, ou par e-mail.
 
 </details>
 

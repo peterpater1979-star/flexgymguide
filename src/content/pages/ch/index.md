@@ -212,6 +212,8 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 - **[Sport im Studium](/de/sport-im-studium/)** · günstig und flexibel
 - **[Essen und Trinken rund ums Training](/de/essen-und-trinken-rund-ums-training/)** · einfach und unkompliziert
 - **[PureGym kündigen](/ch/puregym-kuendigen/)** · Frist und so geht's
+- **[Activ Fitness kündigen](/ch/activ-fitness-kuendigen/)** · Fristen und Alternativen
+- **[myClubs kündigen](/ch/myclubs-kuendigen/)** · Fristen und Alternativen
 
 ## Häufige Fragen
 

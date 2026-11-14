@@ -75,6 +75,8 @@ With a monthly membership you also get access to other Snap Fitness gyms, in Ire
 - **Fixed term:** stopping early costs an early cancellation fee.
 - **Freezing:** usually from 1 to 3 months a year, at some gyms up to 4, for a small fee per month.
 
+Step by step: [Cancel Snap Fitness](/ie/cancel-snap-fitness/).
+
 <h2 id="age">Minimum age</h2>
 
 You usually need to be 18. Some gyms accept members of 16 and 17, who can then only train while staff are present.

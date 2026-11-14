@@ -60,6 +60,8 @@ Günstiger pro Monat. Kündige mindestens einen Monat vor Ende der Laufzeit, son
 
 </div>
 
+Schritt für Schritt: [EASYFITNESS kündigen](/de/easyfitness-kuendigen/).
+
 <h2 id="staedte">EASYFITNESS in deiner Stadt</h2>
 
 EASYFITNESS hat Studios in dieser Stadt aus unserem Ratgeber:

@@ -216,6 +216,8 @@ Falta-te alguma coisa? Com estes links vais diretamente à Traininn, a loja de f
 - **[Comer e beber no treino](/pt/comer-e-beber-no-treino/)** · simples
 - **[Cancelar o VivaGym](/pt/cancelar-vivagym/)** · como e até que dia
 - **[Cancelar a Element Gyms](/pt/cancelar-element-gyms/)** · aviso prévio
+- **[Cancelar o Urban Sports Club](/pt/cancelar-urban-sports-club/)** · prazo e alternativas
+- **[Cancelar o Holmes Place](/pt/cancelar-holmes-place/)** · prazo e alternativas
 - **Ginásio sem fidelização:** [Lisboa](/pt/ginasio-sem-fidelizacao-lisboa/) · [Porto](/pt/ginasio-sem-fidelizacao-porto/)
 
 ## Perguntas frequentes

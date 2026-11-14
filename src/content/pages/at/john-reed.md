@@ -45,6 +45,8 @@ Je nach Kategorie trainierst du auch in anderen JOHN REED Clubs, bei Gold's Gym 
 
 Du kündigst mit einem Monat Frist zum Ende der laufenden Trainingsperiode. Schließt du online ab, hast du 14 Tage Widerrufsrecht.
 
+Schritt für Schritt: [JOHN REED kündigen](/at/john-reed-kuendigen/).
+
 <h2 id="wien">JOHN REED in Wien</h2>
 
 JOHN REED hat Clubs in [Wien](/at/wien/#john-reed). Die Adressen findest du bei [JOHN REED](https://johnreed.fitness/at/clubs).
