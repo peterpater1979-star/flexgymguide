@@ -41,18 +41,18 @@ Sportfondsen Mercator aan de Jan van Galenstraat in Amsterdam-West heeft een zwe
 
 Studenten betalen € 187,50 voor 3 maanden of € 332,50 voor 6 maanden, vooruit. Train je liever af en toe? Met de **Dagpas Fitness & Zwembad** van € 20 gebruik je een dag lang de fitness, de lessen en het zwembad. Een kaart voor 12 bezoeken kost € 200. Daarbij komt eenmalig € 6,50 voor je pas.
 
-De fitness is doordeweeks open van 7.00 tot 22.00 uur en in het weekend van 8.00 tot 18.00 uur.
+De fitness is doordeweeks open van 7.00 tot 22.00 uur en in het weekend van 8.00 tot 18.00 uur. Alle lidmaatschappen en tijden zie je op de site van [Mercator Fitness](https://www.mercatorfitness.nl/).
 
 <h2 id="zwemmen">Alleen zwemmen</h2>
 
 Wil je alleen zwemmen, dan koop je een los kaartje of een strippenkaart. Je zit dan nergens aan vast. Twee voorbeelden in Amsterdam:
 
-- **Sportfondsen Amsterdam-Oost** (Land van Cocagneplein): een los kaartje voor banenzwemmen of vrij zwemmen kost € 6,40, een 12-badenkaart € 64.
-- **Sportfondsen Mercator:** een los kaartje kost € 8,50, een 12-badenkaart € 84,99. Voor de aquales is er Club-Aqua: een losse les kost € 13.
+- **[Sportfondsen Amsterdam-Oost](https://amsterdamoost.sportfondsen.nl/)** (Land van Cocagneplein): een los kaartje voor banenzwemmen of vrij zwemmen kost € 6,40, een 12-badenkaart € 64.
+- **[Sportfondsen Mercator](https://mercator.sportfondsen.nl/)** (Jan van Galenstraat): een los kaartje kost € 8,50, een 12-badenkaart € 84,99. Voor de aquales is er Club-Aqua: een losse les kost € 13.
 
 <h2 id="proef">Gratis dagpas</h2>
 
-Bij Mercator vraag je op de site een gratis dagpas aan. Daarna neemt Mercator contact met je op om een dag af te spreken. Je probeert dan de fitness, de groepslessen, het zwembad en de sauna. Ook andere locaties hebben een gratis proefles; kijk daarvoor op de site van je eigen bad.
+Bij Mercator vraag je op de site een [gratis dagpas](https://www.mercatorfitness.nl/sportfondsen-mercator/gratis-dagpas-aanvragen/) aan. Daarna neemt Mercator contact met je op om een dag af te spreken. Je probeert dan de fitness, de groepslessen, het zwembad en de sauna. Ook andere locaties hebben een gratis proefles; kijk daarvoor op de site van je eigen bad.
 
 <h2 id="locaties">De locaties</h2>
 
@@ -114,5 +114,7 @@ Op ClassPass vonden we Sportfondsen Mercator en Sportfondsenbad Oost in Amsterda
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/">Sporten in Nederland</a>
-<a class="knop knop-rand" href="https://www.sportfondsen.nl/">Sportfondsen</a>
+<a class="knop knop-rand" href="https://www.mercatorfitness.nl/">Mercator Fitness</a>
+<a class="knop knop-rand" href="https://amsterdamoost.sportfondsen.nl/">Sportfondsen Amsterdam-Oost</a>
+<a class="knop knop-rand" href="https://www.sportfondsen.nl/">Alle locaties</a>
 </div>
