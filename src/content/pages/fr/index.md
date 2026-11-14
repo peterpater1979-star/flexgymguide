@@ -23,9 +23,13 @@ Pas envie d’un long contrat dans une seule salle de sport ? Avec un pass sport
 
 Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning et la salle de sport, dans des studios partout en ville et aussi à l’étranger.
 
-- Idéal si tu aimes varier
-- Idéal pour une à trois séances par semaine
-- Fonctionne aussi dans 30 autres pays
+<div class="infoblok">
+<ul>
+<li>Idéal si tu aimes varier</li>
+<li>Idéal pour une à trois séances par semaine</li>
+<li>Fonctionne aussi dans 30 autres pays</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-land">Profitez de 10 séances gratuites en 14 jours</a>
@@ -42,9 +46,13 @@ Un abonnement avec des crédits pour le yoga, le pilates, la boxe, le spinning e
 
 Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,99 € toutes les 4 semaines, ou Flex sans engagement pour 9,99 € de plus.
 
-- Idéal si tu t'entraînes trois fois par semaine ou plus
-- Idéal si tu veux un lieu fixe
-- Flex : préavis de 4 semaines
+<div class="infoblok">
+<ul>
+<li>Idéal si tu t'entraînes trois fois par semaine ou plus</li>
+<li>Idéal si tu veux un lieu fixe</li>
+<li>Flex : préavis de 4 semaines</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/basic-fit/">Tout sur Basic-Fit</a>
@@ -60,9 +68,13 @@ Plus de 300 clubs en France, souvent ouverts 24h/24. Abonnement d'un an dès 24,
 
 Plus de 300 clubs en France, ouverts 7j/7, certains 24h/24. Sans engagement dès 40 € toutes les 4 semaines, ou 10 € de moins avec engagement.
 
-- Idéal si tu t'entraînes trois fois par semaine ou plus
-- Cours collectifs dans ta salle
-- Frais d'adhésion : 49 € sans engagement, 30 € avec
+<div class="infoblok">
+<ul>
+<li>Idéal si tu t'entraînes trois fois par semaine ou plus</li>
+<li>Cours collectifs dans ta salle</li>
+<li>Frais d'adhésion : 49 € sans engagement, 30 € avec</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/fitness-park/">Tout sur Fitness Park</a>
@@ -78,9 +90,13 @@ Plus de 300 clubs en France, ouverts 7j/7, certains 24h/24. Sans engagement dès
 
 Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et des cours en petits groupes. Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement.
 
-- Idéal si tu veux être accompagné par un coach
-- Cours en petits groupes (Small Groups)
-- Une séance d’essai gratuite par an
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai gratuite par an</p>
+<ul>
+<li>Idéal si tu veux être accompagné par un coach</li>
+<li>Cours en petits groupes (Small Groups)</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/keepcool/">Tout sur Keepcool</a>
@@ -167,9 +183,14 @@ D’autres chaînes de salles, et Urban Sports Club, un pass sport à prix fixe.
 
 Environ 400 salles en France, en Espagne et au Portugal selon L’Orange bleue. Dès 35 € toutes les 4 semaines, avec engagement d’un ou deux ans, plus 60 € de frais d’adhésion.
 
-- Idéal si tu veux un coach dans la salle
-- Cours collectifs illimités
-- Frais d’adhésion offerts aux étudiants
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+<ul>
+<li>Idéal si tu veux un coach dans la salle</li>
+<li>Cours collectifs illimités</li>
+<li>Frais d’adhésion offerts aux étudiants</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
@@ -185,9 +206,14 @@ Environ 400 salles en France, en Espagne et au Portugal selon L’Orange bleue. 
 
 Plus de 120 clubs selon ON AIR, surtout en France, avec beaucoup de matériel. Sans engagement annuel, dès 31,96 € toutes les 4 semaines, plus 50 € de frais d’inscription.
 
-- Idéal si tu t’entraînes souvent
-- Préavis de 8 semaines
-- Accès à tous les clubs ON AIR
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+<ul>
+<li>Idéal si tu t’entraînes souvent</li>
+<li>Préavis de 8 semaines</li>
+<li>Accès à tous les clubs ON AIR</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
@@ -203,9 +229,13 @@ Plus de 120 clubs selon ON AIR, surtout en France, avec beaucoup de matériel. S
 
 118 salles en France selon L’Appart Fitness, surtout autour de Lyon. 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription.
 
-- Ouvert 7j/7 de 6h à 23h
-- 5 € de moins pour les étudiants
-- Séance d’essai à 9,99 €
+<div class="infoblok">
+<ul>
+<li>Ouvert 7j/7 de 6h à 23h</li>
+<li>5 € de moins pour les étudiants</li>
+<li>Séance d’essai à 9,99 €</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
@@ -221,9 +251,13 @@ Plus de 120 clubs selon ON AIR, surtout en France, avec beaucoup de matériel. S
 
 Surtout en Île-de-France, avec accès à environ 270 clubs Neoness et Keepcool. Dès 29,99 € toutes les 4 semaines avec engagement, plus 49 € de frais d’adhésion.
 
-- Idéal si tu vas souvent à la salle
-- Cours collectifs avec Prime
-- Prime aussi sans engagement, au club
+<div class="infoblok">
+<ul>
+<li>Idéal si tu vas souvent à la salle</li>
+<li>Cours collectifs avec Prime</li>
+<li>Prime aussi sans engagement, au club</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
@@ -239,9 +273,13 @@ Surtout en Île-de-France, avec accès à environ 270 clubs Neoness et Keepcool.
 
 12 clubs dans 7 villes, tous sans engagement. Hors Paris dès 54 € par mois, à Paris dès 69 €, plus une licence et un dépôt de garantie.
 
-- Idéal si tu veux beaucoup de cours collectifs dans ta salle
-- Cours aquatiques, sauna et hammam
-- Tarif étudiant pour les moins de 26 ans
+<div class="infoblok">
+<ul>
+<li>Idéal si tu veux beaucoup de cours collectifs dans ta salle</li>
+<li>Cours aquatiques, sauna et hammam</li>
+<li>Tarif étudiant pour les moins de 26 ans</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wellness-sport-club/">Tout sur WellNess Sport Club</a>
@@ -257,9 +295,13 @@ Surtout en Île-de-France, avec accès à environ 270 clubs Neoness et Keepcool.
 
 6 clubs à Paris et Boulogne, 2 à Nantes. Tu paies à la semaine : à Paris 24,99 € avec engagement de 52 semaines, ou 29,99 € sans engagement.
 
-- Idéal si tu veux payer à la semaine
-- Pass jour, semaine ou mois sans abonnement
-- Une séance d’essai offerte
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai offerte</p>
+<ul>
+<li>Idéal si tu veux payer à la semaine</li>
+<li>Pass jour, semaine ou mois sans abonnement</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
@@ -275,9 +317,13 @@ Surtout en Île-de-France, avec accès à environ 270 clubs Neoness et Keepcool.
 
 Cardio, musculation et cours collectifs selon la formule. Dès 30 € toutes les 4 semaines avec engagement, ou Magic Full sans engagement à 50 €.
 
-- Idéal si tu vas souvent à la salle
-- Formules avec options au choix
-- Abo Jeune pour les moins de 20 ans
+<div class="infoblok">
+<ul>
+<li>Idéal si tu vas souvent à la salle</li>
+<li>Formules avec options au choix</li>
+<li>Abo Jeune pour les moins de 20 ans</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>

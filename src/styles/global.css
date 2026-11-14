@@ -221,3 +221,11 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .usc-plan ul { margin: 0; padding-left: 1.1rem; }
 .usc-plan li { margin: .15rem 0; }
 .usc-plan.kort { padding: .55rem .85rem; margin: .75rem 0 1rem; }
+
+/* Groen infoblok op tegels (zelfde stijl als het Classic-blok van Urban Sports Club) */
+.infoblok { background: var(--surface); border-radius: 10px; padding: .75rem 1rem; margin: 1rem 0; font-size: .92rem; line-height: 1.45; }
+.infoblok ul { margin: 0; padding-left: 1.1rem; }
+.infoblok li { margin: .15rem 0; }
+.infoblok .proef { margin: 0 0 .35rem; font-weight: 600; color: var(--accent); }
+.infoblok .proef:last-child { margin-bottom: 0; }
+.infoblok.kort { padding: .55rem .85rem; margin: .75rem 0 1rem; }

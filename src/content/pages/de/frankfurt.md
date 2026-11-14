@@ -55,6 +55,10 @@ Ein Abo auf Credit-Basis mit besonders viel Reformer-Pilates, dazu HIIT, Boxen u
 
 220 Clubs in Deutschland, 12 in Frankfurt. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>

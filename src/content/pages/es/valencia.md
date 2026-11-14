@@ -97,6 +97,10 @@ Gimnasio con clases colectivas y cuotas sin permanencia: ONE 32,90 €, FLEX 35,
 
 En Valencia, L’Orange bleue tiene un gimnasio en La Zaidía. Las cuotas tienen permanencia: START 40 €, BOOST o PRIME 45 € cada 4 semanas, más 60 € de pack de inicio (gratis para estudiantes).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Primera sesión gratis</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
 </div>

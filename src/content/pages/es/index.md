@@ -23,9 +23,13 @@ kicker: "Guía de país España"
 
 Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, en estudios de toda la ciudad y también en el extranjero.
 
-- Ideal si te gusta variar
-- Ideal si entrenas de una a tres veces por semana
-- Funciona también en otros 30 países
+<div class="infoblok">
+<ul>
+<li>Ideal si te gusta variar</li>
+<li>Ideal si entrenas de una a tres veces por semana</li>
+<li>Funciona también en otros 30 países</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-land">Prueba 10 sesiones gratis en 14 días</a>
@@ -42,9 +46,13 @@ Una suscripción con créditos para yoga, pilates, boxeo, spinning y gimnasio, e
 
 Cadena de gimnasios económica con clubes en toda España. Contrato anual desde 24,99 € cada 4 semanas, o Flex sin permanencia desde 29,98 €.
 
-- Ideal si entrenas tres veces por semana o más
-- Ideal si quieres un sitio fijo
-- Flex: 4 semanas de preaviso
+<div class="infoblok">
+<ul>
+<li>Ideal si entrenas tres veces por semana o más</li>
+<li>Ideal si quieres un sitio fijo</li>
+<li>Flex: 4 semanas de preaviso</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/basic-fit/">Todo sobre Basic-Fit</a>
@@ -60,9 +68,13 @@ Cadena de gimnasios económica con clubes en toda España. Contrato anual desde 
 
 Cadena francesa con 170 clubes en España y clases colectivas. Sin permanencia desde 37 € cada 4 semanas, con permanencia desde 27 € (club Madrid Príncipe Pío).
 
-- Ideal si entrenas tres veces por semana o más
-- Ultimate: clases con monitor
-- Matrícula de 30 o 50 €
+<div class="infoblok">
+<ul>
+<li>Ideal si entrenas tres veces por semana o más</li>
+<li>Ultimate: clases con monitor</li>
+<li>Matrícula de 30 o 50 €</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/fitness-park/">Todo sobre Fitness Park</a>
@@ -78,9 +90,13 @@ Cadena francesa con 170 clubes en España y clases colectivas. Sin permanencia d
 
 Cadena española con más de 240 clubes. Todas las cuotas sin permanencia, de 32,90 a 37,90 € al mes (club Madrid Príncipe de Vergara).
 
-- Ideal si entrenas tres veces por semana o más
-- Clases colectivas incluidas
-- Con PRIME también en Portugal
+<div class="infoblok">
+<ul>
+<li>Ideal si entrenas tres veces por semana o más</li>
+<li>Clases colectivas incluidas</li>
+<li>Con PRIME también en Portugal</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/vivagym/">Todo sobre VivaGym</a>
@@ -129,9 +145,13 @@ Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pas
 
 Cadena española con clubes en toda España, también en ciudades medianas. Sin permanencia, de 24,99 a 36,99 € al mes según la cuota y el club.
 
-- Ideal si buscas un gimnasio barato
-- Bono día y bono semana
-- Baja hasta el día 19
+<div class="infoblok">
+<ul>
+<li>Ideal si buscas un gimnasio barato</li>
+<li>Bono día y bono semana</li>
+<li>Baja hasta el día 19</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/synergym/">Todo sobre Synergym</a>
@@ -147,9 +167,13 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 26 gimnasios grandes, casi la mitad en Madrid y alrededores. Sin permanencia, DREAM de 42,90 a 44,90 € al mes según el club, más 45 € de inscripción.
 
-- Más de 600 clases al mes incluidas
-- Pase puntual de 15 € para probar
-- Baja antes del día 20 del mes
+<div class="infoblok">
+<ul>
+<li>Más de 600 clases al mes incluidas</li>
+<li>Pase puntual de 15 € para probar</li>
+<li>Baja antes del día 20 del mes</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
@@ -165,9 +189,13 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 Más de 20 clubes en Barcelona, muchos con piscina y spa. Todo el día desde 40,60 € al mes según el club, sin permanencia.
 
-- Cuotas de mañana, mediodía o fin de semana
-- Premium All Clubs para todos los clubes
-- 10 % menos con 12 meses
+<div class="infoblok">
+<ul>
+<li>Cuotas de mañana, mediodía o fin de semana</li>
+<li>Premium All Clubs para todos los clubes</li>
+<li>10 % menos con 12 meses</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dir/">Todo sobre DiR</a>
@@ -183,9 +211,13 @@ Más de 20 clubes en Barcelona, muchos con piscina y spa. Todo el día desde 40,
 
 Unos 60 gimnasios en España, abiertos las 24 horas. Cada club fija su cuota: de media 49,90 € al mes según la cadena.
 
-- Ideal si entrenas a horas raras
-- Ideal si viajas mucho
-- Cuota y permanencia según el club
+<div class="infoblok">
+<ul>
+<li>Ideal si entrenas a horas raras</li>
+<li>Ideal si viajas mucho</li>
+<li>Cuota y permanencia según el club</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/anytime-fitness/">Todo sobre Anytime Fitness</a>
@@ -201,9 +233,13 @@ Unos 60 gimnasios en España, abiertos las 24 horas. Cada club fija su cuota: de
 
 Unos 20 centros grandes, sobre todo en Madrid, con piscinas y spa. Sin permanencia, de 51,30 a 61,62 € al mes según el centro.
 
-- Ideal si quieres piscina y spa
-- Ideal para familias
-- Más de 150 clases a la semana
+<div class="infoblok">
+<ul>
+<li>Ideal si quieres piscina y spa</li>
+<li>Ideal para familias</li>
+<li>Más de 150 clases a la semana</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/go-fit/">Todo sobre GOfit</a>
@@ -219,9 +255,14 @@ Unos 20 centros grandes, sobre todo en Madrid, con piscinas y spa. Sin permanenc
 
 Cadena francesa; en España en Madrid, Barcelona y Valencia. Desde 40 € cada 4 semanas, con permanencia de uno o dos años.
 
-- Ideal si quieres un monitor en la sala
-- Clases colectivas ilimitadas
-- Pack de inicio de 60 €
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Primera sesión gratis</p>
+<ul>
+<li>Ideal si quieres un monitor en la sala</li>
+<li>Clases colectivas ilimitadas</li>
+<li>Pack de inicio de 60 €</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/l-orange-bleue/">Todo sobre L’Orange bleue</a>
@@ -237,9 +278,13 @@ Cadena francesa; en España en Madrid, Barcelona y Valencia. Desde 40 € cada 4
 
 Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, desde 31,96 € cada 4 semanas, más 30 € de matrícula.
 
-- Ideal si quieres mucho material
-- 4 semanas de preaviso
-- Acceso a todos los clubes
+<div class="infoblok">
+<ul>
+<li>Ideal si quieres mucho material</li>
+<li>4 semanas de preaviso</li>
+<li>Acceso a todos los clubes</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>

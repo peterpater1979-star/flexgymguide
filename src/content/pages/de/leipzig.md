@@ -55,6 +55,10 @@ Ein Abo auf Credit-Basis für Yoga, Pilates und Bootcamp im Park, vor allem im Z
 
 220 Clubs in Deutschland, 2 in Leipzig. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
@@ -96,6 +100,10 @@ clever fit hat in Leipzig ein Studio in der Holzhäuser Straße. Preise je nach 
 <h3>FitX</h3>
 
 FitX hat in Leipzig Studios in Mockau und Neulindenau, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>

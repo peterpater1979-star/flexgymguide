@@ -83,6 +83,10 @@ Cours collectifs, ouvert 7j/7. Sans engagement dès 40 € toutes les 4 semaines
 
 Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un an, ou 44,99 € sans engagement.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai gratuite par an</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/fr/keepcool/">Voir Keepcool</a>
 </div>
@@ -111,6 +115,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 À Paris, RITM a cinq clubs : Champs-Élysées, Ternes, La Fontaine, La Motte-Picquet et Saint-Germain, et un sixième juste à côté, à Boulogne-Billancourt. Tu paies à la semaine : Essentiel 24,99 € avec engagement de 52 semaines, Liberté 29,99 € sans engagement, plus 90 € de frais d’inscription.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Une séance d’essai offerte</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/ritm/">Tout sur RITM</a>
 </div>
@@ -125,6 +133,10 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche banlieue : Montrouge, Vanves, Clichy et Villejuif. Les formules affichées sont avec engagement : START 35 €, BOOST ou PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (offerts aux étudiants).
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-orange-bleue/">Tout sur L’Orange bleue</a>
 </div>
@@ -138,6 +150,10 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 <h3 id="on-air-paris">ON AIR</h3>
 
 À Paris, ON AIR a six clubs : Voltaire (11e), Daumesnil (12e), BNF (13e), Montparnasse (14e), Clignancourt (18e) et Flandre (19e), et beaucoup d’autres en banlieue. Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai gratuite</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>

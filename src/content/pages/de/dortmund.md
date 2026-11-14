@@ -55,6 +55,10 @@ Ein Abo auf Credit-Basis für Yoga, Pilates, Lagree und Outdoor-Bootcamp, auch i
 
 220 Clubs in Deutschland, 1 in Dortmund. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
@@ -82,6 +86,10 @@ Günstige Kette, auch in Dortmund. Flex 49,90 € im Monat, mit Laufzeit ab 24,9
 <h3>FitX</h3>
 
 FitX hat in Dortmund Studios in der Nordstadt, am Phoenix See und in Kley, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>

@@ -48,9 +48,13 @@ Ein fester Preis pro Monat für Check-ins bei Partnerstudios.
 
 Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studios in der ganzen Stadt, auch im Ausland. Zum Ausprobieren: 1 Monat gratis mit 10 Workouts.
 
-- Gut, wenn du Abwechslung magst
-- Gut bei ein- bis dreimal Training pro Woche
-- Funktioniert auch in 30 anderen Ländern
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du Abwechslung magst</li>
+<li>Gut bei ein- bis dreimal Training pro Woche</li>
+<li>Funktioniert auch in 30 anderen Ländern</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-land">Teste 1 Monat gratis mit 10 Workouts</a>
@@ -67,9 +71,14 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 220 Clubs in Deutschland und 5 in Österreich.
 
-- Gut, wenn du dreimal pro Woche oder öfter trainierst
-- Gut, wenn du einen festen Ort willst
-- Meist nur in Deutschland
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+<ul>
+<li>Gut, wenn du dreimal pro Woche oder öfter trainierst</li>
+<li>Gut, wenn du einen festen Ort willst</li>
+<li>Meist nur in Deutschland</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -85,9 +94,13 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 
 Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
 
-- Gut, wenn du günstig und oft trainieren willst
-- Flex: monatlich kündbar
-- Über 230 Studios in Europa
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du günstig und oft trainieren willst</li>
+<li>Flex: monatlich kündbar</li>
+<li>Über 230 Studios in Europa</li>
+</ul>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
@@ -176,6 +189,10 @@ Nach Zahl der Studios die größte Fitnesskette Deutschlands, mit über 500 Stud
 ### FitX
 
 Über 110 Studios in Deutschland, 24 Stunden geöffnet, Kurse inklusive. 29 € im Monat bei 12 Monaten Grundlaufzeit, danach monatlich kündbar.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
