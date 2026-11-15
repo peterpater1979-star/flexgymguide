@@ -4,7 +4,7 @@ path: "/dk/traening-som-studerende/"
 description: "Hvilke træningsmuligheder du har som studerende, hvad der passer til dit skema, og hvordan du træner fleksibelt uden at bruge for meget."
 lang: da
 land: dk
-byline: "Opdateret oktober 2026"
+byline: "Opdateret november 2026"
 crumb: "Træning som studerende"
 kicker: "Guide"
 ---

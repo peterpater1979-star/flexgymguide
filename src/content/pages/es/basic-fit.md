@@ -5,7 +5,7 @@ path: "/es/basic-fit/"
 description: "Precios de Basic-Fit en España: Comfort desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 €. Inscripción, cuotas y la baja."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Basic-Fit"
 kicker: "Proveedor: gimnasio económico"
 zoekwoorden: "basic fit sin permanencia, basic fit flex, mcfit españa"

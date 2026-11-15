@@ -6,7 +6,7 @@ zoekwoorden: "class pass classpass price prices cost costs expensive cheap plan 
 description: "ClassPass gives you one membership for fitness classes and gym visits at thousands of studios. How credits work, what to watch out for and what it costs."
 lang: en
 land: guides
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "How ClassPass works"
 kicker: "Guide"
 ---

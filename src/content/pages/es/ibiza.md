@@ -5,7 +5,7 @@ path: "/es/ibiza/"
 description: "¿No quieres atarte a un solo gimnasio? En Ibiza ciudad puedes usar ClassPass en estudios de toda la ciudad."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Ibiza ciudad"
 kicker: "Guía de ciudad Ibiza ciudad"
 ---

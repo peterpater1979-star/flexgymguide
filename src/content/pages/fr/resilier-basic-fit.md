@@ -5,7 +5,7 @@ path: "/fr/resilier-basic-fit/"
 description: "Comment résilier Basic-Fit via My Basic-Fit, l'appli ou la borne en club : le préavis de 4 semaines, la durée minimale et des alternatives sans engagement."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Résilier Basic-Fit"
 kicker: "Guide"
 ---

@@ -4,7 +4,7 @@ path: "/nl/trainmore/"
 description: "Alles over Trainmore: 56 clubs in Nederland, met de nieuwe club aan de Zeilstraat in Amsterdam, clublabels, faciliteiten, groepslessen, korting per workout, studentenlidmaatschap en opzeggen."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Trainmore"
 kicker: "Aanbieder: sportschoolketen"
 zoekwoorden: "Zeilstraat, Train More, Trainmore Zeilstraat"

@@ -5,7 +5,7 @@ path: "/fr/manger-et-boire-autour-du-sport/"
 description: "Que boire et manger avant et après une séance ? De l’eau, une petite collation et, si tu veux, de la protéine en poudre : des conseils simples."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Manger et boire"
 kicker: "Guide"
 ---

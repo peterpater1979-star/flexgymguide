@@ -5,7 +5,7 @@ path: "/de/sportpass-oder-mitgliedschaft/"
 description: "Ein Sportpass wie ClassPass oder eine Mitgliedschaft bei einer Fitnesskette? So funktioniert beides, für wen es passt und drei Fragen für deine Wahl."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Sportpass oder Mitgliedschaft?"
 kicker: "Ratgeber"
 ---

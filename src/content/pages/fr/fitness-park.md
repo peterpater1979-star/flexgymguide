@@ -5,7 +5,7 @@ path: "/fr/fitness-park/"
 description: "Tarifs Fitness Park : Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement, 10 € de moins avec. Frais d’adhésion et clubs."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Fitness Park"
 kicker: "Fournisseur : salle de sport"
 ---

@@ -5,7 +5,7 @@ path: "/fi/helsinki/"
 description: "Etkö halua sitoutua yhteen saliin? Helsingissä voit käyttää treenipassia studioilla ympäri kaupunkia tai valita kuntosalin. Näin löydät sopivan."
 lang: fi
 land: fi
-byline: "Päivitetty lokakuussa 2026"
+byline: "Päivitetty marraskuussa 2026"
 crumb: "Helsinki"
 kicker: "Kaupunkiopas Helsinki"
 ---

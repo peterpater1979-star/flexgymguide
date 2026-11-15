@@ -5,7 +5,7 @@ path: "/es/creditos-classpass/"
 description: "Por qué una clase cuesta más créditos que otra, qué pasa con los créditos que no usas y siete consejos para hacer más clases con tu plan de ClassPass."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Créditos de ClassPass"
 kicker: "Guía"
 ---

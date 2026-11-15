@@ -4,7 +4,7 @@ path: "/guides/working-out-as-a-student/"
 description: "Which fitness options you have as a student, what suits which timetable, why ClassPass has no student discount and how to keep flexible training affordable."
 lang: en
 land: guides
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Working out as a student"
 kicker: "Guide"
 ---

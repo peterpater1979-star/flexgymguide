@@ -4,7 +4,7 @@ path: "/se/traning-som-student/"
 description: "Vilka träningsalternativ du har som student, vad som passar ditt schema och hur du tränar flexibelt utan att det blir dyrt."
 lang: sv
 land: se
-byline: "Uppdaterad oktober 2026"
+byline: "Uppdaterad november 2026"
 crumb: "Träna som student"
 kicker: "Guide"
 ---

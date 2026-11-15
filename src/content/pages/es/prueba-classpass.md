@@ -4,7 +4,7 @@ path: "/es/prueba-classpass/"
 description: "Qué recibes en la prueba de ClassPass, qué reglas se aplican, qué pasa cuando termina y cómo sacarle el máximo partido."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Prueba de ClassPass"
 kicker: "Guía"
 ---

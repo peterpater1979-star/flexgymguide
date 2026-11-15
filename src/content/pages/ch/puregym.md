@@ -4,7 +4,7 @@ path: "/ch/puregym/"
 description: "Alles über PureGym in der Schweiz (früher basefit.swiss): Monatsabo monatlich kündbar oder Jahresabo, Preise ab CHF 47, Öffnungszeiten und Kurse."
 lang: de
 land: ch
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "PureGym"
 kicker: "Anbieter: Fitnesskette"
 ---

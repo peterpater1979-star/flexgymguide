@@ -5,7 +5,7 @@ path: "/de/classpass-berlin/"
 description: "ClassPass in Berlin: Studios nach Bezirk und Sportart, von Lagree und Reformer-Pilates bis Boxen, Yoga und Tanz."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "ClassPass in Berlin"
 kicker: "Anbieter: Sportpass"
 ---

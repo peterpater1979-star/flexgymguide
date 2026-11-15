@@ -5,7 +5,7 @@ zoekwoorden: "class pass classpass precio precios coste cuesta cuota barato susc
 description: "¿Qué es ClassPass, cómo funcionan los créditos y cómo darse de baja? Todo sobre el pase deportivo en España."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "ClassPass"
 kicker: "Pase deportivo"
 ---

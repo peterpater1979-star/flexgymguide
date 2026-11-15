@@ -5,7 +5,7 @@ path: "/uk/the-gym-group/"
 description: "All about The Gym Group: low-cost gyms without a contract, Off-peak, Standard and Ultimate memberships, student plans, day passes and cancelling."
 lang: en
 land: uk
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "The Gym Group"
 kicker: "Provider: low-cost gym chain"
 ---

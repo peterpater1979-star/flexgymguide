@@ -5,7 +5,7 @@ path: "/fi/classpass-krediitit/"
 description: "Miksi yksi tunti maksaa enemmän krediittejä kuin toinen, mitä käyttämättömille krediiteille tapahtuu ja seitsemän vinkkiä ClassPassin käyttöön."
 lang: fi
 land: fi
-byline: "Päivitetty lokakuussa 2026"
+byline: "Päivitetty marraskuussa 2026"
 crumb: "ClassPass-krediitit"
 kicker: "Opas"
 ---

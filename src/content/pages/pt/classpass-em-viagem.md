@@ -5,7 +5,7 @@ path: "/pt/classpass-em-viagem/"
 description: "Como usar o ClassPass nas férias ou numa viagem de trabalho, em que países funciona, o que muda com os créditos e os cancelamentos, e dicas para a viagem."
 lang: pt
 land: pt
-byline: "Atualizado em outubro de 2026"
+byline: "Atualizado em novembro de 2026"
 crumb: "ClassPass em viagem"
 kicker: "Guia"
 ---

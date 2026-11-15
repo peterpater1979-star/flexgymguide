@@ -5,7 +5,7 @@ path: "/uk/sheffield/"
 description: "Not keen on being tied to one gym? In Sheffield, use a fitness pass at studios across the city or join a low-cost gym without a contract."
 lang: en
 land: uk
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Sheffield"
 kicker: "City guide Sheffield"
 ---

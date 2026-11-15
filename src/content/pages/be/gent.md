@@ -5,7 +5,7 @@ path: "/be/gent/"
 description: "Niet vastzitten aan één sportschool? In Gent gebruik je een sportpas bij studio's in de hele stad, of kies je een sportschool met of zonder looptijd."
 lang: nl
 land: be
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Gent"
 kicker: "Stadsgids Gent"
 ---

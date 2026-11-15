@@ -5,7 +5,7 @@ path: "/de/classpass-muenchen/"
 description: "ClassPass in München: Studios nach Viertel und Sportart, von Reformer-Pilates und Lagree bis Indoor-Cycling, Bootcamp und Yoga."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "ClassPass in München"
 kicker: "Anbieter: Sportpass"
 ---

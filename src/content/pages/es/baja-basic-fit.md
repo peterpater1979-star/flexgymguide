@@ -5,7 +5,7 @@ path: "/es/baja-basic-fit/"
 description: "Cómo darte de baja en Basic-Fit en My Basic-Fit, la app o el quiosco del club: el preaviso, la permanencia de un año, el plan Flex y alternativas."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Baja en Basic-Fit"
 kicker: "Guía"
 ---

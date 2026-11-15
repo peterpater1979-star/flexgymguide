@@ -5,7 +5,7 @@ path: "/de/classpass-probezeit/"
 description: "ClassPass kostenlos testen: In Deutschland bekommst du 1 Monat gratis mit 10 Workouts. Welche Regeln gelten, was nach der Probezeit passiert und wie du rechtzeitig kündigst."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "ClassPass Probezeit"
 kicker: "Ratgeber"
 ---

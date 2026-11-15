@@ -4,7 +4,7 @@ path: "/fr/sport-etudiant/"
 description: "Les options sportives quand tu es étudiant, ce qui convient à ton emploi du temps et comment rester flexible sans trop dépenser, même sans réduction."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Sport étudiant"
 kicker: "Guide"
 ---

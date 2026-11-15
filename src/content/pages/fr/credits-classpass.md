@@ -5,7 +5,7 @@ path: "/fr/credits-classpass/"
 description: "Pourquoi un cours coûte plus de crédits qu’un autre, ce qui arrive aux crédits non utilisés et sept conseils pour faire plus de cours avec ClassPass."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Crédits ClassPass"
 kicker: "Guide"
 ---

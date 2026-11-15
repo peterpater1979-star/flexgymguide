@@ -5,7 +5,7 @@ path: "/no/oslo/"
 description: "Vil du ikke være bundet til ett treningssenter? I Oslo bruker du et treningspass hos studioer i hele byen, eller du velger et treningssenter."
 lang: nb
 land: no
-byline: "Oppdatert oktober 2026"
+byline: "Oppdatert november 2026"
 crumb: "Oslo"
 kicker: "Byguide Oslo"
 ---

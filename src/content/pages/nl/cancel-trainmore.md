@@ -6,7 +6,7 @@ vertaling: "/nl/trainmore-opzeggen/"
 description: "How to cancel Trainmore in the app or with the online contact form. The one-month notice period, freezing, and flexible alternatives."
 lang: en
 land: nl
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Cancelling Trainmore"
 kicker: "Guide"
 ---

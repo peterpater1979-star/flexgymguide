@@ -5,7 +5,7 @@ path: "/de/classpass-auf-reisen/"
 description: "So nutzt du ClassPass im Urlaub oder auf Geschäftsreise: in welchen Ländern es funktioniert, was bei Credits und Stornierung anders ist, und Tipps."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "ClassPass auf Reisen"
 kicker: "Ratgeber"
 ---

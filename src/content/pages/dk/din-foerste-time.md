@@ -5,7 +5,7 @@ path: "/dk/din-foerste-time/"
 description: "Første gang i et nyt studie eller fitnesscenter? Hvad du skal have med til yoga, boksning, spinning og styrketræning, og hvordan dit første besøg bliver nemt."
 lang: da
 land: dk
-byline: "Opdateret oktober 2026"
+byline: "Opdateret november 2026"
 crumb: "Din første time"
 kicker: "Guide"
 ---

@@ -6,7 +6,7 @@ zoekwoorden: "class pass classpass prijs prijzen kosten kost duur goedkoop abonn
 description: "Wat kost ClassPass, hoe werken de credits en hoe zeg je op? Alles over de sportpas in Nederland, met de steden waar je ermee terechtkunt."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "ClassPass"
 kicker: "Aanbieder: sportpas"
 ---

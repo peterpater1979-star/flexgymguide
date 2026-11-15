@@ -4,7 +4,7 @@ path: "/fr/classpass-bordeaux/"
 description: "ClassPass à Bordeaux : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe, au bootcamp et au cycling."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "ClassPass à Bordeaux"
 kicker: "Pass sport"
 ---

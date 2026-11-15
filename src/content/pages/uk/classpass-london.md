@@ -4,7 +4,7 @@ path: "/uk/classpass-london/"
 description: "ClassPass in London: studios by area and by type of workout, from HIIT and reformer Pilates to boxing and yoga."
 lang: en
 land: uk
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "ClassPass in London"
 kicker: "Provider: fitness pass"
 ---

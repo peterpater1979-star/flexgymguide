@@ -5,7 +5,7 @@ path: "/nl/sportcity-opzeggen/"
 description: "Zo zeg je SportCity op via de app, per e-mail of in de club. Met de opzegtermijn van een maand, de 14 dagen bedenktijd en flexibele alternatieven."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "SportCity opzeggen"
 kicker: "Gids"
 ---

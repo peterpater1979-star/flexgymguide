@@ -5,7 +5,7 @@ path: "/guides/classpass-while-travelling/"
 description: "Yes, ClassPass works in 31 countries. How to use it on holiday or a work trip, what happens to your credits, and tips for booking in another city."
 lang: en
 land: guides
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "ClassPass while travelling"
 kicker: "Guide"
 ---

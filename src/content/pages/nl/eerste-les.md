@@ -5,7 +5,7 @@ path: "/nl/eerste-les/"
 description: "Voor het eerst naar een studio of sportschool? Wat je meeneemt voor yoga, boksen, spinning en krachttraining, en hoe je eerste bezoek soepel verloopt."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Je eerste les"
 kicker: "Gids"
 ---

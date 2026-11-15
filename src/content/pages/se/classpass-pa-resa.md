@@ -5,7 +5,7 @@ path: "/se/classpass-pa-resa/"
 description: "Så använder du ClassPass på semester eller tjänsteresa, i vilka länder det fungerar, vad som är annorlunda med krediter och avbokning, och tips för resan."
 lang: sv
 land: se
-byline: "Uppdaterad oktober 2026"
+byline: "Uppdaterad november 2026"
 crumb: "ClassPass på resa"
 kicker: "Guide"
 ---

@@ -5,7 +5,7 @@ path: "/fi/classpass-matkoilla/"
 description: "Näin käytät ClassPassia lomalla tai työmatkalla, missä maissa se toimii, mikä muuttuu krediiteissä ja peruutuksissa, ja vinkkejä matkalle."
 lang: fi
 land: fi
-byline: "Päivitetty lokakuussa 2026"
+byline: "Päivitetty marraskuussa 2026"
 crumb: "ClassPass matkoilla"
 kicker: "Opas"
 ---

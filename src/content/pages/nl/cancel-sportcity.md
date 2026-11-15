@@ -6,7 +6,7 @@ vertaling: "/nl/sportcity-opzeggen/"
 description: "How to cancel SportCity in the app, by email or in the club. The one-month notice period, the 14-day cooling-off period and flexible alternatives."
 lang: en
 land: nl
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Cancelling SportCity"
 kicker: "Guide"
 ---

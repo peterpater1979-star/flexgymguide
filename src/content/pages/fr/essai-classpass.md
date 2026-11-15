@@ -4,7 +4,7 @@ path: "/fr/essai-classpass/"
 description: "Ce que tu reçois pendant l'essai ClassPass, les règles qui s'appliquent, ce qui se passe à la fin et comment en profiter au maximum."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Essai ClassPass"
 kicker: "Guide"
 ---

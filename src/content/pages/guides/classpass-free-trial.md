@@ -4,7 +4,7 @@ path: "/guides/classpass-free-trial/"
 description: "What you get in the ClassPass trial, which rules apply, what happens when it ends and how to get the most out of it."
 lang: en
 land: guides
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "ClassPass free trial"
 kicker: "Guide"
 ---

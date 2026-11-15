@@ -5,7 +5,7 @@ path: "/es/marbella/"
 description: "¿No quieres atarte a un solo gimnasio? En Marbella puedes usar ClassPass en estudios de toda la ciudad."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Marbella"
 kicker: "Guía de ciudad Marbella"
 ---

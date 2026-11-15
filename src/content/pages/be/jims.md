@@ -4,7 +4,7 @@ path: "/be/jims/"
 description: "Alles over Jims in België: meer dan 80 clubs, Fitness, Group of All-in, prijzen per 4 weken, jongerentarief, flexibel opzegbaar en gratis probeerdag."
 lang: nl
 land: be
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Jims"
 kicker: "Aanbieder: sportschoolketen"
 ---

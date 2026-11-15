@@ -5,7 +5,7 @@ path: "/guides/classpass-credits/"
 description: "Why one class costs more credits than another, what happens to unused credits and seven tips to get more classes out of your ClassPass plan."
 lang: en
 land: guides
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "ClassPass credits explained"
 kicker: "Guide"
 ---

@@ -5,7 +5,7 @@ path: "/de/mcfit-kuendigen/"
 description: "So kündigst du McFit online über mcfit.com: Kündigungsfrist, was nach der Mindestlaufzeit gilt, Widerruf, Ruhezeit und flexible Alternativen."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "McFit kündigen"
 kicker: "Guide"
 ---

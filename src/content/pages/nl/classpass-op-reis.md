@@ -5,7 +5,7 @@ path: "/nl/classpass-op-reis/"
 description: "Hoe je ClassPass gebruikt op vakantie of voor je werk, in welke landen het werkt, wat er anders is met credits en afzeggen, en tips voor onderweg."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "ClassPass op reis"
 kicker: "Gids"
 ---

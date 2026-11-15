@@ -4,7 +4,7 @@ path: "/fr/classpass-paris/"
 description: "ClassPass à Paris : les studios par quartier et par sport, du Lagree et du Pilates Reformer à la boxe, au yoga et à la danse."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "ClassPass à Paris"
 kicker: "Pass sport"
 ---

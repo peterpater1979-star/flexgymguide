@@ -4,7 +4,7 @@ path: "/se/mat-och-dryck-kring-traning/"
 description: "Vad ska du dricka och äta före och efter ett pass eller gymbesök? Vatten, ett litet mellanmål och proteinpulver om du vill: praktiska tips utan stora löften."
 lang: sv
 land: se
-byline: "Uppdaterad oktober 2026"
+byline: "Uppdaterad november 2026"
 crumb: "Mat och dryck"
 kicker: "Guide"
 ---

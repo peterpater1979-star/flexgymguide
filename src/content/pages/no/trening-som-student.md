@@ -4,7 +4,7 @@ path: "/no/trening-som-student/"
 description: "Hvilke treningsmuligheter du har som student, hva som passer timeplanen din, og hvordan du trener fleksibelt uten at det blir dyrt."
 lang: nb
 land: no
-byline: "Oppdatert oktober 2026"
+byline: "Oppdatert november 2026"
 crumb: "Trening som student"
 kicker: "Guide"
 ---

@@ -4,7 +4,7 @@ path: "/be/basic-fit/"
 description: "Alles over Basic-Fit in België: meer dan 230 clubs, Comfort, Premium of Ultimate, jaarabonnement of Flex, inschrijfkosten en opzeggen."
 lang: nl
 land: be
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Basic-Fit"
 kicker: "Aanbieder: sportschoolketen"
 ---

@@ -5,7 +5,7 @@ path: "/nl/amsterdam/"
 description: "Flexibel sporten in Amsterdam: ClassPass met studio's en gyms in de hele stad of Trainmore met 31 clubs. Zo kies je wat bij je past."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Amsterdam"
 kicker: "Stadsgids Amsterdam"
 ---

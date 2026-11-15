@@ -5,7 +5,7 @@ path: "/es/bilbao/"
 description: "¿No quieres atarte a un solo gimnasio? En Bilbao puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Bilbao"
 kicker: "Guía de ciudad Bilbao"
 ---

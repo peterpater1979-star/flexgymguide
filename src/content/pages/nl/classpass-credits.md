@@ -5,7 +5,7 @@ path: "/nl/classpass-credits/"
 description: "Waarom de ene les meer credits kost dan de andere, wat er met ongebruikte credits gebeurt en zeven tips om meer lessen uit je ClassPass-abonnement te halen."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "ClassPass-credits"
 kicker: "Gids"
 ---

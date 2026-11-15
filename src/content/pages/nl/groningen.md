@@ -5,7 +5,7 @@ path: "/nl/groningen/"
 description: "Sporten in Groningen zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Groningen"
 kicker: "Stadsgids Groningen"
 ---

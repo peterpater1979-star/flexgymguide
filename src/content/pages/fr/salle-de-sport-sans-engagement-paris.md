@@ -5,7 +5,7 @@ path: "/fr/salle-de-sport-sans-engagement-paris/"
 description: "Faire du sport à Paris sans engagement d'un an : ClassPass, WellNess Sport Club, RITM, Basic-Fit Flex et cours à l'unité. Les prix, la résiliation et ce à quoi faire attention."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Salle de sport sans engagement à Paris"
 kicker: "Guide Paris"
 ---

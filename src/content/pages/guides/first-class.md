@@ -5,7 +5,7 @@ path: "/guides/first-class/"
 description: "Trying a new studio or gym for the first time? What to bring for yoga, boxing, cycling and strength training, and how to make your first visit easy."
 lang: en
 land: guides
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Your first class"
 kicker: "Guide"
 ---

@@ -5,7 +5,7 @@ path: "/dk/classpass-paa-rejse/"
 description: "Sådan bruger du ClassPass på ferie eller forretningsrejse, i hvilke lande det virker, hvad der er anderledes med credits og aflysning, og tips til turen."
 lang: da
 land: dk
-byline: "Opdateret oktober 2026"
+byline: "Opdateret november 2026"
 crumb: "ClassPass på rejsen"
 kicker: "Guide"
 ---

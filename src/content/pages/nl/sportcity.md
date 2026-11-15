@@ -4,7 +4,7 @@ path: "/nl/sportcity/"
 description: "Alles over SportCity: het verschil tussen City One en City Plus, Flex of een contract, prijzen per club, inschrijfgeld, de dagpas en opzeggen."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "SportCity"
 kicker: "Aanbieder: sportschoolketen"
 zoekwoorden: "Fit For Free, FitForFree, Sport City"

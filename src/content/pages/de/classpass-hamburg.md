@@ -5,7 +5,7 @@ path: "/de/classpass-hamburg/"
 description: "ClassPass in Hamburg: Studios nach Stadtteil und Sportart, von Lagree und Hot Pilates bis Yoga, Barre und Indoor-Cycling."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "ClassPass in Hamburg"
 kicker: "Anbieter: Sportpass"
 ---

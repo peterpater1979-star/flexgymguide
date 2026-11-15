@@ -5,7 +5,7 @@ path: "/no/classpass-kreditter/"
 description: "Hvorfor én time koster flere kreditter enn en annen, hva som skjer med ubrukte kreditter, og sju tips for å få flere timer ut av ClassPass-abonnementet ditt."
 lang: nb
 land: no
-byline: "Oppdatert oktober 2026"
+byline: "Oppdatert november 2026"
 crumb: "ClassPass-kreditter"
 kicker: "Guide"
 ---

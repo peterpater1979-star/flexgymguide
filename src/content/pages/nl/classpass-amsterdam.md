@@ -4,7 +4,7 @@ path: "/nl/classpass-amsterdam/"
 description: "ClassPass in Amsterdam: studio's per buurt en per sport, van pilates, yoga en spinning tot HIIT, boksen, dans en open gym."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "ClassPass in Amsterdam"
 kicker: "Aanbieder: sportpas"
 ---

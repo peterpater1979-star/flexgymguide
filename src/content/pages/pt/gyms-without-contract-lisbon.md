@@ -6,7 +6,7 @@ vertaling: "/pt/ginasio-sem-fidelizacao-lisboa/"
 description: "No-contract gyms in Lisbon: ClassPass, gyms without a contract and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: pt
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in Lisbon"
 kicker: "City guide Lisbon"
 ---

@@ -5,7 +5,7 @@ path: "/pt/holmes-place/"
 description: "Tudo sobre o Holmes Place em Portugal: 13 clubes premium com piscina, sauna e mais de 120 aulas por semana, treino experimental e como sabes o preço."
 lang: pt
 land: pt
-byline: "Atualizado em outubro de 2026"
+byline: "Atualizado em novembro de 2026"
 crumb: "Holmes Place"
 kicker: "Fornecedor: clube premium"
 ---

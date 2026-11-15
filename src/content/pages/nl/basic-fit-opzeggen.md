@@ -5,7 +5,7 @@ path: "/nl/basic-fit-opzeggen/"
 description: "Zo zeg je Basic-Fit op via My Basic-Fit, de app of de kiosk in de club. Met de opzegtermijn van 4 weken en wat er na het eerste jaar gebeurt."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Basic-Fit opzeggen"
 kicker: "Gids"
 ---
