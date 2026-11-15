@@ -53,7 +53,7 @@ Gigafit a aussi des clubs entre autres à Beauvais, Dreux, Guérande, Dinard et 
 
 <h2 id="classpass">Gigafit avec ClassPass</h2>
 
-À Paris, tu trouves aussi Gigafit sur ClassPass. Tu réserves une séance en salle avec tes crédits, sans abonnement Gigafit et sans frais d’inscription. Les salles par quartier sont dans [ClassPass à Paris](/fr/classpass-paris/).
+À Paris, tu trouves aussi Gigafit sur ClassPass, dans le 18e et le 19e. Tu réserves une séance en salle avec tes crédits, sans abonnement Gigafit et sans frais d’inscription. Les salles par quartier sont dans [ClassPass à Paris](/fr/classpass-paris/).
 
 <h2 id="resilier">Résilier</h2>
 

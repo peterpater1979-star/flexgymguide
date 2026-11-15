@@ -56,6 +56,21 @@ With Flex you don't get the member discount at Trainmore's partner brands, but y
 
 Basic-Fit has Flex with no minimum term: €9.99 per 4 weeks more than the yearly contract, so from €34.98 per 4 weeks, plus a one-off €19.99 joining fee. You cancel with 4 weeks' notice. The differences between Comfort, Premium and Ultimate are in [Gyms without a contract in the Netherlands](/nl/gyms-without-contract/#basic-fit). Cancelling: see [Cancelling Basic-Fit](/nl/cancel-basic-fit/).
 
+<h2 id="sportcity">SportCity Flex: cancel monthly</h2>
+
+SportCity has 4 clubs in Haarlem, with a gym floor and group classes. At SportCity Raaks, Flex cost €64.99 per 4 weeks in October 2026, and you cancel it monthly. With a 2-year contract it starts at €52.99. More on the chain: [SportCity](/nl/sportcity/) (in Dutch).
+
+<h2 id="where">Where to train in Haarlem</h2>
+
+Most no-contract options are in the centre, within walking distance of the station:
+
+- **Centre and station:** reformer Pilates at PILAT3S, Moov Studio and CRUSH Reformer Studios, yoga at Bluebirds, hot yoga at Movements near the station, and Trainmore on Hortusplein.
+- **South, Wilhelminapark and Florapark:** The Pilates Concept at the Wilhelminapark, reformer workouts at BodyBase Studios and outdoor bootcamp with Fitmundo in the Florapark.
+- **Elsewhere:** kickboxing at De Kickboksclub, strength and boxing at Achilles Personal Gym and the gym at Sluis Gym.
+- **Around Haarlem:** HealthclubNU in Heemstede and Essentrics on the beach at Zandvoort.
+
+You can book most of these studios with ClassPass or with a drop-in class. Full list by neighbourhood: [ClassPass in Haarlem](/nl/classpass-haarlem/) (in Dutch).
+
 ## Frequently asked questions
 
 <details open>
@@ -69,6 +84,13 @@ Yes. With ClassPass you cancel any time, Trainmore and Basic-Fit have a Flex mem
 <summary>Can I use ClassPass from Haarlem in Amsterdam too?</summary>
 
 Yes. With the same plan you book classes at studios in Amsterdam and other cities. See [ClassPass in Amsterdam](/nl/classpass-amsterdam/) (in Dutch).
+
+</details>
+
+<details>
+<summary>Which gym in Haarlem can I cancel monthly?</summary>
+
+Trainmore on Hortusplein and SportCity both have a Flex membership that you cancel monthly; Basic-Fit Flex has 4 weeks' notice. ClassPass you cancel any time, before your next month.
 
 </details>
 

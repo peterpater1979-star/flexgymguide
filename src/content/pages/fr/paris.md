@@ -10,7 +10,7 @@ crumb: "Paris"
 kicker: "Guide ville Paris"
 ---
 
-À Paris, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 12 chaînes de salles : Basic-Fit, Fitness Park, Keepcool, WellNess Sport Club, RITM, L’Orange bleue, ON AIR, L’Appart Fitness, Gigafit, Liberty Gym, Neoness et Magic Form. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place. Tu ne veux aucun engagement ? Lis [Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/).
+À Paris, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 12 chaînes de salles : Basic-Fit, Fitness Park, Keepcool, WellNess Sport Club, RITM, L’Orange bleue, ON AIR, L’Appart Fitness, Gigafit, Liberty Gym, Neoness et Magic Form, plus les studios boutique EPISOD. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place. Tu ne veux aucun engagement ? Lis [Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/).
 
 <h2 id="en-bref">En bref</h2>
 
@@ -239,6 +239,20 @@ Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>
+</div>
+
+</div>
+
+<div id="episod" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Studio boutique</span></div>
+
+<h3 id="episod-paris">EPISOD</h3>
+
+EPISOD a des studios boutique à Place de Clichy, Pigalle, Bourse, Louvre, République, Nation et Étoile, et deux à Levallois-Perret. Tu y fais Bootcamp, Boxing, Cycling, Reformer, Pilates, yoga et plus. Une session coûte 30 €, ou 39 € avec le Reformer, et un abonnement de 4 sessions par mois 90 € avec engagement de 12 mois.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/episod/">Tout sur EPISOD</a>
 </div>
 
 </div>

@@ -56,6 +56,21 @@ With City+ you can train at all Black Label clubs in Eindhoven and all Regular c
 
 Basic-Fit has Flex with no minimum term: €9.99 per 4 weeks more than the yearly contract, so from €34.98 per 4 weeks, plus a one-off €19.99 joining fee. You cancel with 4 weeks' notice. The differences between Comfort, Premium and Ultimate are in [Gyms without a contract in the Netherlands](/nl/gyms-without-contract/#basic-fit). Cancelling: see [Cancelling Basic-Fit](/nl/cancel-basic-fit/).
 
+<h2 id="sportcity">SportCity Flex: cancel monthly</h2>
+
+SportCity has 3 clubs in Eindhoven, with a gym floor and group classes. At SportCity Gerarduskerk, Flex cost €64.99 per 4 weeks in October 2026, and you cancel it monthly. With a 2-year contract it starts at €52.99. More on the chain: [SportCity](/nl/sportcity/) (in Dutch).
+
+<h2 id="where">Where to train in Eindhoven</h2>
+
+Eindhoven's studios are spread over a few areas, so pick one near your work or home:
+
+- **Centre and the Lichttoren:** Trainmore and reformer Pilates at PILAT3S in the Lichttoren, Pilates at THE R STUDIO and Reformer Pilates Studio, and yoga at Studio Slow Down.
+- **Strijp-S:** House of Motus for Pilates and yoga, The Kickboxing Society, Trainmore on Machinekamerplein and strength and boxing at Elements040.
+- **Stratum and South:** Health First Club, EMS training at Volt Gym and a strength-and-boxing circuit at Trifecta Sport.
+- **North:** pole dance at SEP and karate at De La Vega Kenpo Karate.
+
+You can book most of these studios with ClassPass or with a drop-in class. Full list by neighbourhood: [ClassPass in Eindhoven](/nl/classpass-eindhoven/) (in Dutch).
+
 ## Frequently asked questions
 
 <details open>
@@ -69,6 +84,13 @@ Yes. With ClassPass you cancel any time, Trainmore and Basic-Fit have a Flex mem
 <summary>How much is Trainmore Flex in Eindhoven?</summary>
 
 At Trainmore Lichttoren, Flex cost €87 per 4 weeks in October 2026 (Home+), against €67 with a 1-year contract. You cancel Flex monthly in the app.
+
+</details>
+
+<details>
+<summary>Which gym in Eindhoven can I cancel monthly?</summary>
+
+Trainmore (Lichttoren and Strijp-S) and SportCity both have a Flex membership that you cancel monthly; Basic-Fit Flex has 4 weeks' notice. ClassPass you cancel any time, before your next month.
 
 </details>
 

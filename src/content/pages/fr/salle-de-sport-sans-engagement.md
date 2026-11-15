@@ -26,7 +26,7 @@ Pas envie de t’engager un an ? En France, la plupart des grandes chaînes ont 
 | **[ON AIR](/fr/on-air/)** | Dès 31,96 € toutes les 4 semaines | 50 €, plus 10 € par an | 8 semaines |
 | **[Neoness](/fr/neoness/)** | Prime dès 44,99 € toutes les 4 semaines | 49 €, plus 9,90 € par an | 4 semaines |
 | **[L’Appart Fitness](/fr/l-appart-fitness/)** | 49,96 € toutes les 4 semaines | 49 € | 4 semaines |
-| **[Magic Form](/fr/magic-form/)** | Magic One 40 €, Magic+ et Magic Full 50 € toutes les 4 semaines | 40 €, plus 10 € de carte et 9,90 € par an | Selon les conditions générales |
+| **[Magic Form](/fr/magic-form/)** | Magic One 40 €, Magic+ et Magic Full 50 € toutes les 4 semaines | 40 €, plus 10 € de carte et 9,90 € par an | 8 semaines |
 | **[Vita Liberté](/fr/vita-liberte/)** | FREEDOM ETUDIANT 36,85 €, FREEDOM FULL 46,75 € toutes les 4 semaines | Welcome Pack 49,90 € | 4 semaines |
 | **[WellNess Sport Club](/fr/wellness-sport-club/)** | Hors Paris dès 54 € par mois, à Paris dès 69 € | Licence 149 €, dépôt de garantie de 2 mois | Selon les conditions générales |
 
