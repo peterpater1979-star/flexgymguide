@@ -451,6 +451,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 - **[Résilier Gigafit](/fr/resilier-gigafit/)** · préavis et alternatives
 - **[Résilier L’Appart Fitness](/fr/resilier-l-appart-fitness/)** · préavis et alternatives
 - **[Résilier Magic Form](/fr/resilier-magic-form/)** · préavis et alternatives
+- **[Résilier Vita Liberté](/fr/resilier-vita-liberte/)** · préavis et alternatives
 - **[Résilier Neoness](/fr/resilier-neoness/)** · préavis et alternatives
 - **[Résilier ON AIR](/fr/resilier-on-air/)** · préavis et alternatives
 - **[Résilier RITM](/fr/resilier-ritm/)** · préavis et alternatives

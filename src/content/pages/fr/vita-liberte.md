@@ -57,6 +57,8 @@ Le Welcome Pack coûte 49,90 €, une seule fois. Il comprend les frais d’insc
 
 Chaque club Vita Liberté est une franchise indépendante. Le préavis et la façon de résilier dépendent de ton contrat : vérifie-les avant de t’inscrire. Avec engagement, tu restes inscrit pendant 52 semaines.
 
+Tout le détail : [Résilier Vita Liberté](/fr/resilier-vita-liberte/).
+
 Les salles près de chez toi sont sur [vitaliberte.fr](https://www.vitaliberte.fr/salles-de-sport/).
 
 <h2 id="choix">Vita Liberté, Basic-Fit ou ClassPass ?</h2>
