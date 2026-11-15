@@ -106,7 +106,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, Neoness, WellNess Sport Club, RITM, Magic Form, Vita Liberté et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, Neoness, WellNess Sport Club, RITM, Magic Form, Vita Liberté, EPISOD et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="villes">
 
@@ -357,6 +357,28 @@ Salle en franchise, ouverte de 6h à 23h tous les jours. FULL à 36,75 € toute
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-gymketen"><span>Studio boutique</span></div>
+
+### EPISOD
+
+Studios boutique à Paris et Levallois : Bootcamp, Boxing, Cycling, Reformer et plus. Session à 30 €, ou abonnement dès 90 € par mois pour 4 sessions.
+
+<div class="infoblok">
+<ul>
+<li>Idéal si tu aimes les cours collectifs intenses</li>
+<li>Sessions à l'unité, sans abonnement</li>
+<li>9 hubs à Paris et Levallois-Perret</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/episod/">Tout sur EPISOD</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 ### Urban Sports Club
@@ -452,6 +474,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 - **[Résilier L’Appart Fitness](/fr/resilier-l-appart-fitness/)** · préavis et alternatives
 - **[Résilier Magic Form](/fr/resilier-magic-form/)** · préavis et alternatives
 - **[Résilier Vita Liberté](/fr/resilier-vita-liberte/)** · préavis et alternatives
+- **[Résilier EPISOD](/fr/resilier-episod/)** · préavis et alternatives
 - **[Résilier Neoness](/fr/resilier-neoness/)** · préavis et alternatives
 - **[Résilier ON AIR](/fr/resilier-on-air/)** · préavis et alternatives
 - **[Résilier RITM](/fr/resilier-ritm/)** · préavis et alternatives
