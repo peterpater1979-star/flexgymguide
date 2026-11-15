@@ -112,6 +112,16 @@ Gut, wenn du Abwechslung willst und ein- bis dreimal pro Woche trainierst, etwa 
 
 **ClassPass in deiner Stadt:** [Berlin](/de/classpass-berlin/) · [Hamburg](/de/classpass-hamburg/) · [München](/de/classpass-muenchen/) · [Frankfurt](/de/classpass-frankfurt/) · [Köln](/de/classpass-koeln/) · [Düsseldorf](/de/classpass-duesseldorf/) · [Stuttgart](/de/classpass-stuttgart/) · [Leipzig](/de/classpass-leipzig/)
 
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-de-kleding/?ws=fgg-de-kieser-training-kleding">Sportbekleidung</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-kieser-training-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-kieser-training-handdoek">Sporthandtuch</a></li>
+</ul>
+
 ## Häufige Fragen
 
 <details open>

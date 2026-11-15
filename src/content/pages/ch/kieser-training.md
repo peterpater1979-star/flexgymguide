@@ -96,6 +96,16 @@ Abwechslung statt fester Bindung: [myClubs](/ch/myclubs/) ist monatlich kündbar
 
 </div>
 
+<h2 id="spullen">Noch etwas fürs Training nötig?</h2>
+
+Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+
+<ul class="spullen">
+<li class="i-kleding"><a href="/go/traininn-de-kleding/?ws=fgg-ch-kieser-training-kleding">Sportbekleidung</a></li>
+<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-ch-kieser-training-fles">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-ch-kieser-training-handdoek">Sporthandtuch</a></li>
+</ul>
+
 ## Häufige Fragen
 
 <details open>
