@@ -146,7 +146,7 @@ Oui. Les étudiants paient moins cher les sessions et les packs, sur présentati
 <details>
 <summary>Peut-on réserver EPISOD avec ClassPass ?</summary>
 
-Oui, plusieurs hubs EPISOD sont sur ClassPass : Place de Clichy, Pigalle, République, Étoile, Bourse, Louvre et Nation. Tu réserves un cours avec tes crédits ClassPass, sans abonnement EPISOD. Les cours et les places proposés peuvent varier selon le hub.
+Oui, tu trouves les hubs EPISOD sur ClassPass : Place de Clichy, Pigalle, République, Étoile, Bourse, Louvre, Nation et les deux hubs de Levallois-Perret (Reformer et Bootcamp). Tu réserves un cours avec tes crédits ClassPass, sans abonnement EPISOD. Les cours et les places proposés peuvent varier selon le hub.
 
 </details>
 
