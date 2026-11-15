@@ -106,7 +106,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, Neoness, WellNess Sport Club, RITM, Magic Form et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, Neoness, WellNess Sport Club, RITM, Magic Form, Vita Liberté et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="villes">
 
@@ -329,6 +329,28 @@ Cardio, musculation et cours collectifs selon la formule. Dès 30 € toutes les
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle accessible</span></div>
+
+### Vita Liberté
+
+Salle en franchise, ouverte de 6h à 23h tous les jours. FULL à 36,75 € toutes les 4 semaines avec engagement, ou FREEDOM FULL sans engagement à 46,75 €.
+
+<div class="infoblok">
+<ul>
+<li>Idéal pour les étudiants, dès 26,85 €</li>
+<li>Accès à toutes les salles du réseau</li>
+<li>Pause de 28 jours par an</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/vita-liberte/">Tout sur Vita Liberté</a>
 </div>
 
 </div>
