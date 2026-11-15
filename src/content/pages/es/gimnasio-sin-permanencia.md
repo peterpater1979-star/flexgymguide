@@ -26,7 +26,7 @@ kicker: "Guía España"
 | **[Fitness Park](/es/fitness-park/)** | Classic 37 €, Ultimate 57 € cada 4 semanas | 50 € | 4 semanas de preaviso |
 | **[ON AIR](/es/on-air/)** | Desde 31,96 € cada 4 semanas | 30 €, más 10 € al año | 4 semanas de preaviso |
 | **[Dreamfit](/es/dreamfit/)** | DREAM de 42,90 a 44,90 € al mes según el club | 45 € | Antes del día 20, no pagas el mes siguiente |
-| **[DiR](/es/dir/)** (Barcelona) | Todo el día de 40,60 a 44,10 € al mes según el club, Premium 89,10 € | Según la promoción | Según las condiciones generales |
+| **[DiR](/es/dir/)** (Barcelona) | Todo el día de 40,60 a 44,10 € al mes según el club, Premium 89,10 € | Según la promoción | Hasta el día 15 del mes anterior al vencimiento |
 | **[GOfit](/es/go-fit/)** | Cuota mensual de 51,30 a 61,62 €, Plan Plus de 57,80 a 68,12 € al mes (mínimo 3 meses) | 33,50 a 51,30 € | Según el centro |
 
 <p class="klein">Precios de octubre y noviembre de 2026, de nuestras páginas sobre cada proveedor. ClassPass: plan estándar en la mayoría de ciudades, y en Madrid y Barcelona. VivaGym y Fitness Park: precios de un club de Madrid. Synergym: un club de Madrid y uno de Barcelona. Dreamfit: Aluche y Majadahonda (Madrid). DiR: Campus y Av. Madrid (Barcelona). GOfit: Ciudad Real, Sevilla y Plaza Elíptica (Madrid). Según el club o la ciudad, el precio puede ser distinto. Comprueba siempre el precio actual con el proveedor.</p>

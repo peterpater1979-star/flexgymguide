@@ -58,9 +58,10 @@ Fuera de Barcelona, DiR tiene clubes en Sant Cugat del Vallès, Sabadell, Sant Q
 <h2 id="baja">Darse de baja</h2>
 
 - **Cómo:** en persona en la recepción de tu club, o por la misma vía con la que te diste de alta.
-- **Plazo:** está en las condiciones generales de DiR. Avisa con tiempo antes de la renovación de tu cuota.
+- **Plazo:** hasta el día 15 del mes anterior al vencimiento de tu cuota. Si avisas más tarde, la baja vale para el vencimiento siguiente.
 - **Con permanencia:** si te vas antes de los 12 meses, pagas las mensualidades que faltan.
 - **Pausa:** DiR tiene varias bajas temporales, por ejemplo por verano o por motivos médicos, con una cuota reducida. No todas las cuotas y promociones las permiten.
+- **Volver:** después de una baja puedes volver a darte de alta a los 3 meses.
 
 Todo el detalle: [Darse de baja en DiR](/es/baja-dir/).
 
