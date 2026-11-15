@@ -144,6 +144,7 @@ Das Probeangebot gilt nur für neue Mitglieder. Alles zu den Regeln liest du unt
 | Anbieter | Preis pro Monat | Laufzeit | In Darmstadt |
 | --- | --- | --- | --- |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

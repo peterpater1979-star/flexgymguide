@@ -216,6 +216,7 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 3 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club (Gartenstadt) |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio (Innenstadt) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
