@@ -38,7 +38,7 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 <h2 id="trainmore">Trainmore Flex: cancel monthly</h2>
 
-Trainmore has 53 clubs in the Netherlands, labelled Black, Red or Regular; the label sets the price. With Flex you cancel monthly; a 1-year contract is €20 per 4 weeks cheaper, 2 years €27.
+Trainmore has 56 clubs in the Netherlands, labelled Black, Red or Regular; the label sets the price. With Flex you cancel monthly; a 1-year contract is €20 per 4 weeks cheaper, 2 years €27.
 
 **A discount when you train more.** With a 1 or 2-year contract you get €1 off per workout, at most one a day and €28 per 4 weeks; not with Flex, and not with student memberships. You check in and out with the QR code in the Trainmore app and train for at least 30 minutes; a group class on its own doesn't count. Train three times a week and that saves about €12 per 4 weeks.
 

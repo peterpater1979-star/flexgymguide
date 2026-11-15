@@ -268,7 +268,7 @@ In Amsterdam kost het standaardabonnement € 69 per maand voor 47 credits, en j
 
 ## Trainmore in Amsterdam
 
-Trainmore heeft 53 clubs in Nederland, waarvan 31 in Amsterdam. De nieuwste is Trainmore Zeilstraat, die in november 2026 openging. Aan het Osdorpplein komt binnenkort een club bij. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
+Trainmore heeft 56 clubs in Nederland, waarvan 31 in Amsterdam. De nieuwste is Trainmore Zeilstraat, die in november 2026 openging. Aan het Osdorpplein komt binnenkort een club bij. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
 Bij Koningin Wilhelminaplein betaal je € 104 per 4 weken met Flex, € 84 met een contract van 1 jaar en € 77 met 2 jaar. Met een contract krijg je daarbovenop € 1 korting per workout, maximaal één per dag. De prijs verschilt per club, afhankelijk van het label (Black, Red of Regular).
 

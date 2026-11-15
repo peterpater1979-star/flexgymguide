@@ -216,7 +216,7 @@ In Rotterdam kost het standaardabonnement € 59 per maand voor 40 credits, en j
 
 ## Trainmore in Rotterdam
 
-Trainmore heeft 53 clubs in Nederland, waarvan 7 in Rotterdam. De nieuwste is Trainmore Rijnhaven, sinds oktober 2026. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
+Trainmore heeft 56 clubs in Nederland, waarvan 7 in Rotterdam. De nieuwste is Trainmore Rijnhaven, sinds oktober 2026. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
 Bij Coolsingel betaal je € 89 per 4 weken met Flex, € 69 met een contract van 1 jaar en € 62 met 2 jaar. Met een contract krijg je daarbovenop € 1 korting per workout, maximaal één per dag. De prijs verschilt per club, afhankelijk van het label (Black, Red of Regular).
 
