@@ -87,7 +87,7 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 
 <h3 id="vita-liberte-bayonne">Vita Liberté</h3>
 
-À Bayonne, Vita Liberté a une salle à Bayonne. FULL coûte 36,75 € toutes les 4 semaines avec engagement, FREEDOM FULL 46,75 € sans engagement, plus 49,90 € de Welcome Pack. C’est une franchise : le prix peut changer selon le club.
+À Bayonne, Vita Liberté a une salle, et aussi un studio Vita.Reformer pour le Pilates sur Reformer. FULL coûte 36,75 € toutes les 4 semaines avec engagement, FREEDOM FULL 46,75 € sans engagement, plus 49,90 € de Welcome Pack. C’est une franchise : le prix peut changer selon le club.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/vita-liberte/">Tout sur Vita Liberté</a>

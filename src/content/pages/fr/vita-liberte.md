@@ -57,12 +57,14 @@ Le Welcome Pack coûte 49,90 €, une seule fois. Il comprend les frais d’insc
 
 Vita Liberté est surtout présent en Provence et en Corse. Les salles, entre autres :
 
-- **Bouches-du-Rhône :** [Marseille](/fr/marseille/#vita-liberte) (L’Estaque, Saint-Barnabé, Sormiou), Aubagne – Les Paluds, Auriol, Cuges-les-Pins, La Ciotat, La Destrousse, La Fare-les-Oliviers, Meyreuil, Plan-de-Cuques, Saint-Cannat, Saint-Savournin, Sausset-les-Pins et Trets
+- **Bouches-du-Rhône :** [Marseille](/fr/marseille/#vita-liberte) (L’Estaque, Saint-Barnabé, Sormiou), Aubagne – Les Paluds, Auriol, Cabannes, Cuges-les-Pins, La Ciotat, La Destrousse, La Fare-les-Oliviers, Meyreuil, Plan-de-Cuques, Saint-Cannat, Saint-Savournin, Sausset-les-Pins et Trets
 - **Var et Alpes :** Bandol, Le Beausset, Six-Fours, [Nice](/fr/nice/#vita-liberte) (Libération), Digne-les-Bains et Forcalquier
 - **Vaucluse, Drôme et Gard :** Pertuis, Montélimar, Portes-lès-Valence et Bagnols-sur-Cèze
 - **Corse :** Ajaccio (deux salles, dont Sanguinaires), Aléria, Bastia, Biguglia, Cap Corse, Cargèse, Corte, Folelli, Furiani, Lucciana, Porticcio, Porto-Vecchio et Propriano
 - **Sud-Ouest :** [Bayonne](/fr/bayonne/#vita-liberte), Pau – Lons et Saint-André-de-Cubzac
 - **Guyane :** Macouria
+
+À Bayonne et à La Destrousse, il y a aussi un studio Vita.Reformer, pour le Pilates sur machine Reformer.
 
 <h2 id="resilier">Résilier</h2>
 
