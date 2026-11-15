@@ -7,11 +7,14 @@ land: nl
 byline: "Bijgewerkt in oktober 2026"
 crumb: "SportCity"
 kicker: "Aanbieder: sportschoolketen"
+zoekwoorden: "Fit For Free, FitForFree, Sport City"
 ---
 
 <div class="fotobanner smal foto-sporttas" role="img" aria-label="Sporttas"></div>
 
 SportCity is een sportschoolketen met clubs in heel Nederland. Met een lidmaatschap train je in de gym en doe je mee aan alle live groepslessen. Je kiest zelf hoe lang je vastzit: met Flex zeg je elke maand op.
+
+Zocht je Fit For Free? Die keten bestaat niet meer en valt nu onder SportCity.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#steden">SportCity in jouw stad</a>
