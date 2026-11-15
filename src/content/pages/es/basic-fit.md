@@ -8,6 +8,7 @@ land: es
 byline: "Actualizado en octubre de 2026"
 crumb: "Basic-Fit"
 kicker: "Proveedor: gimnasio económico"
+zoekwoorden: "basic fit sin permanencia, basic fit flex"
 ---
 
 <div class="fotobanner smal foto-basic-fit" role="img" aria-label="Gimnasio"></div>
@@ -35,6 +36,8 @@ Basic-Fit es una cadena de gimnasios económica con clubes en toda España. Elig
 | **Ultimate** | 34,99 € | 39,98 € | Clubes de 6 países, amigos sin límite, Yanga Sports Water, congelación incluida |
 
 Precios cada 4 semanas. El contrato anual dura al menos 52 semanas; después te das de baja con 4 semanas de preaviso. La oferta de bienvenida no se aplica a Flex.
+
+**¿Basic-Fit sin permanencia o con contrato anual?** Con Flex pagas unos 5 € más cada 4 semanas, unos 65 € más al año, pero puedes dejarlo cuando quieras con 4 semanas de preaviso. Si vas a entrenar menos de un año, o no sabes cuánto tiempo te quedas en la ciudad, Flex suele salir mejor.
 
 <h2 id="pausar">Pausar y darse de baja</h2>
 
@@ -86,7 +89,7 @@ Ideal si te gusta variar y entrenas de una a tres veces por semana. Pruebas 10 s
 <details open>
 <summary>¿Basic-Fit tiene cuota sin permanencia?</summary>
 
-Sí, Flex. Pagas un poco más cada 4 semanas y te das de baja con 4 semanas de preaviso.
+Sí, se llama Flex. Basic-Fit sin permanencia cuesta unos 5 € más cada 4 semanas que con contrato anual: Comfort 29,98 €, Premium 34,98 € y Ultimate 39,98 €. Pagas 19,99 € de inscripción, la oferta de bienvenida no se aplica y te das de baja con 4 semanas de preaviso (octubre de 2026).
 
 </details>
 

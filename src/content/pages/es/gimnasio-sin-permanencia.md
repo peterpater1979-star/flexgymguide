@@ -127,6 +127,13 @@ Según nuestros precios de noviembre de 2026, Basic-Fit Flex (desde 29,98 €) y
 </details>
 
 <details>
+<summary>¿Basic-Fit tiene cuota sin permanencia?</summary>
+
+Sí, Flex: desde 29,98 € cada 4 semanas, unos 5 € más que con contrato anual, más 19,99 € de inscripción. Te das de baja con 4 semanas de preaviso. Más detalles en [Basic-Fit en España](/es/basic-fit/).
+
+</details>
+
+<details>
 <summary>Sin permanencia, ¿puedo dejarlo de un día para otro?</summary>
 
 No siempre. La mayoría de cadenas piden un preaviso de 4 semanas; en VivaGym la baja vale a final de mes. ClassPass se cancela antes de la renovación, sin preaviso.
