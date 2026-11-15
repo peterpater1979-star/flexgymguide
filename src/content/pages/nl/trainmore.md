@@ -191,7 +191,7 @@ Er komen clubs bij. Trainmore Zeilstraat in Amsterdam en Trainmore Rijnhaven in 
 
 <h3 id="zeilstraat">Trainmore Zeilstraat in Amsterdam</h3>
 
-Trainmore Zeilstraat is de nieuwste Trainmore-club in Amsterdam, aan de Zeilstraat in Amsterdam-Zuid, vlak bij het Hoofddorpplein. De club is in november 2026 opengegaan. Wat een lidmaatschap kost, hangt af van het label van de club (Black, Red of Regular) en van je contract: kijk op de clubpagina van Trainmore Zeilstraat voor de actuele prijs. Woon je in de buurt, dan kun je ook trainen in de andere [Trainmore-clubs in Amsterdam](/nl/amsterdam/).
+Trainmore Zeilstraat is de nieuwste Trainmore-club in Amsterdam, aan de Zeilstraat in Amsterdam-Zuid. De club is in november 2026 opengegaan. Wat een lidmaatschap kost, hangt af van het label van de club (Black, Red of Regular) en van je contract: kijk op de clubpagina van Trainmore Zeilstraat voor de actuele prijs. Woon je in de buurt, dan kun je ook trainen in de andere [Trainmore-clubs in Amsterdam](/nl/amsterdam/).
 
 <div class="aanbieder">
 
