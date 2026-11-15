@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in Berlin"
-seoTitle: "ClassPass Berlin: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudios in Berlin: Ketten, Studios und Sportpässe"
 path: "/de/berlin/"
 description: "Flexibel trainieren in Berlin: ClassPass mit Studios in der ganzen Stadt oder Fitness First mit 15 Clubs und kostenlosem Probetraining."
 lang: de
@@ -53,7 +53,7 @@ Ein Abo auf Credit-Basis für Studios in ganz Berlin, von Lagree in Mitte bis Bo
 
 ### Fitness First
 
-220 Clubs in Deutschland, 15 in Berlin. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+217 Clubs in Deutschland, 15 in Berlin. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
@@ -235,7 +235,7 @@ Das Standard-Abo kostet in Berlin 59 € im Monat für 42 Credits. Neu bei Class
 
 ## Fitness First in Berlin
 
-Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 15 in Berlin. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 15 in Berlin. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

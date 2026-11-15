@@ -53,7 +53,7 @@ Ein Abo auf Credit-Basis für Barre, Yoga, Kampfsport und Tanz, vom Belgischen V
 
 ### Fitness First
 
-220 Clubs in Deutschland, 14 in Köln. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+217 Clubs in Deutschland, 14 in Köln. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
@@ -183,7 +183,7 @@ Das Standard-Abo kostet in Köln 59 € im Monat für 42 Credits. Neu bei ClassP
 
 ## Fitness First in Köln
 
-Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 14 in Köln. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 14 in Köln. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

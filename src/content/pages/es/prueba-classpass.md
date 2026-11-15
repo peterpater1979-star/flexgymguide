@@ -23,6 +23,10 @@ Los nuevos miembros pueden probar ClassPass primero. Visitas varios estudios y g
 | **¿Gratis?** | En España, sí. En algunas otras zonas es un descuento en tu primer periodo |
 | **Después** | Pasas automáticamente a un plan mensual que varía según la ciudad: en Madrid ahora 37 créditos por 59 € al mes, en Valencia 30 créditos por 49 € |
 
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-prueba-classpass">Prueba 10 sesiones gratis en 14 días</a>
+</div>
+
 <h2 id="reglas">Las reglas</h2>
 
 - **Una vez por centro.** Puedes visitar cada estudio o gimnasio una vez. Si reservas una clase y la cancelas, no puedes volver a reservar allí durante la prueba.

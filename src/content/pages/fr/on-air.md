@@ -1,7 +1,8 @@
 ---
 title: "ON AIR : formules, prix et salles"
+seoTitle: "ON AIR : tarifs 2026, formules et salles"
 path: "/fr/on-air/"
-description: "Tout sur ON AIR Fitness : plus de 120 salles haut de gamme en France, formules Essential, Original et Ultra sans engagement annuel, 8 semaines de préavis, frais d’inscription et villes."
+description: "Tarifs ON AIR Fitness : Essential 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines sans engagement annuel. Plus de 120 salles, préavis, frais d’inscription et villes."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -131,7 +132,7 @@ Oui, sans engagement annuel : tu résilies quand tu veux, mais avec un préavis 
 </details>
 
 <details>
-<summary>Combien coûte ON AIR ?</summary>
+<summary>Combien coûte ON AIR par mois ?</summary>
 
 Essential coûte 31,96 €, Original 39,96 € et Ultra 43,96 € toutes les 4 semaines, plus 50 € de frais d’inscription et 10 € par an pour la garantie matériel (novembre 2026).
 

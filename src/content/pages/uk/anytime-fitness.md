@@ -1,7 +1,8 @@
 ---
 title: "Anytime Fitness: 24/7 gyms, prices and contracts in the UK"
+seoTitle: "Anytime Fitness UK prices: membership cost and contracts"
 path: "/uk/anytime-fitness/"
-description: "Everything about Anytime Fitness in the UK: small gyms open 24/7 in London, Manchester and beyond, prices set per club, 12, 6 or 3-month agreements or a rolling monthly contract, key fee, student discount, cancelling and training abroad."
+description: "How much is Anytime Fitness in the UK? Prices are set per club, for example from £39.95 a month in Manchester Central. 12, 6 or 3-month agreements or rolling monthly, key fee, students and cancelling."
 lang: en
 land: uk
 byline: "Updated November 2026"

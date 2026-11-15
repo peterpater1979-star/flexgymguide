@@ -106,7 +106,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 
 </div>
 
-<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, Neoness, WellNess Sport Club, RITM, Magic Form et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
+<p class="meer-aanbieders">Et aussi : L’Orange bleue, ON AIR, L’Appart Fitness, Neoness, WellNess Sport Club, RITM, Magic Form, Vita Liberté et Urban Sports Club. <a href="#autres">Voir les autres salles</a></p>
 
 <div id="villes">
 
@@ -115,9 +115,9 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <ul class="stedenlijst">
 <li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR · L’Appart Fitness · Gigafit · Liberty Gym · Magic Form</span></li>
 <li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · L’Appart Fitness</span></li>
-<li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR</span></li>
+<li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · Vita Liberté</span></li>
 <li><a href="/fr/bordeaux/"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness · Magic Form</span></li>
-<li><a href="/fr/nice/"><strong>Nice</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness</span></li>
+<li><a href="/fr/nice/"><strong>Nice</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness · Vita Liberté</span></li>
 <li><a href="/fr/aix-en-provence/"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · ON AIR</span></li>
 <li><a href="/fr/toulouse/"><strong>Toulouse</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR</span></li>
 <li><a href="/fr/nantes/"><strong>Nantes</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR</span></li>
@@ -148,7 +148,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <li><a href="/fr/avignon/"><strong>Avignon</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Keepcool · L’Orange bleue</span></li>
 <li><a href="/fr/reims/"><strong>Reims</strong></a> <span class="klein">ClassPass · Urban Sports Club · L’Orange bleue · ON AIR</span></li>
 <li><a href="/fr/troyes/"><strong>Troyes</strong></a> <span class="klein">ClassPass · Urban Sports Club · Magic Form</span></li>
-<li><a href="/fr/bayonne/"><strong>Bayonne</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · L’Orange bleue</span></li>
+<li><a href="/fr/bayonne/"><strong>Bayonne</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · L’Orange bleue · Vita Liberté</span></li>
 <li><a href="/fr/poitiers/"><strong>Poitiers</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Keepcool · ON AIR</span></li>
 <li><a href="/fr/dunkerque/"><strong>Dunkerque</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Gigafit</span></li>
 <li><a href="/fr/annemasse/"><strong>Annemasse</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · ON AIR</span></li>
@@ -335,6 +335,28 @@ Cardio, musculation et cours collectifs selon la formule. Dès 30 € toutes les
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-gymketen"><span>Salle accessible</span></div>
+
+### Vita Liberté
+
+Salle en franchise, ouverte de 6h à 23h tous les jours. FULL à 36,75 € toutes les 4 semaines avec engagement, ou FREEDOM FULL sans engagement à 46,75 €.
+
+<div class="infoblok">
+<ul>
+<li>Idéal pour les étudiants, dès 26,85 €</li>
+<li>Accès à toutes les salles du réseau</li>
+<li>Pause de 28 jours par an</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/vita-liberte/">Tout sur Vita Liberté</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
 
 ### Urban Sports Club
@@ -429,6 +451,7 @@ Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Trad
 - **[Résilier Gigafit](/fr/resilier-gigafit/)** · préavis et alternatives
 - **[Résilier L’Appart Fitness](/fr/resilier-l-appart-fitness/)** · préavis et alternatives
 - **[Résilier Magic Form](/fr/resilier-magic-form/)** · préavis et alternatives
+- **[Résilier Vita Liberté](/fr/resilier-vita-liberte/)** · préavis et alternatives
 - **[Résilier Neoness](/fr/resilier-neoness/)** · préavis et alternatives
 - **[Résilier ON AIR](/fr/resilier-on-air/)** · préavis et alternatives
 - **[Résilier RITM](/fr/resilier-ritm/)** · préavis et alternatives

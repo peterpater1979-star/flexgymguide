@@ -1,7 +1,8 @@
 ---
 title: "PureGym i Danmark: priser, medlemskaber og opsigelse"
+seoTitle: "PureGym priser 2026: Core, Plus og Unlimited"
 path: "/dk/puregym/"
-description: "Alt om PureGym i Danmark: 128 centre, medlemskaberne Core, Plus og Unlimited, hvad det koster, prepaid og opsigelse."
+description: "PureGym priser i Danmark: Core fra 249 kr., Plus fra 319 kr. og Unlimited fra 429 kr. om måneden. 128 centre, oprettelse, prepaid og opsigelse."
 lang: da
 land: dk
 byline: "Opdateret oktober 2026"

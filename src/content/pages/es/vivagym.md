@@ -1,6 +1,6 @@
 ---
 title: "VivaGym en España: cuotas sin permanencia y para quién es"
-seoTitle: "VivaGym: precios y cuotas sin permanencia"
+seoTitle: "VivaGym precios 2026: cuotas ONE, FLEX y PRIME"
 path: "/es/vivagym/"
 description: "Precios de VivaGym: ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes sin permanencia, matrícula, pase de un día, descuento para menores de 26 y la baja."
 lang: es
@@ -106,7 +106,7 @@ No. Las cuotas ONE, FLEX y PRIME son sin permanencia. Algunos clubes ofrecen tam
 </details>
 
 <details>
-<summary>¿Cuánto cuesta VivaGym?</summary>
+<summary>¿Cuánto cuesta VivaGym al mes?</summary>
 
 En el club Madrid Príncipe de Vergara: ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes, más 29 € de matrícula (octubre de 2026). Los precios pueden variar según el club. Un pase de un día cuesta 11,90 €.
 

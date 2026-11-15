@@ -1,6 +1,6 @@
 ---
 title: "Flexibel sporten in Utrecht"
-seoTitle: "ClassPass Utrecht: flexibel sporten zonder jaarcontract"
+seoTitle: "Sporten in Utrecht: sportscholen, studio's en sportpassen"
 path: "/nl/utrecht/"
 description: "Sporten in Utrecht zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl
@@ -184,7 +184,7 @@ In Utrecht kost het standaardabonnement € 59 per maand voor 40 credits, en je 
 
 ## Trainmore in Utrecht
 
-Trainmore heeft 53 clubs in Nederland, waarvan 3 in Utrecht. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
+Trainmore heeft 56 clubs in Nederland, waarvan 3 in Utrecht. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
 Bij Muntgebouw betaal je € 99 per 4 weken met Flex, € 79 met een contract van 1 jaar en € 72 met 2 jaar. Met een contract krijg je daarbovenop € 1 korting per workout, maximaal één per dag. De prijs verschilt per club, afhankelijk van het label (Black, Red of Regular).
 

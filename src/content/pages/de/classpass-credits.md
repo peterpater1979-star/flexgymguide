@@ -44,6 +44,10 @@ Ungenutzte Credits gehen in den nächsten Monat über, bis zur Zahl der Credits 
 
 </div>
 
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-credits">Teste 1 Monat gratis mit 10 Workouts</a>
+</div>
+
 <h2 id="preis">Warum ein Kurs mehr kostet als ein anderer</h2>
 
 Die Zahl der Credits für einen Kurs ist nicht fest. Sie hängt ab von:

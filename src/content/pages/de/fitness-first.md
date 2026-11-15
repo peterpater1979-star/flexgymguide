@@ -1,18 +1,19 @@
 ---
 title: "Fitness First: Clubs, Mitgliedschaft, Probetraining und Kündigung"
-seoTitle: "Fitness First: RED und BLACK, Laufzeit und Probetraining"
+seoTitle: "Fitness First Preise: RED und BLACK, Laufzeit, Kündigung"
 path: "/de/fitness-first/"
-description: "Alles über Fitness First in Deutschland: 220 Clubs, RED und BLACK, Laufzeiten, Kündigung, Kurse, Wellness, Studentenrabatt und kostenloses Probetraining."
+description: "Fitness First Preise in Deutschland: was RED und BLACK pro Woche kosten, Laufzeit 24, 12 oder 1 Monat, Studentenrabatt, Kündigung und kostenloses Probetraining."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
 crumb: "Fitness First"
 kicker: "Anbieter: Fitnessstudiokette"
+zoekwoorden: "FIT ONE, Smile X"
 ---
 
 <div class="fotobanner smal foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
 
-Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clubs in Österreich. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
+Fitness First ist eine Fitnessstudiokette mit 217 Clubs in Deutschland und 12 Clubs in Österreich. Auch die früheren Marken FIT ONE und Smile X gehören heute zu Fitness First. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#staedte">Fitness First in deiner Stadt</a>
@@ -23,8 +24,8 @@ Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clu
 | | Fitness First |
 | --- | --- |
 | **Art** | Fitnessstudiokette mit eigenen Clubs |
-| **Clubs** | 220 in Deutschland, 5 in Österreich |
-| **Preis** | Je nach Club und Mitgliedschaft |
+| **Clubs** | 217 in Deutschland, 12 in Österreich |
+| **Preis** | Pro Woche, je nach Club, Mitgliedschaft und Laufzeit |
 | **Mitgliedschaft** | RED oder BLACK |
 | **Laufzeit** | 24, 12 oder 1 Monat |
 | **Kurse** | <span class="ja" aria-hidden="true">✓</span> Inklusive bei ALL-IN und BLACK |
@@ -49,6 +50,18 @@ Jeder Fitness First Club ist entweder ein RED Club oder ein BLACK Club. Deine Mi
 | **Extras** | | Handtücher, Duschgel und Shampoo, WLAN, Zeitschriften, Netflix und Amazon Prime an den Cardiogeräten |
 
 In Berlin sind zum Beispiel Gendarmenmarkt, Steglitz und Zehlendorfer Welle BLACK Clubs, Wilmersdorf und Prenzlauer Berg RED Clubs. Außerdem gibt es Clubs nur für Frauen (Ladies), etwa in Pankow und Friedrichshain.
+
+<h3 id="preise">Preise</h3>
+
+Fitness First rechnet pro Woche ab. Der Preis hängt vom Club (RED oder BLACK), von der Variante und von der Laufzeit ab. Ein Beispiel: Im BLACK Club Berlin Gendarmenmarkt kostete eine Mitgliedschaft im November 2026 pro Woche:
+
+| Laufzeit | BLACK Gendarmenmarkt | Studierende bis 25 |
+| --- | --- | --- |
+| **1 Monat** | 26,90 € | 23,90 € |
+| **12 Monate** | 20,90 € | 17,90 € |
+| **24 Monate** | 18,90 € | 15,90 € |
+
+Im RED Club Berlin Schöneberg zahlen Studierende 12,90 € pro Woche bei 1 Monat Laufzeit, 9,90 € bei 12 Monaten und 7,90 € bei 24 Monaten (Oktober 2026). RED ist also deutlich günstiger als BLACK. Den aktuellen Preis für deinen Club siehst du auf der Website von Fitness First.
 
 <h3>Laufzeit und Extras</h3>
 
@@ -110,7 +123,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <ul class="stedenlijst">
 <li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">15 Clubs</span></li>
 <li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">17 Clubs</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">12 Clubs</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">11 Clubs</span></li>
 <li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">14 Clubs</span></li>
 <li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">8 Clubs</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">10 Clubs</span></li>
@@ -230,7 +243,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 
 </details>
 
-<p class="klein">Österreich: 4 Clubs in und um Wien (darunter Vösendorf) und 1 in Gleisdorf bei Graz. Stand: Oktober 2026, laut fitnessfirst.de.</p>
+<p class="klein">Österreich: 3 Clubs in Wien und 1 in Vösendorf, dazu Clubs in der Steiermark (Graz, Gleisdorf, Lieboch, Peggau, Feldbach, Fürstenfeld, Hartberg) und in Oberwart im Burgenland. Insgesamt 229 Clubs. Stand: November 2026, laut fitnessfirst.de.</p>
 
 <div class="aanbieder">
 
@@ -249,9 +262,9 @@ Noch unsicher? Buch online ein kostenloses Probetraining, einlösbar in allen Fi
 ## Häufige Fragen
 
 <details open>
-<summary>Was kostet Fitness First?</summary>
+<summary>Was kostet Fitness First im Monat?</summary>
 
-Das hängt vom Club und von der Mitgliedschaft (RED oder BLACK) ab. Den aktuellen Preis siehst du auf der Website von Fitness First beim Club deiner Wahl.
+Fitness First rechnet pro Woche ab, nicht pro Monat. Der Preis hängt vom Club, von der Mitgliedschaft (RED oder BLACK) und von der Laufzeit ab. Im BLACK Club Berlin Gendarmenmarkt waren es im November 2026 zum Beispiel 26,90 € pro Woche bei 1 Monat Laufzeit und 18,90 € bei 24 Monaten. Den aktuellen Preis siehst du auf der Website von Fitness First beim Club deiner Wahl.
 
 </details>
 
@@ -300,7 +313,7 @@ Das hängt von deiner Mitgliedschaft ab: Je nach Mitgliedschaft trainierst du in
 <details>
 <summary>Gibt es Fitness First auch im Ausland?</summary>
 
-Außerhalb von Deutschland gibt es 5 Clubs in Österreich, vor allem in und um Wien.
+Außerhalb von Deutschland gibt es 12 Clubs in Österreich: in Wien und Vösendorf, in der Steiermark und im Burgenland.
 
 </details>
 

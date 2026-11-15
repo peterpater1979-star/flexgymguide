@@ -1,7 +1,8 @@
 ---
 title: "Element Gyms: planos, preços por semana e cancelamento"
+seoTitle: "Planos Element Gyms 2026: preços por semana"
 path: "/pt/element-gyms/"
-description: "Tudo sobre a Element Gyms em Portugal: planos Basic OP, Basic, Classic e Premium sem fidelização, preço por semana, inscrição, horário e cancelamento."
+description: "Planos Element Gyms: Basic OP, Basic, Classic e Premium sem fidelização, desde 2,99 € até 6,99 € por semana. Taxa de inscrição, horário e cancelamento."
 lang: pt
 land: pt
 byline: "Atualizado em novembro de 2026"

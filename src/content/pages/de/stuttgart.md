@@ -8,6 +8,7 @@ land: de
 byline: "Aktualisiert im November 2026"
 crumb: "Stuttgart"
 kicker: "Stadtguide Stuttgart"
+zoekwoorden: "FIT ONE, Fit One, Smile X"
 ---
 
 In Stuttgart trainierst du flexibel vor allem im Westen, in der Mitte und im Süden: Dort findest du auf ClassPass viele Studios für Reformer-Pilates und Yoga, dazu Indoor-Cycling, Boxen und HYROX. Für ein festes Gym gibt es Fitness First mit 4 Clubs, McFit, Basic-Fit in Feuerbach, clever fit in Vaihingen und JOHN REED. Hier siehst du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/).
@@ -53,7 +54,7 @@ Ein Abo auf Credit-Basis für Pilates, Yoga, Indoor-Cycling und Boxen, vor allem
 
 ### Fitness First
 
-220 Clubs in Deutschland, 4 in Stuttgart. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+217 Clubs in Deutschland, 4 in Stuttgart. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
@@ -177,7 +178,9 @@ Das Standard-Abo kostet in Stuttgart 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Stuttgart
 
-Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 4 in Stuttgart. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 4 in Stuttgart. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+
+Suchst du FIT ONE oder Smile X? Diese Marken gibt es nicht mehr, sie wurden von Fitness First übernommen.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

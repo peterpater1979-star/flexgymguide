@@ -1,7 +1,7 @@
 ---
 title: "Flexibel trainieren in Österreich"
 path: "/at/"
-description: "Flexibel trainieren in Wien: mit ClassPass in Studios in der ganzen Stadt oder bei Fitness First mit 4 Clubs in und um Wien. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Wien: mit ClassPass in Studios in der ganzen Stadt oder bei Fitness First mit 3 Clubs in Wien und 1 in Vösendorf. So findest du, was zu dir passt."
 lang: de
 land: at
 byline: "Aktualisiert im Oktober 2026"
@@ -69,7 +69,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 ### Fitness First
 
-4 Clubs in und um Wien und 1 in Gleisdorf bei Graz, mit Geräten, Kursen und Wellness. Dazu kommen 220 Clubs in Deutschland.
+12 Clubs in Österreich, davon 3 Clubs in Wien und 1 in Vösendorf, die anderen in der Steiermark und im Burgenland. Mit Geräten, Kursen und Wellness. Dazu kommen 217 Clubs in Deutschland.
 
 
 <div class="infoblok">
@@ -121,7 +121,7 @@ Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den Preis erfährst 
 | **[myClubs](/at/myclubs/)** | Sportpass | FLEX 4 55 € (4 Trainings), UNLIMITED 109 € | Monatlich kündbar, 7 Tage vorher | Vor allem Wien, auch andere Städte |
 | **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex ab 34,90 €, mit 12 Monaten ab 24,90 € | Flex oder 12 Monate | Mehrere Studios in Wien |
 | **[clever fit](/at/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 39,90 bis 49,90 € | Meist monatlich kündbar oder 6 bis 24 Monate | Studios in Wien und ganz Österreich |
-| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 4 Clubs in und um Wien, 1 bei Graz |
+| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 12 Clubs in Österreich, davon 3 in Wien |
 | **[JOHN REED](/at/john-reed/)** | Fitnessclub | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Wien, Linz, Salzburg |
 | **[Mrs.Sporty](/at/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Rund 50 Clubs, viele in Wien |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 3 Clubs in Wien |

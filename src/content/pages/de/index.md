@@ -68,7 +68,7 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 ### Fitness First
 
-Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 220 Clubs in Deutschland und 5 in Österreich.
+Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 217 Clubs in Deutschland und 12 in Österreich.
 
 <div class="infoblok">
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
@@ -120,7 +120,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 | **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | Über 230 Studios in Europa |
 | **[clever fit](/de/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Über 500 Studios in Deutschland und Europa |
 | **[FitX](/de/fitx/)** | Günstige Fitnesskette | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | Über 110 Studios in Deutschland |
-| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 220 Clubs in Deutschland |
+| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 217 Clubs in Deutschland |
 | **[JOHN REED](/de/john-reed/)** | Fitnessclub | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 47 Clubs in 8 Ländern |
 | **[Basic-Fit](/de/basic-fit/)** | Günstige Fitnesskette | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | Fast 100 Clubs in Deutschland |
 | **[EASYFITNESS](/de/easyfitness/)** | Fitnesskette | Ab 27,99 € | Flex, 12 oder 24 Monate | Über 200 Studios in Deutschland |

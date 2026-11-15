@@ -48,7 +48,7 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 <h2 id="fitness-first">Fitness First: membership without a minimum term</h2>
 
-Fitness First has 220 clubs in Germany, with equipment, a large class schedule and a wellness area, and a pool in some clubs. Besides a 24-month membership there is one for 12 months and one without a minimum term, which you cancel monthly. Fitness First charges per week, and the price depends on the club: there are RED and BLACK clubs. At a RED club you choose between BASIC and ALL-IN; ALL-IN includes classes, drinks and the wellness area, among other things.
+Fitness First has 217 clubs in Germany, with equipment, a large class schedule and a wellness area, and a pool in some clubs. Besides a 24-month membership there is one for 12 months and one without a minimum term, which you cancel monthly. Fitness First charges per week, and the price depends on the club: there are RED and BLACK clubs. At a RED club you choose between BASIC and ALL-IN; ALL-IN includes classes, drinks and the wellness area, among other things.
 
 Without a minimum term you pay a one-off startup fee of €39. On top of that comes a training package of €39 or €49, charged every six months. With 24 months there is no startup fee, and you can pause for free for up to 12 weeks. You can switch to the 24-month membership at any time. Students, pupils and trainees pay less. Prices per club are on our city pages, and you can book a free trial session first.
 

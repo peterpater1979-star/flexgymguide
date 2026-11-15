@@ -1,8 +1,8 @@
 ---
 title: "Fitness Park : formules, prix et pour qui c’est fait"
-seoTitle: "Fitness Park : prix et tarifs des abonnements"
+seoTitle: "Fitness Park : tarifs 2026 et prix par mois"
 path: "/fr/fitness-park/"
-description: "Prix Fitness Park : Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement, 10 € de moins avec. Frais d’adhésion et clubs."
+description: "Tarifs Fitness Park : Classic 40 €, Access+ 55 €, Ultimate 60 € toutes les 4 semaines sans engagement, 10 € de moins avec. Frais d’adhésion et clubs."
 lang: fr
 land: fr
 byline: "Mis à jour en octobre 2026"
@@ -125,7 +125,7 @@ Oui, si tu veux. Sans engagement, tu paies 10 € de plus toutes les 4 semaines 
 </details>
 
 <details>
-<summary>Combien coûte Fitness Park ?</summary>
+<summary>Combien coûte Fitness Park par mois ?</summary>
 
 Sans engagement : Classic 40 €, Access+ 55 € ou Ultimate 60 € toutes les 4 semaines (octobre 2026). Avec engagement, c’est 10 € de moins.
 

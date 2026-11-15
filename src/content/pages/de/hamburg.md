@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in Hamburg"
-seoTitle: "ClassPass Hamburg: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudios in Hamburg: Ketten, Studios und Sportpässe"
 path: "/de/hamburg/"
 description: "Flexibel trainieren in Hamburg: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 17 Clubs trainieren. So findest du, was zu dir passt."
 lang: de
@@ -53,7 +53,7 @@ Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Ep
 
 ### Fitness First
 
-220 Clubs in Deutschland, 17 in Hamburg. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+217 Clubs in Deutschland, 17 in Hamburg. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
@@ -249,7 +249,7 @@ Das Standard-Abo kostet in Hamburg 59 € im Monat für 42 Credits. Neu bei Clas
 
 ## Fitness First in Hamburg
 
-Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 17 in Hamburg. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 17 in Hamburg. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

@@ -47,7 +47,7 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Stud
 
 <h2 id="fitness-first">Fitness First: Mitgliedschaft ohne Mindestlaufzeit</h2>
 
-Fitness First hat 220 Clubs in Deutschland, mit Geräten, einem großen Kursprogramm und Wellnessbereich, in einigen Clubs auch mit Schwimmbad. Neben der Mitgliedschaft über 24 Monate gibt es eine über 12 Monate und eine ohne Mindestlaufzeit, die du monatlich kündigst. Fitness First rechnet pro Woche ab, und der Preis hängt vom Club ab: Es gibt RED- und BLACK-Clubs. In einem RED-Club wählst du zwischen BASIC und ALL-IN; ALL-IN enthält unter anderem Kurse, Getränke und Wellnessbereich.
+Fitness First hat 217 Clubs in Deutschland, mit Geräten, einem großen Kursprogramm und Wellnessbereich, in einigen Clubs auch mit Schwimmbad. Neben der Mitgliedschaft über 24 Monate gibt es eine über 12 Monate und eine ohne Mindestlaufzeit, die du monatlich kündigst. Fitness First rechnet pro Woche ab, und der Preis hängt vom Club ab: Es gibt RED- und BLACK-Clubs. In einem RED-Club wählst du zwischen BASIC und ALL-IN; ALL-IN enthält unter anderem Kurse, Getränke und Wellnessbereich.
 
 Ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu kommt ein Trainingspaket von 39 € oder 49 €, das alle sechs Monate fällig wird. Bei 24 Monaten entfällt die Startgebühr, und du kannst kostenlos bis zu 12 Wochen pausieren. Studierende, Schüler und Azubis zahlen weniger. Die Preise pro Club findest du auf unseren Stadtseiten, und du kannst zuerst kostenlos probetrainieren.
 

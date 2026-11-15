@@ -53,7 +53,7 @@ Ein Abo auf Credit-Basis für Yoga, Pilates, Lagree und Outdoor-Bootcamp, auch i
 
 ### Fitness First
 
-220 Clubs in Deutschland, 1 in Dortmund. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+217 Clubs in Deutschland, 1 in Dortmund. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
@@ -175,7 +175,7 @@ Das Standard-Abo kostet in Dortmund 59 € im Monat für 42 Credits. Neu bei Cla
 
 ## Fitness First in Dortmund
 
-Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 1 in Dortmund. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 in Dortmund. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

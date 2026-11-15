@@ -1,6 +1,6 @@
 ---
 title: "Flexibel sporten in Leiden"
-seoTitle: "ClassPass Leiden: flexibel sporten zonder jaarcontract"
+seoTitle: "Sporten in Leiden: sportscholen, studio's en sportpassen"
 path: "/nl/leiden/"
 description: "Sporten in Leiden zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl
@@ -104,7 +104,7 @@ In Leiden kost het standaardabonnement € 59 per maand voor 40 credits, en je k
 
 ## Trainmore in Leiden
 
-Trainmore heeft 53 clubs in Nederland, waarvan 1 in Leiden. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
+Trainmore heeft 56 clubs in Nederland, waarvan 1 in Leiden. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
 Bij Koningin Wilhelminaplein in Amsterdam betaal je € 104 per 4 weken met Flex, € 84 met een contract van 1 jaar en € 77 met 2 jaar. Met een contract krijg je daarbovenop € 1 korting per workout, maximaal één per dag. De prijs verschilt per club, afhankelijk van het label (Black, Red of Regular).
 

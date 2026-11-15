@@ -1,17 +1,18 @@
 ---
 title: "Trainmore: clubs, prijzen, korting per workout en opzeggen"
 path: "/nl/trainmore/"
-description: "Alles over Trainmore: 53 clubs in Nederland, clublabels, faciliteiten, groepslessen, korting per workout, studentenlidmaatschap en opzeggen."
+description: "Alles over Trainmore: 56 clubs in Nederland, met de nieuwe club aan de Zeilstraat in Amsterdam, clublabels, faciliteiten, groepslessen, korting per workout, studentenlidmaatschap en opzeggen."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
 crumb: "Trainmore"
 kicker: "Aanbieder: sportschoolketen"
+zoekwoorden: "Zeilstraat, Train More, Trainmore Zeilstraat"
 ---
 
 <div class="fotobanner smal foto-trainmore" role="img" aria-label="Sportschool"></div>
 
-Trainmore is een Nederlandse sportschoolketen met 53 eigen clubs. Met een lidmaatschap train je in de gym, doe je mee aan groepslessen en gebruik je de extra's van je club, zoals sauna of koffie. Bijzonder is de korting per workout: hoe vaker je traint, hoe minder je betaalt.
+Trainmore is een Nederlandse sportschoolketen met 56 eigen clubs. Met een lidmaatschap train je in de gym, doe je mee aan groepslessen en gebruik je de extra's van je club, zoals sauna of koffie. Bijzonder is de korting per workout: hoe vaker je traint, hoe minder je betaalt.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#steden">Trainmore in jouw stad</a>
@@ -22,7 +23,7 @@ Trainmore is een Nederlandse sportschoolketen met 53 eigen clubs. Met een lidmaa
 | | Trainmore |
 | --- | --- |
 | **Soort** | Sportschoolketen met eigen clubs |
-| **Clubs** | 53 in Nederland |
+| **Clubs** | 56 in Nederland |
 | **Prijs** | Verschilt per clublabel (Black, Red, Regular) en contract, per 4 wkn. €1 korting per workout bij een contract |
 | **Groepslessen** | <span class="ja" aria-hidden="true">✓</span> Inbegrepen (sommige lessen afhankelijk van je lidmaatschap) |
 | **Contract** | 2 jaar, 1 jaar of Flex (maandelijks opzegbaar) <details class="cel"><summary>Flex of contract?</summary>Een contract van 1 jaar is € 20 per 4 weken goedkoper dan Flex, 2 jaar € 27. En als je vastzit, ga je vaak ook vaker. Alleen met een contract krijg je ook € 1 korting per workout. Bijvoorbeeld bij Koningin Wilhelminaplein in Amsterdam: Flex € 104, 1 jaar € 84, 2 jaar € 77 per 4 weken. Met een jaarcontract bespaar je zo'n € 260 per jaar (13 keer 4 weken). <a href="#prijzen">Alle prijzen</a></details> |
@@ -186,7 +187,11 @@ Je zegt op per einde contract. Daarna loopt het lidmaatschap door met een opzegt
 
 </div>
 
-Er komen clubs bij: volgens Trainmore opent in november 2026 een club aan de Zeilstraat in Amsterdam en in december 2026 een club aan de Meent in Rotterdam.
+Er komen clubs bij. Trainmore Zeilstraat in Amsterdam en Trainmore Rijnhaven in Rotterdam zijn net open. Trainmore Vasteland in Rotterdam opent op 17 december 2026, en aan het Osdorpplein in Amsterdam komt binnenkort een club.
+
+<h3 id="zeilstraat">Trainmore Zeilstraat in Amsterdam</h3>
+
+Trainmore Zeilstraat is de nieuwste Trainmore-club in Amsterdam, aan de Zeilstraat in Amsterdam-Zuid. De club is in november 2026 opengegaan. Wat een lidmaatschap kost, hangt af van het label van de club (Black, Red of Regular) en van je contract: kijk op de clubpagina van Trainmore Zeilstraat voor de actuele prijs. Woon je in de buurt, dan kun je ook trainen in de andere [Trainmore-clubs in Amsterdam](/nl/amsterdam/).
 
 <div class="aanbieder">
 

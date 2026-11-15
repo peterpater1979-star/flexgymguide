@@ -71,7 +71,7 @@ SportCity heeft Flex, maandelijks opzegbaar, naast contracten van 3 maanden, 1 o
 
 <h2 id="trainmore">Trainmore Flex: maandelijks opzegbaar</h2>
 
-Trainmore heeft 53 clubs in Nederland. Met Flex zeg je maandelijks op; een contract van 1 jaar is € 20 per 4 weken goedkoper, 2 jaar € 27. Lees [Trainmore opzeggen](/nl/trainmore-opzeggen/).
+Trainmore heeft 56 clubs in Nederland. Met Flex zeg je maandelijks op; een contract van 1 jaar is € 20 per 4 weken goedkoper, 2 jaar € 27. Lees [Trainmore opzeggen](/nl/trainmore-opzeggen/).
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/nl/trainmore/">Alles over Trainmore</a>

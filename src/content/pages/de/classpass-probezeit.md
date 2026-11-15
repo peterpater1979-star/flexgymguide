@@ -24,6 +24,10 @@ Neue Mitglieder können ClassPass zuerst testen. Du besuchst dann mehrere Studio
 | **Kostenlos?** | In Deutschland ja. In manchen anderen Regionen ist es ein Rabatt auf deinen ersten Zeitraum |
 | **Danach** | Du wechselst automatisch zu einem Monatsabo, in Deutschland derzeit 42 Credits für 59 € pro Monat, in Österreich 35 Credits für 49 €, in der Schweiz 45 Credits für 79 CHF |
 
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-probezeit">Teste 1 Monat gratis mit 10 Workouts</a>
+</div>
+
 <h2 id="regeln">Die Regeln</h2>
 
 - **Einmal pro Standort.** Du kannst jedes Studio einmal besuchen. Buchst du einen Kurs und sagst ihn ab, kannst du dort während der Probezeit nicht noch einmal buchen.

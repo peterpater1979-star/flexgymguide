@@ -1,5 +1,6 @@
 ---
 title: "The Gym Group: gyms, memberships and cancelling"
+seoTitle: "The Gym Group membership: Off-peak, Standard, Ultimate"
 path: "/uk/the-gym-group/"
 description: "All about The Gym Group: low-cost gyms without a contract, Off-peak, Standard and Ultimate memberships, student plans, day passes and cancelling."
 lang: en

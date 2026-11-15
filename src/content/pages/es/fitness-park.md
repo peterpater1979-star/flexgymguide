@@ -1,8 +1,8 @@
 ---
 title: "Fitness Park en España: cuotas, precios y para quién es"
-seoTitle: "Fitness Park: precios y cuotas en España"
+seoTitle: "Cuotas Fitness Park 2026: precios sin permanencia"
 path: "/es/fitness-park/"
-description: "Cuotas de Fitness Park en España: Classic 37 € y Ultimate 57 € cada 4 semanas sin permanencia, desde 27 € con permanencia. Matrícula y clubes."
+description: "¿Cuánto cuesta Fitness Park al mes? Classic 37 € y Ultimate 57 € cada 4 semanas sin permanencia, desde 27 € con permanencia. Matrícula, clubes y la baja."
 lang: es
 land: es
 byline: "Actualizado en octubre de 2026"
@@ -117,7 +117,7 @@ Sí. Sin permanencia pagas más cada 4 semanas y la matrícula es de 50 € en l
 </details>
 
 <details>
-<summary>¿Cuánto cuesta Fitness Park?</summary>
+<summary>¿Cuánto cuesta Fitness Park al mes?</summary>
 
 En el club Madrid Príncipe Pío, sin permanencia: Classic 37 € y Ultimate 57 € cada 4 semanas. Con permanencia de 52 semanas, desde 27 €. Los precios pueden variar según el club.
 

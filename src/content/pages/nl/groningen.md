@@ -1,6 +1,6 @@
 ---
 title: "Flexibel sporten in Groningen"
-seoTitle: "ClassPass Groningen: flexibel sporten zonder jaarcontract"
+seoTitle: "Sporten in Groningen: sportscholen, studio's en sportpassen"
 path: "/nl/groningen/"
 description: "Sporten in Groningen zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl
@@ -150,7 +150,7 @@ In Groningen kost het standaardabonnement € 59 per maand voor 40 credits, en j
 
 ## Trainmore in Groningen
 
-Trainmore heeft 53 clubs in Nederland, waarvan 2 in Groningen. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
+Trainmore heeft 56 clubs in Nederland, waarvan 2 in Groningen. Met een lidmaatschap train je in de gym en doe je mee aan groepslessen. Twijfel je nog, plan dan eerst een gratis proefles. [Lees alles over Trainmore](/nl/trainmore/).
 
 Bij Munnekeholm betaal je € 75 per 4 weken met Flex, € 55 met een contract van 1 jaar en € 48 met 2 jaar. Met een contract krijg je daarbovenop € 1 korting per workout, maximaal één per dag. De prijs verschilt per club, afhankelijk van het label (Black, Red of Regular).
 

@@ -12,7 +12,7 @@ kicker: "Stadtguide Frankfurt"
 
 <div class="fotobanner foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
 
-Neu in Frankfurt, nur für ein Semester oder ein Projekt hier oder einfach keine Lust auf einen langen Vertrag? Frankfurt hat auf ClassPass besonders viel Reformer-Pilates, vom Nordend bis Sachsenhausen, Fitness First hat 12 Clubs mit monatlich kündbarer Mitgliedschaft, und McFit, clever fit und Basic-Fit sind günstigere Optionen. Neu in Deutschland? Die wichtigsten Regeln zu Fristen und Gebühren liest du unter [Fitnessstudio ohne Vertrag in Deutschland](/de/fitnessstudio-ohne-vertrag/).
+Neu in Frankfurt, nur für ein Semester oder ein Projekt hier oder einfach keine Lust auf einen langen Vertrag? Frankfurt hat auf ClassPass besonders viel Reformer-Pilates, vom Nordend bis Sachsenhausen, Fitness First hat 11 Clubs mit monatlich kündbarer Mitgliedschaft, und McFit, clever fit und Basic-Fit sind günstigere Optionen. Neu in Deutschland? Die wichtigsten Regeln zu Fristen und Gebühren liest du unter [Fitnessstudio ohne Vertrag in Deutschland](/de/fitnessstudio-ohne-vertrag/).
 
 <h2 id="kurz">Kurz gesagt</h2>
 
@@ -40,7 +40,7 @@ Die meisten Studios liegen im Nordend, in Bornheim, in Sachsenhausen, im Westend
 
 <h2 id="fitness-first">Fitness First: Mitgliedschaft ohne Mindestlaufzeit</h2>
 
-Fitness First hat 12 Clubs in Frankfurt, und du kannst ohne Mindestlaufzeit einsteigen und monatlich kündigen. Die Preise gelten pro Woche und hängen vom Club ab. So sahen sie im Oktober 2026 aus:
+Fitness First hat 11 Clubs in Frankfurt, und du kannst ohne Mindestlaufzeit einsteigen und monatlich kündigen. Die Preise gelten pro Woche und hängen vom Club ab. So sahen sie im Oktober 2026 aus:
 
 | Laufzeit | RED BASIC (Preungesheim) | RED ALL-IN (Preungesheim) | BLACK (Opernplatz) |
 | --- | --- | --- | --- |

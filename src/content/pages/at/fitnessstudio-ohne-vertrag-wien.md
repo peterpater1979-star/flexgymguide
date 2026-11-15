@@ -38,7 +38,7 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Stud
 
 <h2 id="fitness-first">Fitness First</h2>
 
-Fitness First hat 4 Clubs in und um Wien, darunter Vösendorf, mit Geräten, Kursen und Wellnessbereich. So sahen die Preise im Oktober 2026 aus:
+Fitness First hat 3 Clubs in Wien und 1 in Vösendorf, mit Geräten, Kursen und Wellnessbereich. So sahen die Preise im Oktober 2026 aus:
 
 Alle Clubs in Wien sind RED-Clubs, die Preise sind also überall gleich. Fitness First rechnet pro Woche ab. Du wählst zwischen BASIS und ALL-IN; ALL-IN enthält unter anderem Kurse, Getränke-Flat, Massage zum Fixpreis und Wellnessbereich. So sahen die Preise im Oktober 2026 aus, pro Woche:
 
