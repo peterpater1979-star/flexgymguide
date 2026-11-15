@@ -290,6 +290,10 @@ Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, 
 
 Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. 113 Studios in Deutschland. 89 € im Monat mit 12 Monaten, 69 € mit 24 Monaten.
 
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
 </div>

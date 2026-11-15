@@ -143,9 +143,10 @@ Günstige Fitnesskette, früher basefit.swiss, meist rund um die Uhr offen. Mona
 
 ### Kieser
 
-Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. über 20 Studios, davon 5 in Zürich. Empfehlung CHF 1050 pro Jahr, Laufzeit 12 oder 24 Monate.
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. Über 20 Studios, davon 5 in Zürich. Empfehlung CHF 1050 pro Jahr, Laufzeit 12 oder 24 Monate.
 
 <div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
 <ul>
 <li>Gut, wenn du nur Kraft trainieren willst</li>
 <li>Mit Trainingsplan und Betreuung</li>
