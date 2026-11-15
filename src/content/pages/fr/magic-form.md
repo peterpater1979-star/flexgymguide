@@ -62,13 +62,13 @@ Avec Magic+ et Magic Full, tu as accès à plusieurs clubs ; avec Magic One et l
 
 <h2 id="resilier">Résilier</h2>
 
-Tu résilies en ligne, avec le formulaire sur la [page de résiliation de Magic Form](https://inscription.magic-form.fr/abonnement/resiliation). Ta demande est envoyée à ton club.
+Tu résilies par lettre recommandée avec accusé de réception, ou en ligne avec le formulaire sur la [page de résiliation de Magic Form](https://inscription.magic-form.fr/abonnement/resiliation). Ta demande est envoyée à ton club. Le préavis est de 8 semaines.
 
 1. **Vérifie ton contrat.** Ta demande doit tenir compte de ta période d’engagement et de ton préavis. Ta date d’inscription est sur ton contrat d’adhésion ; sinon, demande-la à ton club.
 2. **Remplis le formulaire :** ton club, la raison, tes coordonnées et un court message. Tu peux ajouter un justificatif.
 3. **Garde le mail de confirmation.** Tu ne le reçois pas ? Contacte ton club.
 
-La durée du préavis est dans les conditions générales de ton contrat.
+Avec un engagement de 52 semaines, ta demande doit arriver au plus tard 8 semaines avant la fin ; avant, tu ne peux arrêter que pour un motif légitime, comme une mutation professionnelle.
 
 Tout le détail : [Résilier Magic Form](/fr/resilier-magic-form/).
 
