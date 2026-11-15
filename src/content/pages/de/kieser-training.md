@@ -13,7 +13,7 @@ zoekwoorden: "Kieser Preise, Kieser Training Kosten, Kieser Studio"
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Krafttraining"></div>
 
-Kieser ist kein normales Fitnessstudio. Du trainierst nur Kraft, an eigenen Kieser-Maschinen, mit einem festen Trainingsplan und mit Betreuung. Kurse, Laufbänder oder Musik gibt es nicht. Kieser empfiehlt zweimal pro Woche 30 Minuten. Die Studios sind Franchisebetriebe, deshalb können Preise und Verträge je nach Studio etwas anders sein.
+Kieser ist kein normales Fitnessstudio. Du trainierst nur Kraft, an eigenen Kieser-Maschinen, mit einem festen Trainingsplan und mit Betreuung. Kurse, Laufbänder oder Musik gibt es nicht. Kieser empfiehlt zweimal pro Woche 30 Minuten. Damit liegt Kieser preislich eher im oberen Bereich. Die Studios sind Franchisebetriebe, deshalb können Preise und Verträge je nach Studio etwas anders sein.
 
 <h2 id="kurz">Kurz und knapp</h2>
 
@@ -37,6 +37,7 @@ Kieser ist kein normales Fitnessstudio. Du trainierst nur Kraft, an eigenen Kies
 
 - **Einführung:** Bei Vertragsabschluss zahlst du einmalig ab 199 € für die Einführung ins Training. Das erste Einführungstraining ist kostenlos.
 - **Je nach Studio:** Die Preise sind eine Empfehlung. Dein Studio kann davon abweichen und bietet auf Anfrage auch kürzere Laufzeiten an.
+- **Über den Arbeitgeber:** Kieser arbeitet in vielen Regionen mit Firmen zusammen. Frag deinen Arbeitgeber, ob es Sonderkonditionen gibt.
 - **Rechenbeispiel:** Mit 24 Monaten zahlst du 1.656 € plus Einführung, mit 12 Monaten 1.068 € plus Einführung.
 
 <h2 id="training">So läuft das Training</h2>
@@ -131,6 +132,13 @@ Online nennt Kieser nur 12 und 24 Monate. Kürzere Laufzeiten bekommst du auf An
 <summary>Ist das Probetraining bei Kieser kostenlos?</summary>
 
 Ja. Du fragst es online an, und das Studio ruft dich für einen Termin an.
+
+</details>
+
+<details>
+<summary>Bekomme ich Kieser günstiger über meinen Arbeitgeber?</summary>
+
+Vielleicht. Kieser arbeitet in vielen Regionen mit Firmen zusammen, die für ihre Mitarbeiter Sonderkonditionen vereinbaren. Frag bei deinem Arbeitgeber nach.
 
 </details>
 
