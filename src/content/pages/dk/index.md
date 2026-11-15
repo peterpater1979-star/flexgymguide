@@ -4,7 +4,7 @@ path: "/dk/"
 description: "Vil du ikke bindes til ét fitnesscenter? Med ClassPass bruger du ét medlemskab i studier og fitnesscentre i København og Aarhus. Sådan fungerer det."
 lang: da
 land: dk
-byline: "Opdateret oktober 2026"
+byline: "Opdateret november 2026"
 crumb: "Danmark"
 kicker: "Landeguide Danmark"
 ---

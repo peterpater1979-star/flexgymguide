@@ -4,7 +4,7 @@ path: "/lu/"
 description: "Work out in Luxembourg without signing up for a year: gym chains with monthly or four-weekly memberships you can cancel easily, with clubs and prices."
 lang: en
 land: lu
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Luxembourg"
 kicker: "Country guide Luxembourg"
 ---

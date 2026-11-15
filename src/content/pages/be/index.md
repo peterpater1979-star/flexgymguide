@@ -4,7 +4,7 @@ path: "/be/"
 description: "Sporten zonder lang contract bij één sportschool? Met ClassPass train je met één abonnement bij studio's en gyms in Brussel, Antwerpen en Gent. Zo werkt het."
 lang: nl
 land: be
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "België"
 kicker: "Landengids België"
 ---

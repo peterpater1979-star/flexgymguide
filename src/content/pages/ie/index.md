@@ -4,7 +4,7 @@ path: "/ie/"
 description: "Don't want to be tied to one gym? With ClassPass you use one membership at studios and gyms in Dublin and Cork. Here's how it works in Ireland."
 lang: en
 land: ie
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Ireland"
 kicker: "Country guide Ireland"
 ---

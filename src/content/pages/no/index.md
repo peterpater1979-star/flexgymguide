@@ -4,7 +4,7 @@ path: "/no/"
 description: "Vil du ikke binde deg til ett treningssenter? Med ClassPass bruker du ett medlemskap på studioer og treningssentre i Oslo. Slik fungerer det."
 lang: nb
 land: no
-byline: "Oppdatert oktober 2026"
+byline: "Oppdatert november 2026"
 crumb: "Norge"
 kicker: "Landguide Norge"
 ---

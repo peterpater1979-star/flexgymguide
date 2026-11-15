@@ -4,7 +4,7 @@ path: "/ch/"
 description: "Ohne langen Vertrag trainieren? Mit ClassPass trainierst du mit einem Abo in Studios und Gyms in Genf, Zürich, Basel und Lausanne. So funktioniert es."
 lang: de
 land: ch
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Schweiz"
 kicker: "Länderguide Schweiz"
 ---

@@ -4,7 +4,7 @@ path: "/es/"
 description: "¿Deporte sin un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass o Urban Sports Club, una suscripción da acceso a estudios y gimnasios en Madrid, Barcelona y más ciudades."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "España"
 kicker: "Guía de país España"
 ---

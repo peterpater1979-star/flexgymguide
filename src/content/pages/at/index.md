@@ -4,7 +4,7 @@ path: "/at/"
 description: "Flexibel trainieren in Wien: mit ClassPass in Studios in der ganzen Stadt oder bei Fitness First mit 3 Clubs in Wien und 1 in Vösendorf. So findest du, was zu dir passt."
 lang: de
 land: at
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Österreich"
 kicker: "Länderguide Österreich"
 ---
