@@ -52,7 +52,7 @@ In Berlin sind zum Beispiel Gendarmenmarkt, Steglitz und Zehlendorfer Welle BLAC
 
 <h3 id="preise">Preise</h3>
 
-Fitness First rechnet pro Woche ab. Der Preis hängt vom Club (RED oder BLACK), von der Variante und von der Laufzeit ab. Ein Beispiel: Im BLACK Club Berlin Gendarmenmarkt kostete eine Mitgliedschaft im Oktober 2026 pro Woche:
+Fitness First rechnet pro Woche ab. Der Preis hängt vom Club (RED oder BLACK), von der Variante und von der Laufzeit ab. Ein Beispiel: Im BLACK Club Berlin Gendarmenmarkt kostete eine Mitgliedschaft im November 2026 pro Woche:
 
 | Laufzeit | BLACK Gendarmenmarkt | Studierende bis 25 |
 | --- | --- | --- |
@@ -263,7 +263,7 @@ Noch unsicher? Buch online ein kostenloses Probetraining, einlösbar in allen Fi
 <details open>
 <summary>Was kostet Fitness First im Monat?</summary>
 
-Fitness First rechnet pro Woche ab, nicht pro Monat. Der Preis hängt vom Club, von der Mitgliedschaft (RED oder BLACK) und von der Laufzeit ab. Im BLACK Club Berlin Gendarmenmarkt waren es im Oktober 2026 zum Beispiel 26,90 € pro Woche bei 1 Monat Laufzeit und 18,90 € bei 24 Monaten. Den aktuellen Preis siehst du auf der Website von Fitness First beim Club deiner Wahl.
+Fitness First rechnet pro Woche ab, nicht pro Monat. Der Preis hängt vom Club, von der Mitgliedschaft (RED oder BLACK) und von der Laufzeit ab. Im BLACK Club Berlin Gendarmenmarkt waren es im November 2026 zum Beispiel 26,90 € pro Woche bei 1 Monat Laufzeit und 18,90 € bei 24 Monaten. Den aktuellen Preis siehst du auf der Website von Fitness First beim Club deiner Wahl.
 
 </details>
 
