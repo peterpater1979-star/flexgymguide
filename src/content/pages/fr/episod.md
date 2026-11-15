@@ -143,6 +143,13 @@ Oui. Les étudiants paient moins cher les sessions et les packs, sur présentati
 
 </details>
 
+<details>
+<summary>Peut-on réserver EPISOD avec ClassPass ?</summary>
+
+Oui, plusieurs hubs EPISOD sont sur ClassPass : Pigalle, République, Étoile, Bourse, Louvre et Nation. Tu réserves un cours avec tes crédits ClassPass, sans abonnement EPISOD. Les cours et les places proposés peuvent varier selon le hub.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.episod.com/">EPISOD</a>
 <a class="knop knop-rand" href="/fr/">Le sport en France</a>
