@@ -187,11 +187,11 @@ Je zegt op per einde contract. Daarna loopt het lidmaatschap door met een opzegt
 
 </div>
 
-Er komen clubs bij: volgens Trainmore opent in november 2026 een club aan de Zeilstraat in Amsterdam en in december 2026 een club aan de Meent in Rotterdam.
+Er komen clubs bij. Trainmore Zeilstraat in Amsterdam en Trainmore Rijnhaven in Rotterdam zijn net open. Trainmore Vasteland in Rotterdam opent op 17 december 2026, en aan het Osdorpplein in Amsterdam komt binnenkort een club.
 
 <h3 id="zeilstraat">Trainmore Zeilstraat in Amsterdam</h3>
 
-Trainmore Zeilstraat is de nieuwste Trainmore-club in Amsterdam, aan de Zeilstraat in Amsterdam-Zuid, vlak bij het Hoofddorpplein. Volgens Trainmore gaat de club in november 2026 open. Wat een lidmaatschap kost, hangt af van het label van de club (Black, Red of Regular) en van je contract: kijk op de clubpagina van Trainmore Zeilstraat voor de actuele prijs. Woon je in de buurt, dan kun je ook trainen in de andere [Trainmore-clubs in Amsterdam](/nl/amsterdam/).
+Trainmore Zeilstraat is de nieuwste Trainmore-club in Amsterdam, aan de Zeilstraat in Amsterdam-Zuid, vlak bij het Hoofddorpplein. De club is in november 2026 opengegaan. Wat een lidmaatschap kost, hangt af van het label van de club (Black, Red of Regular) en van je contract: kijk op de clubpagina van Trainmore Zeilstraat voor de actuele prijs. Woon je in de buurt, dan kun je ook trainen in de andere [Trainmore-clubs in Amsterdam](/nl/amsterdam/).
 
 <div class="aanbieder">
 
