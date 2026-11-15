@@ -8,12 +8,14 @@ land: es
 byline: "Actualizado en octubre de 2026"
 crumb: "Basic-Fit"
 kicker: "Proveedor: gimnasio económico"
-zoekwoorden: "basic fit sin permanencia, basic fit flex"
+zoekwoorden: "basic fit sin permanencia, basic fit flex, mcfit españa"
 ---
 
 <div class="fotobanner smal foto-basic-fit" role="img" aria-label="Gimnasio"></div>
 
 Basic-Fit es una cadena de gimnasios económica con clubes en toda España. Eliges una cuota (Comfort, Premium o Ultimate), con contrato anual o con Flex, sin permanencia.
+
+Los antiguos gimnasios McFit en España ahora son de Basic-Fit. Si eras socio de McFit, consulta en tu club qué cuota de Basic-Fit tienes ahora.
 
 <h2 id="resumen">En resumen</h2>
 
