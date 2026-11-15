@@ -8,11 +8,12 @@ land: de
 byline: "Aktualisiert im Oktober 2026"
 crumb: "Fitness First"
 kicker: "Anbieter: Fitnessstudiokette"
+zoekwoorden: "FIT ONE, Smile X"
 ---
 
 <div class="fotobanner smal foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
 
-Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clubs in Österreich. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
+Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clubs in Österreich. Auch die früheren Marken FIT ONE und Smile X gehören heute zu Fitness First. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#staedte">Fitness First in deiner Stadt</a>
