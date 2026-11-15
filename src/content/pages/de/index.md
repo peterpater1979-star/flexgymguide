@@ -284,7 +284,7 @@ Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Krafttraining</span></div>
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
 
 ### Kieser
 

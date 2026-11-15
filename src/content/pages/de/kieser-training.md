@@ -11,7 +11,7 @@ kicker: "Anbieter: Krafttraining an Maschinen"
 zoekwoorden: "Kieser Preise, Kieser Training Kosten, Kieser Studio"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Krafttraining"></div>
+<div class="fotobanner smal foto-kieser" role="img" aria-label="Krafttraining"></div>
 
 Kieser ist kein normales Fitnessstudio. Du trainierst nur Kraft, an eigenen Kieser-Maschinen, mit einem festen Trainingsplan und mit Betreuung. Kurse, Laufbänder oder Musik gibt es nicht. Kieser empfiehlt zweimal pro Woche 30 Minuten. Preislich liegt Kieser eher im oberen Bereich. Die Studios sind Franchisebetriebe, deshalb können Preise und Verträge je nach Studio etwas anders sein.
 

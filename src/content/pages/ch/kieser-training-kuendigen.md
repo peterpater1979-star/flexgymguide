@@ -11,7 +11,7 @@ kicker: "Guide"
 zoekwoorden: "Kieser Abo kündigen, Kieser Kündigungsfrist Schweiz"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Krafttraining"></div>
+<div class="fotobanner smal foto-kieser" role="img" aria-label="Krafttraining"></div>
 
 Bei Kieser schliesst du meist ein Abo über 12 oder 24 Monate ab. Die Studios sind Franchisebetriebe, deshalb steht die genaue Kündigungsfrist in deinem eigenen Vertrag. Du kündigst bei dem Studio, in dem du Mitglied bist.
 

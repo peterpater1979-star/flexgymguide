@@ -203,7 +203,7 @@ Fitnessstudio nur für Frauen mit vielen Clubs in Wien. 30 Minuten Training, kos
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Krafttraining</span></div>
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
 
 ### Kieser
 
