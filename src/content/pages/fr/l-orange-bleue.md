@@ -1,7 +1,8 @@
 ---
 title: "L’Orange bleue : formules, prix et villes"
+seoTitle: "L’Orange bleue : tarifs 2026, formules et prix"
 path: "/fr/l-orange-bleue/"
-description: "Tout sur L’Orange bleue : environ 400 salles en France, en Espagne et au Portugal, formules START, BOOST et PRIME, frais d’adhésion, offre étudiants, séance d’essai et résiliation."
+description: "Tarifs L’Orange bleue : START 35 €, BOOST et PRIME 45 € toutes les 4 semaines, 60 € de frais d’adhésion. Environ 400 salles, offre étudiants, séance d’essai et résiliation."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -122,7 +123,7 @@ Non, pas les formules affichées sur le site : START et BOOST t’engagent pour 
 </details>
 
 <details>
-<summary>Combien coûte L’Orange bleue ?</summary>
+<summary>Combien coûte L’Orange bleue par mois ?</summary>
 
 START coûte 35 €, BOOST et PRIME 45 € toutes les 4 semaines, plus 60 € de frais d’adhésion (novembre 2026). Le prix peut varier selon la salle.
 

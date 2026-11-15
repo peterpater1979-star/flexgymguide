@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in München"
-seoTitle: "ClassPass München: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudios in München: Ketten, Studios und Sportpässe"
 path: "/de/muenchen/"
 description: "Flexibel trainieren in München: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 8 Clubs trainieren. So findest du, was zu dir passt."
 lang: de

@@ -1,12 +1,13 @@
 ---
 title: "Trainmore: clubs, prijzen, korting per workout en opzeggen"
 path: "/nl/trainmore/"
-description: "Alles over Trainmore: 53 clubs in Nederland, clublabels, faciliteiten, groepslessen, korting per workout, studentenlidmaatschap en opzeggen."
+description: "Alles over Trainmore: 53 clubs in Nederland, met de nieuwe club aan de Zeilstraat in Amsterdam, clublabels, faciliteiten, groepslessen, korting per workout, studentenlidmaatschap en opzeggen."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
 crumb: "Trainmore"
 kicker: "Aanbieder: sportschoolketen"
+zoekwoorden: "Zeilstraat, Train More, Trainmore Zeilstraat"
 ---
 
 <div class="fotobanner smal foto-trainmore" role="img" aria-label="Sportschool"></div>
@@ -187,6 +188,10 @@ Je zegt op per einde contract. Daarna loopt het lidmaatschap door met een opzegt
 </div>
 
 Er komen clubs bij: volgens Trainmore opent in november 2026 een club aan de Zeilstraat in Amsterdam en in december 2026 een club aan de Meent in Rotterdam.
+
+<h3 id="zeilstraat">Trainmore Zeilstraat in Amsterdam</h3>
+
+Trainmore Zeilstraat is de nieuwste Trainmore-club in Amsterdam, aan de Zeilstraat in Amsterdam-Zuid, vlak bij het Hoofddorpplein. Volgens Trainmore gaat de club in november 2026 open. Wat een lidmaatschap kost, hangt af van het label van de club (Black, Red of Regular) en van je contract: kijk op de clubpagina van Trainmore Zeilstraat voor de actuele prijs. Woon je in de buurt, dan kun je ook trainen in de andere [Trainmore-clubs in Amsterdam](/nl/amsterdam/).
 
 <div class="aanbieder">
 

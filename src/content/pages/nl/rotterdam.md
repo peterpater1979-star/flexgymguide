@@ -1,6 +1,6 @@
 ---
 title: "Flexibel sporten in Rotterdam"
-seoTitle: "ClassPass Rotterdam: flexibel sporten zonder jaarcontract"
+seoTitle: "Sporten in Rotterdam: sportscholen, studio's en sportpassen"
 path: "/nl/rotterdam/"
 description: "Sporten in Rotterdam zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl

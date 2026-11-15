@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in Hamburg"
-seoTitle: "ClassPass Hamburg: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudios in Hamburg: Ketten, Studios und Sportpässe"
 path: "/de/hamburg/"
 description: "Flexibel trainieren in Hamburg: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 17 Clubs trainieren. So findest du, was zu dir passt."
 lang: de

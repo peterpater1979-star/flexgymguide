@@ -1,8 +1,8 @@
 ---
 title: "Fitness First: Clubs, Mitgliedschaft, Probetraining und Kündigung"
-seoTitle: "Fitness First: RED und BLACK, Laufzeit und Probetraining"
+seoTitle: "Fitness First Preise: RED und BLACK, Laufzeit, Kündigung"
 path: "/de/fitness-first/"
-description: "Alles über Fitness First in Deutschland: 220 Clubs, RED und BLACK, Laufzeiten, Kündigung, Kurse, Wellness, Studentenrabatt und kostenloses Probetraining."
+description: "Fitness First Preise in Deutschland: was RED und BLACK pro Woche kosten, Laufzeit 24, 12 oder 1 Monat, Studentenrabatt, Kündigung und kostenloses Probetraining."
 lang: de
 land: de
 byline: "Aktualisiert im Oktober 2026"
@@ -24,7 +24,7 @@ Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clu
 | --- | --- |
 | **Art** | Fitnessstudiokette mit eigenen Clubs |
 | **Clubs** | 220 in Deutschland, 5 in Österreich |
-| **Preis** | Je nach Club und Mitgliedschaft |
+| **Preis** | Pro Woche, je nach Club, Mitgliedschaft und Laufzeit |
 | **Mitgliedschaft** | RED oder BLACK |
 | **Laufzeit** | 24, 12 oder 1 Monat |
 | **Kurse** | <span class="ja" aria-hidden="true">✓</span> Inklusive bei ALL-IN und BLACK |
@@ -49,6 +49,18 @@ Jeder Fitness First Club ist entweder ein RED Club oder ein BLACK Club. Deine Mi
 | **Extras** | | Handtücher, Duschgel und Shampoo, WLAN, Zeitschriften, Netflix und Amazon Prime an den Cardiogeräten |
 
 In Berlin sind zum Beispiel Gendarmenmarkt, Steglitz und Zehlendorfer Welle BLACK Clubs, Wilmersdorf und Prenzlauer Berg RED Clubs. Außerdem gibt es Clubs nur für Frauen (Ladies), etwa in Pankow und Friedrichshain.
+
+<h3 id="preise">Preise</h3>
+
+Fitness First rechnet pro Woche ab. Der Preis hängt vom Club (RED oder BLACK), von der Variante und von der Laufzeit ab. Ein Beispiel: Im BLACK Club Berlin Gendarmenmarkt kostete eine Mitgliedschaft im Oktober 2026 pro Woche:
+
+| Laufzeit | BLACK Gendarmenmarkt | Studierende bis 25 |
+| --- | --- | --- |
+| **1 Monat** | 26,90 € | 23,90 € |
+| **12 Monate** | 20,90 € | 17,90 € |
+| **24 Monate** | 18,90 € | 15,90 € |
+
+Im RED Club Berlin Schöneberg zahlen Studierende 12,90 € pro Woche bei 1 Monat Laufzeit, 9,90 € bei 12 Monaten und 7,90 € bei 24 Monaten (Oktober 2026). RED ist also deutlich günstiger als BLACK. Den aktuellen Preis für deinen Club siehst du auf der Website von Fitness First.
 
 <h3>Laufzeit und Extras</h3>
 
@@ -249,9 +261,9 @@ Noch unsicher? Buch online ein kostenloses Probetraining, einlösbar in allen Fi
 ## Häufige Fragen
 
 <details open>
-<summary>Was kostet Fitness First?</summary>
+<summary>Was kostet Fitness First im Monat?</summary>
 
-Das hängt vom Club und von der Mitgliedschaft (RED oder BLACK) ab. Den aktuellen Preis siehst du auf der Website von Fitness First beim Club deiner Wahl.
+Fitness First rechnet pro Woche ab, nicht pro Monat. Der Preis hängt vom Club, von der Mitgliedschaft (RED oder BLACK) und von der Laufzeit ab. Im BLACK Club Berlin Gendarmenmarkt waren es im Oktober 2026 zum Beispiel 26,90 € pro Woche bei 1 Monat Laufzeit und 18,90 € bei 24 Monaten. Den aktuellen Preis siehst du auf der Website von Fitness First beim Club deiner Wahl.
 
 </details>
 

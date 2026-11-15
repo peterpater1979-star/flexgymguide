@@ -1,6 +1,6 @@
 ---
 title: "Basic-Fit en España: cuotas, Flex sin permanencia y precios"
-seoTitle: "Basic-Fit España: precios y cuota Flex sin permanencia"
+seoTitle: "Basic-Fit precios 2026: cuotas y Flex sin permanencia"
 path: "/es/basic-fit/"
 description: "Precios de Basic-Fit en España: Comfort desde 24,99 € cada 4 semanas con contrato anual, o Flex sin permanencia desde 29,98 €. Inscripción, cuotas y la baja."
 lang: es
@@ -91,7 +91,7 @@ Sí, Flex. Pagas un poco más cada 4 semanas y te das de baja con 4 semanas de p
 </details>
 
 <details>
-<summary>¿Cuánto cuesta Basic-Fit?</summary>
+<summary>¿Cuánto cuesta Basic-Fit al mes?</summary>
 
 Desde 24,99 € cada 4 semanas con contrato anual (Comfort), o desde 29,98 € con Flex (octubre de 2026).
 

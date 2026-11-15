@@ -1,6 +1,6 @@
 ---
 title: "Flexibel sporten in Groningen"
-seoTitle: "ClassPass Groningen: flexibel sporten zonder jaarcontract"
+seoTitle: "Sporten in Groningen: sportscholen, studio's en sportpassen"
 path: "/nl/groningen/"
 description: "Sporten in Groningen zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl

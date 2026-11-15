@@ -1,6 +1,6 @@
 ---
 title: "Flexibel sporten in Utrecht"
-seoTitle: "ClassPass Utrecht: flexibel sporten zonder jaarcontract"
+seoTitle: "Sporten in Utrecht: sportscholen, studio's en sportpassen"
 path: "/nl/utrecht/"
 description: "Sporten in Utrecht zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl

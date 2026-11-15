@@ -1,6 +1,6 @@
 ---
 title: "Flexibel trainieren in Berlin"
-seoTitle: "ClassPass Berlin: flexibel trainieren ohne Vertrag"
+seoTitle: "Fitnessstudios in Berlin: Ketten, Studios und Sportpässe"
 path: "/de/berlin/"
 description: "Flexibel trainieren in Berlin: ClassPass mit Studios in der ganzen Stadt oder Fitness First mit 15 Clubs und kostenlosem Probetraining."
 lang: de

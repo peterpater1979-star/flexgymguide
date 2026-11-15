@@ -1,13 +1,14 @@
 ---
 title: "Keepcool : formules, prix et pour qui c’est fait"
-seoTitle: "Keepcool : tarifs et prix des abonnements"
+seoTitle: "Keepcool : tarifs 2026 et prix des abonnements"
 path: "/fr/keepcool/"
-description: "Prix Keepcool : dès 29,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement. Frais d’inscription, formules, séance d’essai et villes."
+description: "Tarifs Keepcool (Keep Cool) : dès 29,99 € toutes les 4 semaines avec engagement d’un an, 44,99 € sans engagement. Frais d’inscription, formules, séance d’essai et villes."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
 crumb: "Keepcool"
 kicker: "Fournisseur : salle de sport"
+zoekwoorden: "Keep Cool, Keepcool tarif"
 ---
 
 <div class="fotobanner smal foto-keepcool" role="img" aria-label="Salle de sport"></div>
@@ -150,7 +151,7 @@ Oui, si tu veux. Sans engagement, tu paies 44,99 € toutes les 4 semaines. Avec
 </details>
 
 <details>
-<summary>Combien coûte Keepcool ?</summary>
+<summary>Combien coûte Keepcool par mois ?</summary>
 
 Dès 29,99 € toutes les 4 semaines avec engagement d’un an, ou 44,99 € sans engagement (novembre 2026). Selon la zone, le prix peut être un peu plus élevé.
 
