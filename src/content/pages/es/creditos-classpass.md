@@ -44,6 +44,10 @@ Los créditos que no usas pasan al mes siguiente, hasta el número de créditos 
 
 </div>
 
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-creditos-classpass">Prueba 10 sesiones gratis en 14 días</a>
+</div>
+
 <h2 id="precio">Por qué una clase cuesta más que otra</h2>
 
 El número de créditos de una clase no es fijo. Depende de:

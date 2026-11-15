@@ -2,12 +2,13 @@
 title: "Flexibel sporten in Eindhoven"
 seoTitle: "Sporten in Eindhoven: sportscholen, studio's en sportpassen"
 path: "/nl/eindhoven/"
-description: "Sporten in Eindhoven zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
+description: "Sporten in Eindhoven zonder jaarcontract: groepslessen bij SportCity en Trainmore, of met ClassPass wisselen tussen studio's voor pilates, yoga en boksen."
 lang: nl
 land: nl
 byline: "Bijgewerkt in oktober 2026"
 crumb: "Eindhoven"
 kicker: "Stadsgids Eindhoven"
+zoekwoorden: "groepslessen Eindhoven, groepsles"
 ---
 
 Eindhoven heeft op ClassPass vooral veel reformer pilates en krachttraining, van het centrum tot Strijp-S. Liever een vaste club? Trainmore zit in de Lichttoren en op Strijp-S, en ook SportCity en Basic-Fit hebben clubs in de stad. Hieronder zie je wat elk kost en hoe je opzegt. Wil je helemaal nergens aan vastzitten? Lees [Sporten zonder contract in Eindhoven](/nl/sporten-zonder-contract-eindhoven/).
@@ -160,6 +161,15 @@ Basic-Fit is een voordelige sportschoolketen met meer dan 250 clubs in Nederland
 </div>
 
 </div>
+
+<h2 id="groepslessen">Groepslessen in Eindhoven</h2>
+
+Wil je vooral groepslessen volgen, dan heb je in Eindhoven twee routes:
+
+- **In een sportschool:** bij [SportCity](#sportcity) (Gerarduskerk, Mecklenburgstraat en Bisschop Bekkerslaan) zitten alle live groepslessen in je lidmaatschap. Bij [Trainmore](/nl/trainmore/) in de Lichttoren en op Strijp-S doe je ook mee aan groepslessen. Je traint dan steeds in dezelfde club.
+- **Met ClassPass bij studio's:** je wisselt tussen lessen bij verschillende studio's. Denk aan pilates bij House of Motus of THE R STUDIO, yoga bij Studio Slow Down, kickboksen bij The Kickboxing Society en krachttraining in kleine groepen bij Trifecta Sport of Elements040. Alle studio's per buurt en per sport staan in [ClassPass in Eindhoven](/nl/classpass-eindhoven/).
+
+Twijfel je? Wil je één soort les vaak doen, dan is een sportschool met groepslessen meestal goedkoper. Wil je afwisseling, dan past ClassPass beter.
 
 ## Veelgestelde vragen
 
