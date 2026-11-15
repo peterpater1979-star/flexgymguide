@@ -300,6 +300,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 3 Clubs in Wien. Die Cl
 | **[clever fit](/at/clever-fit/)** | Je nach Studio, zum Beispiel 39,90 bis 49,90 € | Meist monatlich kündbar oder 6 bis 24 Monate | Mehrere Studios, u. a. Brigittenau |
 | **[JOHN REED](/at/john-reed/)** | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Clubs in Wien |
 | **[Mrs.Sporty](/at/mrs-sporty/)** | Je nach Club | Je nach Club | Rund 16 Clubs |
+| **[Kieser](/at/kieser-training/)** | Rund 90 € (12 Monate) oder 70 € (24 Monate), plus Einführung 150 € (je nach Studio) | 12 oder 24 Monate | 5 Studios |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

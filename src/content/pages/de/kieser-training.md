@@ -70,7 +70,7 @@ Kieser hat 113 Studios in Deutschland, in fast allen größeren Städten. In uns
 | [Dortmund](/de/dortmund/) | 1: Innenstadt (Hiltropwall) |
 | [Darmstadt](/de/darmstadt/) | 1: Gräfenhäuser Straße |
 
-Weitere Studios gibt es unter anderem in Bremen, Hannover, Nürnberg, Dresden, Essen, Bonn, Mannheim, Karlsruhe, Freiburg und Potsdam.
+Weitere Studios gibt es unter anderem in Bremen, Hannover, Nürnberg, Dresden, Essen, Bonn, Mannheim, Karlsruhe, Freiburg und Potsdam. In Österreich und der Schweiz lies [Kieser in Österreich](/at/kieser-training/) und [Kieser in der Schweiz](/ch/kieser-training/).
 
 <h2 id="kuendigen">Kündigen</h2>
 

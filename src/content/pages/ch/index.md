@@ -110,7 +110,7 @@ Eine Premium-Kette mit 5 Clubs in der Schweiz, mit Gym und Kursen. Den Preis erf
 
 </div>
 
-<h2 id="andere">Weiteres Fitnessstudio</h2>
+<h2 id="andere">Weitere Fitnessstudios</h2>
 
 <div class="kolommen vier">
 
@@ -137,13 +137,35 @@ Günstige Fitnesskette, früher basefit.swiss, meist rund um die Uhr offen. Mona
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Krafttraining</span></div>
+
+### Kieser
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. über 20 Studios, davon 5 in Zürich. Empfehlung CHF 1050 pro Jahr, Laufzeit 12 oder 24 Monate.
+
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du nur Kraft trainieren willst</li>
+<li>Mit Trainingsplan und Betreuung</li>
+<li>Preis je nach Studio</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/ch/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
 <div class="kolom breed" id="steden">
 
 ### In welchen Städten?
 
 ClassPass hat Partnerstudios in den grösseren Schweizer Städten, unter anderem in [Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/), Genf, Basel und Lausanne. In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 
-Activ Fitness hat über 120 Studios in fast allen Kantonen, davon 16 in Zürich.
+Activ Fitness hat über 120 Studios in fast allen Kantonen, davon 16 in Zürich. Kieser hat über 20 Studios, davon 5 in Zürich.
 
 Trainierst du in Zürich? Lies [Fitnessstudio ohne Vertrag in Zürich](/ch/fitnessstudio-ohne-vertrag-zuerich/).
 
@@ -214,6 +236,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 - **[PureGym kündigen](/ch/puregym-kuendigen/)** · Frist und so geht's
 - **[Activ Fitness kündigen](/ch/activ-fitness-kuendigen/)** · Fristen und Alternativen
 - **[myClubs kündigen](/ch/myclubs-kuendigen/)** · Fristen und Alternativen
+- **[Kieser kündigen](/ch/kieser-training-kuendigen/)** · Frist und so geht's
 
 ## Häufige Fragen
 
