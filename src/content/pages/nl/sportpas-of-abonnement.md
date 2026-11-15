@@ -26,10 +26,11 @@ Je kunt op twee manieren flexibel sporten: met een sportpas die bij veel studio'
 | **Aanbod** | Gyms, yoga, pilates, boksen, zwemmen, klimmen en meer | Yoga, pilates, boksen, spinning, kracht, gyms en meer | Fitness en kracht, live lessen in een deel van de clubs | Gym en alle live groepslessen |
 | **Locaties** | Meer dan 17.200 partnerlocaties | Studio's in meer dan 2.500 steden | Ongeveer 250 clubs in Nederland | 121 clubs in Nederland |
 | **Landen** | 6 <details class="cel"><summary>Welke landen?</summary>België, Duitsland, Frankrijk, Nederland, Portugal en Spanje.</details> | 31 <details class="cel"><summary>Welke landen?</summary><strong>Europa:</strong> België, Denemarken, Duitsland, Finland, Frankrijk, Ierland, Nederland, Noorwegen, Oostenrijk, Portugal, Spanje, Verenigd Koninkrijk, Zweden, Zwitserland<br><strong>Noord-Amerika:</strong> Canada, Verenigde Staten<br><strong>Zuid-Amerika:</strong> Brazilië, Chili<br><strong>Midden-Oosten:</strong> Koeweit, Qatar, Verenigde Arabische Emiraten<br><strong>Azië:</strong> Filipijnen, Hongkong, India, Indonesië, Japan, Maleisië, Singapore, Thailand<br><strong>Oceanië:</strong> Australië, Nieuw-Zeeland</details> | 6 <details class="cel"><summary>Welke landen?</summary>België, Duitsland, Frankrijk, Luxemburg, Nederland en Spanje. Met Premium of Ultimate train je in alle clubs.</details> | Alleen Nederland |
+| **Proberen** | <a href="/nl/urban-sports-club/">Maandabonnement, per maand opzegbaar →</a> | <a href="/nl/classpass/">Gratis proefperiode →</a> | <a href="/nl/basic-fit/">Dagpas € 11,99 →</a> | <a href="/nl/sportcity/">Dagpas via de club →</a> |
 
 **Andere sportschoolketens:** [Trainmore](/nl/trainmore/) · [BigGym](/nl/big-gym/) · [Anytime Fitness](/nl/anytime-fitness/) · [Go! Health Clubs](/nl/go-health-clubs/). Meer over elke keten lees je [hieronder](#abonnement).
 
-<p class="klein">Bronnen: de sites van de aanbieders (november 2026). Voorwaarden veranderen regelmatig; controleer de actuele informatie altijd bij de aanbieder.</p>
+<p class="klein">Bron: de sites van de aanbieders, november 2026.</p>
 
 <h2 id="sportpas">Zo werkt een sportpas</h2>
 
