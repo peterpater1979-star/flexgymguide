@@ -5,7 +5,7 @@ path: "/at/fitnessstudio-ohne-vertrag-wien/"
 description: "Trainieren in Wien ohne Jahresvertrag: ClassPass, Fitness First und Einzelstunden. Was es kostet, wie du kündigst und worauf du achten solltest."
 lang: de
 land: at
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Fitnessstudio ohne Vertrag in Wien"
 kicker: "Stadtguide Wien"
 ---

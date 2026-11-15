@@ -5,7 +5,7 @@ path: "/dk/classpass-credits/"
 description: "Hvorfor et hold koster flere credits end et andet, hvad der sker med ubrugte credits, og syv tips til at få flere hold ud af dit ClassPass-abonnement."
 lang: da
 land: dk
-byline: "Opdateret oktober 2026"
+byline: "Opdateret november 2026"
 crumb: "ClassPass-credits"
 kicker: "Guide"
 ---

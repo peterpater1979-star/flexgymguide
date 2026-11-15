@@ -4,7 +4,7 @@ path: "/de/sport-im-studium/"
 description: "Welche Sportmöglichkeiten du im Studium hast, was zu welchem Stundenplan passt und wie du günstig und flexibel trainierst, auch ohne Studentenrabatt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Sport im Studium"
 kicker: "Ratgeber"
 ---

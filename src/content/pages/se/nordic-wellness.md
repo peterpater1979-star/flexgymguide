@@ -4,7 +4,7 @@ path: "/se/nordic-wellness/"
 description: "Allt om Nordic Wellness: över 400 klubbar i Sverige, gym och gruppträning, och vad ett medlemskap kostar."
 lang: sv
 land: se
-byline: "Uppdaterad oktober 2026"
+byline: "Uppdaterad november 2026"
 crumb: "Nordic Wellness"
 kicker: "Gymkedja"
 ---

@@ -5,7 +5,7 @@ path: "/guides/eating-and-drinking-around-your-workout/"
 description: "What should you drink and eat before and after a class or gym visit? Water, a small snack and protein powder if you like: practical tips without big promises."
 lang: en
 land: guides
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Eating and drinking"
 kicker: "Guide"
 ---

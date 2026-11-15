@@ -5,7 +5,7 @@ path: "/se/stockholm/"
 description: "Vill du inte vara bunden till ett enda gym? I Stockholm använder du ett träningspass hos studior i hela staden, eller väljer ett gym."
 lang: sv
 land: se
-byline: "Uppdaterad oktober 2026"
+byline: "Uppdaterad november 2026"
 crumb: "Stockholm"
 kicker: "Stadsguide Stockholm"
 ---

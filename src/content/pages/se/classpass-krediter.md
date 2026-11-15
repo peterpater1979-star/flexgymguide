@@ -5,7 +5,7 @@ path: "/se/classpass-krediter/"
 description: "Varför en klass kostar fler krediter än en annan, vad som händer med oanvända krediter och sju tips för att få ut fler klasser av ditt ClassPass-abonnemang."
 lang: sv
 land: se
-byline: "Uppdaterad oktober 2026"
+byline: "Uppdaterad november 2026"
 crumb: "ClassPass-krediter"
 kicker: "Guide"
 ---

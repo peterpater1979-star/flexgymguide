@@ -4,7 +4,7 @@ path: "/pt/ginasio-sem-fidelizacao-lisboa/"
 description: "Treinar em Lisboa sem fidelização de um ano: ClassPass, ginásios sem fidelização e aulas avulsas. Preços, cancelamento e o que ter em atenção."
 lang: pt
 land: pt
-byline: "Atualizado em outubro de 2026"
+byline: "Atualizado em novembro de 2026"
 crumb: "Ginásio sem fidelização em Lisboa"
 kicker: "Guia Lisboa"
 ---

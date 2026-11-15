@@ -5,7 +5,7 @@ path: "/nl/eindhoven/"
 description: "Sporten in Eindhoven zonder jaarcontract: groepslessen bij SportCity en Trainmore, of met ClassPass wisselen tussen studio's voor pilates, yoga en boksen."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Eindhoven"
 kicker: "Stadsgids Eindhoven"
 zoekwoorden: "groepslessen Eindhoven, groepsles"

@@ -5,7 +5,7 @@ path: "/dk/koebenhavn/"
 description: "Vil du ikke være bundet til ét fitnesscenter? I København bruger du et træningspas i studier i hele byen, eller du vælger et fitnesscenter."
 lang: da
 land: dk
-byline: "Opdateret oktober 2026"
+byline: "Opdateret november 2026"
 crumb: "København"
 kicker: "Byguide København"
 ---

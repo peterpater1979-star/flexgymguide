@@ -5,7 +5,7 @@ path: "/se/ditt-forsta-pass/"
 description: "Första gången på en ny studio eller ett nytt gym? Vad du tar med till yoga, boxning, spinning och styrketräning, och hur ditt första besök blir enkelt."
 lang: sv
 land: se
-byline: "Uppdaterad oktober 2026"
+byline: "Uppdaterad november 2026"
 crumb: "Ditt första pass"
 kicker: "Guide"
 ---

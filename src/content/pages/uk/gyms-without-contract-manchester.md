@@ -5,7 +5,7 @@ path: "/uk/gyms-without-contract-manchester/"
 description: "Work out in Manchester without a long gym contract: ClassPass, The Gym Group and drop-in classes. Prices, cancelling and what to watch for."
 lang: en
 land: uk
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in Manchester"
 kicker: "City guide Manchester"
 ---

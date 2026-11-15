@@ -5,7 +5,7 @@ path: "/fi/espoo/"
 description: "Etkö halua sitoutua yhteen saliin? Espoossa voit käyttää treenipassia studioilla ympäri kaupunkia tai valita kuntosalin. Näin löydät sopivan."
 lang: fi
 land: fi
-byline: "Päivitetty lokakuussa 2026"
+byline: "Päivitetty marraskuussa 2026"
 crumb: "Espoo"
 kicker: "Kaupunkiopas Espoo"
 ---

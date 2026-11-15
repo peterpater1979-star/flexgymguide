@@ -5,7 +5,7 @@ path: "/pt/vivagym/"
 description: "Tudo sobre o VivaGym em Portugal, o antigo Fitness Hut: mais de 40 ginásios, planos ONE, FLEX e PRIME sem fidelização, entrada avulso e cancelamento."
 lang: pt
 land: pt
-byline: "Atualizado em outubro de 2026"
+byline: "Atualizado em novembro de 2026"
 crumb: "VivaGym"
 kicker: "Fornecedor: ginásio"
 ---

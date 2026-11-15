@@ -5,7 +5,7 @@ path: "/fi/ensimmainen-tunti/"
 description: "Ensimmäistä kertaa uudessa studiossa tai kuntosalilla? Mitä otat mukaan joogaan, nyrkkeilyyn, spinningiin ja voimaharjoitteluun."
 lang: fi
 land: fi
-byline: "Päivitetty lokakuussa 2026"
+byline: "Päivitetty marraskuussa 2026"
 crumb: "Ensimmäinen tuntisi"
 kicker: "Opas"
 ---

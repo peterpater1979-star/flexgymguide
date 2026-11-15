@@ -5,7 +5,7 @@ path: "/pt/primeira-aula/"
 description: "Vais pela primeira vez a um estúdio ou ginásio novo? O que levar para ioga, boxe, spinning e musculação, e como tornar a tua primeira visita fácil."
 lang: pt
 land: pt
-byline: "Atualizado em outubro de 2026"
+byline: "Atualizado em novembro de 2026"
 crumb: "A tua primeira aula"
 kicker: "Guia"
 ---

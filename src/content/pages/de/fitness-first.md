@@ -5,7 +5,7 @@ path: "/de/fitness-first/"
 description: "Fitness First Preise in Deutschland: was RED und BLACK pro Woche kosten, Laufzeit 24, 12 oder 1 Monat, Studentenrabatt, Kündigung und kostenloses Probetraining."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Fitness First"
 kicker: "Anbieter: Fitnessstudiokette"
 zoekwoorden: "FIT ONE, Smile X"

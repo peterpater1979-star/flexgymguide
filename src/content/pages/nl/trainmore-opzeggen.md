@@ -5,7 +5,7 @@ path: "/nl/trainmore-opzeggen/"
 description: "Zo zeg je Trainmore op via de app of het online contactformulier. Met de opzegtermijn van 1 maand, bevriezen en flexibele alternatieven."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Trainmore opzeggen"
 kicker: "Gids"
 ---

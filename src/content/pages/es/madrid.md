@@ -5,7 +5,7 @@ path: "/es/madrid/"
 description: "¿No quieres atarte a un solo gimnasio? En Madrid puedes usar ClassPass en estudios de toda la ciudad, o un gimnasio con o sin permanencia."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Madrid"
 kicker: "Guía de ciudad Madrid"
 ---

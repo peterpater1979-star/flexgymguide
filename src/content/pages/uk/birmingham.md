@@ -5,7 +5,7 @@ path: "/uk/birmingham/"
 description: "Not keen on being tied to one gym? In Birmingham, use a fitness pass at studios across the city or join a low-cost gym without a contract."
 lang: en
 land: uk
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Birmingham"
 kicker: "City guide Birmingham"
 ---

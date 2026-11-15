@@ -4,7 +4,7 @@ path: "/uk/puregym/"
 description: "Everything about PureGym in the UK: over 450 gyms, no-contract plans you can cancel anytime, Off-Peak, Core and Plus, joining fee and classes."
 lang: en
 land: uk
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "PureGym"
 kicker: "Provider: gym chain"
 ---

@@ -5,7 +5,7 @@ zoekwoorden: "class pass classpass prix tarif tarifs coût combien abonnement pa
 description: "Qu’est-ce que ClassPass, comment fonctionnent les crédits et comment résilier ? Tout sur le pass sport en France."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "ClassPass"
 kicker: "Pass sport"
 ---

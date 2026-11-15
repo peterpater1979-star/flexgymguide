@@ -4,7 +4,7 @@ path: "/es/gimnasio-sin-permanencia-madrid/"
 description: "Entrenar en Madrid sin permanencia de un año: ClassPass, Basic-Fit Flex y clases sueltas. Precios, cómo darse de baja y en qué fijarse."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Gimnasio sin permanencia en Madrid"
 kicker: "Guía Madrid"
 ---

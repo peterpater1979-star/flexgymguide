@@ -2,10 +2,10 @@
 title: "Pass sport ou abonnement en salle ? Ce qui correspond à ta façon de t’entraîner"
 seoTitle: "Pass sport ou abonnement en salle ? Comment choisir"
 path: "/fr/pass-sport-ou-abonnement/"
-description: "Un pass sport comme ClassPass ou un abonnement dans une chaîne de salles ? Comment ça marche, pour qui c’est fait et trois questions pour t’aider à choisir."
+description: "Un pass sport comme ClassPass ou Urban Sports Club, ou un abonnement chez Basic-Fit ou Fitness Park ? Comparatif, pour qui c’est fait et trois questions pour choisir."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Pass sport ou abonnement ?"
 kicker: "Guide"
 ---
@@ -16,16 +16,21 @@ Il y a deux façons de faire du sport sans être lié à un seul petit studio : 
 
 <h2 id="resume">En résumé</h2>
 
-| | Pass sport | Abonnement en salle |
-| --- | --- | --- |
-| **Exemple** | [ClassPass](/fr/classpass/) | Une chaîne de salles de sport |
-| **Fonctionnement** | Des crédits chaque mois pour des cours et des séances dans de nombreux studios | Accès illimité aux salles d’une chaîne |
-| **Variété** | Yoga, Pilates, boxe, spinning, musculation et plus, dans différents lieux | Les cours et les machines de cette chaîne |
-| **Idéal si tu t’entraînes** | Une à trois fois par semaine | Trois fois par semaine ou plus |
-| **À l’étranger** | <span class="ja" aria-hidden="true">✓</span> Valable dans 31 pays | En général dans un seul pays |
-| **Essayer d’abord** | Période d’essai gratuite | Séance d’essai dans de nombreuses salles |
+| | [ClassPass](/fr/classpass/) | [Urban Sports Club](/fr/urban-sports-club/) | [Basic-Fit](/fr/basic-fit/) | [Fitness Park](/fr/fitness-park/) |
+| --- | --- | --- | --- | --- |
+| **Type** | Pass sport | Pass sport | Salle de sport à petit prix | Salle de sport avec cours collectifs |
+| **Fonctionnement** | Des crédits chaque mois ; chaque cours ou séance coûte des crédits | Un prix fixe par mois et un nombre de check-ins | Accès illimité ; avec Premium ou Ultimate dans tous les clubs | Accès illimité, avec cours collectifs |
+| **Formules** | Plus ou moins de crédits par mois | Essential, Classic, Premium ou Max : plus la formule est haute, plus tu as de check-ins et de lieux | Comfort, Premium ou Ultimate | Classic, Access+ ou Ultimate |
+| **Durée** | Au mois | Au mois | Flex (toutes les 4 semaines) ou 1 an | Sans engagement ou avec engagement |
+| **Résiliation** | À tout moment, avant le renouvellement | 3 jours avant le renouvellement | En Flex : préavis de 4 semaines | Sans engagement : 4 semaines avant le prélèvement |
+| **Activités** | Yoga, Pilates, boxe, spinning, musculation, salles et plus | Salles, yoga, Pilates, boxe et plus | Fitness et musculation | Fitness, musculation et cours collectifs |
+| **Lieux** | Studios dans plus de 2 500 villes | Plus de 17 200 lieux partenaires | Plus de 300 clubs en France | Plus de 300 clubs en France |
+| **Pays** | 31 <details class="cel"><summary>Quels pays ?</summary><strong>Europe:</strong> Allemagne, Autriche, Belgique, Danemark, Espagne, Finlande, France, Irlande, Norvège, Pays-Bas, Portugal, Royaume-Uni, Suède, Suisse<br><strong>Amérique du Nord:</strong> Canada, États-Unis<br><strong>Amérique du Sud:</strong> Brésil, Chili<br><strong>Moyen-Orient:</strong> Émirats arabes unis, Koweït, Qatar<br><strong>Asie:</strong> Hong Kong, Inde, Indonésie, Japon, Malaisie, Philippines, Singapour, Thaïlande<br><strong>Océanie:</strong> Australie, Nouvelle-Zélande</details> | 6 <details class="cel"><summary>Quels pays ?</summary>Allemagne, Belgique, Espagne, France, Pays-Bas et Portugal.</details> | 6 <details class="cel"><summary>Quels pays ?</summary>Allemagne, Belgique, Espagne, France, Luxembourg et Pays-Bas. Avec Premium ou Ultimate, tu t’entraînes dans tous les clubs.</details> | 2 <details class="cel"><summary>Quels pays ?</summary>France et Espagne.</details> |
+| **Essayer** | <a href="/go/classpass-fr/?epi=fgg-fr-pass-sport-ou-abonnement">14 jours gratuits avec 10 séances →</a> | <a href="https://urbansportsclub.com/fr/prices/paris?duration=monthly">Abonnement mensuel, préavis de 3 jours →</a> | <a href="https://www.basic-fit.com/fr-fr/prix">Flex sans engagement →</a> | <a href="https://www.fitnesspark.fr/">Formules sans engagement →</a> |
 
-<p class="klein">Les prix et conditions changent régulièrement. Vérifie toujours les informations actuelles auprès du prestataire.</p>
+**Autres chaînes de salles :** [Keepcool](/fr/keepcool/) · [L’Orange bleue](/fr/l-orange-bleue/) · [ON AIR](/fr/on-air/) · [L’Appart Fitness](/fr/l-appart-fitness/) · [Magic Form](/fr/magic-form/).
+
+<p class="klein">Source : les sites des prestataires, novembre 2026.</p>
 
 <h2 id="pass">Comment fonctionne un pass sport</h2>
 

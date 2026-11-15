@@ -4,7 +4,7 @@ path: "/fi/opiskelijaliikunta/"
 description: "Mitä liikuntavaihtoehtoja sinulla on opiskelijana, mikä sopii lukujärjestykseesi ja miten treenaat joustavasti ilman suuria kuluja."
 lang: fi
 land: fi
-byline: "Päivitetty lokakuussa 2026"
+byline: "Päivitetty marraskuussa 2026"
 crumb: "Liikunta opiskelijana"
 kicker: "Opas"
 ---

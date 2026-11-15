@@ -6,7 +6,7 @@ vertaling: "/es/gimnasio-sin-permanencia-barcelona/"
 description: "No-contract gyms in Barcelona: ClassPass, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: es
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in Barcelona"
 kicker: "City guide Barcelona"
 ---

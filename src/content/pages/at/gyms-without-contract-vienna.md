@@ -6,7 +6,7 @@ vertaling: "/at/fitnessstudio-ohne-vertrag-wien/"
 description: "No-contract gyms in Vienna: ClassPass, Fitness First and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: at
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in Vienna"
 kicker: "City guide Vienna"
 ---

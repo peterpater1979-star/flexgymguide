@@ -4,7 +4,7 @@ path: "/se/"
 description: "Vill du inte binda dig till ett enda gym? Med ClassPass använder du ett medlemskap på studior och gym i Stockholm, Göteborg och Malmö. Så fungerar det."
 lang: sv
 land: se
-byline: "Uppdaterad oktober 2026"
+byline: "Uppdaterad november 2026"
 crumb: "Sverige"
 kicker: "Landguide Sverige"
 ---

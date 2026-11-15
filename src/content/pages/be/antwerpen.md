@@ -5,7 +5,7 @@ path: "/be/antwerpen/"
 description: "Niet vastzitten aan één sportschool? In Antwerpen gebruik je een sportpas bij studio's in de hele stad, of kies je een sportschool met of zonder looptijd."
 lang: nl
 land: be
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Antwerpen"
 kicker: "Stadsgids Antwerpen"
 ---

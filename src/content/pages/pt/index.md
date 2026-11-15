@@ -4,7 +4,7 @@ path: "/pt/"
 description: "Desporto sem um contrato longo num só ginásio? Com o ClassPass, uma subscrição dá acesso a estúdios e ginásios em Lisboa e no Porto. Vê como funciona."
 lang: pt
 land: pt
-byline: "Atualizado em outubro de 2026"
+byline: "Atualizado em novembro de 2026"
 crumb: "Portugal"
 kicker: "Guia do país Portugal"
 ---

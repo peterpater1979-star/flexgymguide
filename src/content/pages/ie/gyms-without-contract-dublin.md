@@ -5,7 +5,7 @@ path: "/ie/gyms-without-contract-dublin/"
 description: "Work out in Dublin without a long gym contract: ClassPass, contract-free gyms and drop-in classes. Prices, cancelling and what to watch for."
 lang: en
 land: ie
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in Dublin"
 kicker: "City guide Dublin"
 ---

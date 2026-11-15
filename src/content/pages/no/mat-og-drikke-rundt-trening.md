@@ -4,7 +4,7 @@ path: "/no/mat-og-drikke-rundt-trening/"
 description: "Hva bør du drikke og spise før og etter trening? Vann, et lite mellommåltid og proteinpulver hvis du vil: praktiske tips uten store løfter."
 lang: nb
 land: no
-byline: "Oppdatert oktober 2026"
+byline: "Oppdatert november 2026"
 crumb: "Mat og drikke"
 kicker: "Guide"
 ---

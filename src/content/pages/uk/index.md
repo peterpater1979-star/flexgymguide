@@ -4,7 +4,7 @@ path: "/uk/"
 description: "Working out without a long gym contract comes down to two options: a fitness pass like ClassPass, or a gym chain with flexible terms. Here's what suits you."
 lang: en
 land: uk
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "United Kingdom"
 kicker: "Country guide United Kingdom"
 ---

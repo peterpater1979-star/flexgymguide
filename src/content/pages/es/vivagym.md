@@ -5,7 +5,7 @@ path: "/es/vivagym/"
 description: "Precios de VivaGym: ONE 32,90 €, FLEX 35,90 € y PRIME 37,90 € al mes sin permanencia, matrícula, pase de un día, descuento para menores de 26 y la baja."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "VivaGym"
 kicker: "Proveedor: gimnasio"
 ---

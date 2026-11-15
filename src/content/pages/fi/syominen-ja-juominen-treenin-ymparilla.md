@@ -5,7 +5,7 @@ path: "/fi/syominen-ja-juominen-treenin-ymparilla/"
 description: "Mitä juoda ja syödä ennen treeniä ja sen jälkeen? Vettä, pieni välipala ja halutessasi proteiinijauhetta: käytännön vinkkejä ilman lupauksia."
 lang: fi
 land: fi
-byline: "Päivitetty lokakuussa 2026"
+byline: "Päivitetty marraskuussa 2026"
 crumb: "Syöminen ja juominen"
 kicker: "Opas"
 ---

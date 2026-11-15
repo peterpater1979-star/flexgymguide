@@ -6,7 +6,7 @@ vertaling: "/es/gimnasio-sin-permanencia-madrid/"
 description: "No-contract gyms in Madrid: ClassPass, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: es
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in Madrid"
 kicker: "City guide Madrid"
 ---

@@ -2,10 +2,10 @@
 title: "Sportpass oder Fitnessstudio-Mitgliedschaft? Was zu deinem Training passt"
 seoTitle: "Sportpass oder Fitnessstudio-Mitgliedschaft?"
 path: "/de/sportpass-oder-mitgliedschaft/"
-description: "Ein Sportpass wie ClassPass oder eine Mitgliedschaft bei einer Fitnesskette? So funktioniert beides, für wen es passt und drei Fragen für deine Wahl."
+description: "Ein Sportpass wie Urban Sports Club oder ClassPass, oder eine Mitgliedschaft bei McFit oder FitX? Vergleich, für wen es passt und drei Fragen für deine Wahl."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Sportpass oder Mitgliedschaft?"
 kicker: "Ratgeber"
 ---
@@ -16,16 +16,21 @@ Du kannst auf zwei Arten flexibel trainieren: mit einem Sportpass, der in vielen
 
 <h2 id="kurz">Kurz gesagt</h2>
 
-| | Sportpass | Fitnessstudio-Mitgliedschaft |
-| --- | --- | --- |
-| **Beispiel** | [ClassPass](/de/classpass/) | [Fitness First](/de/fitness-first/) |
-| **So funktioniert es** | Monatliche Credits für Kurse und Gym-Besuche in vielen Studios | Unbegrenzt trainieren in den Clubs einer Kette |
-| **Abwechslung** | Yoga, Pilates, Boxen, Spinning, Kraft und mehr, an verschiedenen Orten | Die Kurse und Geräte dieser Kette |
-| **Passt, wenn du trainierst** | Ein- bis dreimal pro Woche | Dreimal pro Woche oder öfter |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Funktioniert in 31 Ländern | Meist nur im eigenen Land |
-| **Erst ausprobieren** | 1 Monat gratis mit 10 Workouts | Kostenloses Probetraining |
+| | [Urban Sports Club](/de/urban-sports-club/) | [ClassPass](/de/classpass/) | [McFit](/de/mcfit/) | [FitX](/de/fitx/) |
+| --- | --- | --- | --- | --- |
+| **Art** | Sportpass | Sportpass | Fitnesskette | Fitnesskette |
+| **So funktioniert es** | Fester Preis pro Monat und eine Anzahl Check-ins | Jeden Monat Credits; jeder Kurs oder Gym-Besuch kostet Credits | Unbegrenzt trainieren | Unbegrenzt trainieren |
+| **Mitgliedschaften** | Essential, Classic, Premium oder Max: je höher, desto mehr Check-ins und Standorte | Sechs Abos von 19 bis 199 € im Monat | Eine Mitgliedschaft, der Preis hängt von der Laufzeit ab | Eine Mitgliedschaft für 29 € im Monat |
+| **Laufzeit** | Monatlich | Monatlich | Flex (monatlich), 12 oder 24 Monate | 12 Monate, danach monatlich |
+| **Kündigung** | 3 Tage vor der Verlängerung | Jederzeit | Mit Flex monatlich | Nach 12 Monaten monatlich |
+| **Angebot** | Gyms, Yoga, Pilates, Boxen und mehr | Yoga, Pilates, Boxen, Spinning, Kraft, Gyms und mehr | Fitness und Kraft, Live-Kurse in teilnehmenden Studios | Fitness und Kraft, Live-Kurse mit Coaches |
+| **Standorte** | Über 17.200 Partnerstandorte | Studios in über 2.500 Städten | Über 230 Studios | Über 110 Studios in Deutschland |
+| **Länder** | 6 <details class="cel"><summary>Welche Länder?</summary>Belgien, Deutschland, Frankreich, Niederlande, Portugal und Spanien.</details> | 31 <details class="cel"><summary>Welche Länder?</summary><strong>Europa:</strong> Belgien, Dänemark, Deutschland, Finnland, Frankreich, Irland, Niederlande, Norwegen, Österreich, Portugal, Schweden, Schweiz, Spanien, Vereinigtes Königreich<br><strong>Nordamerika:</strong> Kanada, USA<br><strong>Südamerika:</strong> Brasilien, Chile<br><strong>Naher Osten:</strong> Katar, Kuwait, Vereinigte Arabische Emirate<br><strong>Asien:</strong> Hongkong, Indien, Indonesien, Japan, Malaysia, Philippinen, Singapur, Thailand<br><strong>Ozeanien:</strong> Australien, Neuseeland</details> | 3 <details class="cel"><summary>Welche Länder?</summary>Deutschland, Italien und Österreich.</details> | Nur Deutschland |
+| **Ausprobieren** | <a href="https://urbansportsclub.com/de/prices/berlin?duration=monthly">Monatlich kündbar →</a> | <a href="/go/classpass-de/?epi=fgg-de-sportpass-oder-mitgliedschaft">1 Monat gratis mit 10 Workouts →</a> | <a href="https://www.mcfit.com/de/mitgliedschaft">Flex: monatlich kündbar →</a> | <a href="https://www.fitx.de/probetraining">Einmal kostenloses Probetraining →</a> |
 
-<p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
+**Weitere Fitnessketten:** [Fitness First](/de/fitness-first/) · [clever fit](/de/clever-fit/) · [JOHN REED](/de/john-reed/) · [Basic-Fit](/de/basic-fit/) · [Kieser](/de/kieser-training/).
+
+<p class="klein">Quelle: die Websites der Anbieter, November 2026.</p>
 
 <h2 id="sportpass">So funktioniert ein Sportpass</h2>
 

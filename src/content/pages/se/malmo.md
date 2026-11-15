@@ -5,7 +5,7 @@ path: "/se/malmo/"
 description: "Vill du inte vara bunden till ett enda gym? I Malmö använder du ett träningspass hos studior i hela staden, eller väljer ett gym."
 lang: sv
 land: se
-byline: "Uppdaterad oktober 2026"
+byline: "Uppdaterad november 2026"
 crumb: "Malmö"
 kicker: "Stadsguide Malmö"
 ---

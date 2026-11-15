@@ -6,7 +6,7 @@ zoekwoorden: "class pass classpass Preis Preise Kosten kostet teuer günstig Abo
 description: "Was kostet ClassPass, wie funktionieren die Credits und wie kündigst du? Alles über den Sportpass in Deutschland, mit den Städten, in denen er gilt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "ClassPass"
 kicker: "Anbieter: Sportpass"
 ---

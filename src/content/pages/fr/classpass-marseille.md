@@ -4,7 +4,7 @@ path: "/fr/classpass-marseille/"
 description: "ClassPass à Marseille : les studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp et à la danse."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "ClassPass à Marseille"
 kicker: "Pass sport"
 ---

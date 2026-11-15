@@ -2,10 +2,10 @@
 title: "Sportpas of sportschoolabonnement? Wat past bij hoe jij traint"
 seoTitle: "Sportpas of sportschoolabonnement? Wat past bij jou"
 path: "/nl/sportpas-of-abonnement/"
-description: "Een sportpas zoals ClassPass of een abonnement bij een sportschoolketen? Hoe het werkt, voor wie het past en drie vragen die helpen kiezen."
+description: "Een sportpas zoals Urban Sports Club of ClassPass, of een abonnement bij een sportschoolketen? Hoe het werkt, voor wie het past en drie vragen die helpen kiezen."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Sportpas of abonnement?"
 kicker: "Gids"
 ---
@@ -16,27 +16,35 @@ Je kunt op twee manieren flexibel sporten: met een sportpas die bij veel studio'
 
 <h2 id="kort">In het kort</h2>
 
-| | Sportpas | Sportschoolabonnement |
-| --- | --- | --- |
-| **Voorbeeld** | [ClassPass](/nl/classpass/) | [Trainmore](/nl/trainmore/) |
-| **Zo werkt het** | Elke maand credits voor lessen en gymbezoeken bij veel studio's | Onbeperkt sporten in de clubs van één keten |
-| **Afwisseling** | Yoga, pilates, boksen, spinning, kracht en meer, op verschillende plekken | De lessen en apparaten van die keten |
-| **Past als je traint** | Eén tot drie keer per week | Drie keer per week of vaker |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> Werkt in 31 landen | Meestal alleen in Nederland |
-| **Eerst proberen** | Gratis proefperiode | Gratis proefles |
+| | [Urban Sports Club](/nl/urban-sports-club/) | [ClassPass](/nl/classpass/) | [Basic-Fit](/nl/basic-fit/) | [SportCity](/nl/sportcity/) |
+| --- | --- | --- | --- | --- |
+| **Soort** | Sportpas | Sportpas | Sportschoolketen | Sportschoolketen |
+| **Zo werkt het** | Vaste prijs per maand en een aantal check-ins | Elke maand credits; elke les of elk gymbezoek kost credits | Onbeperkt sporten; met Premium of Ultimate in alle clubs | Onbeperkt sporten; met City Plus in alle clubs |
+| **Abonnementen** | Essential, Classic, Premium of Max: hoe hoger, hoe meer check-ins en locaties | Kleiner of groter pakket credits per maand | Comfort, Premium of Ultimate | City One (één club) of City Plus (alle clubs) |
+| **Looptijd** | Per maand | Per maand | Flex (per 4 weken) of 1 jaar | Flex (per maand), 3 maanden, 1 jaar of 2 jaar |
+| **Opzeggen** | Per maand, 3 dagen voor de verlenging | Op elk moment | Met Flex: 4 weken opzegtermijn | Met Flex: per maand |
+| **Aanbod** | Gyms, yoga, pilates, boksen, zwemmen, klimmen en meer | Yoga, pilates, boksen, spinning, kracht, gyms en meer | Fitness en kracht, live lessen in een deel van de clubs | Gym en alle live groepslessen |
+| **Locaties** | Meer dan 17.200 partnerlocaties | Studio's in meer dan 2.500 steden | Ongeveer 250 clubs in Nederland | 121 clubs in Nederland |
+| **Landen** | 6 <details class="cel"><summary>Welke landen?</summary>België, Duitsland, Frankrijk, Nederland, Portugal en Spanje.</details> | 31 <details class="cel"><summary>Welke landen?</summary><strong>Europa:</strong> België, Denemarken, Duitsland, Finland, Frankrijk, Ierland, Nederland, Noorwegen, Oostenrijk, Portugal, Spanje, Verenigd Koninkrijk, Zweden, Zwitserland<br><strong>Noord-Amerika:</strong> Canada, Verenigde Staten<br><strong>Zuid-Amerika:</strong> Brazilië, Chili<br><strong>Midden-Oosten:</strong> Koeweit, Qatar, Verenigde Arabische Emiraten<br><strong>Azië:</strong> Filipijnen, Hongkong, India, Indonesië, Japan, Maleisië, Singapore, Thailand<br><strong>Oceanië:</strong> Australië, Nieuw-Zeeland</details> | 6 <details class="cel"><summary>Welke landen?</summary>België, Duitsland, Frankrijk, Luxemburg, Nederland en Spanje. Met Premium of Ultimate train je in alle clubs.</details> | Alleen Nederland |
+| **Proberen** | <a href="https://urbansportsclub.com/nl/prices/amsterdam?duration=monthly">Maandabonnement, per maand opzegbaar →</a> | <a href="/go/classpass-nl/?epi=fgg-nl-sportpas-of-abonnement">Gratis proefperiode →</a> | <a href="https://www.basic-fit.com/nl-nl/prijs">Dagpas € 11,99 →</a> | <a href="https://www.sportcity.nl/lidmaatschap">Dagpas via de club →</a> |
 
-<p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele informatie altijd bij de aanbieder.</p>
+**Andere sportschoolketens:** [Trainmore](/nl/trainmore/) · [BigGym](/nl/big-gym/) · [Anytime Fitness](/nl/anytime-fitness/) · [Go! Health Clubs](/nl/go-health-clubs/). Meer over elke keten lees je [hieronder](#abonnement).
+
+<p class="klein">Bron: de sites van de aanbieders, november 2026.</p>
 
 <h2 id="sportpas">Zo werkt een sportpas</h2>
 
-Met een sportpas betaal je per maand en krijg je credits. Daarmee boek je lessen en gymbezoeken bij studio's die meedoen. De ene week ga je naar yoga, de volgende naar een boksles aan de andere kant van de stad.
+Met een sportpas betaal je per maand. Bij Urban Sports Club krijg je een aantal check-ins, bij ClassPass credits. Daarmee boek je lessen en gymbezoeken bij studio's die meedoen. De ene week ga je naar yoga, de volgende naar een boksles aan de andere kant van de stad.
 
 - Fijn als je van afwisseling houdt of nog niet weet wat je leuk vindt
 - Fijn als je één tot drie keer per week traint
 - Fijn als je vaak reist of tussen twee steden woont
-- Populaire lessen op drukke tijden kosten meer credits
+- Bij ClassPass kosten populaire lessen op drukke tijden meer credits
 
-[Alles over ClassPass](/nl/classpass/)
+<h3>Sportpassen in Nederland</h3>
+
+- **[Urban Sports Club](/nl/urban-sports-club/)**: vaste prijs per maand en een aantal check-ins bij gyms, studio's en zwembaden. Per maand opzegbaar.
+- **[ClassPass](/nl/classpass/)**: elke maand credits voor lessen en gyms. Je kunt eerst gratis proberen.
 
 <h2 id="abonnement">Zo werkt een sportschoolabonnement</h2>
 
@@ -47,7 +55,16 @@ Met een abonnement bij een sportschoolketen betaal je een vast bedrag per maand 
 - Vaak goedkoper per bezoek als je vaak gaat
 - Let op de looptijd en opzegtermijn voordat je tekent
 
-[Alles over Trainmore](/nl/trainmore/)
+<h3>Sportschoolketens in Nederland</h3>
+
+- **[Basic-Fit](/nl/basic-fit/)**: voordelige keten met clubs in heel Nederland, veel clubs dag en nacht open.
+- **[SportCity](/nl/sportcity/)**: gym en live groepslessen; met Flex zeg je elke maand op.
+- **[Trainmore](/nl/trainmore/)**: 56 clubs met groepslessen en extra's zoals sauna.
+- **[BigGym](/nl/big-gym/)**: grote gyms met veel kracht- en cardioapparaten.
+- **[Anytime Fitness](/nl/anytime-fitness/)**: kleine sportscholen, 24 uur per dag open, ook in het buitenland.
+- **[Go! Health Clubs](/nl/go-health-clubs/)**: circuittraining van 30 minuten op apparaten die zichzelf instellen.
+
+Wil je niet lang vastzitten? Lees [Sporten zonder contract](/nl/sporten-zonder-contract/).
 
 <h2 id="kiezen">Drie vragen die helpen bij je keuze</h2>
 
@@ -99,14 +116,14 @@ Dat hangt af van hoe vaak je gaat. Train je één of twee keer per week, dan is 
 <details>
 <summary>Kan ik eerst allebei proberen?</summary>
 
-Ja. ClassPass heeft een gratis proefperiode en bij Trainmore plan je een gratis proefles. Een week allebei proberen zegt meer dan een prijslijst.
+Ja. ClassPass heeft een gratis proefperiode, en bij veel sportscholen, zoals Trainmore, plan je een gratis proefles. Een week allebei proberen zegt meer dan een prijslijst.
 
 </details>
 
 <details>
 <summary>Kan ik altijd opzeggen?</summary>
 
-Een ClassPass-abonnement wijzig of stop je vóór de volgende verlengdatum. Een sportschoolabonnement heeft vaak een minimale looptijd en een opzegtermijn, dus kijk daar goed naar voordat je tekent.
+Urban Sports Club zeg je per maand op, 3 dagen voor de verlenging. Een ClassPass-abonnement wijzig of stop je vóór de volgende verlengdatum. Een sportschoolabonnement heeft vaak een minimale looptijd en een opzegtermijn, dus kijk daar goed naar voordat je tekent.
 
 </details>
 

@@ -4,7 +4,7 @@ path: "/nl/sporten-als-student/"
 description: "Welke sportopties je als student hebt, wat bij welk rooster past, waarom ClassPass geen studentenkorting heeft en hoe je toch voordelig flexibel sport."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Sporten als student"
 kicker: "Gids"
 ---

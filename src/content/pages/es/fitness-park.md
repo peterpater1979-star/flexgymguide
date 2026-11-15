@@ -5,7 +5,7 @@ path: "/es/fitness-park/"
 description: "¿Cuánto cuesta Fitness Park al mes? Classic 37 € y Ultimate 57 € cada 4 semanas sin permanencia, desde 27 € con permanencia. Matrícula, clubes y la baja."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Fitness Park"
 kicker: "Proveedor: gimnasio"
 ---

@@ -5,7 +5,7 @@ path: "/uk/gyms-without-contract-london/"
 description: "Work out in London without a long gym contract: ClassPass, The Gym Group, Fitness First and drop-in classes. Prices, cancelling and what to watch for."
 lang: en
 land: uk
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in London"
 kicker: "City guide London"
 ---

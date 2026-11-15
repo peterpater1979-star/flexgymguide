@@ -127,24 +127,25 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
 | **[Rostudios](/de/rostudios/)** | Boutique-Studio (Indoor-Cycling und Reformer) | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs | 14 Studios: Berlin (5), Köln, Hamburg, Düsseldorf, München (je 2), Frankfurt |
+| **[Kieser](/de/kieser-training/)** | Krafttraining an Maschinen, betreut | 89 € (12 Monate) oder 69 € (24 Monate), plus Einführung ab 199 € | 12 oder 24 Monate | 113 Studios in Deutschland |
 
-<p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS, Mrs.Sporty und Rostudios. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS, Mrs.Sporty, Rostudios und Kieser. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="steden">
 
 ## Städte
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · Rostudios</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Basic-Fit · clever fit · Rostudios</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios</span></li>
-<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Fitness First · clever fit</span></li>
-<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Basic-Fit · JOHN REED · clever fit</span></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · FitX · JOHN REED · Rostudios</span></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · FitX · JOHN REED · clever fit</span></li>
-<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · FitX · Basic-Fit · JOHN REED</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios · Kieser</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · Rostudios · Kieser</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Basic-Fit · clever fit · Rostudios · Kieser</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios · Kieser</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios · Kieser</span></li>
+<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Fitness First · clever fit · Kieser</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Basic-Fit · JOHN REED · clever fit · Kieser</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · Holmes Place · FitX · JOHN REED · Rostudios · Kieser</span></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · FitX · JOHN REED · clever fit · Kieser</span></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Fitness First · Urban Sports Club · McFit · FitX · Basic-Fit · JOHN REED · Kieser</span></li>
 </ul>
 
 </div>
@@ -281,6 +282,24 @@ Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, 
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+### Kieser
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. 113 Studios in Deutschland. 89 € im Monat mit 12 Monaten, 69 € mit 24 Monaten.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
 </div>
 
 ## So funktioniert ClassPass in Deutschland
@@ -355,6 +374,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 - **[JOHN REED kündigen](/de/john-reed-kuendigen/)** · Fristen und Alternativen
 - **[Holmes Place kündigen](/de/holmes-place-kuendigen/)** · Fristen und Alternativen
 - **[Mrs.Sporty kündigen](/de/mrs-sporty-kuendigen/)** · Fristen und Alternativen
+- **[Kieser kündigen](/de/kieser-training-kuendigen/)** · Fristen und Alternativen
 - **[Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/)** · monatlich kündbare Optionen
 - **[Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/)** · was gilt und was du tun kannst
 

@@ -4,7 +4,7 @@ path: "/fr/"
 description: "Faire du sport sans contrat long dans une seule salle ? Avec un pass sport comme ClassPass ou Urban Sports Club, un abonnement donne accès à des studios et salles. Voici comment ça marche."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "France"
 kicker: "Guide pays France"
 ---

@@ -4,7 +4,7 @@ path: "/fi/"
 description: "Etkö halua sitoutua yhteen kuntosaliin? ClassPassilla käytät yhtä jäsenyyttä studioissa ja kuntosaleilla Helsingissä, Espoossa ja Turussa. Näin se toimii."
 lang: fi
 land: fi
-byline: "Päivitetty lokakuussa 2026"
+byline: "Päivitetty marraskuussa 2026"
 crumb: "Suomi"
 kicker: "Maaopas Suomi"
 ---

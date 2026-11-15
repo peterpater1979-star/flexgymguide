@@ -5,7 +5,7 @@ path: "/fr/basic-fit/"
 description: "Prix Basic-Fit : Comfort dès 24,99 €, Premium et Ultimate, toutes les 4 semaines avec engagement d’un an, ou Flex sans engagement dès 34,98 €. Frais et résiliation."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Basic-Fit"
 kicker: "Fournisseur : salle à petit prix"
 ---

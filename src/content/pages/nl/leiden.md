@@ -5,7 +5,7 @@ path: "/nl/leiden/"
 description: "Sporten in Leiden zonder jaarcontract: wissel met ClassPass tussen gyms en studio's, of kies Trainmore met een gratis proefles."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Leiden"
 kicker: "Stadsgids Leiden"
 ---

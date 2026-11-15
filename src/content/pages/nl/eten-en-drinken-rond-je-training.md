@@ -4,7 +4,7 @@ path: "/nl/eten-en-drinken-rond-je-training/"
 description: "Wat neem je mee aan drinken en eten voor een les of sportschoolbezoek? Water, een kleine snack en eventueel eiwitpoeder: praktische tips zonder dure beloftes."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "Eten en drinken rond je training"
 kicker: "Gids"
 ---

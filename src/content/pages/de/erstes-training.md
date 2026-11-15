@@ -5,7 +5,7 @@ path: "/de/erstes-training/"
 description: "Zum ersten Mal in ein neues Studio oder Fitnessstudio? Was du für Yoga, Boxen, Spinning und Krafttraining mitnimmst und wie der erste Besuch abläuft."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Dein erstes Training"
 kicker: "Ratgeber"
 ---

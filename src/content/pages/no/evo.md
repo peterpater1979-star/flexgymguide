@@ -5,7 +5,7 @@ path: "/no/evo/"
 description: "Alt om EVO Fitness i Norge: treningssentre over hele landet, medlemskap uten binding, hva det koster og åpningstider."
 lang: nb
 land: no
-byline: "Oppdatert oktober 2026"
+byline: "Oppdatert november 2026"
 crumb: "EVO"
 kicker: "Treningskjede"
 ---

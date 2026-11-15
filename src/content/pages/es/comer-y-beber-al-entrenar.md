@@ -5,7 +5,7 @@ path: "/es/comer-y-beber-al-entrenar/"
 description: "¿Qué bebes y comes antes y después de entrenar? Agua, un pequeño tentempié y, si quieres, proteína en polvo: consejos prácticos sin grandes promesas."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "Comer y beber"
 kicker: "Guía"
 ---

@@ -5,7 +5,7 @@ path: "/de/holmes-place/"
 description: "Alles über Holmes Place: Premium-Fitnessclubs in Deutschland, Wien und der Schweiz. Wo die Clubs sind, wie du den Preis erfährst und für wen sich das lohnt."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Holmes Place"
 kicker: "Anbieter: Premium-Club"
 ---

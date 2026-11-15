@@ -6,7 +6,7 @@ vertaling: "/fr/salle-de-sport-sans-engagement-paris/"
 description: "No-contract gyms in Paris: ClassPass, WellNess Sport Club, RITM, Basic-Fit Flex and pay-as-you-go classes. Prices, cancelling and what to watch for."
 lang: en
 land: fr
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gyms without a contract in Paris"
 kicker: "City guide Paris"
 ---

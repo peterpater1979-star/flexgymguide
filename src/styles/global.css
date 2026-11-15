@@ -112,6 +112,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 /* Foto's voor de fotokoppen: hier wisselen, dan verandert het op alle pagina's */
 .foto-classpass { --foto: url(/img/foto/classpass.jpg); }
 .foto-gymketen { --foto: url(/img/foto/gymketen.jpg); }
+.foto-kieser { --foto: url(/img/foto/kieser.jpg); }
 .foto-puregym { --foto: url(/img/foto/puregym.jpg); }
 .foto-basic-fit { --foto: url(/img/foto/basic-fit.jpg); }
 .foto-sats { --foto: url(/img/foto/sats.jpg); }

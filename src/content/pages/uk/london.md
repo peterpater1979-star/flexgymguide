@@ -5,7 +5,7 @@ path: "/uk/london/"
 description: "Not keen on being tied to one gym? In London you can use a fitness pass at studios across the city, or join a gym chain with multi-club access."
 lang: en
 land: uk
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "London"
 kicker: "City guide London"
 ---

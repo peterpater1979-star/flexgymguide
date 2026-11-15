@@ -5,7 +5,7 @@ path: "/pt/comer-e-beber-no-treino/"
 description: "O que bebes e comes antes e depois do treino? Água, um pequeno lanche e, se quiseres, proteína em pó: dicas práticas sem grandes promessas."
 lang: pt
 land: pt
-byline: "Atualizado em outubro de 2026"
+byline: "Atualizado em novembro de 2026"
 crumb: "Comer e beber"
 kicker: "Guia"
 ---

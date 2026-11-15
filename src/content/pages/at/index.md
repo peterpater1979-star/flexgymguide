@@ -4,7 +4,7 @@ path: "/at/"
 description: "Flexibel trainieren in Wien: mit ClassPass in Studios in der ganzen Stadt oder bei Fitness First mit 3 Clubs in Wien und 1 in Vösendorf. So findest du, was zu dir passt."
 lang: de
 land: at
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Österreich"
 kicker: "Länderguide Österreich"
 ---
@@ -125,15 +125,16 @@ Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den Preis erfährst 
 | **[JOHN REED](/at/john-reed/)** | Fitnessclub | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Wien, Linz, Salzburg |
 | **[Mrs.Sporty](/at/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Rund 50 Clubs, viele in Wien |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 3 Clubs in Wien |
+| **[Kieser](/at/kieser-training/)** | Krafttraining an Maschinen, betreut | Rund 90 € (12 Monate) oder 70 € (24 Monate), plus Einführung 150 € | 12 oder 24 Monate | 8 Studios, davon 5 in Wien |
 
-<p class="meer-aanbieders">Und auch: McFit, JOHN REED, clever fit und Mrs.Sporty. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: McFit, JOHN REED, clever fit, Mrs.Sporty und Kieser. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <h2 id="steden">Wo funktioniert ClassPass?</h2>
 
 ClassPass gibt es in Österreich vor allem in Wien, mit Studios unter anderem in Mariahilf, der Inneren Stadt, Landstraße, Neubau und Wieden. Dazu kommen einige Studios in der Umgebung, etwa in Klosterneuburg, Mödling und Baden. Alles über ClassPass und Fitness First in der Hauptstadt liest du im [Stadtguide Wien](/at/wien/). In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
 
 <ul class="stedenlijst">
-<li><a href="/at/wien/"><strong>Wien</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · JOHN REED · clever fit · Mrs.Sporty</span></li>
+<li><a href="/at/wien/"><strong>Wien</strong></a> <span class="klein">ClassPass · Fitness First · McFit · Holmes Place · JOHN REED · clever fit · Mrs.Sporty · Kieser</span></li>
 </ul>
 
 <h2 id="andere">Weitere Fitnessstudios und Sportpässe</h2>
@@ -196,6 +197,24 @@ Fitnessstudio nur für Frauen mit vielen Clubs in Wien. 30 Minuten Training, kos
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/at/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+### Kieser
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. 8 Studios, davon 5 in Wien. Rund 70 bis 90 € im Monat, je nach Laufzeit.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/at/kieser-training/">Alles über Kieser</a>
 </div>
 
 </div>
@@ -266,6 +285,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 - **[JOHN REED kündigen](/at/john-reed-kuendigen/)** · Fristen und Alternativen
 - **[Mrs.Sporty kündigen](/at/mrs-sporty-kuendigen/)** · Fristen und Alternativen
 - **[myClubs kündigen](/at/myclubs-kuendigen/)** · Fristen und Alternativen
+- **[Kieser kündigen](/at/kieser-training-kuendigen/)** · Frist und so geht's
 
 ## Häufige Fragen
 

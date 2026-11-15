@@ -4,7 +4,7 @@ path: "/nl/classpass-proefperiode/"
 description: "Wat je krijgt in de proefperiode van ClassPass, welke regels er gelden, wat er gebeurt als hij afloopt en hoe je er het meeste uit haalt."
 lang: nl
 land: nl
-byline: "Bijgewerkt in oktober 2026"
+byline: "Bijgewerkt in november 2026"
 crumb: "ClassPass proefperiode"
 kicker: "Gids"
 ---

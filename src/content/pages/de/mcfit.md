@@ -4,7 +4,7 @@ path: "/de/mcfit/"
 description: "Alles über McFit: über 230 Studios, Flex ohne feste Laufzeit oder 12 und 24 Monate, was es kostet, Live-Kurse, Ruhezeit und Kündigung."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "McFit"
 kicker: "Anbieter: Fitnesskette"
 ---

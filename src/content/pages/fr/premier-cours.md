@@ -5,7 +5,7 @@ path: "/fr/premier-cours/"
 description: "Première visite dans un studio ou une salle ? Quoi emporter pour le yoga, la boxe, le spinning et la musculation, et comment bien vivre ta première séance."
 lang: fr
 land: fr
-byline: "Mis à jour en octobre 2026"
+byline: "Mis à jour en novembre 2026"
 crumb: "Ton premier cours"
 kicker: "Guide"
 ---

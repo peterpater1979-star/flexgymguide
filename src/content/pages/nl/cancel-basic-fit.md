@@ -6,7 +6,7 @@ vertaling: "/nl/basic-fit-opzeggen/"
 description: "How to cancel Basic-Fit in the Netherlands via My Basic-Fit, the app or the club kiosk. The 4-week notice period and what happens after year one."
 lang: en
 land: nl
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Cancelling Basic-Fit"
 kicker: "Guide"
 ---

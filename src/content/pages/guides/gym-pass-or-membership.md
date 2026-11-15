@@ -1,10 +1,10 @@
 ---
 title: "Gym pass or gym membership? What suits how you train"
 path: "/guides/gym-pass-or-membership/"
-description: "A fitness pass like ClassPass or a membership at one gym chain? How the two work, who each suits, and three questions that help you choose."
+description: "A fitness pass like ClassPass or a membership at PureGym, The Gym Group or Fitness First? A comparison, who each suits, and three questions that help you choose."
 lang: en
 land: guides
-byline: "Updated October 2026"
+byline: "Updated November 2026"
 crumb: "Gym pass or gym membership?"
 kicker: "Guide"
 ---
@@ -15,16 +15,21 @@ There are two ways to train without being tied to one small studio: a fitness pa
 
 <h2 id="short">In short</h2>
 
-| | Fitness pass | Gym membership |
-| --- | --- | --- |
-| **Example** | [ClassPass](/guides/how-classpass-works/) | [Fitness First](/uk/fitness-first/), [The Gym Group](/uk/the-gym-group/), [Trainmore](/nl/trainmore/) |
-| **How it works** | Monthly credits for classes and gym visits at many studios | Unlimited visits to the clubs of one chain |
-| **Variety** | Yoga, pilates, boxing, cycling, strength and more, at different places | The classes and equipment of that chain |
-| **Good if you train** | One to three times a week | Three times a week or more |
-| **Abroad** | <span class="ja" aria-hidden="true">✓</span> Works in 31 countries | Usually only in one country |
-| **Try it first** | Free trial | Free trial session or guest pass at most chains |
+| | [ClassPass](/uk/classpass/) | [PureGym](/uk/puregym/) | [The Gym Group](/uk/the-gym-group/) | [Fitness First](/uk/fitness-first/) |
+| --- | --- | --- | --- | --- |
+| **Type** | Fitness pass | Budget gym chain | Low-cost gym chain | Gym chain with its own clubs |
+| **How it works** | Credits every month; each class or gym visit costs credits | Unlimited visits to your home gym | Unlimited visits, classes included | Unlimited visits to one club or, with Classic, to several |
+| **Plans** | More or fewer credits a month | Off-Peak, Core or Plus | Off-peak, Standard or Ultimate | Single Club or Classic |
+| **Term** | Monthly | Monthly, no contract | Monthly, no contract; student plans for 6, 9 or 12 months | 1, 3, 6, 9 or 12 months, depending on the club |
+| **Cancelling** | Any time, before your renewal date | Any time | Any time on monthly plans | After the minimum term |
+| **What you get** | Yoga, Pilates, boxing, spin, strength, gym visits and more | Gym, classes at most gyms | Gym, classes in every membership | Gym, classes except Reformer Pilates |
+| **Locations** | Studios in more than 2,500 cities | Over 450 gyms in the UK | Over 260 gyms in the UK | 25 clubs, 17 in London |
+| **Countries** | 31 <details class="cel"><summary>Which countries?</summary><strong>Europe:</strong> Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom<br><strong>North America:</strong> Canada, United States<br><strong>South America:</strong> Brazil, Chile<br><strong>Middle East:</strong> Kuwait, Qatar, United Arab Emirates<br><strong>Asia:</strong> Hong Kong, India, Indonesia, Japan, Malaysia, Philippines, Singapore, Thailand<br><strong>Oceania:</strong> Australia, New Zealand</details> | UK | UK only | UK only |
+| **Try it** | <a href="/go/classpass-uk/?epi=fgg-uk-gym-pass-or-membership">Free trial →</a> | <a href="https://www.puregym.com/">No contract, cancel anytime →</a> | <a href="https://www.thegymgroup.com/">Day pass for 1, 3 or 5 days →</a> | <a href="https://www.fitnessfirst.co.uk/">Free club tour, day passes at selected clubs →</a> |
 
-<p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>
+**Other UK gyms:** [Virgin Active](/uk/virgin-active/) · [David Lloyd](/uk/david-lloyd/) · [Anytime Fitness](/uk/anytime-fitness/) · [Village Gym](/uk/village-gym/).
+
+<p class="klein">Source: the providers’ websites, November 2026.</p>
 
 <h2 id="pass">How a fitness pass works</h2>
 

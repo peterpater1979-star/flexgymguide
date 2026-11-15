@@ -4,7 +4,7 @@ path: "/pt/desporto-estudante/"
 description: "Que opções de desporto tens como estudante, o que combina com cada horário e como treinar de forma flexível sem gastar muito, mesmo sem desconto."
 lang: pt
 land: pt
-byline: "Atualizado em outubro de 2026"
+byline: "Atualizado em novembro de 2026"
 crumb: "Desporto para estudantes"
 kicker: "Guia"
 ---

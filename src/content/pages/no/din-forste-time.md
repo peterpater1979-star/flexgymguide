@@ -5,7 +5,7 @@ path: "/no/din-forste-time/"
 description: "Første gang på et nytt studio eller treningssenter? Hva du tar med til yoga, boksing, spinning og styrketrening, og hvordan det første besøket blir enkelt."
 lang: nb
 land: no
-byline: "Oppdatert oktober 2026"
+byline: "Oppdatert november 2026"
 crumb: "Din første time"
 kicker: "Guide"
 ---

@@ -2,10 +2,10 @@
 title: "¿Pase deportivo o cuota de gimnasio? Lo que encaja con tu forma de entrenar"
 seoTitle: "¿Pase deportivo o cuota de gimnasio? Cómo elegir"
 path: "/es/pase-o-gimnasio/"
-description: "¿Un pase deportivo como ClassPass o una cuota en una cadena de gimnasios? Cómo funciona cada uno, para quién encaja y tres preguntas que te ayudan a elegir."
+description: "¿Un pase deportivo como ClassPass o Urban Sports Club, o una cuota en Basic-Fit o Synergym? Comparativa, para quién encaja y tres preguntas para elegir."
 lang: es
 land: es
-byline: "Actualizado en octubre de 2026"
+byline: "Actualizado en noviembre de 2026"
 crumb: "¿Pase o gimnasio?"
 kicker: "Guía"
 ---
@@ -16,16 +16,21 @@ Hay dos formas de entrenar sin atarte a un solo estudio pequeño: un pase deport
 
 <h2 id="resumen">En resumen</h2>
 
-| | Pase deportivo | Cuota de gimnasio |
-| --- | --- | --- |
-| **Ejemplo** | [ClassPass](/es/classpass/) | Una cadena de gimnasios |
-| **Cómo funciona** | Créditos cada mes para clases y sesiones en muchos estudios | Acceso ilimitado a los centros de una cadena |
-| **Variedad** | Yoga, pilates, boxeo, spinning, fuerza y más, en distintos lugares | Las clases y máquinas de esa cadena |
-| **Encaja si entrenas** | De una a tres veces por semana | Tres veces por semana o más |
-| **En el extranjero** | <span class="ja" aria-hidden="true">✓</span> Funciona en 31 países | Normalmente solo en un país |
-| **Probar primero** | Periodo de prueba gratis | Clase de prueba en muchos gimnasios |
+| | [ClassPass](/es/classpass/) | [Urban Sports Club](/es/urban-sports-club/) | [Basic-Fit](/es/basic-fit/) | [Synergym](/es/synergym/) |
+| --- | --- | --- | --- | --- |
+| **Tipo** | Pase deportivo | Pase deportivo | Gimnasio económico | Gimnasio low cost con clases dirigidas |
+| **Cómo funciona** | Créditos cada mes; cada clase o sesión cuesta créditos | Precio fijo al mes y un número de check-ins | Acceso ilimitado; con Premium o Ultimate en todos los clubes | Acceso ilimitado a tu club o, con Multiclub Premium, a todos |
+| **Planes** | Más o menos créditos al mes | Essential, Classic, Premium o Max: cuanto más alto, más check-ins y centros | Comfort, Premium o Ultimate | Club Unlimited o Multiclub Premium |
+| **Duración** | Al mes | Al mes | Flex (cada 4 semanas) o 1 año | Al mes, también cuota trimestral |
+| **Baja** | En cualquier momento, antes de la renovación | 3 días antes de la renovación | Con Flex: 4 semanas de preaviso | Preaviso hasta el día 19 del mes |
+| **Actividades** | Yoga, pilates, boxeo, spinning, fuerza, gimnasios y más | Gimnasios, yoga, pilates, boxeo y más | Fitness y fuerza | Fitness, fuerza y clases dirigidas |
+| **Centros** | Estudios en más de 2.500 ciudades | Más de 17.200 centros asociados | Clubes en toda España | Clubes en toda España |
+| **Países** | 31 <details class="cel"><summary>¿Qué países?</summary><strong>Europa:</strong> Alemania, Austria, Bélgica, Dinamarca, España, Finlandia, Francia, Irlanda, Noruega, Países Bajos, Portugal, Reino Unido, Suecia, Suiza<br><strong>Norteamérica:</strong> Canadá, Estados Unidos<br><strong>Sudamérica:</strong> Brasil, Chile<br><strong>Oriente Medio:</strong> Catar, Emiratos Árabes Unidos, Kuwait<br><strong>Asia:</strong> Filipinas, Hong Kong, India, Indonesia, Japón, Malasia, Singapur, Tailandia<br><strong>Oceanía:</strong> Australia, Nueva Zelanda</details> | 6 <details class="cel"><summary>¿Qué países?</summary>Alemania, Bélgica, España, Francia, Países Bajos y Portugal.</details> | 6 <details class="cel"><summary>¿Qué países?</summary>Alemania, Bélgica, España, Francia, Luxemburgo y Países Bajos. Con Premium o Ultimate entrenas en todos los clubes.</details> | España |
+| **Probar** | <a href="/go/classpass-es/?epi=fgg-es-pase-o-gimnasio">10 sesiones gratis en 14 días →</a> | <a href="https://urbansportsclub.com/es/prices/madrid?duration=monthly">Suscripción mensual, preaviso de 3 días →</a> | <a href="https://www.basic-fit.com/es-es/precios">Flex sin permanencia →</a> | <a href="https://synergym.es/">Bono día 8,99 € →</a> |
 
-<p class="klein">Los precios y condiciones cambian con frecuencia. Consulta siempre la información actual con el proveedor.</p>
+**Otras cadenas de gimnasios:** [VivaGym](/es/vivagym/) · [Fitness Park](/es/fitness-park/) · [Dreamfit](/es/dreamfit/) · [GO fit](/es/go-fit/) · [L’Orange bleue](/es/l-orange-bleue/).
+
+<p class="klein">Fuente: las webs de los proveedores, noviembre de 2026.</p>
 
 <h2 id="pase">Cómo funciona un pase deportivo</h2>
 

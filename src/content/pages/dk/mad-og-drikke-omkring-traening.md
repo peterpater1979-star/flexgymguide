@@ -4,7 +4,7 @@ path: "/dk/mad-og-drikke-omkring-traening/"
 description: "Hvad skal du drikke og spise før og efter træning? Vand, en lille snack og proteinpulver, hvis du vil: praktiske tips uden store løfter."
 lang: da
 land: dk
-byline: "Opdateret oktober 2026"
+byline: "Opdateret november 2026"
 crumb: "Mad og drikke"
 kicker: "Guide"
 ---

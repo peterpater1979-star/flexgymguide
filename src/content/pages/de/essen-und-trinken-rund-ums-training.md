@@ -5,7 +5,7 @@ path: "/de/essen-und-trinken-rund-ums-training/"
 description: "Was trinkst und isst du vor und nach dem Training? Wasser, ein kleiner Snack und bei Bedarf Proteinpulver: praktische Tipps ohne große Versprechen."
 lang: de
 land: de
-byline: "Aktualisiert im Oktober 2026"
+byline: "Aktualisiert im November 2026"
 crumb: "Essen und Trinken"
 kicker: "Ratgeber"
 ---
