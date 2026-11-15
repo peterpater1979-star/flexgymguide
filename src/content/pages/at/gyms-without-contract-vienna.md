@@ -40,7 +40,7 @@ With ClassPass you get credits every month for classes and gym visits at studios
 
 <h2 id="fitness-first">Fitness First</h2>
 
-Fitness First has 4 clubs in and around Vienna, including Vösendorf, with a gym floor, classes and a wellness area. All clubs in Vienna are RED clubs, so the prices are the same everywhere. Fitness First charges per week. You choose between BASIS and ALL-IN; ALL-IN includes classes, unlimited drinks, massage at a fixed price and the wellness area. These were the prices in October 2026, per week:
+Fitness First has 3 clubs in Vienna and 1 in Vösendorf, with a gym floor, classes and a wellness area. All clubs in Vienna are RED clubs, so the prices are the same everywhere. Fitness First charges per week. You choose between BASIS and ALL-IN; ALL-IN includes classes, unlimited drinks, massage at a fixed price and the wellness area. These were the prices in October 2026, per week:
 
 | Term | BASIS | ALL-IN | Students, pupils, trainees |
 | --- | --- | --- | --- |

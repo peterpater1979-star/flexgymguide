@@ -2,7 +2,7 @@
 title: "Flexibel trainieren in Frankfurt"
 seoTitle: "Fitnessstudio in Frankfurt monatlich kündbar: deine Optionen"
 path: "/de/frankfurt/"
-description: "Flexibel trainieren in Frankfurt am Main: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 12 Clubs trainieren."
+description: "Flexibel trainieren in Frankfurt am Main: mit ClassPass zwischen Studios wechseln oder bei Fitness First in 11 Clubs trainieren."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -10,7 +10,7 @@ crumb: "Frankfurt am Main"
 kicker: "Stadtguide Frankfurt am Main"
 ---
 
-Frankfurt ist eine Pilates-Stadt: Auf ClassPass findest du besonders viele Reformer-Studios, vor allem im Nordend, in Bornheim, in Sachsenhausen und in der Innenstadt, dazu HIIT, Boxen und Indoor-Cycling. Lieber ein festes Gym? Fitness First hat 12 Clubs in Frankfurt, dazu kommen McFit, clever fit und Basic-Fit. Hier siehst du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
+Frankfurt ist eine Pilates-Stadt: Auf ClassPass findest du besonders viele Reformer-Studios, vor allem im Nordend, in Bornheim, in Sachsenhausen und in der Innenstadt, dazu HIIT, Boxen und Indoor-Cycling. Lieber ein festes Gym? Fitness First hat 11 Clubs in Frankfurt, dazu kommen McFit, clever fit und Basic-Fit. Hier siehst du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -53,7 +53,7 @@ Ein Abo auf Credit-Basis mit besonders viel Reformer-Pilates, dazu HIIT, Boxen u
 
 ### Fitness First
 
-220 Clubs in Deutschland, 12 in Frankfurt. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+217 Clubs in Deutschland, 11 in Frankfurt. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
@@ -173,7 +173,7 @@ Das Standard-Abo kostet in Frankfurt 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Frankfurt
 
-Bei Fitness First trainierst du in 220 Clubs in Deutschland, davon 12 in Frankfurt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfurt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -235,7 +235,7 @@ Nimm ClassPass. Frankfurt hat besonders viele Reformer-Studios, vom Nordend bis 
 
 ### Du willst Gym, Kurse und Wellness an einem Ort
 
-Nimm Fitness First mit 12 Clubs in Frankfurt. Probier ihn zuerst mit einem kostenlosen Probetraining aus.
+Nimm Fitness First mit 11 Clubs in Frankfurt. Probier ihn zuerst mit einem kostenlosen Probetraining aus.
 
 [Zu Fitness First](/de/fitness-first/)
 

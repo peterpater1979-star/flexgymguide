@@ -13,7 +13,7 @@ zoekwoorden: "FIT ONE, Smile X"
 
 <div class="fotobanner smal foto-fitness-first-de" role="img" aria-label="Fitnessstudio"></div>
 
-Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clubs in Österreich. Auch die früheren Marken FIT ONE und Smile X gehören heute zu Fitness First. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
+Fitness First ist eine Fitnessstudiokette mit 217 Clubs in Deutschland und 12 Clubs in Österreich. Auch die früheren Marken FIT ONE und Smile X gehören heute zu Fitness First. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Bevor du dich festlegst, kannst du kostenlos probetrainieren.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#staedte">Fitness First in deiner Stadt</a>
@@ -24,7 +24,7 @@ Fitness First ist eine Fitnessstudiokette mit 220 Clubs in Deutschland und 5 Clu
 | | Fitness First |
 | --- | --- |
 | **Art** | Fitnessstudiokette mit eigenen Clubs |
-| **Clubs** | 220 in Deutschland, 5 in Österreich |
+| **Clubs** | 217 in Deutschland, 12 in Österreich |
 | **Preis** | Pro Woche, je nach Club, Mitgliedschaft und Laufzeit |
 | **Mitgliedschaft** | RED oder BLACK |
 | **Laufzeit** | 24, 12 oder 1 Monat |
@@ -123,7 +123,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <ul class="stedenlijst">
 <li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">15 Clubs</span></li>
 <li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">17 Clubs</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">12 Clubs</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">11 Clubs</span></li>
 <li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">14 Clubs</span></li>
 <li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">8 Clubs</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">10 Clubs</span></li>
@@ -243,7 +243,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 
 </details>
 
-<p class="klein">Österreich: 4 Clubs in und um Wien (darunter Vösendorf) und 1 in Gleisdorf bei Graz. Stand: Oktober 2026, laut fitnessfirst.de.</p>
+<p class="klein">Österreich: 3 Clubs in Wien und 1 in Vösendorf, dazu Clubs in der Steiermark (Graz, Gleisdorf, Lieboch, Peggau, Feldbach, Fürstenfeld, Hartberg) und in Oberwart im Burgenland. Insgesamt 229 Clubs. Stand: November 2026, laut fitnessfirst.de.</p>
 
 <div class="aanbieder">
 
@@ -313,7 +313,7 @@ Das hängt von deiner Mitgliedschaft ab: Je nach Mitgliedschaft trainierst du in
 <details>
 <summary>Gibt es Fitness First auch im Ausland?</summary>
 
-Außerhalb von Deutschland gibt es 5 Clubs in Österreich, vor allem in und um Wien.
+Außerhalb von Deutschland gibt es 12 Clubs in Österreich: in Wien und Vösendorf, in der Steiermark und im Burgenland.
 
 </details>
 
