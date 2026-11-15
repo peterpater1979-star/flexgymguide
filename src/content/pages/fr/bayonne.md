@@ -81,6 +81,20 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 
 </div>
 
+<div id="vita-liberte" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle accessible</span></div>
+
+<h3 id="vita-liberte-bayonne">Vita Liberté</h3>
+
+À Bayonne, Vita Liberté a une salle à Bayonne. FULL coûte 36,75 € toutes les 4 semaines avec engagement, FREEDOM FULL 46,75 € sans engagement, plus 49,90 € de Welcome Pack. C’est une franchise : le prix peut changer selon le club.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/vita-liberte/">Tout sur Vita Liberté</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prix d’octobre 2026, qui peuvent varier selon le club. Vérifie toujours la situation actuelle auprès du prestataire.</p>

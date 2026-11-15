@@ -53,6 +53,17 @@ Sans engagement, tu paies 10 € de plus toutes les 4 semaines. Tu restes plus d
 
 Le Welcome Pack coûte 49,90 €, une seule fois. Il comprend les frais d’inscription, ta carte de membre et la possibilité de geler tes prélèvements 28 jours de suite dans l’année, sans justificatif. C’est pratique pour les vacances.
 
+<h2 id="villes">Dans quelles villes ?</h2>
+
+Vita Liberté est surtout présent en Provence et en Corse. Les salles, entre autres :
+
+- **Bouches-du-Rhône :** [Marseille](/fr/marseille/#vita-liberte) (L’Estaque, Saint-Barnabé, Sormiou), Aubagne – Les Paluds, Auriol, Cuges-les-Pins, La Ciotat, La Destrousse, La Fare-les-Oliviers, Meyreuil, Plan-de-Cuques, Saint-Cannat, Saint-Savournin, Sausset-les-Pins et Trets
+- **Var et Alpes :** Bandol, Le Beausset, Six-Fours, [Nice](/fr/nice/#vita-liberte) (Libération), Digne-les-Bains et Forcalquier
+- **Vaucluse, Drôme et Gard :** Pertuis, Montélimar, Portes-lès-Valence et Bagnols-sur-Cèze
+- **Corse :** Ajaccio (deux salles, dont Sanguinaires), Aléria, Bastia, Biguglia, Cap Corse, Cargèse, Corte, Folelli, Furiani, Lucciana, Porticcio, Porto-Vecchio et Propriano
+- **Sud-Ouest :** [Bayonne](/fr/bayonne/#vita-liberte), Pau – Lons et Saint-André-de-Cubzac
+- **Guyane :** Macouria
+
 <h2 id="resilier">Résilier</h2>
 
 Chaque club Vita Liberté est une franchise indépendante. Le préavis et la façon de résilier dépendent de ton contrat : vérifie-les avant de t’inscrire. Avec engagement, tu restes inscrit pendant 52 semaines.

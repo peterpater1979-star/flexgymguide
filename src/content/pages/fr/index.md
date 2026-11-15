@@ -115,9 +115,9 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <ul class="stedenlijst">
 <li><a href="/fr/paris/"><strong>Paris</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR · L’Appart Fitness · Gigafit · Liberty Gym · Magic Form</span></li>
 <li><a href="/fr/lyon/"><strong>Lyon</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · L’Appart Fitness</span></li>
-<li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR</span></li>
+<li><a href="/fr/marseille/"><strong>Marseille</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · L’Orange bleue · ON AIR · Vita Liberté</span></li>
 <li><a href="/fr/bordeaux/"><strong>Bordeaux</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness · Magic Form</span></li>
-<li><a href="/fr/nice/"><strong>Nice</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness</span></li>
+<li><a href="/fr/nice/"><strong>Nice</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR · L’Appart Fitness · Vita Liberté</span></li>
 <li><a href="/fr/aix-en-provence/"><strong>Aix-en-Provence</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · ON AIR</span></li>
 <li><a href="/fr/toulouse/"><strong>Toulouse</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · L’Orange bleue · ON AIR</span></li>
 <li><a href="/fr/nantes/"><strong>Nantes</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Keepcool · WellNess Sport Club · RITM · L’Orange bleue · ON AIR</span></li>
@@ -148,7 +148,7 @@ Plus de 270 salles en France selon Keepcool, avec des coachs dans la salle et de
 <li><a href="/fr/avignon/"><strong>Avignon</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Keepcool · L’Orange bleue</span></li>
 <li><a href="/fr/reims/"><strong>Reims</strong></a> <span class="klein">ClassPass · Urban Sports Club · L’Orange bleue · ON AIR</span></li>
 <li><a href="/fr/troyes/"><strong>Troyes</strong></a> <span class="klein">ClassPass · Urban Sports Club · Magic Form</span></li>
-<li><a href="/fr/bayonne/"><strong>Bayonne</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · L’Orange bleue</span></li>
+<li><a href="/fr/bayonne/"><strong>Bayonne</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · L’Orange bleue · Vita Liberté</span></li>
 <li><a href="/fr/poitiers/"><strong>Poitiers</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Keepcool · ON AIR</span></li>
 <li><a href="/fr/dunkerque/"><strong>Dunkerque</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Gigafit</span></li>
 <li><a href="/fr/annemasse/"><strong>Annemasse</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · ON AIR</span></li>
