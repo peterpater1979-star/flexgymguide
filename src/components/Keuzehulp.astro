@@ -33,81 +33,81 @@ const steden = pages
 
 const t = {
   es: {
-    open: '¿Pase deportivo o gimnasio?', openKlein: 'Descúbrelo en 3 preguntas',
+    open: "¿Un gimnasio o un pase deportivo?", uitleg: [["Gimnasio", "una cuota en un gimnasio o una cadena. Entrenas siempre en el mismo sitio."], ["Pase deportivo", "una sola suscripción para distintos estudios y gimnasios, como fitness, yoga o boxeo. A menudo también en otras ciudades y a veces en el extranjero."]], jouw: "Tus respuestas", openKlein: 'Descúbrelo en 3 preguntas',
     v1: '¿Dónde entrenas?', kies: 'Elige tu ciudad', ander: 'Otra ciudad',
-    v2: '¿Cuántas veces por semana?', f: ['Una vez o menos', '2 o 3 veces', '4 o más'],
-    v3: '¿Qué es lo más importante?', p: ['Pagar poco', 'Variedad de clases', 'Un sitio fijo'],
+    v2: '¿Cuántas veces por semana?', f: ["Una vez o menos", "2 veces", "3 o más"],
+    v3: '¿Qué es lo más importante?', p: ['Pagar poco', 'Variedad de clases', 'Un sitio fijo', "Entrenar también de viaje"],
     advies: 'Lo que podría encajarte', opnieuw: 'Empezar de nuevo', vergelijk: 'Comparación completa: pase o gimnasio',
     noot: 'Una orientación según tus respuestas, no una recomendación de una marca concreta. Compara siempre precios y condiciones.',
     pas: 'Un pase deportivo', gym: 'Un gimnasio', mix: 'Las dos opciones',
-    rPas: 'Con un pase deportivo reservas clases en distintos estudios y gimnasios, sin atarte a un solo sitio. Suele encajar si entrenas de vez en cuando o te gusta variar.',
-    rGym: 'Si entrenas a menudo o prefieres ir siempre al mismo sitio, un gimnasio cerca de casa o del trabajo puede encajarte mejor.',
-    rMix: 'Según tus respuestas, tanto un pase deportivo como un gimnasio pueden encajarte. Compara lo que hay en tu ciudad.',
+    rPas: "Con un pase deportivo reservas clases en distintos estudios y gimnasios, sin atarte a un solo sitio. A menudo también en otras ciudades o de viaje. Encaja si entrenas de vez en cuando, te gusta variar o viajas mucho.",
+    rGym: "Un gimnasio cerca de casa o del trabajo suele ser lo más sencillo y, por visita, lo más barato, sobre todo si vas cada semana o prefieres entrenar siempre en el mismo sitio.",
+    rMix: "Si quieres sobre todo un sitio fijo, elige un gimnasio cerca de casa. Si prefieres entrenar de vez en cuando sin atarte, mira también un pase deportivo o un gimnasio sin permanencia. Compara lo que hay en tu ciudad.",
     pasStad: 'Pases y gimnasios en {s}', pasLand: 'Todas las opciones en España', alles: 'Todas las opciones en {s}', gymStad: 'Gimnasios en {s}', gymLand: 'Gimnasios en España', zcStad: 'Sin permanencia en {s}', zcLand: 'Gimnasios sin permanencia',
   },
   fr: {
-    open: 'Pass sport ou salle de sport ?', openKlein: 'Réponds à 3 questions',
+    open: "Une salle de sport ou un pass sport ?", uitleg: [["Salle de sport", "un abonnement dans une salle ou une chaîne. Tu t’entraînes toujours au même endroit."], ["Pass sport", "un seul abonnement pour différents studios et salles, par exemple fitness, yoga ou boxe. Souvent aussi dans d’autres villes, parfois à l’étranger."]], jouw: "Tes réponses", openKlein: 'Réponds à 3 questions',
     v1: 'Où fais-tu du sport ?', kies: 'Choisis ta ville', ander: 'Une autre ville',
-    v2: 'Combien de fois par semaine ?', f: ['Une fois ou moins', '2 ou 3 fois', '4 fois ou plus'],
-    v3: 'Qu’est-ce qui compte le plus ?', p: ['Payer peu', 'Varier les cours', 'Un endroit fixe'],
+    v2: 'Combien de fois par semaine ?', f: ["Une fois ou moins", "2 fois", "3 fois ou plus"],
+    v3: 'Qu’est-ce qui compte le plus ?', p: ['Payer peu', 'Varier les cours', 'Un endroit fixe', "M’entraîner aussi en déplacement"],
     advies: 'Ce qui pourrait te convenir', opnieuw: 'Recommencer', vergelijk: 'Comparaison complète : pass ou abonnement',
     noot: 'Une orientation selon tes réponses, pas la recommandation d’une marque. Compare toujours les prix et les conditions.',
     pas: 'Un pass sport', gym: 'Une salle de sport', mix: 'Les deux options',
-    rPas: 'Avec un pass sport, tu réserves des cours dans différents studios et salles, sans être lié à un seul endroit. Souvent adapté si tu t’entraînes de temps en temps ou si tu aimes varier.',
-    rGym: 'Si tu t’entraînes souvent ou préfères toujours le même endroit, une salle près de chez toi ou du travail peut mieux te convenir.',
-    rMix: 'D’après tes réponses, un pass sport comme une salle peuvent te convenir. Compare ce qui existe dans ta ville.',
+    rPas: "Avec un pass sport, tu réserves des cours dans différents studios et salles, sans être lié à un seul endroit. C’est souvent possible aussi dans d’autres villes ou en voyage. Adapté si tu t’entraînes de temps en temps, si tu aimes varier ou si tu te déplaces souvent.",
+    rGym: "Une salle près de chez toi ou du travail est souvent le plus simple et le moins cher par séance, surtout si tu y vas chaque semaine ou aimes t’entraîner au même endroit.",
+    rMix: "Si tu veux surtout un endroit fixe, choisis une salle près de chez toi. Si tu veux t’entraîner de temps en temps sans long engagement, regarde aussi un pass sport ou une salle sans engagement. Compare ce qui existe dans ta ville.",
     pasStad: 'Pass et salles à {s}', pasLand: 'Toutes les options en France', alles: 'Toutes les options à {s}', gymStad: 'Salles de sport à {s}', gymLand: 'Salles de sport en France', zcStad: 'Sans engagement à {s}', zcLand: 'Salles sans engagement',
   },
   de: {
-    open: 'Sportpass oder Fitnessstudio?', openKlein: 'Finde es mit 3 Fragen heraus',
+    open: "Ein Fitnessstudio oder ein Sportpass?", uitleg: [["Fitnessstudio", "eine Mitgliedschaft bei einem Studio oder einer Kette. Du trainierst immer am selben Ort."], ["Sportpass", "ein Abo für verschiedene Studios und Fitnessstudios, etwa Fitness, Yoga oder Boxen. Oft auch in anderen Städten und teils im Ausland."]], jouw: "Deine Antworten", openKlein: 'Finde es mit 3 Fragen heraus',
     v1: 'Wo trainierst du?', kies: 'Wähle deine Stadt', ander: 'Andere Stadt',
-    v2: 'Wie oft pro Woche?', f: ['Einmal oder seltener', '2- bis 3-mal', '4-mal oder öfter'],
-    v3: 'Was ist dir am wichtigsten?', p: ['Wenig zahlen', 'Abwechslung', 'Ein fester Ort'],
+    v2: 'Wie oft pro Woche?', f: ["Einmal oder seltener", "2-mal", "3-mal oder öfter"],
+    v3: 'Was ist dir am wichtigsten?', p: ['Wenig zahlen', 'Abwechslung', 'Ein fester Ort', "Auch unterwegs trainieren"],
     advies: 'Das könnte zu dir passen', opnieuw: 'Neu starten', vergelijk: 'Ausführlicher Vergleich: Sportpass oder Mitgliedschaft',
     noot: 'Eine Orientierung nach deinen Antworten, keine Empfehlung für eine bestimmte Marke. Vergleiche Preise und Bedingungen immer selbst.',
     pas: 'Ein Sportpass', gym: 'Ein Fitnessstudio', mix: 'Beides ist möglich',
-    rPas: 'Mit einem Sportpass buchst du Kurse in verschiedenen Studios und Fitnessstudios, ohne dich an einen Ort zu binden. Passt oft, wenn du ab und zu trainierst oder gern abwechselst.',
-    rGym: 'Trainierst du oft oder lieber immer am selben Ort, passt ein Fitnessstudio in der Nähe von Zuhause oder Arbeit vielleicht besser.',
-    rMix: 'Nach deinen Antworten können ein Sportpass und ein Fitnessstudio passen. Vergleiche, was es in deiner Stadt gibt.',
+    rPas: "Mit einem Sportpass buchst du Kurse in verschiedenen Studios und Fitnessstudios, ohne dich an einen Ort zu binden. Oft geht das auch in anderen Städten oder auf Reisen. Passt, wenn du ab und zu trainierst, gern abwechselst oder viel unterwegs bist.",
+    rGym: "Ein Fitnessstudio in der Nähe von Zuhause oder Arbeit ist meist am einfachsten und pro Besuch oft am günstigsten, vor allem wenn du jede Woche gehst oder gern am selben Ort trainierst.",
+    rMix: "Willst du vor allem einen festen Ort, nimm ein Studio in deiner Nähe. Willst du ohne lange Bindung ab und zu trainieren, schau dir auch einen Sportpass oder ein Studio ohne Vertrag an. Vergleiche, was es in deiner Stadt gibt.",
     pasStad: 'Sportpässe und Studios in {s}', pasLand: 'Alle Möglichkeiten in Deutschland', alles: 'Alle Möglichkeiten in {s}', gymStad: 'Fitnessstudios in {s}', gymLand: 'Fitnessstudios in Deutschland', zcStad: 'Ohne Vertrag in {s}', zcLand: 'Fitnessstudios ohne Vertrag',
   },
   nl: {
-    open: 'Sportpas of sportschool?', openKlein: 'Ontdek het met 3 vragen',
+    open: "Eén sportschool of een sportpas?", uitleg: [["Sportschool", "een abonnement bij één sportschool of keten. Je traint steeds op dezelfde plek."], ["Sportpas", "één abonnement voor verschillende sportscholen en studio's, zoals fitness, yoga of boksen. Vaak ook in andere steden en soms in het buitenland."]], jouw: "Jouw antwoorden", openKlein: 'Ontdek het met 3 vragen',
     v1: 'Waar sport je?', kies: 'Kies je stad', ander: 'Andere stad',
-    v2: 'Hoe vaak per week?', f: ['Eén keer of minder', '2 of 3 keer', '4 keer of vaker'],
-    v3: 'Wat vind je het belangrijkst?', p: ['Weinig betalen', 'Afwisseling', 'Een vaste plek'],
+    v2: 'Hoe vaak per week?', f: ["Eén keer of minder", "2 keer", "3 keer of vaker"],
+    v3: 'Wat vind je het belangrijkst?', p: ['Weinig betalen', 'Afwisseling', 'Een vaste plek', "Ook onderweg sporten"],
     advies: 'Dit past misschien bij je', opnieuw: 'Opnieuw beginnen', vergelijk: 'Uitgebreide vergelijking: sportpas of abonnement',
     noot: 'Een richting op basis van je antwoorden, geen advies voor één bepaald merk. Vergelijk prijzen en voorwaarden altijd zelf.',
     pas: 'Een sportpas', gym: 'Een sportschool', mix: 'Allebei kan',
-    rPas: 'Met een sportpas boek je lessen bij verschillende studio\'s en sportscholen, zonder vast te zitten aan één plek. Past vaak als je af en toe sport of graag afwisselt.',
-    rGym: 'Sport je vaak of liever altijd op dezelfde plek, dan past een sportschool dicht bij huis of werk misschien beter.',
-    rMix: 'Op basis van je antwoorden kunnen een sportpas en een sportschool allebei passen. Vergelijk wat er in je stad is.',
+    rPas: "Met een sportpas boek je lessen bij verschillende studio's en sportscholen, zonder vast te zitten aan één plek. Vaak kan dat ook in andere steden of op reis. Past als je af en toe sport, graag afwisselt of veel onderweg bent.",
+    rGym: "Een sportschool dicht bij huis of werk is meestal het simpelst en per bezoek vaak het voordeligst, zeker als je elke week gaat of graag op een vaste plek traint.",
+    rMix: "Wil je vooral een vaste plek, kies dan een sportschool dicht bij huis. Wil je zonder lange binding af en toe sporten, kijk dan ook naar een sportpas of een sportschool zonder contract. Vergelijk wat er in je stad is.",
     pasStad: 'Sportpassen en sportscholen in {s}', pasLand: 'Alle opties in {l}', alles: 'Alle opties in {s}', gymStad: 'Sportscholen in {s}', gymLand: 'Sportscholen in {l}', zcStad: 'Zonder contract in {s}', zcLand: 'Sporten zonder contract',
   },
   pt: {
-    open: 'Passe desportivo ou ginásio?', openKlein: 'Descobre em 3 perguntas',
+    open: "Um ginásio ou um passe desportivo?", uitleg: [["Ginásio", "uma mensalidade num ginásio ou numa cadeia. Treinas sempre no mesmo sítio."], ["Passe desportivo", "uma só subscrição para vários estúdios e ginásios, como fitness, ioga ou boxe. Muitas vezes também noutras cidades e por vezes no estrangeiro."]], jouw: "As tuas respostas", openKlein: 'Descobre em 3 perguntas',
     v1: 'Onde treinas?', kies: 'Escolhe a tua cidade', ander: 'Outra cidade',
-    v2: 'Quantas vezes por semana?', f: ['Uma vez ou menos', '2 ou 3 vezes', '4 ou mais'],
-    v3: 'O que é mais importante?', p: ['Pagar pouco', 'Variedade', 'Um sítio fixo'],
+    v2: 'Quantas vezes por semana?', f: ["Uma vez ou menos", "2 vezes", "3 ou mais"],
+    v3: 'O que é mais importante?', p: ['Pagar pouco', 'Variedade', 'Um sítio fixo', "Treinar também em viagem"],
     advies: 'O que pode servir-te', opnieuw: 'Recomeçar', vergelijk: 'Comparação completa: passe ou ginásio',
     noot: 'Uma orientação com base nas tuas respostas, não a recomendação de uma marca. Compara sempre preços e condições.',
     pas: 'Um passe desportivo', gym: 'Um ginásio', mix: 'As duas opções',
-    rPas: 'Com um passe desportivo reservas aulas em vários estúdios e ginásios, sem ficares preso a um só sítio. Costuma servir se treinas de vez em quando ou gostas de variar.',
-    rGym: 'Se treinas muitas vezes ou preferes ir sempre ao mesmo sítio, um ginásio perto de casa ou do trabalho pode servir-te melhor.',
-    rMix: 'Pelas tuas respostas, tanto um passe desportivo como um ginásio podem servir-te. Compara o que há na tua cidade.',
+    rPas: "Com um passe desportivo reservas aulas em vários estúdios e ginásios, sem ficares preso a um só sítio. Muitas vezes também noutras cidades ou em viagem. Serve se treinas de vez em quando, gostas de variar ou viajas muito.",
+    rGym: "Um ginásio perto de casa ou do trabalho costuma ser o mais simples e, por visita, o mais barato, sobretudo se vais todas as semanas ou preferes treinar sempre no mesmo sítio.",
+    rMix: "Se queres sobretudo um sítio fixo, escolhe um ginásio perto de casa. Se preferes treinar de vez em quando sem fidelização longa, vê também um passe desportivo ou um ginásio sem fidelização. Compara o que há na tua cidade.",
     pasStad: 'Passes e ginásios em {s}', pasLand: 'Todas as opções em Portugal', alles: 'Todas as opções em {s}', gymStad: 'Ginásios em {s}', gymLand: 'Ginásios em Portugal', zcStad: 'Sem fidelização em {s}', zcLand: '',
   },
   uk: {
-    open: 'Fitness pass or gym?', openKlein: 'Find out in 3 questions',
+    open: "One gym or a fitness pass?", uitleg: [["Gym", "a membership at one gym or chain. You always train in the same place."], ["Fitness pass", "one subscription for different studios and gyms, such as fitness, yoga or boxing. Often in other cities too, sometimes abroad."]], jouw: "Your answers", openKlein: 'Find out in 3 questions',
     v1: 'Where do you train?', kies: 'Choose your city', ander: 'Another city',
-    v2: 'How often a week?', f: ['Once or less', '2 or 3 times', '4 or more'],
-    v3: 'What matters most?', p: ['Paying little', 'Variety', 'One regular place'],
+    v2: 'How often a week?', f: ["Once or less", "Twice", "3 or more"],
+    v3: 'What matters most?', p: ['Paying little', 'Variety', 'One regular place', "Training on the go"],
     advies: 'What might suit you', opnieuw: 'Start again', vergelijk: 'Full comparison: fitness pass or membership',
     noot: 'A pointer based on your answers, not a recommendation for any one brand. Always compare prices and terms yourself.',
     pas: 'A fitness pass', gym: 'A gym', mix: 'Either could work',
-    rPas: 'With a fitness pass you book classes at different studios and gyms, without being tied to one place. Often a good fit if you train now and then or like variety.',
-    rGym: 'If you train often or prefer the same place every time, a gym near home or work may suit you better.',
-    rMix: 'Based on your answers, a fitness pass and a gym could both work. Compare what your city has.',
+    rPas: "With a fitness pass you book classes at different studios and gyms, without being tied to one place. That often works in other cities or when you travel too. A good fit if you train now and then, like variety or are often away.",
+    rGym: "A gym near home or work is usually the simplest and often the cheapest per visit, especially if you go every week or like training in the same place.",
+    rMix: "If a regular place matters most, pick a gym near home. If you want to train now and then without a long contract, also look at a fitness pass or a gym without a contract. Compare what your city has.",
     pasStad: 'Passes and gyms in {s}', pasLand: 'All options in the UK', alles: 'All options in {s}', gymStad: 'Gyms in {s}', gymLand: 'Gyms in the UK', zcStad: 'No contract in {s}', zcLand: 'Gyms without a contract',
   },
 }[land === 'be' ? 'nl' : land];
@@ -122,6 +122,7 @@ const id = 'keuzehulp';
 <details class="keuzehulp" data-keuzehulp={JSON.stringify(data)}>
   <summary><span class="kh-titel">{t.open}</span> <span class="kh-sub">{t.openKlein} <span aria-hidden="true">→</span></span></summary>
   <form class="kh-vragen" onsubmit="return false">
+    <div class="kh-uitleg">{t.uitleg.map(([kop, tekst]) => <p><strong>{kop}:</strong> {tekst}</p>)}</div>
     <label class="kh-vraag" for={`${id}-stad`}>1. {t.v1}</label>
     <select id={`${id}-stad`} name="stad">
       <option value="" disabled selected={!stad}>{t.kies}</option>
@@ -160,10 +161,11 @@ const id = 'keuzehulp';
       const overzicht = s ? s.pagina + d.overzichtStad : d.overzichtLand;
       const zc = s ? (s.zonderContract ? { href: s.zonderContract, label: vul(t.zcStad) } : null) : (d.zonderContractLand ? { href: d.zonderContractLand, label: t.zcLand } : null);
       const v = Number(vaak), p = Number(prio);
-      // p: 0 = wenig betalen, 1 = afwisseling, 2 = vaste plek. v: 0 = 1x of minder, 1 = 2-3x, 2 = 4x of vaker.
-      const soort = p === 1 ? (v === 2 ? 'mix' : 'pas')
+      // p: 0 = wenig betalen, 1 = afwisseling, 2 = vaste plek, 3 = ook onderweg. v: 0 = 1x of minder, 1 = 2x, 2 = 3x of vaker.
+      // p: 3 = ook onderweg. Alleen "vaste plek + 1x of minder" geeft allebei.
+      const soort = p === 1 || p === 3 ? 'pas'
         : p === 2 ? (v === 0 ? 'mix' : 'gym')
-        : (v === 0 ? 'pas' : v === 1 ? 'mix' : 'gym');
+        : (v === 0 ? 'pas' : 'gym');
       const naam = { pas: t.pas, gym: t.gym, mix: t.mix }[soort];
       const reden = { pas: t.rPas, gym: t.rGym, mix: t.rMix }[soort];
       const hoofdLabel = soort === 'pas' ? (s ? vul(t.pasStad) : t.pasLand) : soort === 'gym' ? (s ? vul(t.gymStad) : t.gymLand) : (s ? vul(t.alles) : t.pasLand);
@@ -178,7 +180,7 @@ const id = 'keuzehulp';
       opnieuw.addEventListener('click', () => { form.querySelectorAll<HTMLInputElement>('input[type=radio]').forEach((r) => (r.checked = false)); uit.hidden = true; });
       const verder = el('p', 'klein');
       verder.append(link('', d.vergelijk, t.vergelijk), ' · ', opnieuw);
-      uit.replaceChildren(el('p', 'kh-label', t.advies), el('p', 'kh-naam', naam), el('p', '', reden), knoppen, verder, el('p', 'klein kh-noot', t.noot));
+      uit.replaceChildren(el('p', 'kh-label', t.advies), el('p', 'kh-naam', naam), el('p', 'klein kh-jouw', `${t.jouw}: ${t.f[v]} · ${t.p[p]}`), el('p', '', reden), knoppen, verder, el('p', 'klein kh-noot', t.noot));
       uit.hidden = false;
     };
     form.addEventListener('change', bereken);
@@ -211,6 +213,10 @@ const id = 'keuzehulp';
   .keuzehulp .kh-naam { font-size: 1.25rem; font-weight: 700; }
   .keuzehulp .kh-advies .knoppen { margin: .75rem 0; }
   .keuzehulp .kh-opnieuw { background: none; border: 0; padding: 0; font: inherit; color: var(--accent); text-decoration: underline; cursor: pointer; }
+  .keuzehulp .kh-uitleg { margin: .6rem 0 0; padding: .6rem .8rem; background: var(--surface); border-radius: 8px; font-size: .9rem; }
+  .keuzehulp .kh-uitleg p { margin: 0 0 .3rem; line-height: 1.45; }
+  .keuzehulp .kh-uitleg p:last-child { margin-bottom: 0; }
+  .keuzehulp .kh-jouw { color: var(--muted); }
   .keuzehulp .kh-noot { margin-bottom: 0 !important; font-size: .78rem; }
   .keuzehulp .kh-keuzes label { display: inline-block; margin: 0; }
 </style>
