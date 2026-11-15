@@ -1,6 +1,6 @@
 ---
 title: "FitX: Preis, Laufzeit, Studios und Kündigung"
-seoTitle: "FitX: Preis, Laufzeit und Kündigung"
+seoTitle: "FitX Preise 2026: Laufzeit, Studios und Kündigung"
 path: "/de/fitx/"
 description: "Alles über FitX: eine Mitgliedschaft für 29 € im Monat, 12 Monate Grundlaufzeit, danach monatlich kündbar, 24 Stunden geöffnet, Kurse und Studios in deiner Stadt."
 lang: de
@@ -124,7 +124,7 @@ Erst nach dem ersten Jahr. Die Grundlaufzeit ist 12 Monate, danach kündigst du 
 </details>
 
 <details>
-<summary>Was kostet FitX?</summary>
+<summary>Was kostet FitX im Monat?</summary>
 
 29 € im Monat und einmalig 29 € Anmeldegebühr. Kurse sind im Preis enthalten.
 

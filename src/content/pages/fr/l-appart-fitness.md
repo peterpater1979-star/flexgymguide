@@ -1,7 +1,8 @@
 ---
 title: "L’Appart Fitness : formules, prix et salles"
+seoTitle: "L’Appart Fitness : tarifs 2026, formules et salles"
 path: "/fr/l-appart-fitness/"
-description: "Tout sur L’Appart Fitness : 118 salles en France, surtout autour de Lyon, abonnement avec engagement d’un an ou sans engagement, tarif étudiant, frais d’inscription, séance d’essai et résiliation."
+description: "Tarifs L’Appart Fitness : 39,96 € toutes les 4 semaines avec engagement d’un an, 49,96 € sans engagement. 118 salles, surtout autour de Lyon, tarif étudiant, séance d’essai et résiliation."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -111,7 +112,7 @@ Oui, si tu veux : sans engagement, tu paies 10 € de plus toutes les 4 semaines
 </details>
 
 <details>
-<summary>Combien coûte L’Appart Fitness ?</summary>
+<summary>Combien coûte L’Appart Fitness par mois ?</summary>
 
 39,96 € toutes les 4 semaines avec engagement d’un an, ou 49,96 € sans engagement, plus 49 € de frais d’inscription (novembre 2026). Le prix peut varier selon la salle.
 

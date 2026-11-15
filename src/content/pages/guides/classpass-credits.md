@@ -89,9 +89,16 @@ Training three times a week or more at the same gym? Then a regular membership m
 ## Frequently asked questions
 
 <details open>
-<summary>Do ClassPass credits expire?</summary>
+<summary>Do ClassPass credits roll over or expire?</summary>
 
 Unused credits roll over to the next month, up to the number of credits in your next month's plan. Credits above that limit expire.
+
+</details>
+
+<details>
+<summary>How many classes can you book with ClassPass credits?</summary>
+
+That depends on your plan and on the classes you pick. The same class can cost more credits at a busy time or at a popular studio. Divide the credits in your plan by what your favourite classes usually cost, and you know roughly how many you can book each month.
 
 </details>
 
