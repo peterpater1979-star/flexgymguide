@@ -100,13 +100,13 @@ Con ClassPass recibes créditos cada mes para reservar clases y sesiones de gimn
 
 En el centro, la Milla de Oro, Nueva Andalucía y San Pedro Alcántara, y a lo largo de la N-340 hacia Estepona. Una selección por deporte, entre otros:
 
-- **Pilates**: Lagree en Megaformer en Palm Sporting Club, Reformer en AYANA STUDIO (C.C. Tembo) y en The 24th Hour (C.C. Mustang), y HOUSE OF YAGE en el Camino Viejo de Istán
+- **Pilates**: Lagree en Megaformer en Palm Sporting Club, Reformer en AYANA STUDIO (C.C. Tembo) y en The 24th Hour (C.C. Mustang), HOUSE OF YAGE en el Camino Viejo de Istán y RED ROOM STUDIO en Nueva Andalucía
 - **Yoga**: The Sanctum Space en Nueva Andalucía (vinyasa, ashtanga, hatha), The 24th Hour, The Barre House y Palm Sporting Club
 - **Barre**: The Barre House en la avenida de Nabeul y AYANA STUDIO
 - **HIIT**: Barry’s x Nikki Beach en la carretera de Cádiz
-- **Bootcamp y fuerza**: CrossFit Marbella y Barry’s x Nikki Beach
+- **Bootcamp y fuerza**: CrossFit Marbella, Barry’s x Nikki Beach y RED ROOM STUDIO
 - **Gimnasio**: Apolo GYM en Nueva Andalucía
-- **Baile**: pole, heels y exotic en TY LOVES 2 POLE en la calle Salvador Rueda, e Isla Rose Dance Academy en San Pedro Alcántara
+- **Baile**: pole, heels y exotic en TY LOVES 2 POLE en la calle Salvador Rueda, SOUL POLE STUDIO en el C.C. Cristomar, e Isla Rose Dance Academy en San Pedro Alcántara
 - **Aire libre**: hatha yoga en la playa con Yoga with Séana
 - También **boxeo**
 
