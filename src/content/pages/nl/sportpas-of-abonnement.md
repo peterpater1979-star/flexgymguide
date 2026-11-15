@@ -16,16 +16,17 @@ Je kunt op twee manieren flexibel sporten: met een sportpas die bij veel studio'
 
 <h2 id="kort">In het kort</h2>
 
-| | Sportpas | Sportschoolabonnement |
-| --- | --- | --- |
-| **Voorbeelden** | [Urban Sports Club](/nl/urban-sports-club/), [ClassPass](/nl/classpass/) | [Basic-Fit](/nl/basic-fit/), [SportCity](/nl/sportcity/), [Trainmore](/nl/trainmore/), [BigGym](/nl/big-gym/) |
-| **Zo werkt het** | Elke maand check-ins of credits voor lessen en gymbezoeken bij veel studio's | Onbeperkt sporten in de clubs van één keten |
-| **Afwisseling** | Yoga, pilates, boksen, spinning, kracht en meer, op verschillende plekken | De lessen en apparaten van die keten |
-| **Past als je traint** | Eén tot drie keer per week | Drie keer per week of vaker |
-| **In het buitenland** | <span class="ja" aria-hidden="true">✓</span> ClassPass in 31 landen, Urban Sports Club in 7 | Meestal alleen in Nederland |
-| **Eerst proberen** | Gratis proefperiode | Gratis proefles |
+| | [Urban Sports Club](/nl/urban-sports-club/) | [ClassPass](/nl/classpass/) | [Basic-Fit](/nl/basic-fit/) | [SportCity](/nl/sportcity/) |
+| --- | --- | --- | --- | --- |
+| **Soort** | Sportpas | Sportpas | Sportschoolketen | Sportschoolketen |
+| **Zo werkt het** | Vaste prijs per maand en een aantal check-ins | Elke maand credits; elke les of elk gymbezoek kost credits | Onbeperkt sporten; met Premium of Ultimate in alle clubs | Onbeperkt sporten; met City Plus in alle clubs |
+| **Aanbod** | Gyms, yoga, pilates, boksen, zwemmen, klimmen en meer | Yoga, pilates, boksen, spinning, kracht, gyms en meer | Fitness en kracht, live lessen in een deel van de clubs | Gym en alle live groepslessen |
+| **Locaties** | Meer dan 17.200 partnerlocaties | Studio's in meer dan 2.500 steden | Ongeveer 250 clubs in Nederland | 121 clubs in Nederland |
+| **Landen** | 7 | 31 | 6 | Alleen Nederland |
+| **Opzeggen** | Per maand, 3 dagen voor de verlenging | Op elk moment | Met Flex: 4 weken opzegtermijn | Met Flex: per maand |
+| **Past bij** | 1 tot 3 keer per week, afwisseling | 1 tot 3 keer per week, afwisseling, op reis | 3 keer per week of vaker, vaste routine | 3 keer per week of vaker, ook groepslessen |
 
-<p class="klein">Prijzen en voorwaarden veranderen regelmatig. Controleer de actuele informatie altijd bij de aanbieder.</p>
+<p class="klein">Bronnen: de sites van de aanbieders (november 2026). Voorwaarden veranderen regelmatig; controleer de actuele informatie altijd bij de aanbieder.</p>
 
 <h2 id="sportpas">Zo werkt een sportpas</h2>
 
