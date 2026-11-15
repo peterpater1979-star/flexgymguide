@@ -68,7 +68,7 @@ Vita Liberté est surtout présent en Provence et en Corse. Les salles, entre au
 
 <h2 id="resilier">Résilier</h2>
 
-Chaque club Vita Liberté est une franchise indépendante. Le préavis et la façon de résilier dépendent de ton contrat : vérifie-les avant de t’inscrire. Avec engagement, tu restes inscrit pendant 52 semaines.
+Tu résilies par lettre recommandée avec accusé de réception à ton club, en rendant ta carte. Avec ETUDIANT ou FULL, tu es engagé 52 semaines, puis le préavis est de 8 semaines. Avec FREEDOM, le préavis est de 4 semaines. Avant la fin des 52 semaines, tu ne peux arrêter que pour un motif légitime, comme un déménagement pour le travail.
 
 Tout le détail : [Résilier Vita Liberté](/fr/resilier-vita-liberte/).
 
