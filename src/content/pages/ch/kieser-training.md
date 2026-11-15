@@ -2,7 +2,7 @@
 title: "Kieser Training in der Schweiz: Preise, Studios und für wen es passt"
 seoTitle: "Kieser Training Schweiz: Preise 2026 und Studios"
 path: "/ch/kieser-training/"
-description: "Was kostet Kieser Training in der Schweiz? Empfehlung CHF 1050 pro Jahr, Rücken-Programm CHF 1200. über 20 Studios, davon 5 in Zürich, Probetraining und Kündigung."
+description: "Was kostet Kieser Training in der Schweiz? Empfehlung CHF 1050 pro Jahr, Rücken-Programm CHF 1200. Über 20 Studios, davon 5 in Zürich, Probetraining und Kündigung."
 lang: de
 land: ch
 byline: "Aktualisiert im November 2026"
