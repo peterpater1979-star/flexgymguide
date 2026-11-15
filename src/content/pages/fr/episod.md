@@ -39,7 +39,7 @@ EPISOD est un réseau de studios de sport boutique à Paris et à Levallois-Perr
 | **5 sessions Reformer** (tous les sports) | 185 €, soit 37 € la session | 3 mois |
 | **One Week Unlimited** (une fois par membre) | 79 € pour 7 sessions | 7 jours |
 
-Avec une session ou un pack Reformer, tu peux aussi réserver tous les autres sports. Le Pilates Reformer se trouve à Levallois, Pigalle, République et Louvre. Les packs sont nominatifs : tu ne peux pas les partager. Pour les étudiants, il existe des packs moins chers, à acheter à l'accueil d'un hub avec ta carte étudiante.
+Avec une session ou un pack Reformer, tu peux aussi réserver tous les autres sports. Le Pilates Reformer se trouve à Levallois, Pigalle, République et Louvre. Il existe aussi des packs plus grands (10, 20, 30 ou 50 sessions), valables jusqu'à 12 mois. Les packs sont nominatifs : tu ne peux pas les partager. Pour les étudiants, il existe des packs moins chers, à acheter à l'accueil d'un hub avec ta carte étudiante.
 
 <h2 id="abonnements">Les abonnements</h2>
 
@@ -53,10 +53,11 @@ Tous les abonnements donnent accès à tous les sports, Reformer inclus, et à t
 
 - **Sessions en plus :** 21 € la session pour les abonnés.
 - **Réservation en avance :** les abonnés voient le planning 48 heures avant les autres.
-- **Sessions non utilisées :** elles ne passent pas au mois suivant. Une fois par an, si tu n'as utilisé aucune session dans le mois, tu peux les reporter.
+- **Annulation :** gratuite jusqu'à 6 heures avant la session ; plus tard, la session est décomptée (pénalité de 10 € avec l'illimité à partir de la deuxième fois en 30 jours).
+- **Sessions non utilisées :** elles ne passent pas au mois suivant. Avec 4 ou 8 sessions, tu peux une fois par an, sur demande, reporter les sessions d'un mois entier.
 - **Pause :** avec l'illimité, tu peux suspendre ton abonnement un mois entier, une fois par an.
 - **Démarrage :** le 1er du mois, ou tout de suite avec un premier mois au prorata.
-- **Avantages :** 15 % de réduction sur les smoothies, le merchandising et les Masterclass.
+- **Avantages :** 15 % de réduction sur les smoothies, le merchandising et les Masterclass. Les Masterclass et autres « Events » ne sont pas inclus dans l'abonnement.
 
 Avec 4 sessions par mois et un engagement de 12 mois, une session te revient à 22,50 €, contre 30 € à l'unité.
 

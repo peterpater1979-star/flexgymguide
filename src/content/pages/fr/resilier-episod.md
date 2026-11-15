@@ -19,8 +19,8 @@ Pour résilier ton abonnement EPISOD, tu envoies une lettre recommandée avec ac
 
 | | |
 | --- | --- |
-| **Comment** | Lettre recommandée avec accusé de réception, ou e-mail au service client d'EPISOD |
-| **Préavis** | 3 semaines |
+| **Comment** | Lettre recommandée avec accusé de réception à Up and Co, 3 bd de Sébastopol, 75001 Paris, ou e-mail à hello@episod.com |
+| **Préavis** | 3 semaines, à partir de la réception de ta demande |
 | **Engagement** | 3 ou 12 mois ; la résiliation prend effet au plus tôt à la fin |
 | **Après l'engagement** | L'abonnement continue de mois en mois, résiliable chaque mois |
 | **Mois entamé** | Il reste dû en entier |
@@ -29,8 +29,8 @@ Pour résilier ton abonnement EPISOD, tu envoies une lettre recommandée avec ac
 <h2 id="etapes">Comment résilier</h2>
 
 1. **Vérifie ton engagement.** 3 ou 12 mois ? Et quand se termine-t-il ?
-2. **Envoie ta demande** par lettre recommandée avec accusé de réception à l'adresse du siège indiquée dans les conditions générales, ou par e-mail à EPISOD.
-3. **Compte trois semaines de préavis.** Le mois entamé reste dû en entier.
+2. **Envoie ta demande** par lettre recommandée avec accusé de réception à Up and Co, 3 bd de Sébastopol, 75001 Paris, ou par e-mail à hello@episod.com.
+3. **Compte trois semaines de préavis.** Le préavis court à partir de la réception de ta demande par EPISOD. Le mois entamé reste dû en entier.
 4. **Garde une preuve :** l'accusé de réception ou la réponse à ton e-mail.
 
 <h2 id="exceptions">Arrêter avant la fin de l'engagement</h2>
@@ -41,16 +41,22 @@ En principe, tu ne peux pas arrêter avant la fin de ton engagement. Les conditi
 - un déménagement à plus de 25 km ;
 - un licenciement.
 
+Dans ces cas, tu peux demander une suspension de ton abonnement, ou une résiliation avec remboursement. Une suspension pendant l'engagement prolonge celui-ci d'autant.
+
+Ce qui ne compte pas : une maladie ou un accident déjà diagnostiqué avant ton inscription, une cure ou un traitement, et les vacances. Ne pas utiliser ton abonnement ne suffit pas non plus.
+
 <h2 id="pause">Faire une pause au lieu de résilier</h2>
 
 - **Abonnement illimité :** tu peux suspendre ton abonnement un mois entier, une fois par année d'abonnement.
-- **Abonnement de 4 ou 8 sessions :** tes sessions non utilisées ne passent pas au mois suivant. Une fois par an, si tu n'as utilisé aucune session dans le mois, tu peux les reporter au mois suivant.
+- **Abonnement de 4 ou 8 sessions :** sur demande et sans justificatif, tu peux reporter les sessions d'un mois entier au mois suivant, une fois par année d'abonnement. Sinon, les sessions non utilisées ne passent pas au mois suivant.
 
 <h2 id="a-savoir">Bon à savoir</h2>
 
 - **Rétractation :** tu as 14 jours après la conclusion du contrat, sauf si tu as déjà utilisé tes sessions avec ton accord pendant ce délai.
 - **Annulation tardive :** une session annulée moins de 6 heures avant le début est perdue. Avec l'illimité, une pénalité de 10 € s'applique à partir de la deuxième annulation tardive ou absence en 30 jours.
-- **Impayé :** une pénalité forfaitaire de 8 € s'applique.
+- **Impayé :** une pénalité forfaitaire de 8 € s'applique. Après une mise en demeure, ton abonnement est suspendu ; sans régularisation sous 30 jours, il peut être résilié.
+- **Premier mois :** si tu commences en cours de mois, tu paies un prorata et ton engagement démarre le 1er du mois suivant.
+- **Litige :** après une réclamation au service client, tu peux saisir gratuitement le médiateur ANM (Association Nationale des Médiateurs).
 - **Sessions non utilisées :** elles ne sont pas remboursées.
 
 <p class="klein">Source : conditions générales de vente d'EPISOD (en vigueur au 1er septembre 2025, consultées en novembre 2026). Vérifie toujours les conditions de ton contrat.</p>
@@ -80,7 +86,7 @@ La résiliation prend effet au plus tôt à la fin de ton engagement de 3 ou 12 
 <details>
 <summary>Puis-je mettre mon abonnement EPISOD en pause ?</summary>
 
-Avec l'illimité, oui : un mois entier, une fois par an. Avec 4 ou 8 sessions, tu peux reporter tes sessions d'un mois, une fois par an, si tu n'en as utilisé aucune.
+Avec l'illimité, oui : un mois entier, une fois par an, sur demande. Avec 4 ou 8 sessions, tu peux reporter les sessions d'un mois entier, une fois par an, sur demande et sans justificatif.
 
 </details>
 
