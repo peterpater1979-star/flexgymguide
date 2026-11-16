@@ -249,7 +249,7 @@ Das Standard-Abo kostet in Hamburg 59 € im Monat für 42 Credits. Neu bei Clas
 
 ## Fitness First in Hamburg
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 17 in Hamburg, unter anderem in Altona, Eppendorf und Niendorf, am Jungfernstieg und am Rödingsmarkt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 17 in Hamburg, von Altona und Eppendorf bis Harburg und Wandsbek, mehrere davon in der Innenstadt. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -299,6 +299,36 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Hamburg</h2>
+
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Für den HYROX Club in den Stadthöfen nennt Fitness First keine Kategorie: Frag dort nach, welche Mitgliedschaft gilt. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Besonderheiten |
+| --- | --- |
+| **Alsterufer** · BLACK<br><span class="klein">Warburgstraße 1-2</span> | Functional Training Area, Sauna und Dampfbad |
+| **Altona** · BLACK<br><span class="klein">Stresemannstraße 300</span> | Pool, Sauna und Dampfbad, kostenlose Parkplätze |
+| **Bahrenfeld** · RED<br><span class="klein">Schnackenburgallee 50</span> | Eigener Frauenbereich, große Trainingsfläche, Sauna |
+| **Eppendorf** · BLACK<br><span class="klein">Falkenried 88</span> | Kids Club, Sauna und Dampfbad, kostenlose Parkplätze |
+| **Eppendorf Straßenbahnring** · BLACK<br><span class="klein">Straßenbahnring 8</span> | Functional Training Area, kostenlose Parkplätze |
+| **Harburg Hafen** · RED<br><span class="klein">Theodor-Yorck-Straße 4</span> | Große Trainingsfläche, Sauna und Dampfbad, kostenlose Parkplätze |
+| **Harburg Lüneburger Tor** · RED<br><span class="klein">Lüneburger Tor 8</span> | Eigener Frauenbereich, große Trainingsfläche, Sauna |
+| **Innenstadt Dammtorpark** · BLACK<br><span class="klein">Dammtorwall 8</span> | Functional Training Area, kostenlose Parkplätze |
+| **Jungfernstieg** · BLACK<br><span class="klein">Ballindamm 39</span> | Moderner Cardio-Bereich, EGYM |
+| **Langenhorn** · RED<br><span class="klein">Langenhorner Markt 1-18</span> | Große Trainingsfläche, Sauna |
+| **Niendorf** · RED<br><span class="klein">Kollaustraße 127-135</span> | Kurse, EGYM, Sauna und Dampfbad |
+| **Rödingsmarkt** · RED<br><span class="klein">Rödingsmarkt 9</span> | Moderner Cardio-Bereich, Sauna und Dampfbad |
+| **St. Georg** · RED<br><span class="klein">Glockengießerwall 3</span> | Zentrale Lage am Hauptbahnhof, EGYM, Sauna und Dampfbad |
+| **Stephansplatz** · BLACK<br><span class="klein">Gorch-Fock-Wall 1a</span> | Pool, große Trainingsfläche |
+| **Wandsbek** · RED<br><span class="klein">Wandsbeker Marktstraße 2</span> | Sauna und Dampfbad, kostenlose Parkplätze |
+| **Winterhude** · BLACK<br><span class="klein">Humboldtstraße 58</span> | Functional Training Area, Recovery Area |
+| **Stadthöfe (HYROX Club)**<br><span class="klein">Bleichenbrücke 9</span> | HYROX-Kurse, persönliche Betreuung, große Trainingsfläche |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Hamburg</h2>
