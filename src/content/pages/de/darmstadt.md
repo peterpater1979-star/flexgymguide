@@ -10,7 +10,7 @@ crumb: "Darmstadt"
 kicker: "Stadtguide Darmstadt"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In und um Darmstadt trainierst du mit einem Sportpass in Studios in der Region oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In und um Darmstadt trainierst du mit einem Sportpass in Studios in der Region oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Darmstadt](/de/fitnessstudio-ohne-vertrag-darmstadt/).
 
 Das ClassPass-Angebot in Darmstadt ist klein, aber vielseitig: Yoga und Reformer-Pilates bei Balance Yoga in der Innenstadt, Pole Dance und Aerial bei Slow Motion in Griesheim und Gym-Besuche bei AG Medical Fitness in Riedstadt und Eppertshausen. Fährst du oft nach Frankfurt, nutzt du dort mit demselben Abo viel mehr Studios. Trainierst du lieber oft an Geräten? Dann passt Fitness First besser.
 
@@ -146,7 +146,7 @@ Das Standard-Abo kostet in Darmstadt 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Darmstadt
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt, unter anderem am Hauptbahnhof, am Ostbahnhof, in Eberstadt und in der Heidelberger Straße, dazu ein Women-Club am Ludwigsplatz. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -236,7 +236,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 <details open>
 <summary>Welche Fitnessstudios in Darmstadt sind monatlich kündbar?</summary>
 
-Bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif, bei McFit den Flex-Tarif. Urban Sports Club ist monatlich kündbar, ClassPass kannst du jederzeit kündigen. Bei Fitness First hängt die Laufzeit von der Mitgliedschaft ab.
+Bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif, bei McFit den Flex-Tarif. Urban Sports Club ist monatlich kündbar, ClassPass kannst du jederzeit kündigen. Bei Fitness First hängt die Laufzeit von der Mitgliedschaft ab. Mehr dazu unter [Fitnessstudio ohne Vertrag in Darmstadt](/de/fitnessstudio-ohne-vertrag-darmstadt/).
 
 </details>
 

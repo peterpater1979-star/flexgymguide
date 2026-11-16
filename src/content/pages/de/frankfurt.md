@@ -191,7 +191,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfu
 
 ## McFit in Frankfurt
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Frankfurt. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Frankfurt trainierst du in Fechenheim, in Griesheim und auf der Zeil. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 

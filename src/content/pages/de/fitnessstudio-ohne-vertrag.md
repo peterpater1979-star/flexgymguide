@@ -130,7 +130,7 @@ Ja. Viele trainieren in ihrem Studio und buchen über ClassPass ab und zu einen 
 <details class="verder">
 <summary>Mehr lesen</summary>
 
-- Nach Stadt: [Berlin](/de/fitnessstudio-ohne-vertrag-berlin/) · [Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/) · [München](/de/fitnessstudio-ohne-vertrag-muenchen/) · [Köln](/de/fitnessstudio-ohne-vertrag-koeln/) · [Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/) · [Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/) · [Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/) · [Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/) · [Dortmund](/de/fitnessstudio-ohne-vertrag-dortmund/)
+- Nach Stadt: [Berlin](/de/fitnessstudio-ohne-vertrag-berlin/) · [Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/) · [München](/de/fitnessstudio-ohne-vertrag-muenchen/) · [Köln](/de/fitnessstudio-ohne-vertrag-koeln/) · [Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/) · [Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/) · [Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/) · [Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/) · [Dortmund](/de/fitnessstudio-ohne-vertrag-dortmund/) · [Darmstadt](/de/fitnessstudio-ohne-vertrag-darmstadt/)
 - [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/)
 - [In English](/de/gyms-without-contract/)
 
