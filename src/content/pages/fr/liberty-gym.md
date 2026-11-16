@@ -2,7 +2,7 @@
 title: "Liberty Gym : formules, prix et villes"
 seoTitle: "Liberty Gym : tarifs 2026 et formules sans engagement"
 path: "/fr/liberty-gym/"
-description: "Tarifs Liberty Gym : Happy dès 24,95 €, Premium dès 34,95 € toutes les 4 semaines, avec ou sans engagement, Family dès 19,95 €. Salles ouvertes 7j/7 de 6h à 23h, clubs et résiliation."
+description: "Tarifs Liberty Gym : Happy dès 24,95 €, Premium dès 34,95 €, avec ou sans engagement, Family et Étudiant dès 19,95 €. Prix selon le club. Salles ouvertes 7j/7 de 6h à 23h, clubs et résiliation."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -20,7 +20,7 @@ Liberty Gym est un réseau de salles de sport à petit prix, en franchise. Les s
 | | Liberty Gym |
 | --- | --- |
 | **Type** | Salle de sport à petit prix, en franchise |
-| **Formules** | Happy dès 24,95 €, Premium dès 34,95 € toutes les 4 semaines, selon le club |
+| **Formules** | Happy dès 24,95 €, Premium dès 34,95 € (Paris 20e, par mois), selon le club |
 | **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Happy et Premium, avec ou sans engagement de 12 mois |
 | **Family** | Dès 19,95 € par personne, engagement de 12 mois |
 | **Frais d’adhésion** | 49 €, plus 10 € par an pour le matériel |
@@ -33,14 +33,14 @@ Liberty Gym est un réseau de salles de sport à petit prix, en franchise. Les s
 
 <h2 id="formules">Les formules</h2>
 
-| Toutes les 4 semaines | Paris 20e | Bastia (Biguglia) | Engagement |
-| --- | --- | --- | --- |
-| **Happy** | 24,95 € | 32 € | 12 mois ou sans engagement |
-| **Premium** | 34,95 € | 39 € | 12 mois ou sans engagement |
-| **Family** | 19,95 € par personne | 27 € par personne | 12 mois |
-| **Étudiant** | 19,95 € | – | 12 mois, avec ta carte d’étudiant |
+| | Paris 20e (par mois) | Bastia – Biguglia (toutes les 4 semaines) |
+| --- | --- | --- |
+| **Happy** | 24,95 €, sans engagement | 32 € |
+| **Premium** | 34,95 €, sans engagement | 39 € |
+| **Family** | 19,95 € par personne, 12 mois | 27 € par personne, 12 mois |
+| **Étudiant** | 19,95 €, 12 mois | – |
 
-Les prix changent d’un club à l’autre : choisis ton club sur le site pour voir le tien. Premium ajoute les cours collectifs et le small group training. Family vaut pour les personnes du même foyer. Les tarifs Family et Étudiant n’existent pas dans tous les clubs. Le tarif étudiant vaut 12 mois et se renouvelle avec une nouvelle carte d’étudiant.
+Les prix, la période de paiement (par mois ou toutes les 4 semaines) et le contenu changent d’un club à l’autre : choisis ton club sur le site pour voir le tien. À Paris 20e, chaque formule comprend une séance de coaching par semaine. Selon le club, Happy et Premium existent avec un engagement de 12 mois ou sans engagement. Family vaut pour les personnes du même foyer. Les tarifs Family et Étudiant n’existent pas dans tous les clubs. Le tarif étudiant vaut 12 mois et se renouvelle avec une nouvelle carte d’étudiant.
 
 **Sans abonnement**, tu peux aussi payer une seule fois : 79 € pour un mois, 149 € pour 3 mois, 199 € pour 6 mois ou 299 € pour un an.
 
@@ -114,14 +114,14 @@ Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine.
 <details open>
 <summary>Liberty Gym est-il sans engagement ?</summary>
 
-Oui, Happy et Premium existent sans engagement. À Paris 20e, Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines sans engagement. Family et Étudiant demandent un engagement de 12 mois.
+Oui, Happy et Premium existent sans engagement. À Paris 20e, Happy coûte 24,95 € et Premium 34,95 € par mois sans engagement. Family et Étudiant demandent un engagement de 12 mois.
 
 </details>
 
 <details>
 <summary>Combien coûte Liberty Gym par mois ?</summary>
 
-Tu paies toutes les 4 semaines, et le prix dépend du club : Happy de 24,95 € (Paris 20e) à 32 € (Bastia), Premium de 34,95 € à 39 €, Family de 19,95 € à 27 € par personne. Tu ajoutes 49 € de frais d’adhésion et 10 € par an pour le matériel (novembre 2026).
+Le prix dépend du club. À Paris 20e, tu paies par mois : Happy 24,95 €, Premium 34,95 €, Family 19,95 € par personne. À Bastia, toutes les 4 semaines : Happy 32 €, Premium 39 €, Family 27 €. Tu ajoutes 49 € de frais d’adhésion et 10 € par an pour le matériel (novembre 2026).
 
 </details>
 
