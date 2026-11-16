@@ -383,7 +383,7 @@ Studios boutique à Paris et Levallois : Bootcamp, Boxing, Cycling, Reformer et 
 
 ### Urban Sports Club
 
-Un prix fixe par mois pour des check-ins dans plus de 17 200 salles et studios partenaires, dans 7 pays européens.
+Un prix fixe par mois pour des check-ins dans plus de 17 200 salles et studios partenaires.
 
 <div class="usc-plan">
 <p class="usc-plan-kop"><strong>Classic</strong> <span>75 € par mois</span></p>

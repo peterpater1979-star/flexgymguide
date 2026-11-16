@@ -299,7 +299,7 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 ### Urban Sports Club
 
-Un precio fijo al mes, con check-ins en más de 17.200 gimnasios y estudios asociados de 7 países europeos.
+Un precio fijo al mes, con check-ins en más de 17.200 gimnasios y estudios asociados.
 
 <div class="usc-plan">
 <p class="usc-plan-kop"><strong>Classic</strong> <span>75 € al mes</span></p>
