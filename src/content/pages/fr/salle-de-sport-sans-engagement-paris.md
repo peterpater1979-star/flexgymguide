@@ -96,7 +96,7 @@ Liberty Gym a une salle dans le 20e, ouverte 7j/7 de 6h à 23h, avec musculation
 
 - **Sans abonnement :** 79 € pour un mois, 149 € pour 3 mois, 199 € pour 6 mois, 299 € pour un an, payés en une fois.
 - **Famille et étudiants :** 19,95 € par personne, mais avec engagement d'un an.
-- **Résilier :** préavis de 8 semaines, par lettre recommandée avec accusé de réception.
+- **Résilier :** préavis de 8 semaines, par lettre recommandée avec accusé de réception. Lis [Résilier Liberty Gym](/fr/resilier-liberty-gym/).
 
 <p class="klein">Source : libertygym.fr (novembre 2026). Vérifie toujours les prix actuels avec le club.</p>
 
