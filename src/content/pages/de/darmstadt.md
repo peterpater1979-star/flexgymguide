@@ -67,6 +67,20 @@ Ein Abo auf Credit-Basis für Yoga, Reformer-Pilates und Aerial in der Region, u
 
 </div>
 
+<div id="mcfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+<h3>McFit</h3>
+
+McFit hat in Darmstadt ein Studio in der Pallaswiesenstraße, 24 Stunden geöffnet. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
 <div id="clever-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
@@ -222,7 +236,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 <details open>
 <summary>Welche Fitnessstudios in Darmstadt sind monatlich kündbar?</summary>
 
-Bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif. Urban Sports Club ist monatlich kündbar, ClassPass kannst du jederzeit kündigen. Bei Fitness First hängt die Laufzeit von der Mitgliedschaft ab.
+Bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif, bei McFit den Flex-Tarif. Urban Sports Club ist monatlich kündbar, ClassPass kannst du jederzeit kündigen. Bei Fitness First hängt die Laufzeit von der Mitgliedschaft ab.
 
 </details>
 
