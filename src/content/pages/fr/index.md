@@ -386,6 +386,7 @@ Salle en franchise, ouverte de 6h à 23h tous les jours. FULL à 36,75 € toute
 Salle à petit prix, ouverte de 6h à 23h tous les jours. Happy à 24,95 € et Premium à 34,95 € toutes les 4 semaines, sans engagement.
 
 <div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai dans chaque club</p>
 <ul>
 <li>Idéal si tu veux payer peu, sans engagement</li>
 <li>Surtout en Franche-Comté et en Alsace</li>

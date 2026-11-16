@@ -24,6 +24,7 @@ Liberty Gym est un réseau de salles de sport à petit prix, en franchise. Les s
 | **Avec engagement (52 semaines)** | Famille et Étudiant 19,95 € par personne toutes les 4 semaines |
 | **Frais d’adhésion** | 49 €, plus 10 € par an pour le matériel |
 | **Horaires** | 7 jours sur 7, de 6h à 23h (selon le club) |
+| **Séance d’essai** | <span class="ja" aria-hidden="true">✓</span> À réserver sur le site, dans chaque club |
 | **Accès** | Tous les clubs Liberty Gym |
 | **Préavis** | 8 semaines |
 
@@ -59,7 +60,7 @@ Liberty Gym est surtout présent en Franche-Comté et en Alsace. Les clubs, entr
 - **Doubs :** Besançon (Centre-Ville, Marmier et École-Valentin), Baume-les-Dames, Montbéliard, Morteau – Les Fins, Pontarlier – Chaffois et Valdahon
 - **Alsace (Haut-Rhin) :** Bitschwiller-lès-Thann, Brunstatt, Burnhaupt-le-Bas, Guebwiller – Soultz, Habsheim, Hésingue, Masevaux et Wittelsheim
 - **Haute-Saône et Territoire de Belfort :** Belfort – Andelnans, Delle, Héricourt, Lure, Rioz et Vesoul – Vaivre
-- **Jura, Côte-d’Or, Haute-Marne et Vosges :** Champagnole, Lons-le-Saunier, Genlis, Langres et Épinal
+- **Jura, Côte-d’Or, Haute-Marne et Vosges :** Champagnole, Lons-le-Saunier, Mont-sous-Vaudrey, Genlis, Langres et Épinal
 - **Ailleurs en France :** [Paris](/fr/paris/#liberty-gym) 20e, Limay (Yvelines), Ollioules (Var), Montélimar (Drôme), Sarlat (Dordogne) et Biguglia, près de Bastia
 - **Outre-mer :** Remire-Montjoly et Saint-Laurent-du-Maroni (Guyane), Schœlcher (Martinique) et Saint-Martin
 
@@ -127,6 +128,13 @@ Tu paies toutes les 4 semaines : de 19,95 € (Famille ou Étudiant, avec engage
 <summary>Quels sont les horaires de Liberty Gym ?</summary>
 
 En général 7 jours sur 7, de 6h à 23h. Certains clubs ont d’autres horaires, par exemple le dimanche.
+
+</details>
+
+<details>
+<summary>Peut-on faire une séance d’essai chez Liberty Gym ?</summary>
+
+Oui, chaque club propose une séance d’essai, à réserver sur le site de Liberty Gym.
 
 </details>
 
