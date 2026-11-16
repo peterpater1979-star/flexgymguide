@@ -27,7 +27,7 @@ Planète Fitness est un réseau de salles de sport à petit prix, avec plus de 2
 | **Horaires** | 7 jours sur 7, de 5h à 23h |
 | **Préavis** | 8 semaines |
 
-<p class="klein">Source : <a href="https://www.planete-fitness.fr/">planete-fitness.fr</a> (novembre 2026), sans les offres temporaires. Les prix peuvent changer d’un club à l’autre. Vérifie toujours le prix de ton club.</p>
+<p class="klein">Source : <a href="https://www.planete-fitness.fr/">planete-fitness.fr</a> (novembre 2026), prix du club de Caen – Carpiquet, sans les offres temporaires. Les prix peuvent changer d’un club à l’autre. Vérifie toujours le prix de ton club.</p>
 
 <h2 id="formules">Les formules</h2>
 
@@ -109,7 +109,7 @@ Oui. Sans engagement, tu paies le même prix, 7,50 € par semaine, plus 49 € 
 <details>
 <summary>Combien coûte Planète Fitness par mois ?</summary>
 
-7,50 € par semaine, soit 30 € toutes les 4 semaines, plus 10 € par an pour le matériel (novembre 2026). Le prix peut changer selon le club.
+7,50 € par semaine, soit 30 € toutes les 4 semaines, plus 10 € par an pour le matériel (novembre 2026, club de Caen – Carpiquet). Le prix peut changer selon le club.
 
 </details>
 
