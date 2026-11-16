@@ -117,7 +117,7 @@ Près de Nîmes, Neoness a un club à Marguerittes. Access coûte 29,99 € et P
 
 <h3 id="planete-fitness-nimes">Planète Fitness</h3>
 
-À Nîmes, Planète Fitness a quatre clubs : Carré Sud, Mas des Rosiers, Carreau de Lanes et Séverine. Ouvert 7j/7 de 5h à 23h, 7,50 € par semaine avec ou sans engagement.
+À Nîmes, Planète Fitness a quatre clubs : Carré Sud, Mas des Rosiers, Carreau Lanes et Séverine. Ouvert 7j/7 de 5h à 23h, 7,50 € par semaine avec ou sans engagement.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/planete-fitness/">Tout sur Planète Fitness</a>

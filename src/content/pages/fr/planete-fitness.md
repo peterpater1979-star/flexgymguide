@@ -48,7 +48,7 @@ Comme le prix par semaine est le même, la formule sans engagement te coûte seu
 Planète Fitness a 22 clubs, surtout en Normandie, dans le Centre-Est et dans le Sud-Ouest :
 
 - **Normandie :** Bayeux, Caen – Carpiquet, Villers-Bocage, Vire, Saint-Lô et [Le Havre](/fr/le-havre/#planete-fitness)
-- **Gard :** [Nîmes](/fr/nimes/#planete-fitness), quatre clubs : Carré Sud, Carreau de Lanes, Mas des Rosiers et Séverine
+- **Gard :** [Nîmes](/fr/nimes/#planete-fitness), quatre clubs : Carré Sud, Carreau Lanes, Mas des Rosiers et Séverine
 - **Rhône-Alpes :** [Lyon](/fr/lyon/#planete-fitness) Confluence, [Saint-Étienne](/fr/saint-etienne/#planete-fitness), Valence, Bourg-en-Bresse et Ambérieu-en-Bugey
 - **Bourgogne et Auvergne :** [Dijon](/fr/dijon/#planete-fitness), Chalon-sur-Saône et [Clermont-Ferrand](/fr/clermont-ferrand/#planete-fitness)
 - **Charentes :** Angoulême, Cognac et Ferrières
