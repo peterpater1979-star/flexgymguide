@@ -39,6 +39,7 @@ Tu changes d'avis ? Jusqu'à la date de fin, tu peux annuler ta résiliation. Ap
 
 Tu quittes Basic-Fit parce que tu veux plus de variété, ou parce que tu ne veux plus être engagé ? Voici des options sans longue durée :
 
+- **Urban Sports Club :** un pass sport avec un prix fixe par mois pour des salles, des cours et d’autres sports, résiliable chaque mois. Lis [Tout sur Urban Sports Club](/fr/urban-sports-club/).
 - **ClassPass :** chaque mois des crédits pour des cours et des salles dans les studios de ta ville, résiliable à tout moment. Lis [Tout sur ClassPass](/fr/classpass/) ou [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 - **À Paris :** regarde [Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/).
 - **Tu hésites ?** Lis [Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)

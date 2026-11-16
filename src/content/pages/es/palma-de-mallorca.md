@@ -16,21 +16,6 @@ En Palma, ClassPass tiene muchos estudios de Pilates, en el centro, Santa Catali
 
 <div class="kolommen vier">
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-classpass"><span>Para variar</span></div>
-
-### ClassPass
-
-Mucho Pilates, también yoga, barre y cycling, del centro a Santa Catalina y Portals Nous, con una suscripción de créditos. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-palma-de-mallorca">Prueba 10 sesiones gratis en 14 días</a>
-<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
-</div>
-
-</div>
-
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
@@ -43,6 +28,21 @@ Urban Sports Club también está en Palma de Mallorca. Es un pase deportivo con 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Para variar</span></div>
+
+### ClassPass
+
+Mucho Pilates, también yoga, barre y cycling, del centro a Santa Catalina y Portals Nous, con una suscripción de créditos. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-palma-de-mallorca">Prueba 10 sesiones gratis en 14 días</a>
+<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>
