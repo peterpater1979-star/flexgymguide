@@ -29,18 +29,18 @@ Liberty Gym est un réseau de salles de sport à petit prix, en franchise. Les s
 | **Accès** | Tous les clubs Liberty Gym |
 | **Préavis** | 8 semaines |
 
-<p class="klein">Source : <a href="https://libertygym.fr/">libertygym.fr</a> et conditions générales (novembre 2026), prix des clubs de Paris 20e et de Bastia, sans les offres temporaires. Liberty Gym est un réseau de franchises : les prix changent d’un club à l’autre. Vérifie toujours le prix de ton club.</p>
+<p class="klein">Source : <a href="https://libertygym.fr/">libertygym.fr</a> et conditions générales (novembre 2026), prix des clubs de Paris 20e, Bastia et Champagnole, sans les offres temporaires. Liberty Gym est un réseau de franchises : les prix changent d’un club à l’autre. Vérifie toujours le prix de ton club.</p>
 
 <h2 id="formules">Les formules</h2>
 
-| | Paris 20e (par mois) | Bastia – Biguglia (toutes les 4 semaines) |
-| --- | --- | --- |
-| **Happy** | 24,95 €, sans engagement | 32 € |
-| **Premium** | 34,95 €, sans engagement | 39 € |
-| **Family** | 19,95 € par personne, 12 mois | 27 € par personne, 12 mois |
-| **Étudiant** | 19,95 €, 12 mois | – |
+| | Paris 20e (par mois) | Bastia – Biguglia (toutes les 4 semaines) | Champagnole (toutes les 4 semaines) |
+| --- | --- | --- | --- |
+| **Happy** | 24,95 €, sans engagement | 32 € | 29 € |
+| **Premium** | 34,95 €, sans engagement | 39 € | 39 € |
+| **Family** | 19,95 € par personne, 12 mois | 27 € par personne, 12 mois | 24 € par personne, 12 mois |
+| **Étudiant** | 19,95 €, 12 mois | – | – |
 
-Les prix, la période de paiement (par mois ou toutes les 4 semaines) et le contenu changent d’un club à l’autre : choisis ton club sur le site pour voir le tien. À Paris 20e, chaque formule comprend une séance de coaching par semaine. Selon le club, Happy et Premium existent avec un engagement de 12 mois ou sans engagement. Family vaut pour les personnes du même foyer. Les tarifs Family et Étudiant n’existent pas dans tous les clubs. Le tarif étudiant vaut 12 mois et se renouvelle avec une nouvelle carte d’étudiant.
+Les prix, la période de paiement (par mois ou toutes les 4 semaines) et le contenu changent d’un club à l’autre : choisis ton club sur le site pour voir le tien. À Paris 20e, chaque formule comprend une séance de coaching par semaine ; à Champagnole, un bilan corporel (check-up 3D) et un suivi personnalisé. Selon le club, Happy et Premium existent avec un engagement de 12 mois ou sans engagement. Family vaut pour les personnes du même foyer. Les tarifs Family et Étudiant n’existent pas dans tous les clubs. Le tarif étudiant vaut 12 mois et se renouvelle avec une nouvelle carte d’étudiant.
 
 **Sans abonnement**, tu peux aussi payer une seule fois : 79 € pour un mois, 149 € pour 3 mois, 199 € pour 6 mois ou 299 € pour un an.
 
@@ -121,7 +121,7 @@ Oui, Happy et Premium existent sans engagement. À Paris 20e, Happy coûte 24,95
 <details>
 <summary>Combien coûte Liberty Gym par mois ?</summary>
 
-Le prix dépend du club. À Paris 20e, tu paies par mois : Happy 24,95 €, Premium 34,95 €, Family 19,95 € par personne. À Bastia, toutes les 4 semaines : Happy 32 €, Premium 39 €, Family 27 €. Tu ajoutes 49 € de frais d’adhésion et 10 € par an pour le matériel (novembre 2026).
+Le prix dépend du club. À Paris 20e, tu paies par mois : Happy 24,95 €, Premium 34,95 €, Family 19,95 € par personne. À Bastia et à Champagnole, toutes les 4 semaines : Happy 29 à 32 €, Premium 39 €, Family 24 à 27 €. Tu ajoutes 49 € de frais d’adhésion et 10 € par an pour le matériel (novembre 2026).
 
 </details>
 
