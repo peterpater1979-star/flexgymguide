@@ -146,7 +146,7 @@ Das Standard-Abo kostet in Darmstadt 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Darmstadt
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt, unter anderem am Hauptbahnhof, am Ostbahnhof, in Eberstadt und in der Heidelberger Straße, dazu ein Women-Club am Ludwigsplatz. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt, unter anderem am Hauptbahnhof, am Ostbahnhof, in Eberstadt und in der Heidelberger Straße, dazu ein Ladies-Club am Ludwigsplatz. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
