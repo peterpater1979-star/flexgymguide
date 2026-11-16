@@ -22,7 +22,10 @@ Wefit.club est un réseau de 57 salles de sport en franchise, surtout dans l’O
 | **Type** | Salle de sport conviviale en franchise, avec cours collectifs |
 | **Avec engagement** | [PRIX] toutes les 4 semaines |
 | **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> [PRIX] toutes les 4 semaines |
-| **Frais d’inscription** | [PRIX] |
+| **Formules** | Standard, Premium et VIP |
+| **Frais d’adhésion** | 60 €, à la première inscription |
+| **Horaires** | Accès libre 7 jours sur 7, de 6h à 23h |
+| **Accès** | Multiclub |
 | **Clubs** | 57, surtout en Pays de la Loire et en Bretagne |
 | **Préavis** | 8 semaines |
 
@@ -30,18 +33,19 @@ Wefit.club est un réseau de 57 salles de sport en franchise, surtout dans l’O
 
 <h2 id="formules">Les formules</h2>
 
-| Toutes les 4 semaines | Prix | Engagement |
-| --- | --- | --- |
-| **[FORMULE]** | [PRIX] | 12 mois |
-| **[FORMULE]** | [PRIX] | Sans engagement |
+| | Avec engagement (1 an) | Sans engagement | Ce qui est inclus |
+| --- | --- | --- | --- |
+| **Standard** | [PRIX] | [PRIX] | Cardio, musculation, cours collectifs, appli, accès multiclub, accès libre de 6h à 23h |
+| **Premium** | [PRIX] | [PRIX] | Standard, plus un programme d’entraînement, les replays et un bilan santé |
+| **VIP** | [PRIX] | [PRIX] | Premium, plus inviter un ami, plus de flexibilité et un pack sportif |
+
+Tu ajoutes 60 € de frais d’adhésion à ta première inscription. **Option Duo :** [PRIX].
 
 Après ton engagement, ton abonnement continue sans date de fin, jusqu’à ce que tu résilies.
 
-**Options :** Premium (5 € de plus toutes les 4 semaines) et VIP (10 € de plus toutes les 4 semaines). Leur contenu se voit en club.
-
 <h2 id="clubs">Ce que tu trouves dans les clubs</h2>
 
-Musculation, cardio, cours collectifs et des coachs. Avec l’appli, tu vois les horaires de ton club et tu réserves les cours. Selon le club, il y a un accès libre en dehors des heures avec personnel.
+Musculation, cardio, cours collectifs et des coachs. Tu as un accès libre de 6h à 23h, 7 jours sur 7, et avec l’accès multiclub tu peux aller dans les autres clubs du réseau. Avec l’appli, tu réserves les cours.
 
 <h2 id="villes">Dans quelles villes ?</h2>
 
@@ -111,7 +115,7 @@ Oui, il existe des formules sans engagement, à [PRIX] toutes les 4 semaines. Av
 <details>
 <summary>Combien coûte Wefit.club par mois ?</summary>
 
-Tu paies toutes les 4 semaines : de [PRIX] à [PRIX], plus [PRIX] de frais d’inscription (novembre 2026). Le prix peut changer selon le club.
+Tu paies toutes les 4 semaines : de [PRIX] à [PRIX], plus 60 € de frais d’adhésion (novembre 2026). Le prix peut changer selon le club.
 
 </details>
 
