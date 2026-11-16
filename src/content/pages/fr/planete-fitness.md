@@ -25,7 +25,7 @@ Planète Fitness est un réseau de salles de sport à petit prix, avec 22 clubs 
 | **Étudiant** | Sans engagement, 24,50 € de frais d’inscription |
 | **Pass jour** | 10 € |
 | **Horaires** | 7 jours sur 7, de 5h à 23h |
-| **Préavis** | 8 semaines |
+| **Préavis** | 8 semaines, par lettre recommandée ou en ligne |
 
 <p class="klein">Source : <a href="https://www.planete-fitness.fr/">planete-fitness.fr</a> (novembre 2026), prix du club de Caen – Carpiquet, sans les offres temporaires. Les prix peuvent changer d’un club à l’autre. Vérifie toujours le prix de ton club.</p>
 
@@ -60,7 +60,7 @@ Les clubs sont sur [planete-fitness.fr](https://www.planete-fitness.fr/).
 
 <h2 id="resilier">Résilier</h2>
 
-Le préavis est de 8 semaines. Avec la formule d’un an, tu peux résilier une fois l’année d’engagement terminée.
+Tu résilies par lettre recommandée avec accusé de réception à ton club, ou avec le formulaire en ligne dans l’appli. Le préavis est de 8 semaines. Avec la formule d’un an, tu peux résilier une fois l’année d’engagement terminée. Tu t’absentes un moment ? Tu peux aussi suspendre ton abonnement par mail à ton club.
 
 Tout le détail : [Résilier Planète Fitness](/fr/resilier-planete-fitness/).
 
