@@ -2,7 +2,7 @@
 title: "Résilier Liberty Gym : comment faire, préavis et ce qu'il faut savoir"
 seoTitle: "Résilier Liberty Gym : préavis et démarche"
 path: "/fr/resilier-liberty-gym/"
-description: "Comment résilier Liberty Gym : lettre recommandée ou remise au club, préavis de 8 semaines, engagement de 52 semaines avec Famille et Étudiant, motifs légitimes et rétractation."
+description: "Comment résilier Liberty Gym : lettre recommandée ou remise au club, préavis de 8 semaines, engagement de 12 mois selon la formule, motifs légitimes et rétractation."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -13,7 +13,7 @@ zoekwoorden: "résiliation Liberty Gym, Liberty Gym résilier, préavis Liberty 
 
 <div class="fotobanner smal foto-liberty-gym" role="img" aria-label="Salle de sport"></div>
 
-Pour résilier Liberty Gym, tu envoies une lettre recommandée avec accusé de réception, ou tu remets ta lettre au club contre un reçu. Le préavis est de 8 semaines. Avec Famille ou Étudiant, tu es d’abord engagé 52 semaines.
+Pour résilier Liberty Gym, tu envoies une lettre recommandée avec accusé de réception, ou tu remets ta lettre au club contre un reçu. Le préavis est de 8 semaines. Avec une formule de 12 mois, tu es d’abord engagé 52 semaines.
 
 <h2 id="resume">En bref</h2>
 
@@ -21,14 +21,14 @@ Pour résilier Liberty Gym, tu envoies une lettre recommandée avec accusé de r
 | --- | --- |
 | **Comment** | Lettre recommandée avec accusé de réception, ou lettre remise au club contre un reçu |
 | **Préavis** | 8 semaines (56 jours) |
-| **Happy et Premium** | Sans engagement |
-| **Famille et Étudiant** | Engagement de 52 semaines, ensuite préavis de 8 semaines |
+| **Sans engagement** | Résiliable à tout moment, avec 8 semaines de préavis |
+| **Formule de 12 mois** | Engagement de 52 semaines, ensuite préavis de 8 semaines |
 | **Arrêter plus tôt** | Seulement pour un motif légitime (voir plus bas), avec justificatif |
 | **En ligne** | Un formulaire existe sur le site, mais les conditions générales parlent de la lettre |
 
 <h2 id="etapes">Comment résilier</h2>
 
-1. **Vérifie ta formule.** Sans engagement (Happy, Premium) ou avec 52 semaines (Famille, Étudiant) ? Et quand se terminent tes 52 semaines ?
+1. **Vérifie ta formule.** Sans engagement ou avec 12 mois d’engagement (Happy, Premium, Family ou Étudiant) ? Et quand se terminent tes 52 semaines ?
 2. **Écris ta lettre.** Indique ton nom, ton club et la date à laquelle tu veux arrêter.
 3. **Envoie-la en recommandé avec accusé de réception**, ou remets-la au club et demande un reçu daté.
 4. **Compte le préavis de 8 semaines.** Les prélèvements continuent jusqu’à la fin du préavis.
@@ -71,7 +71,7 @@ Par lettre recommandée avec accusé de réception, ou par lettre remise au club
 <details>
 <summary>Quel est le préavis chez Liberty Gym ?</summary>
 
-8 semaines, soit 56 jours. Avec Famille ou Étudiant, tu peux résilier une fois les 52 semaines d’engagement terminées.
+8 semaines, soit 56 jours. Avec une formule de 12 mois, tu peux résilier une fois les 52 semaines d’engagement terminées.
 
 </details>
 

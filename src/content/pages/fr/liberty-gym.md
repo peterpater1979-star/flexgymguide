@@ -2,7 +2,7 @@
 title: "Liberty Gym : formules, prix et villes"
 seoTitle: "Liberty Gym : tarifs 2026 et formules sans engagement"
 path: "/fr/liberty-gym/"
-description: "Tarifs Liberty Gym : Happy 24,95 €, Premium 34,95 € toutes les 4 semaines sans engagement, Famille et Étudiant 19,95 €. Salles ouvertes 7j/7 de 6h à 23h, clubs et résiliation."
+description: "Tarifs Liberty Gym : Happy dès 24,95 €, Premium dès 34,95 € toutes les 4 semaines, avec ou sans engagement, Family dès 19,95 €. Salles ouvertes 7j/7 de 6h à 23h, clubs et résiliation."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -20,26 +20,27 @@ Liberty Gym est un réseau de salles de sport à petit prix, en franchise. Les s
 | | Liberty Gym |
 | --- | --- |
 | **Type** | Salle de sport à petit prix, en franchise |
-| **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Happy 24,95 €, Premium 34,95 € toutes les 4 semaines |
-| **Avec engagement (52 semaines)** | Famille et Étudiant 19,95 € par personne toutes les 4 semaines |
+| **Formules** | Happy dès 24,95 €, Premium dès 34,95 € toutes les 4 semaines, selon le club |
+| **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Happy et Premium, avec ou sans engagement de 12 mois |
+| **Family** | Dès 19,95 € par personne, engagement de 12 mois |
 | **Frais d’adhésion** | 49 €, plus 10 € par an pour le matériel |
 | **Horaires** | 7 jours sur 7, de 6h à 23h (selon le club) |
 | **Séance d’essai** | <span class="ja" aria-hidden="true">✓</span> À réserver sur le site, dans chaque club |
 | **Accès** | Tous les clubs Liberty Gym |
 | **Préavis** | 8 semaines |
 
-<p class="klein">Source : <a href="https://libertygym.fr/">libertygym.fr</a> et conditions générales (novembre 2026), prix du club de Paris 20e, sans les offres temporaires. Liberty Gym est un réseau de franchises : les prix peuvent changer d’un club à l’autre. Vérifie toujours le prix de ton club.</p>
+<p class="klein">Source : <a href="https://libertygym.fr/">libertygym.fr</a> et conditions générales (novembre 2026), prix des clubs de Paris 20e et de Bastia, sans les offres temporaires. Liberty Gym est un réseau de franchises : les prix changent d’un club à l’autre. Vérifie toujours le prix de ton club.</p>
 
 <h2 id="formules">Les formules</h2>
 
-| Toutes les 4 semaines | Prix | Engagement |
-| --- | --- | --- |
-| **Happy** | 24,95 € | Sans engagement |
-| **Premium** | 34,95 € | Sans engagement |
-| **Famille** | 19,95 € par personne | 52 semaines |
-| **Étudiant** | 19,95 € | 52 semaines, avec ta carte d’étudiant |
+| Toutes les 4 semaines | Paris 20e | Bastia (Biguglia) | Engagement |
+| --- | --- | --- | --- |
+| **Happy** | 24,95 € | 32 € | 12 mois ou sans engagement |
+| **Premium** | 34,95 € | 39 € | 12 mois ou sans engagement |
+| **Family** | 19,95 € par personne | 27 € par personne | 12 mois |
+| **Étudiant** | 19,95 € | – | 12 mois, avec ta carte d’étudiant |
 
-Les tarifs Famille et Étudiant n’existent pas dans tous les clubs. Le tarif étudiant vaut 12 mois et se renouvelle avec une nouvelle carte d’étudiant.
+Les prix changent d’un club à l’autre : choisis ton club sur le site pour voir le tien. Premium ajoute les cours collectifs et le small group training. Family vaut pour les personnes du même foyer. Les tarifs Family et Étudiant n’existent pas dans tous les clubs. Le tarif étudiant vaut 12 mois et se renouvelle avec une nouvelle carte d’étudiant.
 
 **Sans abonnement**, tu peux aussi payer une seule fois : 79 € pour un mois, 149 € pour 3 mois, 199 € pour 6 mois ou 299 € pour un an.
 
@@ -68,7 +69,7 @@ Les clubs et leurs horaires sont sur [libertygym.fr](https://libertygym.fr/clubs
 
 <h2 id="resilier">Résilier</h2>
 
-Tu résilies par lettre recommandée avec accusé de réception, ou par lettre remise en main propre au club contre un reçu. Le préavis est de 8 semaines. Avec Famille ou Étudiant, tu es d’abord engagé 52 semaines. Avant la fin, tu ne peux arrêter que pour un motif légitime, comme une maladie grave ou une mutation sans club Liberty Gym à moins de 30 km.
+Tu résilies par lettre recommandée avec accusé de réception, ou par lettre remise en main propre au club contre un reçu. Le préavis est de 8 semaines. Avec une formule de 12 mois, tu es d’abord engagé 52 semaines. Avant la fin, tu ne peux arrêter que pour un motif légitime, comme une maladie grave ou une mutation sans club Liberty Gym à moins de 30 km.
 
 Tout le détail : [Résilier Liberty Gym](/fr/resilier-liberty-gym/).
 
@@ -113,14 +114,14 @@ Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine.
 <details open>
 <summary>Liberty Gym est-il sans engagement ?</summary>
 
-Oui, avec Happy (24,95 €) et Premium (34,95 €) toutes les 4 semaines. Les tarifs Famille et Étudiant (19,95 €) demandent un engagement de 52 semaines.
+Oui, Happy et Premium existent sans engagement. À Paris 20e, Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines sans engagement. Family et Étudiant demandent un engagement de 12 mois.
 
 </details>
 
 <details>
 <summary>Combien coûte Liberty Gym par mois ?</summary>
 
-Tu paies toutes les 4 semaines : de 19,95 € (Famille ou Étudiant, avec engagement) à 34,95 € (Premium), plus 49 € de frais d’adhésion et 10 € par an pour le matériel (novembre 2026, club de Paris 20e). Le prix peut changer selon le club.
+Tu paies toutes les 4 semaines, et le prix dépend du club : Happy de 24,95 € (Paris 20e) à 32 € (Bastia), Premium de 34,95 € à 39 €, Family de 19,95 € à 27 € par personne. Tu ajoutes 49 € de frais d’adhésion et 10 € par an pour le matériel (novembre 2026).
 
 </details>
 
