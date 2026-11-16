@@ -63,6 +63,7 @@ Ce qui ne compte pas : une maladie ou un accident déjà diagnostiqué avant ton
 
 <h2 id="alternatives">Et maintenant ? Des alternatives sans engagement</h2>
 
+- **Urban Sports Club :** un pass sport avec un prix fixe par mois pour des salles, des cours et d’autres sports, résiliable chaque mois. Lis [Tout sur Urban Sports Club](/fr/urban-sports-club/).
 - **ClassPass :** chaque mois des crédits pour des cours dans les studios de ta ville, résiliable à tout moment. Lis [Tout sur ClassPass](/fr/classpass/) ou [ClassPass à Paris](/fr/classpass-paris/).
 - **Une salle sans engagement à Paris :** lis [Salle de sport sans engagement à Paris](/fr/salle-de-sport-sans-engagement-paris/).
 - **Tu hésites ?** Lis [Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)

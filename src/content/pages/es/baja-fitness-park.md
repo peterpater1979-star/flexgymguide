@@ -43,6 +43,7 @@ Con un certificado médico oficial que indica que no puedes entrenar durante 3 m
 
 ¿Te das de baja porque quieres más variedad o porque no quieres estar atado? Estas son opciones sin compromiso largo:
 
+- **Urban Sports Club:** un pase deportivo con precio fijo al mes para gimnasios, clases y otros deportes, cancelable cada mes. Lee [Todo sobre Urban Sports Club](/es/urban-sports-club/).
 - **ClassPass:** cada mes créditos para clases y gimnasios en estudios de tu ciudad, cancelable en cualquier momento. Lee [Todo sobre ClassPass](/es/classpass/) o [Probar ClassPass gratis](/es/prueba-classpass/).
 - **Otros gimnasios sin permanencia:** mira [Gimnasio sin permanencia](/es/gimnasio-sin-permanencia/).
 - **¿Dudas?** Lee [¿Pase deportivo o gimnasio?](/es/pase-o-gimnasio/)

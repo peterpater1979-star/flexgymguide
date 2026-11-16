@@ -39,6 +39,7 @@ Te das de baja en L’Orange bleue por burofax o carta certificada con acuse de 
 
 <h2 id="alternativas">¿Y ahora? Alternativas sin permanencia</h2>
 
+- **Urban Sports Club:** un pase deportivo con precio fijo al mes para gimnasios, clases y otros deportes, cancelable cada mes. Lee [Todo sobre Urban Sports Club](/es/urban-sports-club/).
 - **ClassPass:** cada mes créditos para clases y gimnasios en estudios de tu ciudad, cancelable en cualquier momento. Lee [Todo sobre ClassPass](/es/classpass/) o [Probar ClassPass gratis](/es/prueba-classpass/).
 - **En Madrid o Barcelona:** mira [Gimnasio sin permanencia en Madrid](/es/gimnasio-sin-permanencia-madrid/) o [en Barcelona](/es/gimnasio-sin-permanencia-barcelona/).
 - **¿Dudas?** Lee [¿Pase deportivo o gimnasio?](/es/pase-o-gimnasio/)

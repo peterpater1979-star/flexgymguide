@@ -16,21 +16,6 @@ kicker: "Guide ville Saint-Étienne"
 
 <div class="kolommen vier">
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-classpass"><span>Pour varier</span></div>
-
-### ClassPass
-
-Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-saint-etienne">Profitez de 10 séances gratuites en 14 jours</a>
-<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
-</div>
-
-</div>
-
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
@@ -43,6 +28,21 @@ Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Pour varier</span></div>
+
+### ClassPass
+
+Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-saint-etienne">Profitez de 10 séances gratuites en 14 jours</a>
+<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
 </div>
 
 </div>
