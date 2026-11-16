@@ -25,7 +25,7 @@ Liberty Gym est un réseau de salles de sport à petit prix, en franchise. Les s
 | **Family** | Dès 19,95 € par personne, engagement de 12 mois |
 | **Frais d’adhésion** | 49 €, plus 10 € par an pour le matériel |
 | **Horaires** | 7 jours sur 7, de 6h à 23h (selon le club) |
-| **Séance d’essai** | <span class="ja" aria-hidden="true">✓</span> À réserver sur le site, dans chaque club |
+| **Séance d’essai** | <span class="ja" aria-hidden="true">✓</span> 10 €, ou gratuite sous conditions (voir plus bas) |
 | **Accès** | Tous les clubs Liberty Gym |
 | **Préavis** | 8 semaines |
 
@@ -35,18 +35,18 @@ Liberty Gym est un réseau de salles de sport à petit prix, en franchise. Les s
 
 | | Paris 20e (par mois) | Bastia – Biguglia (toutes les 4 semaines) | Champagnole (toutes les 4 semaines) |
 | --- | --- | --- | --- |
-| **Happy** | 24,95 €, sans engagement | 32 € | 29 € |
+| **Happy** | 24,95 €, sans engagement | 32 €, 12 mois | 29 €, 12 mois |
 | **Premium** | 34,95 €, sans engagement | 39 € | 39 € |
 | **Family** | 19,95 € par personne, 12 mois | 27 € par personne, 12 mois | 24 € par personne, 12 mois |
 | **Étudiant** | 19,95 €, 12 mois | – | – |
 
-Les prix, la période de paiement (par mois ou toutes les 4 semaines) et le contenu changent d’un club à l’autre : choisis ton club sur le site pour voir le tien. À Paris 20e, chaque formule comprend une séance de coaching par semaine ; à Champagnole, un bilan corporel (check-up 3D) et un suivi personnalisé. Selon le club, Happy et Premium existent avec un engagement de 12 mois ou sans engagement. Family vaut pour les personnes du même foyer. Les tarifs Family et Étudiant n’existent pas dans tous les clubs. Le tarif étudiant vaut 12 mois et se renouvelle avec une nouvelle carte d’étudiant.
+Les prix, la période de paiement (par mois ou toutes les 4 semaines) et le contenu changent d’un club à l’autre : choisis ton club sur le site pour voir le tien. Avec engagement de 12 mois, Happy coûte de 25 à 32 € toutes les 4 semaines selon le club. À Paris 20e, chaque formule comprend une séance de coaching par semaine ; à Champagnole, un bilan corporel (check-up 3D) et un suivi personnalisé. Selon le club, Happy et Premium existent avec un engagement de 12 mois ou sans engagement. Family vaut pour les personnes du même foyer. Les tarifs Family et Étudiant n’existent pas dans tous les clubs. Le tarif étudiant vaut 12 mois et se renouvelle avec une nouvelle carte d’étudiant.
 
 **Sans abonnement**, tu peux aussi payer une seule fois : 79 € pour un mois, 149 € pour 3 mois, 199 € pour 6 mois ou 299 € pour un an.
 
 <h3 id="frais">Les frais en plus</h3>
 
-- **Frais d’adhésion :** 49 €, une seule fois.
+- **Frais d’adhésion (Starter Pack) :** 49 €, une seule fois. Il comprend un bilan forme, du coaching personnalisé et ton badge d’accès.
 - **Matériel :** 10 € par an.
 - **Accès :** avec le QR code de l’appli, gratuit. Un badge coûte 20 €.
 
@@ -135,7 +135,7 @@ En général 7 jours sur 7, de 6h à 23h. Certains clubs ont d’autres horaires
 <details>
 <summary>Peut-on faire une séance d’essai chez Liberty Gym ?</summary>
 
-Oui, chaque club propose une séance d’essai, à réserver sur le site de Liberty Gym.
+Oui, une fois, sur rendez-vous. Elle coûte 10 €, déduits du Starter Pack si tu t’inscris dans les 8 jours. Elle est gratuite si tu habites et travailles à moins de 15 km du club et que tu la demandes sur le site de Liberty Gym ou par l’appli d’un ami.
 
 </details>
 

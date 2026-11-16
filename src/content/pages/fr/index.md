@@ -383,10 +383,10 @@ Salle en franchise, ouverte de 6h à 23h tous les jours. FULL à 36,75 € toute
 
 ### Liberty Gym
 
-Salle à petit prix, ouverte de 6h à 23h tous les jours. Happy dès 24,95 € et Premium dès 34,95 €, avec ou sans engagement, selon le club.
+Salle à petit prix, ouverte de 6h à 23h tous les jours. Happy dès 24,95 € et Premium dès 34,95 €, selon le club, avec ou sans engagement.
 
 <div class="infoblok">
-<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai dans chaque club</p>
+<p class="proef"><span aria-hidden="true">✓</span> Séance d’essai à 10 €, gratuite sous conditions</p>
 <ul>
 <li>Idéal si tu veux payer peu, sans engagement</li>
 <li>Surtout en Franche-Comté et en Alsace</li>
