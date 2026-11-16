@@ -203,7 +203,7 @@ Das Standard-Abo kostet in München 59 € im Monat für 42 Credits. Neu bei Cla
 
 ## Fitness First in München
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 8 in München. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 8 in München, unter anderem in Laim, Schwabing, Haidhausen und Sendling und am Marienplatz. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

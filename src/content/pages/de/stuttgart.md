@@ -178,7 +178,7 @@ Das Standard-Abo kostet in Stuttgart 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Stuttgart
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 4 in Stuttgart. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 4 in Stuttgart, unter anderem in Bad Cannstatt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 Suchst du FIT ONE oder Smile X? Diese Marken gibt es nicht mehr, sie wurden von Fitness First übernommen.
 

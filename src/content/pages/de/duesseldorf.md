@@ -187,7 +187,7 @@ Das Standard-Abo kostet in Düsseldorf 59 € im Monat für 42 Credits. Neu bei 
 
 ## Fitness First in Düsseldorf
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 5 in Düsseldorf. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 5 in Düsseldorf, unter anderem in Derendorf im Lighthouse und in der Kö Galerie. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

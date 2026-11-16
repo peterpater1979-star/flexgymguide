@@ -249,7 +249,7 @@ Das Standard-Abo kostet in Hamburg 59 € im Monat für 42 Credits. Neu bei Clas
 
 ## Fitness First in Hamburg
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 17 in Hamburg. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 17 in Hamburg, unter anderem in Altona, Eppendorf und Niendorf, am Jungfernstieg und am Rödingsmarkt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

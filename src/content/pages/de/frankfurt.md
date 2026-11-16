@@ -173,7 +173,7 @@ Das Standard-Abo kostet in Frankfurt 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Frankfurt
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfurt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfurt, unter anderem am Opernplatz, auf der Zeil, im Ostend, im Westend und in Eckenheim, dazu ein Women-Club in Sachsenhausen. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>

@@ -183,7 +183,7 @@ Das Standard-Abo kostet in Köln 59 € im Monat für 42 Credits. Neu bei ClassP
 
 ## Fitness First in Köln
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 14 in Köln. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 14 in Köln, unter anderem im Mediapark, im Belgischen Viertel, am Zülpicher Platz, in Deutz, Nippes und Riehl. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
