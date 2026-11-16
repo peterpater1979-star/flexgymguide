@@ -11,26 +11,11 @@ crumb: "Lorient"
 kicker: "Guide ville Lorient"
 ---
 
-À Lorient, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 4 chaînes de salles : Basic-Fit, Keepcool, L’Orange bleue et L’Appart Fitness. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
+À Lorient, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 5 chaînes de salles : Basic-Fit, Keepcool, L’Orange bleue, L’Appart Fitness et Wefit.club. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 <h2 id="en-bref">En bref</h2>
 
 <div class="kolommen vier">
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-classpass"><span>Pour varier</span></div>
-
-### ClassPass
-
-Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lorient">Profitez de 10 séances gratuites en 14 jours</a>
-<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
-</div>
-
-</div>
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
@@ -44,6 +29,21 @@ Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Pour varier</span></div>
+
+### ClassPass
+
+Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-lorient">Profitez de 10 séances gratuites en 14 jours</a>
+<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
 </div>
 
 </div>
@@ -112,6 +112,20 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
+
+</div>
+
+<div id="wefit-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle conviviale avec cours collectifs</span></div>
+
+<h3 id="wefit-club-lorient">Wefit.club</h3>
+
+Près de Lorient, Wefit.club a deux clubs, à Guidel et à Locmiquélic, avec musculation, cardio et cours collectifs. Sans engagement dès 45 € toutes les 4 semaines, moins cher avec un an d’engagement.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wefit-club/">Tout sur Wefit.club</a>
 </div>
 
 </div>

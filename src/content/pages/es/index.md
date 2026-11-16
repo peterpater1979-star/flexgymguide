@@ -11,9 +11,33 @@ kicker: "Guía de país España"
 
 ¿No te apetece un contrato largo en un solo gimnasio? Con un pase deportivo como ClassPass o Urban Sports Club, una sola suscripción te da acceso a distintos estudios y gimnasios. Aquí te explicamos cómo funciona en España y en qué ciudades.
 
-<h2 id="opciones">ClassPass y las grandes cadenas de gimnasios</h2>
+<h2 id="opciones">Los pases deportivos y las grandes cadenas de gimnasios</h2>
 
 <div class="kolommen">
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
+
+### Urban Sports Club
+
+Un precio fijo al mes, con check-ins en más de 17.200 gimnasios y estudios asociados.
+
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € al mes</span></p>
+<ul>
+<li>10 check-ins al mes</li>
+<li>Hasta 8 clases online en directo</li>
+<li>Vídeos a la carta ilimitados</li>
+<li>Baja con 3 días de preaviso antes de la renovación</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -82,6 +106,39 @@ Cadena francesa con 170 clubes en España y clases colectivas. Sin permanencia d
 
 </div>
 
+</div>
+
+<p class="meer-aanbieders">Y también: VivaGym, Synergym, Dreamfit, DiR, Anytime Fitness, GOfit, L’Orange bleue y ON AIR. <a href="#otros">Ver los otros gimnasios</a></p>
+
+<div id="ciudades">
+
+## Ciudades
+
+<ul class="stedenlijst">
+<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Dreamfit</span></li>
+<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · DiR</span></li>
+<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Dreamfit</span></li>
+<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym · Dreamfit</span></li>
+<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · ON AIR · Anytime Fitness</span></li>
+<li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">Urban Sports Club · ClassPass</span></li>
+<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · Dreamfit</span></li>
+<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
+<li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">Urban Sports Club · ClassPass</span></li>
+<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Anytime Fitness</span></li>
+<li><a href="/es/murcia/"><strong>Murcia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym</span></li>
+<li><a href="/es/zaragoza/"><strong>Zaragoza</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym · Dreamfit</span></li>
+</ul>
+
+También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.
+
+</div>
+
+<h2 id="otros">Otros gimnasios y pases deportivos</h2>
+
+Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pase deportivo con precio fijo.
+
+<div class="kolommen vier">
+
 <div class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-vivagym"><span>Gimnasio sin permanencia</span></div>
@@ -103,39 +160,6 @@ Cadena española con más de 240 clubes. Todas las cuotas sin permanencia, de 32
 </div>
 
 </div>
-
-</div>
-
-<p class="meer-aanbieders">Y también: Synergym, Dreamfit, DiR, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y Urban Sports Club. <a href="#otros">Ver los otros gimnasios</a></p>
-
-<div id="ciudades">
-
-## Ciudades
-
-<ul class="stedenlijst">
-<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Dreamfit</span></li>
-<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · DiR</span></li>
-<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Dreamfit</span></li>
-<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · Dreamfit</span></li>
-<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · ON AIR · Anytime Fitness</span></li>
-<li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
-<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Dreamfit</span></li>
-<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
-<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Anytime Fitness</span></li>
-<li><a href="/es/murcia/"><strong>Murcia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym</span></li>
-<li><a href="/es/zaragoza/"><strong>Zaragoza</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym · Dreamfit</span></li>
-</ul>
-
-También hay estudios de ClassPass en ciudades más pequeñas y en las afueras. En la app ves qué estudios y gimnasios participan cerca de ti.
-
-</div>
-
-<h2 id="otros">Otros gimnasios y pases deportivos</h2>
-
-Otras cadenas, en menos ciudades o con menos clubes, y Urban Sports Club, un pase deportivo con precio fijo.
-
-<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -289,30 +313,6 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
-
-### Urban Sports Club
-
-Un precio fijo al mes, con check-ins en más de 17.200 gimnasios y estudios asociados de 7 países europeos.
-
-<div class="usc-plan">
-<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € al mes</span></p>
-<ul>
-<li>10 check-ins al mes</li>
-<li>Hasta 8 clases online en directo</li>
-<li>Vídeos a la carta ilimitados</li>
-<li>Baja con 3 días de preaviso antes de la renovación</li>
-</ul>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
 </div>
 
 </div>

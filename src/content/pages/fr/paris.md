@@ -16,21 +16,6 @@ kicker: "Guide ville Paris"
 
 <div class="kolommen vier">
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-classpass"><span>Pour varier</span></div>
-
-### ClassPass
-
-Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Profitez de 10 séances gratuites en 14 jours</a>
-<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
-</div>
-
-</div>
-
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Pass sport à prix fixe</span></div>
@@ -43,6 +28,21 @@ Urban Sports Club est aussi présent à Paris. C’est un pass sport avec un pri
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Pour varier</span></div>
+
+### ClassPass
+
+Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-paris">Profitez de 10 séances gratuites en 14 jours</a>
+<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
 </div>
 
 </div>
@@ -207,7 +207,11 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 <h3 id="liberty-gym-paris">Liberty Gym</h3>
 
-Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la salle, ouverte 7j/7 de 6h à 23h. Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines, sans engagement.
+Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la salle, ouverte 7j/7 de 6h à 23h. Happy coûte 24,95 € et Premium 34,95 € par mois, sans engagement, avec une séance de coaching par semaine.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/liberty-gym/">Tout sur Liberty Gym</a>
+</div>
 
 </div>
 

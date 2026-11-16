@@ -21,7 +21,7 @@ Sporten zonder jaarcontract bij één sportschool kan op twee manieren: met een 
 
 ### Urban Sports Club
 
-Een vaste prijs per maand voor check-ins bij meer dan 17.200 partnerlocaties in 7 Europese landen.
+Een vaste prijs per maand voor check-ins bij meer dan 17.200 partnerlocaties.
 
 <div class="usc-plan">
 <p class="usc-plan-kop"><strong>Classic</strong> <span>€ 75 per maand</span></p>

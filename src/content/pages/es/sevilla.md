@@ -16,21 +16,6 @@ En Sevilla, ClassPass tiene estudios en Triana, Los Remedios, Nervión y el Casc
 
 <div class="kolommen vier">
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-classpass"><span>Para variar</span></div>
-
-### ClassPass
-
-Estudios de Triana y Los Remedios a Nervión y el Casco Antiguo, con una suscripción de créditos. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-sevilla">Prueba 10 sesiones gratis en 14 días</a>
-<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
-</div>
-
-</div>
-
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Pase deportivo con precio fijo</span></div>
@@ -43,6 +28,21 @@ Urban Sports Club también está en Sevilla. Es un pase deportivo con un precio 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/urban-sports-club/">Todo sobre Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Para variar</span></div>
+
+### ClassPass
+
+Estudios de Triana y Los Remedios a Nervión y el Casco Antiguo, con una suscripción de créditos. Cancelas cuando quieras, y pruebas 14 días gratis con 10 sesiones.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-sevilla">Prueba 10 sesiones gratis en 14 días</a>
+<a class="knop knop-rand" href="/es/classpass/">Ver ClassPass</a>
 </div>
 
 </div>

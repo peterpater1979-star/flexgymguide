@@ -62,6 +62,7 @@ Envoie alors une lettre recommandée avec ta carte et un justificatif (certifica
 
 <h2 id="alternatives">Et maintenant ? Des alternatives sans engagement</h2>
 
+- **Urban Sports Club :** un pass sport avec un prix fixe par mois pour des salles, des cours et d’autres sports, résiliable chaque mois. Lis [Tout sur Urban Sports Club](/fr/urban-sports-club/).
 - **ClassPass :** chaque mois des crédits pour des cours et des salles dans les studios de ta ville, résiliable à tout moment. Lis [Tout sur ClassPass](/fr/classpass/) ou [Essayer ClassPass gratuitement](/fr/essai-classpass/).
 - **Une autre salle sans engagement :** lis [Salle de sport sans engagement](/fr/salle-de-sport-sans-engagement/).
 - **Tu hésites ?** Lis [Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)

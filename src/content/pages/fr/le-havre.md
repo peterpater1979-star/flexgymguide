@@ -10,26 +10,11 @@ crumb: "Le Havre"
 kicker: "Guide ville Le Havre"
 ---
 
-Au Havre, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 4 chaînes de salles : Basic-Fit, Keepcool, L’Orange bleue et ON AIR. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
+Au Havre, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 5 chaînes de salles : Basic-Fit, Keepcool, L’Orange bleue, ON AIR et Planète Fitness. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 <h2 id="en-bref">En bref</h2>
 
 <div class="kolommen vier">
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-classpass"><span>Pour varier</span></div>
-
-### ClassPass
-
-Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-le-havre">Profitez de 10 séances gratuites en 14 jours</a>
-<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
-</div>
-
-</div>
 
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
@@ -43,6 +28,21 @@ Pass sport à prix fixe par mois, avec des check-ins dans les salles et studios 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/urban-sports-club/">Tout sur Urban Sports Club</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Pour varier</span></div>
+
+### ClassPass
+
+Un abonnement à crédits pour réserver dans différents studios. 14 jours gratuits avec 10 séances pour essayer.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-le-havre">Profitez de 10 séances gratuites en 14 jours</a>
+<a class="knop knop-rand" href="/fr/classpass/">Voir ClassPass</a>
 </div>
 
 </div>
@@ -111,6 +111,20 @@ Au Havre, ON AIR a un club à La Nef. Essential coûte 31,96 €, Original 39,96
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div id="planete-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="planete-fitness-le-havre">Planète Fitness</h3>
+
+Au Havre, Planète Fitness a un club, ouvert 7j/7 de 5h à 23h, 7,50 € par semaine avec ou sans engagement.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/planete-fitness/">Tout sur Planète Fitness</a>
 </div>
 
 </div>
