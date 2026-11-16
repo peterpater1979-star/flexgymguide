@@ -29,7 +29,7 @@ Pas envie de t’engager un an ? En France, la plupart des grandes chaînes ont 
 | **[Magic Form](/fr/magic-form/)** | Magic One 40 €, Magic+ et Magic Full 50 € toutes les 4 semaines | 40 €, plus 10 € de carte et 9,90 € par an | 8 semaines |
 | **[Vita Liberté](/fr/vita-liberte/)** | FREEDOM ETUDIANT 36,85 €, FREEDOM FULL 46,75 € toutes les 4 semaines | Welcome Pack 49,90 € | 4 semaines |
 | **[Liberty Gym](/fr/liberty-gym/)** | Happy dès 24,95 €, Premium dès 34,95 € par mois (Paris 20e), selon le club | 49 €, plus 10 € par an | 8 semaines |
-| **[Wefit.club](/fr/wefit-club/)** | [PRIX] | 60 € | 8 semaines |
+| **[Wefit.club](/fr/wefit-club/)** | Standard 45 €, Premium 50 €, VIP 60 € toutes les 4 semaines | 60 € | 8 semaines |
 | **[Planète Fitness](/fr/planete-fitness/)** | 7,50 € par semaine | 49 € (étudiant 24,50 €), plus 10 € par an | 8 semaines |
 | **[WellNess Sport Club](/fr/wellness-sport-club/)** | Hors Paris dès 54 € par mois, à Paris dès 69 € | Licence 149 €, dépôt de garantie de 2 mois | Selon les conditions générales |
 

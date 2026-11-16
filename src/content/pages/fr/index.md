@@ -339,7 +339,7 @@ Cardio, musculation et cours collectifs selon la formule. Dès 30 € toutes les
 
 ### Wefit.club
 
-57 salles conviviales, surtout dans l’Ouest, avec cours collectifs et coachs. Avec ou sans engagement, dès [PRIX] toutes les 4 semaines.
+57 salles conviviales, surtout dans l’Ouest, avec cours collectifs et coachs. Sans engagement dès 45 € toutes les 4 semaines, moins cher avec un an d’engagement.
 
 <div class="infoblok">
 <ul>

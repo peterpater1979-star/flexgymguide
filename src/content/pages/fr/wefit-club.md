@@ -20,8 +20,8 @@ Wefit.club est un réseau de 57 salles de sport en franchise, surtout dans l’O
 | | Wefit.club |
 | --- | --- |
 | **Type** | Salle de sport conviviale en franchise, avec cours collectifs |
-| **Avec engagement** | [PRIX] toutes les 4 semaines |
-| **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> [PRIX] toutes les 4 semaines |
+| **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Standard 45 €, Premium 50 €, VIP 60 € toutes les 4 semaines |
+| **Avec engagement (1 an)** | Moins cher, prix selon le club |
 | **Formules** | Standard, Premium et VIP |
 | **Frais d’adhésion** | 60 €, à la première inscription |
 | **Horaires** | Accès libre 7 jours sur 7, de 6h à 23h |
@@ -33,13 +33,13 @@ Wefit.club est un réseau de 57 salles de sport en franchise, surtout dans l’O
 
 <h2 id="formules">Les formules</h2>
 
-| | Avec engagement (1 an) | Sans engagement | Ce qui est inclus |
-| --- | --- | --- | --- |
-| **Standard** | [PRIX] | [PRIX] | Cardio, musculation, cours collectifs, appli, accès multiclub, accès libre de 6h à 23h |
-| **Premium** | [PRIX] | [PRIX] | Standard, plus un programme d’entraînement, les replays et un bilan santé |
-| **VIP** | [PRIX] | [PRIX] | Premium, plus inviter un ami, plus de flexibilité et un pack sportif |
+| | Sans engagement | Ce qui est inclus |
+| --- | --- | --- |
+| **Standard** | 45 € | Cardio, musculation, cours collectifs, appli, accès multiclub, accès libre de 6h à 23h |
+| **Premium** | 50 € | Standard, plus un programme d’entraînement, les replays et un bilan santé |
+| **VIP** | 60 € | Premium, plus inviter un ami, plus de flexibilité et un pack sportif |
 
-Tu ajoutes 60 € de frais d’adhésion à ta première inscription. **Option Duo :** [PRIX].
+Prix sans engagement, toutes les 4 semaines. Avec un engagement d’un an, tu paies moins : le prix dépend du club et se voit sur le site quand tu choisis ton club. Tu ajoutes 60 € de frais d’adhésion à ta première inscription. Les formules et les options peuvent changer selon le club.
 
 Après ton engagement, ton abonnement continue sans date de fin, jusqu’à ce que tu résilies.
 
@@ -108,14 +108,14 @@ Idéal si tu aimes varier et que tu fais du sport une à trois fois par semaine.
 <details open>
 <summary>Wefit.club est-il sans engagement ?</summary>
 
-Oui, il existe des formules sans engagement, à [PRIX] toutes les 4 semaines. Avec un engagement de 12 mois, c’est [PRIX].
+Oui : sans engagement, Standard coûte 45 €, Premium 50 € et VIP 60 € toutes les 4 semaines. Avec un engagement d’un an, c’est moins cher.
 
 </details>
 
 <details>
 <summary>Combien coûte Wefit.club par mois ?</summary>
 
-Tu paies toutes les 4 semaines : de [PRIX] à [PRIX], plus 60 € de frais d’adhésion (novembre 2026). Le prix peut changer selon le club.
+Sans engagement, de 45 € (Standard) à 60 € (VIP) toutes les 4 semaines, plus 60 € de frais d’adhésion (novembre 2026). Avec un engagement d’un an, c’est moins cher. Le prix peut changer selon le club.
 
 </details>
 
