@@ -86,6 +86,7 @@ Der Pass hat Partnerstudios unter anderem in diesen Städten:
 <li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a></li>
 <li><a href="/de/leipzig/"><strong>Leipzig</strong></a></li>
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
+<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
 </ul>
 
 Alle Städte und Studios findest du auf urbansportsclub.com.

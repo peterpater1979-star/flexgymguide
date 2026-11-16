@@ -18,6 +18,22 @@ Das ClassPass-Angebot in Darmstadt ist klein, aber vielseitig: Yoga und Reformer
 
 <div class="kolommen vier">
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Darmstadt ein. Monatlich kündbar.
+
+<p class="usc-plan kort"><strong>Classic</strong> · 1 Check-in pro Tag · monatlich kündbar</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -206,7 +222,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 <details open>
 <summary>Welche Fitnessstudios in Darmstadt sind monatlich kündbar?</summary>
 
-Bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif. ClassPass kannst du jederzeit kündigen. Bei Fitness First hängt die Laufzeit von der Mitgliedschaft ab.
+Bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif. Urban Sports Club ist monatlich kündbar, ClassPass kannst du jederzeit kündigen. Bei Fitness First hängt die Laufzeit von der Mitgliedschaft ab.
 
 </details>
 
