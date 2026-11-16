@@ -21,7 +21,7 @@ Não te apetece um contrato longo num só ginásio? Com um passe desportivo como
 
 ### Urban Sports Club
 
-Um preço fixo por mês para check-ins em mais de 17.200 locais parceiros, em 7 países europeus.
+Um preço fixo por mês para check-ins em mais de 17.200 locais parceiros.
 
 <div class="usc-plan">
 <p class="usc-plan-kop"><strong>Classic</strong> <span>75 € por mês</span></p>
