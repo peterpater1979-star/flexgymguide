@@ -139,7 +139,7 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 <h3 id="wefit-club-angers">Wefit.club</h3>
 
-À Angers, Wefit.club a deux clubs : Lac de Maine et Station Foch, et d’autres autour, à Trélazé, Montreuil-Juigné, Mûrs-Érigné et Verrières-en-Anjou. Musculation, cardio et cours collectifs, avec ou sans engagement, dès [PRIX] toutes les 4 semaines.
+À Angers, Wefit.club a deux clubs : Lac de Maine et Station Foch, et d’autres autour, à Trélazé, Montreuil-Juigné, Mûrs-Érigné et Verrières-en-Anjou. Musculation, cardio et cours collectifs. Sans engagement dès 45 € toutes les 4 semaines, moins cher avec un an d’engagement.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wefit-club/">Tout sur Wefit.club</a>

@@ -122,7 +122,7 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 <h3 id="wefit-club-lorient">Wefit.club</h3>
 
-Près de Lorient, Wefit.club a deux clubs, à Guidel et à Locmiquélic, avec musculation, cardio et cours collectifs. Avec ou sans engagement, dès [PRIX] toutes les 4 semaines.
+Près de Lorient, Wefit.club a deux clubs, à Guidel et à Locmiquélic, avec musculation, cardio et cours collectifs. Sans engagement dès 45 € toutes les 4 semaines, moins cher avec un an d’engagement.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wefit-club/">Tout sur Wefit.club</a>

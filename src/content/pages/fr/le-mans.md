@@ -139,7 +139,7 @@ Au Mans, Gigafit a un club au nord, à Saint-Pavace : de 30 € (étudiants) à 
 
 <h3 id="wefit-club-le-mans">Wefit.club</h3>
 
-Près du Mans, Wefit.club a un club à Changé, avec musculation, cardio et cours collectifs. Avec ou sans engagement, dès [PRIX] toutes les 4 semaines.
+Près du Mans, Wefit.club a un club à Changé, avec musculation, cardio et cours collectifs. Sans engagement dès 45 € toutes les 4 semaines, moins cher avec un an d’engagement.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wefit-club/">Tout sur Wefit.club</a>

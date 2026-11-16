@@ -88,7 +88,7 @@ Salle à petit prix, souvent ouverte 24h/24. Dès 24,99 € toutes les 4 semaine
 
 <h3 id="wefit-club-tours">Wefit.club</h3>
 
-Près de Tours, Wefit.club a un club à Saint-Avertin, avec musculation, cardio et cours collectifs. Avec ou sans engagement, dès [PRIX] toutes les 4 semaines.
+Près de Tours, Wefit.club a un club à Saint-Avertin, avec musculation, cardio et cours collectifs. Sans engagement dès 45 € toutes les 4 semaines, moins cher avec un an d’engagement.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/wefit-club/">Tout sur Wefit.club</a>
