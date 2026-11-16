@@ -157,7 +157,7 @@ Près de Clermont-Ferrand, L’Appart Fitness a une salle à Aubière. L’abonn
 
 <h3 id="planete-fitness-clermont-ferrand">Planète Fitness</h3>
 
-À Clermont-Ferrand, Planète Fitness a un club, République, ouvert 7j/7 de 5h à 23h, 7,50 € par semaine avec ou sans engagement.
+À Clermont-Ferrand, Planète Fitness a un club, ouvert 7j/7 de 5h à 23h, 7,50 € par semaine avec ou sans engagement.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/planete-fitness/">Tout sur Planète Fitness</a>

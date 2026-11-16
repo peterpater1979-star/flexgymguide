@@ -2,7 +2,7 @@
 title: "Planète Fitness : formules, prix et clubs"
 seoTitle: "Planète Fitness : tarifs 2026 et formules sans engagement"
 path: "/fr/planete-fitness/"
-description: "Tarifs Planète Fitness : 7,50 € par semaine avec ou sans engagement, tarif étudiant, pass jour 10 €. Salles ouvertes 7j/7 de 5h à 23h, en Normandie, à Nîmes, Lyon, Dijon et ailleurs."
+description: "Tarifs Planète Fitness : 7,50 € par semaine avec ou sans engagement, tarif étudiant, pass jour 10 €. Salles ouvertes 7j/7 de 5h à 23h, en Normandie, à Nîmes, Lyon, Saint-Étienne, Dijon et ailleurs."
 lang: fr
 land: fr
 byline: "Mis à jour en novembre 2026"
@@ -13,7 +13,7 @@ zoekwoorden: "Planete Fitness, Planet Fitness France, Planète Fitness tarif, Pl
 
 <div class="fotobanner smal foto-gymketen" role="img" aria-label="Salle de sport"></div>
 
-Planète Fitness est un réseau de salles de sport à petit prix, avec plus de 20 clubs en France. Les salles sont ouvertes 7 jours sur 7, de 5h à 23h. Tu paies à la semaine, et le prix est le même avec ou sans engagement : sans engagement, tu paies seulement des frais d’inscription.
+Planète Fitness est un réseau de salles de sport à petit prix, avec 22 clubs en France. Les salles sont ouvertes 7 jours sur 7, de 5h à 23h. Tu paies à la semaine, et le prix est le même avec ou sans engagement : sans engagement, tu paies seulement des frais d’inscription.
 
 <h2 id="resume">En bref</h2>
 
@@ -45,13 +45,16 @@ Comme le prix par semaine est le même, la formule sans engagement te coûte seu
 
 <h2 id="villes">Dans quelles villes ?</h2>
 
-Planète Fitness est surtout présent en Normandie, dans le Sud-Ouest et dans le Gard. Les clubs, entre autres :
+Planète Fitness a 22 clubs, surtout en Normandie, dans le Centre-Est et dans le Sud-Ouest :
 
 - **Normandie :** Bayeux, Caen – Carpiquet, Villers-Bocage, Vire, Saint-Lô et [Le Havre](/fr/le-havre/#planete-fitness)
-- **Gard et Rhône-Alpes :** [Nîmes](/fr/nimes/#planete-fitness) (quatre clubs), [Lyon](/fr/lyon/#planete-fitness) Confluence, Valence, Villars, Viriat et Ambérieu-en-Bugey
-- **Bourgogne et Auvergne :** [Dijon](/fr/dijon/#planete-fitness), Chalon-sur-Saône – Saint-Rémy et [Clermont-Ferrand](/fr/clermont-ferrand/#planete-fitness)
-- **Sud-Ouest :** Angoulême, Cognac – Châteaubernard, Ferrières, Biganos et Biscarrosse
+- **Gard :** [Nîmes](/fr/nimes/#planete-fitness), quatre clubs : Carré Sud, Carreau de Lanes, Mas des Rosiers et Séverine
+- **Rhône-Alpes :** [Lyon](/fr/lyon/#planete-fitness) Confluence, [Saint-Étienne](/fr/saint-etienne/#planete-fitness), Valence, Bourg-en-Bresse et Ambérieu-en-Bugey
+- **Bourgogne et Auvergne :** [Dijon](/fr/dijon/#planete-fitness), Chalon-sur-Saône et [Clermont-Ferrand](/fr/clermont-ferrand/#planete-fitness)
+- **Charentes :** Angoulême, Cognac et Ferrières
 - **Île-de-France :** Aulnay-sous-Bois
+
+Un club ouvre bientôt à Bordeaux.
 
 Les clubs sont sur [planete-fitness.fr](https://www.planete-fitness.fr/).
 
