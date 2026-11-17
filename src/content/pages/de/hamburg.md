@@ -303,7 +303,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 <h2 id="fitness-first-clubs">Alle Fitness First Clubs in Hamburg</h2>
 
-Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Für den HYROX Club in den Stadthöfen nennt Fitness First keine Kategorie: Frag dort nach, welche Mitgliedschaft gilt. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
 | Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
@@ -323,7 +323,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | **Stephansplatz** · BLACK<br><span class="klein">Gorch-Fock-Wall 1a</span> | 16-Meter-Pool, Wellness mit Sauna und Dampfbad, CryoLounge+ Wellness-Sessel, Recovery Area, große Trainingsfläche, über 50 Kurse pro Woche (u. a. Zumba, HYROX, AquaFit, BikeIntense) |
 | **Wandsbek** · RED<br><span class="klein">Wandsbeker Marktstraße 2</span> | Wellness mit Sauna und Dampfbad, EGYM-Bereich, große Trainingsfläche, Performance Area, über 40 Kurse pro Woche (u. a. Zumba, Yoga, Mobility, BoxCamp), kostenlose Parkplätze |
 | **Winterhude** · BLACK<br><span class="klein">Humboldtstraße 58</span> | Functional Training Area, Performance Area, Hammer Strength Training, Recovery Area, über 15 Kurse pro Woche (u. a. HYROX, Yoga, Functional, Olympic Weightlifting) |
-| **Stadthöfe (HYROX Club)**<br><span class="klein">Bleichenbrücke 9</span> | Rund 30 HYROX-Kurse pro Woche, HYROX-Equipment (Turf Lanes für Sled Push und Pull, Ski- und RowErgs, Wall Balls), persönliche Betreuung, große Trainingsfläche, freies Training |
+| **Stadthöfe (HYROX Club)** · BLACK<br><span class="klein">Bleichenbrücke 9</span> | Rund 30 HYROX-Kurse pro Woche, HYROX-Equipment (Turf Lanes für Sled Push und Pull, Ski- und RowErgs, Wall Balls), persönliche Betreuung, große Trainingsfläche, freies Training |
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 
