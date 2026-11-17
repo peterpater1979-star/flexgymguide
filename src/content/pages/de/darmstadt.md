@@ -175,16 +175,16 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 
 | Club und Kategorie | Besonderheiten |
 | --- | --- |
-| **Eberstadt** · RED<br><span class="klein">Pfungstädter Straße 92</span> | Outdoor Training Area, Kurse, Sauna |
-| **Eschollbrücker Straße** · RED<br><span class="klein">Eschollbrücker Straße 42</span> | Eigener Frauenbereich, Performance Area, Sauna |
-| **Hauptbahnhof** · RED<br><span class="klein">Poststraße 4-6</span> | Zentrale Lage, große Trainingsfläche |
-| **Heidelberger Straße** · RED<br><span class="klein">Heidelberger Straße 185</span> | Functional Training Area und HYROX-Kurse, Wellness mit separatem Frauenbereich, kostenlose Parkplätze |
-| **Kleyerstraße** · BLACK<br><span class="klein">Kleyerstraße 4</span> | Outdoor Training Area, Kurse, Sauna |
-| **Ludwigsplatz (Ladies)** · BLACK<br><span class="klein">Ludwigsplatz 6</span> | Nur für Frauen, Reformer Pilates, Kids Club |
-| **Mornewegstraße** · BLACK<br><span class="klein">Mornewegstraße 32</span> | EGYM, kostenlose Parkplätze |
-| **Neckarstraße** · RED<br><span class="klein">Neckarstraße 12-16</span> | Wellness mit separatem Frauenbereich, klimatisiert, kostenlose Parkplätze |
-| **Ostbahnhof** · BLACK<br><span class="klein">Erbacher Straße 87</span> | Persönliche Betreuung, EGYM |
-| **Pfnorstraße**<br><span class="klein">Pfnorstraße 14</span> | Outdoor Training Area, Kurse, Wellness mit separatem Frauenbereich |
+| **Eberstadt** · RED<br><span class="klein">Pfungstädter Straße 92</span> | Große Trainingsfläche mit Functional Area und Outdoor Training Area, Wellness mit Sauna, Solarium und Massage, Kurse (u. a. HIIT, Pilates, Power Yoga), kostenlose Parkplätze |
+| **Eschollbrücker Straße** · RED<br><span class="klein">Eschollbrücker Straße 42</span> | Eigener Frauenbereich, Performance Area und Functional Training Area, Wellness mit Sauna, Dampfbad und Solarium, zentrale Lage, kostenlose Parkplätze |
+| **Hauptbahnhof** · RED<br><span class="klein">Poststraße 4-6</span> | Zentrale Lage am Bahnhof, große Trainingsfläche mit Performance Area und EGYM-Bereich, Solarium, persönliche Betreuung, kostenloses Parken (3 Stunden) |
+| **Heidelberger Straße** · RED<br><span class="klein">Heidelberger Straße 185</span> | Wellness mit Sauna und separatem Frauenbereich, Functional Training Area, HYROX-Kurse, Cycling- und Kursraum, Performance Area, kostenlose Parkplätze |
+| **Kleyerstraße** · BLACK<br><span class="klein">Kleyerstraße 4</span> | Outdoor Training Area, Wellness mit Sauna, Solarium und Massage, mehrere Kursräume (u. a. Zumba, Indoor Cycling, Pilates, Yoga, Boxen), kostenlose Parkplätze |
+| **Ludwigsplatz (Ladies)** · BLACK<br><span class="klein">Ludwigsplatz 6</span> | Nur für Frauen, Reformer Pilates, Kids Club, Wellness mit Sauna und Solarium, zentrale Lage, Kurse (u. a. Zumba, Pilates, Kickboxen, Yoga) |
+| **Mornewegstraße** · BLACK<br><span class="klein">Mornewegstraße 32</span> | EGYM-Bereich, persönliche Betreuung, Personal Training gegen Gebühr, Kurse (u. a. Yoga, Rückenfit), zentrale Lage, kostenlose Parkplätze |
+| **Neckarstraße** · RED<br><span class="klein">Neckarstraße 12-16</span> | Wellness mit Sauna, Dampfbad und separatem Frauenbereich, Functional Training Area, HYROX-Kurse, Recovery Area, klimatisiert, Kurse (u. a. Zumba, Pilates, BodyPump), kostenlose Parkplätze |
+| **Ostbahnhof** · BLACK<br><span class="klein">Erbacher Straße 87</span> | EGYM-Bereich, Gerätetraining, moderner Cardio-Bereich, persönliche Betreuung, zentrale Lage, kostenlose Parkplätze |
+| **Pfnorstraße**<br><span class="klein">Pfnorstraße 14</span> | Nach Umbau wiedereröffnet: Outdoor Training Area, Wellness mit Sauna, separatem Frauenbereich und Solarium, HYROX- und Gruppenkurse (u. a. Pilates, Yoga, Kickboxen), große Trainingsfläche, kostenlose Parkplätze |
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 
