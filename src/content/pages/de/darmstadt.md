@@ -171,7 +171,7 @@ Das Probeangebot gilt nur für neue Mitglieder. Alles zu den Regeln liest du unt
 
 <h2 id="fitness-first-clubs">Alle Fitness First Clubs in Darmstadt</h2>
 
-Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Für die Pfnorstraße, die nach dem Umbau wieder geöffnet hat, nennt Fitness First keine Kategorie: Frag dort nach, welche Mitgliedschaft gilt. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
 | Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
@@ -184,7 +184,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | **Mornewegstraße** · BLACK<br><span class="klein">Mornewegstraße 32</span> | EGYM-Bereich, Gesundheitstraining, persönliche Betreuung, Personal Training gegen Gebühr, Kurse (u. a. Yoga, Rückenfit), zentrale Lage, kostenlose Parkplätze |
 | **Neckarstraße** · RED<br><span class="klein">Neckarstraße 12-16</span> | Wellness mit Sauna, Dampfbad und separatem Frauenbereich, Functional Training Area, HYROX-Kurse, Recovery Area, klimatisiert, Kurse (u. a. Zumba, Pilates, BodyPump), kostenlose Parkplätze |
 | **Ostbahnhof** · BLACK<br><span class="klein">Erbacher Straße 87</span> | EGYM-Bereich, Gesundheitstraining, Gerätetraining, moderner Cardio-Bereich, persönliche Betreuung, zentrale Lage, kostenlose Parkplätze |
-| **Pfnorstraße**<br><span class="klein">Pfnorstraße 14</span> | Nach Umbau wiedereröffnet: Outdoor Training Area, Wellness mit Sauna, separatem Frauenbereich und Solarium, HYROX- und Gruppenkurse (u. a. Pilates, Yoga, Kickboxen), große Trainingsfläche, kostenlose Parkplätze |
+| **Pfnorstraße** · BLACK<br><span class="klein">Pfnorstraße 14</span> | Nach Umbau wiedereröffnet: Outdoor Training Area, Wellness mit Sauna, separatem Frauenbereich und Solarium, HYROX- und Gruppenkurse (u. a. Pilates, Vinyasa Yoga, Anti Gravity Yoga, Kickboxen, Hot Iron), große Trainingsfläche, kostenlose Parkplätze |
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 
