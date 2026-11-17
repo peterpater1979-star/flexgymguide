@@ -184,7 +184,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | **Mornewegstraße** · BLACK<br><span class="klein">Mornewegstraße 32</span> | EGYM-Bereich, Gesundheitstraining, persönliche Betreuung, Personal Training gegen Gebühr, Kurse (u. a. Yoga, Rückenfit), zentrale Lage, kostenlose Parkplätze |
 | **Neckarstraße** · RED<br><span class="klein">Neckarstraße 12-16</span> | Wellness mit Sauna, Dampfbad und separatem Frauenbereich, Functional Training Area, HYROX-Kurse, Recovery Area, klimatisiert, Kurse (u. a. Zumba, Pilates, BodyPump), kostenlose Parkplätze |
 | **Ostbahnhof** · BLACK<br><span class="klein">Erbacher Straße 87</span> | EGYM-Bereich, Gesundheitstraining, Gerätetraining, moderner Cardio-Bereich, persönliche Betreuung, zentrale Lage, kostenlose Parkplätze |
-| **Pfnorstraße** · BLACK<br><span class="klein">Pfnorstraße 14</span> | Nach Umbau wiedereröffnet: Outdoor Training Area, Wellness mit Sauna, separatem Frauenbereich und Solarium, HYROX- und Gruppenkurse (u. a. Pilates, Vinyasa Yoga, Anti Gravity Yoga, Kickboxen, Hot Iron), große Trainingsfläche, kostenlose Parkplätze |
+| **Pfnorstraße** · BLACK<br><span class="klein">Pfnorstraße 14</span> | Nach Umbau wiedereröffnet: Outdoor Training Area, Wellness mit Sauna, separatem Frauenbereich und Solarium, HYROX-Kurse und mehr als 50 Kurse pro Woche (u. a. Pilates, Vinyasa Yoga, Anti Gravity Yoga, Kickboxen, Hot Iron), große Trainingsfläche, kostenlose Parkplätze |
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 

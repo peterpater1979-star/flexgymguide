@@ -307,23 +307,23 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 
 | Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
-| **Alsterufer** · BLACK<br><span class="klein">Warburgstraße 1-2</span> | Functional Training Area, Sauna und Dampfbad |
-| **Altona** · BLACK<br><span class="klein">Stresemannstraße 300</span> | Pool, Sauna und Dampfbad, kostenlose Parkplätze |
-| **Bahrenfeld** · RED<br><span class="klein">Schnackenburgallee 50</span> | Eigener Frauenbereich, große Trainingsfläche, Sauna |
-| **Eppendorf** · BLACK<br><span class="klein">Falkenried 88</span> | Kids Club, Sauna und Dampfbad, kostenlose Parkplätze |
-| **Eppendorf Straßenbahnring** · BLACK<br><span class="klein">Straßenbahnring 8</span> | Functional Training Area, kostenlose Parkplätze |
-| **Harburg Hafen** · RED<br><span class="klein">Theodor-Yorck-Straße 4</span> | Große Trainingsfläche, Sauna und Dampfbad, kostenlose Parkplätze |
-| **Harburg Lüneburger Tor** · RED<br><span class="klein">Lüneburger Tor 8</span> | Eigener Frauenbereich, große Trainingsfläche, Sauna |
-| **Innenstadt Dammtorpark** · BLACK<br><span class="klein">Dammtorwall 8</span> | Functional Training Area, kostenlose Parkplätze |
-| **Jungfernstieg** · BLACK<br><span class="klein">Ballindamm 39</span> | Moderner Cardio-Bereich, EGYM |
-| **Langenhorn** · RED<br><span class="klein">Langenhorner Markt 1-18</span> | Große Trainingsfläche, Sauna |
-| **Niendorf** · RED<br><span class="klein">Kollaustraße 127-135</span> | Kurse, EGYM, Sauna und Dampfbad |
-| **Rödingsmarkt** · RED<br><span class="klein">Rödingsmarkt 9</span> | Moderner Cardio-Bereich, Sauna und Dampfbad |
-| **St. Georg** · RED<br><span class="klein">Glockengießerwall 3</span> | Zentrale Lage am Hauptbahnhof, EGYM, Sauna und Dampfbad |
-| **Stephansplatz** · BLACK<br><span class="klein">Gorch-Fock-Wall 1a</span> | Pool, große Trainingsfläche |
-| **Wandsbek** · RED<br><span class="klein">Wandsbeker Marktstraße 2</span> | Sauna und Dampfbad, kostenlose Parkplätze |
-| **Winterhude** · BLACK<br><span class="klein">Humboldtstraße 58</span> | Functional Training Area, Recovery Area |
-| **Stadthöfe (HYROX Club)**<br><span class="klein">Bleichenbrücke 9</span> | HYROX-Kurse, persönliche Betreuung, große Trainingsfläche |
+| **Alsterufer** · BLACK<br><span class="klein">Warburgstraße 1-2</span> | Zentrale Lage, Wellness mit Sauna und Dampfbad, Functional Training Area, Performance Area, Recovery Area, mehr als 10 Kurse pro Woche (u. a. HYROX, Yoga, Functional) |
+| **Altona** · BLACK<br><span class="klein">Stresemannstraße 300</span> | 16-Meter-Pool, Wellness mit Sauna und Dampfbad, EGYM-Bereich, Performance Area, über 70 Kurse pro Woche (u. a. Zumba, HYROX, AquaFit, BoxCamp, Yoga), kostenlose Parkplätze |
+| **Bahrenfeld** · RED<br><span class="klein">Schnackenburgallee 50</span> | Eigener Frauenbereich, Wellness mit Sauna, große Trainingsfläche, Functional Training Area, mehr als 10 Kurse pro Woche (u. a. HYROX, Bodypump, Boxen) |
+| **Eppendorf** · BLACK<br><span class="klein">Falkenried 88</span> | Wellness mit Sauna und Dampfbad, Kids Club, EGYM-Bereich, Recovery Area, große Trainingsfläche, über 70 Kurse pro Woche (u. a. Yoga, Pilates, HYROX, TRX), kostenlose Parkplätze |
+| **Eppendorf Straßenbahnring** · BLACK<br><span class="klein">Straßenbahnring 8</span> | Wellness mit Sauna, Functional Training Area, Performance Area, Hammer Strength Training, Recovery Area, über 40 Kurse pro Woche (u. a. HYROX, Yoga, Boxen), kostenlose Parkplätze |
+| **Harburg Hafen** · RED<br><span class="klein">Theodor-Yorck-Straße 4</span> | Wellness mit Sauna und Dampfbad, große Trainingsfläche, EGYM-Bereich, Performance Area, mehr als 20 Kurse pro Woche (u. a. Cycling, Functional, Yoga, Dance Fit), kostenlose Parkplätze |
+| **Harburg Lüneburger Tor** · RED<br><span class="klein">Lüneburger Tor 8</span> | Eigener Frauenbereich, Wellness mit Sauna, große Trainingsfläche, Functional Training Area, Hammer Strength Training, mehr als 15 Kurse pro Woche (u. a. HYROX, Bodypump, Bodybalance) |
+| **Innenstadt Dammtorpark** · BLACK<br><span class="klein">Dammtorwall 8</span> | Functional Training Area, Performance Area, Hammer Strength Training, Recovery Area, moderner Cardio-Bereich, kostenlose Parkplätze |
+| **Jungfernstieg** · BLACK<br><span class="klein">Ballindamm 39</span> | Zentrale Lage, EGYM-Bereich, Performance Area, Recovery Area, moderner Cardio-Bereich, LES MILLS Kurse (Bodypump, Bodycombat, Bodybalance) |
+| **Langenhorn** · RED<br><span class="klein">Langenhorner Markt 1-18</span> | Wellness mit Sauna und Solarium, große Trainingsfläche, Functional Training Area, Performance Area, mehr als 15 Kurse pro Woche (u. a. HYROX, Bodypump, Bodycombat) |
+| **Niendorf** · RED<br><span class="klein">Kollaustraße 127-135</span> | Wellness mit Sauna und Dampfbad, EGYM-Bereich, Performance Area, über 60 Kurse pro Woche (u. a. Zumba, Yoga, Pilates, BikeIntense, BoxCamp), kostenlose Parkplätze |
+| **Rödingsmarkt** · RED<br><span class="klein">Rödingsmarkt 9</span> | Wellness mit Sauna und Dampfbad, EGYM-Bereich, Performance Area, moderner Cardio-Bereich, über 40 Kurse pro Woche (u. a. Zumba, Pilates, BodyAttack, BoxCamp) |
+| **St. Georg** · RED<br><span class="klein">Glockengießerwall 3</span> | Zentrale Lage am Hauptbahnhof, Wellness mit Sauna und Dampfbad, EGYM-Bereich, große Trainingsfläche, über 50 Kurse pro Woche (u. a. Zumba, Pilates, BikeIntense, LES MILLS) |
+| **Stephansplatz** · BLACK<br><span class="klein">Gorch-Fock-Wall 1a</span> | 16-Meter-Pool, Wellness mit Sauna und Dampfbad, CryoLounge+ Wellness-Sessel, Recovery Area, große Trainingsfläche, über 50 Kurse pro Woche (u. a. Zumba, HYROX, AquaFit, BikeIntense) |
+| **Wandsbek** · RED<br><span class="klein">Wandsbeker Marktstraße 2</span> | Wellness mit Sauna und Dampfbad, EGYM-Bereich, große Trainingsfläche, Performance Area, über 40 Kurse pro Woche (u. a. Zumba, Yoga, Mobility, BoxCamp), kostenlose Parkplätze |
+| **Winterhude** · BLACK<br><span class="klein">Humboldtstraße 58</span> | Functional Training Area, Performance Area, Hammer Strength Training, Recovery Area, über 15 Kurse pro Woche (u. a. HYROX, Yoga, Functional, Olympic Weightlifting) |
+| **Stadthöfe (HYROX Club)**<br><span class="klein">Bleichenbrücke 9</span> | Rund 30 HYROX-Kurse pro Woche, HYROX-Equipment (Turf Lanes für Sled Push und Pull, Ski- und RowErgs, Wall Balls), persönliche Betreuung, große Trainingsfläche, freies Training |
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 
