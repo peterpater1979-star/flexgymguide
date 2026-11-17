@@ -307,7 +307,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **Steglitz SSC** · BLACK<br><span class="klein">Walther-Schreiber-Platz 1</span> | Wellness mit Sauna, Functional Training Area, Hammer Strength Training, Performance Area, Recovery Area, Indoor-Cycling-Kurse, über 20 Kurse pro Woche (u. a. HYROX, Yoga, Functional) |
 | **Wedding** · RED<br><span class="klein">Müllerstraße 35</span> | Eigener Frauenbereich, Wellness mit Sauna, große Trainingsfläche, Functional Training Area, Hammer Strength Training, mehr als 15 Kurse pro Woche (u. a. HYROX, Zumba, Bodypump, Bodybalance) |
 | **Wilmersdorf** · RED<br><span class="klein">Wilmersdorfer Straße 108-111</span> | Wellness mit Sauna und Dampfbad, EGYM-Bereich, Recovery Area, Performance Area, über 70 Kurse pro Woche (u. a. Vinyasa Yoga, BodyCombat, BODYATTACK, Bike &amp; Climb, Zumba), kostenlose Parkplätze |
-| **Zehlendorfer Welle**<br><span class="klein">Clayallee 328-334</span> | 25-Meter-Pool, Wellness mit Sauna und Dampfbad, EGYM-Bereich, große Trainingsfläche, Recovery Area, über 130 Kurse pro Woche (u. a. HYROX, Vinyasa Yoga, Jumping Fitness, Fitness Boxen, Zumba) |
+| **Zehlendorfer Welle** · BLACK<br><span class="klein">Clayallee 328-334</span> | 25-Meter-Pool, Wellness mit Sauna und Dampfbad, EGYM-Bereich, große Trainingsfläche, Recovery Area, über 130 Kurse pro Woche (u. a. HYROX, Vinyasa Yoga, Jumping Fitness, Fitness Boxen, Zumba) |
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 
