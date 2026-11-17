@@ -239,7 +239,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft trainierst du in allen Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
-| Club und Kategorie | Besonderheiten |
+| Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
 | **Bayenthal** · BLACK<br><span class="klein">Bonner Straße 271</span> | 24-Meter-Pool, HYROX-Fläche, kostenlose Parkplätze |
 | **Belgisches Viertel** · RED<br><span class="klein">Richard-Wagner-Straße 51-53</span> | Große Trainingsfläche, Kurse, Sauna |

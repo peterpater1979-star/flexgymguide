@@ -173,7 +173,7 @@ Das Probeangebot gilt nur für neue Mitglieder. Alles zu den Regeln liest du unt
 
 Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Für die Pfnorstraße, die nach dem Umbau wieder geöffnet hat, nennt Fitness First keine Kategorie: Frag dort nach, welche Mitgliedschaft gilt. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
-| Club und Kategorie | Besonderheiten |
+| Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
 | **Eberstadt** · RED<br><span class="klein">Pfungstädter Straße 92</span> | Große Trainingsfläche mit Functional Area und Outdoor Training Area, Wellness mit Sauna, Solarium und Massage, Kurse (u. a. HIIT, Pilates, Power Yoga), kostenlose Parkplätze |
 | **Eschollbrücker Straße** · RED<br><span class="klein">Eschollbrücker Straße 42</span> | Eigener Frauenbereich, Performance Area und Functional Training Area, Wellness mit Sauna, Dampfbad und Solarium, zentrale Lage, kostenlose Parkplätze |

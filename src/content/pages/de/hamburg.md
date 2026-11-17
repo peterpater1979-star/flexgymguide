@@ -305,7 +305,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Für den HYROX Club in den Stadthöfen nennt Fitness First keine Kategorie: Frag dort nach, welche Mitgliedschaft gilt. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
-| Club und Kategorie | Besonderheiten |
+| Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
 | **Alsterufer** · BLACK<br><span class="klein">Warburgstraße 1-2</span> | Functional Training Area, Sauna und Dampfbad |
 | **Altona** · BLACK<br><span class="klein">Stresemannstraße 300</span> | Pool, Sauna und Dampfbad, kostenlose Parkplätze |

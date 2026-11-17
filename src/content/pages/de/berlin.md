@@ -291,7 +291,7 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft trainierst du in allen Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
-| Club und Kategorie | Besonderheiten |
+| Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
 | **Friedrichshain (Ladies)** · RED<br><span class="klein">Frankfurter Allee 57-59</span> | Nur für Frauen, Kurse, Terrasse |
 | **Gendarmenmarkt** · BLACK<br><span class="klein">Jägerstraße 27</span> | 16-Meter-Pool, Sauna und Dampfbad |

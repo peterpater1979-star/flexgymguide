@@ -211,7 +211,7 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 
 Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft trainierst du in allen Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
-| Club und Kategorie | Besonderheiten |
+| Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
 | **Bockenheim** · RED<br><span class="klein">Solmsstraße 18</span> | Große Trainingsfläche, Performance Area |
 | **Eckenheim** · BLACK<br><span class="klein">Karl-von-Drais-Straße 5a</span> | Pool, Sauna und Dampfbad, Pickleball |
