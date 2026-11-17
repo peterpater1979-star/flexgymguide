@@ -181,9 +181,9 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | **Heidelberger Straße** · RED<br><span class="klein">Heidelberger Straße 185</span> | Wellness mit Sauna und separatem Frauenbereich, Functional Training Area, HYROX-Kurse, Cycling- und Kursraum, Performance Area, kostenlose Parkplätze |
 | **Kleyerstraße** · BLACK<br><span class="klein">Kleyerstraße 4</span> | Outdoor Training Area, Wellness mit Sauna, Solarium und Massage, mehrere Kursräume (u. a. Zumba, Indoor Cycling, Pilates, Yoga, Boxen), kostenlose Parkplätze |
 | **Ludwigsplatz (Ladies)** · BLACK<br><span class="klein">Ludwigsplatz 6</span> | Nur für Frauen, Reformer Pilates, Kids Club, Wellness mit Sauna und Solarium, zentrale Lage, Kurse (u. a. Zumba, Pilates, Kickboxen, Yoga) |
-| **Mornewegstraße** · BLACK<br><span class="klein">Mornewegstraße 32</span> | EGYM-Bereich, persönliche Betreuung, Personal Training gegen Gebühr, Kurse (u. a. Yoga, Rückenfit), zentrale Lage, kostenlose Parkplätze |
+| **Mornewegstraße** · BLACK<br><span class="klein">Mornewegstraße 32</span> | EGYM-Bereich, Gesundheitstraining, persönliche Betreuung, Personal Training gegen Gebühr, Kurse (u. a. Yoga, Rückenfit), zentrale Lage, kostenlose Parkplätze |
 | **Neckarstraße** · RED<br><span class="klein">Neckarstraße 12-16</span> | Wellness mit Sauna, Dampfbad und separatem Frauenbereich, Functional Training Area, HYROX-Kurse, Recovery Area, klimatisiert, Kurse (u. a. Zumba, Pilates, BodyPump), kostenlose Parkplätze |
-| **Ostbahnhof** · BLACK<br><span class="klein">Erbacher Straße 87</span> | EGYM-Bereich, Gerätetraining, moderner Cardio-Bereich, persönliche Betreuung, zentrale Lage, kostenlose Parkplätze |
+| **Ostbahnhof** · BLACK<br><span class="klein">Erbacher Straße 87</span> | EGYM-Bereich, Gesundheitstraining, Gerätetraining, moderner Cardio-Bereich, persönliche Betreuung, zentrale Lage, kostenlose Parkplätze |
 | **Pfnorstraße**<br><span class="klein">Pfnorstraße 14</span> | Nach Umbau wiedereröffnet: Outdoor Training Area, Wellness mit Sauna, separatem Frauenbereich und Solarium, HYROX- und Gruppenkurse (u. a. Pilates, Yoga, Kickboxen), große Trainingsfläche, kostenlose Parkplätze |
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
