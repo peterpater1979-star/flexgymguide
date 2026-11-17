@@ -235,7 +235,7 @@ Das Standard-Abo kostet in Berlin 59 € im Monat für 42 Credits. Neu bei Class
 
 ## Fitness First in Berlin
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 15 in Berlin, unter anderem am Gendarmenmarkt, in Prenzlauer Berg, Steglitz, Wilmersdorf und Zehlendorf, dazu Ladies-Clubs in Friedrichshain und Pankow. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 15 in Berlin, vom Gendarmenmarkt und Prenzlauer Berg bis Steglitz und Zehlendorf, dazu Ladies-Clubs in Friedrichshain, Pankow und Steglitz. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -285,6 +285,34 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Berlin</h2>
+
+Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft trainierst du in allen Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Besonderheiten |
+| --- | --- |
+| **Friedrichshain (Ladies)** · RED<br><span class="klein">Frankfurter Allee 57-59</span> | Nur für Frauen, Kurse, Terrasse |
+| **Gendarmenmarkt** · BLACK<br><span class="klein">Jägerstraße 27</span> | 16-Meter-Pool, Sauna und Dampfbad |
+| **Hellersdorf** · BLACK<br><span class="klein">Heidenauer Straße 26</span> | 25-Meter-Pool, Kurse, Sauna und Dampfbad |
+| **Hohenschönhausen** · RED<br><span class="klein">Hansastraße 236</span> | Eigener Frauenbereich, Kurse, Sauna |
+| **Lichterfelde** · BLACK<br><span class="klein">Lankwitzer Straße 19-24</span> | 25-Meter-Pool, Kurse, Sauna und Dampfbad mit separatem Frauenbereich |
+| **Pankow (Ladies)** · RED<br><span class="klein">Breite Straße 33-34</span> | Nur für Frauen, Kids Club, Recovery Area, Terrasse |
+| **Prager Platz** · BLACK<br><span class="klein">Prager Platz 1-3</span> | 25-Meter-Pool, Kurse, Sauna und Dampfbad mit separatem Frauenbereich |
+| **Prenzlauer Berg** · RED<br><span class="klein">Schönhauser Allee 80</span> | Zentrale Lage, Kurse, Sauna und Dampfbad |
+| **Schöneberg** · RED<br><span class="klein">Bautzener Straße 56</span> | Eigener Frauenbereich, Performance Area, Sauna |
+| **Steglitz** · BLACK<br><span class="klein">Schloßstraße 110</span> | Laufbahn, Terrasse, kostenlose Parkplätze |
+| **Steglitz Im Schloss (Ladies)** · BLACK<br><span class="klein">Schloßstraße 33-36</span> | Nur für Frauen, Kurse, Kids Club, Sauna und Dampfbad |
+| **Steglitz SSC** · BLACK<br><span class="klein">Walther-Schreiber-Platz 1</span> | Functional Training Area, Performance Area, Sauna |
+| **Wedding** · RED<br><span class="klein">Müllerstraße 35</span> | Eigener Frauenbereich, Performance Area, Sauna |
+| **Wilmersdorf** · RED<br><span class="klein">Wilmersdorfer Straße 108-111</span> | Functional Training Area, Recovery Area, EGYM |
+| **Zehlendorfer Welle**<br><span class="klein">Clayallee 328-334</span> | 25-Meter-Pool, große Trainingsfläche, Sauna und Dampfbad |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Berlin</h2>
