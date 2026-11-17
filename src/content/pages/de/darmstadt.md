@@ -146,7 +146,7 @@ Das Standard-Abo kostet in Darmstadt 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Darmstadt
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt, unter anderem am Hauptbahnhof, am Ostbahnhof, in Eberstadt und in der Heidelberger Straße, dazu ein Ladies-Club am Ludwigsplatz. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt, unter anderem am Hauptbahnhof, am Ostbahnhof, in Eberstadt und in der Heidelberger Straße, dazu ein Ladies-Club am Ludwigsplatz. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -168,6 +168,29 @@ Neu bei ClassPass? Du startest mit einem Monat gratis und 10 Workouts.
 4. **Am Ende** bekommst du eine Erinnerung per E-Mail. Kündigst du nicht, wechselst du ins Standard-Abo in Darmstadt: 42 Credits für 59 € im Monat.
 
 Das Probeangebot gilt nur für neue Mitglieder. Alles zu den Regeln liest du unter [ClassPass Probezeit](/de/classpass-probezeit/).
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Darmstadt</h2>
+
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Für die Pfnorstraße, die nach dem Umbau wieder geöffnet hat, nennt Fitness First keine Kategorie: Frag dort nach, welche Mitgliedschaft gilt. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Besonderheiten |
+| --- | --- |
+| **Eberstadt** · RED<br><span class="klein">Pfungstädter Straße 92</span> | Outdoor Training Area, Kurse, Sauna |
+| **Eschollbrücker Straße** · RED<br><span class="klein">Eschollbrücker Straße 42</span> | Eigener Frauenbereich, Performance Area, Sauna |
+| **Hauptbahnhof** · RED<br><span class="klein">Poststraße 4-6</span> | Zentrale Lage, große Trainingsfläche |
+| **Heidelberger Straße** · RED<br><span class="klein">Heidelberger Straße 185</span> | Functional Training Area und HYROX-Kurse, Wellness mit separatem Frauenbereich, kostenlose Parkplätze |
+| **Kleyerstraße** · BLACK<br><span class="klein">Kleyerstraße 4</span> | Outdoor Training Area, Kurse, Sauna |
+| **Ludwigsplatz (Ladies)** · BLACK<br><span class="klein">Ludwigsplatz 6</span> | Nur für Frauen, Reformer Pilates, Kids Club |
+| **Mornewegstraße** · BLACK<br><span class="klein">Mornewegstraße 32</span> | EGYM, kostenlose Parkplätze |
+| **Neckarstraße** · RED<br><span class="klein">Neckarstraße 12-16</span> | Wellness mit separatem Frauenbereich, klimatisiert, kostenlose Parkplätze |
+| **Ostbahnhof** · BLACK<br><span class="klein">Erbacher Straße 87</span> | Persönliche Betreuung, EGYM |
+| **Pfnorstraße**<br><span class="klein">Pfnorstraße 14</span> | Outdoor Training Area, Kurse, Wellness mit separatem Frauenbereich |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
 
 <h2 id="andere">Weitere Fitnessstudios in Darmstadt</h2>
 
