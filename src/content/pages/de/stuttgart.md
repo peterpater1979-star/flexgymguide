@@ -178,7 +178,7 @@ Das Standard-Abo kostet in Stuttgart 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Stuttgart
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 4 in Stuttgart. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 4 in Stuttgart, unter anderem in Bad Cannstatt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 Suchst du FIT ONE oder Smile X? Diese Marken gibt es nicht mehr, sie wurden von Fitness First übernommen.
 
@@ -198,7 +198,7 @@ Suchst du FIT ONE oder Smile X? Diese Marken gibt es nicht mehr, sie wurden von 
 
 ## McFit in Stuttgart
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Stuttgart. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Stuttgart trainierst du in Feuerbach, Mitte und Mühlhausen. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/).
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 

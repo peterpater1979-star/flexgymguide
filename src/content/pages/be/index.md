@@ -118,9 +118,9 @@ Belgische sportschoolketen met meer dan 80 clubs, met fitness en groepslessen me
 ## Steden
 
 <ul class="stedenlijst">
-<li><a href="/be/brussel/"><strong>Brussel</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims · Rostudios</span></li>
-<li><a href="/be/antwerpen/"><strong>Antwerpen</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims · Rostudios</span></li>
-<li><a href="/be/gent/"><strong>Gent</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Jims</span></li>
+<li><a href="/be/brussel/"><strong>Brussel</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Jims · Rostudios</span></li>
+<li><a href="/be/antwerpen/"><strong>Antwerpen</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Jims · Rostudios</span></li>
+<li><a href="/be/gent/"><strong>Gent</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Jims</span></li>
 </ul>
 
 </div>

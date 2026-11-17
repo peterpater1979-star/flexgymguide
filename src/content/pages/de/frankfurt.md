@@ -173,7 +173,7 @@ Das Standard-Abo kostet in Frankfurt 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Frankfurt
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfurt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfurt, vom Opernplatz und der Zeil bis Bockenheim und Ostend, dazu Ladies-Clubs in Rödelheim und Sachsenhausen. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -191,7 +191,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfu
 
 ## McFit in Frankfurt
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Frankfurt. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Frankfurt trainierst du in Fechenheim, in Griesheim und auf der Zeil. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
@@ -205,6 +205,30 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Frankfurt</h2>
+
+Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft trainierst du in allen Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Besonderheiten |
+| --- | --- |
+| **Bockenheim** · RED<br><span class="klein">Solmsstraße 18</span> | Große Trainingsfläche, Performance Area |
+| **Eckenheim** · BLACK<br><span class="klein">Karl-von-Drais-Straße 5a</span> | Pool, Sauna und Dampfbad, Pickleball |
+| **Industriehof** · RED<br><span class="klein">Trakehner Straße 5</span> | Kurse, Sauna und Dampfbad |
+| **Konstablerwache** · RED<br><span class="klein">Zeil 72-82</span> | 16-Meter-Pool, Sauna und Dampfbad |
+| **MyZeil** · BLACK<br><span class="klein">Zeil 102-106</span> | Pool, Terrasse, Kids Club |
+| **Opernplatz** · BLACK<br><span class="klein">Hochstraße 44</span> | Pool, Sauna und Dampfbad, EGYM |
+| **Ostend** · BLACK<br><span class="klein">Hanauer Landstraße 148</span> | 20-Meter-Pool, Sauna und Dampfbad, kostenlose Parkplätze |
+| **Preungesheim** · RED<br><span class="klein">August-Schanz-Straße 33-35</span> | Eigener Frauenbereich, Sauna |
+| **Rödelheim (Ladies)** · BLACK<br><span class="klein">Rödelheimer Bahnweg 19</span> | Nur für Frauen, Yoga-Kurse, Sauna, EGYM |
+| **Sachsenhausen (Ladies)** · BLACK<br><span class="klein">Hedderichstraße 51</span> | Nur für Frauen, Kurse, Kids Club |
+| **Westend** · BLACK<br><span class="klein">Reuterweg 18</span> | Zentrale Lage, Sauna und Dampfbad |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Frankfurt</h2>

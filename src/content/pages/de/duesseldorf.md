@@ -187,7 +187,7 @@ Das Standard-Abo kostet in Düsseldorf 59 € im Monat für 42 Credits. Neu bei 
 
 ## Fitness First in Düsseldorf
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 5 in Düsseldorf. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 5 in Düsseldorf, unter anderem in Derendorf im Lighthouse und in der Kö Galerie. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -205,7 +205,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 5 in Düsseld
 
 ## McFit in Düsseldorf
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Düsseldorf. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Düsseldorf trainierst du in Lierenfeld. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
