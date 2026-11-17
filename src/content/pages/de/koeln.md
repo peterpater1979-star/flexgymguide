@@ -239,22 +239,30 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft trainierst du in allen Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
-| Club und Kategorie | Besonderheiten |
+| Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
-| **Bayenthal** · BLACK<br><span class="klein">Bonner Straße 271</span> | 24-Meter-Pool, HYROX-Fläche, kostenlose Parkplätze |
-| **Belgisches Viertel** · RED<br><span class="klein">Richard-Wagner-Straße 51-53</span> | Große Trainingsfläche, Kurse, Sauna |
-| **Breite Straße** · RED<br><span class="klein">Breite Straße 80-90</span> | Laufbahn, Performance Area, Sauna und Dampfbad |
-| **Deutz** · RED<br><span class="klein">Gummersbacher Straße 29</span> | Große Trainingsfläche, Kurse, Sauna |
-| **Ehrenfeld** · RED<br><span class="klein">Venloer Straße 389</span> | Performance Area, Sauna und Dampfbad, kostenlose Parkplätze |
-| **Eigelstein-Viertel** · RED<br><span class="klein">Eigelstein 80-88</span> | Zentrale Lage, große Trainingsfläche, Sauna |
-| **Mediapark** · BLACK<br><span class="klein">Im Mediapark 4a</span> | 20-Meter-Pool, große Trainingsfläche, Sauna und Dampfbad mit separatem Frauenbereich |
-| **Neu-Weiden (Ladies)** · RED<br><span class="klein">Aachener Straße 1143</span> | Nur für Frauen, Kurse, Sauna |
-| **Nippes** · RED<br><span class="klein">Niehler Straße 94</span> | Functional Training Area, Performance Area |
-| **Riehl** · RED<br><span class="klein">Amsterdamer Straße 133a</span> | Eigener Frauenbereich, Functional Training Area, Sauna und Dampfbad |
-| **Schildergasse** · RED<br><span class="klein">Schildergasse 94-96</span> | Zentrale Lage, Performance Area, EGYM |
-| **Sülz** · RED<br><span class="klein">Luxemburger Straße 253</span> | Functional Training Area, große Trainingsfläche, kostenlose Parkplätze |
+| **Bayenthal** · BLACK<br><span class="klein">Bonner Straße 271</span> | 24-Meter-Pool, Wellness mit Sauna und Dampfbad, eigener Frauenbereich, Kids Club, HYROX-Fläche, Performance Area, über 90 Kurse pro Woche (u. a. Zumba, AquaFit, HYROX, YogaFlow, Pilates), kostenlose Parkplätze |
+| **Belgisches Viertel** · RED<br><span class="klein">Richard-Wagner-Straße 51-53</span> | Große Trainingsfläche, Wellness mit Sauna und Solarium, Außenbereich, mehr als 25 Kurse pro Woche (u. a. Bodypump, Bodycombat, Bodyattack, Pilates, Yoga) |
+| **Breite Straße** · RED<br><span class="klein">Breite Straße 80-90</span> | Laufbahn, Wellness mit Sauna und Dampfbad, Performance Area, Recovery Area, moderner Cardio-Bereich, über 45 Kurse pro Woche (u. a. YogaFlow, Pilates, DanceMoves, Jumping Fitness, Rowing Bootcamp) |
+| **Deutz** · RED<br><span class="klein">Gummersbacher Straße 29</span> | Große Trainingsfläche, Wellness mit Sauna und Solarium, zentrale Lage, mehr als 30 Kurse pro Woche (u. a. Bodypump, Bodycombat, Pilates, Yoga, Cycling), kostenlose Parkplätze |
+| **Ehrenfeld** · RED<br><span class="klein">Venloer Straße 389</span> | Wellness mit Sauna und Dampfbad, Performance Area, Recovery Area, über 50 Kurse pro Woche (u. a. Zumba, Yoga, Pilates, HYROX, LES MILLS), kostenlose Parkplätze |
+
+<details>
+<summary>Alle 14 Fitness First Clubs in Köln anzeigen</summary>
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Eigelstein-Viertel** · RED<br><span class="klein">Eigelstein 80-88</span> | Zentrale Lage, Wellness mit Sauna, große Trainingsfläche, EGYM-Bereich, Functional Training Area, mehr als 20 Kurse pro Woche (u. a. Yoga, Zumba, LES MILLS, Bodystyling) |
+| **Mediapark** · BLACK<br><span class="klein">Im Mediapark 4a</span> | 20-Meter-Pool, Wellness mit Sauna, Dampfbad, Kältebecken und separatem Frauenbereich, Training auf 5 Etagen, Functional Area, Recovery Area, mehr als 55 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Aqua Fit) |
+| **Neu-Weiden (Ladies)** · RED<br><span class="klein">Aachener Straße 1143</span> | Nur für Frauen, Wellness mit Sauna, Solarium und Dachterrasse, mehr als 30 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Zumba), kostenlose Parkplätze |
+| **Nippes** · RED<br><span class="klein">Niehler Straße 94</span> | Functional Training Area, Performance Area, großer Freihantelbereich, Solarium |
+| **Riehl** · RED<br><span class="klein">Amsterdamer Straße 133a</span> | Eigener Frauenbereich, Wellness mit Sauna, Dampfbad und Solarium, Training auf 3 Etagen, EGYM-Zirkel, Functional Training Area, mehr als 50 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Zumba), kostenlose Parkplätze |
+| **Schildergasse** · RED<br><span class="klein">Schildergasse 94-96</span> | Zentrale Lage, Wellness mit Sauna, Dampfbad und separatem Frauenbereich, EGYM-Bereich, Recovery Area, Performance Area, HYROX-Kurse, über 40 Kurse pro Woche (u. a. Zumba, Pilates, YogaFlow) |
+| **Sülz** · RED<br><span class="klein">Luxemburger Straße 253</span> | Eigener Frauenbereich, große Trainingsfläche, Functional Training Area, Performance Area, moderner Cardio-Bereich, über 60 Kurse pro Woche (u. a. YogaFlow, Pilates, BodyCombat, BikeIntense), kostenlose Parkplätze |
 | **Weiden-Üsdorf** · RED<br><span class="klein">Aachener Straße 1281</span> | Geräte-Training, moderner Cardio-Bereich, kostenlose Parkplätze |
-| **Zülpicher Platz** · RED<br><span class="klein">Hohenstaufenring 30-32</span> | Functional Training Area, Performance Area, Sauna |
+| **Zülpicher Platz** · RED<br><span class="klein">Hohenstaufenring 30-32</span> | Zentrale Lage, Wellness mit Sauna und Solarium, Functional Training Area, Performance Area, Training auf 3 Ebenen, mehr als 45 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Zumba) |
+
+</details>
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 

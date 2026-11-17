@@ -178,7 +178,7 @@ Das Standard-Abo kostet in Stuttgart 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Stuttgart
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 4 in Stuttgart, unter anderem in Bad Cannstatt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 4 in Stuttgart, unter anderem in Bad Cannstatt, am Rotebühlplatz und in Zuffenhausen. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 Suchst du FIT ONE oder Smile X? Diese Marken gibt es nicht mehr, sie wurden von Fitness First übernommen.
 
@@ -212,6 +212,23 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Stuttgart</h2>
+
+Alle vier Clubs sind RED Clubs. Mit einer RED-Mitgliedschaft trainierst du in allen RED Clubs, mit BLACK zusätzlich in den BLACK Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Bad Cannstatt** · RED<br><span class="klein">Daimlerstraße 67</span> | Große Trainingsfläche, Wellness mit Sauna und Dampfbad, EGYM-Bereich, Functional Training Area, Recovery Area, über 30 Kurse pro Woche (u. a. Zumba, HYROX, BoxCamp, Indoor Cycling HIIT, Yoga) |
+| **Hauptstätter Straße** · RED<br><span class="klein">Hauptstätter Straße 107</span> | Neu eröffnet: Eigener Frauenbereich, Wellness mit Sauna und Solarium, Functional Training Area, Performance Area, moderner Cardio-Bereich, mehr als 25 Kurse pro Woche (u. a. BODYPUMP, Bodycombat, GRIT, HYROX) |
+| **Rotebühl** · RED<br><span class="klein">Rotebühlplatz 21-25</span> | Zentrale Lage, große Trainingsfläche, EGYM-Bereich, Functional Training Area, Recovery Area, HYROX-Kurse, über 30 Kurse pro Woche (u. a. BodyCombat, Strong Nation, Indoor Cycling, Yoga, Pilates), kostenlose Parkplätze |
+| **Zuffenhausen** · RED<br><span class="klein">Stammheimer Straße 45</span> | Große Trainingsfläche, Performance Area, Solarium, über 10 Kurse pro Woche (u. a. Pilates, Boxen, Yoga, Bauch intensiv), kostenlose Parkplätze |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Stuttgart</h2>

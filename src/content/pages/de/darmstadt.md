@@ -146,7 +146,7 @@ Das Standard-Abo kostet in Darmstadt 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Darmstadt
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt, unter anderem am Hauptbahnhof, am Ostbahnhof, in Eberstadt und in der Heidelberger Straße, dazu ein Ladies-Club am Ludwigsplatz. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt, unter anderem am Hauptbahnhof, am Ostbahnhof, in Eberstadt und in der Heidelberger Straße, dazu ein Ladies-Club am Ludwigsplatz. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -168,6 +168,29 @@ Neu bei ClassPass? Du startest mit einem Monat gratis und 10 Workouts.
 4. **Am Ende** bekommst du eine Erinnerung per E-Mail. Kündigst du nicht, wechselst du ins Standard-Abo in Darmstadt: 42 Credits für 59 € im Monat.
 
 Das Probeangebot gilt nur für neue Mitglieder. Alles zu den Regeln liest du unter [ClassPass Probezeit](/de/classpass-probezeit/).
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Darmstadt</h2>
+
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Eberstadt** · RED<br><span class="klein">Pfungstädter Straße 92</span> | Große Trainingsfläche mit Outdoor Training Area, Wellness mit Sauna, Solarium und Massage, mehr als 30 Kurse pro Woche (u. a. HIIT, Pilates, Power Yoga, bodyART, Hot Iron), kostenlose Parkplätze |
+| **Eschollbrücker Straße** · RED<br><span class="klein">Eschollbrücker Straße 42</span> | Eigener Frauenbereich, Performance Area und Functional Training Area, Wellness mit Sauna, Dampfbad und Solarium, zentrale Lage, kostenlose Parkplätze |
+| **Hauptbahnhof** · RED<br><span class="klein">Poststraße 4-6</span> | Zentrale Lage am Bahnhof, große Trainingsfläche mit Performance Area und EGYM-Bereich, Solarium, persönliche Betreuung, kostenloses Parken (3 Stunden) |
+| **Heidelberger Straße** · RED<br><span class="klein">Heidelberger Straße 185</span> | Wellness mit Sauna und separatem Frauenbereich, große Trainingsfläche, Functional Training Area, über 40 Kurse pro Woche (u. a. HYROX, Indoor Cycling, LES MILLS, Zumba, Yoga, RückenFit), Performance Area, kostenlose Parkplätze |
+| **Kleyerstraße** · BLACK<br><span class="klein">Kleyerstraße 4</span> | Outdoor Training Area, Wellness mit Sauna, Solarium und Massage (Massageliege, Wasserbettmassage), mehr als 50 Kurse pro Woche (u. a. Zumba, Indoor Cycling, Pilates, Yin und Yang Yoga, Boxen), kostenlose Parkplätze |
+| **Ludwigsplatz (Ladies)** · BLACK<br><span class="klein">Ludwigsplatz 6</span> | Nur für Frauen, Reformer Pilates, Kids Club, Wellness mit Sauna und Solarium, zentrale Lage, mehr als 30 Kurse pro Woche (u. a. Zumba, Pilates, Kickboxen, Rückenfit, Vinyasa Yoga) |
+| **Mornewegstraße** · BLACK<br><span class="klein">Mornewegstraße 32</span> | EGYM-Bereich, Gesundheitstraining, Personal Training gegen Gebühr, mehr als 30 Kurse pro Woche (u. a. FazienFit, Yoga, Rückenfit, FitForever), zentrale Lage, kostenlose Parkplätze |
+| **Neckarstraße** · RED<br><span class="klein">Neckarstraße 12-16</span> | Wellness mit Sauna, Dampfbad und separatem Frauenbereich, Functional Training Area, HYROX-Kurse, Recovery Area, voll klimatisiert, über 30 Kurse pro Woche (u. a. Zumba, Pilates, BodyPump, Vinyasa Yoga, BoxCamp), kostenlose Parkplätze |
+| **Ostbahnhof** · BLACK<br><span class="klein">Erbacher Straße 87</span> | EGYM-Bereich, Gesundheitstraining, Gerätetraining, moderner Cardio-Bereich, persönliche Betreuung, zentrale Lage, kostenlose Parkplätze |
+| **Pfnorstraße** · BLACK<br><span class="klein">Pfnorstraße 14</span> | Nach Umbau wiedereröffnet: Outdoor Training Area, Wellness mit Sauna, separatem Frauenbereich und Solarium, HYROX-Kurse und mehr als 50 Kurse pro Woche (u. a. Pilates, Vinyasa Yoga, Anti Gravity Yoga, Kickboxen, Hot Iron), große Trainingsfläche, kostenlose Parkplätze |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
 
 <h2 id="andere">Weitere Fitnessstudios in Darmstadt</h2>
 

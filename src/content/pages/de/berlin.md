@@ -291,23 +291,31 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft trainierst du in allen Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
-| Club und Kategorie | Besonderheiten |
+| Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
-| **Friedrichshain (Ladies)** · RED<br><span class="klein">Frankfurter Allee 57-59</span> | Nur für Frauen, Kurse, Terrasse |
-| **Gendarmenmarkt** · BLACK<br><span class="klein">Jägerstraße 27</span> | 16-Meter-Pool, Sauna und Dampfbad |
-| **Hellersdorf** · BLACK<br><span class="klein">Heidenauer Straße 26</span> | 25-Meter-Pool, Kurse, Sauna und Dampfbad |
-| **Hohenschönhausen** · RED<br><span class="klein">Hansastraße 236</span> | Eigener Frauenbereich, Kurse, Sauna |
-| **Lichterfelde** · BLACK<br><span class="klein">Lankwitzer Straße 19-24</span> | 25-Meter-Pool, Kurse, Sauna und Dampfbad mit separatem Frauenbereich |
-| **Pankow (Ladies)** · RED<br><span class="klein">Breite Straße 33-34</span> | Nur für Frauen, Kids Club, Recovery Area, Terrasse |
-| **Prager Platz** · BLACK<br><span class="klein">Prager Platz 1-3</span> | 25-Meter-Pool, Kurse, Sauna und Dampfbad mit separatem Frauenbereich |
-| **Prenzlauer Berg** · RED<br><span class="klein">Schönhauser Allee 80</span> | Zentrale Lage, Kurse, Sauna und Dampfbad |
-| **Schöneberg** · RED<br><span class="klein">Bautzener Straße 56</span> | Eigener Frauenbereich, Performance Area, Sauna |
-| **Steglitz** · BLACK<br><span class="klein">Schloßstraße 110</span> | Laufbahn, Terrasse, kostenlose Parkplätze |
-| **Steglitz Im Schloss (Ladies)** · BLACK<br><span class="klein">Schloßstraße 33-36</span> | Nur für Frauen, Kurse, Kids Club, Sauna und Dampfbad |
-| **Steglitz SSC** · BLACK<br><span class="klein">Walther-Schreiber-Platz 1</span> | Functional Training Area, Performance Area, Sauna |
-| **Wedding** · RED<br><span class="klein">Müllerstraße 35</span> | Eigener Frauenbereich, Performance Area, Sauna |
-| **Wilmersdorf** · RED<br><span class="klein">Wilmersdorfer Straße 108-111</span> | Functional Training Area, Recovery Area, EGYM |
-| **Zehlendorfer Welle**<br><span class="klein">Clayallee 328-334</span> | 25-Meter-Pool, große Trainingsfläche, Sauna und Dampfbad |
+| **Friedrichshain (Ladies)** · RED<br><span class="klein">Frankfurter Allee 57-59</span> | Nur für Frauen, Terrasse, Functional Training Area, Performance Area, moderner Cardio-Bereich, über 70 Kurse pro Woche (u. a. Pilates, Zumba, Vinyasa Yoga, BodyCombat, BikeIntense) |
+| **Gendarmenmarkt** · BLACK<br><span class="klein">Jägerstraße 27</span> | 16-Meter-Pool, Wellness mit Sauna und Dampfbad, Recovery Area, Performance Area, über 60 Kurse pro Woche (u. a. Yoga, HYROX, Pilates, AquaFit, BikeIntense) |
+| **Hellersdorf** · BLACK<br><span class="klein">Heidenauer Straße 26</span> | 25-Meter-Pool, Wellness mit Sauna und Dampfbad, Kids Club, Functional Training Area, Performance Area, über 200 Kurse pro Woche (u. a. Aqua Fit, Yoga, Zumba, DanceMoves), Cycling-Raum |
+| **Hohenschönhausen** · RED<br><span class="klein">Hansastraße 236</span> | Eigener Frauenbereich, Wellness mit Sauna, Functional Training Area, Hammer Strength Training, Performance Area, mehr als 20 Kurse pro Woche (u. a. Zumba, Yoga, Pilates, Cycling) |
+| **Lichterfelde** · BLACK<br><span class="klein">Lankwitzer Straße 19-24</span> | 25-Meter-Pool, Wellness mit Sauna, Dampfbad und separatem Frauenbereich, Kids Club, Functional Training Area, Cycling-Raum, über 180 Kurse pro Woche (u. a. Aqua Fitness, Jumping Fitness, Pilates, Hot Iron, Yoga) |
+
+<details>
+<summary>Alle 15 Fitness First Clubs in Berlin anzeigen</summary>
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Pankow (Ladies)** · RED<br><span class="klein">Breite Straße 33-34</span> | Nur für Frauen, Wellness mit Sauna und Dampfbad, Kids Club, Terrasse, Recovery Area, Performance Area, über 80 Kurse pro Woche (u. a. BodyStyling, Vinyasa Yoga, BodyCombat, Zumba) |
+| **Prager Platz** · BLACK<br><span class="klein">Prager Platz 1-3</span> | 25-Meter-Pool, Wellness mit Sauna, Dampfbad und separatem Frauenbereich, Functional Training Area, Performance Area, Cycling-Raum, über 200 Kurse pro Woche (u. a. Aqua Fitness, Indoor Cycling, Yoga, Hot Iron, Zumba) |
+| **Prenzlauer Berg** · RED<br><span class="klein">Schönhauser Allee 80</span> | Zentrale Lage, Wellness mit Sauna und Dampfbad, EGYM-Bereich, Recovery Area, Functional Training Area, über 120 Kurse pro Woche (u. a. BodyCombat, Jumping Fitness, Yoga, Zumba, BikeIntense) |
+| **Schöneberg** · RED<br><span class="klein">Bautzener Straße 56</span> | Eigener Frauenbereich, Wellness mit Sauna, Functional Training Area, Hammer Strength Training, Performance Area, mehr als 10 Kurse pro Woche (u. a. LES MILLS BODYPUMP, BODYATTACK, BODYBALANCE) |
+| **Steglitz** · BLACK<br><span class="klein">Schloßstraße 110</span> | Swimming-Pool, Wellness mit Sauna und Dampfbad, Laufbahn, Terrasse, EGYM-Bereich, Recovery Area, über 100 Kurse pro Woche (u. a. Pilates, Vinyasa Yoga, AquaFit, Zumba), kostenlose Parkplätze |
+| **Steglitz Im Schloss (Ladies)** · BLACK<br><span class="klein">Schloßstraße 33-36</span> | Nur für Frauen, Wellness mit Sauna und Dampfbad, Kids Club, Terrasse, Recovery Area, über 90 Kurse pro Woche (u. a. Zumba, BikeIntense, Pilates, BodyCombat, Yoga) |
+| **Steglitz SSC** · BLACK<br><span class="klein">Walther-Schreiber-Platz 1</span> | Wellness mit Sauna, Functional Training Area, Hammer Strength Training, Performance Area, Recovery Area, Indoor-Cycling-Kurse, über 20 Kurse pro Woche (u. a. HYROX, Yoga, Functional) |
+| **Wedding** · RED<br><span class="klein">Müllerstraße 35</span> | Eigener Frauenbereich, Wellness mit Sauna, große Trainingsfläche, Functional Training Area, Hammer Strength Training, mehr als 15 Kurse pro Woche (u. a. HYROX, Zumba, Bodypump, Bodybalance) |
+| **Wilmersdorf** · RED<br><span class="klein">Wilmersdorfer Straße 108-111</span> | Wellness mit Sauna und Dampfbad, EGYM-Bereich, Recovery Area, Performance Area, über 70 Kurse pro Woche (u. a. Vinyasa Yoga, BodyCombat, BODYATTACK, Bike &amp; Climb, Zumba), kostenlose Parkplätze |
+| **Zehlendorfer Welle** · BLACK<br><span class="klein">Clayallee 328-334</span> | 25-Meter-Pool, Wellness mit Sauna und Dampfbad, EGYM-Bereich, große Trainingsfläche, Recovery Area, über 130 Kurse pro Woche (u. a. HYROX, Vinyasa Yoga, Jumping Fitness, Fitness Boxen, Zumba) |
+
+</details>
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 
