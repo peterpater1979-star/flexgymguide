@@ -213,12 +213,12 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 
 <h2 id="fitness-first-clubs">Alle Fitness First Clubs in Leipzig</h2>
 
-Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Für die Thomaskirche nennt Fitness First keine Kategorie: Frag dort nach, welche Mitgliedschaft gilt. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
 
 | Club und Kategorie | Ausstattung und Angebot |
 | --- | --- |
 | **Messehof** · BLACK<br><span class="klein">Petersstraße 15</span> | Swimming-Pool, Recovery Area, Performance Area, Power Plate, Kinesis und Gravity, über 80 Kurse pro Woche (u. a. HYROX, Zumba, BodyCombat, Yoga, Jumping Fitness, Indoor Cycling, Fitness Boxen), kostenlose Parkplätze, als BLACK-Mitglied auch in allen ELBGYM Studios |
-| **Thomaskirche**<br><span class="klein">Petersstraße 20</span> | Neu eröffnet: Eigener Frauenbereich, Wellness mit Sauna, Dampfbad und Solarium, Functional Training Area, Performance Area, moderner Cardio-Bereich, mehr als 10 Kurse pro Woche (u. a. HYROX, Bodypump, Cycling, Zumba) |
+| **Thomaskirche** · RED<br><span class="klein">Petersstraße 20</span> | Neu eröffnet: Eigener Frauenbereich, Wellness mit Sauna, Dampfbad und Solarium, Functional Training Area, Performance Area, moderner Cardio-Bereich, mehr als 10 Kurse pro Woche (u. a. HYROX, Bodypump, Cycling, Zumba) |
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 
