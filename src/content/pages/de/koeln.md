@@ -246,6 +246,12 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **Breite Straße** · RED<br><span class="klein">Breite Straße 80-90</span> | Laufbahn, Wellness mit Sauna und Dampfbad, Performance Area, Recovery Area, moderner Cardio-Bereich, über 45 Kurse pro Woche (u. a. YogaFlow, Pilates, DanceMoves, Jumping Fitness, Rowing Bootcamp) |
 | **Deutz** · RED<br><span class="klein">Gummersbacher Straße 29</span> | Große Trainingsfläche, Wellness mit Sauna und Solarium, zentrale Lage, mehr als 30 Kurse pro Woche (u. a. Bodypump, Bodycombat, Pilates, Yoga, Cycling), kostenlose Parkplätze |
 | **Ehrenfeld** · RED<br><span class="klein">Venloer Straße 389</span> | Wellness mit Sauna und Dampfbad, Performance Area, Recovery Area, über 50 Kurse pro Woche (u. a. Zumba, Yoga, Pilates, HYROX, LES MILLS), kostenlose Parkplätze |
+
+<details>
+<summary>Alle 14 Fitness First Clubs in Köln anzeigen</summary>
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
 | **Eigelstein-Viertel** · RED<br><span class="klein">Eigelstein 80-88</span> | Zentrale Lage, Wellness mit Sauna, große Trainingsfläche, EGYM-Bereich, Functional Training Area, mehr als 20 Kurse pro Woche (u. a. Yoga, Zumba, LES MILLS, Bodystyling) |
 | **Mediapark** · BLACK<br><span class="klein">Im Mediapark 4a</span> | 20-Meter-Pool, Wellness mit Sauna, Dampfbad, Kältebecken und separatem Frauenbereich, Training auf 5 Etagen, Functional Area, Recovery Area, mehr als 55 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Aqua Fit) |
 | **Neu-Weiden (Ladies)** · RED<br><span class="klein">Aachener Straße 1143</span> | Nur für Frauen, Wellness mit Sauna, Solarium und Dachterrasse, mehr als 30 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Zumba), kostenlose Parkplätze |
@@ -255,6 +261,8 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **Sülz** · RED<br><span class="klein">Luxemburger Straße 253</span> | Eigener Frauenbereich, große Trainingsfläche, Functional Training Area, Performance Area, moderner Cardio-Bereich, über 60 Kurse pro Woche (u. a. YogaFlow, Pilates, BodyCombat, BikeIntense), kostenlose Parkplätze |
 | **Weiden-Üsdorf** · RED<br><span class="klein">Aachener Straße 1281</span> | Geräte-Training, moderner Cardio-Bereich, kostenlose Parkplätze |
 | **Zülpicher Platz** · RED<br><span class="klein">Hohenstaufenring 30-32</span> | Zentrale Lage, Wellness mit Sauna und Solarium, Functional Training Area, Performance Area, Training auf 3 Ebenen, mehr als 45 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Zumba) |
+
+</details>
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 
