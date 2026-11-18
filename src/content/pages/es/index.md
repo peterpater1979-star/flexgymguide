@@ -211,7 +211,7 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 ### Club Pilates
 
-Más de 40 estudios de pilates reformer, sobre todo en Madrid y Barcelona. Precio según el estudio.
+Más de 40 estudios de pilates reformer, sobre todo en Madrid y Barcelona. Terrassa Nord: de 85 a 199 € al mes.
 
 <div class="infoblok">
 <p class="proef"><span aria-hidden="true">✓</span> Clase de introducción gratis</p>

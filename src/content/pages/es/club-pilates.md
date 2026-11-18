@@ -2,7 +2,7 @@
 title: "Club Pilates en España: estudios, clase gratis y cómo funciona"
 seoTitle: "Club Pilates España: estudios y clase de prueba gratis"
 path: "/es/club-pilates/"
-description: "Club Pilates en España: pilates reformer en más de 40 estudios de Madrid, Barcelona, Bilbao, Valencia y más, clase de introducción gratis y cuotas de 4, 8 o ilimitadas."
+description: "Club Pilates en España: pilates reformer en más de 40 estudios, clase de introducción gratis y precios de ejemplo: 4 clases 85 €, 8 clases 149 €, ilimitada 199 € al mes."
 lang: es
 land: es
 byline: "Actualizado en noviembre de 2026"
@@ -12,7 +12,7 @@ kicker: "Proveedor: estudio de pilates"
 
 <div class="fotobanner smal foto-rostudios-reformer" role="img" aria-label="Pilates reformer"></div>
 
-Club Pilates es una cadena de estudios especializados en pilates con máquina. En España tiene más de 40 estudios, la mayoría en Madrid y alrededores y en Barcelona y su área. La base es el reformer, con otros aparatos como la silla EXO, la pelota Bosu y el TRX-trampolín. Hay nueve tipos de clase y cuatro niveles. Los precios los fija cada estudio, por eso aquí no los mostramos: pídelos en el estudio que te queda cerca.
+Club Pilates es una cadena de estudios especializados en pilates con máquina. En España tiene más de 40 estudios, la mayoría en Madrid y alrededores y en Barcelona y su área. La base es el reformer, con otros aparatos como la silla EXO, la pelota Bosu y el TRX-trampolín. Hay nueve tipos de clase y cuatro niveles. Los precios los fija cada estudio: más abajo ves un ejemplo del estudio de Terrassa Nord.
 
 <h2 id="resumen">En resumen</h2>
 
@@ -21,7 +21,7 @@ Club Pilates es una cadena de estudios especializados en pilates con máquina. E
 | **Tipo** | Estudio de pilates reformer con clases en grupo |
 | **Estudios** | Más de 40 en España, algunos abren pronto |
 | **Cuotas** | 4 clases, 8 clases o ilimitadas, mensual o anual |
-| **Precio** | Según la región y el estudio: pregunta en tu estudio |
+| **Precio** | Según el estudio. Terrassa Nord: de 85 a 199 € al mes, más 40 € de inscripción |
 | **Probar** | <span class="ja" aria-hidden="true">✓</span> Clase de introducción gratis de 30 minutos |
 | **Reservar** | Online, por estudio |
 
@@ -31,9 +31,25 @@ Club Pilates es una cadena de estudios especializados en pilates con máquina. E
 
 - **Clase de introducción:** todos los estudios ofrecen una clase gratis de 30 minutos para conocer el método y los aparatos. Se reserva online.
 - **Membresía:** eliges entre 4 clases, 8 clases o clases ilimitadas. La opción ilimitada, mensual o anual, reduce el precio por clase.
-- **Precio:** varía según la región y el estudio. Para saber lo que cuesta, pregunta en el estudio de tu barrio.
+- **Precio:** varía según la región y el estudio. Pregunta el precio actual en el estudio de tu barrio.
 - **Condiciones:** antes de apuntarte, pregunta en el estudio por el plazo de baja y por si hay permanencia. No hemos encontrado esas condiciones en su web.
 - **Clases privadas:** algunos estudios también las ofrecen.
+
+<h2 id="precios">Un ejemplo de precios</h2>
+
+Estos son los precios del estudio de **Terrassa Nord** (cerca de Barcelona). Otros estudios pueden tener otros precios.
+
+| Cuota mensual | Precio al mes | Inscripción |
+| --- | --- | --- |
+| **4 clases al mes** | 85 € | 40 € |
+| **8 clases al mes** | 149 € | 40 € |
+| **Ilimitada** | 199 € | 40 € |
+
+- **Sin renovación automática:** también puedes pagar un solo mes, sin inscripción: 4 clases 125 €, 8 clases 189 €, ilimitada 239 €. Una clase suelta cuesta 30 €.
+- **Clases semiprivadas** (2 o 3 personas, precio por persona): 45 € la clase, 5 clases 215 €, 10 clases 405 €.
+- **Clases privadas:** 70 € la clase, 5 clases 335 €, 10 clases 630 €.
+
+<p class="klein">Fuente: la página de suscripciones del estudio de Terrassa Nord (noviembre de 2026). Comprueba siempre el precio de tu estudio.</p>
 
 <h2 id="ciudades">¿En qué ciudades?</h2>
 
@@ -97,7 +113,7 @@ Sí. Todos los estudios ofrecen una clase de introducción gratuita de 30 minuto
 <details>
 <summary>¿Cuánto cuesta Club Pilates?</summary>
 
-Depende de la región y del estudio. Hay cuotas de 4 clases, de 8 clases e ilimitadas, y la ilimitada reduce el precio por clase. Pregunta el precio actual en tu estudio.
+Depende del estudio. En Terrassa Nord, 4 clases al mes cuestan 85 €, 8 clases 149 € e ilimitada 199 €, más 40 € de inscripción (noviembre de 2026). La ilimitada reduce el precio por clase. Pregunta el precio actual en tu estudio.
 
 </details>
 
