@@ -91,6 +91,20 @@ En Zaragoza, Dreamfit tiene un club en Los Enlaces. Gimnasio grande con clases c
 
 </div>
 
+<div id="club-pilates" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Estudio de pilates reformer</span></div>
+
+<h3 id="club-pilates-zaragoza">Club Pilates</h3>
+
+En Zaragoza, Club Pilates tiene un estudio en Romareda. Pilates reformer con clase de introducción gratis; el precio depende del estudio.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/club-pilates/">Todo sobre Club Pilates</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">
