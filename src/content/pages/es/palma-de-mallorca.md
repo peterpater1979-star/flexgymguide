@@ -89,6 +89,20 @@ En Palma, Synergym tiene clubes en Camp Serralta, Escorxador y Les Estacions. Mu
 
 </div>
 
+<div id="club-pilates" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Estudio de pilates reformer</span></div>
+
+<h3 id="club-pilates-palma-de-mallorca">Club Pilates</h3>
+
+En Palma, Club Pilates tiene un estudio, Palma Avenidas. Pilates reformer con clase de introducción gratis; el precio depende del estudio.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/club-pilates/">Todo sobre Club Pilates</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">

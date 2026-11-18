@@ -103,6 +103,20 @@ En Bilbao, Synergym tiene clubes en Deusto, Indautxu, Sarriko y Ametzola, y tamb
 
 </div>
 
+<div id="club-pilates" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Estudio de pilates reformer</span></div>
+
+<h3 id="club-pilates-bilbao">Club Pilates</h3>
+
+En Bilbao, Club Pilates tiene dos estudios, en Abando e Indautxu. Pilates reformer con clase de introducción gratis; el precio depende del estudio.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/club-pilates/">Todo sobre Club Pilates</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">

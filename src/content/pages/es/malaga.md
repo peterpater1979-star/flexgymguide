@@ -121,6 +121,20 @@ En Málaga, GOfit tiene dos centros: Huelin y Segalerva. Con piscinas, spa y cla
 
 </div>
 
+<div id="club-pilates" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Estudio de pilates reformer</span></div>
+
+<h3 id="club-pilates-malaga">Club Pilates</h3>
+
+En Málaga, Club Pilates tiene un estudio en Malagueta, y Teatinos abre pronto. Pilates reformer con clase de introducción gratis; el precio depende del estudio.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/club-pilates/">Todo sobre Club Pilates</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">

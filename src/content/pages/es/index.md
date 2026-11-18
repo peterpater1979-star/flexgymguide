@@ -108,7 +108,7 @@ Cadena francesa con 170 clubes en España y clases colectivas. Sin permanencia d
 
 </div>
 
-<p class="meer-aanbieders">Y también: VivaGym, Synergym, Dreamfit, DiR, Anytime Fitness, GOfit, L’Orange bleue y ON AIR. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: VivaGym, Synergym, Dreamfit, Club Pilates, DiR, Anytime Fitness, GOfit, L’Orange bleue y ON AIR. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
@@ -201,6 +201,27 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Estudio de pilates reformer</span></div>
+
+### Club Pilates
+
+Más de 40 estudios de pilates reformer, sobre todo en Madrid y Barcelona. Terrassa Nord: de 85 a 199 € al mes.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Clase de introducción gratis</p>
+<ul>
+<li>Cuotas de 4, 8 o ilimitadas</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/club-pilates/">Todo sobre Club Pilates</a>
 </div>
 
 </div>
