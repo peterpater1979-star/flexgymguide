@@ -1,6 +1,6 @@
 ---
 title: "ClassPass à Strasbourg : studios par quartier et par sport"
-seoTitle: "ClassPass Strasbourg : studios par quartier et par sport"
+seoTitle: "ClassPass Strasbourg : studios par quartier et essai gratuit"
 path: "/fr/classpass-strasbourg/"
 description: "ClassPass à Strasbourg : les studios par quartier et par sport, du Pilates Reformer, du yoga et de la barre au HIIT, à la boxe et au renforcement."
 lang: fr

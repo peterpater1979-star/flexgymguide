@@ -1,6 +1,6 @@
 ---
 title: "ClassPass à Montpellier : studios par quartier et par sport"
-seoTitle: "ClassPass Montpellier : studios par quartier et par sport"
+seoTitle: "ClassPass Montpellier : studios par quartier et essai gratuit"
 path: "/fr/classpass-montpellier/"
 description: "ClassPass à Montpellier : les studios par quartier et par sport, du Pilates Reformer, du Lagree et du yoga au renforcement et à l’accès à la salle."
 lang: fr

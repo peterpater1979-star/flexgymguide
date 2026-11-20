@@ -1,5 +1,6 @@
 ---
 title: "ClassPass à Nice : studios par quartier et par sport"
+seoTitle: "ClassPass Nice : studios par quartier et essai gratuit"
 path: "/fr/classpass-nice/"
 description: "ClassPass à Nice : les studios par quartier et par sport, du Pilates Reformer et du Lagree au yoga et au cycling."
 lang: fr

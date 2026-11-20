@@ -1,5 +1,6 @@
 ---
 title: "ClassPass en Madrid: estudios por barrio y por deporte"
+seoTitle: "ClassPass Madrid: estudios por barrio y prueba gratis"
 path: "/es/classpass-madrid/"
 description: "ClassPass en Madrid: estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el cycling y el baile."
 lang: es

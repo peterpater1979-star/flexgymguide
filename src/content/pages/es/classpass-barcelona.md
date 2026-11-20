@@ -1,5 +1,6 @@
 ---
 title: "ClassPass en Barcelona: estudios por barrio y por deporte"
+seoTitle: "ClassPass Barcelona: estudios por barrio y prueba gratis"
 path: "/es/classpass-barcelona/"
 description: "ClassPass en Barcelona: estudios por barrio y por deporte, del Pilates, el barre y el yoga al HIIT, el boxeo, el baile y clases en la playa."
 lang: es

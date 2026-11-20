@@ -1,5 +1,6 @@
 ---
 title: "ClassPass à Paris : studios par quartier et par sport"
+seoTitle: "ClassPass Paris : studios par quartier et essai gratuit"
 path: "/fr/classpass-paris/"
 description: "ClassPass à Paris : les studios par quartier et par sport, du Lagree et du Pilates Reformer à la boxe, au yoga et à la danse."
 lang: fr

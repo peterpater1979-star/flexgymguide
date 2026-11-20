@@ -1,6 +1,6 @@
 ---
 title: "ClassPass à Toulouse : studios par quartier et par sport"
-seoTitle: "ClassPass Toulouse : studios par quartier et par sport"
+seoTitle: "ClassPass Toulouse : studios par quartier et essai gratuit"
 path: "/fr/classpass-toulouse/"
 description: "ClassPass à Toulouse : les studios par quartier et par sport, du Pilates, du yoga et de la barre au HYROX, au bootcamp, à la pole dance et aux arts martiaux."
 lang: fr

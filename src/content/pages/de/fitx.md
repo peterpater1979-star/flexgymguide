@@ -57,7 +57,7 @@ Im ersten Jahr zahlst du also 377 € (12 × 29 € plus Anmeldegebühr). Dafür
 | --- | --- |
 | **Probetraining** | Einmal kostenlos, ab 14 Jahren, täglich von 7 bis 22 Uhr, online buchen |
 | **Tagespass** | 10 € ohne Vertrag |
-| **Mindestalter** | Online ab 18 Jahren. Jünger: Vertrag im Studio mit Zustimmung der Eltern |
+| **Mindestalter** | 14 Jahre. Online ab 18 Jahren, jünger: Vertrag im Studio mit Zustimmung der Eltern |
 | **Pause (Ruhezeit)** | Bis zu 6 Monate pro Jahr, in ganzen Kalendermonaten. Beantragen mindestens 15 Tage vorher, in der App oder in Textform. In der Pause zahlst du nichts |
 | **Zugang** | Mit einem persönlichen Zutrittsmedium, das auch für den Spind gilt |
 
@@ -127,6 +127,13 @@ Erst nach dem ersten Jahr. Die Grundlaufzeit ist 12 Monate, danach kündigst du 
 <summary>Was kostet FitX im Monat?</summary>
 
 29 € im Monat und einmalig 29 € Anmeldegebühr. Kurse sind im Preis enthalten.
+
+</details>
+
+<details>
+<summary>Ab welchem Alter kann ich bei FitX trainieren?</summary>
+
+Ab 14 Jahren, das gilt auch für das kostenlose Probetraining. Online abschließen kannst du ab 18. Bist du jünger, schließt du den Vertrag im Studio ab, mit Zustimmung deiner Eltern.
 
 </details>
 

@@ -1,5 +1,6 @@
 ---
 title: "ClassPass à Lille : studios par quartier et par sport"
+seoTitle: "ClassPass Lille : studios par quartier et essai gratuit"
 path: "/fr/classpass-lille/"
 description: "ClassPass à Lille et dans la métropole : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe et à la danse."
 lang: fr

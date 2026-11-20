@@ -1,5 +1,6 @@
 ---
 title: "ClassPass à Marseille : studios par quartier et par sport"
+seoTitle: "ClassPass Marseille : studios par quartier et essai gratuit"
 path: "/fr/classpass-marseille/"
 description: "ClassPass à Marseille : les studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp et à la danse."
 lang: fr

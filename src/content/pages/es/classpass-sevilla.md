@@ -1,6 +1,6 @@
 ---
 title: "ClassPass en Sevilla: estudios por deporte"
-seoTitle: "ClassPass Sevilla: estudios por deporte"
+seoTitle: "ClassPass Sevilla: estudios por deporte y prueba gratis"
 path: "/es/classpass-sevilla/"
 description: "ClassPass en Sevilla: estudios por deporte en Triana, Los Remedios y San Bernardo y más, del Pilates, el yoga y el barre al HIIT y el boxeo. Precio, prueba gratis y consejos."
 lang: es
