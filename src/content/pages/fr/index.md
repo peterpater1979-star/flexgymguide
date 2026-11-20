@@ -487,17 +487,15 @@ Tu peux modifier, mettre en pause ou résilier ton abonnement à tout moment.
 
 <h2 id="spullen">Il te manque quelque chose pour le sport ?</h2>
 
-Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
+Ces liens t’emmènent directement sur Myprotein :
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-index-kleding-dames">Vêtements de sport femme</a></li>
-<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-index-kleding-heren">Vêtements de sport homme</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-index-schoenen-dames">Chaussures de sport femme</a></li>
-<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-index-schoenen-heren">Chaussures de sport homme</a></li>
-<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-index-fles">Gourde</a></li>
-<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-index-handdoek">Serviette de sport</a></li>
-<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-index-hangslot">Cadenas pour le casier</a></li>
-<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-index-gripsokken">Chaussettes grip pour yoga et pilates</a></li>
+<li class="i-kleding"><a href="/go/myprotein-fr-vetements-femme/?clickref=fgg-fr-index-vetements-femme">Vêtements de sport femme</a></li>
+<li class="i-kleding"><a href="/go/myprotein-fr-vetements-homme/?clickref=fgg-fr-index-vetements-homme">Vêtements de sport homme</a></li>
+<li class="i-fles"><a href="/go/myprotein-fr-gourdes-shakers/?clickref=fgg-fr-index-gourdes-shakers">Gourdes et shakers</a></li>
+<li class="i-handdoek"><a href="/go/myprotein-fr-accessoires/?clickref=fgg-fr-index-accessoires">Serviettes, tapis et autres accessoires</a></li>
+<li class="i-fles"><a href="/go/myprotein-fr-proteines/?clickref=fgg-fr-index-proteines">Protéines en poudre</a></li>
+<li class="i-fles"><a href="/go/myprotein-fr-creatine/?clickref=fgg-fr-index-creatine">Créatine</a></li>
 </ul>
 
 <p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>

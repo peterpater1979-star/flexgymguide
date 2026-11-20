@@ -1123,3 +1123,21 @@ https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!
 /go/gains-uk-protein/            https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=fgg-uk-index&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fprotein%2F  302
 /go/gains-uk-creatine/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fcreatine%2F  302
 /go/gains-uk-creatine/            https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=fgg-uk-index&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fcreatine%2F  302
+
+# Myprotein FR via Awin (awinmid 7069), goedgekeurd 20 nov 2026. Vervangt Traininn op /fr/. Label in clickref (fgg-fr-[pagina]-[product]); zonder parameter fgg-fr-index. Categorielinks op fr.myprotein.com, geen claims, geen acties.
+/go/myprotein-fr-vetements-femme/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fclothing%2Fwomens%2Fview-the-whole-range%2F  302
+/go/myprotein-fr-vetements-femme/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fclothing%2Fwomens%2Fview-the-whole-range%2F  302
+/go/myprotein-fr-vetements-homme/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fclothing%2Fmens%2Fview-the-whole-range%2F  302
+/go/myprotein-fr-vetements-homme/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fclothing%2Fmens%2Fview-the-whole-range%2F  302
+/go/myprotein-fr-gourdes-shakers/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Faccessories%2Fbottles-shakers%2F  302
+/go/myprotein-fr-gourdes-shakers/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Faccessories%2Fbottles-shakers%2F  302
+/go/myprotein-fr-accessoires/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fclothing%2Fsoft-accessories%2F  302
+/go/myprotein-fr-accessoires/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fclothing%2Fsoft-accessories%2F  302
+/go/myprotein-fr-proteines/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fprotein%2F  302
+/go/myprotein-fr-proteines/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fprotein%2F  302
+/go/myprotein-fr-proteines-vegan/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fprotein%2Fvegan-protein%2F  302
+/go/myprotein-fr-proteines-vegan/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fprotein%2Fvegan-protein%2F  302
+/go/myprotein-fr-barres/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fhealthy-food-drinks%2Fprotein-bars%2F  302
+/go/myprotein-fr-barres/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fhealthy-food-drinks%2Fprotein-bars%2F  302
+/go/myprotein-fr-creatine/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fcreatine%2F  302
+/go/myprotein-fr-creatine/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fcreatine%2F  302
