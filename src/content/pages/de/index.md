@@ -145,7 +145,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit · Kieser</span></li>
 <li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · JOHN REED · Rostudios · Kieser</span></li>
 <li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · JOHN REED · clever fit · Kieser</span></li>
-<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · JOHN REED · Kieser</span></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · JOHN REED · Kieser · fit20</span></li>
 </ul>
 
 </div>

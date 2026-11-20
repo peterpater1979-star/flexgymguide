@@ -133,6 +133,26 @@ Basic-Fit hat in Dortmund einen Club in der Schleefstraße. Ab 24,99 € pro 4 W
 
 </div>
 
+<div id="fit20" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Personal Training</span></div>
+
+<h3>fit20</h3>
+
+fit20 hat ein Studio in Dortmund (Hagener Straße): einmal pro Woche 20 Minuten Krafttraining mit einem Trainer, nach Termin. Preisempfehlung 89 bis 129 € im Monat, dazu 59 € Startgebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fit20/">Alles über fit20</a>
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
