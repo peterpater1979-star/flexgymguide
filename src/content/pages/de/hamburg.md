@@ -117,7 +117,7 @@ clever fit hat in Hamburg ein Studio in Finkenwerder, mit Sauna und Les-Mills-Ku
 
 <h3>FitX</h3>
 
-FitX hat in Hamburg Studios in Altona, Bahrenfeld, Steilshoop und am Flughafen, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Hamburg Studios in Altona, Bahrenfeld, Steilshoop und am Flughafen, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -344,7 +344,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | Anbieter | Preis pro Monat | Laufzeit | In Hamburg |
 | --- | --- | --- | --- |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Finkenwerder) |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 4 Studios |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 4 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 2 Clubs (Harburg, Wandsbek) |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club (Barmbek) |
 | **[EASYFITNESS](/de/easyfitness/)** | Ab 27,99 € | Flex, 12 oder 24 Monate | 4 Studios |
@@ -419,7 +419,7 @@ Vor allem in Eppendorf, Eimsbüttel, Winterhude, Altona und der Innenstadt. Eine
 <details>
 <summary>Welche Fitnessstudios in Hamburg sind monatlich kündbar?</summary>
 
-McFit, Basic-Fit, JOHN REED und EASYFITNESS haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. Bei FitX bindest du dich zuerst 12 Monate, danach ist die Mitgliedschaft monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
+McFit, Basic-Fit, JOHN REED und EASYFITNESS haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. Auch FitX ist monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
 
 </details>
 

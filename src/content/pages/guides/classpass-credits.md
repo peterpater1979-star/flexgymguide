@@ -103,6 +103,13 @@ That depends on your plan and on the classes you pick. The same class can cost m
 </details>
 
 <details>
+<summary>Why do different ClassPass classes cost different credits?</summary>
+
+ClassPass sets the price of each class in credits. A boutique studio usually costs more than a regular gym, and classes at busy times, such as weekday evenings and weekend mornings, cost more than quiet slots. Popular classes and bigger cities can also cost more. The app shows the cost before you book.
+
+</details>
+
+<details>
 <summary>Can I use my credits abroad?</summary>
 
 Yes. Your credits work in every country where ClassPass is available, at the local credit values.

@@ -85,7 +85,7 @@ Günstige Kette, auch in Dortmund. Flex 49,90 € im Monat, mit Laufzeit ab 24,9
 
 <h3>FitX</h3>
 
-FitX hat in Dortmund Studios in der Nordstadt, am Phoenix See und in Kley, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Dortmund Studios in der Nordstadt, am Phoenix See und in Kley, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -233,7 +233,7 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 
 | Anbieter | Preis pro Monat | Laufzeit | In Dortmund |
 | --- | --- | --- | --- |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 3 Studios |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 3 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club (Gartenstadt) |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio (Innenstadt) |
@@ -305,7 +305,7 @@ Unter anderem Yoga, Pilates, Lagree am Phoenixsee, Tanz und Outdoor-Bootcamp im 
 <details>
 <summary>Welche Fitnessstudios in Dortmund sind monatlich kündbar?</summary>
 
-McFit, Basic-Fit und JOHN REED haben einen Flex-Tarif. Bei FitX bindest du dich zuerst 12 Monate, danach ist die Mitgliedschaft monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Dortmund](/de/fitnessstudio-ohne-vertrag-dortmund/).
+McFit, Basic-Fit und JOHN REED haben einen Flex-Tarif. Auch FitX ist monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Dortmund](/de/fitnessstudio-ohne-vertrag-dortmund/).
 
 </details>
 

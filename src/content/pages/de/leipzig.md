@@ -103,7 +103,7 @@ clever fit hat in Leipzig ein Studio in der Holzhäuser Straße. Preise je nach 
 
 <h3>FitX</h3>
 
-FitX hat in Leipzig Studios in Mockau und Neulindenau, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Leipzig Studios in Mockau und Neulindenau, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -231,7 +231,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | Anbieter | Preis pro Monat | Laufzeit | In Leipzig |
 | --- | --- | --- | --- |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 2 Studios |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio (Mitte) |
 
@@ -302,7 +302,7 @@ Vor allem Yoga und Hot Yoga, Pilates, Bootcamp drinnen und draußen, Functional 
 <details>
 <summary>Welche Fitnessstudios in Leipzig sind monatlich kündbar?</summary>
 
-McFit und JOHN REED haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. Bei FitX bindest du dich zuerst 12 Monate. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/).
+McFit und JOHN REED haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. Auch FitX ist monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/).
 
 </details>
 

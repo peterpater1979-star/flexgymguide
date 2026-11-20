@@ -1,5 +1,6 @@
 ---
 title: "ClassPass à Bordeaux : studios par quartier et par sport"
+seoTitle: "ClassPass Bordeaux : studios par quartier et essai gratuit"
 path: "/fr/classpass-bordeaux/"
 description: "ClassPass à Bordeaux : les studios par quartier et par sport, du Pilates Reformer et du yoga à la boxe, au bootcamp et au cycling."
 lang: fr

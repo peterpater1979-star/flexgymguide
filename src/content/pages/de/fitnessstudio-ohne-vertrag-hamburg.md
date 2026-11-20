@@ -64,7 +64,7 @@ McFit hat mehrere Studios in Hamburg. Mit Flex zahlst du 49,90 € im Monat und 
 
 <h2 id="weitere">Weitere Studios in Hamburg mit flexiblem Tarif</h2>
 
-- **FitX:** 4 Studios (Altona, Bahrenfeld, Steilshoop und Flughafen), 24 Stunden geöffnet, 29 € im Monat mit 12 Monaten Grundlaufzeit.
+- **FitX:** 4 Studios (Altona, Bahrenfeld, Steilshoop und Flughafen), 24 Stunden geöffnet, 29 € im Monat, monatlich kündbar.
 - **EASYFITNESS:** 4 Studios, ab 27,99 € im Monat, mit Flex-Tarif.
 - **JOHN REED:** 2 Clubs (Harburg und Wandsbek), Flex 60 bis 80 € im Monat.
 - **Basic-Fit:** 1 Club in Barmbek, Flex 9,99 € mehr pro 4 Wochen als der Jahresvertrag.
@@ -84,7 +84,7 @@ Ja. Mit ClassPass kündigst du jederzeit, Fitness First und McFit haben Mitglied
 <details>
 <summary>Gibt es in Hamburg ein 24-Stunden-Gym ohne lange Laufzeit?</summary>
 
-Die FitX-Studios in Hamburg sind rund um die Uhr geöffnet, du startest aber mit 12 Monaten Grundlaufzeit. Willst du von Anfang an monatlich kündigen, schau dir McFit Flex oder EASYFITNESS Flex an und prüfe die Öffnungszeiten des Studios in deiner Nähe.
+Die FitX-Studios in Hamburg sind rund um die Uhr geöffnet und monatlich kündbar. Auch McFit Flex und EASYFITNESS Flex kannst du monatlich kündigen; prüfe die Öffnungszeiten des Studios in deiner Nähe.
 
 </details>
 

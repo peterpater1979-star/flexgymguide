@@ -1,5 +1,6 @@
 ---
 title: "ClassPass à Lyon : studios par quartier et par sport"
+seoTitle: "ClassPass Lyon : studios par quartier et essai gratuit"
 path: "/fr/classpass-lyon/"
 description: "ClassPass à Lyon : les studios par quartier et par sport, du Pilates et du yoga à la boxe, au bootcamp et au cycling."
 lang: fr

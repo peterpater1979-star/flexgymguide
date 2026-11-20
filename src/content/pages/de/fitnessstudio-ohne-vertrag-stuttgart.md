@@ -1,6 +1,6 @@
 ---
 title: "Fitnessstudio ohne Vertrag in Stuttgart: monatlich kündbar trainieren"
-seoTitle: "Fitnessstudio ohne Vertrag in Stuttgart: monatlich kündbar"
+seoTitle: "Fitnessstudio Stuttgart monatlich kündbar: ohne Vertrag trainieren"
 path: "/de/fitnessstudio-ohne-vertrag-stuttgart/"
 description: "Fitnessstudio in Stuttgart ohne Mindestlaufzeit: ClassPass, Fitness First, McFit Flex und Einzelstunden. Was es kostet und wie du kündigst."
 lang: de
@@ -76,6 +76,13 @@ McFit hat mehrere Studios in Stuttgart. Mit Flex zahlst du 49,90 € im Monat un
 <summary>Kann ich in Stuttgart ohne Vertrag ins Fitnessstudio?</summary>
 
 Ja. Mit ClassPass kündigst du jederzeit, Fitness First und McFit haben Mitgliedschaften ohne lange Laufzeit, und viele Studios verkaufen Einzelstunden.
+
+</details>
+
+<details>
+<summary>Welche Fitnessstudios in Stuttgart sind monatlich kündbar?</summary>
+
+Fitness First (4 Clubs), McFit mit Flex, JOHN REED mit Flex und Basic-Fit mit Flex in Feuerbach. Bei clever fit in Vaihingen gibt es meist ebenfalls einen monatlich kündbaren Tarif. ClassPass kündigst du jederzeit, ohne Frist.
 
 </details>
 

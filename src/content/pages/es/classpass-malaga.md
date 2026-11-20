@@ -1,6 +1,6 @@
 ---
 title: "ClassPass en Málaga: estudios por deporte"
-seoTitle: "ClassPass Málaga: estudios por deporte"
+seoTitle: "ClassPass Málaga: estudios por deporte y prueba gratis"
 path: "/es/classpass-malaga/"
 description: "ClassPass en Málaga: estudios por deporte en Teatinos, el Centro y El Perchel y más, del Pilates, el yoga y el barre al HIIT y el boxeo. Precio, prueba gratis y consejos."
 lang: es

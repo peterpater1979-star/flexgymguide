@@ -117,7 +117,7 @@ clever fit hat in Berlin mehrere Studios, unter anderem in Charlottenburg, Marza
 
 <h3>FitX</h3>
 
-FitX hat in Berlin über zehn Studios, unter anderem am Alexanderplatz, in Moabit, Schöneberg und am Ku'damm, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Berlin über zehn Studios, unter anderem am Alexanderplatz, in Moabit, Schöneberg und am Ku'damm, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -328,7 +328,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | Anbieter | Preis pro Monat | Laufzeit | In Berlin |
 | --- | --- | --- | --- |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Mehrere Studios |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | Über zehn Studios |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | Über zehn Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | Mehrere Clubs |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | Mehrere Clubs |
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | Mehrere Clubs |

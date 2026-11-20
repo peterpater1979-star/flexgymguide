@@ -1,5 +1,6 @@
 ---
 title: "ClassPass à Nantes : studios par quartier et par sport"
+seoTitle: "ClassPass Nantes : studios par quartier et essai gratuit"
 path: "/fr/classpass-nantes/"
 description: "ClassPass à Nantes : les studios par quartier et par sport, du Pilates Reformer et du yoga au cycling et à la boxe."
 lang: fr

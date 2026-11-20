@@ -1,6 +1,6 @@
 ---
 title: "ClassPass en Valencia: estudios por deporte"
-seoTitle: "ClassPass Valencia: estudios por deporte"
+seoTitle: "ClassPass Valencia: estudios por deporte y prueba gratis"
 path: "/es/classpass-valencia/"
 description: "ClassPass en Valencia: estudios por deporte en Ruzafa y L’Eixample y más, del Pilates, el yoga y el barre al HIIT y el boxeo. Precio, prueba gratis y consejos."
 lang: es

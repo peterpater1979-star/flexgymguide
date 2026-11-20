@@ -66,7 +66,7 @@ McFit has several gyms in Hamburg. With Flex you pay €49.90 a month and cancel
 
 <h2 id="other">Other gyms in Hamburg with a flexible plan</h2>
 
-- **FitX:** 4 gyms (Altona, Bahrenfeld, Steilshoop and the airport), open 24 hours, €29 a month with a 12-month minimum term.
+- **FitX:** 4 gyms (Altona, Bahrenfeld, Steilshoop and the airport), open 24 hours, €29 a month, cancel monthly.
 - **EASYFITNESS:** 4 gyms, from €27.99 a month, with a Flex plan.
 - **JOHN REED:** 2 clubs (Harburg and Wandsbek), Flex from €60 to €80 a month.
 - **Basic-Fit:** 1 club in Barmbek, Flex €9.99 more per 4 weeks than the yearly contract.
@@ -86,7 +86,7 @@ Yes. With ClassPass you cancel any time, Fitness First and McFit have membership
 <details>
 <summary>Is there a 24-hour gym in Hamburg without a long contract?</summary>
 
-FitX gyms in Hamburg are open 24 hours, but you start with a 12-month term. If you want to cancel monthly from the start, look at McFit Flex or EASYFITNESS Flex, and check the opening hours of the gym near you.
+FitX gyms in Hamburg are open 24 hours and you can cancel monthly. McFit Flex and EASYFITNESS Flex are also monthly; check the opening hours of the gym near you.
 
 </details>
 
