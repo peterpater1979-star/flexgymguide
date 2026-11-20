@@ -1,8 +1,8 @@
 ---
 title: "EVO Fitness: treningssenter uten binding, priser og åpningstider"
-seoTitle: "EVO Fitness: treningssenter uten binding og priser"
+seoTitle: "EVO Fitness priser: 439 kr i måneden uten binding"
 path: "/no/evo/"
-description: "Alt om EVO Fitness i Norge: treningssentre over hele landet, medlemskap uten binding, hva det koster og åpningstider."
+description: "Hva koster EVO Fitness? 439 kr i måneden uten binding, eller fra 333 kr i måneden med årsmedlemskap. Sentre over hele Norge og åpningstider."
 lang: nb
 land: no
 byline: "Oppdatert november 2026"
