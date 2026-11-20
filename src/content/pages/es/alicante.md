@@ -107,6 +107,20 @@ En Alicante, Dreamfit tiene un club en Vistahermosa. Gimnasio grande con clases 
 
 </div>
 
+<div id="club-pilates" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Estudio de pilates reformer</span></div>
+
+<h3 id="club-pilates-alicante">Club Pilates</h3>
+
+En Alicante, Club Pilates tiene un estudio en el centro. Pilates reformer con clase de introducción gratis; el precio depende del estudio.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/club-pilates/">Todo sobre Club Pilates</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">

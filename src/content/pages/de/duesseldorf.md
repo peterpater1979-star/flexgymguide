@@ -187,7 +187,7 @@ Das Standard-Abo kostet in Düsseldorf 59 € im Monat für 42 Credits. Neu bei 
 
 ## Fitness First in Düsseldorf
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 5 in Düsseldorf. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 5 in Düsseldorf, unter anderem in Derendorf im Lighthouse und in der Kö Galerie. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -205,7 +205,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 5 in Düsseld
 
 ## McFit in Düsseldorf
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Düsseldorf. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Düsseldorf trainierst du in Lierenfeld. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
@@ -237,6 +237,24 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Düsseldorf</h2>
+
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Am Seestern** · RED<br><span class="klein">Fritz-Vomfelde-Straße 26</span> | Eigener Frauenbereich, Wellness mit Sauna, Dampfbad und Solarium, Functional Training Area, Performance Area, moderner Cardio-Bereich, mehr als 10 Kurse pro Woche (u. a. Zumba, HYROX, Bodycombat, Pilates) |
+| **Düsseltal** · RED<br><span class="klein">Grafenberger Allee 297</span> | Neu eröffnet: Wellness mit Sauna und Solarium, Functional Training Area, Performance Area, Hammer Strength Training, moderner Cardio-Bereich, mehr als 10 Kurse pro Woche (u. a. Zumba, Bodypump, Bodycombat, Bodybalance) |
+| **Im Lighthouse (Derendorf)** · BLACK<br><span class="klein">Derendorfer Allee 6</span> | 15-Meter-Pool, Wellness mit Sauna und Dampfbad, Recovery Area, Performance Area, Hammer Strength Training, Power Plate, über 50 Kurse pro Woche (u. a. Zumba, HYROX, AquaFit, Yoga) |
+| **In der Kö Galerie** · RED<br><span class="klein">Königsallee 60</span> | Wellness mit Sauna, Dampfbad und Massage, EGYM-Bereich, Performance Area, über 40 Kurse pro Woche (u. a. Zumba, Pilates, Yoga, BoxCamp, LES MILLS) |
+| **Holthausen** · RED<br><span class="klein">Bonner Straße 29</span> | Wellness mit Sauna, Dampfbad und Solarium, große Trainingsfläche, EGYM-Bereich, Functional Training Area, mehr als 20 Kurse pro Woche (u. a. Bodypump, RückenFit, Yoga, Zumba), kostenlose Parkplätze |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Düsseldorf</h2>

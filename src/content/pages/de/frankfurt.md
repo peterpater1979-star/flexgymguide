@@ -173,7 +173,7 @@ Das Standard-Abo kostet in Frankfurt 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Frankfurt
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfurt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfurt, vom Opernplatz und der Zeil bis Bockenheim und Ostend, dazu Ladies-Clubs in Rödelheim und Sachsenhausen. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -191,7 +191,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 11 in Frankfu
 
 ## McFit in Frankfurt
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Frankfurt. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Frankfurt trainierst du in Fechenheim, in Griesheim und auf der Zeil. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Frankfurt](/de/fitnessstudio-ohne-vertrag-frankfurt/).
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
@@ -205,6 +205,38 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Frankfurt</h2>
+
+Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft trainierst du in allen Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Bockenheim** · RED<br><span class="klein">Solmsstraße 18</span> | Große Trainingsfläche mit Performance Area, moderner Cardio-Bereich, Geräte-Training, Solarium, kostenlose Parkplätze |
+| **Eckenheim** · BLACK<br><span class="klein">Karl-von-Drais-Straße 5a</span> | Swimming-Pool, Wellness mit Sauna und Dampfbad, Pickleball, Performance Area, EGYM-Bereich, Recovery Area, Kids Club, über 80 Kurse pro Woche (u. a. Yoga, Zumba, Pilates, AquaFit, LES MILLS) |
+| **Industriehof** · RED<br><span class="klein">Trakehner Straße 5</span> | Wellness mit Sauna, Dampfbad und Solarium, Performance Area, EGYM-Bereich, moderner Cardio-Bereich, mehr als 15 Kurse pro Woche (u. a. Yoga, Boxen, Jumping Fitness, RückenFit), kostenlose Parkplätze |
+| **Konstablerwache** · RED<br><span class="klein">Zeil 72-82</span> | 16-Meter-Pool, Wellness mit Sauna und Dampfbad, große Trainingsfläche mit Performance Area, über 50 Kurse pro Woche (u. a. Zumba, AquaFit, HYROX, Vinyasa Yoga, Bike &amp; Climb) |
+| **MyZeil** · BLACK<br><span class="klein">Zeil 102-106</span> | Swimming-Pool, Wellness mit Sauna und Dampfbad, Dachterrasse, Kids Club, Performance Area, Hammer Strength Training, über 60 Kurse pro Woche (u. a. Zumba, HYROX, Yoga, LES MILLS) |
+
+<details>
+<summary>Alle 11 Fitness First Clubs in Frankfurt anzeigen</summary>
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Opernplatz** · BLACK<br><span class="klein">Hochstraße 44</span> | Swimming-Pool, Wellness mit Sauna und Dampfbad, EGYM-Bereich, Recovery Area, Performance Area, über 60 Kurse pro Woche (u. a. AquaFit, Vinyasa Yoga, BikeIntense, RückenFit) |
+| **Ostend** · BLACK<br><span class="klein">Hanauer Landstraße 148</span> | 20-Meter-Pool, Wellness mit Sauna, Dampfbad und Massage, Dachterrasse, EGYM-Bereich, Performance Area, über 50 Kurse pro Woche (u. a. BODYPUMP, Cycling, Yoga, Pilates), kostenlose Parkplätze |
+| **Preungesheim** · RED<br><span class="klein">August-Schanz-Straße 33-35</span> | Eigener Frauenbereich, Wellness mit Sauna und Solarium, Functional Training Area, Performance Area, Hammer Strength Training, mehr als 20 Kurse pro Woche (u. a. Zumba, Bodypump, Bodycombat, Jumping) |
+| **Rödelheim (Ladies)** · BLACK<br><span class="klein">Rödelheimer Bahnweg 19</span> | Nur für Frauen, Wellness mit Sauna und Solarium, EGYM-Bereich, Functional Training Area, mehr als 30 Kurse pro Woche (u. a. Yoga, Zumba, HIIT, Pilates), kostenlose Parkplätze |
+| **Sachsenhausen (Ladies)** · BLACK<br><span class="klein">Hedderichstraße 51</span> | Nur für Frauen, Wellness mit Sauna und Dampfbad, Terrasse, Kids Club, Performance Area, über 30 Kurse pro Woche (u. a. Vinyasa Yoga, Pilates, Yin Yoga, LES MILLS, RückenFit) |
+| **Westend** · BLACK<br><span class="klein">Reuterweg 18</span> | Zentrale Lage, Wellness mit Sauna und Dampfbad, EGYM-Bereich, große Trainingsfläche, Performance Area, über 50 Kurse pro Woche (u. a. Zumba, Pilates, Yin Yoga, RückenFit) |
+
+</details>
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Frankfurt</h2>

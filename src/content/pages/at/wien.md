@@ -206,7 +206,7 @@ Viele Studios in der Inneren Stadt, in Mariahilf, Neubau, der Josefstadt und am 
 
 ## Fitness First in Wien
 
-Fitness First hat 3 Clubs in Wien und 1 in Vösendorf, dazu 217 Clubs in Deutschland. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich mit Sauna und Dampfbad. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Fitness First hat 3 Clubs in Wien und 1 in Vösendorf, dazu 217 Clubs in Deutschland. Alle Clubs in Wien mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich mit Sauna und Dampfbad. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 ### Das bekommst du
 
@@ -291,6 +291,22 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 3 Clubs in Wien. Die Cl
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Wien</h2>
+
+Alle drei Clubs in Wien sind RED Clubs. Mit einer RED-Mitgliedschaft trainierst du in allen RED Clubs, mit BLACK zusätzlich in den BLACK Clubs. Dazu kommt ein vierter Club in Vösendorf südlich von Wien. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Floridsdorf** · RED<br><span class="klein">Brünnerstraße 75, 1210 Wien</span> | Eigener Frauenbereich, Wellness mit Sauna und Dampfbad, große Trainingsfläche, Functional Training Area, Hammer Strength Training, moderner Cardio-Bereich, mehr als 20 Kurse pro Woche (u. a. HYROX, Yoga, Bodypump, Bodycombat) |
+| **Landstraße** · RED<br><span class="klein">Schnirchgasse 13, 1030 Wien</span> | Neu eröffnet: Eigener Frauenbereich, Wellness mit Sauna, Dampfbad und Solarium, Functional Training Area, Performance Area, moderner Cardio-Bereich, mehr als 10 Kurse pro Woche (u. a. Bodypump, Bodybalance, HYROX, Cycling) |
+| **Liesing** · RED<br><span class="klein">Sterngasse 11, 1230 Wien</span> | Neu eröffnet: Eigener Frauenbereich, Wellness mit Sauna und Solarium, Functional Training Area, Performance Area, moderner Cardio-Bereich, mehr als 30 Kurse pro Woche (u. a. LES MILLS BODYPUMP, BODYCOMBAT, CORE, Zumba) |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Wien</h2>

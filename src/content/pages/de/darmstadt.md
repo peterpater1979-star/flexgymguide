@@ -10,13 +10,29 @@ crumb: "Darmstadt"
 kicker: "Stadtguide Darmstadt"
 ---
 
-Keine Lust, dich lange an ein einziges Studio zu binden? In und um Darmstadt trainierst du mit einem Sportpass in Studios in der Region oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt.
+Keine Lust, dich lange an ein einziges Studio zu binden? In und um Darmstadt trainierst du mit einem Sportpass in Studios in der Region oder wählst ein Fitnessstudio mit kostenlosem Probetraining. So findest du, was zu dir passt. Willst du dich gar nicht binden? Lies [Fitnessstudio ohne Vertrag in Darmstadt](/de/fitnessstudio-ohne-vertrag-darmstadt/).
 
 Das ClassPass-Angebot in Darmstadt ist klein, aber vielseitig: Yoga und Reformer-Pilates bei Balance Yoga in der Innenstadt, Pole Dance und Aerial bei Slow Motion in Griesheim und Gym-Besuche bei AG Medical Fitness in Riedstadt und Eppertshausen. Fährst du oft nach Frankfurt, nutzt du dort mit demselben Abo viel mehr Studios. Trainierst du lieber oft an Geräten? Dann passt Fitness First besser.
 
 <h2 id="blick">Auf einen Blick</h2>
 
 <div class="kolommen vier">
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Darmstadt ein. Monatlich kündbar.
+
+<p class="usc-plan kort"><strong>Classic</strong> · 1 Check-in pro Tag · monatlich kündbar</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
 
 <div class="kolom kaart">
 
@@ -47,6 +63,20 @@ Ein Abo auf Credit-Basis für Yoga, Reformer-Pilates und Aerial in der Region, u
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+</div>
+
+</div>
+
+<div id="mcfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+<h3>McFit</h3>
+
+McFit hat in Darmstadt ein Studio in der Pallaswiesenstraße, 24 Stunden geöffnet. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
 </div>
 
 </div>
@@ -116,7 +146,7 @@ Das Standard-Abo kostet in Darmstadt 59 € im Monat für 42 Credits. Neu bei Cl
 
 ## Fitness First in Darmstadt
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 10 in Darmstadt, unter anderem am Hauptbahnhof, am Ostbahnhof, in Eberstadt und in der Heidelberger Straße, dazu ein Ladies-Club am Ludwigsplatz. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -138,6 +168,29 @@ Neu bei ClassPass? Du startest mit einem Monat gratis und 10 Workouts.
 4. **Am Ende** bekommst du eine Erinnerung per E-Mail. Kündigst du nicht, wechselst du ins Standard-Abo in Darmstadt: 42 Credits für 59 € im Monat.
 
 Das Probeangebot gilt nur für neue Mitglieder. Alles zu den Regeln liest du unter [ClassPass Probezeit](/de/classpass-probezeit/).
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Darmstadt</h2>
+
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Eberstadt** · RED<br><span class="klein">Pfungstädter Straße 92</span> | Große Trainingsfläche mit Outdoor Training Area, Wellness mit Sauna, Solarium und Massage, mehr als 30 Kurse pro Woche (u. a. HIIT, Pilates, Power Yoga, bodyART, Hot Iron), kostenlose Parkplätze |
+| **Eschollbrücker Straße** · RED<br><span class="klein">Eschollbrücker Straße 42</span> | Eigener Frauenbereich, Performance Area und Functional Training Area, Wellness mit Sauna, Dampfbad und Solarium, zentrale Lage, kostenlose Parkplätze |
+| **Hauptbahnhof** · RED<br><span class="klein">Poststraße 4-6</span> | Zentrale Lage am Bahnhof, große Trainingsfläche mit Performance Area und EGYM-Bereich, Solarium, persönliche Betreuung, kostenloses Parken (3 Stunden) |
+| **Heidelberger Straße** · RED<br><span class="klein">Heidelberger Straße 185</span> | Wellness mit Sauna und separatem Frauenbereich, große Trainingsfläche, Functional Training Area, über 40 Kurse pro Woche (u. a. HYROX, Indoor Cycling, LES MILLS, Zumba, Yoga, RückenFit), Performance Area, kostenlose Parkplätze |
+| **Kleyerstraße** · BLACK<br><span class="klein">Kleyerstraße 4</span> | Outdoor Training Area, Wellness mit Sauna, Solarium und Massage (Massageliege, Wasserbettmassage), mehr als 50 Kurse pro Woche (u. a. Zumba, Indoor Cycling, Pilates, Yin und Yang Yoga, Boxen), kostenlose Parkplätze |
+| **Ludwigsplatz (Ladies)** · BLACK<br><span class="klein">Ludwigsplatz 6</span> | Nur für Frauen, Reformer Pilates, Kids Club, Wellness mit Sauna und Solarium, zentrale Lage, mehr als 30 Kurse pro Woche (u. a. Zumba, Pilates, Kickboxen, Rückenfit, Vinyasa Yoga) |
+| **Mornewegstraße** · BLACK<br><span class="klein">Mornewegstraße 32</span> | EGYM-Bereich, Gesundheitstraining, Personal Training gegen Gebühr, mehr als 30 Kurse pro Woche (u. a. FazienFit, Yoga, Rückenfit, FitForever), zentrale Lage, kostenlose Parkplätze |
+| **Neckarstraße** · RED<br><span class="klein">Neckarstraße 12-16</span> | Wellness mit Sauna, Dampfbad und separatem Frauenbereich, Functional Training Area, HYROX-Kurse, Recovery Area, voll klimatisiert, über 30 Kurse pro Woche (u. a. Zumba, Pilates, BodyPump, Vinyasa Yoga, BoxCamp), kostenlose Parkplätze |
+| **Ostbahnhof** · BLACK<br><span class="klein">Erbacher Straße 87</span> | EGYM-Bereich, Gesundheitstraining, Gerätetraining, moderner Cardio-Bereich, persönliche Betreuung, zentrale Lage, kostenlose Parkplätze |
+| **Pfnorstraße** · BLACK<br><span class="klein">Pfnorstraße 14</span> | Nach Umbau wiedereröffnet: Outdoor Training Area, Wellness mit Sauna, separatem Frauenbereich und Solarium, HYROX-Kurse und mehr als 50 Kurse pro Woche (u. a. Pilates, Vinyasa Yoga, Anti Gravity Yoga, Kickboxen, Hot Iron), große Trainingsfläche, kostenlose Parkplätze |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
 
 <h2 id="andere">Weitere Fitnessstudios in Darmstadt</h2>
 
@@ -206,7 +259,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 <details open>
 <summary>Welche Fitnessstudios in Darmstadt sind monatlich kündbar?</summary>
 
-Bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif. ClassPass kannst du jederzeit kündigen. Bei Fitness First hängt die Laufzeit von der Mitgliedschaft ab.
+Bei clever fit gibt es in den meisten Studios einen monatlich kündbaren Tarif, bei McFit den Flex-Tarif. Urban Sports Club ist monatlich kündbar, ClassPass kannst du jederzeit kündigen. Bei Fitness First hängt die Laufzeit von der Mitgliedschaft ab. Mehr dazu unter [Fitnessstudio ohne Vertrag in Darmstadt](/de/fitnessstudio-ohne-vertrag-darmstadt/).
 
 </details>
 

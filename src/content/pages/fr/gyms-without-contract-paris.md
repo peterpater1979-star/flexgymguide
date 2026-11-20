@@ -24,7 +24,7 @@ Just moved to Paris, here for a semester, or not sure how long you will stay? Yo
 | **RITM Liberté** | One month's notice | €29.99 a week, plus a €90 joining fee; day pass €30, month pass €179 | A gym with classes in 6 clubs, or a pass without a membership
 | **ON AIR** | 8 weeks' notice | From €31.96 per 4 weeks, plus a €50 joining fee and €10 a year | A large high-end gym, six clubs in Paris |
 | **Club Maillot and Club Grenelle** | One month's notice | €79 a month, plus a €50 joining fee; 30-day pass €158 | Two high-end clubs in the 15th and 17th |
-| **Liberty Gym** | 8 weeks' notice | Happy €24.95, Premium €34.95 per 4 weeks, plus a €49 joining fee | A cheap gym in the 20th |
+| **Liberty Gym** | 8 weeks' notice | Happy €24.95, Premium €34.95 per month, plus a €49 joining fee | A cheap gym in the 20th |
 | **Basic-Fit Flex** | 4 weeks' notice, no minimum term | From €34.98 per 4 weeks, plus €19.99 joining fee | Cheap and frequent training, often open 24/7 |
 | **Drop-in class or class card** | Not needed | Varies per studio | Now and then at a favourite studio |
 
@@ -81,7 +81,7 @@ Club Maillot (17th, near Porte Maillot) and Club Grenelle (15th) are two high-en
 
 <h2 id="liberty-gym">Liberty Gym: cheap, in the 20th</h2>
 
-Liberty Gym has a gym in the 20th, open 7 days a week from 6am to 11pm, with weights, cardio and coaches on the floor. Without a contract, Happy costs €24.95 and Premium €34.95 per 4 weeks. You also pay a €49 joining fee and €10 a year for equipment.
+Liberty Gym has a gym in the 20th, open 7 days a week from 6am to 11pm, with weights, cardio and coaches on the floor. Without a contract, Happy costs €24.95 and Premium €34.95 per month. You also pay a €49 joining fee and €10 a year for equipment.
 
 - **Without a plan:** €79 for one month, €149 for 3 months, €199 for 6 months, €299 for a year, paid up front.
 - **Family and students:** €19.95 per person, but with a one-year contract.

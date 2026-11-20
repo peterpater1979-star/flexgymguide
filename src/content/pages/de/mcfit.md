@@ -77,6 +77,9 @@ McFit-Preise und andere Möglichkeiten ohne lange Laufzeit findest du in:
 - [Fitnessstudio ohne Vertrag in Köln](/de/fitnessstudio-ohne-vertrag-koeln/)
 - [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/)
 - [Fitnessstudio ohne Vertrag in Stuttgart](/de/fitnessstudio-ohne-vertrag-stuttgart/)
+- [Fitnessstudio ohne Vertrag in Leipzig](/de/fitnessstudio-ohne-vertrag-leipzig/)
+- [Fitnessstudio ohne Vertrag in Dortmund](/de/fitnessstudio-ohne-vertrag-dortmund/)
+- [Fitnessstudio ohne Vertrag in Darmstadt](/de/fitnessstudio-ohne-vertrag-darmstadt/)
 
 <h2 id="classpass">McFit oder ClassPass?</h2>
 

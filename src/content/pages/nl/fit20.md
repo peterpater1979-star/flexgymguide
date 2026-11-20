@@ -10,7 +10,7 @@ crumb: "fit20"
 kicker: "Aanbieder: personal training"
 ---
 
-<div class="fotobanner smal foto-fit20" role="img" aria-label="Krachttraining"></div>
+<div class="fotobanner smal foto-fit20" role="img" aria-label="Een trainer begeleidt een lachende vrouw bij een krachttraining op een apparaat in een fit20-studio"></div>
 
 fit20 is personal training in een kleine studio: één keer per week train je 20 minuten kracht, altijd met een trainer naast je. Je hebt een vaste wekelijkse afspraak, en je resultaten zie je in de fit20-app. Omkleden en douchen hoeft niet: je traint in je gewone kleding, in een koele studio. fit20 is een franchise. Elke studio is van een eigen ondernemer en bepaalt zelf de prijs.
 

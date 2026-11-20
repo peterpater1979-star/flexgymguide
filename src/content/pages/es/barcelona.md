@@ -167,6 +167,34 @@ DiR tiene más de 20 clubes en Barcelona, entre ellos Diagonal, Claris, Gràcia,
 
 </div>
 
+<div id="club-pilates" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Estudio de pilates reformer</span></div>
+
+<h3 id="club-pilates-barcelona">Club Pilates</h3>
+
+En Barcelona, Club Pilates tiene estudios en Eixample, Entenza, Sagrada Família, Sant Gervasi, Bonanova y Poblenou, y alrededor en Badalona y Sant Cugat. Pilates reformer con clase de introducción gratis; el precio depende del estudio.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/club-pilates/">Todo sobre Club Pilates</a>
+</div>
+
+</div>
+
+<div id="fit20" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Entrenamiento personal</span></div>
+
+<h3 id="fit20-barcelona">fit20</h3>
+
+fit20 tiene estudios en Capità Arenas y Plaça Molina, y cerca de Barcelona en El Masnou: una vez por semana, 20 minutos de fuerza con un entrenador, con cita. Precio recomendado de 75 a 125 € al mes, más 59 € de inscripción; primer entrenamiento gratis.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/fit20/">Todo sobre fit20</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">

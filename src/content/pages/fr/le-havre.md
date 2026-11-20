@@ -10,7 +10,7 @@ crumb: "Le Havre"
 kicker: "Guide ville Le Havre"
 ---
 
-Au Havre, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 4 chaînes de salles : Basic-Fit, Keepcool, L’Orange bleue et ON AIR. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
+Au Havre, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 5 chaînes de salles : Basic-Fit, Keepcool, L’Orange bleue, ON AIR et Planète Fitness. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 <h2 id="en-bref">En bref</h2>
 
@@ -111,6 +111,20 @@ Au Havre, ON AIR a un club à La Nef. Essential coûte 31,96 €, Original 39,96
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/on-air/">Tout sur ON AIR</a>
+</div>
+
+</div>
+
+<div id="planete-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="planete-fitness-le-havre">Planète Fitness</h3>
+
+Au Havre, Planète Fitness a un club, ouvert 7j/7 de 5h à 23h, 7,50 € par semaine avec ou sans engagement.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/planete-fitness/">Tout sur Planète Fitness</a>
 </div>
 
 </div>

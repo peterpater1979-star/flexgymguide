@@ -10,7 +10,7 @@ crumb: "Clermont-Ferrand"
 kicker: "Guide ville Clermont-Ferrand"
 ---
 
-À Clermont-Ferrand, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 6 chaînes de salles : Basic-Fit, Keepcool, WellNess Sport Club, L’Orange bleue, ON AIR et L’Appart Fitness. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
+À Clermont-Ferrand, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 7 chaînes de salles : Basic-Fit, Keepcool, WellNess Sport Club, L’Orange bleue, ON AIR, L’Appart Fitness et Planète Fitness. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 <h2 id="en-bref">En bref</h2>
 
@@ -147,6 +147,20 @@ Près de Clermont-Ferrand, L’Appart Fitness a une salle à Aubière. L’abonn
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/l-appart-fitness/">Tout sur L’Appart Fitness</a>
+</div>
+
+</div>
+
+<div id="planete-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="planete-fitness-clermont-ferrand">Planète Fitness</h3>
+
+À Clermont-Ferrand, Planète Fitness a un club, ouvert 7j/7 de 5h à 23h, 7,50 € par semaine avec ou sans engagement.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/planete-fitness/">Tout sur Planète Fitness</a>
 </div>
 
 </div>

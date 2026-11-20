@@ -10,7 +10,7 @@ crumb: "Lyon"
 kicker: "Guide ville Lyon"
 ---
 
-À Lyon, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 8 chaînes de salles : Basic-Fit, Fitness Park, Keepcool, WellNess Sport Club, L’Orange bleue, ON AIR, L’Appart Fitness et Neoness. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place. Tu ne veux aucun engagement ? Lis [Salle de sport sans engagement à Lyon](/fr/salle-de-sport-sans-engagement-lyon/).
+À Lyon, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 9 chaînes de salles : Basic-Fit, Fitness Park, Keepcool, WellNess Sport Club, L’Orange bleue, ON AIR, L’Appart Fitness, Neoness et Planète Fitness. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place. Tu ne veux aucun engagement ? Lis [Salle de sport sans engagement à Lyon](/fr/salle-de-sport-sans-engagement-lyon/).
 
 <h2 id="en-bref">En bref</h2>
 
@@ -175,6 +175,20 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
+</div>
+
+</div>
+
+<div id="planete-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="planete-fitness-lyon">Planète Fitness</h3>
+
+À Lyon, Planète Fitness a un club à Confluence (2e). Ouvert 7j/7 de 5h à 23h, 7,50 € par semaine avec ou sans engagement.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/planete-fitness/">Tout sur Planète Fitness</a>
 </div>
 
 </div>

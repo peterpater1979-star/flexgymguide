@@ -185,6 +185,20 @@ En Madrid, Dreamfit tiene clubes en Aluche, Valdebernardo, Vallecas, Villaverde,
 
 </div>
 
+<div id="club-pilates" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Estudio de pilates reformer</span></div>
+
+<h3 id="club-pilates-madrid">Club Pilates</h3>
+
+En Madrid, Club Pilates tiene estudios en Chamberí, Goya, Ponzano, Prosperidad, Azca y Chamartín, entre otros barrios, y alrededor en Pozuelo, Majadahonda y Las Rozas. Pilates reformer con clase de introducción gratis; el precio depende del estudio.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/club-pilates/">Todo sobre Club Pilates</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">

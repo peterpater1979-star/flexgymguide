@@ -249,7 +249,7 @@ Das Standard-Abo kostet in Hamburg 59 € im Monat für 42 Credits. Neu bei Clas
 
 ## Fitness First in Hamburg
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 17 in Hamburg. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 17 in Hamburg, von Altona und Eppendorf bis Harburg und Wandsbek, mehrere davon in der Innenstadt. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -267,7 +267,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 17 in Hamburg
 
 ## McFit in Hamburg
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Hamburg. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Hamburg trainierst du unter anderem in St. Georg, Hohenfelde, Othmarschen und Stellingen. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Hamburg](/de/fitnessstudio-ohne-vertrag-hamburg/).
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
@@ -299,6 +299,44 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Hamburg</h2>
+
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Alsterufer** · BLACK<br><span class="klein">Warburgstraße 1-2</span> | Zentrale Lage, Wellness mit Sauna und Dampfbad, Functional Training Area, Performance Area, Recovery Area, mehr als 10 Kurse pro Woche (u. a. HYROX, Yoga, Functional) |
+| **Altona** · BLACK<br><span class="klein">Stresemannstraße 300</span> | 16-Meter-Pool, Wellness mit Sauna und Dampfbad, EGYM-Bereich, Performance Area, über 70 Kurse pro Woche (u. a. Zumba, HYROX, AquaFit, BoxCamp, Yoga), kostenlose Parkplätze |
+| **Bahrenfeld** · RED<br><span class="klein">Schnackenburgallee 50</span> | Eigener Frauenbereich, Wellness mit Sauna, große Trainingsfläche, Functional Training Area, mehr als 10 Kurse pro Woche (u. a. HYROX, Bodypump, Boxen) |
+| **Eppendorf** · BLACK<br><span class="klein">Falkenried 88</span> | Wellness mit Sauna und Dampfbad, Kids Club, EGYM-Bereich, Recovery Area, große Trainingsfläche, über 70 Kurse pro Woche (u. a. Yoga, Pilates, HYROX, TRX), kostenlose Parkplätze |
+| **Eppendorf Straßenbahnring** · BLACK<br><span class="klein">Straßenbahnring 8</span> | Wellness mit Sauna, Functional Training Area, Performance Area, Hammer Strength Training, Recovery Area, über 40 Kurse pro Woche (u. a. HYROX, Yoga, Boxen), kostenlose Parkplätze |
+
+<details>
+<summary>Alle 17 Fitness First Clubs in Hamburg anzeigen</summary>
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Harburg Hafen** · RED<br><span class="klein">Theodor-Yorck-Straße 4</span> | Wellness mit Sauna und Dampfbad, große Trainingsfläche, EGYM-Bereich, Performance Area, mehr als 20 Kurse pro Woche (u. a. Cycling, Functional, Yoga, Dance Fit), kostenlose Parkplätze |
+| **Harburg Lüneburger Tor** · RED<br><span class="klein">Lüneburger Tor 8</span> | Eigener Frauenbereich, Wellness mit Sauna, große Trainingsfläche, Functional Training Area, Hammer Strength Training, mehr als 15 Kurse pro Woche (u. a. HYROX, Bodypump, Bodybalance) |
+| **Innenstadt Dammtorpark** · BLACK<br><span class="klein">Dammtorwall 8</span> | Functional Training Area, Performance Area, Hammer Strength Training, Recovery Area, moderner Cardio-Bereich, kostenlose Parkplätze |
+| **Jungfernstieg** · BLACK<br><span class="klein">Ballindamm 39</span> | Zentrale Lage, EGYM-Bereich, Performance Area, Recovery Area, moderner Cardio-Bereich, LES MILLS Kurse (Bodypump, Bodycombat, Bodybalance) |
+| **Langenhorn** · RED<br><span class="klein">Langenhorner Markt 1-18</span> | Wellness mit Sauna und Solarium, große Trainingsfläche, Functional Training Area, Performance Area, mehr als 15 Kurse pro Woche (u. a. HYROX, Bodypump, Bodycombat) |
+| **Niendorf** · RED<br><span class="klein">Kollaustraße 127-135</span> | Wellness mit Sauna und Dampfbad, EGYM-Bereich, Performance Area, über 60 Kurse pro Woche (u. a. Zumba, Yoga, Pilates, BikeIntense, BoxCamp), kostenlose Parkplätze |
+| **Rödingsmarkt** · RED<br><span class="klein">Rödingsmarkt 9</span> | Wellness mit Sauna und Dampfbad, EGYM-Bereich, Performance Area, moderner Cardio-Bereich, über 40 Kurse pro Woche (u. a. Zumba, Pilates, BodyAttack, BoxCamp) |
+| **St. Georg** · RED<br><span class="klein">Glockengießerwall 3</span> | Zentrale Lage am Hauptbahnhof, Wellness mit Sauna und Dampfbad, EGYM-Bereich, große Trainingsfläche, über 50 Kurse pro Woche (u. a. Zumba, Pilates, BikeIntense, LES MILLS) |
+| **Stephansplatz** · BLACK<br><span class="klein">Gorch-Fock-Wall 1a</span> | 16-Meter-Pool, Wellness mit Sauna und Dampfbad, CryoLounge+ Wellness-Sessel, Recovery Area, große Trainingsfläche, über 50 Kurse pro Woche (u. a. Zumba, HYROX, AquaFit, BikeIntense) |
+| **Wandsbek** · RED<br><span class="klein">Wandsbeker Marktstraße 2</span> | Wellness mit Sauna und Dampfbad, EGYM-Bereich, große Trainingsfläche, Performance Area, über 40 Kurse pro Woche (u. a. Zumba, Yoga, Mobility, BoxCamp), kostenlose Parkplätze |
+| **Winterhude** · BLACK<br><span class="klein">Humboldtstraße 58</span> | Functional Training Area, Performance Area, Hammer Strength Training, Recovery Area, über 15 Kurse pro Woche (u. a. HYROX, Yoga, Functional, Olympic Weightlifting) |
+| **Stadthöfe (HYROX Club)** · BLACK<br><span class="klein">Bleichenbrücke 9</span> | Rund 30 HYROX-Kurse pro Woche, HYROX-Equipment (Turf Lanes für Sled Push und Pull, Ski- und RowErgs, Wall Balls), persönliche Betreuung, große Trainingsfläche, freies Training |
+
+</details>
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Hamburg</h2>

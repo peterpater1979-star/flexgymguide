@@ -207,7 +207,11 @@ L’Orange bleue n’a pas de salle dans Paris même, mais plusieurs en proche b
 
 <h3 id="liberty-gym-paris">Liberty Gym</h3>
 
-Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la salle, ouverte 7j/7 de 6h à 23h. Happy coûte 24,95 € et Premium 34,95 € toutes les 4 semaines, sans engagement.
+Dans le 20e, Liberty Gym a une salle avec musculation, cardio et coachs dans la salle, ouverte 7j/7 de 6h à 23h. Happy coûte 24,95 € et Premium 34,95 € par mois, sans engagement, avec une séance de coaching par semaine.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/liberty-gym/">Tout sur Liberty Gym</a>
+</div>
 
 </div>
 

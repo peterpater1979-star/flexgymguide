@@ -108,23 +108,23 @@ Cadena francesa con 170 clubes en España y clases colectivas. Sin permanencia d
 
 </div>
 
-<p class="meer-aanbieders">Y también: VivaGym, Synergym, Dreamfit, DiR, Anytime Fitness, GOfit, L’Orange bleue y ON AIR. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: VivaGym, Synergym, Dreamfit, Club Pilates, DiR, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y fit20. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
 ## Ciudades
 
 <ul class="stedenlijst">
-<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Dreamfit</span></li>
-<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · DiR</span></li>
-<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Dreamfit</span></li>
-<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym · Dreamfit</span></li>
-<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · ON AIR · Anytime Fitness</span></li>
-<li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">Urban Sports Club · ClassPass</span></li>
-<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · Dreamfit</span></li>
-<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Fitness Park · VivaGym</span></li>
-<li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">Urban Sports Club · ClassPass</span></li>
-<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">Urban Sports Club · ClassPass · Basic-Fit · Anytime Fitness</span></li>
+<li><a href="/es/madrid/"><strong>Madrid</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Dreamfit</span></li>
+<li><a href="/es/barcelona/"><strong>Barcelona</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · DiR</span></li>
+<li><a href="/es/valencia/"><strong>Valencia</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · L’Orange bleue · ON AIR · Anytime Fitness · Dreamfit</span></li>
+<li><a href="/es/sevilla/"><strong>Sevilla</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym · Dreamfit</span></li>
+<li><a href="/es/malaga/"><strong>Málaga</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · ON AIR · Anytime Fitness</span></li>
+<li><a href="/es/marbella/"><strong>Marbella</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
+<li><a href="/es/alicante/"><strong>Alicante</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · Dreamfit</span></li>
+<li><a href="/es/bilbao/"><strong>Bilbao</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Fitness Park · VivaGym</span></li>
+<li><a href="/es/ibiza/"><strong>Ibiza ciudad</strong></a> <span class="klein">ClassPass · Urban Sports Club</span></li>
+<li><a href="/es/palma-de-mallorca/"><strong>Palma de Mallorca</strong></a> <span class="klein">ClassPass · Urban Sports Club · Basic-Fit · Anytime Fitness</span></li>
 <li><a href="/es/murcia/"><strong>Murcia</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym</span></li>
 <li><a href="/es/zaragoza/"><strong>Zaragoza</strong></a> <span class="klein">ClassPass · Basic-Fit · Fitness Park · Synergym · Dreamfit</span></li>
 </ul>
@@ -201,6 +201,27 @@ Cadena española con clubes en toda España, también en ciudades medianas. Sin 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/dreamfit/">Todo sobre Dreamfit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Estudio de pilates reformer</span></div>
+
+### Club Pilates
+
+Más de 40 estudios de pilates reformer, sobre todo en Madrid y Barcelona. Terrassa Nord: de 85 a 199 € al mes.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Clase de introducción gratis</p>
+<ul>
+<li>Cuotas de 4, 8 o ilimitadas</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/club-pilates/">Todo sobre Club Pilates</a>
 </div>
 
 </div>
@@ -313,6 +334,28 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Entrenamiento personal</span></div>
+
+### fit20
+
+Entrenamiento personal en estudios pequeños: 20 minutos de fuerza por semana con un entrenador. Estudios en Barcelona y El Masnou. De 75 a 125 € al mes, más 59 € de inscripción.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Primer entrenamiento gratis</p>
+<ul>
+<li>Una sesión por semana, con cita</li>
+<li>Sin ducha ni cambio de ropa</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/fit20/">Todo sobre fit20</a>
 </div>
 
 </div>

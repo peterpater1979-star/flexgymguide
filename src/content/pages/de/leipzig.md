@@ -177,7 +177,7 @@ Das Standard-Abo kostet in Leipzig 59 € im Monat für 42 Credits. Neu bei Clas
 
 ## Fitness First in Leipzig
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 in Leipzig. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 in Leipzig: im Messehof und an der Thomaskirche. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -195,7 +195,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 in Leipzig.
 
 ## McFit in Leipzig
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Leipzig. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios.
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Leipzig trainierst du in Leutzsch und im Zentrum-Südost. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios.
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
@@ -209,6 +209,21 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Leipzig</h2>
+
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Messehof** · BLACK<br><span class="klein">Petersstraße 15</span> | Swimming-Pool, Recovery Area, Performance Area, Power Plate, Kinesis und Gravity, über 80 Kurse pro Woche (u. a. HYROX, Zumba, BodyCombat, Yoga, Jumping Fitness, Indoor Cycling, Fitness Boxen), kostenlose Parkplätze, als BLACK-Mitglied auch in allen ELBGYM Studios |
+| **Thomaskirche** · RED<br><span class="klein">Petersstraße 20</span> | Neu eröffnet: Eigener Frauenbereich, Wellness mit Sauna, Dampfbad und Solarium, Functional Training Area, Performance Area, moderner Cardio-Bereich, mehr als 10 Kurse pro Woche (u. a. HYROX, Bodypump, Cycling, Zumba) |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Leipzig</h2>

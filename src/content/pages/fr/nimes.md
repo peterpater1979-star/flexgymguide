@@ -10,7 +10,7 @@ crumb: "Nîmes"
 kicker: "Guide ville Nîmes"
 ---
 
-À Nîmes, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 4 chaînes de salles : Basic-Fit, Keepcool, ON AIR et Neoness. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
+À Nîmes, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 5 chaînes de salles : Basic-Fit, Keepcool, ON AIR, Neoness et Planète Fitness. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 <h2 id="en-bref">En bref</h2>
 
@@ -107,6 +107,20 @@ Près de Nîmes, Neoness a un club à Marguerittes. Access coûte 29,99 € et P
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/neoness/">Tout sur Neoness</a>
+</div>
+
+</div>
+
+<div id="planete-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle à petit prix</span></div>
+
+<h3 id="planete-fitness-nimes">Planète Fitness</h3>
+
+À Nîmes, Planète Fitness a quatre clubs : Carré Sud, Mas des Rosiers, Carreau Lanes et Séverine. Ouvert 7j/7 de 5h à 23h, 7,50 € par semaine avec ou sans engagement.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/planete-fitness/">Tout sur Planète Fitness</a>
 </div>
 
 </div>

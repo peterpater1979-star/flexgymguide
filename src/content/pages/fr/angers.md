@@ -10,7 +10,7 @@ crumb: "Angers"
 kicker: "Guide ville Angers"
 ---
 
-À Angers, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 5 chaînes de salles : Basic-Fit, Keepcool, L’Orange bleue, ON AIR et Magic Form. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
+À Angers, tu as le choix entre les pass sport ClassPass et Urban Sports Club, et 6 chaînes de salles : Basic-Fit, Keepcool, L’Orange bleue, ON AIR, Magic Form et Wefit.club. Avec un pass, tu réserves des cours dans différents studios ; avec une salle, tu t’entraînes toujours au même endroit, avec ou sans engagement. Voici les prix et ce que tu trouves sur place.
 
 <h2 id="en-bref">En bref</h2>
 
@@ -129,6 +129,20 @@ Coachs et cours en petits groupes. Dès 29,99 € toutes les 4 semaines sur un a
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/fr/magic-form/">Tout sur Magic Form</a>
+</div>
+
+</div>
+
+<div id="wefit-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Salle conviviale avec cours collectifs</span></div>
+
+<h3 id="wefit-club-angers">Wefit.club</h3>
+
+À Angers, Wefit.club a deux clubs : Lac de Maine et Station Foch, et d’autres autour, à Trélazé, Montreuil-Juigné, Mûrs-Érigné et Verrières-en-Anjou. Musculation, cardio et cours collectifs. Sans engagement dès 45 € toutes les 4 semaines, moins cher avec un an d’engagement.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/fr/wefit-club/">Tout sur Wefit.club</a>
 </div>
 
 </div>

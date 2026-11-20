@@ -183,7 +183,7 @@ Das Standard-Abo kostet in Köln 59 € im Monat für 42 Credits. Neu bei ClassP
 
 ## Fitness First in Köln
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 14 in Köln. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 14 in Köln, von der Schildergasse und dem Belgischen Viertel bis Ehrenfeld, Sülz und Deutz, dazu ein Ladies-Club in Neu-Weiden. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -201,7 +201,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 14 in Köln. 
 
 ## McFit in Köln
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Köln. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Köln](/de/fitnessstudio-ohne-vertrag-koeln/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Köln trainierst du in der Altstadt, in Bayenthal, Ehrenfeld, Kalk, Mülheim und Sülz. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in Köln](/de/fitnessstudio-ohne-vertrag-koeln/).
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
@@ -233,6 +233,41 @@ Holmes Place ist eine Kette von Premium-Fitnessclubs mit 14 Clubs in Deutschland
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in Köln</h2>
+
+Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft trainierst du in allen Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Bayenthal** · BLACK<br><span class="klein">Bonner Straße 271</span> | 24-Meter-Pool, Wellness mit Sauna und Dampfbad, eigener Frauenbereich, Kids Club, HYROX-Fläche, Performance Area, über 90 Kurse pro Woche (u. a. Zumba, AquaFit, HYROX, YogaFlow, Pilates), kostenlose Parkplätze |
+| **Belgisches Viertel** · RED<br><span class="klein">Richard-Wagner-Straße 51-53</span> | Große Trainingsfläche, Wellness mit Sauna und Solarium, Außenbereich, mehr als 25 Kurse pro Woche (u. a. Bodypump, Bodycombat, Bodyattack, Pilates, Yoga) |
+| **Breite Straße** · RED<br><span class="klein">Breite Straße 80-90</span> | Laufbahn, Wellness mit Sauna und Dampfbad, Performance Area, Recovery Area, moderner Cardio-Bereich, über 45 Kurse pro Woche (u. a. YogaFlow, Pilates, DanceMoves, Jumping Fitness, Rowing Bootcamp) |
+| **Deutz** · RED<br><span class="klein">Gummersbacher Straße 29</span> | Große Trainingsfläche, Wellness mit Sauna und Solarium, zentrale Lage, mehr als 30 Kurse pro Woche (u. a. Bodypump, Bodycombat, Pilates, Yoga, Cycling), kostenlose Parkplätze |
+| **Ehrenfeld** · RED<br><span class="klein">Venloer Straße 389</span> | Wellness mit Sauna und Dampfbad, Performance Area, Recovery Area, über 50 Kurse pro Woche (u. a. Zumba, Yoga, Pilates, HYROX, LES MILLS), kostenlose Parkplätze |
+
+<details>
+<summary>Alle 14 Fitness First Clubs in Köln anzeigen</summary>
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Eigelstein-Viertel** · RED<br><span class="klein">Eigelstein 80-88</span> | Zentrale Lage, Wellness mit Sauna, große Trainingsfläche, EGYM-Bereich, Functional Training Area, mehr als 20 Kurse pro Woche (u. a. Yoga, Zumba, LES MILLS, Bodystyling) |
+| **Mediapark** · BLACK<br><span class="klein">Im Mediapark 4a</span> | 20-Meter-Pool, Wellness mit Sauna, Dampfbad, Kältebecken und separatem Frauenbereich, Training auf 5 Etagen, Functional Area, Recovery Area, mehr als 55 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Aqua Fit) |
+| **Neu-Weiden (Ladies)** · RED<br><span class="klein">Aachener Straße 1143</span> | Nur für Frauen, Wellness mit Sauna, Solarium und Dachterrasse, mehr als 30 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Zumba), kostenlose Parkplätze |
+| **Nippes** · RED<br><span class="klein">Niehler Straße 94</span> | Functional Training Area, Performance Area, großer Freihantelbereich, Solarium |
+| **Riehl** · RED<br><span class="klein">Amsterdamer Straße 133a</span> | Eigener Frauenbereich, Wellness mit Sauna, Dampfbad und Solarium, Training auf 3 Etagen, EGYM-Zirkel, Functional Training Area, mehr als 50 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Zumba), kostenlose Parkplätze |
+| **Schildergasse** · RED<br><span class="klein">Schildergasse 94-96</span> | Zentrale Lage, Wellness mit Sauna, Dampfbad und separatem Frauenbereich, EGYM-Bereich, Recovery Area, Performance Area, HYROX-Kurse, über 40 Kurse pro Woche (u. a. Zumba, Pilates, YogaFlow) |
+| **Sülz** · RED<br><span class="klein">Luxemburger Straße 253</span> | Eigener Frauenbereich, große Trainingsfläche, Functional Training Area, Performance Area, moderner Cardio-Bereich, über 60 Kurse pro Woche (u. a. YogaFlow, Pilates, BodyCombat, BikeIntense), kostenlose Parkplätze |
+| **Weiden-Üsdorf** · RED<br><span class="klein">Aachener Straße 1281</span> | Geräte-Training, moderner Cardio-Bereich, kostenlose Parkplätze |
+| **Zülpicher Platz** · RED<br><span class="klein">Hohenstaufenring 30-32</span> | Zentrale Lage, Wellness mit Sauna und Solarium, Functional Training Area, Performance Area, Training auf 3 Ebenen, mehr als 45 Kurse pro Woche (u. a. Bodypump, Pilates, Yoga, Zumba) |
+
+</details>
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in Köln</h2>

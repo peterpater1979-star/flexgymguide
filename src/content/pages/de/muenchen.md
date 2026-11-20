@@ -203,7 +203,7 @@ Das Standard-Abo kostet in München 59 € im Monat für 42 Credits. Neu bei Cla
 
 ## Fitness First in München
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 8 in München. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 8 in München, unter anderem in Laim, Schwabing, Haidhausen und Sendling und am Marienplatz. Alle Clubs mit Adresse und Kategorie findest du in der [Club-Übersicht](#fitness-first-clubs). Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -221,7 +221,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 8 in München
 
 ## McFit in München
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in München. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in München](/de/fitnessstudio-ohne-vertrag-muenchen/).
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In München trainierst du in Forstenried, Laim, Obergiesing und Schwabing. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios. Ohne lange Bindung? Siehe [Fitnessstudio ohne Vertrag in München](/de/fitnessstudio-ohne-vertrag-muenchen/).
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
@@ -235,6 +235,27 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 
 </div>
 
+</div>
+
+<h2 id="fitness-first-clubs">Alle Fitness First Clubs in München</h2>
+
+Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft trainierst du in allen RED und BLACK Clubs, mit RED in den RED Clubs. Was das kostet, liest du unter [Fitness First Preise](/de/fitness-first/#mitgliedschaft).
+
+| Club und Kategorie | Ausstattung und Angebot |
+| --- | --- |
+| **Am Marienplatz** · BLACK<br><span class="klein">Kaufingerstraße 17</span> | Zentrale Lage, Wellness mit Sauna, Dampfbad und Solarium, Terrasse, Tee und Obst kostenlos, Performance Area, über 60 Kurse pro Woche (u. a. Zumba, BodyCombat, Pilates, Yoga, Indoor Cycling) |
+| **DER Bogen** · BLACK<br><span class="klein">Prinzregentenstraße 159</span> | Zentrale Lage, große Trainingsfläche, Functional Training Area, Hammer Strength Training, über 25 Kurse pro Woche (u. a. HYROX, WOD), kostenlose Parkplätze |
+| **Haidhausen** · BLACK<br><span class="klein">Einsteinstraße 130</span> | 25-Meter-Pool, Wellness mit Sauna und Dampfbad, EGYM-Bereich, Functional Training Area, Performance Area, über 60 Kurse pro Woche (u. a. AquaFit, LES MILLS, HYROX, Pilates, Yoga, BoxCamp), kostenlose Parkplätze |
+| **Hofstatt** · BLACK<br><span class="klein">Sendlinger Straße 10</span> | Zentrale Lage, Functional Training Area, Performance Area, Recovery Area, Hammer Strength Training, moderner Cardio-Bereich, mehr als 10 Kurse pro Woche (u. a. HYROX, WOD) |
+| **Laim** · BLACK<br><span class="klein">Landsberger Straße 374</span> | 20-Meter-Pool, Wellness mit Sauna und Dampfbad, Terrasse, EGYM-Bereich, Recovery Area, Performance Area, über 70 Kurse pro Woche (u. a. Aqua Fit, HYROX, Pilates, YogaFlow, Zumba), kostenlose Parkplätze |
+| **Moosach** · RED<br><span class="klein">Pelkovenstraße 143-147</span> | Neu eröffnet: Eigener Frauenbereich, Wellness mit Sauna und Solarium, Functional Training Area, Performance Area, moderner Cardio-Bereich, mehr als 15 Kurse pro Woche (u. a. BODYPUMP, Bodycombat, GRIT, Cycling) |
+| **Schwabing** · BLACK<br><span class="klein">Feilitzschstraße 6</span> | Wellness mit Sauna und Dampfbad, Terrasse, EGYM-Bereich, Functional Training Area, Recovery Area, über 60 Kurse pro Woche (u. a. Pilates, YogaFlow, Zumba, BODYPUMP, TRX) |
+| **Sendling** · BLACK<br><span class="klein">Lindwurmstraße 114</span> | Wellness mit Sauna, Dampfbad und separatem Frauenbereich, Terrasse, EGYM-Bereich, Functional Training Area, mehr als 100 Kurse pro Woche (u. a. LES MILLS, Pilates, Indoor Cycling, Zumba, mehr als 30 Yogakurse), kostenlose Parkplätze |
+
+<p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 <h2 id="andere">Weitere Fitnessstudios in München</h2>

@@ -133,6 +133,26 @@ Basic-Fit hat in Dortmund einen Club in der Schleefstraße. Ab 24,99 € pro 4 W
 
 </div>
 
+<div id="fit20" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Personal Training</span></div>
+
+<h3>fit20</h3>
+
+fit20 hat ein Studio in Dortmund (Hagener Straße): einmal pro Woche 20 Minuten Krafttraining mit einem Trainer, nach Termin. Preisempfehlung 89 bis 129 € im Monat, dazu 59 € Startgebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fit20/">Alles über fit20</a>
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -175,7 +195,7 @@ Das Standard-Abo kostet in Dortmund 59 € im Monat für 42 Credits. Neu bei Cla
 
 ## Fitness First in Dortmund
 
-Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 in Dortmund. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
+Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 in Dortmund, in der Brauhausstraße in der Innenstadt. Mit einer Mitgliedschaft trainierst du an Geräten, besuchst Kurse und nutzt den Wellnessbereich. Unsicher? Dann buch zuerst ein kostenloses Probetraining.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
@@ -193,7 +213,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 in Dortmund
 
 ## McFit in Dortmund
 
-McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien, auch in Dortmund. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios.
+McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. In Dortmund trainierst du in Aplerbeck und in der Stadtmitte. Die Kette ist günstig: Du trainierst an Geräten und in Live-Kursen in den teilnehmenden Studios.
 
 Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Monaten 24,90 €. Im ersten Monat zahlst du bei Flex laut McFit insgesamt 88,90 €.
 
