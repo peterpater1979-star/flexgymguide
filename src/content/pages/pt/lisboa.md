@@ -96,6 +96,24 @@ O antigo Fitness Hut: ginásio com aulas de grupo, com mais de 40 ginásios em P
 
 </div>
 
+<div id="fit20" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Treino pessoal</span></div>
+
+<h3 id="fit20-lisboa">fit20</h3>
+
+Estúdio em Lisboa (Conde Redondo): uma vez por semana, 20 minutos de força com um treinador, com marcação. De 70 a 120 € por mês.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Primeira sessão grátis</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/pt/fit20/">Tudo sobre o fit20</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="visao-geral">
