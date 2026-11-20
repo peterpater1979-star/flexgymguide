@@ -66,7 +66,7 @@ McFit has several gyms in Berlin. With Flex you pay €49.90 a month and cancel 
 
 <h2 id="other">Other gyms in Berlin with a flexible plan</h2>
 
-- **FitX:** more than ten gyms, €29 a month with a 12-month minimum term (then monthly), plus a €29 joining fee.
+- **FitX:** more than ten gyms, €29 a month, cancel monthly, plus a €29 joining fee.
 - **JOHN REED:** several clubs, Flex from €60 to €80 a month, cancel monthly.
 - **Basic-Fit:** several clubs, Flex €9.99 more per 4 weeks than the yearly contract.
 - **clever fit:** several gyms, most with a monthly plan.

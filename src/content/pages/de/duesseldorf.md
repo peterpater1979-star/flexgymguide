@@ -99,7 +99,7 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Düsseldorf
 
 <h3>FitX</h3>
 
-FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -261,7 +261,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 
 | Anbieter | Preis pro Monat | Laufzeit | In Düsseldorf |
 | --- | --- | --- | --- |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 4 Studios |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 4 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 3 Clubs |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Reformer-Studios (Flingern-Nord, Pempelfort) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios (Oberkassel, Wehrhahn) |
@@ -333,7 +333,7 @@ Vor allem in der Innenstadt, in Carlstadt, Pempelfort, Unterbilk, Flingern und O
 <details>
 <summary>Welche Fitnessstudios in Düsseldorf sind monatlich kündbar?</summary>
 
-McFit und JOHN REED haben einen Flex-Tarif. Bei FitX bindest du dich zuerst 12 Monate, danach ist die Mitgliedschaft monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
+McFit und JOHN REED haben einen Flex-Tarif. Auch FitX ist monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/).
 
 </details>
 

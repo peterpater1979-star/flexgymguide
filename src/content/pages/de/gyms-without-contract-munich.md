@@ -66,7 +66,7 @@ McFit has several gyms in Munich. With Flex you pay €49.90 a month and cancel 
 
 <h2 id="other">Other gyms in Munich with a flexible plan</h2>
 
-- **FitX:** 4 gyms, €29 a month with a 12-month minimum term (then monthly).
+- **FitX:** 4 gyms, €29 a month, cancel monthly.
 - **Basic-Fit:** clubs in Marsstraße and Moosacher Straße, Flex €9.99 more per 4 weeks than the yearly contract.
 - **clever fit:** several gyms, most with a monthly plan.
 - **Mrs.Sporty:** several women-only clubs; prices are set per club.

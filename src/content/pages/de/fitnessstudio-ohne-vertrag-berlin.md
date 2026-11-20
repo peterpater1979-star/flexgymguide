@@ -64,7 +64,7 @@ McFit hat mehrere Studios in Berlin. Mit Flex zahlst du 49,90 € im Monat und k
 
 <h2 id="weitere">Weitere Studios in Berlin mit flexiblem Tarif</h2>
 
-- **FitX:** über zehn Studios, 29 € im Monat mit 12 Monaten Grundlaufzeit (danach monatlich), plus 29 € Anmeldegebühr.
+- **FitX:** über zehn Studios, 29 € im Monat, monatlich kündbar, plus 29 € Anmeldegebühr.
 - **JOHN REED:** mehrere Clubs, Flex 60 bis 80 € im Monat, monatlich kündbar.
 - **Basic-Fit:** mehrere Clubs, Flex 9,99 € mehr pro 4 Wochen als der Jahresvertrag.
 - **clever fit:** mehrere Studios, meist mit monatlich kündbarem Tarif.

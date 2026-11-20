@@ -103,7 +103,7 @@ clever fit hat in München mehrere Studios, unter anderem in Giesing, Aubing und
 
 <h3>FitX</h3>
 
-FitX hat in München Studios am Lenbachplatz, in Schwabing-Freimann, Neuperlach und Sendling-Westpark, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat bei 12 Monaten Grundlaufzeit, plus einmalig 29 € Anmeldegebühr.
+FitX hat in München Studios am Lenbachplatz, in Schwabing-Freimann, Neuperlach und Sendling-Westpark, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -263,7 +263,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | Anbieter | Preis pro Monat | Laufzeit | In München |
 | --- | --- | --- | --- |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Mehrere Studios |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | 12 Monate, danach monatlich | 4 Studios |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 4 Studios |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | Mehrere Clubs |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Studios (Rocycle und Roform) |
@@ -336,7 +336,7 @@ Vor allem in der Maxvorstadt, in Schwabing, im Glockenbachviertel und in Haidhau
 <details>
 <summary>Welche Fitnessstudios in München sind monatlich kündbar?</summary>
 
-McFit und Basic-Fit haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. Bei FitX bindest du dich zuerst 12 Monate. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in München](/de/fitnessstudio-ohne-vertrag-muenchen/).
+McFit und Basic-Fit haben einen Flex-Tarif, und bei clever fit gibt es meist einen monatlich kündbaren Tarif. Auch FitX ist monatlich kündbar. ClassPass kannst du jederzeit kündigen. Mehr dazu unter [Fitnessstudio ohne Vertrag in München](/de/fitnessstudio-ohne-vertrag-muenchen/).
 
 </details>
 

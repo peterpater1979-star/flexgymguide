@@ -64,7 +64,7 @@ McFit hat mehrere Studios in München. Mit Flex zahlst du 49,90 € im Monat und
 
 <h2 id="weitere">Weitere Studios in München mit flexiblem Tarif</h2>
 
-- **FitX:** 4 Studios, 29 € im Monat mit 12 Monaten Grundlaufzeit (danach monatlich).
+- **FitX:** 4 Studios, 29 € im Monat, monatlich kündbar.
 - **Basic-Fit:** Clubs in der Marsstraße und der Moosacher Straße, Flex 9,99 € mehr pro 4 Wochen als der Jahresvertrag.
 - **clever fit:** mehrere Studios, meist mit monatlich kündbarem Tarif.
 - **Mrs.Sporty:** mehrere Clubs nur für Frauen; die Preise legt jeder Club selbst fest.

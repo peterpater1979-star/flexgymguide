@@ -64,7 +64,7 @@ McFit hat mehrere Studios in Düsseldorf. Mit Flex zahlst du 49,90 € im Monat 
 
 <h2 id="weitere">Weitere Studios in Düsseldorf mit flexiblem Tarif</h2>
 
-- **FitX:** 4 Studios (Derendorf, Flingern, Holthausen und Lörick), 24 Stunden geöffnet, 29 € im Monat mit 12 Monaten Grundlaufzeit.
+- **FitX:** 4 Studios (Derendorf, Flingern, Holthausen und Lörick), 24 Stunden geöffnet, 29 € im Monat, monatlich kündbar.
 - **JOHN REED:** 3 Clubs, Flex 60 bis 80 € im Monat, monatlich kündbar.
 - **Holmes Place:** 3 Premium-Clubs; Laufzeit und Preis erfährst du beim Besuch.
 
