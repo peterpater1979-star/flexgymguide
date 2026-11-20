@@ -1,6 +1,6 @@
 ---
 title: "Entrenar en Zaragoza con flexibilidad"
-seoTitle: "Gimnasio sin permanencia en Zaragoza"
+seoTitle: "Gimnasios en Zaragoza: precios con y sin permanencia"
 path: "/es/zaragoza/"
 description: "Gimnasios en Zaragoza con y sin permanencia: Basic-Fit, Fitness Park y Synergym, con sus precios. Y ClassPass en estudios de fuerza, F45, pilates y yoga."
 lang: es
