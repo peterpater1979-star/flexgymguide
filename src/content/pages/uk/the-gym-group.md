@@ -24,7 +24,7 @@ The Gym Group has over 260 low-cost gyms across the UK. Monthly memberships have
 | --- | --- |
 | **Type** | Low-cost gym chain with its own gyms |
 | **Gyms** | Over 260 in the UK, 87 in London |
-| **Price** | For example £17.99 to £30.99 a month (Alperton), plus a £10 joining fee |
+| **Price** | From about £18 to £34 a month, plus a £10 to £15 joining fee |
 | **Membership** | Off-peak, Standard or Ultimate |
 | **Contract** | None on monthly plans |
 | **Classes** | <span class="ja" aria-hidden="true">✓</span> Included in every membership |
@@ -39,8 +39,9 @@ The Gym Group has over 260 low-cost gyms across the UK. Monthly memberships have
 
 | | Off-peak | Standard | Ultimate |
 | --- | --- | --- | --- |
-| **Price per month** (Alperton) | £17.99 | £23.99 | £30.99 |
-| **Joining fee** | £10 | £10 | £10 |
+| **Price per month, Alperton** | £17.99 | £23.99 | £30.99 |
+| **Price per month, Kingston** | £18.99 | £25.99 | £33.99 |
+| **Joining fee** | £10 (Alperton), £15 (Kingston) | £10 / £15 | £10 / £15 |
 | **Classes included** | <span class="ja" aria-hidden="true">✓</span> Yes | <span class="ja" aria-hidden="true">✓</span> Yes | <span class="ja" aria-hidden="true">✓</span> Yes |
 | **Opening hours** | Quieter hours only | 24/7 at most gyms | 24/7 at most gyms |
 | **Other gyms** | <span class="nee" aria-hidden="true">✗</span> Home gym only | <span class="nee" aria-hidden="true">✗</span> Home gym only | <span class="ja" aria-hidden="true">✓</span> Multi-gym access |
@@ -51,9 +52,9 @@ The Gym Group has over 260 low-cost gyms across the UK. Monthly memberships have
 
 Off-peak means Monday to Friday before 4 p.m. and after 8 p.m., and all day at the weekend.
 
-You pay monthly or choose a Saver plan: 9 or 12 months paid up front, or in 3 instalments. Monthly memberships have a £10 joining fee; Saver plans don't. At Alperton a 9-month Saver costs £259 (about £28.78 a month) and a 12-month Saver £339 (about £28.25 a month).
+You pay monthly or choose a Saver plan: 9 or 12 months paid up front, or in 3 instalments. Monthly memberships have a joining fee; Saver plans don't. An Ultimate Saver at Alperton costs £259 for 9 months or £339 for 12 months; at Kingston £289 or £369 (about £30.75 a month).
 
-<p class="klein">Example prices for The Gym Group London Alperton, November 2026. Prices differ per gym and are usually higher in central London. Check the price for your gym on The Gym Group website.</p>
+<p class="klein">Example prices for The Gym Group London Alperton and Kingston, November 2026. Prices differ per gym and are usually higher in central London. Check the price for your gym on The Gym Group website.</p>
 
 <h2 id="students">Student membership</h2>
 
@@ -191,7 +192,7 @@ Cancel a monthly membership at least four working days before your next payment 
 <details>
 <summary>How much is The Gym Group a month?</summary>
 
-It depends on the gym. At Alperton (London) Off-peak costs £17.99, Standard £23.99 and Ultimate £30.99 a month, plus a one-off £10 joining fee. Saver plans for 9 or 12 months have no joining fee.
+It depends on the gym. At Alperton (London) Off-peak costs £17.99, Standard £23.99 and Ultimate £30.99 a month, plus a one-off £10 joining fee. At Kingston it's £18.99, £25.99 and £33.99, plus £15. Saver plans for 9 or 12 months have no joining fee.
 
 </details>
 
