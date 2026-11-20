@@ -71,13 +71,19 @@ Des chaussures à semelle plate et ferme pour les squats et les levées. Une ser
 
 <h2 id="equipement">Il te manque quelque chose ?</h2>
 
-Ces liens t’emmènent directement sur Myprotein :
+Ces liens t’emmènent directement sur Traininn, la boutique de fitness de Tradeinn :
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/myprotein-fr-vetements-femme/?clickref=fgg-fr-premier-cours-vetements-femme">Vêtements de sport femme</a></li>
-<li class="i-kleding"><a href="/go/myprotein-fr-vetements-homme/?clickref=fgg-fr-premier-cours-vetements-homme">Vêtements de sport homme</a></li>
-<li class="i-fles"><a href="/go/myprotein-fr-gourdes-shakers/?clickref=fgg-fr-premier-cours-gourdes-shakers">Gourdes et shakers</a></li>
-<li class="i-handdoek"><a href="/go/myprotein-fr-accessoires/?clickref=fgg-fr-premier-cours-accessoires">Serviettes, tapis et autres accessoires</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-dames/?ws=fgg-fr-premier-cours-kleding-dames">Vêtements de sport femme</a></li>
+<li class="i-kleding"><a href="/go/traininn-fr-kleding-heren/?ws=fgg-fr-premier-cours-kleding-heren">Vêtements de sport homme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-dames/?ws=fgg-fr-premier-cours-schoenen-dames">Chaussures de sport femme</a></li>
+<li class="i-schoen"><a href="/go/traininn-fr-schoenen-heren/?ws=fgg-fr-premier-cours-schoenen-heren">Chaussures de sport homme</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-premier-cours-fles">Gourde</a></li>
+<li class="i-handdoek"><a href="/go/traininn-fr-handdoek/?ws=fgg-fr-premier-cours-handdoek">Serviette de sport</a></li>
+<li class="i-bandage"><a href="/go/traininn-fr-bandages/?ws=fgg-fr-premier-cours-bandages">Bandes de boxe</a></li>
+<li class="i-handschoen"><a href="/go/traininn-fr-vechtsport/?ws=fgg-fr-premier-cours-bokshandschoenen">Gants et matériel de boxe</a></li>
+<li class="i-slot"><a href="/go/bricoinn-fr-cadenas/?ws=fgg-fr-premier-cours-hangslot">Cadenas pour le casier</a></li>
+<li class="i-sok"><a href="/go/traininn-fr-gripsokken/?ws=fgg-fr-premier-cours-gripsokken">Chaussettes grip pour yoga et pilates</a></li>
 </ul>
 
 <p class="klein commissie">Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>

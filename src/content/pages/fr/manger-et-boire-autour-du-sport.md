@@ -25,7 +25,7 @@ Pour un cours d’une heure ou une séance classique en salle, l’eau suffit en
 - **Les boissons pour sportifs** sont faites pour les séances longues ou très intenses. Pour un cours normal, l’eau suffit.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/myprotein-fr-gourdes-shakers/?clickref=fgg-fr-manger-et-boire-autour-du-sport-gourdes-shakers">Gourdes de sport</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-fles/?ws=fgg-fr-manger-et-boire-autour-du-sport-fles">Gourdes de sport</a></li>
 </ul>
 
 <h2 id="avant">Avant l’entraînement : petit et léger</h2>
@@ -59,12 +59,11 @@ Au moment de choisir, regarde :
 
 <ul class="spullen">
 <li class="i-fles"><a href="/go/myprotein-fr-proteines/?clickref=fgg-fr-manger-et-boire-autour-du-sport-proteines">Protéines en poudre</a></li>
-<li class="i-fles"><a href="/go/myprotein-fr-proteines-vegan/?clickref=fgg-fr-manger-et-boire-autour-du-sport-proteines-vegan">Protéines végétales (pois, soja)</a></li>
 <li class="i-fles"><a href="/go/myprotein-fr-barres/?clickref=fgg-fr-manger-et-boire-autour-du-sport-barres">Barres protéinées</a></li>
-<li class="i-fles"><a href="/go/myprotein-fr-gourdes-shakers/?clickref=fgg-fr-manger-et-boire-autour-du-sport-shaker">Shaker</a></li>
+<li class="i-fles"><a href="/go/traininn-fr-shaker/?ws=fgg-fr-manger-et-boire-autour-du-sport-shaker">Shaker</a></li>
 </ul>
 
-<p class="klein commissie">Ces liens mènent à Myprotein. Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
+<p class="klein commissie">Les protéines et les barres mènent à Myprotein, le shaker et la gourde à Traininn, la boutique de fitness de Tradeinn. Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
 
 <h2 id="sac">Petite liste pour ton sac</h2>
 
