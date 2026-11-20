@@ -1123,3 +1123,9 @@ https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!
 /go/gains-uk-protein/            https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=fgg-uk-index&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fprotein%2F  302
 /go/gains-uk-creatine/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fcreatine%2F  302
 /go/gains-uk-creatine/            https://www.awin1.com/cread.php?awinmid=73265&awinaffid=371173&clickref=fgg-uk-index&ued=https%3A%2F%2Fgainsnutrition.uk%2Fproduct-category%2Fcreatine%2F  302
+
+# Myprotein FR via Awin (awinmid 7069), goedgekeurd 20 nov 2026. Alleen voeding (protéines, barres) op /fr/manger-et-boire-autour-du-sport/; rest blijft Traininn. Label in clickref (fgg-fr-[pagina]-[product]); zonder parameter fgg-fr-index. Categorielinks op fr.myprotein.com, geen claims, geen acties.
+/go/myprotein-fr-proteines/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fprotein%2F  302
+/go/myprotein-fr-proteines/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fprotein%2F  302
+/go/myprotein-fr-barres/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fhealthy-food-drinks%2Fprotein-bars%2F  302
+/go/myprotein-fr-barres/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fhealthy-food-drinks%2Fprotein-bars%2F  302

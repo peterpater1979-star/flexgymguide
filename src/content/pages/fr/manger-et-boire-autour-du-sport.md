@@ -58,11 +58,12 @@ Au moment de choisir, regarde :
 - **Vegan ou sans lactose ?** Il existe aussi des versions à base de pois ou de soja.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-fr-voeding/?ws=fgg-fr-manger-et-boire-autour-du-sport-voeding">Protéines et barres</a></li>
+<li class="i-fles"><a href="/go/myprotein-fr-proteines/?clickref=fgg-fr-manger-et-boire-autour-du-sport-proteines">Protéines en poudre</a></li>
+<li class="i-fles"><a href="/go/myprotein-fr-barres/?clickref=fgg-fr-manger-et-boire-autour-du-sport-barres">Barres protéinées</a></li>
 <li class="i-fles"><a href="/go/traininn-fr-shaker/?ws=fgg-fr-manger-et-boire-autour-du-sport-shaker">Shaker</a></li>
 </ul>
 
-<p class="klein commissie">Ces liens mènent à Traininn, la boutique de fitness de Tradeinn. Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
+<p class="klein commissie">Les protéines et les barres mènent à Myprotein, le shaker et la gourde à Traininn, la boutique de fitness de Tradeinn. Un achat via ces liens nous rapporte une petite commission, sans surcoût pour toi. Merci, ça aide à garder ce guide gratuit !</p>
 
 <h2 id="sac">Petite liste pour ton sac</h2>
 

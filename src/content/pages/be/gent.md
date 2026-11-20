@@ -80,6 +80,24 @@ Sportschoolketen met 6 clubs in Gent, met fitness en groepslessen met een coach.
 
 </div>
 
+<div id="fit20" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Personal training</span></div>
+
+<h3 id="fit20-gent">fit20</h3>
+
+fit20 heeft een studio in Gent (Maaltecenter, Sint-Denijs-Westrem): één keer per week 20 minuten krachttraining met een trainer, op afspraak. De prijs hangt af van de studio; startgeld € 99, daarna 1 maand opzegtermijn.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Eerst gratis ervaren</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/be/fit20/">Alles over fit20</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overzicht">
