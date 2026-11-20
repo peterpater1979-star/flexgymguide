@@ -1,8 +1,8 @@
 ---
 title: "The Gym Group: gyms, memberships and cancelling"
-seoTitle: "The Gym Group membership: Off-peak, Standard, Ultimate"
+seoTitle: "The Gym Group prices: Off-peak, Standard and Ultimate"
 path: "/uk/the-gym-group/"
-description: "All about The Gym Group: low-cost gyms without a contract, Off-peak, Standard and Ultimate memberships, student plans, day passes and cancelling."
+description: "How much is The Gym Group? Prices for Off-peak, Standard and Ultimate, the joining fee, Saver plans, student plans, day passes and cancelling."
 lang: en
 land: uk
 byline: "Updated November 2026"
@@ -24,21 +24,23 @@ The Gym Group has over 260 low-cost gyms across the UK. Monthly memberships have
 | --- | --- |
 | **Type** | Low-cost gym chain with its own gyms |
 | **Gyms** | Over 260 in the UK, 87 in London |
-| **Price** | Budget prices that vary by gym and membership |
+| **Price** | For example £17.99 to £30.99 a month (Alperton), plus a £10 joining fee |
 | **Membership** | Off-peak, Standard or Ultimate |
 | **Contract** | None on monthly plans |
 | **Classes** | <span class="ja" aria-hidden="true">✓</span> Included in every membership |
 | **Opening hours** | 24/7 at most gyms |
 | **Students** | Student Saver plans for 6, 9 or 12 months |
-| **Try it first** | Day pass (1, 3 or 5 days) |
+| **Try it first** | Day pass (1, 3 or 5 days), from £9.99 at Alperton |
 | **Abroad** | <span class="nee" aria-hidden="true">✗</span> No, UK gyms only |
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with The Gym Group.</p>
 
-<h2 id="memberships">Memberships</h2>
+<h2 id="memberships">Memberships and prices</h2>
 
 | | Off-peak | Standard | Ultimate |
 | --- | --- | --- | --- |
+| **Price per month** (Alperton) | £17.99 | £23.99 | £30.99 |
+| **Joining fee** | £10 | £10 | £10 |
 | **Classes included** | <span class="ja" aria-hidden="true">✓</span> Yes | <span class="ja" aria-hidden="true">✓</span> Yes | <span class="ja" aria-hidden="true">✓</span> Yes |
 | **Opening hours** | Quieter hours only | 24/7 at most gyms | 24/7 at most gyms |
 | **Other gyms** | <span class="nee" aria-hidden="true">✗</span> Home gym only | <span class="nee" aria-hidden="true">✗</span> Home gym only | <span class="ja" aria-hidden="true">✓</span> Multi-gym access |
@@ -47,13 +49,19 @@ The Gym Group has over 260 low-cost gyms across the UK. Monthly memberships have
 | **Fiit workouts and plans** | <span class="nee" aria-hidden="true">✗</span> No | <span class="nee" aria-hidden="true">✗</span> No | <span class="ja" aria-hidden="true">✓</span> Yes |
 | **Body composition tracking** | <span class="nee" aria-hidden="true">✗</span> No | <span class="nee" aria-hidden="true">✗</span> No | <span class="ja" aria-hidden="true">✓</span> Where available |
 
-You pay monthly or choose a Saver plan: 9 or 12 months paid up front, or in 3 instalments, for a lower price per month. Monthly memberships have a joining fee; Saver plans don't. Prices differ per gym and are usually higher in London.
+Off-peak means Monday to Friday before 4 p.m. and after 8 p.m., and all day at the weekend.
+
+You pay monthly or choose a Saver plan: 9 or 12 months paid up front, or in 3 instalments. Monthly memberships have a £10 joining fee; Saver plans don't. At Alperton a 9-month Saver costs £259 (about £28.78 a month) and a 12-month Saver £339 (about £28.25 a month).
+
+<p class="klein">Example prices for The Gym Group London Alperton, November 2026. Prices differ per gym and are usually higher in central London. Check the price for your gym on The Gym Group website.</p>
 
 <h2 id="students">Student membership</h2>
 
 Students can choose a student Saver plan for 6, 9 or 12 months, paid up front and without a joining fee. It includes classes and 24/7 access, and you can use 2 gyms: one near your university and one back home. Some gyms can't be chosen as a second gym.
 
-<p class="klein">Check the price for your gym on The Gym Group website.</p>
+At Alperton a student Saver costs £139 for 6 months, £209 for 9 months and £269 for 12 months.
+
+<p class="klein">Example prices for Alperton, November 2026. Check the price for your gym on The Gym Group website.</p>
 
 <h2 id="facilities">Facilities</h2>
 
@@ -156,7 +164,7 @@ Step by step: [how to cancel The Gym Group](/uk/cancel-the-gym-group/).
 
 ## Try The Gym Group with a day pass
 
-Not sure yet? Buy a day pass for 1, 3 or 5 days in a row, without a joining fee. You get unlimited access to the gym floor and classes at the gym you choose. The price differs per gym.
+Not sure yet? Buy a day pass for 1, 3 or 5 days in a row, without a joining fee. You get unlimited access to the gym floor and classes at the gym you choose. At Alperton a 1-day pass costs £9.99, 3 days £16.99 and 5 days £21.99. The price differs per gym.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.thegymgroup.com/">Visit The Gym Group website</a>
@@ -177,6 +185,13 @@ Not on monthly plans. Saver plans run for 9 or 12 months and are paid up front.
 <summary>How do I cancel my The Gym Group membership?</summary>
 
 Cancel a monthly membership at least four working days before your next payment date. Within 14 days of joining you can cancel and get a refund, minus the cost of any visits.
+
+</details>
+
+<details>
+<summary>How much is The Gym Group a month?</summary>
+
+It depends on the gym. At Alperton (London) Off-peak costs £17.99, Standard £23.99 and Ultimate £30.99 a month, plus a one-off £10 joining fee. Saver plans for 9 or 12 months have no joining fee.
 
 </details>
 
