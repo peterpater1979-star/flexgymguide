@@ -108,7 +108,7 @@ Cadena francesa con 170 clubes en España y clases colectivas. Sin permanencia d
 
 </div>
 
-<p class="meer-aanbieders">Y también: VivaGym, Synergym, Dreamfit, Club Pilates, DiR, Anytime Fitness, GOfit, L’Orange bleue y ON AIR. <a href="#otros">Ver los otros gimnasios</a></p>
+<p class="meer-aanbieders">Y también: VivaGym, Synergym, Dreamfit, Club Pilates, DiR, Anytime Fitness, GOfit, L’Orange bleue, ON AIR y fit20. <a href="#otros">Ver los otros gimnasios</a></p>
 
 <div id="ciudades">
 
@@ -334,6 +334,28 @@ Gimnasios grandes en Madrid, Barcelona, Málaga y Valencia. Sin permanencia, des
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/es/on-air/">Todo sobre ON AIR</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Entrenamiento personal</span></div>
+
+### fit20
+
+Entrenamiento personal en estudios pequeños: 20 minutos de fuerza por semana con un entrenador. Estudios en Barcelona y El Masnou. De 75 a 125 € al mes, más 59 € de inscripción.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Primer entrenamiento gratis</p>
+<ul>
+<li>Una sesión por semana, con cita</li>
+<li>Sin ducha ni cambio de ropa</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/fit20/">Todo sobre fit20</a>
 </div>
 
 </div>

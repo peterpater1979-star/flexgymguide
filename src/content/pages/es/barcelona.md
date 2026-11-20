@@ -181,6 +181,20 @@ En Barcelona, Club Pilates tiene estudios en Eixample, Entenza, Sagrada Família
 
 </div>
 
+<div id="fit20" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fit20"><span>Entrenamiento personal</span></div>
+
+<h3 id="fit20-barcelona">fit20</h3>
+
+fit20 tiene estudios en Capità Arenas y Plaça Molina, y cerca de Barcelona en El Masnou: una vez por semana, 20 minutos de fuerza con un entrenador, con cita. Precio recomendado de 75 a 125 € al mes, más 59 € de inscripción; primer entrenamiento gratis.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/es/fit20/">Todo sobre fit20</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="vistazo">
