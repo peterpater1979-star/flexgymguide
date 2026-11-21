@@ -285,7 +285,7 @@ Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, 
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-yttp"><span>Boutique-Studio</span></div>
+<div class="fotokop foto-yttp-2"><span>Boutique-Studio</span></div>
 
 ### YTTP
 
