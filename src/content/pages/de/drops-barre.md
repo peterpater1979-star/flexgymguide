@@ -18,9 +18,9 @@ Drops Barre ist ein Boutique-Studio für Barre-Kurse in München, Frankfurt, Kö
 | --- | --- |
 | **Art** | Boutique-Studio mit Kursen: Barre, Pilates und Barre SWEAT |
 | **Studios** | München, Frankfurt, Köln und Hamburg |
-| **Mitgliedschaft** | [PREIS] pro Monat |
-| **Einzelstunde und Karten** | [PREIS] |
-| **Kündigen** | Mitgliedschaft schriftlich kündbar, es gelten die gesetzlichen Regeln |
+| **Mitgliedschaft** | Unlimited ab 89 € pro Monat bei 12 Monaten Laufzeit, 109 € bei 6 Monaten |
+| **Einzelstunde und Karten** | Einzelstunde 20 €, Karten mit 4, 8 oder 12 Stunden |
+| **Kündigen** | Schriftlich, es gelten die gesetzlichen Regeln |
 
 <p class="klein">Quelle: drops-barre.de, die Seiten zu Studios, Preisen und AGB (Stand der AGB: März 2026). Prüfe den aktuellen Preis immer bei Drops Barre.</p>
 
@@ -50,20 +50,25 @@ Alle vier Studios haben wir auch bei ClassPass gefunden.
 
 <h2 id="preise">Preise</h2>
 
-- **Mitgliedschaft:** [PREIS] pro Monat, mit begrenzter oder unbegrenzter Zahl an Kursen pro Monat. Nicht gebuchte Stunden verfallen.
-- **Einzelstunde und Karten:** [PREIS]. Karten gelten 1, 3, 6 oder 9 Monate ab Kaufdatum. Nicht genutzte Stunden verfallen und werden nicht erstattet.
+- **Unlimited, 12 Monate Laufzeit:** 89 € pro Monat, so viele Kurse, wie du willst.
+- **Unlimited, 6 Monate Laufzeit:** 109 € pro Monat.
+- **Unlimited, 1 Monat:** 119 € für einen Monat.
+- **Einzelstunde:** 20 €, 6 Monate gültig.
+- **Karten:** 4 Stunden 72 €, 8 Stunden 136 € (je 6 Monate gültig) und 12 Stunden 180 € (12 Monate gültig).
 - **Bezahlen:** Du zahlst vorab online, per Kreditkarte oder SEPA-Lastschrift.
+
+<p class="klein">Preise von November 2026, laut der Preisseite von Drops Barre. Prüfe den aktuellen Preis immer bei Drops Barre.</p>
 
 <h2 id="kuendigen">Kündigen und Stornieren</h2>
 
-- **Mitgliedschaft:** Der Vertrag ist monatlich und gilt ab der Buchung. Laut AGB brauchst du für die Kündigung die schriftliche Form. Eine Frist in Tagen steht nicht in den AGB, es gelten die gesetzlichen Regeln. Schicke deine Kündigung zum Beispiel per E-Mail an info@drops-barre.de und bewahre die Bestätigung auf.
+- **Mitgliedschaft:** Der Vertrag gilt ab der Buchung, mit einer Laufzeit von 6 oder 12 Monaten, oder für einen Monat. Laut AGB brauchst du für die Kündigung die schriftliche Form. Eine Frist in Tagen steht nicht in den AGB, es gelten die gesetzlichen Regeln. Schicke deine Kündigung zum Beispiel per E-Mail an info@drops-barre.de und bewahre die Bestätigung auf.
 - **Sonderkonditionen:** Nach der Grundlaufzeit passt Drops Barre sie automatisch an den Normaltarif an. Schau also nach, was nach der ersten Zeit gilt.
 - **Pause:** Eine Mitgliedschaft ruhen zu lassen ist laut AGB grundsätzlich nicht möglich.
 - **Kurs stornieren:** Bis 12 Stunden vor Kursbeginn ist es kostenlos, du bekommst den Credit zurück. Danach wird ein Credit abgezogen, auch wenn du nicht erscheinst.
 - **Widerruf:** Bei Online-Verträgen gilt ein Widerruf von 14 Tagen. Er erlischt, sobald du die Leistung nutzt.
 - **Rücklastschrift:** Bei einer Rücklastschrift berechnet Drops Barre 15 €.
 
-Willst du dich gar nicht binden, kauf eine Einzelstunde oder eine Karte.
+Willst du dich gar nicht binden, kauf eine Einzelstunde, eine Karte oder Unlimited für einen Monat.
 
 <p class="klein">Quelle: AGB von Drops Barre, Stand März 2026. Die vollständigen Bedingungen stehen auf drops-barre.de.</p>
 
@@ -72,7 +77,7 @@ Willst du dich gar nicht binden, kauf eine Einzelstunde oder eine Karte.
 <details open>
 <summary>Was kostet Drops Barre?</summary>
 
-Die aktuellen Preise für Mitgliedschaft, Einzelstunde und Karten stehen auf drops-barre.de. Wir haben sie noch nicht geprüft und nennen deshalb keine Beträge.
+Unlimited kostet 89 € pro Monat bei 12 Monaten Laufzeit und 109 € bei 6 Monaten. Eine Einzelstunde kostet 20 €, Karten mit 4, 8 und 12 Stunden kosten 72 €, 136 € und 180 € (November 2026, laut drops-barre.de).
 
 </details>
 

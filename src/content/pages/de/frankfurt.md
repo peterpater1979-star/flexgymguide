@@ -246,7 +246,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Höchst) |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 1 Reformer-Studio (Bornheim) |
-| **[Drops Barre](/de/drops-barre/)** | [PREIS] pro Monat, oder pro Kurs | Mitgliedschaft schriftlich kündbar, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
+| **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 3 Studios |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>

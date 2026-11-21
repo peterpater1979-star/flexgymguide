@@ -127,7 +127,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
 | **[Rostudios](/de/rostudios/)** | Boutique-Studio (Indoor-Cycling und Reformer) | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs | 14 Studios: Berlin (5), Köln, Hamburg, Düsseldorf, München (je 2), Frankfurt |
-| **[Drops Barre](/de/drops-barre/)** | Boutique-Studio (Barre) | [PREIS] pro Monat, oder pro Kurs | Mitgliedschaft schriftlich kündbar, oder pro Kurs | 4 Studios: München, Frankfurt, Köln, Hamburg |
+| **[Drops Barre](/de/drops-barre/)** | Boutique-Studio (Barre) | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs | 4 Studios: München, Frankfurt, Köln, Hamburg |
 | **[Kieser](/de/kieser-training/)** | Krafttraining an Maschinen, betreut | 89 € (12 Monate) oder 69 € (24 Monate), plus Einführung ab 199 € | 12 oder 24 Monate | 113 Studios in Deutschland |
 
 <p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS, Mrs.Sporty, Rostudios, Drops Barre und Kieser. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
@@ -289,7 +289,7 @@ Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, 
 
 ### Drops Barre
 
-Boutique-Studio für Barre-Kurse, in München, Frankfurt, Köln und Hamburg.
+Boutique-Studio für Barre-Kurse, in München, Frankfurt, Köln und Hamburg. Unlimited ab 89 € pro Monat.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/drops-barre/">Alles über Drops Barre</a>
