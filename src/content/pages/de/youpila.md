@@ -19,8 +19,8 @@ YOUPILA ist ein Boutique-Studio für Reformer Pilates und Barre mit Studios in D
 | **Art** | Boutique-Studio mit Kursen: Reformer Pilates und Barre |
 | **Studios** | Düsseldorf (Unterbilk und Pempelfort, je ein Reformer- und ein Barre-Studio), Hamburg (Hoheluft, Reformer) |
 | **Preise Düsseldorf** | ONE Abo (unbegrenzt) 120 € pro Monat, Karten ab 25 € pro Kurs |
-| **Preise Hamburg** | Karten ab 25 € pro Kurs |
-| **Laufzeit** | Düsseldorf: ONE Abo mindestens 12 Monate. Karten ohne Vertrag |
+| **Preise Hamburg** | ONE Abo (unbegrenzt) 120 € pro Monat, Karten ab 25 € pro Kurs |
+| **Laufzeit** | ONE Abo mindestens 12 Monate, in Düsseldorf und Hamburg. Karten ohne Vertrag |
 | **Kurs absagen** | Bis 12 Stunden vor Kursbeginn |
 
 <p class="klein">Quelle: youpila.de, die Seiten zu Tarifen und AGB (November 2026). Prüfe den aktuellen Preis immer bei YOUPILA.</p>
@@ -63,10 +63,11 @@ Die genauen Adressen und neue Eröffnungen siehst du auf der Website von YOUPILA
 
 <h2 id="preise">Abo und Karten</h2>
 
-Um bei YOUPILA zu trainieren, brauchst du Credits, als Karte oder als Abo. Die Tarife gelten je Standort. Die Preise unten gelten für Düsseldorf.
+Um bei YOUPILA zu trainieren, brauchst du Credits, als Karte oder als Abo. Die Tarife gelten je Standort. Die Preise gelten für Düsseldorf und Hamburg.
 
 - **ONE Abo Düsseldorf:** 120 € pro Monat, unbegrenzt Kurse pro Woche in allen offenen Trainings der Studios in Düsseldorf (Reformer, Barre Workout, Pilates und mehr). Die Laufzeit ist mindestens 12 Monate. Du kannst den Tarif nicht in einem anderen Standort nutzen.
 - **Karten Düsseldorf:** 1er Karte 25 €, 5er Karte 110 €, 10er Karte 185 €, 20er Karte 320 €. Jede Karte gilt 6 Monate ab Kauf und für alle offenen Trainings in Düsseldorf.
+- **ONE Abo Hamburg:** 120 € pro Monat, unbegrenzt Kurse in allen offenen Trainings der Studios in Hamburg. Die Laufzeit ist mindestens 12 Monate. Du kannst den Tarif nicht in einem anderen Standort nutzen.
 - **Karten Hamburg:** 1er Karte 25 €, 5er Karte 110 €, 10er Karte 185 €, 20er Karte 320 €. Jede Karte gilt 6 Monate ab Kauf und für alle Reformer-Trainings in den Studios in Hamburg.
 - **Privattraining Reformer (Hamburg):** 1er Karte 99 €, DUO Karte 129 €, 5er Karte 470 €, 10er Karte 890 €. Die Termine vereinbarst du direkt mit YOUPILA.
 - **Credits:** Bei einem Abo werden die Credits jeden Monat freigeschaltet. Sie sind nicht übertragbar und verfallen, wenn du sie nicht nutzt.
@@ -74,7 +75,7 @@ Um bei YOUPILA zu trainieren, brauchst du Credits, als Karte oder als Abo. Die T
 
 <h2 id="kuendigen">Kündigen</h2>
 
-Das ONE Abo in Düsseldorf läuft mindestens 12 Monate. Du kannst es mit einer Frist von 30 Tagen nach Ablauf der Mindestlaufzeit schriftlich kündigen. Ohne Kündigung verlängert es sich auf unbestimmte Zeit. Danach kündigst du jederzeit mit einer Frist von 30 Tagen zum nächsten Monatswechsel. Vorzeitig beenden geht nur aus wichtigem Grund und im beiderseitigen Einverständnis, zum Beispiel bei Schwangerschaft oder Umzug in eine andere Stadt. Einen Kurs sagst du bis 12 Stunden vorher ab. Willst du dich gar nicht binden, kauf eine Karte statt eines Abos. Die vollständigen Bedingungen stehen auf youpila.de.
+Das ONE Abo in Düsseldorf und in Hamburg läuft mindestens 12 Monate. Du kannst es mit einer Frist von 30 Tagen nach Ablauf der Mindestlaufzeit schriftlich kündigen. Ohne Kündigung verlängert es sich auf unbestimmte Zeit. Danach kündigst du jederzeit mit einer Frist von 30 Tagen zum nächsten Monatswechsel. Vorzeitig beenden geht nur aus wichtigem Grund und im beiderseitigen Einverständnis, zum Beispiel bei Schwangerschaft oder Umzug in eine andere Stadt. Einen Kurs sagst du bis 12 Stunden vorher ab. Willst du dich gar nicht binden, kauf eine Karte statt eines Abos. Die vollständigen Bedingungen stehen auf youpila.de.
 
 <p class="klein">Quelle: Bedingungen des ONE Abos und AGB von YOUPILA, Stand November 2026.</p>
 
@@ -83,14 +84,14 @@ Das ONE Abo in Düsseldorf läuft mindestens 12 Monate. Du kannst es mit einer F
 <details open>
 <summary>Was kostet YOUPILA?</summary>
 
-In Düsseldorf kostet das ONE Abo 120 € pro Monat. Karten kosten 25 € (1 Kurs), 110 € (5 Kurse), 185 € (10 Kurse) und 320 € (20 Kurse). In Hamburg kosten die Karten genauso viel (25, 110, 185 und 320 €). Alle Preise von November 2026, laut youpila.de.
+In Düsseldorf kostet das ONE Abo 120 € pro Monat. Karten kosten 25 € (1 Kurs), 110 € (5 Kurse), 185 € (10 Kurse) und 320 € (20 Kurse). In Hamburg kostet das ONE Abo ebenfalls 120 € pro Monat, und die Karten kosten genauso viel (25, 110, 185 und 320 €). Alle Preise von November 2026, laut youpila.de.
 
 </details>
 
 <details>
 <summary>Kann ich bei YOUPILA ohne Vertrag trainieren?</summary>
 
-Ja, mit einer Karte. Sie gilt 6 Monate ab Kauf und bindet dich nicht. Das ONE Abo in Düsseldorf hat eine Mindestlaufzeit von 12 Monaten und verlängert sich danach automatisch auf unbestimmte Zeit, mit 30 Tagen Frist zum Monatswechsel kündbar.
+Ja, mit einer Karte. Sie gilt 6 Monate ab Kauf und bindet dich nicht. Das ONE Abo in Düsseldorf und Hamburg hat eine Mindestlaufzeit von 12 Monaten und verlängert sich danach automatisch auf unbestimmte Zeit, mit 30 Tagen Frist zum Monatswechsel kündbar.
 
 </details>
 
