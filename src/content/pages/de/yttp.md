@@ -17,7 +17,7 @@ YTTP ist eine deutsche Boutique-Studio-Kette für Reformer Pilates und Strength,
 | | YTTP |
 | --- | --- |
 | **Art** | Boutique-Studio mit Kursen: Reformer Pilates, Pilates, Barre und Strength |
-| **Studios** | Berlin (3), Köln (4), Hamburg (2), Düsseldorf (1) |
+| **Studios** | Berlin (4), Köln (4), Hamburg (2), Düsseldorf (1) |
 | **Memberships** | S mit 4 Kursen pro Monat [PREIS], M mit 8 Kursen [PREIS], L mit so vielen Kursen, wie du willst [PREIS] |
 | **Einzelstunde** | [PREIS] pro Kurs |
 | **Kündigen** | Memberships sind monatlich kündbar |
@@ -50,9 +50,10 @@ Functional Fitness in der Gruppe: ein abwechslungsreiches Training für den ganz
 
 | Stadt | Studio | Schwerpunkt |
 | --- | --- | --- |
-| **Berlin** | Reformer Kreuzberg (Reichenberger Straße) | Reformer |
-| **Berlin** | Reformer Bergmannkiez | Reformer |
-| **Berlin** | Reformer Charlottenburg | Reformer |
+| **Berlin** | Kreuzberg (Reichenberger Straße 124, Hinterhof rechts) | Reformer |
+| **Berlin** | Bergmannkiez (Zossener Straße 55) | Reformer |
+| **Berlin** | Charlottenburg (Pestalozzistraße 77, 4. Etage) | Reformer |
+| **Berlin** | Friedrichshain (Grünberger Straße 44a, Hinterhof) | Reformer |
 | **Köln** | Belgisches Viertel (Spichern Straße 10, im Innenhof) | Pilates, Barre und Strength |
 | **Köln** | Belgisches Viertel (Brüsseler Straße 89-93) | Reformer |
 | **Köln** | Südstadt (Kartäuserwall 7-17, am Chlodwigplatz) | Reformer |
