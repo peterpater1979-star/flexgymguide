@@ -126,7 +126,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 | **[EASYFITNESS](/de/easyfitness/)** | Fitnesskette | Ab 27,99 € | Flex, 12 oder 24 Monate | Über 200 Studios in Deutschland |
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
-| **[YOUPILA](/de/youpila/)** | Boutique-Studio (Reformer Pilates und Barre) | Abo oder Karte, [PREIS] | Mindestlaufzeit 6 Monate, danach monatlich kündbar | 5 Studios: Düsseldorf (4), Hamburg (1) |
+| **[YOUPILA](/de/youpila/)** | Boutique-Studio (Reformer Pilates und Barre) | Düsseldorf: ONE Abo 120 €, oder Karten. Hamburg: Karten. Karten ab 25 € pro Kurs | Düsseldorf: Abo mindestens 12 Monate. Karten ohne Vertrag | 5 Studios: Düsseldorf (4), Hamburg (1) |
 | **[Rostudios](/de/rostudios/)** | Boutique-Studio (Indoor-Cycling und Reformer) | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs | 14 Studios: Berlin (5), Köln, Hamburg, Düsseldorf, München (je 2), Frankfurt |
 | **[Kieser](/de/kieser-training/)** | Krafttraining an Maschinen, betreut | 89 € (12 Monate) oder 69 € (24 Monate), plus Einführung ab 199 € | 12 oder 24 Monate | 113 Studios in Deutschland |
 
@@ -275,7 +275,7 @@ Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training in einer 
 
 ### YOUPILA
 
-Boutique-Studio für Reformer Pilates und Barre, in Düsseldorf und Hamburg. Du trainierst mit Credits per Abo oder Karte, [PREIS].
+Boutique-Studio für Reformer Pilates und Barre, in Düsseldorf und Hamburg. In Düsseldorf kostet das ONE Abo 120 € pro Monat (mindestens 12 Monate), Karten gibt es ab 25 € pro Kurs, auch in Hamburg.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/youpila/">Alles über YOUPILA</a>

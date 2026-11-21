@@ -349,7 +349,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club (Barmbek) |
 | **[EASYFITNESS](/de/easyfitness/)** | Ab 27,99 € | Flex, 12 oder 24 Monate | 4 Studios |
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | Mehrere Clubs |
-| **[YOUPILA](/de/youpila/)** | Abo oder Karte, [PREIS] | Mindestlaufzeit 6 Monate, danach monatlich kündbar | 1 Reformer-Studio (Hoheluft) |
+| **[YOUPILA](/de/youpila/)** | Karten ab 25 € pro Kurs | Ohne Vertrag, Karte 6 Monate gültig | 1 Reformer-Studio (Hoheluft) |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Studios (Rocycle und Roform) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 6 Studios |
 
