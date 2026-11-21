@@ -79,6 +79,7 @@ Weitere Studios und neue Eröffnungen siehst du auf der Website von YTTP. Die St
 - **Membership L:** so viele Kurse, wie du willst, 139 € pro Monat.
 - **Gültigkeit und Laufzeit:** Alle Memberships sind monatlich kündbar und gelten für alle Kurse in allen Studios von YTTP.
 - **Einzelstunde:** 18 €, unverbindlich und flexibel.
+- **Kennenlern-Angebot:** 2 Kurse für 29 €, einmalig pro Person.
 - **Power Passes:** Pakete mit 4 Kursen für 69 €, 8 Kursen für 129 €, 12 Kursen für 169 € und 24 Kursen für 299 €.
 
 <h2 id="kuendigen">Kündigen und Stornieren</h2>
