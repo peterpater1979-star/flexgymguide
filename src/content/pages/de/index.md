@@ -127,23 +127,24 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
 | **[Rostudios](/de/rostudios/)** | Boutique-Studio (Indoor-Cycling und Reformer) | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs | 14 Studios: Berlin (5), Köln, Hamburg, Düsseldorf, München (je 2), Frankfurt |
+| **[YTTP](/de/yttp/)** | Boutique-Studio (Reformer Pilates und Strength) | Memberships ab [PREIS], oder pro Kurs | Monatlich kündbar, oder pro Kurs | 6 Studios: Berlin (3), Hamburg (2), Düsseldorf |
 | **[Kieser](/de/kieser-training/)** | Krafttraining an Maschinen, betreut | 89 € (12 Monate) oder 69 € (24 Monate), plus Einführung ab 199 € | 12 oder 24 Monate | 113 Studios in Deutschland |
 
-<p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS, Mrs.Sporty, Rostudios und Kieser. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
+<p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS, Mrs.Sporty, Rostudios, YTTP und Kieser. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
 
 <div id="steden">
 
 ## Städte
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios · Kieser</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · Rostudios · Kieser</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios · YTTP · Kieser</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · Rostudios · YTTP · Kieser</span></li>
 <li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · clever fit · Rostudios · Kieser</span></li>
 <li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios · Kieser</span></li>
 <li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios · Kieser</span></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · clever fit · Kieser</span></li>
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit · Kieser</span></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · JOHN REED · Rostudios · Kieser</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · JOHN REED · Rostudios · YTTP · Kieser</span></li>
 <li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · JOHN REED · clever fit · Kieser</span></li>
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · JOHN REED · Kieser</span></li>
 </ul>
@@ -278,6 +279,20 @@ Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Boutique-Studio</span></div>
+
+### YTTP
+
+Boutique-Studio für Reformer Pilates und Strength, in Berlin, Hamburg und Düsseldorf. Memberships ab [PREIS] pro Monat, monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/yttp/">Alles über YTTP</a>
 </div>
 
 </div>
