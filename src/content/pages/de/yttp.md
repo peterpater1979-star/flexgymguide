@@ -50,8 +50,6 @@ Functional Fitness in der Gruppe: ein abwechslungsreiches Training für den ganz
 
 <h2 id="studios">Die Studios in Deutschland</h2>
 
-<div class="fotobanner smal foto-yttp-3" role="img" aria-label="Reformer im Studio"></div>
-
 | Stadt | Studio | Schwerpunkt |
 | --- | --- | --- |
 | **Berlin** | Kreuzberg (Reichenberger Straße 124, Hinterhof rechts) | Reformer |
