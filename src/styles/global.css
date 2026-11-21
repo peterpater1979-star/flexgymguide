@@ -142,6 +142,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-yttp { --foto: url(/img/foto/yttp.jpg); background-position: center 35%; }
 .foto-yttp-2 { --foto: url(/img/foto/yttp-2.jpg); background-position: center 30%; }
 .foto-yttp-3 { --foto: url(/img/foto/yttp-3.jpg); }
+.foto-yttp-4 { --foto: url(/img/foto/yttp-4.jpg); background-position: center 30%; }
 .foto-go-health-clubs { --foto: url(/img/foto/go-health-clubs.jpg); }
 .foto-dutch-gym { --foto: url(/img/foto/dutch-gym.jpg); }
 .foto-fit20 { --foto: url(/img/foto/fit20.jpg); background-position: center 30%; }

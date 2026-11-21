@@ -68,6 +68,8 @@ Functional Fitness in der Gruppe: ein abwechslungsreiches Training für den ganz
 
 Weitere Studios und neue Eröffnungen siehst du auf der Website von YTTP. Die Studios in Berlin, Hamburg und Düsseldorf haben wir auch bei ClassPass gefunden.
 
+<div class="fotobanner smal foto-yttp-4" role="img" aria-label="Reformer Pilates Kurs"></div>
+
 <h2 id="preise">Memberships und Einzelstunden</h2>
 
 - **Membership S:** 4 Kurse pro Monat, 65 € pro Monat.
