@@ -10,6 +10,8 @@ crumb: "Drops Barre"
 kicker: "Anbieter: Boutique-Studio"
 ---
 
+<div class="fotobanner smal foto-drops-barre" role="img" aria-label="Barre-Kurs im Studio"></div>
+
 Drops Barre ist ein Boutique-Studio für Barre-Kurse in München, Frankfurt, Köln und Hamburg. Barre ist inspiriert von Ballett, funktionellem Training und Pilates: kleine, präzise Bewegungen, die Tiefenmuskulatur und Haltung trainieren. Du buchst Kurse online mit einer Mitgliedschaft oder mit einer Karte.
 
 <h2 id="kurz">Kurz und knapp</h2>

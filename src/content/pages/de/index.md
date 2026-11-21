@@ -287,6 +287,8 @@ Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, 
 
 <div class="fotokop foto-kieser"><span>Krafttraining</span></div>
 
+<div class="fotokop foto-drops-barre-2"><span>Boutique-Studio</span></div>
+
 ### Drops Barre
 
 Boutique-Studio für Barre-Kurse, in München, Frankfurt, Köln und Hamburg. Unlimited ab 89 € pro Monat.
