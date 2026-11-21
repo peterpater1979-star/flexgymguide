@@ -99,13 +99,6 @@ Wir haben Studios in Berlin, Köln, Hamburg und Düsseldorf gefunden. Weitere St
 </details>
 
 <details>
-<summary>Ist YTTP bei Urban Sports Club?</summary>
-
-Ja, mehrere Studios, zum Beispiel in Berlin und Köln, sind dabei. Welche gerade buchbar sind, siehst du in der App von Urban Sports Club. Lies auch [Alles über Urban Sports Club](/de/urban-sports-club/).
-
-</details>
-
-<details>
 <summary>Ist YTTP auf ClassPass?</summary>
 
 Auf ClassPass haben wir YTTP in Berlin, Hamburg und Düsseldorf gefunden. Mehr dazu in unserem [Überblick zu ClassPass](/de/classpass/).
