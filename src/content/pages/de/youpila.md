@@ -21,6 +21,7 @@ YOUPILA ist ein Boutique-Studio für Reformer Pilates und Barre mit Studios in D
 | **Preise Düsseldorf** | ONE Abo (unbegrenzt) 120 € pro Monat, Karten ab 25 € pro Kurs |
 | **Preise Hamburg** | ONE Abo (unbegrenzt) 120 € pro Monat, Karten ab 25 € pro Kurs |
 | **Laufzeit** | ONE Abo mindestens 12 Monate, in Düsseldorf und Hamburg. Karten ohne Vertrag |
+| **Probetraining** | Für Neukunden: Free Trial 0 €, One Trial 20 € |
 | **Kurs absagen** | Bis 12 Stunden vor Kursbeginn |
 
 <p class="klein">Quelle: youpila.de, die Seiten zu Tarifen und AGB (November 2026). Prüfe den aktuellen Preis immer bei YOUPILA.</p>
@@ -70,6 +71,8 @@ Um bei YOUPILA zu trainieren, brauchst du Credits, als Karte oder als Abo. Die T
 - **ONE Abo Hamburg:** 120 € pro Monat, unbegrenzt Kurse in allen offenen Trainings der Studios in Hamburg. Die Laufzeit ist mindestens 12 Monate. Du kannst den Tarif nicht in einem anderen Standort nutzen.
 - **Karten Hamburg:** 1er Karte 25 €, 5er Karte 110 €, 10er Karte 185 €, 20er Karte 320 €. Jede Karte gilt 6 Monate ab Kauf und für alle Reformer-Trainings in den Studios in Hamburg.
 - **Privattraining Reformer (Hamburg):** 1er Karte 99 €, DUO Karte 129 €, 5er Karte 470 €, 10er Karte 890 €. Die Termine vereinbarst du direkt mit YOUPILA.
+- **Free Trial (nur für Neukunden):** 1 Probetraining für 0 €, gültig 4 Wochen ab Kauf, einmal pro Person. In Düsseldorf für alle offenen Trainings, in Hamburg für die offenen Reformer-Trainings.
+- **One Trial (nur für Neukunden):** 1 Probetraining für 20 €, gültig 4 Wochen ab Kauf.
 - **Credits:** Bei einem Abo werden die Credits jeden Monat freigeschaltet. Sie sind nicht übertragbar und verfallen, wenn du sie nicht nutzt.
 - **Bezahlen:** per Kreditkarte, SEPA-Lastschrift oder PayPal.
 
