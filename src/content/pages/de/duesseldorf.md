@@ -263,6 +263,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | --- | --- | --- | --- |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 4 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 3 Clubs |
+| **[YOUPILA](/de/youpila/)** | Abo oder Karte, [PREIS] | Mindestlaufzeit 6 Monate, danach monatlich kündbar | 4 Studios (Reformer und Barre in Unterbilk und Pempelfort) |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Reformer-Studios (Flingern-Nord, Pempelfort) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios (Oberkassel, Wehrhahn) |
 
