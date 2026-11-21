@@ -300,8 +300,6 @@ Boutique-Studio für Reformer Pilates und Strength, in Berlin, Köln, Hamburg un
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
-
 <div class="fotokop foto-drops-barre-2"><span>Boutique-Studio</span></div>
 
 ### Drops Barre
@@ -315,6 +313,8 @@ Boutique-Studio für Barre-Kurse, in München, Frankfurt, Köln und Hamburg. Unl
 </div>
 
 <div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
 
 ### Kieser
 
