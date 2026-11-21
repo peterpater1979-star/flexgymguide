@@ -102,7 +102,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .prose h2 { clear: both; }
 
 /* Fotokop boven een kaart: foto met turquoise laag, label erop */
-.kaart > .fotokop, .kolom > .fotokop:first-child { display: flex; align-items: flex-end; height: 150px; margin: -1.75rem -1.75rem 1.25rem; padding: 1rem 1.75rem; border-radius: var(--radius) var(--radius) 0 0; background: linear-gradient(rgba(1, 122, 120, .45), rgba(1, 90, 88, .85)), var(--foto, none) center / cover, var(--accent); color: #fff; font-weight: 600; letter-spacing: .02em; }
+.kaart > .fotokop, .kolom > .fotokop:first-child { display: flex; align-items: flex-end; height: 150px; margin: -1.75rem -1.75rem 1.25rem; padding: 1rem 1.75rem; border-radius: var(--radius) var(--radius) 0 0; background: linear-gradient(rgba(1, 122, 120, .45), rgba(1, 90, 88, .85)), var(--foto, none) var(--foto-pos, center) / cover, var(--accent); color: #fff; font-weight: 600; letter-spacing: .02em; }
 
 .fotobanner { height: 240px; margin: 0 0 1.5rem; border-radius: var(--radius); background: linear-gradient(rgba(1, 122, 120, .1), rgba(1, 90, 88, .25)), var(--foto, none) center / cover, var(--accent); }
 @media (max-width: 640px) { .fotobanner { height: 180px; } }
@@ -137,8 +137,15 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-big-gym { --foto: url(/img/foto/big-gym.jpg); }
 .foto-vondelgym { --foto: url(/img/foto/vondelgym.jpg); }
 .foto-saints-stars { --foto: url(/img/foto/saints-stars.jpg); }
+.foto-youpila { --foto: url(/img/foto/youpila.jpg); --foto-pos: center 60%; background-position: center 60%; }
 .foto-rostudios { --foto: url(/img/foto/rostudios.jpg); }
 .foto-rostudios-reformer { --foto: url(/img/foto/rostudios-reformer.jpg); }
+.foto-yttp { --foto: url(/img/foto/yttp.jpg); background-position: center 35%; }
+.foto-yttp-2 { --foto: url(/img/foto/yttp-2.jpg); --foto-pos: center 25%; }
+.foto-yttp-4 { --foto: url(/img/foto/yttp-4.jpg); background-position: center 30%; }
+.foto-yttp-strength { --foto: url(/img/foto/yttp-strength.jpg); --foto-pos: center 8%; }
+.foto-drops-barre { --foto: url(/img/foto/drops-barre.jpg); background-position: center 72%; }
+.foto-drops-barre-2 { --foto: url(/img/foto/drops-barre-2.jpg); --foto-pos: center 35%; }
 .foto-go-health-clubs { --foto: url(/img/foto/go-health-clubs.jpg); }
 .foto-dutch-gym { --foto: url(/img/foto/dutch-gym.jpg); }
 .foto-fit20 { --foto: url(/img/foto/fit20.jpg); background-position: center 30%; }
