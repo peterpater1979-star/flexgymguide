@@ -278,6 +278,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | Mehrere Clubs |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Studios (Rocycle und Roform) |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer, Pilates und Strength) |
+| **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 4 Studios |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
