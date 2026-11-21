@@ -1,8 +1,8 @@
 ---
-title: "YTTP: Reformer Pilates und Strength in Berlin, Hamburg und Düsseldorf"
+title: "YTTP: Reformer Pilates und Strength in Berlin, Köln, Hamburg und Düsseldorf"
 seoTitle: "YTTP: Reformer Pilates und Strength, Preise und Studios"
 path: "/de/yttp/"
-description: "Alles über YTTP in Deutschland: Reformer Pilates und Strength in Berlin, Hamburg und Düsseldorf. Studios, Memberships S, M und L, Einzelstunden und Kündigen."
+description: "Alles über YTTP in Deutschland: Reformer Pilates und Strength in Berlin, Köln, Hamburg und Düsseldorf. Studios, Memberships S, M und L, Einzelstunden und Kündigen."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -17,7 +17,7 @@ YTTP ist eine deutsche Boutique-Studio-Kette für Reformer Pilates und Strength,
 | | YTTP |
 | --- | --- |
 | **Art** | Boutique-Studio mit Kursen: Reformer Pilates, Pilates, Barre und Strength |
-| **Studios** | Berlin (Kreuzberg, Bergmannkiez, Charlottenburg), Hamburg (Neustadt, Ottensen), Düsseldorf (Unterbilk) |
+| **Studios** | Berlin (3), Köln (4), Hamburg (2), Düsseldorf (1) |
 | **Memberships** | S mit 4 Kursen pro Monat [PREIS], M mit 8 Kursen [PREIS], L mit so vielen Kursen, wie du willst [PREIS] |
 | **Einzelstunde** | [PREIS] pro Kurs |
 | **Kündigen** | Memberships sind monatlich kündbar |
@@ -53,6 +53,10 @@ Functional Fitness in der Gruppe: ein abwechslungsreiches Training für den ganz
 | **Berlin** | Reformer Kreuzberg (Reichenberger Straße) | Reformer |
 | **Berlin** | Reformer Bergmannkiez | Reformer |
 | **Berlin** | Reformer Charlottenburg | Reformer |
+| **Köln** | Belgisches Viertel (Spichern Straße 10, im Innenhof) | Pilates, Barre und Strength |
+| **Köln** | Belgisches Viertel (Brüsseler Straße 89-93) | Reformer |
+| **Köln** | Südstadt (Kartäuserwall 7-17, am Chlodwigplatz) | Reformer |
+| **Köln** | Belgisches Viertel (Flandrische Straße 4, am Rudolfplatz) | Strength |
 | **Hamburg** | Reformer Neustadt | Reformer |
 | **Hamburg** | Reformer Ottensen | Reformer |
 | **Düsseldorf** | Reformer Unterbilk | Reformer |
@@ -90,14 +94,14 @@ Ja. Die Memberships sind monatlich kündbar, und du kannst auch einzelne Kurse o
 <details>
 <summary>In welchen Städten gibt es YTTP?</summary>
 
-Wir haben Studios in Berlin, Hamburg und Düsseldorf gefunden. Weitere Standorte und Eröffnungen siehst du auf yttp.de.
+Wir haben Studios in Berlin, Köln, Hamburg und Düsseldorf gefunden. Weitere Standorte und Eröffnungen siehst du auf yttp.de.
 
 </details>
 
 <details>
 <summary>Ist YTTP bei Urban Sports Club?</summary>
 
-Ja, mehrere Studios, zum Beispiel in Berlin, sind dabei. Welche gerade buchbar sind, siehst du in der App von Urban Sports Club. Lies auch [Alles über Urban Sports Club](/de/urban-sports-club/).
+Ja, mehrere Studios, zum Beispiel in Berlin und Köln, sind dabei. Welche gerade buchbar sind, siehst du in der App von Urban Sports Club. Lies auch [Alles über Urban Sports Club](/de/urban-sports-club/).
 
 </details>
 
@@ -110,6 +114,7 @@ Auf ClassPass haben wir YTTP in Berlin, Hamburg und Düsseldorf gefunden. Mehr d
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/berlin/">Training in Berlin</a>
+<a class="knop knop-rand" href="/de/koeln/">Training in Köln</a>
 <a class="knop knop-rand" href="/de/hamburg/">Training in Hamburg</a>
 <a class="knop knop-rand" href="/de/duesseldorf/">Training in Düsseldorf</a>
 <a class="knop knop-rand" href="https://www.yttp.de/">YTTP</a>
