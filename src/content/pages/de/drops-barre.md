@@ -55,6 +55,7 @@ Alle vier Studios haben wir auch bei ClassPass gefunden.
 - **Unlimited, 12 Monate Laufzeit:** 89 € pro Monat, so viele Kurse, wie du willst.
 - **Unlimited, 6 Monate Laufzeit:** 109 € pro Monat.
 - **Unlimited, 1 Monat:** 119 € für einen Monat.
+- **Kennenlernen:** First Drop, eine Stunde für 15 € (unbegrenzt gültig), und First 3 Drops, drei Stunden für 36 € (3 Wochen gültig).
 - **Einzelstunde:** 20 €, 6 Monate gültig.
 - **Karten:** 4 Stunden 72 €, 8 Stunden 136 € (je 6 Monate gültig) und 12 Stunden 180 € (12 Monate gültig).
 - **Bezahlen:** Du zahlst vorab online, per Kreditkarte oder SEPA-Lastschrift.
