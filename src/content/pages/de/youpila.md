@@ -18,7 +18,7 @@ YOUPILA ist ein Boutique-Studio für Reformer Pilates und Barre mit Studios in D
 | --- | --- |
 | **Art** | Boutique-Studio mit Kursen: Reformer Pilates und Barre |
 | **Studios** | Düsseldorf (Unterbilk und Pempelfort, je ein Reformer- und ein Barre-Studio), Hamburg (Hoheluft, Reformer) |
-| **Preise Düsseldorf** | ONE Abo 120 € pro Monat, Karten ab 25 € pro Kurs |
+| **Preise Düsseldorf** | ONE Abo (unbegrenzt) 120 € pro Monat, Karten ab 25 € pro Kurs |
 | **Preise Hamburg** | Karten ab 25 € pro Kurs |
 | **Laufzeit** | Düsseldorf: ONE Abo mindestens 12 Monate. Karten ohne Vertrag |
 | **Kurs absagen** | Bis 12 Stunden vor Kursbeginn |
@@ -74,9 +74,9 @@ Um bei YOUPILA zu trainieren, brauchst du Credits, als Karte oder als Abo. Die T
 
 <h2 id="kuendigen">Kündigen</h2>
 
-Das ONE Abo in Düsseldorf läuft mindestens 12 Monate. Laut den AGB von YOUPILA (Stand Oktober 2026) kündigst du schriftlich, spätestens einen Monat vor dem Ende der Laufzeit. Danach kannst du monatlich kündigen. Vorzeitig beenden geht nur aus wichtigem Grund, zum Beispiel bei Schwangerschaft oder Umzug. Einen Kurs sagst du bis 12 Stunden vorher ab. Willst du dich gar nicht binden, kauf eine Karte statt eines Abos. Die vollständigen Bedingungen stehen auf youpila.de.
+Das ONE Abo in Düsseldorf läuft mindestens 12 Monate. Du kannst es mit einer Frist von 30 Tagen nach Ablauf der Mindestlaufzeit schriftlich kündigen. Ohne Kündigung verlängert es sich auf unbestimmte Zeit. Danach kündigst du jederzeit mit einer Frist von 30 Tagen zum nächsten Monatswechsel. Vorzeitig beenden geht nur aus wichtigem Grund und im beiderseitigen Einverständnis, zum Beispiel bei Schwangerschaft oder Umzug in eine andere Stadt. Einen Kurs sagst du bis 12 Stunden vorher ab. Willst du dich gar nicht binden, kauf eine Karte statt eines Abos. Die vollständigen Bedingungen stehen auf youpila.de.
 
-<p class="klein">Quelle: AGB von YOUPILA, Stand Oktober 2026.</p>
+<p class="klein">Quelle: Bedingungen des ONE Abos und AGB von YOUPILA, Stand November 2026.</p>
 
 ## Häufige Fragen
 
@@ -90,7 +90,7 @@ In Düsseldorf kostet das ONE Abo 120 € pro Monat. Karten kosten 25 € (1 Kur
 <details>
 <summary>Kann ich bei YOUPILA ohne Vertrag trainieren?</summary>
 
-Ja, mit einer Karte. Sie gilt 6 Monate ab Kauf und bindet dich nicht. Das ONE Abo in Düsseldorf hat eine Mindestlaufzeit von 12 Monaten.
+Ja, mit einer Karte. Sie gilt 6 Monate ab Kauf und bindet dich nicht. Das ONE Abo in Düsseldorf hat eine Mindestlaufzeit von 12 Monaten und verlängert sich danach automatisch auf unbestimmte Zeit, mit 30 Tagen Frist zum Monatswechsel kündbar.
 
 </details>
 
