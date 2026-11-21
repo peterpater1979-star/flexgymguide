@@ -58,8 +58,8 @@ Functional Fitness in der Gruppe: ein abwechslungsreiches Training für den ganz
 | **Köln** | Belgisches Viertel (Brüsseler Straße 89-93) | Reformer |
 | **Köln** | Südstadt (Kartäuserwall 7-17, am Chlodwigplatz) | Reformer |
 | **Köln** | Belgisches Viertel (Flandrische Straße 4, am Rudolfplatz) | Strength |
-| **Hamburg** | Reformer Neustadt | Reformer |
-| **Hamburg** | Reformer Ottensen | Reformer |
+| **Hamburg** | Neustadt (Kaiser-Wilhelm-Straße 14) | Reformer |
+| **Hamburg** | Ottensen (Borselstraße 14-18, Hinterhof rechts) | Reformer |
 | **Düsseldorf** | Reformer Unterbilk | Reformer |
 
 Weitere Studios und neue Eröffnungen siehst du auf der Website von YTTP. Die Studios in Berlin, Hamburg und Düsseldorf haben wir auch bei ClassPass gefunden.
