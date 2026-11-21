@@ -10,6 +10,8 @@ crumb: "YOUPILA"
 kicker: "Anbieter: Boutique-Studio"
 ---
 
+<div class="fotobanner smal foto-youpila" role="img" aria-label="Reformer-Studio"></div>
+
 YOUPILA ist ein Boutique-Studio für Reformer Pilates und Barre mit Studios in Düsseldorf und Hamburg. Du buchst Kurse mit Credits, die du als Abo oder als Karte kaufst. Das Angebot ist je nach Standort unterschiedlich.
 
 <h2 id="kurz">Kurz und knapp</h2>
