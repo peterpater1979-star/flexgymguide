@@ -18,8 +18,8 @@ YTTP ist eine deutsche Boutique-Studio-Kette für Reformer Pilates und Strength,
 | --- | --- |
 | **Art** | Boutique-Studio mit Kursen: Reformer Pilates, Pilates, Barre und Strength |
 | **Studios** | Berlin (4), Köln (4), Hamburg (2), Düsseldorf (1) |
-| **Memberships** | S mit 4 Kursen pro Monat [PREIS], M mit 8 Kursen [PREIS], L mit so vielen Kursen, wie du willst [PREIS] |
-| **Einzelstunde** | [PREIS] pro Kurs |
+| **Memberships** | S mit 4 Kursen pro Monat 65 €, M mit 8 Kursen 119 €, L mit so vielen Kursen, wie du willst 139 € |
+| **Einzelstunde** | 18 € pro Kurs |
 | **Kündigen** | Memberships sind monatlich kündbar |
 
 <p class="klein">Quelle: yttp.de, die Seiten zu Preisen und Studios (November 2026). Prüfe den aktuellen Preis immer bei YTTP.</p>
@@ -66,11 +66,12 @@ Weitere Studios und neue Eröffnungen siehst du auf der Website von YTTP. Die St
 
 <h2 id="preise">Memberships und Einzelstunden</h2>
 
-- **Membership S:** 4 Kurse pro Monat, [PREIS] pro Monat.
-- **Membership M:** 8 Kurse pro Monat, [PREIS] pro Monat.
-- **Membership L:** so viele Kurse, wie du willst, [PREIS] pro Monat.
+- **Membership S:** 4 Kurse pro Monat, 65 € pro Monat.
+- **Membership M:** 8 Kurse pro Monat, 119 € pro Monat.
+- **Membership L:** so viele Kurse, wie du willst, 139 € pro Monat, monatlich kündbar.
 - **Gültigkeit:** Die Memberships gelten für alle Kurse in allen Studios von YTTP.
-- **Einzelstunde und Punktekarten:** Du kaufst einen einzelnen Kurs oder ein Paket mit 4, 8, 12 oder 24 Kursen. Die Preise siehst du auf der Website von YTTP.
+- **Einzelstunde:** 18 €, unverbindlich und flexibel.
+- **Power Passes:** Pakete mit 4 Kursen für 69 €, 8 Kursen für 129 €, 12 Kursen für 169 € und 24 Kursen für 299 €.
 
 <h2 id="kuendigen">Kündigen</h2>
 
@@ -81,7 +82,7 @@ Die Memberships S, M und L sind monatlich kündbar. Willst du dich gar nicht bin
 <details open>
 <summary>Was kostet YTTP?</summary>
 
-Die Memberships kosten [PREIS] (S), [PREIS] (M) und [PREIS] (L) pro Monat. Eine Einzelstunde kostet [PREIS]. Alle Preise von November 2026, laut yttp.de.
+Die Memberships kosten 65 € (S), 119 € (M) und 139 € (L) pro Monat. Eine Einzelstunde kostet 18 €. Alle Preise von November 2026, laut yttp.de.
 
 </details>
 

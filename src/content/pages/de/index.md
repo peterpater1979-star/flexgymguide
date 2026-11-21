@@ -127,7 +127,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
 | **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
 | **[Rostudios](/de/rostudios/)** | Boutique-Studio (Indoor-Cycling und Reformer) | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs | 14 Studios: Berlin (5), Köln, Hamburg, Düsseldorf, München (je 2), Frankfurt |
-| **[YTTP](/de/yttp/)** | Boutique-Studio (Reformer Pilates und Strength) | Memberships ab [PREIS], oder pro Kurs | Monatlich kündbar, oder pro Kurs | 11 Studios: Berlin (4), Köln (4), Hamburg (2), Düsseldorf |
+| **[YTTP](/de/yttp/)** | Boutique-Studio (Reformer Pilates und Strength) | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs | 11 Studios: Berlin (4), Köln (4), Hamburg (2), Düsseldorf |
 | **[Kieser](/de/kieser-training/)** | Krafttraining an Maschinen, betreut | 89 € (12 Monate) oder 69 € (24 Monate), plus Einführung ab 199 € | 12 oder 24 Monate | 113 Studios in Deutschland |
 
 <p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS, Mrs.Sporty, Rostudios, YTTP und Kieser. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
@@ -289,7 +289,7 @@ Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, 
 
 ### YTTP
 
-Boutique-Studio für Reformer Pilates und Strength, in Berlin, Köln, Hamburg und Düsseldorf. Memberships ab [PREIS] pro Monat, monatlich kündbar.
+Boutique-Studio für Reformer Pilates und Strength, in Berlin, Köln, Hamburg und Düsseldorf. Memberships ab 65 € pro Monat, monatlich kündbar.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/yttp/">Alles über YTTP</a>
