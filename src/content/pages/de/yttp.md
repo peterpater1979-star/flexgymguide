@@ -10,6 +10,8 @@ crumb: "YTTP"
 kicker: "Anbieter: Boutique-Studio"
 ---
 
+<div class="fotobanner smal foto-yttp" role="img" aria-label="Reformer Pilates"></div>
+
 YTTP ist eine deutsche Boutique-Studio-Kette für Reformer Pilates und Strength, ein Functional-Fitness-Training mit Gewichten. Dazu gibt es Pilates- und Barre-Kurse und eine Academy für Ausbildungen. Du buchst Kurse mit einer Membership, mit Punktekarten oder einzeln.
 
 <h2 id="kurz">Kurz und knapp</h2>

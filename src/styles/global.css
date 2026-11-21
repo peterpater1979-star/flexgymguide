@@ -139,6 +139,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-saints-stars { --foto: url(/img/foto/saints-stars.jpg); }
 .foto-rostudios { --foto: url(/img/foto/rostudios.jpg); }
 .foto-rostudios-reformer { --foto: url(/img/foto/rostudios-reformer.jpg); }
+.foto-yttp { --foto: url(/img/foto/yttp.jpg); background-position: center 35%; }
 .foto-go-health-clubs { --foto: url(/img/foto/go-health-clubs.jpg); }
 .foto-dutch-gym { --foto: url(/img/foto/dutch-gym.jpg); }
 .foto-fit20 { --foto: url(/img/foto/fit20.jpg); background-position: center 30%; }
