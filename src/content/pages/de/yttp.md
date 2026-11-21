@@ -73,9 +73,19 @@ Weitere Studios und neue Eröffnungen siehst du auf der Website von YTTP. Die St
 - **Einzelstunde:** 18 €, unverbindlich und flexibel.
 - **Power Passes:** Pakete mit 4 Kursen für 69 €, 8 Kursen für 129 €, 12 Kursen für 169 € und 24 Kursen für 299 €.
 
-<h2 id="kuendigen">Kündigen</h2>
+<h2 id="kuendigen">Kündigen und Stornieren</h2>
 
-Die Memberships S, M und L sind monatlich kündbar. Willst du dich gar nicht binden, kauf Einzelstunden oder ein Paket. Die genauen Bedingungen stehen in den AGB von YTTP.
+- **Monatlich kündbar:** Die Laufzeit ist unbefristet. Du kündigst mit 7 Tagen Frist zum Monatsende, in Textform (zum Beispiel über das Kontaktformular auf yttp.de) oder direkt in deinem Konto bei bsport, dem Buchungssystem von YTTP.
+- **Jahresmitgliedschaft:** Die Mindestlaufzeit ist 12 Monate. Danach läuft der Vertrag unbefristet weiter, wenn du nicht mindestens 4 Wochen vor Ablauf kündigst.
+- **Außerordentlich kündigen:** Das geht aus wichtigem Grund, zum Beispiel bei dauerhafter Krankheit (mit ärztlichem Attest), bei einem Umzug von mehr als 30 km zum nächsten YTTP-Standort oder wenn dein Studio dauerhaft schließt.
+- **Kurs stornieren:** Bis 12 Stunden vor Kursbeginn ist es kostenlos. Danach, oder wenn du nicht erscheinst, verfällt das Kursguthaben bei Memberships S und M und bei Power Passes.
+- **Pause:** Eine Pause (zum Beispiel bei Krankheit oder Schwangerschaft) ist mit Nachweis und Zustimmung des Studios möglich, höchstens 3 Monate pro Vertragsjahr.
+- **Widerruf:** Für Kurse und Memberships gilt laut AGB kein gesetzliches Widerrufsrecht.
+- **Preise:** YTTP darf den Beitrag laufender Memberships bei Kostensteigerungen um höchstens 5 % pro Jahr anpassen, mit 6 Wochen Vorlauf.
+
+Willst du dich gar nicht binden, kauf Einzelstunden oder Power Passes.
+
+<p class="klein">Quelle: AGB von YTTP, Stand März 2026. Die vollständigen Bedingungen stehen auf yttp.de.</p>
 
 ## Häufige Fragen
 
@@ -89,7 +99,7 @@ Die Memberships kosten 65 € (S), 119 € (M) und 139 € (L) pro Monat. Eine E
 <details>
 <summary>Kann ich bei YTTP ohne Vertrag trainieren?</summary>
 
-Ja. Die Memberships sind monatlich kündbar, und du kannst auch einzelne Kurse oder ein Paket kaufen.
+Ja. Die Memberships sind monatlich kündbar, mit 7 Tagen Frist zum Monatsende, und du kannst auch einzelne Kurse oder Power Passes kaufen.
 
 </details>
 
