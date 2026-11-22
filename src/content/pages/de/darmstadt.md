@@ -51,6 +51,24 @@ Ein Abo auf Credit-Basis für Yoga, Reformer-Pilates und Aerial in der Region, u
 
 </div>
 
+<div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
+
+<h3>all inclusive Fitness</h3>
+
+Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. In Darmstadt: 1 Studio.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
+</div>
+
+</div>
+
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
@@ -95,6 +113,24 @@ McFit hat in Darmstadt ein Studio in der Pallaswiesenstraße, 24 Stunden geöffn
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Darmstadt: 1 Studio.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
 </div>
 
 </div>

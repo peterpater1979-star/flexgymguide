@@ -49,6 +49,24 @@ Ein Abo auf Credit-Basis für Reformer-Pilates, Barre und Yoga, von Pempelfort b
 
 </div>
 
+<div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
+
+<h3>all inclusive Fitness</h3>
+
+Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. In Düsseldorf: 2 Studios: Flingern und Oberbilk.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
+</div>
+
+</div>
+
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
@@ -139,6 +157,52 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Düsseldorf
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
+</div>
+
+</div>
+
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Düsseldorf: 2 Studios (Oberkassel, Wehrhahn).
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
+<div id="yttp" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-yttp-2"><span>Boutique-Studio</span></div>
+
+<h3>YTTP</h3>
+
+Boutique-Studio für Reformer Pilates und Strength. Memberships ab 65 € pro Monat, monatlich kündbar. In Düsseldorf: 1 Reformer-Studio (Unterbilk).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/yttp/">Alles über YTTP</a>
+</div>
+
+</div>
+
+<div id="youpila" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-youpila"><span>Reformer-Studio</span></div>
+
+<h3>YOUPILA</h3>
+
+Studio für Reformer Pilates. Abo 120 € pro Monat, oder Karten ab 25 € pro Kurs. In Düsseldorf: 4 Studios (Reformer und Barre in Unterbilk und Pempelfort).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/youpila/">Alles über YOUPILA</a>
 </div>
 
 </div>

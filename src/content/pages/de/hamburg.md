@@ -207,6 +207,66 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 2 Clubs in Hamburg. De
 
 </div>
 
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Hamburg: 6 Studios.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
+<div id="yttp" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-yttp-2"><span>Boutique-Studio</span></div>
+
+<h3>YTTP</h3>
+
+Boutique-Studio für Reformer Pilates und Strength. Memberships ab 65 € pro Monat, monatlich kündbar. In Hamburg: 2 Reformer-Studios (Neustadt, Ottensen).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/yttp/">Alles über YTTP</a>
+</div>
+
+</div>
+
+<div id="drops-barre" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-drops-barre-2"><span>Boutique-Studio</span></div>
+
+<h3>Drops Barre</h3>
+
+Boutique-Studio für Barre-Kurse. Unlimited ab 89 € pro Monat. In Hamburg: 1 Studio (Barre).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/drops-barre/">Alles über Drops Barre</a>
+</div>
+
+</div>
+
+<div id="youpila" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-youpila"><span>Reformer-Studio</span></div>
+
+<h3>YOUPILA</h3>
+
+Studio für Reformer Pilates. Abo 120 € pro Monat, oder Karten ab 25 € pro Kurs. In Hamburg: 1 Reformer-Studio (Hoheluft).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/youpila/">Alles über YOUPILA</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>

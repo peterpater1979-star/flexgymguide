@@ -49,6 +49,24 @@ Ein Abo auf Credit-Basis für Barre, Yoga, Kampfsport und Tanz, vom Belgischen V
 
 </div>
 
+<div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
+
+<h3>all inclusive Fitness</h3>
+
+Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. In Köln: 6 Studios, u. a. Agnesviertel, Lindenthal und Sülz.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
+</div>
+
+</div>
+
 <div id="mrs-sporty" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
@@ -135,6 +153,52 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 1 Club in Köln. Den P
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
+</div>
+
+</div>
+
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Köln: 4 Studios.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
+<div id="yttp" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-yttp-2"><span>Boutique-Studio</span></div>
+
+<h3>YTTP</h3>
+
+Boutique-Studio für Reformer Pilates und Strength. Memberships ab 65 € pro Monat, monatlich kündbar. In Köln: 4 Studios (Reformer, Pilates und Strength).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/yttp/">Alles über YTTP</a>
+</div>
+
+</div>
+
+<div id="drops-barre" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-drops-barre-2"><span>Boutique-Studio</span></div>
+
+<h3>Drops Barre</h3>
+
+Boutique-Studio für Barre-Kurse. Unlimited ab 89 € pro Monat. In Köln: 1 Studio (Barre).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/drops-barre/">Alles über Drops Barre</a>
 </div>
 
 </div>

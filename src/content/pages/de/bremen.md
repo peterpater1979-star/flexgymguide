@@ -49,6 +49,24 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Bremen ist das Angebot n
 
 </div>
 
+<div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
+
+<h3>all inclusive Fitness</h3>
+
+Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. In Bremen: 6 Studios, u. a. Berliner Freiheit, Vahr und Blumenthal.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
+</div>
+
+</div>
+
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>

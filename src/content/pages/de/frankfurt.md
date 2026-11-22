@@ -129,6 +129,38 @@ Basic-Fit hat in Frankfurt Clubs am Grüneburgweg und an der Europa-Allee. Ab 24
 
 </div>
 
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Frankfurt: 3 Studios.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
+<div id="drops-barre" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-drops-barre-2"><span>Boutique-Studio</span></div>
+
+<h3>Drops Barre</h3>
+
+Boutique-Studio für Barre-Kurse. Unlimited ab 89 € pro Monat. In Frankfurt: 1 Studio (Barre).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/drops-barre/">Alles über Drops Barre</a>
+</div>
+
+</div>
+
 <div id="classy-pilates" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-classy-pilates"><span>Reformer-Studio</span></div>
