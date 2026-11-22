@@ -22,7 +22,7 @@ In Coventry you can book studios across the city with a fitness pass, or join a 
 
 ### ClassPass
 
-[CLASSPASS COVENTRY: studios and areas from Peter's list]. One credit-based membership, cancel anytime.
+A small choice in Coventry, mainly gym visits at independent gyms and Village Gym. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -106,7 +106,10 @@ David Lloyd has a health club in Coventry, with group classes and a pool. Each c
 
 ### Where
 
-[CLASSPASS COVENTRY: where, which studios, standard plan price from Peter's list]
+A small choice, mostly gym visits. You can book a session at Warriors World, at Trident Gym on Bishop Street, which is open 24/7, at Apollo Gym and at Village Gym at Coventry Business Park, which has a pool. There are no boutique studios on ClassPass in Coventry yet, so ClassPass mainly suits you if you also train in other cities, for example in Birmingham.
+
+- Gym visits at independent gyms and Village Gym
+- Your credits also work in Birmingham and the rest of the UK
 
 How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
