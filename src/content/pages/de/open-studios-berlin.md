@@ -85,6 +85,13 @@ In Mitte, Wedding, Charlottenburg, Neukölln, Sonnenallee, Kreuzberg und Friedri
 
 </details>
 
+<details>
+<summary>Ist Open Studios Berlin auf ClassPass?</summary>
+
+Ja, wir haben alle sieben Studios bei ClassPass gefunden: Mitte, Wedding, Charlottenburg, Neukölln, Sonnenallee, Kreuzberg und Friedrichshain.
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/berlin/">Training in Berlin</a>
 <a class="knop knop-rand" href="https://openstudiosberlin.com/">Open Studios Berlin</a>
