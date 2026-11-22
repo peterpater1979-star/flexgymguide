@@ -157,6 +157,14 @@ Step by step: [how to cancel The Gym Group](/uk/cancel-the-gym-group/).
 <li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">3 gyms</span></li>
 <li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">3 gyms</span></li>
 <li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">3 gyms</span></li>
+<li><a href="/uk/edinburgh/"><strong>Edinburgh</strong></a> <span class="klein">5 gyms</span></li>
+<li><a href="/uk/southampton/"><strong>Southampton</strong></a> <span class="klein">4 gyms</span></li>
+<li><a href="/uk/cardiff/"><strong>Cardiff</strong></a> <span class="klein">2 gyms</span></li>
+<li><a href="/uk/reading/"><strong>Reading</strong></a> <span class="klein">2 gyms</span></li>
+<li><a href="/uk/bournemouth/"><strong>Bournemouth</strong></a> <span class="klein">1 gym</span></li>
+<li><a href="/uk/coventry/"><strong>Coventry</strong></a> <span class="klein">1 gym</span></li>
+<li><a href="/uk/milton-keynes/"><strong>Milton Keynes</strong></a> <span class="klein">1 gym</span></li>
+<li><a href="/uk/portsmouth/"><strong>Portsmouth</strong></a> <span class="klein">1 gym</span></li>
 </ul>
 
 <div class="aanbieder">
