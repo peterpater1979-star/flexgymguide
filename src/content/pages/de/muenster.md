@@ -30,6 +30,21 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Münster ein, 
 
 </div>
 
+<div id="classpass" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+<h3>ClassPass</h3>
+
+Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Münster ist das Angebot noch klein: Welche Studios gerade mitmachen, siehst du in der App. Mit demselben Abo trainierst du auch in anderen deutschen Städten und im Ausland. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-muenster">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
+
 <div id="fitness-first" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
@@ -212,6 +227,13 @@ McFit hat einen Flex-Tarif. FitX ist monatlich kündbar. Bei clever fit gibt es 
 <summary>Gibt es in Münster ein Probetraining?</summary>
 
 Ja, bei Fitness First, FitX, clever fit und Kieser ist ein Probetraining kostenlos.
+
+</details>
+
+<details>
+<summary>Gibt es ClassPass in Münster?</summary>
+
+Ja, aber das Angebot ist noch klein. Welche Studios gerade mitmachen, siehst du in der ClassPass-App. Deine Credits kannst du auch in anderen deutschen Städten und im Ausland nutzen.
 
 </details>
 
