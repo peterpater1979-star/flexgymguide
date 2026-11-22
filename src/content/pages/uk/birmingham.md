@@ -32,6 +32,20 @@ Mostly gym access across Birmingham and the West Midlands, plus reformer Pilates
 
 <div class="kolom kaart">
 
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+
+### PureGym
+
+Budget gym chain with 7 gyms in Birmingham, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
+
+<div class="knoppen">
+<a class="knop" href="/uk/puregym/">See PureGym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
 <div class="fotokop foto-the-gym-group"><span>For regular gym-goers</span></div>
 
 ### The Gym Group
@@ -44,20 +58,6 @@ Mostly gym access across Birmingham and the West Midlands, plus reformer Pilates
 
 <div class="knoppen">
 <a class="knop" href="/uk/the-gym-group/">See The Gym Group</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
-
-### PureGym
-
-Budget gym chain with 7 gyms in Birmingham, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
-
-<div class="knoppen">
-<a class="knop" href="/uk/puregym/">See PureGym</a>
 </div>
 
 </div>
@@ -111,24 +111,6 @@ In Birmingham the standard plan costs £49 a month for 36 credits, and you can t
 
 <div class="kolom">
 
-<div id="the-gym-group">
-
-<p class="kicker">Low-cost gym</p>
-
-## The Gym Group in Birmingham
-
-The Gym Group has 9 gyms in Birmingham: Broad Street, Digbeth, Hagley Road, Kings Heath, Kingsbury Road, Perry Barr, Selly Oak, Sheldon and Stechford. Monthly memberships have no contract, and most gyms are open 24/7.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
 <div id="puregym">
 
 <p class="kicker">Budget gym chain</p>
@@ -139,6 +121,24 @@ PureGym has 7 gyms in Birmingham, most open 24/7. No contract, from £18.99 a mo
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="the-gym-group">
+
+<p class="kicker">Low-cost gym</p>
+
+## The Gym Group in Birmingham
+
+The Gym Group has 9 gyms in Birmingham: Broad Street, Digbeth, Hagley Road, Kings Heath, Kingsbury Road, Perry Barr, Selly Oak, Sheldon and Stechford. Monthly memberships have no contract, and most gyms are open 24/7.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>
 
 </div>

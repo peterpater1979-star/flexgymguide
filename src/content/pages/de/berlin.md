@@ -31,20 +31,20 @@ Ein Abo auf Credit-Basis für Studios in ganz Berlin, von Lagree in Mitte bis Bo
 
 </div>
 
-<div class="kolom kaart">
+<div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
 
-### Fitness First
+<h3>all inclusive Fitness</h3>
 
-217 Clubs in Deutschland, 15 in Berlin. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. In Berlin: 1 Studio: Moabit.
 
 <div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
 </div>
 
 <div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
 </div>
 
 </div>
@@ -59,6 +59,24 @@ Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Berlin. 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+
+### Fitness First
+
+217 Clubs in Deutschland, 15 in Berlin. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>
@@ -189,6 +207,38 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 6 Clubs in Berlin. Den
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
+</div>
+
+</div>
+
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Berlin: 9 Studios.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
+<div id="yttp" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-yttp-2"><span>Boutique-Studio</span></div>
+
+<h3>YTTP</h3>
+
+Boutique-Studio für Reformer Pilates und Strength. Memberships ab 65 € pro Monat, monatlich kündbar. In Berlin: 4 Studios (Reformer).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/yttp/">Alles über YTTP</a>
 </div>
 
 </div>

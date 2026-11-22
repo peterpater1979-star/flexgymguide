@@ -32,6 +32,20 @@ Reformer Pilates, F45 and pole fitness, plus gyms across Nottingham. One credit-
 
 <div class="kolom kaart">
 
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+
+### PureGym
+
+Budget gym chain with 6 gyms in Nottingham, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
+
+<div class="knoppen">
+<a class="knop" href="/uk/puregym/">See PureGym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
 <div class="fotokop foto-the-gym-group"><span>For regular gym-goers</span></div>
 
 ### The Gym Group
@@ -44,20 +58,6 @@ Reformer Pilates, F45 and pole fitness, plus gyms across Nottingham. One credit-
 
 <div class="knoppen">
 <a class="knop" href="/uk/the-gym-group/">See The Gym Group</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
-
-### PureGym
-
-Budget gym chain with 6 gyms in Nottingham, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
-
-<div class="knoppen">
-<a class="knop" href="/uk/puregym/">See PureGym</a>
 </div>
 
 </div>
@@ -133,24 +133,6 @@ In Nottingham the standard plan costs £49 a month for 36 credits, and you can t
 
 <div class="kolom">
 
-<div id="the-gym-group">
-
-<p class="kicker">Low-cost gym</p>
-
-## The Gym Group in Nottingham
-
-The Gym Group has 5 gyms in Nottingham: Nottingham City, Radford, Sherwood, Lady Bay and Chilwell. Monthly memberships have no contract, and most gyms are open 24/7.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
 <div id="puregym">
 
 <p class="kicker">Budget gym chain</p>
@@ -161,6 +143,24 @@ PureGym has 6 gyms in Nottingham, most open 24/7. No contract, from £18.99 a mo
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="the-gym-group">
+
+<p class="kicker">Low-cost gym</p>
+
+## The Gym Group in Nottingham
+
+The Gym Group has 5 gyms in Nottingham: Nottingham City, Radford, Sherwood, Lady Bay and Chilwell. Monthly memberships have no contract, and most gyms are open 24/7.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>
 
 </div>

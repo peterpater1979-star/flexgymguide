@@ -11,9 +11,9 @@ kicker: "Country guide United Kingdom"
 
 Working out without a long contract at one gym comes down to two options: a fitness pass like ClassPass, or a gym chain with flexible terms. Here's what suits you, and in which cities.
 
-<h2 id="opties">Four ways to train flexibly</h2>
+<h2 id="opties">Flexible fitness: fitness passes and gym chains</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -40,24 +40,23 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-fitness-first-uk"><span>Gym chain</span></div>
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
 
-### Fitness First
+### PureGym
 
-A membership at one chain with a gym floor and classes. In the UK for example Fitness First, with 25 clubs, 17 of them in London.
+Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on any plan, from £18.99 a month, with classes at most gyms.
 
 
 <div class="infoblok">
-<p class="proef"><span aria-hidden="true">✓</span> Day passes at selected clubs</p>
 <ul>
-<li>Good if you train three times a week or more</li>
-<li>Good if you want one fixed place</li>
-<li>Usually UK only</li>
+<li>Good if you want to train cheaply and often</li>
+<li>No contract: cancel anytime</li>
+<li>Price differs per gym</li>
 </ul>
 </div>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
+<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
 </div>
@@ -88,51 +87,27 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+<div class="fotokop foto-fitness-first-uk"><span>Gym chain</span></div>
 
-### Village Gym
+### Fitness First
 
-34 health clubs at Village Hotels, each with an indoor pool, a sauna and over 100 classes a week. Each club sets its own price.
+A membership at one chain with a gym floor and classes. In the UK for example Fitness First, with 25 clubs, 17 of them in London.
 
 
 <div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Day passes at selected clubs</p>
 <ul>
-<li>Good if you want a gym and a pool in one place</li>
-<li>Peak or Off Peak membership</li>
-<li>12-month or Flexible term</li>
+<li>Good if you train three times a week or more</li>
+<li>Good if you want one fixed place</li>
+<li>Usually UK only</li>
 </ul>
 </div>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
+<a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
 </div>
 
 </div>
-
-</div>
-
-<div id="steden">
-
-## Cities
-
-<ul class="stedenlijst">
-<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · Anytime Fitness · David Lloyd · Virgin Active</span></li>
-<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness · Village Gym · David Lloyd · Virgin Active</span></li>
-<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · David Lloyd</span></li>
-<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd · Virgin Active</span></li>
-<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Virgin Active</span></li>
-</ul>
-
-</div>
-
-<h2 id="other">Other gyms</h2>
-
-<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -182,29 +157,6 @@ More than 100 health clubs with an indoor pool and classes, and at many clubs te
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
-
-### PureGym
-
-Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on any plan, from £18.99 a month, with classes at most gyms.
-
-
-<div class="infoblok">
-<ul>
-<li>Good if you want to train cheaply and often</li>
-<li>No contract: cancel anytime</li>
-<li>Price differs per gym</li>
-</ul>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
 <div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
 
 ### Anytime Fitness
@@ -225,6 +177,65 @@ Small gyms open 24/7, including in London and Manchester. Each club sets its own
 </div>
 
 </div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+
+### Village Gym
+
+35 health clubs at Village Hotels, each with an indoor pool, a sauna and over 100 classes a week. Each club sets its own price.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you want a gym and a pool in one place</li>
+<li>Peak or Off Peak membership</li>
+<li>12-month or Flexible term</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
+</div>
+
+</div>
+
+</div>
+
+<div id="steden">
+
+## Cities
+
+<h3 class="steden-kop">Big cities</h3>
+
+<ul class="stedenlijst">
+<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · David Lloyd</span></li>
+<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · Anytime Fitness · David Lloyd · Virgin Active</span></li>
+<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness · Village Gym · David Lloyd · Virgin Active</span></li>
+<li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Virgin Active</span></li>
+</ul>
+
+<h3 class="steden-kop">More cities</h3>
+
+<ul class="stedenlijst stedenlijst-kort">
+<li><a href="/uk/bournemouth/"><strong>Bournemouth</strong></a></li>
+<li><a href="/uk/brighton/"><strong>Brighton</strong></a></li>
+<li><a href="/uk/cardiff/"><strong>Cardiff</strong></a></li>
+<li><a href="/uk/coventry/"><strong>Coventry</strong></a></li>
+<li><a href="/uk/edinburgh/"><strong>Edinburgh</strong></a></li>
+<li><a href="/uk/leicester/"><strong>Leicester</strong></a></li>
+<li><a href="/uk/milton-keynes/"><strong>Milton Keynes</strong></a></li>
+<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a></li>
+<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a></li>
+<li><a href="/uk/portsmouth/"><strong>Portsmouth</strong></a></li>
+<li><a href="/uk/reading/"><strong>Reading</strong></a></li>
+<li><a href="/uk/southampton/"><strong>Southampton</strong></a></li>
+</ul>
 
 </div>
 

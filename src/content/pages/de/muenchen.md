@@ -31,20 +31,20 @@ Ein Abo auf Credit-Basis für Reformer-Pilates, Indoor-Cycling und Yoga, vor all
 
 </div>
 
-<div class="kolom kaart">
+<div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
 
-### Fitness First
+<h3>all inclusive Fitness</h3>
 
-217 Clubs in Deutschland, 8 in München. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. In München: 11 Studios, u. a. Giesing, Pasing und Schwabing.
 
 <div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
 </div>
 
 <div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
 </div>
 
 </div>
@@ -59,6 +59,24 @@ Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in München
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+
+### Fitness First
+
+217 Clubs in Deutschland, 8 in München. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>
@@ -157,6 +175,52 @@ Basic-Fit hat in München Clubs in der Marsstraße und der Moosacher Straße. Ab
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In München: 7 Studios.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
+<div id="drops-barre" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-drops-barre-2"><span>Boutique-Studio</span></div>
+
+<h3>Drops Barre</h3>
+
+Boutique-Studio für Barre-Kurse. Unlimited ab 89 € pro Monat. In München: 1 Studio (Barre).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/drops-barre/">Alles über Drops Barre</a>
+</div>
+
+</div>
+
+<div id="body-and-soul" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Fitnessclub</span></div>
+
+<h3>body + soul</h3>
+
+Fitnessclubs mit Geräten und Kursen, in manchen Centern mit Sauna oder Pool. Den Monatspreis erfährst du im Center. In München: 9 Centers.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/body-and-soul/">Alles über body + soul</a>
 </div>
 
 </div>

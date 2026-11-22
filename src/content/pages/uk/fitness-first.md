@@ -146,7 +146,7 @@ How to cancel online, what leaving early costs and how freezing works: [Cancel F
 <li><strong>Bath</strong> <span class="klein">1 club</span></li>
 <li><strong>Bedford</strong> <span class="klein">1 club</span></li>
 <li><strong>Jersey</strong> <span class="klein">St Helier, 1 club</span></li>
-<li><strong>Milton Keynes</strong> <span class="klein">1 club</span></li>
+<li><a href="/uk/milton-keynes/"><strong>Milton Keynes</strong></a> <span class="klein">1 club</span></li>
 <li><strong>Solihull</strong> <span class="klein">near Birmingham, 1 club</span></li>
 <li><strong>St Albans</strong> <span class="klein">1 club</span></li>
 <li><strong>Wigan</strong> <span class="klein">near Manchester, 1 club</span></li>

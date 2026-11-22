@@ -1,7 +1,7 @@
 ---
 title: "Village Gym: health clubs with a pool, prices and contracts in the UK"
 path: "/uk/village-gym/"
-description: "Everything about Village Gym in the UK: 34 health clubs at Village Hotels with an indoor pool, sauna and over 100 classes a week, Peak and Off Peak memberships, 12-month or 3-month terms, freezing and cancelling."
+description: "Everything about Village Gym in the UK: 35 health clubs at Village Hotels with an indoor pool, sauna and over 100 classes a week, Peak and Off Peak memberships, 12-month or 3-month terms, freezing and cancelling."
 lang: en
 land: uk
 byline: "Updated November 2026"
@@ -11,14 +11,14 @@ kicker: "Provider: health club"
 
 <div class="fotobanner smal foto-village-gym" role="img" aria-label="Indoor swimming pool"></div>
 
-Village Gym is a chain of 34 health clubs at Village Hotels across the UK. Every club has a gym floor, a heated indoor pool, a sauna and a steam room, and more than 100 group classes a week. You choose a Peak or Off Peak membership, with a 12-month agreement or a shorter flexible term. Each club sets its own prices.
+Village Gym is a chain of 35 health clubs at Village Hotels across the UK. Every club has a gym floor, a heated indoor pool, a sauna and a steam room, and more than 100 group classes a week. You choose a Peak or Off Peak membership, with a 12-month agreement or a shorter flexible term. Each club sets its own prices.
 
 <h2 id="summary">At a glance</h2>
 
 | | Village Gym |
 | --- | --- |
 | **Type** | Health club with gym, pool and spa, at a Village Hotel |
-| **Clubs** | 34 in England, Scotland and Wales, including Manchester, Liverpool, Leeds, Newcastle, Nottingham, Glasgow and Bristol |
+| **Clubs** | 35 in England, Scotland and Wales, including Manchester, Liverpool, Leeds, Newcastle, Nottingham, Glasgow, Bristol, Edinburgh, Cardiff and Reading |
 | **Price** | Set per club: you see it when you choose your club online |
 | **Memberships** | Peak or Off Peak, each as Results (12 months) or Flexible (3 months) |
 | **Contract** | 12-month agreement, or at least 3 months plus 90 days' notice |
