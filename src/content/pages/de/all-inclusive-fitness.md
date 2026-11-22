@@ -2,7 +2,7 @@
 title: "all inclusive Fitness: Studios, Leistungen und Probetraining"
 seoTitle: "all inclusive Fitness: Studios, Leistungen und Probetraining"
 path: "/de/all-inclusive-fitness/"
-description: "Alles über all inclusive Fitness (AI Fitness): ALL IN für 49,95 € im Monat, monatlich kündbar, über 200 Studios, Leistungen wie Kurse, Sauna und Getränke, Probetraining."
+description: "Alles über all inclusive Fitness (AI Fitness): ALL IN ab 34,95 € im Monat, flexibel für 49,95 €, über 200 Studios, Leistungen wie Kurse, Sauna und Getränke, Probetraining."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -25,8 +25,8 @@ all inclusive Fitness, kurz AI Fitness, ist eine Fitnesskette mit über 200 Stud
 | --- | --- |
 | **Art** | Fitnesskette mit eigenen Studios |
 | **Studios** | Über 200 in Deutschland |
-| **Preis** | ALL IN 49,95 € im Monat, einmalig 45 € Starterpaket |
-| **Vertrag** | Mindestlaufzeit 1 Monat, danach jederzeit mit einem Monat Frist kündbar |
+| **Preis** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 €, plus einmalig 45 € Starterpaket |
+| **Vertrag** | Mindestlaufzeit 1, 12 oder 23 Monate, danach jederzeit mit einem Monat Frist kündbar |
 | **Öffnungszeiten** | Je nach Studio, meist täglich bis Mitternacht |
 | **Ausstattung** | Je nach Studio, zum Beispiel Freihanteln, Kursraum, Vibrationsplatte, Sauna, Solarium und Massage |
 | **Ausprobieren** | Probetraining online buchbar |
@@ -50,21 +50,23 @@ Schau vor dem Vertrag auf die Seite deines Studios: Dort stehen Öffnungszeiten,
 
 <h2 id="preise">Preis, Laufzeit und Kündigung</h2>
 
-| Tarif | Preis | Laufzeit |
+| Tarif | Preis pro Monat | Mindestlaufzeit |
 | --- | --- | --- |
-| ALL IN | 49,95 € im Monat | Mindestlaufzeit 1 Monat, danach monatlich kündbar |
-| Starterpaket | 45 € einmalig | – |
+| ALL IN, monatlich kündbar | 49,95 € | 1 Monat |
+| ALL IN 12 Monate | 39,95 € | 12 Monate |
+| ALL IN 23 Monate | 34,95 € | 23 Monate |
+| Starterpaket | 45 € einmalig, bei allen Tarifen | – |
 
-Das Starterpaket umfasst Transpondergebühr, Aktivierung, Einweisung und Trainingsplan. Service-, Hygiene- und Energiepauschale sind im Monatspreis enthalten. Der Vertrag beginnt am Ersten des Monats nach dem Abschluss. Für die Zeit dazwischen zahlst du anteilig den Monatsbeitrag (Vorabnutzungsgebühr).
+Alle Tarife enthalten alle Leistungen, nur die Laufzeit und der Preis unterscheiden sich. Das Starterpaket umfasst Transpondergebühr, Aktivierung, Einweisung und Trainingsplan. Service-, Hygiene- und Energiepauschale sind im Monatspreis enthalten. Der Vertrag beginnt am Ersten des Monats nach dem Abschluss. Für die Zeit dazwischen zahlst du anteilig den Monatsbeitrag (Vorabnutzungsgebühr).
 
-**Was ist im ALL IN Tarif enthalten?**
+**Was ist in jedem Tarif enthalten?**
 
 - Ausdauer-, Kraft-, Freihantel-, Functional-, Zirkel- und Vibrationstraining, dazu HYROX und eine Ladies Area
 - Kurse, Duschen, Wasser, Mineralgetränke und Parken
 - Training in über 200 Studios, persönliche Trainingsbetreuung, Bodycheck und Ernährungsberatung
 - Massageliege, Solarium und Sauna (Kurse, Solarium, Sauna und Wellness nicht an allen Standorten gleichermaßen, Solarium erst ab 18 Jahren)
 
-**Vertrag und Kündigung:** Nach der Mindestlaufzeit von einem Monat verlängert sich der Vertrag auf unbestimmte Zeit, wenn du nicht spätestens einen Monat vor Ablauf kündigst. Danach kannst du jederzeit mit einer Frist von einem Monat kündigen. Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
+**Vertrag und Kündigung:** Nach der Mindestlaufzeit (1, 12 oder 23 Monate) verlängert sich der Vertrag auf unbestimmte Zeit, wenn du nicht spätestens einen Monat vor Ablauf kündigst. Danach kannst du jederzeit mit einer Frist von einem Monat kündigen. Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
 
 <p class="klein">Quelle: <a href="https://www.ai-fitness.de/preise">ai-fitness.de/preise</a> (November 2026). Preise und Bedingungen können je nach Studio abweichen. Prüfe sie vor dem Abschluss.</p>
 
@@ -131,14 +133,14 @@ Das hängt vom Studio ab. In Münster sind die Studios zum Beispiel von Montag b
 <details>
 <summary>Was kostet all inclusive Fitness im Monat?</summary>
 
-Der ALL IN Tarif kostet 49,95 € im Monat, dazu kommt einmalig das Starterpaket für 45 €. Service-, Hygiene- und Energiepauschale sind im Monatspreis enthalten.
+Monatlich kündbar kostet ALL IN 49,95 €. Mit 12 Monaten Mindestlaufzeit sind es 39,95 €, mit 23 Monaten 34,95 €. Dazu kommt einmalig das Starterpaket für 45 €. Alle Tarife enthalten alle Leistungen.
 
 </details>
 
 <details>
 <summary>Kann ich monatlich kündigen?</summary>
 
-Ja. Die Mindestlaufzeit beträgt 1 Monat. Danach verlängert sich der Vertrag auf unbestimmte Zeit und ist jederzeit mit einer Frist von einem Monat kündbar.
+Ja, mit dem Tarif ALL IN (49,95 € im Monat) beträgt die Mindestlaufzeit 1 Monat. Die Tarife mit 12 oder 23 Monaten sind günstiger, aber länger gebunden. Nach der Mindestlaufzeit ist der Vertrag jederzeit mit einer Frist von einem Monat kündbar.
 
 </details>
 

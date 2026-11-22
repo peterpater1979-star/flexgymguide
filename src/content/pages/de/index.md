@@ -333,7 +333,7 @@ Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. 113 Studios 
 
 ### all inclusive Fitness
 
-Über 200 Studios in Deutschland, Kurse, Getränke und je nach Studio Sauna inklusive. 49,95 € im Monat, monatlich kündbar.
+Über 200 Studios in Deutschland, Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €.
 
 <div class="infoblok">
 <p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>

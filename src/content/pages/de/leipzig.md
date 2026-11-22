@@ -234,7 +234,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio (Mitte) |
-| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | ALL IN 49,95 €, plus einmalig 45 € Starterpaket | Monatlich kündbar | 1 Studio: Südvorstadt |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 €, plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio: Südvorstadt |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
