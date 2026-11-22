@@ -1,5 +1,5 @@
 ---
-// Keuzehulp "Sportpas of sportschool?" in drie vragen (stad, hoe vaak, wat telt het zwaarst).
+// Keuzehulp "Sportpas of sportschool?" in drie vragen (stad, hoe vaak, wat telt het zwaarst). Op een stadspagina is de stad al bekend: dan vervalt vraag 1 en blijven er twee vragen.
 // Staat in de paginakop van de landenhomepages en stadspagina's van ES, FR, DE, NL, BE, PT en UK, zodat er op de telefoon zonder scrollen een duidelijke knop in beeld is.
 // Neutraal (afspraak Peter 13-11): het advies noemt een SOORT (sportpas, sportschool of allebei), nooit één merk als winnaar.
 // Links gaan alleen naar onze eigen overzichten (stadspagina met alle aanbieders, sportscholen zonder contract), geen externe of /go/-links, geen prijzen.
@@ -123,18 +123,24 @@ const id = 'keuzehulp';
   <summary><span class="kh-titel">{t.open}</span> <span class="kh-sub">{t.openKlein} <span aria-hidden="true">→</span></span></summary>
   <form class="kh-vragen" onsubmit="return false">
     <div class="kh-uitleg">{t.uitleg.map(([kop, tekst]) => <p><strong>{kop}:</strong> {tekst}</p>)}</div>
-    <label class="kh-vraag" for={`${id}-stad`}>1. {t.v1}</label>
-    <select id={`${id}-stad`} name="stad">
-      <option value="" disabled selected={!stad}>{t.kies}</option>
-      {steden.map((s) => <option value={s.slug} selected={s.slug === stad}>{s.naam}</option>)}
-      <option value="ander">{t.ander}</option>
-    </select>
+    {stad ? (
+      <input type="hidden" name="stad" value={stad} />
+    ) : (
+      <>
+        <label class="kh-vraag" for={`${id}-stad`}>1. {t.v1}</label>
+        <select id={`${id}-stad`} name="stad">
+          <option value="" disabled selected>{t.kies}</option>
+          {steden.map((s) => <option value={s.slug}>{s.naam}</option>)}
+          <option value="ander">{t.ander}</option>
+        </select>
+      </>
+    )}
     <fieldset>
-      <legend class="kh-vraag">2. {t.v2}</legend>
+      <legend class="kh-vraag">{stad ? 1 : 2}. {t.v2}</legend>
       <div class="kh-keuzes">{t.f.map((x, i) => <label><input type="radio" name="vaak" value={i} /><span>{x}</span></label>)}</div>
     </fieldset>
     <fieldset>
-      <legend class="kh-vraag">3. {t.v3}</legend>
+      <legend class="kh-vraag">{stad ? 2 : 3}. {t.v3}</legend>
       <div class="kh-keuzes">{t.p.map((x, i) => <label><input type="radio" name="prio" value={i} /><span>{x}</span></label>)}</div>
     </fieldset>
     <div class="kh-advies" aria-live="polite" hidden></div>
