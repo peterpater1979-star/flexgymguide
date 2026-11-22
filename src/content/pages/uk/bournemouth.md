@@ -22,7 +22,7 @@ In Bournemouth you can book studios across the city with a fitness pass, or join
 
 ### ClassPass
 
-[CLASSPASS BOURNEMOUTH: studios and areas from Peter's list]. One credit-based membership, cancel anytime.
+Yoga in Boscombe, reformer Pilates in Winton, martial arts and gyms across Bournemouth, Poole and Christchurch. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -106,7 +106,10 @@ David Lloyd has a health club in nearby Poole, with group classes and a pool. Ea
 
 ### Where
 
-[CLASSPASS BOURNEMOUTH: where, which studios, standard plan price from Peter's list]
+A small choice, spread over Bournemouth, Poole and Christchurch. Yoga Lounge on Christchurch Road has hot, warm and aerial yoga, RestAura Reformer in Winton has reformer Pilates, and Wassmuffin Martial Arts Academy is in Boscombe. BCUK runs outdoor bootcamps in Queen's Park and Whitecliff Park. For gym visits there are Village Gym on Deansleigh Road, Bayside Fitness Club, SoCal Gym and Sport BU at Bournemouth University in Poole, The Junction in Broadstone, Anytime Fitness and Snap Fitness in Christchurch, and New Milton Health and Leisure.
+
+- Yoga and reformer Pilates in Boscombe and Winton
+- Gym visits in Bournemouth, Poole, Broadstone and Christchurch
 
 How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
