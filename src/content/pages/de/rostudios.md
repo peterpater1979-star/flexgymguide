@@ -2,7 +2,7 @@
 title: "Rostudios: Indoor-Cycling und Reformer in Deutschland"
 seoTitle: "Rostudios: Rocycle und Roform, Preise und Studios"
 path: "/de/rostudios/"
-description: "Alles über Rostudios in Deutschland: Rocycle (Indoor-Cycling) und Roform (Reformer) in Berlin, Köln, München, Hamburg, Frankfurt und Düsseldorf. Unlimited, Einzelkurse und Kündigen."
+description: "Alles über Rostudios in Deutschland: Rocycle (Indoor-Cycling) und Roform (Reformer) in Berlin, Köln, München, Hamburg, Frankfurt, Düsseldorf und Münster. Unlimited, Einzelkurse und Kündigen."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -12,14 +12,14 @@ kicker: "Anbieter: Boutique-Studio"
 
 <div class="fotobanner smal foto-rostudios-reformer" role="img" aria-label="Reformer"></div>
 
-Rostudios ist ein Boutique-Studio mit Standorten in den Niederlanden, Belgien und Deutschland und zwei Kursarten: Rocycle, Indoor-Cycling zu Musik, und Roform, ein Kurs auf dem Reformer, ähnlich wie Pilates. In Deutschland gibt es Studios in Berlin, Köln, Hamburg, Düsseldorf, Frankfurt und München. Du buchst alles in der App von Rostudios, mit einer Unlimited-Mitgliedschaft oder pro Kurs.
+Rostudios ist ein Boutique-Studio mit Standorten in den Niederlanden, Belgien und Deutschland und zwei Kursarten: Rocycle, Indoor-Cycling zu Musik, und Roform, ein Kurs auf dem Reformer, ähnlich wie Pilates. In Deutschland gibt es Studios in Berlin, Köln, Hamburg, Düsseldorf, Frankfurt, München und Münster. Du buchst alles in der App von Rostudios, mit einer Unlimited-Mitgliedschaft oder pro Kurs.
 
 <h2 id="kurz">Kurz und knapp</h2>
 
 | | Rostudios |
 | --- | --- |
 | **Art** | Boutique-Studio mit Kursen: Indoor-Cycling (Rocycle) und Reformer (Roform) |
-| **Studios** | Fünf in Berlin, je zwei in Köln, Hamburg, Düsseldorf und München, dazu Frankfurt |
+| **Studios** | Fünf in Berlin, je zwei in Köln, Hamburg, Düsseldorf und München, dazu Frankfurt und Münster |
 | **Unlimited** | 79 € pro Monat, ein Kurs pro Tag, 12 Monate Laufzeit |
 | **Pro Kurs** | <span class="ja" aria-hidden="true">✓</span> Einzelkurse und Kurspakete, Preis in der App |
 
@@ -65,8 +65,9 @@ Ein Roform-Kurs dauert 50 Minuten auf dem Reformer. Du trainierst ruhig und im T
 | **Frankfurt Bornheim** | Berger Straße 211 | Roform |
 | **Düsseldorf Flingern-Nord** | Ackerstraße 133 | Roform |
 | **Düsseldorf Pempelfort** | Nordstraße 27 | Roform |
+| **[Münster City](/de/muenster/)** | Aegidiistraße 30 | Roform |
 
-Bald kommen Roform-Studios in Berlin-Schöneberg, Köln-Lindenthal, Stuttgart und Münster dazu. Den aktuellen Stand siehst du auf der Website von Rostudios.
+Bald kommen Roform-Studios in Berlin-Schöneberg, Köln-Lindenthal und Stuttgart dazu. Den aktuellen Stand siehst du auf der Website von Rostudios.
 
 <h2 id="preise">Unlimited und Einzelkurse</h2>
 
@@ -98,21 +99,14 @@ Ja, wenn du pro Kurs zahlst, mit Einzelkursen oder einem Paket. Nur Unlimited ha
 <details>
 <summary>Gibt es Rocycle in Deutschland?</summary>
 
-Ja, in Berlin (Mitte, Friedrichshain und Ku’damm), in Köln am Friesenplatz, in Hamburg-Hoheluft und in der Münchner Maxvorstadt. In Frankfurt und Düsseldorf gibt es nur Roform.
-
-</details>
-
-<details>
-<summary>Ist Rostudios bei Urban Sports Club?</summary>
-
-Ja, zum Beispiel Hamburg Altona und München Schwabing. In Hamburg buchst du mit Classic 4 Kurse pro Monat, mit Premium und Max 8. Welche Studios gerade dabei sind, siehst du in der App von Urban Sports Club. Lies auch [Alles über Urban Sports Club](/de/urban-sports-club/).
+Ja, in Berlin (Mitte, Friedrichshain und Ku’damm), in Köln am Friesenplatz, in Hamburg-Hoheluft und in der Münchner Maxvorstadt. In Frankfurt, Düsseldorf und Münster gibt es nur Roform.
 
 </details>
 
 <details>
 <summary>Ist Rostudios auf ClassPass?</summary>
 
-Auf ClassPass haben wir Rostudios in Düsseldorf (Flingern-Nord und Pempelfort) und in Köln am Friesenplatz gefunden.
+Auf ClassPass haben wir Rostudios in Düsseldorf (Flingern-Nord und Pempelfort), in Köln am Friesenplatz und in Münster City gefunden.
 
 </details>
 

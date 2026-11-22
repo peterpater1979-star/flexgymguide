@@ -109,45 +109,42 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 
 </div>
 
-<h2 id="ueberblick">Alle Anbieter auf einen Blick</h2>
-
-<p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
-
-| Anbieter | Art | Preis pro Monat | Laufzeit | Standorte |
-| --- | --- | --- | --- | --- |
-| **[ClassPass](/de/classpass/)** | Sportpass mit Credits | Standard-Abo 59 € (42 Credits) | Jederzeit kündbar | In sehr vielen deutschen Städten, das meiste Angebot in den Großstädten. In 31 Ländern nutzbar |
-| **[Urban Sports Club](/de/urban-sports-club/)** | Sportpass mit festem Preis | Classic 75 € in Berlin, ab 45 € (Essential) | Monatlich kündbar, 3 Tage vorher | Viele deutsche Städte, auch in 5 weiteren Ländern |
-| **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | Über 230 Studios in Europa |
-| **[clever fit](/de/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Über 500 Studios in Deutschland und Europa |
-| **[FitX](/de/fitx/)** | Günstige Fitnesskette | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 114 Studios in Deutschland |
-| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 217 Clubs in Deutschland |
-| **[JOHN REED](/de/john-reed/)** | Fitnessclub | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 47 Clubs in 8 Ländern |
-| **[Basic-Fit](/de/basic-fit/)** | Günstige Fitnesskette | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | Fast 100 Clubs in Deutschland |
-| **[EASYFITNESS](/de/easyfitness/)** | Fitnesskette | Ab 27,99 € | Flex, 12 oder 24 Monate | Über 200 Studios in Deutschland |
-| **[Mrs.Sporty](/de/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Über 250 Clubs in Europa |
-| **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 14 Clubs in sechs Städten |
-| **[Rostudios](/de/rostudios/)** | Boutique-Studio (Indoor-Cycling und Reformer) | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs | 14 Studios: Berlin (5), Köln, Hamburg, Düsseldorf, München (je 2), Frankfurt |
-| **[YTTP](/de/yttp/)** | Boutique-Studio (Reformer Pilates und Strength) | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs | 11 Studios: Berlin (4), Köln (4), Hamburg (2), Düsseldorf |
-| **[Drops Barre](/de/drops-barre/)** | Boutique-Studio (Barre) | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs | 4 Studios: München, Frankfurt, Köln, Hamburg |
-| **[Kieser](/de/kieser-training/)** | Krafttraining an Maschinen, betreut | 89 € (12 Monate) oder 69 € (24 Monate), plus Einführung ab 199 € | 12 oder 24 Monate | 113 Studios in Deutschland |
-
-<p class="meer-aanbieders">Und auch: Holmes Place, clever fit, FitX, JOHN REED, Basic-Fit, EASYFITNESS, Mrs.Sporty, Rostudios, YTTP, Drops Barre und Kieser. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
-
 <div id="steden">
 
 ## Städte
 
+<h3 class="steden-kop">Große Städte</h3>
+
 <ul class="stedenlijst">
 <li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios · YTTP · Kieser</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · YOUPILA · Rostudios · Drops Barre · YTTP · Kieser</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · clever fit · Rostudios · Drops Barre · Kieser</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios · Drops Barre · YTTP · Kieser</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios · Drops Barre · Kieser</span></li>
-<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · clever fit · Kieser</span></li>
-<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit · Kieser</span></li>
 <li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · JOHN REED · YOUPILA · Rostudios · YTTP · Kieser</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · clever fit · Rostudios · Drops Barre · Kieser</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · YOUPILA · Rostudios · Drops Barre · YTTP · Kieser</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios · Drops Barre · YTTP · Kieser</span></li>
 <li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · JOHN REED · clever fit · Kieser</span></li>
-<li><a href="/de/dortmund/"><strong>Dortmund</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · JOHN REED · Kieser</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios · Drops Barre · Kieser</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit · Kieser</span></li>
+</ul>
+
+<h3 class="steden-kop">Weitere Städte</h3>
+
+<ul class="stedenlijst stedenlijst-kort">
+<li><a href="/de/augsburg/"><strong>Augsburg</strong></a></li>
+<li><a href="/de/bochum/"><strong>Bochum</strong></a></li>
+<li><a href="/de/bonn/"><strong>Bonn</strong></a></li>
+<li><a href="/de/bremen/"><strong>Bremen</strong></a></li>
+<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
+<li><a href="/de/dresden/"><strong>Dresden</strong></a></li>
+<li><a href="/de/duisburg/"><strong>Duisburg</strong></a></li>
+<li><a href="/de/essen/"><strong>Essen</strong></a></li>
+<li><a href="/de/hannover/"><strong>Hannover</strong></a></li>
+<li><a href="/de/karlsruhe/"><strong>Karlsruhe</strong></a></li>
+<li><a href="/de/mannheim/"><strong>Mannheim</strong></a></li>
+<li><a href="/de/moenchengladbach/"><strong>Mönchengladbach</strong></a></li>
+<li><a href="/de/muenster/"><strong>Münster</strong></a></li>
+<li><a href="/de/nuernberg/"><strong>Nürnberg</strong></a></li>
+<li><a href="/de/wiesbaden/"><strong>Wiesbaden</strong></a></li>
 </ul>
 
 </div>

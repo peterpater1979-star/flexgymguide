@@ -2,7 +2,7 @@
 title: "Rostudios: indoor cycling en reformer in België"
 seoTitle: "Rostudios Brussel en Antwerpen: prijzen en studio's"
 path: "/be/rostudios/"
-description: "Alles over Rostudios in België: Rocycle (indoor cycling) en Roform (reformer) in Brussel en Antwerpen. Unlimited, losse lessen en Urban Sports Club."
+description: "Alles over Rostudios in België: Rocycle (indoor cycling) en Roform (reformer) in Brussel en Antwerpen. Unlimited, losse lessen en opzeggen."
 lang: nl
 land: be
 byline: "Bijgewerkt in november 2026"
@@ -87,13 +87,6 @@ Ja, als je per les betaalt met losse lessen of een pakket. Alleen Unlimited heef
 <summary>Waarom is Antwerpen goedkoper?</summary>
 
 In Antwerpen geeft Rostudios alleen Roform-lessen op de reformer. Unlimited geldt daar alleen voor Roform en kost € 49 per maand.
-
-</details>
-
-<details>
-<summary>Zit Rostudios in Urban Sports Club?</summary>
-
-Ja, Antwerpen Theaterbuurt. Met Premium of Max boek je daar tot 8 lessen per maand, met Essential en Classic niet. Lees ook [Alles over Urban Sports Club](/be/urban-sports-club/).
 
 </details>
 

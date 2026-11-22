@@ -138,7 +138,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 
 <ul class="stedenlijst">
 <li><strong>Aalen</strong> <span class="klein">1 Club</span></li>
-<li><strong>Augsburg</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/augsburg/"><strong>Augsburg</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Backnang</strong> <span class="klein">1 Club</span></li>
 <li><strong>Bad Berka</strong> <span class="klein">1 Club</span></li>
 <li><strong>Bad Boll</strong> <span class="klein">1 Club</span></li>
@@ -150,9 +150,9 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Bietigheim-Bissingen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Blieskastel</strong> <span class="klein">1 Club</span></li>
 <li><strong>Blomberg</strong> <span class="klein">1 Club</span></li>
-<li><strong>Bonn</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/bonn/"><strong>Bonn</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Braunschweig</strong> <span class="klein">1 Club</span></li>
-<li><strong>Bremen</strong> <span class="klein">3 Clubs</span></li>
+<li><a href="/de/bremen/"><strong>Bremen</strong></a> <span class="klein">3 Clubs</span></li>
 <li><strong>Bretten</strong> <span class="klein">1 Club</span></li>
 <li><strong>Bünde</strong> <span class="klein">1 Club</span></li>
 <li><strong>Cottbus</strong> <span class="klein">1 Club</span></li>
@@ -160,8 +160,8 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Datteln</strong> <span class="klein">1 Club</span></li>
 <li><strong>Detmold</strong> <span class="klein">1 Club</span></li>
 <li><strong>Dorsten</strong> <span class="klein">1 Club</span></li>
-<li><strong>Dresden</strong> <span class="klein">3 Clubs</span></li>
-<li><strong>Essen</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/dresden/"><strong>Dresden</strong></a> <span class="klein">3 Clubs</span></li>
+<li><a href="/de/essen/"><strong>Essen</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Esslingen am Neckar</strong> <span class="klein">3 Clubs</span></li>
 <li><strong>Ettlingen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Fellbach</strong> <span class="klein">1 Club</span></li>
@@ -177,7 +177,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Göppingen</strong> <span class="klein">3 Clubs</span></li>
 <li><strong>Göttingen</strong> <span class="klein">2 Clubs</span></li>
 <li><strong>Hamm</strong> <span class="klein">1 Club</span></li>
-<li><strong>Hannover</strong> <span class="klein">2 Clubs</span></li>
+<li><a href="/de/hannover/"><strong>Hannover</strong></a> <span class="klein">2 Clubs</span></li>
 <li><strong>Heidenheim an der Brenz</strong> <span class="klein">2 Clubs</span></li>
 <li><strong>Heilbronn</strong> <span class="klein">1 Club</span></li>
 <li><strong>Hildesheim</strong> <span class="klein">1 Club</span></li>
@@ -200,13 +200,13 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Ludwigsburg</strong> <span class="klein">1 Club</span></li>
 <li><strong>Magdeburg</strong> <span class="klein">2 Clubs</span></li>
 <li><strong>Mainz</strong> <span class="klein">1 Club</span></li>
-<li><strong>Mannheim</strong> <span class="klein">3 Clubs</span></li>
+<li><a href="/de/mannheim/"><strong>Mannheim</strong></a> <span class="klein">3 Clubs</span></li>
 <li><strong>Marl</strong> <span class="klein">1 Club</span></li>
 <li><strong>Merzig</strong> <span class="klein">2 Clubs</span></li>
-<li><strong>Mönchengladbach</strong> <span class="klein">3 Clubs</span></li>
-<li><strong>Münster</strong> <span class="klein">2 Clubs</span></li>
+<li><a href="/de/moenchengladbach/"><strong>Mönchengladbach</strong></a> <span class="klein">3 Clubs</span></li>
+<li><a href="/de/muenster/"><strong>Münster</strong></a> <span class="klein">2 Clubs</span></li>
 <li><strong>Nordhausen</strong> <span class="klein">1 Club</span></li>
-<li><strong>Nürnberg</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/nuernberg/"><strong>Nürnberg</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Offenbach</strong> <span class="klein">1 Club</span></li>
 <li><strong>Paderborn</strong> <span class="klein">2 Clubs</span></li>
 <li><strong>Pforzheim</strong> <span class="klein">1 Club</span></li>
@@ -233,7 +233,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Wedel</strong> <span class="klein">1 Club</span></li>
 <li><strong>Weiterstadt</strong> <span class="klein">1 Club</span></li>
 <li><strong>Wernigerode</strong> <span class="klein">1 Club</span></li>
-<li><strong>Wiesbaden</strong> <span class="klein">2 Clubs</span></li>
+<li><a href="/de/wiesbaden/"><strong>Wiesbaden</strong></a> <span class="klein">2 Clubs</span></li>
 <li><strong>Winnenden</strong> <span class="klein">1 Club</span></li>
 <li><strong>Wolfenbüttel</strong> <span class="klein">1 Club</span></li>
 <li><strong>Wäschenbeuren</strong> <span class="klein">1 Club</span></li>

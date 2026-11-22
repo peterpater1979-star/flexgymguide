@@ -100,13 +100,6 @@ Rocycle is indoor cycling van 45 minuten op muziek. Roform is een les van 50 min
 </details>
 
 <details>
-<summary>Zit Rostudios in Urban Sports Club?</summary>
-
-Een deel van de studio's wel, bijvoorbeeld Den Haag City. Welke studio's en met welk abonnement, zie je in de app van Urban Sports Club. Lees ook [Alles over Urban Sports Club](/nl/urban-sports-club/).
-
-</details>
-
-<details>
 <summary>Staat Rostudios op ClassPass?</summary>
 
 Op ClassPass vonden we Rostudios Rotterdam City, met Rocycle en Roform.
