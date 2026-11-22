@@ -93,25 +93,31 @@ Schritt für Schritt: [FitX kündigen](/de/fitx-kuendigen/).
 
 FitX hat Studios in diesen Städten aus unserem Ratgeber:
 
-- [Augsburg](/de/augsburg/#fitx): Lechhausen
 - [Berlin](/de/berlin/#fitx): unter anderem Alexanderplatz, Moabit, Schöneberg, Südkreuz und Ku'damm
+- [Düsseldorf](/de/duesseldorf/#fitx): Derendorf, Flingern, Holthausen und Lörick
+- [Hamburg](/de/hamburg/#fitx): Altona, Bahrenfeld, Steilshoop und Flughafen
+- [Leipzig](/de/leipzig/#fitx): Mockau und Neulindenau
+- [München](/de/muenchen/#fitx): Lenbachplatz, Schwabing-Freimann, Neuperlach und Sendling-Westpark
+
+<details class="meer-steden">
+<summary>Weitere 14 Städte anzeigen</summary>
+
+- [Augsburg](/de/augsburg/#fitx): Lechhausen
 - [Bochum](/de/bochum/#fitx): Innenstadt, Riemke, Harpen und Wattenscheid
 - [Bonn](/de/bonn/#fitx): Duisdorf
 - [Bremen](/de/bremen/#fitx): Mitte, Walle und Oslebshausen
 - [Dortmund](/de/dortmund/#fitx): Nordstadt, Phoenix See und Kley
 - [Dresden](/de/dresden/#fitx): Freiberger Straße
 - [Duisburg](/de/duisburg/#fitx): Hafen, Rheinhausen und Hamborn
-- [Düsseldorf](/de/duesseldorf/#fitx): Derendorf, Flingern, Holthausen und Lörick
 - [Essen](/de/essen/#fitx): Nordviertel, Bergerhausen und Limbecker Platz
-- [Hamburg](/de/hamburg/#fitx): Altona, Bahrenfeld, Steilshoop und Flughafen
 - [Hannover](/de/hannover/#fitx): Linden und Vahrenheide
 - [Karlsruhe](/de/karlsruhe/#fitx): Oststadt
-- [Leipzig](/de/leipzig/#fitx): Mockau und Neulindenau
 - [Mannheim](/de/mannheim/#fitx): Almenhof und Käfertal
 - [Mönchengladbach](/de/moenchengladbach/#fitx): Waldhausen und Rheydt
-- [München](/de/muenchen/#fitx): Lenbachplatz, Schwabing-Freimann, Neuperlach und Sendling-Westpark
 - [Münster](/de/muenster/#fitx): Kinderhaus und Berg Fidel
 - [Nürnberg](/de/nuernberg/#fitx): Zabo und Maxfeld
+
+</details>
 
 Alle Studios findest du bei [FitX](https://www.fitx.de/fitnessstudios).
 

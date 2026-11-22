@@ -81,15 +81,21 @@ Bist du unsicher, ob du dranbleibst, ist Flex die sichere Wahl: Du zahlst etwas 
 Basic-Fit hat Clubs in diesen Städten aus unserem Ratgeber:
 
 - [Berlin](/de/berlin/#basic-fit)
-- [Bochum](/de/bochum/#basic-fit)
-- [Bremen](/de/bremen/#basic-fit)
-- [Dortmund](/de/dortmund/#basic-fit)
-- [Essen](/de/essen/#basic-fit)
 - [Frankfurt am Main](/de/frankfurt/#basic-fit)
 - [Hamburg](/de/hamburg/#basic-fit)
 - [Köln](/de/koeln/#basic-fit)
 - [München](/de/muenchen/#basic-fit)
 - [Stuttgart](/de/stuttgart/#basic-fit)
+
+<details class="meer-steden">
+<summary>Weitere 4 Städte anzeigen</summary>
+
+- [Bochum](/de/bochum/#basic-fit)
+- [Bremen](/de/bremen/#basic-fit)
+- [Dortmund](/de/dortmund/#basic-fit)
+- [Essen](/de/essen/#basic-fit)
+
+</details>
 
 Die meisten Clubs liegen in Nordrhein-Westfalen und Norddeutschland. Alle Clubs findest du bei [Basic-Fit](https://www.basic-fit.com/de-de/fitnessstudios-deutschland).
 

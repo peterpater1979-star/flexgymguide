@@ -81,7 +81,8 @@ McFit-Preise und andere Möglichkeiten ohne lange Laufzeit findest du in:
 - [Fitnessstudio ohne Vertrag in Dortmund](/de/fitnessstudio-ohne-vertrag-dortmund/)
 - [Fitnessstudio ohne Vertrag in Darmstadt](/de/fitnessstudio-ohne-vertrag-darmstadt/)
 
-McFit hat außerdem Studios in diesen Städten aus unserem Ratgeber:
+<details class="meer-steden">
+<summary>McFit in 13 weiteren Städten anzeigen</summary>
 
 - [Augsburg](/de/augsburg/#mcfit): Göggingen und Innenstadt
 - [Bochum](/de/bochum/#mcfit): Grumme, Hofstede, Innenstadt und Wattenscheid
@@ -96,6 +97,8 @@ McFit hat außerdem Studios in diesen Städten aus unserem Ratgeber:
 - [Münster](/de/muenster/#mcfit)
 - [Nürnberg](/de/nuernberg/#mcfit): Doos, Gibitzenhof, Gostenhof und Mögeldorf
 - [Wiesbaden](/de/wiesbaden/#mcfit)
+
+</details>
 
 <h2 id="classpass">McFit oder ClassPass?</h2>
 

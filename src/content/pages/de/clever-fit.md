@@ -88,23 +88,29 @@ Schritt für Schritt: [clever fit kündigen](/de/clever-fit-kuendigen/).
 
 clever fit hat Studios in diesen Städten aus unserem Ratgeber:
 
-- [Augsburg](/de/augsburg/#clever-fit): Hochzoll, Lechhausen und Oberhausen
 - [Berlin](/de/berlin/#clever-fit): unter anderem Charlottenburg, Marzahn, Pankow, Zehlendorf und Marienfelde
+- [Frankfurt am Main](/de/frankfurt/#clever-fit): Höchst
+- [Hamburg](/de/hamburg/#clever-fit): Finkenwerder
+- [Leipzig](/de/leipzig/#clever-fit)
+- [München](/de/muenchen/#clever-fit): unter anderem Giesing, Aubing und Berg am Laim
+- [Stuttgart](/de/stuttgart/#clever-fit): Vaihingen
+
+<details class="meer-steden">
+<summary>Weitere 11 Städte anzeigen</summary>
+
+- [Augsburg](/de/augsburg/#clever-fit): Hochzoll, Lechhausen und Oberhausen
 - [Bochum](/de/bochum/#clever-fit): Kemnader Straße
 - [Bonn](/de/bonn/#clever-fit): Endenich
 - [Bremen](/de/bremen/#clever-fit): Blumenthal und Vegesack
 - [Darmstadt](/de/darmstadt/#clever-fit)
 - [Dresden](/de/dresden/#clever-fit): Löbtau und Waldschlösschen
-- [Frankfurt am Main](/de/frankfurt/#clever-fit): Höchst
-- [Hamburg](/de/hamburg/#clever-fit): Finkenwerder
 - [Karlsruhe](/de/karlsruhe/#clever-fit): Zeppelinstraße
-- [Leipzig](/de/leipzig/#clever-fit)
 - [Mannheim](/de/mannheim/#clever-fit): Neckarstadt
 - [Mönchengladbach](/de/moenchengladbach/#clever-fit): Rheindahlener Straße
-- [München](/de/muenchen/#clever-fit): unter anderem Giesing, Aubing und Berg am Laim
 - [Münster](/de/muenster/#clever-fit): Münster Süd
-- [Stuttgart](/de/stuttgart/#clever-fit): Vaihingen
 - [Wiesbaden](/de/wiesbaden/#clever-fit): Nordenstadt
+
+</details>
 
 Alle Studios findest du bei [clever fit](https://www.clever-fit.com/de/fitnessstudio/).
 
