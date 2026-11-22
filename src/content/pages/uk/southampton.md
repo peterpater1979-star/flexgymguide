@@ -22,7 +22,7 @@ In Southampton you can book studios across the city with a fitness pass, or join
 
 ### ClassPass
 
-[CLASSPASS SOUTHAMPTON: studios and areas from Peter's list]. One credit-based membership, cancel anytime.
+Yoga and Pilates in the city centre, bouldering, martial arts and gyms around Southampton. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -106,7 +106,10 @@ David Lloyd has 2 health clubs in and around Southampton (Southampton and Southa
 
 ### Where
 
-[CLASSPASS SOUTHAMPTON: where, which studios, standard plan price from Peter's list]
+A small choice, spread over the city and the area around it. In the city centre there is New Energy Yoga+Pilates on Castle Way. You can also go bouldering at The Climbing Hangar, train at Limitless Martial Arts and play padel or use the gym at The Padel Hub. BCUK runs outdoor bootcamps in Millbrook and at Itchen Valley Country Park. For gym visits there are Village Gym in Chandler's Ford, which has a pool, 3d Health and Fitness in Chandler's Ford, Lakeside Weightlifting in Eastleigh, Totton Health and Leisure and Anytime Fitness in Totton, and Applemore Health and Leisure in Hythe.
+
+- Yoga and Pilates in the city centre, bouldering and martial arts
+- Gyms with ClassPass access in Eastleigh, Chandler's Ford, Totton and Hythe
 
 How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
