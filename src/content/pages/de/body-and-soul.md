@@ -10,13 +10,26 @@ crumb: "body + soul"
 kicker: "Anbieter: Fitnessclub"
 ---
 
-body + soul ist ein Fitnessanbieter mit Centern in München und im Umland. Du trainierst an Geräten und in Kursen, zum Beispiel mit HIIT, Functional Training oder Kraftgeräten. Welche Angebote es gibt, hängt vom Center ab. Der Club im Zentrum hat zum Beispiel eine große Functional-Zone für HYROX-Training.
+body + soul wurde 1995 in Ottobrunn gegründet und ist ein Fitnessanbieter mit Centern in München und im Umland. Du trainierst an Kraft- und Ausdauergeräten und in Kursen, in manchen Centern gibt es auch Saunen, Sportpools und Kletterwände. Was genau es gibt, hängt vom Center ab. Das Center in der Sonnenstraße hat zum Beispiel eine große Functional-Zone für HYROX-Training.
+
+<h3 id="zahlen">body + soul in Zahlen</h3>
+
+| | Insgesamt, laut body + soul |
+| --- | --- |
+| **Geräte** | Rund 2.500 Ausdauer- und Kraftgeräte |
+| **Kurse** | Mehr als 4.000 Classes pro Monat |
+| **Saunen** | 49 Themen-Saunen |
+| **Sportpools** | 9 |
+| **Kletterwände** | 5, mit 7 bis 15 Metern Höhe |
+| **Kids Clubs** | 7 |
+
+<p class="klein">Quelle: bodyandsoul.de, Seite „Wer wir sind“ (November 2026). Nicht jedes Center hat alles. Prüfe das Angebot deines Centers bei body + soul.</p>
 
 <h2 id="kurz">Kurz und knapp</h2>
 
 | | body + soul |
 | --- | --- |
-| **Art** | Fitnessclub mit Geräten und Kursen |
+| **Art** | Fitnessclub mit Geräten, Kursen und je nach Center Sauna und Pool |
 | **Centers** | 9 in München, dazu Brunnthal und Erding |
 | **Mitgliedschaft** | [PREIS] pro Monat, Laufzeit 1, 12 oder 18 Monate |
 | **Startgebühr** | [PREIS] einmalig |
