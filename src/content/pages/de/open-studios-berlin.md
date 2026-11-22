@@ -18,9 +18,10 @@ Open Studios Berlin, kurz OPEN, ist ein Boutique-Anbieter für Yoga, Pilates und
 | --- | --- |
 | **Art** | Boutique-Studio mit Kursen: Pilates, Yoga, Sculpt, Sound und Red Light |
 | **Studios** | 7 in Berlin: Mitte, Wedding, Charlottenburg, Neukölln, Sonnenallee, Kreuzberg, Friedrichshain |
-| **Karten** | Einzelticket, 5er-Karte, 10er-Karte und Monatskarte, gültig in allen Studios |
-| **Preise** | Siehe Website, die Preise stehen beim Buchen |
-| **Kündigen** | Keine laufende Mitgliedschaft, die Karten laufen von selbst ab |
+| **Karten** | Einzelstunde, Karten mit 2, 3, 5 oder 10 Stunden, Unlimited-Monat und Flatrates |
+| **Mitgliedschaft** | Open Membership ab 79 € pro Monat für ein Studio, 99 € für alle Studios, 6 Monate Mindestlaufzeit |
+| **Einzelstunde** | Drop-in 22 €, Probestunde 20 € |
+| **Kündigen** | Karten und Flatrates laufen von selbst ab, für die Mitgliedschaft nachfragen |
 
 <p class="klein">Quelle: openstudiosberlin.com, die Seiten zu Studios und AGB. Prüfe den aktuellen Preis immer bei Open Studios.</p>
 
@@ -46,14 +47,24 @@ Den aktuellen Kursplan und die Buchung findest du auf der Website von Open Studi
 | **Kreuzberg** | Reichenberger Straße 125, 10999 Berlin |
 | **Friedrichshain** | Boxhagener Straße 77, 10245 Berlin |
 
-Die Karten gelten laut AGB an allen Standorten.
+Laut AGB gelten Karten an allen Standorten. Bei den Preisen unten ist oft ein bestimmtes Studio genannt, prüfe also beim Kauf, wo deine Karte gilt.
 
 <h2 id="preise">Preise</h2>
 
-Open Studios verkauft Einzeltickets, 5er-Karten, 10er-Karten und Monatskarten. Die aktuellen Preise stehen bei der Buchung im Bereich „Credits & Membership“ auf der Website. Bezahlt wird vorab online, vor Ort gibt es keinen Kartenverkauf und kein Bargeld.
+- **Probestunde:** 20 € für eine Stunde, 1 Woche gültig.
+- **Drop-in:** 22 € für eine Stunde, 1 Woche gültig.
+- **Starter Package:** 44 € für 3 Stunden, 1 Monat gültig.
+- **Karten:** 2 Stunden 36 € (1 Monat gültig), 3 Stunden 50 € (1 Monat), 5 Stunden 85 € (6 Monate) und 10 Stunden 170 € (1 Jahr). Für Studierende kosten 10 Stunden 150 €.
+- **Unlimited-Monat:** 89 € für einen Monat.
+- **Flatrates:** 3 Monate 237 €, 6 Monate 474 €, 1 Jahr 828 €.
+- **Open Membership:** 79 € pro Monat für ein Studio, 99 € pro Monat für alle Studios, jeweils mit 6 Monaten Mindestlaufzeit und unbegrenzt vielen Kursen.
+- **Bezahlen:** Du zahlst vorab online, vor Ort gibt es keinen Kartenverkauf und kein Bargeld.
+
+<p class="klein">Preise von November 2026, laut dem Buchungsbereich von Open Studios, hier für das Studio Charlottenburg. Die Preise können je Studio abweichen. Prüfe den aktuellen Preis immer bei Open Studios.</p>
 
 <h2 id="kuendigen">Kündigen und Stornieren</h2>
 
+- **Mitgliedschaft:** Die Open Membership hat 6 Monate Mindestlaufzeit. Eine Kündigungsfrist steht nicht in den AGB, frag deshalb vor dem Abschluss bei Open Studios nach.
 - **Karten:** Eine Monatskarte gilt ab der ersten Nutzung für einen Monat, eine 5er-Karte für 5 Wochen und eine 10er-Karte für 10 Wochen. Danach verfällt die Karte, du musst also nicht kündigen. Die Gültigkeit lässt sich laut AGB nicht verlängern.
 - **Persönlich:** Karten gelten nur für eine Person und sind nicht übertragbar.
 - **Nicht erscheinen:** Bei Abbruch oder Nichtteilnahme gibt es laut AGB keine Rückerstattung.
@@ -67,14 +78,14 @@ Open Studios verkauft Einzeltickets, 5er-Karten, 10er-Karten und Monatskarten. D
 <details open>
 <summary>Was kostet Open Studios Berlin?</summary>
 
-Open Studios verkauft Einzeltickets, 5er-Karten, 10er-Karten und Monatskarten. Die aktuellen Preise stehen bei der Buchung auf openstudiosberlin.com.
+Die Probestunde kostet 20 € und die Einzelstunde 22 €. Karten mit 5 Stunden kosten 85 €, mit 10 Stunden 170 €. Die Open Membership kostet 79 € pro Monat für ein Studio und 99 € für alle Studios, bei 6 Monaten Mindestlaufzeit (November 2026, Studio Charlottenburg).
 
 </details>
 
 <details>
 <summary>Muss ich mich langfristig binden?</summary>
 
-Nein, laut AGB gibt es Einzeltickets, Sammelkarten und Monatskarten, die nach ihrer Gültigkeit automatisch verfallen.
+Nein, du kannst eine Einzelstunde, eine Karte oder einen Unlimited-Monat kaufen, die nach ihrer Gültigkeit automatisch verfallen. Die Open Membership hat 6 Monate Mindestlaufzeit.
 
 </details>
 

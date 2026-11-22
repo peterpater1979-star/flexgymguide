@@ -199,7 +199,7 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 6 Clubs in Berlin. Den
 
 <h3>Open Studios Berlin</h3>
 
-Yoga, Pilates, Sculpt, Sound und Red Light in 7 Studios in Berlin, mit Einzeltickets, Karten und Monatskarte.
+Yoga, Pilates, Sculpt, Sound und Red Light in 7 Studios in Berlin, mit Einzelstunde ab 22 €, Karten und Mitgliedschaft.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/open-studios-berlin/">Alles über Open Studios Berlin</a>
@@ -350,7 +350,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | Mehrere Clubs |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 9 Studios |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer) |
-| **[Open Studios Berlin](/de/open-studios-berlin/)** | Einzeltickets, Karten und Monatskarte, Preise auf der Website | Keine Mitgliedschaft, Karten verfallen von selbst | 7 Studios (Yoga und Pilates) |
+| **[Open Studios Berlin](/de/open-studios-berlin/)** | Einzelstunde 22 €, Open Membership ab 79 € (ein Studio) oder 99 € (alle Studios) | 6 Monate Mindestlaufzeit, oder Karten ohne Vertrag | 7 Studios (Yoga und Pilates) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
