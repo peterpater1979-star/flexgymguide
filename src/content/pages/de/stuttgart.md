@@ -33,6 +33,60 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Stuttgart ein.
 
 </div>
 
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Stuttgart ein Studio in Vaihingen. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Stuttgart einen Club in der Wiener Straße in Feuerbach. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat einen neuen Club in Stuttgart, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -76,60 +130,6 @@ Günstige Kette, auch in Stuttgart. Flex 49,90 € im Monat, mit Laufzeit ab 24,
 
 <div class="knoppen">
 <a class="knop" href="/de/mcfit/">McFit ansehen</a>
-</div>
-
-</div>
-
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Stuttgart ein Studio in Vaihingen. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
-</div>
-
-</div>
-
-<div id="john-reed" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
-
-<h3>JOHN REED</h3>
-
-JOHN REED hat einen neuen Club in Stuttgart, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
-</div>
-
-</div>
-
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>Basic-Fit</h3>
-
-Basic-Fit hat in Stuttgart einen Club in der Wiener Straße in Feuerbach. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>
 
 </div>
@@ -235,11 +235,11 @@ Alle vier Clubs sind RED Clubs. Mit einer RED-Mitgliedschaft trainierst du in al
 
 | Anbieter | Preis pro Monat | Laufzeit | In Stuttgart |
 | --- | --- | --- | --- |
-| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Vaihingen) |
-| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club (Feuerbach) |
-| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios (Mitte, Feuerbach), 1 in Fellbach |
 | **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio: Degerloch |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Vaihingen) |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club (Feuerbach) |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios (Mitte, Feuerbach), 1 in Fellbach |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

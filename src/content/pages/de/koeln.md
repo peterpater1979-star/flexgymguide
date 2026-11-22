@@ -16,6 +16,20 @@ Köln ist eine gute Stadt für flexibles Training: Auf ClassPass findest du viel
 
 <div class="kolommen vier">
 
+<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+<h3>Mrs.Sporty</h3>
+
+Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Köln. 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
@@ -28,6 +42,38 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Köln ein. Mon
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div id="rostudios" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios"><span>Boutique-Studio</span></div>
+
+<h3>Rostudios</h3>
+
+Rostudios hat in Köln Rocycle (Indoor-Cycling) am Friesenplatz und Roform (Reformer) am Ebertplatz. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
+</div>
+
+</div>
+
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Köln Clubs in der Spichernstraße und der Peter-Huppertz-Straße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>
 
 </div>
@@ -89,52 +135,6 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 1 Club in Köln. Den P
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
-</div>
-
-</div>
-
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>Basic-Fit</h3>
-
-Basic-Fit hat in Köln Clubs in der Spichernstraße und der Peter-Huppertz-Straße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
-</div>
-
-</div>
-
-<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
-
-<h3>Mrs.Sporty</h3>
-
-Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Köln. 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
-</div>
-
-</div>
-
-<div id="rostudios" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-rostudios"><span>Boutique-Studio</span></div>
-
-<h3>Rostudios</h3>
-
-Rostudios hat in Köln Rocycle (Indoor-Cycling) am Friesenplatz und Roform (Reformer) am Ebertplatz. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
 </div>
 
 </div>
@@ -274,13 +274,13 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 
 | Anbieter | Preis pro Monat | Laufzeit | In Köln |
 | --- | --- | --- | --- |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 6 Studios, u. a. Agnesviertel, Lindenthal und Sülz |
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | Mehrere Clubs |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Studios (Rocycle und Roform) |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 4 Studios |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer, Pilates und Strength) |
 | **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
-| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 4 Studios |
-| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 6 Studios, u. a. Agnesviertel, Lindenthal und Sülz |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

@@ -16,20 +16,6 @@ In Karlsruhe trainierst du flexibel mit Urban Sports Club oder ClassPass, mit de
 
 <div class="kolommen vier">
 
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
-
-<h3>Urban Sports Club</h3>
-
-Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Karlsruhe ein, von Yoga bis Bouldern. Monatlich kündbar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
-</div>
-
-</div>
-
 <div id="classpass" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -45,20 +31,16 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Karlsruhe gibt es vor al
 
 </div>
 
-<div id="fitx" class="kolom kaart aanbiederkaart">
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
 
-<h3>FitX</h3>
+<h3>Urban Sports Club</h3>
 
-FitX hat in Karlsruhe 1 Studio: Oststadt, alle 24 Stunden geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
-</div>
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Karlsruhe ein, von Yoga bis Bouldern. Monatlich kündbar.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
 
 </div>
@@ -77,6 +59,24 @@ clever fit hat in Karlsruhe 1 Studio. Preise je nach Studio, oft auch monatlich 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Karlsruhe 1 Studio: Oststadt, alle 24 Stunden geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
 </div>
 
 </div>
@@ -107,8 +107,8 @@ Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Karlsruhe
 
 | Anbieter | Preis pro Monat | Laufzeit | In Karlsruhe |
 | --- | --- | --- | --- |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Oststadt |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Zeppelinstraße |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Oststadt |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>

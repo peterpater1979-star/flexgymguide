@@ -34,6 +34,38 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Darmstadt ein.
 
 </div>
 
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Darmstadt ein Studio in der Pallaswiesenstraße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="mcfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+<h3>McFit</h3>
+
+McFit hat in Darmstadt ein Studio in der Pallaswiesenstraße, 24 Stunden geöffnet. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -63,38 +95,6 @@ Ein Abo auf Credit-Basis für Yoga, Reformer-Pilates und Aerial in der Region, u
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
-</div>
-
-</div>
-
-<div id="mcfit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
-
-<h3>McFit</h3>
-
-McFit hat in Darmstadt ein Studio in der Pallaswiesenstraße, 24 Stunden geöffnet. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
-</div>
-
-</div>
-
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Darmstadt ein Studio in der Pallaswiesenstraße. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
 
 </div>
@@ -196,9 +196,9 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 
 | Anbieter | Preis pro Monat | Laufzeit | In Darmstadt |
 | --- | --- | --- | --- |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
-| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

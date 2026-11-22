@@ -16,20 +16,6 @@ Bremen hat viel Auswahl für flexibles Training: Urban Sports Club, 3 Fitness Fi
 
 <div class="kolommen vier">
 
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
-
-<h3>Urban Sports Club</h3>
-
-Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Bremen ein, von Yoga bis Bouldern. Monatlich kündbar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
-</div>
-
-</div>
-
 <div id="classpass" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -63,6 +49,38 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Bremen ist das Angebot n
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Bremen ein, von Yoga bis Bouldern. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Bremen 2 Studios. Preise je nach Studio, oft auch monatlich kündbar.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
 <div id="mcfit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
@@ -91,24 +109,6 @@ FitX hat in Bremen 3 Studios: Mitte, Walle und Oslebshausen, alle 24 Stunden ge�
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
-</div>
-
-</div>
-
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Bremen 2 Studios. Preise je nach Studio, oft auch monatlich kündbar.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
 
 </div>
@@ -173,12 +173,12 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 3 Clubs in Br
 
 | Anbieter | Preis pro Monat | Laufzeit | In Bremen |
 | --- | --- | --- | --- |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 6 Studios, u. a. Berliner Freiheit, Vahr und Blumenthal |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 2 Studios: Blumenthal und Vegesack |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 4 Studios: Altstadt, Bahnhofsvorstadt, Kattenturm und Vahr |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 3 Studios: Mitte, Walle und Oslebshausen |
-| **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 2 Studios: Blumenthal und Vegesack |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 4 Clubs |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios: Mitte und Vegesack |
-| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 6 Studios, u. a. Berliner Freiheit, Vahr und Blumenthal |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

@@ -16,20 +16,6 @@ In Mannheim trainierst du flexibel mit Urban Sports Club oder in einer Kette: Fi
 
 <div class="kolommen vier">
 
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
-
-<h3>Urban Sports Club</h3>
-
-Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Mannheim ein, von Yoga bis Bouldern. Monatlich kündbar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
-</div>
-
-</div>
-
 <div id="classpass" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -63,6 +49,38 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Mannheim ist das Angebot
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Mannheim ein, von Yoga bis Bouldern. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Mannheim 1 Studio. Preise je nach Studio, oft auch monatlich kündbar.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
 <div id="mcfit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
@@ -91,24 +109,6 @@ FitX hat in Mannheim 2 Studios: Almenhof und Käfertal, alle 24 Stunden geöffne
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
-</div>
-
-</div>
-
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Mannheim 1 Studio. Preise je nach Studio, oft auch monatlich kündbar.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
 
 </div>
@@ -173,9 +173,9 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 3 Clubs in Ma
 
 | Anbieter | Preis pro Monat | Laufzeit | In Mannheim |
 | --- | --- | --- | --- |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Neckarstadt |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 2 Studios: Almenhof und Käfertal |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios: Almenhof und Käfertal |
-| **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Neckarstadt |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Innenstadt |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
 

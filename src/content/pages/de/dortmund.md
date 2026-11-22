@@ -32,6 +32,60 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Dortmund ein. 
 
 </div>
 
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Dortmund Studios in der Nordstadt, am Phoenix See und in Kley, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Dortmund einen Club in der Schleefstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat in Dortmund einen Club in der Gartenstadt, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -75,60 +129,6 @@ Günstige Kette, auch in Dortmund. Flex 49,90 € im Monat, mit Laufzeit ab 24,9
 
 <div class="knoppen">
 <a class="knop" href="/de/mcfit/">McFit ansehen</a>
-</div>
-
-</div>
-
-<div id="fitx" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
-
-<h3>FitX</h3>
-
-FitX hat in Dortmund Studios in der Nordstadt, am Phoenix See und in Kley, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
-</div>
-
-</div>
-
-<div id="john-reed" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
-
-<h3>JOHN REED</h3>
-
-JOHN REED hat in Dortmund einen Club in der Gartenstadt, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
-</div>
-
-</div>
-
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>Basic-Fit</h3>
-
-Basic-Fit hat in Dortmund einen Club in der Schleefstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
 </div>
 
 </div>
@@ -233,11 +233,11 @@ Flex kostet 49,90 € im Monat, mit 12 Monaten Laufzeit 29,90 € und mit 24 Mon
 
 | Anbieter | Preis pro Monat | Laufzeit | In Dortmund |
 | --- | --- | --- | --- |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 3 Studios |
-| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club (Gartenstadt) |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club |
-| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio (Innenstadt) |
 | **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 3 Studios: City, Dorstfeld und Lütgendortmund |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 3 Studios |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club (Gartenstadt) |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio (Innenstadt) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
