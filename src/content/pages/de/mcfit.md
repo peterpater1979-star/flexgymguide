@@ -92,7 +92,7 @@ McFit-Preise und andere Möglichkeiten ohne lange Laufzeit findest du in:
 - [Duisburg](/de/duisburg/#mcfit): Hamborn und Wanheimerort
 - [Essen](/de/essen/#mcfit): Bergerhausen, Nordviertel und Westviertel
 - [Hannover](/de/hannover/#mcfit): Südstadt, Vahrenheide und Wülfel
-- [Mannheim](/de/mannheim/#mcfit)
+- [Mannheim](/de/mannheim/#mcfit): Almenhof und Käfertal
 - [Mönchengladbach](/de/moenchengladbach/#mcfit)
 - [Münster](/de/muenster/#mcfit)
 - [Nürnberg](/de/nuernberg/#mcfit): Doos, Gibitzenhof, Gostenhof und Mögeldorf
