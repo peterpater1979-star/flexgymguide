@@ -22,7 +22,7 @@ In Milton Keynes you can book studios across the city with a fitness pass, or jo
 
 ### ClassPass
 
-[CLASSPASS MILTON KEYNES: studios and areas from Peter's list]. One credit-based membership, cancel anytime.
+A small choice in Milton Keynes: gym visits, a personal training studio and martial arts. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -106,7 +106,10 @@ David Lloyd has a health club in Milton Keynes, with group classes and a pool. E
 
 ### Where
 
-[CLASSPASS MILTON KEYNES: where, which studios, standard plan price from Peter's list]
+A small choice. You can book gym visits at Nuffield Health on Marlborough Gate and Willen Lake Health Club, sessions at The Body MOT Studio in Midsummer Place and martial arts with KMDT at Shenley Leisure Centre. There are hardly any boutique studios on ClassPass here yet, so ClassPass mainly suits you if you also train in other cities, for example in London.
+
+- Gym visits at Nuffield Health and Willen Lake
+- Your credits also work in London and the rest of the UK
 
 How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
