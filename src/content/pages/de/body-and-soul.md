@@ -33,6 +33,7 @@ body + soul wurde 1995 in Ottobrunn gegründet und ist ein Fitnessanbieter mit C
 | **Centers** | 9 in München, dazu Brunnthal und Erding |
 | **Mitgliedschaft** | [PREIS] pro Monat, Laufzeit 1, 12 oder 18 Monate |
 | **Startgebühr** | [PREIS] einmalig |
+| **Probetraining** | Day Pass für [PREIS], mit persönlicher Beratung |
 | **Alter** | Ab 18 Jahren, ab 16 Jahren mit Zustimmung der Eltern |
 | **Kündigen** | Schriftlich, mit einem Monat Frist zum Monatsende nach der Grundlaufzeit |
 
@@ -60,6 +61,7 @@ Das Kursprogramm pro Center siehst du auf der Website von body + soul.
 
 - **Mitgliedschaft:** [PREIS] pro Monat. Die Laufzeit ist 1, 12 oder 18 Monate.
 - **Startgebühr:** [PREIS] einmalig. Sie wird nicht erstattet.
+- **Probetraining:** Mit dem kostenpflichtigen Day Pass erlebst du ein ganzes Center mit Training, Classes und Wellness. Eine persönliche Beratung ist inklusive. Der Day Pass kostet [PREIS].
 - **Bezahlen:** Per SEPA-Lastschrift. Der Monatsbeitrag wird im Voraus berechnet.
 - **Kinder:** Der Kids Club ist für Mitglieder kostenlos, für Kinder von 3 Monaten bis 6 Jahren.
 
