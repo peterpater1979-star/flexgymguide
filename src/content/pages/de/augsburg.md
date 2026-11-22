@@ -176,6 +176,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Aug
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 3 Studios: Hochzoll, Lechhausen und Oberhausen |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Innenstadt |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Je nach Studio und Laufzeit | Je nach Tarif | 2 Studios: Haunstetten und Stadtbergen |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

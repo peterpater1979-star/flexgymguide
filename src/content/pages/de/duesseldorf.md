@@ -267,6 +267,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Reformer-Studios (Flingern-Nord, Pempelfort) |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 1 Reformer-Studio (Unterbilk) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios (Oberkassel, Wehrhahn) |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Je nach Studio und Laufzeit | Je nach Tarif | 2 Studios: Flingern und Oberbilk |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

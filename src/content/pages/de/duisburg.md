@@ -125,6 +125,7 @@ Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Duisburg:
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 3 Studios: Hafen, Rheinhausen und Hamborn |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Rathaus, Innenstadt |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Je nach Studio und Laufzeit | Je nach Tarif | 4 Studios: City, Königsgalerie, Innenhafen und Meiderich |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
