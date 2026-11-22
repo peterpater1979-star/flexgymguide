@@ -34,7 +34,7 @@ Einige Beispiele pro Stadtteil. Es gibt mehr Studios als die hier genannten: Die
 
 ### Zentrum
 
-Yoga bei Be Light Yoga in der Nikolaistraße, Pilates und gesundheitsorientiertes Training bei Spannkraft und Training in kleinen Gruppen im Fit Squad Gym, beide in der Gottschedstraße. Krafttraining bei AURUM Fit in der Käthe-Kollwitz-Straße, Pole Sport, Tanz und Akrobatik bei Delight Poledance &amp; Tanzstudio in der Lutherstraße und Krafttraining, Yoga und Mobility bei BootCamp Indoor in der Zentralstraße.
+Yoga bei Be Light Yoga in der Nikolaistraße, Pilates und Training bei Spannkraft und Training in kleinen Gruppen im Fit Squad Gym, beide in der Gottschedstraße. Krafttraining bei AURUM Fit in der Käthe-Kollwitz-Straße, Pole Sport, Tanz und Akrobatik bei Delight Poledance &amp; Tanzstudio in der Lutherstraße und Krafttraining, Yoga und Mobility bei BootCamp Indoor in der Zentralstraße.
 
 ### Leipziger Westen und Südvorstadt
 

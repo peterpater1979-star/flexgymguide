@@ -16,6 +16,39 @@ Köln ist eine gute Stadt für flexibles Training: Auf ClassPass findest du viel
 
 <div class="kolommen vier">
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+### ClassPass
+
+Ein Abo auf Credit-Basis für Barre, Yoga, Kampfsport und Tanz, vom Belgischen Viertel bis Sülz. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-koeln">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+
+### Fitness First
+
+217 Clubs in Deutschland, 14 in Köln. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+</div>
+
+</div>
+
 <div id="mrs-sporty" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
@@ -60,6 +93,20 @@ Rostudios hat in Köln Rocycle (Indoor-Cycling) am Friesenplatz und Roform (Refo
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+### McFit
+
+Günstige Kette, auch in Köln. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop" href="/de/mcfit/">McFit ansehen</a>
+</div>
+
+</div>
+
 <div id="basic-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
@@ -74,53 +121,6 @@ Basic-Fit hat in Köln Clubs in der Spichernstraße und der Peter-Huppertz-Stra�
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
-
-### ClassPass
-
-Ein Abo auf Credit-Basis für Barre, Yoga, Kampfsport und Tanz, vom Belgischen Viertel bis Sülz. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-koeln">Teste 1 Monat gratis mit 10 Workouts</a>
-<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
-
-### Fitness First
-
-217 Clubs in Deutschland, 14 in Köln. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
-</div>
-
-<div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
-
-### McFit
-
-Günstige Kette, auch in Köln. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
-
-<div class="knoppen">
-<a class="knop" href="/de/mcfit/">McFit ansehen</a>
 </div>
 
 </div>
@@ -386,7 +386,7 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 
 ### Erklärt
 
-- Was kostet ClassPass in Deutschland? (bald)
+- [Was kostet ClassPass in Deutschland?](/de/classpass/#kosten)
 - [Alles über ClassPass](/de/classpass/)
 - [How ClassPass works (EN)](/guides/how-classpass-works/)
 
