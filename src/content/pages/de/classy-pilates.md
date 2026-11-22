@@ -10,6 +10,8 @@ crumb: "Classy Pilates"
 kicker: "Anbieter: Boutique-Studio"
 ---
 
+<div class="fotobanner smal foto-classy-pilates-2" role="img" aria-label="Seitstütz auf dem Reformer"></div>
+
 Classy Pilates ist ein Boutique-Studio für Reformer Pilates in Frankfurt am Main, mit Studios im Bahnhofsviertel, in Bornheim, in Sachsenhausen und weiteren Lagen. Du buchst Kurse online, mit einer Karte oder mit einer Mitgliedschaft. Alle Kurse dauern 50 Minuten.
 
 <h2 id="kurz">Kurz und knapp</h2>
@@ -61,6 +63,8 @@ Dazu gibt es Mat Pilates in Sachsenhausen. Im Studio Bahnhofsviertel Ladies (2nd
 | **Oval** | Baseler Straße 10, 60329 Frankfurt | Powerformer |
 
 Aktuelle Zeiten siehst du bei der Buchung auf der Website von Classy Pilates. Mehr zu den Stadtteilen findest du unter [Flexibel trainieren in Frankfurt](/de/frankfurt/).
+
+<div class="fotobanner smal foto-classy-pilates-3" role="img" aria-label="Beinübung am Reformer"></div>
 
 <h2 id="preise">Karten und Mitgliedschaft</h2>
 

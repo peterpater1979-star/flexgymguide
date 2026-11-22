@@ -129,6 +129,20 @@ Günstige Kette, auch in Frankfurt. Flex 49,90 € im Monat, mit Laufzeit ab 24,
 
 </div>
 
+<div id="classy-pilates" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-classy-pilates"><span>Reformer-Studio</span></div>
+
+<h3>Classy Pilates</h3>
+
+Classy Pilates hat in Frankfurt 6 Studios für Reformer Pilates und Powerformer, vom Bahnhofsviertel bis Bornheim. Karten ab 19,95 € pro Kurs, Einzelkurs 28 €.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/classy-pilates/">Alles über Classy Pilates</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
