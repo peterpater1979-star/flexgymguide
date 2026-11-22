@@ -113,7 +113,7 @@ Ja, zum Beispiel Hamburg Altona und München Schwabing. In Hamburg buchst du mit
 <details>
 <summary>Ist Rostudios auf ClassPass?</summary>
 
-Auf ClassPass haben wir Rostudios in Düsseldorf (Flingern-Nord und Pempelfort) und in Köln am Friesenplatz gefunden.
+Auf ClassPass haben wir Rostudios in Düsseldorf (Flingern-Nord und Pempelfort), in Köln am Friesenplatz und in Münster City gefunden.
 
 </details>
 
