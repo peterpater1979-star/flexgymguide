@@ -259,6 +259,7 @@ Ja, aber das Angebot ist noch klein. Welche Studios gerade mitmachen, siehst du 
 - [Flexibel trainieren in Essen](/de/essen/)
 - [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)
 - [Flexibel trainieren in Hamburg](/de/hamburg/)
+- [Flexibel trainieren in Karlsruhe](/de/karlsruhe/)
 - [Flexibel trainieren in Köln](/de/koeln/)
 - [Flexibel trainieren in Leipzig](/de/leipzig/)
 - [Flexibel trainieren in Mannheim](/de/mannheim/)

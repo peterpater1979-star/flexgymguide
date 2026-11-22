@@ -139,6 +139,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 <li><a href="/de/duisburg/"><strong>Duisburg</strong></a></li>
 <li><a href="/de/essen/"><strong>Essen</strong></a></li>
 <li><a href="/de/hannover/"><strong>Hannover</strong></a></li>
+<li><a href="/de/karlsruhe/"><strong>Karlsruhe</strong></a></li>
 <li><a href="/de/mannheim/"><strong>Mannheim</strong></a></li>
 <li><a href="/de/moenchengladbach/"><strong>Mönchengladbach</strong></a></li>
 <li><a href="/de/muenster/"><strong>Münster</strong></a></li>
