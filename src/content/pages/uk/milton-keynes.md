@@ -32,14 +32,14 @@ A small choice in Milton Keynes: gym visits, a personal training studio and mart
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-fitness-first-uk"><span>For regular gym-goers</span></div>
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
 
-### Fitness First
+### PureGym
 
-1 club in Milton Keynes, with a gym floor and group classes. Prices vary by club and membership tier, with minimum terms from 1 to 12 months depending on the club.
+Budget gym chain with 2 gyms in Milton Keynes, most open 24/7. No contract: choose Off-Peak, Core or Plus, and cancel anytime. Prices differ per gym.
 
 <div class="knoppen">
-<a class="knop" href="/uk/fitness-first/">See Fitness First</a>
+<a class="knop" href="/uk/puregym/">See PureGym</a>
 </div>
 
 </div>
@@ -64,14 +64,14 @@ A small choice in Milton Keynes: gym visits, a personal training studio and mart
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+<div class="fotokop foto-fitness-first-uk"><span>For regular gym-goers</span></div>
 
-### PureGym
+### Fitness First
 
-Budget gym chain with 2 gyms in Milton Keynes, most open 24/7. No contract: choose Off-Peak, Core or Plus, and cancel anytime. Prices differ per gym.
+1 club in Milton Keynes, with a gym floor and group classes. Prices vary by club and membership tier, with minimum terms from 1 to 12 months depending on the club.
 
 <div class="knoppen">
-<a class="knop" href="/uk/puregym/">See PureGym</a>
+<a class="knop" href="/uk/fitness-first/">See Fitness First</a>
 </div>
 
 </div>
@@ -123,16 +123,16 @@ How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
 <div class="kolom">
 
-<div id="fitness-first">
+<div id="puregym">
 
-<p class="kicker">Health club chain</p>
+<p class="kicker">Budget gym chain</p>
 
-## Fitness First in Milton Keynes
+## PureGym in Milton Keynes
 
-Fitness First has 1 club in Milton Keynes. Prices and minimum terms depend on the club and your membership tier. Book a free tour first to see the club.
+PureGym has 2 gyms in Milton Keynes: Kingston Centre and Winterhill. Most are open 24/7. No contract, with classes at most gyms.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
+<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
 </div>
@@ -159,16 +159,16 @@ The Gym Group has 1 gym in Milton Keynes. Monthly memberships have no contract, 
 
 <div class="kolom">
 
-<div id="puregym">
+<div id="fitness-first">
 
-<p class="kicker">Budget gym chain</p>
+<p class="kicker">Health club chain</p>
 
-## PureGym in Milton Keynes
+## Fitness First in Milton Keynes
 
-PureGym has 2 gyms in Milton Keynes: Kingston Centre and Winterhill. Most are open 24/7. No contract, with classes at most gyms.
+Fitness First has 1 club in Milton Keynes. Prices and minimum terms depend on the club and your membership tier. Book a free tour first to see the club.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
+<a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
 </div>
 
 </div>

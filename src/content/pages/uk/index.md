@@ -11,9 +11,9 @@ kicker: "Country guide United Kingdom"
 
 Working out without a long contract at one gym comes down to two options: a fitness pass like ClassPass, or a gym chain with flexible terms. Here's what suits you, and in which cities.
 
-<h2 id="opties">Four ways to train flexibly</h2>
+<h2 id="opties">Flexible fitness: fitness passes and gym chains</h2>
 
-<div class="kolommen">
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -34,6 +34,53 @@ One membership with credits for yoga, pilates, boxing, spin and gym visits at st
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">All about ClassPass</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+
+### PureGym
+
+Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on any plan, from £18.99 a month, with classes at most gyms.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you want to train cheaply and often</li>
+<li>No contract: cancel anytime</li>
+<li>Price differs per gym</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-the-gym-group"><span>Low-cost gym</span></div>
+
+### The Gym Group
+
+Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across the UK, with classes included.
+
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Day pass (1, 3 or 5 days)</p>
+<ul>
+<li>Good if you want a budget gym close by</li>
+<li>No contract on monthly plans</li>
+<li>Try a gym first with a day pass</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>
 
 </div>
@@ -64,24 +111,69 @@ A membership at one chain with a gym floor and classes. In the UK for example Fi
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-the-gym-group"><span>Low-cost gym</span></div>
+<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
 
-### The Gym Group
+### David Lloyd
 
-Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across the UK, with classes included.
+More than 100 health clubs with an indoor pool and classes, and at many clubs tennis, padel and a spa. Each club sets its own price.
 
 
 <div class="infoblok">
-<p class="proef"><span aria-hidden="true">✓</span> Day pass (1, 3 or 5 days)</p>
 <ul>
-<li>Good if you want a budget gym close by</li>
-<li>No contract on monthly plans</li>
-<li>Try a gym first with a day pass</li>
+<li>Good if you want everything in one place</li>
+<li>Family and couple memberships</li>
+<li>12-month or 3-month term</li>
 </ul>
 </div>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
+<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-virgin-active"><span>Health club with spa</span></div>
+
+### Virgin Active
+
+31 health clubs, 21 of them in London, with a spa, unlimited classes and at most clubs a pool. Each club sets its own price.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you live or work in London</li>
+<li>12-month or rolling monthly</li>
+<li>Access to clubs in your tier</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
+
+### Anytime Fitness
+
+Small gyms open 24/7, including in London and Manchester. Each club sets its own price, from £39.95 a month in Manchester Central.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you train at odd hours</li>
+<li>Access to clubs abroad</li>
+<li>Rolling monthly at some clubs</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
 </div>
 
 </div>
@@ -144,104 +236,6 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 <li><a href="/uk/reading/"><strong>Reading</strong></a></li>
 <li><a href="/uk/southampton/"><strong>Southampton</strong></a></li>
 </ul>
-
-</div>
-
-<h2 id="other">Other gyms</h2>
-
-<div class="kolommen vier">
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
-
-### David Lloyd
-
-More than 100 health clubs with an indoor pool and classes, and at many clubs tennis, padel and a spa. Each club sets its own price.
-
-
-<div class="infoblok">
-<ul>
-<li>Good if you want everything in one place</li>
-<li>Family and couple memberships</li>
-<li>12-month or 3-month term</li>
-</ul>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-virgin-active"><span>Health club with spa</span></div>
-
-### Virgin Active
-
-31 health clubs, 21 of them in London, with a spa, unlimited classes and at most clubs a pool. Each club sets its own price.
-
-
-<div class="infoblok">
-<ul>
-<li>Good if you live or work in London</li>
-<li>12-month or rolling monthly</li>
-<li>Access to clubs in your tier</li>
-</ul>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/virgin-active/">All about Virgin Active</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
-
-### PureGym
-
-Budget gym chain with over 450 gyms in the UK, most open 24/7. No contract on any plan, from £18.99 a month, with classes at most gyms.
-
-
-<div class="infoblok">
-<ul>
-<li>Good if you want to train cheaply and often</li>
-<li>No contract: cancel anytime</li>
-<li>Price differs per gym</li>
-</ul>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-anytime-fitness"><span>24/7 gym</span></div>
-
-### Anytime Fitness
-
-Small gyms open 24/7, including in London and Manchester. Each club sets its own price, from £39.95 a month in Manchester Central.
-
-
-<div class="infoblok">
-<ul>
-<li>Good if you train at odd hours</li>
-<li>Access to clubs abroad</li>
-<li>Rolling monthly at some clubs</li>
-</ul>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/anytime-fitness/">All about Anytime Fitness</a>
-</div>
-
-</div>
 
 </div>
 

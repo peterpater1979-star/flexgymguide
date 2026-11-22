@@ -32,6 +32,20 @@ Indoor cycling, reformer Pilates, yoga and CrossFit, from the city centre to Cha
 
 <div class="kolom kaart">
 
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+
+### PureGym
+
+Budget gym chain with 8 gyms in Leeds, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
+
+<div class="knoppen">
+<a class="knop" href="/uk/puregym/">See PureGym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
 <div class="fotokop foto-the-gym-group"><span>For regular gym-goers</span></div>
 
 ### The Gym Group
@@ -44,20 +58,6 @@ Indoor cycling, reformer Pilates, yoga and CrossFit, from the city centre to Cha
 
 <div class="knoppen">
 <a class="knop" href="/uk/the-gym-group/">See The Gym Group</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
-
-### PureGym
-
-Budget gym chain with 8 gyms in Leeds, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
-
-<div class="knoppen">
-<a class="knop" href="/uk/puregym/">See PureGym</a>
 </div>
 
 </div>
@@ -124,24 +124,6 @@ In Leeds the standard plan costs £49 a month for 36 credits, and you can try it
 
 <div class="kolom">
 
-<div id="the-gym-group">
-
-<p class="kicker">Low-cost gym</p>
-
-## The Gym Group in Leeds
-
-The Gym Group has 4 gyms in Leeds: Crown Point, Headingley, Meanwood and York Road. Monthly memberships have no contract, and most gyms are open 24/7.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
 <div id="puregym">
 
 <p class="kicker">Budget gym chain</p>
@@ -152,6 +134,24 @@ PureGym has 8 gyms in Leeds, most open 24/7. No contract, from £18.99 a month f
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="the-gym-group">
+
+<p class="kicker">Low-cost gym</p>
+
+## The Gym Group in Leeds
+
+The Gym Group has 4 gyms in Leeds: Crown Point, Headingley, Meanwood and York Road. Monthly memberships have no contract, and most gyms are open 24/7.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>
 
 </div>

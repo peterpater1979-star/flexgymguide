@@ -32,6 +32,20 @@ Boutique classes in the city centre, reformer Pilates, spin and functional train
 
 <div class="kolom kaart">
 
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+
+### PureGym
+
+Budget gym chain with 4 gyms in Cardiff, most open 24/7. No contract: choose Off-Peak, Core or Plus, and cancel anytime. Prices differ per gym.
+
+<div class="knoppen">
+<a class="knop" href="/uk/puregym/">See PureGym</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
 <div class="fotokop foto-the-gym-group"><span>For regular gym-goers</span></div>
 
 ### The Gym Group
@@ -48,34 +62,6 @@ Boutique classes in the city centre, reformer Pilates, spin and functional train
 
 </div>
 
-<div id="village-gym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
-
-<h3>Village Gym</h3>
-
-Village Gym has a health club next to the Village Hotel in Cardiff, with a gym floor, an indoor pool, a sauna and more than 100 classes a week. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
-
-### PureGym
-
-Budget gym chain with 4 gyms in Cardiff, most open 24/7. No contract: choose Off-Peak, Core or Plus, and cancel anytime. Prices differ per gym.
-
-<div class="knoppen">
-<a class="knop" href="/uk/puregym/">See PureGym</a>
-</div>
-
-</div>
-
 <div id="david-lloyd" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
@@ -86,6 +72,20 @@ David Lloyd has a health club in Cardiff, with group classes and a pool. Each cl
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
+</div>
+
+</div>
+
+<div id="village-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+
+<h3>Village Gym</h3>
+
+Village Gym has a health club next to the Village Hotel in Cardiff, with a gym floor, an indoor pool, a sauna and more than 100 classes a week. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
 </div>
 
 </div>
@@ -125,24 +125,6 @@ How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
 <div class="kolom">
 
-<div id="the-gym-group">
-
-<p class="kicker">Low-cost gym</p>
-
-## The Gym Group in Cardiff
-
-The Gym Group has 2 gyms in Cardiff: Cardiff City Centre and Cardiff Newport Road. Monthly memberships have no contract, and most gyms are open 24/7.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
 <div id="puregym">
 
 <p class="kicker">Budget gym chain</p>
@@ -153,6 +135,24 @@ PureGym has 4 gyms in Cardiff: Cardiff Bay, Cardiff Central, Cardiff Gate and We
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
+<div id="the-gym-group">
+
+<p class="kicker">Low-cost gym</p>
+
+## The Gym Group in Cardiff
+
+The Gym Group has 2 gyms in Cardiff: Cardiff City Centre and Cardiff Newport Road. Monthly memberships have no contract, and most gyms are open 24/7.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/the-gym-group/">All about The Gym Group</a>
 </div>
 
 </div>

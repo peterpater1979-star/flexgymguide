@@ -48,20 +48,6 @@ Yoga in Southsea, martial arts, outdoor bootcamps and gyms across Portsmouth. On
 
 </div>
 
-<div id="village-gym" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
-
-<h3>Village Gym</h3>
-
-Village Gym has a health club next to the Village Hotel in Portsmouth, with a gym floor, an indoor pool, a sauna and more than 100 classes a week. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
-</div>
-
-</div>
-
 <div id="david-lloyd" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-david-lloyd"><span>Family health club</span></div>
@@ -72,6 +58,20 @@ David Lloyd has a health club at Port Solent, on the north side of Portsmouth Ha
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/david-lloyd/">All about David Lloyd</a>
+</div>
+
+</div>
+
+<div id="village-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-village-gym"><span>Health club with pool</span></div>
+
+<h3>Village Gym</h3>
+
+Village Gym has a health club next to the Village Hotel in Portsmouth, with a gym floor, an indoor pool, a sauna and more than 100 classes a week. You choose Peak or Off Peak, with a 12-month agreement or a Flexible term of at least 3 months.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/village-gym/">All about Village Gym</a>
 </div>
 
 </div>

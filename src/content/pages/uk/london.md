@@ -32,18 +32,14 @@ Yoga, Pilates, boxing and more with one credit-based membership, at studios acro
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-fitness-first-uk"><span>For regular gym-goers</span></div>
+<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
 
-### Fitness First
+### PureGym
 
-17 clubs in London, with group classes and multi-club access. Prices vary by club and membership tier, with minimum terms from 1 to 12 months depending on the club.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Day passes at selected clubs</p>
-</div>
+Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
 
 <div class="knoppen">
-<a class="knop" href="/uk/fitness-first/">See Fitness First</a>
+<a class="knop" href="/uk/puregym/">See PureGym</a>
 </div>
 
 </div>
@@ -62,14 +58,18 @@ Low-cost gyms without a contract, most of them open 24/7.
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-puregym"><span>Budget gym chain</span></div>
+<div class="fotokop foto-fitness-first-uk"><span>For regular gym-goers</span></div>
 
-### PureGym
+### Fitness First
 
-Budget gym chain with 90 gyms in London, most open 24/7. No contract, from £18.99 a month. Choose Off-Peak, Core or Plus, and cancel anytime.
+17 clubs in London, with group classes and multi-club access. Prices vary by club and membership tier, with minimum terms from 1 to 12 months depending on the club.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day passes at selected clubs</p>
+</div>
 
 <div class="knoppen">
-<a class="knop" href="/uk/puregym/">See PureGym</a>
+<a class="knop" href="/uk/fitness-first/">See Fitness First</a>
 </div>
 
 </div>
@@ -184,6 +184,35 @@ A huge choice, spread across the whole city, from HIIT at Barry's and 1Rebel to 
 
 <div class="kolom">
 
+<div id="puregym">
+
+<p class="kicker">Budget gym chain</p>
+
+## PureGym in London
+
+PureGym is a budget gym chain with over 450 gyms in the UK, including 90 gyms in London. Most are open 24/7. Every plan is without a contract, prices start at £18.99 a month for Off-Peak, and classes are included at most gyms.
+
+### Good for
+
+- Training three times a week or more for little money
+- Not being tied to a contract
+
+### Keep in mind
+
+- The price differs per gym
+- Off-Peak only gives access outside peak hours
+- Joining fee from £10
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
+</div>
+
+</div>
+
+</div>
+
+<div class="kolom">
+
 <div id="fitness-first">
 
 <p class="kicker">Gym chain</p>
@@ -211,35 +240,6 @@ Fitness First has 25 clubs, 17 of them in London. A membership gives you the gym
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/fitness-first/">All about Fitness First</a>
-</div>
-
-</div>
-
-</div>
-
-<div class="kolom">
-
-<div id="puregym">
-
-<p class="kicker">Budget gym chain</p>
-
-## PureGym in London
-
-PureGym is a budget gym chain with over 450 gyms in the UK, including 90 gyms in London. Most are open 24/7. Every plan is without a contract, prices start at £18.99 a month for Off-Peak, and classes are included at most gyms.
-
-### Good for
-
-- Training three times a week or more for little money
-- Not being tied to a contract
-
-### Keep in mind
-
-- The price differs per gym
-- Off-Peak only gives access outside peak hours
-- Joining fee from £10
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/uk/puregym/">All about PureGym</a>
 </div>
 
 </div>
