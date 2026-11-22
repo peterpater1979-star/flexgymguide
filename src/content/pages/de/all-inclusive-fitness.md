@@ -59,10 +59,10 @@ Das Starterpaket umfasst Transpondergebühr, Aktivierung, Einweisung und Trainin
 
 **Was ist im ALL IN Tarif enthalten?**
 
-- Ausdauer-, Kraft-, Freihantel-, Functional- und Vibrationstraining
+- Ausdauer-, Kraft-, Freihantel-, Functional-, Zirkel- und Vibrationstraining, dazu HYROX und eine Ladies Area
 - Kurse, Duschen, Wasser, Mineralgetränke und Parken
-- Training in über 200 Studios, persönliche Trainingsbetreuung und Bodycheck
-- Massageliege, Solarium und Sauna (Kurse, Solarium und Sauna nicht an allen Standorten gleichermaßen, Solarium erst ab 18 Jahren)
+- Training in über 200 Studios, persönliche Trainingsbetreuung, Bodycheck und Ernährungsberatung
+- Massageliege, Solarium und Sauna (Kurse, Solarium, Sauna und Wellness nicht an allen Standorten gleichermaßen, Solarium erst ab 18 Jahren)
 
 **Vertrag und Kündigung:** Nach der Mindestlaufzeit von einem Monat verlängert sich der Vertrag auf unbestimmte Zeit, wenn du nicht spätestens einen Monat vor Ablauf kündigst. Danach kannst du jederzeit mit einer Frist von einem Monat kündigen. Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
 
