@@ -104,6 +104,7 @@ Read more for your city:
 <li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">Studios in Clifton, Harbourside, Bedminster and Bishopston</span></li>
 <li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">Studios in the city centre and Kelham Island</span></li>
 <li><a href="/uk/edinburgh/"><strong>Edinburgh</strong></a> <span class="klein">Studios in the New Town, Leith and Bruntsfield</span></li>
+<li><a href="/uk/brighton/"><strong>Brighton</strong></a> <span class="klein">Studios in the city centre, Hove and Kemp Town</span></li>
 <li><a href="/uk/cardiff/"><strong>Cardiff</strong></a> <span class="klein">Studios in the city centre, near Cardiff Bay and in Penarth</span></li>
 <li><a href="/uk/southampton/"><strong>Southampton</strong></a> <span class="klein">Studios in the city centre, Eastleigh and Totton</span></li>
 <li><a href="/uk/reading/"><strong>Reading</strong></a> <span class="klein">Studios in the town centre, Earley and Woodley</span></li>

@@ -22,7 +22,7 @@ In Brighton you can book studios across the city with a fitness pass, or join a 
 
 ### ClassPass
 
-[CLASSPASS BRIGHTON: studios and areas from Peter's list]. One credit-based membership, cancel anytime.
+Reformer Pilates, hot yoga, indoor cycling and boxing in Brighton and Hove, plus gyms and leisure centres. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -92,7 +92,10 @@ David Lloyd has a health club in Brighton, with group classes and a pool. Each c
 
 ### Where
 
-[CLASSPASS BRIGHTON: where, which studios, standard plan price from Peter's list]
+One of the widest choices outside London. For reformer Pilates there are Reformer Collective on Old Steine and in Hove, Humankind in Kemp Town, Pilates@BN1, Barefoot Pilates, Reform Rituals and Align Studio in Hove, and OP3 Studios in Rottingdean. Yoga ranges from Flow State, Ekah and Studio Sensi in Hove to SPACE Yoga Studio, Luna Wave Yoga on Madeira Drive, Dynamic Hot Yoga and the hot studios of Humankind. For indoor cycling there are RogueCycle, Rox Life, OneCity and Powerwatts, and for boxing TheBox, Boxe and Gorilla Boxing. Strength and group training are at F45 on Fleet Street, Ascend, FITBOX, The Vault 164, FMG Project, Adapt Fitness and SEAGYM on the beach. For gym visits there are Kings Gym, Fitness Bar on Dyke Road, Snap Fitness in Hove and Freedom Leisure centres such as Withdean, Moulsecoomb and the Prince Regent Swimming Complex. Nearby there are studios in Shoreham, Lancing and Lewes.
+
+- Reformer Pilates, yoga and cycle studios in Brighton, Hove and Kemp Town
+- Gyms and leisure centres with ClassPass access across the city
 
 How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
