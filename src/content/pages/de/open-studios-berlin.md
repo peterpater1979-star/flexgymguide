@@ -10,6 +10,8 @@ crumb: "Open Studios Berlin"
 kicker: "Anbieter: Boutique-Studio"
 ---
 
+<div class="fotobanner smal foto-open-studios-berlin" role="img" aria-label="Training auf der Matte im Studio"></div>
+
 Open Studios Berlin, kurz OPEN, ist ein Boutique-Anbieter für Yoga, Pilates und Red-Light-Kurse mit 7 Studios in Berlin. Du buchst die Kurse online und kannst mit einer Karte in allen Studios trainieren.
 
 <h2 id="kurz">Kurz und knapp</h2>

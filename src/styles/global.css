@@ -146,6 +146,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-yttp-strength { --foto: url(/img/foto/yttp-strength.jpg); --foto-pos: center 8%; }
 .foto-drops-barre { --foto: url(/img/foto/drops-barre.jpg); background-position: center 72%; }
 .foto-drops-barre-2 { --foto: url(/img/foto/drops-barre-2.jpg); --foto-pos: center 35%; }
+.foto-open-studios-berlin { --foto: url(/img/foto/open-studios-berlin.jpg); --foto-pos: center 40%; background-position: center 40%; }
 .foto-go-health-clubs { --foto: url(/img/foto/go-health-clubs.jpg); }
 .foto-dutch-gym { --foto: url(/img/foto/dutch-gym.jpg); }
 .foto-fit20 { --foto: url(/img/foto/fit20.jpg); background-position: center 30%; }

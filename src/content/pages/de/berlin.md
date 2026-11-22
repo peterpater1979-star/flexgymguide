@@ -195,7 +195,7 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 6 Clubs in Berlin. Den
 
 <div id="open-studios-berlin" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop"><span>Boutique-Studio</span></div>
+<div class="fotokop foto-open-studios-berlin"><span>Boutique-Studio</span></div>
 
 <h3>Open Studios Berlin</h3>
 
