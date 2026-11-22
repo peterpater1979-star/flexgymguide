@@ -25,7 +25,7 @@ all inclusive Fitness, kurz AI Fitness, ist eine Fitnesskette mit über 200 Stud
 | --- | --- |
 | **Art** | Fitnesskette mit eigenen Studios |
 | **Studios** | Über 200 in Deutschland |
-| **Preis** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 €, plus einmalig 45 € Starterpaket |
+| **Preis** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 €, plus einmalig 45 € Starterpaket. Bei 12 und 23 Monaten kommt vierteljährlich eine Pauschale dazu |
 | **Vertrag** | Mindestlaufzeit 1, 12 oder 23 Monate, danach jederzeit mit einem Monat Frist kündbar |
 | **Öffnungszeiten** | Je nach Studio, meist täglich bis Mitternacht |
 | **Ausstattung** | Je nach Studio, zum Beispiel Freihanteln, Kursraum, Vibrationsplatte, Sauna, Solarium und Massage |
@@ -57,7 +57,7 @@ Schau vor dem Vertrag auf die Seite deines Studios: Dort stehen Öffnungszeiten,
 | ALL IN 23 Monate | 34,95 € | 23 Monate |
 | Starterpaket | 45 € einmalig, bei allen Tarifen | – |
 
-Alle Tarife enthalten alle Leistungen, nur die Laufzeit und der Preis unterscheiden sich. Das Starterpaket umfasst Transpondergebühr, Aktivierung, Einweisung und Trainingsplan. Service-, Hygiene- und Energiepauschale sind im Monatspreis enthalten. Der Vertrag beginnt am Ersten des Monats nach dem Abschluss. Für die Zeit dazwischen zahlst du anteilig den Monatsbeitrag (Vorabnutzungsgebühr).
+Alle Tarife enthalten alle Leistungen, nur die Laufzeit und der Preis unterscheiden sich. Das Starterpaket umfasst Transpondergebühr, Aktivierung, Einweisung und Trainingsplan. Beim Tarif Flex (49,95 €) sind Service-, Hygiene- und Energiepauschale im Monatspreis enthalten. Bei den Tarifen mit 12 und 23 Monaten kommt diese Pauschale laut AGB alle 3 Monate dazu. Wie hoch sie ist, steht in der Preisübersicht der Kette. Der Vertrag beginnt am Ersten des Monats nach dem Abschluss. Für die Zeit dazwischen zahlst du anteilig den Monatsbeitrag (Vorabnutzungsgebühr).
 
 **Was ist in jedem Tarif enthalten?**
 
@@ -66,9 +66,21 @@ Alle Tarife enthalten alle Leistungen, nur die Laufzeit und der Preis unterschei
 - Training in über 200 Studios, persönliche Trainingsbetreuung, Bodycheck und Ernährungsberatung
 - Massageliege, Solarium und Sauna (Kurse, Solarium, Sauna und Wellness nicht an allen Standorten gleichermaßen, Solarium erst ab 18 Jahren)
 
-**Vertrag und Kündigung:** Nach der Mindestlaufzeit (1, 12 oder 23 Monate) verlängert sich der Vertrag auf unbestimmte Zeit, wenn du nicht spätestens einen Monat vor Ablauf kündigst. Danach kannst du jederzeit mit einer Frist von einem Monat kündigen. Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
+<h3 id="kuendigen">Vertrag, Kündigung und Widerruf</h3>
 
-<p class="klein">Quelle: <a href="https://www.ai-fitness.de/preise">ai-fitness.de/preise</a> (November 2026). Preise und Bedingungen können je nach Studio abweichen. Prüfe sie vor dem Abschluss.</p>
+| | So ist es bei all inclusive Fitness |
+| --- | --- |
+| **Laufzeit** | Mindestlaufzeit 1, 12 oder 23 Monate, je nach Tarif. Sie beginnt am Ersten des Monats nach dem Abschluss |
+| **Verlängerung** | Nach der Mindestlaufzeit läuft der Vertrag auf unbestimmte Zeit weiter, wenn du nicht spätestens einen Monat vor Ablauf kündigst |
+| **Kündigen** | Danach jederzeit mit einer Frist von einem Monat |
+| **Wie** | In Textform: per Brief an A.I. Fitness, Kirchenweg 39-41, 83026 Rosenheim, über das Kontaktformular oder über das Online-Kündigungsformular der Kette |
+| **Ruhezeit** | Bei nachgewiesenem Grund und mit Einverständnis des Studios kann der Vertrag für volle Monate ruhen. Die Zahlungspflicht und die Laufzeit verkürzt das nicht, die Fristen verschieben sich um die Ruhezeit |
+| **Widerruf** | 14 Tage ab Vertragsabschluss, wenn du online oder außerhalb des Studios abschließt |
+| **Alter** | Ab 14 Jahren. Zwischen 14 und 18 Jahren brauchst du die schriftliche Einverständniserklärung deiner Eltern |
+
+Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
+
+<p class="klein">Quelle: <a href="https://www.ai-fitness.de/preise">ai-fitness.de/preise</a> und <a href="https://www.ai-fitness.de/agb">AGB von all inclusive Fitness</a> (November 2026). Preise und Bedingungen können je nach Studio abweichen. Prüfe sie vor dem Abschluss.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.ai-fitness.de/preise">Preise bei all inclusive Fitness</a>
@@ -133,7 +145,7 @@ Das hängt vom Studio ab. In Münster sind die Studios zum Beispiel von Montag b
 <details>
 <summary>Was kostet all inclusive Fitness im Monat?</summary>
 
-Monatlich kündbar kostet ALL IN 49,95 €. Mit 12 Monaten Mindestlaufzeit sind es 39,95 €, mit 23 Monaten 34,95 €. Dazu kommt einmalig das Starterpaket für 45 €. Alle Tarife enthalten alle Leistungen.
+Monatlich kündbar kostet ALL IN 49,95 €. Mit 12 Monaten Mindestlaufzeit sind es 39,95 €, mit 23 Monaten 34,95 €. Dazu kommt einmalig das Starterpaket für 45 €. Bei den Tarifen mit 12 und 23 Monaten kommt vierteljährlich eine Service-, Hygiene- und Energiepauschale dazu, bei Flex ist sie im Preis enthalten. Alle Tarife enthalten alle Leistungen.
 
 </details>
 
@@ -141,6 +153,20 @@ Monatlich kündbar kostet ALL IN 49,95 €. Mit 12 Monaten Mindestlaufzeit sind 
 <summary>Kann ich monatlich kündigen?</summary>
 
 Ja, mit dem Tarif ALL IN (49,95 € im Monat) beträgt die Mindestlaufzeit 1 Monat. Die Tarife mit 12 oder 23 Monaten sind günstiger, aber länger gebunden. Nach der Mindestlaufzeit ist der Vertrag jederzeit mit einer Frist von einem Monat kündbar.
+
+</details>
+
+<details>
+<summary>Wie kündige ich bei all inclusive Fitness?</summary>
+
+In Textform, zum Beispiel per Brief an A.I. Fitness, Kirchenweg 39-41, 83026 Rosenheim, über das Kontaktformular oder das Online-Kündigungsformular der Kette. Nach der Mindestlaufzeit gilt eine Frist von einem Monat.
+
+</details>
+
+<details>
+<summary>Ab welchem Alter kann ich trainieren?</summary>
+
+Ab 14 Jahren. Zwischen 14 und 18 Jahren brauchst du die schriftliche Einverständniserklärung deiner Eltern.
 
 </details>
 
