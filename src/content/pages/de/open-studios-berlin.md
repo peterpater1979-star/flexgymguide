@@ -60,7 +60,7 @@ Laut AGB gelten Karten an allen Standorten. Bei den Preisen unten ist oft ein be
 - **Open Membership:** 79 € pro Monat für ein Studio, 99 € pro Monat für alle Studios, jeweils mit 6 Monaten Mindestlaufzeit und unbegrenzt vielen Kursen.
 - **Bezahlen:** Du zahlst vorab online, vor Ort gibt es keinen Kartenverkauf und kein Bargeld.
 
-<p class="klein">Preise von November 2026, laut dem Buchungsbereich von Open Studios, hier für das Studio Charlottenburg. Die Preise können je Studio abweichen. Prüfe den aktuellen Preis immer bei Open Studios.</p>
+<p class="klein">Preise von November 2026, laut dem Buchungsbereich von Open Studios, hier für die Studios Charlottenburg und Friedrichshain, wo sie gleich sind. Bei anderen Studios können sie abweichen. Prüfe den aktuellen Preis immer bei Open Studios.</p>
 
 <h2 id="kuendigen">Kündigen und Stornieren</h2>
 
@@ -78,7 +78,7 @@ Laut AGB gelten Karten an allen Standorten. Bei den Preisen unten ist oft ein be
 <details open>
 <summary>Was kostet Open Studios Berlin?</summary>
 
-Die Probestunde kostet 20 € und die Einzelstunde 22 €. Karten mit 5 Stunden kosten 85 €, mit 10 Stunden 170 €. Die Open Membership kostet 79 € pro Monat für ein Studio und 99 € für alle Studios, bei 6 Monaten Mindestlaufzeit (November 2026, Studio Charlottenburg).
+Die Probestunde kostet 20 € und die Einzelstunde 22 €. Karten mit 5 Stunden kosten 85 €, mit 10 Stunden 170 €. Die Open Membership kostet 79 € pro Monat für ein Studio und 99 € für alle Studios, bei 6 Monaten Mindestlaufzeit (November 2026, Studios Charlottenburg und Friedrichshain).
 
 </details>
 
