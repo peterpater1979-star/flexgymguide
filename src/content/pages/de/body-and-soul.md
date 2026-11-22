@@ -61,7 +61,7 @@ Das Kursprogramm pro Center siehst du auf der Website von body + soul.
 
 - **Mitgliedschaft:** [PREIS] pro Monat. Die Laufzeit ist 1, 12 oder 18 Monate.
 - **Startgebühr:** [PREIS] einmalig. Sie wird nicht erstattet.
-- **Probetraining:** Das Probetraining dauert 45 Minuten und kostet 25 € (Listenpreis). Ein Coach zeigt dir das Center und weist dich an passenden Geräten ein. Du buchst es online. Mit dem kostenpflichtigen Day Pass erlebst du ein ganzes Center mit Training, Classes und Wellness, der Preis steht auf der Website.
+- **Probetraining:** Das Probetraining dauert 45 Minuten und kostet 25 € (Listenpreis). Ein Coach zeigt dir das Center und weist dich an passenden Geräten ein. Du buchst es online.
 - **Bezahlen:** Per SEPA-Lastschrift. Der Monatsbeitrag wird im Voraus berechnet.
 - **Kinder:** Der Kids Club ist für Mitglieder kostenlos, für Kinder von 3 Monaten bis 6 Jahren.
 
