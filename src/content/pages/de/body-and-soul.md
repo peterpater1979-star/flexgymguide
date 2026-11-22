@@ -31,8 +31,8 @@ body + soul wurde 1995 in Ottobrunn gegründet und ist ein Fitnessanbieter mit C
 | --- | --- |
 | **Art** | Fitnessclub mit Geräten, Kursen und je nach Center Sauna und Pool |
 | **Centers** | 9 in München, dazu Brunnthal und Erding |
-| **Mitgliedschaft** | [PREIS] pro Monat, Laufzeit 1, 12 oder 18 Monate |
-| **Startgebühr** | [PREIS] einmalig |
+| **Mitgliedschaft** | Preis auf Anfrage im Center, Laufzeit 1, 12 oder 18 Monate |
+| **Startgebühr** | Einmalig, die Höhe steht im Vertrag |
 | **1 Monat inklusive Startgebühr** | 143 € (Gutschein) |
 | **Probetraining** | 25 €, 45 Minuten mit Coach, Rundgang und Einweisung |
 | **Alter** | Ab 18 Jahren, ab 16 Jahren mit Zustimmung der Eltern |
@@ -62,14 +62,14 @@ Das Kursprogramm pro Center siehst du auf der Website von body + soul.
 
 <h2 id="preise">Preise</h2>
 
-- **Mitgliedschaft:** [PREIS] pro Monat. Die Laufzeit ist 1, 12 oder 18 Monate.
-- **Startgebühr:** [PREIS] einmalig. Sie wird nicht erstattet.
+- **Mitgliedschaft:** Den Monatsbeitrag nennt body + soul auf der Website nicht. Frag im Center nach dem aktuellen Preis. Die Laufzeit ist 1, 12 oder 18 Monate.
+- **Startgebühr:** Einmalig, die Höhe steht in deinem Vertrag. Sie wird nicht erstattet.
 - **1 Monat zum Ausprobieren:** Der 1-Monats-Gutschein kostet 143 € und enthält einen Monat Mitgliedschaft mit Monatsbeitrag und einmaliger Startgebühr. Bei einer direkten Folgemitgliedschaft entfällt die Startgebühr. Der Gutschein ist übertragbar, nicht erstattbar und nicht mit Aktionen kombinierbar. Unter 18 Jahren brauchst du die schriftliche Einwilligung der Eltern.
 - **Probetraining:** Das Probetraining dauert 45 Minuten und kostet 25 € (Listenpreis). Ein Coach zeigt dir das Center und weist dich an passenden Geräten ein. Du buchst es online.
 - **Bezahlen:** Per SEPA-Lastschrift. Der Monatsbeitrag wird im Voraus berechnet.
 - **Kinder:** Der Kids Club ist für Mitglieder kostenlos, für Kinder von 3 Monaten bis 6 Jahren.
 
-<p class="klein">Die Preise stehen auf bodyandsoul.de nicht als feste Liste. Prüfe Preis und Startgebühr bei body + soul.</p>
+<p class="klein">Auf bodyandsoul.de steht keine Preisliste für die Mitgliedschaft. Frag den Preis bei body + soul an.</p>
 
 <h2 id="kuendigen">Kündigen und Pause</h2>
 
@@ -88,7 +88,7 @@ Willst du dich nicht lange binden, wähle die Laufzeit von einem Monat.
 <details open>
 <summary>Was kostet body + soul?</summary>
 
-Der Preis hängt vom Vertrag ab. Du wählst eine Laufzeit von 1, 12 oder 18 Monaten, dazu kommt eine einmalige Startgebühr. Aktuelle Preise findest du bei body + soul.
+Der Monatsbeitrag steht nicht auf der Website. Du wählst eine Laufzeit von 1, 12 oder 18 Monaten, dazu kommt eine einmalige Startgebühr. Genau wie viel, erfährst du bei body + soul. Ein Probetraining kostet 25 €, ein Monat inklusive Startgebühr 143 €.
 
 </details>
 
