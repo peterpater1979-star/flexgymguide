@@ -16,6 +16,39 @@ In Hamburg trainierst du flexibel vor allem in Eppendorf, Eimsbüttel, Winterhud
 
 <div class="kolommen vier">
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+### ClassPass
+
+Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Eppendorf, Eimsbüttel und Altona. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-hamburg">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+
+### Fitness First
+
+217 Clubs in Deutschland, 17 in Hamburg. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+</div>
+
+</div>
+
 <div id="mrs-sporty" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
@@ -92,6 +125,20 @@ EASYFITNESS hat in Hamburg Studios in Altona, Rahlstedt, Wandsbek und Jenfeld. A
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+### McFit
+
+Günstige Kette, auch in Hamburg. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop" href="/de/mcfit/">McFit ansehen</a>
+</div>
+
+</div>
+
 <div id="fitx" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
@@ -142,53 +189,6 @@ JOHN REED hat in Hamburg Clubs in Harburg und Wandsbek, mit Design, Musik und Ku
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
-
-### ClassPass
-
-Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Eppendorf, Eimsbüttel und Altona. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-hamburg">Teste 1 Monat gratis mit 10 Workouts</a>
-<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
-
-### Fitness First
-
-217 Clubs in Deutschland, 17 in Hamburg. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
-</div>
-
-<div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
-
-### McFit
-
-Günstige Kette, auch in Hamburg. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
-
-<div class="knoppen">
-<a class="knop" href="/de/mcfit/">McFit ansehen</a>
 </div>
 
 </div>
@@ -442,15 +442,29 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 
 ### Andere Städte
 
+- [Flexibel trainieren in Augsburg](/de/augsburg/)
 - [Flexibel trainieren in Berlin](/de/berlin/)
-- [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)
-- [Flexibel trainieren in Köln](/de/koeln/)
-- [Flexibel trainieren in München](/de/muenchen/)
+- [Flexibel trainieren in Bochum](/de/bochum/)
+- [Flexibel trainieren in Bonn](/de/bonn/)
+- [Flexibel trainieren in Bremen](/de/bremen/)
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
-- [Flexibel trainieren in Stuttgart](/de/stuttgart/)
-- [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
-- [Flexibel trainieren in Leipzig](/de/leipzig/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
+- [Flexibel trainieren in Dresden](/de/dresden/)
+- [Flexibel trainieren in Duisburg](/de/duisburg/)
+- [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
+- [Flexibel trainieren in Essen](/de/essen/)
+- [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)
+- [Flexibel trainieren in Hannover](/de/hannover/)
+- [Flexibel trainieren in Karlsruhe](/de/karlsruhe/)
+- [Flexibel trainieren in Köln](/de/koeln/)
+- [Flexibel trainieren in Leipzig](/de/leipzig/)
+- [Flexibel trainieren in Mannheim](/de/mannheim/)
+- [Flexibel trainieren in Mönchengladbach](/de/moenchengladbach/)
+- [Flexibel trainieren in München](/de/muenchen/)
+- [Flexibel trainieren in Münster](/de/muenster/)
+- [Flexibel trainieren in Nürnberg](/de/nuernberg/)
+- [Flexibel trainieren in Stuttgart](/de/stuttgart/)
+- [Flexibel trainieren in Wiesbaden](/de/wiesbaden/)
 - [Flexibel trainieren in Österreich](/at/)
 
 </div>
@@ -459,7 +473,7 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 
 ### Erklärt
 
-- Was kostet ClassPass in Deutschland? (bald)
+- [Was kostet ClassPass in Deutschland?](/de/classpass/#kosten)
 - [Alles über ClassPass](/de/classpass/)
 - [How ClassPass works (EN)](/guides/how-classpass-works/)
 

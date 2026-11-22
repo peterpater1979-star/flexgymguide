@@ -26,7 +26,7 @@ Urban Sports Club ist ein Sportpass mit einem festen Preis pro Monat. Mit deiner
 | **Städte** | Berlin und viele weitere Städte in Deutschland |
 | **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Partnerstudios in mehreren europäischen Ländern |
 
-<p class="klein">Quelle: urbansportsclub.com, Preise der monatlich kündbaren Mitgliedschaft in Berlin (November 2026), inklusive Mehrwertsteuer. Preise können je nach Stadt abweichen. Prüfe die aktuellen Preise immer auf ihrer Website.</p>
+<p class="klein">Quelle: urbansportsclub.com, Preise der monatlich kündbaren Mitgliedschaft in Berlin (November 2026). Preise können je nach Stadt abweichen. Prüfe die aktuellen Preise immer auf ihrer Website.</p>
 
 <h2 id="mitgliedschaften">Die Mitgliedschaften in Berlin</h2>
 

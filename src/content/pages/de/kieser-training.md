@@ -60,17 +60,37 @@ Kieser hat 113 Studios in Deutschland, in fast allen größeren Städten. In uns
 | Stadt | Studios |
 | --- | --- |
 | [Berlin](/de/berlin/) | 9: Charlottenburg, Köpenick, Marzahn, Mitte, Neukölln, Prenzlauer Berg, Reinickendorf, Steglitz, Wilmersdorf |
-| [München](/de/muenchen/) | 7: Giesing, Haidhausen, Neuhausen, Pasing, Schwabing, Sendling, Trudering |
+| [Düsseldorf](/de/duesseldorf/) | 2: Oberkassel, Wehrhahn |
+| [Frankfurt](/de/frankfurt/) | 3: Ostend, Innenstadt (Marienturm), Nordend |
 | [Hamburg](/de/hamburg/) | 6: Altona, Eimsbüttel, Harburg, Poppenbüttel, Rahlstedt, Winterhude |
 | [Köln](/de/koeln/) | 4: Braunsfeld, Deutz, Neustadt-Nord, Rodenkirchen |
-| [Frankfurt](/de/frankfurt/) | 3: Ostend, Innenstadt (Marienturm), Nordend |
-| [Düsseldorf](/de/duesseldorf/) | 2: Oberkassel, Wehrhahn |
-| [Stuttgart](/de/stuttgart/) | 2: Mitte, Feuerbach, und 1 in Fellbach |
 | [Leipzig](/de/leipzig/) | 1: Mitte |
-| [Dortmund](/de/dortmund/) | 1: Innenstadt (Hiltropwall) |
-| [Darmstadt](/de/darmstadt/) | 1: Gräfenhäuser Straße |
+| [München](/de/muenchen/) | 7: Giesing, Haidhausen, Neuhausen, Pasing, Schwabing, Sendling, Trudering |
+| [Stuttgart](/de/stuttgart/) | 2: Mitte, Feuerbach, und 1 in Fellbach |
 
-Weitere Studios gibt es unter anderem in Bremen, Hannover, Nürnberg, Dresden, Essen, Bonn, Mannheim, Karlsruhe, Freiburg und Potsdam. In Österreich und der Schweiz lies [Kieser in Österreich](/at/kieser-training/) und [Kieser in der Schweiz](/ch/kieser-training/).
+<details class="meer-steden">
+<summary>Weitere 14 Städte anzeigen</summary>
+
+| Stadt | Studios |
+| --- | --- |
+| [Augsburg](/de/augsburg/) | 1 |
+| [Bonn](/de/bonn/) | 2, u. a. Bad Godesberg |
+| [Bremen](/de/bremen/) | 2: Mitte, Vegesack |
+| [Darmstadt](/de/darmstadt/) | 1: Gräfenhäuser Straße |
+| [Dortmund](/de/dortmund/) | 1: Innenstadt (Hiltropwall) |
+| [Dresden](/de/dresden/) | 2: Gruna, Neustadt |
+| [Duisburg](/de/duisburg/) | 1 |
+| [Essen](/de/essen/) | 2: Rüttenscheid, Zentrum |
+| [Hannover](/de/hannover/) | 2: Calenberger Neustadt, Südstadt |
+| [Karlsruhe](/de/karlsruhe/) | 1 |
+| [Mannheim](/de/mannheim/) | 1 |
+| [Münster](/de/muenster/) | 1 |
+| [Nürnberg](/de/nuernberg/) | 2: Gleißhammer, Rosenau |
+| [Wiesbaden](/de/wiesbaden/) | 1: Biebrich |
+
+</details>
+
+Weitere Studios gibt es unter anderem in Freiburg und Potsdam. In Österreich und der Schweiz lies [Kieser in Österreich](/at/kieser-training/) und [Kieser in der Schweiz](/ch/kieser-training/).
 
 <h2 id="kuendigen">Kündigen</h2>
 

@@ -16,6 +16,39 @@ Frankfurt ist eine Pilates-Stadt: Auf ClassPass findest du besonders viele Refor
 
 <div class="kolommen vier">
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+### ClassPass
+
+Ein Abo auf Credit-Basis mit besonders viel Reformer-Pilates, dazu HIIT, Boxen und Indoor-Cycling. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-frankfurt">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+
+### Fitness First
+
+217 Clubs in Deutschland, 11 in Frankfurt. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+</div>
+
+</div>
+
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
@@ -64,6 +97,20 @@ Rostudios hat in Bornheim ein Studio für Roform, Reformer-Kurse ähnlich wie Pi
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+### McFit
+
+Günstige Kette, auch in Frankfurt. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop" href="/de/mcfit/">McFit ansehen</a>
+</div>
+
+</div>
+
 <div id="basic-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
@@ -82,49 +129,16 @@ Basic-Fit hat in Frankfurt Clubs am Grüneburgweg und an der Europa-Allee. Ab 24
 
 </div>
 
-<div class="kolom kaart">
+<div id="classy-pilates" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+<div class="fotokop foto-classy-pilates"><span>Reformer-Studio</span></div>
 
-### ClassPass
+<h3>Classy Pilates</h3>
 
-Ein Abo auf Credit-Basis mit besonders viel Reformer-Pilates, dazu HIIT, Boxen und Indoor-Cycling. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-frankfurt">Teste 1 Monat gratis mit 10 Workouts</a>
-<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
-
-### Fitness First
-
-217 Clubs in Deutschland, 11 in Frankfurt. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
-</div>
+Classy Pilates hat in Frankfurt 6 Studios für Reformer Pilates und Powerformer, vom Bahnhofsviertel bis Bornheim. Karten ab 19,95 € pro Kurs, Einzelkurs 28 €.
 
 <div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
-
-### McFit
-
-Günstige Kette, auch in Frankfurt. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
-
-<div class="knoppen">
-<a class="knop" href="/de/mcfit/">McFit ansehen</a>
+<a class="knop knop-rand" href="/de/classy-pilates/">Alles über Classy Pilates</a>
 </div>
 
 </div>
@@ -248,6 +262,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 3 Studios |
 | **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
+| **[Classy Pilates](/de/classy-pilates/)** | Karten ab 19,95 € pro Kurs (20er Karte), Einzelkurs 28 €, Mitgliedschaft: frag nach | Karten ohne Vertrag, Mitgliedschaft 1, 6 oder 12 Monate | 6 Reformer-Studios |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -336,15 +351,29 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 
 ### Andere Städte
 
+- [Flexibel trainieren in Augsburg](/de/augsburg/)
 - [Flexibel trainieren in Berlin](/de/berlin/)
-- [Flexibel trainieren in Hamburg](/de/hamburg/)
-- [Flexibel trainieren in Köln](/de/koeln/)
-- [Flexibel trainieren in München](/de/muenchen/)
+- [Flexibel trainieren in Bochum](/de/bochum/)
+- [Flexibel trainieren in Bonn](/de/bonn/)
+- [Flexibel trainieren in Bremen](/de/bremen/)
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
-- [Flexibel trainieren in Stuttgart](/de/stuttgart/)
-- [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
-- [Flexibel trainieren in Leipzig](/de/leipzig/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
+- [Flexibel trainieren in Dresden](/de/dresden/)
+- [Flexibel trainieren in Duisburg](/de/duisburg/)
+- [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
+- [Flexibel trainieren in Essen](/de/essen/)
+- [Flexibel trainieren in Hamburg](/de/hamburg/)
+- [Flexibel trainieren in Hannover](/de/hannover/)
+- [Flexibel trainieren in Karlsruhe](/de/karlsruhe/)
+- [Flexibel trainieren in Köln](/de/koeln/)
+- [Flexibel trainieren in Leipzig](/de/leipzig/)
+- [Flexibel trainieren in Mannheim](/de/mannheim/)
+- [Flexibel trainieren in Mönchengladbach](/de/moenchengladbach/)
+- [Flexibel trainieren in München](/de/muenchen/)
+- [Flexibel trainieren in Münster](/de/muenster/)
+- [Flexibel trainieren in Nürnberg](/de/nuernberg/)
+- [Flexibel trainieren in Stuttgart](/de/stuttgart/)
+- [Flexibel trainieren in Wiesbaden](/de/wiesbaden/)
 - [Flexibel trainieren in Österreich](/at/)
 
 </div>
@@ -353,7 +382,7 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 
 ### Erklärt
 
-- Was kostet ClassPass in Deutschland? (bald)
+- [Was kostet ClassPass in Deutschland?](/de/classpass/#kosten)
 - [Alles über ClassPass](/de/classpass/)
 - [How ClassPass works (EN)](/guides/how-classpass-works/)
 

@@ -16,6 +16,39 @@ Berlin hat beim flexiblen Training eine riesige Auswahl. Auf ClassPass findest d
 
 <div class="kolommen vier">
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+### ClassPass
+
+Ein Abo auf Credit-Basis für Studios in ganz Berlin, von Lagree in Mitte bis Boxen in Kreuzberg. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-berlin">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+
+### Fitness First
+
+217 Clubs in Deutschland, 15 in Berlin. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+</div>
+
+</div>
+
 <div id="mrs-sporty" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
@@ -78,6 +111,20 @@ Rostudios hat fünf Studios in Berlin: Rocycle (Indoor-Cycling) in Mitte, Friedr
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+### McFit
+
+Günstige Kette, auch in Berlin. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop" href="/de/mcfit/">McFit ansehen</a>
+</div>
+
+</div>
+
 <div id="fitx" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
@@ -134,53 +181,6 @@ JOHN REED hat in Berlin Clubs in Kreuzberg, Prenzlauer Berg, Friedrichshain, Cha
 
 <div class="kolom kaart">
 
-<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
-
-### ClassPass
-
-Ein Abo auf Credit-Basis für Studios in ganz Berlin, von Lagree in Mitte bis Boxen in Kreuzberg. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-berlin">Teste 1 Monat gratis mit 10 Workouts</a>
-<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
-
-### Fitness First
-
-217 Clubs in Deutschland, 15 in Berlin. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
-</div>
-
-<div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
-
-### McFit
-
-Günstige Kette, auch in Berlin. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
-
-<div class="knoppen">
-<a class="knop" href="/de/mcfit/">McFit ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
 <div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
 
 ### Holmes Place
@@ -189,6 +189,20 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 6 Clubs in Berlin. Den
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
+</div>
+
+</div>
+
+<div id="open-studios-berlin" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-open-studios-berlin"><span>Boutique-Studio</span></div>
+
+<h3>Open Studios Berlin</h3>
+
+Yoga, Pilates, Sculpt, Sound und Red Light in 7 Studios in Berlin, mit Einzelstunde ab 22 €, Karten und Mitgliedschaft.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/open-studios-berlin/">Alles über Open Studios Berlin</a>
 </div>
 
 </div>
@@ -336,6 +350,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | Mehrere Clubs |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 9 Studios |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer) |
+| **[Open Studios Berlin](/de/open-studios-berlin/)** | Einzelstunde 22 €, Open Membership ab 79 € (ein Studio) oder 99 € (alle Studios) | 6 Monate Mindestlaufzeit mit automatischer Verlängerung, oder Karten ohne Vertrag | 7 Studios (Yoga und Pilates) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -424,15 +439,29 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 
 ### Andere Städte
 
-- [Flexibel trainieren in Hamburg](/de/hamburg/)
-- [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)
-- [Flexibel trainieren in Köln](/de/koeln/)
-- [Flexibel trainieren in München](/de/muenchen/)
+- [Flexibel trainieren in Augsburg](/de/augsburg/)
+- [Flexibel trainieren in Bochum](/de/bochum/)
+- [Flexibel trainieren in Bonn](/de/bonn/)
+- [Flexibel trainieren in Bremen](/de/bremen/)
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
-- [Flexibel trainieren in Stuttgart](/de/stuttgart/)
-- [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
-- [Flexibel trainieren in Leipzig](/de/leipzig/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
+- [Flexibel trainieren in Dresden](/de/dresden/)
+- [Flexibel trainieren in Duisburg](/de/duisburg/)
+- [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
+- [Flexibel trainieren in Essen](/de/essen/)
+- [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)
+- [Flexibel trainieren in Hamburg](/de/hamburg/)
+- [Flexibel trainieren in Hannover](/de/hannover/)
+- [Flexibel trainieren in Karlsruhe](/de/karlsruhe/)
+- [Flexibel trainieren in Köln](/de/koeln/)
+- [Flexibel trainieren in Leipzig](/de/leipzig/)
+- [Flexibel trainieren in Mannheim](/de/mannheim/)
+- [Flexibel trainieren in Mönchengladbach](/de/moenchengladbach/)
+- [Flexibel trainieren in München](/de/muenchen/)
+- [Flexibel trainieren in Münster](/de/muenster/)
+- [Flexibel trainieren in Nürnberg](/de/nuernberg/)
+- [Flexibel trainieren in Stuttgart](/de/stuttgart/)
+- [Flexibel trainieren in Wiesbaden](/de/wiesbaden/)
 - [Flexibel trainieren in Österreich](/at/)
 
 </div>
@@ -441,7 +470,7 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 
 ### Erklärt
 
-- Was kostet ClassPass in Deutschland? (bald)
+- [Was kostet ClassPass in Deutschland?](/de/classpass/#kosten)
 - [Alles über ClassPass](/de/classpass/)
 - [How ClassPass works (EN)](/guides/how-classpass-works/)
 
