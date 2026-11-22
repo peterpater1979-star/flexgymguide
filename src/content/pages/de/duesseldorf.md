@@ -32,6 +32,56 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Düsseldorf ei
 
 </div>
 
+<div id="rostudios" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Reformer-Studio</span></div>
+
+<h3>Rostudios</h3>
+
+Rostudios hat in Flingern-Nord und Pempelfort zwei Studios für Roform, Reformer-Kurse ähnlich wie Pilates. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
+</div>
+
+</div>
+
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat in Düsseldorf Clubs in Bilk, Friedrichstadt und in den Düsseldorf Arcaden, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -89,56 +139,6 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 3 Clubs in Düsseldorf
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
-</div>
-
-</div>
-
-<div id="fitx" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
-
-<h3>FitX</h3>
-
-FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
-</div>
-
-</div>
-
-<div id="john-reed" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
-
-<h3>JOHN REED</h3>
-
-JOHN REED hat in Düsseldorf Clubs in Bilk, Friedrichstadt und in den Düsseldorf Arcaden, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
-</div>
-
-</div>
-
-<div id="rostudios" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-rostudios-reformer"><span>Reformer-Studio</span></div>
-
-<h3>Rostudios</h3>
-
-Rostudios hat in Flingern-Nord und Pempelfort zwei Studios für Roform, Reformer-Kurse ähnlich wie Pilates. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
 </div>
 
 </div>
@@ -261,12 +261,13 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 
 | Anbieter | Preis pro Monat | Laufzeit | In Düsseldorf |
 | --- | --- | --- | --- |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 2 Studios: Flingern und Oberbilk |
+| **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Reformer-Studios (Flingern-Nord, Pempelfort) |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 4 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 3 Clubs |
-| **[YOUPILA](/de/youpila/)** | ONE Abo 120 €, oder Karten ab 25 € pro Kurs | Abo mindestens 12 Monate, oder Karten ohne Vertrag | 4 Studios (Reformer und Barre in Unterbilk und Pempelfort) |
-| **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Reformer-Studios (Flingern-Nord, Pempelfort) |
-| **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 1 Reformer-Studio (Unterbilk) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios (Oberkassel, Wehrhahn) |
+| **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 1 Reformer-Studio (Unterbilk) |
+| **[YOUPILA](/de/youpila/)** | ONE Abo 120 €, oder Karten ab 25 € pro Kurs | Abo mindestens 12 Monate, oder Karten ohne Vertrag | 4 Studios (Reformer und Barre in Unterbilk und Pempelfort) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

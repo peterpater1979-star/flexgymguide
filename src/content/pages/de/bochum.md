@@ -16,6 +16,21 @@ In Bochum trainierst du flexibel mit Urban Sports Club oder ClassPass, oder in e
 
 <div class="kolommen vier">
 
+<div id="classpass" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+<h3>ClassPass</h3>
+
+Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Bochum gibt es vor allem Yoga und Pilates, dazu Gym-Besuche. Mit demselben Abo trainierst du auch in Herne, Essen und Dortmund. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-bochum">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
+
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
@@ -30,17 +45,20 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Bochum ein, vo
 
 </div>
 
-<div id="classpass" class="kolom kaart aanbiederkaart">
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
 
-<h3>ClassPass</h3>
+<h3>clever fit</h3>
 
-Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Bochum gibt es vor allem Yoga und Pilates, dazu Gym-Besuche. Mit demselben Abo trainierst du auch in Herne, Essen und Dortmund. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+clever fit hat in Bochum 1 Studio. Preise je nach Studio, oft auch monatlich kündbar.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-bochum">Teste 1 Monat gratis mit 10 Workouts</a>
-<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
 
 </div>
@@ -77,24 +95,6 @@ FitX hat in Bochum 4 Studios: Innenstadt, Riemke, Harpen und Wattenscheid, alle 
 
 </div>
 
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Bochum 1 Studio. Preise je nach Studio, oft auch monatlich kündbar.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
-</div>
-
-</div>
-
 <div id="basic-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
@@ -121,9 +121,10 @@ Basic-Fit hat in Bochum 1 Club. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit
 
 | Anbieter | Preis pro Monat | Laufzeit | In Bochum |
 | --- | --- | --- | --- |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Kemnader Straße |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 4 Studios: Grumme, Hofstede, Innenstadt und Wattenscheid |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 4 Studios: Innenstadt, Riemke, Harpen und Wattenscheid |
-| **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Kemnader Straße |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>

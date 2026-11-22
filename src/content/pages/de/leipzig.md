@@ -32,53 +32,6 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Leipzig ein. M
 
 </div>
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
-
-### ClassPass
-
-Ein Abo auf Credit-Basis für Yoga, Pilates und Bootcamp im Park, vor allem im Zentrum und im Westen. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
-
-<div class="knoppen">
-<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-leipzig">Teste 1 Monat gratis mit 10 Workouts</a>
-<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
-
-### Fitness First
-
-217 Clubs in Deutschland, 2 in Leipzig. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
-</div>
-
-<div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
-
-### McFit
-
-Günstige Kette, auch in Leipzig. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
-
-<div class="knoppen">
-<a class="knop" href="/de/mcfit/">McFit ansehen</a>
-</div>
-
-</div>
-
 <div id="clever-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
@@ -129,6 +82,53 @@ JOHN REED hat einen Club in Leipzig, mit Design, Musik und Kursen. Flex ist mona
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+### ClassPass
+
+Ein Abo auf Credit-Basis für Yoga, Pilates und Bootcamp im Park, vor allem im Zentrum und im Westen. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-leipzig">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+
+### Fitness First
+
+217 Clubs in Deutschland, 2 in Leipzig. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+### McFit
+
+Günstige Kette, auch in Leipzig. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop" href="/de/mcfit/">McFit ansehen</a>
 </div>
 
 </div>
@@ -230,6 +230,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 
 | Anbieter | Preis pro Monat | Laufzeit | In Leipzig |
 | --- | --- | --- | --- |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio: Südvorstadt |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club |

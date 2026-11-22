@@ -16,6 +16,20 @@ Berlin hat beim flexiblen Training eine riesige Auswahl. Auf ClassPass findest d
 
 <div class="kolommen vier">
 
+<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+<h3>Mrs.Sporty</h3>
+
+Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Berlin. 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
 <div id="urban-sports-club" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
@@ -28,6 +42,92 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Berlin ein. Mo
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Berlin mehrere Studios, unter anderem in Charlottenburg, Marzahn, Pankow und Zehlendorf. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="rostudios" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios"><span>Boutique-Studio</span></div>
+
+<h3>Rostudios</h3>
+
+Rostudios hat fünf Studios in Berlin: Rocycle (Indoor-Cycling) in Mitte, Friedrichshain und am Ku’damm, Roform (Reformer) in Charlottenburg und Prenzlauer Berg. Unlimited 79 € pro Monat.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
+</div>
+
+</div>
+
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Berlin über zehn Studios, unter anderem am Alexanderplatz, in Moabit, Schöneberg und am Ku'damm, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Berlin mehrere Clubs, unter anderem in der Oranienburger Straße und der Gerichtstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat in Berlin Clubs in Kreuzberg, Prenzlauer Berg, Friedrichshain, Charlottenburg und Gesundbrunnen, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
 </div>
 
 </div>
@@ -89,106 +189,6 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 6 Clubs in Berlin. Den
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
-</div>
-
-</div>
-
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Berlin mehrere Studios, unter anderem in Charlottenburg, Marzahn, Pankow und Zehlendorf. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
-</div>
-
-</div>
-
-<div id="fitx" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
-
-<h3>FitX</h3>
-
-FitX hat in Berlin über zehn Studios, unter anderem am Alexanderplatz, in Moabit, Schöneberg und am Ku'damm, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
-</div>
-
-</div>
-
-<div id="john-reed" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
-
-<h3>JOHN REED</h3>
-
-JOHN REED hat in Berlin Clubs in Kreuzberg, Prenzlauer Berg, Friedrichshain, Charlottenburg und Gesundbrunnen, mit Design, Musik und Kursen. Flex ist monatlich kündbar und kostet je nach Club-Kategorie 60 bis 80 € im Monat; McFit-Studios sind inklusive.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
-</div>
-
-</div>
-
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>Basic-Fit</h3>
-
-Basic-Fit hat in Berlin mehrere Clubs, unter anderem in der Oranienburger Straße und der Gerichtstraße. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
-</div>
-
-</div>
-
-<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
-
-<h3>Mrs.Sporty</h3>
-
-Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Berlin. 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
-</div>
-
-</div>
-
-<div id="rostudios" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-rostudios"><span>Boutique-Studio</span></div>
-
-<h3>Rostudios</h3>
-
-Rostudios hat fünf Studios in Berlin: Rocycle (Indoor-Cycling) in Mitte, Friedrichshain und am Ku’damm, Roform (Reformer) in Charlottenburg und Prenzlauer Berg. Unlimited 79 € pro Monat.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
 </div>
 
 </div>
@@ -327,14 +327,15 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 
 | Anbieter | Preis pro Monat | Laufzeit | In Berlin |
 | --- | --- | --- | --- |
-| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Mehrere Studios |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | Über zehn Studios |
-| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | Mehrere Clubs |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | Mehrere Clubs |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio: Moabit |
 | **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | Mehrere Clubs |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | Mehrere Studios |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 5 Studios (Rocycle und Roform) |
-| **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer) |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | Über zehn Studios |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | Mehrere Clubs |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | Mehrere Clubs |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 9 Studios |
+| **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

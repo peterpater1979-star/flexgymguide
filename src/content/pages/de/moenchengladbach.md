@@ -16,20 +16,6 @@ In Mönchengladbach trainierst du flexibel mit Urban Sports Club oder in einer K
 
 <div class="kolommen vier">
 
-<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
-
-<h3>Urban Sports Club</h3>
-
-Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Mönchengladbach ein, von Yoga bis Bouldern. Monatlich kündbar.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
-</div>
-
-</div>
-
 <div id="classpass" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -59,6 +45,38 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Mönchengladbach ist das
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Mönchengladbach ein, von Yoga bis Bouldern. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Mönchengladbach 1 Studio. Preise je nach Studio, oft auch monatlich kündbar.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
 </div>
 
 </div>
@@ -95,24 +113,6 @@ FitX hat in Mönchengladbach 2 Studios: Waldhausen und Rheydt, alle 24 Stunden g
 
 </div>
 
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Mönchengladbach 1 Studio. Preise je nach Studio, oft auch monatlich kündbar.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
-</div>
-
-</div>
-
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -137,9 +137,10 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 3 Clubs in M�
 
 | Anbieter | Preis pro Monat | Laufzeit | In Mönchengladbach |
 | --- | --- | --- | --- |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio |
+| **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Rheindahlener Straße |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 2 Studios, u. a. Pesch |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios: Waldhausen und Rheydt |
-| **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Rheindahlener Straße |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

@@ -32,6 +32,56 @@ Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Frankfurt ein.
 
 </div>
 
+<div id="clever-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>clever fit</h3>
+
+clever fit hat in Frankfurt ein Studio in Höchst. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="rostudios" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Reformer-Studio</span></div>
+
+<h3>Rostudios</h3>
+
+Rostudios hat in Bornheim ein Studio für Roform, Reformer-Kurse ähnlich wie Pilates. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
+</div>
+
+</div>
+
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Frankfurt Clubs am Grüneburgweg und an der Europa-Allee. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
@@ -75,56 +125,6 @@ Günstige Kette, auch in Frankfurt. Flex 49,90 € im Monat, mit Laufzeit ab 24,
 
 <div class="knoppen">
 <a class="knop" href="/de/mcfit/">McFit ansehen</a>
-</div>
-
-</div>
-
-<div id="clever-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>clever fit</h3>
-
-clever fit hat in Frankfurt ein Studio in Höchst. Preise je nach Studio, zum Beispiel 44,90 € alle 4 Wochen mit 12 Monaten Laufzeit; in den meisten Studios gibt es auch einen monatlich kündbaren Tarif.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
-</div>
-
-</div>
-
-<div id="basic-fit" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
-
-<h3>Basic-Fit</h3>
-
-Basic-Fit hat in Frankfurt Clubs am Grüneburgweg und an der Europa-Allee. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
-</div>
-
-</div>
-
-<div id="rostudios" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-rostudios-reformer"><span>Reformer-Studio</span></div>
-
-<h3>Rostudios</h3>
-
-Rostudios hat in Bornheim ein Studio für Roform, Reformer-Kurse ähnlich wie Pilates. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
 </div>
 
 </div>
@@ -244,10 +244,10 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | Anbieter | Preis pro Monat | Laufzeit | In Frankfurt |
 | --- | --- | --- | --- |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio, zum Beispiel 44,90 € pro 4 Wochen | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio (Höchst) |
-| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 1 Reformer-Studio (Bornheim) |
-| **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 2 Clubs |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 3 Studios |
+| **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
