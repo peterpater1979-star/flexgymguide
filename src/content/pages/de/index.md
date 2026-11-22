@@ -11,33 +11,9 @@ kicker: "Länderguide Deutschland"
 
 Ohne langen Vertrag bei einem einzigen Studio trainieren geht auf zwei Arten: mit einem Sportpass wie ClassPass oder bei einer Fitnesskette mit flexiblen Bedingungen. Hier liest du, was zu dir passt und in welchen Städten.
 
-<h2 id="opties">Vier Wege, flexibel zu trainieren</h2>
+<h2 id="opties">Flexibel trainieren: Sportpässe und Fitnessketten</h2>
 
-<div class="kolommen">
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
-
-### Urban Sports Club
-
-Ein fester Preis pro Monat für Check-ins an über 17.200 Partnerstandorten.
-
-<div class="usc-plan">
-<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € im Monat</span></p>
-<ul>
-<li>1 Check-in pro Tag</li>
-<li>Bis zu 30 Live-Online-Kurse</li>
-<li>Video on Demand ohne Limit</li>
-<li>Kündigung 3 Tage vor der Verlängerung</li>
-</ul>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
-</div>
-
-</div>
+<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
@@ -87,82 +63,56 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-mcfit"><span>Günstige Fitnesskette</span></div>
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
 
-### McFit
+### all inclusive Fitness
 
-Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
+Über 200 Studios in Deutschland, Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €.
 
 <div class="infoblok">
-<ul>
-<li>Gut, wenn du günstig und oft trainieren willst</li>
-<li>Flex: monatlich kündbar</li>
-<li>Über 230 Studios in Europa</li>
-</ul>
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
 </div>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
 </div>
 
 </div>
-
-</div>
-
-<div id="steden">
-
-## Städte
-
-<h3 class="steden-kop">Große Städte</h3>
-
-<ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios · YTTP · Kieser · all inclusive Fitness</span></li>
-<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · JOHN REED · YOUPILA · Rostudios · YTTP · Kieser · all inclusive Fitness</span></li>
-<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · clever fit · Rostudios · Drops Barre · Kieser</span></li>
-<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · YOUPILA · Rostudios · Drops Barre · YTTP · Kieser</span></li>
-<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios · Drops Barre · YTTP · Kieser · all inclusive Fitness</span></li>
-<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · JOHN REED · clever fit · Kieser · all inclusive Fitness</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios · Drops Barre · Kieser · all inclusive Fitness</span></li>
-<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit · Kieser · all inclusive Fitness</span></li>
-</ul>
-
-<h3 class="steden-kop">Weitere Städte</h3>
-
-<ul class="stedenlijst stedenlijst-kort">
-<li><a href="/de/augsburg/"><strong>Augsburg</strong></a></li>
-<li><a href="/de/bochum/"><strong>Bochum</strong></a></li>
-<li><a href="/de/bonn/"><strong>Bonn</strong></a></li>
-<li><a href="/de/bremen/"><strong>Bremen</strong></a></li>
-<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
-<li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
-<li><a href="/de/dresden/"><strong>Dresden</strong></a></li>
-<li><a href="/de/duisburg/"><strong>Duisburg</strong></a></li>
-<li><a href="/de/essen/"><strong>Essen</strong></a></li>
-<li><a href="/de/hannover/"><strong>Hannover</strong></a></li>
-<li><a href="/de/karlsruhe/"><strong>Karlsruhe</strong></a></li>
-<li><a href="/de/mannheim/"><strong>Mannheim</strong></a></li>
-<li><a href="/de/moenchengladbach/"><strong>Mönchengladbach</strong></a></li>
-<li><a href="/de/muenster/"><strong>Münster</strong></a></li>
-<li><a href="/de/nuernberg/"><strong>Nürnberg</strong></a></li>
-<li><a href="/de/wiesbaden/"><strong>Wiesbaden</strong></a></li>
-</ul>
-
-</div>
-
-<h2 id="andere">Weitere Fitnessstudios und Sportpässe</h2>
-
-<div class="kolommen vier">
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
 
-### Holmes Place
+### Mrs.Sporty
 
-Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kursen und Wellness. Den Preis erfährst du bei einem Besuch im Club.
+Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training in einer kleinen Gruppe, zwei- bis dreimal pro Woche. Preise je nach Club.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
+<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+### Urban Sports Club
+
+Ein fester Preis pro Monat für Check-ins an über 17.200 Partnerstandorten.
+
+<div class="usc-plan">
+<p class="usc-plan-kop"><strong>Classic</strong> <span>75 € im Monat</span></p>
+<ul>
+<li>1 Check-in pro Tag</li>
+<li>Bis zu 30 Live-Online-Kurse</li>
+<li>Video on Demand ohne Limit</li>
+<li>Kündigung 3 Tage vor der Verlängerung</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
 
 </div>
@@ -181,6 +131,56 @@ Nach Zahl der Studios die größte Fitnesskette Deutschlands, mit über 500 Stud
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios"><span>Boutique-Studio</span></div>
+
+### Rostudios
+
+Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, Köln, Hamburg, Düsseldorf, Frankfurt und München. Unlimited 79 € pro Monat.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-easyfitness"><span>Fitnesskette</span></div>
+
+### EASYFITNESS
+
+Über 200 Studios, vor allem in Norddeutschland, mit Geräten, Cardio und Functional-Bereich. Ab 27,99 € im Monat, mit Flex-Tarif monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/easyfitness/">Alles über EASYFITNESS</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mcfit"><span>Günstige Fitnesskette</span></div>
+
+### McFit
+
+Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Flex ohne feste Laufzeit für 49,90 € im Monat, oder 12 und 24 Monate günstiger.
+
+<div class="infoblok">
+<ul>
+<li>Gut, wenn du günstig und oft trainieren willst</li>
+<li>Flex: monatlich kündbar</li>
+<li>Über 230 Studios in Europa</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
 </div>
 
 </div>
@@ -241,42 +241,32 @@ Fast 100 Clubs in Deutschland und über 1.700 in Europa. Ab 24,99 € pro 4 Woch
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-easyfitness"><span>Fitnesskette</span></div>
+<div class="fotokop foto-holmes-place"><span>Premium-Club</span></div>
 
-### EASYFITNESS
+### Holmes Place
 
-Über 200 Studios, vor allem in Norddeutschland, mit Geräten, Cardio und Functional-Bereich. Ab 27,99 € im Monat, mit Flex-Tarif monatlich kündbar.
+Premium-Fitnessclub mit 14 Clubs in sechs deutschen Städten, mit Service, Kursen und Wellness. Den Preis erfährst du bei einem Besuch im Club.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/easyfitness/">Alles über EASYFITNESS</a>
+<a class="knop knop-rand" href="/de/holmes-place/">Alles über Holmes Place</a>
 </div>
 
 </div>
 
 <div class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
 
-### Mrs.Sporty
+### Kieser
 
-Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training in einer kleinen Gruppe, zwei- bis dreimal pro Woche. Preise je nach Club.
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. 113 Studios in Deutschland. 89 € im Monat mit 12 Monaten, 69 € mit 24 Monaten.
 
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
 </div>
 
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-rostudios"><span>Boutique-Studio</span></div>
-
-### Rostudios
-
-Boutique-Studio für Indoor-Cycling (Rocycle) und Reformer (Roform), in Berlin, Köln, Hamburg, Düsseldorf, Frankfurt und München. Unlimited 79 € pro Monat.
-
 <div class="knoppen">
-<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
 </div>
 
 </div>
@@ -309,41 +299,45 @@ Boutique-Studio für Barre-Kurse, in München, Frankfurt, Köln und Hamburg. Unl
 
 </div>
 
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
-
-### Kieser
-
-Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. 113 Studios in Deutschland. 89 € im Monat mit 12 Monaten, 69 € mit 24 Monaten.
-
-<div class="infoblok">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
 </div>
 
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
-</div>
+<div id="steden">
 
-</div>
+## Städte
 
-<div class="kolom kaart aanbiederkaart">
+<h3 class="steden-kop">Große Städte</h3>
 
-<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
+<ul class="stedenlijst">
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios · YTTP · Kieser · all inclusive Fitness</span></li>
+<li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · JOHN REED · YOUPILA · Rostudios · YTTP · Kieser · all inclusive Fitness</span></li>
+<li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · clever fit · Rostudios · Drops Barre · Kieser</span></li>
+<li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · YOUPILA · Rostudios · Drops Barre · YTTP · Kieser</span></li>
+<li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios · Drops Barre · YTTP · Kieser · all inclusive Fitness</span></li>
+<li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · JOHN REED · clever fit · Kieser · all inclusive Fitness</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios · Drops Barre · Kieser · all inclusive Fitness</span></li>
+<li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit · Kieser · all inclusive Fitness</span></li>
+</ul>
 
-### all inclusive Fitness
+<h3 class="steden-kop">Weitere Städte</h3>
 
-Über 200 Studios in Deutschland, Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €.
-
-<div class="infoblok">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
-</div>
-
-</div>
+<ul class="stedenlijst stedenlijst-kort">
+<li><a href="/de/augsburg/"><strong>Augsburg</strong></a></li>
+<li><a href="/de/bochum/"><strong>Bochum</strong></a></li>
+<li><a href="/de/bonn/"><strong>Bonn</strong></a></li>
+<li><a href="/de/bremen/"><strong>Bremen</strong></a></li>
+<li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
+<li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
+<li><a href="/de/dresden/"><strong>Dresden</strong></a></li>
+<li><a href="/de/duisburg/"><strong>Duisburg</strong></a></li>
+<li><a href="/de/essen/"><strong>Essen</strong></a></li>
+<li><a href="/de/hannover/"><strong>Hannover</strong></a></li>
+<li><a href="/de/karlsruhe/"><strong>Karlsruhe</strong></a></li>
+<li><a href="/de/mannheim/"><strong>Mannheim</strong></a></li>
+<li><a href="/de/moenchengladbach/"><strong>Mönchengladbach</strong></a></li>
+<li><a href="/de/muenster/"><strong>Münster</strong></a></li>
+<li><a href="/de/nuernberg/"><strong>Nürnberg</strong></a></li>
+<li><a href="/de/wiesbaden/"><strong>Wiesbaden</strong></a></li>
+</ul>
 
 </div>
 
