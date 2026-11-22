@@ -10,7 +10,7 @@ crumb: "Münster"
 kicker: "Stadtguide Münster"
 ---
 
-In Münster trainierst du flexibel mit Urban Sports Club oder in einer Kette: Fitness First hat 2 Clubs, dazu kommen McFit, FitX, clever fit und Kieser. Praktisch für Studierende: Viele Studios liegen gut erreichbar mit dem Rad. Hier siehst du, was zu dir passt.
+In Münster trainierst du flexibel mit Urban Sports Club oder in einer Kette: Fitness First hat 2 Clubs, dazu kommen McFit, FitX, clever fit, Kieser und Rostudios für Reformer-Kurse. Praktisch für Studierende: Viele Studios liegen gut erreichbar mit dem Rad. Hier siehst du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -113,6 +113,20 @@ clever fit hat in Münster 1 Studio. Preise je nach Studio, oft auch monatlich k
 
 </div>
 
+<div id="rostudios" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-rostudios-reformer"><span>Reformer-Studio</span></div>
+
+<h3>Rostudios</h3>
+
+Rostudios hat in Münster ein Studio für Roform (City, Aegidiistraße), Reformer-Kurse ähnlich wie Pilates. Unlimited kostet 79 € pro Monat bei 12 Monaten Laufzeit, oder du zahlst pro Kurs.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/rostudios/">Alles über Rostudios</a>
+</div>
+
+</div>
+
 <div id="kieser-training" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-kieser"><span>Krafttraining</span></div>
@@ -157,6 +171,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 Clubs in M�
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 1 Studio |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios: Kinderhaus und Berg Fidel |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Münster Süd |
+| **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 1 Reformer-Studio (City, Aegidiistraße) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
