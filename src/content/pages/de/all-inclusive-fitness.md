@@ -2,7 +2,7 @@
 title: "all inclusive Fitness: Studios, Leistungen und Probetraining"
 seoTitle: "all inclusive Fitness: Studios, Leistungen und Probetraining"
 path: "/de/all-inclusive-fitness/"
-description: "Alles über all inclusive Fitness (AI Fitness): über 200 Studios in Deutschland, Öffnungszeiten, Ausstattung wie Sauna und Kursraum, Probetraining und Studios in deiner Stadt."
+description: "Alles über all inclusive Fitness (AI Fitness): ALL IN für 49,95 € im Monat, monatlich kündbar, über 200 Studios, Leistungen wie Kurse, Sauna und Getränke, Probetraining."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -25,7 +25,8 @@ all inclusive Fitness, kurz AI Fitness, ist eine Fitnesskette mit über 200 Stud
 | --- | --- |
 | **Art** | Fitnesskette mit eigenen Studios |
 | **Studios** | Über 200 in Deutschland |
-| **Preis** | Je nach Studio und Laufzeit, siehe [Preisübersicht der Kette](https://www.ai-fitness.de/preise) |
+| **Preis** | ALL IN 49,95 € im Monat, einmalig 45 € Starterpaket |
+| **Vertrag** | Mindestlaufzeit 1 Monat, danach jederzeit mit einem Monat Frist kündbar |
 | **Öffnungszeiten** | Je nach Studio, meist täglich bis Mitternacht |
 | **Ausstattung** | Je nach Studio, zum Beispiel Freihanteln, Kursraum, Vibrationsplatte, Sauna, Solarium und Massage |
 | **Ausprobieren** | Probetraining online buchbar |
@@ -43,13 +44,29 @@ Ausstattung und Öffnungszeiten unterscheiden sich von Studio zu Studio. Zwei Be
 | **Ausstattung** | Freihanteln, Kursraum, Vibrationsplatte, Sauna, Solarium, Ladies-Area | Freihanteln, Vibrationsplatte, Solarium |
 | **Service** | Massage | Massage |
 
-Schau vor dem Vertrag auf die Seite deines Studios: Dort stehen Öffnungszeiten, Ausstattung und die Möglichkeit, ein Probetraining zu buchen. Laut der Website trainierst du mit deiner Mitgliedschaft in über 200 Studios deutschlandweit.
+Schau vor dem Vertrag auf die Seite deines Studios: Dort stehen Öffnungszeiten, Ausstattung und die Möglichkeit, ein Probetraining zu buchen. Mit deiner Mitgliedschaft trainierst du laut der Website in über 200 Studios deutschlandweit.
 
 <p class="klein">Quelle: <a href="https://www.ai-fitness.de/studios">ai-fitness.de/studios</a> (November 2026).</p>
 
 <h2 id="preise">Preis, Laufzeit und Kündigung</h2>
 
-Den Preis, die Laufzeit und die Kündigungsfrist findest du in der Preisübersicht der Kette. Sie können je nach Tarif und Studio abweichen, also lies sie vor dem Abschluss. Einen Überblick, worauf du bei Fitnessstudio-Verträgen achten kannst, findest du in [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/) und in [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
+| Tarif | Preis | Laufzeit |
+| --- | --- | --- |
+| ALL IN | 49,95 € im Monat | Mindestlaufzeit 1 Monat, danach monatlich kündbar |
+| Starterpaket | 45 € einmalig | – |
+
+Das Starterpaket umfasst Transpondergebühr, Aktivierung, Einweisung und Trainingsplan. Service-, Hygiene- und Energiepauschale sind im Monatspreis enthalten. Der Vertrag beginnt am Ersten des Monats nach dem Abschluss. Für die Zeit dazwischen zahlst du anteilig den Monatsbeitrag (Vorabnutzungsgebühr).
+
+**Was ist im ALL IN Tarif enthalten?**
+
+- Ausdauer-, Kraft-, Freihantel-, Functional- und Vibrationstraining
+- Kurse, Duschen, Wasser, Mineralgetränke und Parken
+- Training in über 200 Studios, persönliche Trainingsbetreuung und Bodycheck
+- Massageliege, Solarium und Sauna (Kurse, Solarium und Sauna nicht an allen Standorten gleichermaßen, Solarium erst ab 18 Jahren)
+
+**Vertrag und Kündigung:** Nach der Mindestlaufzeit von einem Monat verlängert sich der Vertrag auf unbestimmte Zeit, wenn du nicht spätestens einen Monat vor Ablauf kündigst. Danach kannst du jederzeit mit einer Frist von einem Monat kündigen. Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
+
+<p class="klein">Quelle: <a href="https://www.ai-fitness.de/preise">ai-fitness.de/preise</a> (November 2026). Preise und Bedingungen können je nach Studio abweichen. Prüfe sie vor dem Abschluss.</p>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="https://www.ai-fitness.de/preise">Preise bei all inclusive Fitness</a>
@@ -108,6 +125,20 @@ Laut der Website der Kette sind es über 200 Studios in Deutschland. In Österre
 <summary>Wie lange sind die Studios geöffnet?</summary>
 
 Das hängt vom Studio ab. In Münster sind die Studios zum Beispiel von Montag bis Freitag von 6 bis 24 Uhr geöffnet, am Wochenende von 8 bis 22 Uhr. In Bassum sind es täglich 5 bis 24 Uhr. Rund um die Uhr geöffnet sind sie nach den Angaben, die wir gelesen haben, nicht.
+
+</details>
+
+<details>
+<summary>Was kostet all inclusive Fitness im Monat?</summary>
+
+Der ALL IN Tarif kostet 49,95 € im Monat, dazu kommt einmalig das Starterpaket für 45 €. Service-, Hygiene- und Energiepauschale sind im Monatspreis enthalten.
+
+</details>
+
+<details>
+<summary>Kann ich monatlich kündigen?</summary>
+
+Ja. Die Mindestlaufzeit beträgt 1 Monat. Danach verlängert sich der Vertrag auf unbestimmte Zeit und ist jederzeit mit einer Frist von einem Monat kündbar.
 
 </details>
 

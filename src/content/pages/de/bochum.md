@@ -125,7 +125,7 @@ Basic-Fit hat in Bochum 1 Club. Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 4 Studios: Innenstadt, Riemke, Harpen und Wattenscheid |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Kemnader Straße |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club |
-| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Je nach Studio und Laufzeit | Je nach Tarif | 1 Studio |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | ALL IN 49,95 €, plus einmalig 45 € Starterpaket | Monatlich kündbar | 1 Studio |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
