@@ -115,25 +115,32 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 
 ## Cities
 
+<h3 class="steden-kop">Big cities</h3>
+
 <ul class="stedenlijst">
+<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · David Lloyd</span></li>
+<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
 <li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · Anytime Fitness · David Lloyd · Virgin Active</span></li>
 <li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness · Village Gym · David Lloyd · Virgin Active</span></li>
-<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · David Lloyd</span></li>
-<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
 <li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
 <li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd · Virgin Active</span></li>
-<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
 <li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Virgin Active</span></li>
-<li><a href="/uk/edinburgh/"><strong>Edinburgh</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/cardiff/"><strong>Cardiff</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/southampton/"><strong>Southampton</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/reading/"><strong>Reading</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/coventry/"><strong>Coventry</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/portsmouth/"><strong>Portsmouth</strong></a> <span class="klein">ClassPass · The Gym Group · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/milton-keynes/"><strong>Milton Keynes</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · David Lloyd</span></li>
-<li><a href="/uk/bournemouth/"><strong>Bournemouth</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
+</ul>
+
+<h3 class="steden-kop">More cities</h3>
+
+<ul class="stedenlijst stedenlijst-kort">
+<li><a href="/uk/bournemouth/"><strong>Bournemouth</strong></a></li>
+<li><a href="/uk/cardiff/"><strong>Cardiff</strong></a></li>
+<li><a href="/uk/coventry/"><strong>Coventry</strong></a></li>
+<li><a href="/uk/edinburgh/"><strong>Edinburgh</strong></a></li>
+<li><a href="/uk/milton-keynes/"><strong>Milton Keynes</strong></a></li>
+<li><a href="/uk/portsmouth/"><strong>Portsmouth</strong></a></li>
+<li><a href="/uk/reading/"><strong>Reading</strong></a></li>
+<li><a href="/uk/southampton/"><strong>Southampton</strong></a></li>
 </ul>
 
 </div>
