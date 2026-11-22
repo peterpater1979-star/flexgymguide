@@ -134,9 +134,11 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 
 <ul class="stedenlijst stedenlijst-kort">
 <li><a href="/uk/bournemouth/"><strong>Bournemouth</strong></a></li>
+<li><a href="/uk/brighton/"><strong>Brighton</strong></a></li>
 <li><a href="/uk/cardiff/"><strong>Cardiff</strong></a></li>
 <li><a href="/uk/coventry/"><strong>Coventry</strong></a></li>
 <li><a href="/uk/edinburgh/"><strong>Edinburgh</strong></a></li>
+<li><a href="/uk/leicester/"><strong>Leicester</strong></a></li>
 <li><a href="/uk/milton-keynes/"><strong>Milton Keynes</strong></a></li>
 <li><a href="/uk/portsmouth/"><strong>Portsmouth</strong></a></li>
 <li><a href="/uk/reading/"><strong>Reading</strong></a></li>
