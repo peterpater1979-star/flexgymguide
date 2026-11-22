@@ -91,12 +91,19 @@ Schritt für Schritt: [JOHN REED kündigen](/de/john-reed-kuendigen/).
 
 JOHN REED hat Clubs in diesen Städten aus unserem Ratgeber:
 
+- [Augsburg](/de/augsburg/#john-reed): Innenstadt
 - [Berlin](/de/berlin/#john-reed): unter anderem Kreuzberg, Prenzlauer Berg, Friedrichshain, Charlottenburg und Gesundbrunnen
-- [Hamburg](/de/hamburg/#john-reed): Harburg und Wandsbek
-- [Düsseldorf](/de/duesseldorf/#john-reed): Bilk, Friedrichstadt und Düsseldorf Arcaden
-- [Stuttgart](/de/stuttgart/#john-reed)
-- [Leipzig](/de/leipzig/#john-reed)
+- [Bonn](/de/bonn/#john-reed): Bad Godesberg
 - [Dortmund](/de/dortmund/#john-reed): Gartenstadt
+- [Dresden](/de/dresden/#john-reed): Altstadt, gegenüber dem Zwinger
+- [Duisburg](/de/duisburg/#john-reed): Rathaus, Innenstadt
+- [Düsseldorf](/de/duesseldorf/#john-reed): Bilk, Friedrichstadt und Düsseldorf Arcaden
+- [Essen](/de/essen/#john-reed): Rüttenscheid (Rüttenscheider Stern)
+- [Hamburg](/de/hamburg/#john-reed): Harburg und Wandsbek
+- [Hannover](/de/hannover/#john-reed): Nordstadt (Weidendamm)
+- [Leipzig](/de/leipzig/#john-reed)
+- [Mannheim](/de/mannheim/#john-reed): Innenstadt
+- [Stuttgart](/de/stuttgart/#john-reed)
 
 Alle Clubs findest du bei [JOHN REED](https://johnreed.fitness/).
 

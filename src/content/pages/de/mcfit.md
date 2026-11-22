@@ -81,6 +81,22 @@ McFit-Preise und andere Möglichkeiten ohne lange Laufzeit findest du in:
 - [Fitnessstudio ohne Vertrag in Dortmund](/de/fitnessstudio-ohne-vertrag-dortmund/)
 - [Fitnessstudio ohne Vertrag in Darmstadt](/de/fitnessstudio-ohne-vertrag-darmstadt/)
 
+McFit hat außerdem Studios in diesen Städten aus unserem Ratgeber:
+
+- [Augsburg](/de/augsburg/#mcfit): Göggingen und Innenstadt
+- [Bochum](/de/bochum/#mcfit): Grumme, Hofstede, Innenstadt und Wattenscheid
+- [Bonn](/de/bonn/#mcfit)
+- [Bremen](/de/bremen/#mcfit): Altstadt, Bahnhofsvorstadt, Kattenturm und Vahr
+- [Dresden](/de/dresden/#mcfit)
+- [Duisburg](/de/duisburg/#mcfit): Hamborn und Wanheimerort
+- [Essen](/de/essen/#mcfit): Bergerhausen, Nordviertel und Westviertel
+- [Hannover](/de/hannover/#mcfit): Südstadt, Vahrenheide und Wülfel
+- [Mannheim](/de/mannheim/#mcfit)
+- [Mönchengladbach](/de/moenchengladbach/#mcfit)
+- [Münster](/de/muenster/#mcfit)
+- [Nürnberg](/de/nuernberg/#mcfit): Doos, Gibitzenhof, Gostenhof und Mögeldorf
+- [Wiesbaden](/de/wiesbaden/#mcfit)
+
 <h2 id="classpass">McFit oder ClassPass?</h2>
 
 Gehst du dreimal pro Woche oder öfter ins selbe Gym, ist ein Studio wie McFit meistens günstiger. Willst du zwischen Yoga, Boxen und Spinning in verschiedenen Studios wechseln oder trainierst du ein- bis dreimal pro Woche, passt ein Sportpass wie ClassPass oft besser. Lies [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
