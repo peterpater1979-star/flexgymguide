@@ -32,24 +32,6 @@ Ein Abo auf Credit-Basis für Pilates, Yoga, Indoor-Cycling und Boxen, vor allem
 
 </div>
 
-<div class="kolom kaart">
-
-<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
-
-### Fitness First
-
-217 Clubs in Deutschland, 4 in Stuttgart. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
-</div>
-
-<div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
-</div>
-
-</div>
-
 <div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
@@ -64,6 +46,24 @@ Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Mona
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart">
+
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+
+### Fitness First
+
+217 Clubs in Deutschland, 4 in Stuttgart. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>
