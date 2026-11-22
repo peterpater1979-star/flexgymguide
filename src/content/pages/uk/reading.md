@@ -22,7 +22,7 @@ In Reading you can book studios across the city with a fitness pass, or join a g
 
 ### ClassPass
 
-[CLASSPASS READING: studios and areas from Peter's list]. One credit-based membership, cancel anytime.
+Reformer Pilates in the town centre, bouldering, boxing and dance, and gyms around Reading. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -106,7 +106,10 @@ David Lloyd has a health club in Reading, with group classes and a pool. Each cl
 
 ### Where
 
-[CLASSPASS READING: where, which studios, standard plan price from Peter's list]
+A good mix for a town of this size. Refresh Health on Caversham Road has reformer Pilates and yoga in the town centre, and there is also Pangbourne Pilates just outside Reading. Panda Bear Studio in Earley has Pilates, yoga and aerial classes, ((BOUNCE)) runs mini-trampoline workouts, and for boxing there are Fight Klub and Women's Kickboxing at the Rising Sun Arts Centre. You can also dance at My Dance Land and Dazzle Dance Experience, go bouldering at The Climbing Hangar, play padel at The Padel Hub or train outdoors with BCUK in Cintra Park. CrossFit Reading is in Woodley. For gym visits there are The Atrium Health Club, Elevate Health and Fitness at the stadium, which has a pool, Buzz Gym on King's Road, Nuffield Health and Anytime Fitness in Woodley.
+
+- Reformer Pilates and yoga in the town centre, Earley and Pangbourne
+- Gyms with ClassPass access, including Nuffield Health and Elevate with a pool
 
 How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
