@@ -111,24 +111,6 @@ Eine Premium-Kette mit 3 Clubs in Wien, mit Gym und Kursen. Den Preis erfährst 
 
 </div>
 
-<h2 id="ueberblick">Alle Anbieter auf einen Blick</h2>
-
-<p class="klein">Preise und Bedingungen ändern sich regelmäßig. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
-
-| Anbieter | Art | Preis pro Monat | Laufzeit | In Österreich |
-| --- | --- | --- | --- | --- |
-| **[ClassPass](/at/classpass/)** | Sportpass mit Credits | Je nach Zahl der Credits | Jederzeit kündbar | Vor allem Wien und Umgebung, insgesamt in 31 Ländern nutzbar |
-| **[myClubs](/at/myclubs/)** | Sportpass | FLEX 4 55 € (4 Trainings), UNLIMITED 109 € | Monatlich kündbar, 7 Tage vorher | Vor allem Wien, auch andere Städte |
-| **[McFit](/de/mcfit/)** | Günstige Fitnesskette | Flex ab 34,90 €, mit 12 Monaten ab 24,90 € | Flex oder 12 Monate | Mehrere Studios in Wien |
-| **[clever fit](/at/clever-fit/)** | Günstige Fitnesskette | Je nach Studio, zum Beispiel 39,90 bis 49,90 € | Meist monatlich kündbar oder 6 bis 24 Monate | Studios in Wien und ganz Österreich |
-| **[Fitness First](/de/fitness-first/)** | Fitnessstudiokette | Je nach Club und Mitgliedschaft | 1, 12 oder 24 Monate | 12 Clubs in Österreich, davon 3 in Wien |
-| **[JOHN REED](/at/john-reed/)** | Fitnessclub | Zum Beispiel Flex 60 €, plus 40 € Starterpaket | Flex, monatlich kündbar | Wien, Linz, Salzburg |
-| **[Mrs.Sporty](/at/mrs-sporty/)** | Nur für Frauen | Je nach Club | Je nach Club | Rund 50 Clubs, viele in Wien |
-| **[Holmes Place](/de/holmes-place/)** | Premium-Fitnessclub | Nur im Club | Frag im Club | 3 Clubs in Wien |
-| **[Kieser](/at/kieser-training/)** | Krafttraining an Maschinen, betreut | Rund 90 € (12 Monate) oder 70 € (24 Monate), plus Einführung 150 € | 12 oder 24 Monate | 8 Studios, davon 5 in Wien |
-
-<p class="meer-aanbieders">Und auch: McFit, JOHN REED, clever fit, Mrs.Sporty und Kieser. <a href="#andere">Weitere Fitnessstudios ansehen</a></p>
-
 <h2 id="steden">Wo funktioniert ClassPass?</h2>
 
 ClassPass gibt es in Österreich vor allem in Wien, mit Studios unter anderem in Mariahilf, der Inneren Stadt, Landstraße, Neubau und Wieden. Dazu kommen einige Studios in der Umgebung, etwa in Klosterneuburg, Mödling und Baden. Alles über ClassPass und Fitness First in der Hauptstadt liest du im [Stadtguide Wien](/at/wien/). In der App siehst du, welche Studios und Gyms in deiner Nähe mitmachen.
