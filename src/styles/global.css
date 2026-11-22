@@ -245,3 +245,8 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .infoblok .proef { margin: 0 0 .35rem; font-weight: 600; color: var(--accent); }
 .infoblok .proef:last-child { margin-bottom: 0; }
 .infoblok.kort { padding: .55rem .85rem; margin: .75rem 0 1rem; }
+
+/* Stedenlijst in twee lagen (DE): kopjes en compacte lijst zonder aanbieders */
+.prose h3.steden-kop { margin: 1.25rem 0 .25rem; font-size: 1rem; }
+.stedenlijst-kort { grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); }
+.stedenlijst-kort li { padding: .35rem 0; }
