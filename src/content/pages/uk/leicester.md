@@ -22,7 +22,7 @@ In Leicester you can book studios across the city with a fitness pass, or join a
 
 ### ClassPass
 
-[CLASSPASS LEICESTER: studios and areas from Peter's list]. One credit-based membership, cancel anytime.
+Reformer and rowing Pilates in the city, plus gyms around Leicester. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -92,7 +92,10 @@ David Lloyd has 2 health clubs in and around Leicester (Leicester Meridian and L
 
 ### Where
 
-[CLASSPASS LEICESTER: where, which studios, standard plan price from Peter's list]
+A small choice. In the city there are STRONG Pilates on King Richards Road, a mix of reformer and rowing, and The Reformer Studio in Stoneygate for reformer Pilates and barre. For gym visits there are SYN Gym on New Walk, The Engine Room Fitness Centre and The Fitness Maison, a women-only gym. Around Leicester there are NIX Health and Fitness in East Goscote, South Charnwood Leisure Centre in Syston, which has a pool, Ashfield Pilates in Syston, Wanlip and Birstall and CJ Fitness in Desford.
+
+- Reformer Pilates in the city and Stoneygate
+- Gym visits in Leicester and the villages around it
 
 How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 

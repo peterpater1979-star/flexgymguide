@@ -108,7 +108,7 @@ David Lloyd has 3 health clubs in and around Edinburgh (Corstorphine, Newhaven H
 
 A wide choice across the city. Tribe has yoga, reformer Pilates and cycling at Quartermile, New Town, Leith Walk, Fountainbridge and Stockbridge. For reformer Pilates there are also Tallie Lagree Fitness Studio at Greenside Place, Mena Reformer Pilates in the West End, Luma Pilates in the New Town, Studio Sollo in Fountainbridge and Pointe Ahead Pilates for Pilates and barre. Yoga studios include Tidal Yoga on Leith Walk, Yoga's Got Hot in Comely Bank, Lila Yoga in Bruntsfield and The Yoga Shala. For strength and group training there are F45 in Tanfield, CrossFit MTS, Synergy Group Fitness, The WORX and Low Tide BJJ for martial arts. For gym visits there are Nuffield Health at Omni, Fountain Park and New Mart Road, Village Gym, Energy Gym and Spartan Gym. Just outside the city there are studios in Dalkeith and Loanhead.
 
-[See the studios in Edinburgh on ClassPass.](https://classpass.com/search/edinburgh/fitness-classes/488qMp5WjJP)
+[See the studios in Edinburgh by area and type of workout.](/uk/classpass-edinburgh/)
 
 - Reformer Pilates, Lagree and yoga in the New Town, Leith and Bruntsfield
 - Gyms with ClassPass access, including Nuffield Health and Village Gym
