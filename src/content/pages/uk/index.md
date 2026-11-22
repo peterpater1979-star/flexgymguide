@@ -201,6 +201,98 @@ Small gyms open 24/7, including in London and Manchester. Each club sets its own
 
 </div>
 
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Health club</span></div>
+
+### Nuffield Health
+
+More than 100 Fitness & Wellbeing gyms, many with a pool, in and around 15 of our cities. Each club sets its own price.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you want a gym and a pool</li>
+<li>12-month membership</li>
+<li>Access to other Nuffield gyms</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-snap-fitness"><span>24/7 gym</span></div>
+
+### Snap Fitness
+
+More than 100 gyms in the UK and Ireland, open 24/7, mostly in towns outside the big city centres. Each gym sets its own price.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you train at odd hours</li>
+<li>Access to Snap gyms worldwide</li>
+<li>Cancel with 30 days' notice</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Leisure centres</span></div>
+
+### Freedom Leisure
+
+A not-for-profit trust that runs council leisure centres with a gym, classes and often a pool, for example in Brighton and Hove.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you want a pool close to home</li>
+<li>No long contract</li>
+<li>Prices per centre</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/freedom-leisure/">All about Freedom Leisure</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Group training</span></div>
+
+### F45 Training
+
+Studios for 45-minute group workouts, in London, Manchester, Edinburgh, Glasgow, Brighton and Nottingham. Each studio sets its own price.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you like coached workouts</li>
+<li>Usually your own studio only</li>
+<li>Ask about the notice period</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="steden">
@@ -210,14 +302,14 @@ Small gyms open 24/7, including in London and Manchester. Each club sets its own
 <h3 class="steden-kop">Big cities</h3>
 
 <ul class="stedenlijst">
-<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · David Lloyd</span></li>
-<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · Anytime Fitness · David Lloyd · Virgin Active</span></li>
-<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness · Village Gym · David Lloyd · Virgin Active</span></li>
-<li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Virgin Active</span></li>
+<li><a href="/uk/birmingham/"><strong>Birmingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · David Lloyd · Nuffield Health</span></li>
+<li><a href="/uk/bristol/"><strong>Bristol</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd · Nuffield Health</span></li>
+<li><a href="/uk/glasgow/"><strong>Glasgow</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd · Nuffield Health · F45</span></li>
+<li><a href="/uk/leeds/"><strong>Leeds</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd · Nuffield Health</span></li>
+<li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd · Nuffield Health</span></li>
+<li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · Anytime Fitness · David Lloyd · Virgin Active · Nuffield Health · Snap Fitness · F45</span></li>
+<li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness · Village Gym · David Lloyd · Virgin Active · Nuffield Health · F45</span></li>
+<li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Virgin Active · Nuffield Health</span></li>
 </ul>
 
 <h3 class="steden-kop">More cities</h3>

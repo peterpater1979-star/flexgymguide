@@ -76,6 +76,20 @@ Virgin Active has a health club at Broadfield Park, with a 25-metre pool, a saun
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Health club</span></div>
+
+<h3>Nuffield Health</h3>
+
+Nuffield Health has a Fitness & Wellbeing gym in Sheffield. Each club sets its own price, based on a 12-month membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>

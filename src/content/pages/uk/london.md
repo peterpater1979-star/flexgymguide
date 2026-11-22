@@ -116,6 +116,48 @@ Anytime Fitness has small gyms in London that are open 24/7, for example in Aldg
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Health club</span></div>
+
+<h3>Nuffield Health</h3>
+
+Nuffield Health has many Fitness & Wellbeing gyms in London, for example in the City, Covent Garden, Islington, Paddington, Fulham and Ealing. Many have a pool. Each club sets its own price, based on a 12-month membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="snap-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-snap-fitness"><span>24/7 gym</span></div>
+
+<h3>Snap Fitness</h3>
+
+Snap Fitness has a 24/7 gym at Chancery Lane, on Gray's Inn Road. With a regular membership you can also use other Snap Fitness gyms, in the UK and abroad. Each gym sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
+<div id="f45" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Group training</span></div>
+
+<h3>F45 Training</h3>
+
+F45 has several studios in London, for example at Leadenhall Market and in Peckham, for 45-minute group workouts. Each studio sets its own prices and terms.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overview">

@@ -90,6 +90,34 @@ David Lloyd has a health club in Milton Keynes, with group classes and a pool. E
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Health club</span></div>
+
+<h3>Nuffield Health</h3>
+
+Nuffield Health has a Fitness & Wellbeing gym on Marlborough Gate. Each club sets its own price, based on a 12-month membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="freedom-leisure" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Leisure centres</span></div>
+
+<h3>Freedom Leisure</h3>
+
+Willen Lake Health Club is run by Freedom Leisure, a not-for-profit trust that runs leisure centres for councils. Memberships and prices are set per centre, without a long contract.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/freedom-leisure/">All about Freedom Leisure</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>

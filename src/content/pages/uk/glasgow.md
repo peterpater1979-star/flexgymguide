@@ -90,6 +90,34 @@ Village Gym has a health club in Glasgow with a gym floor, an indoor pool, a sau
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Health club</span></div>
+
+<h3>Nuffield Health</h3>
+
+Nuffield Health has gyms at Glasgow Central and in Giffnock and Milngavie. Each club sets its own price, based on a 12-month membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="f45" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Group training</span></div>
+
+<h3>F45 Training</h3>
+
+F45 has a studio in Glasgow for 45-minute group workouts. The studio sets its own prices and terms.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>

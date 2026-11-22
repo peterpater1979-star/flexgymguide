@@ -90,6 +90,20 @@ Village Gym has two health clubs in Leeds: Leeds North in Headingley and Leeds S
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Health club</span></div>
+
+<h3>Nuffield Health</h3>
+
+Nuffield Health has gyms in Leeds and in Guiseley. Each club sets its own price, based on a 12-month membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>

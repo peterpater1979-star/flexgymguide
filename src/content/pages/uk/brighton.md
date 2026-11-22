@@ -76,6 +76,48 @@ David Lloyd has a health club in Brighton, with group classes and a pool. Each c
 
 </div>
 
+<div id="snap-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-snap-fitness"><span>24/7 gym</span></div>
+
+<h3>Snap Fitness</h3>
+
+Snap Fitness has a 24/7 gym in Hove. With a regular membership you can also use other Snap Fitness gyms. The gym sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
+<div id="freedom-leisure" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Leisure centres</span></div>
+
+<h3>Freedom Leisure</h3>
+
+Freedom Leisure runs the council leisure centres in Brighton and Hove, including the Prince Regent Swimming Complex, the King Alfred Leisure Centre and Withdean Sports Complex. Prices are set per centre, without a long contract.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/freedom-leisure/">All about Freedom Leisure</a>
+</div>
+
+</div>
+
+<div id="f45" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Group training</span></div>
+
+<h3>F45 Training</h3>
+
+F45 has a studio on Fleet Street for 45-minute group workouts. The studio sets its own prices and terms.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>

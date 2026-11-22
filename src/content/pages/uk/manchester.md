@@ -118,6 +118,34 @@ Village Gym has four health clubs around Manchester: in Ashton Moss, Bury, Chead
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Health club</span></div>
+
+<h3>Nuffield Health</h3>
+
+Nuffield Health has gyms at the Printworks in the city centre and in Didsbury. Each club sets its own price, based on a 12-month membership.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="f45" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop"><span>Group training</span></div>
+
+<h3>F45 Training</h3>
+
+F45 has a studio in Manchester for 45-minute group workouts. The studio sets its own prices and terms.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>
