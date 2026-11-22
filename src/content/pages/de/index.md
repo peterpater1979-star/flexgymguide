@@ -153,8 +153,19 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 <h3 class="steden-kop">Weitere Städte</h3>
 
 <ul class="stedenlijst stedenlijst-kort">
+<li><a href="/de/augsburg/"><strong>Augsburg</strong></a></li>
+<li><a href="/de/bonn/"><strong>Bonn</strong></a></li>
+<li><a href="/de/bremen/"><strong>Bremen</strong></a></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
+<li><a href="/de/dresden/"><strong>Dresden</strong></a></li>
+<li><a href="/de/essen/"><strong>Essen</strong></a></li>
+<li><a href="/de/hannover/"><strong>Hannover</strong></a></li>
+<li><a href="/de/mannheim/"><strong>Mannheim</strong></a></li>
+<li><a href="/de/moenchengladbach/"><strong>Mönchengladbach</strong></a></li>
+<li><a href="/de/muenster/"><strong>Münster</strong></a></li>
+<li><a href="/de/nuernberg/"><strong>Nürnberg</strong></a></li>
+<li><a href="/de/wiesbaden/"><strong>Wiesbaden</strong></a></li>
 </ul>
 
 </div>
