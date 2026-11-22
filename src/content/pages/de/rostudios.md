@@ -104,13 +104,6 @@ Ja, in Berlin (Mitte, Friedrichshain und Ku’damm), in Köln am Friesenplatz, i
 </details>
 
 <details>
-<summary>Ist Rostudios bei Urban Sports Club?</summary>
-
-Ja, zum Beispiel Hamburg Altona und München Schwabing. In Hamburg buchst du mit Classic 4 Kurse pro Monat, mit Premium und Max 8. Welche Studios gerade dabei sind, siehst du in der App von Urban Sports Club. Lies auch [Alles über Urban Sports Club](/de/urban-sports-club/).
-
-</details>
-
-<details>
 <summary>Ist Rostudios auf ClassPass?</summary>
 
 Auf ClassPass haben wir Rostudios in Düsseldorf (Flingern-Nord und Pempelfort), in Köln am Friesenplatz und in Münster City gefunden.
