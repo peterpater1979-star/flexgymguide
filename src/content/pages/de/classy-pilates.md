@@ -66,6 +66,8 @@ Aktuelle Zeiten siehst du bei der Buchung auf der Website von Classy Pilates. Me
 
 <div class="fotobanner smal foto-classy-pilates-3" role="img" aria-label="Beinübung am Reformer"></div>
 
+<p class="klein">Foto: Roxana Popovici</p>
+
 <h2 id="preise">Karten und Mitgliedschaft</h2>
 
 - **1 Kurs:** 28 €, 30 Tage gültig.
