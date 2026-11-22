@@ -233,6 +233,7 @@ Ja, vor allem Pilates und Yoga. Welche Studios gerade mitmachen, siehst du in de
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
 - [Flexibel trainieren in Dresden](/de/dresden/)
+- [Flexibel trainieren in Duisburg](/de/duisburg/)
 - [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
 - [Flexibel trainieren in Essen](/de/essen/)
 - [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)

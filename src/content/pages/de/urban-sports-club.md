@@ -91,6 +91,7 @@ Der Pass hat Partnerstudios unter anderem in diesen Städten:
 <li><a href="/de/bonn/"><strong>Bonn</strong></a></li>
 <li><a href="/de/bremen/"><strong>Bremen</strong></a></li>
 <li><a href="/de/dresden/"><strong>Dresden</strong></a></li>
+<li><a href="/de/duisburg/"><strong>Duisburg</strong></a></li>
 <li><a href="/de/essen/"><strong>Essen</strong></a></li>
 <li><a href="/de/hannover/"><strong>Hannover</strong></a></li>
 <li><a href="/de/mannheim/"><strong>Mannheim</strong></a></li>

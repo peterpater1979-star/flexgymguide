@@ -271,6 +271,7 @@ Ja, aber das Angebot ist noch klein. Welche Studios gerade mitmachen, siehst du 
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
 - [Flexibel trainieren in Dresden](/de/dresden/)
+- [Flexibel trainieren in Duisburg](/de/duisburg/)
 - [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
 - [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)
 - [Flexibel trainieren in Hamburg](/de/hamburg/)
