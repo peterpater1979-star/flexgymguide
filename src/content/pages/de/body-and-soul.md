@@ -33,6 +33,7 @@ body + soul wurde 1995 in Ottobrunn gegründet und ist ein Fitnessanbieter mit C
 | **Centers** | 9 in München, dazu Brunnthal und Erding |
 | **Mitgliedschaft** | [PREIS] pro Monat, Laufzeit 1, 12 oder 18 Monate |
 | **Startgebühr** | [PREIS] einmalig |
+| **1 Monat inklusive Startgebühr** | 143 € (Gutschein) |
 | **Probetraining** | 25 €, 45 Minuten mit Coach, Rundgang und Einweisung |
 | **Alter** | Ab 18 Jahren, ab 16 Jahren mit Zustimmung der Eltern |
 | **Kündigen** | Schriftlich, mit einem Monat Frist zum Monatsende nach der Grundlaufzeit |
@@ -40,6 +41,8 @@ body + soul wurde 1995 in Ottobrunn gegründet und ist ein Fitnessanbieter mit C
 <p class="klein">Quelle: bodyandsoul.de, die Seiten zu Standorten, Mitgliedschaft und AGB (AGB Stand April 2023). Prüfe den aktuellen Preis immer bei body + soul.</p>
 
 <h2 id="centers">Die Centers</h2>
+
+Nicht jedes Münchner Center hat alles. Laut body + soul gibt es im Center München Mitte keinen Sportpool, keinen Wellnessbereich und keine Kletterwand. Einen Kids Club gibt es nicht in den Centern Theresienhöhe, München Mitte und WERK12. Keine Kletterwand haben außerdem Englischer Garten, Theresienhöhe, Sendling und WERK12.
 
 | Ort | Center | Adresse |
 | --- | --- | --- |
@@ -61,6 +64,7 @@ Das Kursprogramm pro Center siehst du auf der Website von body + soul.
 
 - **Mitgliedschaft:** [PREIS] pro Monat. Die Laufzeit ist 1, 12 oder 18 Monate.
 - **Startgebühr:** [PREIS] einmalig. Sie wird nicht erstattet.
+- **1 Monat zum Ausprobieren:** Der 1-Monats-Gutschein kostet 143 € und enthält einen Monat Mitgliedschaft mit Monatsbeitrag und einmaliger Startgebühr. Bei einer direkten Folgemitgliedschaft entfällt die Startgebühr. Der Gutschein ist übertragbar, nicht erstattbar und nicht mit Aktionen kombinierbar. Unter 18 Jahren brauchst du die schriftliche Einwilligung der Eltern.
 - **Probetraining:** Das Probetraining dauert 45 Minuten und kostet 25 € (Listenpreis). Ein Coach zeigt dir das Center und weist dich an passenden Geräten ein. Du buchst es online.
 - **Bezahlen:** Per SEPA-Lastschrift. Der Monatsbeitrag wird im Voraus berechnet.
 - **Kinder:** Der Kids Club ist für Mitglieder kostenlos, für Kinder von 3 Monaten bis 6 Jahren.
