@@ -90,7 +90,7 @@ Ja, einmal pro Kalenderjahr für einen Monat, wenn die Grundlaufzeit mindestens 
 <details>
 <summary>Ist body + soul auf ClassPass?</summary>
 
-Ja, wir haben body + soul bei ClassPass in München gefunden. Mehr dazu in unserem [Überblick zu ClassPass in München](/de/classpass-muenchen/).
+Ja, wir haben sechs Centers bei ClassPass gefunden: Englischer Garten, Hirschgarten, München Mitte, München Nord, Sendling und Theresienhöhe. Mehr dazu in unserem [Überblick zu ClassPass in München](/de/classpass-muenchen/).
 
 </details>
 
