@@ -31,6 +31,20 @@ Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Ep
 
 </div>
 
+<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+<h3>Mrs.Sporty</h3>
+
+Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Hamburg. 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
+</div>
+
+</div>
+
 <div class="kolom kaart">
 
 <div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
@@ -45,20 +59,6 @@ Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Ep
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
-</div>
-
-</div>
-
-<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
-
-<h3>Mrs.Sporty</h3>
-
-Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Hamburg. 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
 </div>
 
 </div>
@@ -203,6 +203,66 @@ Premium-Fitnessclub mit Service, Kursen und Wellness, mit 2 Clubs in Hamburg. De
 
 <div class="knoppen">
 <a class="knop" href="/de/holmes-place/">Holmes Place ansehen</a>
+</div>
+
+</div>
+
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Hamburg: 6 Studios.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
+<div id="yttp" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-yttp-2"><span>Boutique-Studio</span></div>
+
+<h3>YTTP</h3>
+
+Boutique-Studio für Reformer Pilates und Strength. Memberships ab 65 € pro Monat, monatlich kündbar. In Hamburg: 2 Reformer-Studios (Neustadt, Ottensen).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/yttp/">Alles über YTTP</a>
+</div>
+
+</div>
+
+<div id="drops-barre" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-drops-barre-2"><span>Boutique-Studio</span></div>
+
+<h3>Drops Barre</h3>
+
+Boutique-Studio für Barre-Kurse. Unlimited ab 89 € pro Monat. In Hamburg: 1 Studio (Barre).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/drops-barre/">Alles über Drops Barre</a>
+</div>
+
+</div>
+
+<div id="youpila" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-youpila"><span>Reformer-Studio</span></div>
+
+<h3>YOUPILA</h3>
+
+Studio für Reformer Pilates. Abo 120 € pro Monat, oder Karten ab 25 € pro Kurs. In Hamburg: 1 Reformer-Studio (Hoheluft).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/youpila/">Alles über YOUPILA</a>
 </div>
 
 </div>
