@@ -88,6 +88,7 @@ Der Pass hat Partnerstudios unter anderem in diesen Städten:
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
 <li><a href="/de/augsburg/"><strong>Augsburg</strong></a></li>
+<li><a href="/de/bochum/"><strong>Bochum</strong></a></li>
 <li><a href="/de/bonn/"><strong>Bonn</strong></a></li>
 <li><a href="/de/bremen/"><strong>Bremen</strong></a></li>
 <li><a href="/de/dresden/"><strong>Dresden</strong></a></li>

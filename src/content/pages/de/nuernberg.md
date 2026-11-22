@@ -228,6 +228,7 @@ Ja, vor allem Pilates und Yoga. Welche Studios gerade mitmachen, siehst du in de
 
 - [Flexibel trainieren in Augsburg](/de/augsburg/)
 - [Flexibel trainieren in Berlin](/de/berlin/)
+- [Flexibel trainieren in Bochum](/de/bochum/)
 - [Flexibel trainieren in Bonn](/de/bonn/)
 - [Flexibel trainieren in Bremen](/de/bremen/)
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)

@@ -130,6 +130,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 
 <ul class="stedenlijst stedenlijst-kort">
 <li><a href="/de/augsburg/"><strong>Augsburg</strong></a></li>
+<li><a href="/de/bochum/"><strong>Bochum</strong></a></li>
 <li><a href="/de/bonn/"><strong>Bonn</strong></a></li>
 <li><a href="/de/bremen/"><strong>Bremen</strong></a></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>

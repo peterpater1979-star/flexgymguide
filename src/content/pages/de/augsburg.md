@@ -265,6 +265,7 @@ Ja, aber das Angebot ist noch klein. Welche Studios gerade mitmachen, siehst du 
 ### Andere Städte
 
 - [Flexibel trainieren in Berlin](/de/berlin/)
+- [Flexibel trainieren in Bochum](/de/bochum/)
 - [Flexibel trainieren in Bonn](/de/bonn/)
 - [Flexibel trainieren in Bremen](/de/bremen/)
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
