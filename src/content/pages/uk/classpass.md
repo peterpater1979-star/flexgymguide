@@ -107,6 +107,8 @@ Read more for your city:
 <li><a href="/uk/cardiff/"><strong>Cardiff</strong></a> <span class="klein">Studios in the city centre, near Cardiff Bay and in Penarth</span></li>
 <li><a href="/uk/southampton/"><strong>Southampton</strong></a> <span class="klein">Studios in the city centre, Eastleigh and Totton</span></li>
 <li><a href="/uk/reading/"><strong>Reading</strong></a> <span class="klein">Studios in the town centre, Earley and Woodley</span></li>
+<li><a href="/uk/portsmouth/"><strong>Portsmouth</strong></a> <span class="klein">Gyms in the city, yoga in Southsea</span></li>
+<li><a href="/uk/coventry/"><strong>Coventry</strong></a> <span class="klein">Gym visits at independent gyms and Village Gym</span></li>
 <li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">Studios in the Lace Market and West Bridgford</span></li>
 <li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">Studios on the Quayside, in Gosforth and Gateshead</span></li>
 </ul>

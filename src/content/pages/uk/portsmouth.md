@@ -22,7 +22,7 @@ In Portsmouth you can book studios across the city with a fitness pass, or join 
 
 ### ClassPass
 
-[CLASSPASS PORTSMOUTH: studios and areas from Peter's list]. One credit-based membership, cancel anytime.
+Yoga in Southsea, martial arts, outdoor bootcamps and gyms across Portsmouth. One credit-based membership, cancel anytime.
 
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/uk/classpass/">See ClassPass</a>
@@ -92,7 +92,10 @@ David Lloyd has a health club at Port Solent, on the north side of Portsmouth Ha
 
 ### Where
 
-[CLASSPASS PORTSMOUTH: where, which studios, standard plan price from Peter's list]
+A small choice, mostly gym visits. In the city there are Jetts on Anchorage Road, which is open 24/7, Anytime Fitness in Cosham, Nuffield Health at Alexandra Park and Village Gym at Lakeshore Drive, both with a pool, and Gym 01 Fitness & Martial Arts on Rodney Road. For yoga there is Yoga by Emily in Southsea, and BCUK runs outdoor bootcamps at the Mountbatten Centre. Nearby there are Snap Fitness in Fareham, Anytime Fitness in Gosport, Horizon in Havant and more BCUK bootcamps in Gosport and Waterlooville.
+
+- Gym visits in Portsmouth, Cosham and Hilsea, yoga in Southsea
+- Also gyms in Fareham, Gosport and Havant
 
 How credits work: [ClassPass credits explained](/guides/classpass-credits/).
 
