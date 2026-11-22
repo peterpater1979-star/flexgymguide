@@ -144,6 +144,9 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-yttp-2 { --foto: url(/img/foto/yttp-2.jpg); --foto-pos: center 25%; }
 .foto-yttp-4 { --foto: url(/img/foto/yttp-4.jpg); background-position: center 30%; }
 .foto-yttp-strength { --foto: url(/img/foto/yttp-strength.jpg); --foto-pos: center 8%; }
+.foto-classy-pilates { --foto: url(/img/foto/classy-pilates.jpg); --foto-pos: center 40%; background-position: center 40%; }
+.foto-classy-pilates-2 { --foto: url(/img/foto/classy-pilates-2.jpg); --foto-pos: center 50%; background-position: center 50%; }
+.foto-classy-pilates-3 { --foto: url(/img/foto/classy-pilates-3.jpg); --foto-pos: center 60%; background-position: center 60%; }
 .foto-drops-barre { --foto: url(/img/foto/drops-barre.jpg); background-position: center 72%; }
 .foto-drops-barre-2 { --foto: url(/img/foto/drops-barre-2.jpg); --foto-pos: center 35%; }
 .foto-go-health-clubs { --foto: url(/img/foto/go-health-clubs.jpg); }
