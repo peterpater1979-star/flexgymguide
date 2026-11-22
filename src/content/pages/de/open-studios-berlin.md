@@ -51,8 +51,8 @@ Laut AGB gelten Karten an allen Standorten. Bei den Preisen unten ist oft ein be
 
 <h2 id="preise">Preise</h2>
 
-- **Probestunde:** 20 € für eine Stunde, 1 Woche gültig.
-- **Drop-in:** 22 € für eine Stunde, 1 Woche gültig.
+- **Probestunde:** 20 € für eine Stunde, je nach Studio 1 Woche oder 1 Monat gültig.
+- **Drop-in:** 22 € für eine Stunde, 1 Woche gültig (in Charlottenburg und Friedrichshain).
 - **Starter Package:** 44 € für 3 Stunden, 1 Monat gültig.
 - **Karten:** 2 Stunden 36 € (1 Monat gültig), 3 Stunden 50 € (1 Monat), 5 Stunden 85 € (6 Monate) und 10 Stunden 170 € (1 Jahr). Für Studierende kosten 10 Stunden 150 €.
 - **Unlimited-Monat:** 89 € für einen Monat.
@@ -60,7 +60,7 @@ Laut AGB gelten Karten an allen Standorten. Bei den Preisen unten ist oft ein be
 - **Open Membership:** 79 € pro Monat für ein Studio, 99 € pro Monat für alle Studios, jeweils mit 6 Monaten Mindestlaufzeit und unbegrenzt vielen Kursen.
 - **Bezahlen:** Du zahlst vorab online, vor Ort gibt es keinen Kartenverkauf und kein Bargeld.
 
-<p class="klein">Preise von November 2026, laut dem Buchungsbereich von Open Studios, hier für die Studios Charlottenburg und Friedrichshain, wo sie gleich sind. Bei anderen Studios können sie abweichen. Prüfe den aktuellen Preis immer bei Open Studios.</p>
+<p class="klein">Preise von November 2026, laut dem Buchungsbereich von Open Studios, hier für die Studios Charlottenburg, Friedrichshain und Wedding, wo sie bis auf die Einzelstunde gleich sind. Bei anderen Studios können sie abweichen. Prüfe den aktuellen Preis immer bei Open Studios.</p>
 
 <h2 id="kuendigen">Kündigen und Stornieren</h2>
 
@@ -78,7 +78,7 @@ Laut AGB gelten Karten an allen Standorten. Bei den Preisen unten ist oft ein be
 <details open>
 <summary>Was kostet Open Studios Berlin?</summary>
 
-Die Probestunde kostet 20 € und die Einzelstunde 22 €. Karten mit 5 Stunden kosten 85 €, mit 10 Stunden 170 €. Die Open Membership kostet 79 € pro Monat für ein Studio und 99 € für alle Studios, bei 6 Monaten Mindestlaufzeit (November 2026, Studios Charlottenburg und Friedrichshain).
+Die Probestunde kostet 20 € und die Einzelstunde 22 €. Karten mit 5 Stunden kosten 85 €, mit 10 Stunden 170 €. Die Open Membership kostet 79 € pro Monat für ein Studio und 99 € für alle Studios, bei 6 Monaten Mindestlaufzeit (November 2026, Studios Charlottenburg, Friedrichshain und Wedding).
 
 </details>
 
