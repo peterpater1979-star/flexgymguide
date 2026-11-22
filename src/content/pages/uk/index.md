@@ -125,8 +125,6 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 <li><a href="/uk/liverpool/"><strong>Liverpool</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
 <li><a href="/uk/london/"><strong>London</strong></a> <span class="klein">ClassPass · Fitness First · The Gym Group · PureGym · Anytime Fitness · David Lloyd · Virgin Active</span></li>
 <li><a href="/uk/manchester/"><strong>Manchester</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Anytime Fitness · Village Gym · David Lloyd · Virgin Active</span></li>
-<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd</span></li>
-<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Village Gym · David Lloyd · Virgin Active</span></li>
 <li><a href="/uk/sheffield/"><strong>Sheffield</strong></a> <span class="klein">ClassPass · The Gym Group · PureGym · Virgin Active</span></li>
 </ul>
 
@@ -140,6 +138,8 @@ Low-cost gyms without a contract, most of them open 24/7. Over 260 gyms across t
 <li><a href="/uk/edinburgh/"><strong>Edinburgh</strong></a></li>
 <li><a href="/uk/leicester/"><strong>Leicester</strong></a></li>
 <li><a href="/uk/milton-keynes/"><strong>Milton Keynes</strong></a></li>
+<li><a href="/uk/newcastle/"><strong>Newcastle</strong></a></li>
+<li><a href="/uk/nottingham/"><strong>Nottingham</strong></a></li>
 <li><a href="/uk/portsmouth/"><strong>Portsmouth</strong></a></li>
 <li><a href="/uk/reading/"><strong>Reading</strong></a></li>
 <li><a href="/uk/southampton/"><strong>Southampton</strong></a></li>
