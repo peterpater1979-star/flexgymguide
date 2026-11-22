@@ -118,6 +118,62 @@ Village Gym has four health clubs around Manchester: in Ashton Moss, Bury, Chead
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gewichten"><span>Health club with pool</span></div>
+
+<h3>Nuffield Health</h3>
+
+2 gyms in Manchester: Printworks and Didsbury. Health club run by a healthcare charity, most with a pool, and access to gyms across the UK. Monthly or 12-month payment options.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="snap-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-snap-fitness"><span>Small 24/7 gym</span></div>
+
+<h3>Snap Fitness</h3>
+
+1 club in Greater Manchester, in Sale. Small gym open 24/7, with classes and access to Snap Fitness clubs worldwide. Each club sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
+<div id="jetts" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+
+<h3>Jetts</h3>
+
+2 gyms in Manchester: Oxford Road and Levenshulme. Gym open 24/7 with all classes included, paid monthly without a lock-in contract.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/jetts/">All about Jetts</a>
+</div>
+
+</div>
+
+<div id="f45" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-eerste-les"><span>HIIT studio</span></div>
+
+<h3>F45 Training</h3>
+
+1 studio in Manchester, in the Northern Quarter. Studio for 45-minute group workouts with a trainer, mixing cardio and strength. Each studio sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>

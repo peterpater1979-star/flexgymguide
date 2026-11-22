@@ -90,6 +90,34 @@ David Lloyd has a health club in Milton Keynes, with group classes and a pool. E
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gewichten"><span>Health club with pool</span></div>
+
+<h3>Nuffield Health</h3>
+
+2 gyms in Milton Keynes: Milton Keynes and Kents Hill Park. Health club run by a healthcare charity, most with a pool, and access to gyms across the UK. Monthly or 12-month payment options.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="snap-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-snap-fitness"><span>Small 24/7 gym</span></div>
+
+<h3>Snap Fitness</h3>
+
+1 club in Milton Keynes. Small gym open 24/7, with classes and access to Snap Fitness clubs worldwide. Each club sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>

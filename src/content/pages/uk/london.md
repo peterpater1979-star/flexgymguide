@@ -116,6 +116,62 @@ Anytime Fitness has small gyms in London that are open 24/7, for example in Aldg
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gewichten"><span>Health club with pool</span></div>
+
+<h3>Nuffield Health</h3>
+
+Over 20 gyms in London, including Bloomsbury, City, Covent Garden, Islington, Paddington, Shoreditch and Wimbledon. Health club run by a healthcare charity, most with a pool, and access to gyms across the UK. Monthly or 12-month payment options.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="snap-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-snap-fitness"><span>Small 24/7 gym</span></div>
+
+<h3>Snap Fitness</h3>
+
+Clubs in Chancery Lane, Elephant and Castle, Greenwich, Tooting, Eltham and more. Small gym open 24/7, with classes and access to Snap Fitness clubs worldwide. Each club sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
+<div id="jetts" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+
+<h3>Jetts</h3>
+
+Gyms in Brixton, Clapham Road, Elephant & Castle, Hammersmith, Wandsworth, West Ealing and more. Gym open 24/7 with all classes included, paid monthly without a lock-in contract.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/jetts/">All about Jetts</a>
+</div>
+
+</div>
+
+<div id="f45" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-eerste-les"><span>HIIT studio</span></div>
+
+<h3>F45 Training</h3>
+
+About 35 studios in London, including Oxford Circus, Old Street, Liverpool Street, Islington, Brixton and Clapham Junction. Studio for 45-minute group workouts with a trainer, mixing cardio and strength. Each studio sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="overview">

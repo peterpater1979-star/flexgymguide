@@ -76,6 +76,34 @@ Virgin Active has a health club at Broadfield Park, with a 25-metre pool, a saun
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gewichten"><span>Health club with pool</span></div>
+
+<h3>Nuffield Health</h3>
+
+1 gym in Sheffield. Health club run by a healthcare charity, most with a pool, and access to gyms across the UK. Monthly or 12-month payment options.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="snap-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-snap-fitness"><span>Small 24/7 gym</span></div>
+
+<h3>Snap Fitness</h3>
+
+1 club in Sheffield, in Woodseats. Small gym open 24/7, with classes and access to Snap Fitness clubs worldwide. Each club sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>

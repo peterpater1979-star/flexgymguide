@@ -76,6 +76,48 @@ David Lloyd has a health club in Brighton, with group classes and a pool. Each c
 
 </div>
 
+<div id="snap-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-snap-fitness"><span>Small 24/7 gym</span></div>
+
+<h3>Snap Fitness</h3>
+
+1 club in Hove. Small gym open 24/7, with classes and access to Snap Fitness clubs worldwide. Each club sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
+<div id="f45" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-eerste-les"><span>HIIT studio</span></div>
+
+<h3>F45 Training</h3>
+
+1 studio in Brighton, Brighton Central. Studio for 45-minute group workouts with a trainer, mixing cardio and strength. Each studio sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
+<div id="freedom-leisure" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gewichten"><span>Leisure centre</span></div>
+
+<h3>Freedom Leisure</h3>
+
+7 sites in Brighton and Hove, including Withdean, Moulsecoomb and the Prince Regent Swimming Complex. One Unlimited Membership covers them all, with 3 pools. Leisure centres run by a charity, with gym, pool and classes. Monthly or yearly payment.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/freedom-leisure/">All about Freedom Leisure</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>

@@ -104,6 +104,34 @@ Village Gym has a health club in Beeston, with a gym floor, a 25-metre indoor po
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gewichten"><span>Health club with pool</span></div>
+
+<h3>Nuffield Health</h3>
+
+1 gym in Nottingham. Health club run by a healthcare charity, most with a pool, and access to gyms across the UK. Monthly or 12-month payment options.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="f45" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-eerste-les"><span>HIIT studio</span></div>
+
+<h3>F45 Training</h3>
+
+1 studio in Nottingham, at Waterside. Studio for 45-minute group workouts with a trainer, mixing cardio and strength. Each studio sets its own price.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>
