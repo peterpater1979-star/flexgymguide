@@ -2,7 +2,7 @@
 title: "Classy Pilates: Reformer Pilates in Frankfurt"
 seoTitle: "Classy Pilates: Reformer, Powerformer und Preise in Frankfurt"
 path: "/de/classy-pilates/"
-description: "Alles über Classy Pilates in Frankfurt am Main: Reformer Pilates, Powerformer, Mat Pilates und Barre. Studios, Kartenpreise, Gültigkeit, Kündigen und Stornieren."
+description: "Alles über Classy Pilates in Frankfurt am Main: Reformer Pilates, Powerformer und Mat Pilates. Studios, Kartenpreise, Gültigkeit, Kündigen und Stornieren."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -10,15 +10,13 @@ crumb: "Classy Pilates"
 kicker: "Anbieter: Boutique-Studio"
 ---
 
-<div class="fotobanner smal foto-rostudios-reformer" role="img" aria-label="Reformer-Studio"></div>
-
 Classy Pilates ist ein Boutique-Studio für Reformer Pilates in Frankfurt am Main, mit Studios im Bahnhofsviertel, in Bornheim, in Sachsenhausen und weiteren Lagen. Du buchst Kurse online, mit einer Karte oder mit einer Mitgliedschaft. Alle Kurse dauern 50 Minuten.
 
 <h2 id="kurz">Kurz und knapp</h2>
 
 | | Classy Pilates |
 | --- | --- |
-| **Art** | Boutique-Studio mit Kursen: Reformer Pilates, Powerformer, Mat Pilates und Barre |
+| **Art** | Boutique-Studio mit Kursen: Reformer Pilates, Powerformer und Mat Pilates |
 | **Studios** | 6 Studios in Frankfurt am Main (Bahnhofsviertel, Bornheim, Sachsenhausen, Mid, Oval) |
 | **Kurse** | 50 Minuten, für alle Levels |
 | **Karten** | 1 Kurs 28 €, 5 Kurse 119 €, 10 Kurse 219 €, 20 Kurse 399 € |
@@ -49,20 +47,20 @@ Ein intensiveres Format auf dem Reformer. Powerformer-Kurse laufen in den Studio
 
 </div>
 
-Dazu gibt es Mat Pilates in Sachsenhausen und Barre im Studio Bahnhofsviertel Ladies. Den aktuellen Kursplan siehst du auf der Website von Classy Pilates.
+Dazu gibt es Mat Pilates in Sachsenhausen. Im Studio Bahnhofsviertel Ladies (2nd Floor) trainieren nur Frauen. Den aktuellen Kursplan siehst du auf der Website von Classy Pilates.
 
 <h2 id="studios">Die Studios in Frankfurt</h2>
 
-| Studio | Kurse |
-| --- | --- |
-| **Bahnhofsviertel** | Reformer Pilates |
-| **Bahnhofsviertel Ladies** | Barre |
-| **Bornheim** | Reformer Pilates |
-| **Sachsenhausen** | Reformer Pilates, Mat Pilates |
-| **Mid** | Powerformer |
-| **Oval** | Powerformer |
+| Studio | Adresse | Kurse |
+| --- | --- | --- |
+| **Bahnhofsviertel, 1st Floor** | Kaiserstraße 61, 60329 Frankfurt | Reformer Pilates |
+| **Bahnhofsviertel Ladies, 2nd Floor** | Kaiserstraße 61, 60329 Frankfurt | Reformer Pilates, nur für Frauen |
+| **Sachsenhausen** | Zum Gipelhof 5, 60594 Frankfurt | Reformer Pilates, Mat Pilates |
+| **Bornheim** | Wiesenstraße 33, 60385 Frankfurt | Reformer Pilates |
+| **Mid** | Große Eschenheimer Straße 45, 60313 Frankfurt | Powerformer |
+| **Oval** | Baseler Straße 10, 60329 Frankfurt | Powerformer |
 
-Die genauen Adressen siehst du bei der Buchung auf der Website von Classy Pilates. Mehr zu den Stadtteilen findest du unter [Flexibel trainieren in Frankfurt](/de/frankfurt/).
+Aktuelle Zeiten siehst du bei der Buchung auf der Website von Classy Pilates. Mehr zu den Stadtteilen findest du unter [Flexibel trainieren in Frankfurt](/de/frankfurt/).
 
 <h2 id="preise">Karten und Mitgliedschaft</h2>
 
