@@ -20,9 +20,9 @@ Jetts is a chain of 24/7 gyms that started in Australia and is growing fast in t
 | --- | --- |
 | **Type** | Gym open 24/7, staffed at set hours |
 | **Gyms** | Over 25 in the UK, with more opening soon |
-| **Price** | Set per gym. Example: Jetts Brixton [PRICE] a month |
+| **Price** | Set per gym. Example: Jetts Brixton £49.95 a month |
 | **Contract** | Monthly rolling, no lock-in contract. Also Paid In Advance, Off Peak and Staffed Access memberships |
-| **Access card** | One-off fee, for example [PRICE] in Brixton |
+| **Access card** | One-off fee, for example £19.50 in Brixton |
 | **Classes** | <span class="ja" aria-hidden="true">✓</span> All classes included |
 | **Other gyms** | <span class="ja" aria-hidden="true">✓</span> All Jetts gyms listed on the website |
 | **Minimum age** | 16, with a parent or guardian for 16 and 17-year-olds |
