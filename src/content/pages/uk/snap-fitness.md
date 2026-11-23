@@ -51,7 +51,7 @@ Most other clubs are in smaller towns across England and Wales, and there is one
 
 - **Cancel:** by email to your home club, with 30 days' notice from the day they receive your email.
 - **Fixed term:** the 30 days' notice only applies after your first term, for example 12 months. Leaving earlier costs a fee set out in your membership terms.
-- **Freeze:** up to 3 months a year according to Snap's FAQs, at up to [PRICE] a month depending on the club. Some clubs have their own rules, so check with yours. You can't cancel while your membership is frozen.
+- **Freeze:** up to 3 months a year according to Snap's FAQs, at up to £3 a month depending on the club. Some clubs have their own rules, so check with yours. You can't cancel while your membership is frozen.
 
 Step by step: [Cancel Snap Fitness](/uk/cancel-snap-fitness/).
 

@@ -71,7 +71,7 @@ Use your home gym at least half of the time. Visiting a gym outside your group c
 - **Cancel:** in writing to your home gym, by email or with a form at the gym. You give a calendar month's notice. If your notice arrives on the 1st, your membership ends on the last day of that month; later in the month, it ends at the end of the next month. Keep your direct debit running until then.
 - **12-month commitment:** you can only leave early for set reasons, such as pregnancy, serious illness or injury, redundancy, or moving more than 5 miles from any Nuffield Health gym.
 - **Online sign-up:** a 14-day cooling-off period with a full refund.
-- **Freeze:** free for 1 to 12 full calendar months in case of pregnancy, serious illness or injury, redundancy or an office move. For other reasons a paid freeze of up to 3 months is possible at [PRICE] a month, paid upfront. A request received by the 15th starts on the 1st of the next month.
+- **Freeze:** free for 1 to 12 full calendar months in case of pregnancy, serious illness or injury, redundancy or an office move. For other reasons a paid freeze of up to 3 months is possible at £10 a month, paid upfront. A request received by the 15th starts on the 1st of the next month.
 
 Step by step: [Cancel Nuffield Health](/uk/cancel-nuffield-health/).
 
