@@ -94,6 +94,13 @@ Usually only the centres in your own area. In Brighton and Hove the Unlimited Me
 
 </details>
 
+<details>
+<summary>Is Freedom Leisure on ClassPass?</summary>
+
+Yes, some Freedom Leisure centres are on ClassPass, such as Withdean, Moulsecoomb and the Prince Regent Swimming Complex in Brighton, the Stour Centre and Julie Rose Stadium in Ashford, Falaise Fitness Centre and Summerfields Leisure Centre in Hastings, and Bexhill Leisure Pool. With ClassPass you can book a visit there without a membership. Read [all about ClassPass](/uk/classpass/).
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/">Flexible fitness in the UK</a>
 <a class="knop knop-rand" href="https://www.freedom-leisure.co.uk/">Freedom Leisure</a>
