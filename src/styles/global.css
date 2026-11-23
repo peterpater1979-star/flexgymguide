@@ -147,6 +147,8 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-classy-pilates { --foto: url(/img/foto/classy-pilates.jpg); --foto-pos: center 40%; background-position: center 40%; }
 .foto-classy-pilates-2 { --foto: url(/img/foto/classy-pilates-2.jpg); --foto-pos: center 50%; background-position: center 50%; }
 .foto-classy-pilates-3 { --foto: url(/img/foto/classy-pilates-3.jpg); --foto-pos: center 60%; background-position: center 60%; }
+.foto-nuffield-health { --foto: url(/img/foto/nuffield-health.jpg); --foto-pos: center 40%; background-position: center 40%; }
+.foto-nuffield-health-2 { --foto: url(/img/foto/nuffield-health-2.jpg); --foto-pos: center 45%; background-position: center 45%; }
 .foto-drops-barre { --foto: url(/img/foto/drops-barre.jpg); background-position: center 72%; }
 .foto-drops-barre-2 { --foto: url(/img/foto/drops-barre-2.jpg); --foto-pos: center 35%; }
 .foto-open-studios-berlin { --foto: url(/img/foto/open-studios-berlin.jpg); --foto-pos: center 40%; background-position: center 40%; }

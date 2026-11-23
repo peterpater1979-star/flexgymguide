@@ -10,7 +10,7 @@ crumb: "Nuffield Health"
 kicker: "Provider: health club"
 ---
 
-<div class="fotobanner smal foto-gewichten" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-nuffield-health-2" role="img" aria-label="Trainer coaching a member on a mat"></div>
 
 Nuffield Health is a healthcare charity with more than 100 Fitness & Wellbeing gyms across the UK. Most gyms have a pool, and many also have a sauna and steam room. Your membership gives you access to more gyms than just your own, and the price depends on your home gym and how many gyms you can use.
 

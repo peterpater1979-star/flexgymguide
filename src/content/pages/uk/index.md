@@ -203,7 +203,7 @@ Small gyms open 24/7, including in London and Manchester. Each club sets its own
 
 <div id="nuffield-health" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gewichten"><span>Health club with pool</span></div>
+<div class="fotokop foto-nuffield-health"><span>Health club with pool</span></div>
 
 ### Nuffield Health
 

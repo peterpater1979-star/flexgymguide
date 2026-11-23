@@ -118,7 +118,7 @@ Anytime Fitness has small gyms in London that are open 24/7, for example in Aldg
 
 <div id="nuffield-health" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gewichten"><span>Health club with pool</span></div>
+<div class="fotokop foto-nuffield-health"><span>Health club with pool</span></div>
 
 <h3>Nuffield Health</h3>
 

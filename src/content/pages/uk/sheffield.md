@@ -78,7 +78,7 @@ Virgin Active has a health club at Broadfield Park, with a 25-metre pool, a saun
 
 <div id="nuffield-health" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gewichten"><span>Health club with pool</span></div>
+<div class="fotokop foto-nuffield-health"><span>Health club with pool</span></div>
 
 <h3>Nuffield Health</h3>
 
