@@ -148,7 +148,7 @@ Village Gym has four health clubs around Manchester: in Ashton Moss, Bury, Chead
 
 <div id="jetts" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+<div class="fotokop foto-jetts"><span>24/7 gym</span></div>
 
 <h3>Jetts</h3>
 

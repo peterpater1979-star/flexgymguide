@@ -92,7 +92,7 @@ Village Gym has a health club next to the Village Hotel in Portsmouth, with a gy
 
 <div id="jetts" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+<div class="fotokop foto-jetts"><span>24/7 gym</span></div>
 
 <h3>Jetts</h3>
 

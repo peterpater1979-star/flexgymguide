@@ -249,7 +249,7 @@ Around 110 small gyms open 24/7, often in smaller towns. Classes included, and a
 
 <div id="jetts" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+<div class="fotokop foto-jetts"><span>24/7 gym</span></div>
 
 ### Jetts
 

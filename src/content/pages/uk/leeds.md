@@ -120,7 +120,7 @@ Village Gym has two health clubs in Leeds: Leeds North in Headingley and Leeds S
 
 <div id="jetts" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+<div class="fotokop foto-jetts"><span>24/7 gym</span></div>
 
 <h3>Jetts</h3>
 

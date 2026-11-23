@@ -146,7 +146,7 @@ Clubs in Chancery Lane, Elephant and Castle, Greenwich, Tooting, Eltham and more
 
 <div id="jetts" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>24/7 gym</span></div>
+<div class="fotokop foto-jetts"><span>24/7 gym</span></div>
 
 <h3>Jetts</h3>
 

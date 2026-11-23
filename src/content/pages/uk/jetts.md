@@ -10,7 +10,7 @@ crumb: "Jetts"
 kicker: "Provider: gym"
 ---
 
-<div class="fotobanner smal foto-gymketen" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-jetts-2" role="img" aria-label="Trainer coaching a member with battle ropes"></div>
 
 Jetts is a chain of 24/7 gyms that started in Australia and is growing fast in the UK, with gyms in and around London, Manchester, Leeds and Birmingham, and in Portsmouth. You pay per month without a lock-in contract, and all classes are included. More gyms are on the way.
 
