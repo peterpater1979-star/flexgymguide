@@ -115,6 +115,13 @@ Yes. All classes are included in your membership, as well as free training progr
 
 </details>
 
+<details>
+<summary>Is Jetts on ClassPass?</summary>
+
+Yes, some Jetts gyms are on ClassPass, such as Portsmouth and Farnborough. With ClassPass you can book a gym visit there without a membership. Read [all about ClassPass](/uk/classpass/).
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/">Flexible fitness in the UK</a>
 <a class="knop knop-rand" href="https://jetts.co.uk/">Jetts</a>
