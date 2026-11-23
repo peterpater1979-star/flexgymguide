@@ -10,7 +10,7 @@ crumb: "Nuffield Health"
 kicker: "Provider: health club"
 ---
 
-<div class="fotobanner smal foto-nuffield-health-2" role="img" aria-label="Trainer coaching a member on a mat"></div>
+<div class="fotobanner smal foto-nuffield-health" role="img" aria-label="Trainer explaining a barbell lift"></div>
 
 Nuffield Health is a healthcare charity with more than 100 Fitness & Wellbeing gyms across the UK. Most gyms have a pool, and many also have a sauna and steam room. Your membership gives you access to more gyms than just your own, and the price depends on your home gym and how many gyms you can use.
 
@@ -63,6 +63,8 @@ Nuffield Health also has gyms in many other towns across England, Scotland and W
 You choose how to pay: standard monthly (you commit to one full calendar month), quarterly in advance, or a discounted option with a 12-month commitment, paid monthly or upfront. There are joint and family memberships, and discounts for students, young adults aged 16 and 17, and some employers. An activation fee may apply, as shown on your membership form.
 
 Use your home gym at least half of the time. Visiting a gym outside your group costs a guest fee at half the normal rate.
+
+<div class="fotobanner smal foto-nuffield-health-2" role="img" aria-label="Trainer coaching a member on a mat"></div>
 
 <h2 id="cancel">Cancelling and freezing</h2>
 

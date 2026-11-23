@@ -10,7 +10,7 @@ crumb: "Jetts"
 kicker: "Provider: gym"
 ---
 
-<div class="fotobanner smal foto-jetts-2" role="img" aria-label="Trainer coaching a member with battle ropes"></div>
+<div class="fotobanner smal foto-jetts" role="img" aria-label="Trainer coaching a member on suspension straps"></div>
 
 Jetts is a chain of 24/7 gyms that started in Australia and is growing fast in the UK, with gyms in and around London, Manchester, Leeds and Birmingham, and in Portsmouth. You pay per month without a lock-in contract, and all classes are included. More gyms are on the way.
 
@@ -51,6 +51,8 @@ Jetts also has gyms in towns such as Accrington, Basingstoke, Colchester, Farnbo
 - **Staffed Access:** only during staffed hours.
 
 Every membership starts with a 7-day cooling-off period: cancel within 7 days by email and you get your fees back.
+
+<div class="fotobanner smal foto-jetts-2" role="img" aria-label="Trainer coaching a member with battle ropes"></div>
 
 <h2 id="cancel">Cancelling and freezing</h2>
 
