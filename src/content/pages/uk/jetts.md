@@ -60,6 +60,8 @@ Every membership starts with a 7-day cooling-off period: cancel within 7 days by
 - **Paid In Advance:** runs until the end of the period you paid for.
 - **Freeze:** possible under the Jetts hold policy. Ask your gym about the length and cost. You can't cancel while your membership is frozen.
 
+Step by step: [Cancel Jetts](/uk/cancel-jetts/).
+
 <h2 id="compare">Jetts, PureGym or ClassPass?</h2>
 
 <div class="kolommen">

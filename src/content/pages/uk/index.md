@@ -400,6 +400,11 @@ Missing something? Most links take you straight to Traininn, the fitness shop of
 - **[Cancel David Lloyd](/uk/cancel-david-lloyd/)** · notice period and alternatives
 - **[Cancel Village Gym](/uk/cancel-village-gym/)** · notice period and alternatives
 - **[Cancel Virgin Active](/uk/cancel-virgin-active/)** · notice period and alternatives
+- **[Cancel Nuffield Health](/uk/cancel-nuffield-health/)** · how to cancel and notice period
+- **[Cancel Snap Fitness](/uk/cancel-snap-fitness/)** · how to cancel and notice period
+- **[Cancel Jetts](/uk/cancel-jetts/)** · how to cancel and notice period
+- **[Cancel F45 Training](/uk/cancel-f45/)** · how to cancel and notice period
+- **[Cancel Freedom Leisure](/uk/cancel-freedom-leisure/)** · how to cancel and notice period
 - **[Gyms without a contract in the UK](/uk/gyms-without-contract/)** · month-by-month options
 
 ## Frequently asked questions

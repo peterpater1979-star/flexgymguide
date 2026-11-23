@@ -46,6 +46,8 @@ What a membership includes depends on the area. Two examples:
 
 Contract, notice period and freezing aren't listed on the centre pages. Ask your centre before you join.
 
+How to cancel: [Cancel Freedom Leisure](/uk/cancel-freedom-leisure/).
+
 <h2 id="compare">Freedom Leisure, a gym chain or ClassPass?</h2>
 
 <div class="kolommen">

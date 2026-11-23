@@ -73,6 +73,8 @@ Use your home gym at least half of the time. Visiting a gym outside your group c
 - **Online sign-up:** a 14-day cooling-off period with a full refund.
 - **Freeze:** free for 1 to 12 full calendar months in case of pregnancy, serious illness or injury, redundancy or an office move. For other reasons a paid freeze of up to 3 months is possible at [PRICE] a month, paid upfront. A request received by the 15th starts on the 1st of the next month.
 
+Step by step: [Cancel Nuffield Health](/uk/cancel-nuffield-health/).
+
 <h2 id="compare">Nuffield Health, David Lloyd or ClassPass?</h2>
 
 <div class="kolommen">
