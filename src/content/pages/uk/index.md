@@ -201,6 +201,98 @@ Small gyms open 24/7, including in London and Manchester. Each club sets its own
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-nuffield-health"><span>Health club with pool</span></div>
+
+### Nuffield Health
+
+Over 100 health clubs, most with a pool, run by a healthcare charity. Access to gyms across the UK, with monthly or 12-month payment options.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you want a gym and a pool</li>
+<li>Access to other Nuffield gyms</li>
+<li>A calendar month's notice</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="snap-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-snap-fitness"><span>Small 24/7 gym</span></div>
+
+### Snap Fitness
+
+Around 110 small gyms open 24/7, often in smaller towns. Classes included, and access to clubs worldwide. Each club sets its own price.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you want a gym close to home</li>
+<li>Access to clubs abroad</li>
+<li>30 days' notice by email</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/snap-fitness/">All about Snap Fitness</a>
+</div>
+
+</div>
+
+<div id="jetts" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-jetts"><span>24/7 gym</span></div>
+
+### Jetts
+
+24/7 gyms in and around London, Manchester, Leeds and Birmingham. All classes included, paid monthly without a lock-in contract.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you train at odd hours</li>
+<li>No lock-in contract</li>
+<li>Off Peak membership</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/jetts/">All about Jetts</a>
+</div>
+
+</div>
+
+<div id="f45" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-eerste-les"><span>HIIT studio</span></div>
+
+### F45 Training
+
+46 studios for 45-minute group workouts, most of them in London. Each studio sets its own price.
+
+
+<div class="infoblok">
+<ul>
+<li>Good if you like training in a group</li>
+<li>Unlimited or class packs</li>
+<li>Cancel through your studio</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/f45/">All about F45 Training</a>
+</div>
+
+</div>
+
 </div>
 
 <div id="steden">
@@ -308,6 +400,11 @@ Missing something? Most links take you straight to Traininn, the fitness shop of
 - **[Cancel David Lloyd](/uk/cancel-david-lloyd/)** · notice period and alternatives
 - **[Cancel Village Gym](/uk/cancel-village-gym/)** · notice period and alternatives
 - **[Cancel Virgin Active](/uk/cancel-virgin-active/)** · notice period and alternatives
+- **[Cancel Nuffield Health](/uk/cancel-nuffield-health/)** · how to cancel and notice period
+- **[Cancel Snap Fitness](/uk/cancel-snap-fitness/)** · how to cancel and notice period
+- **[Cancel Jetts](/uk/cancel-jetts/)** · how to cancel and notice period
+- **[Cancel F45 Training](/uk/cancel-f45/)** · how to cancel and notice period
+- **[Cancel Freedom Leisure](/uk/cancel-freedom-leisure/)** · how to cancel and notice period
 - **[Gyms without a contract in the UK](/uk/gyms-without-contract/)** · month-by-month options
 
 ## Frequently asked questions

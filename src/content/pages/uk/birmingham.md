@@ -76,6 +76,34 @@ David Lloyd has a health club in Great Barr, Birmingham, with an indoor and a he
 
 </div>
 
+<div id="nuffield-health" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-nuffield-health"><span>Health club with pool</span></div>
+
+<h3>Nuffield Health</h3>
+
+2 gyms in Birmingham: Birmingham Central and Rubery. Health club run by a healthcare charity, most with a pool, and access to gyms across the UK. Monthly or 12-month payment options.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/nuffield-health/">All about Nuffield Health</a>
+</div>
+
+</div>
+
+<div id="jetts" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-jetts"><span>24/7 gym</span></div>
+
+<h3>Jetts</h3>
+
+1 gym in Birmingham, in Erdington. Gym open 24/7 with all classes included, paid monthly without a lock-in contract.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/uk/jetts/">All about Jetts</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Prices and terms change regularly. Always check the latest details with the provider.</p>
