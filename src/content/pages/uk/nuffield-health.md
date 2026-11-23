@@ -131,7 +131,7 @@ Yes, depending on your membership. Connections+ covers all gyms, Connections all
 <details>
 <summary>Is Nuffield Health on ClassPass?</summary>
 
-Yes, some Nuffield Health gyms are on ClassPass, such as Bromley and Chislehurst in London, Romford, Chelmsford, Crawley and Tunbridge Wells. With ClassPass you can book a gym visit or class there without a membership.
+Yes, some Nuffield Health gyms are on ClassPass, such as Bromley and Chislehurst in London, Romford, Chelmsford, Crawley and Tunbridge Wells. With ClassPass you can book a gym visit or class there without a membership. Read [all about ClassPass](/uk/classpass/).
 
 </details>
 
