@@ -78,7 +78,7 @@ Alle Tarife enthalten alle Leistungen, nur die Laufzeit und der Preis unterschei
 | **Widerruf** | 14 Tage ab Vertragsabschluss, wenn du online oder außerhalb des Studios abschließt |
 | **Alter** | Ab 14 Jahren. Zwischen 14 und 18 Jahren brauchst du die schriftliche Einverständniserklärung deiner Eltern |
 
-Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
+Schritt für Schritt: [all inclusive Fitness kündigen](/de/all-inclusive-fitness-kuendigen/). Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
 
 <p class="klein">Quelle: <a href="https://www.ai-fitness.de/preise">ai-fitness.de/preise</a> und <a href="https://www.ai-fitness.de/agb">AGB von all inclusive Fitness</a> (November 2026). Preise und Bedingungen können je nach Studio abweichen. Prüfe sie vor dem Abschluss.</p>
 

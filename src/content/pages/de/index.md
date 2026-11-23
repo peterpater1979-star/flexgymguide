@@ -413,6 +413,7 @@ Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-S
 - **[JOHN REED kündigen](/de/john-reed-kuendigen/)** · Fristen und Alternativen
 - **[Holmes Place kündigen](/de/holmes-place-kuendigen/)** · Fristen und Alternativen
 - **[Mrs.Sporty kündigen](/de/mrs-sporty-kuendigen/)** · Fristen und Alternativen
+- **[all inclusive Fitness kündigen](/de/all-inclusive-fitness-kuendigen/)** · Fristen und Alternativen
 - **[Kieser kündigen](/de/kieser-training-kuendigen/)** · Fristen und Alternativen
 - **[Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/)** · monatlich kündbare Optionen
 - **[Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/)** · was gilt und was du tun kannst
