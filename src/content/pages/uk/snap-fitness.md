@@ -108,6 +108,13 @@ Yes. Members get in at any time with their access card or the app. Staff are the
 
 </details>
 
+<details>
+<summary>Is Snap Fitness on ClassPass?</summary>
+
+Yes, some Snap Fitness clubs are on ClassPass, such as Hove near Brighton, Dover and Ashford. With ClassPass you can book a gym visit there without a membership. Read [all about ClassPass](/uk/classpass/).
+
+</details>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/uk/">Flexible fitness in the UK</a>
 <a class="knop knop-rand" href="https://www.snapfitness.com/uk">Snap Fitness</a>
