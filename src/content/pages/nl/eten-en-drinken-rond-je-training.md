@@ -58,12 +58,12 @@ Let bij het kiezen op:
 - **Vegan of lactosevrij?** Er zijn ook varianten op basis van erwten of soja.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-nl-voeding/?ws=fgg-nl-eten-en-drinken-rond-je-training-voeding">Eiwitpoeder en sportvoeding</a></li>
-<li class="i-fles"><a href="/go/bikeinn-nl-repen/?ws=fgg-nl-eten-en-drinken-rond-je-training-repen">Eiwit- en energierepen</a></li>
+<li class="i-fles"><a href="/go/body-supplies-nl-eiwitten/?clickref=fgg-nl-eten-en-drinken-rond-je-training-eiwitten">Eiwitpoeder en eiwitten</a></li>
+<li class="i-fles"><a href="/go/body-supplies-nl-repen/?clickref=fgg-nl-eten-en-drinken-rond-je-training-repen">Eiwitrepen</a></li>
 <li class="i-fles"><a href="/go/traininn-nl-shaker/?ws=fgg-nl-eten-en-drinken-rond-je-training-shaker">Shaker</a></li>
 </ul>
 
-<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
+<p class="klein commissie">Eiwitpoeder en repen leiden naar Body Supplies, de shaker en de fles naar Traininn, de fitnesswinkel van Tradeinn. Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
 
 <h2 id="tas">Kort lijstje voor in je tas</h2>
 

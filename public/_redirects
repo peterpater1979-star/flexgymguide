@@ -1129,3 +1129,9 @@ https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!
 /go/myprotein-fr-proteines/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fprotein%2F  302
 /go/myprotein-fr-barres/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fhealthy-food-drinks%2Fprotein-bars%2F  302
 /go/myprotein-fr-barres/            https://www.awin1.com/cread.php?awinmid=7069&awinaffid=371173&clickref=fgg-fr-index&ued=https%3A%2F%2Ffr.myprotein.com%2Fc%2Fnutrition%2Fhealthy-food-drinks%2Fprotein-bars%2F  302
+
+# Body Supplies NL via Awin (awinmid 131810), goedgekeurd 23 nov 2026. Alleen voeding (eiwitten, eiwitrepen) op /nl/eten-en-drinken-rond-je-training/; rest blijft Traininn. Label in clickref (fgg-nl-[pagina]-[product]); zonder parameter fgg-nl-index. Categorielinks op body-supplies.nl, geen claims, geen acties.
+/go/body-supplies-nl-eiwitten/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=131810&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.body-supplies.nl%2Feiwitten%2F  302
+/go/body-supplies-nl-eiwitten/            https://www.awin1.com/cread.php?awinmid=131810&awinaffid=371173&clickref=fgg-nl-index&ued=https%3A%2F%2Fwww.body-supplies.nl%2Feiwitten%2F  302
+/go/body-supplies-nl-repen/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=131810&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.body-supplies.nl%2Feiwitten%2Feiwitrepen%2F  302
+/go/body-supplies-nl-repen/            https://www.awin1.com/cread.php?awinmid=131810&awinaffid=371173&clickref=fgg-nl-index&ued=https%3A%2F%2Fwww.body-supplies.nl%2Feiwitten%2Feiwitrepen%2F  302
