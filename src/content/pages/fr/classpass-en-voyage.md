@@ -60,6 +60,11 @@ Hors d'Europe, il fonctionne entre autres aux États-Unis, au Canada, en Austral
 - [ ] Vérifie l'heure de début sur place
 - [ ] Emporte tes affaires de sport : voir [Ton premier cours](/fr/premier-cours/)
 
+<figure class="banner-pub">
+<figcaption>Pub</figcaption>
+<a href="/go/classpass-fr-banner/?epi=fgg-fr-classpass-en-voyage-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(26079274)a(3504154)" width="960" height="640" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass : une application pour réserver des milliers de cours de fitness parmi les mieux notés"></a>
+</figure>
+
 ## Questions fréquentes
 
 <details open>

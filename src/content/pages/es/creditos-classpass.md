@@ -90,6 +90,11 @@ Depende de cuántas veces entrenas y de qué estudios te gustan. Empieza con el 
 
 ¿Entrenas tres veces por semana o más en el mismo gimnasio? Quizá te encaje mejor una cuota normal. Lee [¿Pase o gimnasio?](/es/pase-o-gimnasio/)
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Publi</figcaption>
+<a href="/go/classpass-es-banner/?epi=fgg-es-creditos-classpass-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25960034)a(3504160)" width="300" height="250" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 ## Preguntas frecuentes
 
 <details open>
