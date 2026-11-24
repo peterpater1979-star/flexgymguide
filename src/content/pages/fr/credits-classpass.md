@@ -86,6 +86,11 @@ Quelques astuces pour réserver et annuler sans souci :
 
 Tu t’entraînes trois fois par semaine ou plus dans la même salle ? Un abonnement classique te conviendra peut-être mieux. Lis [Pass sport ou abonnement ?](/fr/pass-sport-ou-abonnement/)
 
+<figure class="banner-pub">
+<figcaption>Pub</figcaption>
+<a href="/go/classpass-fr-banner/?epi=fgg-fr-credits-classpass-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(26079274)a(3504154)" width="960" height="640" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass : une application pour réserver des milliers de cours de fitness parmi les mieux notés"></a>
+</figure>
+
 ## Questions fréquentes
 
 <details open>

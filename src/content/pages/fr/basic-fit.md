@@ -12,13 +12,14 @@ kicker: "Fournisseur : salle à petit prix"
 
 <div class="fotobanner smal foto-basic-fit" role="img" aria-label="Salle de sport"></div>
 
-Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Tu choisis une formule (Comfort, Premium ou Ultimate), avec un engagement d’un an ou en Flex, sans engagement.
+Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Basic-Fit a aussi des clubs en Belgique, au Luxembourg, aux Pays-Bas, en Espagne et en Allemagne. Tu choisis une formule (Comfort, Premium ou Ultimate), avec un engagement d’un an ou en Flex, sans engagement.
 
 <h2 id="resume">En bref</h2>
 
 | | Basic-Fit |
 | --- | --- |
 | **Type** | Salle de sport à petit prix |
+| **Pays** | France, Belgique, Luxembourg, Pays-Bas, Espagne et Allemagne |
 | **Clubs** | Plus de 300 en France |
 | **Prix** | Dès 24,99 € toutes les 4 semaines avec engagement d’un an |
 | **Sans engagement** | <span class="ja" aria-hidden="true">✓</span> Flex : 9,99 € de plus toutes les 4 semaines, préavis de 4 semaines |
@@ -95,6 +96,13 @@ Avec Flex, oui : tu paies 9,99 € de plus toutes les 4 semaines et tu résilies
 <summary>Combien coûte Basic-Fit ?</summary>
 
 Dès 24,99 € toutes les 4 semaines avec engagement d’un an (Comfort), ou 34,98 € en Flex (octobre 2026).
+
+</details>
+
+<details>
+<summary>Puis-je m’entraîner à l’étranger avec Basic-Fit ?</summary>
+
+Avec Premium ou Ultimate, tu t’entraînes dans tous les clubs en France, Belgique, Luxembourg, Pays-Bas, Espagne et Allemagne. Avec Comfort, seulement en France.
 
 </details>
 

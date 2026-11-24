@@ -85,6 +85,10 @@ Tanzen ist in Köln eine eigene Welt auf ClassPass. Eine Auswahl der Stile:
 
 [Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Tanzkurse in Köln.](/go/classpass-de/?epi=fgg-de-classpass-koeln)
 
+<div class="tips-banner">
+
+<div class="tips-tekst">
+
 <h2 id="tipps">Tipps</h2>
 
 - Beliebte Kurse im Belgischen Viertel und in der Südstadt sind am frühen Abend schnell voll. Buch ein paar Tage im Voraus.
@@ -99,6 +103,15 @@ Tanzen ist in Köln eine eigene Welt auf ClassPass. Eine Auswahl der Stile:
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-koeln">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/koeln/">Flexibel trainieren in Köln</a>
+</div>
+
+</div>
+
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-koeln-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 </div>
 
 <details class="verder">

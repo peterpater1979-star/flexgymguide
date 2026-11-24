@@ -25,7 +25,7 @@ Don't want to be tied to one gym for a year? In Luxembourg several gym chains of
 
 ### Basic-Fit
 
-The biggest budget chain in Luxembourg, with clubs in and around the city: Luxembourg City, Gasperich, Strassen, Windhof, Bereldange, Sandweiler, Foetz, Bettembourg, Belvaux and Ettelbruck. Most clubs open early and close late.
+The biggest budget chain in Luxembourg, with clubs in and around the city: Luxembourg City, Gasperich, Strassen, Windhof, Bereldange, Sandweiler, Foetz, Bettembourg, Belvaux and Ettelbruck. Most clubs open early and close late. Basic-Fit also has clubs in the Netherlands, Belgium, France, Spain and Germany.
 
 | Membership (Flex) | Per four weeks | What you get |
 | --- | --- | --- |
@@ -115,6 +115,6 @@ Basic-Fit and JIMS Fitness offer memberships per four weeks. Fitness Zone in How
 <details>
 <summary>Can I use my Basic-Fit membership from another country in Luxembourg?</summary>
 
-With a membership that includes access to all clubs, you can also train at Basic-Fit clubs abroad. Check on the Basic-Fit website which membership includes this.
+With Premium or Ultimate you can also train at Basic-Fit clubs in the Netherlands, Belgium, France, Spain and Germany. With Comfort you can only train in Luxembourg.
 
 </details>

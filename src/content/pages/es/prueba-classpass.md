@@ -59,6 +59,11 @@ Si cancelas durante la prueba, la cancelación es inmediata. Pierdes los entrena
 - [ ] Reserva tus primeras clases enseguida
 - [ ] Decide antes del final: seguir, elegir otro plan o cancelar
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Publi</figcaption>
+<a href="/go/classpass-es-banner/?epi=fgg-es-prueba-classpass-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25960034)a(3504160)" width="300" height="250" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 ## Preguntas frecuentes
 
 <details open>

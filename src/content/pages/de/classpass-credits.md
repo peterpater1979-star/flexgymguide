@@ -90,6 +90,11 @@ Das hängt davon ab, wie oft du trainierst und welche Studios du magst. Starte m
 
 Du trainierst dreimal pro Woche oder öfter im selben Studio? Dann passt eine normale Mitgliedschaft vielleicht besser. Lies [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-credits-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 ## Häufige Fragen
 
 <details open>

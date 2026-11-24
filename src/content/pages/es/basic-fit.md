@@ -13,7 +13,7 @@ zoekwoorden: "basic fit sin permanencia, basic fit flex, mcfit españa"
 
 <div class="fotobanner smal foto-basic-fit" role="img" aria-label="Gimnasio"></div>
 
-Basic-Fit es una cadena de gimnasios económica con clubes en toda España. Eliges una cuota (Comfort, Premium o Ultimate), con contrato anual o con Flex, sin permanencia.
+Basic-Fit es una cadena de gimnasios económica con clubes en toda España. Basic-Fit también tiene clubes en Francia, Bélgica, Países Bajos, Luxemburgo y Alemania. Eliges una cuota (Comfort, Premium o Ultimate), con contrato anual o con Flex, sin permanencia.
 
 Los antiguos gimnasios McFit en España ahora son de Basic-Fit. Si eras socio de McFit, consulta en tu club qué cuota de Basic-Fit tienes ahora.
 
@@ -22,6 +22,7 @@ Los antiguos gimnasios McFit en España ahora son de Basic-Fit. Si eras socio de
 | | Basic-Fit |
 | --- | --- |
 | **Tipo** | Gimnasio económico |
+| **Países** | España, Francia, Bélgica, Países Bajos, Luxemburgo y Alemania |
 | **Precio** | Desde 24,99 € cada 4 semanas con contrato anual |
 | **Sin permanencia** | <span class="ja" aria-hidden="true">✓</span> Flex desde 29,98 € cada 4 semanas, 4 semanas de preaviso |
 | **Inscripción** | 19,99 € con Flex |
@@ -99,6 +100,13 @@ Sí, se llama Flex. Basic-Fit sin permanencia cuesta unos 5 € más cada 4 sema
 <summary>¿Cuánto cuesta Basic-Fit al mes?</summary>
 
 Desde 24,99 € cada 4 semanas con contrato anual (Comfort), o desde 29,98 € con Flex (octubre de 2026).
+
+</details>
+
+<details>
+<summary>¿Puedo entrenar en el extranjero con Basic-Fit?</summary>
+
+Con Premium o Ultimate entrenas en todos los clubes de España, Francia, Bélgica, Países Bajos, Luxemburgo y Alemania. Con Comfort, solo en España.
 
 </details>
 
