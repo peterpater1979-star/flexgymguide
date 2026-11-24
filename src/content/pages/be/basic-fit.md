@@ -11,13 +11,14 @@ kicker: "Aanbieder: sportschoolketen"
 
 <div class="fotobanner smal foto-basic-fit" role="img" aria-label="Sportschool"></div>
 
-Basic-Fit heeft meer dan 230 clubs in België, waarvan meer dan 170 dag en nacht open. Je kiest een abonnement (Comfort, Premium of Ultimate) en of je een jaar vastzit of met Flex nergens aan vastzit.
+Basic-Fit heeft meer dan 230 clubs in België, waarvan meer dan 170 dag en nacht open. Basic-Fit zit ook in Nederland, Luxemburg, Frankrijk, Spanje en Duitsland. Je kiest een abonnement (Comfort, Premium of Ultimate) en of je een jaar vastzit of met Flex nergens aan vastzit.
 
 <h2 id="kort">In het kort</h2>
 
 | | Basic-Fit |
 | --- | --- |
 | **Soort** | Voordelige sportschoolketen |
+| **Landen** | België, Nederland, Luxemburg, Frankrijk, Spanje en Duitsland |
 | **Clubs** | Meer dan 230 in België, meer dan 170 daarvan 24/7 open |
 | **Prijs** | Vanaf € 24,99 per 4 weken met jaarabonnement |
 | **Zonder contract** | <span class="ja" aria-hidden="true">✓</span> Flex: € 9,99 per 4 weken meer, opzegtermijn 4 weken |
@@ -81,6 +82,13 @@ Ja, Flex. Je betaalt € 9,99 per 4 weken meer dan een jaarabonnement en zegt op
 <summary>Wat kost Basic-Fit in België?</summary>
 
 Met een jaarabonnement vanaf € 24,99 per 4 weken (Comfort), met Flex vanaf € 34,98 (oktober 2026).
+
+</details>
+
+<details>
+<summary>Kan ik met Basic-Fit in het buitenland trainen?</summary>
+
+Met Premium of Ultimate train je in alle clubs in België, Nederland, Luxemburg, Frankrijk, Spanje en Duitsland. Met Comfort alleen in België.
 
 </details>
 
