@@ -79,10 +79,9 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 
 [Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Tanzkurse in Frankfurt.](/go/classpass-de/?epi=fgg-de-classpass-frankfurt)
 
-<figure class="banner-pub banner-pub-klein">
-<figcaption>Anzeige</figcaption>
-<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-frankfurt-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
-</figure>
+<div class="tips-banner">
+
+<div class="tips-tekst">
 
 <h2 id="tipps">Tipps</h2>
 
@@ -98,6 +97,15 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-frankfurt">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/frankfurt/">Flexibel trainieren in Frankfurt</a>
+</div>
+
+</div>
+
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-frankfurt-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 </div>
 
 <details class="verder">

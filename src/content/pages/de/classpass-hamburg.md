@@ -73,10 +73,9 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Bewegung und Mobility:** unter anderem Brain Based Movement, Movement Practice und School of Movement
 - **Gym:** unter anderem Fitness First, Sports Club und der Burmeister Personal Fitness Club
 
-<figure class="banner-pub banner-pub-klein">
-<figcaption>Anzeige</figcaption>
-<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-hamburg-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
-</figure>
+<div class="tips-banner">
+
+<div class="tips-tekst">
 
 <h2 id="tipps">Tipps</h2>
 
@@ -91,6 +90,15 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-hamburg">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/hamburg/">Flexibel trainieren in Hamburg</a>
+</div>
+
+</div>
+
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-hamburg-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 </div>
 
 <details class="verder">

@@ -65,10 +65,9 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **Danse :** entre autres la pole dance chez Miss Pole, rue Boulbonne et rue d’Alsace-Lorraine
 - **Accès à la salle :** entre autres GARY’S à Montaudran
 
-<figure class="banner-pub">
-<figcaption>Pub</figcaption>
-<a href="/go/classpass-fr-banner/?epi=fgg-fr-classpass-toulouse-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(26079274)a(3504154)" width="960" height="640" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass : une application pour réserver des milliers de cours de fitness parmi les mieux notés"></a>
-</figure>
+<div class="tips-banner">
+
+<div class="tips-tekst">
 
 <h2 id="conseils">Conseils</h2>
 
@@ -83,6 +82,15 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 <a class="knop knop-affiliate" href="/go/classpass-fr/?epi=fgg-fr-classpass-toulouse">Profitez de 10 séances gratuites en 14 jours</a>
 <a class="knop knop-rand" href="/fr/classpass/">Tout sur ClassPass</a>
 <a class="knop knop-rand" href="/fr/toulouse/">Faire du sport à Toulouse</a>
+</div>
+
+</div>
+
+<figure class="banner-pub">
+<figcaption>Pub</figcaption>
+<a href="/go/classpass-fr-banner/?epi=fgg-fr-classpass-toulouse-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(26079274)a(3504154)" width="960" height="640" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass : une application pour réserver des milliers de cours de fitness parmi les mieux notés"></a>
+</figure>
+
 </div>
 
 <details class="verder">

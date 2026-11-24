@@ -78,10 +78,9 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Boxen:** unter anderem Solid People und R1
 - **Gym:** unter anderem body + soul, Pace Club und THE GOOD GYM (nur für Frauen)
 
-<figure class="banner-pub banner-pub-klein">
-<figcaption>Anzeige</figcaption>
-<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-muenchen-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
-</figure>
+<div class="tips-banner">
+
+<div class="tips-tekst">
 
 <h2 id="tipps">Tipps</h2>
 
@@ -96,6 +95,15 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-muenchen">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/muenchen/">Flexibel trainieren in München</a>
+</div>
+
+</div>
+
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-muenchen-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 </div>
 
 <details class="verder">

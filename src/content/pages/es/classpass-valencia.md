@@ -44,10 +44,9 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - **Gimnasio**: RZ75 en Ruzafa, ClassicFit, GROUND TRAINING STUDIO y EPIC Boutique Fitness
 - También **artes marciales** y **running**
 
-<figure class="banner-pub banner-pub-klein">
-<figcaption>Publi</figcaption>
-<a href="/go/classpass-es-banner/?epi=fgg-es-classpass-valencia-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25960034)a(3504160)" width="300" height="250" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
-</figure>
+<div class="tips-banner">
+
+<div class="tips-tekst">
 
 <h2 id="consejos">Consejos</h2>
 
@@ -63,6 +62,15 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass-valencia">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 <a class="knop knop-rand" href="/es/valencia/">Entrenar en Valencia</a>
+</div>
+
+</div>
+
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Publi</figcaption>
+<a href="/go/classpass-es-banner/?epi=fgg-es-classpass-valencia-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25960034)a(3504160)" width="300" height="250" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 </div>
 
 <details class="verder">

@@ -67,10 +67,9 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 
 Tanz- und Fitnesskurse gibt es unter anderem im Tanzloft in der Leuschnerstraße, Modern Jazz Dance bei Tanzstudio1. Pole Dance und Akrobatik mit dem Hoop lernst du im Aerial Loft in Ludwigsburg. [Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Tanzkurse in Stuttgart.](/go/classpass-de/?epi=fgg-de-classpass-stuttgart)
 
-<figure class="banner-pub banner-pub-klein">
-<figcaption>Anzeige</figcaption>
-<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-stuttgart-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
-</figure>
+<div class="tips-banner">
+
+<div class="tips-tekst">
 
 <h2 id="tipps">Tipps</h2>
 
@@ -86,6 +85,15 @@ Tanz- und Fitnesskurse gibt es unter anderem im Tanzloft in der Leuschnerstraße
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-classpass-stuttgart">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 <a class="knop knop-rand" href="/de/stuttgart/">Flexibel trainieren in Stuttgart</a>
+</div>
+
+</div>
+
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-stuttgart-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 </div>
 
 <details class="verder">

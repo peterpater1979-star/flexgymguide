@@ -73,10 +73,9 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - **Al aire libre:** entre otros Trivus en el parque del Retiro, CruzLorenFit, MoveBon, Training Hub, Desafío Personal y Kona House
 - **Acceso al gimnasio:** entre otros REVIVE, Pomona Club, Kona House, Kaïro House, Nine Fitness, Distrito 280, Infinit Fitness, Functional Feel Chamberí, Opera Gym y Anytime Fitness
 
-<figure class="banner-pub banner-pub-klein">
-<figcaption>Publi</figcaption>
-<a href="/go/classpass-es-banner/?epi=fgg-es-classpass-madrid-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25960034)a(3504160)" width="300" height="250" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
-</figure>
+<div class="tips-banner">
+
+<div class="tips-tekst">
 
 <h2 id="consejos">Consejos</h2>
 
@@ -92,6 +91,15 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 <a class="knop knop-affiliate" href="/go/classpass-es/?epi=fgg-es-classpass-madrid">Prueba 10 sesiones gratis en 14 días</a>
 <a class="knop knop-rand" href="/es/classpass/">Todo sobre ClassPass</a>
 <a class="knop knop-rand" href="/es/madrid/">Hacer deporte en Madrid</a>
+</div>
+
+</div>
+
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Publi</figcaption>
+<a href="/go/classpass-es-banner/?epi=fgg-es-classpass-madrid-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25960034)a(3504160)" width="300" height="250" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 </div>
 
 <details class="verder">
