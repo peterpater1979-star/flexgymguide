@@ -55,6 +55,11 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 - **Tanz:** unter anderem Pole Dance, Tanz und Akrobatik bei Delight Poledance &amp; Tanzstudio
 - **Outdoor** und **Laufen:** unter anderem BootCamp Outdoor im Clara-Zetkin-Park und am Völkerschlachtdenkmal und Be Light Yoga
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-leipzig-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="tipps">Tipps</h2>
 
 - Das Angebot ist kleiner als in Berlin oder Hamburg. Beliebte Kurse am frühen Abend sind schnell voll, also buch ein paar Tage im Voraus.

@@ -79,6 +79,11 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 
 [Teste ClassPass 1 Monat gratis mit 10 Workouts und buche Tanzkurse in Frankfurt.](/go/classpass-de/?epi=fgg-de-classpass-frankfurt)
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-frankfurt-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="tipps">Tipps</h2>
 
 - Reformer-Kurse haben nur wenige Plätze. Beliebte Zeiten am Morgen und nach Feierabend sind schnell voll, also buch ein paar Tage im Voraus.

@@ -76,6 +76,11 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Outdoor:** unter anderem Hot Pilates von Inferno im Lietzenseepark und im Volkspark Friedrichshain (nur für Frauen), Sashtangi Yoga im Körnerpark, Training mit Stay Hungry Fam am Schloss Charlottenburg, Rooftop-Yoga bei Yoga at Lobe, The Playground an der Landsberger Allee und Contemporary Rollerblade in Neukölln
 - **CrossFit und Gym:** unter anderem Win Club CrossFit, Spree CrossFit, NOIR Boutique Gym und der DEEN Fitness Club
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-berlin-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="tipps">Tipps</h2>
 
 - Beliebte Kurse in Mitte und Prenzlauer Berg sind am frühen Morgen und nach Feierabend schnell voll. Buch ein paar Tage im Voraus.

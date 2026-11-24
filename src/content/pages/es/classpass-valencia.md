@@ -44,6 +44,11 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - **Gimnasio**: RZ75 en Ruzafa, ClassicFit, GROUND TRAINING STUDIO y EPIC Boutique Fitness
 - También **artes marciales** y **running**
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Publi</figcaption>
+<a href="/go/classpass-es-banner/?epi=fgg-es-classpass-valencia-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25960034)a(3504160)" width="300" height="250" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="consejos">Consejos</h2>
 
 - Las clases populares a primera hora y después del trabajo se llenan rápido. Reserva con unos días de antelación.

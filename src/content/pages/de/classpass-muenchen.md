@@ -78,6 +78,11 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Boxen:** unter anderem Solid People und R1
 - **Gym:** unter anderem body + soul, Pace Club und THE GOOD GYM (nur für Frauen)
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-muenchen-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="tipps">Tipps</h2>
 
 - Beliebte Reformer-Kurse in der Maxvorstadt und in Schwabing sind am frühen Morgen und nach Feierabend schnell voll. Buch ein paar Tage im Voraus.

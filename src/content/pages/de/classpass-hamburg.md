@@ -73,6 +73,11 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 - **Bewegung und Mobility:** unter anderem Brain Based Movement, Movement Practice und School of Movement
 - **Gym:** unter anderem Fitness First, Sports Club und der Burmeister Personal Fitness Club
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Anzeige</figcaption>
+<a href="/go/classpass-de-banner/?epi=fgg-de-classpass-hamburg-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25805232)a(3504126)" width="500" height="500" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="tipps">Tipps</h2>
 
 - Beliebte Kurse in Eppendorf, Eimsbüttel und Winterhude sind am frühen Morgen und nach Feierabend schnell voll. Buch ein paar Tage im Voraus.

@@ -73,6 +73,11 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 - **Al aire libre:** entre otros Trivus en el parque del Retiro, CruzLorenFit, MoveBon, Training Hub, Desafío Personal y Kona House
 - **Acceso al gimnasio:** entre otros REVIVE, Pomona Club, Kona House, Kaïro House, Nine Fitness, Distrito 280, Infinit Fitness, Functional Feel Chamberí, Opera Gym y Anytime Fitness
 
+<figure class="banner-pub banner-pub-klein">
+<figcaption>Publi</figcaption>
+<a href="/go/classpass-es-banner/?epi=fgg-es-classpass-madrid-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(25960034)a(3504160)" width="300" height="250" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass"></a>
+</figure>
+
 <h2 id="consejos">Consejos</h2>
 
 - Las clases populares a primera hora y después del trabajo se llenan rápido. Reserva con unos días de antelación.

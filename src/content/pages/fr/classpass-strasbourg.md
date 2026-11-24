@@ -56,6 +56,11 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 - **Renforcement et bootcamp :** entre autres Swedish Fit (trois lieux) et Cercle Boxing Strasbourg
 - **Accès à la salle :** selon les créneaux du moment
 
+<figure class="banner-pub">
+<figcaption>Pub</figcaption>
+<a href="/go/classpass-fr-banner/?epi=fgg-fr-classpass-strasbourg-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://imp.tradedoubler.com/imp?type(img)g(26079274)a(3504154)" width="960" height="640" loading="lazy" onerror="this.closest('figure').hidden=true" alt="ClassPass : une application pour réserver des milliers de cours de fitness parmi les mieux notés"></a>
+</figure>
+
 <h2 id="conseils">Conseils</h2>
 
 - L’offre est plus petite qu’à Paris ou à Lyon : un petit abonnement suffit souvent. Regarde d’abord dans l’appli ce qui est près de chez toi.
