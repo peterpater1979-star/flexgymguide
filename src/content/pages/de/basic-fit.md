@@ -12,7 +12,7 @@ kicker: "Anbieter: Fitnesskette"
 
 <div class="fotobanner smal foto-basic-fit" role="img" aria-label="Fitnessstudio"></div>
 
-Basic-Fit ist eine günstige Fitnesskette aus den Niederlanden mit fast 100 Clubs in Deutschland und über 1.700 in Europa. Viele Clubs sind rund um die Uhr geöffnet. Du wählst eine Mitgliedschaft (Comfort, Premium oder Ultimate) und dann, ob du dich für ein Jahr bindest oder mit Flex jederzeit aufhören kannst.
+Basic-Fit ist eine günstige Fitnesskette aus den Niederlanden mit fast 100 Clubs in Deutschland und über 1.700 in Europa. Neben Deutschland gibt es Clubs in den Niederlanden, Belgien, Luxemburg, Frankreich und Spanien. Viele Clubs sind rund um die Uhr geöffnet. Du wählst eine Mitgliedschaft (Comfort, Premium oder Ultimate) und dann, ob du dich für ein Jahr bindest oder mit Flex jederzeit aufhören kannst.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#staedte">Basic-Fit in deiner Stadt</a>
@@ -24,12 +24,13 @@ Basic-Fit ist eine günstige Fitnesskette aus den Niederlanden mit fast 100 Club
 | --- | --- |
 | **Art** | Günstige Fitnesskette |
 | **Clubs** | Fast 100 in Deutschland, über 1.700 in Europa |
+| **Länder** | Deutschland, Niederlande, Belgien, Luxemburg, Frankreich und Spanien |
 | **Preis** | Ab 24,99 € pro 4 Wochen mit Jahresvertrag |
 | **Ohne lange Bindung** | <span class="ja" aria-hidden="true">✓</span> Flex: 9,99 € mehr pro 4 Wochen |
 | **Rund um die Uhr** | Über 30 Clubs in Deutschland sind 24/7 geöffnet |
 | **Ausprobieren** | Tagespass für 11,99 € |
 | **Kurse** | Live-Kurse in Clubs, die sie anbieten, und Video-Workouts in der App |
-| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Mit Premium oder Ultimate in allen Clubs in Europa |
+| **Im Ausland** | <span class="ja" aria-hidden="true">✓</span> Mit Premium oder Ultimate in allen Clubs in den sechs Ländern |
 
 <p class="klein">Quelle: <a href="https://www.basic-fit.com/de-de/preise">basic-fit.com/de-de/preise</a> (November 2026). Prüfe den aktuellen Preis immer bei Basic-Fit.</p>
 
@@ -45,7 +46,7 @@ Preise pro 4 Wochen. Du zahlst alle vier Wochen im Voraus, also 13 Mal im Jahr.
 
 | | Comfort | Premium | Ultimate |
 | --- | --- | --- | --- |
-| **Clubs** | Alle Clubs in Deutschland | Alle Clubs in Europa | Alle Clubs in Europa |
+| **Clubs** | Alle Clubs in Deutschland | Alle Clubs in 6 Ländern | Alle Clubs in 6 Ländern |
 | **Freund mitbringen** | – | Einmal pro Woche | Jederzeit |
 | **Massagesessel** | – | – | <span class="ja" aria-hidden="true">✓</span> |
 | **Yanga Sports Water** | 4,99 € extra | 4,99 € extra | <span class="ja" aria-hidden="true">✓</span> |
@@ -125,7 +126,7 @@ Ja, mit Flex. Du zahlst dann 9,99 € mehr pro 4 Wochen und kündigst jederzeit 
 <details>
 <summary>Kann ich mit Basic-Fit im Ausland trainieren?</summary>
 
-Ja, mit Premium oder Ultimate trainierst du auch in den Basic-Fit-Clubs in anderen Ländern. Mit Comfort nur in Deutschland.
+Ja, mit Premium oder Ultimate trainierst du auch in den Basic-Fit-Clubs in den Niederlanden, Belgien, Luxemburg, Frankreich und Spanien. Mit Comfort nur in Deutschland.
 
 </details>
 
