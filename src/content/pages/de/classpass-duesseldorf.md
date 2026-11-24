@@ -77,9 +77,9 @@ Tanzkurse gibt es unter anderem bei ChriTa Sports in der Hüttenstraße (zusamme
 
 <div class="tips-banner">
 
-<div class="tips-tekst">
-
 <h2 id="tipps">Tipps</h2>
+
+<div class="tips-tekst">
 
 - Reformer-Kurse haben nur wenige Plätze. Beliebte Zeiten am Morgen und nach Feierabend sind schnell voll, also buch ein paar Tage im Voraus.
 - Wie viele Credits ein Kurs kostet, hängt vom Studio und von der Uhrzeit ab. Kurse außerhalb der Stoßzeiten sind oft günstiger.

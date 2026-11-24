@@ -57,9 +57,9 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 
 <div class="tips-banner">
 
-<div class="tips-tekst">
-
 <h2 id="tipps">Tipps</h2>
+
+<div class="tips-tekst">
 
 - Das Angebot ist kleiner als in Berlin oder Hamburg. Beliebte Kurse am frühen Abend sind schnell voll, also buch ein paar Tage im Voraus.
 - Wie viele Credits ein Kurs kostet, hängt vom Studio und von der Uhrzeit ab. Kurse außerhalb der Stoßzeiten sind oft günstiger.

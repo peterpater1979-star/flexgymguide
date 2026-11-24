@@ -87,9 +87,9 @@ Tanzen ist in Köln eine eigene Welt auf ClassPass. Eine Auswahl der Stile:
 
 <div class="tips-banner">
 
-<div class="tips-tekst">
-
 <h2 id="tipps">Tipps</h2>
+
+<div class="tips-tekst">
 
 - Beliebte Kurse im Belgischen Viertel und in der Südstadt sind am frühen Abend schnell voll. Buch ein paar Tage im Voraus.
 - Wie viele Credits ein Kurs kostet, hängt vom Studio und von der Uhrzeit ab. Kurse außerhalb der Stoßzeiten sind oft günstiger.

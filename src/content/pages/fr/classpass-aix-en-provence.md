@@ -65,9 +65,9 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 
 <div class="tips-banner">
 
-<div class="tips-tekst">
-
 <h2 id="conseils">Conseils</h2>
+
+<div class="tips-tekst">
 
 - Les studios de Lagree du cours Mirabeau n’ont que six machines. Réserve quelques jours à l’avance, surtout tôt le matin et après le travail.
 - Pour le Pilates Reformer et le Lagree, les chaussettes antidérapantes sont presque toujours obligatoires. Arrive un peu en avance la première fois.
