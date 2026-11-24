@@ -81,9 +81,9 @@ Pro Sportart eine Auswahl an Studios. Ein Klick auf die Sportart zeigt dir alle 
 
 <div class="tips-banner">
 
-<h2 id="tipps">Tipps</h2>
-
 <div class="tips-tekst">
+
+<h2 id="tipps">Tipps</h2>
 
 - Reformer-Kurse haben nur wenige Plätze. Beliebte Zeiten am Morgen und nach Feierabend sind schnell voll, also buch ein paar Tage im Voraus.
 - Wie viele Credits ein Kurs kostet, hängt vom Studio und von der Uhrzeit ab. Kurse außerhalb der Stoßzeiten sind oft günstiger.

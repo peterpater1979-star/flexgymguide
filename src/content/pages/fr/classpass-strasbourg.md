@@ -58,9 +58,9 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 
 <div class="tips-banner">
 
-<h2 id="conseils">Conseils</h2>
-
 <div class="tips-tekst">
+
+<h2 id="conseils">Conseils</h2>
 
 - L’offre est plus petite qu’à Paris ou à Lyon : un petit abonnement suffit souvent. Regarde d’abord dans l’appli ce qui est près de chez toi.
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.

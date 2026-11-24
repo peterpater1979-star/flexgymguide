@@ -78,9 +78,9 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 
 <div class="tips-banner">
 
-<h2 id="tipps">Tipps</h2>
-
 <div class="tips-tekst">
+
+<h2 id="tipps">Tipps</h2>
 
 - Beliebte Kurse in Mitte und Prenzlauer Berg sind am frühen Morgen und nach Feierabend schnell voll. Buch ein paar Tage im Voraus.
 - Wie viele Credits ein Kurs kostet, hängt vom Studio und von der Uhrzeit ab. Kurse außerhalb der Stoßzeiten sind oft günstiger.

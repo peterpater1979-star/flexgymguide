@@ -80,9 +80,9 @@ Para cada deporte, una selección de estudios. Haz clic en el nombre del deporte
 
 <div class="tips-banner">
 
-<h2 id="consejos">Consejos</h2>
-
 <div class="tips-tekst">
+
+<h2 id="consejos">Consejos</h2>
 
 - Las clases populares a primera hora y después del trabajo se llenan rápido. Reserva con unos días de antelación.
 - Los créditos por clase dependen del estudio y de la hora. Las clases fuera de las horas punta suelen costar menos.

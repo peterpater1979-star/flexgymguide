@@ -80,9 +80,9 @@ Pro Sportart eine Auswahl an Studios. Alle Studios findest du bei ClassPass.
 
 <div class="tips-banner">
 
-<h2 id="tipps">Tipps</h2>
-
 <div class="tips-tekst">
+
+<h2 id="tipps">Tipps</h2>
 
 - Beliebte Reformer-Kurse in der Maxvorstadt und in Schwabing sind am frühen Morgen und nach Feierabend schnell voll. Buch ein paar Tage im Voraus.
 - Für Reformer- und Lagree-Kurse brauchst du fast immer Socken mit Grip. Komm beim ersten Mal etwa 15 Minuten früher.

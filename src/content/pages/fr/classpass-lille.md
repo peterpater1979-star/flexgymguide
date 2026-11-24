@@ -65,9 +65,9 @@ Pour chaque sport, une sélection de studios. Tous les studios sont sur ClassPas
 
 <div class="tips-banner">
 
-<h2 id="conseils">Conseils</h2>
-
 <div class="tips-tekst">
+
+<h2 id="conseils">Conseils</h2>
 
 - Beaucoup de studios sont dans la métropole plutôt qu’en ville. Regarde bien l’adresse et le temps de trajet en métro ou en tram au moment de réserver.
 - Pour le Pilates Reformer, les chaussettes antidérapantes sont presque toujours obligatoires. Arrive un peu en avance la première fois.

@@ -88,9 +88,9 @@ Pour chaque sport, une sélection de studios. Clique sur le nom du sport pour vo
 
 <div class="tips-banner">
 
-<h2 id="conseils">Conseils</h2>
-
 <div class="tips-tekst">
+
+<h2 id="conseils">Conseils</h2>
 
 - Les cours populaires tôt le matin et après le travail sont vite complets. Réserve quelques jours à l’avance.
 - Le nombre de crédits par cours dépend du studio et de l’heure. Les cours en dehors des heures de pointe coûtent souvent moins cher.
