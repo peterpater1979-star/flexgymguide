@@ -167,6 +167,20 @@ Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Augsburg:
 
 </div>
 
+<div id="golden-butterfly-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-golden-butterfly-gym"><span>Studio mit Kursen</span></div>
+
+<h3>Golden Butterfly Gym</h3>
+
+Studio mit Gerätetraining, Reformer Pilates, ZenTaoYoga und DanceFit. In Augsburg: Haunstetten und Pfersee, dazu Gersthofen. Preis: frag nach.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/golden-butterfly-gym/">Alles über Golden Butterfly Gym</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -195,6 +209,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Aug
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Lechhausen |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Innenstadt |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
+| **[Golden Butterfly Gym](/de/golden-butterfly-gym/)** | Frag nach | Frag nach | 2 Studios: Haunstetten und Pfersee (dazu Gersthofen) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
