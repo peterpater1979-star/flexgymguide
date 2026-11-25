@@ -48,7 +48,7 @@ AG Medical Fitness ist eine Studiokette mit 17 Standorten, vor allem im Raum Mai
 | **Starnberg** | Gautinger Straße 9, 82319 Starnberg | Health |
 | **Fitnessloft Riedstadt by AG** | Heinrich-Hertz-Str. 11, 64560 Riedstadt-Wolfskehlen | Health |
 
-Dazu kommt laut AGB Bingerbrück im Label Essential. Das Label bestimmt, wo du trainieren darfst: Mit Health trainierst du in allen Studios, mit Balance in den Balance- und Essential-Studios, mit Essential nur in den Essential-Studios. Im Raum Wiesbaden liegen Delkenheim und Mainz-Kostheim. Mehr zur Stadt: [Flexibel trainieren in Wiesbaden](/de/wiesbaden/). Du wählst dein Studio beim Abschluss online.
+Das Label bestimmt, wo du trainieren darfst: Mit Health trainierst du in allen Studios, mit Balance nur in den Balance-Studios. Im Raum Wiesbaden liegen Delkenheim und Mainz-Kostheim. Mehr zur Stadt: [Flexibel trainieren in Wiesbaden](/de/wiesbaden/). Du wählst dein Studio beim Abschluss online.
 
 <p class="klein">Quelle: Studioauswahl und AGB für Online-Verträge von AG Medical Fitness (November 2026). Prüfe die aktuellen Standorte immer bei AG Medical Fitness.</p>
 
