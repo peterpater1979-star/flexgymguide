@@ -117,7 +117,7 @@ Günstige Kette, auch in Düsseldorf. Flex 49,90 € im Monat, mit Laufzeit ab 2
 
 <h3>FitX</h3>
 
-FitX hat in Düsseldorf Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Düsseldorf 5 Studios in Derendorf, Flingern, Friedrichstadt, Holthausen und Lörick, alle 24 Stunden geöffnet. Die Mitgliedschaft kostet 29 € im Monat und ist monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -327,7 +327,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | --- | --- | --- | --- |
 | **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 2 Studios: Flingern und Oberbilk |
 | **[Rostudios](/de/rostudios/)** | Unlimited 79 €, oder pro Kurs | 12 Monate, oder pro Kurs ohne Vertrag | 2 Reformer-Studios (Flingern-Nord, Pempelfort) |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 4 Studios |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 5 Studios |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 3 Clubs |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios (Oberkassel, Wehrhahn) |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 1 Reformer-Studio (Unterbilk) |
@@ -363,7 +363,7 @@ Nimm Fitness First mit 5 Clubs in Düsseldorf, oder Holmes Place mit 3 Clubs, we
 
 ### Du willst rund um die Uhr trainieren
 
-FitX hat Studios in Derendorf, Flingern, Holthausen und Lörick, alle 24 Stunden geöffnet.
+FitX hat 5 Studios in Derendorf, Flingern, Friedrichstadt, Holthausen und Lörick, alle 24 Stunden geöffnet.
 
 [Ohne Vertrag in Düsseldorf](/de/fitnessstudio-ohne-vertrag-duesseldorf/)
 

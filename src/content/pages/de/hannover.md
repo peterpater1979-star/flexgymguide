@@ -101,7 +101,7 @@ Günstige Kette mit 3 Studios in Hannover. Flex 49,90 € im Monat, mit Laufzeit
 
 <h3>FitX</h3>
 
-FitX hat in Hannover 2 Studios: Linden und Vahrenheide, alle 24 Stunden geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Hannover ein Studio in Vahrenheide, 24 Stunden geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -174,7 +174,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 Clubs in Ha
 | --- | --- | --- | --- |
 | **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 4 Studios: City, Misburg, Vahrenwald und Hainholz |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 3 Studios: Südstadt, Vahrenheide und Wülfel |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios: Linden und Vahrenheide |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Vahrenheide |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Nordstadt (Weidendamm) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios: Calenberger Neustadt und Südstadt |
 

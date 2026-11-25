@@ -101,7 +101,7 @@ Günstige Kette mit 2 Studios in Mannheim. Flex 49,90 € im Monat, mit Laufzeit
 
 <h3>FitX</h3>
 
-FitX hat in Mannheim 2 Studios: Almenhof und Käfertal, alle 24 Stunden geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Mannheim ein Studio im Almenhof, 24 Stunden geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -175,7 +175,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 3 Clubs in Ma
 | --- | --- | --- | --- |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Neckarstadt |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 2 Studios: Almenhof und Käfertal |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios: Almenhof und Käfertal |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Almenhof |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Innenstadt |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
 
