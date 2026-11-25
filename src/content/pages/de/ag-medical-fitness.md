@@ -11,14 +11,14 @@ kicker: "Anbieter: Fitnessstudio"
 zoekwoorden: "AG Medical Fitness, AG Pass"
 ---
 
-AG Medical Fitness ist eine Studiokette im Raum Mainz und Rhein-Main. Wir haben Studios in Mainz-Gonsenheim, Mainz-Finthen, Budenheim, Saulheim und Bingen am Rhein gefunden. Du zahlst nicht pro Monat, sondern pro Woche, und du wählst zwischen einem monatlich kündbaren Pass und einer Mitgliedschaft über 12 Monate.
+AG Medical Fitness ist eine Studiokette mit 17 Standorten, vor allem im Raum Mainz und Rhein-Main. Du zahlst nicht pro Monat, sondern pro Woche, und du wählst zwischen einem monatlich kündbaren Pass und einer Mitgliedschaft über 12 Monate.
 
 <h2 id="kurz">Kurz und knapp</h2>
 
 | | AG Medical Fitness |
 | --- | --- |
 | **Art** | Fitnessstudio mit eigenen Standorten |
-| **Studios** | Unter anderem Mainz-Gonsenheim, Mainz-Finthen, Budenheim, Saulheim und Bingen am Rhein |
+| **Studios** | 17 Standorte, vor allem in Mainz, Wiesbaden, Rheinhessen und Rhein-Main, dazu Studios in Südhessen und Oberbayern |
 | **Preis** | Monatlich kündbar 25 € pro Woche, 12 Monate 19 € pro Woche, dazu einmalig 29 € Aktivierungsgebühr |
 | **Vertrag** | Monatlich kündbar oder 12 Monate Mindestlaufzeit |
 | **Ausprobieren** | Frag nach einem Probetraining im Studio |
@@ -28,15 +28,29 @@ AG Medical Fitness ist eine Studiokette im Raum Mainz und Rhein-Main. Wir haben 
 
 <h2 id="studios">Die Studios</h2>
 
-| Studio | Ort |
+| Studio | Adresse |
 | --- | --- |
-| **Gonsenheim** | Mainz |
-| **Finthen** | Mainz |
-| **Budenheim** | Budenheim bei Mainz |
-| **Saulheim** | Saulheim, Rheinhessen |
-| **Bingen** | Bingen am Rhein |
+| **Bingen** | Gaustr. 42, 55411 Bingen |
+| **Budenheim** | In den vierzehn Morgen 9, 55257 Budenheim |
+| **Delkenheim** | Münchener Straße 6, 65205 Wiesbaden-Delkenheim |
+| **Eppertshausen** | Röntgenstraße 14, 64859 Eppertshausen |
+| **Flörsheim** | Hospitalstraße 15, 65439 Flörsheim am Main |
+| **Gilching** | Dornierstraße 4, 82205 Gilching |
+| **Ingelheim** | Nahering 12, 55218 Ingelheim |
+| **Königstein** | Klosterstraße 15, 61462 Königstein im Taunus |
+| **Lampertheim** | Industriestraße 39a, 68623 Lampertheim |
+| **Mainz-Finthen** | Flugplatzstraße 31, 55126 Mainz |
+| **Mainz-Gonsenheim** | An der Krimm 21, 55124 Mainz |
+| **Mainz-Hechtsheim** | Nikolaus-Otto-Straße 8, 55129 Mainz |
+| **Mainz-Kostheim** | Kostheimer Landstraße 40b, 55246 Wiesbaden |
+| **Oppenheim** | Sant-Ambrogio-Ring 7, 55276 Oppenheim |
+| **Saulheim** | Marie-Curie-Ring 15, 55291 Saulheim |
+| **Starnberg** | Gautinger Straße 9, 82319 Starnberg |
+| **Fitnessloft Riedstadt by AG** | Heinrich-Hertz-Str. 11, 64560 Riedstadt-Wolfskehlen |
 
-Die Kette hat nach unserem Stand weitere Studios in der Region. Die Adressen und die aktuelle Liste stehen auf der Website von AG Medical Fitness. Du wählst dort beim Start dein Studio aus.
+Im Raum Wiesbaden liegen Delkenheim und Mainz-Kostheim. Mehr zur Stadt: [Flexibel trainieren in Wiesbaden](/de/wiesbaden/). Du wählst dein Studio beim Abschluss auf der Website von AG Medical Fitness.
+
+<p class="klein">Quelle: Studioauswahl bei AG Medical Fitness (November 2026). Prüfe die aktuellen Standorte immer bei AG Medical Fitness.</p>
 
 <h2 id="preise">Preis, Laufzeit und Kündigung</h2>
 
@@ -84,7 +98,7 @@ Ja, mit dem AG Pass ohne feste Bindung. Die 12-Monats-Mitgliedschaft ist günsti
 <details>
 <summary>Wo gibt es AG Medical Fitness?</summary>
 
-Wir haben Studios in Mainz-Gonsenheim, Mainz-Finthen, Budenheim, Saulheim und Bingen am Rhein gefunden. Die Kette hat laut unserem Stand weitere Studios im Raum Rhein-Main.
+17 Standorte: vor allem in Mainz, Wiesbaden und Rheinhessen, dazu Eppertshausen, Lampertheim, Riedstadt, Flörsheim, Königstein, Gilching und Starnberg. Die Tabelle oben nennt alle Adressen.
 
 </details>
 
