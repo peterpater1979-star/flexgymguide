@@ -93,7 +93,7 @@ Schritt für Schritt: [FitX kündigen](/de/fitx-kuendigen/).
 
 FitX hat Studios in diesen Städten aus unserem Ratgeber:
 
-- [Berlin](/de/berlin/#fitx): unter anderem Alexanderplatz, Moabit, Schöneberg, Südkreuz, Waidmannslust und Ku'damm
+- [Berlin](/de/berlin/#fitx): unter anderem Alexanderplatz, Moabit, Schöneberg, Südkreuz, Waidmannslust und Ku'damm; Schillerpark ist in Planung
 - [Düsseldorf](/de/duesseldorf/#fitx): Derendorf, Flingern, Friedrichstadt, Holthausen und Lörick
 - [Hamburg](/de/hamburg/#fitx): Altona, Bahrenfeld, Steilshoop und Flughafen
 - [Leipzig](/de/leipzig/#fitx): Mockau und Neulindenau
@@ -110,9 +110,9 @@ FitX hat Studios in diesen Städten aus unserem Ratgeber:
 - [Dresden](/de/dresden/#fitx): Freiberger Straße
 - [Duisburg](/de/duisburg/#fitx): Hafen, Rheinhausen und Hamborn
 - [Essen](/de/essen/#fitx): Nordviertel, Bergerhausen und Limbecker Platz
-- [Hannover](/de/hannover/#fitx): Vahrenheide
+- [Hannover](/de/hannover/#fitx): Vahrenheide, Linden ist in Planung
 - [Karlsruhe](/de/karlsruhe/#fitx): Oststadt
-- [Mannheim](/de/mannheim/#fitx): Almenhof
+- [Mannheim](/de/mannheim/#fitx): Almenhof, Käfertal ist in Planung
 - [Mönchengladbach](/de/moenchengladbach/#fitx): Waldhausen und Rheydt
 - [Münster](/de/muenster/#fitx): Kinderhaus und Berg Fidel
 - [Nürnberg](/de/nuernberg/#fitx): Zabo und Maxfeld
