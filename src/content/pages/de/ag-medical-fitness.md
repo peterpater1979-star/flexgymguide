@@ -79,7 +79,7 @@ Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fi
 <p class="klein">Quelle: AGB für Online-Vertragsabschlüsse von AG Medical Fitness (November 2026). Für Verträge im Studio können andere Regeln gelten. Prüfe die Bedingungen vor dem Abschluss.</p>
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://aktiv-gesund-group.de">Mehr bei AG Medical Fitness</a>
+<a class="knop knop-rand" href="https://www.agmedicalfitness.de/">Mehr bei AG Medical Fitness</a>
 </div>
 
 <h2 id="alternativen">Flexibel trainieren in der Region</h2>
