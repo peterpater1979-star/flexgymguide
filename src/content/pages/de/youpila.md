@@ -36,7 +36,7 @@ YOUPILA ist ein Boutique-Studio für Reformer Pilates und Barre mit Studios in D
 
 ### Reformer Pilates
 
-Ein Kurs auf dem Reformer, einem Gerät mit Gleitwagen und Federn. Du trainierst kontrolliert und mit Fokus auf Kraft und Körpermitte. Grip-Socken sind in vielen Studios üblich. Du kaufst sie vor Ort, oder du bringst eigene <a href="/go/traininn-de-gripsokken/?ws=fgg-de-youpila-gripsokken">Grip-Socken</a> mit.
+Ein Kurs auf dem Reformer, einem Gerät mit Gleitwagen und Federn. Du trainierst kontrolliert und mit Fokus auf Kraft und Körpermitte. Grip-Socken sind in vielen Studios üblich. Du kaufst sie vor Ort, oder du bringst eigene <a href="/go/amazon-de-yogasocken/">Grip-Socken</a> mit.
 
 </div>
 

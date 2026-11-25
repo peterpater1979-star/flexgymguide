@@ -41,7 +41,7 @@ Een les indoor cycling van 45 minuten op muziek, voor je hele lichaam. Er zijn o
 
 ### Roform
 
-Een les van 50 minuten op de reformer, rustig en op je ademhaling, met veel kracht voor je core. Gripsokken zijn verplicht. Je koopt ze in de studio, of je neemt je eigen <a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-rostudios-gripsokken">gripsokken</a> mee.
+Een les van 50 minuten op de reformer, rustig en op je ademhaling, met veel kracht voor je core. Gripsokken zijn verplicht. Je koopt ze in de studio, of je neemt je eigen <a href="/go/amazon-nl-yogasokken/">gripsokken</a> mee.
 
 </div>
 

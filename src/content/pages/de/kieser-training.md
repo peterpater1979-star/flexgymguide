@@ -134,13 +134,15 @@ Gut, wenn du Abwechslung willst und ein- bis dreimal pro Woche trainierst, etwa 
 
 <h2 id="spullen">Noch etwas fürs Training nötig?</h2>
 
-Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+Über diese Links suchst du direkt bei Amazon.de:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-de-kleding/?ws=fgg-de-kieser-training-kleding">Sportbekleidung</a></li>
-<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-kieser-training-fles">Trinkflasche</a></li>
-<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-kieser-training-handdoek">Sporthandtuch</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung/">Sportbekleidung</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
 </ul>
+
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 ## Häufige Fragen
 

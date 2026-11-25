@@ -41,7 +41,7 @@ Ein Indoor-Cycling-Kurs von 45 Minuten zu Musik, für den ganzen Körper. Es gib
 
 ### Roform
 
-Ein Roform-Kurs dauert 50 Minuten auf dem Reformer. Du trainierst ruhig und im Takt deines Atems, mit viel Kraft für die Körpermitte. Grip-Socken sind Pflicht. Du kaufst sie im Studio, oder du bringst eigene <a href="/go/traininn-de-gripsokken/?ws=fgg-de-rostudios-gripsokken">Grip-Socken</a> mit.
+Ein Roform-Kurs dauert 50 Minuten auf dem Reformer. Du trainierst ruhig und im Takt deines Atems, mit viel Kraft für die Körpermitte. Grip-Socken sind Pflicht. Du kaufst sie im Studio, oder du bringst eigene <a href="/go/amazon-de-yogasocken/">Grip-Socken</a> mit.
 
 </div>
 

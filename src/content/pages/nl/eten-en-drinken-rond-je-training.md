@@ -24,8 +24,8 @@ Voor een les van een uur of een gewone training in de sportschool heb je meestal
 - **Sportdrank** is iets voor lange of heel zware trainingen. Voor een gewone les is water prima.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-eten-en-drinken-rond-je-training-fles">Sport waterfles</a></li>
-<li class="i-fles"><a href="/go/bikeinn-nl-sportdrank/?ws=fgg-nl-eten-en-drinken-rond-je-training-sportdrank">Sportdranken</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Sport waterfles</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-opvouwbare-fles/">Opvouwbare waterfles</a></li>
 </ul>
 
 <h2 id="voor">Voor de training: klein en licht</h2>
@@ -60,10 +60,10 @@ Let bij het kiezen op:
 <ul class="spullen">
 <li class="i-fles"><a href="/go/body-supplies-nl-eiwitten/?clickref=fgg-nl-eten-en-drinken-rond-je-training-eiwitten">Eiwitpoeder en eiwitten</a></li>
 <li class="i-fles"><a href="/go/body-supplies-nl-repen/?clickref=fgg-nl-eten-en-drinken-rond-je-training-repen">Eiwitrepen</a></li>
-<li class="i-fles"><a href="/go/traininn-nl-shaker/?ws=fgg-nl-eten-en-drinken-rond-je-training-shaker">Shaker</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-shaker/">Shaker</a></li>
 </ul>
 
-<p class="klein commissie">Eiwitpoeder en repen leiden naar Body Supplies, de shaker en de fles naar Traininn, de fitnesswinkel van Tradeinn. Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
+<p class="klein commissie">Eiwitpoeder en repen leiden naar Body Supplies, de shaker en de flessen naar Amazon.nl. Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
 
 <h2 id="tas">Kort lijstje voor in je tas</h2>
 
