@@ -10,6 +10,10 @@ crumb: "Golden Butterfly Gym"
 kicker: "Anbieter: Studio mit Kursen"
 ---
 
+<div class="fotobanner smal foto-golden-butterfly-gym" role="img" aria-label="Zwei Personen beim Training auf Matten"></div>
+
+<p class="klein">Foto: Kampus Production</p>
+
 Golden Butterfly Gym ist ein Studio mit Kursen und Gerätetraining in Augsburg und Gersthofen. Die Website nennt 3 Standorte: Haunstetten, Pfersee und Gersthofen. Das Angebot reicht von Gerätetraining über Reformer Pilates und ZenTaoYoga bis zu DanceFit und Rehasport.
 
 <h2 id="kurz">Kurz und knapp</h2>

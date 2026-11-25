@@ -169,6 +169,8 @@ Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Augsburg:
 
 <div id="golden-butterfly-gym" class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-golden-butterfly-gym"><span>Studio mit Kursen</span></div>
+
 <h3>Golden Butterfly Gym</h3>
 
 Studio mit Gerätetraining, Reformer Pilates, ZenTaoYoga und DanceFit. In Augsburg: Haunstetten und Pfersee, dazu Gersthofen. Preis: frag nach.
