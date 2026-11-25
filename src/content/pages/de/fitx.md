@@ -12,7 +12,7 @@ kicker: "Anbieter: Fitnesskette"
 
 <div class="fotobanner smal foto-fitx" role="img" aria-label="Fitnessstudio"></div>
 
-FitX ist eine günstige Fitnesskette mit 114 Studios in Deutschland. Es gibt nur eine Mitgliedschaft, und die gilt in allen Studios. Die Studios sind rund um die Uhr geöffnet, und Kurse mit Coaches sind im Preis enthalten.
+FitX ist eine günstige Fitnesskette mit 115 Studios in Deutschland. Es gibt nur eine Mitgliedschaft, und die gilt in allen Studios. Die Studios sind rund um die Uhr geöffnet, und Kurse mit Coaches sind im Preis enthalten.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#staedte">FitX in deiner Stadt</a>
@@ -23,7 +23,7 @@ FitX ist eine günstige Fitnesskette mit 114 Studios in Deutschland. Es gibt nur
 | | FitX |
 | --- | --- |
 | **Art** | Günstige Fitnesskette mit eigenen Studios |
-| **Studios** | 114 in Deutschland |
+| **Studios** | 115 in Deutschland |
 | **Preis** | 29 € im Monat, einmalig 29 € Anmeldegebühr |
 | **Vertrag** | 1 Monat Laufzeit, mit einem Monat Frist kündbar |
 | **Öffnungszeiten** | Laut FitX 24 Stunden täglich, mit Personal von 9 bis 21 Uhr |
