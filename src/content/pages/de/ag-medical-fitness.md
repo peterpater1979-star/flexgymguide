@@ -19,7 +19,7 @@ AG Medical Fitness ist eine Studiokette mit 17 Standorten, vor allem im Raum Mai
 | --- | --- |
 | **Art** | Fitnessstudio mit eigenen Standorten |
 | **Studios** | 17 Standorte, vor allem in Mainz, Wiesbaden, Rheinhessen und Rhein-Main, dazu Studios in Südhessen und Oberbayern |
-| **Preis** | Monatlich kündbar 25 € pro Woche, 12 Monate 19 € pro Woche, dazu einmalig 29 € Aktivierungsgebühr |
+| **Preis** | Monatlich kündbar 25 € pro Woche, 12 Monate: frag nach, dazu einmalig 29 € Aktivierungsgebühr |
 | **Vertrag** | Monatlich kündbar oder 12 Monate Mindestlaufzeit |
 | **Ausprobieren** | Frag im Studio nach einem Probetraining |
 | **Im Ausland** | Nur in Deutschland |
@@ -57,10 +57,10 @@ Dazu kommt laut AGB Bingerbrück im Label Essential. Das Label bestimmt, wo du t
 | Tarif | Preis | Laufzeit |
 | --- | --- | --- |
 | AG Pass, monatlich kündbar | 25 € pro Woche | Monatlich kündbar |
-| Mitgliedschaft 12 Monate | 19 € pro Woche | 12 Monate |
+| Mitgliedschaft 12 Monate | Frag nach | 12 Monate |
 | Aktivierungsgebühr | 29 € einmalig, laut Bestellübersicht | – |
 
-Mit dem AG Pass trainierst du flexibel, ohne dich fest zu binden. Die 12-Monats-Mitgliedschaft ist pro Woche günstiger, bindet dich aber länger. Wie viel du im Monat zahlst, hängt davon ab, wie viele Wochen der Monat hat. Prüfe die Abrechnung vor dem Abschluss.
+Mit dem AG Pass trainierst du flexibel, ohne dich fest zu binden. Die 12-Monats-Mitgliedschaft bindet dich länger. Wie viel du im Monat zahlst, hängt davon ab, wie viele Wochen der Monat hat. Prüfe die Abrechnung vor dem Abschluss.
 
 <h3 id="kuendigen">Vertrag, Kündigung und Widerruf</h3>
 
@@ -91,14 +91,14 @@ Willst du zwischen mehreren Studios wechseln, schau dir [Sportpass oder Mitglied
 <details open>
 <summary>Was kostet AG Medical Fitness?</summary>
 
-Der monatlich kündbare AG Pass kostet 25 € pro Woche. Mit 12 Monaten Mindestlaufzeit sind es 19 € pro Woche. Dazu kommt einmalig eine Aktivierungsgebühr von 29 €. Preise von November 2026, laut der Website von AG Medical Fitness.
+Der monatlich kündbare AG Pass kostet 25 € pro Woche. Für die Mitgliedschaft mit 12 Monaten Mindestlaufzeit frag im Studio oder auf der Website nach dem aktuellen Preis. Dazu kommt einmalig eine Aktivierungsgebühr von 29 €. Preise von November 2026, laut der Website von AG Medical Fitness.
 
 </details>
 
 <details>
 <summary>Kann ich bei AG Medical Fitness monatlich kündigen?</summary>
 
-Ja, mit dem AG Pass ohne feste Bindung. Die 12-Monats-Mitgliedschaft ist günstiger, aber länger gebunden. Bei einem Monat Erstlaufzeit gilt eine Frist von 14 Tagen, in Textform. Die 12-Monats-Mitgliedschaft ist länger gebunden: Dort kündigst du 1 Monat vor Ablauf der Laufzeit.
+Ja, mit dem AG Pass ohne feste Bindung. Die 12-Monats-Mitgliedschaft ist länger gebunden. Bei einem Monat Erstlaufzeit gilt eine Frist von 14 Tagen, in Textform. Die 12-Monats-Mitgliedschaft ist länger gebunden: Dort kündigst du 1 Monat vor Ablauf der Laufzeit.
 
 </details>
 

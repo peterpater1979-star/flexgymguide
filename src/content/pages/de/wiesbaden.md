@@ -137,7 +137,7 @@ Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Wiesbaden
 
 <h3>AG Medical Fitness</h3>
 
-In Wiesbaden hat AG Medical Fitness 2 Studios: Delkenheim und Mainz-Kostheim. Monatlich kündbar 25 € pro Woche, mit 12 Monaten 19 € pro Woche.
+In Wiesbaden hat AG Medical Fitness 2 Studios: Delkenheim und Mainz-Kostheim. Monatlich kündbar 25 € pro Woche, mit 12 Monaten frag nach.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/ag-medical-fitness/">Alles über AG Medical Fitness</a>
@@ -172,7 +172,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 Clubs in Wi
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Nordenstadt |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 1 Studio |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio: Biebrich |
-| **[AG Medical Fitness](/de/ag-medical-fitness/)** | Monatlich kündbar 25 € pro Woche, mit 12 Monaten 19 € pro Woche, plus einmalig 29 € Aktivierungsgebühr | Monatlich kündbar oder 12 Monate | 2 Studios: Delkenheim und Mainz-Kostheim |
+| **[AG Medical Fitness](/de/ag-medical-fitness/)** | Monatlich kündbar 25 € pro Woche, mit 12 Monaten frag nach, plus einmalig 29 € Aktivierungsgebühr | Monatlich kündbar oder 12 Monate | 2 Studios: Delkenheim und Mainz-Kostheim |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
