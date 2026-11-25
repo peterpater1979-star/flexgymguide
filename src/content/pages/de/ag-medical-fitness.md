@@ -21,36 +21,36 @@ AG Medical Fitness ist eine Studiokette mit 17 Standorten, vor allem im Raum Mai
 | **Studios** | 17 Standorte, vor allem in Mainz, Wiesbaden, Rheinhessen und Rhein-Main, dazu Studios in Südhessen und Oberbayern |
 | **Preis** | Monatlich kündbar 25 € pro Woche, 12 Monate 19 € pro Woche, dazu einmalig 29 € Aktivierungsgebühr |
 | **Vertrag** | Monatlich kündbar oder 12 Monate Mindestlaufzeit |
-| **Ausprobieren** | Frag nach einem Probetraining im Studio |
+| **Ausprobieren** | Frag im Studio nach einem Probetraining |
 | **Im Ausland** | Nur in Deutschland |
 
 <p class="klein">Preise von November 2026, laut der Website von AG Medical Fitness. Prüfe die aktuellen Preise immer bei AG Medical Fitness. Die Preise können je nach Studio abweichen.</p>
 
 <h2 id="studios">Die Studios</h2>
 
-| Studio | Adresse |
-| --- | --- |
-| **Bingen** | Gaustr. 42, 55411 Bingen |
-| **Budenheim** | In den vierzehn Morgen 9, 55257 Budenheim |
-| **Delkenheim** | Münchener Straße 6, 65205 Wiesbaden-Delkenheim |
-| **Eppertshausen** | Röntgenstraße 14, 64859 Eppertshausen |
-| **Flörsheim** | Hospitalstraße 15, 65439 Flörsheim am Main |
-| **Gilching** | Dornierstraße 4, 82205 Gilching |
-| **Ingelheim** | Nahering 12, 55218 Ingelheim |
-| **Königstein** | Klosterstraße 15, 61462 Königstein im Taunus |
-| **Lampertheim** | Industriestraße 39a, 68623 Lampertheim |
-| **Mainz-Finthen** | Flugplatzstraße 31, 55126 Mainz |
-| **Mainz-Gonsenheim** | An der Krimm 21, 55124 Mainz |
-| **Mainz-Hechtsheim** | Nikolaus-Otto-Straße 8, 55129 Mainz |
-| **Mainz-Kostheim** | Kostheimer Landstraße 40b, 55246 Wiesbaden |
-| **Oppenheim** | Sant-Ambrogio-Ring 7, 55276 Oppenheim |
-| **Saulheim** | Marie-Curie-Ring 15, 55291 Saulheim |
-| **Starnberg** | Gautinger Straße 9, 82319 Starnberg |
-| **Fitnessloft Riedstadt by AG** | Heinrich-Hertz-Str. 11, 64560 Riedstadt-Wolfskehlen |
+| Studio | Adresse | Label |
+| --- | --- | --- |
+| **Bingen** | Gaustr. 42, 55411 Bingen | Health |
+| **Budenheim** | In den vierzehn Morgen 9, 55257 Budenheim | Balance |
+| **Delkenheim** | Münchener Straße 6, 65205 Wiesbaden-Delkenheim | Balance |
+| **Eppertshausen** | Röntgenstraße 14, 64859 Eppertshausen | Balance |
+| **Flörsheim** | Hospitalstraße 15, 65439 Flörsheim am Main | Health |
+| **Gilching** | Dornierstraße 4, 82205 Gilching | Health |
+| **Ingelheim** | Nahering 12, 55218 Ingelheim | Balance |
+| **Königstein** | Klosterstraße 15, 61462 Königstein im Taunus | Health |
+| **Lampertheim** | Industriestraße 39a, 68623 Lampertheim | Health |
+| **Mainz-Finthen** | Flugplatzstraße 31, 55126 Mainz | Health |
+| **Mainz-Gonsenheim** | An der Krimm 21, 55124 Mainz | Health |
+| **Mainz-Hechtsheim** | Nikolaus-Otto-Straße 8, 55129 Mainz | Balance |
+| **Mainz-Kostheim** | Kostheimer Landstraße 40b, 55246 Wiesbaden | Balance |
+| **Oppenheim** | Sant-Ambrogio-Ring 7, 55276 Oppenheim | Health |
+| **Saulheim** | Marie-Curie-Ring 15, 55291 Saulheim | Health |
+| **Starnberg** | Gautinger Straße 9, 82319 Starnberg | Health |
+| **Fitnessloft Riedstadt by AG** | Heinrich-Hertz-Str. 11, 64560 Riedstadt-Wolfskehlen | Health |
 
-Im Raum Wiesbaden liegen Delkenheim und Mainz-Kostheim. Mehr zur Stadt: [Flexibel trainieren in Wiesbaden](/de/wiesbaden/). Du wählst dein Studio beim Abschluss auf der Website von AG Medical Fitness.
+Dazu kommt laut AGB Bingerbrück im Label Essential. Das Label bestimmt, wo du trainieren darfst: Mit Health trainierst du in allen Studios, mit Balance in den Balance- und Essential-Studios, mit Essential nur in den Essential-Studios. Im Raum Wiesbaden liegen Delkenheim und Mainz-Kostheim. Mehr zur Stadt: [Flexibel trainieren in Wiesbaden](/de/wiesbaden/). Du wählst dein Studio beim Abschluss online.
 
-<p class="klein">Quelle: Studioauswahl bei AG Medical Fitness (November 2026). Prüfe die aktuellen Standorte immer bei AG Medical Fitness.</p>
+<p class="klein">Quelle: Studioauswahl und AGB für Online-Verträge von AG Medical Fitness (November 2026). Prüfe die aktuellen Standorte immer bei AG Medical Fitness.</p>
 
 <h2 id="preise">Preis, Laufzeit und Kündigung</h2>
 
@@ -62,18 +62,25 @@ Im Raum Wiesbaden liegen Delkenheim und Mainz-Kostheim. Mehr zur Stadt: [Flexibe
 
 Mit dem AG Pass trainierst du flexibel, ohne dich fest zu binden. Die 12-Monats-Mitgliedschaft ist pro Woche günstiger, bindet dich aber länger. Wie viel du im Monat zahlst, hängt davon ab, wie viele Wochen der Monat hat. Prüfe die Abrechnung vor dem Abschluss.
 
-<h3 id="kuendigen">Vertrag und Kündigung</h3>
+<h3 id="kuendigen">Vertrag, Kündigung und Widerruf</h3>
 
 | | So ist es bei AG Medical Fitness |
 | --- | --- |
-| **Laufzeit** | Monatlich kündbar oder 12 Monate Mindestlaufzeit, je nach Tarif |
-| **Kündigungsfrist** | 14 Tage, so steht es in der Bestellübersicht. Prüfe die Frist für deinen Tarif in Vertrag und AGB |
-| **Wie** | In Textform ist die gesetzliche Regel. Welche Form AG Medical Fitness verlangt, steht in den AGB |
-| **Widerruf** | 14 Tage, wenn du online oder außerhalb des Studios abschließt |
+| **Laufzeit** | Die Laufzeit wählst du beim Abschluss, zum Beispiel 1 Monat (monatlich kündbar) oder 12 Monate |
+| **Kündigungsfrist** | Bei 1 Monat Erstlaufzeit 14 Tage, bei längerer Erstlaufzeit 1 Monat vor Ablauf |
+| **Verlängerung** | Ohne Kündigung verlängert sich der Vertrag monatsweise. Danach kündigst du jederzeit mit 14 Tagen Frist |
+| **Wie** | In Textform, zum Beispiel per E-Mail oder Brief |
+| **Zahlung** | Der Wochenbeitrag ist jeweils mittwochs fällig |
+| **Ruhezeit** | Bei 12- und 24-Monats-Mitgliedschaften ab 7 Tagen, wochenweise, bis zu 8 Wochen pro Kalenderjahr, über die App. Monatlich kündbare Verträge sind ausgenommen |
+| **Widerruf** | 14 Tage ab Vertragsabschluss bei Online-Verträgen. Schon genutzte Leistungstage werden nicht erstattet |
 
-Lies vor dem Abschluss die AGB von AG Medical Fitness. Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
+Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
 
-<p class="klein">Quelle: Website von AG Medical Fitness (November 2026). Prüfe Preise und Bedingungen vor dem Abschluss.</p>
+<p class="klein">Quelle: AGB für Online-Vertragsabschlüsse von AG Medical Fitness (November 2026). Für Verträge im Studio können andere Regeln gelten. Prüfe die Bedingungen vor dem Abschluss.</p>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="https://aktiv-gesund-group.de">Mehr bei AG Medical Fitness</a>
+</div>
 
 <h2 id="alternativen">Flexibel trainieren in der Region</h2>
 
@@ -91,7 +98,7 @@ Der monatlich kündbare AG Pass kostet 25 € pro Woche. Mit 12 Monaten Mindestl
 <details>
 <summary>Kann ich bei AG Medical Fitness monatlich kündigen?</summary>
 
-Ja, mit dem AG Pass ohne feste Bindung. Die 12-Monats-Mitgliedschaft ist günstiger, aber länger gebunden. In der Bestellübersicht steht eine Kündigungsfrist von 14 Tagen. Prüfe sie für deinen Tarif in Vertrag und AGB.
+Ja, mit dem AG Pass ohne feste Bindung. Die 12-Monats-Mitgliedschaft ist günstiger, aber länger gebunden. Bei einem Monat Erstlaufzeit gilt eine Frist von 14 Tagen, in Textform. Die 12-Monats-Mitgliedschaft ist länger gebunden: Dort kündigst du 1 Monat vor Ablauf der Laufzeit.
 
 </details>
 
