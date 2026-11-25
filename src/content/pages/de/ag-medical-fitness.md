@@ -71,7 +71,7 @@ Mit dem AG Pass trainierst du flexibel, ohne dich fest zu binden. Die 12-Monats-
 | **Verlängerung** | Ohne Kündigung verlängert sich der Vertrag monatsweise. Danach kündigst du jederzeit mit 14 Tagen Frist |
 | **Wie** | In Textform, zum Beispiel per E-Mail oder Brief |
 | **Zahlung** | Der Wochenbeitrag ist jeweils mittwochs fällig |
-| **Ruhezeit** | Bei 12- und 24-Monats-Mitgliedschaften ab 7 Tagen, wochenweise, bis zu 8 Wochen pro Kalenderjahr, über die App. Monatlich kündbare Verträge sind ausgenommen |
+| **Ruhezeit** | Nur bei 12- und 24-Monats-Mitgliedschaften, mit ärztlichem Attest und für mindestens 28 Tage, über die App. Monatlich kündbare Verträge sind ausgenommen |
 | **Widerruf** | 14 Tage ab Vertragsabschluss bei Online-Verträgen. Schon genutzte Leistungstage werden nicht erstattet |
 
 Mehr zum Kündigen bei einem Umzug: [Fitnessstudio kündigen wegen Umzug](/de/fitnessstudio-kuendigen-umzug/).
