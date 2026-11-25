@@ -133,7 +133,7 @@ Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Wiesbaden
 
 <div id="ag-medical-fitness" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gymketen"><span>Fitnessstudio</span></div>
+<div class="fotokop foto-ag-medical-fitness"><span>Fitnessstudio</span></div>
 
 <h3>AG Medical Fitness</h3>
 

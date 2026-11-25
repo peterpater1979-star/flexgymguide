@@ -11,6 +11,10 @@ kicker: "Anbieter: Fitnessstudio"
 zoekwoorden: "AG Medical Fitness, AG Pass"
 ---
 
+<div class="fotobanner smal foto-ag-medical-fitness" role="img" aria-label="Trainingsgeräte im Fitnessstudio"></div>
+
+<p class="klein">Foto: Hiroom</p>
+
 AG Medical Fitness ist eine Studiokette mit 17 Standorten, vor allem im Raum Mainz und Rhein-Main. Du zahlst nicht pro Monat, sondern pro Woche, und du wählst zwischen einem monatlich kündbaren Pass und einer Mitgliedschaft über 12 Monate.
 
 <h2 id="kurz">Kurz und knapp</h2>
