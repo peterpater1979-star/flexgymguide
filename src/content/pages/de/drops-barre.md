@@ -37,7 +37,7 @@ Drops Barre nennt sich bunt, laut und offen für alle. Auf der Website stehen zu
 - **Barre Baby:** für Schwangere und neue Mamis.
 - **Barre SWEAT:** ein Functional-Fitness-Format, ab 18 Jahren.
 
-Den aktuellen Kursplan siehst du auf der Website von Drops Barre. Socken sind Pflicht, aus Hygienegründen. Rutschfeste <a href="/go/traininn-de-gripsokken/?ws=fgg-de-drops-barre-gripsokken">Grip-Socken</a> sind ideal, normale Sportsocken gehen auch. Barfuß trainierst du nicht.
+Den aktuellen Kursplan siehst du auf der Website von Drops Barre. Socken sind Pflicht, aus Hygienegründen. Rutschfeste <a href="/go/amazon-de-yogasocken/">Grip-Socken</a> sind ideal, normale Sportsocken gehen auch. Barfuß trainierst du nicht.
 
 <h2 id="studios">Die Studios in Deutschland</h2>
 

@@ -36,7 +36,7 @@ YTTP ist eine deutsche Boutique-Studio-Kette für Reformer Pilates und Strength,
 
 ### Reformer Pilates
 
-Ein Kurs auf dem Reformer, einem Gerät mit Gleitwagen und Federn. Du trainierst kontrolliert und mit Fokus auf Kraft und Körpermitte. Grip-Socken sind in vielen Studios Pflicht. Du kaufst sie vor Ort, oder du bringst eigene <a href="/go/traininn-de-gripsokken/?ws=fgg-de-yttp-gripsokken">Grip-Socken</a> mit.
+Ein Kurs auf dem Reformer, einem Gerät mit Gleitwagen und Federn. Du trainierst kontrolliert und mit Fokus auf Kraft und Körpermitte. Grip-Socken sind in vielen Studios Pflicht. Du kaufst sie vor Ort, oder du bringst eigene <a href="/go/amazon-de-yogasocken/">Grip-Socken</a> mit.
 
 </div>
 

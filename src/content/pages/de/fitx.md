@@ -12,7 +12,7 @@ kicker: "Anbieter: Fitnesskette"
 
 <div class="fotobanner smal foto-fitx" role="img" aria-label="Fitnessstudio"></div>
 
-FitX ist eine günstige Fitnesskette mit 114 Studios in Deutschland. Es gibt nur eine Mitgliedschaft, und die gilt in allen Studios. Die Studios sind rund um die Uhr geöffnet, und Kurse mit Coaches sind im Preis enthalten.
+FitX ist eine günstige Fitnesskette mit 115 Studios in Deutschland. Es gibt nur eine Mitgliedschaft, und die gilt in allen Studios. Die Studios sind rund um die Uhr geöffnet, und Kurse mit Coaches sind im Preis enthalten.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="#staedte">FitX in deiner Stadt</a>
@@ -23,7 +23,7 @@ FitX ist eine günstige Fitnesskette mit 114 Studios in Deutschland. Es gibt nur
 | | FitX |
 | --- | --- |
 | **Art** | Günstige Fitnesskette mit eigenen Studios |
-| **Studios** | 114 in Deutschland |
+| **Studios** | 115 in Deutschland |
 | **Preis** | 29 € im Monat, einmalig 29 € Anmeldegebühr |
 | **Vertrag** | 1 Monat Laufzeit, mit einem Monat Frist kündbar |
 | **Öffnungszeiten** | Laut FitX 24 Stunden täglich, mit Personal von 9 bis 21 Uhr |
@@ -93,8 +93,8 @@ Schritt für Schritt: [FitX kündigen](/de/fitx-kuendigen/).
 
 FitX hat Studios in diesen Städten aus unserem Ratgeber:
 
-- [Berlin](/de/berlin/#fitx): unter anderem Alexanderplatz, Moabit, Schöneberg, Südkreuz und Ku'damm
-- [Düsseldorf](/de/duesseldorf/#fitx): Derendorf, Flingern, Holthausen und Lörick
+- [Berlin](/de/berlin/#fitx): unter anderem Alexanderplatz, Moabit, Schöneberg, Südkreuz, Waidmannslust und Ku'damm; Schillerpark ist in Planung
+- [Düsseldorf](/de/duesseldorf/#fitx): Derendorf, Flingern, Friedrichstadt, Holthausen und Lörick
 - [Hamburg](/de/hamburg/#fitx): Altona, Bahrenfeld, Steilshoop und Flughafen
 - [Leipzig](/de/leipzig/#fitx): Mockau und Neulindenau
 - [München](/de/muenchen/#fitx): Lenbachplatz, Schwabing-Freimann, Neuperlach und Sendling-Westpark
@@ -110,9 +110,9 @@ FitX hat Studios in diesen Städten aus unserem Ratgeber:
 - [Dresden](/de/dresden/#fitx): Freiberger Straße
 - [Duisburg](/de/duisburg/#fitx): Hafen, Rheinhausen und Hamborn
 - [Essen](/de/essen/#fitx): Nordviertel, Bergerhausen und Limbecker Platz
-- [Hannover](/de/hannover/#fitx): Linden und Vahrenheide
+- [Hannover](/de/hannover/#fitx): Vahrenheide, Linden ist in Planung
 - [Karlsruhe](/de/karlsruhe/#fitx): Oststadt
-- [Mannheim](/de/mannheim/#fitx): Almenhof und Käfertal
+- [Mannheim](/de/mannheim/#fitx): Almenhof, Käfertal ist in Planung
 - [Mönchengladbach](/de/moenchengladbach/#fitx): Waldhausen und Rheydt
 - [Münster](/de/muenster/#fitx): Kinderhaus und Berg Fidel
 - [Nürnberg](/de/nuernberg/#fitx): Zabo und Maxfeld

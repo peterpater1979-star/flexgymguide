@@ -25,7 +25,8 @@ Für einen Kurs von einer Stunde oder ein normales Training im Studio reicht mei
 - **Sportgetränke** sind etwas für lange oder sehr harte Einheiten. Für einen normalen Kurs ist Wasser völlig in Ordnung.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-essen-und-trinken-rund-ums-training-fles">Sport-Trinkflasche</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Sport-Trinkflasche</a></li>
+<li class="i-fles"><a href="/go/amazon-de-faltbare-flasche/">Faltbare Trinkflasche</a></li>
 </ul>
 
 <h2 id="vorher">Vor dem Training: klein und leicht</h2>
@@ -58,11 +59,12 @@ Achte bei der Auswahl auf:
 - **Vegan oder laktosefrei?** Es gibt auch Varianten auf Erbsen- oder Sojabasis.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/traininn-de-voeding/?ws=fgg-de-essen-und-trinken-rund-ums-training-voeding">Proteine und Sporternährung</a></li>
-<li class="i-fles"><a href="/go/traininn-de-shaker/?ws=fgg-de-essen-und-trinken-rund-ums-training-shaker">Shaker</a></li>
+<li class="i-fles"><a href="/go/amazon-de-proteinpulver/">Proteinpulver</a></li>
+<li class="i-fles"><a href="/go/amazon-de-shaker/">Shaker</a></li>
+<li class="i-fles"><a href="/go/amazon-de-proteinriegel/">Proteinriegel</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 <h2 id="tasche">Kurze Liste für deine Tasche</h2>
 

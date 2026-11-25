@@ -131,20 +131,20 @@ Bij Flex betaal je € 14,99 inschrijfgeld. Andere clubs kunnen goedkoper of duu
 
 <h2 id="spullen">Nog iets nodig voor de sportschool?</h2>
 
-Mis je nog iets? Via deze links ga je direct naar Traininn, de fitnesswinkel van Tradeinn:
+Mis je nog iets? Via deze links zoek je direct bij Amazon.nl:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-nl-kleding-dames/?ws=fgg-nl-leiden-kleding-dames">Sportkleding dames</a></li>
-<li class="i-kleding"><a href="/go/traininn-nl-kleding-heren/?ws=fgg-nl-leiden-kleding-heren">Sportkleding heren</a></li>
-<li class="i-schoen"><a href="/go/traininn-nl-schoenen-dames/?ws=fgg-nl-leiden-schoenen-dames">Sportschoenen dames</a></li>
-<li class="i-schoen"><a href="/go/traininn-nl-schoenen-heren/?ws=fgg-nl-leiden-schoenen-heren">Sportschoenen heren</a></li>
-<li class="i-fles"><a href="/go/traininn-nl-fles/?ws=fgg-nl-leiden-fles">Waterfles</a></li>
-<li class="i-handdoek"><a href="/go/traininn-nl-handdoek/?ws=fgg-nl-leiden-handdoek">Sporthanddoek</a></li>
-<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-leiden-hangslot">Hangslot voor het kluisje</a></li>
-<li class="i-sok"><a href="/go/traininn-nl-gripsokken/?ws=fgg-nl-leiden-gripsokken">Gripsokken voor yoga en pilates</a></li>
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-dames/">Sportkleding dames</a></li>
+<li class="i-kleding"><a href="/go/amazon-nl-sportkleding-heren/">Sportkleding heren</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-dames/">Sportschoenen dames</a></li>
+<li class="i-schoen"><a href="/go/amazon-nl-sportschoenen-heren/">Sportschoenen heren</a></li>
+<li class="i-fles"><a href="/go/amazon-nl-waterfles/">Waterfles</a></li>
+<li class="i-handdoek"><a href="/go/amazon-nl-handdoek/">Sporthanddoek</a></li>
+<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
+<li class="i-sok"><a href="/go/amazon-nl-yogasokken/">Gripsokken voor yoga en pilates</a></li>
 </ul>
 
-<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
 
 ## Veelgestelde vragen
 

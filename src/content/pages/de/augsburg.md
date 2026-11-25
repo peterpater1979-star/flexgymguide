@@ -167,6 +167,20 @@ Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Augsburg:
 
 </div>
 
+<div id="golden-butterfly-gym" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-golden-butterfly-gym"><span>Studio mit Kursen</span></div>
+
+<h3>Golden Butterfly Gym</h3>
+
+Studio mit Gerätetraining, Reformer Pilates, ZenTaoYoga und DanceFit. In Augsburg: Haunstetten und Pfersee, dazu Gersthofen. Preis: frag nach.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/golden-butterfly-gym/">Alles über Golden Butterfly Gym</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -195,6 +209,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Aug
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Lechhausen |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Innenstadt |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
+| **[Golden Butterfly Gym](/de/golden-butterfly-gym/)** | Frag nach | Frag nach | 2 Studios: Haunstetten und Pfersee (dazu Gersthofen) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -236,20 +251,20 @@ FitX kostet 29 € im Monat und ist monatlich kündbar, McFit Flex 49,90 €.
 
 <h2 id="spullen">Noch etwas fürs Training nötig?</h2>
 
-Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-de-augsburg-kleding-dames">Sportbekleidung Damen</a></li>
-<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-de-augsburg-kleding-heren">Sportbekleidung Herren</a></li>
-<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-de-augsburg-schoenen-dames">Sportschuhe Damen</a></li>
-<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-de-augsburg-schoenen-heren">Sportschuhe Herren</a></li>
-<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-augsburg-fles">Trinkflasche</a></li>
-<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-augsburg-handdoek">Sporthandtuch</a></li>
-<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-de-augsburg-hangslot">Vorhängeschloss für den Spind</a></li>
-<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-de-augsburg-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Grip-Socken für Yoga und Pilates</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 ## Häufige Fragen
 

@@ -78,10 +78,10 @@ Ga je zwemmen bij Sportfondsen? Via deze links ga je direct naar Swiminn, de zwe
 <li class="i-badmuts"><a href="/go/swiminn-nl-badmuts/?ws=fgg-nl-sportfondsen-badmuts">Badmuts</a></li>
 <li class="i-handdoek"><a href="/go/swiminn-nl-handdoek/?ws=fgg-nl-sportfondsen-handdoek">Handdoek</a></li>
 <li class="i-tas"><a href="/go/swiminn-nl-zwemtas/?ws=fgg-nl-sportfondsen-zwemtas">Zwemtas</a></li>
-<li class="i-slot"><a href="/go/bricoinn-nl-cadenas/?ws=fgg-nl-sportfondsen-hangslot">Hangslot voor het kluisje</a></li>
+<li class="i-slot"><a href="/go/amazon-nl-hangslot/">Hangslot voor het kluisje</a></li>
 </ul>
 
-<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt!</p>
+<p class="klein commissie">Koop je via deze links, dan krijgen wij een kleine commissie. Jij betaalt niets extra en zo blijft deze gids gratis. Bedankt! Als Amazon-partner verdienen wij aan in aanmerking komende aankopen.</p>
 
 <h2 id="classpass">Sportfondsen of ClassPass?</h2>
 

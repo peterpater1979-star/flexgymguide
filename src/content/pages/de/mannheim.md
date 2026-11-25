@@ -101,7 +101,7 @@ Günstige Kette mit 2 Studios in Mannheim. Flex 49,90 € im Monat, mit Laufzeit
 
 <h3>FitX</h3>
 
-FitX hat in Mannheim 2 Studios: Almenhof und Käfertal, alle 24 Stunden geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Mannheim ein Studio im Almenhof, 24 Stunden geöffnet. Ein zweites Studio in Käfertal ist in Planung. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -175,7 +175,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 3 Clubs in Ma
 | --- | --- | --- | --- |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Neckarstadt |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 2 Studios: Almenhof und Käfertal |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios: Almenhof und Käfertal |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Almenhof, Käfertal in Planung |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Innenstadt |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
 
@@ -219,20 +219,20 @@ FitX kostet 29 € im Monat und ist monatlich kündbar, McFit Flex 49,90 €.
 
 <h2 id="spullen">Noch etwas fürs Training nötig?</h2>
 
-Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-de-mannheim-kleding-dames">Sportbekleidung Damen</a></li>
-<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-de-mannheim-kleding-heren">Sportbekleidung Herren</a></li>
-<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-de-mannheim-schoenen-dames">Sportschuhe Damen</a></li>
-<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-de-mannheim-schoenen-heren">Sportschuhe Herren</a></li>
-<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-mannheim-fles">Trinkflasche</a></li>
-<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-mannheim-handdoek">Sporthandtuch</a></li>
-<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-de-mannheim-hangslot">Vorhängeschloss für den Spind</a></li>
-<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-de-mannheim-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Grip-Socken für Yoga und Pilates</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 ## Häufige Fragen
 

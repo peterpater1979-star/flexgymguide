@@ -35,7 +35,7 @@ Classy Pilates ist ein Boutique-Studio für Reformer Pilates in Frankfurt am Mai
 
 ### Reformer Pilates
 
-Ein Kurs auf dem Reformer, einem Gerät mit Gleitwagen und Federn. Du trainierst kontrolliert und mit Fokus auf Körpermitte und Kraft. Reformer-Kurse gibt es im Bahnhofsviertel, in Bornheim und in Sachsenhausen. Grip-Socken sind in vielen Studios üblich. Du kaufst sie vor Ort, oder du bringst eigene <a href="/go/traininn-de-gripsokken/?ws=fgg-de-classy-pilates-gripsokken">Grip-Socken</a> mit.
+Ein Kurs auf dem Reformer, einem Gerät mit Gleitwagen und Federn. Du trainierst kontrolliert und mit Fokus auf Körpermitte und Kraft. Reformer-Kurse gibt es im Bahnhofsviertel, in Bornheim und in Sachsenhausen. Grip-Socken sind in vielen Studios üblich. Du kaufst sie vor Ort, oder du bringst eigene <a href="/go/amazon-de-yogasocken/">Grip-Socken</a> mit.
 
 </div>
 

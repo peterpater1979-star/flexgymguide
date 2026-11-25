@@ -101,7 +101,7 @@ Günstige Kette mit 3 Studios in Hannover. Flex 49,90 € im Monat, mit Laufzeit
 
 <h3>FitX</h3>
 
-FitX hat in Hannover 2 Studios: Linden und Vahrenheide, alle 24 Stunden geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+FitX hat in Hannover ein Studio in Vahrenheide, 24 Stunden geöffnet. Ein zweites Studio in Linden ist in Planung. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
@@ -174,7 +174,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 Clubs in Ha
 | --- | --- | --- | --- |
 | **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 4 Studios: City, Misburg, Vahrenwald und Hainholz |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 3 Studios: Südstadt, Vahrenheide und Wülfel |
-| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios: Linden und Vahrenheide |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Vahrenheide, Linden in Planung |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Nordstadt (Weidendamm) |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios: Calenberger Neustadt und Südstadt |
 
@@ -218,20 +218,20 @@ FitX kostet 29 € im Monat und ist monatlich kündbar, McFit Flex 49,90 €.
 
 <h2 id="spullen">Noch etwas fürs Training nötig?</h2>
 
-Fehlt dir noch etwas? Diese Links führen dich direkt zu Traininn, dem Fitness-Shop von Tradeinn:
+Fehlt dir noch etwas? Über diese Links suchst du direkt bei Amazon.de:
 
 <ul class="spullen">
-<li class="i-kleding"><a href="/go/traininn-de-kleding-dames/?ws=fgg-de-hannover-kleding-dames">Sportbekleidung Damen</a></li>
-<li class="i-kleding"><a href="/go/traininn-de-kleding-heren/?ws=fgg-de-hannover-kleding-heren">Sportbekleidung Herren</a></li>
-<li class="i-schoen"><a href="/go/traininn-de-schoenen-dames/?ws=fgg-de-hannover-schoenen-dames">Sportschuhe Damen</a></li>
-<li class="i-schoen"><a href="/go/traininn-de-schoenen-heren/?ws=fgg-de-hannover-schoenen-heren">Sportschuhe Herren</a></li>
-<li class="i-fles"><a href="/go/traininn-de-fles/?ws=fgg-de-hannover-fles">Trinkflasche</a></li>
-<li class="i-handdoek"><a href="/go/traininn-de-handdoek/?ws=fgg-de-hannover-handdoek">Sporthandtuch</a></li>
-<li class="i-slot"><a href="/go/bricoinn-de-cadenas/?ws=fgg-de-hannover-hangslot">Vorhängeschloss für den Spind</a></li>
-<li class="i-sok"><a href="/go/traininn-de-gripsokken/?ws=fgg-de-hannover-gripsokken">Grip-Socken für Yoga und Pilates</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-damen/">Sportbekleidung Damen</a></li>
+<li class="i-kleding"><a href="/go/amazon-de-sportbekleidung-herren/">Sportbekleidung Herren</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-damen/">Sportschuhe Damen</a></li>
+<li class="i-schoen"><a href="/go/amazon-de-sportschuhe-herren/">Sportschuhe Herren</a></li>
+<li class="i-fles"><a href="/go/amazon-de-trinkflasche/">Trinkflasche</a></li>
+<li class="i-handdoek"><a href="/go/amazon-de-handtuch/">Sporthandtuch</a></li>
+<li class="i-slot"><a href="/go/amazon-de-schloss/">Vorhängeschloss für den Spind</a></li>
+<li class="i-sok"><a href="/go/amazon-de-yogasocken/">Grip-Socken für Yoga und Pilates</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke!</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 ## Häufige Fragen
 
