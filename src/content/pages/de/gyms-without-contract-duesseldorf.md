@@ -66,7 +66,7 @@ McFit has several gyms in Düsseldorf. With Flex you pay €49.90 a month and ca
 
 <h2 id="other">Other gyms in Düsseldorf with a flexible plan</h2>
 
-- **FitX:** 4 gyms (Derendorf, Flingern, Holthausen and Lörick), open 24 hours, €29 a month, cancel monthly.
+- **FitX:** 5 gyms (Derendorf, Flingern, Friedrichstadt, Holthausen and Lörick), open 24 hours, €29 a month, cancel monthly.
 - **JOHN REED:** 3 clubs, Flex from €60 to €80 a month, cancel monthly.
 - **Holmes Place:** 3 premium clubs; ask about the terms during a visit.
 

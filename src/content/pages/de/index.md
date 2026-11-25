@@ -191,7 +191,7 @@ Günstiges Gym mit über 230 Studios in Deutschland, Österreich und Italien. Fl
 
 ### FitX
 
-114 Studios in Deutschland, 24 Stunden geöffnet, Kurse inklusive. 29 € im Monat, monatlich kündbar.
+115 Studios in Deutschland, 24 Stunden geöffnet, Kurse inklusive. 29 € im Monat, monatlich kündbar.
 
 <div class="infoblok">
 <p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
