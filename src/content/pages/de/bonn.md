@@ -44,7 +44,7 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Bonn ist das Angebot noc
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-bonn">Zur Website von Fitness First</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-bonn">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 

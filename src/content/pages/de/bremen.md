@@ -44,7 +44,7 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Bremen ist das Angebot n
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-bremen">Zur Website von Fitness First</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-bremen">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
