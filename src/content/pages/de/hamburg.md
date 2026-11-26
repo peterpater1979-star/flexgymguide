@@ -31,20 +31,6 @@ Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Ep
 
 </div>
 
-<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
-
-<h3>Mrs.Sporty</h3>
-
-Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Hamburg. 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
-</div>
-
-</div>
-
 <div class="kolom kaart">
 
 <div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
@@ -59,6 +45,20 @@ Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Hamburg.
 
 <div class="knoppen">
 <a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+</div>
+
+</div>
+
+<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+<h3>Mrs.Sporty</h3>
+
+Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Hamburg. 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
 </div>
 
 </div>

@@ -40,6 +40,29 @@ Ein Abo mit Credits für Yoga, Pilates, Boxen, Spinning und Gym-Besuche in Studi
 
 <div class="kolom kaart aanbiederkaart">
 
+<div class="fotokop foto-fitness-first-de"><span>Fitnesskette</span></div>
+
+### Fitness First
+
+Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 217 Clubs in Deutschland und 12 in Österreich.
+
+<div class="infoblok">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+<ul>
+<li>Gut, wenn du dreimal pro Woche oder öfter trainierst</li>
+<li>Gut, wenn du einen festen Ort willst</li>
+<li>Meist nur in Deutschland</li>
+</ul>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+</div>
+
+<div class="kolom kaart aanbiederkaart">
+
 <div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
 
 ### all inclusive Fitness
@@ -66,29 +89,6 @@ Fitnessstudio nur für Frauen mit über 250 Clubs. 30 Minuten Training in einer 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
-</div>
-
-</div>
-
-<div class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-fitness-first-de"><span>Fitnesskette</span></div>
-
-### Fitness First
-
-Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness First mit 217 Clubs in Deutschland und 12 in Österreich.
-
-<div class="infoblok">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
-<ul>
-<li>Gut, wenn du dreimal pro Woche oder öfter trainierst</li>
-<li>Gut, wenn du einen festen Ort willst</li>
-<li>Meist nur in Deutschland</li>
-</ul>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
 </div>

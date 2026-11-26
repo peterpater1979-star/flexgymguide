@@ -31,6 +31,24 @@ Ein Abo auf Credit-Basis für Barre, Yoga, Kampfsport und Tanz, vom Belgischen V
 
 </div>
 
+<div class="kolom kaart">
+
+<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
+
+### Fitness First
+
+217 Clubs in Deutschland, 14 in Köln. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+</div>
+
+</div>
+
 <div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
@@ -59,24 +77,6 @@ Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit mehreren Clubs in Köln. 3
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
-</div>
-
-</div>
-
-<div class="kolom kaart">
-
-<div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
-
-### Fitness First
-
-217 Clubs in Deutschland, 14 in Köln. Kurse und Sauna, BLACK oft mit Pool. Laufzeit 1, 12 oder 24 Monate.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
-</div>
-
-<div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>

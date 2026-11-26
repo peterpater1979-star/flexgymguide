@@ -254,7 +254,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 Noch unsicher? Buch online ein kostenloses Probetraining, einlösbar in allen Fitness First Clubs in Deutschland. Du testest einen Tag lang, so lange du willst, inklusive Sauna, Dampfbad und, wo vorhanden, Pool. Kurse kannst du an der Rezeption anfragen. Alle 6 Monate ist ein neues Probetraining möglich. Ab 14 Jahren kannst du mit einer erziehungsberechtigten Person kommen, mit 16 oder 17 brauchst du eine unterschriebene Einverständniserklärung.
 
 <div class="knoppen">
-<a class="knop knop-rand" href="https://www.fitnessfirst.de/">Zur Website von Fitness First</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-fitness-first">Zur Website von Fitness First</a>
 </div>
 
 </div>

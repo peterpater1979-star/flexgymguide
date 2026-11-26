@@ -31,24 +31,6 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Essen ist das Angebot no
 
 </div>
 
-<div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
-
-<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
-
-<h3>all inclusive Fitness</h3>
-
-Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. In Essen: 4 Studios: Borbeck, Altenessen, Bergerhausen und Kray.
-
-<div class="infoblok kort">
-<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
-</div>
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
-</div>
-
-</div>
-
 <div id="fitness-first" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-fitness-first-de"><span>Für Vieltrainierer</span></div>
@@ -63,6 +45,24 @@ Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Mona
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+</div>
+
+<div id="all-inclusive-fitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gymketen"><span>Fitnesskette</span></div>
+
+<h3>all inclusive Fitness</h3>
+
+Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. In Essen: 4 Studios: Borbeck, Altenessen, Bergerhausen und Kray.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/all-inclusive-fitness/">Alles über all inclusive Fitness</a>
 </div>
 
 </div>
