@@ -44,7 +44,8 @@ Ein Abo auf Credit-Basis für Yoga, Pilates und Bootcamp im Park, vor allem im Z
 </div>
 
 <div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-leipzig">Zur Website von Fitness First</a>
+<a class="knop knop-rand" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>

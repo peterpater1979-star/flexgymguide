@@ -44,7 +44,8 @@ Ein Abo auf Credit-Basis für Reformer-Pilates, Indoor-Cycling und Yoga, vor all
 </div>
 
 <div class="knoppen">
-<a class="knop" href="/de/fitness-first/">Fitness First ansehen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-muenchen">Zur Website von Fitness First</a>
+<a class="knop knop-rand" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
 </div>

@@ -44,6 +44,7 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Nürnberg gibt es vor al
 </div>
 
 <div class="knoppen">
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-nuernberg">Zur Website von Fitness First</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
