@@ -27,7 +27,6 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 | **München** | Sendling | Implerstraße, 81371 München |
 | **München** | Haidhausen | Schyrenstraße 8, 81543 München |
 | **München** | Hackerbrücke | Klaus-Mann-Platz 1, München |
-| **Düsseldorf** | Kurse mit RIDE und HYBRID |
 | **4 Workouts** | 49 € pro Monat |
 | **8 Workouts** | 79 € pro Monat |
 | **Unbegrenzt** | 99 € pro Monat |
@@ -54,9 +53,8 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 | **München** | Sendling | Implerstraße, 81371 München |
 | **München** | Haidhausen | Schyrenstraße 8, 81543 München |
 | **München** | Hackerbrücke | Klaus-Mann-Platz 1, München |
-| **Düsseldorf** | Kurse mit RIDE und HYBRID | Adresse: siehe Website |
 
-Mehr zu deiner Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/) und [Flexibel trainieren in Hamburg](/de/hamburg/), [Flexibel trainieren in Köln](/de/koeln/), [Flexibel trainieren in München](/de/muenchen/) und [Flexibel trainieren in Düsseldorf](/de/duesseldorf/).
+Mehr zu deiner Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/) und [Flexibel trainieren in Hamburg](/de/hamburg/), [Flexibel trainieren in Köln](/de/koeln/), und [Flexibel trainieren in München](/de/muenchen/).
 
 <h2 id="preise">Monatsabos</h2>
 
@@ -95,7 +93,7 @@ RIDE ist ein Cycling-Kurs. HYBRID verbindet Kraft und Cardio.
 <details>
 <summary>Ist BEAT81 auf ClassPass?</summary>
 
-Auf ClassPass haben wir BEAT81 in Berlin, Hamburg, Köln, München und Düsseldorf gefunden. Mehr dazu in unserem [Überblick zu ClassPass](/de/classpass/).
+Auf ClassPass haben wir BEAT81 in Berlin, Hamburg, Köln und München gefunden. Mehr dazu in unserem [Überblick zu ClassPass](/de/classpass/).
 
 </details>
 
@@ -104,6 +102,5 @@ Auf ClassPass haben wir BEAT81 in Berlin, Hamburg, Köln, München und Düsseldo
 <a class="knop knop-rand" href="/de/hamburg/">Training in Hamburg</a>
 <a class="knop knop-rand" href="/de/koeln/">Training in Köln</a>
 <a class="knop knop-rand" href="/de/muenchen/">Training in München</a>
-<a class="knop knop-rand" href="/de/duesseldorf/">Training in Düsseldorf</a>
 <a class="knop knop-rand" href="https://www.beat81.com/">BEAT81</a>
 </div>
