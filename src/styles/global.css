@@ -185,6 +185,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .foto-myclubs { --foto: url(/img/foto/myclubs.jpg); background-position: center 35%; }
 .foto-gewichten { --foto: url(/img/foto/gewichten.jpg); background-position: center 25%; }
 .foto-barrys { --foto: url(/img/foto/barrys.jpg); background-position: center 30%; }
+.foto-beat81 { --foto: url(/img/foto/beat81.jpg); background-position: center 40%; }
 .foto-sporttas { --foto: url(/img/foto/sporttas.jpg); background-position: center 78%; max-width: 72ch; }
 /* Gidsen: voorlopige foto's, later te vervangen door eigen bestanden met dezelfde naam */
 .foto-eerste-les { --foto: url(/img/foto/eerste-les.jpg); }

@@ -270,7 +270,7 @@ Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung 
 
 <div id="beat81" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gewichten"><span>Boutique-Studio</span></div>
+<div class="fotokop foto-beat81"><span>Boutique-Studio</span></div>
 
 <h3>BEAT81</h3>
 
