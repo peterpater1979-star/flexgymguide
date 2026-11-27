@@ -264,7 +264,7 @@ Yoga, Pilates, Sculpt, Sound und Red Light in 7 Studios in Berlin, mit Einzelstu
 
 <h3>Shapesty</h3>
 
-Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung für die Gelenke. In Berlin gibt es 2 Studios: Mitte (Aaron-Bernstein-Platz 3) und Charlottenburg (Augsburger Straße 37). Preise und Kurse siehst du auf der Website von Shapesty.
+Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung für die Gelenke. In Berlin gibt es 2 Studios: Mitte (Aaron-Bernstein-Platz 3) und Charlottenburg (Augsburger Straße 37). Einzelkurs 35 €, 10 Kurse 310 €, Mitgliedschaft ab 96 € pro Monat für 4 Kurse (mindestens 6 Monate), oder unbegrenzt ab 270 € pro Monat.
 
 </div>
 
@@ -432,7 +432,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 9 Studios |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer) |
 | **[Open Studios Berlin](/de/open-studios-berlin/)** | Einzelstunde 22 €, Open Membership ab 79 € (ein Studio) oder 99 € (alle Studios) | 6 Monate Mindestlaufzeit mit automatischer Verlängerung, oder Karten ohne Vertrag | 7 Studios (Yoga und Pilates) |
-| **Shapesty** | Siehe Website | Siehe Website | 2 Studios (Mitte, Charlottenburg) |
+| **Shapesty** | Einzelkurs 35 €, 5 Kurse 165 €, 10 Kurse 310 €, 20 Kurse 560 €, Mitgliedschaft 96 € (4 Kurse) bis 228 € (12 Kurse) pro Monat, unbegrenzt 270 bis 339 € pro Monat | Mitgliedschaft mindestens 6 Monate (einmal bis 4 Wochen pausieren), unbegrenzt 1, 3 oder 6 Monate, Kurspakete 1 bis 12 Monate gültig | 2 Studios (Mitte, Charlottenburg) |
 | **BEAT81** | Siehe Website | Siehe Website | Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt |
 | **Barry's** | Einzelkurs 29 €, 10 Kurse 270 €, Mitgliedschaft 8 Kurse 180 €, 12 Kurse 245 € oder 16 Kurse 290 € pro 30 Tage | Mitgliedschaft jederzeit kündbar, Kurspakete ein Jahr gültig | 1 Studio (Friedrichstraße 83) |
 
