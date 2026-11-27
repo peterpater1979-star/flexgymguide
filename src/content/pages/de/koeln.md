@@ -204,6 +204,24 @@ Boutique-Studio für Barre-Kurse. Unlimited ab 89 € pro Monat. In Köln: 1 Stu
 
 </div>
 
+<div id="beat81" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-beat81"><span>Boutique-Studio</span></div>
+
+<h3>BEAT81</h3>
+
+Functional Training in der Gruppe (RIDE und HYBRID), 4 Studios in Köln (Rudi, Zülpi, Lindenthal, Sülz). Ab 49 € pro Monat.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Neukunden: die ersten 2 Workouts für 20 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/beat81/">Alles über BEAT81</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -346,6 +364,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 4 Studios |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer, Pilates und Strength) |
 | **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
+| **[BEAT81](/de/beat81/)** | Ab 49 € pro Monat (4 Workouts) | Monatlich abgerechnet, Kündigung 1 Monat vorher | 4 Studios (Rudi, Zülpi, Lindenthal, Sülz) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
