@@ -2,7 +2,7 @@
 title: "Flexibel trainieren in Bielefeld"
 seoTitle: "Fitnessstudio Bielefeld: flexibel trainieren ohne langen Vertrag"
 path: "/de/bielefeld/"
-description: "Flexibel trainieren in Bielefeld: Fitness First mit 2 Clubs, dazu all inclusive Fitness. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Bielefeld: ClassPass, Fitness First mit 2 Clubs, dazu all inclusive Fitness. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -15,6 +15,21 @@ In Bielefeld trainierst du bei Fitness First in 2 Clubs, dazu gibt es all inclus
 <h2 id="blick">Auf einen Blick</h2>
 
 <div class="kolommen vier">
+
+<div id="classpass" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+<h3>ClassPass</h3>
+
+Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Bielefeld machen unter anderem all inclusive Fitness (Gym-Zugang) und NEADZBEATZ (Cycling) mit. Mit demselben Abo trainierst du auch in anderen deutschen Städten und im Ausland. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-bielefeld">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
 
 <div id="fitness-first" class="kolom kaart aanbiederkaart">
 
@@ -41,7 +56,7 @@ In Bielefeld trainierst du bei Fitness First in 2 Clubs, dazu gibt es all inclus
 
 <h3>all inclusive Fitness</h3>
 
-Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. Es gibt ein Studio in Bielefeld.
+Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. In Bielefeld gibt es 4 Studios.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
@@ -77,7 +92,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 Clubs in Bi
 
 | Anbieter | Preis pro Monat | Laufzeit | In Bielefeld |
 | --- | --- | --- | --- |
-| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 4 Studios: City, Schildesche, Sieker, Brackwede |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -89,7 +104,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 Clubs in Bi
 
 ### Du willst dich nicht lange binden
 
-Ein Sportpass wie ClassPass oder Urban Sports Club ist monatlich kündbar. Welche Studios in Bielefeld mitmachen, siehst du in der jeweiligen App.
+Nimm ClassPass: Du trainierst mit Credits in Studios in Bielefeld und anderen Städten, jederzeit kündbar. Welche Studios gerade mitmachen, siehst du in der App.
 
 [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
@@ -120,6 +135,13 @@ Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer d
 <summary>Gibt es in Bielefeld ein Probetraining?</summary>
 
 Ja, bei Fitness First ist ein Probetraining kostenlos. Bei all inclusive Fitness buchst du das Probetraining online.
+
+</details>
+
+<details>
+<summary>Gibt es ClassPass in Bielefeld?</summary>
+
+Ja. In Bielefeld machen unter anderem all inclusive Fitness und NEADZBEATZ mit. Welche Studios gerade dabei sind, siehst du in der ClassPass-App. Deine Credits kannst du auch in anderen deutschen Städten und im Ausland nutzen.
 
 </details>
 
