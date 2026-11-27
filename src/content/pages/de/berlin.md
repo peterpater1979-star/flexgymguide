@@ -264,7 +264,11 @@ Yoga, Pilates, Sculpt, Sound und Red Light in 7 Studios in Berlin, mit Einzelstu
 
 <h3>Shapesty</h3>
 
-Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung für die Gelenke. In Berlin gibt es 2 Studios: Mitte (Aaron-Bernstein-Platz 3) und Charlottenburg (Augsburger Straße 37). Einzelkurs 35 €, 10 Kurse 310 €, Mitgliedschaft ab 96 € pro Monat für 4 Kurse (mindestens 6 Monate), oder unbegrenzt ab 270 € pro Monat. Für Neukunden: 2 Kurse für 35 € (2 Kurse zum Preis von 1), einmal kaufbar.
+Lagree auf dem Megaformer, 2 Studios in Berlin (Mitte, Charlottenburg). Ab 96 € pro Monat.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Neukunden: 2 Kurse für 35 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/shapesty/">Alles über Shapesty</a>
@@ -278,7 +282,11 @@ Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung 
 
 <h3>BEAT81</h3>
 
-Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Cardio). In Berlin gibt es Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt. Monatsabo ab 49 € für 4 Workouts, 79 € für 8 Workouts oder 99 € unbegrenzt, gültig in allen Studios. Für Neukunden: die ersten 2 Workouts für 20 €.
+Functional Training in der Gruppe (RIDE und HYBRID), 3 Studios in Berlin. Ab 49 € pro Monat.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Neukunden: die ersten 2 Workouts für 20 €</p>
+</div>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/beat81/">Alles über BEAT81</a>
@@ -292,7 +300,7 @@ Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Card
 
 <h3>Barry's</h3>
 
-HIIT-Kurse mit Laufband und Krafttraining. In Berlin gibt es ein Studio (Friedrichstraße 83). Einzelkurs 29 €, Mitgliedschaft ab 180 € pro 30 Tage für 8 Kurse, jederzeit kündbar.
+HIIT mit Laufband und Krafttraining, 1 Studio in Berlin (Friedrichstraße 83). Ab 180 € pro 30 Tage.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/barrys/">Alles über Barry's</a>
@@ -444,9 +452,9 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 9 Studios |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer) |
 | **[Open Studios Berlin](/de/open-studios-berlin/)** | Einzelstunde 22 €, Open Membership ab 79 € (ein Studio) oder 99 € (alle Studios) | 6 Monate Mindestlaufzeit mit automatischer Verlängerung, oder Karten ohne Vertrag | 7 Studios (Yoga und Pilates) |
-| **[Shapesty](/de/shapesty/)** | Einzelkurs 35 €, 5 Kurse 165 €, 10 Kurse 310 €, 20 Kurse 560 €, Mitgliedschaft 96 € (4 Kurse) bis 228 € (12 Kurse) pro Monat, unbegrenzt 270 bis 339 € pro Monat | Mitgliedschaft mindestens 6 Monate (einmal bis 4 Wochen pausieren), unbegrenzt 1, 3 oder 6 Monate, Kurspakete 1 bis 12 Monate gültig | 2 Studios (Mitte, Charlottenburg) |
-| **[BEAT81](/de/beat81/)** | Monatsabo 49 € (4 Workouts), 79 € (8 Workouts) oder 99 € (unbegrenzt) | Monatlich abgerechnet, Kündigung 1 Monat vorher | Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt |
-| **[Barry's](/de/barrys/)** | Einzelkurs 29 €, 10 Kurse 270 €, Mitgliedschaft 8 Kurse 180 €, 12 Kurse 245 € oder 16 Kurse 290 € pro 30 Tage | Mitgliedschaft jederzeit kündbar, Kurspakete ein Jahr gültig | 1 Studio (Friedrichstraße 83) |
+| **[Shapesty](/de/shapesty/)** | Ab 96 € pro Monat (4 Kurse), unbegrenzt ab 270 € | Mitgliedschaft mindestens 6 Monate | 2 Studios (Mitte, Charlottenburg) |
+| **[BEAT81](/de/beat81/)** | Ab 49 € pro Monat (4 Workouts) | Monatlich abgerechnet, Kündigung 1 Monat vorher | Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt |
+| **[Barry's](/de/barrys/)** | Ab 180 € pro 30 Tage (8 Kurse) | Mitgliedschaft jederzeit kündbar | 1 Studio (Friedrichstraße 83) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
