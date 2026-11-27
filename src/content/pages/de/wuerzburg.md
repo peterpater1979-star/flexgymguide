@@ -2,7 +2,7 @@
 title: "Flexibel trainieren in Würzburg"
 seoTitle: "Fitnessstudio Würzburg: flexibel trainieren ohne langen Vertrag"
 path: "/de/wuerzburg/"
-description: "Flexibel trainieren in Würzburg: Fitness First mit 1 Club, dazu all inclusive Fitness. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Würzburg: ClassPass, Fitness First mit 1 Club, dazu all inclusive Fitness. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -15,6 +15,21 @@ In Würzburg trainierst du bei Fitness First in 1 Club, dazu gibt es all inclusi
 <h2 id="blick">Auf einen Blick</h2>
 
 <div class="kolommen vier">
+
+<div id="classpass" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+<h3>ClassPass</h3>
+
+Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Würzburg ist das Angebot noch klein: Dazu gehören all inclusive Fitness (Gym-Zugang) sowie Matory und die EMS-Lounge im nahen Rottendorf. Mit demselben Abo trainierst du auch in anderen deutschen Städten und im Ausland. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-wuerzburg">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
 
 <div id="fitness-first" class="kolom kaart aanbiederkaart">
 
@@ -76,7 +91,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Wü
 
 | Anbieter | Preis pro Monat | Laufzeit | In Würzburg |
 | --- | --- | --- | --- |
-| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio (Rottendorfer Straße 67) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -88,7 +103,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Wü
 
 ### Du willst dich nicht lange binden
 
-Ein Sportpass wie ClassPass oder Urban Sports Club ist monatlich kündbar. Welche Studios in Würzburg mitmachen, siehst du in der jeweiligen App.
+Nimm ClassPass: Du trainierst mit Credits in Studios in Würzburg und anderen Städten, jederzeit kündbar. Welche Studios gerade mitmachen, siehst du in der App.
 
 [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
@@ -119,6 +134,13 @@ Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer d
 <summary>Gibt es in Würzburg ein Probetraining?</summary>
 
 Ja, bei Fitness First ist ein Probetraining kostenlos. Bei all inclusive Fitness buchst du das Probetraining online.
+
+</details>
+
+<details>
+<summary>Gibt es ClassPass in Würzburg?</summary>
+
+Ja, aber das Angebot ist noch klein. Dazu gehören all inclusive Fitness in Würzburg sowie Matory und die EMS-Lounge in Rottendorf. Welche Studios gerade mitmachen, siehst du in der ClassPass-App. Deine Credits kannst du auch in anderen deutschen Städten und im Ausland nutzen.
 
 </details>
 
