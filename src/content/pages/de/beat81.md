@@ -21,6 +21,7 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 | **Art** | Gruppentraining: RIDE (Cycling) und HYBRID (Kraft und Cardio) |
 | **Studios in Berlin** | Mitte, am Kurfürstendamm und am Hackeschen Markt |
 | **Studios in Hamburg** | Uhlenhorst, Schanze und Neustadt |
+| **Düsseldorf** | Kurse mit RIDE und HYBRID |
 | **4 Workouts** | 49 € pro Monat |
 | **8 Workouts** | 79 € pro Monat |
 | **Unbegrenzt** | 99 € pro Monat |
@@ -33,8 +34,9 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 
 - **Berlin:** Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt.
 - **Hamburg:** Studios in Uhlenhorst, Schanze und Neustadt.
+- **Düsseldorf:** Kurse mit RIDE und HYBRID.
 
-Mehr zu deiner Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/) und [Flexibel trainieren in Hamburg](/de/hamburg/).
+Mehr zu deiner Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/) und [Flexibel trainieren in Hamburg](/de/hamburg/) und [Flexibel trainieren in Düsseldorf](/de/duesseldorf/).
 
 <h2 id="preise">Monatsabos</h2>
 
@@ -80,5 +82,6 @@ Auf ClassPass haben wir BEAT81 in Berlin, Hamburg und Düsseldorf gefunden. Mehr
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/berlin/">Training in Berlin</a>
 <a class="knop knop-rand" href="/de/hamburg/">Training in Hamburg</a>
+<a class="knop knop-rand" href="/de/duesseldorf/">Training in Düsseldorf</a>
 <a class="knop knop-rand" href="https://www.beat81.com/">BEAT81</a>
 </div>
