@@ -2,7 +2,7 @@
 title: "Flexibel trainieren in Rostock"
 seoTitle: "Fitnessstudio Rostock: flexibel trainieren ohne langen Vertrag"
 path: "/de/rostock/"
-description: "Flexibel trainieren in Rostock: Fitness First mit 1 Club. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Rostock: ClassPass, Fitness First mit 1 Club. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -15,6 +15,21 @@ In Rostock trainierst du bei Fitness First in 1 Club. Wie du ohne langen Vertrag
 <h2 id="blick">Auf einen Blick</h2>
 
 <div class="kolommen vier">
+
+<div id="classpass" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+<h3>ClassPass</h3>
+
+Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Rostock ist das Angebot noch klein: Dazu gehört der Sports Club (Gym-Zugang). Mit demselben Abo trainierst du auch in anderen deutschen Städten und im Ausland. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-rostock">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
 
 <div id="fitness-first" class="kolom kaart aanbiederkaart">
 
@@ -62,7 +77,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Ros
 
 ### Du willst dich nicht lange binden
 
-Ein Sportpass wie ClassPass oder Urban Sports Club ist monatlich kündbar. Welche Studios in Rostock mitmachen, siehst du in der jeweiligen App.
+Nimm ClassPass: Du trainierst mit Credits in Studios in Rostock und anderen Städten, jederzeit kündbar. Welche Studios gerade mitmachen, siehst du in der App.
 
 [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
@@ -93,6 +108,13 @@ Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer d
 <summary>Gibt es in Rostock ein Probetraining?</summary>
 
 Ja, bei Fitness First ist ein Probetraining kostenlos.
+
+</details>
+
+<details>
+<summary>Gibt es ClassPass in Rostock?</summary>
+
+Ja, aber das Angebot ist noch klein. Dazu gehört der Sports Club. Welche Studios gerade mitmachen, siehst du in der ClassPass-App. Deine Credits kannst du auch in anderen deutschen Städten und im Ausland nutzen.
 
 </details>
 
