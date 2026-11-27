@@ -39,6 +39,7 @@ Mehr zur Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/).
 <h2 id="preise">Kurse, Pakete und Mitgliedschaft</h2>
 
 - **Einzelkurs:** 35 €.
+- **Neukunden:** 2 Kurse für 35 € (2 Kurse zum Preis von 1), einmal kaufbar, gültig 1 Monat nach dem ersten Kurs.
 - **5 Kurse:** 165 €, das sind 33 € pro Kurs. 3 Monate gültig.
 - **10 Kurse:** 310 €, das sind 31 € pro Kurs. 6 Monate gültig.
 - **20 Kurse:** 560 €, das sind 28 € pro Kurs. 12 Monate gültig.

@@ -264,7 +264,7 @@ Yoga, Pilates, Sculpt, Sound und Red Light in 7 Studios in Berlin, mit Einzelstu
 
 <h3>Shapesty</h3>
 
-Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung für die Gelenke. In Berlin gibt es 2 Studios: Mitte (Aaron-Bernstein-Platz 3) und Charlottenburg (Augsburger Straße 37). Einzelkurs 35 €, 10 Kurse 310 €, Mitgliedschaft ab 96 € pro Monat für 4 Kurse (mindestens 6 Monate), oder unbegrenzt ab 270 € pro Monat.
+Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung für die Gelenke. In Berlin gibt es 2 Studios: Mitte (Aaron-Bernstein-Platz 3) und Charlottenburg (Augsburger Straße 37). Einzelkurs 35 €, 10 Kurse 310 €, Mitgliedschaft ab 96 € pro Monat für 4 Kurse (mindestens 6 Monate), oder unbegrenzt ab 270 € pro Monat. Für Neukunden: 2 Kurse für 35 € (2 Kurse zum Preis von 1), einmal kaufbar.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/shapesty/">Alles über Shapesty</a>
@@ -278,7 +278,7 @@ Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung 
 
 <h3>BEAT81</h3>
 
-Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Cardio). In Berlin gibt es Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt. Monatsabo ab 49 € für 4 Workouts, 79 € für 8 Workouts oder 99 € unbegrenzt, gültig in allen Studios.
+Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Cardio). In Berlin gibt es Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt. Monatsabo ab 49 € für 4 Workouts, 79 € für 8 Workouts oder 99 € unbegrenzt, gültig in allen Studios. Für Neukunden: die ersten 2 Workouts für 20 €.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/beat81/">Alles über BEAT81</a>

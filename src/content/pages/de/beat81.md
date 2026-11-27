@@ -34,6 +34,7 @@ BEAT81 hat in Berlin Studios in Mitte, am Kurfürstendamm und am Hackeschen Mark
 
 <h2 id="preise">Monatsabos</h2>
 
+- **Neukunden:** die ersten 2 Workouts für 20 €.
 - **4 Workouts:** 49 € pro Monat, das sind 12,25 € pro Workout.
 - **8 Workouts:** 79 € pro Monat, das sind 9,88 € pro Workout.
 - **Unbegrenzt:** 99 € pro Monat.
