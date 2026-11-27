@@ -43,8 +43,11 @@ Ein Abo auf Credit-Basis für Reformer-Pilates, Barre und Yoga, von Pempelfort b
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
 </div>
 
+<div data-ff-actie></div>
+
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-duesseldorf-probe">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-duesseldorf">Mitgliedschaft abschließen</a>
+<a class="knop knop-rand" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-duesseldorf-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 

@@ -43,8 +43,11 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Potsdam ist das Angebot 
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
 </div>
 
+<div data-ff-actie></div>
+
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-potsdam-probe">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-potsdam">Mitgliedschaft abschließen</a>
+<a class="knop knop-rand" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-potsdam-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
@@ -82,8 +85,11 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Pot
 
 <p class="klein">Quelle: fitnessfirst.de (November 2026). Prüfe die aktuellen Angaben immer beim Club.</p>
 
+<div data-ff-actie></div>
+
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-potsdam-probe">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-potsdam">Mitgliedschaft abschließen</a>
+<a class="knop knop-rand" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-potsdam-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 

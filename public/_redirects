@@ -720,9 +720,9 @@
 
 # Fase B (na goedkeuring bij Awin, label in clickref):
 # /go/trainmore/          clickref=:ref  https://www.awin1.com/cread.php?awinmid=[ID]&awinaffid=371173&clickref=:ref  302
-# Fitness First DE via Awin (awinmid 15968) goedgekeurd 26 nov 2026. Alleen op /de/fitness-first/ (eigen aanbiederpagina). Label in clickref (fgg-de-[pagina]); zonder parameter fgg-de-fitness-first.
-/go/fitness-first-de/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=15968&awinaffid=371173&clickref=:clickref  302
-/go/fitness-first-de/            https://www.awin1.com/cread.php?awinmid=15968&awinaffid=371173&clickref=fgg-de-fitness-first  302
+# Fitness First DE via Awin (awinmid 15968) goedgekeurd 26 nov 2026. /go/fitness-first-de/ = deeplink naar fitnessfirst.de/mitgliedschaft-1 (knop "Mitgliedschaft abschließen" op tegels en /de/fitness-first/). Label in clickref (fgg-de-[pagina]); zonder parameter fgg-de-fitness-first.
+/go/fitness-first-de/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=15968&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.fitnessfirst.de%2Fmitgliedschaft-1  302
+/go/fitness-first-de/            https://www.awin1.com/cread.php?awinmid=15968&awinaffid=371173&clickref=fgg-de-fitness-first&ued=https%3A%2F%2Fwww.fitnessfirst.de%2Fmitgliedschaft-1  302
 # Deeplink naar de boekingspagina voor het kostenlose Probetraining (Peter 26-11: mag gepromoot worden, partner).
 /go/fitness-first-de-probetraining/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=15968&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.fitnessfirst.de%2Fprobetraining  302
 /go/fitness-first-de-probetraining/            https://www.awin1.com/cread.php?awinmid=15968&awinaffid=371173&clickref=fgg-de-fitness-first-probe&ued=https%3A%2F%2Fwww.fitnessfirst.de%2Fprobetraining  302

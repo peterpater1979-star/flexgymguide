@@ -55,8 +55,11 @@ Eine Mitgliedschaft bei einer Kette mit Gym und Kursen. Zum Beispiel Fitness Fir
 </ul>
 </div>
 
+<div data-ff-actie></div>
+
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-land-probe">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-land">Mitgliedschaft abschließen</a>
+<a class="knop knop-rand" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-land-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 

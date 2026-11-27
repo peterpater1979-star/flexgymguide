@@ -32,6 +32,21 @@ function noindexPaden() {
 }
 const zonderIndex = noindexPaden();
 
+// Actie van Fitness First DE: src/data/fitness-first-actie.json (tekst + einddatum). Vervangt <div data-ff-actie></div> door een infoblok,
+// of haalt de marker weg als er geen actie is of de einddatum (laatste dag, Europe/Berlin) voorbij is. Werkt bij elke build.
+function fitnessFirstActie() {
+  const { tekst = '', einddatum = '' } = JSON.parse(readFileSync('src/data/fitness-first-actie.json', 'utf8'));
+  const vandaag = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Berlin' }).format(new Date());
+  const actief = tekst.trim() && (!einddatum || vandaag <= einddatum);
+  const esc = (x) => x.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const html = actief ? `<div class="infoblok kort actie"><p class="proef"><span aria-hidden="true">✓</span> ${esc(tekst.trim())}</p></div>` : '';
+  const walk = (node) => {
+    if (node.type === 'raw') node.value = node.value.replaceAll('<div data-ff-actie></div>', html);
+    node.children?.forEach(walk);
+  };
+  return (tree) => walk(tree);
+}
+
 // Links naar /go/ (affiliate) en naar andere websites openen in een nieuw tabblad.
 // /go/-links krijgen rel="sponsored nofollow", zoals ThirstyAffiliates dat deed.
 function externeLinks() {
@@ -68,5 +83,5 @@ export default defineConfig({
     filter: (url) => !url.includes('/contact/thanks/') && !zonderIndex.has(url),
     serialize: (item) => (lastmod.has(item.url) ? { ...item, lastmod: lastmod.get(item.url) } : item),
   })],
-  markdown: { rehypePlugins: [externeLinks] },
+  markdown: { rehypePlugins: [fitnessFirstActie, externeLinks] },
 });

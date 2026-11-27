@@ -67,6 +67,12 @@ Im RED Club Berlin Schöneberg zahlen Studierende 12,90 € pro Woche bei 1 Mona
 
 Du wählst eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Bei 24 Monaten entfällt die einmalige Startgebühr, und du kannst deinen Vertrag jederzeit kostenlos bis zu 12 Wochen pausieren. Dazu kommt ein Trainingspaket, das halbjährlich berechnet wird: zweimal im Jahr eine Anamnese und eine Körperanalyse.
 
+<div data-ff-actie></div>
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-fitness-first">Mitgliedschaft abschließen</a>
+</div>
+
 <h2 id="ausstattung">Ausstattung</h2>
 
 - **Gerätetraining und Cardio:** in jedem Club. In BLACK Clubs mit Netflix und Amazon Prime an den Cardiogeräten.
@@ -254,7 +260,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 Noch unsicher? Buch online ein kostenloses Probetraining, einlösbar in allen Fitness First Clubs in Deutschland. Du testest einen Tag lang, so lange du willst, inklusive Sauna, Dampfbad und, wo vorhanden, Pool. Kurse kannst du an der Rezeption anfragen. Alle 6 Monate ist ein neues Probetraining möglich. Ab 14 Jahren kannst du mit einer erziehungsberechtigten Person kommen, mit 16 oder 17 brauchst du eine unterschriebene Einverständniserklärung.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-fitness-first-probe">Kostenloses Probetraining buchen</a>
+<a class="knop knop-rand" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-fitness-first-probe">Kostenloses Probetraining buchen</a>
 </div>
 
 </div>
