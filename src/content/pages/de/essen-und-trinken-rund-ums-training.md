@@ -59,12 +59,12 @@ Achte bei der Auswahl auf:
 - **Vegan oder laktosefrei?** Es gibt auch Varianten auf Erbsen- oder Sojabasis.
 
 <ul class="spullen">
-<li class="i-fles"><a href="/go/amazon-de-proteinpulver/">Proteinpulver</a></li>
+<li class="i-fles"><a href="/go/os-nutrition-de-proteine/?clickref=fgg-de-essen-und-trinken-rund-ums-training-proteine">Proteinpulver und Proteine</a></li>
 <li class="i-fles"><a href="/go/amazon-de-shaker/">Shaker</a></li>
 <li class="i-fles"><a href="/go/amazon-de-proteinriegel/">Proteinriegel</a></li>
 </ul>
 
-<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
+<p class="klein commissie">Kaufst du über diese Links, bekommen wir eine kleine Provision. Du zahlst nichts extra, und so bleibt dieser Ratgeber kostenlos. Danke! Proteinpulver führt zu OS NUTRITION, Shaker, Flaschen und Riegel zu Amazon.de. Als Amazon-Partner verdienen wir an qualifizierten Verkäufen.</p>
 
 <h2 id="tasche">Kurze Liste für deine Tasche</h2>
 

@@ -1140,3 +1140,7 @@ https://www.flexgymguide.com/*  https://flexgymguide.com/:splat  301!
 /go/body-supplies-nl-eiwitten/            https://www.awin1.com/cread.php?awinmid=131810&awinaffid=371173&clickref=fgg-nl-index&ued=https%3A%2F%2Fwww.body-supplies.nl%2Feiwitten%2F  302
 /go/body-supplies-nl-repen/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=131810&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.body-supplies.nl%2Feiwitten%2Feiwitrepen%2F  302
 /go/body-supplies-nl-repen/            https://www.awin1.com/cread.php?awinmid=131810&awinaffid=371173&clickref=fgg-nl-index&ued=https%3A%2F%2Fwww.body-supplies.nl%2Feiwitten%2Feiwitrepen%2F  302
+
+# OS Nutrition DE via Awin (awinmid 122516), aangesloten 27 nov 2026. Alleen eiwit/supplementen op /de/essen-und-trinken-rund-ums-training/; overige productlinks blijven Amazon.de. Label in clickref (fgg-de-[pagina]-[product]); zonder parameter fgg-de-index. Categorielink op os-nutrition.com, geen claims, geen acties.
+/go/os-nutrition-de-proteine/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=122516&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fos-nutrition.com%2Fcollections%2Fproteine  302
+/go/os-nutrition-de-proteine/            https://www.awin1.com/cread.php?awinmid=122516&awinaffid=371173&clickref=fgg-de-index&ued=https%3A%2F%2Fos-nutrition.com%2Fcollections%2Fproteine  302
