@@ -2,7 +2,7 @@
 title: "Flexibel trainieren in Saarbrücken"
 seoTitle: "Fitnessstudio Saarbrücken: flexibel trainieren ohne langen Vertrag"
 path: "/de/saarbruecken/"
-description: "Flexibel trainieren in Saarbrücken: Fitness First mit 1 Club. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Saarbrücken: ClassPass, Fitness First mit 1 Club. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -15,6 +15,21 @@ In Saarbrücken trainierst du bei Fitness First in 1 Club. Wie du ohne langen Ve
 <h2 id="blick">Auf einen Blick</h2>
 
 <div class="kolommen vier">
+
+<div id="classpass" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+<h3>ClassPass</h3>
+
+Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In der Region Saarbrücken ist das Angebot noch klein: Dazu gehören all inclusive Fitness in Völklingen und Saarlouis sowie FITOMAT in Mandelbachtal (Gym-Zugang). Mit demselben Abo trainierst du auch in anderen deutschen Städten und im Ausland. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-saarbruecken">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
 
 <div id="fitness-first" class="kolom kaart aanbiederkaart">
 
@@ -62,7 +77,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Saa
 
 ### Du willst dich nicht lange binden
 
-Ein Sportpass wie ClassPass oder Urban Sports Club ist monatlich kündbar. Welche Studios in Saarbrücken mitmachen, siehst du in der jeweiligen App.
+Nimm ClassPass: Du trainierst mit Credits in Studios in der Region Saarbrücken und anderen Städten, jederzeit kündbar. Welche Studios gerade mitmachen, siehst du in der App.
 
 [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
@@ -93,6 +108,13 @@ Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer d
 <summary>Gibt es in Saarbrücken ein Probetraining?</summary>
 
 Ja, bei Fitness First ist ein Probetraining kostenlos.
+
+</details>
+
+<details>
+<summary>Gibt es ClassPass in Saarbrücken?</summary>
+
+In der Region ja, aber das Angebot ist noch klein. Dazu gehören all inclusive Fitness in Völklingen und Saarlouis sowie FITOMAT in Mandelbachtal. Welche Studios gerade mitmachen, siehst du in der ClassPass-App. Deine Credits kannst du auch in anderen deutschen Städten und im Ausland nutzen.
 
 </details>
 
