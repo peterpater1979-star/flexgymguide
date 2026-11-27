@@ -2,7 +2,7 @@
 title: "Flexibel trainieren in Kassel"
 seoTitle: "Fitnessstudio Kassel: flexibel trainieren ohne langen Vertrag"
 path: "/de/kassel/"
-description: "Flexibel trainieren in Kassel: Fitness First mit 1 Club, dazu all inclusive Fitness. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Kassel: ClassPass, Fitness First mit 1 Club, dazu all inclusive Fitness. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -15,6 +15,21 @@ In Kassel trainierst du bei Fitness First in 1 Club, dazu gibt es all inclusive 
 <h2 id="blick">Auf einen Blick</h2>
 
 <div class="kolommen vier">
+
+<div id="classpass" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+<h3>ClassPass</h3>
+
+Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Kassel ist das Angebot noch klein: Dazu gehören all inclusive Fitness (Gym-Zugang) und Element Boulders (Bouldern). Mit demselben Abo trainierst du auch in anderen deutschen Städten und im Ausland. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-kassel">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
 
 <div id="fitness-first" class="kolom kaart aanbiederkaart">
 
@@ -88,7 +103,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Kas
 
 ### Du willst dich nicht lange binden
 
-Ein Sportpass wie ClassPass oder Urban Sports Club ist monatlich kündbar. Welche Studios in Kassel mitmachen, siehst du in der jeweiligen App.
+Nimm ClassPass: Du trainierst mit Credits in Studios in Kassel und anderen Städten, jederzeit kündbar. Welche Studios gerade mitmachen, siehst du in der App.
 
 [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
