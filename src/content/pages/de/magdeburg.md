@@ -98,6 +98,13 @@ Ja, bei Fitness First ist ein Probetraining kostenlos.
 </details>
 
 <details>
+<summary>Gibt es ClassPass in Magdeburg?</summary>
+
+Ja, aber das Angebot ist noch klein. Dazu gehört das Refine Studio (Reformer Pilates). Welche Studios gerade mitmachen, siehst du in der ClassPass-App. Deine Credits kannst du auch in anderen deutschen Städten und im Ausland nutzen.
+
+</details>
+
+<details>
 <summary>Wo kann ich bei Fitness First in Magdeburg trainieren?</summary>
 
 Am Kroatenweg: Kroatenweg 70-72; Sudenburg: Fichtestraße 29A.
