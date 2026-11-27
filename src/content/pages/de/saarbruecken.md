@@ -50,6 +50,38 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In der Region Saarbrücken 
 
 </div>
 
+<div id="mcfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+<h3>McFit</h3>
+
+Günstige Kette mit 1 Studio in Saarbrücken. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Saarbrücken 1 Studio: St. Johann, rund um die Uhr geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -68,6 +100,15 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Saa
 <a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-saarbruecken">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
+
+<h2 id="andere">Weitere Fitnessstudios in Saarbrücken</h2>
+
+| Anbieter | Preis pro Monat | Laufzeit | In Saarbrücken |
+| --- | --- | --- | --- |
+| **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 1 Studio |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: St. Johann |
+
+<p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 ## Was passt zu dir in Saarbrücken?
 

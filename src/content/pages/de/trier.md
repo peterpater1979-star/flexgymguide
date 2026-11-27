@@ -35,6 +35,20 @@ In Trier trainierst du bei Fitness First in 3 Clubs. Wie du ohne langen Vertrag 
 
 </div>
 
+<div id="mcfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+<h3>McFit</h3>
+
+Günstige Kette mit 1 Studio in Trier. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -55,6 +69,14 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 3 Clubs in Tr
 <a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-trier">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
+
+<h2 id="andere">Weitere Fitnessstudios in Trier</h2>
+
+| Anbieter | Preis pro Monat | Laufzeit | In Trier |
+| --- | --- | --- | --- |
+| **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 1 Studio |
+
+<p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
 ## Was passt zu dir in Trier?
 

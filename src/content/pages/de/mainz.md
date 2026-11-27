@@ -50,6 +50,38 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Mainz gibt es vor allem 
 
 </div>
 
+<div id="mcfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+<h3>McFit</h3>
+
+Günstige Kette mit 2 Studios in Mainz. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
+<div id="fitx" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-fitx"><span>Günstige Fitnesskette</span></div>
+
+<h3>FitX</h3>
+
+FitX hat in Mainz 2 Studios: Hechtsheim und Mombach (in Planung), rund um die Uhr geöffnet. 29 € im Monat, monatlich kündbar, plus einmalig 29 € Anmeldegebühr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Einmal kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitx/">Alles über FitX</a>
+</div>
+
+</div>
+
 <div id="ag-medical-fitness" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-ag-medical-fitness"><span>Fitnessstudio</span></div>
@@ -87,6 +119,8 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Mai
 
 | Anbieter | Preis pro Monat | Laufzeit | In Mainz |
 | --- | --- | --- | --- |
+| **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 2 Studios: Mainz und Mainz-Neustadt |
+| **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios: Hechtsheim und Mombach (in Planung) |
 | **[AG Medical Fitness](/de/ag-medical-fitness/)** | Monatlich kündbar 25 € pro Woche, mit 12 Monaten 19 € pro Woche, plus einmalig 29 € Aktivierungsgebühr | Monatlich kündbar oder 12 Monate | 3 Studios: Finthen, Gonsenheim, Hechtsheim |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>

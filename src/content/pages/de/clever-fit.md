@@ -96,9 +96,10 @@ clever fit hat Studios in diesen Städten aus unserem Ratgeber:
 - [Stuttgart](/de/stuttgart/#clever-fit): Vaihingen
 
 <details class="meer-steden">
-<summary>Weitere 11 Städte anzeigen</summary>
+<summary>Weitere 15 Städte anzeigen</summary>
 
 - [Augsburg](/de/augsburg/#clever-fit): Hochzoll, Lechhausen und Oberhausen
+- [Bielefeld](/de/bielefeld/#clever-fit): Bielefeld
 - [Bochum](/de/bochum/#clever-fit): Kemnader Straße
 - [Bonn](/de/bonn/#clever-fit): Endenich
 - [Bremen](/de/bremen/#clever-fit): Blumenthal und Vegesack
@@ -108,7 +109,10 @@ clever fit hat Studios in diesen Städten aus unserem Ratgeber:
 - [Mannheim](/de/mannheim/#clever-fit): Neckarstadt
 - [Mönchengladbach](/de/moenchengladbach/#clever-fit): Rheindahlener Straße
 - [Münster](/de/muenster/#clever-fit): Münster Süd
+- [Regensburg](/de/regensburg/#clever-fit): Regensburg
+- [Rostock](/de/rostock/#clever-fit): Mitte und Ost
 - [Wiesbaden](/de/wiesbaden/#clever-fit): Nordenstadt
+- [Würzburg](/de/wuerzburg/#clever-fit): Heidingsfeld
 
 </details>
 

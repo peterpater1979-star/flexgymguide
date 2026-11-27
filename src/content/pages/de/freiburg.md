@@ -35,6 +35,20 @@ In Freiburg trainierst du bei Fitness First in 1 Club, dazu gibt es Kieser. Wie 
 
 </div>
 
+<div id="mcfit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mcfit"><span>Für kleines Budget</span></div>
+
+<h3>McFit</h3>
+
+Günstige Kette mit 1 Studio in Freiburg. Flex 49,90 € im Monat, mit Laufzeit ab 24,90 €.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
 <div id="kieser-training" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-kieser"><span>Krafttraining</span></div>
@@ -76,6 +90,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Fre
 
 | Anbieter | Preis pro Monat | Laufzeit | In Freiburg |
 | --- | --- | --- | --- |
+| **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 1 Studio |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>

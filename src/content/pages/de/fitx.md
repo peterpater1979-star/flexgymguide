@@ -100,9 +100,10 @@ FitX hat Studios in diesen Städten aus unserem Ratgeber:
 - [München](/de/muenchen/#fitx): Lenbachplatz, Schwabing-Freimann, Neuperlach und Sendling-Westpark
 
 <details class="meer-steden">
-<summary>Weitere 14 Städte anzeigen</summary>
+<summary>Weitere 21 Städte anzeigen</summary>
 
 - [Augsburg](/de/augsburg/#fitx): Lechhausen
+- [Bielefeld](/de/bielefeld/#fitx): Sieker und Mitte
 - [Bochum](/de/bochum/#fitx): Innenstadt, Riemke, Harpen und Wattenscheid
 - [Bonn](/de/bonn/#fitx): Duisdorf
 - [Bremen](/de/bremen/#fitx): Mitte, Walle und Oslebshausen
@@ -112,10 +113,16 @@ FitX hat Studios in diesen Städten aus unserem Ratgeber:
 - [Essen](/de/essen/#fitx): Nordviertel, Bergerhausen und Limbecker Platz
 - [Hannover](/de/hannover/#fitx): Vahrenheide, Linden ist in Planung
 - [Karlsruhe](/de/karlsruhe/#fitx): Oststadt
+- [Magdeburg](/de/magdeburg/#fitx): Sudenburg
+- [Mainz](/de/mainz/#fitx): Hechtsheim und Mombach (in Planung)
 - [Mannheim](/de/mannheim/#fitx): Almenhof, Käfertal ist in Planung
 - [Mönchengladbach](/de/moenchengladbach/#fitx): Waldhausen und Rheydt
 - [Münster](/de/muenster/#fitx): Kinderhaus und Berg Fidel
 - [Nürnberg](/de/nuernberg/#fitx): Zabo und Maxfeld
+- [Paderborn](/de/paderborn/#fitx): Südring
+- [Regensburg](/de/regensburg/#fitx): Reinhausen
+- [Rostock](/de/rostock/#fitx): Südstadt
+- [Saarbrücken](/de/saarbruecken/#fitx): St. Johann
 
 </details>
 
