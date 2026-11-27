@@ -43,8 +43,11 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Hannover ist das Angebot
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
 </div>
 
+<div data-ff-actie></div>
+
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-hannover-probe">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-hannover">Mitgliedschaft abschließen</a>
+<a class="knop knop-rand" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-hannover-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 

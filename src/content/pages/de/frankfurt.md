@@ -43,8 +43,11 @@ Ein Abo auf Credit-Basis mit besonders viel Reformer-Pilates, dazu HIIT, Boxen u
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
 </div>
 
+<div data-ff-actie></div>
+
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-frankfurt-probe">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-frankfurt">Mitgliedschaft abschließen</a>
+<a class="knop knop-rand" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-frankfurt-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 

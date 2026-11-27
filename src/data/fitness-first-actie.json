@@ -1,0 +1,5 @@
+{
+  "_uitleg": "Actie van Fitness First DE (partner). Vul 'tekst' (Duits, kort) en 'einddatum' (JJJJ-MM-DD, laatste dag) in. De actie staat op de tegels en op /de/fitness-first/ en verdwijnt bij een build na de einddatum. Leeg laten = geen actie. Let op: de site is statisch; na de einddatum blijft de actie zichtbaar tot de eerstvolgende build/deploy.",
+  "tekst": "",
+  "einddatum": ""
+}
