@@ -41,7 +41,7 @@ In Kassel trainierst du bei Fitness First in 1 Club, dazu gibt es all inclusive 
 
 <h3>all inclusive Fitness</h3>
 
-Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. Es gibt ein Studio in Kassel.
+Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Monaten 34,95 €. Das Studio in Kassel liegt in der Kurfürstengalerie.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Probetraining online buchbar</p>
@@ -76,7 +76,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Kas
 
 | Anbieter | Preis pro Monat | Laufzeit | In Kassel |
 | --- | --- | --- | --- |
-| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio |
+| **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio: Kurfürstengalerie (Mauerstraße 11) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -119,6 +119,13 @@ Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer d
 <summary>Gibt es in Kassel ein Probetraining?</summary>
 
 Ja, bei Fitness First ist ein Probetraining kostenlos. Bei all inclusive Fitness buchst du das Probetraining online.
+
+</details>
+
+<details>
+<summary>Gibt es ClassPass in Kassel?</summary>
+
+Ja, aber das Angebot ist noch klein. Dazu gehören all inclusive Fitness und Element Boulders (Bouldern). Welche Studios gerade mitmachen, siehst du in der ClassPass-App. Deine Credits kannst du auch in anderen deutschen Städten und im Ausland nutzen.
 
 </details>
 
