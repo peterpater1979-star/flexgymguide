@@ -176,6 +176,16 @@ Classy Pilates hat in Frankfurt 6 Studios für Reformer Pilates und Powerformer,
 
 </div>
 
+<div id="barrys" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gewichten"><span>Boutique-Studio</span></div>
+
+<h3>Barry's</h3>
+
+HIIT-Kurse mit Laufband und Krafttraining. In Frankfurt gibt es ein Studio (Opernplatz 14). Preise und Kurse siehst du auf der Website von Barry's.
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -296,6 +306,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 3 Studios |
 | **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
 | **[Classy Pilates](/de/classy-pilates/)** | Karten ab 19,95 € pro Kurs (20er Karte), Einzelkurs 28 €, Mitgliedschaft: frag nach | Karten ohne Vertrag, Mitgliedschaft 1, 6 oder 12 Monate | 6 Reformer-Studios |
+| **Barry's** | Siehe Website | Siehe Website | 1 Studio (Opernplatz 14) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
