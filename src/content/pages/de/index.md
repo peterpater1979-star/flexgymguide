@@ -315,7 +315,7 @@ Boutique-Studio für Barre-Kurse, in München, Frankfurt, Köln und Hamburg. Unl
 <li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · YOUPILA · Rostudios · Drops Barre · YTTP · Kieser · BEAT81</span></li>
 <li><a href="/de/koeln/"><strong>Köln</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · Basic-Fit · Mrs.Sporty · Rostudios · Drops Barre · YTTP · Kieser · all inclusive Fitness · BEAT81</span></li>
 <li><a href="/de/leipzig/"><strong>Leipzig</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · JOHN REED · clever fit · Kieser · all inclusive Fitness</span></li>
-<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios · Drops Barre · Kieser · all inclusive Fitness · body + soul</span></li>
+<li><a href="/de/muenchen/"><strong>München</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · FitX · Basic-Fit · clever fit · Mrs.Sporty · Rostudios · Drops Barre · Kieser · all inclusive Fitness · body + soul · BEAT81</span></li>
 <li><a href="/de/stuttgart/"><strong>Stuttgart</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · JOHN REED · clever fit · Kieser · all inclusive Fitness</span></li>
 </ul>
 

@@ -19,9 +19,14 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 | | BEAT81 |
 | --- | --- |
 | **Art** | Gruppentraining: RIDE (Cycling) und HYBRID (Kraft und Cardio) |
-| **Studios in Berlin** | Mitte, am Kurfürstendamm und am Hackeschen Markt |
+| **Studios in Berlin** | Kurfürstendamm, Hackescher Markt und Kreuzberg |
 | **Studios in Hamburg** | Uhlenhorst, Schanze und Neustadt |
 | **Studios in Köln** | Rudi, Zülpi, Lindenthal und Sülz |
+| **Studios in München** | Olympia, Sendling, Haidhausen und Hackerbrücke |
+| **München** | Olympia | Petra-Kelly-Straße 5, 80797 München |
+| **München** | Sendling | Implerstraße, 81371 München |
+| **München** | Haidhausen | Schyrenstraße 8, 81543 München |
+| **München** | Hackerbrücke | Klaus-Mann-Platz 1, München |
 | **Düsseldorf** | Kurse mit RIDE und HYBRID |
 | **4 Workouts** | 49 € pro Monat |
 | **8 Workouts** | 79 € pro Monat |
@@ -36,7 +41,8 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 | Stadt | Studio | Adresse |
 | --- | --- | --- |
 | **Berlin** | Kudamm | Kurfürstendamm 102, 10711 Berlin |
-| **Berlin** | Mitte und Hackescher Markt | Adresse: siehe Website |
+| **Berlin** | Hackescher Markt | Dircksenstraße 47, 10178 Berlin |
+| **Berlin** | Kreuzberg | Zeughofstraße 20, 10997 Berlin |
 | **Hamburg** | Uhlenhorst | Winterhuder Weg 62, 22085 Hamburg |
 | **Hamburg** | Schanze | Neuer Pferdemarkt 34, 20359 Hamburg |
 | **Hamburg** | Neustadt | Kaiser-Wilhelm-Straße 14, 20355 Hamburg |
@@ -44,9 +50,13 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 | **Köln** | Zülpi | Hohenstaufenring 44-46, 50674 Köln |
 | **Köln** | Lindenthal | Hans-Sachs-Straße 18, 50931 Köln |
 | **Köln** | Sülz | Sülzburgstraße 104, 50937 Köln |
+| **München** | Olympia | Petra-Kelly-Straße 5, 80797 München |
+| **München** | Sendling | Implerstraße, 81371 München |
+| **München** | Haidhausen | Schyrenstraße 8, 81543 München |
+| **München** | Hackerbrücke | Klaus-Mann-Platz 1, München |
 | **Düsseldorf** | Kurse mit RIDE und HYBRID | Adresse: siehe Website |
 
-Mehr zu deiner Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/) und [Flexibel trainieren in Hamburg](/de/hamburg/), [Flexibel trainieren in Köln](/de/koeln/) und [Flexibel trainieren in Düsseldorf](/de/duesseldorf/).
+Mehr zu deiner Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/) und [Flexibel trainieren in Hamburg](/de/hamburg/), [Flexibel trainieren in Köln](/de/koeln/), [Flexibel trainieren in München](/de/muenchen/) und [Flexibel trainieren in Düsseldorf](/de/duesseldorf/).
 
 <h2 id="preise">Monatsabos</h2>
 
@@ -85,7 +95,7 @@ RIDE ist ein Cycling-Kurs. HYBRID verbindet Kraft und Cardio.
 <details>
 <summary>Ist BEAT81 auf ClassPass?</summary>
 
-Auf ClassPass haben wir BEAT81 in Berlin, Hamburg, Köln und Düsseldorf gefunden. Mehr dazu in unserem [Überblick zu ClassPass](/de/classpass/).
+Auf ClassPass haben wir BEAT81 in Berlin, Hamburg, Köln, München und Düsseldorf gefunden. Mehr dazu in unserem [Überblick zu ClassPass](/de/classpass/).
 
 </details>
 
@@ -93,6 +103,7 @@ Auf ClassPass haben wir BEAT81 in Berlin, Hamburg, Köln und Düsseldorf gefunde
 <a class="knop knop-rand" href="/de/berlin/">Training in Berlin</a>
 <a class="knop knop-rand" href="/de/hamburg/">Training in Hamburg</a>
 <a class="knop knop-rand" href="/de/koeln/">Training in Köln</a>
+<a class="knop knop-rand" href="/de/muenchen/">Training in München</a>
 <a class="knop knop-rand" href="/de/duesseldorf/">Training in Düsseldorf</a>
 <a class="knop knop-rand" href="https://www.beat81.com/">BEAT81</a>
 </div>
