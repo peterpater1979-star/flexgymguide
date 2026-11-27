@@ -2,7 +2,7 @@
 title: "Flexibel trainieren in Mainz"
 seoTitle: "Fitnessstudio Mainz: flexibel trainieren ohne langen Vertrag"
 path: "/de/mainz/"
-description: "Flexibel trainieren in Mainz: Fitness First mit 1 Club, dazu AG Medical Fitness. So findest du, was zu dir passt."
+description: "Flexibel trainieren in Mainz: ClassPass, Fitness First mit 1 Club, dazu AG Medical Fitness. So findest du, was zu dir passt."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -15,6 +15,21 @@ In Mainz trainierst du bei Fitness First in 1 Club, dazu gibt es AG Medical Fitn
 <h2 id="blick">Auf einen Blick</h2>
 
 <div class="kolommen vier">
+
+<div id="classpass" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-classpass"><span>Für Abwechslung</span></div>
+
+<h3>ClassPass</h3>
+
+Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Mainz gibt es vor allem Pilates, Yoga und Gym-Besuche, zum Beispiel bei corelab, Balance Yoga, Gonsberg Gym und AG Medical Fitness. Mit demselben Abo trainierst du auch in anderen deutschen Städten und im Ausland. Jederzeit kündbar, und zum Ausprobieren bekommst du 1 Monat gratis mit 10 Workouts.
+
+<div class="knoppen">
+<a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-mainz">Teste 1 Monat gratis mit 10 Workouts</a>
+<a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
 
 <div id="fitness-first" class="kolom kaart aanbiederkaart">
 
@@ -84,7 +99,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Mai
 
 ### Du willst dich nicht lange binden
 
-Ein Sportpass wie ClassPass oder Urban Sports Club ist monatlich kündbar. Welche Studios in Mainz mitmachen, siehst du in der jeweiligen App.
+Nimm ClassPass: Du trainierst mit Credits in Studios in Mainz und anderen Städten, jederzeit kündbar. Welche Studios gerade mitmachen, siehst du in der App.
 
 [Sportpass oder Mitgliedschaft?](/de/sportpass-oder-mitgliedschaft/)
 
@@ -115,6 +130,13 @@ Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer d
 <summary>Gibt es in Mainz ein Probetraining?</summary>
 
 Ja, bei Fitness First ist ein Probetraining kostenlos.
+
+</details>
+
+<details>
+<summary>Gibt es ClassPass in Mainz?</summary>
+
+Ja. In Mainz machen unter anderem corelab (Pilates), Balance Yoga, Lieb.Lings Studio, Moya Yoga, Gonsberg Gym, Edge Dance Project und AG Medical Fitness mit. Welche Studios gerade dabei sind, siehst du in der ClassPass-App. Deine Credits kannst du auch in anderen deutschen Städten und im Ausland nutzen.
 
 </details>
 
