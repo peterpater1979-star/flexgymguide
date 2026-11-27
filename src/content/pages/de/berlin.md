@@ -284,7 +284,7 @@ Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Card
 
 <h3>Barry's</h3>
 
-HIIT-Kurse mit Laufband und Krafttraining. In Berlin gibt es ein Studio (Friedrichstraße 83). Preise und Kurse siehst du auf der Website von Barry's.
+HIIT-Kurse mit Laufband und Krafttraining. In Berlin gibt es ein Studio (Friedrichstraße 83). Einzelkurs 29 €, Mitgliedschaft ab 180 € pro 30 Tage für 8 Kurse, jederzeit kündbar.
 
 </div>
 
@@ -434,7 +434,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[Open Studios Berlin](/de/open-studios-berlin/)** | Einzelstunde 22 €, Open Membership ab 79 € (ein Studio) oder 99 € (alle Studios) | 6 Monate Mindestlaufzeit mit automatischer Verlängerung, oder Karten ohne Vertrag | 7 Studios (Yoga und Pilates) |
 | **Shapesty** | Siehe Website | Siehe Website | 2 Studios (Mitte, Charlottenburg) |
 | **BEAT81** | Siehe Website | Siehe Website | Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt |
-| **Barry's** | Siehe Website | Siehe Website | 1 Studio (Friedrichstraße 83) |
+| **Barry's** | Einzelkurs 29 €, 10 Kurse 270 €, Mitgliedschaft 8 Kurse 180 €, 12 Kurse 245 € oder 16 Kurse 290 € pro 30 Tage | Mitgliedschaft jederzeit kündbar, Kurspakete ein Jahr gültig | 1 Studio (Friedrichstraße 83) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
