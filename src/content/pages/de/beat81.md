@@ -32,9 +32,14 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 
 <h2 id="studios">Die Studios</h2>
 
-- **Berlin:** Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt.
-- **Hamburg:** Studios in Uhlenhorst, Schanze und Neustadt.
-- **Düsseldorf:** Kurse mit RIDE und HYBRID.
+| Stadt | Studio | Adresse |
+| --- | --- | --- |
+| **Berlin** | Kudamm | Kurfürstendamm 102, 10711 Berlin |
+| **Berlin** | Mitte und Hackescher Markt | Adresse: siehe Website |
+| **Hamburg** | Uhlenhorst | Winterhuder Weg 62, 22085 Hamburg |
+| **Hamburg** | Schanze | Neuer Pferdemarkt 34, 20359 Hamburg |
+| **Hamburg** | Neustadt | Kaiser-Wilhelm-Straße 14, 20355 Hamburg |
+| **Düsseldorf** | Kurse mit RIDE und HYBRID | Adresse: siehe Website |
 
 Mehr zu deiner Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/) und [Flexibel trainieren in Hamburg](/de/hamburg/) und [Flexibel trainieren in Düsseldorf](/de/duesseldorf/).
 
