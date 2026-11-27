@@ -184,6 +184,10 @@ Classy Pilates hat in Frankfurt 6 Studios für Reformer Pilates und Powerformer,
 
 HIIT mit Laufband und Krafttraining, 1 Studio in Frankfurt (Opernplatz 14). Ab 180 € pro 30 Tage.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Neukunden: 2 Kurse für 29 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/barrys/">Alles über Barry's</a>
 </div>

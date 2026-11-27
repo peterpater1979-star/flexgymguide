@@ -39,6 +39,7 @@ Mehr zu deiner Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin
 <h2 id="preise">Kurse, Pakete und Mitgliedschaft</h2>
 
 - **Einzelkurs:** 29 €.
+- **Neukunden:** 2 Kurse für 29 € (First Timer Pack), in jedem deutschen Studio nutzbar, 14 Tage ab Kauf gültig.
 - **10 Kurse:** 270 €, ein Jahr gültig.
 - **Mitgliedschaft:** 8 Kurse für 180 €, 12 Kurse für 245 € oder 16 Kurse für 290 € pro 30 Tage.
 - **Kündigen:** Die Mitgliedschaft ist jederzeit kündbar.

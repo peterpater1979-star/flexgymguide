@@ -302,6 +302,10 @@ Functional Training in der Gruppe (RIDE und HYBRID), 3 Studios in Berlin. Ab 49 
 
 HIIT mit Laufband und Krafttraining, 1 Studio in Berlin (Friedrichstraße 83). Ab 180 € pro 30 Tage.
 
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Neukunden: 2 Kurse für 29 €</p>
+</div>
+
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/barrys/">Alles über Barry's</a>
 </div>
