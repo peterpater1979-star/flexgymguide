@@ -116,7 +116,7 @@ Ja, mit dem AG Pass ohne feste Bindung. Die 12-Monats-Mitgliedschaft ist günsti
 <details>
 <summary>Ist AG Medical Fitness auf ClassPass?</summary>
 
-Auf ClassPass haben wir Studios von AG Medical Fitness in Mainz-Gonsenheim, Mainz-Finthen, Budenheim, Saulheim und Bingen am Rhein gefunden. Mehr dazu in unserem [Überblick zu ClassPass](/de/classpass/).
+Auf ClassPass haben wir Studios von AG Medical Fitness in Mainz-Finthen, Mainz-Gonsenheim, Mainz-Hechtsheim, Budenheim, Saulheim, Bingen am Rhein, Wiesbaden-Delkenheim und Mainz-Kostheim (Wiesbaden) gefunden. Mehr dazu in unserem [Überblick zu ClassPass](/de/classpass/).
 
 </details>
 

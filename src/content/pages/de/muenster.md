@@ -44,7 +44,7 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Münster ist das Angebot
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-muenster">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-muenster-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
 </div>
 
@@ -283,8 +283,10 @@ Ja, aber das Angebot ist noch klein. Welche Studios gerade mitmachen, siehst du 
 
 - [Flexibel trainieren in Augsburg](/de/augsburg/)
 - [Flexibel trainieren in Berlin](/de/berlin/)
+- [Flexibel trainieren in Bielefeld](/de/bielefeld/)
 - [Flexibel trainieren in Bochum](/de/bochum/)
 - [Flexibel trainieren in Bonn](/de/bonn/)
+- [Flexibel trainieren in Braunschweig](/de/braunschweig/)
 - [Flexibel trainieren in Bremen](/de/bremen/)
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
@@ -293,17 +295,28 @@ Ja, aber das Angebot ist noch klein. Welche Studios gerade mitmachen, siehst du 
 - [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
 - [Flexibel trainieren in Essen](/de/essen/)
 - [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)
+- [Flexibel trainieren in Freiburg](/de/freiburg/)
 - [Flexibel trainieren in Hamburg](/de/hamburg/)
 - [Flexibel trainieren in Hannover](/de/hannover/)
 - [Flexibel trainieren in Karlsruhe](/de/karlsruhe/)
+- [Flexibel trainieren in Kassel](/de/kassel/)
 - [Flexibel trainieren in Köln](/de/koeln/)
 - [Flexibel trainieren in Leipzig](/de/leipzig/)
+- [Flexibel trainieren in Magdeburg](/de/magdeburg/)
+- [Flexibel trainieren in Mainz](/de/mainz/)
 - [Flexibel trainieren in Mannheim](/de/mannheim/)
 - [Flexibel trainieren in Mönchengladbach](/de/moenchengladbach/)
 - [Flexibel trainieren in München](/de/muenchen/)
 - [Flexibel trainieren in Nürnberg](/de/nuernberg/)
+- [Flexibel trainieren in Paderborn](/de/paderborn/)
+- [Flexibel trainieren in Potsdam](/de/potsdam/)
+- [Flexibel trainieren in Regensburg](/de/regensburg/)
+- [Flexibel trainieren in Rostock](/de/rostock/)
+- [Flexibel trainieren in Saarbrücken](/de/saarbruecken/)
 - [Flexibel trainieren in Stuttgart](/de/stuttgart/)
+- [Flexibel trainieren in Trier](/de/trier/)
 - [Flexibel trainieren in Wiesbaden](/de/wiesbaden/)
+- [Flexibel trainieren in Würzburg](/de/wuerzburg/)
 
 </div>
 

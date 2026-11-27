@@ -44,7 +44,7 @@ Ein Abo auf Credit-Basis mit besonders viel Reformer-Pilates, dazu HIIT, Boxen u
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-frankfurt">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-frankfurt-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
@@ -176,6 +176,24 @@ Classy Pilates hat in Frankfurt 6 Studios für Reformer Pilates und Powerformer,
 
 </div>
 
+<div id="barrys" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-barrys"><span>Boutique-Studio</span></div>
+
+<h3>Barry's</h3>
+
+HIIT mit Laufband und Krafttraining, 1 Studio in Frankfurt (Opernplatz 14). Ab 180 € pro 30 Tage.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Neukunden: 2 Kurse für 29 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/barrys/">Alles über Barry's</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -296,6 +314,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 3 Studios |
 | **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
 | **[Classy Pilates](/de/classy-pilates/)** | Karten ab 19,95 € pro Kurs (20er Karte), Einzelkurs 28 €, Mitgliedschaft: frag nach | Karten ohne Vertrag, Mitgliedschaft 1, 6 oder 12 Monate | 6 Reformer-Studios |
+| **[Barry's](/de/barrys/)** | Ab 180 € pro 30 Tage (8 Kurse) | Mitgliedschaft jederzeit kündbar | 1 Studio (Opernplatz 14) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -386,8 +405,10 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 
 - [Flexibel trainieren in Augsburg](/de/augsburg/)
 - [Flexibel trainieren in Berlin](/de/berlin/)
+- [Flexibel trainieren in Bielefeld](/de/bielefeld/)
 - [Flexibel trainieren in Bochum](/de/bochum/)
 - [Flexibel trainieren in Bonn](/de/bonn/)
+- [Flexibel trainieren in Braunschweig](/de/braunschweig/)
 - [Flexibel trainieren in Bremen](/de/bremen/)
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
@@ -395,18 +416,29 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 - [Flexibel trainieren in Duisburg](/de/duisburg/)
 - [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
 - [Flexibel trainieren in Essen](/de/essen/)
+- [Flexibel trainieren in Freiburg](/de/freiburg/)
 - [Flexibel trainieren in Hamburg](/de/hamburg/)
 - [Flexibel trainieren in Hannover](/de/hannover/)
 - [Flexibel trainieren in Karlsruhe](/de/karlsruhe/)
+- [Flexibel trainieren in Kassel](/de/kassel/)
 - [Flexibel trainieren in Köln](/de/koeln/)
 - [Flexibel trainieren in Leipzig](/de/leipzig/)
+- [Flexibel trainieren in Magdeburg](/de/magdeburg/)
+- [Flexibel trainieren in Mainz](/de/mainz/)
 - [Flexibel trainieren in Mannheim](/de/mannheim/)
 - [Flexibel trainieren in Mönchengladbach](/de/moenchengladbach/)
 - [Flexibel trainieren in München](/de/muenchen/)
 - [Flexibel trainieren in Münster](/de/muenster/)
 - [Flexibel trainieren in Nürnberg](/de/nuernberg/)
+- [Flexibel trainieren in Paderborn](/de/paderborn/)
+- [Flexibel trainieren in Potsdam](/de/potsdam/)
+- [Flexibel trainieren in Regensburg](/de/regensburg/)
+- [Flexibel trainieren in Rostock](/de/rostock/)
+- [Flexibel trainieren in Saarbrücken](/de/saarbruecken/)
 - [Flexibel trainieren in Stuttgart](/de/stuttgart/)
+- [Flexibel trainieren in Trier](/de/trier/)
 - [Flexibel trainieren in Wiesbaden](/de/wiesbaden/)
+- [Flexibel trainieren in Würzburg](/de/wuerzburg/)
 - [Flexibel trainieren in Österreich](/at/)
 
 </div>

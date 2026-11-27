@@ -82,21 +82,33 @@ McFit-Preise und andere Möglichkeiten ohne lange Laufzeit findest du in:
 - [Fitnessstudio ohne Vertrag in Darmstadt](/de/fitnessstudio-ohne-vertrag-darmstadt/)
 
 <details class="meer-steden">
-<summary>McFit in 13 weiteren Städten anzeigen</summary>
+<summary>McFit in 25 weiteren Städten anzeigen</summary>
 
 - [Augsburg](/de/augsburg/#mcfit): Göggingen und Innenstadt
+- [Bielefeld](/de/bielefeld/#mcfit): Bielefeld und Stieghorst
 - [Bochum](/de/bochum/#mcfit): Grumme, Hofstede, Innenstadt und Wattenscheid
 - [Bonn](/de/bonn/#mcfit)
+- [Braunschweig](/de/braunschweig/#mcfit)
 - [Bremen](/de/bremen/#mcfit): Altstadt, Bahnhofsvorstadt, Kattenturm und Vahr
 - [Dresden](/de/dresden/#mcfit)
 - [Duisburg](/de/duisburg/#mcfit): Hamborn und Wanheimerort
 - [Essen](/de/essen/#mcfit): Bergerhausen, Nordviertel und Westviertel
+- [Freiburg](/de/freiburg/#mcfit)
 - [Hannover](/de/hannover/#mcfit): Südstadt, Vahrenheide und Wülfel
+- [Kassel](/de/kassel/#mcfit): Kassel und Kassel Nord
+- [Magdeburg](/de/magdeburg/#mcfit): Magdeburg und Altstadt
+- [Mainz](/de/mainz/#mcfit): Mainz und Neustadt
 - [Mannheim](/de/mannheim/#mcfit): Almenhof und Käfertal
 - [Mönchengladbach](/de/moenchengladbach/#mcfit)
 - [Münster](/de/muenster/#mcfit)
 - [Nürnberg](/de/nuernberg/#mcfit): Doos, Gibitzenhof, Gostenhof und Mögeldorf
+- [Paderborn](/de/paderborn/#mcfit)
+- [Regensburg](/de/regensburg/#mcfit): Reinhausen
+- [Rostock](/de/rostock/#mcfit)
+- [Saarbrücken](/de/saarbruecken/#mcfit)
+- [Trier](/de/trier/#mcfit)
 - [Wiesbaden](/de/wiesbaden/#mcfit)
+- [Würzburg](/de/wuerzburg/#mcfit): Würzburg und Lengfeld
 
 </details>
 

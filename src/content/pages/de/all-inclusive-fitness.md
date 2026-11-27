@@ -180,7 +180,7 @@ Ja, das Probetraining buchst du online auf der Website der Kette. Wähle dort de
 <details>
 <summary>Ist all inclusive Fitness auf ClassPass?</summary>
 
-Auf ClassPass haben wir einzelne Studios der Kette gefunden, zum Beispiel in Augsburg, Bochum, Castrop-Rauxel, Duisburg, Erlangen, Essen-Kray, Fürth, Heilbronn, Herne, Kaiserslautern, Mönchengladbach, Mülheim an der Ruhr, Münster, Nürnberg, Oberhausen, Schwabach, Sindelfingen, Stuttgart-Degerloch, Weinheim und Wiesbaden.
+Auf ClassPass haben wir einzelne Studios der Kette gefunden, zum Beispiel in Augsburg, Bielefeld, Bochum, Castrop-Rauxel, Duisburg, Erlangen, Essen-Kray, Fürth, Heilbronn, Herne, Kaiserslautern, Kassel, Mönchengladbach, Mülheim an der Ruhr, Münster, Nürnberg, Oberhausen, Paderborn, Regensburg, Saarlouis, Schwabach, Sindelfingen, Stuttgart-Degerloch, Völklingen, Weinheim, Wiesbaden und Würzburg.
 
 </details>
 

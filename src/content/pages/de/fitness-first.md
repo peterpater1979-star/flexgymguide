@@ -146,12 +146,12 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Bad Rappenau</strong> <span class="klein">1 Club</span></li>
 <li><strong>Bergheim</strong> <span class="klein">2 Clubs</span></li>
 <li><strong>Biberach an der Riß</strong> <span class="klein">1 Club</span></li>
-<li><strong>Bielefeld</strong> <span class="klein">2 Clubs</span></li>
+<li><a href="/de/bielefeld/"><strong>Bielefeld</strong></a> <span class="klein">2 Clubs</span></li>
 <li><strong>Bietigheim-Bissingen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Blieskastel</strong> <span class="klein">1 Club</span></li>
 <li><strong>Blomberg</strong> <span class="klein">1 Club</span></li>
 <li><a href="/de/bonn/"><strong>Bonn</strong></a> <span class="klein">1 Club</span></li>
-<li><strong>Braunschweig</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/braunschweig/"><strong>Braunschweig</strong></a> <span class="klein">1 Club</span></li>
 <li><a href="/de/bremen/"><strong>Bremen</strong></a> <span class="klein">3 Clubs</span></li>
 <li><strong>Bretten</strong> <span class="klein">1 Club</span></li>
 <li><strong>Bünde</strong> <span class="klein">1 Club</span></li>
@@ -166,7 +166,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Ettlingen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Fellbach</strong> <span class="klein">1 Club</span></li>
 <li><strong>Frechen</strong> <span class="klein">1 Club</span></li>
-<li><strong>Freiburg</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/freiburg/"><strong>Freiburg</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Fürth</strong> <span class="klein">1 Club</span></li>
 <li><strong>Geislingen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Gera</strong> <span class="klein">1 Club</span></li>
@@ -187,7 +187,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Idar-Oberstein</strong> <span class="klein">2 Clubs</span></li>
 <li><strong>Ingolstadt</strong> <span class="klein">1 Club</span></li>
 <li><strong>Kaiserslautern</strong> <span class="klein">1 Club</span></li>
-<li><strong>Kassel</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/kassel/"><strong>Kassel</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Kerpen</strong> <span class="klein">2 Clubs</span></li>
 <li><strong>Kirn</strong> <span class="klein">1 Club</span></li>
 <li><strong>Kornwestheim</strong> <span class="klein">1 Club</span></li>
@@ -198,8 +198,8 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Lemgo</strong> <span class="klein">1 Club</span></li>
 <li><strong>Leopoldshöhe-Asemissen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Ludwigsburg</strong> <span class="klein">1 Club</span></li>
-<li><strong>Magdeburg</strong> <span class="klein">2 Clubs</span></li>
-<li><strong>Mainz</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/magdeburg/"><strong>Magdeburg</strong></a> <span class="klein">2 Clubs</span></li>
+<li><a href="/de/mainz/"><strong>Mainz</strong></a> <span class="klein">1 Club</span></li>
 <li><a href="/de/mannheim/"><strong>Mannheim</strong></a> <span class="klein">3 Clubs</span></li>
 <li><strong>Marl</strong> <span class="klein">1 Club</span></li>
 <li><strong>Merzig</strong> <span class="klein">2 Clubs</span></li>
@@ -208,25 +208,25 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Nordhausen</strong> <span class="klein">1 Club</span></li>
 <li><a href="/de/nuernberg/"><strong>Nürnberg</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Offenbach</strong> <span class="klein">1 Club</span></li>
-<li><strong>Paderborn</strong> <span class="klein">2 Clubs</span></li>
+<li><a href="/de/paderborn/"><strong>Paderborn</strong></a> <span class="klein">2 Clubs</span></li>
 <li><strong>Pforzheim</strong> <span class="klein">1 Club</span></li>
 <li><strong>Pirmasens</strong> <span class="klein">1 Club</span></li>
 <li><strong>Plochingen</strong> <span class="klein">1 Club</span></li>
-<li><strong>Potsdam</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/potsdam/"><strong>Potsdam</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Raunheim</strong> <span class="klein">2 Clubs</span></li>
 <li><strong>Ravensburg</strong> <span class="klein">1 Club</span></li>
-<li><strong>Regensburg</strong> <span class="klein">2 Clubs</span></li>
+<li><a href="/de/regensburg/"><strong>Regensburg</strong></a> <span class="klein">2 Clubs</span></li>
 <li><strong>Rheinstetten</strong> <span class="klein">1 Club</span></li>
 <li><strong>Rodenkirchen-Godorf</strong> <span class="klein">1 Club</span></li>
-<li><strong>Rostock</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/rostock/"><strong>Rostock</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Rottenburg am Neckar</strong> <span class="klein">1 Club</span></li>
 <li><strong>Rösrath</strong> <span class="klein">1 Club</span></li>
-<li><strong>Saarbrücken</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/saarbruecken/"><strong>Saarbrücken</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Saarlouis</strong> <span class="klein">1 Club</span></li>
 <li><strong>Sigmaringen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Singen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Süßen</strong> <span class="klein">1 Club</span></li>
-<li><strong>Trier</strong> <span class="klein">3 Clubs</span></li>
+<li><a href="/de/trier/"><strong>Trier</strong></a> <span class="klein">3 Clubs</span></li>
 <li><strong>Uhingen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Waiblingen</strong> <span class="klein">1 Club</span></li>
 <li><strong>Wangen im Allgäu</strong> <span class="klein">1 Club</span></li>
@@ -237,7 +237,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 <li><strong>Winnenden</strong> <span class="klein">1 Club</span></li>
 <li><strong>Wolfenbüttel</strong> <span class="klein">1 Club</span></li>
 <li><strong>Wäschenbeuren</strong> <span class="klein">1 Club</span></li>
-<li><strong>Würzburg</strong> <span class="klein">1 Club</span></li>
+<li><a href="/de/wuerzburg/"><strong>Würzburg</strong></a> <span class="klein">1 Club</span></li>
 <li><strong>Zweibrücken</strong> <span class="klein">1 Club</span></li>
 </ul>
 
@@ -254,7 +254,7 @@ Vertragslaufzeit und Kündigungsfrist hängen von deiner Mitgliedschaft ab. Prü
 Noch unsicher? Buch online ein kostenloses Probetraining, einlösbar in allen Fitness First Clubs in Deutschland. Du testest einen Tag lang, so lange du willst, inklusive Sauna, Dampfbad und, wo vorhanden, Pool. Kurse kannst du an der Rezeption anfragen. Alle 6 Monate ist ein neues Probetraining möglich. Ab 14 Jahren kannst du mit einer erziehungsberechtigten Person kommen, mit 16 oder 17 brauchst du eine unterschriebene Einverständniserklärung.
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-fitness-first">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-fitness-first-probe">Kostenloses Probetraining buchen</a>
 </div>
 
 </div>

@@ -44,7 +44,7 @@ Ein Abo auf Credit-Basis für Pilates, Barre, Yoga und Bootcamp, vor allem in Ep
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-hamburg">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-hamburg-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
@@ -268,6 +268,24 @@ Studio für Reformer Pilates. Abo 120 € pro Monat, oder Karten ab 25 € pro K
 
 </div>
 
+<div id="beat81" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-beat81"><span>Boutique-Studio</span></div>
+
+<h3>BEAT81</h3>
+
+Functional Training in der Gruppe (RIDE und HYBRID), Studios in Uhlenhorst, Schanze und Neustadt. Ab 49 € pro Monat.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Neukunden: die ersten 2 Workouts für 20 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/beat81/">Alles über BEAT81</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -415,6 +433,7 @@ Die Clubs sind RED Clubs oder BLACK Clubs. Mit einer BLACK-Mitgliedschaft traini
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 2 Reformer-Studios (Neustadt, Ottensen) |
 | **[Drops Barre](/de/drops-barre/)** | Unlimited ab 89 €, Einzelstunde 20 € | 6 oder 12 Monate, oder pro Kurs ohne Vertrag | 1 Studio (Barre) |
 | **[YOUPILA](/de/youpila/)** | ONE Abo 120 €, oder Karten ab 25 € pro Kurs | Abo mindestens 12 Monate. Karten ohne Vertrag | 1 Reformer-Studio (Hoheluft) |
+| **[BEAT81](/de/beat81/)** | Ab 49 € pro Monat (4 Workouts) | Monatlich abgerechnet, Kündigung 1 Monat vorher | Studios in Uhlenhorst, Schanze und Neustadt |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -505,8 +524,10 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 
 - [Flexibel trainieren in Augsburg](/de/augsburg/)
 - [Flexibel trainieren in Berlin](/de/berlin/)
+- [Flexibel trainieren in Bielefeld](/de/bielefeld/)
 - [Flexibel trainieren in Bochum](/de/bochum/)
 - [Flexibel trainieren in Bonn](/de/bonn/)
+- [Flexibel trainieren in Braunschweig](/de/braunschweig/)
 - [Flexibel trainieren in Bremen](/de/bremen/)
 - [Flexibel trainieren in Darmstadt](/de/darmstadt/)
 - [Flexibel trainieren in Dortmund](/de/dortmund/)
@@ -515,17 +536,28 @@ Ja. Du kannst deine Credits auch in anderen deutschen Städten und im Ausland nu
 - [Flexibel trainieren in Düsseldorf](/de/duesseldorf/)
 - [Flexibel trainieren in Essen](/de/essen/)
 - [Flexibel trainieren in Frankfurt am Main](/de/frankfurt/)
+- [Flexibel trainieren in Freiburg](/de/freiburg/)
 - [Flexibel trainieren in Hannover](/de/hannover/)
 - [Flexibel trainieren in Karlsruhe](/de/karlsruhe/)
+- [Flexibel trainieren in Kassel](/de/kassel/)
 - [Flexibel trainieren in Köln](/de/koeln/)
 - [Flexibel trainieren in Leipzig](/de/leipzig/)
+- [Flexibel trainieren in Magdeburg](/de/magdeburg/)
+- [Flexibel trainieren in Mainz](/de/mainz/)
 - [Flexibel trainieren in Mannheim](/de/mannheim/)
 - [Flexibel trainieren in Mönchengladbach](/de/moenchengladbach/)
 - [Flexibel trainieren in München](/de/muenchen/)
 - [Flexibel trainieren in Münster](/de/muenster/)
 - [Flexibel trainieren in Nürnberg](/de/nuernberg/)
+- [Flexibel trainieren in Paderborn](/de/paderborn/)
+- [Flexibel trainieren in Potsdam](/de/potsdam/)
+- [Flexibel trainieren in Regensburg](/de/regensburg/)
+- [Flexibel trainieren in Rostock](/de/rostock/)
+- [Flexibel trainieren in Saarbrücken](/de/saarbruecken/)
 - [Flexibel trainieren in Stuttgart](/de/stuttgart/)
+- [Flexibel trainieren in Trier](/de/trier/)
 - [Flexibel trainieren in Wiesbaden](/de/wiesbaden/)
+- [Flexibel trainieren in Würzburg](/de/wuerzburg/)
 - [Flexibel trainieren in Österreich](/at/)
 
 </div>
