@@ -44,7 +44,7 @@ Ein Abo auf Credit-Basis für Yoga, Pilates, Lagree und Outdoor-Bootcamp, auch i
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-dortmund">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-dortmund-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 

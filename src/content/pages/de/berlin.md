@@ -44,7 +44,7 @@ Ein Abo auf Credit-Basis für Studios in ganz Berlin, von Lagree in Mitte bis Bo
 </div>
 
 <div class="knoppen">
-<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-berlin">Kostenloses Probetraining buchen</a>
+<a class="knop knop-affiliate" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-berlin-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Fitness First ansehen</a>
 </div>
 
