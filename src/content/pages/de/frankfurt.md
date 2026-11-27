@@ -178,7 +178,7 @@ Classy Pilates hat in Frankfurt 6 Studios für Reformer Pilates und Powerformer,
 
 <div id="barrys" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gewichten"><span>Boutique-Studio</span></div>
+<div class="fotokop foto-barrys"><span>Boutique-Studio</span></div>
 
 <h3>Barry's</h3>
 
