@@ -274,7 +274,7 @@ Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung 
 
 <h3>BEAT81</h3>
 
-Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Cardio). In Berlin gibt es Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt. Preise und Kurse siehst du auf der Website von BEAT81.
+Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Cardio). In Berlin gibt es Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt. Monatsabo ab 49 € für 4 Workouts, 79 € für 8 Workouts oder 99 € unbegrenzt, gültig in allen Studios.
 
 </div>
 
@@ -433,7 +433,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer) |
 | **[Open Studios Berlin](/de/open-studios-berlin/)** | Einzelstunde 22 €, Open Membership ab 79 € (ein Studio) oder 99 € (alle Studios) | 6 Monate Mindestlaufzeit mit automatischer Verlängerung, oder Karten ohne Vertrag | 7 Studios (Yoga und Pilates) |
 | **Shapesty** | Einzelkurs 35 €, 5 Kurse 165 €, 10 Kurse 310 €, 20 Kurse 560 €, Mitgliedschaft 96 € (4 Kurse) bis 228 € (12 Kurse) pro Monat, unbegrenzt 270 bis 339 € pro Monat | Mitgliedschaft mindestens 6 Monate (einmal bis 4 Wochen pausieren), unbegrenzt 1, 3 oder 6 Monate, Kurspakete 1 bis 12 Monate gültig | 2 Studios (Mitte, Charlottenburg) |
-| **BEAT81** | Siehe Website | Siehe Website | Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt |
+| **BEAT81** | Monatsabo 49 € (4 Workouts), 79 € (8 Workouts) oder 99 € (unbegrenzt) | Monatlich abgerechnet, Kündigung 1 Monat vorher | Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt |
 | **Barry's** | Einzelkurs 29 €, 10 Kurse 270 €, Mitgliedschaft 8 Kurse 180 €, 12 Kurse 245 € oder 16 Kurse 290 € pro 30 Tage | Mitgliedschaft jederzeit kündbar, Kurspakete ein Jahr gültig | 1 Studio (Friedrichstraße 83) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
