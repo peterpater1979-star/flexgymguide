@@ -323,21 +323,34 @@ Boutique-Studio für Barre-Kurse, in München, Frankfurt, Köln und Hamburg. Unl
 
 <ul class="stedenlijst stedenlijst-kort">
 <li><a href="/de/augsburg/"><strong>Augsburg</strong></a></li>
+<li><a href="/de/bielefeld/"><strong>Bielefeld</strong></a></li>
 <li><a href="/de/bochum/"><strong>Bochum</strong></a></li>
 <li><a href="/de/bonn/"><strong>Bonn</strong></a></li>
+<li><a href="/de/braunschweig/"><strong>Braunschweig</strong></a></li>
 <li><a href="/de/bremen/"><strong>Bremen</strong></a></li>
 <li><a href="/de/darmstadt/"><strong>Darmstadt</strong></a></li>
 <li><a href="/de/dortmund/"><strong>Dortmund</strong></a></li>
 <li><a href="/de/dresden/"><strong>Dresden</strong></a></li>
 <li><a href="/de/duisburg/"><strong>Duisburg</strong></a></li>
 <li><a href="/de/essen/"><strong>Essen</strong></a></li>
+<li><a href="/de/freiburg/"><strong>Freiburg</strong></a></li>
 <li><a href="/de/hannover/"><strong>Hannover</strong></a></li>
 <li><a href="/de/karlsruhe/"><strong>Karlsruhe</strong></a></li>
+<li><a href="/de/kassel/"><strong>Kassel</strong></a></li>
+<li><a href="/de/magdeburg/"><strong>Magdeburg</strong></a></li>
+<li><a href="/de/mainz/"><strong>Mainz</strong></a></li>
 <li><a href="/de/mannheim/"><strong>Mannheim</strong></a></li>
 <li><a href="/de/moenchengladbach/"><strong>Mönchengladbach</strong></a></li>
 <li><a href="/de/muenster/"><strong>Münster</strong></a></li>
 <li><a href="/de/nuernberg/"><strong>Nürnberg</strong></a></li>
+<li><a href="/de/paderborn/"><strong>Paderborn</strong></a></li>
+<li><a href="/de/potsdam/"><strong>Potsdam</strong></a></li>
+<li><a href="/de/regensburg/"><strong>Regensburg</strong></a></li>
+<li><a href="/de/rostock/"><strong>Rostock</strong></a></li>
+<li><a href="/de/saarbruecken/"><strong>Saarbrücken</strong></a></li>
+<li><a href="/de/trier/"><strong>Trier</strong></a></li>
 <li><a href="/de/wiesbaden/"><strong>Wiesbaden</strong></a></li>
+<li><a href="/de/wuerzburg/"><strong>Würzburg</strong></a></li>
 </ul>
 
 </div>
