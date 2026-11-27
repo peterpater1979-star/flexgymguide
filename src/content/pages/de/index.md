@@ -309,7 +309,7 @@ Boutique-Studio für Barre-Kurse, in München, Frankfurt, Köln und Hamburg. Unl
 <h3 class="steden-kop">Große Städte</h3>
 
 <ul class="stedenlijst">
-<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios · YTTP · Kieser · all inclusive Fitness · Open Studios Berlin · Barry's</span></li>
+<li><a href="/de/berlin/"><strong>Berlin</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · Mrs.Sporty · Rostudios · YTTP · Kieser · all inclusive Fitness · Open Studios Berlin · Shapesty · BEAT81 · Barry's</span></li>
 <li><a href="/de/duesseldorf/"><strong>Düsseldorf</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · JOHN REED · YOUPILA · Rostudios · YTTP · Kieser · all inclusive Fitness</span></li>
 <li><a href="/de/frankfurt/"><strong>Frankfurt am Main</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Basic-Fit · clever fit · Rostudios · Drops Barre · Kieser · Classy Pilates · Barry's</span></li>
 <li><a href="/de/hamburg/"><strong>Hamburg</strong></a> <span class="klein">ClassPass · Urban Sports Club · Fitness First · McFit · Holmes Place · FitX · Basic-Fit · JOHN REED · clever fit · EASYFITNESS · Mrs.Sporty · YOUPILA · Rostudios · Drops Barre · YTTP · Kieser</span></li>

@@ -258,6 +258,26 @@ Yoga, Pilates, Sculpt, Sound und Red Light in 7 Studios in Berlin, mit Einzelstu
 
 </div>
 
+<div id="shapesty" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gewichten"><span>Boutique-Studio</span></div>
+
+<h3>Shapesty</h3>
+
+Lagree-Kurse auf dem Megaformer, ein intensives Training mit geringer Belastung für die Gelenke. In Berlin gibt es 2 Studios: Mitte (Aaron-Bernstein-Platz 3) und Charlottenburg (Augsburger Straße 37). Preise und Kurse siehst du auf der Website von Shapesty.
+
+</div>
+
+<div id="beat81" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-gewichten"><span>Boutique-Studio</span></div>
+
+<h3>BEAT81</h3>
+
+Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Cardio). In Berlin gibt es Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt. Preise und Kurse siehst du auf der Website von BEAT81.
+
+</div>
+
 <div id="barrys" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-gewichten"><span>Boutique-Studio</span></div>
@@ -412,6 +432,8 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 9 Studios |
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer) |
 | **[Open Studios Berlin](/de/open-studios-berlin/)** | Einzelstunde 22 €, Open Membership ab 79 € (ein Studio) oder 99 € (alle Studios) | 6 Monate Mindestlaufzeit mit automatischer Verlängerung, oder Karten ohne Vertrag | 7 Studios (Yoga und Pilates) |
+| **Shapesty** | Siehe Website | Siehe Website | 2 Studios (Mitte, Charlottenburg) |
+| **BEAT81** | Siehe Website | Siehe Website | Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt |
 | **Barry's** | Siehe Website | Siehe Website | 1 Studio (Friedrichstraße 83) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
