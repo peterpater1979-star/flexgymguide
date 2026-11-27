@@ -1,8 +1,8 @@
 ---
-title: "BEAT81: Functional Training in der Gruppe"
-seoTitle: "BEAT81: Preise, Kurse und Studios in Berlin"
+title: "BEAT81: Functional Training in Berlin und Hamburg"
+seoTitle: "BEAT81: Preise, Kurse und Studios in Berlin und Hamburg"
 path: "/de/beat81/"
-description: "Alles über BEAT81 in Berlin: Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Cardio). Studios, Monatsabos ab 49 €, Kündigen."
+description: "Alles über BEAT81 in Berlin und Hamburg: Functional Training in der Gruppe, mit RIDE (Cycling) und HYBRID (Kraft und Cardio). Studios, Monatsabos ab 49 €, Kündigen."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -20,6 +20,7 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 | --- | --- |
 | **Art** | Gruppentraining: RIDE (Cycling) und HYBRID (Kraft und Cardio) |
 | **Studios in Berlin** | Mitte, am Kurfürstendamm und am Hackeschen Markt |
+| **Studios in Hamburg** | Uhlenhorst, Schanze und Neustadt |
 | **4 Workouts** | 49 € pro Monat |
 | **8 Workouts** | 79 € pro Monat |
 | **Unbegrenzt** | 99 € pro Monat |
@@ -28,9 +29,12 @@ BEAT81 ist ein Anbieter für Functional Training in der Gruppe. Es gibt Kurse mi
 
 <p class="klein">Preise von November 2026, laut BEAT81. Prüfe den aktuellen Preis immer bei BEAT81.</p>
 
-<h2 id="studios">Die Studios in Berlin</h2>
+<h2 id="studios">Die Studios</h2>
 
-BEAT81 hat in Berlin Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt. Mehr zur Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/).
+- **Berlin:** Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt.
+- **Hamburg:** Studios in Uhlenhorst, Schanze und Neustadt.
+
+Mehr zu deiner Stadt findest du unter [Flexibel trainieren in Berlin](/de/berlin/) und [Flexibel trainieren in Hamburg](/de/hamburg/).
 
 <h2 id="preise">Monatsabos</h2>
 
@@ -69,11 +73,12 @@ RIDE ist ein Cycling-Kurs. HYBRID verbindet Kraft und Cardio.
 <details>
 <summary>Ist BEAT81 auf ClassPass?</summary>
 
-Auf ClassPass haben wir BEAT81 in Berlin und in Düsseldorf gefunden. Mehr dazu in unserem [Überblick zu ClassPass](/de/classpass/).
+Auf ClassPass haben wir BEAT81 in Berlin, Hamburg und Düsseldorf gefunden. Mehr dazu in unserem [Überblick zu ClassPass](/de/classpass/).
 
 </details>
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/berlin/">Training in Berlin</a>
+<a class="knop knop-rand" href="/de/hamburg/">Training in Hamburg</a>
 <a class="knop knop-rand" href="https://www.beat81.com/">BEAT81</a>
 </div>
