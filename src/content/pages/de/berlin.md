@@ -282,7 +282,7 @@ Lagree auf dem Megaformer, 2 Studios in Berlin (Mitte, Charlottenburg). Ab 96 �
 
 <h3>BEAT81</h3>
 
-Functional Training in der Gruppe (RIDE und HYBRID), 3 Studios in Berlin. Ab 49 € pro Monat.
+Functional Training in der Gruppe (RIDE und HYBRID), 3 Studios in Berlin (Kurfürstendamm, Hackescher Markt, Kreuzberg). Ab 49 € pro Monat.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Neukunden: die ersten 2 Workouts für 20 €</p>
@@ -457,7 +457,7 @@ Jeder Club ist ein RED Club oder ein BLACK Club. Mit einer BLACK-Mitgliedschaft 
 | **[YTTP](/de/yttp/)** | Memberships ab 65 €, oder pro Kurs | Monatlich kündbar, oder pro Kurs ohne Vertrag | 4 Studios (Reformer) |
 | **[Open Studios Berlin](/de/open-studios-berlin/)** | Einzelstunde 22 €, Open Membership ab 79 € (ein Studio) oder 99 € (alle Studios) | 6 Monate Mindestlaufzeit mit automatischer Verlängerung, oder Karten ohne Vertrag | 7 Studios (Yoga und Pilates) |
 | **[Shapesty](/de/shapesty/)** | Ab 96 € pro Monat (4 Kurse), unbegrenzt ab 270 € | Mitgliedschaft mindestens 6 Monate | 2 Studios (Mitte, Charlottenburg) |
-| **[BEAT81](/de/beat81/)** | Ab 49 € pro Monat (4 Workouts) | Monatlich abgerechnet, Kündigung 1 Monat vorher | Studios in Mitte, am Kurfürstendamm und am Hackeschen Markt |
+| **[BEAT81](/de/beat81/)** | Ab 49 € pro Monat (4 Workouts) | Monatlich abgerechnet, Kündigung 1 Monat vorher | 3 Studios (Kurfürstendamm, Hackescher Markt, Kreuzberg) |
 | **[Barry's](/de/barrys/)** | Ab 180 € pro 30 Tage (8 Kurse) | Mitgliedschaft jederzeit kündbar | 1 Studio (Friedrichstraße 83) |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
