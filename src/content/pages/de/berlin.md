@@ -260,7 +260,7 @@ Yoga, Pilates, Sculpt, Sound und Red Light in 7 Studios in Berlin, mit Einzelstu
 
 <div id="shapesty" class="kolom kaart aanbiederkaart">
 
-<div class="fotokop foto-gewichten"><span>Boutique-Studio</span></div>
+<div class="fotokop foto-shapesty"><span>Boutique-Studio</span></div>
 
 <h3>Shapesty</h3>
 
