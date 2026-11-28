@@ -19,8 +19,8 @@ Nur für ein paar Semester an der TU oder der Hochschule, oder pendelst du nach 
 | | Kündigen | Preis | Gut für |
 | --- | --- | --- | --- |
 | **ClassPass** | Jederzeit, vor dem Verlängerungsdatum | Standard-Abo 42 Credits für 59 € im Monat | Yoga, Reformer-Pilates und Aerial, auch in Frankfurt |
-| **Urban Sports Club** | Monatlich kündbar | Fester Preis pro Monat, je nach Mitgliedschaft | Gym, Kurse und andere Sportarten mit einem Pass |
 | **Fitness First** | Monatlich, je nach Mitgliedschaft | Je nach Club und Tarif | Gym, Kurse und Wellness in vielen Clubs in der Stadt |
+| **Urban Sports Club** | Monatlich kündbar | Fester Preis pro Monat, je nach Mitgliedschaft | Gym, Kurse und andere Sportarten mit einem Pass |
 | **McFit Flex** | Monatlich kündbar | 49,90 € im Monat | Günstig und oft an Geräten trainieren, rund um die Uhr |
 | **clever fit Flex** | Monatlich, meist mit einem Monat Frist | Je nach Studio | Günstiges Gym in der Pallaswiesenstraße |
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
@@ -35,20 +35,20 @@ Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche. Das An
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
 </div>
 
-<h2 id="urban-sports-club">Urban Sports Club: monatlich kündbar</h2>
-
-Urban Sports Club gibt es auch in Darmstadt. Mit einem festen Preis pro Monat checkst du in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Die monatliche Mitgliedschaft kündigst du monatlich.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
-</div>
-
 <h2 id="fitness-first">Fitness First: Mitgliedschaft ohne Mindestlaufzeit</h2>
 
 Fitness First hat in Darmstadt 10 Clubs, unter anderem am Hauptbahnhof, am Ostbahnhof und in Eberstadt. Du wählst zwischen 1, 12 oder 24 Monaten Laufzeit; mit 1 Monat kündigst du monatlich. Der Preis hängt vom Club und vom Tarif ab, und ein Probetraining ist kostenlos. Lies [Fitness First kündigen](/de/fitness-first-kuendigen/).
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+<h2 id="urban-sports-club">Urban Sports Club: monatlich kündbar</h2>
+
+Urban Sports Club gibt es auch in Darmstadt. Mit einem festen Preis pro Monat checkst du in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Die monatliche Mitgliedschaft kündigst du monatlich.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
 
 <h2 id="mcfit">McFit Flex: ohne feste Laufzeit</h2>

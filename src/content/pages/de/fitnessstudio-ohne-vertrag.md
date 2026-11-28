@@ -18,9 +18,9 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Deutschland kan
 
 | | Kündigen | Preis | Gut für |
 | --- | --- | --- | --- |
-| **Urban Sports Club** | Monatlich kündbar | In Berlin ab 45 € im Monat (Essential) | Gym, Kurse und andere Sportarten mit einem Pass |
 | **ClassPass** | Jederzeit, vor dem Verlängerungsdatum | Standard-Abo zum Beispiel 42 Credits für 59 € im Monat | Abwechslung in Studios in deiner Stadt |
 | **Fitness First** | Monatlich, ohne Mindestlaufzeit | Pro Woche, je nach Club und Tarif, plus Startgebühr und Trainingspaket | Gym, Kurse und Wellness in einem Club |
+| **Urban Sports Club** | Monatlich kündbar | In Berlin ab 45 € im Monat (Essential) | Gym, Kurse und andere Sportarten mit einem Pass |
 | **McFit Flex** | Monatlich kündbar | 49,90 € im Monat | Günstig und oft an Geräten trainieren |
 | **Basic-Fit Flex** | Jederzeit, mit 4 Wochen Frist | Ab 34,98 € pro 4 Wochen, plus 19,99 € Anmeldegebühr | Günstig und oft trainieren |
 | **JOHN REED Flex** | Monatlich kündbar | 60 bis 80 € im Monat, je nach Club | Training mit Design, Musik und Kursen |
@@ -28,14 +28,6 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Deutschland kan
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
 
 <p class="klein">Preise von Oktober und November 2026, von unseren Seiten über die einzelnen Anbieter. Je nach Studio kann der Preis anders sein. Prüf den aktuellen Preis immer beim Anbieter.</p>
-
-<h2 id="urban-sports-club">Urban Sports Club: monatlich kündbar</h2>
-
-Mit Urban Sports Club zahlst du einen festen Preis pro Monat und checkst in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Die monatliche Mitgliedschaft kündigst du monatlich.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
-</div>
 
 <h2 id="classpass">ClassPass: jederzeit kündbar</h2>
 
@@ -55,6 +47,14 @@ Ohne Mindestlaufzeit zahlst du eine einmalige Startgebühr von 39 €. Dazu komm
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+<h2 id="urban-sports-club">Urban Sports Club: monatlich kündbar</h2>
+
+Mit Urban Sports Club zahlst du einen festen Preis pro Monat und checkst in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Die monatliche Mitgliedschaft kündigst du monatlich.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
 
 <h2 id="mcfit">McFit Flex: ohne feste Laufzeit</h2>
