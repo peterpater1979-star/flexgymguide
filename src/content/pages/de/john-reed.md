@@ -98,7 +98,7 @@ JOHN REED hat Clubs in diesen Städten aus unserem Ratgeber:
 - [Stuttgart](/de/stuttgart/#john-reed)
 
 <details class="meer-steden">
-<summary>Weitere 8 Städte anzeigen</summary>
+<summary>Weitere 10 Städte anzeigen</summary>
 
 - [Augsburg](/de/augsburg/#john-reed): Innenstadt
 - [Bonn](/de/bonn/#john-reed): Bad Godesberg
@@ -108,6 +108,8 @@ JOHN REED hat Clubs in diesen Städten aus unserem Ratgeber:
 - [Essen](/de/essen/#john-reed): Rüttenscheid (Rüttenscheider Stern)
 - [Hannover](/de/hannover/#john-reed): Nordstadt (Weidendamm)
 - [Mannheim](/de/mannheim/#john-reed): Innenstadt
+- [Potsdam](/de/potsdam/#john-reed): Breite Straße
+- [Regensburg](/de/regensburg/#john-reed): Joseph-Dahlem-Straße
 
 </details>
 

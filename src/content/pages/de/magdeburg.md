@@ -10,7 +10,7 @@ crumb: "Magdeburg"
 kicker: "Stadtguide Magdeburg"
 ---
 
-In Magdeburg trainierst du bei Fitness First in 2 Clubs. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
+In Magdeburg trainierst du bei Fitness First in 2 Clubs. Außerdem findest du hier Urban Sports Club und EASYFITNESS. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -49,6 +49,34 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Magdeburg ist das Angebo
 <a class="knop knop-affiliate" href="/go/fitness-first-de/?clickref=fgg-de-magdeburg">Mitgliedschaft abschließen</a>
 <a class="knop knop-rand" href="/go/fitness-first-de-probetraining/?clickref=fgg-de-magdeburg-probe">Kostenloses Probetraining buchen</a>
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+</div>
+
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Magdeburg ein, vom Gym bis zum Yoga. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div id="easyfitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-easyfitness"><span>Fitnesskette</span></div>
+
+<h3>EASYFITNESS</h3>
+
+EASYFITNESS hat in Magdeburg ein Studio in der Otto-von-Guericke-Straße. Ab 27,99 € im Monat je nach Studio und Laufzeit, mit Flex-Tarif monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/easyfitness/">Alles über EASYFITNESS</a>
 </div>
 
 </div>
@@ -112,6 +140,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 Clubs in Ma
 
 | Anbieter | Preis pro Monat | Laufzeit | In Magdeburg |
 | --- | --- | --- | --- |
+| **[EASYFITNESS](/de/easyfitness/)** | Ab 27,99 € | Flex, 12 oder 24 Monate | 1 Studio: Otto-von-Guericke-Straße |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 2 Studios: Magdeburg und Magdeburg Altstadt |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Sudenburg |
 
@@ -148,7 +177,7 @@ Fitness First hat Kurse und Sauna, viele Clubs auch mehr. Teste zuerst kostenlos
 <details open>
 <summary>Welche Fitnessstudios in Magdeburg sind monatlich kündbar?</summary>
 
-Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
+Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Urban Sports Club ist monatlich kündbar. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
 
 </details>
 

@@ -64,9 +64,14 @@ Schritt für Schritt: [EASYFITNESS kündigen](/de/easyfitness-kuendigen/).
 
 <h2 id="staedte">EASYFITNESS in deiner Stadt</h2>
 
-EASYFITNESS hat Studios in dieser Stadt aus unserem Ratgeber:
+EASYFITNESS hat Studios in diesen Städten aus unserem Ratgeber:
 
+- [Bielefeld](/de/bielefeld/#easyfitness): Bahnhofstraße
+- [Braunschweig](/de/braunschweig/#easyfitness): Münchenstraße und Lamme
 - [Hamburg](/de/hamburg/#easyfitness): Altona, Rahlstedt, Wandsbek und Jenfeld
+- [Magdeburg](/de/magdeburg/#easyfitness): Otto-von-Guericke-Straße
+- [Regensburg](/de/regensburg/#easyfitness): Rudolf-Vogt-Straße
+- [Rostock](/de/rostock/#easyfitness): Walter-Stoecker-Straße und Groß Klein
 
 Weitere Studios gibt es unter anderem in Hannover, Hildesheim und Lübeck. Alle Studios findest du bei [EASYFITNESS](https://easyfitness.club/studios/).
 
