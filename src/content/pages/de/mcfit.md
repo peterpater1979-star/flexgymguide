@@ -45,6 +45,9 @@ Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (Gesamtpreis laut McFit).
 
 <p class="klein">Quelle: <a href="https://www.mcfit.com/de/mitgliedschaft">mcfit.com/mitgliedschaft</a> (Oktober 2026).</p>
 
+<div class="fotobanner smal foto-mcfit" role="img" aria-label="Fitnessstudio"></div>
+<p class="klein">Foto: RSG Group</p>
+
 <h2 id="kuendigen">Vertrag und Kündigung</h2>
 
 <div class="kolommen">
