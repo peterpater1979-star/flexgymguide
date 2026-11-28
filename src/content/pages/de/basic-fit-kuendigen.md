@@ -10,7 +10,8 @@ crumb: "Basic-Fit kündigen"
 kicker: "Guide"
 ---
 
-<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Fitnessstudio"></div>
+<div class="fotobanner smal foto-basic-fit-pagina-2" role="img" aria-label="Fitnessstudio"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 Du kündigst Basic-Fit über das Online-Formular, in der Basic-Fit-App, am Terminal im Club oder per E-Mail. Die Frist ist 4 Wochen. Mit dem Jahresvertrag kündigst du frühestens zum Ende der 52 Wochen, mit Flex jederzeit.
 

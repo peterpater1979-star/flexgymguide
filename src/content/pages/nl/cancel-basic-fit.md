@@ -11,7 +11,8 @@ crumb: "Cancelling Basic-Fit"
 kicker: "Guide"
 ---
 
-<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Gym"></div>
+<div class="fotobanner smal foto-basic-fit-pagina-2" role="img" aria-label="Gym"></div>
+<p class="klein">Photo: Basic-Fit</p>
 
 You cancel Basic-Fit for free via My Basic-Fit, the app or the orange kiosk in the club. The notice period is 4 weeks. If you are still in the first year of a yearly membership, that year has to run out first.
 

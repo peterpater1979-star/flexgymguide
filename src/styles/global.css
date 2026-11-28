@@ -272,3 +272,10 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .prose h3.steden-kop { margin: 1.25rem 0 .25rem; font-size: 1rem; }
 .stedenlijst-kort { grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); }
 .stedenlijst-kort li { padding: .35rem 0; }
+/* Basic-Fit: tegel = foto 1, aanbiederpagina's = foto 3 en 4 (officiële Basic-Fit-persfoto's) */
+.foto-basic-fit-pagina { --foto: url(/img/foto/basic-fit-pagina.jpg); }
+.foto-basic-fit-pagina-2 { --foto: url(/img/foto/basic-fit-pagina-2.jpg); }
+.fotokop.foto-basic-fit { position: relative; }
+.fotokop.foto-basic-fit::after { content: "Foto: Basic-Fit"; position: absolute; top: .5rem; right: .75rem; font-size: .68rem; font-weight: 400; letter-spacing: 0; opacity: .85; }
+html[lang="fr"] .fotokop.foto-basic-fit::after { content: "Photo : Basic-Fit"; }
+html[lang="en"] .fotokop.foto-basic-fit::after { content: "Photo: Basic-Fit"; }

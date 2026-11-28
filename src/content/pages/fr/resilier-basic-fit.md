@@ -10,7 +10,8 @@ crumb: "Résilier Basic-Fit"
 kicker: "Guide"
 ---
 
-<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-basic-fit-pagina-2" role="img" aria-label="Salle de sport"></div>
+<p class="klein">Photo: Basic-Fit</p>
 
 Tu résilies Basic-Fit gratuitement via My Basic-Fit (site ou appli) ou à la borne orange en club. Le préavis est de 4 semaines, à compter de ta prochaine date de prélèvement. Si tu as un abonnement d'un an, il faut aussi attendre la fin de cette durée minimale.
 
