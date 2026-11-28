@@ -54,6 +54,8 @@ Mrs.Sporty hat mehrere Clubs in diesen Städten aus unserem Ratgeber:
 - [Köln](/de/koeln/#mrs-sporty)
 - [München](/de/muenchen/#mrs-sporty)
 
+Einen Club gibt es in [Karlsruhe](/de/karlsruhe/#mrs-sporty) (Weststadt) und [Magdeburg](/de/magdeburg/#mrs-sporty) (Stadtfeld).
+
 Alle Clubs findest du bei [Mrs.Sporty](https://www.mrssporty.de/).
 
 <h2 id="classpass">Mrs.Sporty oder ClassPass?</h2>

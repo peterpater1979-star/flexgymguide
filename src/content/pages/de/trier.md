@@ -10,7 +10,7 @@ crumb: "Trier"
 kicker: "Stadtguide Trier"
 ---
 
-In Trier trainierst du bei Fitness First in 3 Clubs. Außerdem findest du hier Urban Sports Club und Basic-Fit. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
+In Trier trainierst du bei Fitness First in 3 Clubs. Außerdem findest du hier Urban Sports Club, Basic-Fit und Kieser. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -84,6 +84,24 @@ Basic-Fit hat in Trier einen Club (Über Brücken, rund um die Uhr geöffnet). A
 
 </div>
 
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. Es gibt ein Studio in Trier (Herzogenbuscher Straße).
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -114,6 +132,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 3 Clubs in Tr
 | --- | --- | --- | --- |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 1 Studio |
 | **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club: Über Brücken |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio: Herzogenbuscher Straße |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

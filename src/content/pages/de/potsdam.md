@@ -91,7 +91,7 @@ JOHN REED hat in Potsdam einen Club (Breite Straße), mit Design, Musik und Kurs
 
 <h3>Kieser</h3>
 
-Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. Es gibt ein Studio in Potsdam.
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. Es gibt 2 Studios in Potsdam: Babelsberg und Nedlitz.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
@@ -130,7 +130,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Pot
 | Anbieter | Preis pro Monat | Laufzeit | In Potsdam |
 | --- | --- | --- | --- |
 | **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Breite Straße |
-| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios: Babelsberg und Nedlitz |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 

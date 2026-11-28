@@ -10,7 +10,7 @@ crumb: "Braunschweig"
 kicker: "Stadtguide Braunschweig"
 ---
 
-In Braunschweig trainierst du bei Fitness First in 1 Club. Außerdem findest du hier Urban Sports Club und EASYFITNESS. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
+In Braunschweig trainierst du bei Fitness First in 1 Club. Außerdem findest du hier Urban Sports Club, EASYFITNESS und Kieser. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -80,6 +80,24 @@ Günstige Kette mit 1 Studio in Braunschweig. Flex 49,90 € im Monat, mit Laufz
 
 </div>
 
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. Es gibt ein Studio in Braunschweig (Frankfurter Straße).
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -108,6 +126,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Bra
 | --- | --- | --- | --- |
 | **[EASYFITNESS](/de/easyfitness/)** | Ab 27,99 € | Flex, 12 oder 24 Monate | 2 Studios: Münchenstraße und Lamme |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 1 Studio |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio: Frankfurter Straße |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
