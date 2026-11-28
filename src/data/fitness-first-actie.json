@@ -1,5 +1,5 @@
 {
   "_uitleg": "Actie van Fitness First DE (partner). Vul 'tekst' (Duits, kort) en 'einddatum' (JJJJ-MM-DD, laatste dag) in. De actie staat op de tegels en op /de/fitness-first/ en verdwijnt bij een build na de einddatum. Leeg laten = geen actie. Let op: de site is statisch; na de einddatum blijft de actie zichtbaar tot de eerstvolgende build/deploy.",
-  "tekst": "Cyber Monday bei Fitness First, nur bis 30. November: 12 Wochen gratis* und keine Anmeldegebühr. *Gemeint ist die bis zu 12 Wochen kostenlose Vertragspause. Fitness First behält sich eine Verlängerung des Angebots vor.",
-  "einddatum": "2026-11-30"
+  "tekst": "",
+  "einddatum": ""
 }
