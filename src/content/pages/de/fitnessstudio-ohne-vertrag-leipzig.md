@@ -18,8 +18,9 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Leipzig kannst 
 
 | | Kündigen | Preis | Gut für |
 | --- | --- | --- | --- |
-| **Urban Sports Club** | Monatlich kündbar | Fester Preis pro Monat, je nach Mitgliedschaft | Gym, Kurse und andere Sportarten mit einem Pass |
 | **ClassPass** | Jederzeit, vor dem Verlängerungsdatum | Standard-Abo 42 Credits für 59 € im Monat | Abwechslung in Studios in Leipzig |
+| **Fitness First** | Monatlich, mit 1 Monat Laufzeit | Pro Woche, je nach Club und Tarif | Gym, Kurse und Wellness in einem Club |
+| **Urban Sports Club** | Monatlich kündbar | Fester Preis pro Monat, je nach Mitgliedschaft | Gym, Kurse und andere Sportarten mit einem Pass |
 | **McFit Flex** | Monatlich kündbar | 49,90 € im Monat | Günstig und oft an Geräten trainieren |
 | **JOHN REED Flex** | Monatlich kündbar | 60 bis 80 € im Monat, je nach Club-Kategorie | Training mit Design, Musik und Kursen |
 | **clever fit** | Flex: meist ein Monat Frist | Je nach Studio | Ein günstiges Studio in deiner Nähe |
@@ -27,20 +28,28 @@ Keine Lust, dich ein oder zwei Jahre an ein Studio zu binden? In Leipzig kannst 
 
 <p class="klein">Preise von Oktober und November 2026, von unseren Seiten über die einzelnen Anbieter. Je nach Studio kann der Preis anders sein. Prüf den aktuellen Preis immer beim Anbieter.</p>
 
-<h2 id="urban-sports-club">Urban Sports Club: monatlich kündbar</h2>
-
-Urban Sports Club gibt es auch in Leipzig. Mit einem festen Preis pro Monat checkst du in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Die monatliche Mitgliedschaft kündigst du monatlich.
-
-<div class="knoppen">
-<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
-</div>
-
 <h2 id="classpass">ClassPass: jederzeit kündbar</h2>
 
 Mit ClassPass bekommst du jeden Monat Credits für Kurse und Gym-Besuche in Studios in Leipzig. Du bist an nichts gebunden: Du kündigst vor dem Verlängerungsdatum und trainierst bis zum Ende deines Monats weiter.
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/classpass/">Alles über ClassPass</a>
+</div>
+
+<h2 id="fitness-first">Fitness First: Mitgliedschaft ohne Mindestlaufzeit</h2>
+
+Fitness First hat in Leipzig 2 Clubs, beide an der Petersstraße: Messehof und Thomaskirche. Du wählst zwischen 1, 12 oder 24 Monaten Laufzeit; mit 1 Monat kündigst du monatlich. Der Preis hängt vom Club und vom Tarif ab, und ein Probetraining ist kostenlos. Lies [Fitness First kündigen](/de/fitness-first-kuendigen/).
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+<h2 id="urban-sports-club">Urban Sports Club: monatlich kündbar</h2>
+
+Urban Sports Club gibt es auch in Leipzig. Mit einem festen Preis pro Monat checkst du in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Die monatliche Mitgliedschaft kündigst du monatlich.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
 
 <h2 id="mcfit">McFit Flex: ohne feste Laufzeit</h2>
