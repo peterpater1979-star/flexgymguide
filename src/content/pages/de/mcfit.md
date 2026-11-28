@@ -10,6 +10,7 @@ kicker: "Anbieter: Fitnesskette"
 ---
 
 <div class="fotobanner smal foto-mcfit" role="img" aria-label="Fitnessstudio"></div>
+<p class="klein">Foto: RSG Group</p>
 
 McFit ist nach Mitgliederzahl die größte Fitnessstudiokette Deutschlands, mit über 230 Studios in Deutschland, Österreich und Italien. Die Kette ist günstig und gehört zur RSG Group. Du wählst zwischen einem Vertrag über 12 oder 24 Monate und Flex, das du monatlich kündigst.
 
@@ -43,6 +44,9 @@ So sahen die Preise im Oktober 2026 aus, pro Monat:
 Im ersten Monat zahlst du bei Flex insgesamt 88,90 € (Gesamtpreis laut McFit). Flex kostet also fast das Doppelte eines 24-Monats-Vertrags, dafür bist du nicht gebunden. Mit allen Tarifen trainierst du in über 230 McFit-Studios in Europa.
 
 <p class="klein">Quelle: <a href="https://www.mcfit.com/de/mitgliedschaft">mcfit.com/mitgliedschaft</a> (Oktober 2026).</p>
+
+<div class="fotobanner smal foto-mcfit-pagina" role="img" aria-label="Fitnessstudio"></div>
+<p class="klein">Foto: RSG Group</p>
 
 <h2 id="kuendigen">Vertrag und Kündigung</h2>
 
