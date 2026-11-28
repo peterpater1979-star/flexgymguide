@@ -10,7 +10,7 @@ crumb: "Würzburg"
 kicker: "Stadtguide Würzburg"
 ---
 
-In Würzburg trainierst du bei Fitness First in 1 Club, dazu gibt es all inclusive Fitness. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
+In Würzburg trainierst du bei Fitness First in 1 Club, dazu gibt es all inclusive Fitness. Außerdem findest du hier Urban Sports Club und Kieser. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -71,6 +71,20 @@ Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Mona
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Würzburg ein, vom Gym bis zum Yoga. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
 <div id="clever-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
@@ -99,6 +113,24 @@ Günstige Kette mit 2 Studios in Würzburg. Flex 49,90 € im Monat, mit Laufzei
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/mcfit/">Alles über McFit</a>
+</div>
+
+</div>
+
+<div id="kieser-training" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-kieser"><span>Krafttraining</span></div>
+
+<h3>Kieser</h3>
+
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. Es gibt ein Studio in Würzburg (Zeller Straße).
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/kieser-training/">Alles über Kieser</a>
 </div>
 
 </div>
@@ -132,6 +164,7 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Wü
 | **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio (Rottendorfer Straße 67) |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Heidingsfeld |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 2 Studios: Würzburg und Würzburg-Lengfeld |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio: Zeller Straße |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -166,7 +199,7 @@ Fitness First hat Kurse und Sauna, viele Clubs auch mehr. Teste zuerst kostenlos
 <details open>
 <summary>Welche Fitnessstudios in Würzburg sind monatlich kündbar?</summary>
 
-Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Bei all inclusive Fitness gibt es einen Flex-Tarif. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
+Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Bei all inclusive Fitness gibt es einen Flex-Tarif. Urban Sports Club ist monatlich kündbar. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
 
 </details>
 

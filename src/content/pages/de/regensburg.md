@@ -10,7 +10,7 @@ crumb: "Regensburg"
 kicker: "Stadtguide Regensburg"
 ---
 
-In Regensburg trainierst du bei Fitness First in 2 Clubs, dazu gibt es all inclusive Fitness. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
+In Regensburg trainierst du bei Fitness First in 2 Clubs, dazu gibt es all inclusive Fitness. Außerdem findest du hier Urban Sports Club, EASYFITNESS und JOHN REED. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -71,6 +71,20 @@ Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Mona
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Regensburg ein, vom Gym bis zum Yoga. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
 <div id="clever-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
@@ -85,6 +99,20 @@ clever fit hat in Regensburg 1 Studio. Preise je nach Studio, oft auch monatlich
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="easyfitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-easyfitness"><span>Fitnesskette</span></div>
+
+<h3>EASYFITNESS</h3>
+
+EASYFITNESS hat in Regensburg ein Studio in der Rudolf-Vogt-Straße. Ab 27,99 € im Monat je nach Studio und Laufzeit, mit Flex-Tarif monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/easyfitness/">Alles über EASYFITNESS</a>
 </div>
 
 </div>
@@ -121,6 +149,24 @@ FitX hat in Regensburg 1 Studio: Reinhausen, rund um die Uhr geöffnet. 29 € i
 
 </div>
 
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat in Regensburg einen Club (Joseph-Dahlem-Straße), mit Design, Musik und Kursen. Flex 60 bis 80 € im Monat je nach Club, McFit-Studios inklusive.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -150,8 +196,10 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 Clubs in Re
 | --- | --- | --- | --- |
 | **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 1 Studio (Bajuwarenstraße 29) |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
+| **[EASYFITNESS](/de/easyfitness/)** | Ab 27,99 € | Flex, 12 oder 24 Monate | 1 Studio: Rudolf-Vogt-Straße |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 1 Studio: Regensburg Reinhausen |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Reinhausen |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Joseph-Dahlem-Straße |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -186,7 +234,7 @@ Fitness First hat Kurse und Sauna, viele Clubs auch mehr. Teste zuerst kostenlos
 <details open>
 <summary>Welche Fitnessstudios in Regensburg sind monatlich kündbar?</summary>
 
-Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Bei all inclusive Fitness gibt es einen Flex-Tarif. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
+Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Bei all inclusive Fitness gibt es einen Flex-Tarif. Urban Sports Club ist monatlich kündbar. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
 
 </details>
 

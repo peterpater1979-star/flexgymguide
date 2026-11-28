@@ -726,6 +726,9 @@
 # Deeplink naar de boekingspagina voor het kostenlose Probetraining (Peter 26-11: mag gepromoot worden, partner).
 /go/fitness-first-de-probetraining/  clickref=:clickref  https://www.awin1.com/cread.php?awinmid=15968&awinaffid=371173&clickref=:clickref&ued=https%3A%2F%2Fwww.fitnessfirst.de%2Fprobetraining  302
 /go/fitness-first-de-probetraining/            https://www.awin1.com/cread.php?awinmid=15968&awinaffid=371173&clickref=fgg-de-fitness-first-probe&ued=https%3A%2F%2Fwww.fitnessfirst.de%2Fprobetraining  302
+# Banner Studentenrabatt (Awin creative 2675763, 336x280)
+/go/fitness-first-de-banner/  clickref=:clickref  https://www.awin1.com/cread.php?s=2675763&v=15968&q=376982&r=371173&clickref=:clickref  302
+/go/fitness-first-de-banner/            https://www.awin1.com/cread.php?s=2675763&v=15968&q=376982&r=371173&clickref=fgg-de-fitness-first-banner  302
 # /go/fitness-first-uk/   clickref=:ref  https://www.awin1.com/cread.php?awinmid=109520&awinaffid=371173&clickref=:ref  302
 
 # Tradeinn via Daisycon (programma TrainInn INT, si=20617, link 1874239, media 442019), goedgekeurd okt 2026.

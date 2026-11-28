@@ -79,6 +79,8 @@ Du wählst eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto
 - **Freihantel und Functional:** Olympic Squat Racks, Kurzhanteln bis 50 Kilo, Kettlebells, Sandbags und Functional Towers. Bei RED gehören dazu die PERFORMANCE, SELECT und RECOVERY AREA.
 - **Wellness:** Sauna und Dampfbad, in vielen BLACK Clubs auch ein Pool. Welche Clubs einen Pool haben, zeigt Fitness First in einer eigenen Übersicht.
 - **Personal Training:** in BLACK Clubs buchbar.
+- **Trainertermin:** Laut Fitness First bekommst du zum Start und danach jedes Halbjahr einen Termin mit einer Trainerin oder einem Trainer, inklusive Trainingsplan.
+- **Kinderbetreuung, Outdoor Training und Pool:** in vielen Clubs. Was dein Club bietet, steht auf seiner Clubseite.
 
 Öffnungszeiten und Ausstattung unterscheiden sich je nach Club. Schau vorher auf die Clubseite bei Fitness First.
 
@@ -92,7 +94,7 @@ Studierende, Schüler:innen und Azubis bis einschließlich 25 Jahre zahlen einen
 
 <h2 id="freunde">Freunde mitbringen</h2>
 
-Du kannst Freunde kostenlos zum Training mitnehmen. Die genauen Regeln stehen auf der Website von Fitness First.
+Du trainierst nicht gern allein? Laut Fitness First kannst du jeden Freitag kostenlos eine Freundin oder einen Freund zum Training mitbringen. Die genauen Regeln stehen auf der Website von Fitness First.
 
 <h2 id="kuendigung">Vertrag und Kündigung</h2>
 
@@ -264,6 +266,11 @@ Noch unsicher? Buch online ein kostenloses Probetraining, einlösbar in allen Fi
 </div>
 
 </div>
+
+<figure class="banner-pub banner-pub-336">
+<figcaption>Anzeige</figcaption>
+<a href="/go/fitness-first-de-banner/?clickref=fgg-de-fitness-first-banner" rel="sponsored nofollow noopener" target="_blank"><img src="https://www.awin1.com/cshow.php?s=2675763&v=15968&q=376982&r=371173" width="336" height="280" loading="lazy" onerror="this.closest('figure').hidden=true" alt="Fitness First Studentenrabatt"></a>
+</figure>
 
 ## Häufige Fragen
 

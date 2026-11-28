@@ -10,7 +10,7 @@ crumb: "Bielefeld"
 kicker: "Stadtguide Bielefeld"
 ---
 
-In Bielefeld trainierst du bei Fitness First in 2 Clubs, dazu gibt es all inclusive Fitness. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
+In Bielefeld trainierst du bei Fitness First in 2 Clubs, dazu gibt es all inclusive Fitness. Außerdem findest du hier Urban Sports Club, EASYFITNESS und Basic-Fit. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -71,6 +71,20 @@ Kurse, Getränke und je nach Studio Sauna inklusive. Flex 49,95 €, mit 23 Mona
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Bielefeld ein, vom Gym bis zum Yoga. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
 <div id="clever-fit" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-clever-fit"><span>Günstige Fitnesskette</span></div>
@@ -85,6 +99,20 @@ clever fit hat in Bielefeld 1 Studio. Preise je nach Studio, oft auch monatlich 
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/clever-fit/">Alles über clever fit</a>
+</div>
+
+</div>
+
+<div id="easyfitness" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-easyfitness"><span>Fitnesskette</span></div>
+
+<h3>EASYFITNESS</h3>
+
+EASYFITNESS hat in Bielefeld ein Studio in der Bahnhofstraße. Ab 27,99 € im Monat je nach Studio und Laufzeit, mit Flex-Tarif monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/easyfitness/">Alles über EASYFITNESS</a>
 </div>
 
 </div>
@@ -121,6 +149,24 @@ FitX hat in Bielefeld 2 Studios: Sieker und Mitte, rund um die Uhr geöffnet. 29
 
 </div>
 
+<div id="basic-fit" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-basic-fit"><span>Günstige Fitnesskette</span></div>
+
+<h3>Basic-Fit</h3>
+
+Basic-Fit hat in Bielefeld einen Club (Südring, rund um die Uhr geöffnet). Ab 24,99 € pro 4 Wochen mit Jahresvertrag, mit Flex ohne lange Bindung 9,99 € mehr.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Tagespass für 11,99 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/basic-fit/">Alles über Basic-Fit</a>
+</div>
+
+</div>
+
 </div>
 
 <p class="klein">Preise von Oktober und November 2026, laut den Anbietern. Prüfe die aktuellen Angaben immer beim Anbieter.</p>
@@ -150,8 +196,10 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 2 Clubs in Bi
 | --- | --- | --- | --- |
 | **[all inclusive Fitness](/de/all-inclusive-fitness/)** | Flex 49,95 €, mit 12 Monaten 39,95 €, mit 23 Monaten 34,95 € (zzgl. Pauschale), plus einmalig 45 € Starterpaket | Flex, 12 oder 23 Monate | 4 Studios: City, Schildesche, Sieker, Brackwede |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio |
+| **[EASYFITNESS](/de/easyfitness/)** | Ab 27,99 € | Flex, 12 oder 24 Monate | 1 Studio: Bahnhofstraße |
 | **[McFit](/de/mcfit/)** | Flex 49,90 €, mit 24 Monaten 24,90 € | Flex, 12 oder 24 Monate | 2 Studios: Bielefeld und Bielefeld Stieghorst |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 2 Studios: Sieker und Mitte |
+| **[Basic-Fit](/de/basic-fit/)** | Ab 24,99 € pro 4 Wochen, Flex 9,99 € mehr | 52 Wochen oder Flex | 1 Club: Südring |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -186,7 +234,7 @@ Fitness First hat Kurse und Sauna, viele Clubs auch mehr. Teste zuerst kostenlos
 <details open>
 <summary>Welche Fitnessstudios in Bielefeld sind monatlich kündbar?</summary>
 
-Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Bei all inclusive Fitness gibt es einen Flex-Tarif. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
+Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Bei all inclusive Fitness gibt es einen Flex-Tarif. Urban Sports Club ist monatlich kündbar. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
 
 </details>
 

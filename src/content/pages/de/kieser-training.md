@@ -69,28 +69,37 @@ Kieser hat 113 Studios in Deutschland, in fast allen größeren Städten. In uns
 | [Stuttgart](/de/stuttgart/) | 2: Mitte, Feuerbach, und 1 in Fellbach |
 
 <details class="meer-steden">
-<summary>Weitere 14 Städte anzeigen</summary>
+<summary>Weitere 23 Städte anzeigen</summary>
 
 | Stadt | Studios |
 | --- | --- |
 | [Augsburg](/de/augsburg/) | 1 |
 | [Bonn](/de/bonn/) | 2, u. a. Bad Godesberg |
+| [Braunschweig](/de/braunschweig/) | 1: Frankfurter Straße |
 | [Bremen](/de/bremen/) | 2: Mitte, Vegesack |
 | [Darmstadt](/de/darmstadt/) | 1: Gräfenhäuser Straße |
 | [Dortmund](/de/dortmund/) | 1: Innenstadt (Hiltropwall) |
 | [Dresden](/de/dresden/) | 2: Gruna, Neustadt |
 | [Duisburg](/de/duisburg/) | 1 |
 | [Essen](/de/essen/) | 2: Rüttenscheid, Zentrum |
+| [Freiburg](/de/freiburg/) | 1: Grünwälderstraße |
 | [Hannover](/de/hannover/) | 2: Calenberger Neustadt, Südstadt |
 | [Karlsruhe](/de/karlsruhe/) | 1 |
+| [Kassel](/de/kassel/) | 1: Garde-du-Corps-Straße |
+| [Magdeburg](/de/magdeburg/) | 1: Breiter Weg |
+| [Mainz](/de/mainz/) | 1: Große Bleiche |
 | [Mannheim](/de/mannheim/) | 1 |
 | [Münster](/de/muenster/) | 1 |
 | [Nürnberg](/de/nuernberg/) | 2: Gleißhammer, Rosenau |
+| [Potsdam](/de/potsdam/) | 2: Babelsberg, Nedlitz |
+| [Saarbrücken](/de/saarbruecken/) | 1: Käthe-Kollwitz-Straße |
+| [Trier](/de/trier/) | 1: Herzogenbuscher Straße |
 | [Wiesbaden](/de/wiesbaden/) | 1: Biebrich |
+| [Würzburg](/de/wuerzburg/) | 1: Zeller Straße |
 
 </details>
 
-Weitere Studios gibt es unter anderem in Freiburg und Potsdam. In Österreich und der Schweiz lies [Kieser in Österreich](/at/kieser-training/) und [Kieser in der Schweiz](/ch/kieser-training/).
+In Österreich und der Schweiz lies [Kieser in Österreich](/at/kieser-training/) und [Kieser in der Schweiz](/ch/kieser-training/).
 
 <h2 id="kuendigen">Kündigen</h2>
 

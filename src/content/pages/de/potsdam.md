@@ -10,7 +10,7 @@ crumb: "Potsdam"
 kicker: "Stadtguide Potsdam"
 ---
 
-In Potsdam trainierst du bei Fitness First in 1 Club, dazu gibt es Kieser. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
+In Potsdam trainierst du bei Fitness First in 1 Club, dazu gibt es Kieser. Außerdem findest du hier Urban Sports Club und JOHN REED. Wie du ohne langen Vertrag flexibel bleibst, zeigt dieser Überblick. Hier siehst du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -53,13 +53,45 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Potsdam ist das Angebot 
 
 </div>
 
+<div id="urban-sports-club" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-urban-sports"><span>Sportpass mit Festpreis</span></div>
+
+<h3>Urban Sports Club</h3>
+
+Sportpass mit festem Monatspreis: Du checkst in Partnerstudios in Potsdam ein, vom Gym bis zum Yoga. Monatlich kündbar.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
+</div>
+
+</div>
+
+<div id="john-reed" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-john-reed"><span>Fitnessclub</span></div>
+
+<h3>JOHN REED</h3>
+
+JOHN REED hat in Potsdam einen Club (Breite Straße), mit Design, Musik und Kursen. Flex 60 bis 80 € im Monat je nach Club, McFit-Studios inklusive.
+
+<div class="infoblok kort">
+<p class="proef"><span aria-hidden="true">✓</span> Day Pass ab 15 €</p>
+</div>
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/john-reed/">Alles über JOHN REED</a>
+</div>
+
+</div>
+
 <div id="kieser-training" class="kolom kaart aanbiederkaart">
 
 <div class="fotokop foto-kieser"><span>Krafttraining</span></div>
 
 <h3>Kieser</h3>
 
-Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. Es gibt ein Studio in Potsdam.
+Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. Es gibt 2 Studios in Potsdam: Babelsberg und Nedlitz.
 
 <div class="infoblok kort">
 <p class="proef"><span aria-hidden="true">✓</span> Kostenloses Probetraining</p>
@@ -97,7 +129,8 @@ Bei Fitness First trainierst du in 217 Clubs in Deutschland, davon 1 Club in Pot
 
 | Anbieter | Preis pro Monat | Laufzeit | In Potsdam |
 | --- | --- | --- | --- |
-| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |
+| **[JOHN REED](/de/john-reed/)** | Flex 60 bis 80 € je nach Club | Flex, 12 oder 24 Monate | 1 Club: Breite Straße |
+| **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 2 Studios: Babelsberg und Nedlitz |
 
 <p class="klein">Preise von November 2026, laut den Websites der Anbieter. Prüfe den aktuellen Preis immer beim Anbieter.</p>
 
@@ -132,7 +165,7 @@ Fitness First hat Kurse und Sauna, viele Clubs auch mehr. Teste zuerst kostenlos
 <details open>
 <summary>Welche Fitnessstudios in Potsdam sind monatlich kündbar?</summary>
 
-Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
+Bei Fitness First wählst du eine Laufzeit von 24, 12 oder 1 Monat. Je kürzer die Laufzeit, desto höher der Wochenpreis. Urban Sports Club ist monatlich kündbar. Mehr dazu unter [Fitnessstudio ohne Vertrag](/de/fitnessstudio-ohne-vertrag/).
 
 </details>
 

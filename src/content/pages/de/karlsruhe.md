@@ -10,7 +10,7 @@ crumb: "Karlsruhe"
 kicker: "Stadtguide Karlsruhe"
 ---
 
-In Karlsruhe trainierst du flexibel mit Urban Sports Club oder ClassPass, mit dem es hier vor allem Pilates und Yoga gibt. Bei den Ketten sind FitX, clever fit und Kieser vertreten. Hier siehst du, was zu dir passt.
+In Karlsruhe trainierst du flexibel mit Urban Sports Club oder ClassPass, mit dem es hier vor allem Pilates und Yoga gibt. Bei den Ketten sind FitX, clever fit und Kieser vertreten, dazu Mrs.Sporty für Frauen in der Weststadt. Hier siehst du, was zu dir passt.
 
 <h2 id="blick">Auf einen Blick</h2>
 
@@ -27,6 +27,20 @@ Ein Abo auf Credit-Basis für Kurse und Gym-Besuche. In Karlsruhe gibt es vor al
 <div class="knoppen">
 <a class="knop knop-affiliate" href="/go/classpass-de/?epi=fgg-de-karlsruhe">Teste 1 Monat gratis mit 10 Workouts</a>
 <a class="knop knop-rand" href="/de/classpass/">ClassPass ansehen</a>
+</div>
+
+</div>
+
+<div id="mrs-sporty" class="kolom kaart aanbiederkaart">
+
+<div class="fotokop foto-mrs-sporty"><span>Nur für Frauen</span></div>
+
+<h3>Mrs.Sporty</h3>
+
+Mrs.Sporty ist ein Fitnessstudio nur für Frauen, mit einem Club in Karlsruhe (Weststadt). 30 Minuten Training, zwei- bis dreimal pro Woche. Die Preise legt jeder Club selbst fest.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/mrs-sporty/">Alles über Mrs.Sporty</a>
 </div>
 
 </div>
@@ -107,6 +121,7 @@ Betreutes Krafttraining an Maschinen, zweimal pro Woche 30 Minuten. In Karlsruhe
 
 | Anbieter | Preis pro Monat | Laufzeit | In Karlsruhe |
 | --- | --- | --- | --- |
+| **[Mrs.Sporty](/de/mrs-sporty/)** | Je nach Club | Je nach Club | 1 Club: Weststadt |
 | **[clever fit](/de/clever-fit/)** | Je nach Studio | Meist monatlich kündbar oder 6 bis 24 Monate | 1 Studio: Zeppelinstraße |
 | **[FitX](/de/fitx/)** | 29 €, plus 29 € Anmeldegebühr | Monatlich kündbar | 1 Studio: Oststadt |
 | **[Kieser](/de/kieser-training/)** | 89 € mit 12 Monaten, 69 € mit 24 Monaten, plus Einführung ab 199 € (je nach Studio) | 12 oder 24 Monate | 1 Studio |

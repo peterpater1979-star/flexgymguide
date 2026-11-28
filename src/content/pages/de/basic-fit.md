@@ -89,12 +89,15 @@ Basic-Fit hat Clubs in diesen Städten aus unserem Ratgeber:
 - [Stuttgart](/de/stuttgart/#basic-fit)
 
 <details class="meer-steden">
-<summary>Weitere 4 Städte anzeigen</summary>
+<summary>Weitere 7 Städte anzeigen</summary>
 
+- [Bielefeld](/de/bielefeld/#basic-fit): Südring
 - [Bochum](/de/bochum/#basic-fit)
 - [Bremen](/de/bremen/#basic-fit)
 - [Dortmund](/de/dortmund/#basic-fit)
 - [Essen](/de/essen/#basic-fit)
+- [Freiburg](/de/freiburg/#basic-fit): Zita-Kaiser-Straße
+- [Trier](/de/trier/#basic-fit): Über Brücken
 
 </details>
 
