@@ -272,3 +272,6 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .prose h3.steden-kop { margin: 1.25rem 0 .25rem; font-size: 1rem; }
 .stedenlijst-kort { grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); }
 .stedenlijst-kort li { padding: .35rem 0; }
+/* Voorstel Basic-Fit-tegelfoto's (alleen voor de testpagina) */
+.foto-basic-fit-voorstel-1 { --foto: url(/img/foto/basic-fit-voorstel-1.jpg); }
+.foto-basic-fit-voorstel-3 { --foto: url(/img/foto/basic-fit-voorstel-3.jpg); }
