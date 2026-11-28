@@ -272,7 +272,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .prose h3.steden-kop { margin: 1.25rem 0 .25rem; font-size: 1rem; }
 .stedenlijst-kort { grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); }
 .stedenlijst-kort li { padding: .35rem 0; }
-/* McFIT: tegel en opzegpagina = sledebaan, aanbiederpagina = krachtruimte (persfoto's RSG Group, credit "RSG Group") */
+/* McFIT: tegel en opzegpagina = sledebaan, aanbiederpagina: sledebaan eerst, dan krachtruimte (persfoto's RSG Group, credit "RSG Group") */
 .foto-mcfit-pagina { --foto: url(/img/foto/mcfit-pagina.jpg); }
 .fotokop.foto-mcfit { position: relative; }
 .fotokop.foto-mcfit::after { content: "Foto: RSG Group"; position: absolute; top: .5rem; right: .75rem; font-size: .68rem; font-weight: 400; letter-spacing: 0; opacity: .85; }
