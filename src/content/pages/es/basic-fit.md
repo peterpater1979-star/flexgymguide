@@ -11,7 +11,8 @@ kicker: "Proveedor: gimnasio económico"
 zoekwoorden: "basic fit sin permanencia, basic fit flex, mcfit españa"
 ---
 
-<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Gimnasio"></div>
+<div class="fotobanner smal foto-basic-fit-pagina" role="img" aria-label="Gimnasio"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 Basic-Fit es una cadena de gimnasios económica con clubes en toda España. Basic-Fit también tiene clubes en Francia, Bélgica, Países Bajos, Luxemburgo y Alemania. Eliges una cuota (Comfort, Premium o Ultimate), con contrato anual o con Flex, sin permanencia.
 
@@ -41,6 +42,9 @@ Los antiguos gimnasios McFit en España ahora son de Basic-Fit. Si eras socio de
 Precios cada 4 semanas. El contrato anual dura al menos 52 semanas; después te das de baja con 4 semanas de preaviso. La oferta de bienvenida no se aplica a Flex.
 
 **¿Basic-Fit sin permanencia o con contrato anual?** Con Flex pagas unos 5 € más cada 4 semanas, unos 65 € más al año, pero puedes dejarlo cuando quieras con 4 semanas de preaviso. Si vas a entrenar menos de un año, o no sabes cuánto tiempo te quedas en la ciudad, Flex suele salir mejor.
+
+<div class="fotobanner smal foto-basic-fit-pagina-2" role="img" aria-label="Gimnasio"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 <h2 id="pausar">Pausar y darse de baja</h2>
 

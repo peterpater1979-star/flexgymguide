@@ -10,7 +10,8 @@ crumb: "Basic-Fit"
 kicker: "Anbieter: Fitnesskette"
 ---
 
-<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Fitnessstudio"></div>
+<div class="fotobanner smal foto-basic-fit-pagina" role="img" aria-label="Fitnessstudio"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 Basic-Fit ist eine günstige Fitnesskette aus den Niederlanden mit fast 100 Clubs in Deutschland und über 1.700 in Europa. Neben Deutschland gibt es Clubs in den Niederlanden, Belgien, Luxemburg, Frankreich und Spanien. Viele Clubs sind rund um die Uhr geöffnet. Du wählst eine Mitgliedschaft (Comfort, Premium oder Ultimate) und dann, ob du dich für ein Jahr bindest oder mit Flex jederzeit aufhören kannst.
 
@@ -53,6 +54,9 @@ Preise pro 4 Wochen. Du zahlst alle vier Wochen im Voraus, also 13 Mal im Jahr.
 | **Pausieren** | 2,99 € extra pro 4 Wochen | 2,99 € extra pro 4 Wochen | <span class="ja" aria-hidden="true">✓</span> |
 
 Bei allen Mitgliedschaften sind die Basic-Fit-App mit Workouts, Video-Workouts im Club und Live-Kurse in den Clubs dabei, die sie anbieten. Die Angaben auf der Preisseite von Basic-Fit sind nicht überall gleich; im Zweifel gelten die AGB.
+
+<div class="fotobanner smal foto-basic-fit-pagina-2" role="img" aria-label="Fitnessstudio"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 <h2 id="jahr-oder-flex">Jahresvertrag oder Flex</h2>
 

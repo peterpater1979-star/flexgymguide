@@ -10,7 +10,8 @@ crumb: "Basic-Fit"
 kicker: "Fournisseur : salle à petit prix"
 ---
 
-<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Salle de sport"></div>
+<div class="fotobanner smal foto-basic-fit-pagina" role="img" aria-label="Salle de sport"></div>
+<p class="klein">Photo: Basic-Fit</p>
 
 Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en France, souvent ouverts 24h/24. Basic-Fit a aussi des clubs en Belgique, au Luxembourg, aux Pays-Bas, en Espagne et en Allemagne. Tu choisis une formule (Comfort, Premium ou Ultimate), avec un engagement d’un an ou en Flex, sans engagement.
 
@@ -37,6 +38,9 @@ Basic-Fit est une chaîne de salles à petit prix, avec plus de 300 clubs en Fra
 | **Ultimate** | 34,99 € | 44,98 € | Tous les clubs de 6 pays, invités illimités, Yanga Sports Water, gel inclus |
 
 Prix toutes les 4 semaines. L’abonnement d’un an t’engage pour 52 semaines, puis tu résilies avec 4 semaines de préavis. Les offres de bienvenue ne s’appliquent pas à Flex.
+
+<div class="fotobanner smal foto-basic-fit-pagina-2" role="img" aria-label="Salle de sport"></div>
+<p class="klein">Photo: Basic-Fit</p>
 
 <h2 id="pause">Mettre en pause et résilier</h2>
 

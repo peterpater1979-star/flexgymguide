@@ -10,7 +10,8 @@ crumb: "Basic-Fit"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
-<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-basic-fit-pagina" role="img" aria-label="Sportschool"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 Basic-Fit is een voordelige sportschoolketen met clubs in heel Nederland en in België, Luxemburg, Frankrijk, Spanje en Duitsland. Veel clubs zijn dag en nacht open. Je kiest een formule (Basic-Fit noemt het een lidmaatschap): Comfort, Premium of Ultimate. Daarna kies je of je een jaar vastzit of met Flex elke maand kunt stoppen.
 
@@ -36,6 +37,9 @@ Basic-Fit is een voordelige sportschoolketen met clubs in heel Nederland en in B
 | **Ultimate** | € 34,99 | € 44,98 | Alle clubs in 6 landen, altijd een vriend(in) mee, massagestoelen, Yanga Sports Water, gratis pauzeren |
 
 Prijzen per 4 weken. Je betaalt elke 4 weken vooraf, dus 13 keer per jaar. Bij elke formule horen de Basic-Fit-app met workouts, video-workouts in de club en live groepslessen in clubs die ze geven.
+
+<div class="fotobanner smal foto-basic-fit-pagina-2" role="img" aria-label="Sportschool"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 <h2 id="jaar-of-flex">Jaarabonnement of Flex</h2>
 

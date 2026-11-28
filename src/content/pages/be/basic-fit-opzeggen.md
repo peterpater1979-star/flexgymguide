@@ -10,7 +10,8 @@ crumb: "Basic-Fit opzeggen"
 kicker: "Gids"
 ---
 
-<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-basic-fit-pagina-2" role="img" aria-label="Sportschool"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 Je zegt Basic-Fit in België op via My Basic-Fit, met een opzegtermijn van 4 weken. Met een jaarabonnement loopt eerst de minimale looptijd van 52 weken af. Met Flex zeg je op elk moment op.
 

@@ -9,7 +9,8 @@ crumb: "Basic-Fit"
 kicker: "Aanbieder: sportschoolketen"
 ---
 
-<div class="fotobanner smal foto-basic-fit" role="img" aria-label="Sportschool"></div>
+<div class="fotobanner smal foto-basic-fit-pagina" role="img" aria-label="Sportschool"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 Basic-Fit heeft meer dan 230 clubs in België, waarvan meer dan 170 dag en nacht open. Basic-Fit zit ook in Nederland, Luxemburg, Frankrijk, Spanje en Duitsland. Je kiest een abonnement (Comfort, Premium of Ultimate) en of je een jaar vastzit of met Flex nergens aan vastzit.
 
@@ -35,6 +36,9 @@ Basic-Fit heeft meer dan 230 clubs in België, waarvan meer dan 170 dag en nacht
 | **Ultimate** | € 34,99 | € 44,98 | Alle clubs in 6 landen, onbeperkt gasten, sportwater, gratis pauzeren |
 
 Prijzen per 4 weken. Inschrijfkosten bij een jaarabonnement: € 19,99 (Comfort), € 9,99 (Premium) of € 4,99 (Ultimate); bij Flex altijd € 19,99. Een jaarabonnement loopt minimaal 52 weken; daarna zeg je op met 4 weken opzegtermijn. Tot 5 november 2026 krijg je bij een jaarabonnement 4 weken gratis.
+
+<div class="fotobanner smal foto-basic-fit-pagina-2" role="img" aria-label="Sportschool"></div>
+<p class="klein">Foto: Basic-Fit</p>
 
 <h2 id="pauzeren">Pauzeren en opzeggen</h2>
 
