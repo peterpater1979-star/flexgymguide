@@ -10,7 +10,8 @@ crumb: "FitX kündigen"
 kicker: "Guide"
 ---
 
-<div class="fotobanner smal foto-fitx" role="img" aria-label="Fitnessstudio"></div>
+<div class="fotobanner smal foto-fitx-opzeggen" role="img" aria-label="Fitnessstudio"></div>
+<p class="klein">Foto: FitX</p>
 
 Du kündigst FitX in Textform oder in der FitX-App. Neue Verträge haben keine Mindestlaufzeit von 12 Monaten: Du kannst jederzeit mit einem Monat Frist kündigen.
 

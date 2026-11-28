@@ -10,7 +10,8 @@ crumb: "FitX"
 kicker: "Anbieter: Fitnesskette"
 ---
 
-<div class="fotobanner smal foto-fitx" role="img" aria-label="Fitnessstudio"></div>
+<div class="fotobanner smal foto-fitx-pagina" role="img" aria-label="Fitnessstudio"></div>
+<p class="klein">Foto: FitX</p>
 
 FitX ist eine günstige Fitnesskette mit 115 Studios in Deutschland. Es gibt nur eine Mitgliedschaft, und die gilt in allen Studios. Die Studios sind rund um die Uhr geöffnet, und Kurse mit Coaches sind im Preis enthalten.
 
@@ -50,6 +51,9 @@ Im ersten Monat zahlst du also 58 € (29 € plus Anmeldegebühr), danach 29 �
 - Meist kostenlose Parkplätze (nicht in Berlin-Mitte und München-Lenbachplatz)
 
 <p class="klein">Quelle: <a href="https://www.fitx.de/mitgliedschaft">fitx.de/mitgliedschaft</a> (November 2026).</p>
+
+<div class="fotobanner smal foto-fitx-pagina-2" role="img" aria-label="Fitnessstudio"></div>
+<p class="klein">Foto: FitX</p>
 
 <h2 id="ausprobieren">Ausprobieren, Alter und Pause</h2>
 
