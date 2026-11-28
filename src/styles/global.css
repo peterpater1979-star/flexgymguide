@@ -231,6 +231,7 @@ form button { margin-top: 1rem; font: inherit; cursor: pointer; }
 .banner-pub figcaption { font-size: .75rem; color: var(--muted, #666); margin-bottom: .25rem; }
 .banner-pub img { display: block; width: 100%; height: auto; border-radius: var(--radius); }
 .banner-pub-klein { max-width: 300px; }
+.banner-pub-336 { max-width: 336px; }
 .tips-banner { display: flex; flex-direction: column; }
 .tips-banner > .banner-pub { order: -1; }
 @media (min-width: 900px) {
