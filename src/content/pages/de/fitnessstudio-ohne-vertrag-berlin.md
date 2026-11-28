@@ -2,7 +2,7 @@
 title: "Fitnessstudio ohne Vertrag in Berlin: monatlich kündbar trainieren"
 seoTitle: "Fitnessstudio ohne Vertrag in Berlin: monatlich kündbar"
 path: "/de/fitnessstudio-ohne-vertrag-berlin/"
-description: "Fitnessstudio in Berlin ohne Mindestlaufzeit: ClassPass, Fitness First, McFit Flex und Einzelstunden. Was es kostet und wie du kündigst."
+description: "Fitnessstudio in Berlin ohne Mindestlaufzeit: ClassPass, Fitness First, Urban Sports Club, McFit Flex und Einzelstunden. Was es kostet und wie du kündigst."
 lang: de
 land: de
 byline: "Aktualisiert im November 2026"
@@ -20,6 +20,7 @@ Neu in Berlin, nur für ein Semester hier oder einfach keine Lust auf zwei Jahre
 | --- | --- | --- | --- |
 | **ClassPass** | Jederzeit, ohne Kündigungsfrist | Standardabo 42 Credits für 59 € im Monat; kleinere in der App | Abwechslung in Studios in der ganzen Stadt |
 | **Fitness First** | Monatlich | 12,90 € bis 26,90 € pro Woche, je nach Club und Tarif, plus Startgebühr und Trainingspaket | Premium-Studio mit Kursen und Wellness |
+| **Urban Sports Club** | Monatlich kündbar | Fester Preis pro Monat, je nach Mitgliedschaft | Gym, Kurse und andere Sportarten mit einem Pass |
 | **McFit Flex** | Monatlich | 49,90 € im Monat, im ersten Monat 88,90 € | Günstig und oft trainieren |
 | **Einzelstunde oder 10er-Karte** | Nicht nötig | Je nach Studio | Ab und zu ein Kurs in deinem Lieblingsstudio |
 
@@ -56,6 +57,14 @@ Ohne Mindestlaufzeit kommen eine Startgebühr und ein Trainingspaket dazu; wie R
 
 <div class="knoppen">
 <a class="knop knop-rand" href="/de/fitness-first/">Alles über Fitness First</a>
+</div>
+
+<h2 id="urban-sports-club">Urban Sports Club: monatlich kündbar</h2>
+
+Urban Sports Club gibt es auch in Berlin. Mit einem festen Preis pro Monat checkst du in Partnerstudios ein, je nach Mitgliedschaft fürs Gym, für Kurse oder andere Sportarten. Die monatliche Mitgliedschaft kündigst du monatlich.
+
+<div class="knoppen">
+<a class="knop knop-rand" href="/de/urban-sports-club/">Alles über Urban Sports Club</a>
 </div>
 
 <h2 id="mcfit">McFit Flex: monatlich kündbar</h2>
